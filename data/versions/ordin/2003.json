@@ -10623,6 +10623,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-1155-2003",
+   "path": "ordin/finante/2003/1155",
+   "short": "Ordin finante nr. 1155/2003",
+   "title": "Ordinul nr. 1.155/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45924",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45924",
+     "sha256": "54602f9da9ab7c98930d302125fdb4d1d93f23c1114072f2031bcb4d7d2ca68b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1157-2003",
+   "path": "ordin/finante/2003/1157",
+   "short": "Ordin finante nr. 1157/2003",
+   "title": "Ordinul nr. 1.157/2003 privind aprobarea prospectelor de emisiune ale certificatelor de trezorerie cu discont și obligațiunilor de stat cu dobânda, aferente lunii septembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45929",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45929",
+     "sha256": "01f9a4c14b5ed8204bec64d3c97e8ecffbde49ed6f68d3129d64555ac33fe3a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-116-2003",
+   "path": "ordin/finante/2003/116",
+   "short": "Ordin finante nr. 116/2003",
+   "title": "Ordinul nr. 116/2003 pentru aprobarea prospectelor de emisiune ale certificatelor de trezorerie cu discont și obligațiunilor de stat cu dobânda, aferente lunii februarie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41725",
+   "versions": [
+    {
+     "from": "2003-02-12",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41725",
+     "sha256": "8112a31455ef25487a7870ea633944848858b572e4225de3e9bda379cae7482e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1166-2003",
    "path": "ordin/finante/2003/1166",
    "short": "Ordin finante nr. 1166/2003",
@@ -10758,6 +10803,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1302-2003",
+   "path": "ordin/finante/2003/1302",
+   "short": "Ordin finante nr. 1302/2003",
+   "title": "Ordinul nr. 1.302/2003 pentru aprobarea prospectelor de emisiune ale certificatelor de trezorerie cu discont în suma de 2.600 miliarde lei și ale obligațiunilor de stat cu dobânda în suma de 1.400 miliarde lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46612",
+   "versions": [
+    {
+     "from": "2003-10-02",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46612",
+     "sha256": "cdddc38e493767e7764eb33846e5d2916622dd3e01a474beef190e363a693e2e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1388-2003",
    "path": "ordin/finante/2003/1388",
    "short": "Ordin finante nr. 1388/2003",
@@ -10833,6 +10893,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1429-2003",
+   "path": "ordin/finante/2003/1429",
+   "short": "Ordin finante nr. 1429/2003",
+   "title": "Ordinul nr. 1.429/2003 privind prospectul de emisiune al obligațiunilor de stat cu dobânda indexata cu indicele prețurilor de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47026",
+   "versions": [
+    {
+     "from": "2003-10-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47026",
+     "sha256": "bcccf2481c4ab17d944aea8474a8b676eac681b0926006130e7ff2b3b0039803"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-143-2003",
    "path": "ordin/finante/2003/143",
    "short": "Ordin finante nr. 143/2003",
@@ -10863,6 +10938,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1479-2003",
+   "path": "ordin/finante/2003/1479",
+   "short": "Ordin finante nr. 1479/2003",
+   "title": "Ordinul nr. 1.479/2003 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobânda, aferente lunii noiembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47376",
+   "versions": [
+    {
+     "from": "2003-11-03",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47376",
+     "sha256": "1fb4b93b67f126679e31859da5fb6ef760d80fe48ed65f1362bce53066b166ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1480-2003",
+   "path": "ordin/finante/2003/1480",
+   "short": "Ordin finante nr. 1480/2003",
+   "title": "Ordinul nr. 1.480/2003 privind modificarea prospectului de emisiune al obligațiunilor de stat cu dobânda indexata cu indicele prețurilor de consum, aprobat prin Ordinul ministrului finanțelor publice nr. 1.429/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47379",
+   "versions": [
+    {
+     "from": "2003-11-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47379",
+     "sha256": "d1ac01f08ff0aed0bb59014df4b93c6127ef05cfdb4fff9e0ea84edb8592bbed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1487-2003",
    "path": "ordin/finante/2003/1487",
    "short": "Ordin finante nr. 1487/2003",
@@ -10874,6 +10979,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47558",
      "sha256": "9fe62e283a46359368a9f8f590b3e70977de75f383f664f29d42c25e6663c476"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1491-2003",
+   "path": "ordin/finante/2003/1491",
+   "short": "Ordin finante nr. 1491/2003",
+   "title": "Ordinul nr. 1.491/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1076",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47430",
+   "versions": [
+    {
+     "from": "2003-11-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47430",
+     "sha256": "d01fbc52793cd687c818cfa876640f94ed4c944aaca028cd26c406619c50c487"
     }
    ]
   },
@@ -10923,6 +11043,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1581-2003",
+   "path": "ordin/finante/2003/1581",
+   "short": "Ordin finante nr. 1581/2003",
+   "title": "Ordinul nr. 1.581/2003 privind constituirea Comisiei centrale fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48148",
+   "versions": [
+    {
+     "from": "2003-12-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48148",
+     "sha256": "cac355b8cab5cf75f56b89661b47e67bc3393df23c32be98387216eadace3e4b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1627-2003",
    "path": "ordin/finante/2003/1627",
    "short": "Ordin finante nr. 1627/2003",
@@ -10949,6 +11084,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48140",
      "sha256": "71f72c223b338978a2d954ae700043a62d8f1e8c265ec77986ba0ba5869897a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1659-2003",
+   "path": "ordin/finante/2003/1659",
+   "short": "Ordin finante nr. 1659/2003",
+   "title": "Ordinul nr. 1.659/2003 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente lunii decembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48154",
+   "versions": [
+    {
+     "from": "2003-12-03",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48154",
+     "sha256": "7c66b7c35349bf3d6e76ab270d76b7e50124d740d07cf741fefcbf0d6254f11b"
     }
    ]
   },
@@ -11028,6 +11178,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-172-2003",
+   "path": "ordin/finante/2003/172",
+   "short": "Ordin finante nr. 172/2003",
+   "title": "Ordinul nr. 172/2003 privind prospectul de emisiune al certificatelor de trezorerie pentru populație cod 1071",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41699",
+   "versions": [
+    {
+     "from": "2003-02-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41699",
+     "sha256": "afb69d08a3402001e24cfd9d0051b51cbafe14de072029d8af55cdd1b541f294"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1746-2003",
    "path": "ordin/finante/2003/1746",
    "short": "Ordin finante nr. 1746/2003",
@@ -11069,6 +11234,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48658",
      "sha256": "93f36e6cf2f4a65108f3ffa9c59e00ba244e20eda8f9cbbbab3d03a7436771c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-176-2003",
+   "path": "ordin/finante/2003/176",
+   "short": "Ordin finante nr. 176/2003",
+   "title": "Ordinul nr. 176/2003 privind prospectul de emisiune al certificatelor de trezorerie pentru populație cod 1072",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41700",
+   "versions": [
+    {
+     "from": "2003-02-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41700",
+     "sha256": "2350b1eac4bd8e168f458810270ba79be2ef1d9bdc13bb47cb6e112f06787495"
     }
    ]
   },
@@ -11159,6 +11339,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48875",
      "sha256": "d0110651d599c2a379de4789ade6344d75ac6c417296d6de1d91d9802dc55278"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1824-2003",
+   "path": "ordin/finante/2003/1824",
+   "short": "Ordin finante nr. 1824/2003",
+   "title": "Ordinul nr. 1.824/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobândă pentru populație cod 1078",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48857",
+   "versions": [
+    {
+     "from": "2003-12-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48857",
+     "sha256": "a6a3b5f7f724f710f9d5c7a1455d37651f4bd92d808eff5f3ecf3ddd67075fea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1825-2003",
+   "path": "ordin/finante/2003/1825",
+   "short": "Ordin finante nr. 1825/2003",
+   "title": "Ordinul nr. 1.825/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobândă pentru populație cod 1079",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48861",
+   "versions": [
+    {
+     "from": "2003-12-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48861",
+     "sha256": "eb78a02ff4f96a56e65024e9e0921b0b0e3e46c5c33bcd9b7cc65b1d3229ff09"
     }
    ]
   },
@@ -11358,6 +11568,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1862-2003",
+   "path": "ordin/finante/2003/1862",
+   "short": "Ordin finante nr. 1862/2003",
+   "title": "Ordinul nr. 1.862/2003 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și obligațiunilor de stat cu dobândă, aferente lunii ianuarie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48974",
+   "versions": [
+    {
+     "from": "2004-01-06",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48974",
+     "sha256": "74785c9bf8a796cf0a7c2608cdb1f61b7eb881ad99d4b1e39b6d4a3c78341245"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-188-2003",
    "path": "ordin/finante/2003/188",
    "short": "Ordin finante nr. 188/2003",
@@ -11448,6 +11673,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-213-2003",
+   "path": "ordin/finante/2003/213",
+   "short": "Ordin finante nr. 213/2003",
+   "title": "Ordinul nr. 213/2003 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobânda, aferente lunii martie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42054",
+   "versions": [
+    {
+     "from": "2003-02-28",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42054",
+     "sha256": "c1b4078d5f2dd6924321fccdc6980b07e01c435cf7ebbd895a6f43d65f4aa450"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-220-2003",
+   "path": "ordin/finante/2003/220",
+   "short": "Ordin finante nr. 220/2003",
+   "title": "Ordinul nr. 220/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1073",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42108",
+   "versions": [
+    {
+     "from": "2003-03-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42108",
+     "sha256": "57ef90bb2989859a05d4d323479b364cff60414c142e6f09cfd7506127953fb0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-29-2003",
    "path": "ordin/finante/2003/29",
    "short": "Ordin finante nr. 29/2003",
@@ -11459,6 +11714,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41458",
      "sha256": "417d79ce655ee7f57ea1afb5e5e2ce033929637abe16577eb70fc0f22a81c669"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3-2003",
+   "path": "ordin/finante/2003/3",
+   "short": "Ordin finante nr. 3/2003",
+   "title": "Ordinul nr. 3/2003 privind organizarea activității de administrare a marilor contribuabili din municipiul București și județul Ilfov în cadrul Direcției generale de administrare a marilor contribuabili din municipiul București și din județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41230",
+   "versions": [
+    {
+     "from": "2003-01-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41230",
+     "sha256": "6ad5fdba5670ab83f683ad2381ebe4b926ec308deb763d44c37f84e5e78c3cd5"
     }
    ]
   },
@@ -11643,6 +11913,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-450-2003",
+   "path": "ordin/finante/2003/450",
+   "short": "Ordin finante nr. 450/2003",
+   "title": "Ordinul nr. 450/2003 privind prospectul de emisiune al obligațiunilor de stat cu dobânda în valută, seria VAL 1 USD 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43008",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43008",
+     "sha256": "b2a5faa4782a36990cc101bf8a90a17e5cd33848be1d850373a5e01aa6c873a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-454-2003",
    "path": "ordin/finante/2003/454",
    "short": "Ordin finante nr. 454/2003",
@@ -11748,6 +12033,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-512-2003",
+   "path": "ordin/finante/2003/512",
+   "short": "Ordin finante nr. 512/2003",
+   "title": "Ordinul nr. 512/2003 pentru modificarea și completarea Ordinului ministrului finanțelor publice nr. 3/2003 privind organizarea activității de administrare a marilor contribuabili din municipiul București și județul Ilfov în cadrul Direcției generale de administrare a marilor contribuabili din municipiul București și din județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43250",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43250",
+     "sha256": "bc23f6b63a684223e130d2adeff5ae0655ce1183d63e318cf584284bd9fadc0c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-52-2003",
    "path": "ordin/finante/2003/52",
    "short": "Ordin finante nr. 52/2003",
@@ -11823,6 +12123,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-547-2003",
+   "path": "ordin/finante/2003/547",
+   "short": "Ordin finante nr. 547/2003",
+   "title": "Ordinul nr. 547/2003 privind prospectul de emisiune al obligațiunilor de stat cu dobânda în valută, seria VAL 2 USD 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43342",
+   "versions": [
+    {
+     "from": "2003-04-22",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43342",
+     "sha256": "fe0101693ee0756e1e787331961a674c0c1cfcfb041dfb15328ead6d307c4a91"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-550-2003",
    "path": "ordin/finante/2003/550",
    "short": "Ordin finante nr. 550/2003",
@@ -11879,6 +12194,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43427",
      "sha256": "8e4da333394969997d812f2f23f2691c3d252fed183c65aa92163c94e91c92f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-556-2003",
+   "path": "ordin/finante/2003/556",
+   "short": "Ordin finante nr. 556/2003",
+   "title": "Ordinul nr. 556/2003 pentru aprobarea prospectelor de emisiune ale certificatelor de trezorerie cu discont în suma totală de 5.700,0 miliarde lei și obligațiunilor de stat cu dobânda în suma totală de 3.400,0 miliarde lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43456",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43456",
+     "sha256": "097a7650fb8a44ae32f5d776c3947a8a069d217d18ecb7b18b3f5d1ab5902d5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-557-2003",
+   "path": "ordin/finante/2003/557",
+   "short": "Ordin finante nr. 557/2003",
+   "title": "Ordinul nr. 557/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1075",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43567",
+   "versions": [
+    {
+     "from": "2003-05-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43567",
+     "sha256": "37934619c18530f18441b3d8341058647d08c1b60aae616b49454e13bf133064"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-558-2003",
+   "path": "ordin/finante/2003/558",
+   "short": "Ordin finante nr. 558/2003",
+   "title": "Ordinul nr. 558/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1074",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43603",
+   "versions": [
+    {
+     "from": "2003-05-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43603",
+     "sha256": "3322ab654132ae30ec99aca064b911d3fccde614399c99d8f37be3d93be5bdcb"
     }
    ]
   },
@@ -11988,6 +12348,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-675-2003",
+   "path": "ordin/finante/2003/675",
+   "short": "Ordin finante nr. 675/2003",
+   "title": "Ordinul nr. 675/2003 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobânda, aferente lunii iunie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44073",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44073",
+     "sha256": "bc467a17080b456b75a1b4e6cea1087b34983b3dc328a47c8dfc950edbc8a822"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-676-2003",
+   "path": "ordin/finante/2003/676",
+   "short": "Ordin finante nr. 676/2003",
+   "title": "Ordinul nr. 676/2003 pentru prelungirea aplicabilității Ordinului ministrului finanțelor publice nr. 557/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1075",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44074",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44074",
+     "sha256": "c4cf3a1be6457ce9bfc107008cc016aed4c9f0798bad4523a30f32fa6d89f042"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-677-2003",
+   "path": "ordin/finante/2003/677",
+   "short": "Ordin finante nr. 677/2003",
+   "title": "Ordinul nr. 677/2003 pentru prelungirea aplicabilității Ordinului ministrului finanțelor publice nr. 558/2003 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1074",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44075",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44075",
+     "sha256": "1e72e0b35e7f22cd21270d9f3d83999960c28d7f583a425db45e95e30dc56b9f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-705-2003",
    "path": "ordin/finante/2003/705",
    "short": "Ordin finante nr. 705/2003",
@@ -11999,6 +12404,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44224",
      "sha256": "a682d9dba8ecd56d2fddf311bd7bc8c3695416d07d63a79882a2f16a9170476a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-753-2003",
+   "path": "ordin/finante/2003/753",
+   "short": "Ordin finante nr. 753/2003",
+   "title": "Ordinul nr. 753/2003 privind prospectul de emisiune al obligațiunilor de stat cu dobânda în valută, seria VAL 3 USD 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44386",
+   "versions": [
+    {
+     "from": "2003-06-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44386",
+     "sha256": "e5b65bfd2ec81dabefc05b2508255c5314b940a1f9ece8fd233b7ef2c44fc85c"
     }
    ]
   },
@@ -12029,6 +12449,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44709",
      "sha256": "efb1c826c3525be177146b02353af5cdba893d54d19ef1b19eb8450ce6242828"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-786-2003",
+   "path": "ordin/finante/2003/786",
+   "short": "Ordin finante nr. 786/2003",
+   "title": "Ordinul nr. 786/2003 pentru aprobarea prospectelor de emisiune ale certificatelor de trezorerie cu discont și obligațiunilor de stat cu dobânda, aferente lunii iulie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44761",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44761",
+     "sha256": "a66ef06f4a1060760b66340fcb54bac3b185e5ddf8723b6c69430c1c6a3907c1"
     }
    ]
   },
@@ -12089,6 +12524,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45365",
      "sha256": "cf31b7bd89b878057b8981ffcc34c342da7951e1e679542329f78bd1481fe2c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-935-2003",
+   "path": "ordin/finante/2003/935",
+   "short": "Ordin finante nr. 935/2003",
+   "title": "Ordinul nr. 935/2003 pentru aprobarea prospectelor de emisiune ale certificatelor de trezorerie cu discont în suma de 3.600,0 miliarde lei și ale obligațiunilor de stat cu dobânda în suma de 1.800,0 miliarde lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45311",
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45311",
+     "sha256": "bf8fe0da891899e626f099b0747b1b8a0b6ba9bc0828751d2410f520cc71b98b"
     }
    ]
   },
@@ -12363,6 +12813,21 @@
    ]
   },
   {
+   "slug": "ordin-imm-260-2003",
+   "path": "ordin/imm/2003/260",
+   "short": "Ordin imm nr. 260/2003",
+   "title": "Ordinul nr. 260/2003 privind înființarea Comitetului interinstituțional pentru piețele de gros de interes național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49129",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49129",
+     "sha256": "bec0a7d230968dd66cb4b3840d5f6d0b245f1651aed1ed83d70ffb2bca56cd9c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-imm-35-2003",
    "path": "ordin/imm/2003/35",
    "short": "Ordin imm nr. 35/2003",
@@ -12539,6 +13004,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45165",
      "sha256": "3d7de5cf58243f90bca4ff2c316c2d3d557f55eb69a121a8e7111a2558ed5e41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1883-2003",
+   "path": "ordin/justitie/2003/1883",
+   "short": "Ordin justitie nr. 1883/2003",
+   "title": "Ordinul nr. 1.883/2003 privind înființarea Comisiei comune a Ministerului Justiției și Ministerului Sănătății de analiza a deceselor survenite în sistemul penitenciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45966",
+   "versions": [
+    {
+     "from": "2003-08-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45966",
+     "sha256": "5cbc95cf31f7c3a976077e7d471fb7a60d502886cccca9e0a2fc33047acf2ca5"
     }
    ]
   },
@@ -12948,6 +13428,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-16-2003",
+   "path": "ordin/munca/2003/16",
+   "short": "Ordin munca nr. 16/2003",
+   "title": "Ordinul nr. 16/2003 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2002 al Institutului Național de Cercetare-Dezvoltare pentru Protecția Muncii - I.N.C.D.P.M. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42623",
+   "versions": [
+    {
+     "from": "2003-03-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42623",
+     "sha256": "390c272baeb15d450905c76d020739449761f206fc5bed41544f4ad177f69150"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-173-2003",
    "path": "ordin/munca/2003/173",
    "short": "Ordin munca nr. 173/2003",
@@ -13188,6 +13683,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-58-2003",
+   "path": "ordin/munca/2003/58",
+   "short": "Ordin munca nr. 58/2003",
+   "title": "Ordinul nr. 58/2003 privind împuternicirea organelor de executare ale Casei Naționale de Pensii și Alte Drepturi de Asigurări Sociale și ale caselor județene de pensii și a municipiului București, precum și ale Agenției Naționale pentru Ocuparea Forței de Muncă și ale agențiilor județene și a municipiului București pentru ocuparea forței de muncă sa desfășoare activități de executare silită în baza Ordonanței Guvernului nr. 61/2002 privind colectarea creanțelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42146",
+   "versions": [
+    {
+     "from": "2003-03-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42146",
+     "sha256": "69238ce31541302415ec9ed76a5d2c1618b96b48e102a6c05271cd5a22da0477"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-64-2003",
    "path": "ordin/munca/2003/64",
    "short": "Ordin munca nr. 64/2003",
@@ -13233,6 +13743,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-677-2003",
+   "path": "ordin/munca/2003/677",
+   "short": "Ordin munca nr. 677/2003",
+   "title": "Ordinul nr. 677/2003 pentru aprobarea rectificării bugetelor de venituri și cheltuieli pe anul 2003 ale Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale - I.N.C.S.M.P.S. București și Institutului Național de Cercetare-Dezvoltare pentru Protecția Muncii - I.N.C.D.P.M. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54409",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54409",
+     "sha256": "ad2d08abb3b016704eaaa1923c2ebe21b9d326288a976194f71b41c7f1624f1a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-701-2003",
    "path": "ordin/munca/2003/701",
    "short": "Ordin munca nr. 701/2003",
@@ -13274,6 +13799,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42292",
      "sha256": "acbae1f720a9bb7c09e1cfa1b2542f822c8a4a5983b270240fefe756ad3f04b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-91-2003",
+   "path": "ordin/munca/2003/91",
+   "short": "Ordin munca nr. 91/2003",
+   "title": "Ordinul nr. 91/2003 privind aprobarea bugetului de venituri și cheltuieli pe anul 2003 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale - I.N.C.S.D.M.P.S. București și al Institutului Național de Cercetare-Dezvoltare pentru Protecția Muncii - I.N.C.D.P.M. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44159",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44159",
+     "sha256": "f283a5b4a58e3ead3e0e4a94870c04071113094d47e8c07fa6dfd23ac1d9f5b9"
     }
    ]
   },
@@ -13848,6 +14388,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1213-2003",
+   "path": "ordin/sanatate/2003/1213",
+   "short": "Ordin sanatate nr. 1213/2003",
+   "title": "Ordinul nr. 1.213/2003 pentru modificarea și completarea Ordinului ministrului sănătății nr. 761/2003 privind tarifele pentru prestațiile efectuate de direcțiile de sănătate publică județene și a municipiului București și de institutele de sănătate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49055",
+   "versions": [
+    {
+     "from": "2004-01-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49055",
+     "sha256": "f448cccddec2302436eb7e38d2ff259cceb85eb49fbd02727f56430322a3604f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1214-2003",
    "path": "ordin/sanatate/2003/1214",
    "short": "Ordin sanatate nr. 1214/2003",
@@ -14238,6 +14793,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-327-2003",
+   "path": "ordin/sanatate/2003/327",
+   "short": "Ordin sanatate nr. 327/2003",
+   "title": "Ordinul nr. 327/2003 privind externalizarea serviciilor de transport nemedicalizat efectuate de serviciile de ambulanță județene și al municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43113",
+   "versions": [
+    {
+     "from": "2003-04-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43113",
+     "sha256": "2f8a7c18d23d2ca62050fb7b889646c38acf8c011f955454d4131df8a787ff49"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-33-2003",
    "path": "ordin/sanatate/2003/33",
    "short": "Ordin sanatate nr. 33/2003",
@@ -14294,6 +14864,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43249",
      "sha256": "f3ec1fb3d20a9a886f6be7f88d5960b0dd6973461af1f61a4cf4e4cf06627b75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-418-2003",
+   "path": "ordin/sanatate/2003/418",
+   "short": "Ordin sanatate nr. 418/2003",
+   "title": "Ordinul nr. 418/2003 pentru modificarea Ordinului ministrului sănătății și familiei nr. 327/2003 privind externalizarea serviciilor de transport nemedicalizat efectuate de serviciile de ambulanță județene și al municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43668",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43668",
+     "sha256": "55c71cbb6d9fb9c5052eb79e13d4efaf52ea283e8e2ba690918b4e47c07aca33"
     }
    ]
   },
@@ -14538,6 +15123,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-682-2003",
+   "path": "ordin/sanatate/2003/682",
+   "short": "Ordin sanatate nr. 682/2003",
+   "title": "Ordinul nr. 682/2003 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2003 al Institutului Național de Cercetare-Dezvoltare în Sănătate București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45496",
+   "versions": [
+    {
+     "from": "2003-08-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45496",
+     "sha256": "6872d6a43a9ca27727e38ff8370d7abd75756b515a8ceaa6a7d4755710a9c788"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-718-2003",
    "path": "ordin/sanatate/2003/718",
    "short": "Ordin sanatate nr. 718/2003",
@@ -14568,6 +15168,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-751-2003",
+   "path": "ordin/sanatate/2003/751",
+   "short": "Ordin sanatate nr. 751/2003",
+   "title": "Ordinul nr. 751/2003 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2003 al Institutului Național de Cercetare-Dezvoltare pentru Microbiologie și Imunologie \"Cantacuzino\" și al Institutului Național de Cercetare-Dezvoltare în Domeniul Patologiei și Științelor Biomedicale \"Victor Babeș\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45609",
+   "versions": [
+    {
+     "from": "2003-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45609",
+     "sha256": "5daf71e9c4a7a8a14f74b89c5e9b6fd5f02b63606db1d9f4421a163ce701500f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-753-2003",
    "path": "ordin/sanatate/2003/753",
    "short": "Ordin sanatate nr. 753/2003",
@@ -14594,6 +15209,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45944",
      "sha256": "95bad977b17447ee70e9eba23764f243cf6c5408274adae5c903b8f83abc30f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-761-2003",
+   "path": "ordin/sanatate/2003/761",
+   "short": "Ordin sanatate nr. 761/2003",
+   "title": "Ordinul nr. 761/2003 privind tarifele pentru prestațiile efectuate de direcțiile de sănătate publică județene și a municipiului București și de institutele de sănătate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45791",
+   "versions": [
+    {
+     "from": "2003-08-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45791",
+     "sha256": "d3b0793a71ca3cb7828046a5d7725192345e6019ea118effc7d3bbb8e0d0c30b"
     }
    ]
   },

@@ -3,6 +3,36 @@
  "shard": "ordin/2008",
  "acts": [
   {
+   "slug": "ordin-aaas-1-2008",
+   "path": "ordin/aaas/2008/1",
+   "short": "Ordin aaas nr. 1/2008",
+   "title": "Ordinul nr. 1/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88469",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88469",
+     "sha256": "775a12dfc7d41b7c0900e7dcf20884ef6b5a7587075992cb341e25091dfe1756"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-18-2008",
+   "path": "ordin/aaas/2008/18",
+   "short": "Ordin aaas nr. 18/2008",
+   "title": "Ordinul nr. 18/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 pentru Societatea Comercială \"Complexul Energetic Craiova\" - S.A., aflată în portofoliul Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93503",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93503",
+     "sha256": "f815c247ce478512fd1a882469cc8a356024fb16f4a12e56cc10244e77604d21"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-1837-2008",
    "path": "ordin/aaas/2008/1837",
    "short": "Ordin aaas nr. 1837/2008",
@@ -14,6 +44,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98552",
      "sha256": "974e1f3f70e5d3fa4e5f0df7fbb726110479e7da285d769e6e05f4f408b20879"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-19-2008",
+   "path": "ordin/aaas/2008/19",
+   "short": "Ordin aaas nr. 19/2008",
+   "title": "Ordinul nr. 19/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 pentru Societatea Comercială \"Uzina Termoelectrică Midia\" - S.A., aflată în portofoliul Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93353",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93353",
+     "sha256": "c43d45fc44b77abc59f2c4a37da8c08536a773bfd24ebc0633617f6c39078bf3"
     }
    ]
   },
@@ -33,6 +78,36 @@
    ]
   },
   {
+   "slug": "ordin-aaas-2-2008",
+   "path": "ordin/aaas/2008/2",
+   "short": "Ordin aaas nr. 2/2008",
+   "title": "Ordinul nr. 2/2008 privind aprobarea rectificării bugetelor de venituri și cheltuieli pe anul 2007 ale Companiei Naționale \"Romarm\" - S.A. București, Societății Comerciale \"Avioane Craiova\" - S.A., Societății Comerciale \"Romaero\" - S.A. și Societății Comerciale \"Romplumb\" - S.A. Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91806",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91806",
+     "sha256": "350448f5cd865d2f1c95174e18abbdf189fada36d5b4965b1a52d3d12c8e247a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-20-2008",
+   "path": "ordin/aaas/2008/20",
+   "short": "Ordin aaas nr. 20/2008",
+   "title": "Ordinul nr. 20/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 pentru Societatea Comercială \"Radioactiv Mineral Măgurele\" - S.A., aflată în portofoliul Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93356",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93356",
+     "sha256": "8395c99213fb0f3df5cf7e26a28cc2e5495c5db73441cf07b8f649caffcf7771"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-207-2008",
    "path": "ordin/aaas/2008/207",
    "short": "Ordin aaas nr. 207/2008",
@@ -48,6 +123,66 @@
    ]
   },
   {
+   "slug": "ordin-aaas-23-2008",
+   "path": "ordin/aaas/2008/23",
+   "short": "Ordin aaas nr. 23/2008",
+   "title": "Ordinul nr. 23/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 pentru Societatea Comercială \"Complexul Energetic Turceni\" - S.A., aflată în portofoliul Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93509",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93509",
+     "sha256": "2d5a0688c4ce5f6b08359bc1dbefa061924081671e59a2c50b7c68a2c664d5e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-24-2008",
+   "path": "ordin/aaas/2008/24",
+   "short": "Ordin aaas nr. 24/2008",
+   "title": "Ordinul nr. 24/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 pentru Societatea Comercială \"Complexul Energetic Rovinari\" -S.A., aflată în portofoliul Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93547",
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93547",
+     "sha256": "4e4889d18b357075ef1e5569191ac89f864e29c31086ccbb6dfe685fe58b8315"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-30-2008",
+   "path": "ordin/aaas/2008/30",
+   "short": "Ordin aaas nr. 30/2008",
+   "title": "Ordinul nr. 30/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 pentru Compania Națională a Cuprului, Aurului și Fierului \"MINVEST\" - S.A. Deva, aflată în portofoliul Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93405",
+   "versions": [
+    {
+     "from": "2008-05-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93405",
+     "sha256": "59e35fccb84c5f8bf1759b91423fdb61793b7e1179a37f07a53f5ebfd7047e1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-33-2008",
+   "path": "ordin/aaas/2008/33",
+   "short": "Ordin aaas nr. 33/2008",
+   "title": "Ordinul nr. 33/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Societății Comerciale BĂIȚA - S.A. Ștei, aflată în portofoliul Autorității pentru Valorificarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97957",
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97957",
+     "sha256": "fb1079e8eed61e3a9fd96498f016d016f24f47835c86b5bdb04628c0a9da3fc5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-355-2008",
    "path": "ordin/aaas/2008/355",
    "short": "Ordin aaas nr. 355/2008",
@@ -59,6 +194,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92255",
      "sha256": "111dc9fc0c5c056c5f726b6fbb7a77d7965450490ca64a6680de680e24097080"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-81-2008",
+   "path": "ordin/aaas/2008/81",
+   "short": "Ordin aaas nr. 81/2008",
+   "title": "Ordinul nr. 81/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 ale filialelor din cadrul Companiei Naționale \"Romarm\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101489",
+   "versions": [
+    {
+     "from": "2009-01-20",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101489",
+     "sha256": "214061b674063f251aec180fc415975fd3e4e051d69c7c2ae01f8faadcd55109"
     }
    ]
   },
@@ -134,6 +284,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96064",
      "sha256": "dfecf059de026c17e780f67c0c9db75352f9ee70485a8314c1b2a1ac654f564f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-147181-2008",
+   "path": "ordin/agricultura/2008/147181",
+   "short": "Ordin agricultura nr. 147181/2008",
+   "title": "Ordinul nr. 147.181/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Regiei Naționale a Pădurilor - Romsilva, care funcționează sub autoritatea Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91036",
+   "versions": [
+    {
+     "from": "2008-04-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91036",
+     "sha256": "8c53200d237702b6093c826f54b75021c3886aca57214854d5d6a9cef064a5c9"
     }
    ]
   },
@@ -314,6 +479,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91535",
      "sha256": "4a9bebd58bb43a0b711761de0d9a302b21c7c48a8b096d38d84c621dfc4c7065"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-223-2008",
+   "path": "ordin/agricultura/2008/223",
+   "short": "Ordin agricultura nr. 223/2008",
+   "title": "Ordinul nr. 223/2008 privind numirea Comisiei de atestare a operatorilor economici pentru exploatări forestiere, aprobarea Regulamentului de funcționare a Comisiei de atestare a operatorilor economici pentru exploatări forestiere și a Criteriilor de atestare a operatorilor economici în activitatea de exploatare forestieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93271",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93271",
+     "sha256": "a55249762a5dccbabc8c6d5395f24f129c7e05f4adef006e1d46d6349361f188"
     }
    ]
   },
@@ -2219,6 +2399,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97521",
      "sha256": "6ebf7f5f48d1c4b7d66441ed9e39250401a0e36d9403afd943a89340c11812fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-1272-2008",
+   "path": "ordin/anaf/2008/1272",
+   "short": "Ordin anaf nr. 1272/2008",
+   "title": "Ordinul nr. 1.272/2008 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 1.995/2007 privind constituirea Comisiei de proceduri fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97596",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97596",
+     "sha256": "55728046f8db7f69d84a05b841523ed500c62c1e6e3ca43ad6f6b3c0fa45cdf0"
     }
    ]
   },
@@ -5928,6 +6123,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-151-2008",
+   "path": "ordin/comunicatii/2008/151",
+   "short": "Ordin comunicatii nr. 151/2008",
+   "title": "Ordinul nr. 151/2008 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Companiei Naționale \"Poșta Română\" - S.A., la care Ministerul Comunicațiilor și Tehnologiei Informației îndeplinește atribuțiile pe care statul român le are în calitate de acționar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92929",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92929",
+     "sha256": "88d7cc022c6d8234758d72e5b8d9e982b1b9e8b97745d9476731d9ca4b20ac16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-152-2008",
+   "path": "ordin/comunicatii/2008/152",
+   "short": "Ordin comunicatii nr. 152/2008",
+   "title": "Ordinul nr. 152/2008 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Societății Naționale de Radiocomunicații - S.A., la care Ministerul Comunicațiilor și Tehnologiei Informației îndeplinește atribuțiile pe care statul român le are în calitate de acționar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92970",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92970",
+     "sha256": "fca859075667b4075afef175a94b88137fac8078d39121ccb17da2a810eafc04"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-190-2008",
    "path": "ordin/comunicatii/2008/190",
    "short": "Ordin comunicatii nr. 190/2008",
@@ -6419,6 +6644,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91984",
      "sha256": "944e9fef06f5c43eb24ff86601c0c36ad378a349c7f80889cf9bef50450c5388"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2162-2008",
+   "path": "ordin/cultura/2008/2162",
+   "short": "Ordin cultura nr. 2162/2008",
+   "title": "Ordinul nr. 2.162/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Companiei Naționale a Imprimeriilor \"Coresi\" - S.A., aflată sub autoritatea Ministerului Culturii și Cultelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92471",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92471",
+     "sha256": "80091c11c4d95eb6bbe76fe9f2998e14a3e6bf42e1a89b27009308ad62c399af"
     }
    ]
   },
@@ -7169,6 +7409,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90604",
      "sha256": "8d0dc15ea92ffdeea9435dea3c3e3065462636130d107fb665ea074db4e60791"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3491-2008",
+   "path": "ordin/educatie/2008/3491",
+   "short": "Ordin educatie nr. 3491/2008",
+   "title": "Ordinul nr. 3.491/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Regiei Autonome \"Editura Didactică și Pedagogică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91321",
+   "versions": [
+    {
+     "from": "2008-04-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91321",
+     "sha256": "8f6399f99d93aaeaa294a70cc92dfed1e9c5c422134072c115221a3358835716"
     }
    ]
   },
@@ -8118,6 +8373,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1035-2008",
+   "path": "ordin/finante/2008/1035",
+   "short": "Ordin finante nr. 1035/2008",
+   "title": "Ordinul nr. 1.035/2008 pentru aprobarea bugetului de venituri și cheltuieli al Regiei Autonome \"Monitorul Oficial\" pe anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91129",
+   "versions": [
+    {
+     "from": "2008-04-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91129",
+     "sha256": "28606bf64c8ef836f951cc30e2d4c543ff366286fe565564344f3ff5ec29d21e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1059-2008",
    "path": "ordin/finante/2008/1059",
    "short": "Ordin finante nr. 1059/2008",
@@ -8388,6 +8658,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1322-2008",
+   "path": "ordin/finante/2008/1322",
+   "short": "Ordin finante nr. 1322/2008",
+   "title": "Ordinul nr. 1.322/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii mai 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92137",
+   "versions": [
+    {
+     "from": "2008-05-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92137",
+     "sha256": "be5563e381fd8b054d6239b231375691142d98ba8416be9ce0ead3e0d31d658c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1372-2008",
    "path": "ordin/finante/2008/1372",
    "short": "Ordin finante nr. 1372/2008",
@@ -8504,6 +8789,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95658",
      "sha256": "f0ec092a31e6fd9c285de3bb21309eadd0f8037bc619a3d4ef386b1fbff2923e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1710-2008",
+   "path": "ordin/finante/2008/1710",
+   "short": "Ordin finante nr. 1710/2008",
+   "title": "Ordinul nr. 1.710/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii iunie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93653",
+   "versions": [
+    {
+     "from": "2008-06-04",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93653",
+     "sha256": "73512c366558ca4ddbc1aed4c88f666bdfe46a56bdf920d7bde2b3daa4b13f62"
     }
    ]
   },
@@ -8643,6 +8943,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2006-2008",
+   "path": "ordin/finante/2008/2006",
+   "short": "Ordin finante nr. 2006/2008",
+   "title": "Ordinul nr. 2.006/2008 pentru stabilirea componenței Comisiei de avizare a distribuitorilor și a aparatelor de marcat electronice fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95255",
+   "versions": [
+    {
+     "from": "2008-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95255",
+     "sha256": "0cd6f5cb5b39e8cc93b8211b38fa426100c5c958ead794bae8ad10004120cfa4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2007-2008",
    "path": "ordin/finante/2008/2007",
    "short": "Ordin finante nr. 2007/2008",
@@ -8654,6 +8969,21 @@
      "units": 88,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95431",
      "sha256": "956d77a5829adfe403e0b50206a795a07a708ea8ecbbb21f6ca24e72a92614ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2009-2008",
+   "path": "ordin/finante/2008/2009",
+   "short": "Ordin finante nr. 2009/2008",
+   "title": "Ordinul nr. 2.009/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iulie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95196",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95196",
+     "sha256": "c3b0c400eefe5cae5b2c8cf41cb09c1572613007c31598a314f36a95f7728bae"
     }
    ]
   },
@@ -8684,6 +9014,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95256",
      "sha256": "c5b24ba7a5a370e9b904c98ef1f1fab39ecc4f15a0809a9ec847824089ee0cb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2065-2008",
+   "path": "ordin/finante/2008/2065",
+   "short": "Ordin finante nr. 2065/2008",
+   "title": "Ordinul nr. 2.065/2008 pentru modificarea anexelor nr. 21 și 26 la Ordinul ministrului economiei și finanțelor nr. 972/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici din domeniul energiei aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96283",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96283",
+     "sha256": "e56eafdaaca1396a7165b0d524a73ec0e3ae147a9163cd68a7029cef271462e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2083-2008",
+   "path": "ordin/finante/2008/2083",
+   "short": "Ordin finante nr. 2083/2008",
+   "title": "Ordinul nr. 2.083/2008 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinului ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95661",
+   "versions": [
+    {
+     "from": "2008-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95661",
+     "sha256": "a61d9f2f0c5e12362d00193ba4c3fed42ed291512aaafc78a9bb0b919325d061"
     }
    ]
   },
@@ -9003,6 +9363,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2307-2008",
+   "path": "ordin/finante/2008/2307",
+   "short": "Ordin finante nr. 2307/2008",
+   "title": "Ordinul nr. 2.307/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii august 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96349",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96349",
+     "sha256": "88481cdc2f72840996f83157d66530321d43603fe017d416e25672bdbc825cb4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2396-2008",
    "path": "ordin/finante/2008/2396",
    "short": "Ordin finante nr. 2396/2008",
@@ -9078,6 +9453,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2544-2008",
+   "path": "ordin/finante/2008/2544",
+   "short": "Ordin finante nr. 2544/2008",
+   "title": "Ordinul nr. 2.544/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii septembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97103",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97103",
+     "sha256": "3a3ae54fd2f4276813f8d6e14eb63d5b587bfeacb378c1c065b343134a9889c4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2563-2008",
    "path": "ordin/finante/2008/2563",
    "short": "Ordin finante nr. 2563/2008",
@@ -9104,6 +9494,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97534",
      "sha256": "4109314c9db116b5b0d64527c12dc2512422db08516302e230dfe775ddf06c92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2818-2008",
+   "path": "ordin/finante/2008/2818",
+   "short": "Ordin finante nr. 2818/2008",
+   "title": "Ordinul nr. 2.818/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii octombrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97704",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97704",
+     "sha256": "fb1100c3ec72b66cf7447814a561da9b9cb934c4f733e350e7b9c820272c2fa2"
     }
    ]
   },
@@ -9183,6 +9588,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2973-2008",
+   "path": "ordin/finante/2008/2973",
+   "short": "Ordin finante nr. 2973/2008",
+   "title": "Ordinul nr. 2.973/2008 pentru modificarea anexelor nr. 3, 5, 8 și 14 la Ordinul ministrului economiei și finanțelor nr. 972/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici din domeniul energiei aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98426",
+   "versions": [
+    {
+     "from": "2008-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98426",
+     "sha256": "750627d65c0c63aae3fc85c0d5073af7795ca2a8776381c4da179913d8bac420"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2980-2008",
    "path": "ordin/finante/2008/2980",
    "short": "Ordin finante nr. 2980/2008",
@@ -9194,6 +9614,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97979",
      "sha256": "d81f16e944df7573f094e7bfdeeedcdf8eb56ec489bb47bbc4bff245ef09c9ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-303-2008",
+   "path": "ordin/finante/2008/303",
+   "short": "Ordin finante nr. 303/2008",
+   "title": "Ordinul nr. 303/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii februarie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89306",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89306",
+     "sha256": "7e8c6841bec1aa48516b95237df910e602483d8557c10fbd54c9e7f70b55c4d1"
     }
    ]
   },
@@ -9228,6 +9663,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3204-2008",
+   "path": "ordin/finante/2008/3204",
+   "short": "Ordin finante nr. 3204/2008",
+   "title": "Ordinul nr. 3.204/2008 pentru modificarea anexei nr. 3 la Ordinul ministrului economiei și finanțelor și al ministrului muncii, familiei și egalității de șanse nr. 971/225/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici aflați sub autoritatea Ministerului Economiei și Finanțelor și a anexelor nr. 2 și 16 la Ordinul ministrului economiei și finanțelor nr. 972/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici din domeniul energiei aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99566",
+   "versions": [
+    {
+     "from": "2008-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99566",
+     "sha256": "bce43f394a508d11bd70e7a7878422a2be2de037bb8a44225aa16871ec9f07f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3209-2008",
    "path": "ordin/finante/2008/3209",
    "short": "Ordin finante nr. 3209/2008",
@@ -9239,6 +9689,36 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99283",
      "sha256": "a3fb81d64743869940947de5a1347b77777d2abef6be4eda91e2271380b70aaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3254-2008",
+   "path": "ordin/finante/2008/3254",
+   "short": "Ordin finante nr. 3254/2008",
+   "title": "Ordinul nr. 3.254/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98933",
+   "versions": [
+    {
+     "from": "2008-11-06",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98933",
+     "sha256": "cfdc9afc6b465f3d5e096c344ac63407df18e516ec78f7003d644d7c25f29852"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3264-2008",
+   "path": "ordin/finante/2008/3264",
+   "short": "Ordin finante nr. 3264/2008",
+   "title": "Ordinul nr. 3.264/2008 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99162",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99162",
+     "sha256": "b0c97abea519281b4e22744bc92bfbe08f6b8fa11c4df217446f28edb60a7d20"
     }
    ]
   },
@@ -9288,6 +9768,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3344-2008",
+   "path": "ordin/finante/2008/3344",
+   "short": "Ordin finante nr. 3344/2008",
+   "title": "Ordinul nr. 3.344/2008 pentru modificarea Ordinului ministrului economiei și finanțelor nr. 3.254/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99349",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99349",
+     "sha256": "7dbe5585a752e9303b5112c32e5eff3f68d9326cd912304b2a5e3fd8819e67d7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3384-2008",
    "path": "ordin/finante/2008/3384",
    "short": "Ordin finante nr. 3384/2008",
@@ -9314,6 +9809,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99998",
      "sha256": "3414a3a167c7dd461e30f50fb9ef83dd3c327cadb11c1c50ea2060afc17516c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3408-2008",
+   "path": "ordin/finante/2008/3408",
+   "short": "Ordin finante nr. 3408/2008",
+   "title": "Ordinul nr. 3.408/2008 privind modificarea anexei nr. 7 la Ordinul ministrului economiei și finanțelor nr. 918/2008 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2008 ale institutelor naționale de cercetare-dezvoltare care își desfășoară activitatea sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99979",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99979",
+     "sha256": "2a1e3f475cec583672acecb74379f335ee1ecd7718c363541e0ad24d95ec6e05"
     }
    ]
   },
@@ -9408,6 +9918,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3507-2008",
+   "path": "ordin/finante/2008/3507",
+   "short": "Ordin finante nr. 3507/2008",
+   "title": "Ordinul nr. 3.507/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii decembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99757",
+   "versions": [
+    {
+     "from": "2008-12-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99757",
+     "sha256": "77ec6c365d512ca93dabb91f2dd80d16ef2d86015c142e4cda634c384f01b61c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3512-2008",
    "path": "ordin/finante/2008/3512",
    "short": "Ordin finante nr. 3512/2008",
@@ -9438,6 +9963,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3597-2008",
+   "path": "ordin/finante/2008/3597",
+   "short": "Ordin finante nr. 3597/2008",
+   "title": "Ordinul nr. 3.597/2008 pentru modificarea anexelor nr. 17, 22-25, 27 și 29 la Ordinul ministrului economiei și finanțelor nr. 972/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici din domeniul energiei, aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101089",
+   "versions": [
+    {
+     "from": "2009-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101089",
+     "sha256": "b7e3d95109c92d53a7713fe1f53e6b4c7dda4fa8a2e303429fb2335df8fde881"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3604-2008",
    "path": "ordin/finante/2008/3604",
    "short": "Ordin finante nr. 3604/2008",
@@ -9449,6 +9989,21 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100712",
      "sha256": "744eb70a2f5313d308c11fe372544d61f95ac9d1cdc59ab1f2c650ec9631f27f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3639-2008",
+   "path": "ordin/finante/2008/3639",
+   "short": "Ordin finante nr. 3639/2008",
+   "title": "Ordinul nr. 3.639/2008 pentru modificarea Ordinului ministrului economiei și finanțelor nr. 3.507/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii decembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100431",
+   "versions": [
+    {
+     "from": "2008-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100431",
+     "sha256": "6d0680269ac8c848a86b69095df3b657e84115fc3c74a41f43fea9fe48057c6d"
     }
    ]
   },
@@ -9524,6 +10079,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100846",
      "sha256": "10ec6e45fc22efb11ee0fd80de2d34d856592af60c3542f19b2862541aa0965f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3663-2008",
+   "path": "ordin/finante/2008/3663",
+   "short": "Ordin finante nr. 3663/2008",
+   "title": "Ordinul nr. 3.663/2008 pentru aprobarea înființării Unității de implementare a ajutorului de stat individual în baza Ordonanței de urgență a Guvernului nr. 109/2008 privind acordarea de ajutor de stat individual având ca obiectiv dezvoltarea regională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215143",
+   "versions": [
+    {
+     "from": "2009-01-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/215143",
+     "sha256": "4b647e9d6893f483f2e2d6ab6cd34adb845ea3ce7e0e441a49c76ebb27da63cd"
     }
    ]
   },
@@ -9813,6 +10383,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-590-2008",
+   "path": "ordin/finante/2008/590",
+   "short": "Ordin finante nr. 590/2008",
+   "title": "Ordinul nr. 590/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii martie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90013",
+   "versions": [
+    {
+     "from": "2008-03-03",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90013",
+     "sha256": "0ed10cc8512a28ba87c07e6ad6f7f9ca5d92592941a2be0a21ad44fe5c99a2e9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-63-2008",
    "path": "ordin/finante/2008/63",
    "short": "Ordin finante nr. 63/2008",
@@ -9843,6 +10428,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-690-2008",
+   "path": "ordin/finante/2008/690",
+   "short": "Ordin finante nr. 690/2008",
+   "title": "Ordinul nr. 690/2008 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Companiei Naționale \"Romtehnica\" - S.A., aflată în coordonarea Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90535",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90535",
+     "sha256": "bdc9842176cf4313b9ad75cd22b61f13cb816887b3a64f8c4ab8d71045a9f533"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-724-2008",
    "path": "ordin/finante/2008/724",
    "short": "Ordin finante nr. 724/2008",
@@ -9854,6 +10454,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91250",
      "sha256": "4aabd1ca81488c9de814fe10d2a0a4df60e26c403a82f3a387d4610a257d69e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-744-2008",
+   "path": "ordin/finante/2008/744",
+   "short": "Ordin finante nr. 744/2008",
+   "title": "Ordinul nr. 744/2008 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Companiei Române de Aviație \"Romavia\" - R.A., aflată în coordonarea Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90890",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90890",
+     "sha256": "e437cbaccf2d75702928be785a902b3ccf2ce6263223c9786059ef821bee50e8"
     }
    ]
   },
@@ -9933,6 +10548,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-918-2008",
+   "path": "ordin/finante/2008/918",
+   "short": "Ordin finante nr. 918/2008",
+   "title": "Ordinul nr. 918/2008 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2008 ale institutelor naționale de cercetare-dezvoltare care își desfășoară activitatea sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91437",
+   "versions": [
+    {
+     "from": "2008-04-16",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91437",
+     "sha256": "a042d0603cc74d2b05783f63900eebda596b5debc9325d30b37856394305458d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-931-2008",
+   "path": "ordin/finante/2008/931",
+   "short": "Ordin finante nr. 931/2008",
+   "title": "Ordinul nr. 931/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii aprilie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90876",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90876",
+     "sha256": "836227284b341df3410951cdde374a6078a5ca79243d7bb4407d922b3bed6526"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-938-2008",
    "path": "ordin/finante/2008/938",
    "short": "Ordin finante nr. 938/2008",
@@ -9959,6 +10604,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90984",
      "sha256": "8b665703b7257b7b132c2354fcb79f86ff201108b0bc924dff40eff6b393293f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-956-2008",
+   "path": "ordin/finante/2008/956",
+   "short": "Ordin finante nr. 956/2008",
+   "title": "Ordinul nr. 956/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici monitorizați din domeniul minier, aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91400",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91400",
+     "sha256": "e7e0dd5a91f90b65c28d42d079c3b999d413f06ebfef7c95ed72e15cb5771563"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-957-2008",
+   "path": "ordin/finante/2008/957",
+   "short": "Ordin finante nr. 957/2008",
+   "title": "Ordinul nr. 957/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 pentru Societatea Comercială \"Termoelectrica\" - S.A., aflată sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91499",
+   "versions": [
+    {
+     "from": "2008-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91499",
+     "sha256": "232028d7d4205a6943f062fa62a3265754e9e9056db3ced93215fa92eb0e55e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-970-2008",
+   "path": "ordin/finante/2008/970",
+   "short": "Ordin finante nr. 970/2008",
+   "title": "Ordinul nr. 970/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91425",
+   "versions": [
+    {
+     "from": "2008-04-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91425",
+     "sha256": "cde68ccd51833a02f68e82ade4c6db57079e0c8875252368aa8fd489701d9411"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-971-2008",
+   "path": "ordin/finante/2008/971",
+   "short": "Ordin finante nr. 971/2008",
+   "title": "Ordinul nr. 971/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91510",
+   "versions": [
+    {
+     "from": "2008-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91510",
+     "sha256": "e57532137d9f48184fd3742c7b8be5e295b70e5fd83311d6738f43bdd3411d07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-972-2008",
+   "path": "ordin/finante/2008/972",
+   "short": "Ordin finante nr. 972/2008",
+   "title": "Ordinul nr. 972/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 pentru unii operatori economici din domeniul energiei aflați sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91605",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91605",
+     "sha256": "cef5f251754371caa9569574a774ff03a58b817084b67e7955837e957cfeee23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-982-2008",
+   "path": "ordin/finante/2008/982",
+   "short": "Ordin finante nr. 982/2008",
+   "title": "Ordinul nr. 982/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Companiei Naționale \"Imprimeria Națională\" - S.A., companie națională aflată sub autoritatea Ministerului Economiei și Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97903",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97903",
+     "sha256": "c7c02572b8dd55b53f6c216d53e66c7c47b3c06d2a8acf41321a8cc646f8a2d6"
     }
    ]
   },
@@ -10484,6 +11219,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90222",
      "sha256": "2c4e34c3b483d9fd2a26d42fa5e9074c7077d2855e8c1b51296dfcbd2f1279bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-417-2008",
+   "path": "ordin/interne/2008/417",
+   "short": "Ordin interne nr. 417/2008",
+   "title": "Ordinul nr. 417/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Societății Comerciale \"Comicex\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91035",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91035",
+     "sha256": "3149d00dbd6c08c389eb113c330395ab9f8d9375b17415ad0156efad87356e29"
     }
    ]
   },
@@ -11658,6 +12408,51 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1010-c-2008",
+   "path": "ordin/justitie/2008/1010-c",
+   "short": "Ordin justitie nr. 1010/C/2008",
+   "title": "Ordinul nr. 1.010/C/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91387",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91387",
+     "sha256": "ebc433a51e31ea0a9143ecdedf51eb4cfb040f4e034e59179871e26c1a162682"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1011-c-2008",
+   "path": "ordin/justitie/2008/1011-c",
+   "short": "Ordin justitie nr. 1011/C/2008",
+   "title": "Ordinul nr. 1.011/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91547",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91547",
+     "sha256": "7361e87704381def15fd43eb30017cfa029f0dac99485898d5b4619f9fb994ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1112-c-2008",
+   "path": "ordin/justitie/2008/1112-c",
+   "short": "Ordin justitie nr. 1112/C/2008",
+   "title": "Ordinul nr. 1.112/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91644",
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91644",
+     "sha256": "254603272fc4d23e7668beef9d7fa8087553e40b3ff1316686f519e9f36c3f78"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1129-c-2008",
    "path": "ordin/justitie/2008/1129-c",
    "short": "Ordin justitie nr. 1129/C/2008",
@@ -11778,6 +12573,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1355-c-2008",
+   "path": "ordin/justitie/2008/1355-c",
+   "short": "Ordin justitie nr. 1355/C/2008",
+   "title": "Ordinul nr. 1.355/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93705",
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93705",
+     "sha256": "ab930b261d60c0367992da369c9f84873f9ec4d5574066b1622f028217d757f4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1357-c-2008",
    "path": "ordin/justitie/2008/1357-c",
    "short": "Ordin justitie nr. 1357/C/2008",
@@ -11804,6 +12614,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93626",
      "sha256": "420d5b2d2dddd87f782bf1a5b876b581cf7af1281866fba0d14850e67bdd4067"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1398-c-2008",
+   "path": "ordin/justitie/2008/1398-c",
+   "short": "Ordin justitie nr. 1398/C/2008",
+   "title": "Ordinul nr. 1.398/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93657",
+   "versions": [
+    {
+     "from": "2008-06-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93657",
+     "sha256": "9049cc5c6a008bd6570e5e5a5c9f08bfdbe754b8b8b6cd483b6b9907754b684e"
     }
    ]
   },
@@ -11838,6 +12663,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1489-c-2008",
+   "path": "ordin/justitie/2008/1489-c",
+   "short": "Ordin justitie nr. 1489/C/2008",
+   "title": "Ordinul nr. 1.489/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93678",
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93678",
+     "sha256": "50018fa1d57fdee1bb834f042ba514a0fb746b52cc278de32ab98d3f9a46e3f3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1494-c-2008",
    "path": "ordin/justitie/2008/1494-c",
    "short": "Ordin justitie nr. 1494/C/2008",
@@ -11849,6 +12689,96 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93706",
      "sha256": "f0ff47600419489bc1f4c8574356caa9d09bc48c51bd5ddc79f01c1cbf96c31c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1587-c-2008",
+   "path": "ordin/justitie/2008/1587-c",
+   "short": "Ordin justitie nr. 1587/C/2008",
+   "title": "Ordinul nr. 1.587/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93964",
+   "versions": [
+    {
+     "from": "2008-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93964",
+     "sha256": "34550245bcf662245d01faa4633127834eaed7a5fc999cf2faee83e751eaadc0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1588-c-2008",
+   "path": "ordin/justitie/2008/1588-c",
+   "short": "Ordin justitie nr. 1588/C/2008",
+   "title": "Ordinul nr. 1.588/C/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94008",
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94008",
+     "sha256": "43f73320078d5acbca7fd80eaefacd15940f50ab46949431541b17e7a306a9c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1589-c-2008",
+   "path": "ordin/justitie/2008/1589-c",
+   "short": "Ordin justitie nr. 1589/C/2008",
+   "title": "Ordinul nr. 1.589/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94009",
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94009",
+     "sha256": "bca02beb39a928194bf0c7ff09b63d4a345a634c4f31efa2ac880217f2da5c9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-171-c-2008",
+   "path": "ordin/justitie/2008/171-c",
+   "short": "Ordin justitie nr. 171/C/2008",
+   "title": "Ordinul nr. 171/C/2008 privind redobândirea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89340",
+   "versions": [
+    {
+     "from": "2008-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89340",
+     "sha256": "1948d68efd0dd2ed69222c0875caa6c86cd2add676d91e121eeaea83885dc879"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1731-c-2008",
+   "path": "ordin/justitie/2008/1731-c",
+   "short": "Ordin justitie nr. 1731/C/2008",
+   "title": "Ordinul nr. 1.731/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94685",
+   "versions": [
+    {
+     "from": "2008-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94685",
+     "sha256": "d86e19675d08335a70ffab6b810b51ce620803babe584026cd32cd777622b897"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1752-c-2008",
+   "path": "ordin/justitie/2008/1752-c",
+   "short": "Ordin justitie nr. 1752/C/2008",
+   "title": "Ordinul nr. 1.752/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94885",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94885",
+     "sha256": "fea643d84f0e4a578e70b53d253f5621e24c009da64a0213cf452d457cc2c237"
     }
    ]
   },
@@ -11898,6 +12828,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1860-c-2008",
+   "path": "ordin/justitie/2008/1860-c",
+   "short": "Ordin justitie nr. 1860/C/2008",
+   "title": "Ordinul nr. 1.860/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95637",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95637",
+     "sha256": "2b15dc27753bac88b62e773373dfb01e69d5039d4cc07028773bd466f525a840"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1861-c-2008",
    "path": "ordin/justitie/2008/1861-c",
    "short": "Ordin justitie nr. 1861/C/2008",
@@ -11924,6 +12869,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95791",
      "sha256": "e68966321e4ea15a109063f8b540d760dfed90a9aca8e9a08731af1f403c9f10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1891-c-2008",
+   "path": "ordin/justitie/2008/1891-c",
+   "short": "Ordin justitie nr. 1891/C/2008",
+   "title": "Ordinul nr. 1.891/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95645",
+   "versions": [
+    {
+     "from": "2008-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95645",
+     "sha256": "cd2ced2ebb1e6b1127e504bd3e0742ff9919fafe43e96dee897e6054a08a8f0c"
     }
    ]
   },
@@ -11958,6 +12918,36 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1961-c-2008",
+   "path": "ordin/justitie/2008/1961-c",
+   "short": "Ordin justitie nr. 1961/C/2008",
+   "title": "Ordinul nr. 1.961/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96056",
+   "versions": [
+    {
+     "from": "2008-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96056",
+     "sha256": "6e1d54b57805dc0951c5f394bbb9d9465b3199ab1a0b872599dcd1f3f135549f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1962-2008",
+   "path": "ordin/justitie/2008/1962",
+   "short": "Ordin justitie nr. 1962/2008",
+   "title": "Ordinul nr. 1.962/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96074",
+   "versions": [
+    {
+     "from": "2008-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96074",
+     "sha256": "279476c8448897bde105bb51ef10a3491e85412f0011d8f95fb7be957985d8fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2003-c-2008",
    "path": "ordin/justitie/2008/2003-c",
    "short": "Ordin justitie nr. 2003/C/2008",
@@ -11969,6 +12959,51 @@
      "units": 172,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96513",
      "sha256": "0a1c52a807c05683738c33d9c57dc2223a8c0d4d7d61eb700444ed6ef238b14e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2037-c-2008",
+   "path": "ordin/justitie/2008/2037-c",
+   "short": "Ordin justitie nr. 2037/C/2008",
+   "title": "Ordinul nr. 2.037/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96287",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96287",
+     "sha256": "e9f4a2f104433a02ef205236821dc27c30c96c212c89743daf16281b8f708239"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2038-c-2008",
+   "path": "ordin/justitie/2008/2038-c",
+   "short": "Ordin justitie nr. 2038/C/2008",
+   "title": "Ordinul nr. 2.038/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96286",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96286",
+     "sha256": "84d3611fffb3b375e1677b26fc7ed74d4acfe577c54302b6c0df2e4eee197f14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2099-c-2008",
+   "path": "ordin/justitie/2008/2099-c",
+   "short": "Ordin justitie nr. 2099/C/2008",
+   "title": "Ordinul nr. 2.099/C/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96621",
+   "versions": [
+    {
+     "from": "2008-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96621",
+     "sha256": "bef32ae8e01e5230028e48664e6dcbe5358514747af87b1047390d242cbafe4d"
     }
    ]
   },
@@ -12048,6 +13083,141 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2356-c-2008",
+   "path": "ordin/justitie/2008/2356-c",
+   "short": "Ordin justitie nr. 2356/C/2008",
+   "title": "Ordinul nr. 2.356/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97449",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97449",
+     "sha256": "ee27a71aeb84d771798b0d18f8bf475fc64ced7d5af57d90b9b2def95cbd99ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2449-c-2008",
+   "path": "ordin/justitie/2008/2449-c",
+   "short": "Ordin justitie nr. 2449/C/2008",
+   "title": "Ordinul nr. 2.449/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97911",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97911",
+     "sha256": "a3606d3db28012f62ae359c6e39465818fcadf04ce27946c352bfdc2f082a4a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2450-c-2008",
+   "path": "ordin/justitie/2008/2450-c",
+   "short": "Ordin justitie nr. 2450/C/2008",
+   "title": "Ordinul nr. 2.450/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97734",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97734",
+     "sha256": "faa0d8670db2ba5cdc9c01247ec71650dd413e933f3254ddfb11557db404f3f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2451-c-2008",
+   "path": "ordin/justitie/2008/2451-c",
+   "short": "Ordin justitie nr. 2451/C/2008",
+   "title": "Ordinul nr. 2.451/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97766",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97766",
+     "sha256": "50e1e355b6185b1f43d173597e45e855f656a59ac199bb0b34946282df9f10dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2452-c-2008",
+   "path": "ordin/justitie/2008/2452-c",
+   "short": "Ordin justitie nr. 2452/C/2008",
+   "title": "Ordinul nr. 2.452/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97817",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97817",
+     "sha256": "a4b1725bc8941438e03deafe0f590ad1b9378e0670c05c74e2c1ab8d9117dba4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2453-c-2008",
+   "path": "ordin/justitie/2008/2453-c",
+   "short": "Ordin justitie nr. 2453/C/2008",
+   "title": "Ordinul nr. 2.453/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97885",
+   "versions": [
+    {
+     "from": "2008-10-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97885",
+     "sha256": "be366a334aa0ddba1716ccd17272181ec42e86c7839daecdeaaafaee4cffb6cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2455-2008",
+   "path": "ordin/justitie/2008/2455",
+   "short": "Ordin justitie nr. 2455/2008",
+   "title": "Ordinul nr. 2.455/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97844",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97844",
+     "sha256": "3a7af2c38ad3cd20d80ddb43a8a0d0c21829ad5ef1580246b33cf5e83528fc26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2457-c-2008",
+   "path": "ordin/justitie/2008/2457-c",
+   "short": "Ordin justitie nr. 2457/C/2008",
+   "title": "Ordinul nr. 2.457/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97679",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97679",
+     "sha256": "f26973587a888b21f450ab655c87b2a74e329ad4b03cb9849b3edfa595925b67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2491-c-2008",
+   "path": "ordin/justitie/2008/2491-c",
+   "short": "Ordin justitie nr. 2491/C/2008",
+   "title": "Ordinul nr. 2.491/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97949",
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97949",
+     "sha256": "b818064b90886abde58f5897ac1347543f281ed438f66f343d2b0a27e0314d97"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2520-c-2008",
    "path": "ordin/justitie/2008/2520-c",
    "short": "Ordin justitie nr. 2520/C/2008",
@@ -12078,6 +13248,36 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2572-c-2008",
+   "path": "ordin/justitie/2008/2572-c",
+   "short": "Ordin justitie nr. 2572/C/2008",
+   "title": "Ordinul nr. 2.572/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98168",
+   "versions": [
+    {
+     "from": "2008-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98168",
+     "sha256": "650dd744c04502167358e1b8029aacc6f6f8cadad3bf74a4bebdda7c5cd2ba14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2573-c-2008",
+   "path": "ordin/justitie/2008/2573-c",
+   "short": "Ordin justitie nr. 2573/C/2008",
+   "title": "Ordinul nr. 2.573/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98244",
+   "versions": [
+    {
+     "from": "2008-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98244",
+     "sha256": "54bce970250f63c17a038bcf47ee8e3e867008b043cc068dc466631d6d06d434"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2589-c-2008",
    "path": "ordin/justitie/2008/2589-c",
    "short": "Ordin justitie nr. 2589/C/2008",
@@ -12104,6 +13304,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98120",
      "sha256": "fa446e20623543730390f9609e5736b9d35447a781943c500d7aeafc53efbae3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2607-c-2008",
+   "path": "ordin/justitie/2008/2607-c",
+   "short": "Ordin justitie nr. 2607/C/2008",
+   "title": "Ordinul nr. 2.607/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98512",
+   "versions": [
+    {
+     "from": "2008-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98512",
+     "sha256": "455671ca2cd166b032b663785278265658498635794f240b88b7140ae07fd6fa"
     }
    ]
   },
@@ -12183,6 +13398,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2748-c-2008",
+   "path": "ordin/justitie/2008/2748-c",
+   "short": "Ordin justitie nr. 2748/C/2008",
+   "title": "Ordinul nr. 2.748/C/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98581",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98581",
+     "sha256": "0d661ac60d1b27fd2361fd27d37269c7850590b58db91ae4905b4da1c5bc1921"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2749-c-2008",
    "path": "ordin/justitie/2008/2749-c",
    "short": "Ordin justitie nr. 2749/C/2008",
@@ -12194,6 +13424,66 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98564",
      "sha256": "7003923fd00e92718d5baca9fb801a172d8c85c2b074851007fa3f8eb6be121b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2757-c-2008",
+   "path": "ordin/justitie/2008/2757-c",
+   "short": "Ordin justitie nr. 2757/C/2008",
+   "title": "Ordinul nr. 2.757/C/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98667",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98667",
+     "sha256": "729ff4093b48909f039e0e419de5a6979af172b25037b0a7e96b3b8760dff409"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2815-c-2008",
+   "path": "ordin/justitie/2008/2815-c",
+   "short": "Ordin justitie nr. 2815/C/2008",
+   "title": "Ordinul nr. 2.815/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99048",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99048",
+     "sha256": "c71546f94d71869f973c5405add3994f3320774534159c032aac56203fa6aae8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2862-c-2008",
+   "path": "ordin/justitie/2008/2862-c",
+   "short": "Ordin justitie nr. 2862/C/2008",
+   "title": "Ordinul nr. 2.862/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99100",
+   "versions": [
+    {
+     "from": "2008-11-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99100",
+     "sha256": "fe53c2490b0227bbab5ac5c6ac9b137fd32110ce1349f0aedee89afaf72b19cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2967-c-2008",
+   "path": "ordin/justitie/2008/2967-c",
+   "short": "Ordin justitie nr. 2967/C/2008",
+   "title": "Ordinul nr. 2.967/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99686",
+   "versions": [
+    {
+     "from": "2008-11-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99686",
+     "sha256": "6e887d240f8c00ea04fbdc3a61eadb17d95999c62f55c3d1724b3fceffec0890"
     }
    ]
   },
@@ -12228,6 +13518,36 @@
    ]
   },
   {
+   "slug": "ordin-justitie-3038-c-2008",
+   "path": "ordin/justitie/2008/3038-c",
+   "short": "Ordin justitie nr. 3038/C/2008",
+   "title": "Ordinul nr. 3.038/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100113",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100113",
+     "sha256": "f3819b192ac4fcc43e8a4a3af0d8ab1e2a3b037b5ad68f28546f65c189a0d2f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3039-c-2008",
+   "path": "ordin/justitie/2008/3039-c",
+   "short": "Ordin justitie nr. 3039/C/2008",
+   "title": "Ordinul nr. 3.039/C/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100143",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100143",
+     "sha256": "1a6da4812507ca4300a4ccc3467b4ff3f9667febba41a2bb33a9d30700ce2a17"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-3062-c-2008",
    "path": "ordin/justitie/2008/3062-c",
    "short": "Ordin justitie nr. 3062/C/2008",
@@ -12254,6 +13574,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100976",
      "sha256": "ce564ecaef59e644960154dc32129c29a575188a3aff31d6090a26887021136d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3168-c-2008",
+   "path": "ordin/justitie/2008/3168-c",
+   "short": "Ordin justitie nr. 3168/C/2008",
+   "title": "Ordinul nr. 3.168/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100715",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100715",
+     "sha256": "4adbfecf6a060cdefad96e1cef82627fc076e2123b985f774d43d47126b4451b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3241-c-2008",
+   "path": "ordin/justitie/2008/3241-c",
+   "short": "Ordin justitie nr. 3241/C/2008",
+   "title": "Ordinul nr. 3.241/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101400",
+   "versions": [
+    {
+     "from": "2009-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101400",
+     "sha256": "3f318aa4f0b69710dbf0da350fd9d8a73173a49b00710867ebe62485e9543a10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3242-c-2008",
+   "path": "ordin/justitie/2008/3242-c",
+   "short": "Ordin justitie nr. 3242/C/2008",
+   "title": "Ordinul nr. 3.242/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101232",
+   "versions": [
+    {
+     "from": "2009-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101232",
+     "sha256": "ed4468b0d8837feff37c4fec3b85906d0dbea2be299ab0043c32a1404e09d699"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3243-c-2008",
+   "path": "ordin/justitie/2008/3243-c",
+   "short": "Ordin justitie nr. 3243/C/2008",
+   "title": "Ordinul nr. 3.243/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101356",
+   "versions": [
+    {
+     "from": "2009-01-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101356",
+     "sha256": "89a2dac1725288f7175b3da8b39eed047a6c82825fb940af3bf31d2865573257"
     }
    ]
   },
@@ -12288,6 +13668,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-456-c-2008",
+   "path": "ordin/justitie/2008/456-c",
+   "short": "Ordin justitie nr. 456/C/2008",
+   "title": "Ordinul nr. 456/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89983",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89983",
+     "sha256": "230a8a28df1ab297287d9cd9f17bb702d68627a02c8f0a78dbc90e7b64f55a87"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-662-c-2008",
    "path": "ordin/justitie/2008/662-c",
    "short": "Ordin justitie nr. 662/C/2008",
@@ -12318,6 +13713,51 @@
    ]
   },
   {
+   "slug": "ordin-justitie-746-c-2008",
+   "path": "ordin/justitie/2008/746-c",
+   "short": "Ordin justitie nr. 746/C/2008",
+   "title": "Ordinul nr. 746/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91396",
+   "versions": [
+    {
+     "from": "2008-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91396",
+     "sha256": "081221b34d3fb919c66a39b2a997982342c22955b3f81145bc931d7f771889c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-769-c-2008",
+   "path": "ordin/justitie/2008/769-c",
+   "short": "Ordin justitie nr. 769/C/2008",
+   "title": "Ordinul nr. 769/C/2008 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90518",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90518",
+     "sha256": "039367cd2fb0c4dabc101ab59a3d2ff088b9932788ebc8e8e6a907b0c4566e1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-788-c-2008",
+   "path": "ordin/justitie/2008/788-c",
+   "short": "Ordin justitie nr. 788/C/2008",
+   "title": "Ordinul nr. 788/C/2008 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90599",
+   "versions": [
+    {
+     "from": "2008-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90599",
+     "sha256": "904766c68cdee4cb1bc3d69893a0a7587d9bbc45670f87d050fe1d7a66e0d6db"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-915-c-2008",
    "path": "ordin/justitie/2008/915-c",
    "short": "Ordin justitie nr. 915/C/2008",
@@ -12344,6 +13784,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97408",
      "sha256": "3a694a6e17efe138a2972ec55ee687c9dda761185231abb25f76d10b879a0f20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-115-2008",
+   "path": "ordin/mediu/2008/115",
+   "short": "Ordin mediu nr. 115/2008",
+   "title": "Ordinul nr. 115/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Administrației Naționale \"Apele Române\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91183",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91183",
+     "sha256": "8e0dc86bd649206c04ba3b97ac80815e3d993ab4e932b78acee301f64e02d203"
     }
    ]
   },
@@ -12738,6 +14193,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-75-2008",
+   "path": "ordin/mediu/2008/75",
+   "short": "Ordin mediu nr. 75/2008",
+   "title": "Ordinul nr. 75/2008 privind aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Administrației Naționale de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90041",
+   "versions": [
+    {
+     "from": "2008-03-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90041",
+     "sha256": "b3010f38e1a3b46df7f2bf6040c5a3c456d35a0eef0af6e512679d04c5d46ae8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-831-2008",
    "path": "ordin/mediu/2008/831",
    "short": "Ordin mediu nr. 831/2008",
@@ -13128,6 +14598,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-258-2008",
+   "path": "ordin/munca/2008/258",
+   "short": "Ordin munca nr. 258/2008",
+   "title": "Ordinul nr. 258/2008 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2008 ale Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale - I.N.C.S.M.P.S. București și Institutului Național de Cercetare-Dezvoltare pentru Protecția Muncii - I.N.C.D.P.M. \"Alexandru Darabont\" București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95365",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95365",
+     "sha256": "c540238a0f02e861e8fa4051479cba44228294c9a753ece15c83f36825b246b8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-26-2008",
    "path": "ordin/munca/2008/26",
    "short": "Ordin munca nr. 26/2008",
@@ -13428,6 +14913,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-61-2008",
+   "path": "ordin/munca/2008/61",
+   "short": "Ordin munca nr. 61/2008",
+   "title": "Ordinul nr. 61/2008 privind stabilirea cuantumului taxei pentru acreditarea furnizorilor de servicii specializate pentru stimularea ocupării forței de muncă pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89829",
+   "versions": [
+    {
+     "from": "2008-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89829",
+     "sha256": "418755fb3d82a36d86b079fc23688979bda3b6e391ec2ea1beeec94ed717ce67"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-64-2008",
    "path": "ordin/munca/2008/64",
    "short": "Ordin munca nr. 64/2008",
@@ -13499,6 +14999,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89512",
      "sha256": "859782381982feb63688a7d05dd20293fb9b7912174c080dfc9747c2d293bf81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-82-2008",
+   "path": "ordin/munca/2008/82",
+   "short": "Ordin munca nr. 82/2008",
+   "title": "Ordinul nr. 82/2008 privind aprobarea constituirii Comitetului de monitorizare pentru Programul operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96526",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96526",
+     "sha256": "d590de931a496fac3c48f115ccedddac16c640dc8243aade11daee38b2e88b7c"
     }
    ]
   },
@@ -13919,6 +15434,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95167",
      "sha256": "3bbf980c2c8f8678d0033aee4ebd8dd72e81a2735ea358b8c7df385a4d4c0a80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1225-2008",
+   "path": "ordin/sanatate/2008/1225",
+   "short": "Ordin sanatate nr. 1225/2008",
+   "title": "Ordinul nr. 1.225/2008 pentru modificarea și completarea Ordinului ministrului sănătății publice nr. 722/2006 privind acreditarea unităților sanitare care pot efectua activități de bănci de țesuturi umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95369",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95369",
+     "sha256": "ed7f4bcf6e5b71ed66e1652901606a835a4f586650b0b0c1806d52e0669dea5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1254-2008",
+   "path": "ordin/sanatate/2008/1254",
+   "short": "Ordin sanatate nr. 1254/2008",
+   "title": "Ordinul nr. 1.254/2008 privind modificarea și completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95589",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95589",
+     "sha256": "c9a20539aa79adcfff1b28be204f91e4bde76a1f88a6bce7649299f4e5836230"
     }
    ]
   },
@@ -14373,6 +15918,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1557-2008",
+   "path": "ordin/sanatate/2008/1557",
+   "short": "Ordin sanatate nr. 1557/2008",
+   "title": "Ordinul nr. 1.557/2008 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97442",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97442",
+     "sha256": "9ba50ebaee310cd86ff4546b789cafb3d93ce758a52058190c2048ca6dab7a87"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1563-2008",
    "path": "ordin/sanatate/2008/1563",
    "short": "Ordin sanatate nr. 1563/2008",
@@ -14493,6 +16053,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1638-2008",
+   "path": "ordin/sanatate/2008/1638",
+   "short": "Ordin sanatate nr. 1638/2008",
+   "title": "Ordinul nr. 1.638/2008 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2008 al Institutului Național de Cercetare-Dezvoltare pentru Microbiologie și Imunologie \"Cantacuzino\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99595",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99595",
+     "sha256": "956f0c65506f971cdbe20d08a37c1f3157503b1f9f33096d218f761620870fb6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-165-2008",
    "path": "ordin/sanatate/2008/165",
    "short": "Ordin sanatate nr. 165/2008",
@@ -14579,6 +16154,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91135",
      "sha256": "5aa555f2646deb5e983c1f0e6c6806469cb1a8aaf04dfce88254bab1b5e66e45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-169-2008",
+   "path": "ordin/sanatate/2008/169",
+   "short": "Ordin sanatate nr. 169/2008",
+   "title": "Ordinul nr. 169/2008 privind înființarea comisiilor consultative ale Ministerului Sănătății Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89885",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89885",
+     "sha256": "eab3faea497d3c5be8b42dd819348899b5cbecea6e12deeea1a2997b88bb8f73"
     }
    ]
   },
@@ -15483,6 +17073,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-76-2008",
+   "path": "ordin/sanatate/2008/76",
+   "short": "Ordin sanatate nr. 76/2008",
+   "title": "Ordinul nr. 76/2008 pentru modificarea și completarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89134",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89134",
+     "sha256": "02f28610e60927ebb27ccf6910c20a5973204c4377aad7765658bf86dcfde638"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-832-2008",
    "path": "ordin/sanatate/2008/832",
    "short": "Ordin sanatate nr. 832/2008",
@@ -15584,6 +17189,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94917",
      "sha256": "78d4ccfc0633f36d86d33c9fa3ae340f163ad187b97d50b5c4dc0d95a9316a3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1154-2008",
+   "path": "ordin/sri/2008/1154",
+   "short": "Ordin sri nr. 1154/2008",
+   "title": "Ordinul nr. 1.154/2008 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2008 al Regiei Autonome \"Rasirom\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91086",
+   "versions": [
+    {
+     "from": "2008-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91086",
+     "sha256": "493bdeff69ec60478fcdd6334569c6ea89e48e0324053fbb03cbc09e907c1bbc"
     }
    ]
   },
@@ -16173,6 +17793,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-252-2008",
+   "path": "ordin/transporturi/2008/252",
+   "short": "Ordin transporturi nr. 252/2008",
+   "title": "Ordinul nr. 252/2008 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2008 ale operatorilor economici aflați sub autoritatea Ministerului Transporturilor, care primesc sume de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90859",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90859",
+     "sha256": "0a85650102b234f2d612a00502e49fda1a908dbec45d6f2ca4c360da3794341a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-261-2008",
    "path": "ordin/transporturi/2008/261",
    "short": "Ordin transporturi nr. 261/2008",
@@ -16203,6 +17838,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-281-2008",
+   "path": "ordin/transporturi/2008/281",
+   "short": "Ordin transporturi nr. 281/2008",
+   "title": "Ordinul nr. 281/2008 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2008 ale unor operatori economici aflați sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90505",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90505",
+     "sha256": "85d496528ae882aaf8b9c62f30ce1d3e79063332034ea4204849fab35546fb0a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-3-2008",
    "path": "ordin/transporturi/2008/3",
    "short": "Ordin transporturi nr. 3/2008",
@@ -16214,6 +17864,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88781",
      "sha256": "382d9e189cbf21b5fbb44611b9e88c5083316e134240326c7d3d927c1abbd679"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-306-2008",
+   "path": "ordin/transporturi/2008/306",
+   "short": "Ordin transporturi nr. 306/2008",
+   "title": "Ordinul nr. 306/2008 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2008 ale unor operatori economici aflați sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90685",
+   "versions": [
+    {
+     "from": "2008-03-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90685",
+     "sha256": "d17d8c2f12c8de8259b58dd8d03e3922119df97c7f4e23e657753c14685ddd75"
     }
    ]
   },

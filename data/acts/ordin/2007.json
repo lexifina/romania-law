@@ -3,6 +3,120 @@
 "shard": "ordin/2007",
 "acts": [
 {
+"slug": "ordin-aaas-11-2007",
+"path": "ordin/aaas/2007/11",
+"kind": "ordin",
+"year": "2007",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 11/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Autorității pentru Valorificarea Activelor Statului",
+"short": "Ordin aaas nr. 11/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-02",
+"latest": "2007-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79197",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "finante",
+"nr": "169",
+"date": "2007-02-01",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-169-2007"
+}
+]
+},
+{
+"slug": "ordin-aaas-21-2007",
+"path": "ordin/aaas/2007/21",
+"kind": "ordin",
+"year": "2007",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 21/2007 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2007 al Autorității pentru Valorificarea Activelor Statului",
+"short": "Ordin aaas nr. 21/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-27",
+"latest": "2007-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81520",
+"issuer": "aaas",
+"joint": []
+},
+{
+"slug": "ordin-aaas-29-2007",
+"path": "ordin/aaas/2007/29",
+"kind": "ordin",
+"year": "2007",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 29/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 ale Companiei Naționale \"Romarm\" - S.A. București, Societății Comerciale \"Avioane Craiova\" - S.A., Societății Comerciale \"Uzina Mecanică Orăștie\" - S.A., Societății Comerciale \"Romaero\" - S.A. și Societății Comerciale \"Romplumb\" - S.A. Baia Mare",
+"short": "Ordin aaas nr. 29/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-26",
+"latest": "2007-09-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85685",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "finante",
+"nr": "614",
+"date": "2007-06-29",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-614-2007"
+},
+{
+"issuer": "munca",
+"nr": "548",
+"date": "2007-06-18",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-548-2007"
+}
+]
+},
+{
+"slug": "ordin-aaas-45-2007",
+"path": "ordin/aaas/2007/45",
+"kind": "ordin",
+"year": "2007",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 45/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Societății Comerciale \"Radioactiv Mineral Măgurele\" - S.A.",
+"short": "Ordin aaas nr. 45/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-15",
+"latest": "2008-01-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88779",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1774",
+"date": "2007-10-24",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1774-2007"
+},
+{
+"issuer": "munca",
+"nr": "764",
+"date": "2007-08-31",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-764-2007"
+}
+]
+},
+{
 "slug": "ordin-aaas-8601-2007",
 "path": "ordin/aaas/2007/8601",
 "kind": "ordin",
@@ -1217,6 +1331,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80162",
 "issuer": "agricultura",
 "joint": []
+},
+{
+"slug": "ordin-agricultura-196-2007",
+"path": "ordin/agricultura/2007/196",
+"kind": "ordin",
+"year": "2007",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 196/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Regiei Naționale a Pădurilor - Romsilva, care funcționează sub autoritatea Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale",
+"short": "Ordin agricultura nr. 196/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-06",
+"latest": "2007-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81024",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "finante",
+"nr": "506",
+"date": "2007-04-02",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-506-2007"
+},
+{
+"issuer": "munca",
+"nr": "200",
+"date": "2007-03-13",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-200-2007"
+}
+]
 },
 {
 "slug": "ordin-agricultura-208-2007",
@@ -3544,6 +3692,40 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-303603-2007",
+"path": "ordin/agricultura/2007/303603",
+"kind": "ordin",
+"year": "2007",
+"number": "303603",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 303.603/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Regiei Naționale a Pădurilor - Romsilva, care funcționează sub autoritatea Ministerului Agriculturii și Dezvoltării Rurale",
+"short": "Ordin agricultura nr. 303603/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-26",
+"latest": "2007-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87260",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2083",
+"date": "2007-11-16",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2083-2007"
+},
+{
+"issuer": "munca",
+"nr": "894",
+"date": "2007-10-19",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-894-2007"
+}
+]
+},
+{
 "slug": "ordin-anaf-3-2007",
 "path": "ordin/anaf/2007/3",
 "kind": "ordin",
@@ -4015,6 +4197,25 @@
 "from": "2007-10-11",
 "latest": "2007-10-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86035",
+"issuer": "anaf",
+"joint": []
+},
+{
+"slug": "ordin-anaf-1995-2007",
+"path": "ordin/anaf/2007/1995",
+"kind": "ordin",
+"year": "2007",
+"number": "1995",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.995/2007 privind constituirea Comisiei de proceduri fiscale",
+"short": "Ordin anaf nr. 1995/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-26",
+"latest": "2007-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86393",
 "issuer": "anaf",
 "joint": []
 },
@@ -9547,6 +9748,60 @@
 "joint": []
 },
 {
+"slug": "ordin-comunicatii-768-2007",
+"path": "ordin/comunicatii/2007/768",
+"kind": "ordin",
+"year": "2007",
+"number": "768",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 768/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Companiei Naționale \"Poșta Română\" - S.A., la care Ministerul Comunicațiilor și Tehnologiei Informației îndeplinește atribuțiile pe care statul român le are în calitate de acționar",
+"short": "Ordin comunicatii nr. 768/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-10",
+"latest": "2008-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88531",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3",
+"date": "2008-01-03",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-3-2008"
+}
+]
+},
+{
+"slug": "ordin-comunicatii-769-2007",
+"path": "ordin/comunicatii/2007/769",
+"kind": "ordin",
+"year": "2007",
+"number": "769",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 769/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Societății Naționale de Radiocomunicații - S.A., la care Ministerul Comunicațiilor și Tehnologiei Informației îndeplinește atribuțiile pe care statul român le are în calitate de acționar",
+"short": "Ordin comunicatii nr. 769/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-10",
+"latest": "2008-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88564",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2471",
+"date": "2007-12-21",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2471-2007"
+}
+]
+},
+{
 "slug": "ordin-concurenta-41-2007",
 "path": "ordin/concurenta/2007/41",
 "kind": "ordin",
@@ -9965,6 +10220,40 @@
 "joint": []
 },
 {
+"slug": "ordin-cultura-2130-2007",
+"path": "ordin/cultura/2007/2130",
+"kind": "ordin",
+"year": "2007",
+"number": "2130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.130/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale a Imprimeriilor \"Coresi\" - S.A., aflată sub autoritatea Ministerului Culturii și Cultelor",
+"short": "Ordin cultura nr. 2130/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-19",
+"latest": "2007-04-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81297",
+"issuer": "cultura",
+"joint": [
+{
+"issuer": "finante",
+"nr": "535",
+"date": "2007-04-03",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-535-2007"
+},
+{
+"issuer": "munca",
+"nr": "227",
+"date": "2007-03-21",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-227-2007"
+}
+]
+},
+{
 "slug": "ordin-cultura-2185-2007",
 "path": "ordin/cultura/2007/2185",
 "kind": "ordin",
@@ -10058,6 +10347,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84633",
 "issuer": "cultura",
 "joint": []
+},
+{
+"slug": "ordin-cultura-2437-2007",
+"path": "ordin/cultura/2007/2437",
+"kind": "ordin",
+"year": "2007",
+"number": "2437",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.437/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Regiei Autonome a Distribuției și Exploatării Filmelor \"RomâniaFilm\", aflată sub autoritatea Ministerului Culturii și Cultelor",
+"short": "Ordin cultura nr. 2437/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-23",
+"latest": "2007-10-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86313",
+"issuer": "cultura",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1198",
+"date": "2007-09-14",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1198-2007"
+},
+{
+"issuer": "munca",
+"nr": "698",
+"date": "2007-08-08",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-698-2007"
+}
+]
 },
 {
 "slug": "ordin-dezvoltare-448-2007",
@@ -10316,6 +10639,60 @@
 "joint": []
 },
 {
+"slug": "ordin-dezvoltare-875-2007",
+"path": "ordin/dezvoltare/2007/875",
+"kind": "ordin",
+"year": "2007",
+"number": "875",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 875/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Institutului Național de Cercetare-Dezvoltare pentru Urbanism și Amenajarea Teritoriului - URBANPROIECT București",
+"short": "Ordin dezvoltare nr. 875/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-12",
+"latest": "2007-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86861",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1865",
+"date": "2007-11-01",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1865-2007"
+}
+]
+},
+{
+"slug": "ordin-dezvoltare-876-2007",
+"path": "ordin/dezvoltare/2007/876",
+"kind": "ordin",
+"year": "2007",
+"number": "876",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 876/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Institutului Național de Cercetare-Dezvoltare în Construcții și Economia Construcțiilor - INCERC București",
+"short": "Ordin dezvoltare nr. 876/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-15",
+"latest": "2007-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86985",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1917",
+"date": "2007-11-05",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1917-2007"
+}
+]
+},
+{
 "slug": "ordin-dezvoltare-910-2007",
 "path": "ordin/dezvoltare/2007/910",
 "kind": "ordin",
@@ -10489,6 +10866,33 @@
 "joint": []
 },
 {
+"slug": "ordin-dezvoltare-1399-2007",
+"path": "ordin/dezvoltare/2007/1399",
+"kind": "ordin",
+"year": "2007",
+"number": "1399",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.399/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Institutului Național de Cercetare-Dezvoltare în Construcții și Economia Construcțiilor -INCERC București",
+"short": "Ordin dezvoltare nr. 1399/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-22",
+"latest": "2008-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89848",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2444",
+"date": "2007-12-20",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2444-2007"
+}
+]
+},
+{
 "slug": "ordin-dizabilitati-31-2007",
 "path": "ordin/dizabilitati/2007/31",
 "kind": "ordin",
@@ -10647,6 +11051,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/78985",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1560-2007",
+"path": "ordin/economie/2007/1560",
+"kind": "ordin",
+"year": "2007",
+"number": "1560",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.560/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului",
+"short": "Ordin economie nr. 1560/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-18",
+"latest": "2007-04-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81301",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "350",
+"date": "2007-03-02",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-350-2007"
+},
+{
+"issuer": "munca",
+"nr": "145",
+"date": "2007-02-21",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-145-2007"
+}
+]
 },
 {
 "slug": "ordin-economie-1593-2007",
@@ -10913,6 +11351,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81505",
 "issuer": "educatie",
 "joint": []
+},
+{
+"slug": "ordin-educatie-925-2007",
+"path": "ordin/educatie/2007/925",
+"kind": "ordin",
+"year": "2007",
+"number": "925",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 925/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 ale institutelor naționale de cercetare-dezvoltare din coordonarea Autorității Naționale pentru Cercetare Științifică",
+"short": "Ordin educatie nr. 925/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-31",
+"latest": "2007-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84146",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "munca",
+"nr": "371",
+"date": "2007-04-27",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-371-2007"
+},
+{
+"issuer": "finante",
+"nr": "177",
+"date": "2007-05-14",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-177-2007"
+}
+]
 },
 {
 "slug": "ordin-educatie-932-2007",
@@ -12169,6 +12641,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-8-2007",
+"path": "ordin/finante/2007/8",
+"kind": "ordin",
+"year": "2007",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8/2007 privind prospectul de emisiune al certificatelor de trezorerie cu discont aferente lunii ianuarie 2007",
+"short": "Ordin finante nr. 8/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-01-08",
+"latest": "2007-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/78327",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-35-2007",
 "path": "ordin/finante/2007/35",
 "kind": "ordin",
@@ -12397,6 +12888,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-126-2007",
+"path": "ordin/finante/2007/126",
+"kind": "ordin",
+"year": "2007",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 126/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii februarie 2007",
+"short": "Ordin finante nr. 126/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-01",
+"latest": "2007-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79123",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-129-2007",
+"path": "ordin/finante/2007/129",
+"kind": "ordin",
+"year": "2007",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 129/2007 privind susținerea examenului pentru atribuirea calității de consultant fiscal - sesiunea martie 2007",
+"short": "Ordin finante nr. 129/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-02",
+"latest": "2007-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79190",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-149-2007",
 "path": "ordin/finante/2007/149",
 "kind": "ordin",
@@ -12450,6 +12979,25 @@
 "from": "2007-02-02",
 "latest": "2007-02-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79159",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-171-2007",
+"path": "ordin/finante/2007/171",
+"kind": "ordin",
+"year": "2007",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 171/2007 privind delegarea unor atribuții ale ministrului finanțelor publice secretarului de stat coordonator național al asistenței și coordonator național al Programului ISPA",
+"short": "Ordin finante nr. 171/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-12",
+"latest": "2007-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79446",
 "issuer": "finante",
 "joint": []
 },
@@ -12625,6 +13173,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-307-2007",
+"path": "ordin/finante/2007/307",
+"kind": "ordin",
+"year": "2007",
+"number": "307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 307/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii martie 2007",
+"short": "Ordin finante nr. 307/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-27",
+"latest": "2007-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79824",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-327-2007",
 "path": "ordin/finante/2007/327",
 "kind": "ordin",
@@ -12707,6 +13274,60 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80041",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-386-2007",
+"path": "ordin/finante/2007/386",
+"kind": "ordin",
+"year": "2007",
+"number": "386",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 386/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\", regie autonomă de interes național aflată sub autoritatea Secretariatului General al Guvernului",
+"short": "Ordin finante nr. 386/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-14",
+"latest": "2007-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80276",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "152",
+"date": "2007-02-26",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-152-2007"
+}
+]
+},
+{
+"slug": "ordin-finante-402-2007",
+"path": "ordin/finante/2007/402",
+"kind": "ordin",
+"year": "2007",
+"number": "402",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 402/2007 privind modificarea art. I din Ordinul ministrului finanțelor publice și al ministrului administrației și internelor nr. 219/537/2005 pentru aprobarea componenței Comisiei de autorizare a jocurilor de noroc",
+"short": "Ordin finante nr. 402/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-19",
+"latest": "2007-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82940",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "interne",
+"nr": "224",
+"date": "2007-06-07",
+"name": "Ministerul Internelor și Reformei Administrative",
+"alias": "ordin-interne-224-2007"
+}
+]
 },
 {
 "slug": "ordin-finante-414-2007",
@@ -12918,6 +13539,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-464-2007",
+"path": "ordin/finante/2007/464",
+"kind": "ordin",
+"year": "2007",
+"number": "464",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 464/2007 privind delegarea unor atribuții ale ministrului economiei și finanțelor secretarului de stat coordonator național al asistenței financiare externe nerambursabile",
+"short": "Ordin finante nr. 464/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-28",
+"latest": "2007-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83218",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-468-2007",
 "path": "ordin/finante/2007/468",
 "kind": "ordin",
@@ -13013,6 +13653,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-497-2007",
+"path": "ordin/finante/2007/497",
+"kind": "ordin",
+"year": "2007",
+"number": "497",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 497/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Române de Aviație \"Romavia\" - R.A. aflate în coordonarea Ministerului Apărării",
+"short": "Ordin finante nr. 497/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-24",
+"latest": "2007-04-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81419",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "198",
+"date": "2007-03-13",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-198-2007"
+}
+]
+},
+{
 "slug": "ordin-finante-498-2007",
 "path": "ordin/finante/2007/498",
 "kind": "ordin",
@@ -13047,6 +13714,63 @@
 "from": "2007-04-11",
 "latest": "2007-04-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/81066",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-505-2007",
+"path": "ordin/finante/2007/505",
+"kind": "ordin",
+"year": "2007",
+"number": "505",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 505/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii aprilie 2007",
+"short": "Ordin finante nr. 505/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-03",
+"latest": "2007-04-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80894",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-510-2007",
+"path": "ordin/finante/2007/510",
+"kind": "ordin",
+"year": "2007",
+"number": "510",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 510/2007 privind modificarea prospectului de emisiune al obligațiunilor de stat de tip benchmark aferente lunii aprilie 2007, aprobat prin Ordinul ministrului finanțelor publice nr. 505/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii aprilie 2007",
+"short": "Ordin finante nr. 510/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-04",
+"latest": "2007-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80925",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-514-2007",
+"path": "ordin/finante/2007/514",
+"kind": "ordin",
+"year": "2007",
+"number": "514",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 514/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale \"Imprimeria Națională\" - S.A., companie națională aflată sub autoritatea Ministerului Finanțelor Publice",
+"short": "Ordin finante nr. 514/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-12",
+"latest": "2007-04-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81099",
 "issuer": "finante",
 "joint": []
 },
@@ -13241,6 +13965,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-599-2007",
+"path": "ordin/finante/2007/599",
+"kind": "ordin",
+"year": "2007",
+"number": "599",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 599/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iulie 2007",
+"short": "Ordin finante nr. 599/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-06",
+"latest": "2007-07-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83414",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-616-2007",
 "path": "ordin/finante/2007/616",
 "kind": "ordin",
@@ -13298,6 +14041,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-674-2007",
+"path": "ordin/finante/2007/674",
+"kind": "ordin",
+"year": "2007",
+"number": "674",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 674/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii august 2007",
+"short": "Ordin finante nr. 674/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-02",
+"latest": "2007-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84124",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-762-2007",
 "path": "ordin/finante/2007/762",
 "kind": "ordin",
@@ -13332,6 +14094,52 @@
 "from": "2007-07-30",
 "latest": "2007-07-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/83953",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-776-2007",
+"path": "ordin/finante/2007/776",
+"kind": "ordin",
+"year": "2007",
+"number": "776",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 776/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Regiei Naționale a Pădurilor - Romsilva, care funcționează sub autoritatea Ministerului Agriculturii și Dezvoltării Rurale",
+"short": "Ordin finante nr. 776/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-21",
+"latest": "2007-08-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84641",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "592",
+"date": "2007-06-28",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-592-2007"
+}
+]
+},
+{
+"slug": "ordin-finante-797-2007",
+"path": "ordin/finante/2007/797",
+"kind": "ordin",
+"year": "2007",
+"number": "797",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 797/2007 pentru abrogarea Ordinului ministrului finanțelor publice nr. 1.186/2006 privind deschiderea procedurii de reorganizare judiciară și faliment de către organele fiscale competente și propunerile de numire a lichidatorilor",
+"short": "Ordin finante nr. 797/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-31",
+"latest": "2007-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83979",
 "issuer": "finante",
 "joint": []
 },
@@ -13416,6 +14224,25 @@
 "from": "2007-08-27",
 "latest": "2007-08-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84775",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-955-2007",
+"path": "ordin/finante/2007/955",
+"kind": "ordin",
+"year": "2007",
+"number": "955",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 955/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii septembrie 2007",
+"short": "Ordin finante nr. 955/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-05",
+"latest": "2007-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85120",
 "issuer": "finante",
 "joint": []
 },
@@ -13682,6 +14509,44 @@
 "from": "2007-10-02",
 "latest": "2007-10-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/85796",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1404-2007",
+"path": "ordin/finante/2007/1404",
+"kind": "ordin",
+"year": "2007",
+"number": "1404",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.404/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii octombrie 2007",
+"short": "Ordin finante nr. 1404/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-03",
+"latest": "2007-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85861",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1457-2007",
+"path": "ordin/finante/2007/1457",
+"kind": "ordin",
+"year": "2007",
+"number": "1457",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.457/2007 pentru numirea Comisiei de evaluare a subproiectelor depuse de autoritățile publice locale pentru finanțare din subcomponenta de infrastructură municipală",
+"short": "Ordin finante nr. 1457/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-10",
+"latest": "2007-10-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86003",
 "issuer": "finante",
 "joint": []
 },
@@ -14231,6 +15096,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1820-2007",
+"path": "ordin/finante/2007/1820",
+"kind": "ordin",
+"year": "2007",
+"number": "1820",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.820/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii noiembrie 2007",
+"short": "Ordin finante nr. 1820/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-31",
+"latest": "2007-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86558",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1823-2007",
 "path": "ordin/finante/2007/1823",
 "kind": "ordin",
@@ -14307,6 +15191,60 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1956-2007",
+"path": "ordin/finante/2007/1956",
+"kind": "ordin",
+"year": "2007",
+"number": "1956",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.956/2007 pentru modificarea anexelor nr. 3 și 8 la Ordinul ministrului economiei și comerțului, al ministrului finanțelor publice și al ministrului muncii, solidarității sociale și familiei nr. 1.560/350/145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului, și aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru unii operatori din industria minieră",
+"short": "Ordin finante nr. 1956/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-17",
+"latest": "2008-01-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88899",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "974",
+"date": "2007-11-12",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-974-2007"
+}
+]
+},
+{
+"slug": "ordin-finante-1957-2007",
+"path": "ordin/finante/2007/1957",
+"kind": "ordin",
+"year": "2007",
+"number": "1957",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.957/2007 pentru modificarea anexelor nr. 10, 11, 12 și 13 la Ordinul ministrului economiei și comerțului nr. 1.560/2007, la Ordinul ministrului finanțelor publice nr. 350/2007 și la Ordinul ministrului muncii, solidarității sociale și familiei nr. 145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului",
+"short": "Ordin finante nr. 1957/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-20",
+"latest": "2007-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88130",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "975",
+"date": "2007-11-12",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-975-2007"
+}
+]
+},
+{
 "slug": "ordin-finante-1969-2007",
 "path": "ordin/finante/2007/1969",
 "kind": "ordin",
@@ -14345,6 +15283,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2014-2007",
+"path": "ordin/finante/2007/2014",
+"kind": "ordin",
+"year": "2007",
+"number": "2014",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.014/2007 privind rectificarea bugetului de venituri și cheltuieli pe anul 2007 al Agenției Naționale pentru Deșeuri Radioactive",
+"short": "Ordin finante nr. 2014/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-26",
+"latest": "2007-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87279",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2067-2007",
 "path": "ordin/finante/2007/2067",
 "kind": "ordin",
@@ -14362,6 +15319,60 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87380",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-2138-2007",
+"path": "ordin/finante/2007/2138",
+"kind": "ordin",
+"year": "2007",
+"number": "2138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.138/2007 pentru modificarea anexei nr. 9 la Ordinul ministrului economiei și comerțului nr. 1.560/2007, la Ordinul ministrului finanțelor publice nr. 350/2007, la Ordinul ministrului muncii, solidarității sociale și familiei nr. 145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului",
+"short": "Ordin finante nr. 2138/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-04",
+"latest": "2008-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88350",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1035",
+"date": "2007-11-28",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-1035-2007"
+}
+]
+},
+{
+"slug": "ordin-finante-2140-2007",
+"path": "ordin/finante/2007/2140",
+"kind": "ordin",
+"year": "2007",
+"number": "2140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.140/2007 pentru modificarea anexei nr. 1 la Ordinul ministrului economiei și comerțului, al ministrului finanțelor publice și al ministrului muncii, solidarității sociale și familiei nr. 1.560/350/145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului, cu modificările ulterioare",
+"short": "Ordin finante nr. 2140/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-04",
+"latest": "2007-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87519",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1010",
+"date": "2007-11-21",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-1010-2007"
+}
+]
 },
 {
 "slug": "ordin-finante-2165-2007",
@@ -14383,6 +15394,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2168-2007",
+"path": "ordin/finante/2007/2168",
+"kind": "ordin",
+"year": "2007",
+"number": "2168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.168/2007 pentru modificarea anexelor nr. 1 și 9 la Ordinul ministrului economiei și comerțului nr. 1.547/2007 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2007 ale institutelor naționale de cercetare-dezvoltare care funcționează în baza prevederilor Ordonanței Guvernului nr. 57/2002 și își desfășoară activitatea sub autoritatea Ministerului Economiei și Comerțului",
+"short": "Ordin finante nr. 2168/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-12",
+"latest": "2007-12-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87809",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2173-2007",
+"path": "ordin/finante/2007/2173",
+"kind": "ordin",
+"year": "2007",
+"number": "2173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.173/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Companiei Naționale \"Loteria Română\" - S.A., companie națională aflată sub autoritatea Ministerului Economiei și Finanțelor",
+"short": "Ordin finante nr. 2173/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-06",
+"latest": "2007-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87591",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2180-2007",
 "path": "ordin/finante/2007/2180",
 "kind": "ordin",
@@ -14398,6 +15447,52 @@
 "from": "2007-12-04",
 "latest": "2007-12-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87500",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2230-2007",
+"path": "ordin/finante/2007/2230",
+"kind": "ordin",
+"year": "2007",
+"number": "2230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.230/2007 pentru modificarea anexelor nr. 2 și 2a la Ordinul ministrului economiei și comerțului nr. 1.560/2007, la Ordinul ministrului finanțelor publice nr. 350/2007 și la Ordinul ministrului muncii, solidarității sociale și familiei nr. 145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului",
+"short": "Ordin finante nr. 2230/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-04",
+"latest": "2008-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88354",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1070",
+"date": "2007-12-10",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-1070-2007"
+}
+]
+},
+{
+"slug": "ordin-finante-2273-2007",
+"path": "ordin/finante/2007/2273",
+"kind": "ordin",
+"year": "2007",
+"number": "2273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.273/2007 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2007",
+"short": "Ordin finante nr. 2273/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-06",
+"latest": "2007-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87596",
 "issuer": "finante",
 "joint": []
 },
@@ -14436,6 +15531,25 @@
 "from": "2008-01-01",
 "latest": "2008-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/87979",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2337-2007",
+"path": "ordin/finante/2007/2337",
+"kind": "ordin",
+"year": "2007",
+"number": "2337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.337/2007 privind delegarea unor atribuții ale ministrului economiei și finanțelor secretarului de stat coordonator național al asistenței financiare externe nerambursabile",
+"short": "Ordin finante nr. 2337/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-18",
+"latest": "2007-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87975",
 "issuer": "finante",
 "joint": []
 },
@@ -14535,6 +15649,60 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2427-2007",
+"path": "ordin/finante/2007/2427",
+"kind": "ordin",
+"year": "2007",
+"number": "2427",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.427/2007 pentru modificarea anexelor nr. 6, 12 și 13 la Ordinul ministrului economiei și comerțului nr. 1.560/2007, la Ordinul ministrului finanțelor publice nr. 350/2007 și la Ordinul ministrului muncii, solidarității sociale și familiei nr. 145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului",
+"short": "Ordin finante nr. 2427/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-16",
+"latest": "2008-01-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88880",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1110",
+"date": "2007-12-21",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-1110-2007"
+}
+]
+},
+{
+"slug": "ordin-finante-2442-2007",
+"path": "ordin/finante/2007/2442",
+"kind": "ordin",
+"year": "2007",
+"number": "2442",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.442/2007 pentru modificarea anexei nr. 7 la Ordinul ministrului economiei și comerțului nr. 1.560/2007 la Ordinul ministrului finanțelor publice nr. 350/2007 și Ordinul ministrului muncii, solidarității sociale și familiei nr. 145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului, și a anexei nr. 3 la Ordinul ministrului economiei și finanțelor nr. 1.956/2007 și Ordinul ministrului muncii, familiei și egalității de șanse nr. 974/2007 pentru modificarea anexelor nr. 3 și 8 la Ordinul ministrului economiei și comerțului nr. 1.560/2007 la Ordinul ministrului finanțelor publice nr. 350/2007 și la Ordinul ministrului muncii, solidarității sociale și familiei nr. 145/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru companiile, societățile naționale și societățile comerciale, aflate sub autoritatea sau în coordonarea Ministerului Economiei și Comerțului, și aprobarea bugetelor de venituri și cheltuieli pe anul 2007 pentru unii operatori din industria minieră",
+"short": "Ordin finante nr. 2442/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-23",
+"latest": "2008-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89019",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "13",
+"date": "2008-01-10",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-13-2008"
+}
+]
+},
+{
 "slug": "ordin-finante-2461-2007",
 "path": "ordin/finante/2007/2461",
 "kind": "ordin",
@@ -14626,6 +15794,63 @@
 "from": "2008-01-09",
 "latest": "2008-01-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88464",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2497-2007",
+"path": "ordin/finante/2007/2497",
+"kind": "ordin",
+"year": "2007",
+"number": "2497",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.497/2007 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii ianuarie 2008",
+"short": "Ordin finante nr. 2497/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-07",
+"latest": "2008-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88387",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2501-2007",
+"path": "ordin/finante/2007/2501",
+"kind": "ordin",
+"year": "2007",
+"number": "2501",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.501/2007 privind modificarea anexei nr. 4 la Ordinul ministrului economiei și comerțului nr. 1.547/2007 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2007 ale institutelor naționale de cercetare-dezvoltare, care funcționează în baza prevederilor Ordonanței Guvernului nr. 57/2002 și își desfășoară activitatea sub autoritatea Ministerului Economiei și Comerțului",
+"short": "Ordin finante nr. 2501/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-24",
+"latest": "2008-01-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89065",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2506-2007",
+"path": "ordin/finante/2007/2506",
+"kind": "ordin",
+"year": "2007",
+"number": "2506",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.506/2007 privind modificarea anexelor nr. 6 și 8 la Ordinul ministrului economiei și comerțului nr. 1.547/2007 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2007 ale institutelor naționale de cercetare-dezvoltare care funcționează în baza prevederilor Ordonanței Guvernului nr. 57/2002 și își desfășoară activitatea sub autoritatea Ministerului Economiei și Comerțului",
+"short": "Ordin finante nr. 2506/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-12",
+"latest": "2008-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89495",
 "issuer": "finante",
 "joint": []
 },
@@ -15797,6 +17022,33 @@
 "joint": []
 },
 {
+"slug": "ordin-interne-285-2007",
+"path": "ordin/interne/2007/285",
+"kind": "ordin",
+"year": "2007",
+"number": "285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 285/2007 privind constituirea Comitetului pentru finanțe publice locale",
+"short": "Ordin interne nr. 285/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-24",
+"latest": "2007-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85568",
+"issuer": "interne",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1169",
+"date": "2007-09-11",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1169-2007"
+}
+]
+},
+{
 "slug": "ordin-interne-286-2007",
 "path": "ordin/interne/2007/286",
 "kind": "ordin",
@@ -16360,6 +17612,40 @@
 "joint": []
 },
 {
+"slug": "ordin-justitie-664-c-2007",
+"path": "ordin/justitie/2007/664-c",
+"kind": "ordin",
+"year": "2007",
+"number": "664-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 664/C/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Regiei Autonome \"Multiproduct\", monitorizată în baza prevederilor art. 11 din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar, aprobată cu modificări prin Legea nr. 59/2002, cu completările ulterioare",
+"short": "Ordin justitie nr. 664/C/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-10",
+"latest": "2007-04-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81026",
+"issuer": "justitie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "424",
+"date": "2007-03-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-424-2007"
+},
+{
+"issuer": "munca",
+"nr": "211",
+"date": "2007-03-19",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-211-2007"
+}
+]
+},
+{
 "slug": "ordin-justitie-928-c-2007",
 "path": "ordin/justitie/2007/928-c",
 "kind": "ordin",
@@ -16870,6 +18156,25 @@
 "joint": []
 },
 {
+"slug": "ordin-justitie-2961-c-2007",
+"path": "ordin/justitie/2007/2961-c",
+"kind": "ordin",
+"year": "2007",
+"number": "2961-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.961/C/2007 privind acordarea cetățeniei române unor persoane",
+"short": "Ordin justitie nr. 2961/C/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-28",
+"latest": "2007-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87349",
+"issuer": "justitie",
+"joint": []
+},
+{
 "slug": "ordin-justitie-3042-c-2007",
 "path": "ordin/justitie/2007/3042-c",
 "kind": "ordin",
@@ -16885,6 +18190,44 @@
 "from": "2007-12-27",
 "latest": "2007-12-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88174",
+"issuer": "justitie",
+"joint": []
+},
+{
+"slug": "ordin-justitie-3181-c-2007",
+"path": "ordin/justitie/2007/3181-c",
+"kind": "ordin",
+"year": "2007",
+"number": "3181-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.181/C/2007 privind redobândirea cetățeniei române de către unele persoane",
+"short": "Ordin justitie nr. 3181/C/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-10",
+"latest": "2007-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87717",
+"issuer": "justitie",
+"joint": []
+},
+{
+"slug": "ordin-justitie-3422-c-2007",
+"path": "ordin/justitie/2007/3422-c",
+"kind": "ordin",
+"year": "2007",
+"number": "3422-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.422/C/2007 privind redobândirea cetățeniei române de către unele persoane",
+"short": "Ordin justitie nr. 3422/C/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-19",
+"latest": "2007-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88033",
 "issuer": "justitie",
 "joint": []
 },
@@ -16942,6 +18285,25 @@
 "from": "2007-12-21",
 "latest": "2007-12-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88118",
+"issuer": "justitie",
+"joint": []
+},
+{
+"slug": "ordin-justitie-3529-c-2007",
+"path": "ordin/justitie/2007/3529-c",
+"kind": "ordin",
+"year": "2007",
+"number": "3529-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.529/C/2007 privind redobândirea cetățeniei române de către unele persoane",
+"short": "Ordin justitie nr. 3529/C/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-27",
+"latest": "2007-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88199",
 "issuer": "justitie",
 "joint": []
 },
@@ -17060,6 +18422,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-87-2007",
+"path": "ordin/mediu/2007/87",
+"kind": "ordin",
+"year": "2007",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 87/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Administrației Naționale de Meteorologie",
+"short": "Ordin mediu nr. 87/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-11",
+"latest": "2007-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81063",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "finante",
+"nr": "440",
+"date": "2007-03-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-440-2007"
+},
+{
+"issuer": "munca",
+"nr": "112",
+"date": "2007-02-12",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-112-2007"
+}
+]
+},
+{
 "slug": "ordin-mediu-111-2007",
 "path": "ordin/mediu/2007/111",
 "kind": "ordin",
@@ -17077,6 +18473,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79639",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-137-2007",
+"path": "ordin/mediu/2007/137",
+"kind": "ordin",
+"year": "2007",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 137/2007 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2007 ale Institutului Național de Cercetare-Dezvoltare pentru Protecția Mediului - I.C.I.M. București, Institutului Național de Cercetare-Dezvoltare Marină \"Grigore Antipa\" - I.N.C.D.M. Constanța și Institutului Național de Cercetare-Dezvoltare \"Delta Dunării\" - I.N.C.D.D.D. Tulcea",
+"short": "Ordin mediu nr. 137/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-11",
+"latest": "2007-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81065",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "finante",
+"nr": "502",
+"date": "2007-03-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-502-2007"
+},
+{
+"issuer": "munca",
+"nr": "113",
+"date": "2007-02-12",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-113-2007"
+}
+]
 },
 {
 "slug": "ordin-mediu-224-2007",
@@ -17362,6 +18792,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82114",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-821-2007",
+"path": "ordin/mediu/2007/821",
+"kind": "ordin",
+"year": "2007",
+"number": "821",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 821/2007 privind aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Administrației Naționale \"Apele Române\"",
+"short": "Ordin mediu nr. 821/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-01",
+"latest": "2007-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82542",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "finante",
+"nr": "19041",
+"date": "2007-05-25",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-19041-2007"
+},
+{
+"issuer": "munca",
+"nr": "437",
+"date": "2007-05-17",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-437-2007"
+}
+]
 },
 {
 "slug": "ordin-mediu-910-2007",
@@ -17809,6 +19273,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-1649-2007",
+"path": "ordin/mediu/2007/1649",
+"kind": "ordin",
+"year": "2007",
+"number": "1649",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.649/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Administrației Naționale de Meteorologie",
+"short": "Ordin mediu nr. 1649/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-27",
+"latest": "2007-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88221",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2375",
+"date": "2007-12-12",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2375-2007"
+},
+{
+"issuer": "munca",
+"nr": "930",
+"date": "2007-10-30",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-930-2007"
+}
+]
+},
+{
 "slug": "ordin-mediu-1671-2007",
 "path": "ordin/mediu/2007/1671",
 "kind": "ordin",
@@ -17826,6 +19324,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86630",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-1707-2007",
+"path": "ordin/mediu/2007/1707",
+"kind": "ordin",
+"year": "2007",
+"number": "1707",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.707/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Administrației Naționale \"Apele Române\"",
+"short": "Ordin mediu nr. 1707/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-08",
+"latest": "2008-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88475",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2416",
+"date": "2007-12-18",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2416-2007"
+},
+{
+"issuer": "munca",
+"nr": "977",
+"date": "2007-11-12",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-977-2007"
+}
+]
 },
 {
 "slug": "ordin-mediu-1710-2007",
@@ -18094,6 +19626,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-25-2007",
+"path": "ordin/munca/2007/25",
+"kind": "ordin",
+"year": "2007",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 25/2007 privind modificarea anexei nr. 2 la Ordinul ministrului muncii, solidarității sociale și familiei nr. 754/2006 pentru constituirea comisiilor de abilitare a serviciilor externe de prevenire și protecție și de avizare a documentațiilor cu caracter tehnic de informare și instruire în domeniul securității și sănătății în muncă",
+"short": "Ordin munca nr. 25/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-01-22",
+"latest": "2007-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/78786",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-26-2007",
 "path": "ordin/munca/2007/26",
 "kind": "ordin",
@@ -18147,6 +19698,25 @@
 "from": "2007-02-21",
 "latest": "2007-02-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79667",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-116-2007",
+"path": "ordin/munca/2007/116",
+"kind": "ordin",
+"year": "2007",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 116/2007 privind stabilirea cuantumului taxei pentru acreditarea furnizorilor de servicii specializate pentru stimularea ocupării forței de muncă",
+"short": "Ordin munca nr. 116/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-23",
+"latest": "2007-02-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79750",
 "issuer": "munca",
 "joint": []
 },
@@ -18649,6 +20219,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-12-2007",
+"path": "ordin/sanatate/2007/12",
+"kind": "ordin",
+"year": "2007",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 12/2007 pentru modificarea și completarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății, cu modificările și completările ulterioare",
+"short": "Ordin sanatate nr. 12/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-01-22",
+"latest": "2007-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/78782",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-13-2007",
 "path": "ordin/sanatate/2007/13",
 "kind": "ordin",
@@ -18778,6 +20367,25 @@
 "from": "2007-01-31",
 "latest": "2007-01-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/79087",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-137-2007",
+"path": "ordin/sanatate/2007/137",
+"kind": "ordin",
+"year": "2007",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 137/2007 pentru modificarea și completarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății, cu modificările și completările ulterioare",
+"short": "Ordin sanatate nr. 137/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-06",
+"latest": "2007-02-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79270",
 "issuer": "sanatate",
 "joint": []
 },
@@ -19129,6 +20737,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-551-2007",
+"path": "ordin/sanatate/2007/551",
+"kind": "ordin",
+"year": "2007",
+"number": "551",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 551/2007 pentru modificarea Ordinului ministrului sănătății nr. 534/2005 privind acreditarea unităților sanitare care pot efectua activități de declarare a donatorilor, de testare, prelevare, coordonare și transplant",
+"short": "Ordin sanatate nr. 551/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-29",
+"latest": "2007-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80698",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-558-2007",
 "path": "ordin/sanatate/2007/558",
 "kind": "ordin",
@@ -19297,6 +20924,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-666-2007",
+"path": "ordin/sanatate/2007/666",
+"kind": "ordin",
+"year": "2007",
+"number": "666",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 666/2007 privind aprobarea bugetului de venituri și cheltuieli al Companiei Naționale \"Unifarm\" - S.A. pe anul 2007",
+"short": "Ordin sanatate nr. 666/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-24",
+"latest": "2007-04-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81429",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-691-2007",
 "path": "ordin/sanatate/2007/691",
 "kind": "ordin",
@@ -19348,6 +20994,25 @@
 "alias": "ordin-agricultura-446-2007"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-693-2007",
+"path": "ordin/sanatate/2007/693",
+"kind": "ordin",
+"year": "2007",
+"number": "693",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 693/2007 pentru modificarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății, cu modificările și completările ulterioare",
+"short": "Ordin sanatate nr. 693/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-02",
+"latest": "2007-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81554",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-695-2007",
@@ -19440,6 +21105,25 @@
 "alias": "ordin-interne-192-2007"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-802-2007",
+"path": "ordin/sanatate/2007/802",
+"kind": "ordin",
+"year": "2007",
+"number": "802",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 802/2007 pentru completarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății, cu modificările și completările ulterioare",
+"short": "Ordin sanatate nr. 802/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-11",
+"latest": "2007-05-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81887",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-810-2007",
@@ -19621,6 +21305,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-885-2007",
+"path": "ordin/sanatate/2007/885",
+"kind": "ordin",
+"year": "2007",
+"number": "885",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 885/2007 pentru modificarea și completarea Ordinului ministrului sănătății publice nr. 880/2006 privind aprobarea Regulamentului de organizare și funcționare a autorităților de sănătate publică județene, respectiv a municipiului București, și a structurii organizatorice a acestor autorități",
+"short": "Ordin sanatate nr. 885/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-22",
+"latest": "2007-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82234",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-886-2007",
 "path": "ordin/sanatate/2007/886",
 "kind": "ordin",
@@ -19709,6 +21412,25 @@
 "from": "2007-06-04",
 "latest": "2007-06-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/82530",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-964-2007",
+"path": "ordin/sanatate/2007/964",
+"kind": "ordin",
+"year": "2007",
+"number": "964",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 964/2007 pentru modificarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății, cu modificările și completările ulterioare",
+"short": "Ordin sanatate nr. 964/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-06",
+"latest": "2007-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82601",
 "issuer": "sanatate",
 "joint": []
 },
@@ -19810,6 +21532,25 @@
 "alias": "ordin-cnas-354-2007"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1068-2007",
+"path": "ordin/sanatate/2007/1068",
+"kind": "ordin",
+"year": "2007",
+"number": "1068",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.068/2007 pentru modificarea și completarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății",
+"short": "Ordin sanatate nr. 1068/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-29",
+"latest": "2007-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83256",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1069-2007",
@@ -20159,6 +21900,25 @@
 "from": "2007-08-02",
 "latest": "2007-08-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/84077",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1216-2007",
+"path": "ordin/sanatate/2007/1216",
+"kind": "ordin",
+"year": "2007",
+"number": "1216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.216/2007 pentru modificarea și completarea Ordinului ministrului sănătății publice nr. 722/2006 privind acreditarea unităților sanitare care pot efectua activități de bănci de țesuturi umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+"short": "Ordin sanatate nr. 1216/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-25",
+"latest": "2007-07-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83833",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20630,6 +22390,25 @@
 "alias": "ordin-cnas-677-2007"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1505-2007",
+"path": "ordin/sanatate/2007/1505",
+"kind": "ordin",
+"year": "2007",
+"number": "1505",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.505/2007 pentru modificarea Ordinului ministrului sănătății nr. 466/2006 privind înființarea comisiilor consultative ale Ministerului Sănătății",
+"short": "Ordin sanatate nr. 1505/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-09",
+"latest": "2007-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85978",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1553-2007",
@@ -21181,6 +22960,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1919-2007",
+"path": "ordin/sanatate/2007/1919",
+"kind": "ordin",
+"year": "2007",
+"number": "1919",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.919/2007 privind nominalizarea spitalelor generale care asigură asistență medicală de urgență pentru adulți și copii, pe sectoarele municipiului București",
+"short": "Ordin sanatate nr. 1919/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-13",
+"latest": "2007-11-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86878",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1955-2007",
 "path": "ordin/sanatate/2007/1955",
 "kind": "ordin",
@@ -21601,6 +23399,74 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-25-2007",
+"path": "ordin/transporturi/2007/25",
+"kind": "ordin",
+"year": "2007",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 25/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Societății Naționale de Transport Feroviar de Călători \"CFR Călători\" - S.A., aflată sub autoritatea Ministerului Transporturilor, monitorizată în baza prevederilor art. 1 din Hotărârea Guvernului nr. 134/2007 pentru aprobarea listei cuprinzând operatorii economici care se încadrează în prevederile art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar",
+"short": "Ordin transporturi nr. 25/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-15",
+"latest": "2007-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82083",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "127",
+"date": "2007-05-04",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-127-2007"
+},
+{
+"issuer": "munca",
+"nr": "333",
+"date": "2007-04-19",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-333-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-26-2007",
+"path": "ordin/transporturi/2007/26",
+"kind": "ordin",
+"year": "2007",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 26/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale de Căi Ferate \"CFR\" - S.A., aflată sub autoritatea Ministerului Transporturilor, monitorizată în baza prevederilor art. 1 din Hotărârea Guvernului nr. 134/2007 pentru aprobarea listei cuprinzând operatorii economici care se încadrează în prevederile art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar",
+"short": "Ordin transporturi nr. 26/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-11",
+"latest": "2007-05-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81986",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "128",
+"date": "2007-05-04",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-128-2007"
+},
+{
+"issuer": "munca",
+"nr": "334",
+"date": "2007-04-19",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-334-2007"
+}
+]
+},
+{
 "slug": "ordin-transporturi-42-2007",
 "path": "ordin/transporturi/2007/42",
 "kind": "ordin",
@@ -21959,6 +23825,316 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-288-2007",
+"path": "ordin/transporturi/2007/288",
+"kind": "ordin",
+"year": "2007",
+"number": "288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 288/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Societății Comerciale de Transport cu Metroul București \"METROREX\" - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 288/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-22",
+"latest": "2007-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79763",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "282",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-282-2007"
+},
+{
+"issuer": "munca",
+"nr": "123",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-123-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-289-2007",
+"path": "ordin/transporturi/2007/289",
+"kind": "ordin",
+"year": "2007",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 289/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale de Autostrăzi și Drumuri Naționale din România - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 289/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-06",
+"latest": "2007-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80035",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "284",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-284-2007"
+},
+{
+"issuer": "munca",
+"nr": "125",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-125-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-292-2007",
+"path": "ordin/transporturi/2007/292",
+"kind": "ordin",
+"year": "2007",
+"number": "292",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 292/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Societății Naționale \"Aeroportul Internațional Timișoara - Traian Vuia\" - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 292/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-02",
+"latest": "2007-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79944",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "289",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-289-2007"
+},
+{
+"issuer": "munca",
+"nr": "128",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-128-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-293-2007",
+"path": "ordin/transporturi/2007/293",
+"kind": "ordin",
+"year": "2007",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 293/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale \"Aeroportul Internațional Henri Coandă București\" - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 293/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-02",
+"latest": "2007-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79959",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "286",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-286-2007"
+},
+{
+"issuer": "munca",
+"nr": "129",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-129-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-294-2007",
+"path": "ordin/transporturi/2007/294",
+"kind": "ordin",
+"year": "2007",
+"number": "294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 294/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Societății Comerciale \"Compania Națională de Transporturi Aeriene Române - TAROM\" - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 294/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-08",
+"latest": "2007-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80108",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "285",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-285-2007"
+},
+{
+"issuer": "munca",
+"nr": "130",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-130-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-295-2007",
+"path": "ordin/transporturi/2007/295",
+"kind": "ordin",
+"year": "2007",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 295/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Regiei Autonome \"Administrația Fluvială a Dunării de Jos\" Galați de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 295/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-02",
+"latest": "2007-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79968",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "291",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-291-2007"
+},
+{
+"issuer": "munca",
+"nr": "131",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-131-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-297-2007",
+"path": "ordin/transporturi/2007/297",
+"kind": "ordin",
+"year": "2007",
+"number": "297",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 297/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale \"Administrația Porturilor Dunării Fluviale\" - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 297/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-02",
+"latest": "2007-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79966",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "292",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-292-2007"
+},
+{
+"issuer": "munca",
+"nr": "133",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-133-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-298-2007",
+"path": "ordin/transporturi/2007/298",
+"kind": "ordin",
+"year": "2007",
+"number": "298",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 298/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale \"Administrația Canalelor Navigabile\" - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 298/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-02",
+"latest": "2007-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79964",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "293",
+"date": "2007-02-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-293-2007"
+},
+{
+"issuer": "munca",
+"nr": "134",
+"date": "2007-02-20",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-134-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-299-2007",
+"path": "ordin/transporturi/2007/299",
+"kind": "ordin",
+"year": "2007",
+"number": "299",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 299/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale \"Administrația Porturilor Maritime\" - S.A. Constanța de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 299/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-05",
+"latest": "2007-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80005",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "ordin-transporturi-300-2007",
+"path": "ordin/transporturi/2007/300",
+"kind": "ordin",
+"year": "2007",
+"number": "300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 300/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Companiei Naționale de Radiocomunicații Navale \"RADIONAV\" - S.A. de sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 300/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-05",
+"latest": "2007-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79997",
+"issuer": "transporturi",
+"joint": []
+},
+{
 "slug": "ordin-transporturi-346-2007",
 "path": "ordin/transporturi/2007/346",
 "kind": "ordin",
@@ -21976,6 +24152,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/80220",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-381-2007",
+"path": "ordin/transporturi/2007/381",
+"kind": "ordin",
+"year": "2007",
+"number": "381",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 381/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A., aflată sub autoritatea Ministerului Transporturilor, Construcțiilor și Turismului, monitorizată în baza prevederilor art. 1 din Hotărârea Guvernului nr. 134/2007 pentru aprobarea listei cuprinzând operatorii economici care se încadrează în prevederile art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar",
+"short": "Ordin transporturi nr. 381/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-17",
+"latest": "2007-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81243",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "536",
+"date": "2007-04-03",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-536-2007"
+},
+{
+"issuer": "munca",
+"nr": "172",
+"date": "2007-03-06",
+"name": "Ministerul Muncii, Solidarității Sociale și Familiei",
+"alias": "ordin-munca-172-2007"
+}
+]
 },
 {
 "slug": "ordin-transporturi-386-2007",
@@ -22765,6 +24975,60 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-926-2007",
+"path": "ordin/transporturi/2007/926",
+"kind": "ordin",
+"year": "2007",
+"number": "926",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 926/2007 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2007 al Centrului Național de Calificare și Instruire Feroviară - CENAFER",
+"short": "Ordin transporturi nr. 926/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-18",
+"latest": "2007-10-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86203",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1588",
+"date": "2007-10-11",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1588-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-927-2007",
+"path": "ordin/transporturi/2007/927",
+"kind": "ordin",
+"year": "2007",
+"number": "927",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 927/2007 privind aprobarea bugetului de venituri și cheltuieli modificat pe anul 2007 al Autorității Rutiere Române - A.R.R.",
+"short": "Ordin transporturi nr. 927/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-18",
+"latest": "2007-10-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86209",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1589",
+"date": "2007-10-11",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1589-2007"
+}
+]
+},
+{
 "slug": "ordin-transporturi-972-2007",
 "path": "ordin/transporturi/2007/972",
 "kind": "ordin",
@@ -22841,6 +25105,33 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-1061-2007",
+"path": "ordin/transporturi/2007/1061",
+"kind": "ordin",
+"year": "2007",
+"number": "1061",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.061/2007 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Regiei Autonome \"Registrul Auto Român\" de sub autoritatea Ministerului Transporturilor",
+"short": "Ordin transporturi nr. 1061/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-13",
+"latest": "2007-11-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86893",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1952",
+"date": "2007-11-07",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-1952-2007"
+}
+]
+},
+{
 "slug": "ordin-transporturi-1064-2007",
 "path": "ordin/transporturi/2007/1064",
 "kind": "ordin",
@@ -22915,6 +25206,142 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/86576",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1137-2007",
+"path": "ordin/transporturi/2007/1137",
+"kind": "ordin",
+"year": "2007",
+"number": "1137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.137/2007 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Companiei Naționale de Radiocomunicații Navale \"RADIONAV\" - S.A., aflată sub autoritatea Ministerului Transporturilor, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 1137/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-28",
+"latest": "2007-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87368",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2027",
+"date": "2007-11-14",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2027-2007"
+},
+{
+"issuer": "munca",
+"nr": "957",
+"date": "2007-11-07",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-957-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1138-2007",
+"path": "ordin/transporturi/2007/1138",
+"kind": "ordin",
+"year": "2007",
+"number": "1138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.138/2007 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A., aflată sub autoritatea Ministerului Transporturilor, monitorizată în baza prevederilor art. 1 din Hotărârea Guvernului nr. 134/2007 pentru aprobarea listei cuprinzând operatorii economici care se încadrează în prevederile art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar",
+"short": "Ordin transporturi nr. 1138/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-28",
+"latest": "2007-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87356",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2026",
+"date": "2007-11-14",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2026-2007"
+},
+{
+"issuer": "munca",
+"nr": "959",
+"date": "2007-11-07",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-959-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1139-2007",
+"path": "ordin/transporturi/2007/1139",
+"kind": "ordin",
+"year": "2007",
+"number": "1139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.139/2007 pentru aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2007 al Societății Naționale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A., aflată sub autoritatea Ministerului Transporturilor, monitorizată în baza prevederilor art. 1 din Hotărârea Guvernului nr. 134/2007 pentru aprobarea listei cuprinzând operatorii economici care se încadrează în prevederile art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar",
+"short": "Ordin transporturi nr. 1139/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-28",
+"latest": "2007-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87379",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2025",
+"date": "2007-11-14",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2025-2007"
+},
+{
+"issuer": "munca",
+"nr": "958",
+"date": "2007-11-07",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-958-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1140-2007",
+"path": "ordin/transporturi/2007/1140",
+"kind": "ordin",
+"year": "2007",
+"number": "1140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.140/2007 pentru aprobarea bugetelor de venituri și cheltuieli actualizate pe anul 2007 ale operatorilor economici aflați sub autoritatea Ministerului Transporturilor, care primesc sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 1140/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-23",
+"latest": "2007-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87277",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2028",
+"date": "2007-11-14",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2028-2007"
+},
+{
+"issuer": "munca",
+"nr": "960",
+"date": "2007-11-07",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-960-2007"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1147-2007",
@@ -23039,6 +25466,33 @@
 ]
 },
 {
+"slug": "ordin-transporturi-1235-2007",
+"path": "ordin/transporturi/2007/1235",
+"kind": "ordin",
+"year": "2007",
+"number": "1235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.235/2007 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2007 al Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+"short": "Ordin transporturi nr. 1235/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-27",
+"latest": "2007-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88198",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2403",
+"date": "2007-12-17",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2403-2007"
+}
+]
+},
+{
 "slug": "ordin-transporturi-1261-2007",
 "path": "ordin/transporturi/2007/1261",
 "kind": "ordin",
@@ -23075,6 +25529,127 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/88030",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1349-2007",
+"path": "ordin/transporturi/2007/1349",
+"kind": "ordin",
+"year": "2007",
+"number": "1349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.349/2007 pentru aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2007 al Societății Naționale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A., aflată sub autoritatea Ministerului Transporturilor, monitorizată în baza prevederilor art. 1 din Hotărârea Guvernului nr. 134/2007 pentru aprobarea listei cuprinzând operatorii economici care se încadrează în prevederile art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar",
+"short": "Ordin transporturi nr. 1349/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-04",
+"latest": "2008-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88360",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "ordin-transporturi-1350-2007",
+"path": "ordin/transporturi/2007/1350",
+"kind": "ordin",
+"year": "2007",
+"number": "1350",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.350/2007 pentru aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2007 al Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A., aflată sub autoritatea Ministerului Transporturilor, monitorizată în baza prevederilor art. 1 din Hotărârea Guvernului nr. 134/2007 pentru aprobarea listei cuprinzând operatorii economici care se încadrează în prevederile art. 11 alin. (3) din Ordonanța de urgență a Guvernului nr. 79/2001 privind întărirea disciplinei economico-financiare și alte dispoziții cu caracter financiar",
+"short": "Ordin transporturi nr. 1350/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-08",
+"latest": "2008-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88474",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2473",
+"date": "2007-12-21",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2473-2007"
+},
+{
+"issuer": "munca",
+"nr": "1103",
+"date": "2007-12-19",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-1103-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1351-2007",
+"path": "ordin/transporturi/2007/1351",
+"kind": "ordin",
+"year": "2007",
+"number": "1351",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.351/2007 pentru aprobarea bugetului de venituri și cheltuieli actualizat pe anul 2007 al Companiei Naționale de Radiocomunicații Navale \"RADIONAV\" - S.A., aflată sub autoritatea Ministerului Transporturilor, care primește sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 1351/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-07",
+"latest": "2008-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88460",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2472",
+"date": "2007-12-21",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2472-2007"
+},
+{
+"issuer": "munca",
+"nr": "1102",
+"date": "2007-12-19",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-1102-2007"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1352-2007",
+"path": "ordin/transporturi/2007/1352",
+"kind": "ordin",
+"year": "2007",
+"number": "1352",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.352/2007 pentru aprobarea bugetelor de venituri și cheltuieli actualizate pe anul 2007 ale operatorilor economici aflați sub autoritatea Ministerului Transporturilor, care primesc sume de la bugetul de stat",
+"short": "Ordin transporturi nr. 1352/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-07",
+"latest": "2008-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88385",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2474",
+"date": "2007-12-21",
+"name": "Ministerul Economiei și Finanțelor",
+"alias": "ordin-finante-2474-2007"
+},
+{
+"issuer": "munca",
+"nr": "1105",
+"date": "2007-12-19",
+"name": "Ministerul Muncii, Familiei și Egalității de Șanse",
+"alias": "ordin-munca-1105-2007"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1354-2007",

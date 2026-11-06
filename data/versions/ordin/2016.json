@@ -3,6 +3,36 @@
  "shard": "ordin/2016",
  "acts": [
   {
+   "slug": "ordin-aaas-30101-2016",
+   "path": "ordin/aaas/2016/30101",
+   "short": "Ordin aaas nr. 30101/2016",
+   "title": "Ordinul nr. 30.101/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185403",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185403",
+     "sha256": "c7c390949f2ae65e660ea5e8f52989d307e8393096e549017b70681cacf018fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-33881-2016",
+   "path": "ordin/aaas/2016/33881",
+   "short": "Ordin aaas nr. 33881/2016",
+   "title": "Ordinul nr. 33.881/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Active Conexe - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185409",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185409",
+     "sha256": "4878e6cf77ab72481dda882520cdd30ae26cae202f434c1a5a7ac9c67043c8e3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-achizitii-281-2016",
    "path": "ordin/achizitii/2016/281",
    "short": "Ordin achizitii nr. 281/2016",
@@ -3423,6 +3453,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1007-2016",
+   "path": "ordin/ancpi/2016/1007",
+   "short": "Ordin ancpi nr. 1007/2016",
+   "title": "Ordinul nr. 1.007/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Saelele, județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181222",
+   "versions": [
+    {
+     "from": "2016-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181222",
+     "sha256": "3ee8ef5473738794b7b5d415e8c146cb4141134ac6a474504977595940f2ef9c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1016-2016",
    "path": "ordin/ancpi/2016/1016",
    "short": "Ordin ancpi nr. 1016/2016",
@@ -3468,6 +3513,51 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1081-2016",
+   "path": "ordin/ancpi/2016/1081",
+   "short": "Ordin ancpi nr. 1081/2016",
+   "title": "Ordinul nr. 1.081/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în cinci unități administrativ-teritoriale din județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181688",
+   "versions": [
+    {
+     "from": "2016-09-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181688",
+     "sha256": "25b53444d67fa0a259d1bc4b474d6362d3636fd7aea9b07fa7628c6c67fe0e3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1082-2016",
+   "path": "ordin/ancpi/2016/1082",
+   "short": "Ordin ancpi nr. 1082/2016",
+   "title": "Ordinul nr. 1.082/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în șase unități administrativ-teritoriale din județul Suceava și într-o unitate administrativ-teritorială din județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181780",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181780",
+     "sha256": "300ad859f81da680c69e7e1ad174262de684dfaaa59a2257e81ba7e613e65738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1083-2016",
+   "path": "ordin/ancpi/2016/1083",
+   "short": "Ordin ancpi nr. 1083/2016",
+   "title": "Ordinul nr. 1.083/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 18 unități administrativ-teritoriale din județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181706",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181706",
+     "sha256": "9659b6b3a3bf47f52e3d6f78e83b6e7d1f80f1b313d0decb3a6e1549142255a5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1086-2016",
    "path": "ordin/ancpi/2016/1086",
    "short": "Ordin ancpi nr. 1086/2016",
@@ -3479,6 +3569,36 @@
      "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181801",
      "sha256": "bf962d393ce6cef475a6a6226b906c3f9556e9a9f91a9ac04d70a374bfab7d7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1087-2016",
+   "path": "ordin/ancpi/2016/1087",
+   "short": "Ordin ancpi nr. 1087/2016",
+   "title": "Ordinul nr. 1.087/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în cinci unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182158",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182158",
+     "sha256": "e4add711dc20fd6553e453dfa90aaff9224f2d980d8cb2f31528cbbc71f51357"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1088-2016",
+   "path": "ordin/ancpi/2016/1088",
+   "short": "Ordin ancpi nr. 1088/2016",
+   "title": "Ordinul nr. 1.088/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în opt unități administrativ-teritoriale din județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181803",
+   "versions": [
+    {
+     "from": "2016-09-20",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181803",
+     "sha256": "5345b28d5d38afc76e087498f0f9c709ff6fbda0945362b121fad0b71b3a1934"
     }
    ]
   },
@@ -3498,6 +3618,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1090-2016",
+   "path": "ordin/ancpi/2016/1090",
+   "short": "Ordin ancpi nr. 1090/2016",
+   "title": "Ordinul nr. 1.090/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în nouă unități administrativ-teritoriale din județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181804",
+   "versions": [
+    {
+     "from": "2016-09-20",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181804",
+     "sha256": "4cc2ce98933901557e7fb33cd4d188bacf30ba5dc83294364d47e48b8118db15"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1092-2016",
    "path": "ordin/ancpi/2016/1092",
    "short": "Ordin ancpi nr. 1092/2016",
@@ -3509,6 +3644,36 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181983",
      "sha256": "f2cb5363fac994e0e012613825eba6ab31345087754747e63a4b8d3fa7cae6c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1094-2016",
+   "path": "ordin/ancpi/2016/1094",
+   "short": "Ordin ancpi nr. 1094/2016",
+   "title": "Ordinul nr. 1.094/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 8 unități administrativ-teritoriale din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181973",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181973",
+     "sha256": "a22e8d02e7d38404536bdeab3d3523705ffceb8b5aed4e6e8eacbb64d12ecd5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1096-2016",
+   "path": "ordin/ancpi/2016/1096",
+   "short": "Ordin ancpi nr. 1096/2016",
+   "title": "Ordinul nr. 1.096/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 11 unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181937",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181937",
+     "sha256": "1ad009c1eabe204db8a2527a4b1ccbd159ea3c22fb6d510ca53a94e1242e3caf"
     }
    ]
   },
@@ -3539,6 +3704,21 @@
      "units": 94,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181881",
      "sha256": "4903b1045da66536889fa3aede6968948f05494a42db3406640fdb6e05d22c13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1110-2016",
+   "path": "ordin/ancpi/2016/1110",
+   "short": "Ordin ancpi nr. 1110/2016",
+   "title": "Ordinul nr. 1.110/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 8 unități administrativ-teritoriale din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181981",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181981",
+     "sha256": "18c1be91723539db971f3eb7cdcedb0f9a40b93c78088acea8a068253a60e965"
     }
    ]
   },
@@ -3603,6 +3783,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1124-2016",
+   "path": "ordin/ancpi/2016/1124",
+   "short": "Ordin ancpi nr. 1124/2016",
+   "title": "Ordinul nr. 1.124/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 30 de unități administrativ-teritoriale din județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181949",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181949",
+     "sha256": "82585d1761f4074a140980b1e8a7da1ebd8ece05f11d8fb3b9c3c4a353fbfb1c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1125-2016",
    "path": "ordin/ancpi/2016/1125",
    "short": "Ordin ancpi nr. 1125/2016",
@@ -3618,6 +3813,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1129-2016",
+   "path": "ordin/ancpi/2016/1129",
+   "short": "Ordin ancpi nr. 1129/2016",
+   "title": "Ordinul nr. 1.129/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 33 de unități administrativ-teritoriale din județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182068",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182068",
+     "sha256": "ebb2133fb6dc10e6b55b5a5058f8cb406720b35ac5d634d5dfe9c0b186b8eca9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1133-2016",
    "path": "ordin/ancpi/2016/1133",
    "short": "Ordin ancpi nr. 1133/2016",
@@ -3629,6 +3839,21 @@
      "units": 52,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181972",
      "sha256": "d398ed0c006bfe0a57ecf2b3a3c866eca1b4000dff5af26f41f6ec658ac98fb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1135-2016",
+   "path": "ordin/ancpi/2016/1135",
+   "short": "Ordin ancpi nr. 1135/2016",
+   "title": "Ordinul nr. 1.135/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 16 unități administrativ-teritoriale din județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182219",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182219",
+     "sha256": "36f887315e31e9ff1bb861252711fc43ee447d86a02ce52579fbae41bc1030c1"
     }
    ]
   },
@@ -3663,6 +3888,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1140-2016",
+   "path": "ordin/ancpi/2016/1140",
+   "short": "Ordin ancpi nr. 1140/2016",
+   "title": "Ordinul nr. 1.140/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182019",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182019",
+     "sha256": "e03d78c80b8589b8147a48a28dc8ae7c49170bc519a7d0693f215cef4fcf7a69"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1142-2016",
    "path": "ordin/ancpi/2016/1142",
    "short": "Ordin ancpi nr. 1142/2016",
@@ -3674,6 +3914,321 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20161002211749id_/https://legislatie.just.ro/Public/DetaliiDocument/182042",
      "sha256": "5190837412b25604e778b5ba32d074c06d9a86b87cfa852b5a65bff264d110db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1144-2016",
+   "path": "ordin/ancpi/2016/1144",
+   "short": "Ordin ancpi nr. 1144/2016",
+   "title": "Ordinul nr. 1.144/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în două unități administrativ-teritoriale din județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182159",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182159",
+     "sha256": "a97410124db6b952761f5d1ae887bb072462b0a3f7c3d69b9cd7169d61a566ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1145-2016",
+   "path": "ordin/ancpi/2016/1145",
+   "short": "Ordin ancpi nr. 1145/2016",
+   "title": "Ordinul nr. 1.145/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în două unități administrativ-teritoriale din județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182160",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182160",
+     "sha256": "ea9d5ccaf06e5f82ff2299b89fd146c583755d2463fa1a604cc9a9117ec2b5c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1146-2016",
+   "path": "ordin/ancpi/2016/1146",
+   "short": "Ordin ancpi nr. 1146/2016",
+   "title": "Ordinul nr. 1.146/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182161",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182161",
+     "sha256": "83f6261b50fc2662132f58c118358c285acfda3b1519d42ccb97f9de7b533daa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1147-2016",
+   "path": "ordin/ancpi/2016/1147",
+   "short": "Ordin ancpi nr. 1147/2016",
+   "title": "Ordinul nr. 1.147/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Marca din județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182162",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182162",
+     "sha256": "46709643ee874e4603d994cf7b21d1491e02e17d7cd530595a91fc3d18fb6f9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1148-2016",
+   "path": "ordin/ancpi/2016/1148",
+   "short": "Ordin ancpi nr. 1148/2016",
+   "title": "Ordinul nr. 1.148/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182104",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182104",
+     "sha256": "015c0993cdb331e37e5937872e20d1b217f643c87db633dfab0bfd2921eff566"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1149-2016",
+   "path": "ordin/ancpi/2016/1149",
+   "short": "Ordin ancpi nr. 1149/2016",
+   "title": "Ordinul nr. 1.149/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 18 unități administrativ-teritoriale din județul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182105",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182105",
+     "sha256": "c6cf605fa63183fed461271f0114bcec51791052ca60093e78f46b334fa8169d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1150-2016",
+   "path": "ordin/ancpi/2016/1150",
+   "short": "Ordin ancpi nr. 1150/2016",
+   "title": "Ordinul nr. 1.150/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 25 de unități administrativ-teritoriale din județul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182127",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182127",
+     "sha256": "a94f3ce7e1b25bdfa2f742ac82d72d01aa225ca84479fdc40236a63a56e071fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1151-2016",
+   "path": "ordin/ancpi/2016/1151",
+   "short": "Ordin ancpi nr. 1151/2016",
+   "title": "Ordinul nr. 1.151/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182109",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182109",
+     "sha256": "10b924a41177c8bb36e270fa6378816a8a56e5dbaf7019885a06a89c1b012cc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1154-2016",
+   "path": "ordin/ancpi/2016/1154",
+   "short": "Ordin ancpi nr. 1154/2016",
+   "title": "Ordinul nr. 1.154/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în două unități administrativ-teritoriale din județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182262",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182262",
+     "sha256": "ab00dd87deeec32c48223b30928945c598ae856cddf24a2bc857c4bbe6095ac5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1155-2016",
+   "path": "ordin/ancpi/2016/1155",
+   "short": "Ordin ancpi nr. 1155/2016",
+   "title": "Ordinul nr. 1.155/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 11 unități administrativ-teritoriale din județul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182107",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182107",
+     "sha256": "046ccb57d0b407bac553efbb7bb48ab60d0bdfa0477945db2c8006b30c1a5319"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1156-2016",
+   "path": "ordin/ancpi/2016/1156",
+   "short": "Ordin ancpi nr. 1156/2016",
+   "title": "Ordinul nr. 1.156/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182163",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182163",
+     "sha256": "fd8fd33e11530d0e757ec01f1ed8ca1ae57ee452b92dac5764c634c67b372e5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1157-2016",
+   "path": "ordin/ancpi/2016/1157",
+   "short": "Ordin ancpi nr. 1157/2016",
+   "title": "Ordinul nr. 1.157/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 27 de unități administrativ-teritoriale din județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182164",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182164",
+     "sha256": "c15002c2000dab7c337746e676f9a15854f2d75e96d5511a942229fae7e44d74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1158-2016",
+   "path": "ordin/ancpi/2016/1158",
+   "short": "Ordin ancpi nr. 1158/2016",
+   "title": "Ordinul nr. 1.158/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182165",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182165",
+     "sha256": "bae6112b457c2ea71e2848d9b4f762d069d86451a7a71144f46ecdcc584c1e5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1159-2016",
+   "path": "ordin/ancpi/2016/1159",
+   "short": "Ordin ancpi nr. 1159/2016",
+   "title": "Ordinul nr. 1.159/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 9 unități administrativ-teritoriale din județul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182166",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182166",
+     "sha256": "b0e9a457d38efb41fc9497825e45559372ad86bcb97b0dd6ca0fd64a9d6e97ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1160-2016",
+   "path": "ordin/ancpi/2016/1160",
+   "short": "Ordin ancpi nr. 1160/2016",
+   "title": "Ordinul nr. 1.160/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182263",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182263",
+     "sha256": "d25c53e6d088fe9d69bfd0d876cf9bbbcec853bc431b0b9057bcdcae408ae484"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1161-2016",
+   "path": "ordin/ancpi/2016/1161",
+   "short": "Ordin ancpi nr. 1161/2016",
+   "title": "Ordinul nr. 1.161/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 30 de unități administrativ-teritoriale din județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182261",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182261",
+     "sha256": "c1529318ae1b42aa16a52a9893e0eece6101d828a2bbf1a2c2d652bef0d29e31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1162-2016",
+   "path": "ordin/ancpi/2016/1162",
+   "short": "Ordin ancpi nr. 1162/2016",
+   "title": "Ordinul nr. 1.162/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 15 unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182260",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182260",
+     "sha256": "3d425b60228dbee6893fb8e9c91570576b8c236404170af2f3b020db567c60e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1163-2016",
+   "path": "ordin/ancpi/2016/1163",
+   "short": "Ordin ancpi nr. 1163/2016",
+   "title": "Ordinul nr. 1.163/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182054",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182054",
+     "sha256": "54b79e608dfd76f9f7bc85345b483da63266b35dd336283e7f08e0a7f4b4cb9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1166-2016",
+   "path": "ordin/ancpi/2016/1166",
+   "short": "Ordin ancpi nr. 1166/2016",
+   "title": "Ordinul nr. 1.166/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în două unități administrativ-teritoriale din județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182232",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182232",
+     "sha256": "82b45ce57ae6878e4d14ec7e085d3ca8d45624871b230d98e7f13cd23f8d1015"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1168-2016",
+   "path": "ordin/ancpi/2016/1168",
+   "short": "Ordin ancpi nr. 1168/2016",
+   "title": "Ordinul nr. 1.168/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182220",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182220",
+     "sha256": "57e80c6ff7b09aaf5bbddf377225adc9bbd31ba5b4623c26d88ec7b988c680b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1169-2016",
+   "path": "ordin/ancpi/2016/1169",
+   "short": "Ordin ancpi nr. 1169/2016",
+   "title": "Ordinul nr. 1.169/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 14 unități administrativ-teritoriale din județul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182217",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182217",
+     "sha256": "0d66ccfa29126e3efdb10771630b13d81ba063a18b4047c31a48371c843b0ee4"
     }
    ]
   },
@@ -3693,6 +4248,201 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1170-2016",
+   "path": "ordin/ancpi/2016/1170",
+   "short": "Ordin ancpi nr. 1170/2016",
+   "title": "Ordinul nr. 1.170/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 7 unități administrativ-teritoriale din județul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182218",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182218",
+     "sha256": "336a80c4cd9f146a6dd4e9552f9475a83dba43084e0cd4b4af1bdca95ae41833"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1171-2016",
+   "path": "ordin/ancpi/2016/1171",
+   "short": "Ordin ancpi nr. 1171/2016",
+   "title": "Ordinul nr. 1.171/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 7 unități administrativ-teritoriale din județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182055",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182055",
+     "sha256": "039a9072f869f087dd84e38ec148243c30689e23883caff94e309790b75bc7d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1172-2016",
+   "path": "ordin/ancpi/2016/1172",
+   "short": "Ordin ancpi nr. 1172/2016",
+   "title": "Ordinul nr. 1.172/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182221",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182221",
+     "sha256": "d875930dd4085c61a63a08d78b998f9a1f96ff3cefe0418f0aebc7bba4befe70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1173-2016",
+   "path": "ordin/ancpi/2016/1173",
+   "short": "Ordin ancpi nr. 1173/2016",
+   "title": "Ordinul nr. 1.173/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Cornetu din județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182222",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182222",
+     "sha256": "8cc084f69ebcce4661d2630aa56c3652f74c8d8d2bf1b9a55e86167e559bcc3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1174-2016",
+   "path": "ordin/ancpi/2016/1174",
+   "short": "Ordin ancpi nr. 1174/2016",
+   "title": "Ordinul nr. 1.174/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182157",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182157",
+     "sha256": "dec1f63f54eea208b7697d0afa10d59656477bfceee34a1c5ad95d0d37d126bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1175-2016",
+   "path": "ordin/ancpi/2016/1175",
+   "short": "Ordin ancpi nr. 1175/2016",
+   "title": "Ordinul nr. 1.175/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182167",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182167",
+     "sha256": "098b5866a4e6c2b1f90dbfadae2b0d69bbd3b3695986d7903d017b5bb8c07851"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1178-2016",
+   "path": "ordin/ancpi/2016/1178",
+   "short": "Ordin ancpi nr. 1178/2016",
+   "title": "Ordinul nr. 1.178/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 13 unități administrativ-teritoriale din județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182356",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182356",
+     "sha256": "b5ff8d2b5672f327be81e1a0067015f596f829955c5b39f4b5761fee8b80907c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1179-2016",
+   "path": "ordin/ancpi/2016/1179",
+   "short": "Ordin ancpi nr. 1179/2016",
+   "title": "Ordinul nr. 1.179/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182425",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182425",
+     "sha256": "5e3cd0e1bc8e164c1e9734d28333c016f93fdb58af02e90b13f8f17cf75f56ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1180-2016",
+   "path": "ordin/ancpi/2016/1180",
+   "short": "Ordin ancpi nr. 1180/2016",
+   "title": "Ordinul nr. 1.180/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Iacobeni din județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182277",
+   "versions": [
+    {
+     "from": "2016-10-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182277",
+     "sha256": "d39caa9592f50530ef5ee638c8cd19a80fc3bcb42a13680bcc18e879ce4d38be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1183-2016",
+   "path": "ordin/ancpi/2016/1183",
+   "short": "Ordin ancpi nr. 1183/2016",
+   "title": "Ordinul nr. 1.183/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Săndulești din județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182285",
+   "versions": [
+    {
+     "from": "2016-10-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182285",
+     "sha256": "20a72f39ba5266bb7cc628c5a2bb9e2b024a305dafa2b3b918807dc276c30fdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1185-2016",
+   "path": "ordin/ancpi/2016/1185",
+   "short": "Ordin ancpi nr. 1185/2016",
+   "title": "Ordinul nr. 1.185/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182483",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182483",
+     "sha256": "568e4d2834dec6dfde3ad2b53252f67483ffdcf8065e035c107c75acc0ff3c64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1186-2016",
+   "path": "ordin/ancpi/2016/1186",
+   "short": "Ordin ancpi nr. 1186/2016",
+   "title": "Ordinul nr. 1.186/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Sfântu Gheorghe din județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182422",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182422",
+     "sha256": "4c027d457559e0c9c0ac5749541671b52e26907ebcce949ef60e2e74f7272f55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1187-2016",
+   "path": "ordin/ancpi/2016/1187",
+   "short": "Ordin ancpi nr. 1187/2016",
+   "title": "Ordinul nr. 1.187/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182477",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182477",
+     "sha256": "57e628f28605eaa011f9e2849153b2ce11c0a59983b601f7ed6b4b29f42cf12b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1188-2016",
    "path": "ordin/ancpi/2016/1188",
    "short": "Ordin ancpi nr. 1188/2016",
@@ -3704,6 +4454,966 @@
      "units": 14,
      "source_url": "https://web.archive.org/web/20170707001913id_/https://legislatie.just.ro/Public/DetaliiDocument/182339",
      "sha256": "64d249583ed63bce4b015a3b438a06af9a6f55065746770474e5332503da9284"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1189-2016",
+   "path": "ordin/ancpi/2016/1189",
+   "short": "Ordin ancpi nr. 1189/2016",
+   "title": "Ordinul nr. 1.189/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe un sector cadastral, în unitatea administrativ-teritorială Sălard din județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182446",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182446",
+     "sha256": "10ac33eebb5106a6ddc1588c53e1b9532f896ffb6e7b857af6609b5c9024fdef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1190-2016",
+   "path": "ordin/ancpi/2016/1190",
+   "short": "Ordin ancpi nr. 1190/2016",
+   "title": "Ordinul nr. 1.190/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182445",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182445",
+     "sha256": "5d934542a0bf05fee831f10077923d2a4a31133709eedd75435ca3f172a1c580"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1191-2016",
+   "path": "ordin/ancpi/2016/1191",
+   "short": "Ordin ancpi nr. 1191/2016",
+   "title": "Ordinul nr. 1.191/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în două unități administrativ-teritoriale din județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182278",
+   "versions": [
+    {
+     "from": "2016-10-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182278",
+     "sha256": "47a766e1a9259c48f0f50492350b8ab95f0543d7832d5d5e83911c064bc0a055"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1193-2016",
+   "path": "ordin/ancpi/2016/1193",
+   "short": "Ordin ancpi nr. 1193/2016",
+   "title": "Ordinul nr. 1.193/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182404",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182404",
+     "sha256": "69ad5301c7fc81801d188bbac57dacd85159d402641342e9c272e2fd5e25bebb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1194-2016",
+   "path": "ordin/ancpi/2016/1194",
+   "short": "Ordin ancpi nr. 1194/2016",
+   "title": "Ordinul nr. 1.194/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 11 unități administrativ-teritoriale din județul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182405",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182405",
+     "sha256": "e32f165d27b54216daf83f6982ee12931c233575d134d94829e103c4c89ca9bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1195-2016",
+   "path": "ordin/ancpi/2016/1195",
+   "short": "Ordin ancpi nr. 1195/2016",
+   "title": "Ordinul nr. 1.195/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 9 unități administrativ-teritoriale din județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182406",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182406",
+     "sha256": "a9e2e3e0e28a9c25a74bebd6c8e16d7e72a048a2418ada1148e6f0870bc22662"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1196-2016",
+   "path": "ordin/ancpi/2016/1196",
+   "short": "Ordin ancpi nr. 1196/2016",
+   "title": "Ordinul nr. 1.196/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Valea Largă din județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182407",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182407",
+     "sha256": "135511e16b58796de578cc6d97956aec133d0ad908226053f9273af9168be12b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1197-2016",
+   "path": "ordin/ancpi/2016/1197",
+   "short": "Ordin ancpi nr. 1197/2016",
+   "title": "Ordinul nr. 1.197/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Terebești din județul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182408",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182408",
+     "sha256": "f812c76748c440b3657765952f4a39b2b77de5935b5c02c3dd6be59c2eb6d764"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1198-2016",
+   "path": "ordin/ancpi/2016/1198",
+   "short": "Ordin ancpi nr. 1198/2016",
+   "title": "Ordinul nr. 1.198/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182414",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182414",
+     "sha256": "3cde5db58cb0b1bb1c2e9cd7fcef0059bf5d370ff94e0958ae8366b7e33bcadd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1201-2016",
+   "path": "ordin/ancpi/2016/1201",
+   "short": "Ordin ancpi nr. 1201/2016",
+   "title": "Ordinul nr. 1.201/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182316",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182316",
+     "sha256": "1f8c141600331d6c9d504f8ca5b78b459abad0f7fbda9811048e29c1ef14aad8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1203-2016",
+   "path": "ordin/ancpi/2016/1203",
+   "short": "Ordin ancpi nr. 1203/2016",
+   "title": "Ordinul nr. 1.203/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 7 unități administrativ-teritoriale din județul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182423",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182423",
+     "sha256": "d358be2a5b66328ddaaa5849fe25b292338ffcb5bd731a4fb8709996fc578c88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1204-2016",
+   "path": "ordin/ancpi/2016/1204",
+   "short": "Ordin ancpi nr. 1204/2016",
+   "title": "Ordinul nr. 1.204/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182480",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182480",
+     "sha256": "59115f36c363b14fb1d58bd746e83a6ab1862941b534fe93dbf0862e60d74f08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1205-2016",
+   "path": "ordin/ancpi/2016/1205",
+   "short": "Ordin ancpi nr. 1205/2016",
+   "title": "Ordinul nr. 1.205/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 15 unități administrativ-teritoriale din județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182542",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182542",
+     "sha256": "31db3d00719fab2b15b7dcc1cfcc8df1354327371760fd9b0af7301aabd382ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1206-2016",
+   "path": "ordin/ancpi/2016/1206",
+   "short": "Ordin ancpi nr. 1206/2016",
+   "title": "Ordinul nr. 1.206/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 11 unități administrativ-teritoriale din județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183692",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183692",
+     "sha256": "e080e193cbe4c4a859bb8a4e41e8841f9f945ebbf1b11cc88474121fed3a3418"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1207-2016",
+   "path": "ordin/ancpi/2016/1207",
+   "short": "Ordin ancpi nr. 1207/2016",
+   "title": "Ordinul nr. 1.207/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182485",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182485",
+     "sha256": "38296db3cb3f682f58d59ed5d014199565062748786b117707a111f372f77e36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1208-2016",
+   "path": "ordin/ancpi/2016/1208",
+   "short": "Ordin ancpi nr. 1208/2016",
+   "title": "Ordinul nr. 1.208/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182488",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182488",
+     "sha256": "78c06fc1e857b965e606f83923522b6509f5c121b38078a7f1d7f0c079848869"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1209-2016",
+   "path": "ordin/ancpi/2016/1209",
+   "short": "Ordin ancpi nr. 1209/2016",
+   "title": "Ordinul nr. 1.209/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 43 de unități administrativ-teritoriale din județul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182402",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 90,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182402",
+     "sha256": "b96fb64876b37a6f39138716506fd1706dc6851c0cb4359886b953983634a058"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1210-2016",
+   "path": "ordin/ancpi/2016/1210",
+   "short": "Ordin ancpi nr. 1210/2016",
+   "title": "Ordinul nr. 1.210/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Mera din județul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182415",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182415",
+     "sha256": "26dfbe9a8863210d1b1390a487b4ac1ea15162e52cdfd404bf7e163d5361fe8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1211-2016",
+   "path": "ordin/ancpi/2016/1211",
+   "short": "Ordin ancpi nr. 1211/2016",
+   "title": "Ordinul nr. 1.211/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Archiș din județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182416",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182416",
+     "sha256": "0c3e67003d7e21f07c1b56b791f0004b5d0c2bea0b743b10e0fdca8f60b0e3a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1212-2016",
+   "path": "ordin/ancpi/2016/1212",
+   "short": "Ordin ancpi nr. 1212/2016",
+   "title": "Ordinul nr. 1.212/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 10 unități administrativ-teritoriale din județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182479",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182479",
+     "sha256": "a95e818823bdbb3482147f5d8e29de4a7aec1a9c0f5d2fd69c74e46e9615194b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1213-2016",
+   "path": "ordin/ancpi/2016/1213",
+   "short": "Ordin ancpi nr. 1213/2016",
+   "title": "Ordinul nr. 1.213/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 9 unități administrativ-teritoriale din județul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182332",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182332",
+     "sha256": "7a1f6dd78e9a14a806ec074d3d07b41ed4a502c4d9f1fc135abb90dde5db009f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1214-2016",
+   "path": "ordin/ancpi/2016/1214",
+   "short": "Ordin ancpi nr. 1214/2016",
+   "title": "Ordinul nr. 1.214/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Birda din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182447",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182447",
+     "sha256": "264d08c11bdebcbed1681ebd5779dbcc0ce4db0f0b88fbca8ce472e12a886894"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1215-2016",
+   "path": "ordin/ancpi/2016/1215",
+   "short": "Ordin ancpi nr. 1215/2016",
+   "title": "Ordinul nr. 1.215/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Măgești, din județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182484",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182484",
+     "sha256": "ca547091dc98e5a2b09f4e9cd278b7a515f3591ffdc8160c072b1439626c05f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1216-2016",
+   "path": "ordin/ancpi/2016/1216",
+   "short": "Ordin ancpi nr. 1216/2016",
+   "title": "Ordinul nr. 1.216/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Probota, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182658",
+   "versions": [
+    {
+     "from": "2016-10-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182658",
+     "sha256": "b5a5466cec6b6651c4220ea20c7cde582facb665761ca15acb1f575327321248"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1220-2016",
+   "path": "ordin/ancpi/2016/1220",
+   "short": "Ordin ancpi nr. 1220/2016",
+   "title": "Ordinul nr. 1.220/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182448",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182448",
+     "sha256": "f37b21af293cc6b462b6ad78aa91a8ddab4520eb98984d98ef5e5dd658fca9c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1221-2016",
+   "path": "ordin/ancpi/2016/1221",
+   "short": "Ordin ancpi nr. 1221/2016",
+   "title": "Ordinul nr. 1.221/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Corcova din județul Mehedinți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182449",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182449",
+     "sha256": "1f04e3502793ae9d82efdac65cff8007f943368c4dab5fa1fd7d781e3ea815f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1222-2016",
+   "path": "ordin/ancpi/2016/1222",
+   "short": "Ordin ancpi nr. 1222/2016",
+   "title": "Ordinul nr. 1.222/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182450",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182450",
+     "sha256": "51d4a165a150c515d9d29555369ef442c556cc6fbd4e5a8086391a50ccbe82ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1223-2016",
+   "path": "ordin/ancpi/2016/1223",
+   "short": "Ordin ancpi nr. 1223/2016",
+   "title": "Ordinul nr. 1.223/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Cristinești din județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182442",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182442",
+     "sha256": "5e27eb74a541f2030fae2fcd5ef6b15bc9763d03b9f37b0753f11a7f464845d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1224-2016",
+   "path": "ordin/ancpi/2016/1224",
+   "short": "Ordin ancpi nr. 1224/2016",
+   "title": "Ordinul nr. 1.224/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182443",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182443",
+     "sha256": "527e15590ebae780c4794f5a55501e439e400a27c0bb32887ce508879909e35f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1226-2016",
+   "path": "ordin/ancpi/2016/1226",
+   "short": "Ordin ancpi nr. 1226/2016",
+   "title": "Ordinul nr. 1.226/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Rociu din județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182315",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182315",
+     "sha256": "c4cea36570ef0c60950b04b1bc4033cab3a850d79068c102b74912528d125c9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1232-2016",
+   "path": "ordin/ancpi/2016/1232",
+   "short": "Ordin ancpi nr. 1232/2016",
+   "title": "Ordinul nr. 1.232/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182439",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182439",
+     "sha256": "21f43ba871cb2e9db6399d7df24829a0d3a63ca98a07248379243517b29d7778"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1233-2016",
+   "path": "ordin/ancpi/2016/1233",
+   "short": "Ordin ancpi nr. 1233/2016",
+   "title": "Ordinul nr. 1.233/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 9 unități administrativ-teritoriale din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182451",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182451",
+     "sha256": "a78d536f93ec39478a5b5a8d79b8aa9163de5d2f83b1b387f6e27ba252ec5e12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1237-2016",
+   "path": "ordin/ancpi/2016/1237",
+   "short": "Ordin ancpi nr. 1237/2016",
+   "title": "Ordinul nr. 1.237/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182279",
+   "versions": [
+    {
+     "from": "2016-10-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182279",
+     "sha256": "b206fcce5a8765f868b3e6a741cb47777c47f3ae777a1861626d3cf36d86498d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1238-2016",
+   "path": "ordin/ancpi/2016/1238",
+   "short": "Ordin ancpi nr. 1238/2016",
+   "title": "Ordinul nr. 1.238/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 23 de unități administrativ-teritoriale din județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182317",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182317",
+     "sha256": "5f04aa06c8bfdc2c1b4a5c95dbbc98aa5c57bee5390031a6266e97fcf9505106"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1239-2016",
+   "path": "ordin/ancpi/2016/1239",
+   "short": "Ordin ancpi nr. 1239/2016",
+   "title": "Ordinul nr. 1.239/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în două unități administrativ-teritoriale din județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182455",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182455",
+     "sha256": "62e081858bfbbda69880d598e2bcdbd42de837c01ea90c6d73e588841cd4a0b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1272-2016",
+   "path": "ordin/ancpi/2016/1272",
+   "short": "Ordin ancpi nr. 1272/2016",
+   "title": "Ordinul nr. 1.272/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182475",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182475",
+     "sha256": "9a8e2a7c842513bcc2dcf98c6e61e8f8208a11dffccc7be0a47f22f399cea1a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1273-2016",
+   "path": "ordin/ancpi/2016/1273",
+   "short": "Ordin ancpi nr. 1273/2016",
+   "title": "Ordinul nr. 1.273/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Scânteia din județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182651",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182651",
+     "sha256": "81133ee934ce6d1bd808f8a28a1dd4f9e29a31728538ea8cb1410f1edc6cbd00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1277-2016",
+   "path": "ordin/ancpi/2016/1277",
+   "short": "Ordin ancpi nr. 1277/2016",
+   "title": "Ordinul nr. 1.277/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Spermezeu din județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182652",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182652",
+     "sha256": "5664476c49a7bb2900367d8ecda913fc0a7c7e7f4a605b1f8bc9d46c7b868b9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1278-2016",
+   "path": "ordin/ancpi/2016/1278",
+   "short": "Ordin ancpi nr. 1278/2016",
+   "title": "Ordinul nr. 1.278/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Isverna din județul Mehedinți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182645",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182645",
+     "sha256": "557406b28a350325a6723d0b364778cf5803c69848f71b354737f364ae5c3a1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1279-2016",
+   "path": "ordin/ancpi/2016/1279",
+   "short": "Ordin ancpi nr. 1279/2016",
+   "title": "Ordinul nr. 1.279/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182593",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182593",
+     "sha256": "836f5b2519f9a780410e13b210da048bf14ac632501289e3fc60feba16c5401d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1280-2016",
+   "path": "ordin/ancpi/2016/1280",
+   "short": "Ordin ancpi nr. 1280/2016",
+   "title": "Ordinul nr. 1.280/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Crizbav, județul Brașov, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182454",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182454",
+     "sha256": "beda653990ec2834e6366dd17867ce05441b26e95b34db0c5ce319d53783103f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1282-2016",
+   "path": "ordin/ancpi/2016/1282",
+   "short": "Ordin ancpi nr. 1282/2016",
+   "title": "Ordinul nr. 1.282/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Slimnic din județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182538",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182538",
+     "sha256": "f069586d760a4952a471092b431b372de507c38892caea37ba052205d71df2c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1283-2016",
+   "path": "ordin/ancpi/2016/1283",
+   "short": "Ordin ancpi nr. 1283/2016",
+   "title": "Ordinul nr. 1.283/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182537",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182537",
+     "sha256": "f795a91de7d8bff546e0a18ca25b5b48e59deeb310e92094aedbd01f03d810d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1284-2016",
+   "path": "ordin/ancpi/2016/1284",
+   "short": "Ordin ancpi nr. 1284/2016",
+   "title": "Ordinul nr. 1.284/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Ghergheasa din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182535",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182535",
+     "sha256": "522e5a5d362d73f4d79ba023f2a331c3c1b6b8584e916ccca978e014d5daa480"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1285-2016",
+   "path": "ordin/ancpi/2016/1285",
+   "short": "Ordin ancpi nr. 1285/2016",
+   "title": "Ordinul nr. 1.285/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Giarmata din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182536",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182536",
+     "sha256": "b70bc7dadd9006bf206c66aa8a74b0398223fba97c85bc581799dfecf30b4a2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1293-2016",
+   "path": "ordin/ancpi/2016/1293",
+   "short": "Ordin ancpi nr. 1293/2016",
+   "title": "Ordinul nr. 1.293/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Vidra din județul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182440",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182440",
+     "sha256": "e78c319f305e42bca70bdda20f7fc15563aa8710517419b4cc75b642315e2c3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1294-2016",
+   "path": "ordin/ancpi/2016/1294",
+   "short": "Ordin ancpi nr. 1294/2016",
+   "title": "Ordinul nr. 1.294/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Gârbău din județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182492",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182492",
+     "sha256": "3f0a630534014f0f10231b34fd4adedaf1f8b016de25cdd582ac6a3c9bcb87d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1295-2016",
+   "path": "ordin/ancpi/2016/1295",
+   "short": "Ordin ancpi nr. 1295/2016",
+   "title": "Ordinul nr. 1.295/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182577",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182577",
+     "sha256": "0b76847330a30de16863c543e1d6ce9585cadbce17856871800e7b4c2f321c1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1296-2016",
+   "path": "ordin/ancpi/2016/1296",
+   "short": "Ordin ancpi nr. 1296/2016",
+   "title": "Ordinul nr. 1.296/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Brebeni, județul Olt, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182639",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182639",
+     "sha256": "e21d8fb70cc5616e9ed964c9e87057e33af8cef9e26dea06a1c75d1c9802393f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1297-2016",
+   "path": "ordin/ancpi/2016/1297",
+   "short": "Ordin ancpi nr. 1297/2016",
+   "title": "Ordinul nr. 1.297/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Mărculești din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182493",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182493",
+     "sha256": "50652fd26f748211ee2bb3e57773eb8b2e222c82b687ea33e77c52c6a833d54a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1298-2016",
+   "path": "ordin/ancpi/2016/1298",
+   "short": "Ordin ancpi nr. 1298/2016",
+   "title": "Ordinul nr. 1.298/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182441",
+   "versions": [
+    {
+     "from": "2016-10-11",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182441",
+     "sha256": "82e855d1d23391eb9ffdab20f94f2b77bc1e1910621a7bfa9ee535e0beca3cc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1299-2016",
+   "path": "ordin/ancpi/2016/1299",
+   "short": "Ordin ancpi nr. 1299/2016",
+   "title": "Ordinul nr. 1.299/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Andrășești din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182640",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182640",
+     "sha256": "969612fbbe6b56d75e4066d23c68163560332d676f52668f1b1d051e5ebe7219"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1300-2016",
+   "path": "ordin/ancpi/2016/1300",
+   "short": "Ordin ancpi nr. 1300/2016",
+   "title": "Ordinul nr. 1.300/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Blândești din județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182738",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182738",
+     "sha256": "12049f287b3de5d59692a4607a06794ac1558c2c29d62e7f73e745e5cb125484"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1301-2016",
+   "path": "ordin/ancpi/2016/1301",
+   "short": "Ordin ancpi nr. 1301/2016",
+   "title": "Ordinul nr. 1.301/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182646",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182646",
+     "sha256": "79f71c69b9e490b50394abfbd631f4ccd8416824b296ac44986726d6957a5e32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1302-2016",
+   "path": "ordin/ancpi/2016/1302",
+   "short": "Ordin ancpi nr. 1302/2016",
+   "title": "Ordinul nr. 1.302/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Lemnia din județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183061",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183061",
+     "sha256": "de41e750385dab42a4d7c732ead8d7e538a7276434333ad5f275e620870b7729"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1303-2016",
+   "path": "ordin/ancpi/2016/1303",
+   "short": "Ordin ancpi nr. 1303/2016",
+   "title": "Ordinul nr. 1.303/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Moravița din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183062",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183062",
+     "sha256": "8bb680824b141e5c26fbc7b89c3bb7116bbccc763bbc4f8519bcab1cf551cd2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1304-2016",
+   "path": "ordin/ancpi/2016/1304",
+   "short": "Ordin ancpi nr. 1304/2016",
+   "title": "Ordinul nr. 1.304/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Mehedinți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183063",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183063",
+     "sha256": "c8a38d260282f05d0cb8e79b0c8b67f29f5234992313a8da510ba2722581f692"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1305-2016",
+   "path": "ordin/ancpi/2016/1305",
+   "short": "Ordin ancpi nr. 1305/2016",
+   "title": "Ordinul nr. 1.305/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183064",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183064",
+     "sha256": "ca2b0ae5447d8f0188a65cc4345533cdee62cc79c2fede1c33764bfa8c39ee23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1322-2016",
+   "path": "ordin/ancpi/2016/1322",
+   "short": "Ordin ancpi nr. 1322/2016",
+   "title": "Ordinul nr. 1.322/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Buești din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182706",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182706",
+     "sha256": "fa9396e1db04948b52ac0b56a195f4b689968923103f825340c499f0d79c26c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1324-2016",
+   "path": "ordin/ancpi/2016/1324",
+   "short": "Ordin ancpi nr. 1324/2016",
+   "title": "Ordinul nr. 1.324/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Săveni din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182707",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182707",
+     "sha256": "bd66bcf6a2f570dfd45a5b13f82c09ae944c4265aa3adfaac7c9dd5ca8ab9704"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1325-2016",
+   "path": "ordin/ancpi/2016/1325",
+   "short": "Ordin ancpi nr. 1325/2016",
+   "title": "Ordinul nr. 1.325/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Vlăsinești din județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182708",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182708",
+     "sha256": "28b10fa5393a0731a753a6784d9fa421c34b9d8e45c137864c4651a2da3de05b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1326-2016",
+   "path": "ordin/ancpi/2016/1326",
+   "short": "Ordin ancpi nr. 1326/2016",
+   "title": "Ordinul nr. 1.326/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Scânteiești din județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182709",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182709",
+     "sha256": "fc4ad600f3257bef783fec5ddbd8bcc843b119ca22abcab15dd1b752ac8199dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1327-2016",
+   "path": "ordin/ancpi/2016/1327",
+   "short": "Ordin ancpi nr. 1327/2016",
+   "title": "Ordinul nr. 1.327/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182716",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182716",
+     "sha256": "84843e619da10bcc4fd730a5f153b1b5fbb92efca5dcc685384a23760515754a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1334-2016",
+   "path": "ordin/ancpi/2016/1334",
+   "short": "Ordin ancpi nr. 1334/2016",
+   "title": "Ordinul nr. 1.334/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 8 unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183026",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183026",
+     "sha256": "a475b339b85bac9743bc313ca33fa7fb23b9af3dce9e2b776cbc41e3ac71b067"
     }
    ]
   },
@@ -3723,6 +5433,36 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1336-2016",
+   "path": "ordin/ancpi/2016/1336",
+   "short": "Ordin ancpi nr. 1336/2016",
+   "title": "Ordinul nr. 1.336/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182717",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182717",
+     "sha256": "5d7556fe4ae8689dc6572a242b763ab806c453f44b38193393dd7b3628801696"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1337-2016",
+   "path": "ordin/ancpi/2016/1337",
+   "short": "Ordin ancpi nr. 1337/2016",
+   "title": "Ordinul nr. 1.337/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Dănciulești din județul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182718",
+   "versions": [
+    {
+     "from": "2016-10-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182718",
+     "sha256": "19d2d6a5dbdc44358b39673a295c8a014bce53820d04b082d4fa03c8951be84e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1343-2016",
    "path": "ordin/ancpi/2016/1343",
    "short": "Ordin ancpi nr. 1343/2016",
@@ -3738,6 +5478,51 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1346-2016",
+   "path": "ordin/ancpi/2016/1346",
+   "short": "Ordin ancpi nr. 1346/2016",
+   "title": "Ordinul nr. 1.346/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183267",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183267",
+     "sha256": "ed4ac0250d9b96fc7e5e3e9d5d4b5551cd545bef02e0a7d9c98cdc2099a9b5b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1347-2016",
+   "path": "ordin/ancpi/2016/1347",
+   "short": "Ordin ancpi nr. 1347/2016",
+   "title": "Ordinul nr. 1.347/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Craiva din județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183268",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183268",
+     "sha256": "87fd276b5af617b83a339f0df225d0c94b68222ad6b61ef9296520a7bb907022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1362-2016",
+   "path": "ordin/ancpi/2016/1362",
+   "short": "Ordin ancpi nr. 1362/2016",
+   "title": "Ordinul nr. 1.362/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Gheorghe Doja din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182922",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182922",
+     "sha256": "501cb8a2289b21898e72d2088880a1f43716f8407964e9f115b9ad92647f4d3c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1364-2016",
    "path": "ordin/ancpi/2016/1364",
    "short": "Ordin ancpi nr. 1364/2016",
@@ -3749,6 +5534,156 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182997",
      "sha256": "d17689e538069b5ffc5eacb2e5a35b3322c1729133e45629f6e9abc06509e27d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1371-2016",
+   "path": "ordin/ancpi/2016/1371",
+   "short": "Ordin ancpi nr. 1371/2016",
+   "title": "Ordinul nr. 1.371/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Așchileu din județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183095",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183095",
+     "sha256": "01409d8a2395f906bef7b065de9b9a642b73ed46f822ebda08d1cd447ae5f5e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1372-2016",
+   "path": "ordin/ancpi/2016/1372",
+   "short": "Ordin ancpi nr. 1372/2016",
+   "title": "Ordinul nr. 1.372/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Albești din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183096",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183096",
+     "sha256": "61b4e02c587b82b5ed9c0a31aa6a3d4c7e86d83dad05a0e686fea92f29b2a2ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1379-2016",
+   "path": "ordin/ancpi/2016/1379",
+   "short": "Ordin ancpi nr. 1379/2016",
+   "title": "Ordinul nr. 1.379/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Constantin Daicoviciu din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183332",
+   "versions": [
+    {
+     "from": "2016-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183332",
+     "sha256": "de2a08758d06765c38348d770010f9a35a3799bf91d1d323dba6054bc8822ff1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1384-2016",
+   "path": "ordin/ancpi/2016/1384",
+   "short": "Ordin ancpi nr. 1384/2016",
+   "title": "Ordinul nr. 1.384/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Jirlău din județul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183273",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183273",
+     "sha256": "3c729a23203196308eef9844c944a2ab5989578b77ec46c0438a77abbf777d4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1385-2016",
+   "path": "ordin/ancpi/2016/1385",
+   "short": "Ordin ancpi nr. 1385/2016",
+   "title": "Ordinul nr. 1.385/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Comișani, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183274",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183274",
+     "sha256": "8e2bca737eb6ecf6e723758d59bf3df126a8d70c0251f62c30ecf8cfddf9ec7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1391-2016",
+   "path": "ordin/ancpi/2016/1391",
+   "short": "Ordin ancpi nr. 1391/2016",
+   "title": "Ordinul nr. 1.391/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Sărmașu din județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183521",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183521",
+     "sha256": "93733800c0dcd0f3f06c59b3738ca123e38c41e218c1bfb567e6671617afd937"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1392-2016",
+   "path": "ordin/ancpi/2016/1392",
+   "short": "Ordin ancpi nr. 1392/2016",
+   "title": "Ordinul nr. 1.392/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Parța din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183401",
+   "versions": [
+    {
+     "from": "2016-11-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183401",
+     "sha256": "c7b138e447eea98f9857f26e347ff9e49ac02201a8ced1ce6b67706bccf97927"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1393-2016",
+   "path": "ordin/ancpi/2016/1393",
+   "short": "Ordin ancpi nr. 1393/2016",
+   "title": "Ordinul nr. 1.393/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183522",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183522",
+     "sha256": "7e1ad456ac34b346a00a5aa9c85a05c8e497c4b88d4114ad3eba234507a8346b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1394-2016",
+   "path": "ordin/ancpi/2016/1394",
+   "short": "Ordin ancpi nr. 1394/2016",
+   "title": "Ordinul nr. 1.394/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 11 unități administrativ-teritoriale din județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183412",
+   "versions": [
+    {
+     "from": "2016-11-08",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183412",
+     "sha256": "298c7fa480b7afe0dd6eb494c92e2d9f5ec6092d6d6eff5ee89d399fa7a88bd3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1395-2016",
+   "path": "ordin/ancpi/2016/1395",
+   "short": "Ordin ancpi nr. 1395/2016",
+   "title": "Ordinul nr. 1.395/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Jilava din județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183413",
+   "versions": [
+    {
+     "from": "2016-11-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183413",
+     "sha256": "ab592cc5ceb71bbeb028f9c108b4fa648433bddba68ba029175bdd280e7ff4b9"
     }
    ]
   },
@@ -3798,6 +5733,36 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1547-2016",
+   "path": "ordin/ancpi/2016/1547",
+   "short": "Ordin ancpi nr. 1547/2016",
+   "title": "Ordinul nr. 1.547/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Drănic, județul Dolj, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185427",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185427",
+     "sha256": "a4a1d36208bfc6fa58fe9abfab55701ec3d8474749592702c4e0d3bb95a88910"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1549-2016",
+   "path": "ordin/ancpi/2016/1549",
+   "short": "Ordin ancpi nr. 1549/2016",
+   "title": "Ordinul nr. 1.549/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Lunca Corbului, județul Argeș, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185431",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185431",
+     "sha256": "0d88a06887a982e3e865c6b49958443c0f53b41a8dd0770b6557170b666fdb8a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1550-2016",
    "path": "ordin/ancpi/2016/1550",
    "short": "Ordin ancpi nr. 1550/2016",
@@ -3809,6 +5774,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185602",
      "sha256": "6110b8dcb3b6102e99fbea7e490c12acd8de62d2c0471e4eada73e1d8bb65307"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1599-2016",
+   "path": "ordin/ancpi/2016/1599",
+   "short": "Ordin ancpi nr. 1599/2016",
+   "title": "Ordinul nr. 1.599/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Munteni Buzău din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186033",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186033",
+     "sha256": "e23996b1bf8acb1cb8182935714c1df3d5d7f36c6f179f6161502ab1d4d97dbf"
     }
    ]
   },
@@ -3843,6 +5823,51 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1603-2016",
+   "path": "ordin/ancpi/2016/1603",
+   "short": "Ordin ancpi nr. 1603/2016",
+   "title": "Ordinul nr. 1.603/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 2 unități administrativ-teritoriale din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186043",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186043",
+     "sha256": "282cb50b624fc5af678451af5b53c975dc9d760cd3f5501bbd001d38ef92a470"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1605-2016",
+   "path": "ordin/ancpi/2016/1605",
+   "short": "Ordin ancpi nr. 1605/2016",
+   "title": "Ordinul nr. 1.605/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Moara, județul Suceava, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186397",
+   "versions": [
+    {
+     "from": "2017-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186397",
+     "sha256": "a55a89abb81f47535c0aa6f66fab65ba755dddaec2adcec3a5e0ef8ad6e0ed00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1606-2016",
+   "path": "ordin/ancpi/2016/1606",
+   "short": "Ordin ancpi nr. 1606/2016",
+   "title": "Ordinul nr. 1.606/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Moldovenești din județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186065",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186065",
+     "sha256": "717ceb76a5486c9f6f57100892b70c4ce65d64eaaee9d9dfea92817544701625"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1608-2016",
    "path": "ordin/ancpi/2016/1608",
    "short": "Ordin ancpi nr. 1608/2016",
@@ -3854,6 +5879,201 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186028",
      "sha256": "e0b4dc50ebe4e24d5fb3ba588077eae1dba7a3ea9be08ba56602e266b2e378cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1639-2016",
+   "path": "ordin/ancpi/2016/1639",
+   "short": "Ordin ancpi nr. 1639/2016",
+   "title": "Ordinul nr. 1.639/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în două unități administrativ-teritoriale din județul Bihor, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186151",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186151",
+     "sha256": "7edd090f521a44d81f5c96c547dce25ba3f94b341ef9f6b83a00cc60d6e529fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1640-2016",
+   "path": "ordin/ancpi/2016/1640",
+   "short": "Ordin ancpi nr. 1640/2016",
+   "title": "Ordinul nr. 1.640/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 3 unități administrativ-teritoriale din județul Teleorman, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186152",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186152",
+     "sha256": "e2f31f4f4b160850a48bec0dc22fb801151c7d59ad25a50a31830d3d22a8935d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1650-2016",
+   "path": "ordin/ancpi/2016/1650",
+   "short": "Ordin ancpi nr. 1650/2016",
+   "title": "Ordinul nr. 1.650/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 17 unități administrativ-teritoriale din județul Buzău, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186185",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186185",
+     "sha256": "5e5da21b10def57455c3d9879e8e2ce057393ea29a37c7d8ed551d6e917ecdff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1651-2016",
+   "path": "ordin/ancpi/2016/1651",
+   "short": "Ordin ancpi nr. 1651/2016",
+   "title": "Ordinul nr. 1.651/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în unitatea administrativ-teritorială Ciceu-Mihăiești din județul Bistrița-Năsăud, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186186",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186186",
+     "sha256": "c38d0137a3b343b9ddd2252637036c98b9ecd408ca293cf6c1912ca1de598f96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1654-2016",
+   "path": "ordin/ancpi/2016/1654",
+   "short": "Ordin ancpi nr. 1654/2016",
+   "title": "Ordinul nr. 1.654/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 17 unități administrativ-teritoriale din județul Olt, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186328",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186328",
+     "sha256": "04d920a39026bc3a90f37492dfa29e695e7c7654589215f9dff96019408925dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1655-2016",
+   "path": "ordin/ancpi/2016/1655",
+   "short": "Ordin ancpi nr. 1655/2016",
+   "title": "Ordinul nr. 1.655/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 6 unități administrativ-teritoriale din județul Suceava, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186329",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186329",
+     "sha256": "202079762cbbd6ddfe492d837cf4419c27bf326ef59f0fcdc33d78bd66a9759c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1656-2016",
+   "path": "ordin/ancpi/2016/1656",
+   "short": "Ordin ancpi nr. 1656/2016",
+   "title": "Ordinul nr. 1.656/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 15 unități administrativ-teritoriale din județul Alba, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186330",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186330",
+     "sha256": "f0256234acfc6224c35e5a603360f12c20da6d94cc5b48cf92ce2f13dd41150c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1659-2016",
+   "path": "ordin/ancpi/2016/1659",
+   "short": "Ordin ancpi nr. 1659/2016",
+   "title": "Ordinul nr. 1.659/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 9 unități administrativ-teritoriale din județul Arad, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186182",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186182",
+     "sha256": "3b19cfe1df1e4d07e417c5b996fe150315352330eca4e6ddd1b13d724de44946"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1660-2016",
+   "path": "ordin/ancpi/2016/1660",
+   "short": "Ordin ancpi nr. 1660/2016",
+   "title": "Ordinul nr. 1.660/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 12 unități administrativ-teritoriale din județul Ilfov, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186045",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186045",
+     "sha256": "d03fcc7a3bb701a5838f5ef41c62b4f30b039b12887b929b5ac302dfa90327c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1661-2016",
+   "path": "ordin/ancpi/2016/1661",
+   "short": "Ordin ancpi nr. 1661/2016",
+   "title": "Ordinul nr. 1.661/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 17 unități administrativ-teritoriale din județul Prahova, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186046",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186046",
+     "sha256": "e58ec4b866d71bd64b517d4d0e0ae59bae3d872bd31169ee2dcc2add27af03aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1664-2016",
+   "path": "ordin/ancpi/2016/1664",
+   "short": "Ordin ancpi nr. 1664/2016",
+   "title": "Ordinul nr. 1.664/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 7 unități administrativ-teritoriale din județul Harghita, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186323",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186323",
+     "sha256": "81fa019fa1bdf15aa8e4f49ac96529f5f7ebdcb5215f0a965d21aa25b2f92953"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1668-2016",
+   "path": "ordin/ancpi/2016/1668",
+   "short": "Ordin ancpi nr. 1668/2016",
+   "title": "Ordinul nr. 1.668/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în 3 unități administrativ-teritoriale din județul Neamț, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186192",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186192",
+     "sha256": "cef7cf765a7b736500cb08bfb0de07714f0623e231a951823de6ba07c22ecc1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1680-2016",
+   "path": "ordin/ancpi/2016/1680",
+   "short": "Ordin ancpi nr. 1680/2016",
+   "title": "Ordinul nr. 1.680/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară, pe sectoare cadastrale, cu privire la imobilele situate în unitatea administrativ-teritorială Urziceni din județul Ialomița, ca urmare a finalizării lucrărilor sistematice de cadastru și deschiderii noilor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186020",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186020",
+     "sha256": "b58b8d872e8cf6864a288671e874bb68524efde41669275b17fd29b7980520da"
     }
    ]
   },
@@ -3873,6 +6093,36 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-418-2016",
+   "path": "ordin/ancpi/2016/418",
+   "short": "Ordin ancpi nr. 418/2016",
+   "title": "Ordinul nr. 418/2016 privind închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în 11 sectoare cadastrale din unitatea administrativ-teritorială Livezile, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177849",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177849",
+     "sha256": "2f951f128da0c8bc98ac9b97047d2796e192c1c30511f790ba70b0817f1e39c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-525-2016",
+   "path": "ordin/ancpi/2016/525",
+   "short": "Ordin ancpi nr. 525/2016",
+   "title": "Ordinul nr. 525/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Matca, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178098",
+   "versions": [
+    {
+     "from": "2016-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178098",
+     "sha256": "a629581986bf23006ba66b93e8ad6376ca6b9d754a70c425dd4a9e2801569e37"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-533-2016",
    "path": "ordin/ancpi/2016/533",
    "short": "Ordin ancpi nr. 533/2016",
@@ -3888,6 +6138,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-803-2016",
+   "path": "ordin/ancpi/2016/803",
+   "short": "Ordin ancpi nr. 803/2016",
+   "title": "Ordinul nr. 803/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din sectoarele cadastrale 1, 19, 21, 26, 34 din unitatea administrativ-teritorială Cocorăștii Colț, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180548",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180548",
+     "sha256": "70e26d62775bd87293dfad0683765899e37b1d6191ec64a6d5e9ccce5a7feadb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-819-2016",
    "path": "ordin/ancpi/2016/819",
    "short": "Ordin ancpi nr. 819/2016",
@@ -3899,6 +6164,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180561",
      "sha256": "38fad6b9d405c07c657461ed44c357731aad6ab5bc427480e4867143bea6dd07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-966-2016",
+   "path": "ordin/ancpi/2016/966",
+   "short": "Ordin ancpi nr. 966/2016",
+   "title": "Ordinul nr. 966/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Frăsinet, județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180970",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180970",
+     "sha256": "f6bc059f33735dad5e04e9637411506ca33240de04047d13c8762b7f85d4b19e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-967-2016",
+   "path": "ordin/ancpi/2016/967",
+   "short": "Ordin ancpi nr. 967/2016",
+   "title": "Ordinul nr. 967/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Ungheni, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180971",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180971",
+     "sha256": "948e0cc82e40a22fa3d73001bce6a4e8c3b394fac6d5f07ae283207932c936dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-968-2016",
+   "path": "ordin/ancpi/2016/968",
+   "short": "Ordin ancpi nr. 968/2016",
+   "title": "Ordinul nr. 968/2016 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate în unitatea administrativ-teritorială Orțișoara, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180972",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180972",
+     "sha256": "c93079eff68c669ff474a419c33a4e0b56bf7decf7d36d9c96a326791b74d51a"
     }
    ]
   },
@@ -6483,6 +8793,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-786-2016",
+   "path": "ordin/cnas/2016/786",
+   "short": "Ordin cnas nr. 786/2016",
+   "title": "Ordinul nr. 786/2016 privind stabilirea modalității de clarificare a neconcordanțelor dintre evidențele caselor de asigurări de sănătate județene și a municipiului București și unitățile teritoriale ale Agenției Naționale de Administrare Fiscală, reprezentând drepturi constatate de încasat din contribuții la Fondul național unic de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182234",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182234",
+     "sha256": "f2cba06df474ffb0c355091aa414f7c4b02c4f46732dd9b7c316d12c930248c8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-803-2016",
    "path": "ordin/cnas/2016/803",
    "short": "Ordin cnas nr. 803/2016",
@@ -7023,6 +9348,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-154-2016",
+   "path": "ordin/dezvoltare/2016/154",
+   "short": "Ordin dezvoltare nr. 154/2016",
+   "title": "Ordinul nr. 154/2016 pentru aplicarea la nivelul municipiului Mangalia, județul Constanța, a prevederilor art. 3 alin. (5) din Ordonanța Guvernului nr. 36/2006 privind unele măsuri pentru funcționarea sistemelor centralizate de alimentare cu energie termică a populației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176395",
+   "versions": [
+    {
+     "from": "2016-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176395",
+     "sha256": "5975f159fed37450dc306c4b345055cdeb72f86110d84ebb7da0d553f2ce46d5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1865-2016",
    "path": "ordin/dezvoltare/2016/1865",
    "short": "Ordin dezvoltare nr. 1865/2016",
@@ -7383,6 +9723,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-104-2016",
+   "path": "ordin/economie/2016/104",
+   "short": "Ordin economie nr. 104/2016",
+   "title": "Ordinul nr. 104/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Medserv Min\" - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179238",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179238",
+     "sha256": "9ba385b127f6e2b5cd83e8d339bc6285c5afead454353567aa439affc4450084"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1053-2016",
    "path": "ordin/economie/2016/1053",
    "short": "Ordin economie nr. 1053/2016",
@@ -7409,6 +9764,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182703",
      "sha256": "224f6e7e8bc3d310adc3d8e323db1c8ce4259219a676cac66598ef09f5bf88fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1145-2016",
+   "path": "ordin/economie/2016/1145",
+   "short": "Ordin economie nr. 1145/2016",
+   "title": "Ordinul nr. 1.145/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Radioactiv Mineral\" - S.A. Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184629",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184629",
+     "sha256": "1671c1cf73956470f4a99a124900c83b6e356d850f53660eb8fc719c75ebdb61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1189-2016",
+   "path": "ordin/economie/2016/1189",
+   "short": "Ordin economie nr. 1189/2016",
+   "title": "Ordinul nr. 1.189/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea SISTEMPLAST - S.A., unde Societatea OLTCHIM - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Relațiilor cu Mediul de Afaceri, deține 94,4% din capitalul social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183915",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183915",
+     "sha256": "f609283cc52bb7395abf6884f9ca6503d83a287013d50dc809dae633f97cd3db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1200-2016",
+   "path": "ordin/economie/2016/1200",
+   "short": "Ordin economie nr. 1200/2016",
+   "title": "Ordinul nr. 1.200/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"SANEVIT 2003\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184667",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184667",
+     "sha256": "363281500938b8df7914545bc6941f082033364fd850549eb556240dcbc02e92"
     }
    ]
   },
@@ -7473,6 +9873,36 @@
    ]
   },
   {
+   "slug": "ordin-economie-1376-2016",
+   "path": "ordin/economie/2016/1376",
+   "short": "Ordin economie nr. 1376/2016",
+   "title": "Ordinul nr. 1.376/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"NEPTUN-OLIMP\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185053",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185053",
+     "sha256": "644d9a47f31bac92bec3143ca71ca4c8f363850d27a6556ce27865e097e50121"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-142-2016",
+   "path": "ordin/economie/2016/142",
+   "short": "Ordin economie nr. 142/2016",
+   "title": "Ordinul nr. 142/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Minprest Serv\" - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181116",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181116",
+     "sha256": "f23c4c411272516016eec186547873d605f0fd2ea95313419dd259d92c44bbb7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1421-2016",
    "path": "ordin/economie/2016/1421",
    "short": "Ordin economie nr. 1421/2016",
@@ -7499,6 +9929,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185646",
      "sha256": "ee9d0f3808cfd8047f60a815acca925dbc28179fa531e106665ea8bdf7c641c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-155-2016",
+   "path": "ordin/economie/2016/155",
+   "short": "Ordin economie nr. 155/2016",
+   "title": "Ordinul nr. 155/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Electrocentrale Grup\" - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181112",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181112",
+     "sha256": "659a99b881bddc9b20ff8c8b612b5852684616cb3b304237c31bd4e27f9aa5a5"
     }
    ]
   },
@@ -7548,6 +9993,36 @@
    ]
   },
   {
+   "slug": "ordin-economie-422-2016",
+   "path": "ordin/economie/2016/422",
+   "short": "Ordin economie nr. 422/2016",
+   "title": "Ordinul nr. 422/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179259",
+   "versions": [
+    {
+     "from": "2016-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179259",
+     "sha256": "ef11971fbc18fe62a10a6c6e722d372b12cb65f76dbea44f1aebeddb82b601ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-456-2016",
+   "path": "ordin/economie/2016/456",
+   "short": "Ordin economie nr. 456/2016",
+   "title": "Ordinul nr. 456/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Litoral\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179792",
+   "versions": [
+    {
+     "from": "2016-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179792",
+     "sha256": "902cc4157fcb8098f42dabbe26af676a34900878d336b6ce310a939ab750a813"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-493-2016",
    "path": "ordin/economie/2016/493",
    "short": "Ordin economie nr. 493/2016",
@@ -7563,6 +10038,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-503-2016",
+   "path": "ordin/economie/2016/503",
+   "short": "Ordin economie nr. 503/2016",
+   "title": "Ordinul nr. 503/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180723",
+   "versions": [
+    {
+     "from": "2016-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180723",
+     "sha256": "5e844b0bc4e1f22e23386efa8a919cb75d2d9b08accdb64606750522cab8098e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-504-2016",
+   "path": "ordin/economie/2016/504",
+   "short": "Ordin economie nr. 504/2016",
+   "title": "Ordinul nr. 504/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea ELECTROMECANICA PLOIEȘTI - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180755",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180755",
+     "sha256": "b1ee5e36d59c8373ef1cdc4bcd6ee7ba9b235a9d0281132795f1c88336795435"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-538-2016",
+   "path": "ordin/economie/2016/538",
+   "short": "Ordin economie nr. 538/2016",
+   "title": "Ordinul nr. 538/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea UZINA MECANICĂ MIJA - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180767",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180767",
+     "sha256": "b347b941438827170d32f2937dfc9df7c7ed2f89e446ef82f9e6762cdcddb32f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-584-2016",
    "path": "ordin/economie/2016/584",
    "short": "Ordin economie nr. 584/2016",
@@ -7574,6 +10094,111 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181269",
      "sha256": "79a07e4359b05a225d71358e9102b1314e0c34a3e198ac5eb6ee2d84896a9b03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-617-2016",
+   "path": "ordin/economie/2016/617",
+   "short": "Ordin economie nr. 617/2016",
+   "title": "Ordinul nr. 617/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea TOHAN - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180936",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180936",
+     "sha256": "b5c6c03fa4d3deb306851ee0d337730151c300c1612ea35cec15cd025154c81f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-618-2016",
+   "path": "ordin/economie/2016/618",
+   "short": "Ordin economie nr. 618/2016",
+   "title": "Ordinul nr. 618/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea METROM - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180938",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180938",
+     "sha256": "63ff32024aae2fbba7b02837e42b6ceb407a8a27327283d8053ea988e021994c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-630-2016",
+   "path": "ordin/economie/2016/630",
+   "short": "Ordin economie nr. 630/2016",
+   "title": "Ordinul nr. 630/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea CARFIL - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180956",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180956",
+     "sha256": "ab0260317e3bbad01bf54ee6755f36a70423edf73aaee894e5ac092239887d8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-631-2016",
+   "path": "ordin/economie/2016/631",
+   "short": "Ordin economie nr. 631/2016",
+   "title": "Ordinul nr. 631/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea EUROTEST - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180769",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180769",
+     "sha256": "f335fda8bcc22646774f7267c1e98ab57ec8610284262ff2907ae740fb7f151e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-632-2016",
+   "path": "ordin/economie/2016/632",
+   "short": "Ordin economie nr. 632/2016",
+   "title": "Ordinul nr. 632/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea UZINA DE PRODUSE SPECIALE DRAGOMIREȘTI - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180771",
+   "versions": [
+    {
+     "from": "2016-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180771",
+     "sha256": "bcfdb8fe7810aa8b53f8f36fdcafee9721d61ed78fb5ce5dd10250d569124611"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-660-2016",
+   "path": "ordin/economie/2016/660",
+   "short": "Ordin economie nr. 660/2016",
+   "title": "Ordinul nr. 660/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180954",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180954",
+     "sha256": "e83586d98b9e3ba56500972b76b6adb107e4bc3db413695f53d62c38b9f42ae1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-682-2016",
+   "path": "ordin/economie/2016/682",
+   "short": "Ordin economie nr. 682/2016",
+   "title": "Ordinul nr. 682/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea Fabrica de Arme CUGIR - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180966",
+   "versions": [
+    {
+     "from": "2016-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180966",
+     "sha256": "5aaf6b85125094727c1b43fcfc42d7d79236e1e841df3a174e3fa6e34d4309c5"
     }
    ]
   },
@@ -7623,6 +10248,96 @@
    ]
   },
   {
+   "slug": "ordin-economie-748-2016",
+   "path": "ordin/economie/2016/748",
+   "short": "Ordin economie nr. 748/2016",
+   "title": "Ordinul nr. 748/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Pirochim Victoria\" S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181110",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181110",
+     "sha256": "3a697f342f8fa4c1fab34b9366484920b3b2ed2304a41de437dd6db02484e2a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-749-2016",
+   "path": "ordin/economie/2016/749",
+   "short": "Ordin economie nr. 749/2016",
+   "title": "Ordinul nr. 749/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"Uzina Automecanica Moreni\" - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181114",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181114",
+     "sha256": "e4fde4113ebd451208928202513c057de71accfd5d0e2abaa7b61838eee486bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-750-2016",
+   "path": "ordin/economie/2016/750",
+   "short": "Ordin economie nr. 750/2016",
+   "title": "Ordinul nr. 750/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea Arsenal Reșița - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181161",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181161",
+     "sha256": "d6e96499b58caa379a643bcf1384bff01a7a600f1e436c40d5a8bbc81d1e5ac6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-751-2016",
+   "path": "ordin/economie/2016/751",
+   "short": "Ordin economie nr. 751/2016",
+   "title": "Ordinul nr. 751/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea Uzina Mecanică București - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181163",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181163",
+     "sha256": "7d82ee0e84905834cdd5c3903bc25a06b36d5f121541784fbc84004233e6f3f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-752-2016",
+   "path": "ordin/economie/2016/752",
+   "short": "Ordin economie nr. 752/2016",
+   "title": "Ordinul nr. 752/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea Fabrica de Pulberi Făgăraș - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181514",
+   "versions": [
+    {
+     "from": "2016-09-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181514",
+     "sha256": "21acbf772e92b8b48ef96679df7a0e26bde5ec2997b22f64f417be0fa79860ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-753-2016",
+   "path": "ordin/economie/2016/753",
+   "short": "Ordin economie nr. 753/2016",
+   "title": "Ordinul nr. 753/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea UZINA MECANICĂ SADU - S.A. - filiala C.N. ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181156",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181156",
+     "sha256": "e2b3e91ac8061ff4f63cb80143be3cbb1affaebc80be6f729594ea7b5662bd18"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-780-2016",
    "path": "ordin/economie/2016/780",
    "short": "Ordin economie nr. 780/2016",
@@ -7664,6 +10379,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180739",
      "sha256": "88ff2a8cf684b5edc8f78c87ba5666624ac12e48876814ec3d1eb254658465f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-836-2016",
+   "path": "ordin/economie/2016/836",
+   "short": "Ordin economie nr. 836/2016",
+   "title": "Ordinul nr. 836/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea PRELMEC - S.A. - unde Societatea \"Uzina Mecanică Orăștie\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Relațiilor cu Mediul de Afaceri, deține 99,96% din capitalul social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181468",
+   "versions": [
+    {
+     "from": "2016-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181468",
+     "sha256": "e1859825edebdf16ce24b54a1a85a70dc48ba103efc59be7e9c324ec167f1662"
     }
    ]
   },
@@ -7754,6 +10484,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181379",
      "sha256": "a72e2d7f72b27789cf4a2ace5cfcfcdc99e7b77a3d768f126dfbfad86c7bcaba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-931-2016",
+   "path": "ordin/economie/2016/931",
+   "short": "Ordin economie nr. 931/2016",
+   "title": "Ordinul nr. 931/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea \"ROȘIAMIN\" ROȘIA MONTANĂ - S.A. - filiala Companiei Naționale C.A.F. \"MINVEST\" DEVA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182799",
+   "versions": [
+    {
+     "from": "2016-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182799",
+     "sha256": "f7c595677c4b702062c6be86d0cd14e485994d65c5b6d0ec0069208760eb64bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-946-2016",
+   "path": "ordin/economie/2016/946",
+   "short": "Ordin economie nr. 946/2016",
+   "title": "Ordinul nr. 946/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea CERTEJ - S.A. - filiala Companiei Naționale C.A.F. \"MINVEST\" DEVA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182796",
+   "versions": [
+    {
+     "from": "2016-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182796",
+     "sha256": "5f7ed49bc47b52debffe5d771453526224a4160ea6f17c4e1264876bd6d33276"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-98-2016",
+   "path": "ordin/economie/2016/98",
+   "short": "Ordin economie nr. 98/2016",
+   "title": "Ordinul nr. 98/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea de Administrare a Participațiilor în Energie - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178636",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178636",
+     "sha256": "c02ed58f86ffaf3b18e37cfb25618bed6e7120c7a6013b937909ac51b66c60db"
     }
    ]
   },
@@ -8808,6 +11583,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5566-2016",
+   "path": "ordin/educatie/2016/5566",
+   "short": "Ordin educatie nr. 5566/2016",
+   "title": "Ordinul nr. 5.566/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Regia Autonomă \"Editura Didactică și Pedagogică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184638",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184638",
+     "sha256": "3fb42e2f44acbe2491a31a9566ef1a57e863972445ae48f23eb2a937a869712c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5660-2016",
    "path": "ordin/educatie/2016/5660",
    "short": "Ordin educatie nr. 5660/2016",
@@ -9573,6 +12363,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1016-2016",
+   "path": "ordin/finante/2016/1016",
+   "short": "Ordin finante nr. 1016/2016",
+   "title": "Ordinul nr. 1.016/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179610",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179610",
+     "sha256": "2e8213760a542d103f5edfe28bccff5e14dc4a0aa6d4c1eec0843ab193372c8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-102-2016",
    "path": "ordin/finante/2016/102",
    "short": "Ordin finante nr. 102/2016",
@@ -9693,6 +12498,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1079-2016",
+   "path": "ordin/finante/2016/1079",
+   "short": "Ordin finante nr. 1079/2016",
+   "title": "Ordinul nr. 1.079/2016 privind prospectul de emisiune a titlurilor de stat destinate exclusiv investitorilor persoane fizice ediția CENTENAR în cadrul Programului FIDELIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179917",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179917",
+     "sha256": "190215809b18560c8360afa3f11a57235312f2f3e6cc604795f39251d3011362"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1098-2016",
    "path": "ordin/finante/2016/1098",
    "short": "Ordin finante nr. 1098/2016",
@@ -9768,6 +12588,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1169-2016",
+   "path": "ordin/finante/2016/1169",
+   "short": "Ordin finante nr. 1169/2016",
+   "title": "Ordinul nr. 1.169/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180523",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180523",
+     "sha256": "87bd62665d776ed9d21c91a08e946d8e2520da45464c48789d955fc7dc41e60a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-123-2016",
    "path": "ordin/finante/2016/123",
    "short": "Ordin finante nr. 123/2016",
@@ -9824,6 +12659,36 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180728",
      "sha256": "4cb2f21524154135536d99dd0a1578114fa0d9b48b2382efc02feee8a38452b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-131-2016",
+   "path": "ordin/finante/2016/131",
+   "short": "Ordin finante nr. 131/2016",
+   "title": "Ordinul nr. 131/2016 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna februarie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175405",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175405",
+     "sha256": "3b6d6e1a5737ab789318d9af0153e44f09c5beec471eb8bc5e57c44742ce4253"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-132-2016",
+   "path": "ordin/finante/2016/132",
+   "short": "Ordin finante nr. 132/2016",
+   "title": "Ordinul nr. 132/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175411",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175411",
+     "sha256": "a1cb983bc22ca39993dc36be63f69718ff87cf54c56fe866812afa907ee6ed32"
     }
    ]
   },
@@ -9918,6 +12783,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2144-2016",
+   "path": "ordin/finante/2016/2144",
+   "short": "Ordin finante nr. 2144/2016",
+   "title": "Ordinul nr. 2.144/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181336",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181336",
+     "sha256": "66538edd6398ff4b8cdbcfdc0e18aeb4e9fc42a3f1b461f1b8bfa9e85b4d0e8b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2148-2016",
    "path": "ordin/finante/2016/2148",
    "short": "Ordin finante nr. 2148/2016",
@@ -10008,6 +12888,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2219-2016",
+   "path": "ordin/finante/2016/2219",
+   "short": "Ordin finante nr. 2219/2016",
+   "title": "Ordinul nr. 2.219/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale BTT \"Perla Costineștiului\" - S.A., operator economic al cărui acționar majoritar - Societatea Comercială BTT - S.A. - se află sub autoritatea tutelară a Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182132",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182132",
+     "sha256": "bdb3a0211913973f6427fcca51ac8c05b100f67a721201e5011e4653c20abb9f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2229-2016",
    "path": "ordin/finante/2016/2229",
    "short": "Ordin finante nr. 2229/2016",
@@ -10038,6 +12933,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-2301-2016",
+   "path": "ordin/finante/2016/2301",
+   "short": "Ordin finante nr. 2301/2016",
+   "title": "Ordinul nr. 2.301/2016 privind aprobarea contractării de către Ministerul Finanțelor Publice a unui împrumut pe piețele externe de capital, prin redeschiderea emisiunii de obligațiuni scadente în data de 26 mai 2028, în sumă de maximum 1 miliard euro, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", și desemnarea administratorilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182038",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182038",
+     "sha256": "736abf937f46cf6a4f7e1a7d6f44426e213e04a03c492bbd6901b7dc3b076a97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-231-2016",
+   "path": "ordin/finante/2016/231",
+   "short": "Ordin finante nr. 231/2016",
+   "title": "Ordinul nr. 231/2016 privind aprobarea contractării de către Ministerul Finanțelor Publice a unui împrumut pe piețele externe de capital, prin redeschiderea emisiunilor de obligațiuni scadente în data de 29 octombrie 2025 și, respectiv, în data de 29 octombrie 2035, în sumă de maximum 2 miliarde euro, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", și desemnarea administratorilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175973",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175973",
+     "sha256": "096d744ec419a732a0c7ab6b5503b1387c796fe89c8de573da52de5ef474f198"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-233-2016",
    "path": "ordin/finante/2016/233",
    "short": "Ordin finante nr. 233/2016",
@@ -10049,6 +12974,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176003",
      "sha256": "2bbc2d4a041adb52a7104873b21107a4b6e5cc4b8fb8ad3ac68c8016921a3fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2336-2016",
+   "path": "ordin/finante/2016/2336",
+   "short": "Ordin finante nr. 2336/2016",
+   "title": "Ordinul nr. 2.336/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182193",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182193",
+     "sha256": "68b4e41316ed87b9d8f16c60c4da2b686141cf0e70bf6598b04e9174836679b6"
     }
    ]
   },
@@ -10128,6 +13068,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-2460-2016",
+   "path": "ordin/finante/2016/2460",
+   "short": "Ordin finante nr. 2460/2016",
+   "title": "Ordinul nr. 2.460/2016 privind împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară de a constata contravențiile și a aplica sancțiunile prevăzute de Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183075",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183075",
+     "sha256": "da44082f36f1ff1c2d5bbf2978d859810e3807362030b9b63a96e48f3b91b9a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2554-2016",
+   "path": "ordin/finante/2016/2554",
+   "short": "Ordin finante nr. 2554/2016",
+   "title": "Ordinul nr. 2.554/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183244",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183244",
+     "sha256": "2a2c5cb1ba8239af7f85e9a68204ef740e391cddf264e496159c8920bcadcae6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2562-2016",
    "path": "ordin/finante/2016/2562",
    "short": "Ordin finante nr. 2562/2016",
@@ -10154,6 +13124,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183410",
      "sha256": "9ffda07c5da4b0e11103d7a20c93428380770e349e8b051a1fb585f9ad4ca6ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2623-2016",
+   "path": "ordin/finante/2016/2623",
+   "short": "Ordin finante nr. 2623/2016",
+   "title": "Ordinul nr. 2.623/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183959",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183959",
+     "sha256": "5c8ca3fc731a6e2fd4167eae09242d3fe0618a0870a9d8cfca7785d75a7dc667"
     }
    ]
   },
@@ -10188,6 +13173,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-2672-2016",
+   "path": "ordin/finante/2016/2672",
+   "short": "Ordin finante nr. 2672/2016",
+   "title": "Ordinul nr. 2.672/2016 privind împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară de a verifica și controla perceperea și virarea timbrului Crucii Roșii și de a constata contravențiile și a aplica sancțiunile prevăzute de Legea Societății Naționale de Cruce Roșie din România nr. 139/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184596",
+   "versions": [
+    {
+     "from": "2016-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184596",
+     "sha256": "fef69457f0349960c677dab854c6e28ee3cb322cfe329d5b9c989db17c7238d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2774-2016",
+   "path": "ordin/finante/2016/2774",
+   "short": "Ordin finante nr. 2774/2016",
+   "title": "Ordinul nr. 2.774/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184182",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184182",
+     "sha256": "79ec153968b4ac72e40d0387cdc9005594f1056be2013ef284e1d798fb2ead63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2799-2016",
+   "path": "ordin/finante/2016/2799",
+   "short": "Ordin finante nr. 2799/2016",
+   "title": "Ordinul nr. 2.799/2016 privind împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară de a constata contravențiile și a aplica sancțiunile prevăzute de Ordonanța de urgență a Guvernului nr. 88/2013 privind adoptarea unor măsuri fiscal-bugetare pentru îndeplinirea unor angajamente convenite cu organismele internaționale, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184639",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184639",
+     "sha256": "123a89a529d166376991fc61cf98bbecbcd4d828b4ba113b4880a625038ac8f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-280-2016",
    "path": "ordin/finante/2016/280",
    "short": "Ordin finante nr. 280/2016",
@@ -10199,6 +13229,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176434",
      "sha256": "3ccecaa5a0a97120603bb3cd8150de8a5fdd8a9f57b2a269672bc855b62bfbea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2833-2016",
+   "path": "ordin/finante/2016/2833",
+   "short": "Ordin finante nr. 2833/2016",
+   "title": "Ordinul nr. 2.833/2016 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii unei persoane fizice care a constituit depozit la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184576",
+   "versions": [
+    {
+     "from": "2016-12-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184576",
+     "sha256": "94f6e8cec3916f4aad2eec31ea23bdf0f870928355285297d63901f8e590262f"
     }
    ]
   },
@@ -10338,6 +13383,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2922-2016",
+   "path": "ordin/finante/2016/2922",
+   "short": "Ordin finante nr. 2922/2016",
+   "title": "Ordinul nr. 2.922/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185189",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185189",
+     "sha256": "a9076846591a278c8263dab202701e69d34f5a0495f59006c9db98d73730e05c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2934-2016",
    "path": "ordin/finante/2016/2934",
    "short": "Ordin finante nr. 2934/2016",
@@ -10364,6 +13424,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185493",
      "sha256": "046133a96f99b52e471bf62c6ef25fbd090da0bac4d39dfd1819791ed5b50fe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-295-2016",
+   "path": "ordin/finante/2016/295",
+   "short": "Ordin finante nr. 295/2016",
+   "title": "Ordinul nr. 295/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176274",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176274",
+     "sha256": "2c3b4457b9012b682a9daa78ccc60e379df88a93e726a99b83c92f7ea4bd83ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-296-2016",
+   "path": "ordin/finante/2016/296",
+   "short": "Ordin finante nr. 296/2016",
+   "title": "Ordinul nr. 296/2016 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna martie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176249",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176249",
+     "sha256": "6aea0eee02981cf3f1fb9ff35015c8562c3a28c40a2df0c0fffa316c7efbd87f"
     }
    ]
   },
@@ -10484,6 +13574,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177435",
      "sha256": "b0321f4ff0e103460fed0dbd01824951740505254ce1fe923994cf77fc69ee7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-458-2016",
+   "path": "ordin/finante/2016/458",
+   "short": "Ordin finante nr. 458/2016",
+   "title": "Ordinul nr. 458/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177105",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177105",
+     "sha256": "b54095b656da5d8e599df9c4feffed77cffbb35cbf15cd5d901fa37b87ff2038"
     }
    ]
   },
@@ -10653,6 +13758,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-597-2016",
+   "path": "ordin/finante/2016/597",
+   "short": "Ordin finante nr. 597/2016",
+   "title": "Ordinul nr. 597/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178056",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178056",
+     "sha256": "a94faf07de6a96e8d866be777866b12df7bd7363a18705bca1ede68b87026635"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-64-2016",
    "path": "ordin/finante/2016/64",
    "short": "Ordin finante nr. 64/2016",
@@ -10683,6 +13803,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-681-2016",
+   "path": "ordin/finante/2016/681",
+   "short": "Ordin finante nr. 681/2016",
+   "title": "Ordinul nr. 681/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale Biroul de Turism pentru Tineret (B.T.T.) - S.A., întreprindere publică a cărei autoritate tutelară este Ministerul Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178717",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178717",
+     "sha256": "92662d1de5ca0661c224c3d7d649daaab719df01b2876dda53d98762d9ca290b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-719-2016",
+   "path": "ordin/finante/2016/719",
+   "short": "Ordin finante nr. 719/2016",
+   "title": "Ordinul nr. 719/2016 privind aprobarea contractării de către Ministerul Finanțelor Publice a unor împrumuturi pe piețele externe de capital în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" prin emiterea de obligațiuni denominate în euro, în sumă de maximum 2 miliarde euro și desemnarea administratorilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178572",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178572",
+     "sha256": "db54f7d60b5631e7c1f193623dd43bbcb3c4d3462677bd0d6db5d5b85eab040b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-783-2016",
    "path": "ordin/finante/2016/783",
    "short": "Ordin finante nr. 783/2016",
@@ -10694,6 +13844,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179399",
      "sha256": "2bdf6cf6abab6a04540f694cf8f8a7be5ab24cc2cea8283e925a5b9804bb30f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-811-2016",
+   "path": "ordin/finante/2016/811",
+   "short": "Ordin finante nr. 811/2016",
+   "title": "Ordinul nr. 811/2016 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178864",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178864",
+     "sha256": "058abc4e02e4aae30856ccc41ab0371abe2da30320323e10cc219ce14afce096"
     }
    ]
   },
@@ -10799,6 +13964,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179766",
      "sha256": "43e0ce4742e5ffdcb5f0418d411c9c634f7445089121e331a16004f4551b4629"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-921-2016",
+   "path": "ordin/finante/2016/921",
+   "short": "Ordin finante nr. 921/2016",
+   "title": "Ordinul nr. 921/2016 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2016 al Societății Comerciale \"RO-ARMYSECURITY\" - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179727",
+   "versions": [
+    {
+     "from": "2016-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179727",
+     "sha256": "7dd9ef40115423c42746febded509ea65dd30febfc167419ac35a758ab072a5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-933-2016",
+   "path": "ordin/finante/2016/933",
+   "short": "Ordin finante nr. 933/2016",
+   "title": "Ordinul nr. 933/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale \"RO-ARMYCATERING\" - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179734",
+   "versions": [
+    {
+     "from": "2016-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179734",
+     "sha256": "3793df2e67172fc1fe98242aab2a5adf082906e829924ae8bc7b5d3c74cd89f1"
     }
    ]
   },
@@ -14388,6 +17583,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1346-2016",
+   "path": "ordin/mediu/2016/1346",
+   "short": "Ordin mediu nr. 1346/2016",
+   "title": "Ordinul nr. 1.346/2016 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2016 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva, prevăzute în anexa nr. 3 pct. 1-23 din Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183548",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183548",
+     "sha256": "89f8f7444aa0dffe54b8c3d97054db12f600ae394d116a17ae6160f63df0c92f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1354-2016",
    "path": "ordin/mediu/2016/1354",
    "short": "Ordin mediu nr. 1354/2016",
@@ -15783,6 +18993,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-69-2016",
+   "path": "ordin/mediu/2016/69",
+   "short": "Ordin mediu nr. 69/2016",
+   "title": "Ordinul nr. 69/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale EXPLOATARE SISTEM ZONAL PRAHOVA - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176090",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176090",
+     "sha256": "af07f988e31bd76fc2e2ce03b983325fb53444b306327017556db42e9b5dda55"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-694-2016",
    "path": "ordin/mediu/2016/694",
    "short": "Ordin mediu nr. 694/2016",
@@ -16698,6 +19923,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-225-2016",
+   "path": "ordin/munca/2016/225",
+   "short": "Ordin munca nr. 225/2016",
+   "title": "Ordinul nr. 225/2016 privind aprobarea bugetului de venituri și cheltuieli pe anul 2016 pentru Societatea de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176178",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176178",
+     "sha256": "c13b28d599fd41bebc1a22f86ce8d72752315e4c75dbf630965e4b5ff901df1f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-2263-2016",
    "path": "ordin/munca/2016/2263",
    "short": "Ordin munca nr. 2263/2016",
@@ -17028,6 +20268,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1029-2016",
+   "path": "ordin/sanatate/2016/1029",
+   "short": "Ordin sanatate nr. 1029/2016",
+   "title": "Ordinul nr. 1.029/2016 privind modificarea anexei nr. 4 la Ordinul ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181695",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181695",
+     "sha256": "a0096f0a1737efee36791747988fd753002c2e433a5fc8da6b4eb2f4d9f15718"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1044-2016",
    "path": "ordin/sanatate/2016/1044",
    "short": "Ordin sanatate nr. 1044/2016",
@@ -17103,6 +20358,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1065-2016",
+   "path": "ordin/sanatate/2016/1065",
+   "short": "Ordin sanatate nr. 1065/2016",
+   "title": "Ordinul nr. 1.065/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181870",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181870",
+     "sha256": "d5cbcf7d84c6ecc9bd6f12494fe8a53f73c65dc72f256b456299d1c1758cd2cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1070-2016",
    "path": "ordin/sanatate/2016/1070",
    "short": "Ordin sanatate nr. 1070/2016",
@@ -17118,6 +20388,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1075-2016",
+   "path": "ordin/sanatate/2016/1075",
+   "short": "Ordin sanatate nr. 1075/2016",
+   "title": "Ordinul nr. 1.075/2016 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182103",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182103",
+     "sha256": "b823844ff782a75a84aea7b95d6ebd4a68b6630cd92aab9b5ea2d2136ab469f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1082-2016",
    "path": "ordin/sanatate/2016/1082",
    "short": "Ordin sanatate nr. 1082/2016",
@@ -17129,6 +20414,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183184",
      "sha256": "f9c69b7c011186a9f94592bfc5b9359b659e36d25b1eb351bb1ee446253d7222"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1085-2016",
+   "path": "ordin/sanatate/2016/1085",
+   "short": "Ordin sanatate nr. 1085/2016",
+   "title": "Ordinul nr. 1.085/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182131",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182131",
+     "sha256": "35126350cfbe824961ecfd722768601164d41990727f144bc79399034cf34e26"
     }
    ]
   },
@@ -17343,6 +20643,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1174-2016",
+   "path": "ordin/sanatate/2016/1174",
+   "short": "Ordin sanatate nr. 1174/2016",
+   "title": "Ordinul nr. 1.174/2016 pentru modificarea alin. (1) al art. 1 din Ordinul ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182945",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182945",
+     "sha256": "9e3a81ce6dfd961ec7e6e50c5ea6b67eed2c208f200d2ecf95f13a27e4b901e0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1212-2016",
    "path": "ordin/sanatate/2016/1212",
    "short": "Ordin sanatate nr. 1212/2016",
@@ -17463,6 +20778,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-132-2016",
+   "path": "ordin/sanatate/2016/132",
+   "short": "Ordin sanatate nr. 132/2016",
+   "title": "Ordinul nr. 132/2016 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175695",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175695",
+     "sha256": "ff6f5b31bba417b86daa9ec7e3de928364ea296d9c363b6b7a7c69921e1eb908"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1326-2016",
    "path": "ordin/sanatate/2016/1326",
    "short": "Ordin sanatate nr. 1326/2016",
@@ -17474,6 +20804,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183925",
      "sha256": "19666628d36eb6832a392de9000f742dabc469fe491d233e6ac816ebe610fa00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-133-2016",
+   "path": "ordin/sanatate/2016/133",
+   "short": "Ordin sanatate nr. 133/2016",
+   "title": "Ordinul nr. 133/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175640",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175640",
+     "sha256": "fb1d4da584d53ad4288519c940f03ad944aa9d13b0c082c5086e3b490bf957e5"
     }
    ]
   },
@@ -17639,6 +20984,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184830",
      "sha256": "c5bc7daa9ad5716479c1ace13abd5b9569c906bc509f1de8ca9377fc11382495"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1409-2016",
+   "path": "ordin/sanatate/2016/1409",
+   "short": "Ordin sanatate nr. 1409/2016",
+   "title": "Ordinul nr. 1.409/2016 pentru modificarea Ordinului ministrului sănătății nr. 4/2016 privind metodologia de decontare, modelul cererii și al declarațiilor pe propria răspundere pentru plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184641",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184641",
+     "sha256": "6f75dbe59f6185d6296e430ef654e4c8ebde1cb4d805f333472fa7e65bd19328"
     }
    ]
   },
@@ -17838,6 +21198,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-207-2016",
+   "path": "ordin/sanatate/2016/207",
+   "short": "Ordin sanatate nr. 207/2016",
+   "title": "Ordinul nr. 207/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176319",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176319",
+     "sha256": "ec3e57db4fcf1c1f5d464efba67149d7f7c23942c37bfb96bbd5fbe20bb0112a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-219-2016",
    "path": "ordin/sanatate/2016/219",
    "short": "Ordin sanatate nr. 219/2016",
@@ -17883,6 +21258,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-24-2016",
+   "path": "ordin/sanatate/2016/24",
+   "short": "Ordin sanatate nr. 24/2016",
+   "title": "Ordinul nr. 24/2016 pentru instituirea perimetrului de protecție sanitară a zăcământului de apă minerală naturală din perimetrul Valea Spumoasă, izvoarele Bușteni 1 și Bușteni 2, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175306",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175306",
+     "sha256": "21d3a89fab5e498e4b801cebd143943d314302e90ba3e40ec368340bccfd58c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-278-2016",
+   "path": "ordin/sanatate/2016/278",
+   "short": "Ordin sanatate nr. 278/2016",
+   "title": "Ordinul nr. 278/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176436",
+   "versions": [
+    {
+     "from": "2016-03-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176436",
+     "sha256": "564829a98a09a7e5dfc51364ad5c39802d411bf7e924d1efd20b4179a93e8657"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-291-2016",
    "path": "ordin/sanatate/2016/291",
    "short": "Ordin sanatate nr. 291/2016",
@@ -17894,6 +21299,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176689",
      "sha256": "949f1c1fc1b238dd36d208bacc55c9891de03dabcd5c7f86a244f0a8e75ab5a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-318-2016",
+   "path": "ordin/sanatate/2016/318",
+   "short": "Ordin sanatate nr. 318/2016",
+   "title": "Ordinul nr. 318/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176701",
+   "versions": [
+    {
+     "from": "2016-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176701",
+     "sha256": "fb276ceff4fcf27a984281aef71f8c757a9d94783c4b8f394993477a294961d1"
     }
    ]
   },
@@ -17958,6 +21378,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-4-2016",
+   "path": "ordin/sanatate/2016/4",
+   "short": "Ordin sanatate nr. 4/2016",
+   "title": "Ordinul nr. 4/2016 privind metodologia de decontare, modelul cererii și al declarațiilor pe propria răspundere pentru plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174788",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174788",
+     "sha256": "0c383607fef07d0898e72bbb409212d9ef8a290568a991393e96e1550b5bda30"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-409-2016",
    "path": "ordin/sanatate/2016/409",
    "short": "Ordin sanatate nr. 409/2016",
@@ -18014,6 +21449,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175180",
      "sha256": "8c3000b6d31b65035c32cca010225effd79cb3eeda50b318131c0b527493627f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-444-2016",
+   "path": "ordin/sanatate/2016/444",
+   "short": "Ordin sanatate nr. 444/2016",
+   "title": "Ordinul nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177558",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177558",
+     "sha256": "677be7f019d381c82121c4e593bd04d115219597c5dd47c0c8322a463cc32f8c"
     }
    ]
   },
@@ -18078,6 +21528,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-525-2016",
+   "path": "ordin/sanatate/2016/525",
+   "short": "Ordin sanatate nr. 525/2016",
+   "title": "Ordinul nr. 525/2016 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178005",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178005",
+     "sha256": "94f500d57e8fed939733add4df3b0644359fd664c08f232f612c7ce5ceedfb2d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-540-2016",
    "path": "ordin/sanatate/2016/540",
    "short": "Ordin sanatate nr. 540/2016",
@@ -18089,6 +21554,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178054",
      "sha256": "89fc6c5a1c8ac21e8334b721c1cdf5ef80e8f9d868901a804d9ade9bcdcef430"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-551-2016",
+   "path": "ordin/sanatate/2016/551",
+   "short": "Ordin sanatate nr. 551/2016",
+   "title": "Ordinul nr. 551/2016 pentru înființarea Comisiei medicale de pneumoconioze",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178316",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178316",
+     "sha256": "750efb826d519c5d83ced0dfa62b4942e111ed47d9f5cb39816bee09ba420d9b"
     }
    ]
   },
@@ -18119,6 +21599,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178702",
      "sha256": "fe5158a5f94d18eb5a164efcf064b7549dcff6993acb6437181984d9d7d4f061"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-671-2016",
+   "path": "ordin/sanatate/2016/671",
+   "short": "Ordin sanatate nr. 671/2016",
+   "title": "Ordinul nr. 671/2016 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178933",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178933",
+     "sha256": "f683937ccbbe5650ebf6d41bc2690be23f655e7d5e15d4f7c0636d5ee2c0b9af"
     }
    ]
   },
@@ -18194,6 +21689,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179485",
      "sha256": "0c8c9a70c4b0319dc1568d3351376aa3f9dc31dbfb07a76233fc1993cb1cd5e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-764-2016",
+   "path": "ordin/sanatate/2016/764",
+   "short": "Ordin sanatate nr. 764/2016",
+   "title": "Ordinul nr. 764/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179548",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179548",
+     "sha256": "a3b8ccea2b78d85f841b1626e8b75967e63e7879193fdc8d33db3e95d3df0f90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-769-2016",
+   "path": "ordin/sanatate/2016/769",
+   "short": "Ordin sanatate nr. 769/2016",
+   "title": "Ordinul nr. 769/2016 pentru prelungirea termenului de valabilitate al prețurilor medicamentelor de uz uman cuprinse în Canamed, prevăzut în Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179549",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179549",
+     "sha256": "1c859f4acc76566026cfb8a9de301a3674eaac67e5a4a0e9412574ee2f848052"
     }
    ]
   },
@@ -18333,6 +21858,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-919-2016",
+   "path": "ordin/sanatate/2016/919",
+   "short": "Ordin sanatate nr. 919/2016",
+   "title": "Ordinul nr. 919/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180619",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180619",
+     "sha256": "13f9a8b773b8ca475e82c3e4b9fd2ebc1e3d527308b75675d9875e0db7964d66"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-921-2016",
    "path": "ordin/sanatate/2016/921",
    "short": "Ordin sanatate nr. 921/2016",
@@ -18359,6 +21899,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180994",
      "sha256": "a06103a0379f416623801990ca4f608765d86e2d02f3a175e9a6fb7347109c9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-93-2016",
+   "path": "ordin/sanatate/2016/93",
+   "short": "Ordin sanatate nr. 93/2016",
+   "title": "Ordinul nr. 93/2016 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175372",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175372",
+     "sha256": "ca167058e665063689a70817cbbb2d5f0703039cdbb5d4ad2834b11f04df48b9"
     }
    ]
   },
@@ -18404,6 +21959,21 @@
      "units": 40,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182677",
      "sha256": "6e41264e703586567bd6afbb224344a09ba89f88a2cf085bfe41a8d78059a76f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-941-2016",
+   "path": "ordin/sanatate/2016/941",
+   "short": "Ordin sanatate nr. 941/2016",
+   "title": "Ordinul nr. 941/2016 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181013",
+   "versions": [
+    {
+     "from": "2016-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181013",
+     "sha256": "67d9179f7b0acad4854cd6959147ecfb5a8bc44ef07d92dea14b350ed3fe56f2"
     }
    ]
   },
@@ -18464,6 +22034,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181790",
      "sha256": "7ff1855049042827928e3fd32f92e743a6f471d85745f565ea082ee5a90b3d20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-981-2016",
+   "path": "ordin/sanatate/2016/981",
+   "short": "Ordin sanatate nr. 981/2016",
+   "title": "Ordinul nr. 981/2016 privind modificarea poziției nr. 5470 a anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181355",
+   "versions": [
+    {
+     "from": "2016-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181355",
+     "sha256": "9513d5b703dea0ddfc46e5b2adedbabc0f852260804f6bab7c58e599ec5558fc"
     }
    ]
   },
@@ -18918,6 +22503,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1270-2016",
+   "path": "ordin/transporturi/2016/1270",
+   "short": "Ordin transporturi nr. 1270/2016",
+   "title": "Ordinul nr. 1.270/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Tipografice Filaret - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183801",
+   "versions": [
+    {
+     "from": "2016-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183801",
+     "sha256": "33323f3a80829dd2ea116125aa88c607a46d5b96403a12749dc92e6d38842478"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1274-2016",
    "path": "ordin/transporturi/2016/1274",
    "short": "Ordin transporturi nr. 1274/2016",
@@ -18944,6 +22544,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182993",
      "sha256": "e3e56cecca07b9d1a72faec50af1d2e60e821eead8adbb426baac97d973f2765"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-129-2016",
+   "path": "ordin/transporturi/2016/129",
+   "short": "Ordin transporturi nr. 129/2016",
+   "title": "Ordinul nr. 129/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale \"Grup Exploatare și Întreținere Palat CFR\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177433",
+   "versions": [
+    {
+     "from": "2016-04-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177433",
+     "sha256": "2e6688898e2b58414e817897738aca7654919eba56cc73500074e2897f79d6bd"
     }
    ]
   },
@@ -19068,6 +22683,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1506-2016",
+   "path": "ordin/transporturi/2016/1506",
+   "short": "Ordin transporturi nr. 1506/2016",
+   "title": "Ordinul nr. 1.506/2016 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2016 și a situației centralizate rectificate privind veniturile și cheltuielile din bazele de cost pe anul 2016 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185028",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185028",
+     "sha256": "0ca590904b30c81bdb90831173eceeac60042d8122f282bfb9de340ddcfdf666"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-161-2016",
    "path": "ordin/transporturi/2016/161",
    "short": "Ordin transporturi nr. 161/2016",
@@ -19079,6 +22709,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177044",
      "sha256": "b0fb498e303c2b38c33a4762d04a7237aff73777302ae2c5bda57a9cb89cc705"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-17-2016",
+   "path": "ordin/transporturi/2016/17",
+   "short": "Ordin transporturi nr. 17/2016",
+   "title": "Ordinul nr. 17/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2016 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175687",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175687",
+     "sha256": "9b694d529a19c006dc3cfd655c440bf838e4c6b3c5217f3bd60f6de2a05d010e"
     }
    ]
   },
@@ -19263,6 +22908,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-403-2016",
+   "path": "ordin/transporturi/2016/403",
+   "short": "Ordin transporturi nr. 403/2016",
+   "title": "Ordinul nr. 403/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale \"Sere și Pepiniere C.F.R.\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179783",
+   "versions": [
+    {
+     "from": "2016-07-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179783",
+     "sha256": "1f373de4e635aca90b9f5c71eb9d0776a0de6691da5246dd52d2e3824dd96d58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-404-2016",
+   "path": "ordin/transporturi/2016/404",
+   "short": "Ordin transporturi nr. 404/2016",
+   "title": "Ordinul nr. 404/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179687",
+   "versions": [
+    {
+     "from": "2016-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179687",
+     "sha256": "32106caab2f6249c23834b68adb7a43ecf52a2efe683e30989696f9197a119e8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-42-2016",
    "path": "ordin/transporturi/2016/42",
    "short": "Ordin transporturi nr. 42/2016",
@@ -19413,6 +23088,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-607-2016",
+   "path": "ordin/transporturi/2016/607",
+   "short": "Ordin transporturi nr. 607/2016",
+   "title": "Ordinul nr. 607/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale \"Întreținere Mecanizată a Căii Ferate\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181172",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181172",
+     "sha256": "eafafeb0a8218cac47a63059fb42c9afebcdd9ff7d8b42f88f60826ab8d2f352"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-623-2016",
+   "path": "ordin/transporturi/2016/623",
+   "short": "Ordin transporturi nr. 623/2016",
+   "title": "Ordinul nr. 623/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale ROFERSPED - S.A., la care Societatea Națională de Transport Feroviar de Marfă \"CFR - Marfă\" - S.A. deține o participație majoritară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182866",
+   "versions": [
+    {
+     "from": "2016-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182866",
+     "sha256": "8ff9abba80d2e686d44aa4f9fa147ab7f61388dd4765933cc94f4c52051db98d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-655-2016",
    "path": "ordin/transporturi/2016/655",
    "short": "Ordin transporturi nr. 655/2016",
@@ -19439,6 +23144,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181197",
      "sha256": "08311256711e2d7595e1ae49f8de0cd017de809817ec18bada281be68364357d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-657-2016",
+   "path": "ordin/transporturi/2016/657",
+   "short": "Ordin transporturi nr. 657/2016",
+   "title": "Ordinul nr. 657/2016 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2016 al Societății Comerciale \"Electrificare CFR\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182258",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182258",
+     "sha256": "4db8ce77295689555fba6c29ae62f096239e38e10e5cb8c867bcfb7215efa76c"
     }
    ]
   },

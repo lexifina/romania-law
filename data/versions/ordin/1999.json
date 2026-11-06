@@ -1863,6 +1863,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1004-1999",
+   "path": "ordin/finante/1999/1004",
+   "short": "Ordin finante nr. 1004/1999",
+   "title": "Ordinul nr. 1.004/1999 pentru modificarea și completarea Ordinului ministrului finanțelor nr. 795/1999 privind constituirea Comitetului provizoriu al Camerei Auditorilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19316",
+   "versions": [
+    {
+     "from": "1999-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19316",
+     "sha256": "8178c4b60aca9ebb4f78408088d6f747fd5b7b06276917f114a42601adda7320"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1042-1999",
    "path": "ordin/finante/1999/1042",
    "short": "Ordin finante nr. 1042/1999",
@@ -1934,6 +1949,36 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19559",
      "sha256": "2cbe6d10bba0bb8c91db7ba9be31d10badb4b27a5f383f9d23327818807a1dfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1080-1999",
+   "path": "ordin/finante/1999/1080",
+   "short": "Ordin finante nr. 1080/1999",
+   "title": "Ordinul nr. 1.080/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna octombrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19402",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19402",
+     "sha256": "8dc24a626ce2768c0f3a2167c47a78ee5e7d781a41340fd0328fc4861ee7e1ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1134-1999",
+   "path": "ordin/finante/1999/1134",
+   "short": "Ordin finante nr. 1134/1999",
+   "title": "Ordinul nr. 1.134/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19397",
+   "versions": [
+    {
+     "from": "1999-10-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19397",
+     "sha256": "641d5f33ed9ff0140734afa39ab4aa812424f59c9c279e099a1c5e4f7a9a0910"
     }
    ]
   },
@@ -2013,6 +2058,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1256-1999",
+   "path": "ordin/finante/1999/1256",
+   "short": "Ordin finante nr. 1256/1999",
+   "title": "Ordinul nr. 1.256/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna noiembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19713",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19713",
+     "sha256": "20681ce52a6291526f9847ba630235f33fa9ef43f0f6065b8737e51ad23cb4d4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1277-1999",
    "path": "ordin/finante/1999/1277",
    "short": "Ordin finante nr. 1277/1999",
@@ -2073,6 +2133,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1351-1999",
+   "path": "ordin/finante/1999/1351",
+   "short": "Ordin finante nr. 1351/1999",
+   "title": "Ordinul nr. 1.351/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19902",
+   "versions": [
+    {
+     "from": "1999-11-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19902",
+     "sha256": "b864e0118ffec18635b1681e4c4388d23cd59c11ab6bfa98248058eed0e307d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1352-1999",
+   "path": "ordin/finante/1999/1352",
+   "short": "Ordin finante nr. 1352/1999",
+   "title": "Ordinul nr. 1.352/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19903",
+   "versions": [
+    {
+     "from": "1999-11-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19903",
+     "sha256": "9b47621da90aab9d5684293028dc9e0ba802cdabb9639fc83111c999747e4e33"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1376-1999",
    "path": "ordin/finante/1999/1376",
    "short": "Ordin finante nr. 1376/1999",
@@ -2099,6 +2189,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17067",
      "sha256": "58f6ff56f37d6c60eca0ed4aef1834466d260bd3b3c4e0843084807428ed9800"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1411-1999",
+   "path": "ordin/finante/1999/1411",
+   "short": "Ordin finante nr. 1411/1999",
+   "title": "Ordinul nr. 1.411/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna decembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20000",
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20000",
+     "sha256": "e02e17a3acf80fb3ab21b6e4aa1704eccd3695b163f86aa5281cc268eadc7a18"
     }
    ]
   },
@@ -2159,6 +2264,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20339",
      "sha256": "d3432cee7db3a4bcaf6de7578d55f3ac8ddef54b99357b0ddf848872fbc7fe25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1487-1999",
+   "path": "ordin/finante/1999/1487",
+   "short": "Ordin finante nr. 1487/1999",
+   "title": "Ordinul nr. 1.487/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20153",
+   "versions": [
+    {
+     "from": "1999-12-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20153",
+     "sha256": "44b4c5db0604a0f99b1a973fc6a4b556b9bbb1844b7d1c96201f8b1c654e1673"
     }
    ]
   },
@@ -2253,6 +2373,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1619-1999",
+   "path": "ordin/finante/1999/1619",
+   "short": "Ordin finante nr. 1619/1999",
+   "title": "Ordinul nr. 1.619/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna ianuarie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20411",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20411",
+     "sha256": "32bcef379667fb4bbb8fdf9995d197d92b0b460f6d9c883e5f135dc0b74d1e8b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1631-1999",
    "path": "ordin/finante/1999/1631",
    "short": "Ordin finante nr. 1631/1999",
@@ -2264,6 +2399,51 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20921",
      "sha256": "570089f76cb7363f472f129663336328f73a1ce3f8181951975388159006dd8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1634-1999",
+   "path": "ordin/finante/1999/1634",
+   "short": "Ordin finante nr. 1634/1999",
+   "title": "Ordinul nr. 1.634/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20496",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20496",
+     "sha256": "111681391b63c8508e4e21c8d51dd9f7c2dcdeaf822aacd6cf53feff626526c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-174-1999",
+   "path": "ordin/finante/1999/174",
+   "short": "Ordin finante nr. 174/1999",
+   "title": "Ordinul nr. 174/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont seriile C1 99.06.03, C2 99.06.10, C3 99.06.17, C4 99.06.24 și C5 99.04.29",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17046",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17046",
+     "sha256": "622a3dd860fd2888ae041344e7beffaa04501bdfac423faeb6292517d4f2de68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-194-1999",
+   "path": "ordin/finante/1999/194",
+   "short": "Ordin finante nr. 194/1999",
+   "title": "Ordinul nr. 194/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont seria C6 99.06.04",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17077",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17077",
+     "sha256": "7f44dd3792c7d72cd19f5240e9144943de403560d89b65b969998684de35f014"
     }
    ]
   },
@@ -2283,6 +2463,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-235-1999",
+   "path": "ordin/finante/1999/235",
+   "short": "Ordin finante nr. 235/1999",
+   "title": "Ordinul nr. 235/1999 privind prospectul de emisiune al obligațiunilor de tezaur cu dobânda seriile VAL 7 2000 și VAL 8 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17160",
+   "versions": [
+    {
+     "from": "1999-03-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17160",
+     "sha256": "4c5456e54a55093cdb9661c3a7c8a3bd97da63350664a2960b6d927e9338b6eb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-288-1999",
    "path": "ordin/finante/1999/288",
    "short": "Ordin finante nr. 288/1999",
@@ -2294,6 +2489,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18156",
      "sha256": "c6def0762265ac6728c7ded62c4a0a04c6061cc07db721e9f19deb57d8c78154"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-295-1999",
+   "path": "ordin/finante/1999/295",
+   "short": "Ordin finante nr. 295/1999",
+   "title": "Ordinul nr. 295/1999 privind prospectul de emisiune al unor certificate de trezorerie cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17440",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17440",
+     "sha256": "f141b043cc32010e0763fe82eee15a21dc9451e8489ae62fe7bcc149928efc3c"
     }
    ]
   },
@@ -2388,6 +2598,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-431-1999",
+   "path": "ordin/finante/1999/431",
+   "short": "Ordin finante nr. 431/1999",
+   "title": "Ordinul nr. 431/1999 privind prospectul de emisiune al unor certificate de trezorerie cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18020",
+   "versions": [
+    {
+     "from": "1999-04-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18020",
+     "sha256": "934863d30b20f9b92c113ad2c327685a0e974554bbcab91dfcf993259be90845"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-438-1999",
    "path": "ordin/finante/1999/438",
    "short": "Ordin finante nr. 438/1999",
@@ -2399,6 +2624,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18336",
      "sha256": "3bc38f851fafeceb565ea826e287a58b90fe300f53ad1b2aca2f6acbdcbbabca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-441-1999",
+   "path": "ordin/finante/1999/441",
+   "short": "Ordin finante nr. 441/1999",
+   "title": "Ordinul nr. 441/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 100.99",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18062",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18062",
+     "sha256": "d8032503a0c5ed12099141535c00b31d1b2f9cafd427a061e2c899b62cf958e8"
     }
    ]
   },
@@ -2433,6 +2673,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-504-1999",
+   "path": "ordin/finante/1999/504",
+   "short": "Ordin finante nr. 504/1999",
+   "title": "Ordinul nr. 504/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18168",
+   "versions": [
+    {
+     "from": "1999-05-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18168",
+     "sha256": "7ddce506f8806b3e737bb7b1805c49bcb71d16ebf3c97ce7ec395c86720b3a3b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-505-1999",
    "path": "ordin/finante/1999/505",
    "short": "Ordin finante nr. 505/1999",
@@ -2444,6 +2699,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18245",
      "sha256": "2090aa247f8aec054701fbc57a60ccbfd03f1113ec45468c69285cc178fe74b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-524-1999",
+   "path": "ordin/finante/1999/524",
+   "short": "Ordin finante nr. 524/1999",
+   "title": "Ordinul nr. 524/1999 privind prospectul de emisiune al unor certificate de trezorerie cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18233",
+   "versions": [
+    {
+     "from": "1999-05-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18233",
+     "sha256": "3233ba580c88b9c4638465a4419ff0f6c05152223c382ab8bd6af30d8a195566"
     }
    ]
   },
@@ -2478,6 +2748,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-540-1999",
+   "path": "ordin/finante/1999/540",
+   "short": "Ordin finante nr. 540/1999",
+   "title": "Ordinul nr. 540/1999 privind prospectul de emisiune al unor certificate de trezorerie cu discont Ministrul finanțelor,",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18269",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18269",
+     "sha256": "f9fdb2343efa343fa0de185b9cf639683ed1c2da0fbdb1678d02229fb234f5a2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-561-1999",
    "path": "ordin/finante/1999/561",
    "short": "Ordin finante nr. 561/1999",
@@ -2489,6 +2774,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18554",
      "sha256": "9ae2959df35b67a1f08e995e04c505fd4c793e023c586363c4851624a63cb042"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-567-1999",
+   "path": "ordin/finante/1999/567",
+   "short": "Ordin finante nr. 567/1999",
+   "title": "Ordinul nr. 567/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18370",
+   "versions": [
+    {
+     "from": "1999-06-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18370",
+     "sha256": "cf1bd5e2ac229ff814b1fc886d365188afc82b196ca3056e71d8f3b9f2344e2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-568-1999",
+   "path": "ordin/finante/1999/568",
+   "short": "Ordin finante nr. 568/1999",
+   "title": "Ordinul nr. 568/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18371",
+   "versions": [
+    {
+     "from": "1999-06-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18371",
+     "sha256": "54169238be6dbc1e259b946f9dadb9c71dad95700d2f874761956c9c8c085f1e"
     }
    ]
   },
@@ -2628,6 +2943,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-68-1999",
+   "path": "ordin/finante/1999/68",
+   "short": "Ordin finante nr. 68/1999",
+   "title": "Ordinul nr. 68/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont seriile B1 99.05.06, B2 99.05.13, B3 99.05.20, B4 99.05.27",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16795",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16795",
+     "sha256": "18b7cbd96e22b66945e75762ebf780ba1035fbb9a788321899292a0303d45cc8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-685-1999",
    "path": "ordin/finante/1999/685",
    "short": "Ordin finante nr. 685/1999",
@@ -2654,6 +2984,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18760",
      "sha256": "4f64b3d8562609186069e5212a2d87b1102156815b031358278bbc0087da9ee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-698-1999",
+   "path": "ordin/finante/1999/698",
+   "short": "Ordin finante nr. 698/1999",
+   "title": "Ordinul nr. 698/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna iulie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18639",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18639",
+     "sha256": "449dac5010c3cf2a980defbae59398fc5661e37491e72b380ad99c06eabd92fe"
     }
    ]
   },
@@ -2688,6 +3033,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-773-1999",
+   "path": "ordin/finante/1999/773",
+   "short": "Ordin finante nr. 773/1999",
+   "title": "Ordinul nr. 773/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18794",
+   "versions": [
+    {
+     "from": "1999-07-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18794",
+     "sha256": "ce4546dded4a1d3796b036681b0fd2925ab6db2e437f97525962f7ede799664b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-774-1999",
+   "path": "ordin/finante/1999/774",
+   "short": "Ordin finante nr. 774/1999",
+   "title": "Ordinul nr. 774/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18795",
+   "versions": [
+    {
+     "from": "1999-07-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18795",
+     "sha256": "c5900af979e32a9bd97179163a72acce2fc1c08d8409e7e5926ce96b5a23b0ef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-779-1999",
    "path": "ordin/finante/1999/779",
    "short": "Ordin finante nr. 779/1999",
@@ -2703,6 +3078,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-791-1999",
+   "path": "ordin/finante/1999/791",
+   "short": "Ordin finante nr. 791/1999",
+   "title": "Ordinul nr. 791/1999 pentru delegarea atribuțiilor ce revin Ministerului Finanțelor cu privire la emiterea certificatului de sarcini fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19026",
+   "versions": [
+    {
+     "from": "1999-08-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19026",
+     "sha256": "96d3e8f235e34f210c94bc2efe9612efd3f4c4e3fbdf7c7ad87f2ebeecbd97f5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-792-1999",
    "path": "ordin/finante/1999/792",
    "short": "Ordin finante nr. 792/1999",
@@ -2714,6 +3104,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19189",
      "sha256": "6c35dadb77d1d7ffbf0f48e52d872df68e203c6950aa8412d9288bfae31d38af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-795-1999",
+   "path": "ordin/finante/1999/795",
+   "short": "Ordin finante nr. 795/1999",
+   "title": "Ordinul nr. 795/1999 privind constituirea Comitetului provizoriu al Camerei Auditorilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18911",
+   "versions": [
+    {
+     "from": "1999-07-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18911",
+     "sha256": "2562b2c740e34f3d8d13873b7c104ffc9e8d23387c27e2c1d895c74190570390"
     }
    ]
   },
@@ -2748,6 +3153,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-813-1999",
+   "path": "ordin/finante/1999/813",
+   "short": "Ordin finante nr. 813/1999",
+   "title": "Ordinul nr. 813/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna august 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18896",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18896",
+     "sha256": "a7d2ada3d1fd31db205d276743adae5cc1b95ffe681930801c93504ed0bc6508"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-814-1999",
+   "path": "ordin/finante/1999/814",
+   "short": "Ordin finante nr. 814/1999",
+   "title": "Ordinul nr. 814/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18901",
+   "versions": [
+    {
+     "from": "1999-07-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18901",
+     "sha256": "f2535d711b27abe7cb2cc53be7790bab975e0defb9f856b8a844506129ca2da2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-815-1999",
    "path": "ordin/finante/1999/815",
    "short": "Ordin finante nr. 815/1999",
@@ -2778,6 +3213,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-85-1999",
+   "path": "ordin/finante/1999/85",
+   "short": "Ordin finante nr. 85/1999",
+   "title": "Ordinul nr. 85/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont seriile B5 99.05.12 și B6 99.05.19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16923",
+   "versions": [
+    {
+     "from": "1999-02-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16923",
+     "sha256": "c3300cd5b381f43eb1a1ffaba8ad5bbe4f06afecd3d89b703005139d2c79c2c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-896-1999",
+   "path": "ordin/finante/1999/896",
+   "short": "Ordin finante nr. 896/1999",
+   "title": "Ordinul nr. 896/1999 pentru modificarea Ordinului nr. 814/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18990",
+   "versions": [
+    {
+     "from": "1999-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18990",
+     "sha256": "4cd1243f60d8a0c7d36a8736950b4a5cea8e872931b71d28757708d77918d2d6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-91-1999",
    "path": "ordin/finante/1999/91",
    "short": "Ordin finante nr. 91/1999",
@@ -2789,6 +3254,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16995",
      "sha256": "006d4d6d434340c9855a37555cc8555645f3341058763d489259568201aaa9af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-921-1999",
+   "path": "ordin/finante/1999/921",
+   "short": "Ordin finante nr. 921/1999",
+   "title": "Ordinul nr. 921/1999 pentru modificarea Ordinului nr. 814/1999 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19049",
+   "versions": [
+    {
+     "from": "1999-08-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19049",
+     "sha256": "30f2f4c2fa127394ede96904e1e366113a913e2d0f71fb8b3ac4934d1bd70ddc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-936-1999",
+   "path": "ordin/finante/1999/936",
+   "short": "Ordin finante nr. 936/1999",
+   "title": "Ordinul nr. 936/1999 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna septembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19074",
+   "versions": [
+    {
+     "from": "1999-08-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19074",
+     "sha256": "d11dd88eb1b5a210ac339f9561a59b9f364587a502d24ac6925bf5a90772d3bf"
     }
    ]
   },

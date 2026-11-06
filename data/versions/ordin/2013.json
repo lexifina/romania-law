@@ -2148,6 +2148,51 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-124-2013",
+   "path": "ordin/ancpi/2013/124",
+   "short": "Ordin ancpi nr. 124/2013",
+   "title": "Ordinul nr. 124/2013 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Bolintin-Deal, județul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145760",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145760",
+     "sha256": "7ed68c1d6df017745b627ae5b039711abc2d38916b3d1749c23dcd81b4b3ed3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-143-2013",
+   "path": "ordin/ancpi/2013/143",
+   "short": "Ordin ancpi nr. 143/2013",
+   "title": "Ordinul nr. 143/2013 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Ilva Mică, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146017",
+   "versions": [
+    {
+     "from": "2013-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146017",
+     "sha256": "2197930006dc728cbf0e177bdbcab032bc11a108ccebe210e474817e3e3ae396"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-294-2013",
+   "path": "ordin/ancpi/2013/294",
+   "short": "Ordin ancpi nr. 294/2013",
+   "title": "Ordinul nr. 294/2013 privind închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate pe teritoriul unității administrativ-teritoriale Valea Mare, județul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146622",
+   "versions": [
+    {
+     "from": "2013-04-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146622",
+     "sha256": "82b81551e92d6dddb5f0b14be7a7014d763345207e6822b1716592ff49523a2e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-31-2013",
    "path": "ordin/ancpi/2013/31",
    "short": "Ordin ancpi nr. 31/2013",
@@ -2159,6 +2204,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144865",
      "sha256": "327da4842df7724f6b2d49e521217e5e2893c8e6e1e210c68870227017747596"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-323-2013",
+   "path": "ordin/ancpi/2013/323",
+   "short": "Ordin ancpi nr. 323/2013",
+   "title": "Ordinul nr. 323/2013 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Livezile, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146807",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146807",
+     "sha256": "9d824f26417839dd81063348668f3871f6ca13a677c9eac4105ddc24dfdf3a25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-357-2013",
+   "path": "ordin/ancpi/2013/357",
+   "short": "Ordin ancpi nr. 357/2013",
+   "title": "Ordinul nr. 357/2013 privind închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate pe teritoriul unității administrativ-teritoriale Saschiz, județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147239",
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147239",
+     "sha256": "b593c26b18f014c79950a609c22e02513da278ca4752abb0c2ef4fa466d8b481"
     }
    ]
   },
@@ -6363,6 +6438,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-3446-2013",
+   "path": "ordin/dezvoltare/2013/3446",
+   "short": "Ordin dezvoltare nr. 3446/2013",
+   "title": "Ordinul nr. 3.446/2013 pentru modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice și al viceprim-ministrului, ministrul finanțelor publice nr. 246/248/2013 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale pe anul 2013, pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153305",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153305",
+     "sha256": "04501085b08a21b9afc0a9c967baaf22116b4a97fbc1b7d7c99e7d2c1abbcd78"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-3451-2013",
    "path": "ordin/dezvoltare/2013/3451",
    "short": "Ordin dezvoltare nr. 3451/2013",
@@ -6573,6 +6663,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1048-2013",
+   "path": "ordin/economie/2013/1048",
+   "short": "Ordin economie nr. 1048/2013",
+   "title": "Ordinul nr. 1.048/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice ELECTRICA DISTRIBUȚIE MUNTENIA NORD\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151329",
+   "versions": [
+    {
+     "from": "2013-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151329",
+     "sha256": "a19bbd17027f60c12f7fd3e06e64fb2a78b74ece5baa32f2db35a620c823faab"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1058-2013",
    "path": "ordin/economie/2013/1058",
    "short": "Ordin economie nr. 1058/2013",
@@ -6584,6 +6689,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148160",
      "sha256": "a4b9d8ab9ddb5278c394bee9bb4a1029d0433c58e3131093441bc1066a39c30a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1062-2013",
+   "path": "ordin/economie/2013/1062",
+   "short": "Ordin economie nr. 1062/2013",
+   "title": "Ordinul nr. 1.062/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice ELECTRICA DISTRIBUȚIE TRANSILVANIA SUD\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151333",
+   "versions": [
+    {
+     "from": "2013-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151333",
+     "sha256": "0ba72936a1be089ad817a65c4627d2cb7d0accdcdba97e33971ad27febe60bf6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1074-2013",
+   "path": "ordin/economie/2013/1074",
+   "short": "Ordin economie nr. 1074/2013",
+   "title": "Ordinul nr. 1.074/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială ELECTRICA FURNIZARE - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151316",
+   "versions": [
+    {
+     "from": "2013-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151316",
+     "sha256": "49fc2de7d948b379fa9efcb22e92e67c558d0afcb0321e761a4729fc9d1e5097"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1075-2013",
+   "path": "ordin/economie/2013/1075",
+   "short": "Ordin economie nr. 1075/2013",
+   "title": "Ordinul nr. 1.075/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice ELECTRICA DISTRIBUȚIE TRANSILVANIA NORD\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151331",
+   "versions": [
+    {
+     "from": "2013-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151331",
+     "sha256": "6203d57ab9cbb3c60058e5a9702b397c9462c484273b7571913759d2c9503310"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1214-2013",
+   "path": "ordin/economie/2013/1214",
+   "short": "Ordin economie nr. 1214/2013",
+   "title": "Ordinul nr. 1.214/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială ARSENAL REȘIȚA - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151460",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151460",
+     "sha256": "f0d40c74611931c2745145d296c4dec97999ea99a776c6b8c0a6359c65e1f5dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1249-2013",
+   "path": "ordin/economie/2013/1249",
+   "short": "Ordin economie nr. 1249/2013",
+   "title": "Ordinul nr. 1.249/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială FABRICA DE PULBERI FĂGĂRAȘ - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151471",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151471",
+     "sha256": "06ecf93af3946af0a6a172f88aa29dfaf1cff8d5237a4e82674489b5ff6ed4e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1250-2013",
+   "path": "ordin/economie/2013/1250",
+   "short": "Ordin economie nr. 1250/2013",
+   "title": "Ordinul nr. 1.250/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială UZINA AUTOMECANICĂ MORENI - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151475",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151475",
+     "sha256": "a0a35e3a8886f61bf84ee9c069dd7bbda1e9d8d76a1ba1fa70ffa656d81b9f87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1273-2013",
+   "path": "ordin/economie/2013/1273",
+   "short": "Ordin economie nr. 1273/2013",
+   "title": "Ordinul nr. 1.273/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială PIROCHIM VICTORIA - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151493",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151493",
+     "sha256": "6d6d6d95b48b1ddde1a472b62e6e15aa70c4ba4f61d257a851a3379ae73afbd8"
     }
    ]
   },
@@ -6603,6 +6813,291 @@
    ]
   },
   {
+   "slug": "ordin-economie-1345-2013",
+   "path": "ordin/economie/2013/1345",
+   "short": "Ordin economie nr. 1345/2013",
+   "title": "Ordinul nr. 1.345/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială UZINA MECANICĂ PLOPENI - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151494",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151494",
+     "sha256": "5c2b40e578bcba2dd33506d76930be876e6ac8ddef2bdc0dbb95c7c01d3742a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1346-2013",
+   "path": "ordin/economie/2013/1346",
+   "short": "Ordin economie nr. 1346/2013",
+   "title": "Ordinul nr. 1.346/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială UZINA MECANICĂ BUCUREȘTI - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151499",
+   "versions": [
+    {
+     "from": "2013-09-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151499",
+     "sha256": "0b77c3659bd2f3f62ce7c234f8350a9acfa7e504b5a77ef4b4eed528fcd5221f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1347-2013",
+   "path": "ordin/economie/2013/1347",
+   "short": "Ordin economie nr. 1347/2013",
+   "title": "Ordinul nr. 1.347/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială UPS DRAGOMIREȘTI - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151481",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151481",
+     "sha256": "605a5886f2c00128007e0d44d3662826b9926e99ba752769dbae8106edce41cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1348-2013",
+   "path": "ordin/economie/2013/1348",
+   "short": "Ordin economie nr. 1348/2013",
+   "title": "Ordinul nr. 1.348/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială ELECTROMECANICA PLOIEȘTI - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151483",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151483",
+     "sha256": "f7bb437da1bf16b29839bd25c4854fc55c8e722ca12ef7e8b811f128b6f8dd2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1349-2013",
+   "path": "ordin/economie/2013/1349",
+   "short": "Ordin economie nr. 1349/2013",
+   "title": "Ordinul nr. 1.349/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială UZINA MECANICĂ SADU - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151468",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151468",
+     "sha256": "912c85969c4ea38efbfa2f037dbed368af424accd6bdd094f179d1364881c79f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1350-2013",
+   "path": "ordin/economie/2013/1350",
+   "short": "Ordin economie nr. 1350/2013",
+   "title": "Ordinul nr. 1.350/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială UZINA MECANICĂ MIJA - S.A. - filială a Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151479",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151479",
+     "sha256": "857f8fb34340c7a53aec3e9b402d43629c046ff8b5d9f8496c79d0e5ef6e3b63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1398-2013",
+   "path": "ordin/economie/2013/1398",
+   "short": "Ordin economie nr. 1398/2013",
+   "title": "Ordinul nr. 1.398/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială HIDROSERV SEBEȘ - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice HIDROELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151345",
+   "versions": [
+    {
+     "from": "2013-09-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151345",
+     "sha256": "478eee39aa432043472b5b5bc0ecf287fca8bac06e55da9b42a2d9fac9eea310"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1399-2013",
+   "path": "ordin/economie/2013/1399",
+   "short": "Ordin economie nr. 1399/2013",
+   "title": "Ordinul nr. 1.399/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială ELECTROCENTRALE GALAȚI - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice și Termice \"Termoelectrica\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151361",
+   "versions": [
+    {
+     "from": "2013-09-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151361",
+     "sha256": "a204ac03607072de5ca17d010bc4c63b0dec3380f5b4877846d2c958ab7aa4dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1400-2013",
+   "path": "ordin/economie/2013/1400",
+   "short": "Ordin economie nr. 1400/2013",
+   "title": "Ordinul nr. 1.400/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială HIDROSERV HAȚEG - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice \"Hidroelectrica\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151364",
+   "versions": [
+    {
+     "from": "2013-09-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151364",
+     "sha256": "ae6cc2afbb0e45ef530332439538c5116cf486025e760c85d4a2b28640c8b2c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1411-2013",
+   "path": "ordin/economie/2013/1411",
+   "short": "Ordin economie nr. 1411/2013",
+   "title": "Ordinul nr. 1.411/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Servicii Energetice Oltenia\" - S.A., filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151023",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151023",
+     "sha256": "2987b15fda660cd4e2a7cbb1f511e07c34ab9ce0445cbcc20db1a4562a021c26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1418-2013",
+   "path": "ordin/economie/2013/1418",
+   "short": "Ordin economie nr. 1418/2013",
+   "title": "Ordinul nr. 1.418/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Hidroserv\" Slatina - S.A., filială a Societății Comerciale de Producere a Energiei Electrice \"Hidroelectrica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151026",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151026",
+     "sha256": "e568b0b0d18fde8b3d25790a597e83cacb8dfc39960ddc4f1e6c2584cf2f3366"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1419-2013",
+   "path": "ordin/economie/2013/1419",
+   "short": "Ordin economie nr. 1419/2013",
+   "title": "Ordinul nr. 1.419/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Hidroserv\" Bistrița - S.A., filială a Societății Comerciale \"Hidroelectrica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151031",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151031",
+     "sha256": "f953ad4d1b1ec07446023796b72c923e0fe77cc83d24d94dd2d5fbb33aae556d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1473-2013",
+   "path": "ordin/economie/2013/1473",
+   "short": "Ordin economie nr. 1473/2013",
+   "title": "Ordinul nr. 1.473/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Hidroserv\" Porțile de Fier - S.A., filială a Societății Comerciale de Producere a Energiei Electrice \"Hidroelectrica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150841",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150841",
+     "sha256": "dbba05a0957d47c5a503f4f1f49c9964594ab8dc540c41c8df037a9b5b827313"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1474-2013",
+   "path": "ordin/economie/2013/1474",
+   "short": "Ordin economie nr. 1474/2013",
+   "title": "Ordinul nr. 1.474/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Hidroserv\" Cluj - S.A., filială a Societății Comerciale de Producere a Energiei Electrice \"Hidroelectrica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150860",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150860",
+     "sha256": "d3e80a382f4d23a01867eaf3a1e6231198e55860401ba7ee05bd08d2bf4864d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1475-2013",
+   "path": "ordin/economie/2013/1475",
+   "short": "Ordin economie nr. 1475/2013",
+   "title": "Ordinul nr. 1.475/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Hidroserv\" Curtea de Argeș - S.A., filială a Societății Comerciale de Producere a Energiei Electrice \"Hidroelectrica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150863",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150863",
+     "sha256": "8c05ed3210f908bc835cddb89495bac0c8d16834238e5769f8a29cdd9346d24f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1566-2013",
+   "path": "ordin/economie/2013/1566",
+   "short": "Ordin economie nr. 1566/2013",
+   "title": "Ordinul nr. 1.566/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Servicii Energetice Dobrogea\" - S.A., filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151037",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151037",
+     "sha256": "bc0b4605de01e96559f4a2826829b7a2f56c4d74082ff7febceb9255024e7d89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1573-2013",
+   "path": "ordin/economie/2013/1573",
+   "short": "Ordin economie nr. 1573/2013",
+   "title": "Ordinul nr. 1.573/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Servicii Energetice Banat\" - S.A., filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151410",
+   "versions": [
+    {
+     "from": "2013-09-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151410",
+     "sha256": "ea13f41d9029593ca8dec1eafa92d8728fa0af17c810d4777a9542e00c925e12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1574-2013",
+   "path": "ordin/economie/2013/1574",
+   "short": "Ordin economie nr. 1574/2013",
+   "title": "Ordinul nr. 1.574/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Servicii Energetice Muntenia\" - S.A., filială a Societății Comerciale \"Electrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150845",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150845",
+     "sha256": "512c3d5924f6c74f0b769deda5229c7c941bd592e4a7721227734228efcfaee9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1579-2013",
+   "path": "ordin/economie/2013/1579",
+   "short": "Ordin economie nr. 1579/2013",
+   "title": "Ordinul nr. 1.579/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"EnergoNuclear\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151413",
+   "versions": [
+    {
+     "from": "2013-09-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151413",
+     "sha256": "6532fad1e040e042822626ed9f4215dc946804d9422318ecbd561da2cbf42734"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1604-2013",
    "path": "ordin/economie/2013/1604",
    "short": "Ordin economie nr. 1604/2013",
@@ -6614,6 +7109,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150109",
      "sha256": "e00ca51498c80e3df5e74c936eb53e07351acdd49639200dd4dc85f6e0bb0fe0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1616-2013",
+   "path": "ordin/economie/2013/1616",
+   "short": "Ordin economie nr. 1616/2013",
+   "title": "Ordinul nr. 1.616/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Hidroserv\" Râmnicu Vâlcea - S.A., filială a Societății Comerciale de Producere a Energiei Electrice \"Hidroelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151416",
+   "versions": [
+    {
+     "from": "2013-09-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151416",
+     "sha256": "3d2208c62e00860959620113e935091772f4563dad6fc2e9f69c42f8d46ae795"
     }
    ]
   },
@@ -6659,6 +7169,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151533",
      "sha256": "6121bdce210d740c00f0387a47b08cf4fe35f692a5a77b943088abe166f54e95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1932-2013",
+   "path": "ordin/economie/2013/1932",
+   "short": "Ordin economie nr. 1932/2013",
+   "title": "Ordinul nr. 1.932/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială UM CUGIR - S.A. - filială a Companiei Naționale \"Romarm\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154110",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154110",
+     "sha256": "ca004482411c303a5a96d2c962ebb5e4e4213c86a88370e692b06fff41a0625c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1933-2013",
+   "path": "ordin/economie/2013/1933",
+   "short": "Ordin economie nr. 1933/2013",
+   "title": "Ordinul nr. 1.933/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială F.A. CUGIR - S.A. - filială a Companiei Naționale \"Romarm\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154089",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154089",
+     "sha256": "ebbb7180037b8f0a9b26e981b3989664839e6d6703c3740ddc6f88fcef29ad4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1934-2013",
+   "path": "ordin/economie/2013/1934",
+   "short": "Ordin economie nr. 1934/2013",
+   "title": "Ordinul nr. 1.934/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială TOHAN - S.A. - filială a Companiei Naționale \"Romarm\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154090",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154090",
+     "sha256": "fd2dfc50a396fe105ca99187e13050e183cfd0b7f90f8fee78de903768e00bc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1935-2013",
+   "path": "ordin/economie/2013/1935",
+   "short": "Ordin economie nr. 1935/2013",
+   "title": "Ordinul nr. 1.935/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială CARFIL - S.A. - filială a Companiei Naționale \"Romarm\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154171",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154171",
+     "sha256": "6f597570263f7b5896c6cf7bf507da4456af9a306c587e34941808b3652894ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1936-2013",
+   "path": "ordin/economie/2013/1936",
+   "short": "Ordin economie nr. 1936/2013",
+   "title": "Ordinul nr. 1.936/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială METROM - S.A. - filială a Companiei Naționale \"Romarm\" - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154173",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154173",
+     "sha256": "7ea1bed31f84f7ba2f5d3c361b3450997637bfffdc025fe6f0fda85ce8e2d5f8"
     }
    ]
   },
@@ -8313,6 +8898,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1049-2013",
+   "path": "ordin/finante/2013/1049",
+   "short": "Ordin finante nr. 1049/2013",
+   "title": "Ordinul nr. 1.049/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150408",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150408",
+     "sha256": "8e387afdaf5017f1190ac7e7407df26a1517a603df3a79c316d63ea22c0d9376"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1081-2013",
    "path": "ordin/finante/2013/1081",
    "short": "Ordin finante nr. 1081/2013",
@@ -8339,6 +8939,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150595",
      "sha256": "3e6011438e2eecb52b333399373258551023727bd17e98aead3429cff40b2383"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-128-2013",
+   "path": "ordin/finante/2013/128",
+   "short": "Ordin finante nr. 128/2013",
+   "title": "Ordinul nr. 128/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145084",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145084",
+     "sha256": "058da7b8099ffd21149fb7672264a837d280c4267e594b611cd216e4cbded2e9"
     }
    ]
   },
@@ -8478,6 +9093,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1439-2013",
+   "path": "ordin/finante/2013/1439",
+   "short": "Ordin finante nr. 1439/2013",
+   "title": "Ordinul nr. 1.439/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151206",
+   "versions": [
+    {
+     "from": "2013-09-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151206",
+     "sha256": "2484c67f67a0da3490128705bd2cac14fc2b03f25c8d8f08bc3586f252e0bffc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1445-2013",
    "path": "ordin/finante/2013/1445",
    "short": "Ordin finante nr. 1445/2013",
@@ -8553,6 +9183,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-16-2013",
+   "path": "ordin/finante/2013/16",
+   "short": "Ordin finante nr. 16/2013",
+   "title": "Ordinul nr. 16/2013 pentru completarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144639",
+   "versions": [
+    {
+     "from": "2013-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144639",
+     "sha256": "23e49270f8427cd7b6748825b440b859242d9352e1d6e9963d770479acd2efc7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-161-2013",
    "path": "ordin/finante/2013/161",
    "short": "Ordin finante nr. 161/2013",
@@ -8598,6 +9243,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1661-2013",
+   "path": "ordin/finante/2013/1661",
+   "short": "Ordin finante nr. 1661/2013",
+   "title": "Ordinul nr. 1.661/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151666",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151666",
+     "sha256": "74fec17d2c1b436ae11727cde641b1d0b8b705956774172666ea672a0716c22a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1662-2013",
+   "path": "ordin/finante/2013/1662",
+   "short": "Ordin finante nr. 1662/2013",
+   "title": "Ordinul nr. 1.662/2013 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna octombrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151667",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151667",
+     "sha256": "e5055917acf36106bf46f949baa3822f4fc3c4581c29df0d7b8e00773e995f6c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1673-2013",
    "path": "ordin/finante/2013/1673",
    "short": "Ordin finante nr. 1673/2013",
@@ -8624,6 +9299,36 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151992",
      "sha256": "dbcdf460c4f44e5ec97b39f0d7d3a2d9c6ad2337bc9d492679661154d604ac7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1684-2013",
+   "path": "ordin/finante/2013/1684",
+   "short": "Ordin finante nr. 1684/2013",
+   "title": "Ordinul nr. 1.684/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale RO-ARMYSECURITY - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151892",
+   "versions": [
+    {
+     "from": "2013-10-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151892",
+     "sha256": "6900f82a2e680fef678c6b2b570da67617aa342e084a61e8d841da40b6e49ec0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1685-2013",
+   "path": "ordin/finante/2013/1685",
+   "short": "Ordin finante nr. 1685/2013",
+   "title": "Ordinul nr. 1.685/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale RO-ARMYCATERING - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151890",
+   "versions": [
+    {
+     "from": "2013-10-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151890",
+     "sha256": "3e80c9c8c91c37e232b1b24af041556f08767c889ef0aaabf7e297254d00be01"
     }
    ]
   },
@@ -8673,6 +9378,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-1730-2013",
+   "path": "ordin/finante/2013/1730",
+   "short": "Ordin finante nr. 1730/2013",
+   "title": "Ordinul nr. 1.730/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială de Formare a Energeticienilor din România FORMENERG - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A., aflată sub autoritatea Ministerului Finanțelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152301",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152301",
+     "sha256": "93e2be033ce0927684535db90dfa3d8c7edeb0a8caeb932d019f70bdbe7ecd41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1731-2013",
+   "path": "ordin/finante/2013/1731",
+   "short": "Ordin finante nr. 1731/2013",
+   "title": "Ordinul nr. 1.731/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială pentru Servicii de Mentenanță a Rețelei Electrice de Transport \"Smart\" - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A., aflată sub autoritatea Ministerului Finanțelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152303",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152303",
+     "sha256": "29e38eccdbf33f0f861187c8a0cb0655860aca0323f4ce59435bf6f1a67bbfee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1738-2013",
+   "path": "ordin/finante/2013/1738",
+   "short": "Ordin finante nr. 1738/2013",
+   "title": "Ordinul nr. 1.738/2013 privind aprobarea contractării de către Ministerul Finanțelor Publice a unui împrumut pe piețele externe de capital, prin redeschiderea emisiunii de obligațiuni scadente în data de 18 septembrie 2020, cu maturitate de 7 ani și cupon 4,625%, în sumă de minimum 250 milioane EUR și maximum 500 milioane EUR, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", și desemnarea administratorilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151940",
+   "versions": [
+    {
+     "from": "2013-10-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151940",
+     "sha256": "a1b2c3d59f3109bd0ed003721b9207e71ddd88fb054860f652c358a15542103a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1739-2013",
    "path": "ordin/finante/2013/1739",
    "short": "Ordin finante nr. 1739/2013",
@@ -8699,6 +9449,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152062",
      "sha256": "3c7fd3087de97a20860fce7afc2ac42af330adde469aa26935cb728f152e800e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1765-2013",
+   "path": "ordin/finante/2013/1765",
+   "short": "Ordin finante nr. 1765/2013",
+   "title": "Ordinul nr. 1.765/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială TELETRANS - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A., aflată sub autoritatea Ministerului Finanțelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152394",
+   "versions": [
+    {
+     "from": "2013-11-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152394",
+     "sha256": "335a6c804032bde15fce03f5b64e2baa42f6d3001f9e3ea676d91e4ecc41614d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1766-2013",
+   "path": "ordin/finante/2013/1766",
+   "short": "Ordin finante nr. 1766/2013",
+   "title": "Ordinul nr. 1.766/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială Operatorul Pieței de Energie Electrică și de Gaze Naturale \"OPCOM\" - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A., aflată sub autoritatea Ministerului Finanțelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152393",
+   "versions": [
+    {
+     "from": "2013-11-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152393",
+     "sha256": "c0475c0b7b68f96b267deb06f10406fb0fb5bc1d149cbe6395cf2c8b6700631d"
     }
    ]
   },
@@ -8733,6 +9513,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1794-2013",
+   "path": "ordin/finante/2013/1794",
+   "short": "Ordin finante nr. 1794/2013",
+   "title": "Ordinul nr. 1.794/2013 privind prospectul de emisiune a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152296",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152296",
+     "sha256": "65cbb58c0c64910d8db01cff690e184935f6b68e0eb5d04a93e804df2149e5a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1819-2013",
    "path": "ordin/finante/2013/1819",
    "short": "Ordin finante nr. 1819/2013",
@@ -8744,6 +9539,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152465",
      "sha256": "69ce1b34c72948ad0b00f40a223da9ad38ae3fa5a96a1d6280bab911f7d3d46c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1825-2013",
+   "path": "ordin/finante/2013/1825",
+   "short": "Ordin finante nr. 1825/2013",
+   "title": "Ordinul nr. 1.825/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Servicii Energetice Moldova\" - S.A., filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152578",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152578",
+     "sha256": "a23e933112ce7842b11e19a2040846676efc6024e104fb68fe64c1460dd0e624"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1827-2013",
+   "path": "ordin/finante/2013/1827",
+   "short": "Ordin finante nr. 1827/2013",
+   "title": "Ordinul nr. 1.827/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Medserv Min\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152582",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152582",
+     "sha256": "63d9153a4d23971f1502be2ca75fb05d1924ee96daed70ceaa0a248770d32d80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1828-2013",
+   "path": "ordin/finante/2013/1828",
+   "short": "Ordin finante nr. 1828/2013",
+   "title": "Ordinul nr. 1.828/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială \"Unitatea de Execuție Foraje Motru\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152585",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152585",
+     "sha256": "b24bdb9d125b9608860c32e7bfe85e761dab4171ab8352bf9a2b4b6e016940dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1829-2013",
+   "path": "ordin/finante/2013/1829",
+   "short": "Ordin finante nr. 1829/2013",
+   "title": "Ordinul nr. 1.829/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială MINPREST SERV - S.A., Rovinari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152587",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152587",
+     "sha256": "d70ddc2ba46ffeb674c0a770c50a54a9d504ae48641c982e86ea12fab229d3ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1833-2013",
+   "path": "ordin/finante/2013/1833",
+   "short": "Ordin finante nr. 1833/2013",
+   "title": "Ordinul nr. 1.833/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea Comercială FISE ELECTRICA SERV - S.A., filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152580",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152580",
+     "sha256": "66dd40a098ad6771dc291fb85456a0c55a66b8b27d902c5b647e522ff9d03394"
     }
    ]
   },
@@ -8883,6 +9753,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-1924-2013",
+   "path": "ordin/finante/2013/1924",
+   "short": "Ordin finante nr. 1924/2013",
+   "title": "Ordinul nr. 1.924/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153143",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153143",
+     "sha256": "14d1e74721cce09f557621aa49fa873984932737fe6009c9cfa12a1cd9cc7bbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1966-2013",
+   "path": "ordin/finante/2013/1966",
+   "short": "Ordin finante nr. 1966/2013",
+   "title": "Ordinul nr. 1.966/2013 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2013 pentru Societatea Comercială \"Electrica Furnizare\" - S.A., filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153712",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153712",
+     "sha256": "2a3f1bf926bac6a75043e515be39a3ff75782857859ecca461ce7e475101ea87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1976-2013",
+   "path": "ordin/finante/2013/1976",
+   "short": "Ordin finante nr. 1976/2013",
+   "title": "Ordinul nr. 1.976/2013 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2013 pentru Societatea Comercială \"Servicii Energetice Muntenia\" - S.A., filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153715",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153715",
+     "sha256": "ba601639910d338a6321014833bb229304701784e96fd5cef74ce11453a2df23"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1977-2013",
    "path": "ordin/finante/2013/1977",
    "short": "Ordin finante nr. 1977/2013",
@@ -8894,6 +9809,36 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154765",
      "sha256": "51669583be6a0c1c8ba364184670d48302ce92628b702af8e563161a4b3db8c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1985-2013",
+   "path": "ordin/finante/2013/1985",
+   "short": "Ordin finante nr. 1985/2013",
+   "title": "Ordinul nr. 1.985/2013 ORDIN nr. 1.270 bis din 11 octombrie 2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale \"Electrificare CFR\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153713",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153713",
+     "sha256": "7836949dc42d12287d395cfde75fd4292570d51a1fdc42577daec2643333bf2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1987-2013",
+   "path": "ordin/finante/2013/1987",
+   "short": "Ordin finante nr. 1987/2013",
+   "title": "Ordinul nr. 1.987/2013 ORDIN nr. 1.271 bis din 11 octombrie 2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale Întreținere și Reparații Locomotive și Utilaje \"CFR IRLU\" - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153730",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153730",
+     "sha256": "65bdfd59dc58f22e01bec97c4cb1fa8f43bf64fc5067e0a43f02445166e979b5"
     }
    ]
   },
@@ -9018,6 +9963,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2029-2013",
+   "path": "ordin/finante/2013/2029",
+   "short": "Ordin finante nr. 2029/2013",
+   "title": "Ordinul nr. 2.029/2013 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2013 pentru Societatea Comercială \"Electrocentrale Galați\" - S.A., filială a Societății Comerciale \"Electrocentrale Grup\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154336",
+   "versions": [
+    {
+     "from": "2014-01-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154336",
+     "sha256": "cc2349ecfec2b058f22c42e72cd026a9e1aaa8315ee0abbb9bef98142b715c58"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2030-2013",
    "path": "ordin/finante/2013/2030",
    "short": "Ordin finante nr. 2030/2013",
@@ -9044,6 +10004,51 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154177",
      "sha256": "2fbdab37c12a8ce502a75033096669bfb9a8cd66f96bab3d4a22128e4fc3dfd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2048-2013",
+   "path": "ordin/finante/2013/2048",
+   "short": "Ordin finante nr. 2048/2013",
+   "title": "Ordinul nr. 2.048/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 pentru Societatea \"Hidroelectrica - Serv\" - S.A., filială a Societății Comerciale de Producere a Energiei Electrice în Hidrocentrale \"Hidroelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154282",
+   "versions": [
+    {
+     "from": "2014-01-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154282",
+     "sha256": "6c200501766a1ade4e00808319599db2be46431d02b78d0e6fbb672e31318504"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2060-2013",
+   "path": "ordin/finante/2013/2060",
+   "short": "Ordin finante nr. 2060/2013",
+   "title": "Ordinul nr. 2.060/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154091",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154091",
+     "sha256": "793bd6f66534fdf6f1c343770d6297fdfd3b63975a55ea0006f0ef4677eb4d4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2061-2013",
+   "path": "ordin/finante/2013/2061",
+   "short": "Ordin finante nr. 2061/2013",
+   "title": "Ordinul nr. 2.061/2013 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna ianuarie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154092",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154092",
+     "sha256": "5134d19eaf8d7e42f81b5b6b27bbcdf9c1f976be11020425a2cbc1bd6b6e6fb6"
     }
    ]
   },
@@ -9123,6 +10128,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-248-2013",
+   "path": "ordin/finante/2013/248",
+   "short": "Ordin finante nr. 248/2013",
+   "title": "Ordinul nr. 248/2013 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale pentru anul 2013, pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145771",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145771",
+     "sha256": "5d33fd8ee08a5617c413f4d3aa7f6630e8894b9c3ea305b677396af4e8992d02"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-250-2013",
    "path": "ordin/finante/2013/250",
    "short": "Ordin finante nr. 250/2013",
@@ -9149,6 +10169,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145809",
      "sha256": "f66d91512bcc40069cbce1a8110a42e6bd42523b8822485e0a5f2da3982f0514"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-277-2013",
+   "path": "ordin/finante/2013/277",
+   "short": "Ordin finante nr. 277/2013",
+   "title": "Ordinul nr. 277/2013 pentru modificarea și completarea Ordinului viceprim-ministrului, ministrul finanțelor publice, nr. 241/2013 privind împuternicirea personalului direcțiilor generale ale finanțelor publice județene și a municipiului București în vederea efectuării unor verificări cu privire la arieratele și plățile restante înregistrate de unitățile/subdiviziunile administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145861",
+   "versions": [
+    {
+     "from": "2013-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145861",
+     "sha256": "8da0887efa070f3d867c78f14fd4f33e06dcc388abeaf44db4c0bff3045714dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-287-2013",
+   "path": "ordin/finante/2013/287",
+   "short": "Ordin finante nr. 287/2013",
+   "title": "Ordinul nr. 287/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145867",
+   "versions": [
+    {
+     "from": "2013-03-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145867",
+     "sha256": "27efe91314d95ce96c78e209ed0088dfdbc3d96bc6a558fc3aead8d85808eb69"
     }
    ]
   },
@@ -9243,6 +10293,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-410-2013",
+   "path": "ordin/finante/2013/410",
+   "short": "Ordin finante nr. 410/2013",
+   "title": "Ordinul nr. 410/2013 privind prospectul de emisiune a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146580",
+   "versions": [
+    {
+     "from": "2013-04-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146580",
+     "sha256": "1cc9e7209ccff06f6d42cbaddacb9773fd220cb7d9e2970d6dae63c7d492831a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-411-2013",
+   "path": "ordin/finante/2013/411",
+   "short": "Ordin finante nr. 411/2013",
+   "title": "Ordinul nr. 411/2013 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna aprilie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146581",
+   "versions": [
+    {
+     "from": "2013-04-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146581",
+     "sha256": "2d57af268b02e679b8f6fdadcf2a95acc2dd0acacd3269c744766a25cf736303"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-415-2013",
    "path": "ordin/finante/2013/415",
    "short": "Ordin finante nr. 415/2013",
@@ -9284,6 +10364,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146844",
      "sha256": "a33e8c0b2ce39b7b80062a63330df023cb5a50018c1298dd73e2313c5f1ec7b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-430-2013",
+   "path": "ordin/finante/2013/430",
+   "short": "Ordin finante nr. 430/2013",
+   "title": "Ordinul nr. 430/2013 privind împuternicirea personalului direcțiilor generale ale Ministerului Finanțelor Publice în vederea efectuării unor verificări cu privire la arieratele și plățile restante înregistrate de autoritățile publice, ministerele și celelalte organe ale administrației publice centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146696",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146696",
+     "sha256": "a8c1fb2dcbdd48fb9ce9fb31fe1825f2967ad34ace77bdf1049c86ba4b48067d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-435-2013",
+   "path": "ordin/finante/2013/435",
+   "short": "Ordin finante nr. 435/2013",
+   "title": "Ordinul nr. 435/2013 privind împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară de a constata contravențiile și a aplica sancțiunile prevăzute de Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146843",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146843",
+     "sha256": "bf8dc8d7e5633835ca9e30d6036dfa12d67dceed913f4341179e009f80e8bce8"
     }
    ]
   },
@@ -9393,6 +10503,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-521-2013",
+   "path": "ordin/finante/2013/521",
+   "short": "Ordin finante nr. 521/2013",
+   "title": "Ordinul nr. 521/2013 privind modificarea Ordinului viceprim-ministrului, ministrul finanțelor publice, al ministrului administrației și internelor și al președintelui Oficiului Național de Prevenire și Combatere a Spălării Banilor nr. 663/110/76/2012 pentru aprobarea componenței Comisiei de autorizare a activității de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147439",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147439",
+     "sha256": "4b921adb15a9efd3cc544e0a91e11b1a8da106530c57362b5333e0b197b7902f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-541-2013",
    "path": "ordin/finante/2013/541",
    "short": "Ordin finante nr. 541/2013",
@@ -9438,6 +10563,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-677-2013",
+   "path": "ordin/finante/2013/677",
+   "short": "Ordin finante nr. 677/2013",
+   "title": "Ordinul nr. 677/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148503",
+   "versions": [
+    {
+     "from": "2013-05-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148503",
+     "sha256": "782f4596b1f06e901f575772b93f5654c036930e1979d2d27dc20f38d904e709"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-688-2013",
    "path": "ordin/finante/2013/688",
    "short": "Ordin finante nr. 688/2013",
@@ -9453,6 +10593,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-689-2013",
+   "path": "ordin/finante/2013/689",
+   "short": "Ordin finante nr. 689/2013",
+   "title": "Ordinul nr. 689/2013 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148574",
+   "versions": [
+    {
+     "from": "2013-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148574",
+     "sha256": "3d16c64bee478f060beb9e03e351bbab08b9d90989bc44e5d2ca0359544ff3d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-698-2013",
+   "path": "ordin/finante/2013/698",
+   "short": "Ordin finante nr. 698/2013",
+   "title": "Ordinul nr. 698/2013 pentru modificarea anexei nr. 2 la Ordinul ministrului delegat pentru buget nr. 559/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148375",
+   "versions": [
+    {
+     "from": "2013-05-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148375",
+     "sha256": "c8f5388fe1cee453e2bd072d55df2deff977a34b5dd4eb7c32f91d10d466fdc0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-71-2013",
    "path": "ordin/finante/2013/71",
    "short": "Ordin finante nr. 71/2013",
@@ -9464,6 +10634,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145027",
      "sha256": "6a609c07c37af0c2720da722d75080bc0843afb76d30adfbfc0aaa7d5e5351a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-740-2013",
+   "path": "ordin/finante/2013/740",
+   "short": "Ordin finante nr. 740/2013",
+   "title": "Ordinul nr. 740/2013 privind prospectele de emisiune a obligațiunilor de stat de tip benchmark aferente lunii iunie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148587",
+   "versions": [
+    {
+     "from": "2013-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148587",
+     "sha256": "a15052bb03a627c7a2f08bb500206b6e0a121bdcfc4ab16c2c616504bc2dcc33"
     }
    ]
   },
@@ -9539,6 +10724,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150136",
      "sha256": "01262f28d368c288c896f095b1e258f26cd444db4b184463d96516534245242c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-917-2013",
+   "path": "ordin/finante/2013/917",
+   "short": "Ordin finante nr. 917/2013",
+   "title": "Ordinul nr. 917/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149518",
+   "versions": [
+    {
+     "from": "2013-07-04",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149518",
+     "sha256": "36c5fe3a463ffa5859e836171a3a8647c0a0301ea912367ee921530d06900c12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-918-2013",
+   "path": "ordin/finante/2013/918",
+   "short": "Ordin finante nr. 918/2013",
+   "title": "Ordinul nr. 918/2013 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna iulie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149519",
+   "versions": [
+    {
+     "from": "2013-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149519",
+     "sha256": "1173f100183440ac87fd583a849446016806065f7625ec8051c568b715fea9c1"
     }
    ]
   },
@@ -12168,6 +13383,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-151-2013",
+   "path": "ordin/munca/2013/151",
+   "short": "Ordin munca nr. 151/2013",
+   "title": "Ordinul nr. 151/2013 privind stabilirea cuantumului taxei pentru acreditarea furnizorilor de servicii specializate pentru stimularea ocupării forței de muncă pentru anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145022",
+   "versions": [
+    {
+     "from": "2013-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145022",
+     "sha256": "e33af6947769c35f34ab1dad6ee5205599a926d36ef6b059327ab9236f6b8835"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1544-2013",
    "path": "ordin/munca/2013/1544",
    "short": "Ordin munca nr. 1544/2013",
@@ -13053,6 +14283,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1163-2013",
+   "path": "ordin/sanatate/2013/1163",
+   "short": "Ordin sanatate nr. 1163/2013",
+   "title": "Ordinul nr. 1.163/2013 pentru instituirea perimetrului de protecție sanitară a zăcământului de apă minerală terapeutică și termominerală Băile Olănești, județul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151811",
+   "versions": [
+    {
+     "from": "2013-10-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151811",
+     "sha256": "d7460ecf490e15f44d3769fa8145209d72609a96f65a8098d93ba693d892b9ff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1170-2013",
    "path": "ordin/sanatate/2013/1170",
    "short": "Ordin sanatate nr. 1170/2013",
@@ -13109,6 +14354,186 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152262",
      "sha256": "386f903dda80bef90e2aa6ea0eb6e9bc8bb6ddf517e1a55abdc44e153c4c5704"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1215-2013",
+   "path": "ordin/sanatate/2013/1215",
+   "short": "Ordin sanatate nr. 1215/2013",
+   "title": "Ordinul nr. 1.215/2013 privind aprobarea constituirii Consiliului Național pentru Bolile Rare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152060",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152060",
+     "sha256": "c62c0b47af59b07d11d4cd690a30ad32bb2e4ed7b75a6a33815df61a4964989f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1216-2013",
+   "path": "ordin/sanatate/2013/1216",
+   "short": "Ordin sanatate nr. 1216/2013",
+   "title": "Ordinul nr. 1.216/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Deva pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152064",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152064",
+     "sha256": "08913b001c2e7cf1db880d2e0d018f0b7e021b31e2485e6156ac776c24a676ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1219-2013",
+   "path": "ordin/sanatate/2013/1219",
+   "short": "Ordin sanatate nr. 1219/2013",
+   "title": "Ordinul nr. 1.219/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență \"Dr. Fogolyan Kristof\" Sfântu Gheorghe pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152067",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152067",
+     "sha256": "def44bf3caa187e1d004a2af56faf19dca36f75d18e9d430c1a032f22d5628b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1220-2013",
+   "path": "ordin/sanatate/2013/1220",
+   "short": "Ordin sanatate nr. 1220/2013",
+   "title": "Ordinul nr. 1.220/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Miercurea-Ciuc pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152068",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152068",
+     "sha256": "517d700eb0d50d50a1ea54da539a8dc3b25e40b7e7995ced3c3b9dc3f6108636"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1224-2013",
+   "path": "ordin/sanatate/2013/1224",
+   "short": "Ordin sanatate nr. 1224/2013",
+   "title": "Ordinul nr. 1.224/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Sibiu pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152072",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152072",
+     "sha256": "94b9acee40f648c6523c1fde0f60da50e92a36d4b58fc239f6445a7412764657"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1225-2013",
+   "path": "ordin/sanatate/2013/1225",
+   "short": "Ordin sanatate nr. 1225/2013",
+   "title": "Ordinul nr. 1.225/2013 privind acreditarea unității sanitare Spitalul Clinic de Urgență pentru Copii Cluj-Napoca pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152073",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152073",
+     "sha256": "3ac1351432ffc8bebfb495c6d4708f5a55982e488074da78b9c6920c510e8509"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1226-2013",
+   "path": "ordin/sanatate/2013/1226",
+   "short": "Ordin sanatate nr. 1226/2013",
+   "title": "Ordinul nr. 1.226/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Brașov pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152074",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152074",
+     "sha256": "8d90d4c889dd36a4358cae3cfc8a023dfb35693622ef17d0ce7547b25862ace5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1227-2013",
+   "path": "ordin/sanatate/2013/1227",
+   "short": "Ordin sanatate nr. 1227/2013",
+   "title": "Ordinul nr. 1.227/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Alba Iulia pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152075",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152075",
+     "sha256": "072197350c2e345ac170746b671227812615b11e0fed089ebfd335ffa3a3d3d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1228-2013",
+   "path": "ordin/sanatate/2013/1228",
+   "short": "Ordin sanatate nr. 1228/2013",
+   "title": "Ordinul nr. 1.228/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Timișoara pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152076",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152076",
+     "sha256": "90081e7b8f438ded82190c4bbed682046887677372403d392990c343982b1310"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1229-2013",
+   "path": "ordin/sanatate/2013/1229",
+   "short": "Ordin sanatate nr. 1229/2013",
+   "title": "Ordinul nr. 1.229/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Reșița pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152077",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152077",
+     "sha256": "d8a833ba0f31ffd3f35bc1453d49c83369e4c53b14313d8340ed7cf3995e319d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1230-2013",
+   "path": "ordin/sanatate/2013/1230",
+   "short": "Ordin sanatate nr. 1230/2013",
+   "title": "Ordinul nr. 1.230/2013 privind acreditarea unității sanitare Societatea Comercială \"Sapiens Medical Center\" - S.R.L., punctul de lucru situat în municipiul București, strada Popa Nan nr. 111-113, sectorul 1, pentru activitatea de prelevare de celule reproductive umane, pentru bancă de celule reproductive (procesare, conservare, stocare și distribuție) și utilizare de celule umane în scop terapeutic (fertilizare în vitro)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152078",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152078",
+     "sha256": "968941265414e532934bfa0cf066eaec0921cc845875a5a4b76d66c2ecb6e320"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1231-2013",
+   "path": "ordin/sanatate/2013/1231",
+   "short": "Ordin sanatate nr. 1231/2013",
+   "title": "Ordinul nr. 1.231/2013 privind acreditarea unității sanitare Spitalul Clinic de Obstetrică și Ginecologie \"Prof. Dr. Panait Sârbu\" pentru activitatea de prelevare de celule reproductive umane, pentru bancă de celule reproductive (procesare, conservare, stocare și distribuție) și utilizare de celule umane în scop terapeutic (fertilizare în vitro)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152079",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152079",
+     "sha256": "db8fc49b4623347336bfdf5f794d1092600251bdcbd15ec17a7c979ae8479763"
     }
    ]
   },
@@ -13233,6 +14658,411 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1369-2013",
+   "path": "ordin/sanatate/2013/1369",
+   "short": "Ordin sanatate nr. 1369/2013",
+   "title": "Ordinul nr. 1.369/2013 privind acreditarea unității sanitare Institutul Clinic Fundeni, secțiile ATI I și ATI III, pentru prelevarea de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152770",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152770",
+     "sha256": "5fc482c15b767508b1036d46ed32a2726acc4a09bd691ac204704228fdc8b3cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1370-2013",
+   "path": "ordin/sanatate/2013/1370",
+   "short": "Ordin sanatate nr. 1370/2013",
+   "title": "Ordinul nr. 1.370/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Oradea pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152771",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152771",
+     "sha256": "22445ce37471497aa5947d6e4e928029032942aa319f81d0b5966bb4ee1e8fb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1371-2013",
+   "path": "ordin/sanatate/2013/1371",
+   "short": "Ordin sanatate nr. 1371/2013",
+   "title": "Ordinul nr. 1.371/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Brăila pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152772",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152772",
+     "sha256": "e011a634f3441bf5546c455df2b73b520797d9d7bf7de85299d10126df8d23ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1372-2013",
+   "path": "ordin/sanatate/2013/1372",
+   "short": "Ordin sanatate nr. 1372/2013",
+   "title": "Ordinul nr. 1.372/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Tulcea pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152773",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152773",
+     "sha256": "1029034fa6caff72ef1d52f83c73fd52687ad2248135defc4f94e9ef2e6f6510"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1373-2013",
+   "path": "ordin/sanatate/2013/1373",
+   "short": "Ordin sanatate nr. 1373/2013",
+   "title": "Ordinul nr. 1.373/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Pitești pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152746",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152746",
+     "sha256": "175e6cd4e7d6a852c6ad3f70c1b39f65ce0cf44a4c9b0d872d2299217a09ba49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1374-2013",
+   "path": "ordin/sanatate/2013/1374",
+   "short": "Ordin sanatate nr. 1374/2013",
+   "title": "Ordinul nr. 1.374/2013 pentru acreditarea unității sanitare Institutul Clinic de Urologie și Transplant Renal Cluj-Napoca, Laborator analize medicale și imunologie clinică, drept laborator HLA pentru activitatea de transplant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152748",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152748",
+     "sha256": "ff55eb6faf5051037b6a8acc8ef1675f1858ad201eb7a39ae235d77f2034c76d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1375-2013",
+   "path": "ordin/sanatate/2013/1375",
+   "short": "Ordin sanatate nr. 1375/2013",
+   "title": "Ordinul nr. 1.375/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgențe \"Sf. Spiridon\" Iași pentru activitatea de prelevare și transplant de piele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152726",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152726",
+     "sha256": "3004da54d6f71549e7dfcfcd4cae23367930d64d39a8d573742c3b63bc3eedd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1376-2013",
+   "path": "ordin/sanatate/2013/1376",
+   "short": "Ordin sanatate nr. 1376/2013",
+   "title": "Ordinul nr. 1.376/2013 privind acreditarea unității sanitare Institutul Clinic Fundeni, Laborator analize medicale II, drept laborator HLA pentru activitatea de transplant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152727",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152727",
+     "sha256": "c890e1209e30a39aba10ac00025dab7e0691264e0a6e757751380b620921802b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1377-2013",
+   "path": "ordin/sanatate/2013/1377",
+   "short": "Ordin sanatate nr. 1377/2013",
+   "title": "Ordinul nr. 1.377/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Bacău pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152729",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152729",
+     "sha256": "5c32e9f2a9252f99116185eb2fef41c097f7f765c9dfa90b3e5671b34e0a360d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1378-2013",
+   "path": "ordin/sanatate/2013/1378",
+   "short": "Ordin sanatate nr. 1378/2013",
+   "title": "Ordinul nr. 1.378/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență \"Sf. Ioan cel Nou\" Suceava pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152731",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152731",
+     "sha256": "45740c90f94b462c869fac47d7a2ae1df972ca682561e052d553ba89f529402d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1379-2013",
+   "path": "ordin/sanatate/2013/1379",
+   "short": "Ordin sanatate nr. 1379/2013",
+   "title": "Ordinul nr. 1.379/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Cluj-Napoca, Clinica neurochirurgie, pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152732",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152732",
+     "sha256": "a7222ec59c1c008ebcb1663469e6a260b184dcc838dbe9e791993eab97a5807c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1380-2013",
+   "path": "ordin/sanatate/2013/1380",
+   "short": "Ordin sanatate nr. 1380/2013",
+   "title": "Ordinul nr. 1.380/2013 privind acreditarea unității sanitare Spitalul Clinic de Urgență pentru Copii \"Sf. Maria\" Iași pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152804",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152804",
+     "sha256": "8acd6f26120e4019cdcc930e30b3ee42aca1992a6da95b6b511f96cb95abf5b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1381-2013",
+   "path": "ordin/sanatate/2013/1381",
+   "short": "Ordin sanatate nr. 1381/2013",
+   "title": "Ordinul nr. 1.381/2013 privind acreditarea unității sanitare Spitalul Clinic de Urgență \"Prof. Dr. N. Oblu\" Iași pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152730",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152730",
+     "sha256": "3e760660f1eface8928fad9fe5bc625530d134ab04815141c548fe2b0042c634"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1382-2013",
+   "path": "ordin/sanatate/2013/1382",
+   "short": "Ordin sanatate nr. 1382/2013",
+   "title": "Ordinul nr. 1.382/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Cluj-Napoca, Clinica chirurgie I, pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152728",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152728",
+     "sha256": "2f8fcc09d93820bc9edc84baa110d17f5e0d18d5e7c01ba4380098ff3336274c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1383-2013",
+   "path": "ordin/sanatate/2013/1383",
+   "short": "Ordin sanatate nr. 1383/2013",
+   "title": "Ordinul nr. 1.383/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgențe \"Sf. Spiridon\" Iași pentru activitatea de prelevare și transplant cornee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152725",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152725",
+     "sha256": "30ee3ade848561a100f798ae75f4c2942b9a5596ddd78fd044148ae711380066"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1384-2013",
+   "path": "ordin/sanatate/2013/1384",
+   "short": "Ordin sanatate nr. 1384/2013",
+   "title": "Ordinul nr. 1.384/2013 privind acreditarea unității sanitare Institutul Clinic de Urologie și Transplant Renal Cluj-Napoca - Centrul de transplant pancreatic pentru activitatea de prelevare și transplant pancreatic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152722",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152722",
+     "sha256": "3c88bb3b06b3f426ee1a83385e30e33806df489c0c4f529b1603559517fbbce7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1385-2013",
+   "path": "ordin/sanatate/2013/1385",
+   "short": "Ordin sanatate nr. 1385/2013",
+   "title": "Ordinul nr. 1.385/2013 privind acreditarea unității sanitare Spitalul Universitar de Urgență Militar Central \"Dr. Carol Davila\", Clinica de oftalmologie, pentru activitatea de transplant de cornee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152757",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152757",
+     "sha256": "60d2d53d64db326482950f0b490097a0ab2c423d4289051dee2789f4573c75eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1386-2013",
+   "path": "ordin/sanatate/2013/1386",
+   "short": "Ordin sanatate nr. 1386/2013",
+   "title": "Ordinul nr. 1.386/2013 privind acreditarea unității sanitare Institutul Clinic Fundeni - Centrul pentru uronefrologie și transplant renal pentru prelevare, stocare, depozitare, conservare, procesare, distribuție și transplant renal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152721",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152721",
+     "sha256": "e4132a030b2b2690a494143fd5f50cffe59e70b62913a8774746afacb3d23ce1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1387-2013",
+   "path": "ordin/sanatate/2013/1387",
+   "short": "Ordin sanatate nr. 1387/2013",
+   "title": "Ordinul nr. 1.387/2013 privind acreditarea unității sanitare Institutul Clinic de Urologie și Transplant Renal Cluj-Napoca - Centrul de transplant renal pentru activitatea de prelevare și transplant renal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152720",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152720",
+     "sha256": "b14f8268d309897f2f9b841f49baa6070c03af22b41ef1fb735f84e2285a5d1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1388-2013",
+   "path": "ordin/sanatate/2013/1388",
+   "short": "Ordin sanatate nr. 1388/2013",
+   "title": "Ordinul nr. 1.388/2013 privind acreditarea unității sanitare Institutul Clinic Fundeni - Centrul pentru boli digestive și transplant hepatic pentru prelevare, stocare, depozitare, conservare, procesare, distribuție și transplant hepatic și pancreatic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152719",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152719",
+     "sha256": "6152dbb04e414e4463aeba0ef513d94d8367745d90bd89a2789ec23fceabae92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1389-2013",
+   "path": "ordin/sanatate/2013/1389",
+   "short": "Ordin sanatate nr. 1389/2013",
+   "title": "Ordinul nr. 1.389/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Ploiești, Secția anestezie și terapie intensivă, pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152758",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152758",
+     "sha256": "de89011ecb0a250f18b36b5db6bd794010f88c93e6d2247c97519ab9c55cb6ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1405-2013",
+   "path": "ordin/sanatate/2013/1405",
+   "short": "Ordin sanatate nr. 1405/2013",
+   "title": "Ordinul nr. 1.405/2013 privind aprobarea bugetului de venituri și cheltuieli rectificat al Institutului Național de Cercetare-Dezvoltare pentru Microbiologie și Imunologie \"Cantacuzino\" București pe anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153271",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153271",
+     "sha256": "d613586916e47f74cd399224a5e78ed308caa0b15ca97719acd1ae9021a62d71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1430-2013",
+   "path": "ordin/sanatate/2013/1430",
+   "short": "Ordin sanatate nr. 1430/2013",
+   "title": "Ordinul nr. 1.430/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Zalău pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153255",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153255",
+     "sha256": "4a113cc8f4d79804925b7fd6d95d1db1bcc4811c284c1469535c9b622ea6d38c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1431-2013",
+   "path": "ordin/sanatate/2013/1431",
+   "short": "Ordin sanatate nr. 1431/2013",
+   "title": "Ordinul nr. 1.431/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență \"Dr. Constantin Opriș\" Baia Mare pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153256",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153256",
+     "sha256": "b19535696a82266648ca5e409665c92bc7e08f09acf3ecb4477e83a89da1dbdb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1432-2013",
+   "path": "ordin/sanatate/2013/1432",
+   "short": "Ordin sanatate nr. 1432/2013",
+   "title": "Ordinul nr. 1.432/2013 privind acreditarea unității sanitare Spitalul Județean de Urgență Satu Mare pentru prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153257",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153257",
+     "sha256": "f19e2f7d03ee3d951a229d093d467a160f362320e2843a5174400adc7aebcb9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1435-2013",
+   "path": "ordin/sanatate/2013/1435",
+   "short": "Ordin sanatate nr. 1435/2013",
+   "title": "Ordinul nr. 1.435/2013 pentru acreditarea unității sanitare Spitalul Clinic Județean de Urgență \"Sf. Spiridon\" Iași, Laboratorul de Imunologie și genetică (compartiment HLA) drept laborator HLA pentru activitatea de transplant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153260",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153260",
+     "sha256": "dc51cf28d6042c3cbbf69223800a8a8ff5d1f7a52a0ca9d3a7d7de5a1f78420d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1436-2013",
+   "path": "ordin/sanatate/2013/1436",
+   "short": "Ordin sanatate nr. 1436/2013",
+   "title": "Ordinul nr. 1.436/2013 pentru acreditarea unității sanitare Spitalul Clinic Județean de Urgență Timișoara, Laboratorul de Imunologie și Transplant drept Laborator HLA pentru activitatea de transplant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153258",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153258",
+     "sha256": "e8c1fc7f3a384f989ec282049d4b85d330b5c71d1dea56a9b4e56ffe131e4c20"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1443-2013",
    "path": "ordin/sanatate/2013/1443",
    "short": "Ordin sanatate nr. 1443/2013",
@@ -13289,6 +15119,201 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153429",
      "sha256": "eab4536df597cfce5d31e24c0b9fe5a1e0f3a9ebd36d4e2b3e952309e9cce1ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1477-2013",
+   "path": "ordin/sanatate/2013/1477",
+   "short": "Ordin sanatate nr. 1477/2013",
+   "title": "Ordinul nr. 1.477/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență \"Sf. Spiridon\" Iași pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153430",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153430",
+     "sha256": "ac849bc6625ed4464d3b2cb363e15e2dc980988471675941948c72f71f1fd226"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1478-2013",
+   "path": "ordin/sanatate/2013/1478",
+   "short": "Ordin sanatate nr. 1478/2013",
+   "title": "Ordinul nr. 1.478/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență \"Sf. Apostol Andrei\" Galați pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153431",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153431",
+     "sha256": "92730183452c09192447b18a4e4ed816129346836f7038d276ba6ad0dbbf738f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1486-2013",
+   "path": "ordin/sanatate/2013/1486",
+   "short": "Ordin sanatate nr. 1486/2013",
+   "title": "Ordinul nr. 1.486/2013 privind acreditarea unității sanitare Institutul de Urgență pentru Boli Cardiovasculare \"Prof. Dr. C.C. Iliescu\" - Centrul de transplant cardiac pentru activitatea de transplant de cord",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153587",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153587",
+     "sha256": "b81d42a02fbd3d2f09438fef886c582fb5e6a6a7fe6df8dfe8fbed1c7c3e370c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1487-2013",
+   "path": "ordin/sanatate/2013/1487",
+   "short": "Ordin sanatate nr. 1487/2013",
+   "title": "Ordinul nr. 1.487/2013 privind acreditarea unității sanitare Spitalul Clinic \"Sfânta Maria\" pentru activitatea de prelevare de organe, țesuturi și celule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153588",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153588",
+     "sha256": "6c57d259723bb0047cbd884d9eeb639f1d70e72a0aa6c8669e7f585e87622c67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1488-2013",
+   "path": "ordin/sanatate/2013/1488",
+   "short": "Ordin sanatate nr. 1488/2013",
+   "title": "Ordinul nr. 1.488/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență \"Sf. Apostol Andrei\" Constanța pentru activitatea de prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153591",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153591",
+     "sha256": "03707792d12b38e365cf213513e7ce5b72e10fd9f3b84bf1881a0eed53abd594"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1489-2013",
+   "path": "ordin/sanatate/2013/1489",
+   "short": "Ordin sanatate nr. 1489/2013",
+   "title": "Ordinul nr. 1.489/2013 privind acreditarea unității sanitare Spitalul Clinic de Urgență \"Bagdasar Arseni\" pentru prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153592",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153592",
+     "sha256": "90f48c85cf97cacd4e648057f9b14884caf76421fb7d632a596e051188560b27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1490-2013",
+   "path": "ordin/sanatate/2013/1490",
+   "short": "Ordin sanatate nr. 1490/2013",
+   "title": "Ordinul nr. 1.490/2013 privind acreditarea unității sanitare Spitalul Clinic de Urgență \"Sfântul Pantelimon\" - Secția anestezie și terapie intensivă pentru prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153593",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153593",
+     "sha256": "861be53e648c0b4fcff0009a03fcfd616df1763ca3af3f682b8efc9c652f1630"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1491-2013",
+   "path": "ordin/sanatate/2013/1491",
+   "short": "Ordin sanatate nr. 1491/2013",
+   "title": "Ordinul nr. 1.491/2013 privind acreditarea unității sanitare Spitalul Universitar de Urgență Elias - Secția anestezie și terapie intensivă pentru prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153594",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153594",
+     "sha256": "fdde6decf8fb29280f1bf530fe4a8681f572fd3de0d4d71c6d9a3c96c1eae5a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1492-2013",
+   "path": "ordin/sanatate/2013/1492",
+   "short": "Ordin sanatate nr. 1492/2013",
+   "title": "Ordinul nr. 1.492/2013 privind acreditarea unității sanitare Spitalul Clinic de Urgență București - Secția anestezie și terapie intensivă pentru prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153585",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153585",
+     "sha256": "527ec01c8e8ce463ff35b30ee10209d447f79f63a3bc6e74ee3e02173f128a7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1493-2013",
+   "path": "ordin/sanatate/2013/1493",
+   "short": "Ordin sanatate nr. 1493/2013",
+   "title": "Ordinul nr. 1.493/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Arad pentru activitatea de prelevare de organe și țesuturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153586",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153586",
+     "sha256": "fa83a5a069251669351284878d37a268a362a246517d079d2988ef5c31045e2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1494-2013",
+   "path": "ordin/sanatate/2013/1494",
+   "short": "Ordin sanatate nr. 1494/2013",
+   "title": "Ordinul nr. 1.494/2013 privind acreditarea unității sanitare Spitalul Clinic Colentina - Secția anestezie și terapie intensivă II pentru prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153590",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153590",
+     "sha256": "67916eeb1d59203c1be34212b8c3836382f59dab53d21ed46153ccee983fb652"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1495-2013",
+   "path": "ordin/sanatate/2013/1495",
+   "short": "Ordin sanatate nr. 1495/2013",
+   "title": "Ordinul nr. 1.495/2013 privind acreditarea unității sanitare Spitalul Universitar de Urgență București - Secția terapie intensivă pentru prelevare de organe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153595",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153595",
+     "sha256": "ece19f27984a4796c27ba88734dae4ae8742b5edcc29ffee124ea20bfc0496a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1496-2013",
+   "path": "ordin/sanatate/2013/1496",
+   "short": "Ordin sanatate nr. 1496/2013",
+   "title": "Ordinul nr. 1.496/2013 privind acreditarea unității sanitare Spitalul Clinic \"Sfânta Maria\" pentru activitatea de transplant hepatic și pancreatic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153596",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153596",
+     "sha256": "7975755ab7a93513a84a6818574ace7de0ffaa012d510e0e2c61793e63a27e23"
     }
    ]
   },
@@ -13443,6 +15468,51 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1567-2013",
+   "path": "ordin/sanatate/2013/1567",
+   "short": "Ordin sanatate nr. 1567/2013",
+   "title": "Ordinul nr. 1.567/2013 pentru acreditarea unității sanitare Spitalul Clinic de Urgență pentru Copii \"Louis Țurcanu\" Timișoara pentru activitățile de bancă de celule stem hematopoietice centrale și din sângele periferic (recoltare, procesare, conservare, stocare și distribuție) și transplant de celule stem hematopoietice centrale și din sângele periferic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154084",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154084",
+     "sha256": "3c9e9f5ee1459f2376a6b773d3ef6e98fe64f5a6bf17f57194d01c6d9b6c9fa9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1568-2013",
+   "path": "ordin/sanatate/2013/1568",
+   "short": "Ordin sanatate nr. 1568/2013",
+   "title": "Ordinul nr. 1.568/2013 pentru acreditarea unității sanitare Spitalul Clinic Județean de Urgență Târgu Mureș pentru activitățile de bancă de celule stem hematopoietice centrale și din sângele periferic (recoltare, procesare, conservare, stocare și distribuție) și transplant de celule stem hematopoietice centrale și din sângele periferic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154085",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154085",
+     "sha256": "d49f633c92249fa6ca4d1f805e414987bda3058f440ec6144713abce4e61b3ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1569-2013",
+   "path": "ordin/sanatate/2013/1569",
+   "short": "Ordin sanatate nr. 1569/2013",
+   "title": "Ordinul nr. 1.569/2013 pentru acreditarea unității sanitare Spitalul Clinic Județean de Urgență Târgu Mureș pentru activitatea de prelevare de organe, țesuturi și celule de origine umană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154086",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154086",
+     "sha256": "65521bcb3f7886881f8360b8ce37b876b5d24cd145e19319956bb744d13d094f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1570-2013",
    "path": "ordin/sanatate/2013/1570",
    "short": "Ordin sanatate nr. 1570/2013",
@@ -13499,6 +15569,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155202",
      "sha256": "870e02fcffcbccd2a194df67e9c237c6ad23937aade5e847aa50f5e70caa96a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-174-2013",
+   "path": "ordin/sanatate/2013/174",
+   "short": "Ordin sanatate nr. 174/2013",
+   "title": "Ordinul nr. 174/2013 privind acreditarea unității sanitare Societatea Comercială \"Medico Science\" - S.R.L. pentru activitatea de bancă de celule stem hematopoietice din sângele placentar, mostre de sânge din cordonul ombilical, mostre de țesut din cordonul ombilical și celule stem mezenchimale din țesutul cordonului ombilical",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145784",
+   "versions": [
+    {
+     "from": "2013-02-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145784",
+     "sha256": "1220f63e7c22c21de3bdd839c107f581a8b18ee37f62ca08fc24f7eb2c8d0259"
     }
    ]
   },
@@ -13653,6 +15738,51 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-385-2013",
+   "path": "ordin/sanatate/2013/385",
+   "short": "Ordin sanatate nr. 385/2013",
+   "title": "Ordinul nr. 385/2013 privind acreditarea unității sanitare Societatea Comercială \"West Eye Hospital\" - S.R.L. pentru activitatea de transplant de cornee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146326",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146326",
+     "sha256": "a0426f9daeac3fbdbeea67a0aaf326f4f0b3267a340e2fd41ddc96e01ec845b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-386-2013",
+   "path": "ordin/sanatate/2013/386",
+   "short": "Ordin sanatate nr. 386/2013",
+   "title": "Ordinul nr. 386/2013 privind acreditarea unității sanitare Societatea Comercială \"Medsystem Varad\" - S.R.L. pentru activitatea de transplant de cornee",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146331",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146331",
+     "sha256": "aa072edde91f41ecdcb9f2a4049a9c7209c8deb12a676bfcefd7af653c209679"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-398-2013",
+   "path": "ordin/sanatate/2013/398",
+   "short": "Ordin sanatate nr. 398/2013",
+   "title": "Ordinul nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146336",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146336",
+     "sha256": "ad430e2ed7a0e7daf6d03f9eaa5d3a0ed17bdbfaeae38abfb5a5e4b0f099ff04"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-40-2013",
    "path": "ordin/sanatate/2013/40",
    "short": "Ordin sanatate nr. 40/2013",
@@ -13724,6 +15854,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146525",
      "sha256": "b3754552cdc693e5205181c342df1f30c356496bc9fc895eeff4d81aac90b861"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-428-2013",
+   "path": "ordin/sanatate/2013/428",
+   "short": "Ordin sanatate nr. 428/2013",
+   "title": "Ordinul nr. 428/2013 privind abrogarea pct. 5 și 10 ale art. 1 din Ordinul ministrului sănătății nr. 712/2012 pentru acreditarea în domeniul transplantului a unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146515",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146515",
+     "sha256": "393489ab039abbfc34111fe19f3e9f8caf88dce5496912b844e3ef36113c18c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-436-2013",
+   "path": "ordin/sanatate/2013/436",
+   "short": "Ordin sanatate nr. 436/2013",
+   "title": "Ordinul nr. 436/2013 pentru acreditarea unității sanitare Spitalul Clinic Colțea - Compartimentul de transplant medular pentru activitatea de transplant de celule stem hematopoietice centrale și din sângele periferic în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146654",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146654",
+     "sha256": "0e859e027c2c4a5ea520982fecc0cb9d54882ee6f5c670648e14382868b49800"
     }
    ]
   },
@@ -14148,6 +16308,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-738-2013",
+   "path": "ordin/sanatate/2013/738",
+   "short": "Ordin sanatate nr. 738/2013",
+   "title": "Ordinul nr. 738/2013 privind abrogarea pct. 4 al art. 2 din Ordinul ministrului sănătății nr. 712/2012 pentru acreditarea în domeniul transplantului a unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149024",
+   "versions": [
+    {
+     "from": "2013-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149024",
+     "sha256": "1077538d3e0be3101c1076c4178cef65a5aa3c01a133e25c183d9bcf646df467"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-753-2013",
    "path": "ordin/sanatate/2013/753",
    "short": "Ordin sanatate nr. 753/2013",
@@ -14174,6 +16349,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149744",
      "sha256": "b10f7cc24f222a0599fedf8651f010af10fb176aad4c45d34030c91ce05838f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-793-2013",
+   "path": "ordin/sanatate/2013/793",
+   "short": "Ordin sanatate nr. 793/2013",
+   "title": "Ordinul nr. 793/2013 pentru modificarea Ordinului ministrului sănătății nr. 1.009/2010 privind acreditarea unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, de utilizator de țesuturi și/sau celule umane, respectiv de transplant de țesuturi și celule de origine umană în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149223",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149223",
+     "sha256": "3f8910c06f318e2499a82626d1a098e04f6dd63ce1054351cbb219c2a90faf51"
     }
    ]
   },
@@ -14268,6 +16458,51 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-842-2013",
+   "path": "ordin/sanatate/2013/842",
+   "short": "Ordin sanatate nr. 842/2013",
+   "title": "Ordinul nr. 842/2013 privind acreditarea unității sanitare Societatea Comercială BABE - S.R.L. punct de lucru Sângeorgiu de Mureș pentru activitatea de prelevare de celule reproductive umane, pentru bancă de celule reproductive (procesare, conservare, stocare și distribuție) și utilizare de celule umane în scop terapeutic (fertilizare în vitro)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149672",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149672",
+     "sha256": "f35f628b12bd525b12545a1931575b115371796cd307a625f623bef68fb4730e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-843-2013",
+   "path": "ordin/sanatate/2013/843",
+   "short": "Ordin sanatate nr. 843/2013",
+   "title": "Ordinul nr. 843/2013 privind acreditarea unității sanitare Societatea Comercială LID MEDLIFE - S.R.L. pentru activitatea de prelevare de celule reproductive umane, pentru bancă de celule reproductive (procesare, conservare, stocare și distribuție) și utilizare de celule umane în scop terapeutic (fertilizare în vitro)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149673",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149673",
+     "sha256": "f955324591a8b27591450dc13e15eaeab9fc129ac1ab21cc08c423beb71b515c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-844-2013",
+   "path": "ordin/sanatate/2013/844",
+   "short": "Ordin sanatate nr. 844/2013",
+   "title": "Ordinul nr. 844/2013 pentru acreditarea unității sanitare Spitalul Clinic de Urgență Militar \"Victor Popescu\" pentru activitatea de prelevare și transplant de țesut osos și tendinos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149675",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149675",
+     "sha256": "efc865db06e1446bd75fe650b24909776ddb8f676ffa4f4a2b41f6f1c5ce82b0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-85-2013",
    "path": "ordin/sanatate/2013/85",
    "short": "Ordin sanatate nr. 85/2013",
@@ -14343,6 +16578,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-872-2013",
+   "path": "ordin/sanatate/2013/872",
+   "short": "Ordin sanatate nr. 872/2013",
+   "title": "Ordinul nr. 872/2013 privind acreditarea unității sanitare Societatea Comercială \"Clinica Polisano\" - S.R.L., punctul de lucru Clinica Polisano - Centrul de fertilizare în vitro, pentru activitatea de prelevare de celule reproductive umane, pentru bancă de celule reproductive (procesare, conservare, stocare și distribuție) și utilizare de celule umane în scop terapeutic (fertilizare în vitro)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150066",
+   "versions": [
+    {
+     "from": "2013-07-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150066",
+     "sha256": "d41eb74869a3dc8e44eb95c91e9f521f4bebce0ab720c97bf77079069dff97cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-876-2013",
+   "path": "ordin/sanatate/2013/876",
+   "short": "Ordin sanatate nr. 876/2013",
+   "title": "Ordinul nr. 876/2013 privind modificarea și completarea anexei nr. 4 la Ordinul ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150387",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150387",
+     "sha256": "7674f4e093e92eebb45c26a9ad9a7c9f2a2486cf2a18dcda6a6dfcb940dbed54"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-877-2013",
    "path": "ordin/sanatate/2013/877",
    "short": "Ordin sanatate nr. 877/2013",
@@ -14354,6 +16619,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150164",
      "sha256": "ff25d9c151773380da34f6f4e1b930b1e8a6d6c18fa63e1bb227c4d3ce12c041"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-901-2013",
+   "path": "ordin/sanatate/2013/901",
+   "short": "Ordin sanatate nr. 901/2013",
+   "title": "Ordinul nr. 901/2013 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Craiova pentru activitatea de prelevare și transplant de țesut osos și tendinos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150220",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150220",
+     "sha256": "8cefb87fcb98edd3b5ac40b63b2b18a918981f2aa1a703fd668dd696b295e32f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-902-2013",
+   "path": "ordin/sanatate/2013/902",
+   "short": "Ordin sanatate nr. 902/2013",
+   "title": "Ordinul nr. 902/2013 privind acreditarea unității sanitare Spitalul Clinic Universitar de Urgență Elias pentru activitatea de prelevare și transplant de țesut osos și tendinos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150221",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150221",
+     "sha256": "d16635fe3f2d89eec9128d1487e82f96fef75950eef5d24925de663aca1a0663"
     }
    ]
   },
@@ -14643,6 +16938,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1036-2013",
+   "path": "ordin/transporturi/2013/1036",
+   "short": "Ordin transporturi nr. 1036/2013",
+   "title": "Ordinul nr. 1.036/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale \"Sere și Pepiniere\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151374",
+   "versions": [
+    {
+     "from": "2013-09-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151374",
+     "sha256": "f80170fd3723d3a997ef9a9a05ec318d7958cad8180ea7789012da2ecb96f0f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1044-2013",
    "path": "ordin/transporturi/2013/1044",
    "short": "Ordin transporturi nr. 1044/2013",
@@ -14774,6 +17084,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151637",
      "sha256": "de49089087ec844908a5bd19b36d6748e75558429b63418d8d6e3341a21721fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1209-2013",
+   "path": "ordin/transporturi/2013/1209",
+   "short": "Ordin transporturi nr. 1209/2013",
+   "title": "Ordinul nr. 1.209/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153720",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153720",
+     "sha256": "ab4a88f2e7b8841f44f32cc5aa1c5c498d164a9ac3a1f20e1ebe73f513fc6a75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1210-2013",
+   "path": "ordin/transporturi/2013/1210",
+   "short": "Ordin transporturi nr. 1210/2013",
+   "title": "Ordinul nr. 1.210/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale de Reparații Locomotive \"C.F.R. - SCRL Brașov\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153707",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153707",
+     "sha256": "934ec7f037fa2a4667a3611c811e0f1370a51b9e5e928e6384c42d295b5c3fad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1213-2013",
+   "path": "ordin/transporturi/2013/1213",
+   "short": "Ordin transporturi nr. 1213/2013",
+   "title": "Ordinul nr. 1.213/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale \"Intervenții Feroviare\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153716",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153716",
+     "sha256": "371aa3c99cf2b54cdb6ed8cdd744a943d290768e93d8806263313f2576021814"
     }
    ]
   },
@@ -14954,6 +17309,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151917",
      "sha256": "1c608702a11758b3d4b22aa301a70bfb2bf60e7cfd8377e8f66347a62e2f38f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1286-2013",
+   "path": "ordin/transporturi/2013/1286",
+   "short": "Ordin transporturi nr. 1286/2013",
+   "title": "Ordinul nr. 1.286/2013 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Societății Comerciale \"Întreținere Mecanizată\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153719",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153719",
+     "sha256": "29966e844ff3c3f722db8a6bb8d86c76c621693025b3401cf378d4a9fb1392d6"
     }
    ]
   },

@@ -2538,6 +2538,51 @@
    ]
   },
   {
+   "slug": "ordin-anaf-548-2005",
+   "path": "ordin/anaf/2005/548",
+   "short": "Ordin anaf nr. 548/2005",
+   "title": "Ordinul nr. 548/2005 privind aprobarea componenței nominale a Comisiei centrale de coordonare a acțiunilor de prevenire și combatere a faptelor de evaziune fiscală în domeniul alcoolului etilic de origine agricolă, băuturilor spirtoase, produselor din tutun și al uleiurilor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31819",
+   "versions": [
+    {
+     "from": "2005-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31819",
+     "sha256": "713ab5fb8d034508005ac32ec9ec45096ab0002b7699d4f1be3f6c5e88ebaa79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-559-2005",
+   "path": "ordin/anaf/2005/559",
+   "short": "Ordin anaf nr. 559/2005",
+   "title": "Ordinul nr. 559/2005 privind eliberarea autorizației de \"exportator autorizat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60820",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60820",
+     "sha256": "ca8d12130625be9a9c63e5f7133229ff91fb1d2824e773efea2416f0487e87d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-6351-2005",
+   "path": "ordin/anaf/2005/6351",
+   "short": "Ordin anaf nr. 6351/2005",
+   "title": "Ordinul nr. 6.351/2005 privind formalitățile vamale de import pentru mărfurile perisabile cuprinse în cap. 6, 7 și 8 din Tariful vamal de import al României, transportate pe cale rutieră, destinate să fie vămuite în municipiul București sau în județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63873",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63873",
+     "sha256": "e4493cb87bd95a2914ac33ef79b8b9eaa3b5b90d513941f5a9f3bea7dc82b527"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-6603-2005",
    "path": "ordin/anaf/2005/6603",
    "short": "Ordin anaf nr. 6603/2005",
@@ -2564,6 +2609,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61329",
      "sha256": "8044f0f740c5b4915c4189594562d14e7a956c0531cd5db2baf244bfe3134d60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-7591-2005",
+   "path": "ordin/anaf/2005/7591",
+   "short": "Ordin anaf nr. 7591/2005",
+   "title": "Ordinul nr. 7.591/2005 privind formalitățile vamale de import pentru mărfurile perisabile cuprinse în cap. 6, 7 și 8 din Tariful vamal de import al României, transportate pe cale rutieră, destinate să fie vămuite în municipiul București sau în județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66017",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66017",
+     "sha256": "0370551566dc80b5177159f54ee3eb3dd36797d191d31b0967b91e6b5240d42e"
     }
    ]
   },
@@ -9423,6 +9483,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1153-2005",
+   "path": "ordin/finante/2005/1153",
+   "short": "Ordin finante nr. 1153/2005",
+   "title": "Ordinul nr. 1.153/2005 privind modificarea Ordinului ministrului finanțelor publice și al ministrului administrației și internelor nr. 219/537/2005 pentru aprobarea componenței Comisiei de autorizare a jocurilor de noroc, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64814",
+   "versions": [
+    {
+     "from": "2005-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64814",
+     "sha256": "f15536907ba21df2c9492d2f892ead54c0039680a4368d15f4fe0d0ac1d3fc76"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1154-2005",
    "path": "ordin/finante/2005/1154",
    "short": "Ordin finante nr. 1154/2005",
@@ -9449,6 +9524,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64262",
      "sha256": "bdc61a4a63f3232445e1c1951922a0b2dabf3edfd3c0eaa5b49bc177fa98c5e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1259-2005",
+   "path": "ordin/finante/2005/1259",
+   "short": "Ordin finante nr. 1259/2005",
+   "title": "Ordinul nr. 1.259/2005 pentru modificarea Ordinului ministrului finanțelor publice nr. 734/2004 privind stabilirea componenței comisiei de privatizare a Casei de Economii și Consemnațiuni C.E.C. - S.A., modificat prin ordinele ministrului finanțelor publice nr. 805/2004, nr. 209/2005 și nr. 530/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64820",
+   "versions": [
+    {
+     "from": "2005-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64820",
+     "sha256": "08969aca4e5444b3692e9f9415cb3aa24d80d35366bcbbd4a6d67df60d7aef17"
     }
    ]
   },
@@ -9813,6 +9903,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1834-2005",
+   "path": "ordin/finante/2005/1834",
+   "short": "Ordin finante nr. 1834/2005",
+   "title": "Ordinul nr. 1.834/2005 privind modificarea Ordinului ministrului finanțelor publice și al ministrului administrației și internelor nr. 219/537/2005 pentru aprobarea componenței Comisiei de autorizare a jocurilor de noroc, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66791",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66791",
+     "sha256": "aa3c9e4b39af492109b1e034236b9b02e64caef0ae4ed91fafd96274c68e1f28"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1835-2005",
    "path": "ordin/finante/2005/1835",
    "short": "Ordin finante nr. 1835/2005",
@@ -10023,6 +10128,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-209-2005",
+   "path": "ordin/finante/2005/209",
+   "short": "Ordin finante nr. 209/2005",
+   "title": "Ordinul nr. 209/2005 pentru modificarea Ordinului ministrului finanțelor publice nr. 734/2004 privind stabilirea componenței Comisiei de privatizare a Casei de Economii și Consemnațiuni C.E.C. - S.A., modificat prin Ordinul ministrului finanțelor publice nr. 805/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59652",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59652",
+     "sha256": "2b79d397c1478a570e4c116cc7bd26b483bd4ab806368005093e96f457a454ac"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-21-2005",
    "path": "ordin/finante/2005/21",
    "short": "Ordin finante nr. 21/2005",
@@ -10034,6 +10154,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58577",
      "sha256": "30be5a2996eb5e9357a1fac55e1c1901a99569e3aff2d54a525dc7825bc71988"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-219-2005",
+   "path": "ordin/finante/2005/219",
+   "short": "Ordin finante nr. 219/2005",
+   "title": "Ordinul nr. 219/2005 pentru aprobarea componenței Comisiei de autorizare a jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59781",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59781",
+     "sha256": "36e21814dace3f0e0f16ae7c12ef4164a81b0e31617a4cd6bf3fb7202c519692"
     }
    ]
   },
@@ -10218,6 +10353,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-406-2005",
+   "path": "ordin/finante/2005/406",
+   "short": "Ordin finante nr. 406/2005",
+   "title": "Ordinul nr. 406/2005 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente trimestrului II 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60892",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60892",
+     "sha256": "d395c4bf492f32fcca47e2337fa2eb05082adf5a74f921a53231aa590130e0a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-418-2005",
    "path": "ordin/finante/2005/418",
    "short": "Ordin finante nr. 418/2005",
@@ -10319,6 +10469,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61350",
      "sha256": "3ffebe601a946baf946e04d608fc7a88a772e38091d73918170f3e1c6d020496"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-530-2005",
+   "path": "ordin/finante/2005/530",
+   "short": "Ordin finante nr. 530/2005",
+   "title": "Ordinul nr. 530/2005 pentru modificarea Ordinului ministrului finanțelor publice nr. 734/2004 privind stabilirea componenței Comisiei de privatizare a Casei de Economii și Consemnațiuni C.E.C. - S.A., modificat prin ordinele ministrului finanțelor publice nr. 805/2004 și nr. 209/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61286",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61286",
+     "sha256": "f5adf7dac702bc15d5795bc7297e5efb7d45dba70627b0de0432bcdc30e3ff7e"
     }
    ]
   },
@@ -10548,6 +10713,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-843-2005",
+   "path": "ordin/finante/2005/843",
+   "short": "Ordin finante nr. 843/2005",
+   "title": "Ordinul nr. 843/2005 privind modificarea Ordinului ministrului finanțelor publice și al ministrului administrației și internelor nr. 219/537/2005 pentru aprobarea componenței Comisiei de autorizare a jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62802",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62802",
+     "sha256": "318eefd55e64bd5df73a84880667d7fd04e2f2ade0f9d0a4e8001741813be5cf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-845-2005",
    "path": "ordin/finante/2005/845",
    "short": "Ordin finante nr. 845/2005",
@@ -10649,6 +10829,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62717",
      "sha256": "b266d59461c1d7cb95f60acb596546f44f8a47d18513589e02910e5c6bdbf62f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-89-2005",
+   "path": "ordin/finante/2005/89",
+   "short": "Ordin finante nr. 89/2005",
+   "title": "Ordinul nr. 89/2005 privind prospectele de emisiune ale obligațiunilor de stat cu dobândă, aferente lunii februarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59078",
+   "versions": [
+    {
+     "from": "2005-02-07",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59078",
+     "sha256": "7b5609c9aabfaab4ce9f78aec2badec62b4ce31ef1d8fddd7bd31d2078792261"
     }
    ]
   },
@@ -10799,6 +10994,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63901",
      "sha256": "be16b0d07e3ed04a728c6c02a663c982e44734238429d210d5f03228b5409bf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-977-2005",
+   "path": "ordin/finante/2005/977",
+   "short": "Ordin finante nr. 977/2005",
+   "title": "Ordinul nr. 977/2005 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente trimestrului III al anului 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63223",
+   "versions": [
+    {
+     "from": "2005-07-18",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63223",
+     "sha256": "5dbef4f6732a85a5f2c0bf0ff052d3064f33a92db7a886f08094f0750127d47d"
     }
    ]
   },
@@ -13743,6 +13953,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-293-2005",
+   "path": "ordin/munca/2005/293",
+   "short": "Ordin munca nr. 293/2005",
+   "title": "Ordinul nr. 293/2005 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2005 ale Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale și Institutului Național de Cercetare-Dezvoltare pentru Protecția Muncii \"Alexandru Darabont\", aflate în coordonarea Ministerului Muncii, Solidarității Sociale și Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63006",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63006",
+     "sha256": "244a003ea18cddbcfc9df8162b579e2d7cef8c372f08972ffac673a9ec4967ea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-307-2005",
    "path": "ordin/munca/2005/307",
    "short": "Ordin munca nr. 307/2005",
@@ -14088,6 +14313,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-892-2005",
+   "path": "ordin/munca/2005/892",
+   "short": "Ordin munca nr. 892/2005",
+   "title": "Ordinul nr. 892/2005 pentru aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2005 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale - I.N.C.S.M.P.S. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67897",
+   "versions": [
+    {
+     "from": "2006-01-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67897",
+     "sha256": "98518bc926504442ae3de1398a4bef114368149fca939b774b460052d1d06bf4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-9-2005",
    "path": "ordin/munca/2005/9",
    "short": "Ordin munca nr. 9/2005",
@@ -14384,6 +14624,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59365",
      "sha256": "0abab81484389c0c7ce43968b368b4c79ac910aada39df1a36b90a83f128392d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1094-2005",
+   "path": "ordin/sanatate/2005/1094",
+   "short": "Ordin sanatate nr. 1094/2005",
+   "title": "Ordinul nr. 1.094/2005 privind Planul național de intervenție în pandemia de gripă și constituirea Comitetului național și a comitetelor județene de intervenție în caz de pandemie de gripă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34958",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34958",
+     "sha256": "95b5d9d5d8c269e425935888ef8d584ad519d852c096d9a483bf2e4b153fafb4"
     }
    ]
   },
@@ -14928,6 +15183,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-180-2005",
+   "path": "ordin/sanatate/2005/180",
+   "short": "Ordin sanatate nr. 180/2005",
+   "title": "Ordinul nr. 180/2005 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2005 al Institutului Național de Cercetare-Dezvoltare în Domeniul Patologiei și Științelor Biomedicale \"Victor Babeș\" București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61361",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61361",
+     "sha256": "9cc25d0f268f6a3851ff5604ed782947cd38f33d544c2b763000dce2153fd43a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-181-2005",
+   "path": "ordin/sanatate/2005/181",
+   "short": "Ordin sanatate nr. 181/2005",
+   "title": "Ordinul nr. 181/2005 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2005 al Institutului Național de Cercetare-Dezvoltare pentru Microbiologie și Imunologie \"Cantacuzino\" - București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61287",
+   "versions": [
+    {
+     "from": "2005-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61287",
+     "sha256": "a498f152d752734714d38dbee9b09ba9fdddf72dff1a2b393a6417e4f1337b85"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-183-2005",
    "path": "ordin/sanatate/2005/183",
    "short": "Ordin sanatate nr. 183/2005",
@@ -14939,6 +15224,21 @@
      "units": 40,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60093",
      "sha256": "9901f9dc1df9fafa59bfe68a95b5dedbfd310b5a8e5fa8dab12af07a1fde0268"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-199-2005",
+   "path": "ordin/sanatate/2005/199",
+   "short": "Ordin sanatate nr. 199/2005",
+   "title": "Ordinul nr. 199/2005 privind înființarea Comitetului pentru Situații de Urgență în cadrul Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60251",
+   "versions": [
+    {
+     "from": "2005-03-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60251",
+     "sha256": "f7fa7d6f93edc3ee0dd5b2233858401e7a4b54f0abec55cc1c0adbd46d33c7a3"
     }
    ]
   },
@@ -14984,6 +15284,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60244",
      "sha256": "41beafb98635363a430fe075a791f5d833908b40667bf0ee6a1688458c1e5a7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-222-2005",
+   "path": "ordin/sanatate/2005/222",
+   "short": "Ordin sanatate nr. 222/2005",
+   "title": "Ordinul nr. 222/2005 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2005 al Institutului Național de Cercetare-Dezvoltare în Sănătate București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61362",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61362",
+     "sha256": "e44297edd32a570ecd0df50cd31054938e2460d9f8f1b8649ba92d02f72c8fb7"
     }
    ]
   },
@@ -15464,6 +15779,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62701",
      "sha256": "32118b1a6d640294262f235f9f7204ac6d51c57471011d0cb90bc48d5a41e08b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-534-2005",
+   "path": "ordin/sanatate/2005/534",
+   "short": "Ordin sanatate nr. 534/2005",
+   "title": "Ordinul nr. 534/2005 privind acreditarea unităților sanitare care pot efectua activități de declarare a donatorilor, de testare, prelevare, coordonare și transplant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62067",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62067",
+     "sha256": "96fbf2a4748567903c3a83de497ed5ac00c95f8be39f811f49f58228d93fb292"
     }
    ]
   },

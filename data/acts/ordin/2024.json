@@ -3,6 +3,74 @@
 "shard": "ordin/2024",
 "acts": [
 {
+"slug": "ordin-aaas-2236-2024",
+"path": "ordin/aaas/2024/2236",
+"kind": "ordin",
+"year": "2024",
+"number": "2236",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.236/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății ACTIVE CONEXE - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 2236/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282941",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "649",
+"date": "2024-02-21",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-649-2024"
+},
+{
+"issuer": "finante",
+"nr": "779",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-779-2024"
+}
+]
+},
+{
+"slug": "ordin-aaas-2676-2024",
+"path": "ordin/aaas/2024/2676",
+"kind": "ordin",
+"year": "2024",
+"number": "2676",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.676/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 2676/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282665",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "725",
+"date": "2024-03-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-725-2024"
+},
+{
+"issuer": "finante",
+"nr": "776",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-776-2024"
+}
+]
+},
+{
 "slug": "ordin-achizitii-1946-2024",
 "path": "ordin/achizitii/2024/1946",
 "kind": "ordin",
@@ -207,6 +275,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279057",
 "issuer": "agricultura",
 "joint": []
+},
+{
+"slug": "ordin-agricultura-64-2024",
+"path": "ordin/agricultura/2024/64",
+"kind": "ordin",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 64/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății Comerciale PISCICOLA CĂLĂRAȘI - S.A. din coordonarea Agenției Naționale pentru Pescuit și Acvacultură",
+"short": "Ordin agricultura nr. 64/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-18",
+"latest": "2024-04-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281923",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "656",
+"date": "2024-02-23",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-656-2024"
+},
+{
+"issuer": "finante",
+"nr": "673",
+"date": "2024-04-08",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-673-2024"
+}
+]
 },
 {
 "slug": "ordin-agricultura-69-2024",
@@ -8608,6 +8710,40 @@
 "joint": []
 },
 {
+"slug": "ordin-comunicatii-21232-2024",
+"path": "ordin/comunicatii/2024/21232",
+"kind": "ordin",
+"year": "2024",
+"number": "21232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 21.232/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății Institutul de Cercetări în Transporturi INCERTRANS - S.A.",
+"short": "Ordin comunicatii nr. 21232/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-31",
+"latest": "2024-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290208",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "munca",
+"nr": "3095",
+"date": "2024-10-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3095-2024"
+},
+{
+"issuer": "finante",
+"nr": "6431",
+"date": "2024-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6431-2024"
+}
+]
+},
+{
 "slug": "ordin-comunicatii-21342-2024",
 "path": "ordin/comunicatii/2024/21342",
 "kind": "ordin",
@@ -8701,6 +8837,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288388",
 "issuer": "comunicatii",
 "joint": []
+},
+{
+"slug": "ordin-comunicatii-21709-2024",
+"path": "ordin/comunicatii/2024/21709",
+"kind": "ordin",
+"year": "2024",
+"number": "21709",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 21.709/2024 ORDIN nr. 21.709/3.032/6.327/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății \"Romfilatelia\" - S.A., filiala Companiei Naționale \"Poșta Română\" - S.A.",
+"short": "Ordin comunicatii nr. 21709/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-21",
+"latest": "2024-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289898",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "munca",
+"nr": "3032",
+"date": "2024-09-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3032-2024"
+},
+{
+"issuer": "finante",
+"nr": "6327",
+"date": "2024-10-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6327-2024"
+}
+]
 },
 {
 "slug": "ordin-comunicatii-22143-2024",
@@ -9947,6 +10117,142 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-178-2024",
+"path": "ordin/economie/2024/178",
+"kind": "ordin",
+"year": "2024",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 178/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea de Administrare a Participațiilor în Energie - S.A.",
+"short": "Ordin economie nr. 178/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280766",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "588",
+"date": "2024-03-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-588-2024"
+},
+{
+"issuer": "munca",
+"nr": "705",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-705-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-204-2024",
+"path": "ordin/economie/2024/204",
+"kind": "ordin",
+"year": "2024",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 204/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Medserv Min - S.A.",
+"short": "Ordin economie nr. 204/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280769",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "589",
+"date": "2024-03-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-589-2024"
+},
+{
+"issuer": "munca",
+"nr": "714",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-714-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-227-2024",
+"path": "ordin/economie/2024/227",
+"kind": "ordin",
+"year": "2024",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 227/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Electrocentrale Grup - S.A.",
+"short": "Ordin economie nr. 227/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282430",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "772",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-772-2024"
+},
+{
+"issuer": "munca",
+"nr": "822",
+"date": "2024-03-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-822-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-261-2024",
+"path": "ordin/economie/2024/261",
+"kind": "ordin",
+"year": "2024",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 261/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Minprest Serv - S.A.",
+"short": "Ordin economie nr. 261/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-23",
+"latest": "2024-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283164",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "877",
+"date": "2024-05-13",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-877-2024"
+},
+{
+"issuer": "munca",
+"nr": "781",
+"date": "2024-03-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-781-2024"
+}
+]
+},
+{
 "slug": "ordin-economie-319-2024",
 "path": "ordin/economie/2024/319",
 "kind": "ordin",
@@ -9964,6 +10270,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280797",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-328-2024",
+"path": "ordin/economie/2024/328",
+"kind": "ordin",
+"year": "2024",
+"number": "328",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 328/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea CCGT Power Ișalnița - S.A.",
+"short": "Ordin economie nr. 328/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282959",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "873",
+"date": "2024-05-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-873-2024"
+},
+{
+"issuer": "munca",
+"nr": "909",
+"date": "2024-04-12",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-909-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-343-2024",
+"path": "ordin/economie/2024/343",
+"kind": "ordin",
+"year": "2024",
+"number": "343",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 343/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Institutul de Cercetare Științifică, Inginerie Tehnologică și Proiectări Mine pe Lignit - S.A.",
+"short": "Ordin economie nr. 343/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282962",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "872",
+"date": "2024-05-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-872-2024"
+},
+{
+"issuer": "munca",
+"nr": "895",
+"date": "2024-04-11",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-895-2024"
+}
+]
 },
 {
 "slug": "ordin-economie-356-2024",
@@ -10194,6 +10568,516 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-802-2024",
+"path": "ordin/economie/2024/802",
+"kind": "ordin",
+"year": "2024",
+"number": "802",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 802/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Tohan - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 802/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283116",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "899",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-899-2024"
+},
+{
+"issuer": "munca",
+"nr": "712",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-712-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-803-2024",
+"path": "ordin/economie/2024/803",
+"kind": "ordin",
+"year": "2024",
+"number": "803",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 803/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 803/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283119",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "896",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-896-2024"
+},
+{
+"issuer": "munca",
+"nr": "735",
+"date": "2024-03-11",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-735-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-806-2024",
+"path": "ordin/economie/2024/806",
+"kind": "ordin",
+"year": "2024",
+"number": "806",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 806/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 806/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283122",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "897",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-897-2024"
+},
+{
+"issuer": "munca",
+"nr": "709",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-709-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-808-2024",
+"path": "ordin/economie/2024/808",
+"kind": "ordin",
+"year": "2024",
+"number": "808",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 808/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 808/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283125",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "903",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-903-2024"
+},
+{
+"issuer": "munca",
+"nr": "708",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-708-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-809-2024",
+"path": "ordin/economie/2024/809",
+"kind": "ordin",
+"year": "2024",
+"number": "809",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 809/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 809/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283128",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "902",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-902-2024"
+},
+{
+"issuer": "munca",
+"nr": "710",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-710-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-810-2024",
+"path": "ordin/economie/2024/810",
+"kind": "ordin",
+"year": "2024",
+"number": "810",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 810/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 810/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283099",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "901",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-901-2024"
+},
+{
+"issuer": "munca",
+"nr": "733",
+"date": "2024-03-11",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-733-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-813-2024",
+"path": "ordin/economie/2024/813",
+"kind": "ordin",
+"year": "2024",
+"number": "813",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 813/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 813/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283102",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "900",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-900-2024"
+},
+{
+"issuer": "munca",
+"nr": "715",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-715-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-814-2024",
+"path": "ordin/economie/2024/814",
+"kind": "ordin",
+"year": "2024",
+"number": "814",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 814/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 814/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-23",
+"latest": "2024-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283167",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "922",
+"date": "2024-05-21",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-922-2024"
+},
+{
+"issuer": "munca",
+"nr": "736",
+"date": "2024-03-11",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-736-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-818-2024",
+"path": "ordin/economie/2024/818",
+"kind": "ordin",
+"year": "2024",
+"number": "818",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 818/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Arsenal Reșița - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 818/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283105",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "898",
+"date": "2024-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-898-2024"
+},
+{
+"issuer": "munca",
+"nr": "716",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-716-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-819-2024",
+"path": "ordin/economie/2024/819",
+"kind": "ordin",
+"year": "2024",
+"number": "819",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 819/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 819/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-20",
+"latest": "2024-05-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283056",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "887",
+"date": "2024-05-14",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-887-2024"
+},
+{
+"issuer": "munca",
+"nr": "707",
+"date": "2024-03-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-707-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-871-2024",
+"path": "ordin/economie/2024/871",
+"kind": "ordin",
+"year": "2024",
+"number": "871",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 871/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea CONVERSMIN - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 871/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282470",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "777",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-777-2024"
+},
+{
+"issuer": "munca",
+"nr": "782",
+"date": "2024-03-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-782-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-941-2024",
+"path": "ordin/economie/2024/941",
+"kind": "ordin",
+"year": "2024",
+"number": "941",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 941/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Mamaia - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 941/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282364",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "745",
+"date": "2024-04-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-745-2024"
+},
+{
+"issuer": "munca",
+"nr": "848",
+"date": "2024-04-02",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-848-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-942-2024",
+"path": "ordin/economie/2024/942",
+"kind": "ordin",
+"year": "2024",
+"number": "942",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 942/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Telegondola Mamaia - S.R.L., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 942/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282367",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "743",
+"date": "2024-04-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-743-2024"
+},
+{
+"issuer": "munca",
+"nr": "849",
+"date": "2024-04-02",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-849-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-944-2024",
+"path": "ordin/economie/2024/944",
+"kind": "ordin",
+"year": "2024",
+"number": "944",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 944/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Centrul Național de Învățământ Turistic \"CNIT\" - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 944/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282445",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "770",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-770-2024"
+},
+{
+"issuer": "munca",
+"nr": "847",
+"date": "2024-04-02",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-847-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-957-2024",
+"path": "ordin/economie/2024/957",
+"kind": "ordin",
+"year": "2024",
+"number": "957",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 957/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea NEPTUN-OLIMP - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 957/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282370",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "744",
+"date": "2024-04-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-744-2024"
+},
+{
+"issuer": "munca",
+"nr": "859",
+"date": "2024-04-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-859-2024"
+}
+]
+},
+{
 "slug": "ordin-economie-973-2024",
 "path": "ordin/economie/2024/973",
 "kind": "ordin",
@@ -10213,6 +11097,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-977-2024",
+"path": "ordin/economie/2024/977",
+"kind": "ordin",
+"year": "2024",
+"number": "977",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 977/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A. Mangalia, aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 977/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282636",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "790",
+"date": "2024-04-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-790-2024"
+},
+{
+"issuer": "munca",
+"nr": "860",
+"date": "2024-04-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-860-2024"
+}
+]
+},
+{
 "slug": "ordin-economie-985-2024",
 "path": "ordin/economie/2024/985",
 "kind": "ordin",
@@ -10230,6 +11148,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/281641",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1012-2024",
+"path": "ordin/economie/2024/1012",
+"kind": "ordin",
+"year": "2024",
+"number": "1012",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.012/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Națională \"Plafar\" - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1012/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282448",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "780",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-780-2024"
+},
+{
+"issuer": "munca",
+"nr": "894",
+"date": "2024-04-11",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-894-2024"
+}
+]
 },
 {
 "slug": "ordin-economie-1013-2024",
@@ -10506,6 +11458,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1462-2024",
+"path": "ordin/economie/2024/1462",
+"kind": "ordin",
+"year": "2024",
+"number": "1462",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.462/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Medserv Min - S.A.",
+"short": "Ordin economie nr. 1462/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-31",
+"latest": "2024-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290202",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6407",
+"date": "2024-10-28",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6407-2024"
+},
+{
+"issuer": "munca",
+"nr": "3158",
+"date": "2024-10-22",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3158-2024"
+}
+]
+},
+{
 "slug": "ordin-economie-1494-2024",
 "path": "ordin/economie/2024/1494",
 "kind": "ordin",
@@ -10696,6 +11682,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-2722-2024",
+"path": "ordin/economie/2024/2722",
+"kind": "ordin",
+"year": "2024",
+"number": "2722",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.722/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 2722/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-18",
+"latest": "2024-09-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288660",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "5336",
+"date": "2024-09-13",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-5336-2024"
+},
+{
+"issuer": "munca",
+"nr": "2022",
+"date": "2024-08-22",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2022-2024"
+}
+]
+},
+{
 "slug": "ordin-economie-2726-2024",
 "path": "ordin/economie/2024/2726",
 "kind": "ordin",
@@ -10791,6 +11811,74 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-2809-2024",
+"path": "ordin/economie/2024/2809",
+"kind": "ordin",
+"year": "2024",
+"number": "2809",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.809/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 2809/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288692",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "5337",
+"date": "2024-09-13",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-5337-2024"
+},
+{
+"issuer": "munca",
+"nr": "2065",
+"date": "2024-09-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2065-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-2870-2024",
+"path": "ordin/economie/2024/2870",
+"kind": "ordin",
+"year": "2024",
+"number": "2870",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.870/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Carfil - S.A. Brașov - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 2870/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-11",
+"latest": "2024-10-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289400",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6265",
+"date": "2024-10-04",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6265-2024"
+},
+{
+"issuer": "munca",
+"nr": "2975",
+"date": "2024-09-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2975-2024"
+}
+]
+},
+{
 "slug": "ordin-economie-2881-2024",
 "path": "ordin/economie/2024/2881",
 "kind": "ordin",
@@ -10867,6 +11955,108 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-3047-2024",
+"path": "ordin/economie/2024/3047",
+"kind": "ordin",
+"year": "2024",
+"number": "3047",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.047/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Uzina de Produse Speciale Dragomirești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 3047/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290108",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6378",
+"date": "2024-10-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6378-2024"
+},
+{
+"issuer": "munca",
+"nr": "3112",
+"date": "2024-10-15",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3112-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-3048-2024",
+"path": "ordin/economie/2024/3048",
+"kind": "ordin",
+"year": "2024",
+"number": "3048",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.048/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 3048/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290278",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6428",
+"date": "2024-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6428-2024"
+},
+{
+"issuer": "munca",
+"nr": "3114",
+"date": "2024-10-15",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3114-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-3052-2024",
+"path": "ordin/economie/2024/3052",
+"kind": "ordin",
+"year": "2024",
+"number": "3052",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.052/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Fabrica de Pulberi Făgăraș - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 3052/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290281",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6429",
+"date": "2024-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6429-2024"
+},
+{
+"issuer": "munca",
+"nr": "3113",
+"date": "2024-10-15",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3113-2024"
+}
+]
+},
+{
 "slug": "ordin-economie-3057-2024",
 "path": "ordin/economie/2024/3057",
 "kind": "ordin",
@@ -10884,6 +12074,142 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289825",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-3082-2024",
+"path": "ordin/economie/2024/3082",
+"kind": "ordin",
+"year": "2024",
+"number": "3082",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.082/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 3082/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290284",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6426",
+"date": "2024-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6426-2024"
+},
+{
+"issuer": "munca",
+"nr": "3142",
+"date": "2024-10-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3142-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-3083-2024",
+"path": "ordin/economie/2024/3083",
+"kind": "ordin",
+"year": "2024",
+"number": "3083",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.083/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 3083/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290287",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6427",
+"date": "2024-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6427-2024"
+},
+{
+"issuer": "munca",
+"nr": "3143",
+"date": "2024-10-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3143-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-3114-2024",
+"path": "ordin/economie/2024/3114",
+"kind": "ordin",
+"year": "2024",
+"number": "3114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.114/2024 ORDIN nr. 3.114/6.425/3.146/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Tohan - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 3114/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290290",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6425",
+"date": "2024-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6425-2024"
+},
+{
+"issuer": "munca",
+"nr": "3146",
+"date": "2024-10-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3146-2024"
+}
+]
+},
+{
+"slug": "ordin-economie-3157-2024",
+"path": "ordin/economie/2024/3157",
+"kind": "ordin",
+"year": "2024",
+"number": "3157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.157/2024 ORDIN nr. 3.157/6.440/3.189/2024 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 pentru Societatea Centrul Național de Învățământ Turistic \"CNIT\" - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 3157/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290293",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6440",
+"date": "2024-10-31",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6440-2024"
+},
+{
+"issuer": "munca",
+"nr": "3189",
+"date": "2024-10-29",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3189-2024"
+}
+]
 },
 {
 "slug": "ordin-economie-3378-2024",
@@ -11230,6 +12556,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279786",
 "issuer": "educatie",
 "joint": []
+},
+{
+"slug": "ordin-educatie-3948-2024",
+"path": "ordin/educatie/2024/3948",
+"kind": "ordin",
+"year": "2024",
+"number": "3948",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.948/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 pentru Societatea Editura Didactică și Pedagogică - S.A.",
+"short": "Ordin educatie nr. 3948/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282451",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "675",
+"date": "2024-04-08",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-675-2024"
+},
+{
+"issuer": "munca",
+"nr": "783",
+"date": "2024-03-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-783-2024"
+}
+]
 },
 {
 "slug": "ordin-educatie-3965-2024",
@@ -14780,6 +16140,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-69-2024",
+"path": "ordin/finante/2024/69",
+"kind": "ordin",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 69/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada ianuarie-februarie 2024",
+"short": "Ordin finante nr. 69/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278118",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-77-2024",
 "path": "ordin/finante/2024/77",
 "kind": "ordin",
@@ -14856,6 +16235,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-145-2024",
+"path": "ordin/finante/2024/145",
+"kind": "ordin",
+"year": "2024",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 145/2024 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 4 miliarde dolari americani, prin lansarea a două serii noi de obligațiuni denominate în dolari americani cu maturitatea de 5 ani și 10 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 145/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278382",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-180-2024",
+"path": "ordin/finante/2024/180",
+"kind": "ordin",
+"year": "2024",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 180/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2024",
+"short": "Ordin finante nr. 180/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278745",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-192-2024",
 "path": "ordin/finante/2024/192",
 "kind": "ordin",
@@ -14921,6 +16338,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-337-2024",
+"path": "ordin/finante/2024/337",
+"kind": "ordin",
+"year": "2024",
+"number": "337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 337/2024 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 4 miliarde euro, prin lansarea a două serii noi de obligațiuni denominate în euro cu maturitatea de 7 ani sau mai mult și cu maturitatea de 12 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 337/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279060",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-346-2024",
+"path": "ordin/finante/2024/346",
+"kind": "ordin",
+"year": "2024",
+"number": "346",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 346/2024 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 346/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279326",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-347-2024",
+"path": "ordin/finante/2024/347",
+"kind": "ordin",
+"year": "2024",
+"number": "347",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 347/2024 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 21 februarie-1 martie 2024, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 347/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279323",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-354-2024",
 "path": "ordin/finante/2024/354",
 "kind": "ordin",
@@ -14959,6 +16433,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-401-2024",
+"path": "ordin/finante/2024/401",
+"kind": "ordin",
+"year": "2024",
+"number": "401",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 401/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2024",
+"short": "Ordin finante nr. 401/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279552",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-410-2024",
 "path": "ordin/finante/2024/410",
 "kind": "ordin",
@@ -14984,6 +16477,25 @@
 "alias": "ordin-cultura-2707-2024"
 }
 ]
+},
+{
+"slug": "ordin-finante-463-2024",
+"path": "ordin/finante/2024/463",
+"kind": "ordin",
+"year": "2024",
+"number": "463",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 463/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada martie-aprilie 2024",
+"short": "Ordin finante nr. 463/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-12",
+"latest": "2024-03-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279923",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-470-2024",
@@ -15089,6 +16601,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-538-2024",
+"path": "ordin/finante/2024/538",
+"kind": "ordin",
+"year": "2024",
+"number": "538",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 538/2024 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 538/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-09",
+"latest": "2024-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281515",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-581-2024",
 "path": "ordin/finante/2024/581",
 "kind": "ordin",
@@ -15104,6 +16635,25 @@
 "from": "2024-03-25",
 "latest": "2024-03-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280468",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-613-2024",
+"path": "ordin/finante/2024/613",
+"kind": "ordin",
+"year": "2024",
+"number": "613",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 613/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2024",
+"short": "Ordin finante nr. 613/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280612",
 "issuer": "finante",
 "joint": []
 },
@@ -15194,6 +16744,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-650-2024",
+"path": "ordin/finante/2024/650",
+"kind": "ordin",
+"year": "2024",
+"number": "650",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 650/2024 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 8 aprilie-17 aprilie 2024, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 650/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280752",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-676-2024",
 "path": "ordin/finante/2024/676",
 "kind": "ordin",
@@ -15245,6 +16814,25 @@
 "alias": "ordin-prognoza-314-2024"
 }
 ]
+},
+{
+"slug": "ordin-finante-691-2024",
+"path": "ordin/finante/2024/691",
+"kind": "ordin",
+"year": "2024",
+"number": "691",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 691/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada aprilie-mai 2024",
+"short": "Ordin finante nr. 691/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-12",
+"latest": "2024-04-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281681",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-699-2024",
@@ -15323,6 +16911,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-813-2024",
+"path": "ordin/finante/2024/813",
+"kind": "ordin",
+"year": "2024",
+"number": "813",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 813/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2024",
+"short": "Ordin finante nr. 813/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282410",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-824-2024",
 "path": "ordin/finante/2024/824",
 "kind": "ordin",
@@ -15338,6 +16945,44 @@
 "from": "2024-05-10",
 "latest": "2024-05-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282577",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-854-2024",
+"path": "ordin/finante/2024/854",
+"kind": "ordin",
+"year": "2024",
+"number": "854",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 854/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada mai-iunie 2024",
+"short": "Ordin finante nr. 854/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-10",
+"latest": "2024-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282580",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-918-2024",
+"path": "ordin/finante/2024/918",
+"kind": "ordin",
+"year": "2024",
+"number": "918",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 918/2024 privind aprobarea contractării de către Ministerul Finanțelor a operațiunii de răscumpărare anticipată a unor serii de obligațiuni denominate în euro scadente în data de 28 octombrie 2024 și în data de 29 octombrie 2025 și de preschimbare a acestora sau a unei părți din acestea cu obligațiuni noi sau o parte din acestea și contractarea unor împrumuturi pe piețele externe de capital în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", în sumă totală de până la 3,5 miliarde euro și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 918/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283092",
 "issuer": "finante",
 "joint": []
 },
@@ -15418,6 +17063,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-976-2024",
+"path": "ordin/finante/2024/976",
+"kind": "ordin",
+"year": "2024",
+"number": "976",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 976/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2024",
+"short": "Ordin finante nr. 976/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-31",
+"latest": "2024-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283440",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-981-2024",
 "path": "ordin/finante/2024/981",
 "kind": "ordin",
@@ -15452,6 +17116,25 @@
 "from": "2024-06-13",
 "latest": "2024-06-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284013",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1005-2024",
+"path": "ordin/finante/2024/1005",
+"kind": "ordin",
+"year": "2024",
+"number": "1005",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.005/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada iunie-iulie 2024",
+"short": "Ordin finante nr. 1005/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-07",
+"latest": "2024-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283834",
 "issuer": "finante",
 "joint": []
 },
@@ -15576,6 +17259,25 @@
 "from": "2024-07-12",
 "latest": "2024-07-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285358",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-3091-2024",
+"path": "ordin/finante/2024/3091",
+"kind": "ordin",
+"year": "2024",
+"number": "3091",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.091/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada iulie-august 2024",
+"short": "Ordin finante nr. 3091/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-05",
+"latest": "2024-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/285110",
 "issuer": "finante",
 "joint": []
 },
@@ -15732,6 +17434,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-4095-2024",
+"path": "ordin/finante/2024/4095",
+"kind": "ordin",
+"year": "2024",
+"number": "4095",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.095/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2024",
+"short": "Ordin finante nr. 4095/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286377",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4123-2024",
+"path": "ordin/finante/2024/4123",
+"kind": "ordin",
+"year": "2024",
+"number": "4123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.123/2024 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 8-20 august 2024, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 4123/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286588",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4146-2024",
+"path": "ordin/finante/2024/4146",
+"kind": "ordin",
+"year": "2024",
+"number": "4146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.146/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada august-septembrie 2024",
+"short": "Ordin finante nr. 4146/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286718",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-4164-2024",
 "path": "ordin/finante/2024/4164",
 "kind": "ordin",
@@ -15797,6 +17556,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-4224-2024",
+"path": "ordin/finante/2024/4224",
+"kind": "ordin",
+"year": "2024",
+"number": "4224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.224/2024 privind desemnarea membrilor Comitetului director din cadrul Comitetului interministerial pentru coordonarea politicilor și acțiunilor aferente produselor din tutun și produselor conexe",
+"short": "Ordin finante nr. 4224/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-12",
+"latest": "2024-09-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288312",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-4232-2024",
 "path": "ordin/finante/2024/4232",
 "kind": "ordin",
@@ -15831,6 +17609,44 @@
 "from": "2024-09-09",
 "latest": "2024-09-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288177",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4295-2024",
+"path": "ordin/finante/2024/4295",
+"kind": "ordin",
+"year": "2024",
+"number": "4295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.295/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2024",
+"short": "Ordin finante nr. 4295/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287866",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4530-2024",
+"path": "ordin/finante/2024/4530",
+"kind": "ordin",
+"year": "2024",
+"number": "4530",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.530/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada septembrie-octombrie 2024",
+"short": "Ordin finante nr. 4530/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288139",
 "issuer": "finante",
 "joint": []
 },
@@ -15946,6 +17762,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-5910-2024",
+"path": "ordin/finante/2024/5910",
+"kind": "ordin",
+"year": "2024",
+"number": "5910",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.910/2024 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 5 miliarde euro sau echivalent în altă valută, prin lansarea a două serii noi de obligațiuni denominate în euro cu maturitatea de 7 ani și 20 de ani și a unei serii denominate în dolari americani cu maturitatea de 10 ani sau mai mult, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 5910/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288705",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-6098-2024",
 "path": "ordin/finante/2024/6098",
 "kind": "ordin",
@@ -15961,6 +17796,25 @@
 "from": "2024-09-26",
 "latest": "2024-09-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288887",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-6191-2024",
+"path": "ordin/finante/2024/6191",
+"kind": "ordin",
+"year": "2024",
+"number": "6191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.191/2024 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 2-11 octombrie 2024, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 6191/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-27",
+"latest": "2024-09-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288936",
 "issuer": "finante",
 "joint": []
 },
@@ -16049,6 +17903,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-6243-2024",
+"path": "ordin/finante/2024/6243",
+"kind": "ordin",
+"year": "2024",
+"number": "6243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.243/2024 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piața internă de capital a Japoniei, în sumă totală de până la 33 miliarde yeni japonezi, prin lansarea a trei serii noi de obligațiuni denominate în yeni japonezi cu maturitatea de 3 ani, maturitatea de 5 ani și maturitatea de 7 ani și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 6243/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-03",
+"latest": "2024-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289130",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-6244-2024",
+"path": "ordin/finante/2024/6244",
+"kind": "ordin",
+"year": "2024",
+"number": "6244",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.244/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada octombrie-noiembrie 2024",
+"short": "Ordin finante nr. 6244/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289173",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-6245-2024",
 "path": "ordin/finante/2024/6245",
 "kind": "ordin",
@@ -16104,6 +17996,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289983",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-6360-2024",
+"path": "ordin/finante/2024/6360",
+"kind": "ordin",
+"year": "2024",
+"number": "6360",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.360/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății Comerciale \"RO-ARMYSECURITY\" - S.A., filială a Companiei Naționale \"ROMTEHNICA\" - S.A.",
+"short": "Ordin finante nr. 6360/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289974",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2080",
+"date": "2024-09-05",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2080-2024"
+}
+]
 },
 {
 "slug": "ordin-finante-6392-2024",
@@ -16220,6 +18139,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-6573-2024",
+"path": "ordin/finante/2024/6573",
+"kind": "ordin",
+"year": "2024",
+"number": "6573",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.573/2024 pentru modificarea Ordinului ministrului finanțelor nr. 6.439/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2024",
+"short": "Ordin finante nr. 6573/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291343",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-6574-2024",
+"path": "ordin/finante/2024/6574",
+"kind": "ordin",
+"year": "2024",
+"number": "6574",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.574/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat cu cupon denominate în euro aferente lunii noiembrie 2024",
+"short": "Ordin finante nr. 6574/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291389",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-6581-2024",
 "path": "ordin/finante/2024/6581",
 "kind": "ordin",
@@ -16254,6 +18211,63 @@
 "from": "2024-12-12",
 "latest": "2024-12-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292229",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-6610-2024",
+"path": "ordin/finante/2024/6610",
+"kind": "ordin",
+"year": "2024",
+"number": "6610",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.610/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2024",
+"short": "Ordin finante nr. 6610/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291785",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-6636-2024",
+"path": "ordin/finante/2024/6636",
+"kind": "ordin",
+"year": "2024",
+"number": "6636",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.636/2024 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada decembrie 2024-ianuarie 2025",
+"short": "Ordin finante nr. 6636/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-06",
+"latest": "2024-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292083",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-6637-2024",
+"path": "ordin/finante/2024/6637",
+"kind": "ordin",
+"year": "2024",
+"number": "6637",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.637/2024 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 9-18 decembrie 2024, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 6637/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292058",
 "issuer": "finante",
 "joint": []
 },
@@ -16410,6 +18424,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-6826-2024",
+"path": "ordin/finante/2024/6826",
+"kind": "ordin",
+"year": "2024",
+"number": "6826",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.826/2024 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2025",
+"short": "Ordin finante nr. 6826/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293137",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-6830-2024",
 "path": "ordin/finante/2024/6830",
 "kind": "ordin",
@@ -16473,6 +18506,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278352",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-169-2024",
+"path": "ordin/fonduri/2024/169",
+"kind": "ordin",
+"year": "2024",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 169/2024 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 806/1.316/2022 privind înființarea Comitetului de investiții pentru Fondul de fonduri de capital de risc pentru redresare din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 169/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278903",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "207",
+"date": "2024-02-01",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-207-2024"
+}
+]
 },
 {
 "slug": "ordin-fonduri-372-2024",
@@ -16662,6 +18722,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280526",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-994-2024",
+"path": "ordin/fonduri/2024/994",
+"kind": "ordin",
+"year": "2024",
+"number": "994",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 994/2024 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 1.789/1.784/2022 privind înființarea Comitetului de investiții pentru Fondul de Fonduri pentru digitalizare, acțiune climatică și alte domenii de interes, finanțat din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 994/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282935",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "823",
+"date": "2024-05-07",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-823-2024"
+}
+]
 },
 {
 "slug": "ordin-fonduri-1978-2024",
@@ -18938,6 +21025,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-536-2024",
+"path": "ordin/mediu/2024/536",
+"kind": "ordin",
+"year": "2024",
+"number": "536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 536/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+"short": "Ordin mediu nr. 536/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280729",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "752",
+"date": "2024-03-14",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-752-2024"
+},
+{
+"issuer": "finante",
+"nr": "607",
+"date": "2024-03-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-607-2024"
+}
+]
+},
+{
 "slug": "ordin-mediu-595-2024",
 "path": "ordin/mediu/2024/595",
 "kind": "ordin",
@@ -19221,6 +21342,67 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282681",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-1080-2024",
+"path": "ordin/mediu/2024/1080",
+"kind": "ordin",
+"year": "2024",
+"number": "1080",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.080/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Direcției de creștere, exploatare și ameliorare a cabalinelor, unitate cu personalitate juridică a Regiei Naționale a Pădurilor - Romsilva prevăzută la pct. 24 din anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1080/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-09",
+"latest": "2024-07-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/285228",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3098",
+"date": "2024-07-04",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3098-2024"
+}
+]
+},
+{
+"slug": "ordin-mediu-1081-2024",
+"path": "ordin/mediu/2024/1081",
+"kind": "ordin",
+"year": "2024",
+"number": "1081",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.081/2024 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2024 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva prevăzute la pct. 1-23 din anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1081/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/285287",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1053",
+"date": "2024-05-22",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1053-2024"
+},
+{
+"issuer": "finante",
+"nr": "3097",
+"date": "2024-07-04",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3097-2024"
+}
+]
 },
 {
 "slug": "ordin-mediu-1089-2024",
@@ -19856,6 +22038,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288382",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-2032-2024",
+"path": "ordin/mediu/2024/2032",
+"kind": "ordin",
+"year": "2024",
+"number": "2032",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.032/2024 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+"short": "Ordin mediu nr. 2032/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290076",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "3033",
+"date": "2024-09-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3033-2024"
+},
+{
+"issuer": "finante",
+"nr": "6383",
+"date": "2024-10-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6383-2024"
+}
+]
 },
 {
 "slug": "ordin-mediu-2038-2024",
@@ -20563,6 +22779,25 @@
 ]
 },
 {
+"slug": "ordin-munca-638-2024",
+"path": "ordin/munca/2024/638",
+"kind": "ordin",
+"year": "2024",
+"number": "638",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 638/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Solidarității Sociale",
+"short": "Ordin munca nr. 638/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280595",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-668-2024",
 "path": "ordin/munca/2024/668",
 "kind": "ordin",
@@ -20580,6 +22815,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279941",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "ordin-munca-792-2024",
+"path": "ordin/munca/2024/792",
+"kind": "ordin",
+"year": "2024",
+"number": "792",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 792/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+"short": "Ordin munca nr. 792/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-16",
+"latest": "2024-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281834",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "finante",
+"nr": "648",
+"date": "2024-04-02",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-648-2024"
+}
+]
 },
 {
 "slug": "ordin-munca-820-2024",
@@ -20850,6 +23112,25 @@
 ]
 },
 {
+"slug": "ordin-munca-2462-2024",
+"path": "ordin/munca/2024/2462",
+"kind": "ordin",
+"year": "2024",
+"number": "2462",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.462/2024 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2024 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Solidarității Sociale",
+"short": "Ordin munca nr. 2462/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289327",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-2489-2024",
 "path": "ordin/munca/2024/2489",
 "kind": "ordin",
@@ -21083,6 +23364,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2-2024",
+"path": "ordin/sanatate/2024/2",
+"kind": "ordin",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2/2024 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/ comercializate exclusiv de farmaciile comunitare/ oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278041",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3-2024",
 "path": "ordin/sanatate/2024/3",
 "kind": "ordin",
@@ -21305,6 +23605,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-473-2024",
+"path": "ordin/sanatate/2024/473",
+"kind": "ordin",
+"year": "2024",
+"number": "473",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 473/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 473/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-01",
+"latest": "2024-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278547",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-482-2024",
 "path": "ordin/sanatate/2024/482",
 "kind": "ordin",
@@ -21500,6 +23819,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1189-2024",
+"path": "ordin/sanatate/2024/1189",
+"kind": "ordin",
+"year": "2024",
+"number": "1189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.189/2024 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1189/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279530",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1218-2024",
 "path": "ordin/sanatate/2024/1218",
 "kind": "ordin",
@@ -21572,6 +23910,25 @@
 "from": "2024-03-08",
 "latest": "2024-03-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279695",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1265-2024",
+"path": "ordin/sanatate/2024/1265",
+"kind": "ordin",
+"year": "2024",
+"number": "1265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.265/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1265/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279575",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21874,6 +24231,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1573-2024",
+"path": "ordin/sanatate/2024/1573",
+"kind": "ordin",
+"year": "2024",
+"number": "1573",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.573/2024 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1573/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280659",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1574-2024",
 "path": "ordin/sanatate/2024/1574",
 "kind": "ordin",
@@ -21908,6 +24284,25 @@
 "from": "2024-04-11",
 "latest": "2024-04-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/281652",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1621-2024",
+"path": "ordin/sanatate/2024/1621",
+"kind": "ordin",
+"year": "2024",
+"number": "1621",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.621/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1621/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280650",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22030,6 +24425,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1786-2024",
+"path": "ordin/sanatate/2024/1786",
+"kind": "ordin",
+"year": "2024",
+"number": "1786",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.786/2024 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1786/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281645",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1908-2024",
 "path": "ordin/sanatate/2024/1908",
 "kind": "ordin",
@@ -22072,6 +24486,25 @@
 "from": "2024-04-18",
 "latest": "2024-04-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/281902",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2242-2024",
+"path": "ordin/sanatate/2024/2242",
+"kind": "ordin",
+"year": "2024",
+"number": "2242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.242/2024 pentru modificarea Ordinului ministrului sănătății nr. 1.244/2020 privind aprobarea Regulamentului pentru tratamentul intervențional al pacienților cu infarct miocardic acut și aprobarea Regulamentului pentru tratamentul urgențelor de chirurgie vasculară și urgențelor de chirurgie cardiovasculară în municipiul București",
+"short": "Ordin sanatate nr. 2242/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-17",
+"latest": "2024-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281869",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22133,6 +24566,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2379-2024",
+"path": "ordin/sanatate/2024/2379",
+"kind": "ordin",
+"year": "2024",
+"number": "2379",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.379/2024 privind modificarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2379/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282271",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2402-2024",
 "path": "ordin/sanatate/2024/2402",
 "kind": "ordin",
@@ -22158,6 +24610,25 @@
 "alias": "ordin-cnas-523-2024"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2434-2024",
+"path": "ordin/sanatate/2024/2434",
+"kind": "ordin",
+"year": "2024",
+"number": "2434",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.434/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2434/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282404",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-2447-2024",
@@ -22233,6 +24704,44 @@
 ]
 },
 {
+"slug": "ordin-sanatate-2524-2024",
+"path": "ordin/sanatate/2024/2524",
+"kind": "ordin",
+"year": "2024",
+"number": "2524",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.524/2024 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/ comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2524/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-15",
+"latest": "2024-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282721",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2526-2024",
+"path": "ordin/sanatate/2024/2526",
+"kind": "ordin",
+"year": "2024",
+"number": "2526",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.526/2024 privind aprobarea detalierii pe județe și pentru municipiul București a numărului total de paturi din unitățile sanitare publice și private pentru care casele de asigurări de sănătate pot încheia contracte de furnizare de servicii medicale spitalicești, în regim de spitalizare continuă, pentru anul 2024",
+"short": "Ordin sanatate nr. 2526/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282953",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2528-2024",
 "path": "ordin/sanatate/2024/2528",
 "kind": "ordin",
@@ -22279,6 +24788,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-2640-2024",
+"path": "ordin/sanatate/2024/2640",
+"kind": "ordin",
+"year": "2024",
+"number": "2640",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.640/2024 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2640/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-23",
+"latest": "2024-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283179",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2680-2024",
 "path": "ordin/sanatate/2024/2680",
 "kind": "ordin",
@@ -22313,6 +24841,25 @@
 "from": "2024-05-24",
 "latest": "2024-05-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283241",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2722-2024",
+"path": "ordin/sanatate/2024/2722",
+"kind": "ordin",
+"year": "2024",
+"number": "2722",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.722/2024 privind modificarea și completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 2722/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-28",
+"latest": "2024-05-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283276",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22361,6 +24908,25 @@
 "alias": "ordin-cnas-648-2024"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2892-2024",
+"path": "ordin/sanatate/2024/2892",
+"kind": "ordin",
+"year": "2024",
+"number": "2892",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.892/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2892/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-01",
+"latest": "2024-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283413",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-3023-2024",
@@ -22542,6 +25108,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3607-2024",
+"path": "ordin/sanatate/2024/3607",
+"kind": "ordin",
+"year": "2024",
+"number": "3607",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.607/2024 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3607/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-21",
+"latest": "2024-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284192",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3643-2024",
 "path": "ordin/sanatate/2024/3643",
 "kind": "ordin",
@@ -22593,6 +25178,25 @@
 "alias": "ordin-dezvoltare-2750-2024"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-3676-2024",
+"path": "ordin/sanatate/2024/3676",
+"kind": "ordin",
+"year": "2024",
+"number": "3676",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.676/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3676/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284644",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-3686-2024",
@@ -22767,6 +25371,25 @@
 "from": "2024-07-03",
 "latest": "2024-07-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284820",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3764-2024",
+"path": "ordin/sanatate/2024/3764",
+"kind": "ordin",
+"year": "2024",
+"number": "3764",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.764/2024 pentru modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 3764/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284839",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22977,6 +25600,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3970-2024",
+"path": "ordin/sanatate/2024/3970",
+"kind": "ordin",
+"year": "2024",
+"number": "3970",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.970/2024 pentru modificarea alin. (1) al art. 1 din Ordinul ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+"short": "Ordin sanatate nr. 3970/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286398",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3991-2024",
 "path": "ordin/sanatate/2024/3991",
 "kind": "ordin",
@@ -23034,6 +25676,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-4022-2024",
+"path": "ordin/sanatate/2024/4022",
+"kind": "ordin",
+"year": "2024",
+"number": "4022",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.022/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4022/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286496",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-4040-2024",
+"path": "ordin/sanatate/2024/4040",
+"kind": "ordin",
+"year": "2024",
+"number": "4040",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.040/2024 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4040/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286441",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-4052-2024",
 "path": "ordin/sanatate/2024/4052",
 "kind": "ordin",
@@ -23049,6 +25729,25 @@
 "from": "2024-08-22",
 "latest": "2024-08-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/287627",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-4060-2024",
+"path": "ordin/sanatate/2024/4060",
+"kind": "ordin",
+"year": "2024",
+"number": "4060",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.060/2024 privind modificarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 4060/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-09",
+"latest": "2024-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286769",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23091,6 +25790,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-4194-2024",
+"path": "ordin/sanatate/2024/4194",
+"kind": "ordin",
+"year": "2024",
+"number": "4194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.194/2024 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4194/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-19",
+"latest": "2024-08-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287464",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-4197-2024",
 "path": "ordin/sanatate/2024/4197",
 "kind": "ordin",
@@ -23116,6 +25834,25 @@
 "alias": "ordin-cnas-1225-2024"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-4223-2024",
+"path": "ordin/sanatate/2024/4223",
+"kind": "ordin",
+"year": "2024",
+"number": "4223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.223/2024 pentru modificarea Ordinului ministrului sănătății nr. 1.244/2020 privind aprobarea Regulamentului pentru tratamentul intervențional al pacienților cu infarct miocardic acut și aprobarea Regulamentului pentru tratamentul urgențelor de chirurgie vasculară și urgențelor de chirurgie cardiovasculară în municipiul București",
+"short": "Ordin sanatate nr. 4223/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-23",
+"latest": "2024-08-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287644",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-4276-2024",
@@ -23209,6 +25946,25 @@
 "from": "2024-08-30",
 "latest": "2024-08-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/287847",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-4395-2024",
+"path": "ordin/sanatate/2024/4395",
+"kind": "ordin",
+"year": "2024",
+"number": "4395",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.395/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4395/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-02",
+"latest": "2024-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287907",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23338,6 +26094,25 @@
 "alias": "ordin-cnas-1301-2024"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-4430-2024",
+"path": "ordin/sanatate/2024/4430",
+"kind": "ordin",
+"year": "2024",
+"number": "4430",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.430/2024 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4430/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287955",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-4498-2024",
@@ -23532,6 +26307,63 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-4686-2024",
+"path": "ordin/sanatate/2024/4686",
+"kind": "ordin",
+"year": "2024",
+"number": "4686",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.686/2024 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 4686/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288953",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-4687-2024",
+"path": "ordin/sanatate/2024/4687",
+"kind": "ordin",
+"year": "2024",
+"number": "4687",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.687/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4687/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288972",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-4691-2024",
+"path": "ordin/sanatate/2024/4691",
+"kind": "ordin",
+"year": "2024",
+"number": "4691",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.691/2024 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 4691/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288989",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-4772-2024",
 "path": "ordin/sanatate/2024/4772",
 "kind": "ordin",
@@ -23681,6 +26513,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-5134-2024",
+"path": "ordin/sanatate/2024/5134",
+"kind": "ordin",
+"year": "2024",
+"number": "5134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.134/2024 privind modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 5134/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289715",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-5182-2024",
 "path": "ordin/sanatate/2024/5182",
 "kind": "ordin",
@@ -23768,6 +26619,44 @@
 "from": "2024-10-28",
 "latest": "2024-10-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/290045",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-5335-2024",
+"path": "ordin/sanatate/2024/5335",
+"kind": "ordin",
+"year": "2024",
+"number": "5335",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.335/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 5335/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290087",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-5504-2024",
+"path": "ordin/sanatate/2024/5504",
+"kind": "ordin",
+"year": "2024",
+"number": "5504",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.504/2024 pentru modificarea Ordinului ministrului sănătății nr. 1.215/2013 privind aprobarea constituirii Consiliului Național pentru Bolile Rare",
+"short": "Ordin sanatate nr. 5504/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290577",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24012,6 +26901,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-5614-2024",
+"path": "ordin/sanatate/2024/5614",
+"kind": "ordin",
+"year": "2024",
+"number": "5614",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.614/2024 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 5614/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291191",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-5716-2024",
 "path": "ordin/sanatate/2024/5716",
 "kind": "ordin",
@@ -24073,6 +26981,25 @@
 "from": "2024-12-03",
 "latest": "2024-12-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/291978",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-5769-2024",
+"path": "ordin/sanatate/2024/5769",
+"kind": "ordin",
+"year": "2024",
+"number": "5769",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.769/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 5769/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291968",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24325,6 +27252,63 @@
 "from": "2024-12-20",
 "latest": "2024-12-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292788",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-5962-2024",
+"path": "ordin/sanatate/2024/5962",
+"kind": "ordin",
+"year": "2024",
+"number": "5962",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.962/2024 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 5962/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292379",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-5986-2024",
+"path": "ordin/sanatate/2024/5986",
+"kind": "ordin",
+"year": "2024",
+"number": "5986",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.986/2024 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 5986/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292399",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-5994-2024",
+"path": "ordin/sanatate/2024/5994",
+"kind": "ordin",
+"year": "2024",
+"number": "5994",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 5994/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292728",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24941,6 +27925,40 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-743-2024",
+"path": "ordin/transporturi/2024/743",
+"kind": "ordin",
+"year": "2024",
+"number": "743",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 743/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății \"Grup Exploatare și Întreținere Palat C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 743/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282361",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "774",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-774-2024"
+},
+{
+"issuer": "munca",
+"nr": "784",
+"date": "2024-03-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-784-2024"
+}
+]
+},
+{
 "slug": "ordin-transporturi-755-2024",
 "path": "ordin/transporturi/2024/755",
 "kind": "ordin",
@@ -24996,6 +28014,67 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280051",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-815-2024",
+"path": "ordin/transporturi/2024/815",
+"kind": "ordin",
+"year": "2024",
+"number": "815",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 815/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății \"ROFERSPED\" - S.A.",
+"short": "Ordin transporturi nr. 815/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282442",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "775",
+"date": "2024-04-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-775-2024"
+},
+{
+"issuer": "munca",
+"nr": "823",
+"date": "2024-03-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-823-2024"
+}
+]
+},
+{
+"slug": "ordin-transporturi-859-2024",
+"path": "ordin/transporturi/2024/859",
+"kind": "ordin",
+"year": "2024",
+"number": "859",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 859/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2024 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+"short": "Ordin transporturi nr. 859/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282350",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "752",
+"date": "2024-04-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-752-2024"
+}
+]
 },
 {
 "slug": "ordin-transporturi-874-2024",
@@ -25262,6 +28341,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282379",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1019-2024",
+"path": "ordin/transporturi/2024/1019",
+"kind": "ordin",
+"year": "2024",
+"number": "1019",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.019/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Companiei Naționale de Investiții Rutiere - S.A., aflată sub autoritatea Ministerului Transporturilor și Infrastructurii",
+"short": "Ordin transporturi nr. 1019/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282937",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "869",
+"date": "2024-05-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-869-2024"
+},
+{
+"issuer": "munca",
+"nr": "1978",
+"date": "2024-04-26",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1978-2024"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1039-2024",
@@ -25538,6 +28651,142 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-1804-2024",
+"path": "ordin/transporturi/2024/1804",
+"kind": "ordin",
+"year": "2024",
+"number": "1804",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.804/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1804/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286394",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4065",
+"date": "2024-07-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4065-2024"
+},
+{
+"issuer": "munca",
+"nr": "1878",
+"date": "2024-07-12",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1878-2024"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1805-2024",
+"path": "ordin/transporturi/2024/1805",
+"kind": "ordin",
+"year": "2024",
+"number": "1805",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.805/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății de Reparații Locomotive \"C.F.R. - S.C.R.L. Brașov\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A.",
+"short": "Ordin transporturi nr. 1805/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287922",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4227",
+"date": "2024-08-26",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4227-2024"
+},
+{
+"issuer": "munca",
+"nr": "1920",
+"date": "2024-07-24",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1920-2024"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1814-2024",
+"path": "ordin/transporturi/2024/1814",
+"kind": "ordin",
+"year": "2024",
+"number": "1814",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.814/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății Tipografice \"Filaret\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1814/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286726",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4128",
+"date": "2024-08-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4128-2024"
+},
+{
+"issuer": "munca",
+"nr": "1902",
+"date": "2024-07-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1902-2024"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1937-2024",
+"path": "ordin/transporturi/2024/1937",
+"kind": "ordin",
+"year": "2024",
+"number": "1937",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.937/2024 ORDIN nr. 1.937/4.127/1.903/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+"short": "Ordin transporturi nr. 1937/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-12",
+"latest": "2024-08-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/286845",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4127",
+"date": "2024-08-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4127-2024"
+},
+{
+"issuer": "munca",
+"nr": "1903",
+"date": "2024-07-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1903-2024"
+}
+]
+},
+{
 "slug": "ordin-transporturi-1960-2024",
 "path": "ordin/transporturi/2024/1960",
 "kind": "ordin",
@@ -25574,6 +28823,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/285975",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-2379-2024",
+"path": "ordin/transporturi/2024/2379",
+"kind": "ordin",
+"year": "2024",
+"number": "2379",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.379/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății \"Întreținere și Reparații Locomotive și Utilaje\" - C.F.R. IRLU - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. MARFĂ\" - S.A.",
+"short": "Ordin transporturi nr. 2379/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289131",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6009",
+"date": "2024-09-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6009-2024"
+},
+{
+"issuer": "munca",
+"nr": "1937",
+"date": "2024-07-30",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1937-2024"
+}
+]
 },
 {
 "slug": "ordin-transporturi-2386-2024",
@@ -25669,6 +28952,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/286807",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-2505-2024",
+"path": "ordin/transporturi/2024/2505",
+"kind": "ordin",
+"year": "2024",
+"number": "2505",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.505/2024 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății \"Electrificare C.F.R.\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 2505/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290275",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "6430",
+"date": "2024-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-6430-2024"
+},
+{
+"issuer": "munca",
+"nr": "3159",
+"date": "2024-10-22",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-3159-2024"
+}
+]
 },
 {
 "slug": "ordin-transporturi-2506-2024",

@@ -2133,6 +2133,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1091-2000",
+   "path": "ordin/finante/2000/1091",
+   "short": "Ordin finante nr. 1091/2000",
+   "title": "Ordinul nr. 1.091/2000 privind prospectul de emisiune al certificatelor de trezorerie și obligațiunilor de stat cu dobânda, denominate în valută, seriile VAL 11 2001 USD, VAL 12 2001 USD, VAL 13 2002 USD, VAL 14 2001 USD, VAL 15 2001 USD, VAL 16 2002 USD, VAL 11 2001 DEM, VAL 12 2001 DEM, VAL 13 2002 DEM, VAL 14 2001 DEM, VAL 15 2001 DEM și VAL 16 2002 DEM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23523",
+   "versions": [
+    {
+     "from": "2000-07-27",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23523",
+     "sha256": "4141bb4f7a84f5b741b2b625c8ec0ca1baf8dfe894fe669341398b47b182fa02"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1102-2000",
    "path": "ordin/finante/2000/1102",
    "short": "Ordin finante nr. 1102/2000",
@@ -2144,6 +2159,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24224",
      "sha256": "55931f4ef083af80747ca337db4c6ca9dec019dc9878498d26f6180b972d296e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1121-2000",
+   "path": "ordin/finante/2000/1121",
+   "short": "Ordin finante nr. 1121/2000",
+   "title": "Ordinul nr. 1.121/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1032",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23606",
+   "versions": [
+    {
+     "from": "2000-08-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23606",
+     "sha256": "e3d19e237a1484e60c98e7fe1c1875d353886fadb885c4e9863c9db9ab6c48a7"
     }
    ]
   },
@@ -2163,6 +2193,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-114-2000",
+   "path": "ordin/finante/2000/114",
+   "short": "Ordin finante nr. 114/2000",
+   "title": "Ordinul nr. 114/2000 privind prospectul de emisiune al unor certificate de trezorerie cu discont, lansate în luna februarie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20687",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20687",
+     "sha256": "e90045d428484c61d760edf215f4944a9217440ba53d52cd56721564242d6c8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1148-2000",
+   "path": "ordin/finante/2000/1148",
+   "short": "Ordin finante nr. 1148/2000",
+   "title": "Ordinul nr. 1.148/2000 pentru modificarea Ordinului ministrului finanțelor nr. 1.092/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna august 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23825",
+   "versions": [
+    {
+     "from": "2000-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23825",
+     "sha256": "84c4e17353e88b45def268bab7e760203510ca794537db877f7bd4a818659db2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-117-2000",
+   "path": "ordin/finante/2000/117",
+   "short": "Ordin finante nr. 117/2000",
+   "title": "Ordinul nr. 117/2000 privind prospectul de emisiune al obligațiunilor de tezaur cu dobândă, denominate în valută, ale statului, seriile VAL 2000 PF1, VAL 2000 PF2 și VAL 2001 PF3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20677",
+   "versions": [
+    {
+     "from": "2000-01-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20677",
+     "sha256": "365908b0560fdb57df30c00cd101048e0d1825ed99ae64aef5466ebe0f5c41f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1173-2000",
    "path": "ordin/finante/2000/1173",
    "short": "Ordin finante nr. 1173/2000",
@@ -2174,6 +2249,51 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24060",
      "sha256": "4ee350396146e6261125e5bfe7cc2918b968629a8a055aba411e76ea624f7284"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1187-2000",
+   "path": "ordin/finante/2000/1187",
+   "short": "Ordin finante nr. 1187/2000",
+   "title": "Ordinul nr. 1.187/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna septembrie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24011",
+   "versions": [
+    {
+     "from": "2000-08-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24011",
+     "sha256": "d12cc833c3a4da9e04654c38b20321af72806efd8c23f60aec5a10bf77c359dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1190-2000",
+   "path": "ordin/finante/2000/1190",
+   "short": "Ordin finante nr. 1190/2000",
+   "title": "Ordinul nr. 1.190/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1033",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24053",
+   "versions": [
+    {
+     "from": "2000-09-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24053",
+     "sha256": "d75e8f0074c0f511ae1ca0c80078f5ed04ddeab07799b4b6e839ddf4e1ed2e24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1227-2000",
+   "path": "ordin/finante/2000/1227",
+   "short": "Ordin finante nr. 1227/2000",
+   "title": "Ordinul nr. 1.227/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1034",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24193",
+   "versions": [
+    {
+     "from": "2000-09-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24193",
+     "sha256": "189f1504bc876eed78a7c36a7e728e201f4b5676a339b33d6c7c120333ce2fd7"
     }
    ]
   },
@@ -2193,6 +2313,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1277-2000",
+   "path": "ordin/finante/2000/1277",
+   "short": "Ordin finante nr. 1277/2000",
+   "title": "Ordinul nr. 1.277/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1035",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24359",
+   "versions": [
+    {
+     "from": "2000-09-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24359",
+     "sha256": "55959f3c0fa8d45b37c709390ed0b77e0d020f0a1a3e090fdf40c57cd2cda97b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1291-2000",
+   "path": "ordin/finante/2000/1291",
+   "short": "Ordin finante nr. 1291/2000",
+   "title": "Ordinul nr. 1.291/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna octombrie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24393",
+   "versions": [
+    {
+     "from": "2000-09-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24393",
+     "sha256": "f3c5422b15d985bfdfdfd7528394f3eeee4bf74a00e43149817b7a76cad14057"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1312-2000",
    "path": "ordin/finante/2000/1312",
    "short": "Ordin finante nr. 1312/2000",
@@ -2204,6 +2354,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25089",
      "sha256": "1649d80a988ea2872a11b4ccc3fc8139f217ca11bb2cb062a02a33a67afbe0ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1315-2000",
+   "path": "ordin/finante/2000/1315",
+   "short": "Ordin finante nr. 1315/2000",
+   "title": "Ordinul nr. 1.315/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1036",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24466",
+   "versions": [
+    {
+     "from": "2000-10-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24466",
+     "sha256": "e8e7eb0c52d52ce780cebd63d43271deb20ff40c0bae3a640279cbfb665ab872"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1320-2000",
+   "path": "ordin/finante/2000/1320",
+   "short": "Ordin finante nr. 1320/2000",
+   "title": "Ordinul nr. 1.320/2000 privind autorizarea domnului Valentin Lazea, secretar de stat în Ministerul Finanțelor, să contracteze și să garanteze împrumuturi de stat prin lansarea de emisiuni de obligațiuni în valută pe piața externă de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24573",
+   "versions": [
+    {
+     "from": "2000-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24573",
+     "sha256": "bf123a0b1dc241bde6dec305e2c7fa11586fdfa494e2cefb0d83d2bd153936fb"
     }
    ]
   },
@@ -2249,6 +2429,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25952",
      "sha256": "c48cf8987c0536524e889f215049fe5dec3f0781b05a70d425d03c69352ef754"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1353-2000",
+   "path": "ordin/finante/2000/1353",
+   "short": "Ordin finante nr. 1353/2000",
+   "title": "Ordinul nr. 1.353/2000 pentru modificarea Ordinului ministrului finanțelor nr. 1.291/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna octombrie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24629",
+   "versions": [
+    {
+     "from": "2000-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24629",
+     "sha256": "4a4f1be01b4acf565fed547fbcd488a541c0c9db718b7ed52098d64f60b326fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1355-2000",
+   "path": "ordin/finante/2000/1355",
+   "short": "Ordin finante nr. 1355/2000",
+   "title": "Ordinul nr. 1.355/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1037",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24630",
+   "versions": [
+    {
+     "from": "2000-10-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24630",
+     "sha256": "00e51bdb62473fec73c3299bb83aa42a7e23c7d4771dd1d20106f5fae8c6f90a"
     }
    ]
   },
@@ -2313,6 +2523,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1406-2000",
+   "path": "ordin/finante/2000/1406",
+   "short": "Ordin finante nr. 1406/2000",
+   "title": "Ordinul nr. 1.406/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna noiembrie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24789",
+   "versions": [
+    {
+     "from": "2000-10-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24789",
+     "sha256": "0b19f78923d27a0d8806a889acaa79eb13eddcc965f22d6e2de3cc8fb5eac1d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1417-2000",
+   "path": "ordin/finante/2000/1417",
+   "short": "Ordin finante nr. 1417/2000",
+   "title": "Ordinul nr. 1.417/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1038",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24829",
+   "versions": [
+    {
+     "from": "2000-10-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24829",
+     "sha256": "a4d63b4805e3a38fecf8b216f83e2dd5143d3bc3fc290164daa6ffbbd4ebf52d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1427-2000",
    "path": "ordin/finante/2000/1427",
    "short": "Ordin finante nr. 1427/2000",
@@ -2373,6 +2613,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1473-2000",
+   "path": "ordin/finante/2000/1473",
+   "short": "Ordin finante nr. 1473/2000",
+   "title": "Ordinul nr. 1.473/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1039",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24975",
+   "versions": [
+    {
+     "from": "2000-11-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24975",
+     "sha256": "04b6684f8004d9b61262ab2f951317a2c99dbd2353f7f8d1fd94e1c51906d086"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1557-2000",
+   "path": "ordin/finante/2000/1557",
+   "short": "Ordin finante nr. 1557/2000",
+   "title": "Ordinul nr. 1.557/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna decembrie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25299",
+   "versions": [
+    {
+     "from": "2000-11-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25299",
+     "sha256": "7d719806c458af33f75c0c7c6815c61658f5ecf7c746bc22e3c9072e5b20b937"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1565-2000",
    "path": "ordin/finante/2000/1565",
    "short": "Ordin finante nr. 1565/2000",
@@ -2384,6 +2654,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25451",
      "sha256": "dce201615531a45aca3a29359ce292c908005d07702fd4d5b5f55df085a58fea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1567-2000",
+   "path": "ordin/finante/2000/1567",
+   "short": "Ordin finante nr. 1567/2000",
+   "title": "Ordinul nr. 1.567/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 1040",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25300",
+   "versions": [
+    {
+     "from": "2000-11-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25300",
+     "sha256": "5af30f451a82f6aedc36853a5b029048ddd35a07f9c71bceccc739051e475fad"
     }
    ]
   },
@@ -2463,6 +2748,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1673-2000",
+   "path": "ordin/finante/2000/1673",
+   "short": "Ordin finante nr. 1673/2000",
+   "title": "Ordinul nr. 1.673/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1041",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25832",
+   "versions": [
+    {
+     "from": "2000-12-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25832",
+     "sha256": "0998bae7d37a19ba5155cd6191a575fc6276b69c2ec6a3869849727b5d0e5b98"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-177-2000",
    "path": "ordin/finante/2000/177",
    "short": "Ordin finante nr. 177/2000",
@@ -2538,6 +2838,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-298-2000",
+   "path": "ordin/finante/2000/298",
+   "short": "Ordin finante nr. 298/2000",
+   "title": "Ordinul nr. 298/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna martie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21170",
+   "versions": [
+    {
+     "from": "2000-02-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21170",
+     "sha256": "0e2467b1520394362b0c67556a9bd252d1f8f2b08f753cd379084d751251ce0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-306-2000",
+   "path": "ordin/finante/2000/306",
+   "short": "Ordin finante nr. 306/2000",
+   "title": "Ordinul nr. 306/2000 pentru modificarea Ordinului ministrului finanțelor nr. 795/1999 privind constituirea Comitetului provizoriu al Camerei Auditorilor din România, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21627",
+   "versions": [
+    {
+     "from": "2000-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21627",
+     "sha256": "b2680ccb66f66dc14b96c6929102e6352130912fca76eae73bab840a63180b15"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-311-2000",
    "path": "ordin/finante/2000/311",
    "short": "Ordin finante nr. 311/2000",
@@ -2579,6 +2909,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21245",
      "sha256": "1f78f4192bc19c421997010b6d8e8be3fe7c0e071d84ee9ef1acfa0d5a44d331"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-373-2000",
+   "path": "ordin/finante/2000/373",
+   "short": "Ordin finante nr. 373/2000",
+   "title": "Ordinul nr. 373/2000 pentru modificarea Ordinului ministrului finanțelor nr. 287/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 1023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21268",
+   "versions": [
+    {
+     "from": "2000-03-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21268",
+     "sha256": "492e35829b1dbdbb680b5cb9ca9b9f98b43c35296ab38bcec7c635e01b154f18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-394-2000",
+   "path": "ordin/finante/2000/394",
+   "short": "Ordin finante nr. 394/2000",
+   "title": "Ordinul nr. 394/2000 privind prospectul de emisiune al certificatelor de trezorerie pentru populație, cod 1024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21407",
+   "versions": [
+    {
+     "from": "2000-03-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21407",
+     "sha256": "8af07d24b142f41e079dea22d47f5fb8c3568e66da72d59237e45e725cf208ed"
     }
    ]
   },
@@ -2628,6 +2988,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-420-2000",
+   "path": "ordin/finante/2000/420",
+   "short": "Ordin finante nr. 420/2000",
+   "title": "Ordinul nr. 420/2000 privind prospectul de emisiune al titlurilor de stat cu dobânda, denominate în valută, seriile VAL US1 2000, VAL US2 2001, VAL US3 2001, VAL US4 2002, VAL DM1 2000 și VAL DM2 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21453",
+   "versions": [
+    {
+     "from": "2000-03-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21453",
+     "sha256": "f9a662705687c5d16800ec228b476ffc312f7abe69bc993f2dc8671586f33525"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-454-2000",
+   "path": "ordin/finante/2000/454",
+   "short": "Ordin finante nr. 454/2000",
+   "title": "Ordinul nr. 454/2000 privind prospectul de emisiune al certificatelor de trezorerie pentru populație, cod 1025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21675",
+   "versions": [
+    {
+     "from": "2000-03-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21675",
+     "sha256": "c110fbc01fe4661055852cf7fc9bef9a7cb4c3f2d60f78a81b69e6bac68c8d4c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-460-2000",
    "path": "ordin/finante/2000/460",
    "short": "Ordin finante nr. 460/2000",
@@ -2639,6 +3029,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21825",
      "sha256": "91f0e29338194c1edce81959dec32b97e19d76b7314c984a298eff9afe7bdb6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-471-2000",
+   "path": "ordin/finante/2000/471",
+   "short": "Ordin finante nr. 471/2000",
+   "title": "Ordinul nr. 471/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna aprilie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21695",
+   "versions": [
+    {
+     "from": "2000-03-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21695",
+     "sha256": "e44abb29a234d5e51f4b41883655d34654cf9958e965d06057b4bfd6020db5be"
     }
    ]
   },
@@ -2733,6 +3138,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-522-2000",
+   "path": "ordin/finante/2000/522",
+   "short": "Ordin finante nr. 522/2000",
+   "title": "Ordinul nr. 522/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 1026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21824",
+   "versions": [
+    {
+     "from": "2000-04-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21824",
+     "sha256": "970bbeb92699fe3bb2afada9afedf08d178a3eca1c4b9a160cfe66f108ce3288"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-529-2000",
+   "path": "ordin/finante/2000/529",
+   "short": "Ordin finante nr. 529/2000",
+   "title": "Ordinul nr. 529/2000 privind prospectul de emisiune al certificatelor de trezorerie la purtător cu dobânda pentru populație, cod 1027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21795",
+   "versions": [
+    {
+     "from": "2000-04-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21795",
+     "sha256": "6fdef8f5eed5dffda9e8260b50b30686efc4268542e1b1250825e82416d22aef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-54-2000",
    "path": "ordin/finante/2000/54",
    "short": "Ordin finante nr. 54/2000",
@@ -2793,6 +3228,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-579-2000",
+   "path": "ordin/finante/2000/579",
+   "short": "Ordin finante nr. 579/2000",
+   "title": "Ordinul nr. 579/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 1028",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22046",
+   "versions": [
+    {
+     "from": "2000-04-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22046",
+     "sha256": "431eddb7f12921d1c0a0655cb60682707c928fc9b163537d579238ca64c06689"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-595-2000",
+   "path": "ordin/finante/2000/595",
+   "short": "Ordin finante nr. 595/2000",
+   "title": "Ordinul nr. 595/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont, lansate în luna mai 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22064",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22064",
+     "sha256": "d3744701830d47979fc4c5dc8ab2fd2438552603548217e01212aaeffc82514e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-616-2000",
    "path": "ordin/finante/2000/616",
    "short": "Ordin finante nr. 616/2000",
@@ -2804,6 +3269,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22954",
      "sha256": "5b3bd7c41b39ccea6d60fe153e4013daa606b5d5a4da0d2fba53ff6588de56b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-627-2000",
+   "path": "ordin/finante/2000/627",
+   "short": "Ordin finante nr. 627/2000",
+   "title": "Ordinul nr. 627/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 1029",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22241",
+   "versions": [
+    {
+     "from": "2000-05-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22241",
+     "sha256": "67b7d28e555ba852e8b6414590559135af7dc075d3a45773f415f99219aa4a2a"
     }
    ]
   },
@@ -2943,6 +3423,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-716-2000",
+   "path": "ordin/finante/2000/716",
+   "short": "Ordin finante nr. 716/2000",
+   "title": "Ordinul nr. 716/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna iunie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22484",
+   "versions": [
+    {
+     "from": "2000-05-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22484",
+     "sha256": "df887102ecda35cc070fb6ce6869698e35ce97e7c9e4daf9eb58e97138f2dddf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-720-2000",
    "path": "ordin/finante/2000/720",
    "short": "Ordin finante nr. 720/2000",
@@ -2988,6 +3483,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-74-2000",
+   "path": "ordin/finante/2000/74",
+   "short": "Ordin finante nr. 74/2000",
+   "title": "Ordinul nr. 74/2000 privind prospectul de emisiune al unor certificate de trezorerie cu discont lansate în luna ianuarie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20642",
+   "versions": [
+    {
+     "from": "2000-01-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20642",
+     "sha256": "098f1a9713c34b2532400dceaf265c2154c8d4210f3dc83d80b5dfa3ea93f17b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-754-2000",
+   "path": "ordin/finante/2000/754",
+   "short": "Ordin finante nr. 754/2000",
+   "title": "Ordinul nr. 754/2000 privind prospectul de emisiune al obligațiunilor de tezaur cu dobândă denominate în valută ale statului, seriile VAL 2000 PF4-USD1/DEM1, VAL 2001 PF4-USD2/DEM2, VAL 2001 PF5-USD3/DEM3 și VAL 2001 PF5-USD4/DEM4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22542",
+   "versions": [
+    {
+     "from": "2000-05-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22542",
+     "sha256": "c48730c1bd643172f8b1e6e2c510f95ad21d98aaf521b71f7cdc900fdd236c2d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-767-2000",
    "path": "ordin/finante/2000/767",
    "short": "Ordin finante nr. 767/2000",
@@ -2999,6 +3524,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23064",
      "sha256": "4c0cb30e64584b4425cf1f21448aaed0104d88e5acd16ea5f9493634b9024738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-770-2000",
+   "path": "ordin/finante/2000/770",
+   "short": "Ordin finante nr. 770/2000",
+   "title": "Ordinul nr. 770/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 1030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22613",
+   "versions": [
+    {
+     "from": "2000-06-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22613",
+     "sha256": "2fd4a7d15db00dac33a5d2ac79190e0364cfc8e6757e2d0c0c0b26dc8e5062a0"
     }
    ]
   },
@@ -3029,6 +3569,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23696",
      "sha256": "3f636ee1bb9faef7298259c3111fea094ed334ffe64995aac310db788430b4e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-837-2000",
+   "path": "ordin/finante/2000/837",
+   "short": "Ordin finante nr. 837/2000",
+   "title": "Ordinul nr. 837/2000 pentru modificarea Ordinului ministrului finanțelor nr. 795/1999 privind constituirea Comitetului provizoriu al Camerei Auditorilor din România, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22886",
+   "versions": [
+    {
+     "from": "2000-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22886",
+     "sha256": "5ad32cfe6148629a2f06d7091f40d4fbdc4f9d9dea3858f0f5c64844ea9f10ad"
     }
    ]
   },
@@ -3078,6 +3633,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-949-2000",
+   "path": "ordin/finante/2000/949",
+   "short": "Ordin finante nr. 949/2000",
+   "title": "Ordinul nr. 949/2000 privind prospectul de emisiune al certificatelor de trezorerie cu discont lansate în luna iulie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23091",
+   "versions": [
+    {
+     "from": "2000-06-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23091",
+     "sha256": "21f8bc298bd159b74504a216c6a9d30e7e0fd7ef2dbaedb59a9fccb7c9aa82b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-950-2000",
+   "path": "ordin/finante/2000/950",
+   "short": "Ordin finante nr. 950/2000",
+   "title": "Ordinul nr. 950/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație cod 1031",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23117",
+   "versions": [
+    {
+     "from": "2000-07-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23117",
+     "sha256": "6266a278dbed7f45f1fcacc033301e08dc1c67f5e84544174c8f8480f8f2531f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-977-2000",
    "path": "ordin/finante/2000/977",
    "short": "Ordin finante nr. 977/2000",
@@ -3089,6 +3674,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23756",
      "sha256": "5752d0b0de7ce96e4707a35dd8d3a25faf4694d11c315acc06092869000ec4ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-98-2000",
+   "path": "ordin/finante/2000/98",
+   "short": "Ordin finante nr. 98/2000",
+   "title": "Ordinul nr. 98/2000 privind prospectul de emisiune al certificatelor de trezorerie cu dobânda pentru populație, cod 1022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20646",
+   "versions": [
+    {
+     "from": "2000-01-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20646",
+     "sha256": "5bb70e2b6faf9e352fb9c54307d97e46831f2e9d207455492f8726821675bf7f"
     }
    ]
   },

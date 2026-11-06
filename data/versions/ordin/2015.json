@@ -2493,6 +2493,36 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1091-2015",
+   "path": "ordin/ancpi/2015/1091",
+   "short": "Ordin ancpi nr. 1091/2015",
+   "title": "Ordinul nr. 1.091/2015 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Vâlcănești, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173227",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173227",
+     "sha256": "f324364f261309de4dad9d3f4e35f2da87358c28a62e1a94a3f0e1247f97a1b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1168-2015",
+   "path": "ordin/ancpi/2015/1168",
+   "short": "Ordin ancpi nr. 1168/2015",
+   "title": "Ordinul nr. 1.168/2015 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Șotânga, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172364",
+   "versions": [
+    {
+     "from": "2015-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172364",
+     "sha256": "69e8ff3b45762c7c77874f6362c02bd316afbedba36c5dfb772bf7e57320937c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1340-2015",
    "path": "ordin/ancpi/2015/1340",
    "short": "Ordin ancpi nr. 1340/2015",
@@ -2523,6 +2553,36 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-318-2015",
+   "path": "ordin/ancpi/2015/318",
+   "short": "Ordin ancpi nr. 318/2015",
+   "title": "Ordinul nr. 318/2015 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Timișoara, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166470",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166470",
+     "sha256": "2d8dea9647f965b427aeefa7d68d2de3f0376fa2f42ff4bd0e7b054ec3d1b05a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-319-2015",
+   "path": "ordin/ancpi/2015/319",
+   "short": "Ordin ancpi nr. 319/2015",
+   "title": "Ordinul nr. 319/2015 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Gârbovi, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166471",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166471",
+     "sha256": "c1afd05981721c86982fd8d69a891530bdc95ee14967a994e8093720e9c67723"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-890-2015",
    "path": "ordin/ancpi/2015/890",
    "short": "Ordin ancpi nr. 890/2015",
@@ -2534,6 +2594,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171012",
      "sha256": "daa8631d42df5ec646c16d3d1007be2e0b73c75037d0044f3ce6e71407df5bb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-906-2015",
+   "path": "ordin/ancpi/2015/906",
+   "short": "Ordin ancpi nr. 906/2015",
+   "title": "Ordinul nr. 906/2015 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Telciu, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171381",
+   "versions": [
+    {
+     "from": "2015-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171381",
+     "sha256": "29a00fdace14d7756480dabc542613f0c865ae67b4e1a9625be3baf020f21d5a"
     }
    ]
   },
@@ -6243,6 +6318,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-460-2015",
+   "path": "ordin/comunicatii/2015/460",
+   "short": "Ordin comunicatii nr. 460/2015",
+   "title": "Ordinul nr. 460/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Comerciale \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172156",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172156",
+     "sha256": "a18c1e328642bf2d3b2a192d2fd29619e377e48e1b80ccedaf799937ffcf5178"
+    }
+   ]
+  },
+  {
    "slug": "ordin-conas-129-2015",
    "path": "ordin/conas/2015/129",
    "short": "Ordin conas nr. 129/2015",
@@ -6588,6 +6678,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-159-2015",
+   "path": "ordin/dezvoltare/2015/159",
+   "short": "Ordin dezvoltare nr. 159/2015",
+   "title": "Ordinul nr. 159/2015 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2015, pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164788",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164788",
+     "sha256": "c60ff7bdd1645e2fed373b4613256e90f3dc682467397901d1c13f3b1c8d764b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-164-2015",
    "path": "ordin/dezvoltare/2015/164",
    "short": "Ordin dezvoltare nr. 164/2015",
@@ -6768,6 +6873,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-476-2015",
+   "path": "ordin/dezvoltare/2015/476",
+   "short": "Ordin dezvoltare nr. 476/2015",
+   "title": "Ordinul nr. 476/2015 pentru modificarea anexei la Ordinul ministrului dezvoltării regionale și administrației publice și al ministrului finanțelor publice nr. 159/38/2015 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2015, pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170514",
+   "versions": [
+    {
+     "from": "2015-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170514",
+     "sha256": "0e6c50c5e5dd45a1220ccc111a03a67826bf04a2129eb71fa8bc227aeffeb9e6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-481-2015",
    "path": "ordin/dezvoltare/2015/481",
    "short": "Ordin dezvoltare nr. 481/2015",
@@ -6884,6 +7004,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167961",
      "sha256": "77c3a981cac5cfc592220c3dd69e4acce6429b8f5cfc3d9e3162ccbaf57edc0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-761-2015",
+   "path": "ordin/dezvoltare/2015/761",
+   "short": "Ordin dezvoltare nr. 761/2015",
+   "title": "Ordinul nr. 761/2015 pentru modificarea art. 1 alin. (1) lit. e) din Ordinul viceprim-ministrului, ministrul administrației și internelor, și al ministrului finanțelor publice nr. 7/433/2009 privind constituirea Comitetului pentru finanțe publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167473",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167473",
+     "sha256": "29f37b4e6e3f2748ecca1cab0981a6152b22c82847f2c5c758e39145bb307edc"
     }
    ]
   },
@@ -7068,6 +7203,66 @@
    ]
   },
   {
+   "slug": "ordin-economie-1032-2015",
+   "path": "ordin/economie/2015/1032",
+   "short": "Ordin economie nr. 1032/2015",
+   "title": "Ordinul nr. 1.032/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea ICEMENERG SERVICE - S.A. - filiala Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172075",
+   "versions": [
+    {
+     "from": "2015-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172075",
+     "sha256": "f4aff63bd9b28823959c71355308d54f3e54c5c83fe33ce1b90bd2cc13f1d761"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1033-2015",
+   "path": "ordin/economie/2015/1033",
+   "short": "Ordin economie nr. 1033/2015",
+   "title": "Ordinul nr. 1.033/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Comercială ENERGONUCLEAR - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171538",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171538",
+     "sha256": "421e36e34acc9a407519099625e884a7a89c6f7101e434b41adc4cc216bf4994"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1034-2015",
+   "path": "ordin/economie/2015/1034",
+   "short": "Ordin economie nr. 1034/2015",
+   "title": "Ordinul nr. 1.034/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea de Servicii Hidroenergetice Hidroserv - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici și Mijlocii și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171541",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171541",
+     "sha256": "dae5c9ee845e19af4c0997b2d6759cbe74438ae86a5ef420bb0c0e775991a3f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1035-2015",
+   "path": "ordin/economie/2015/1035",
+   "short": "Ordin economie nr. 1035/2015",
+   "title": "Ordinul nr. 1.035/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea ELECTROCENTRALE GALAȚI - S.A. - în insolvență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171543",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171543",
+     "sha256": "c409b62ab0a616bd8a4e65e732ca037229a44296c6f37529e92c59822a422f06"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1064-2015",
    "path": "ordin/economie/2015/1064",
    "short": "Ordin economie nr. 1064/2015",
@@ -7218,6 +7413,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-1598-2015",
+   "path": "ordin/economie/2015/1598",
+   "short": "Ordin economie nr. 1598/2015",
+   "title": "Ordinul nr. 1.598/2015 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2015 pentru Societatea FABRICA DE ARME CUGIR - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Relațiilor cu Mediul de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174784",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174784",
+     "sha256": "87bbddb6723fb0cf93f062637f1f563cefdc2c62ab709a9c040f0f04f65ca4f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1599-2015",
+   "path": "ordin/economie/2015/1599",
+   "short": "Ordin economie nr. 1599/2015",
+   "title": "Ordinul nr. 1.599/2015 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2015 pentru Societatea ELECTROMECANICA PLOIEȘTI - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Relațiilor cu Mediul de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174798",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174798",
+     "sha256": "a3ee63c2c73e94b108039ad7970ff5ebbd4f724d038ad30b0f554af7d3fc14d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1736-2015",
+   "path": "ordin/economie/2015/1736",
+   "short": "Ordin economie nr. 1736/2015",
+   "title": "Ordinul nr. 1.736/2015 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2015 pentru Societatea Comercială \"Medserv Min\" - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174373",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174373",
+     "sha256": "7abad8fe3e21240de8f2ff9aa9b4efec6a5c12718a3ce5a511172a479cd4a10c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1778-2015",
    "path": "ordin/economie/2015/1778",
    "short": "Ordin economie nr. 1778/2015",
@@ -7229,6 +7469,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174060",
      "sha256": "148607064ab3d643bed33d1b1c6aea431d121743e6603a63d2aece8e9ff86080"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1788-2015",
+   "path": "ordin/economie/2015/1788",
+   "short": "Ordin economie nr. 1788/2015",
+   "title": "Ordinul nr. 1.788/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea HIDRO TARNIȚA - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174800",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174800",
+     "sha256": "6ea6c07439b67d91836fa47a3edd0630097691057d13f11f424280013ce91531"
     }
    ]
   },
@@ -7274,6 +7529,81 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167920",
      "sha256": "168a8ca7fb5acd8af04fb031ac78c515920b3ab10ce02f4ec4c5261cb425358c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-509-2015",
+   "path": "ordin/economie/2015/509",
+   "short": "Ordin economie nr. 509/2015",
+   "title": "Ordinul nr. 509/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Uzina Mecanică CUGIR - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169169",
+   "versions": [
+    {
+     "from": "2015-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169169",
+     "sha256": "38dc96875fe7875c1448cd0755396a98c63d2b07122d0734ebd0accb40979e2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-565-2015",
+   "path": "ordin/economie/2015/565",
+   "short": "Ordin economie nr. 565/2015",
+   "title": "Ordinul nr. 565/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Comercială \"Medserv Min\" - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici și Mijlocii și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168284",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168284",
+     "sha256": "2326b220de727c91e496a169aa428468de33e3de2e6973bee835be1683d27e45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-566-2015",
+   "path": "ordin/economie/2015/566",
+   "short": "Ordin economie nr. 566/2015",
+   "title": "Ordinul nr. 566/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Comercială \"Unitatea de Execuție Foraje Motru\" - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici și Mijlocii și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168393",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168393",
+     "sha256": "255a00d39d392953bcb4dcc3f324dec5415b60e9395e471f06faa3ca13cfe724"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-671-2015",
+   "path": "ordin/economie/2015/671",
+   "short": "Ordin economie nr. 671/2015",
+   "title": "Ordinul nr. 671/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea \"Electrocentrale\" Titan - S.A. București, aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici și Mijlocii și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168667",
+   "versions": [
+    {
+     "from": "2015-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168667",
+     "sha256": "2eef21def37a5b6e7c4beab6e1643e39e6cbad92d9ca98cdcc0c7e83129a4c35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-708-2015",
+   "path": "ordin/economie/2015/708",
+   "short": "Ordin economie nr. 708/2015",
+   "title": "Ordinul nr. 708/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea de Închidere a Obiectivelor Miniere ECONORD - S.A. - filiala Companiei Naționale a Metalelor Prețioase și Neferoase REMIN - S.A. Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170711",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170711",
+     "sha256": "221328dbc0c633ad26481ba8ebf5ddb03e4e89d151e0918aa425762d98bfbf94"
     }
    ]
   },
@@ -7338,6 +7668,276 @@
    ]
   },
   {
+   "slug": "ordin-economie-796-2015",
+   "path": "ordin/economie/2015/796",
+   "short": "Ordin economie nr. 796/2015",
+   "title": "Ordinul nr. 796/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Fabrica de Arme CUGIR - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170718",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170718",
+     "sha256": "34b4eb320c33f2d8b32bc300bbafca84dda6aa11ef1862059fef975a64a6bf00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-797-2015",
+   "path": "ordin/economie/2015/797",
+   "short": "Ordin economie nr. 797/2015",
+   "title": "Ordinul nr. 797/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea ARSENAL - REȘIȚA - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170720",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170720",
+     "sha256": "c3b50a34ea8d0bc3dc2b12e30e3dec1b8a4bc296e14c340077ba7c2900096037"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-798-2015",
+   "path": "ordin/economie/2015/798",
+   "short": "Ordin economie nr. 798/2015",
+   "title": "Ordinul nr. 798/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Fabrica de Pulberi - S.A. Făgăraș - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170805",
+   "versions": [
+    {
+     "from": "2015-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170805",
+     "sha256": "7553b566e46c7ee173c6d81fffe404486b8f9c2821b601f1c3e67647a8350083"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-799-2015",
+   "path": "ordin/economie/2015/799",
+   "short": "Ordin economie nr. 799/2015",
+   "title": "Ordinul nr. 799/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea U.M. MIJA - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170722",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170722",
+     "sha256": "c79650889dfdadd99d39ac079054261cddbaefdd3d4e0addb49a1262668a6376"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-800-2015",
+   "path": "ordin/economie/2015/800",
+   "short": "Ordin economie nr. 800/2015",
+   "title": "Ordinul nr. 800/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170935",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170935",
+     "sha256": "f59a63bd3cb2d54bedf5649d292bb4078135318a979e84547f60ccda95b98b99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-801-2015",
+   "path": "ordin/economie/2015/801",
+   "short": "Ordin economie nr. 801/2015",
+   "title": "Ordinul nr. 801/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170810",
+   "versions": [
+    {
+     "from": "2015-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170810",
+     "sha256": "31c070beee35352977662287319351233cc492934babc7d42ab572ce65fc70d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-804-2015",
+   "path": "ordin/economie/2015/804",
+   "short": "Ordin economie nr. 804/2015",
+   "title": "Ordinul nr. 804/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170798",
+   "versions": [
+    {
+     "from": "2015-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170798",
+     "sha256": "d714f2d492cd929fde2ef93153e8f4a015cf91b14c97a6a07d9a522a5c1d5e24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-805-2015",
+   "path": "ordin/economie/2015/805",
+   "short": "Ordin economie nr. 805/2015",
+   "title": "Ordinul nr. 805/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea PIROCHIM VICTORIA - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170734",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170734",
+     "sha256": "c4b96364f755167ee6aecf0aaef147c2f4c2bd83e987daa896a3b32bd4fe9e41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-806-2015",
+   "path": "ordin/economie/2015/806",
+   "short": "Ordin economie nr. 806/2015",
+   "title": "Ordinul nr. 806/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Uzina Automecanică Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170743",
+   "versions": [
+    {
+     "from": "2015-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170743",
+     "sha256": "347453c71cb5c45fee86c5770b6aced507a83d991e8b433fd55dd8c2c9b05974"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-807-2015",
+   "path": "ordin/economie/2015/807",
+   "short": "Ordin economie nr. 807/2015",
+   "title": "Ordinul nr. 807/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea METROM - S.A. Brașov - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170890",
+   "versions": [
+    {
+     "from": "2015-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170890",
+     "sha256": "e41bfd02f960196f8f9f0d5fd3233e1a194825146dfb8e86054a158b3af68b91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-817-2015",
+   "path": "ordin/economie/2015/817",
+   "short": "Ordin economie nr. 817/2015",
+   "title": "Ordinul nr. 817/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea CARFIL - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170345",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170345",
+     "sha256": "79ce0bd1635b1a5a5a3de9a1aceccd7d13860c7a13a6a854fde28f1a8acb3989"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-818-2015",
+   "path": "ordin/economie/2015/818",
+   "short": "Ordin economie nr. 818/2015",
+   "title": "Ordinul nr. 818/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea TELETRANS - S.A. - filiala Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170355",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170355",
+     "sha256": "0998b0fc009c0bc25e82b776a75a3929ffc3683ecadcd5c6d9f2a008fab232e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-819-2015",
+   "path": "ordin/economie/2015/819",
+   "short": "Ordin economie nr. 819/2015",
+   "title": "Ordinul nr. 819/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea SMART - S.A. - filiala Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170353",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170353",
+     "sha256": "6c69c4c41e442cba5cde01cd4581846a069305fb741734a5f080ce286d78a7e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-847-2015",
+   "path": "ordin/economie/2015/847",
+   "short": "Ordin economie nr. 847/2015",
+   "title": "Ordinul nr. 847/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale \"ROMARM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170988",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170988",
+     "sha256": "a4eb5272d29239ce6cea52186e7e06944aa44c74ba50812d077d2a2e1d6c373a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-862-2015",
+   "path": "ordin/economie/2015/862",
+   "short": "Ordin economie nr. 862/2015",
+   "title": "Ordinul nr. 862/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Uzina de Produse Speciale Dragomirești - S.A. - filiala Companiei Naționale \"ROMARM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170990",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170990",
+     "sha256": "b77c451055b67160413e5d76117642f1bf7e325c71b9f1a146b7c13f3f4939d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-863-2015",
+   "path": "ordin/economie/2015/863",
+   "short": "Ordin economie nr. 863/2015",
+   "title": "Ordinul nr. 863/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea ROSIAMIN - S.A. - filiala Companiei Naționale a Cuprului, Aurului și Fierului MINVEST - S.A. Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170864",
+   "versions": [
+    {
+     "from": "2015-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170864",
+     "sha256": "b4d0096def9e4dbc9c487b37b20bdd69c864ddad08b15ca5d3d1f7e6e87eae4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-864-2015",
+   "path": "ordin/economie/2015/864",
+   "short": "Ordin economie nr. 864/2015",
+   "title": "Ordinul nr. 864/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea CERTEJ - S.A. - filiala Companiei Naționale a Cuprului, Aurului și Fierului \"MINVEST\" - S.A. Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170817",
+   "versions": [
+    {
+     "from": "2015-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170817",
+     "sha256": "9b937c2ad4d4868352be8a6d3fb7c41d50abb96bbcb96cc8572891250e7eb4d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-917-2015",
+   "path": "ordin/economie/2015/917",
+   "short": "Ordin economie nr. 917/2015",
+   "title": "Ordinul nr. 917/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea PRELMEC - S.A. - unde Societatea \"Uzina Mecanică Orăștie\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Turismului, deține 99,64% din capitalul social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171568",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171568",
+     "sha256": "80a4ca1ab1262d1d6089b5cdf66977106fd14af98f797ed70076c1ace0a38aad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-962-2015",
    "path": "ordin/economie/2015/962",
    "short": "Ordin economie nr. 962/2015",
@@ -7349,6 +7949,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170307",
      "sha256": "68af88e74f942a791164a93aeb32749119ba3b988525edf6089558ad2b168f5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-971-2015",
+   "path": "ordin/economie/2015/971",
+   "short": "Ordin economie nr. 971/2015",
+   "title": "Ordinul nr. 971/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea SISTEMPLAST - S.A., unde Societatea \"OLTCHIM\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Turismului, deține 94,4% din capitalul social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171570",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171570",
+     "sha256": "bf185efd25029afb467ef45f7f9e7725b34ede4bec1067382d602689b4be5306"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-972-2015",
+   "path": "ordin/economie/2015/972",
+   "short": "Ordin economie nr. 972/2015",
+   "title": "Ordinul nr. 972/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea \"FORMENERG\"- S.A. - filiala Companiei Naționale de Transport al Energiei Electrice \"TRANSELECTRICA\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171556",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171556",
+     "sha256": "32cf43fc3f198abf0e4962ce0e3b91a3a218a45031d73421af0226fab2d0f81d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-977-2015",
+   "path": "ordin/economie/2015/977",
+   "short": "Ordin economie nr. 977/2015",
+   "title": "Ordinul nr. 977/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Operatorul Pieței de Energie Electrică și de Gaze Naturale \"OPCOM\" - S.A. - filiala Companiei Naționale de Transport al Energiei Electrice TRANSELECTRICA - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171921",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171921",
+     "sha256": "faf233cb402843451fea89297630d2bf20eb9c9d2780cfaa2d92e34a60732603"
     }
    ]
   },
@@ -9018,6 +9663,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1004-2015",
+   "path": "ordin/finante/2015/1004",
+   "short": "Ordin finante nr. 1004/2015",
+   "title": "Ordinul nr. 1.004/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170997",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170997",
+     "sha256": "14595c6ee5fb08d5b2b1332e7b241b0147ca10d1f81dd73ffa5dd1b6f96f656a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-101-2015",
+   "path": "ordin/finante/2015/101",
+   "short": "Ordin finante nr. 101/2015",
+   "title": "Ordinul nr. 101/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165262",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165262",
+     "sha256": "ee5a764d593d44b32abd96274a71d7e78b3dd1f55d7bb6a6b142d3a6c5b55d06"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-102-2015",
    "path": "ordin/finante/2015/102",
    "short": "Ordin finante nr. 102/2015",
@@ -9138,6 +9813,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1143-2015",
+   "path": "ordin/finante/2015/1143",
+   "short": "Ordin finante nr. 1143/2015",
+   "title": "Ordinul nr. 1.143/2015 privind blocarea fondurilor și resurselor economice deținute de Societatea Comercială Agro-Chirnogi - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171408",
+   "versions": [
+    {
+     "from": "2015-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171408",
+     "sha256": "8043c5d8cd10edfc5c04e214daf678a26d1ffd93e2d94041a81d6619a8f41a7e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1151-2015",
    "path": "ordin/finante/2015/1151",
    "short": "Ordin finante nr. 1151/2015",
@@ -9213,6 +9903,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1204-2015",
+   "path": "ordin/finante/2015/1204",
+   "short": "Ordin finante nr. 1204/2015",
+   "title": "Ordinul nr. 1.204/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171763",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171763",
+     "sha256": "824a3b88410c127834561ad86a50051fdbac79cf24d34c39c0050dfae495b0bc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1376-2015",
    "path": "ordin/finante/2015/1376",
    "short": "Ordin finante nr. 1376/2015",
@@ -9258,6 +9963,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1408-2015",
+   "path": "ordin/finante/2015/1408",
+   "short": "Ordin finante nr. 1408/2015",
+   "title": "Ordinul nr. 1.408/2015 privind blocarea resurselor economice deținute de Societatea Comercială ROMPETROL GAS - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172430",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172430",
+     "sha256": "36faae7002b199cf500206bb59263d4b8f2751fb27f6a2989da4cf636959483a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1415-2015",
+   "path": "ordin/finante/2015/1415",
+   "short": "Ordin finante nr. 1415/2015",
+   "title": "Ordinul nr. 1.415/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172496",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172496",
+     "sha256": "88f163a5d70b6449ec721cf66e070e5f8b01ddc6dfab4153febd6ebfca1f8fbe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1417-2015",
    "path": "ordin/finante/2015/1417",
    "short": "Ordin finante nr. 1417/2015",
@@ -9299,6 +10034,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165703",
      "sha256": "3f3aa9a00c82121145f58c62c79e425431c2991a9b77ff8abd416af07572ad12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-157-2015",
+   "path": "ordin/finante/2015/157",
+   "short": "Ordin finante nr. 157/2015",
+   "title": "Ordinul nr. 157/2015 privind modificarea Ordinului viceprim-ministrului, ministrul finanțelor publice, nr. 228/2014 pentru stabilirea componenței Comisiei de avizare a distribuitorilor și a aparatelor de marcat electronice fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165743",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165743",
+     "sha256": "c563c529f24088d0e3370eb8fda3726cac72b264a67568df0f223fe598028970"
     }
    ]
   },
@@ -9393,6 +10143,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-169-2015",
+   "path": "ordin/finante/2015/169",
+   "short": "Ordin finante nr. 169/2015",
+   "title": "Ordinul nr. 169/2015 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165783",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165783",
+     "sha256": "cadb66216d06753b3b077d7f7ce658a3d6c7ee1cbb584d476597a2814ec9afb5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-170-2015",
    "path": "ordin/finante/2015/170",
    "short": "Ordin finante nr. 170/2015",
@@ -9468,6 +10233,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-210-2015",
+   "path": "ordin/finante/2015/210",
+   "short": "Ordin finante nr. 210/2015",
+   "title": "Ordinul nr. 210/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166035",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166035",
+     "sha256": "7bd337c03b99ad4bf78220bec7a94929a1bb02cda4741f038155547400908753"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-217-2015",
    "path": "ordin/finante/2015/217",
    "short": "Ordin finante nr. 217/2015",
@@ -9509,6 +10289,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166147",
      "sha256": "6029f136b785e92131e70520514e7932aa8fcf87ea63f9fb97e371340af68518"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-246-2015",
+   "path": "ordin/finante/2015/246",
+   "short": "Ordin finante nr. 246/2015",
+   "title": "Ordinul nr. 246/2015 pentru împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară în vederea constatării contravențiilor și aplicării amenzilor prevăzute la art. 78 din Legea nr. 273/2006 privind finanțele publice locale și la art. IV din Ordonanța de urgență a Guvernului nr. 63/2010 pentru modificarea și completarea Legii nr. 273/2006 privind finanțele publice locale, precum și pentru stabilirea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166219",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166219",
+     "sha256": "739805a2a0a2920e9d2a3d5bb4fac6de0e6498d126a04c9fa4f4cd0e0234a800"
     }
    ]
   },
@@ -9569,6 +10364,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166464",
      "sha256": "4258017f446d6b970e6f807ad15c6ce39dab73737358348f77259feb2ffab4db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-325-2015",
+   "path": "ordin/finante/2015/325",
+   "short": "Ordin finante nr. 325/2015",
+   "title": "Ordinul nr. 325/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166838",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166838",
+     "sha256": "fdef31fe1f4e1bba75a2e8a6b5e35bb58588302e6b1a48b0c249133fde631f6d"
     }
    ]
   },
@@ -9659,6 +10469,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173210",
      "sha256": "ef1c57e4f5225dcaa0e8aa55bb9391be98e84ba3ffa397f06849dc1f894b03bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3936-2015",
+   "path": "ordin/finante/2015/3936",
+   "short": "Ordin finante nr. 3936/2015",
+   "title": "Ordinul nr. 3.936/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173510",
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173510",
+     "sha256": "8536ff3ed19dacc48d1a397964c81d9744c56d07f55a51b73fc6528de960e434"
     }
    ]
   },
@@ -9794,6 +10619,36 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165901",
      "sha256": "eb4a16a89f56c7170572e81fdb40ebfded968ddfb7750cf1a61a561f2ba00dca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-4109-2015",
+   "path": "ordin/finante/2015/4109",
+   "short": "Ordin finante nr. 4109/2015",
+   "title": "Ordinul nr. 4.109/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174442",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174442",
+     "sha256": "61f09c4c89f00f921897b649b751513f5de2e20f5655f3a4a3b4fa9872d4e9c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-4112-2015",
+   "path": "ordin/finante/2015/4112",
+   "short": "Ordin finante nr. 4112/2015",
+   "title": "Ordinul nr. 4.112/2015 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2015 pentru Societatea UZINA MECANICĂ BUCUREȘTI - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Relațiilor cu Mediul de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174612",
+   "versions": [
+    {
+     "from": "2016-01-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174612",
+     "sha256": "b632cfed9efa89744bf2acd8f750b78296ed8c1908f06d8a7fe254d7c9fe869e"
     }
    ]
   },
@@ -10068,6 +10923,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-522-2015",
+   "path": "ordin/finante/2015/522",
+   "short": "Ordin finante nr. 522/2015",
+   "title": "Ordinul nr. 522/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167738",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167738",
+     "sha256": "93ae53e52541c706138a99cd31fac6d447b9be00fc9a6662eb11d12eee26788f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-525-2015",
    "path": "ordin/finante/2015/525",
    "short": "Ordin finante nr. 525/2015",
@@ -10094,6 +10964,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167938",
      "sha256": "acbab41c49bff9caaf5e34e0ec351f444f4d6143fd83001c6791644b8d1e42c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-543-2015",
+   "path": "ordin/finante/2015/543",
+   "short": "Ordin finante nr. 543/2015",
+   "title": "Ordinul nr. 543/2015 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2015 al Societății Comerciale RO-ARMYCATERING - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167964",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167964",
+     "sha256": "e883895729d7d3f133624d6f28028ad00f311c553038dee3be8ffa55c18768f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-544-2015",
+   "path": "ordin/finante/2015/544",
+   "short": "Ordin finante nr. 544/2015",
+   "title": "Ordinul nr. 544/2015 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2015 al Societății Comerciale RO-ARMYSECURITY - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167966",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167966",
+     "sha256": "378fa02d10b1958dc85268a8ec706b750630fc32524d262079df5f5641124cce"
     }
    ]
   },
@@ -10188,6 +11088,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-625-2015",
+   "path": "ordin/finante/2015/625",
+   "short": "Ordin finante nr. 625/2015",
+   "title": "Ordinul nr. 625/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168418",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168418",
+     "sha256": "d1e252f99c8c022d093d671922fb4b2849d8655e268b3d74da9b208cb6feabd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-644-2015",
+   "path": "ordin/finante/2015/644",
+   "short": "Ordin finante nr. 644/2015",
+   "title": "Ordinul nr. 644/2015 privind prospectul de emisiune a titlurilor de stat destinate exclusiv investitorilor persoane fizice în cadrul Programului FIDELIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168580",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168580",
+     "sha256": "c4f97cb6b6945d6537f7a45debb1ba9b7688a803a9dcac623489115bfecfba2c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-655-2015",
    "path": "ordin/finante/2015/655",
    "short": "Ordin finante nr. 655/2015",
@@ -10233,6 +11163,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-665-2015",
+   "path": "ordin/finante/2015/665",
+   "short": "Ordin finante nr. 665/2015",
+   "title": "Ordinul nr. 665/2015 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168833",
+   "versions": [
+    {
+     "from": "2015-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168833",
+     "sha256": "de45a9c952093ecf1424fac1c6fdf4e20a8354c9898c2b06ad55003fa5274140"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-666-2015",
    "path": "ordin/finante/2015/666",
    "short": "Ordin finante nr. 666/2015",
@@ -10263,6 +11208,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-670-2015",
+   "path": "ordin/finante/2015/670",
+   "short": "Ordin finante nr. 670/2015",
+   "title": "Ordinul nr. 670/2015 pentru modificarea Ordinului ministrului finanțelor publice nr. 625/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168789",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168789",
+     "sha256": "ba76d8e95de358e0ff38486be3da52020ccf628067a00047dabff3606c9ada1c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-676-2015",
    "path": "ordin/finante/2015/676",
    "short": "Ordin finante nr. 676/2015",
@@ -10274,6 +11234,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168747",
      "sha256": "718ae4a3ea255c1fadd9b01113b735a75e06d3c694cee8899216511d14098aed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-736-2015",
+   "path": "ordin/finante/2015/736",
+   "short": "Ordin finante nr. 736/2015",
+   "title": "Ordinul nr. 736/2015 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169046",
+   "versions": [
+    {
+     "from": "2015-06-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169046",
+     "sha256": "819fe977b381274fd031cc42b2b2b48f98aa1ce9301f53f8e81ff106273a3c3a"
     }
    ]
   },
@@ -10323,6 +11298,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-758-2015",
+   "path": "ordin/finante/2015/758",
+   "short": "Ordin finante nr. 758/2015",
+   "title": "Ordinul nr. 758/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169313",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169313",
+     "sha256": "e181ba3c0b78429208b584cc84f625e596a604a7d4f665f4cc91f9c130fe47d2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-773-2015",
    "path": "ordin/finante/2015/773",
    "short": "Ordin finante nr. 773/2015",
@@ -10368,6 +11358,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-776-2015",
+   "path": "ordin/finante/2015/776",
+   "short": "Ordin finante nr. 776/2015",
+   "title": "Ordinul nr. 776/2015 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169384",
+   "versions": [
+    {
+     "from": "2015-07-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169384",
+     "sha256": "889dd24e371e9375088b80e24637aa126615c42d060cc8952d8360d50c42d937"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-805-2015",
    "path": "ordin/finante/2015/805",
    "short": "Ordin finante nr. 805/2015",
@@ -10394,6 +11399,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169761",
      "sha256": "85469ae119ac899d5ad1e75d5d0273c650258cdb618948c57105d04d5614e356"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-812-2015",
+   "path": "ordin/finante/2015/812",
+   "short": "Ordin finante nr. 812/2015",
+   "title": "Ordinul nr. 812/2015 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul finanțelor publice, și al ministrului delegat pentru buget nr. 8/2014 pentru aprobarea Convenției privind implementarea Programului de garantare a creditelor pentru întreprinderi mici și mijlocii dintre Ministerul Finanțelor Publice și Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, prevăzută la art. 8 alin. (1) din Ordonanța de urgență a Guvernului nr. 92/2013 privind Programul de garantare a creditelor pentru întreprinderi mici și mijlocii, și a Convenției de colaborare prevăzute la art. 1 alin. (5) din Normele metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 92/2013 privind Programul de garantare a creditelor pentru întreprinderi mici și mijlocii, aprobate prin Hotărârea Guvernului nr. 936/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169890",
+   "versions": [
+    {
+     "from": "2015-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169890",
+     "sha256": "71fdaf77a52413ec6cd1e425f14c9ca1edcf96b92b5f24e1b1ec43ec1bfe33ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-813-2015",
+   "path": "ordin/finante/2015/813",
+   "short": "Ordin finante nr. 813/2015",
+   "title": "Ordinul nr. 813/2015 pentru modificarea Ordinului ministrului finanțelor publice nr. 758/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169642",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169642",
+     "sha256": "bded4fcb52b21e278a6dc0a851ba358c33dece72351395e7e6c616f088a5421d"
     }
    ]
   },
@@ -10443,6 +11478,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-842-2015",
+   "path": "ordin/finante/2015/842",
+   "short": "Ordin finante nr. 842/2015",
+   "title": "Ordinul nr. 842/2015 pentru modificarea Ordinului ministrului finanțelor publice nr. 736/2015 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169920",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169920",
+     "sha256": "ec2538de1d21bb461c01b924e76805da7f207bae881dc970245b4466a4565dc7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-876-2015",
    "path": "ordin/finante/2015/876",
    "short": "Ordin finante nr. 876/2015",
@@ -10454,6 +11504,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170841",
      "sha256": "d1befcfe2ceed6fc044e4b5952027419c8f34c3479b7ca6d873e634f62bc972e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-884-2015",
+   "path": "ordin/finante/2015/884",
+   "short": "Ordin finante nr. 884/2015",
+   "title": "Ordinul nr. 884/2015 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170224",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170224",
+     "sha256": "7e1e8975e0545103efd8a509130e3f36ff2ac5271483a8313e0322407215f0b0"
     }
    ]
   },
@@ -11114,6 +12179,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170415",
      "sha256": "d5e2d5b65266d16c6668c32f13e9204636a7aaac676d5d235effc9bb0971bf88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-567-2015",
+   "path": "ordin/imm/2015/567",
+   "short": "Ordin imm nr. 567/2015",
+   "title": "Ordinul nr. 567/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Societatea Comercială MINPREST SERV - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici și Mijlocii și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168404",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168404",
+     "sha256": "8c4fcdcdc11ed408614a14ef7a3fe6ce9a6396d566645593547cf415d3d43a85"
     }
    ]
   },
@@ -12498,6 +13578,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1101-2015",
+   "path": "ordin/mediu/2015/1101",
+   "short": "Ordin mediu nr. 1101/2015",
+   "title": "Ordinul nr. 1.101/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Comerciale EXPLOATARE SISTEM ZONAL PRAHOVA - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170592",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170592",
+     "sha256": "592c6180af426a32b69ee729700590f874a8195eeac7f1662e745b701b4cfeec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1115-2015",
    "path": "ordin/mediu/2015/1115",
    "short": "Ordin mediu nr. 1115/2015",
@@ -13143,6 +14238,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-764-2015",
+   "path": "ordin/mediu/2015/764",
+   "short": "Ordin mediu nr. 764/2015",
+   "title": "Ordinul nr. 764/2015 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2015 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva, prevăzute în anexa nr. 3 din Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172826",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172826",
+     "sha256": "b5ef8fff3fa4cfb34544dbf77eab795e689a1f557173454f3dfca4079bca7c5e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-814-2015",
    "path": "ordin/mediu/2015/814",
    "short": "Ordin mediu nr. 814/2015",
@@ -13409,6 +14519,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171954",
      "sha256": "83a26491f86643de7b8e0a11a4f707f0170dfe6bbc7c797ce44c21bb5c425b4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-200-2015",
+   "path": "ordin/munca/2015/200",
+   "short": "Ordin munca nr. 200/2015",
+   "title": "Ordinul nr. 200/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166557",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166557",
+     "sha256": "42b59d482b0a3cead152830620d77921978bfb6018d56e050264bba333be4f27"
     }
    ]
   },
@@ -13818,6 +14943,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1122-2015",
+   "path": "ordin/sanatate/2015/1122",
+   "short": "Ordin sanatate nr. 1122/2015",
+   "title": "Ordinul nr. 1.122/2015 privind modificarea și completarea Ordinului ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171340",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171340",
+     "sha256": "58f24fedcadd2840e8da73b52d8bf03c5af8dc271b7857991496bae65e10bd52"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1170-2015",
    "path": "ordin/sanatate/2015/1170",
    "short": "Ordin sanatate nr. 1170/2015",
@@ -13968,6 +15108,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1286-2015",
+   "path": "ordin/sanatate/2015/1286",
+   "short": "Ordin sanatate nr. 1286/2015",
+   "title": "Ordinul nr. 1.286/2015 privind desemnarea președintelui și a componenței Secretariatului tehnic al Comitetului interministerial pentru coordonarea politicilor și acțiunilor aferente produselor din tutun și produselor conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172169",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172169",
+     "sha256": "3ed289c7a6646b09920da69bcd61b61d8e3f6692c004aa39f4f49ee542410ff4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1287-2015",
    "path": "ordin/sanatate/2015/1287",
    "short": "Ordin sanatate nr. 1287/2015",
@@ -13994,6 +15149,21 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172807",
      "sha256": "dfa187c85b29378661d7886192e236ffaa34b076e7095b6f1b5d7f2ac9260dcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1297-2015",
+   "path": "ordin/sanatate/2015/1297",
+   "short": "Ordin sanatate nr. 1297/2015",
+   "title": "Ordinul nr. 1.297/2015 privind modificarea anexei nr. 4 la Ordinul ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172153",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172153",
+     "sha256": "d2fb28f408beaf2cc5c7cbaf142d0c2bb65ea27b277d909169f2b664500187a3"
     }
    ]
   },
@@ -14028,6 +15198,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1325-2015",
+   "path": "ordin/sanatate/2015/1325",
+   "short": "Ordin sanatate nr. 1325/2015",
+   "title": "Ordinul nr. 1.325/2015 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172356",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172356",
+     "sha256": "c2357cd8cb29675bc3d8d0191f980b2e6513e6f0b82c517948a5714b2c2ded03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1346-2015",
+   "path": "ordin/sanatate/2015/1346",
+   "short": "Ordin sanatate nr. 1346/2015",
+   "title": "Ordinul nr. 1.346/2015 pentru completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172461",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172461",
+     "sha256": "45d8229ceb463f11c10e1afcf9a199d30921eda654d2946e65f51decd3cfddc2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1355-2015",
    "path": "ordin/sanatate/2015/1355",
    "short": "Ordin sanatate nr. 1355/2015",
@@ -14054,6 +15254,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172574",
      "sha256": "15e8be49dd407e1fc2a1ee537f398387821f549e9518fca9ede88b7e652e768a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1360-2015",
+   "path": "ordin/sanatate/2015/1360",
+   "short": "Ordin sanatate nr. 1360/2015",
+   "title": "Ordinul nr. 1.360/2015 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172579",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172579",
+     "sha256": "ae42dc2ce8bddc10b28e57188e8991b2e3df3911d570109f883a7c66385206ff"
     }
    ]
   },
@@ -14193,6 +15408,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1499-2015",
+   "path": "ordin/sanatate/2015/1499",
+   "short": "Ordin sanatate nr. 1499/2015",
+   "title": "Ordinul nr. 1.499/2015 privind modificarea art. 1 din Ordinul ministrului sănătății nr. 1.286/2015 privind desemnarea președintelui și a componenței Secretariatului tehnic al Comitetului interministerial pentru coordonarea politicilor și acțiunilor aferente produselor din tutun și produselor conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173758",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173758",
+     "sha256": "8940f0b4791950a884ce3b8bfe930797ba1faf56a7206df695e846499db91b0f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1501-2015",
    "path": "ordin/sanatate/2015/1501",
    "short": "Ordin sanatate nr. 1501/2015",
@@ -14204,6 +15434,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173610",
      "sha256": "a21acefc89f82214760083d77de5ab71c8a999fc29902bcca34a47143396c9e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1542-2015",
+   "path": "ordin/sanatate/2015/1542",
+   "short": "Ordin sanatate nr. 1542/2015",
+   "title": "Ordinul nr. 1.542/2015 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173903",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173903",
+     "sha256": "b62f428a7471529c988da5b6a6c66901129f7c00fe4036c285eca43240e38542"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1548-2015",
+   "path": "ordin/sanatate/2015/1548",
+   "short": "Ordin sanatate nr. 1548/2015",
+   "title": "Ordinul nr. 1.548/2015 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174027",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174027",
+     "sha256": "cf0776638770de7872439ad533848f61275d0b3370071cdcd1f83b9431269f1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1549-2015",
+   "path": "ordin/sanatate/2015/1549",
+   "short": "Ordin sanatate nr. 1549/2015",
+   "title": "Ordinul nr. 1.549/2015 privind modificarea și completarea Ordinului ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174336",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174336",
+     "sha256": "596c2f2034133276c7c0dd86ff984d22b22be1a14e2b4a351a9fcd2b19ca34f2"
     }
    ]
   },
@@ -14249,6 +15524,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174446",
      "sha256": "e1f42a54b96a772ea39787fa1c272087d1f12e28ca12b7e52744f84a5421b4dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1708-2015",
+   "path": "ordin/sanatate/2015/1708",
+   "short": "Ordin sanatate nr. 1708/2015",
+   "title": "Ordinul nr. 1.708/2015 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174589",
+   "versions": [
+    {
+     "from": "2016-01-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174589",
+     "sha256": "b0a8a8ab2ac0751397c72ac25fbe9185957bfdcc4760399f9bcdc2db6df26f5e"
     }
    ]
   },
@@ -14538,6 +15828,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-345-2015",
+   "path": "ordin/sanatate/2015/345",
+   "short": "Ordin sanatate nr. 345/2015",
+   "title": "Ordinul nr. 345/2015 privind modificarea și completarea Ordinului ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166832",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166832",
+     "sha256": "cadd9d55b71f414d37b2f96b98c2ed0c09552a2d7dc636d919405b0edf511cc1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-355-2015",
    "path": "ordin/sanatate/2015/355",
    "short": "Ordin sanatate nr. 355/2015",
@@ -14808,6 +16113,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-444-2015",
+   "path": "ordin/sanatate/2015/444",
+   "short": "Ordin sanatate nr. 444/2015",
+   "title": "Ordinul nr. 444/2015 privind constituirea Comitetului pentru stabilirea bolilor transmisibile, cu impact major asupra sănătății publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167121",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167121",
+     "sha256": "b2a746d366b6aa80cf47fd1d651f6cc725c51cfae31b4ab7be1773e840948b4d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-445-2015",
    "path": "ordin/sanatate/2015/445",
    "short": "Ordin sanatate nr. 445/2015",
@@ -14943,6 +16263,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-525-2015",
+   "path": "ordin/sanatate/2015/525",
+   "short": "Ordin sanatate nr. 525/2015",
+   "title": "Ordinul nr. 525/2015 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății și familiei nr. 698/2001 pentru aprobarea unor metodologii privind angajarea, transferarea și detașarea medicilor, farmaciștilor, biologilor, biochimiștilor și chimiștilor, precum și a altui personal de specialitate cu studii superioare din unitățile sanitare publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167474",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167474",
+     "sha256": "1c0c6e1e28f4ba3afe8878ee3227a9157ae1a27023ecf8266a8b8500af5215c7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-527-2015",
    "path": "ordin/sanatate/2015/527",
    "short": "Ordin sanatate nr. 527/2015",
@@ -14999,6 +16334,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167748",
      "sha256": "24c8a406ba45c65e49cb6bbd452a550b983939cef880e22f343682cd71be17e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-580-2015",
+   "path": "ordin/sanatate/2015/580",
+   "short": "Ordin sanatate nr. 580/2015",
+   "title": "Ordinul nr. 580/2015 privind modificarea Ordinului ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167735",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167735",
+     "sha256": "a56ddcc7ff0c56f4a067819524a65142d5f08128483a39b2b75ea760ae659ad5"
     }
    ]
   },
@@ -15198,6 +16548,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-686-2015",
+   "path": "ordin/sanatate/2015/686",
+   "short": "Ordin sanatate nr. 686/2015",
+   "title": "Ordinul nr. 686/2015 privind modificarea și completarea Ordinului ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168505",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168505",
+     "sha256": "b710006d44b94f8bfcf44ce070d2cafb5ef5506a2918e435eb2948ed210db345"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-701-2015",
    "path": "ordin/sanatate/2015/701",
    "short": "Ordin sanatate nr. 701/2015",
@@ -15333,6 +16698,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-810-2015",
+   "path": "ordin/sanatate/2015/810",
+   "short": "Ordin sanatate nr. 810/2015",
+   "title": "Ordinul nr. 810/2015 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169261",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169261",
+     "sha256": "438c8b631a599136536e42ff1fee3c895e02e03a1367c721553d0dea88604444"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-811-2015",
    "path": "ordin/sanatate/2015/811",
    "short": "Ordin sanatate nr. 811/2015",
@@ -15378,6 +16758,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-847-2015",
+   "path": "ordin/sanatate/2015/847",
+   "short": "Ordin sanatate nr. 847/2015",
+   "title": "Ordinul nr. 847/2015 privind modificarea și completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169675",
+   "versions": [
+    {
+     "from": "2015-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169675",
+     "sha256": "7f10348bc27b70e5af2a919924a2f44512c27bc44ac2919fae865973f80ef0c7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-85-2015",
    "path": "ordin/sanatate/2015/85",
    "short": "Ordin sanatate nr. 85/2015",
@@ -15419,6 +16814,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169718",
      "sha256": "548ddf193e41f2499c6e998410d5d4a5076a2dde7a19c7c05040eeb23f411c1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-870-2015",
+   "path": "ordin/sanatate/2015/870",
+   "short": "Ordin sanatate nr. 870/2015",
+   "title": "Ordinul nr. 870/2015 privind modificarea anexei nr. 4 la Ordinul ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169685",
+   "versions": [
+    {
+     "from": "2015-07-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169685",
+     "sha256": "0630620f2897cfe6a7be6d547417078a35de7d794f142bbd7dd1658edd535ec1"
     }
    ]
   },
@@ -15569,6 +16979,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170825",
      "sha256": "0592a81401ae73f355a4056f08a29642af80840b7fa1464d93c2bb4bc1c0bddf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-997-2015",
+   "path": "ordin/sanatate/2015/997",
+   "short": "Ordin sanatate nr. 997/2015",
+   "title": "Ordinul nr. 997/2015 pentru modificarea anexei la Ordinul ministrului sănătății nr. 720/2014 privind înființarea Comitetului național de verificare a eliminării rujeolei și rubeolei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170697",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170697",
+     "sha256": "0091c31209fe0fc816926a188fd23ed41ecad36dd05d13f50960bab0e8958cae"
     }
    ]
   },
@@ -16143,6 +17568,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1306-2015",
+   "path": "ordin/transporturi/2015/1306",
+   "short": "Ordin transporturi nr. 1306/2015",
+   "title": "Ordinul nr. 1.306/2015 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2015 al Societății Comerciale \"Sere și Pepiniere CFR\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174253",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174253",
+     "sha256": "46d0ad602028952c437064280dcfe608b792f821f9239be5d7e642d824ca3baf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1307-2015",
+   "path": "ordin/transporturi/2015/1307",
+   "short": "Ordin transporturi nr. 1307/2015",
+   "title": "Ordinul nr. 1.307/2015 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2015 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174280",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174280",
+     "sha256": "262a3d2d79770708f54aa755c07ec909fed1b852aedbf0e4554c1a9211b66fcc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-148-2015",
    "path": "ordin/transporturi/2015/148",
    "short": "Ordin transporturi nr. 148/2015",
@@ -16338,6 +17793,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-605-2015",
+   "path": "ordin/transporturi/2015/605",
+   "short": "Ordin transporturi nr. 605/2015",
+   "title": "Ordinul nr. 605/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Comerciale \"Sere și Pepiniere C.F.R.\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169956",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169956",
+     "sha256": "307c53c80af6b0b479a0c0779d9b62306784ad5e79ef788d1c92f27ecac2a1b1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-611-2015",
    "path": "ordin/transporturi/2015/611",
    "short": "Ordin transporturi nr. 611/2015",
@@ -16428,6 +17898,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-631-2015",
+   "path": "ordin/transporturi/2015/631",
+   "short": "Ordin transporturi nr. 631/2015",
+   "title": "Ordinul nr. 631/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății \"Electrificare CFR\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170391",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170391",
+     "sha256": "50a88eb2129aba219e2e9b70a394c682187bbbe229040ee1b960276920a30598"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-632-2015",
+   "path": "ordin/transporturi/2015/632",
+   "short": "Ordin transporturi nr. 632/2015",
+   "title": "Ordinul nr. 632/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Comerciale \"Întreținere Mecanizată a Căii Ferate\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169961",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169961",
+     "sha256": "251e2d577f98901ac3e00a56e5d09d3c88d476f16cc48be1e9325e83b621ae8c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-635-2015",
    "path": "ordin/transporturi/2015/635",
    "short": "Ordin transporturi nr. 635/2015",
@@ -16499,6 +17999,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168624",
      "sha256": "e8267095720535e08ea1c74eee6ba1e12295f5298452b8fb6986401acfaaeb5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-647-2015",
+   "path": "ordin/transporturi/2015/647",
+   "short": "Ordin transporturi nr. 647/2015",
+   "title": "Ordinul nr. 647/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169978",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169978",
+     "sha256": "aad7f43f024250855002ed6cff0bc99b38f378538506bf082edd69b2c6b6dbea"
     }
    ]
   },
@@ -16653,6 +18168,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-72-2015",
+   "path": "ordin/transporturi/2015/72",
+   "short": "Ordin transporturi nr. 72/2015",
+   "title": "Ordinul nr. 72/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2015 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166168",
+   "versions": [
+    {
+     "from": "2015-03-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166168",
+     "sha256": "23d89b18e8dae3bfd3bb7bd87704e55e6f1329f9d3496f361330deb34b68f090"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-723-2015",
    "path": "ordin/transporturi/2015/723",
    "short": "Ordin transporturi nr. 723/2015",
@@ -16803,6 +18333,36 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-817-2015",
+   "path": "ordin/transporturi/2015/817",
+   "short": "Ordin transporturi nr. 817/2015",
+   "title": "Ordinul nr. 817/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Întreținere și Reparații Locomotive și Utilaje \"CFR IRLU\" - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170393",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170393",
+     "sha256": "43467dd1a249e42da86a6df8063fd6f7a4ea2fc32d80a95eafba067050176de6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-818-2015",
+   "path": "ordin/transporturi/2015/818",
+   "short": "Ordin transporturi nr. 818/2015",
+   "title": "Ordinul nr. 818/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății de Reparații Locomotive \"C.F.R. - SCRL Brașov\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170395",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170395",
+     "sha256": "88750c0a85ca816ea3bf10e7f4fb3643388e1441923499f9e461e9f17002f730"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-841-2015",
    "path": "ordin/transporturi/2015/841",
    "short": "Ordin transporturi nr. 841/2015",
@@ -16814,6 +18374,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169714",
      "sha256": "fa6ac3d270678750ffa257481e74a03ad7abd242cd7649c45072bf1e8184b4fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-881-2015",
+   "path": "ordin/transporturi/2015/881",
+   "short": "Ordin transporturi nr. 881/2015",
+   "title": "Ordinul nr. 881/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Comerciale ROFERSPED - S.A., la care Societatea Națională de Transport Feroviar de Marfă \"CFR-Marfă\" - S.A. deține o participație majoritară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171452",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171452",
+     "sha256": "636e18efe07241c3aae07d1072a861057ccc9604596676cb36fbc22727be581e"
     }
    ]
   },
@@ -16844,6 +18419,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170591",
      "sha256": "a3684a407238580e0730f011ce17655a2d3a17e62fc845d0c3ef2cc15f8fd5be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-956-2015",
+   "path": "ordin/transporturi/2015/956",
+   "short": "Ordin transporturi nr. 956/2015",
+   "title": "Ordinul nr. 956/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Societății Tipografice Filaret - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172172",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172172",
+     "sha256": "f303a66b20c7594abe2f2ad66a09ff935816167883ba0cc09a942dd6a83354a1"
     }
    ]
   },

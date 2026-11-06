@@ -1998,6 +1998,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-846-2012",
+   "path": "ordin/anaf/2012/846",
+   "short": "Ordin anaf nr. 846/2012",
+   "title": "Ordinul nr. 846/2012 pentru modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 2.731/2010 privind organizarea activității de administrare a contribuabililor mijlocii la administrațiile finanțelor publice pentru contribuabilii mijlocii din cadrul direcțiilor generale ale finanțelor publice județene și a municipiului București, precum și pentru modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.577/2011 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 2.731/2010 privind organizarea activității de administrare a contribuabililor mijlocii la administrațiile finanțelor publice pentru contribuabilii mijlocii din cadrul direcțiilor generale ale finanțelor publice județene și a municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139096",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139096",
+     "sha256": "85794446d263ec574083b591acc4409f1bd99380f35717e86f0407b8621a1d64"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-847-2012",
    "path": "ordin/anaf/2012/847",
    "short": "Ordin anaf nr. 847/2012",
@@ -2073,6 +2088,66 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1075-2012",
+   "path": "ordin/ancpi/2012/1075",
+   "short": "Ordin ancpi nr. 1075/2012",
+   "title": "Ordinul nr. 1.075/2012 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Măgura Ilvei, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142475",
+   "versions": [
+    {
+     "from": "2012-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142475",
+     "sha256": "ea7298ebcb1bd40969898b1bf37c49f56d54ce12d307f12e36013262e12ab7fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1095-2012",
+   "path": "ordin/ancpi/2012/1095",
+   "short": "Ordin ancpi nr. 1095/2012",
+   "title": "Ordinul nr. 1.095/2012 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Bustuchin, județul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142684",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142684",
+     "sha256": "3c8e6f27baa0939c59d758452ef02182ec30b8dca831c07659d9d06cbb159ea6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1136-2012",
+   "path": "ordin/ancpi/2012/1136",
+   "short": "Ordin ancpi nr. 1136/2012",
+   "title": "Ordinul nr. 1.136/2012 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Urziceni, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143055",
+   "versions": [
+    {
+     "from": "2012-11-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143055",
+     "sha256": "4400870312ef43ea7bf20846ceb4fd83d4e9b4cfc31bc6b524802acef2a467bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1457-2012",
+   "path": "ordin/ancpi/2012/1457",
+   "short": "Ordin ancpi nr. 1457/2012",
+   "title": "Ordinul nr. 1.457/2012 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Sadu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143697",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143697",
+     "sha256": "694e39db3776494c9d26d84dec619ff21bb636652888f3f7060219d6267ce111"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-750-2012",
    "path": "ordin/ancpi/2012/750",
    "short": "Ordin ancpi nr. 750/2012",
@@ -2084,6 +2159,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140097",
      "sha256": "c69759472a723b44884f3d4a22e6e3421fc051c980c8cca36475024861c788a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-862-2012",
+   "path": "ordin/ancpi/2012/862",
+   "short": "Ordin ancpi nr. 862/2012",
+   "title": "Ordinul nr. 862/2012 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Ilva Mare, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140668",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140668",
+     "sha256": "d5b6a1f064fe4cdf805683654075c44f575705530f41bc22656c806c14db1430"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-943-2012",
+   "path": "ordin/ancpi/2012/943",
+   "short": "Ordin ancpi nr. 943/2012",
+   "title": "Ordinul nr. 943/2012 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Lunca Ilvei, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141230",
+   "versions": [
+    {
+     "from": "2012-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141230",
+     "sha256": "6973aefe5accba118dd2460919eb30a118d8fe74c98d9545dcb06651d5322569"
     }
    ]
   },
@@ -4803,6 +4908,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-501-2012",
+   "path": "ordin/comunicatii/2012/501",
+   "short": "Ordin comunicatii nr. 501/2012",
+   "title": "Ordinul nr. 501/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140082",
+   "versions": [
+    {
+     "from": "2012-07-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140082",
+     "sha256": "ccf0eb97b2f15f3ffc758ac4a744e60ff2607f1e92ff428264be7740d6e2348e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-58-2012",
    "path": "ordin/comunicatii/2012/58",
    "short": "Ordin comunicatii nr. 58/2012",
@@ -5598,6 +5718,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1065-2012",
+   "path": "ordin/economie/2012/1065",
+   "short": "Ordin economie nr. 1065/2012",
+   "title": "Ordinul nr. 1.065/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Formenerg\" - S.A., filială a Companiei Naționale de Transport a Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140441",
+   "versions": [
+    {
+     "from": "2012-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140441",
+     "sha256": "b4d6fca916084f30e72e7d87d1bfa92f09c44cf585906db0e7409eb358ff03ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1152-2012",
    "path": "ordin/economie/2012/1152",
    "short": "Ordin economie nr. 1152/2012",
@@ -5613,6 +5748,111 @@
    ]
   },
   {
+   "slug": "ordin-economie-1179-2012",
+   "path": "ordin/economie/2012/1179",
+   "short": "Ordin economie nr. 1179/2012",
+   "title": "Ordinul nr. 1.179/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială TELETRANS - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142809",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142809",
+     "sha256": "974f5af68c689f3de69c0445eda07ec7987e8c92dad05eedbe58d9401f0ac1d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1180-2012",
+   "path": "ordin/economie/2012/1180",
+   "short": "Ordin economie nr. 1180/2012",
+   "title": "Ordinul nr. 1.180/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"HIDROSERV\" Hațeg - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice HIDROELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142592",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142592",
+     "sha256": "12b8000fb4b4e6a441a12a4cf7479207a78cdf489d4b7f601447e8be22f8bd54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1181-2012",
+   "path": "ordin/economie/2012/1181",
+   "short": "Ordin economie nr. 1181/2012",
+   "title": "Ordinul nr. 1.181/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială HIDROSERV SLATINA - S. A. - filială a Societății Comerciale de Producere a Energiei Electrice HIDROELECTRICA - S. A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142812",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142812",
+     "sha256": "45a5428c4f120a84e821856db90625118127491cc2cf9398585ad3c286b28948"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1182-2012",
+   "path": "ordin/economie/2012/1182",
+   "short": "Ordin economie nr. 1182/2012",
+   "title": "Ordinul nr. 1.182/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Hidroserv\" Râmnicu Vâlcea - S.A., filială a Societății Comerciale de Producere a Energiei Electrice Hidroelectrica - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142010",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142010",
+     "sha256": "ad044558fb61a895fce91cf5133d5ccbb296b432a11dee2d032666b87418d8f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1183-2012",
+   "path": "ordin/economie/2012/1183",
+   "short": "Ordin economie nr. 1183/2012",
+   "title": "Ordinul nr. 1.183/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială HIDROSERV Sebeș - S.A. filială a Societății Comerciale de Producere a Energiei Electrice HIDROELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142822",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142822",
+     "sha256": "013ff460107986a39e5bccf1f69e33bce89d029492d3e80d5902c61d47033cc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1184-2012",
+   "path": "ordin/economie/2012/1184",
+   "short": "Ordin economie nr. 1184/2012",
+   "title": "Ordinul nr. 1.184/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială Operatorul Pieței de Energie Electrică \"Opcom\" - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142133",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142133",
+     "sha256": "10b57ae1851d12b2ff882ab69baa9ea930bc27fe6fbd75cd3d2d49331eef4062"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1185-2012",
+   "path": "ordin/economie/2012/1185",
+   "short": "Ordin economie nr. 1185/2012",
+   "title": "Ordinul nr. 1.185/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială Filiala \"Institutul de Cercetări și Modernizări Energetice - Icemenerg\" - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142555",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142555",
+     "sha256": "a2afa925e2c460998811b2e686d1d51f771d2a9f978e15a8bd331fd6be7db98f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1193-2012",
    "path": "ordin/economie/2012/1193",
    "short": "Ordin economie nr. 1193/2012",
@@ -5624,6 +5864,96 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139254",
      "sha256": "39c52d3e6b2fb4e42d872770f223b2b2921aeb493a0c297edb7e6b9f868695cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1202-2012",
+   "path": "ordin/economie/2012/1202",
+   "short": "Ordin economie nr. 1202/2012",
+   "title": "Ordinul nr. 1.202/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială F.D.E.E. \"ELECTRICA DISTRIBUȚIE TRANSILVANIA NORD\" - S.A. - filială a Societății Comerciale \"ELECTRICA\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142292",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142292",
+     "sha256": "fa0b2d9b56533034b410bc30fc00154bcb6244cc6a21519e90de5a32e7c11cba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1203-2012",
+   "path": "ordin/economie/2012/1203",
+   "short": "Ordin economie nr. 1203/2012",
+   "title": "Ordinul nr. 1.203/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice Electrica Distribuție Muntenia Nord\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142700",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142700",
+     "sha256": "acbb67a5081df7443de14345c808ef821c7f7b3a0ad8a8c52dd3722d4f242f4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1204-2012",
+   "path": "ordin/economie/2012/1204",
+   "short": "Ordin economie nr. 1204/2012",
+   "title": "Ordinul nr. 1.204/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice ELECTRICA DISTRIBUȚIE TRANSILVANIA SUD\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice ELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142608",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142608",
+     "sha256": "4ca5197ccf0ac780c9dc99cb5c439ebeabe24a7cf404aa87ae2b0a7c7f3e6325"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1205-2012",
+   "path": "ordin/economie/2012/1205",
+   "short": "Ordin economie nr. 1205/2012",
+   "title": "Ordinul nr. 1.205/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"HIDROSERV\" Curtea de Argeș - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice HIDROELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142594",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142594",
+     "sha256": "12edb76fa701313b14888a956ede58311b52ec15ecc87d8f83d956934ecc23e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1206-2012",
+   "path": "ordin/economie/2012/1206",
+   "short": "Ordin economie nr. 1206/2012",
+   "title": "Ordinul nr. 1.206/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială ELECTRICA FURNIZARE - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice ELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142129",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142129",
+     "sha256": "6d6b28d446542d306df45f34e95ab01bfbd355dbb299e5683dee22e0499f057b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1220-2012",
+   "path": "ordin/economie/2012/1220",
+   "short": "Ordin economie nr. 1220/2012",
+   "title": "Ordinul nr. 1.220/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"HIDROSERV\" BISTRIȚA - S.A. Piatra-Neamț filială a Societății Comerciale de Producere a Energiei Electrice \"HIDROELECTRICA\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142692",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142692",
+     "sha256": "db3c1692d16fe8a999474ebcd31d2b0320a3104312d9f8dff4528252ed7e09b9"
     }
    ]
   },
@@ -5673,6 +6003,36 @@
    ]
   },
   {
+   "slug": "ordin-economie-1389-2012",
+   "path": "ordin/economie/2012/1389",
+   "short": "Ordin economie nr. 1389/2012",
+   "title": "Ordinul nr. 1.389/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Electrocentrale\" Galați - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice și Termice Termoelectrica - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142090",
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142090",
+     "sha256": "4544ffd1a15967df4d52d8906bd9fae7dc7ac115571a18d715dee7acc8c68016"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1390-2012",
+   "path": "ordin/economie/2012/1390",
+   "short": "Ordin economie nr. 1390/2012",
+   "title": "Ordinul nr. 1.390/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială HIDROSERV Porțile de Fier - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice HIDROELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142122",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142122",
+     "sha256": "8c5d9fb5d4214347e7a6e3771022e94b79412d9175938c40ecd013692ecdfccf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1461-2012",
    "path": "ordin/economie/2012/1461",
    "short": "Ordin economie nr. 1461/2012",
@@ -5684,6 +6044,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140763",
      "sha256": "12239fdb265d437f963e24778d3e133db47345d04571d59104de9d4c1a239563"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1499-2012",
+   "path": "ordin/economie/2012/1499",
+   "short": "Ordin economie nr. 1499/2012",
+   "title": "Ordinul nr. 1.499/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială SMART - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142730",
+   "versions": [
+    {
+     "from": "2012-11-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142730",
+     "sha256": "e5c1a6e0663362075d4fc1ee6aadc19e596458fd83cd066e49ee8301cdd36bf3"
     }
    ]
   },
@@ -5748,6 +6123,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1725-2012",
+   "path": "ordin/economie/2012/1725",
+   "short": "Ordin economie nr. 1725/2012",
+   "title": "Ordinul nr. 1.725/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială ICEMENERG SERVICE - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142766",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142766",
+     "sha256": "bc0c55eb91f00abf36beadbc611217624d5a3076a6144f1b9a2746affdc53038"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1795-2012",
    "path": "ordin/economie/2012/1795",
    "short": "Ordin economie nr. 1795/2012",
@@ -5759,6 +6149,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142713",
      "sha256": "07abee1e4af90ca4841daa72a5272769873b3788eeee6cd6763eee39185c0d03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2091-2012",
+   "path": "ordin/economie/2012/2091",
+   "short": "Ordin economie nr. 2091/2012",
+   "title": "Ordinul nr. 2.091/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială de Întreținere și Servicii Energetice ELECTRICA SERV - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice ELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143947",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143947",
+     "sha256": "91f979436dfbae5182933dde54b02d497639273458335d6786cb4cb65cd9a651"
     }
    ]
   },
@@ -5793,6 +6198,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-2368-2012",
+   "path": "ordin/economie/2012/2368",
+   "short": "Ordin economie nr. 2368/2012",
+   "title": "Ordinul nr. 2.368/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale METROM - S.A. Brașov, filială a Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143766",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143766",
+     "sha256": "7d3203e212976482681058926ecb50a5c032d44fdb123bd71218abac6cf195b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2369-2012",
+   "path": "ordin/economie/2012/2369",
+   "short": "Ordin economie nr. 2369/2012",
+   "title": "Ordinul nr. 2.369/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale TOHAN - S.A., filială a Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143606",
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143606",
+     "sha256": "9a0d2439196fe304672a44aa9753f61119d6ce9b24afeb90ffa4c93049f002cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2456-2012",
+   "path": "ordin/economie/2012/2456",
+   "short": "Ordin economie nr. 2456/2012",
+   "title": "Ordinul nr. 2.456/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale \"Uzina Mecanică\" Plopeni - S.A., filială a Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143931",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143931",
+     "sha256": "cd519b5333fa697d5c6fe5a137b57db361a14e98f7e4c4e7cc7bc3db50977288"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-2458-2012",
    "path": "ordin/economie/2012/2458",
    "short": "Ordin economie nr. 2458/2012",
@@ -5819,6 +6269,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143068",
      "sha256": "128da136c03cb4c790db0d9b391dabb319c286b7aaf8757ee29f1f46fc523c70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2462-2012",
+   "path": "ordin/economie/2012/2462",
+   "short": "Ordin economie nr. 2462/2012",
+   "title": "Ordinul nr. 2.462/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Servicii Energetice Muntenia\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice ELECTRICA S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143948",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143948",
+     "sha256": "fc95d7e5b9c8449e674ad2ce48eec0be9af638daaa874e5dbd2e94f01734dfce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2463-2012",
+   "path": "ordin/economie/2012/2463",
+   "short": "Ordin economie nr. 2463/2012",
+   "title": "Ordinul nr. 2.463/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Servicii Energetice Banat\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144075",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144075",
+     "sha256": "bfb2b81126716b7612f3c4dc41d8298c774012162bb56c6c81be712481c88156"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2464-2012",
+   "path": "ordin/economie/2012/2464",
+   "short": "Ordin economie nr. 2464/2012",
+   "title": "Ordinul nr. 2.464/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Servicii Energetice Oltenia\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144073",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144073",
+     "sha256": "ef1fda1b99a7ffe10e7664b8be2df53a9a5c0d8f462b56a8243f5916be5e1345"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2465-2012",
+   "path": "ordin/economie/2012/2465",
+   "short": "Ordin economie nr. 2465/2012",
+   "title": "Ordinul nr. 2.465/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Servicii Energetice Moldova\" - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144069",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144069",
+     "sha256": "57bc118b8c68580a896fc012ef5739afe1904d1edee65f31e2c519be91fa72b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2466-2012",
+   "path": "ordin/economie/2012/2466",
+   "short": "Ordin economie nr. 2466/2012",
+   "title": "Ordinul nr. 2.466/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Servicii Energetice Dobrogea\"- S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice \"Electrica\" - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144072",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144072",
+     "sha256": "2fb103b5dbe078f56adc70a86b19ad31dc4584b3c79c1b0692658da6896a1707"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2468-2012",
+   "path": "ordin/economie/2012/2468",
+   "short": "Ordin economie nr. 2468/2012",
+   "title": "Ordinul nr. 2.468/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale F.A. CUGIR - S.A., filială a Companiei Naționale ROMARM - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143914",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143914",
+     "sha256": "849cd22cbfc30856db3f36c27a5ac029ee2b1a644e003c360a0af44094bb243b"
     }
    ]
   },
@@ -5864,6 +6404,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143032",
      "sha256": "284bc073b11c3dd28110155fc123ac043738af79dd482d9823c860882ab7f7b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2542-2012",
+   "path": "ordin/economie/2012/2542",
+   "short": "Ordin economie nr. 2542/2012",
+   "title": "Ordinul nr. 2.542/2012 pentru modificarea anexei la Ordinul ministrului economiei, comerțului și mediului de afaceri, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului muncii, familiei și protecției sociale nr. 1.065/1.019/1.169/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială \"Formenerg\" - S.A., filială a Companiei Naționale de Transport a Energiei Electrice \"Transelectrica\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143912",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143912",
+     "sha256": "e44cd966145976ef350c686c902066df42a5e394037a8fcca8d142bf73bf2252"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2545-2012",
+   "path": "ordin/economie/2012/2545",
+   "short": "Ordin economie nr. 2545/2012",
+   "title": "Ordinul nr. 2.545/2012 pentru modificarea anexei la Ordinul ministrului economiei, comerțului și mediului de afaceri, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului muncii, familiei și protecției sociale nr. 1.202/1.351/1.927/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială F.D.E.E. \"ELECTRICA DISTRIBUȚIE TRANSILVANIA NORD\" - S.A. - filială a Societății Comerciale \"ELECTRICA\" - S.A.,",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144143",
+   "versions": [
+    {
+     "from": "2012-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144143",
+     "sha256": "c20ac6d49f46ef45aa7ea74f31a4ad6e04fa59e7bf0496b15c0e6beb83695130"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2605-2012",
+   "path": "ordin/economie/2012/2605",
+   "short": "Ordin economie nr. 2605/2012",
+   "title": "Ordinul nr. 2.605/2012 pentru modificarea anexei la Ordinul ministrului economiei, comerțului și mediului de afaceri, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului muncii, familiei și protecției sociale nr. 1.206/1.321/1.926/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială ELECTRICA FURNIZARE - S.A. - filială a Societății Comerciale de Distribuție și Furnizare a Energiei Electrice ELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144166",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144166",
+     "sha256": "c5ee45231fe99379ec72888525309d78b5603da19192fd486da13c66fab6b85a"
     }
    ]
   },
@@ -7968,6 +8553,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1039-2012",
+   "path": "ordin/finante/2012/1039",
+   "short": "Ordin finante nr. 1039/2012",
+   "title": "Ordinul nr. 1.039/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii august 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140223",
+   "versions": [
+    {
+     "from": "2012-08-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140223",
+     "sha256": "320ca311494fcbe87c8aa3a2d3700c780e5cb5d5a4cf6faf8c4981d05f0da697"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1045-2012",
    "path": "ordin/finante/2012/1045",
    "short": "Ordin finante nr. 1045/2012",
@@ -7994,6 +8594,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140343",
      "sha256": "f91f7e5ea334af33fbceeb10c1f57f6d91f4561e1ac27b454004965ee8754d6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-107-2012",
+   "path": "ordin/finante/2012/107",
+   "short": "Ordin finante nr. 107/2012",
+   "title": "Ordinul nr. 107/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii februarie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134910",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134910",
+     "sha256": "867ba628b29a6461b8e2b8aed37347931b1ace1551cf20ab611bfe81b42c9237"
     }
    ]
   },
@@ -8103,6 +8718,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1163-2012",
+   "path": "ordin/finante/2012/1163",
+   "short": "Ordin finante nr. 1163/2012",
+   "title": "Ordinul nr. 1.163/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii septembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140976",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140976",
+     "sha256": "b12d5dcaa7c74021fbc4c22179e88326c27de347f09d0b875f94eba7c89d782d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1248-2012",
    "path": "ordin/finante/2012/1248",
    "short": "Ordin finante nr. 1248/2012",
@@ -8114,6 +8744,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141428",
      "sha256": "d2e83ab68498730800f7b72dbe72837cc055135fd622403ac8f3b3b43fe66597"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1272-2012",
+   "path": "ordin/finante/2012/1272",
+   "short": "Ordin finante nr. 1272/2012",
+   "title": "Ordinul nr. 1.272/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii octombrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141613",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141613",
+     "sha256": "1162a22088c3a95e61324fb3ecf8b168ecd4f0b9846ddda930278b6cd32cfbcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1273-2012",
+   "path": "ordin/finante/2012/1273",
+   "short": "Ordin finante nr. 1273/2012",
+   "title": "Ordinul nr. 1.273/2012 privind prospectul de emisiune al obligațiunilor de stat cu cupon denominate în euro lansate în luna octombrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141614",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141614",
+     "sha256": "80fe91e0af567087b470d087c961e0ed3feb6453c7a693421562d6437c6a7dac"
     }
    ]
   },
@@ -8223,6 +8883,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1416-2012",
+   "path": "ordin/finante/2012/1416",
+   "short": "Ordin finante nr. 1416/2012",
+   "title": "Ordinul nr. 1.416/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 pentru Societatea Comercială HIDROSERV Cluj - S.A. - filială a Societății Comerciale de Producere a Energiei Electrice HIDROELECTRICA - S.A., aflată sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142660",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142660",
+     "sha256": "434eb7b9b6c6188d8d8b280b7c8db396b175a4e9ce43eb8ee083fc2719b027b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1420-2012",
+   "path": "ordin/finante/2012/1420",
+   "short": "Ordin finante nr. 1420/2012",
+   "title": "Ordinul nr. 1.420/2012 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2012 ale societăților comerciale din sectorul producției de apărare, filiale ale Companiei Naționale \"ROMARM\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142923",
+   "versions": [
+    {
+     "from": "2012-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142923",
+     "sha256": "0ca5b15b57d81c0b209542719a3faab9572f7f6a9445234063391975020511ef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1422-2012",
    "path": "ordin/finante/2012/1422",
    "short": "Ordin finante nr. 1422/2012",
@@ -8249,6 +8939,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143102",
      "sha256": "cf24242d832a61324dc4cc68beb7f009bf2d351830fb07aabf9fdb618bc9c462"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1448-2012",
+   "path": "ordin/finante/2012/1448",
+   "short": "Ordin finante nr. 1448/2012",
+   "title": "Ordinul nr. 1.448/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142513",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142513",
+     "sha256": "92eac6720d1f6c13c4461b195aa3f53108efafc79b751a2fce85ff8ec8628d3a"
     }
    ]
   },
@@ -8298,6 +9003,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1489-2012",
+   "path": "ordin/finante/2012/1489",
+   "short": "Ordin finante nr. 1489/2012",
+   "title": "Ordinul nr. 1.489/2012 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna noiembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142756",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142756",
+     "sha256": "2f65c49b6de1ecf7e5b935b538cd2baea552ace759251589ad792e9ca9d72028"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1519-2012",
    "path": "ordin/finante/2012/1519",
    "short": "Ordin finante nr. 1519/2012",
@@ -8343,6 +9063,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1545-2012",
+   "path": "ordin/finante/2012/1545",
+   "short": "Ordin finante nr. 1545/2012",
+   "title": "Ordinul nr. 1.545/2012 privind competența de exercitare a inspecției economico-financiare, soluționarea conflictului de competență și delegarea competenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144493",
+   "versions": [
+    {
+     "from": "2013-01-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144493",
+     "sha256": "3cf455de182884150ab9db01cf1fb071760723b4c1a48fa8d4f44cb4e57486d1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1553-2012",
    "path": "ordin/finante/2012/1553",
    "short": "Ordin finante nr. 1553/2012",
@@ -8369,6 +9104,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135425",
      "sha256": "5c526e2f02c78f471f998c62901189a72812e2402009c18d8c9fc62e5255fea2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1614-2012",
+   "path": "ordin/finante/2012/1614",
+   "short": "Ordin finante nr. 1614/2012",
+   "title": "Ordinul nr. 1.614/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii decembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143264",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143264",
+     "sha256": "dba2a0653bfc30a3673416fe114b079f6364aaf962256ae4bede37d197c3e630"
     }
    ]
   },
@@ -8523,6 +9273,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1750-2012",
+   "path": "ordin/finante/2012/1750",
+   "short": "Ordin finante nr. 1750/2012",
+   "title": "Ordinul nr. 1.750/2012 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144199",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144199",
+     "sha256": "fb42832db949dbf3956c7e3ab3cd911cf7140aff57d4e34279445b731a17a493"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1775-2012",
+   "path": "ordin/finante/2012/1775",
+   "short": "Ordin finante nr. 1775/2012",
+   "title": "Ordinul nr. 1.775/2012 pentru abrogarea Ordinului ministrului finanțelor publice nr. 825/2009 privind evidența statistică a acțiunilor deținute de statul român, în calitate de acționar unic, reprezentat de Ministerul Finanțelor Publice, la Compania Națională \"Loteria Română\" - S.A., Compania Națională \"Imprimeria Națională\" - S.A., CEC BANK - S.A., precum și a altor participații deținute de stat, prin Ministerul Finanțelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144505",
+   "versions": [
+    {
+     "from": "2013-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144505",
+     "sha256": "8be90c020bcb6800bea029309bdeb66ae911b113a8580f5e101c19b2e34396b6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-18-2012",
    "path": "ordin/finante/2012/18",
    "short": "Ordin finante nr. 18/2012",
@@ -8598,6 +9378,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-270-2012",
+   "path": "ordin/finante/2012/270",
+   "short": "Ordin finante nr. 270/2012",
+   "title": "Ordinul nr. 270/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii martie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135838",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135838",
+     "sha256": "334d352e9b4b49899befa9bddc65b3e416b3cd627ca9167a945eb4073e84ff19"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-33-2012",
    "path": "ordin/finante/2012/33",
    "short": "Ordin finante nr. 33/2012",
@@ -8613,6 +9408,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-352-2012",
+   "path": "ordin/finante/2012/352",
+   "short": "Ordin finante nr. 352/2012",
+   "title": "Ordinul nr. 352/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale RO-ARMYCATERING - S.A., filială a Companiei Naționale ROMTEHNICA - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136563",
+   "versions": [
+    {
+     "from": "2012-03-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136563",
+     "sha256": "bbee0ae1a1bbc7ccdef6fc30b39049839a0df070b05fbe22459744352701f746"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-353-2012",
+   "path": "ordin/finante/2012/353",
+   "short": "Ordin finante nr. 353/2012",
+   "title": "Ordinul nr. 353/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale RO-ARMYSECURITY - S.A., filială a Companiei Naționale ROMTEHNICA - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136567",
+   "versions": [
+    {
+     "from": "2012-03-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136567",
+     "sha256": "5e08ef88d91b230f92f4810a4d578db1ed2d135280e209bef9768decb8749078"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-4121-2012",
    "path": "ordin/finante/2012/4121",
    "short": "Ordin finante nr. 4121/2012",
@@ -8624,6 +9449,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174434",
      "sha256": "bf922542f3b72501f2025dca25ec4906c10d531652ecd3c83fcdd7b5b301fd19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-415-2012",
+   "path": "ordin/finante/2012/415",
+   "short": "Ordin finante nr. 415/2012",
+   "title": "Ordinul nr. 415/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii aprilie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136778",
+   "versions": [
+    {
+     "from": "2012-04-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136778",
+     "sha256": "3ad4e02ddb1f6bebf0194e150bdd1c4ba8860fc2249e2ed0e1ed13b9b4c57ddf"
     }
    ]
   },
@@ -8703,6 +9543,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-570-2012",
+   "path": "ordin/finante/2012/570",
+   "short": "Ordin finante nr. 570/2012",
+   "title": "Ordinul nr. 570/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137511",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137511",
+     "sha256": "6fe5b05a4a88f8603fc331a88b602371041796105b81d049ce4aeaa36ece30ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-611-2012",
+   "path": "ordin/finante/2012/611",
+   "short": "Ordin finante nr. 611/2012",
+   "title": "Ordinul nr. 611/2012 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137703",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137703",
+     "sha256": "d4ae88f492ef209a8b4125d9133e5f299638416f59fa2ac7cae0f8888e79c037"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-654-2012",
    "path": "ordin/finante/2012/654",
    "short": "Ordin finante nr. 654/2012",
@@ -8714,6 +9584,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137948",
      "sha256": "3d13e86fad8db6d7534e18ef6ed81cb34703547788841fee41a5e3fcdeabdbfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-663-2012",
+   "path": "ordin/finante/2012/663",
+   "short": "Ordin finante nr. 663/2012",
+   "title": "Ordinul nr. 663/2012 pentru aprobarea componenței Comisiei de autorizare a activității de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138407",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138407",
+     "sha256": "bbd195ebd54a6f42a34ce49acf4f5aadfeedabd8fdf449e87eeb615debdac583"
     }
    ]
   },
@@ -8774,6 +9659,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138478",
      "sha256": "d7c190ec07ff1b39653c216ea1ed70387ec91e2bea6f56e1dd8807f4389c8bf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-774-2012",
+   "path": "ordin/finante/2012/774",
+   "short": "Ordin finante nr. 774/2012",
+   "title": "Ordinul nr. 774/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iunie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138561",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138561",
+     "sha256": "534c4907148d866d01f7b26c97ff974f30817528ce817048ad32849b145b3df6"
     }
    ]
   },
@@ -8853,6 +9753,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-917-2012",
+   "path": "ordin/finante/2012/917",
+   "short": "Ordin finante nr. 917/2012",
+   "title": "Ordinul nr. 917/2012 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iulie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139351",
+   "versions": [
+    {
+     "from": "2012-07-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139351",
+     "sha256": "391dc8fe03f8812886ab4af0225da2c5d6189f213f1cda0a7cc6ce19b2d77ff3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-930-2012",
    "path": "ordin/finante/2012/930",
    "short": "Ordin finante nr. 930/2012",
@@ -8909,6 +9824,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139645",
      "sha256": "8687b735d1fea54685f77459c171264e03d9f7cfe93decb24e351ed58e15fd0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-983-2012",
+   "path": "ordin/finante/2012/983",
+   "short": "Ordin finante nr. 983/2012",
+   "title": "Ordinul nr. 983/2012 privind modificarea anexelor nr. 1, 2, 3a și 3b la Ordinul ministrului finanțelor publice și al ministrului economiei, comerțului și mediului de afaceri nr. 2.179/1.528/2010 pentru aprobarea Convenției privind implementarea măsurilor de sprijin pentru reabilitarea termică a clădirilor de locuit cu finanțare prin credite bancare cu garanție guvernamentală, a Contractului de garantare, a Convenției de fidejusiune și a modelului înscrisului prevăzut la art. 15 din Ordonanța de urgență a Guvernului nr. 69/2010 privind reabilitarea termică a clădirilor de locuit cu finanțare prin credite bancare cu garanție guvernamentală, precum și pentru stabilirea nivelului comisionului de gestiune a garanțiilor acordate de Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN în numele și în contul statului român în cadrul măsurilor de sprijin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139716",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139716",
+     "sha256": "5d4840ba76af32488d00f0db8ee6e69c8d3313f061eb414c2fe6c055260882d7"
     }
    ]
   },
@@ -8988,6 +9918,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-114-2012",
+   "path": "ordin/interne/2012/114",
+   "short": "Ordin interne nr. 114/2012",
+   "title": "Ordinul nr. 114/2012 pentru modificarea art. 1 alin. (1) lit. b) din Ordinul viceprim-ministrului, ministrul administrației și internelor, și al ministrului finanțelor publice nr. 7/433/2009 privind constituirea Comitetului pentru finanțe publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138706",
+   "versions": [
+    {
+     "from": "2012-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138706",
+     "sha256": "322af1bb4e2563f73d250db8f64352cc7ad4d188e82d7ad990d85015d7c9bee9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-118-2012",
    "path": "ordin/interne/2012/118",
    "short": "Ordin interne nr. 118/2012",
@@ -9044,6 +9989,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138712",
      "sha256": "6c461ed718417346591a11262d4a823f6e6540d1db1b2b17eda9e5fb8599fd77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-131-2012",
+   "path": "ordin/interne/2012/131",
+   "short": "Ordin interne nr. 131/2012",
+   "title": "Ordinul nr. 131/2012 privind aplicarea la nivelul municipiului Pașcani, județul Iași, a prevederilor art. 3 alin. (5) din Ordonanța Guvernului nr. 36/2006 privind unele măsuri pentru funcționarea sistemelor centralizate de alimentare cu energie termică a populației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139175",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139175",
+     "sha256": "e2ec79fd5a9a22fb7d243fc35bd63c106da671f74e72d5ed9599b8cf8884632c"
     }
    ]
   },
@@ -9333,6 +10293,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-209-2012",
+   "path": "ordin/interne/2012/209",
+   "short": "Ordin interne nr. 209/2012",
+   "title": "Ordinul nr. 209/2012 pentru aplicarea la nivelul municipiului Mangalia, județul Constanța, a prevederilor art. 3 alin. (5) din Ordonanța Guvernului nr. 36/2006 privind unele măsuri pentru funcționarea sistemelor centralizate de alimentare cu energie termică a populației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141160",
+   "versions": [
+    {
+     "from": "2012-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141160",
+     "sha256": "7dc6965a35beb79867043e04e9a681a371ccef825c7a2ae28afd046fc9742ae9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-210-2012",
    "path": "ordin/interne/2012/210",
    "short": "Ordin interne nr. 210/2012",
@@ -9359,6 +10334,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141080",
      "sha256": "805cf85b1636123945e166e889f3cc4c88217372aa0be7dc08067b4fbd289270"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-217-2012",
+   "path": "ordin/interne/2012/217",
+   "short": "Ordin interne nr. 217/2012",
+   "title": "Ordinul nr. 217/2012 pentru modificarea anexei la Ordinul ministrului administrației și internelor și al ministrului finanțelor publice nr. 286/2.987/2011 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale pe anul 2012, repartizat pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141081",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141081",
+     "sha256": "844d65e49bca3796d8b9812c68bf0ac7be232cf276b5ea41899367e6d0e2d6e3"
     }
    ]
   },
@@ -9543,6 +10533,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-253-2012",
+   "path": "ordin/interne/2012/253",
+   "short": "Ordin interne nr. 253/2012",
+   "title": "Ordinul nr. 253/2012 pentru modificarea anexei la Ordinul ministrului administrației și internelor și al ministrului finanțelor publice nr. 286/2.987/2011 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale pe anul 2012, repartizat pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142732",
+   "versions": [
+    {
+     "from": "2012-11-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142732",
+     "sha256": "546060a979d03fb3333e2336dc85b46e6917d4f69f81659f2b5a5eb11024b9fd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-255-2012",
    "path": "ordin/interne/2012/255",
    "short": "Ordin interne nr. 255/2012",
@@ -9648,6 +10653,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-268-2012",
+   "path": "ordin/interne/2012/268",
+   "short": "Ordin interne nr. 268/2012",
+   "title": "Ordinul nr. 268/2012 pentru modificarea anexei la Ordinul ministrului administrației și internelor și al ministrului finanțelor publice nr. 286/2.987/2011 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale pe anul 2012, repartizat pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143367",
+   "versions": [
+    {
+     "from": "2012-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143367",
+     "sha256": "3c54d9929244a58f2edb0902fba885db3334b58ba26631e7530e372b793270ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-271-2012",
    "path": "ordin/interne/2012/271",
    "short": "Ordin interne nr. 271/2012",
@@ -9659,6 +10679,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143532",
      "sha256": "9b92351b3822a2aa1aa06cc05a09f392781fe84b29f2322cc8ce4d70d161aa5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-276-2012",
+   "path": "ordin/interne/2012/276",
+   "short": "Ordin interne nr. 276/2012",
+   "title": "Ordinul nr. 276/2012 pentru modificarea anexei la Ordinul ministrului administrației și internelor și al ministrului finanțelor publice nr. 286/2.987/2011 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale pe anul 2012, repartizat pe județe și municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143807",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143807",
+     "sha256": "6297c3f9e5088a10687d3fb30bd49d4ebb1e5a531734fb4c9b6e75945c24e0cd"
     }
    ]
   },
@@ -11208,6 +12243,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-1392-2012",
+   "path": "ordin/munca/2012/1392",
+   "short": "Ordin munca nr. 1392/2012",
+   "title": "Ordinul nr. 1.392/2012 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2012 ale institutelor naționale de cercetare-dezvoltare din coordonarea Ministerului Muncii, Familiei și Protecției Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139972",
+   "versions": [
+    {
+     "from": "2012-07-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139972",
+     "sha256": "ee99ac1c1841bee3b4bb57ecd0f216c7489519fccaf31c1cb4ca0427ab3f298e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-177-2012",
    "path": "ordin/munca/2012/177",
    "short": "Ordin munca nr. 177/2012",
@@ -11504,6 +12554,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138270",
      "sha256": "457a0094c8438dae0ade2bf38c8ea46aa081187744154de1b72927a1603a0990"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-805-2012",
+   "path": "ordin/munca/2012/805",
+   "short": "Ordin munca nr. 805/2012",
+   "title": "Ordinul nr. 805/2012 privind stabilirea cuantumului taxei pentru acreditarea furnizorilor de servicii specializate pentru stimularea ocupării forței de muncă pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139840",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139840",
+     "sha256": "98787dfd480e9cdddea3aa46c03b013d3fc4ce6158ac85462d7028d4327f22a3"
     }
    ]
   },
@@ -12003,6 +13068,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1266-2012",
+   "path": "ordin/sanatate/2012/1266",
+   "short": "Ordin sanatate nr. 1266/2012",
+   "title": "Ordinul nr. 1.266/2012 privind modificarea cap. I pct. 3 lit. a) din anexa nr. 2 la Ordinul ministrului sănătății și familiei nr. 698/2001 pentru aprobarea unor metodologii privind angajarea, transferarea și detașarea medicilor, farmaciștilor, biologilor, biochimiștilor și chimiștilor, precum și a altui personal de specialitate cu studii superioare din unitățile sanitare publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143743",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143743",
+     "sha256": "f2a9dd808df44f0deed19a7669c54b07f3b2085e396e6e60f50ebbdfd5dc99d3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1268-2012",
    "path": "ordin/sanatate/2012/1268",
    "short": "Ordin sanatate nr. 1268/2012",
@@ -12333,6 +13413,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-208-2012",
+   "path": "ordin/sanatate/2012/208",
+   "short": "Ordin sanatate nr. 208/2012",
+   "title": "Ordinul nr. 208/2012 privind aprobarea Listei tarifelor pentru prestațiile în domeniul sănătății publice efectuate la nivelul direcțiilor de sănătate publică județene și a municipiului București și de către Institutul Național de Sănătate Publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136240",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136240",
+     "sha256": "fac6f94653915e7953dcb03e4fc6cb4681761374a09bdc7fb276f2adf8defdce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-209-2012",
    "path": "ordin/sanatate/2012/209",
    "short": "Ordin sanatate nr. 209/2012",
@@ -12509,6 +13604,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137756",
      "sha256": "9d456c8edd097802c75560f2882801801ab081e180cd9cd5932f1b6176e6c87d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-430-2012",
+   "path": "ordin/sanatate/2012/430",
+   "short": "Ordin sanatate nr. 430/2012",
+   "title": "Ordinul nr. 430/2012 pentru modificarea Ordinului ministrului sănătății, interimar, nr. 1.446/2009 privind înființarea Comisiei Naționale de Etică și aprobarea componenței acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138158",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138158",
+     "sha256": "8375e0b3ed65a329bc35a97a08cd8816bd0b16196b9ae08d9781a66b89a71cd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-437-2012",
+   "path": "ordin/sanatate/2012/437",
+   "short": "Ordin sanatate nr. 437/2012",
+   "title": "Ordinul nr. 437/2012 pentru modificarea și completarea Ordinului ministrului sănătății nr. 1.009/2010 privind acreditarea unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, de utilizator de țesuturi și/sau celule umane, respectiv de transplant de țesuturi și celule de origine umană în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137650",
+   "versions": [
+    {
+     "from": "2012-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137650",
+     "sha256": "423fd116e0d8dd4f1e7fd82d656ebee853e78a0bf615d2f1422ff1495451ed03"
     }
    ]
   },
@@ -12858,6 +13983,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-712-2012",
+   "path": "ordin/sanatate/2012/712",
+   "short": "Ordin sanatate nr. 712/2012",
+   "title": "Ordinul nr. 712/2012 pentru acreditarea în domeniul transplantului a unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139876",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139876",
+     "sha256": "3c2f4bde27394ae70c056f41f6bf2efa9e7cf7676b52b374ccc040ebfa048f8c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-761-2012",
    "path": "ordin/sanatate/2012/761",
    "short": "Ordin sanatate nr. 761/2012",
@@ -12959,6 +14099,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141439",
      "sha256": "55607047810e2a580c54c0b9d73dbd6f393b53da06f4aeac4f37b69087086673"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-887-2012",
+   "path": "ordin/sanatate/2012/887",
+   "short": "Ordin sanatate nr. 887/2012",
+   "title": "Ordinul nr. 887/2012 pentru acreditarea unității sanitare Societatea Comercială \"Avicena Profertis\" - S.R.L. pentru activitatea de prelevare, stocare, depozitare, conservare, procesare, distribuție și/sau transplant de celule de origine umană în scop terapeutic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141430",
+   "versions": [
+    {
+     "from": "2012-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141430",
+     "sha256": "94bba0ce24daa80c5ff62339f26d5d8fcde2e397239655aa01f78b5bc47eca1e"
     }
    ]
   },
@@ -13319,6 +14474,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139159",
      "sha256": "93a56f4a54cd5816efe7aacc8cd3dc0147cb0a36f1dd709b043f6de2cbea3613"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1081-2012",
+   "path": "ordin/transporturi/2012/1081",
+   "short": "Ordin transporturi nr. 1081/2012",
+   "title": "Ordinul nr. 1.081/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale \"Electrificare CFR\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141161",
+   "versions": [
+    {
+     "from": "2012-09-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141161",
+     "sha256": "8265f327ac6a996f923836b0d792a375ab5da8e25041a01df3f5c99c44412a53"
     }
    ]
   },
@@ -14118,6 +15288,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2228-2012",
+   "path": "ordin/transporturi/2012/2228",
+   "short": "Ordin transporturi nr. 2228/2012",
+   "title": "Ordinul nr. 2.228/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2012 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143902",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143902",
+     "sha256": "debd922f94b8e6a762baa5d48613037649bdd9e6ab29ba52788fc8ac3045b2b4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2264-2012",
    "path": "ordin/transporturi/2012/2264",
    "short": "Ordin transporturi nr. 2264/2012",
@@ -14384,6 +15569,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135472",
      "sha256": "3baa81a2801fba0f275b80b89d48c38f1760f443f2906dced8fee5b671b9901f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-992-2012",
+   "path": "ordin/transporturi/2012/992",
+   "short": "Ordin transporturi nr. 992/2012",
+   "title": "Ordinul nr. 992/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale de Reparații Locomotive \"C.F.R. - SCRL Brașov\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140056",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140056",
+     "sha256": "e0a176477a98fc9187afabb2fbbbd4f41f264a47738b139f58ddda87fbb5d6ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-993-2012",
+   "path": "ordin/transporturi/2012/993",
+   "short": "Ordin transporturi nr. 993/2012",
+   "title": "Ordinul nr. 993/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140526",
+   "versions": [
+    {
+     "from": "2012-08-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140526",
+     "sha256": "b322a6ae935fdad3b23d150876942d78bf45f48c2fc890fce1cdc233c5c097b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-994-2012",
+   "path": "ordin/transporturi/2012/994",
+   "short": "Ordin transporturi nr. 994/2012",
+   "title": "Ordinul nr. 994/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Societății Comerciale Întreținere și Reparații Locomotive și Utilaje \"CFR IRLU\" - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. - Marfă\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140037",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140037",
+     "sha256": "82e27680778b695863fa99672b4aed7a6c56d03778fd284b3ae12ee471a54e80"
     }
    ]
   },

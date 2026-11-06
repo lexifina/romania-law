@@ -5028,6 +5028,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-420-2009",
+   "path": "ordin/comunicatii/2009/420",
+   "short": "Ordin comunicatii nr. 420/2009",
+   "title": "Ordinul nr. 420/2009 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Societății Comerciale \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108151",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108151",
+     "sha256": "b300a1eca43a39807fdbc9af88784a4737f4add9cd2514ff5d58f42246b83cf6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-461-2009",
    "path": "ordin/comunicatii/2009/461",
    "short": "Ordin comunicatii nr. 461/2009",
@@ -6558,6 +6573,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1322-2009",
+   "path": "ordin/economie/2009/1322",
+   "short": "Ordin economie nr. 1322/2009",
+   "title": "Ordinul nr. 1.322/2009 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2009 pentru unii operatori economici aflați sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113038",
+   "versions": [
+    {
+     "from": "2009-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113038",
+     "sha256": "d1a2c4ba8173f6d26a428e5f4c42485713b047f92f0aa889eff97427c03e54ca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1460-2009",
    "path": "ordin/economie/2009/1460",
    "short": "Ordin economie nr. 1460/2009",
@@ -6648,6 +6678,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1818-2009",
+   "path": "ordin/economie/2009/1818",
+   "short": "Ordin economie nr. 1818/2009",
+   "title": "Ordinul nr. 1.818/2009 pentru modificarea anexei nr. 42 la Ordinul ministrului economiei, al ministrului finanțelor publice și al ministrului muncii, familiei și protecției sociale nr. 1.322/2.539/1.505/2009 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2009 pentru unii operatori economici aflați sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113119",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113119",
+     "sha256": "1de58dc4b519a6532f0be08807fc7f9c53f6d555e3b30ead6682bad8ebefae4c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1825-2009",
    "path": "ordin/economie/2009/1825",
    "short": "Ordin economie nr. 1825/2009",
@@ -6734,6 +6779,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114258",
      "sha256": "b2dc097e669e330c076fb3edd2c8dc07837d8c233ed6d872d56d2427753682b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-2112-2009",
+   "path": "ordin/economie/2009/2112",
+   "short": "Ordin economie nr. 2112/2009",
+   "title": "Ordinul nr. 2.112/2009 privind aprobarea bugetelor de venituri și cheltuieli rectificate pe anul 2009 pentru unii operatori aflați sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114829",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114829",
+     "sha256": "2155f2e2d29b6ad8a2c47c4af5bff82be135aba30f2eccd58ad5fa78b09123dc"
     }
    ]
   },
@@ -8028,6 +8088,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1516-2009",
+   "path": "ordin/finante/2009/1516",
+   "short": "Ordin finante nr. 1516/2009",
+   "title": "Ordinul nr. 1.516/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iunie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106387",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106387",
+     "sha256": "b298c60c7deb71818ddd7b5c41af5b76aba03ca343b8c26bf84d8efffaba58cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1517-2009",
    "path": "ordin/finante/2009/1517",
    "short": "Ordin finante nr. 1517/2009",
@@ -8039,6 +8114,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109900",
      "sha256": "b905a675ed92722e68f353ce2e514260002bfc579bc88c87faad6c631c25b6f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-155-2009",
+   "path": "ordin/finante/2009/155",
+   "short": "Ordin finante nr. 155/2009",
+   "title": "Ordinul nr. 155/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii februarie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101983",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101983",
+     "sha256": "bd2dba03e0cc2da7d5c7ad13357a0bced92b6b61f414f1416a304b5a396a9968"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-18-2009",
+   "path": "ordin/finante/2009/18",
+   "short": "Ordin finante nr. 18/2009",
+   "title": "Ordinul nr. 18/2009 pentru modificarea Ordinului ministrului economiei și finanțelor nr. 3.756/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii ianuarie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101353",
+   "versions": [
+    {
+     "from": "2009-01-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101353",
+     "sha256": "3df4055ced3d09fefaa50d206803b9a6a181e0c322dc9cdaa39279745aa0bccb"
     }
    ]
   },
@@ -8133,6 +8238,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2185-2009",
+   "path": "ordin/finante/2009/2185",
+   "short": "Ordin finante nr. 2185/2009",
+   "title": "Ordinul nr. 2.185/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iulie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109127",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109127",
+     "sha256": "d4e68687efca86b6c534258a55fef339d2890186f8fe0011f697c614da9a1ea7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2225-2009",
    "path": "ordin/finante/2009/2225",
    "short": "Ordin finante nr. 2225/2009",
@@ -8223,6 +8343,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2312-2009",
+   "path": "ordin/finante/2009/2312",
+   "short": "Ordin finante nr. 2312/2009",
+   "title": "Ordinul nr. 2.312/2009 pentru modificarea Ordinului ministrului finanțelor publice nr. 2.185/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iulie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109622",
+   "versions": [
+    {
+     "from": "2009-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109622",
+     "sha256": "f022958517725d734703ac17ea3253c7eda11422ccb063cef182f42da223b19e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2321-2009",
    "path": "ordin/finante/2009/2321",
    "short": "Ordin finante nr. 2321/2009",
@@ -8234,6 +8369,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109838",
      "sha256": "79cfad880a379585322bcb0aa161372a6870efa74a82194490072a85dd85f4c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2322-2009",
+   "path": "ordin/finante/2009/2322",
+   "short": "Ordin finante nr. 2322/2009",
+   "title": "Ordinul nr. 2.322/2009 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109948",
+   "versions": [
+    {
+     "from": "2009-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109948",
+     "sha256": "a16f72cdeb002edbaf42c0287edf61f2289b9bf7d05bc22407c37fe85528e4a6"
     }
    ]
   },
@@ -8264,6 +8414,36 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110051",
      "sha256": "a5b5418424303a855bbbfe5db8a2476a66e5481adac42fc858de84da71dc1106"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2397-2009",
+   "path": "ordin/finante/2009/2397",
+   "short": "Ordin finante nr. 2397/2009",
+   "title": "Ordinul nr. 2.397/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii august 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110084",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110084",
+     "sha256": "a7e442efecae331de9bca4e81db2f6722b2bae45c0a8805f556433c659d144f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2398-2009",
+   "path": "ordin/finante/2009/2398",
+   "short": "Ordin finante nr. 2398/2009",
+   "title": "Ordinul nr. 2.398/2009 pentru aprobarea componenței Comisiei de autorizare a jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110086",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110086",
+     "sha256": "13e8006b818ecc45b7db5a27be90dc2858b4b648f85c45bfa251db7c6106706e"
     }
    ]
   },
@@ -8418,6 +8598,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2562-2009",
+   "path": "ordin/finante/2009/2562",
+   "short": "Ordin finante nr. 2562/2009",
+   "title": "Ordinul nr. 2.562/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii septembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110966",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110966",
+     "sha256": "718c84000da344f248356099be52843c986763f121fd317e20373e33cf12f542"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2572-2009",
    "path": "ordin/finante/2009/2572",
    "short": "Ordin finante nr. 2572/2009",
@@ -8459,6 +8654,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112186",
      "sha256": "c03bd9c0e72b441002ab88a5c4101a3b1e1b610d283943f45ad3ed0f5dd27905"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2723-2009",
+   "path": "ordin/finante/2009/2723",
+   "short": "Ordin finante nr. 2723/2009",
+   "title": "Ordinul nr. 2.723/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii octombrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111806",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111806",
+     "sha256": "d1298980614fe6ebbdb34a7a8910d30d564154ae1fb19ef000be2dac1e799667"
     }
    ]
   },
@@ -8553,6 +8763,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-3028-2009",
+   "path": "ordin/finante/2009/3028",
+   "short": "Ordin finante nr. 3028/2009",
+   "title": "Ordinul nr. 3.028/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112890",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112890",
+     "sha256": "fe462befc411e22313173b92e55c0036754aa595f0422c75adae85b664f424ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3091-2009",
+   "path": "ordin/finante/2009/3091",
+   "short": "Ordin finante nr. 3091/2009",
+   "title": "Ordinul nr. 3.091/2009 privind prospectul de emisiune a obligațiunilor de stat cu dobândă denominate în euro lansate în luna noiembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113116",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113116",
+     "sha256": "e6121ea97dedab35dc0c946c529eed135cca65b9223a65d86069d14da3c2b897"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3156-2009",
    "path": "ordin/finante/2009/3156",
    "short": "Ordin finante nr. 3156/2009",
@@ -8564,6 +8804,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113496",
      "sha256": "5f081c7b2de8bedd2cedd00ad2486c3d451dab64779b4fb81c698f262c398ea0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3203-2009",
+   "path": "ordin/finante/2009/3203",
+   "short": "Ordin finante nr. 3203/2009",
+   "title": "Ordinul nr. 3.203/2009 privind prospectul de emisiune al certificatelor de trezorerie cu dobândă denominate în euro lansate în luna noiembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113583",
+   "versions": [
+    {
+     "from": "2009-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113583",
+     "sha256": "f0eeb0583fb8de0d347d87671b9cd070ba20fe27fead6ae45c07b6dcfa54cea7"
     }
    ]
   },
@@ -8594,6 +8849,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114034",
      "sha256": "a6d174d0f2c0110c5fb8d61acd510e545045f738a5306cdf957d49df18c668b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3286-2009",
+   "path": "ordin/finante/2009/3286",
+   "short": "Ordin finante nr. 3286/2009",
+   "title": "Ordinul nr. 3.286/2009 privind prospectele de emisiune ale obligațiunilor de stat de tip benchmark aferente lunii decembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114024",
+   "versions": [
+    {
+     "from": "2009-12-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114024",
+     "sha256": "7569b6e4eac3c97c318e37b48b6adcbe138e619da3d98f1dbcf2f8da92fae07f"
     }
    ]
   },
@@ -8793,6 +9063,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-3474-2009",
+   "path": "ordin/finante/2009/3474",
+   "short": "Ordin finante nr. 3474/2009",
+   "title": "Ordinul nr. 3.474/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115041",
+   "versions": [
+    {
+     "from": "2010-01-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115041",
+     "sha256": "fc9ba7f53154a5c5ae1abe6236a9914b4ccb93d53b8a134a312b9acac25491a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-351-2009",
+   "path": "ordin/finante/2009/351",
+   "short": "Ordin finante nr. 351/2009",
+   "title": "Ordinul nr. 351/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii martie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102879",
+   "versions": [
+    {
+     "from": "2009-03-02",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102879",
+     "sha256": "9c798236bdbb6bdcc1fd4c79fe0e9cdc10d8533e90a86683b10105777f11faf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-391-2009",
+   "path": "ordin/finante/2009/391",
+   "short": "Ordin finante nr. 391/2009",
+   "title": "Ordinul nr. 391/2009 privind modificarea art. I din Ordinul ministrului finanțelor publice și al ministrului administrației și internelor nr. 219/537/2005 pentru aprobarea componenței Comisiei de autorizare a jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104851",
+   "versions": [
+    {
+     "from": "2009-04-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104851",
+     "sha256": "72e8d00b412bb7635cc103c085c1a8f23e44cf8cc36705c6625cd3c750355ef5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-405-2009",
    "path": "ordin/finante/2009/405",
    "short": "Ordin finante nr. 405/2009",
@@ -8988,6 +9303,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-595-2009",
+   "path": "ordin/finante/2009/595",
+   "short": "Ordin finante nr. 595/2009",
+   "title": "Ordinul nr. 595/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii aprilie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104174",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104174",
+     "sha256": "4848b4306eb6d5542aa612ced7f85f138a3fb5093229a35511456644a1193df1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-614-2009",
    "path": "ordin/finante/2009/614",
    "short": "Ordin finante nr. 614/2009",
@@ -9033,6 +9363,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-714-2009",
+   "path": "ordin/finante/2009/714",
+   "short": "Ordin finante nr. 714/2009",
+   "title": "Ordinul nr. 714/2009 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii mai 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105217",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105217",
+     "sha256": "ca53e305bc35b66c516eb844ec42d403eca04572cf6d3eedaf482193b4d1796f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-768-2009",
    "path": "ordin/finante/2009/768",
    "short": "Ordin finante nr. 768/2009",
@@ -9059,6 +9404,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105492",
      "sha256": "fb0273e7f37ccd28bc6b5ab9e2ee6354094ed1cf6c17b2f056ec9f837837986f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-96-2009",
+   "path": "ordin/finante/2009/96",
+   "short": "Ordin finante nr. 96/2009",
+   "title": "Ordinul nr. 96/2009 pentru modificarea Ordinului ministrului economiei și finanțelor nr. 3.756/2008 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark, aferente lunii ianuarie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101505",
+   "versions": [
+    {
+     "from": "2009-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101505",
+     "sha256": "1cc557d4d9e1c89f70c640689ba2f004b5de2bd3e07a46196e05fd7cb0cdadc2"
     }
    ]
   },
@@ -9693,6 +10053,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-249-2009",
+   "path": "ordin/interne/2009/249",
+   "short": "Ordin interne nr. 249/2009",
+   "title": "Ordinul nr. 249/2009 pentru modificarea art. 1 alin. (1) lit. b) din Ordinul viceprim-ministrului, ministrul administrației și internelor, și al ministrului finanțelor publice nr. 7/433/2009 privind constituirea Comitetului pentru finanțe publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112488",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112488",
+     "sha256": "98af746fa02fe8082c1420277577a1e5b31c1c75308e9a0b310eff0b75877b6c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-252-2009",
    "path": "ordin/interne/2009/252",
    "short": "Ordin interne nr. 252/2009",
@@ -10034,6 +10409,21 @@
      "units": 38,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105641",
      "sha256": "90527df9f8f606a6abb60c98a502661926d1728eb7161790787badedf9ab05c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-7-2009",
+   "path": "ordin/interne/2009/7",
+   "short": "Ordin interne nr. 7/2009",
+   "title": "Ordinul nr. 7/2009 privind constituirea Comitetului pentru finanțe publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103338",
+   "versions": [
+    {
+     "from": "2009-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103338",
+     "sha256": "640c6f7710af42521d425cfbc53fe3ae3590d346915ef4484bc1960d2cd6295b"
     }
    ]
   },
@@ -10398,6 +10788,51 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1115-c-2009",
+   "path": "ordin/justitie/2009/1115-c",
+   "short": "Ordin justitie nr. 1115/C/2009",
+   "title": "Ordinul nr. 1.115/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104719",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104719",
+     "sha256": "cab01359ce932b0d96a3abb5b8a3d74b6b1e3978e9a38336469884d2a8e80e15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1116-c-2009",
+   "path": "ordin/justitie/2009/1116-c",
+   "short": "Ordin justitie nr. 1116/C/2009",
+   "title": "Ordinul nr. 1.116/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104797",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104797",
+     "sha256": "2e1e5a69f68ebb6c134f53a62d4c24c784c54af4d39f31a112bdf3371a6da6bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1134-c-2009",
+   "path": "ordin/justitie/2009/1134-c",
+   "short": "Ordin justitie nr. 1134/C/2009",
+   "title": "Ordinul nr. 1.134/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104785",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104785",
+     "sha256": "0920913ba6e164b513396233d91829951e5a65e39a680c2310e8905fd719c0d7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1215-c-2009",
    "path": "ordin/justitie/2009/1215-c",
    "short": "Ordin justitie nr. 1215/C/2009",
@@ -10424,6 +10859,66 @@
      "units": 155,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106462",
      "sha256": "3a6da7b744b91304c4442b00ea3c5dbf16f64a3fa90e23c9a5ece61a8777216f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1236-c-2009",
+   "path": "ordin/justitie/2009/1236-c",
+   "short": "Ordin justitie nr. 1236/C/2009",
+   "title": "Ordinul nr. 1.236/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105186",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105186",
+     "sha256": "f5aad51b0317c38079b535beedc7c9617fb2eaed26ab9647e60359594bdc0f86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1237-c-2009",
+   "path": "ordin/justitie/2009/1237-c",
+   "short": "Ordin justitie nr. 1237/C/2009",
+   "title": "Ordinul nr. 1.237/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105144",
+   "versions": [
+    {
+     "from": "2009-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105144",
+     "sha256": "bfb411dd87129fa3f50390313cfb71fa128230f239515ff70402309948e06256"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1238-c-2009",
+   "path": "ordin/justitie/2009/1238-c",
+   "short": "Ordin justitie nr. 1238/C/2009",
+   "title": "Ordinul nr. 1.238/C/2009 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105040",
+   "versions": [
+    {
+     "from": "2009-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105040",
+     "sha256": "b029edc67415293f9fb223aef6863514720e67f746e0fb7a61ee75f4d99efdba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1239-c-2009",
+   "path": "ordin/justitie/2009/1239-c",
+   "short": "Ordin justitie nr. 1239/C/2009",
+   "title": "Ordinul nr. 1.239/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105185",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105185",
+     "sha256": "2d841989954f04411d19e2a0a1da47fe93a1c07ace098c74187ec43d414410db"
     }
    ]
   },
@@ -10473,6 +10968,36 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1405-c-2009",
+   "path": "ordin/justitie/2009/1405-c",
+   "short": "Ordin justitie nr. 1405/C/2009",
+   "title": "Ordinul nr. 1.405/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106006",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106006",
+     "sha256": "859cd5fe433710ee98ecec20a6dd3002b31750573cee54086c9ac38b460822f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1406-c-2009",
+   "path": "ordin/justitie/2009/1406-c",
+   "short": "Ordin justitie nr. 1406/C/2009",
+   "title": "Ordinul nr. 1.406/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106070",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106070",
+     "sha256": "fe429a58dc5866ed88a91421fb479d717601b680040c5d0a793fe349aa32b985"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1407-c-2009",
    "path": "ordin/justitie/2009/1407-c",
    "short": "Ordin justitie nr. 1407/C/2009",
@@ -10484,6 +11009,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106562",
      "sha256": "5301d8de407c5be3b275c84b22a10c3045eca4296661f7fce256c1f57497972b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1408-c-2009",
+   "path": "ordin/justitie/2009/1408-c",
+   "short": "Ordin justitie nr. 1408/C/2009",
+   "title": "Ordinul nr. 1.408/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105976",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105976",
+     "sha256": "b22b5077c67b8725e0091f93960224e356334e0a04fe1c3c88b614d3c6122e11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1409-c-2009",
+   "path": "ordin/justitie/2009/1409-c",
+   "short": "Ordin justitie nr. 1409/C/2009",
+   "title": "Ordinul nr. 1.409/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106566",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106566",
+     "sha256": "220a9956f5d5eebea5dfa27a96867673ec6f068df82e1ebdcc31b2587f043bbb"
     }
    ]
   },
@@ -10563,6 +11118,126 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1635-c-2009",
+   "path": "ordin/justitie/2009/1635-c",
+   "short": "Ordin justitie nr. 1635/C/2009",
+   "title": "Ordinul nr. 1.635/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108013",
+   "versions": [
+    {
+     "from": "2009-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108013",
+     "sha256": "fdec0766ce139b974d0753c96c638affc2817de9d2ac287b5f0d107a27d14907"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1636-c-2009",
+   "path": "ordin/justitie/2009/1636-c",
+   "short": "Ordin justitie nr. 1636/C/2009",
+   "title": "Ordinul nr. 1.636/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107242",
+   "versions": [
+    {
+     "from": "2009-06-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107242",
+     "sha256": "56bc4214c5654278ad26731d9457d8b8fe520b4ac02fc8070b944a2a57fe4796"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1637-c-2009",
+   "path": "ordin/justitie/2009/1637-c",
+   "short": "Ordin justitie nr. 1637/C/2009",
+   "title": "Ordinul nr. 1.637/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108116",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108116",
+     "sha256": "b3e1a508b67e06ff118784704b8cc5f6eab04fe2ab5b5130adc9ea82ae5822cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1711-c-2009",
+   "path": "ordin/justitie/2009/1711-c",
+   "short": "Ordin justitie nr. 1711/C/2009",
+   "title": "Ordinul nr. 1.711/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108148",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108148",
+     "sha256": "4e2dca7a0432b6330cbb5fe0abceabad702a3584a82ab5e66c6cef0a6c43dda5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1782-c-2009",
+   "path": "ordin/justitie/2009/1782-c",
+   "short": "Ordin justitie nr. 1782/C/2009",
+   "title": "Ordinul nr. 1.782/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109792",
+   "versions": [
+    {
+     "from": "2009-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109792",
+     "sha256": "2e04ca8c0920534cfc0252ae717893c8268a1ce63d3de5b134d2c286ba71e9e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1783-c-2009",
+   "path": "ordin/justitie/2009/1783-c",
+   "short": "Ordin justitie nr. 1783/C/2009",
+   "title": "Ordinul nr. 1.783/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109612",
+   "versions": [
+    {
+     "from": "2009-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109612",
+     "sha256": "49e859476e001f55890e6d98d3dcdf7da3578c5513f70df5e8ec29e9f4e7cceb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1784-c-2009",
+   "path": "ordin/justitie/2009/1784-c",
+   "short": "Ordin justitie nr. 1784/C/2009",
+   "title": "Ordinul nr. 1.784/C/2009 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109355",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109355",
+     "sha256": "a050c71ed2f3c6ff1c5c589c32defa245b293a488294db330ccf1bf5e06ebfa4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1786-2009",
+   "path": "ordin/justitie/2009/1786",
+   "short": "Ordin justitie nr. 1786/2009",
+   "title": "Ordinul nr. 1.786/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109680",
+   "versions": [
+    {
+     "from": "2009-07-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109680",
+     "sha256": "c9e4209239a57fe3c0d5271f6cf77947536166cce45dd81aab911df903f326e2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1787-c-2009",
    "path": "ordin/justitie/2009/1787-c",
    "short": "Ordin justitie nr. 1787/C/2009",
@@ -10574,6 +11249,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109398",
      "sha256": "a35a21d7d73cedf19bae804d5933c8add92c92606bafe7ae2fc1f0e845138809"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1788-c-2009",
+   "path": "ordin/justitie/2009/1788-c",
+   "short": "Ordin justitie nr. 1788/C/2009",
+   "title": "Ordinul nr. 1.788/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109417",
+   "versions": [
+    {
+     "from": "2009-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109417",
+     "sha256": "45b44c85b60667afbc77015d9baf1611237094b0f2cd5f9c8be3ed70ea3a05b7"
     }
    ]
   },
@@ -10593,6 +11283,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1825-c-2009",
+   "path": "ordin/justitie/2009/1825-c",
+   "short": "Ordin justitie nr. 1825/C/2009",
+   "title": "Ordinul nr. 1.825/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109845",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109845",
+     "sha256": "1e563b4155d3820ed45c1aab0f82d54cb8ce5e1799381892f317a6eb26178941"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1884-c-2009",
    "path": "ordin/justitie/2009/1884-c",
    "short": "Ordin justitie nr. 1884/C/2009",
@@ -10604,6 +11309,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111123",
      "sha256": "772d9fee2628ee4607dd41efba4f4ab06305e0314f0ee65aa738531197c5c879"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1979-c-2009",
+   "path": "ordin/justitie/2009/1979-c",
+   "short": "Ordin justitie nr. 1979/C/2009",
+   "title": "Ordinul nr. 1.979/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109988",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109988",
+     "sha256": "6f4bda8262974e0b3ecc85aaacf15d4f6f906a3cad475243bf1106d833630ff3"
     }
    ]
   },
@@ -10623,6 +11343,66 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1995-c-2009",
+   "path": "ordin/justitie/2009/1995-c",
+   "short": "Ordin justitie nr. 1995/C/2009",
+   "title": "Ordinul nr. 1.995/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110288",
+   "versions": [
+    {
+     "from": "2009-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110288",
+     "sha256": "264a0e564e6db6b70a5513e9fae8e0e97d9557a8f97ca8d2f25630309d3c867f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2195-c-2009",
+   "path": "ordin/justitie/2009/2195-c",
+   "short": "Ordin justitie nr. 2195/C/2009",
+   "title": "Ordinul nr. 2.195/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110514",
+   "versions": [
+    {
+     "from": "2009-08-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110514",
+     "sha256": "e4341f2fbc79cc21192ec67e30182e30562a0cf3680d3ee416536d8021fe29ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2196-2009",
+   "path": "ordin/justitie/2009/2196",
+   "short": "Ordin justitie nr. 2196/2009",
+   "title": "Ordinul nr. 2.196/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110581",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110581",
+     "sha256": "97a4e1ef79ce2628f80c08a7c9b94e28e3b5179dfb835b4630386be41f0a0e88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2197-c-2009",
+   "path": "ordin/justitie/2009/2197-c",
+   "short": "Ordin justitie nr. 2197/C/2009",
+   "title": "Ordinul nr. 2.197/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112140",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112140",
+     "sha256": "0341948e56bfe1accee37f6757304b0078c0b93af65138f29ba9a479e4c07552"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2198-c-2009",
    "path": "ordin/justitie/2009/2198-c",
    "short": "Ordin justitie nr. 2198/C/2009",
@@ -10634,6 +11414,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110487",
      "sha256": "eb17d2e97ef1480a7dc5febdf4d3080672e609a4942aa350ad168d7675a2b9d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2199-c-2009",
+   "path": "ordin/justitie/2009/2199-c",
+   "short": "Ordin justitie nr. 2199/C/2009",
+   "title": "Ordinul nr. 2.199/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110610",
+   "versions": [
+    {
+     "from": "2009-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110610",
+     "sha256": "d3e7d1b48c913a1eeba2a61cec276efb34c38a8c49b2ed7e64e86a83c9bd132a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2429-c-2009",
+   "path": "ordin/justitie/2009/2429-c",
+   "short": "Ordin justitie nr. 2429/C/2009",
+   "title": "Ordinul nr. 2.429/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111934",
+   "versions": [
+    {
+     "from": "2009-10-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111934",
+     "sha256": "a1e8f5f758d565e207f0953a3f893dec89afd532bd913685d910b60afc58cb87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2455-c-2009",
+   "path": "ordin/justitie/2009/2455-c",
+   "short": "Ordin justitie nr. 2455/C/2009",
+   "title": "Ordinul nr. 2.455/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111540",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111540",
+     "sha256": "4ea4f2ca3f9dbd809fb551b6722b36951e7e860569c5b8618d74d92bf360585a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2456-c-2009",
+   "path": "ordin/justitie/2009/2456-c",
+   "short": "Ordin justitie nr. 2456/C/2009",
+   "title": "Ordinul nr. 2.456/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111514",
+   "versions": [
+    {
+     "from": "2009-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111514",
+     "sha256": "4659d7e04a0e2c7c426915a314e763aeadd796f090473da9a388acc41a4cd8d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2457-c-2009",
+   "path": "ordin/justitie/2009/2457-c",
+   "short": "Ordin justitie nr. 2457/C/2009",
+   "title": "Ordinul nr. 2.457/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111530",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111530",
+     "sha256": "3fca51a1e02f708b15969638a3ece0cc0d8685611cfd08966f58606ef58a15e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2530-c-2009",
+   "path": "ordin/justitie/2009/2530-c",
+   "short": "Ordin justitie nr. 2530/C/2009",
+   "title": "Ordinul nr. 2.530/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111545",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111545",
+     "sha256": "f87affc4702be03d724dd3e60cff6e05bf09b4e5322100cbe0dab9ec154c7bf2"
     }
    ]
   },
@@ -10668,6 +11538,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2634-c-2009",
+   "path": "ordin/justitie/2009/2634-c",
+   "short": "Ordin justitie nr. 2634/C/2009",
+   "title": "Ordinul nr. 2.634/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111908",
+   "versions": [
+    {
+     "from": "2009-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111908",
+     "sha256": "8f84476e1c851d4751c28e64bdab9f421613a47be966518aa6b22cbcac6b625c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2635-c-2009",
    "path": "ordin/justitie/2009/2635-c",
    "short": "Ordin justitie nr. 2635/C/2009",
@@ -10694,6 +11579,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112297",
      "sha256": "8fb9d2dcf158dfb8f19da7a9a5af23b5271f2e7aeba11f956080400ff9004653"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2780-c-2009",
+   "path": "ordin/justitie/2009/2780-c",
+   "short": "Ordin justitie nr. 2780/C/2009",
+   "title": "Ordinul nr. 2.780/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112560",
+   "versions": [
+    {
+     "from": "2009-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112560",
+     "sha256": "3897bdccc41add0292852bf470b812964b8b89dae741cef1735a7f6c17678dec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2781-c-2009",
+   "path": "ordin/justitie/2009/2781-c",
+   "short": "Ordin justitie nr. 2781/C/2009",
+   "title": "Ordinul nr. 2.781/C/2009 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112538",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112538",
+     "sha256": "ce66151fd47ee47195d75d70fe99209d0289fc26875a04b5f35bf1e06f2bad4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2856-c-2009",
+   "path": "ordin/justitie/2009/2856-c",
+   "short": "Ordin justitie nr. 2856/C/2009",
+   "title": "Ordinul nr. 2.856/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112708",
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112708",
+     "sha256": "8a5f46454b4781e12b2b1edab43c36b4634b1e3e6fa924217a13766db1d2a826"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2893-c-2009",
+   "path": "ordin/justitie/2009/2893-c",
+   "short": "Ordin justitie nr. 2893/C/2009",
+   "title": "Ordinul nr. 2.893/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112634",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112634",
+     "sha256": "a8d94d9ffa7b25f887247447166fdc118cb162262f9d0136504193eb949da344"
     }
    ]
   },
@@ -10728,6 +11673,111 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2935-c-2009",
+   "path": "ordin/justitie/2009/2935-c",
+   "short": "Ordin justitie nr. 2935/C/2009",
+   "title": "Ordinul nr. 2.935/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113101",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113101",
+     "sha256": "c136b59b529bf6924d883ca7299219f8a5e7879333b010d552c39743121a3606"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2936-c-2009",
+   "path": "ordin/justitie/2009/2936-c",
+   "short": "Ordin justitie nr. 2936/C/2009",
+   "title": "Ordinul nr. 2.936/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113077",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113077",
+     "sha256": "eae59682e007bb4bf148c58d4375b070d5eea9278503630cd412d2d82bb911a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2968-c-2009",
+   "path": "ordin/justitie/2009/2968-c",
+   "short": "Ordin justitie nr. 2968/C/2009",
+   "title": "Ordinul nr. 2.968/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113040",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113040",
+     "sha256": "4536fe4a8b7b4abc685d3ce87c0b03313f0f8f862ecf82c94b5060236d7791c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3061-c-2009",
+   "path": "ordin/justitie/2009/3061-c",
+   "short": "Ordin justitie nr. 3061/C/2009",
+   "title": "Ordinul nr. 3.061/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113456",
+   "versions": [
+    {
+     "from": "2009-11-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113456",
+     "sha256": "9b0d49b51ae5123a8e8c2d2f5f20e8c34ce55ab33c5a178ac787222bb5c0de62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3062-c-2009",
+   "path": "ordin/justitie/2009/3062-c",
+   "short": "Ordin justitie nr. 3062/C/2009",
+   "title": "Ordinul nr. 3.062/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113299",
+   "versions": [
+    {
+     "from": "2009-11-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113299",
+     "sha256": "a07b7f9d4a87ec32ae4ee815001e0b29902a05701452786a1fba8c8c9f62848d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3063-c-2009",
+   "path": "ordin/justitie/2009/3063-c",
+   "short": "Ordin justitie nr. 3063/C/2009",
+   "title": "Ordinul nr. 3.063/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113396",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113396",
+     "sha256": "d6549cc2db6f95c52010f69e2379e7f9abe9cba46c8dc1453eb4b8da21b8c09b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3064-c-2009",
+   "path": "ordin/justitie/2009/3064-c",
+   "short": "Ordin justitie nr. 3064/C/2009",
+   "title": "Ordinul nr. 3.064/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113598",
+   "versions": [
+    {
+     "from": "2009-11-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113598",
+     "sha256": "e40ad98bc8767f6681700b86f8b6a2e0119ddbff308fd3d2413e40227fadf89a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-3130-c-2009",
    "path": "ordin/justitie/2009/3130-c",
    "short": "Ordin justitie nr. 3130/C/2009",
@@ -10739,6 +11789,66 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114055",
      "sha256": "0216dd3c84c04c3caa80670d5829c655fa7dc4f5d63de4ee3d8994c2bd6831e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3133-c-2009",
+   "path": "ordin/justitie/2009/3133-c",
+   "short": "Ordin justitie nr. 3133/C/2009",
+   "title": "Ordinul nr. 3.133/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114081",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114081",
+     "sha256": "6b24c19b048b949466159a4e2887de816cf47ded20026ac21c29444f36fee224"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3134-c-2009",
+   "path": "ordin/justitie/2009/3134-c",
+   "short": "Ordin justitie nr. 3134/C/2009",
+   "title": "Ordinul nr. 3.134/C/2009 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113721",
+   "versions": [
+    {
+     "from": "2009-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113721",
+     "sha256": "d9dea551437c6e35f8f2c438e64518ddbc7a8f5e666a9a4f05a41082f77ab036"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3135-c-2009",
+   "path": "ordin/justitie/2009/3135-c",
+   "short": "Ordin justitie nr. 3135/C/2009",
+   "title": "Ordinul nr. 3.135/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114141",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114141",
+     "sha256": "ca23863d993961b5daa67c632782af0c768b05a2ba8c95743a150d944ccd7ea5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3136-c-2009",
+   "path": "ordin/justitie/2009/3136-c",
+   "short": "Ordin justitie nr. 3136/C/2009",
+   "title": "Ordinul nr. 3.136/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113814",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113814",
+     "sha256": "f3a423a786908bab4364310b3c06ddbe4a8a1356af8ed5eec6e222a1e96f1576"
     }
    ]
   },
@@ -10773,6 +11883,66 @@
    ]
   },
   {
+   "slug": "ordin-justitie-407-c-2009",
+   "path": "ordin/justitie/2009/407-c",
+   "short": "Ordin justitie nr. 407/C/2009",
+   "title": "Ordinul nr. 407/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102101",
+   "versions": [
+    {
+     "from": "2009-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102101",
+     "sha256": "439e5ce788cc07ab2d29eb303a8c5b41b442b2ee4e2df83458ee3f22d15859d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-408-c-2009",
+   "path": "ordin/justitie/2009/408-c",
+   "short": "Ordin justitie nr. 408/C/2009",
+   "title": "Ordinul nr. 408/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102243",
+   "versions": [
+    {
+     "from": "2009-02-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102243",
+     "sha256": "8ed645479e5accd0fb84f81282c49765769054bcc9abf8e24cc26d86ba9f6e8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-45-c-2009",
+   "path": "ordin/justitie/2009/45-c",
+   "short": "Ordin justitie nr. 45/C/2009",
+   "title": "Ordinul nr. 45/C/2009 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101522",
+   "versions": [
+    {
+     "from": "2009-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101522",
+     "sha256": "a1163f3a273dfb9815d680cb196c9408aa9e2805cc5d7334e810013a594d2422"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-498-c-2009",
+   "path": "ordin/justitie/2009/498-c",
+   "short": "Ordin justitie nr. 498/C/2009",
+   "title": "Ordinul nr. 498/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102439",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102439",
+     "sha256": "755275943d45cf8d238b7b51bd3cf03fca274452764c7074071d7172e12c3e0e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-640-c-2009",
    "path": "ordin/justitie/2009/640-c",
    "short": "Ordin justitie nr. 640/C/2009",
@@ -10784,6 +11954,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103201",
      "sha256": "ed88f48dfe3b063b80f27956268a3b6dab368999c952b9cc5d495e0af01f3b2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-648-c-2009",
+   "path": "ordin/justitie/2009/648-c",
+   "short": "Ordin justitie nr. 648/C/2009",
+   "title": "Ordinul nr. 648/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103017",
+   "versions": [
+    {
+     "from": "2009-03-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103017",
+     "sha256": "9bc94bf447d1ad8bc7abddc2194e9d10069b439e274a71fe2f48586cfc4b44f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-649-c-2009",
+   "path": "ordin/justitie/2009/649-c",
+   "short": "Ordin justitie nr. 649/C/2009",
+   "title": "Ordinul nr. 649/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103176",
+   "versions": [
+    {
+     "from": "2009-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103176",
+     "sha256": "4a5beb16f1257e88a361f5c7e382d4bd15caa2781c8f267b0d6282aada3bc111"
     }
    ]
   },
@@ -10818,6 +12018,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-741-c-2009",
+   "path": "ordin/justitie/2009/741-c",
+   "short": "Ordin justitie nr. 741/C/2009",
+   "title": "Ordinul nr. 741/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103755",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103755",
+     "sha256": "8966d74711a676e2112beeffa40c01464f3e43357b01ae9c2c3ea8349ba33ed6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-772-c-2009",
    "path": "ordin/justitie/2009/772-c",
    "short": "Ordin justitie nr. 772/C/2009",
@@ -10829,6 +12044,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104141",
      "sha256": "1d1e63a8534461aec6e073cd263ce7c4c43c17d89089a70a78d2bede5009b744"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-783-c-2009",
+   "path": "ordin/justitie/2009/783-c",
+   "short": "Ordin justitie nr. 783/C/2009",
+   "title": "Ordinul nr. 783/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103546",
+   "versions": [
+    {
+     "from": "2009-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103546",
+     "sha256": "09990b307086f0b8ec29f98bc9e14beee649dbfe399ddbcd11cd97bd07ba048b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-907-c-2009",
+   "path": "ordin/justitie/2009/907-c",
+   "short": "Ordin justitie nr. 907/C/2009",
+   "title": "Ordinul nr. 907/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103908",
+   "versions": [
+    {
+     "from": "2009-03-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103908",
+     "sha256": "53b2c67349774cee09b2a7efe2d67af2f0ee93030bfbd70c264afbe7ade79dce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-908-c-2009",
+   "path": "ordin/justitie/2009/908-c",
+   "short": "Ordin justitie nr. 908/C/2009",
+   "title": "Ordinul nr. 908/C/2009 privind redobândirea cetățeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103553",
+   "versions": [
+    {
+     "from": "2009-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103553",
+     "sha256": "c646dd20bcf9814647843ec450d15d2f084a02461c211af846ec6a511418bc71"
     }
    ]
   },
@@ -10874,6 +12134,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104595",
      "sha256": "d9920421c44f9785b7b5ef8380da6f29a52c3cc435e852ca919106096bd04545"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-977-c-2009",
+   "path": "ordin/justitie/2009/977-c",
+   "short": "Ordin justitie nr. 977/C/2009",
+   "title": "Ordinul nr. 977/C/2009 privind acordarea cetățeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104025",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104025",
+     "sha256": "cfd01e83c569e4eb154cb981a8268d7cf2c0061cfb590ae6045d3ca71374c0c6"
     }
    ]
   },
@@ -11643,6 +12918,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-1540-2009",
+   "path": "ordin/munca/2009/1540",
+   "short": "Ordin munca nr. 1540/2009",
+   "title": "Ordinul nr. 1.540/2009 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2009 ale institutelor naționale de cercetare-dezvoltare din coordonarea Ministerului Muncii, Familiei și Protecției Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111127",
+   "versions": [
+    {
+     "from": "2009-09-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111127",
+     "sha256": "113452c783f999f628e7cac34b1594f149ac8445039483ba90155396be0b535a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-1555-2009",
    "path": "ordin/munca/2009/1555",
    "short": "Ordin munca nr. 1555/2009",
@@ -11703,6 +12993,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-1752-2009",
+   "path": "ordin/munca/2009/1752",
+   "short": "Ordin munca nr. 1752/2009",
+   "title": "Ordinul nr. 1.752/2009 pentru rectificarea bugetului de venituri și cheltuieli pe anul 2009 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale - I.N.C.S.M.P.S. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114884",
+   "versions": [
+    {
+     "from": "2009-12-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114884",
+     "sha256": "ec99f3aa9d2239df87970972762d450aca0b0782d5ce8de11eea7a4bc5bb2ea3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-213-2009",
    "path": "ordin/munca/2009/213",
    "short": "Ordin munca nr. 213/2009",
@@ -11744,6 +13049,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103405",
      "sha256": "28ef22f5a4546b21e886a16d41176564e70b9355442e94d5e17e18539f000bbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-269-2009",
+   "path": "ordin/munca/2009/269",
+   "short": "Ordin munca nr. 269/2009",
+   "title": "Ordinul nr. 269/2009 pentru aprobarea înființării Comitetului de coordonare a evaluării Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104143",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104143",
+     "sha256": "b04acd13fb455741471c4e1155a40111a17ef84a3994a41a60f4d2bee03991ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-307-2009",
+   "path": "ordin/munca/2009/307",
+   "short": "Ordin munca nr. 307/2009",
+   "title": "Ordinul nr. 307/2009 pentru modificarea anexei la Ordinul ministrului muncii, familiei și egalității de șanse nr. 82/2008 privind aprobarea constituirii Comitetului de monitorizare pentru Programul operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105001",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105001",
+     "sha256": "d3faffa31ebdc9e3199a0bc1fbf7e333e3f63a340523f99e82e3a55c7e397b84"
     }
    ]
   },
@@ -11834,6 +13169,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102333",
      "sha256": "220232d1a8c53e2b0e879204dc2cd2c5be87085889743343e680c9b0b638581d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-77-2009",
+   "path": "ordin/munca/2009/77",
+   "short": "Ordin munca nr. 77/2009",
+   "title": "Ordinul nr. 77/2009 privind stabilirea cuantumului taxei pentru acreditarea furnizorilor de servicii specializate pentru stimularea ocupării forței de muncă pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102417",
+   "versions": [
+    {
+     "from": "2009-02-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102417",
+     "sha256": "5562b558d9ea57f6e16c8d440d46089b4c06cace29685e3b4905692fa9652c87"
     }
    ]
   },
@@ -11954,6 +13304,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110881",
      "sha256": "dd64f4232156180918486fcf1efdaf00785949811efabcb808626e8dc8733d43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1048-2009",
+   "path": "ordin/sanatate/2009/1048",
+   "short": "Ordin sanatate nr. 1048/2009",
+   "title": "Ordinul nr. 1.048/2009 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Institutului Național de Cercetare-Dezvoltare pentru Microbiologie și Imunologie \"Cantacuzino\" București din coordonarea Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112209",
+   "versions": [
+    {
+     "from": "2009-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112209",
+     "sha256": "0c75797a9dfa542c7f71ce8329f5182173cbd0d731bc67ae361d54bf5b621ef7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1049-2009",
+   "path": "ordin/sanatate/2009/1049",
+   "short": "Ordin sanatate nr. 1049/2009",
+   "title": "Ordinul nr. 1.049/2009 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2009 al Institutului Național de Cercetare-Dezvoltare în Domeniul Patologiei și Științelor Biomedicale \"Victor Babeș\" București din coordonarea Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112210",
+   "versions": [
+    {
+     "from": "2009-10-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112210",
+     "sha256": "3f5b1148171e2a546c625e0920d7de07248f4bd8a415dfa7b79815315f383894"
     }
    ]
   },
@@ -12138,6 +13518,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1323-2009",
+   "path": "ordin/sanatate/2009/1323",
+   "short": "Ordin sanatate nr. 1323/2009",
+   "title": "Ordinul nr. 1.323/2009 privind acreditarea Institutului Clinic de Boli Digestive și Transplant Hepatic Fundeni pentru desfășurarea activităților de transplant hepatic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112490",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112490",
+     "sha256": "61cb23dec326c24a50bb4f1c1eb9b7d13fd2b939ae7b7431c48d0901971da643"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1331-2009",
    "path": "ordin/sanatate/2009/1331",
    "short": "Ordin sanatate nr. 1331/2009",
@@ -12213,6 +13608,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1381-2009",
+   "path": "ordin/sanatate/2009/1381",
+   "short": "Ordin sanatate nr. 1381/2009",
+   "title": "Ordinul nr. 1.381/2009 pentru modificarea Ordinului ministrului sănătății nr. 326/2009 privind înființarea comisiilor de specialitate ale Ministerului Sănătății și a Comisiei naționale de transparență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113185",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113185",
+     "sha256": "bcc01f92b886780d8e493255737dabba341f6d43e75b947a5d7fb05f7c764bdf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1402-2009",
    "path": "ordin/sanatate/2009/1402",
    "short": "Ordin sanatate nr. 1402/2009",
@@ -12284,6 +13694,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114256",
      "sha256": "9acd72499677d31a605e5a11a25af4203540957cb503e0674dbc18989ee9757f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1521-2009",
+   "path": "ordin/sanatate/2009/1521",
+   "short": "Ordin sanatate nr. 1521/2009",
+   "title": "Ordinul nr. 1.521/2009 pentru modificarea anexei nr. 2A la Ordinul ministrului sănătății nr. 326/2009 privind înființarea comisiilor de specialitate ale Ministerului Sănătății și Comisiei naționale de transparență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114259",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114259",
+     "sha256": "c17e9118727043ee988aa0d3d745d0ec560dc592986435ee2e237a3cc5f6e192"
     }
    ]
   },
@@ -12588,6 +14013,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-230-2009",
+   "path": "ordin/sanatate/2009/230",
+   "short": "Ordin sanatate nr. 230/2009",
+   "title": "Ordinul nr. 230/2009 pentru modificarea Ordinului ministrului sănătății nr. 127/2009 privind aprobarea regulamentului de organizare și funcționare și a structurii organizatorice ale direcțiilor de sănătate publică județene și a municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102928",
+   "versions": [
+    {
+     "from": "2009-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102928",
+     "sha256": "c23c2aa93cbe3cf473994e606c474a4b86b2b6c178bdfe4e30d62b388598d444"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-233-2009",
    "path": "ordin/sanatate/2009/233",
    "short": "Ordin sanatate nr. 233/2009",
@@ -12599,6 +14039,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105329",
      "sha256": "09c647b4ee0b66fae2870c1b81f35b23386d666ad6da444174e3d841d12188ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-276-2009",
+   "path": "ordin/sanatate/2009/276",
+   "short": "Ordin sanatate nr. 276/2009",
+   "title": "Ordinul nr. 276/2009 privind aprobarea înființării Comisiei naționale pentru elaborarea ghidurilor de practică medicală și a responsabililor pentru acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103662",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103662",
+     "sha256": "6c78147a836eaac086cbafa870c67841655dd6bc1b2227cbdcfe0bbe438449e9"
     }
    ]
   },
@@ -12689,6 +14144,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103953",
      "sha256": "5a1fda0f427da1a2f2c0589870e07e6b429da4fe660c1ad517fbeab7b4b70f2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-326-2009",
+   "path": "ordin/sanatate/2009/326",
+   "short": "Ordin sanatate nr. 326/2009",
+   "title": "Ordinul nr. 326/2009 privind înființarea comisiilor de specialitate ale Ministerului Sănătății și a Comisiei naționale de transparență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104312",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104312",
+     "sha256": "c399781ce1f6a71eb3b2e8b37a72ea1347a3e238ed086af5d96548f8ba2ab5e8"
     }
    ]
   },
@@ -13068,6 +14538,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-76-2009",
+   "path": "ordin/sanatate/2009/76",
+   "short": "Ordin sanatate nr. 76/2009",
+   "title": "Ordinul nr. 76/2009 pentru modificarea Ordinului ministrului sănătății publice nr. 169/2008 privind înființarea comisiilor consultative ale Ministerului Sănătății Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101987",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101987",
+     "sha256": "4d4b14d5f6da8e3559dc799e5776c920c25eff9c1e6f188e5d33bc801eae5ebe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-762-2009",
+   "path": "ordin/sanatate/2009/762",
+   "short": "Ordin sanatate nr. 762/2009",
+   "title": "Ordinul nr. 762/2009 pentru modificarea Ordinului ministrului sănătății nr. 326/2009 privind înființarea comisiilor de specialitate ale Ministerului Sănătății și Comisiei naționale de transparență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107228",
+   "versions": [
+    {
+     "from": "2009-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107228",
+     "sha256": "2f326391ae437be8433abf5b6f72ee5dbe46535a817b3ba7f4132ddca0a41aad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-774-2009",
    "path": "ordin/sanatate/2009/774",
    "short": "Ordin sanatate nr. 774/2009",
@@ -13203,6 +14703,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-905-2009",
+   "path": "ordin/sanatate/2009/905",
+   "short": "Ordin sanatate nr. 905/2009",
+   "title": "Ordinul nr. 905/2009 privind înființarea Dispeceratului unic pentru centralizarea paturilor libere care se asigură de către spitalele de urgență din municipiul București pentru internarea pacienților proveniți din unitățile de primire a urgențelor (UPU) sau compartimentele de primire a urgențelor (CPU)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110039",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110039",
+     "sha256": "c8e65db265f55df79950a67db8c63a7201fb8ec0205648c72c63b5c6a7e8fede"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-948-2009",
    "path": "ordin/sanatate/2009/948",
    "short": "Ordin sanatate nr. 948/2009",
@@ -13229,6 +14744,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110106",
      "sha256": "863fd97ba5dad81eec0bff54512745f4d3addbecbadf976deea6be8c0cfe8b23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-960-2009",
+   "path": "ordin/sanatate/2009/960",
+   "short": "Ordin sanatate nr. 960/2009",
+   "title": "Ordinul nr. 960/2009 privind numirea administratorului special la Societatea Comercială SANEVIT 2003 - S.A. Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110186",
+   "versions": [
+    {
+     "from": "2009-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110186",
+     "sha256": "c171e3ccbfb5319fb2aaf3b62d06dab66351cacdaf063b0c08eee85799d3d013"
     }
    ]
   },
@@ -13919,6 +15449,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109679",
      "sha256": "1092d11d8095d14c671a60550c7c5deaa0897a3fe6ae65ad4cd571bfec1d9acc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-82-2009",
+   "path": "ordin/transporturi/2009/82",
+   "short": "Ordin transporturi nr. 82/2009",
+   "title": "Ordinul nr. 82/2009 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2008 al Societății Comerciale \"Electrificare C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103223",
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103223",
+     "sha256": "08aeff04f4fbb372884379c19d6c973c2df87f9cea1e3f9ff9069aabddbb8f68"
     }
    ]
   },

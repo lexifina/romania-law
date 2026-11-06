@@ -958,6 +958,40 @@
 ]
 },
 {
+"slug": "ordin-agricultura-188-2021",
+"path": "ordin/agricultura/2021/188",
+"kind": "ordin",
+"year": "2021",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 188/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Naționale \"Casa Română de Comerț Agroalimentar UNIREA\" - S.A.",
+"short": "Ordin agricultura nr. 188/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247722",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "812",
+"date": "2021-09-15",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-812-2021"
+},
+{
+"issuer": "finante",
+"nr": "1301",
+"date": "2021-10-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1301-2021"
+}
+]
+},
+{
 "slug": "ordin-agricultura-190-2021",
 "path": "ordin/agricultura/2021/190",
 "kind": "ordin",
@@ -9624,6 +9658,557 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-14-2021",
+"path": "ordin/economie/2021/14",
+"kind": "ordin",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 14/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 14/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249793",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1554",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1554-2021"
+},
+{
+"issuer": "munca",
+"nr": "1176",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": null
+}
+]
+},
+{
+"slug": "ordin-economie-15-2021",
+"path": "ordin/economie/2021/15",
+"kind": "ordin",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 15/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 15/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249798",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1562",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1562-2021"
+},
+{
+"issuer": "munca",
+"nr": "1182",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1182-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-16-2021",
+"path": "ordin/economie/2021/16",
+"kind": "ordin",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 16/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea TOHAN - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 16/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249801",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1558",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1558-2021"
+},
+{
+"issuer": "munca",
+"nr": "1183",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1183-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-17-2021",
+"path": "ordin/economie/2021/17",
+"kind": "ordin",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 17/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 17/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249741",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1559",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1559-2021"
+},
+{
+"issuer": "munca",
+"nr": "1175",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1175-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-18-2021",
+"path": "ordin/economie/2021/18",
+"kind": "ordin",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 18/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea PRELMEC - S.A., unde Societatea Uzina Mecanică Orăștie - S.A., aflată sub autoritatea Ministerului Economiei, deține 99,64% din capitalul social",
+"short": "Ordin economie nr. 18/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249326",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1540",
+"date": "2021-12-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1540-2021"
+},
+{
+"issuer": "munca",
+"nr": "1178",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1178-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-19-2021",
+"path": "ordin/economie/2021/19",
+"kind": "ordin",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 19/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Fabrica de Pulberi Făgăraș - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 19/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249744",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1556",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1556-2021"
+},
+{
+"issuer": "munca",
+"nr": "1180",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1180-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-20-2021",
+"path": "ordin/economie/2021/20",
+"kind": "ordin",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 20/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 20/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249804",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1555",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1555-2021"
+},
+{
+"issuer": "munca",
+"nr": "1179",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1179-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-21-2021",
+"path": "ordin/economie/2021/21",
+"kind": "ordin",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 21/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea \"Arsenal Reșița\" - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 21/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249807",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1557",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1557-2021"
+},
+{
+"issuer": "munca",
+"nr": "1174",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1174-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-22-2021",
+"path": "ordin/economie/2021/22",
+"kind": "ordin",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 22/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 22/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249329",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1541",
+"date": "2021-12-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1541-2021"
+},
+{
+"issuer": "munca",
+"nr": "1177",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1177-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-23-2021",
+"path": "ordin/economie/2021/23",
+"kind": "ordin",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 23/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 23/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249757",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1561",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1561-2021"
+},
+{
+"issuer": "munca",
+"nr": "1181",
+"date": "2021-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1181-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-24-2021",
+"path": "ordin/economie/2021/24",
+"kind": "ordin",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 24/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 24/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249332",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1539",
+"date": "2021-12-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1539-2021"
+},
+{
+"issuer": "munca",
+"nr": "1210",
+"date": "2021-12-13",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1210-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-25-2021",
+"path": "ordin/economie/2021/25",
+"kind": "ordin",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 25/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM -S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 25/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249335",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1538",
+"date": "2021-12-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1538-2021"
+},
+{
+"issuer": "munca",
+"nr": "1211",
+"date": "2021-12-13",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1211-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-26-2021",
+"path": "ordin/economie/2021/26",
+"kind": "ordin",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 26/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A. Mangalia, aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 26/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249760",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1553",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1553-2021"
+},
+{
+"issuer": "munca",
+"nr": "1197",
+"date": "2021-12-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1197-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-33-2021",
+"path": "ordin/economie/2021/33",
+"kind": "ordin",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 33/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Institutul de Cercetări Metalurgice \"ICEM\" - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 33/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249872",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1569",
+"date": "2021-12-21",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1569-2021"
+},
+{
+"issuer": "munca",
+"nr": "1196",
+"date": "2021-12-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1196-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-34-2021",
+"path": "ordin/economie/2021/34",
+"kind": "ordin",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 34/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea ROȘIAMIN - S.A. - filiala C.N.C.A.F. MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 34/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249763",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1551",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1551-2021"
+},
+{
+"issuer": "munca",
+"nr": "1195",
+"date": "2021-12-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1195-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-35-2021",
+"path": "ordin/economie/2021/35",
+"kind": "ordin",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 35/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Centrul Național de Învățământ Turistic \"CNIT\" - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 35/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249810",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "turism",
+"nr": "28",
+"date": "2021-12-09",
+"name": "Ministerul Antreprenoriatului și Turismului",
+"alias": "ordin-turism-28-2021"
+},
+{
+"issuer": "finante",
+"nr": "1560",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1560-2021"
+},
+{
+"issuer": "munca",
+"nr": "1198",
+"date": "2021-12-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1198-2021"
+}
+]
+},
+{
 "slug": "ordin-economie-47-2021",
 "path": "ordin/economie/2021/47",
 "kind": "ordin",
@@ -9730,6 +10315,40 @@
 ]
 },
 {
+"slug": "ordin-economie-446-2021",
+"path": "ordin/economie/2021/446",
+"kind": "ordin",
+"year": "2021",
+"number": "446",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 446/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea \"Minprest Serv\" - S.A.",
+"short": "Ordin economie nr. 446/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245823",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "901",
+"date": "2021-07-28",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-901-2021"
+},
+{
+"issuer": "munca",
+"nr": "495",
+"date": "2021-06-04",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-495-2021"
+}
+]
+},
+{
 "slug": "ordin-economie-481-2021",
 "path": "ordin/economie/2021/481",
 "kind": "ordin",
@@ -9785,6 +10404,142 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244390",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-878-2021",
+"path": "ordin/economie/2021/878",
+"kind": "ordin",
+"year": "2021",
+"number": "878",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 878/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Radioactiv Mineral Măgurele - S.A.",
+"short": "Ordin economie nr. 878/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247693",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1300",
+"date": "2021-10-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1300-2021"
+},
+{
+"issuer": "munca",
+"nr": "883",
+"date": "2021-10-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-883-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-879-2021",
+"path": "ordin/economie/2021/879",
+"kind": "ordin",
+"year": "2021",
+"number": "879",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 879/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Titan Power - S.A.",
+"short": "Ordin economie nr. 879/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-22",
+"latest": "2021-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247636",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1290",
+"date": "2021-10-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1290-2021"
+},
+{
+"issuer": "munca",
+"nr": "884",
+"date": "2021-10-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-884-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-948-2021",
+"path": "ordin/economie/2021/948",
+"kind": "ordin",
+"year": "2021",
+"number": "948",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 948/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Șantierul Naval Mangalia - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 948/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245031",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "865",
+"date": "2021-07-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-865-2021"
+},
+{
+"issuer": "munca",
+"nr": "591",
+"date": "2021-07-05",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-591-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-949-2021",
+"path": "ordin/economie/2021/949",
+"kind": "ordin",
+"year": "2021",
+"number": "949",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 949/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Telegondola Mamaia - S.R.L., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 949/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-23",
+"latest": "2021-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244900",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "771",
+"date": "2021-07-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-771-2021"
+},
+{
+"issuer": "munca",
+"nr": "521",
+"date": "2021-06-11",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-521-2021"
+}
+]
 },
 {
 "slug": "ordin-economie-991-2021",
@@ -9939,6 +10694,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1276-2021",
+"path": "ordin/economie/2021/1276",
+"kind": "ordin",
+"year": "2021",
+"number": "1276",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.276/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Institutul de Cercetare Științifică Inginerie Tehnologică și Proiectări Mine pe Lignit - S.A.",
+"short": "Ordin economie nr. 1276/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-24",
+"latest": "2021-12-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249889",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1552",
+"date": "2021-12-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1552-2021"
+},
+{
+"issuer": "munca",
+"nr": "1194",
+"date": "2021-12-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1194-2021"
+}
+]
+},
+{
 "slug": "ordin-economie-1363-2021",
 "path": "ordin/economie/2021/1363",
 "kind": "ordin",
@@ -9975,6 +10764,210 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246309",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1443-2021",
+"path": "ordin/economie/2021/1443",
+"kind": "ordin",
+"year": "2021",
+"number": "1443",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.443/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea IPROCHIM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1443/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247590",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1288",
+"date": "2021-10-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1288-2021"
+},
+{
+"issuer": "munca",
+"nr": "880",
+"date": "2021-10-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-880-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-1444-2021",
+"path": "ordin/economie/2021/1444",
+"kind": "ordin",
+"year": "2021",
+"number": "1444",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.444/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea GERMISARA - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1444/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247593",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1287",
+"date": "2021-10-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1287-2021"
+},
+{
+"issuer": "munca",
+"nr": "881",
+"date": "2021-10-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-881-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-1445-2021",
+"path": "ordin/economie/2021/1445",
+"kind": "ordin",
+"year": "2021",
+"number": "1445",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.445/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Damen Shipyards Mangalia - S.A., unde Societatea Șantierul Naval 2 Mai - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului, deține 51% din capitalul social",
+"short": "Ordin economie nr. 1445/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247596",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1291",
+"date": "2021-10-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1291-2021"
+},
+{
+"issuer": "munca",
+"nr": "882",
+"date": "2021-10-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-882-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-1549-2021",
+"path": "ordin/economie/2021/1549",
+"kind": "ordin",
+"year": "2021",
+"number": "1549",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.549/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1549/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248680",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1432",
+"date": "2021-11-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1432-2021"
+},
+{
+"issuer": "munca",
+"nr": "992",
+"date": "2021-10-26",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-992-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-1551-2021",
+"path": "ordin/economie/2021/1551",
+"kind": "ordin",
+"year": "2021",
+"number": "1551",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.551/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1551/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248683",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1433",
+"date": "2021-11-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1433-2021"
+},
+{
+"issuer": "munca",
+"nr": "990",
+"date": "2021-10-26",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-990-2021"
+}
+]
+},
+{
+"slug": "ordin-economie-1553-2021",
+"path": "ordin/economie/2021/1553",
+"kind": "ordin",
+"year": "2021",
+"number": "1553",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.553/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 pentru Societatea Carfil - S.A. Brașov - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1553/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248686",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1434",
+"date": "2021-11-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1434-2021"
+},
+{
+"issuer": "munca",
+"nr": "995",
+"date": "2021-10-26",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-995-2021"
+}
+]
 },
 {
 "slug": "ordin-economie-1642-2021",
@@ -10789,6 +11782,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241851",
 "issuer": "educatie",
 "joint": []
+},
+{
+"slug": "ordin-educatie-3688-2021",
+"path": "ordin/educatie/2021/3688",
+"kind": "ordin",
+"year": "2021",
+"number": "3688",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.688/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021, pentru Societatea Editura Didactică și Pedagogică - S.A.",
+"short": "Ordin educatie nr. 3688/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243910",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "701",
+"date": "2021-06-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-701-2021"
+},
+{
+"issuer": "munca",
+"nr": "460",
+"date": "2021-05-18",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-460-2021"
+}
+]
 },
 {
 "slug": "ordin-educatie-3689-2021",
@@ -12721,6 +13748,120 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-113-2021",
+"path": "ordin/finante/2021/113",
+"kind": "ordin",
+"year": "2021",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 113/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2021",
+"short": "Ordin finante nr. 113/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236842",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-122-2021",
+"path": "ordin/finante/2021/122",
+"kind": "ordin",
+"year": "2021",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 122/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii februarie 2021",
+"short": "Ordin finante nr. 122/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237165",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-189-2021",
+"path": "ordin/finante/2021/189",
+"kind": "ordin",
+"year": "2021",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 189/2021 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna februarie 2021",
+"short": "Ordin finante nr. 189/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237195",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-229-2021",
+"path": "ordin/finante/2021/229",
+"kind": "ordin",
+"year": "2021",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 229/2021 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 1-19 martie 2021, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor Publice, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 229/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238301",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-230-2021",
+"path": "ordin/finante/2021/230",
+"kind": "ordin",
+"year": "2021",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 230/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii martie 2021",
+"short": "Ordin finante nr. 230/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238302",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-253-2021",
+"path": "ordin/finante/2021/253",
+"kind": "ordin",
+"year": "2021",
+"number": "253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 253/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2021",
+"short": "Ordin finante nr. 253/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238347",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-257-2021",
 "path": "ordin/finante/2021/257",
 "kind": "ordin",
@@ -12774,6 +13915,25 @@
 "from": "2021-03-15",
 "latest": "2021-03-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/239244",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-398-2021",
+"path": "ordin/finante/2021/398",
+"kind": "ordin",
+"year": "2021",
+"number": "398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 398/2021 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna martie 2021",
+"short": "Ordin finante nr. 398/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-15",
+"latest": "2021-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239198",
 "issuer": "finante",
 "joint": []
 },
@@ -12900,6 +14060,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-460-2021",
+"path": "ordin/finante/2021/460",
+"kind": "ordin",
+"year": "2021",
+"number": "460",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 460/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii aprilie 2021",
+"short": "Ordin finante nr. 460/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240200",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-468-2021",
 "path": "ordin/finante/2021/468",
 "kind": "ordin",
@@ -12934,6 +14113,25 @@
 "from": "2021-04-08",
 "latest": "2021-04-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240808",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-482-2021",
+"path": "ordin/finante/2021/482",
+"kind": "ordin",
+"year": "2021",
+"number": "482",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 482/2021 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 3,5 miliarde euro, prin lansarea a două serii noi de obligațiuni, cu maturități de 12 ani și 20 de ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 482/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-07",
+"latest": "2021-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240782",
 "issuer": "finante",
 "joint": []
 },
@@ -12995,6 +14193,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-508-2021",
+"path": "ordin/finante/2021/508",
+"kind": "ordin",
+"year": "2021",
+"number": "508",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 508/2021 pentru modificarea și completarea Ordinului ministrului finanțelor publice nr. 1.886/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia COVID-19 din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii și a întreprinderilor mici cu capitalizare de piață medie - IMM INVEST ROMÂNIA, a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 508/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241278",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-528-2021",
+"path": "ordin/finante/2021/528",
+"kind": "ordin",
+"year": "2021",
+"number": "528",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 528/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2021",
+"short": "Ordin finante nr. 528/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241879",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-534-2021",
+"path": "ordin/finante/2021/534",
+"kind": "ordin",
+"year": "2021",
+"number": "534",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 534/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii mai 2021",
+"short": "Ordin finante nr. 534/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-04",
+"latest": "2021-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241987",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-555-2021",
 "path": "ordin/finante/2021/555",
 "kind": "ordin",
@@ -13014,6 +14269,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-576-2021",
+"path": "ordin/finante/2021/576",
+"kind": "ordin",
+"year": "2021",
+"number": "576",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 576/2021 pentru modificarea anexelor nr. 2 și 3 la Ordinul ministrului finanțelor publice nr. 2.880/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente ajutorului de minimis cuvenit beneficiarilor în cadrul Schemei de ajutor de minimis aferente Programului de susținere a întreprinderilor mici și mijlocii \"IMM LEASING DE ECHIPAMENTE ȘI UTILAJE\" din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii \"IMM LEASING DE ECHIPAMENTE ȘI UTILAJE\", a modelului Convenției de garantare și plată a ajutorului de minimis pentru Programul de susținere a întreprinderilor mici și mijlocii \"IMM LEASING DE ECHIPAMENTE ȘI UTILAJE\", al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 576/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-18",
+"latest": "2021-05-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242364",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-577-2021",
 "path": "ordin/finante/2021/577",
 "kind": "ordin",
@@ -13029,6 +14303,63 @@
 "from": "2021-05-19",
 "latest": "2021-05-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242392",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-593-2021",
+"path": "ordin/finante/2021/593",
+"kind": "ordin",
+"year": "2021",
+"number": "593",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 593/2021 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia de COVID-19 din bugetul Ministerului Finanțelor - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea \"Programului IMM FACTOR - Produs de garantare a creditului comercial și a Schemei de ajutor de stat asociate acestuia\", a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2021",
+"short": "Ordin finante nr. 593/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242861",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-607-2021",
+"path": "ordin/finante/2021/607",
+"kind": "ordin",
+"year": "2021",
+"number": "607",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 607/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2021",
+"short": "Ordin finante nr. 607/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242942",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-609-2021",
+"path": "ordin/finante/2021/609",
+"kind": "ordin",
+"year": "2021",
+"number": "609",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 609/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii iunie 2021",
+"short": "Ordin finante nr. 609/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-03",
+"latest": "2021-06-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243045",
 "issuer": "finante",
 "joint": []
 },
@@ -13071,6 +14402,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-691-2021",
+"path": "ordin/finante/2021/691",
+"kind": "ordin",
+"year": "2021",
+"number": "691",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 691/2021 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 22 iunie-12 iulie 2021, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 691/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-17",
+"latest": "2021-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243328",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-710-2021",
 "path": "ordin/finante/2021/710",
 "kind": "ordin",
@@ -13096,6 +14446,25 @@
 "alias": "ordin-comunicatii-187-2021"
 }
 ]
+},
+{
+"slug": "ordin-finante-735-2021",
+"path": "ordin/finante/2021/735",
+"kind": "ordin",
+"year": "2021",
+"number": "735",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 735/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2021",
+"short": "Ordin finante nr. 735/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243867",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-741-2021",
@@ -13174,6 +14543,82 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-780-2021",
+"path": "ordin/finante/2021/780",
+"kind": "ordin",
+"year": "2021",
+"number": "780",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 780/2021 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 4 miliarde euro, prin lansarea a două serii noi de obligațiuni, cu maturități de 9 ani și 20 ani sau mai mult, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 780/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-07",
+"latest": "2021-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244163",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-857-2021",
+"path": "ordin/finante/2021/857",
+"kind": "ordin",
+"year": "2021",
+"number": "857",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 857/2021 privind prospectul de emisiune a titlului de stat emis în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 857/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-10",
+"latest": "2021-08-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245242",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-874-2021",
+"path": "ordin/finante/2021/874",
+"kind": "ordin",
+"year": "2021",
+"number": "874",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 874/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii august 2021",
+"short": "Ordin finante nr. 874/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-28",
+"latest": "2021-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245006",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-904-2021",
+"path": "ordin/finante/2021/904",
+"kind": "ordin",
+"year": "2021",
+"number": "904",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 904/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2021",
+"short": "Ordin finante nr. 904/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245061",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-966-2021",
 "path": "ordin/finante/2021/966",
 "kind": "ordin",
@@ -13220,6 +14665,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1004-2021",
+"path": "ordin/finante/2021/1004",
+"kind": "ordin",
+"year": "2021",
+"number": "1004",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.004/2021 pentru modificarea Ordinului ministrului finanțelor publice nr. 1.886/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia COVID-19 din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii și a întreprinderilor mici cu capitalizare de piață medie - IMM INVEST ROMÂNIA, a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 1004/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245342",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1040-2021",
 "path": "ordin/finante/2021/1040",
 "kind": "ordin",
@@ -13258,6 +14722,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1068-2021",
+"path": "ordin/finante/2021/1068",
+"kind": "ordin",
+"year": "2021",
+"number": "1068",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.068/2021 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna august 2021",
+"short": "Ordin finante nr. 1068/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245816",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1080-2021",
+"path": "ordin/finante/2021/1080",
+"kind": "ordin",
+"year": "2021",
+"number": "1080",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.080/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2021",
+"short": "Ordin finante nr. 1080/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245911",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1081-2021",
+"path": "ordin/finante/2021/1081",
+"kind": "ordin",
+"year": "2021",
+"number": "1081",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.081/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii septembrie 2021",
+"short": "Ordin finante nr. 1081/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245896",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1096-2021",
 "path": "ordin/finante/2021/1096",
 "kind": "ordin",
@@ -13283,6 +14804,25 @@
 "alias": "ordin-cultura-3453-2021"
 }
 ]
+},
+{
+"slug": "ordin-finante-1122-2021",
+"path": "ordin/finante/2021/1122",
+"kind": "ordin",
+"year": "2021",
+"number": "1122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.122/2021 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 13 septembrie-1 octombrie 2021, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1122/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-09",
+"latest": "2021-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246199",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-1159-2021",
@@ -13361,6 +14901,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1227-2021",
+"path": "ordin/finante/2021/1227",
+"kind": "ordin",
+"year": "2021",
+"number": "1227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.227/2021 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2021",
+"short": "Ordin finante nr. 1227/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-01",
+"latest": "2021-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246802",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1228-2021",
+"path": "ordin/finante/2021/1228",
+"kind": "ordin",
+"year": "2021",
+"number": "1228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.228/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii octombrie 2021",
+"short": "Ordin finante nr. 1228/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-01",
+"latest": "2021-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246803",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1239-2021",
 "path": "ordin/finante/2021/1239",
 "kind": "ordin",
@@ -13432,6 +15010,52 @@
 "alias": "ordin-munca-902-2021"
 }
 ]
+},
+{
+"slug": "ordin-finante-1285-2021",
+"path": "ordin/finante/2021/1285",
+"kind": "ordin",
+"year": "2021",
+"number": "1285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.285/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Comerciale \"RO-ARMYSECURITY\" - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+"short": "Ordin finante nr. 1285/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247714",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "887",
+"date": "2021-10-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-887-2021"
+}
+]
+},
+{
+"slug": "ordin-finante-1341-2021",
+"path": "ordin/finante/2021/1341",
+"kind": "ordin",
+"year": "2021",
+"number": "1341",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.341/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii noiembrie 2021",
+"short": "Ordin finante nr. 1341/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247779",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-1345-2021",
@@ -13510,6 +15134,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1427-2021",
+"path": "ordin/finante/2021/1427",
+"kind": "ordin",
+"year": "2021",
+"number": "1427",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.427/2021 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 18 noiembrie-10 decembrie 2021, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1427/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-15",
+"latest": "2021-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248432",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1449-2021",
 "path": "ordin/finante/2021/1449",
 "kind": "ordin",
@@ -13563,6 +15206,25 @@
 "from": "2021-12-08",
 "latest": "2021-12-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249065",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1489-2021",
+"path": "ordin/finante/2021/1489",
+"kind": "ordin",
+"year": "2021",
+"number": "1489",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.489/2021 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii decembrie 2021",
+"short": "Ordin finante nr. 1489/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-02",
+"latest": "2021-12-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248939",
 "issuer": "finante",
 "joint": []
 },
@@ -13715,6 +15377,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1593-2021",
+"path": "ordin/finante/2021/1593",
+"kind": "ordin",
+"year": "2021",
+"number": "1593",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.593/2021 privind constituirea comitetului de monitorizare a reformei sistemului public de pensii potrivit Planului național de redresare și reziliență",
+"short": "Ordin finante nr. 1593/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-30",
+"latest": "2021-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250047",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1239",
+"date": "2021-12-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1239-2021"
+}
+]
+},
+{
 "slug": "ordin-fonduri-690-2021",
 "path": "ordin/fonduri/2021/690",
 "kind": "ordin",
@@ -13732,6 +15421,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244025",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-792-2021",
+"path": "ordin/fonduri/2021/792",
+"kind": "ordin",
+"year": "2021",
+"number": "792",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 792/2021 ORDIN nr. 792/1.000/2021 pentru modificarea anexei la Ordinul ministrului economiei și finanțelor nr. 3.080/2008 privind constituirea Comitetului de investiții pentru Fondul de participare JEREMIE pentru operațiunile domeniului major de intervenție 1.2 \"Accesul la finanțare al întreprinderilor mici și mijlocii\" din cadrul axei prioritare 1 \"Un sistem de producție inovativ și ecoeficient\", Programul operațional sectorial \"Creșterea competitivității economice\" 2007-2013",
+"short": "Ordin fonduri nr. 792/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-24",
+"latest": "2021-08-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245487",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1000",
+"date": "2021-08-11",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1000-2021"
+}
+]
 },
 {
 "slug": "ordin-fonduri-803-2021",
@@ -15449,6 +17165,33 @@
 "joint": []
 },
 {
+"slug": "ordin-justitie-4734-c-2021",
+"path": "ordin/justitie/2021/4734-c",
+"kind": "ordin",
+"year": "2021",
+"number": "4734-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.734/C/2021 pentru constituirea Comisiei medicale de specialitate și a Comisiei medicale de specialitate pentru soluționarea contestațiilor, precum și pentru stabilirea condițiilor concrete de expertizare a personalului auxiliar de specialitate din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea, a personalului de specialitate criminalistică și a personalului care ocupă funcții auxiliare de specialitate criminalistică din cadrul Institutului Național de Expertize Criminalistice, care pot suferi de o boală psihică",
+"short": "Ordin justitie nr. 4734/C/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248758",
+"issuer": "justitie",
+"joint": [
+{
+"issuer": "sanatate",
+"nr": "2432",
+"date": "2021-11-12",
+"name": "Ministerul Sănătății",
+"alias": "ordin-sanatate-2432-2021"
+}
+]
+},
+{
 "slug": "ordin-justitie-4836-c-2021",
 "path": "ordin/justitie/2021/4836-c",
 "kind": "ordin",
@@ -16377,6 +18120,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-1208-2021",
+"path": "ordin/mediu/2021/1208",
+"kind": "ordin",
+"year": "2021",
+"number": "1208",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.208/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+"short": "Ordin mediu nr. 1208/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-20",
+"latest": "2021-08-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245432",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "664",
+"date": "2021-07-30",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-664-2021"
+},
+{
+"issuer": "finante",
+"nr": "999",
+"date": "2021-08-11",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-999-2021"
+}
+]
+},
+{
 "slug": "ordin-mediu-1286-2021",
 "path": "ordin/mediu/2021/1286",
 "kind": "ordin",
@@ -16567,6 +18344,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-1499-2021",
+"path": "ordin/mediu/2021/1499",
+"kind": "ordin",
+"year": "2021",
+"number": "1499",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.499/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Direcției de creștere, exploatare și ameliorare a cabalinelor, unitate cu personalitate juridică a Regiei Naționale a Pădurilor - Romsilva, prevăzută la pct. 24 din anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1499/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247856",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "886",
+"date": "2021-10-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-886-2021"
+},
+{
+"issuer": "finante",
+"nr": "1340",
+"date": "2021-10-28",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1340-2021"
+}
+]
+},
+{
 "slug": "ordin-mediu-1515-2021",
 "path": "ordin/mediu/2021/1515",
 "kind": "ordin",
@@ -16622,6 +18433,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246258",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-1622-2021",
+"path": "ordin/mediu/2021/1622",
+"kind": "ordin",
+"year": "2021",
+"number": "1622",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.622/2021 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2021 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva, prevăzute în anexa nr. 3 pct. 1-23 din Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1622/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247464",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1176",
+"date": "2021-09-23",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": null
+},
+{
+"issuer": "finante",
+"nr": "1267",
+"date": "2021-10-11",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1267-2021"
+}
+]
 },
 {
 "slug": "ordin-mediu-1672-2021",
@@ -17518,6 +19363,33 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-513-2021",
+"path": "ordin/munca/2021/513",
+"kind": "ordin",
+"year": "2021",
+"number": "513",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 513/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+"short": "Ordin munca nr. 513/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-09",
+"latest": "2021-07-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244219",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "finante",
+"nr": "773",
+"date": "2021-07-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-773-2021"
+}
+]
+},
+{
 "slug": "ordin-munca-519-2021",
 "path": "ordin/munca/2021/519",
 "kind": "ordin",
@@ -17609,6 +19481,25 @@
 "from": "2021-07-11",
 "latest": "2021-07-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244183",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-611-2021",
+"path": "ordin/munca/2021/611",
+"kind": "ordin",
+"year": "2021",
+"number": "611",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 611/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale aflat în coordonarea Ministerului Muncii și Protecției Sociale",
+"short": "Ordin munca nr. 611/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-03",
+"latest": "2021-08-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245125",
 "issuer": "munca",
 "joint": []
 },
@@ -18130,6 +20021,44 @@
 ]
 },
 {
+"slug": "ordin-sanatate-19-2021",
+"path": "ordin/sanatate/2021/19",
+"kind": "ordin",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 19/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 19/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-01",
+"latest": "2021-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236557",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-20-2021",
+"path": "ordin/sanatate/2021/20",
+"kind": "ordin",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 20/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 20/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-20",
+"latest": "2021-01-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236558",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-23-2021",
 "path": "ordin/sanatate/2021/23",
 "kind": "ordin",
@@ -18257,6 +20186,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-98-2021",
+"path": "ordin/sanatate/2021/98",
+"kind": "ordin",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 98/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 98/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-09",
+"latest": "2021-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237251",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-99-2021",
 "path": "ordin/sanatate/2021/99",
 "kind": "ordin",
@@ -18272,6 +20220,25 @@
 "from": "2021-02-10",
 "latest": "2021-02-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237255",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-100-2021",
+"path": "ordin/sanatate/2021/100",
+"kind": "ordin",
+"year": "2021",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 100/2021 pentru modificarea alin. (1) al art. 1 din Ordinul ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+"short": "Ordin sanatate nr. 100/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-10",
+"latest": "2021-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237256",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18366,6 +20333,25 @@
 "alias": "ordin-cnas-127-2021"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-177-2021",
+"path": "ordin/sanatate/2021/177",
+"kind": "ordin",
+"year": "2021",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 177/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 177/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-01",
+"latest": "2021-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238088",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-193-2021",
@@ -18467,6 +20453,25 @@
 "from": "2021-02-26",
 "latest": "2021-02-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/238346",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-241-2021",
+"path": "ordin/sanatate/2021/241",
+"kind": "ordin",
+"year": "2021",
+"number": "241",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 241/2021 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 1.674/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 241/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-02",
+"latest": "2021-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238531",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18574,6 +20579,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-336-2021",
+"path": "ordin/sanatate/2021/336",
+"kind": "ordin",
+"year": "2021",
+"number": "336",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 336/2021 pentru modificarea Ordinului ministrului sănătății nr. 4/2016 privind metodologia de decontare, modelul cererii și al declarațiilor pe propria răspundere pentru plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+"short": "Ordin sanatate nr. 336/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-15",
+"latest": "2021-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239197",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-366-2021",
 "path": "ordin/sanatate/2021/366",
 "kind": "ordin",
@@ -18589,6 +20613,25 @@
 "from": "2021-03-17",
 "latest": "2021-03-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/239326",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-369-2021",
+"path": "ordin/sanatate/2021/369",
+"kind": "ordin",
+"year": "2021",
+"number": "369",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 369/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 369/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-18",
+"latest": "2021-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239671",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18707,6 +20750,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-403-2021",
+"path": "ordin/sanatate/2021/403",
+"kind": "ordin",
+"year": "2021",
+"number": "403",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 403/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 403/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-01",
+"latest": "2021-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240175",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-434-2021",
 "path": "ordin/sanatate/2021/434",
 "kind": "ordin",
@@ -18741,6 +20803,25 @@
 "from": "2021-03-30",
 "latest": "2021-03-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240199",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-450-2021",
+"path": "ordin/sanatate/2021/450",
+"kind": "ordin",
+"year": "2021",
+"number": "450",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 450/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/ comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 450/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240278",
 "issuer": "sanatate",
 "joint": []
 },
@@ -19046,6 +21127,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-535-2021",
+"path": "ordin/sanatate/2021/535",
+"kind": "ordin",
+"year": "2021",
+"number": "535",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 535/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 535/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-01",
+"latest": "2021-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241845",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-537-2021",
 "path": "ordin/sanatate/2021/537",
 "kind": "ordin",
@@ -19247,6 +21347,25 @@
 "alias": "ordin-cnas-483-2021"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-573-2021",
+"path": "ordin/sanatate/2021/573",
+"kind": "ordin",
+"year": "2021",
+"number": "573",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 573/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 573/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-07",
+"latest": "2021-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242099",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-574-2021",
@@ -19505,6 +21624,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-732-2021",
+"path": "ordin/sanatate/2021/732",
+"kind": "ordin",
+"year": "2021",
+"number": "732",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 732/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 732/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-01",
+"latest": "2021-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242838",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-740-2021",
 "path": "ordin/sanatate/2021/740",
 "kind": "ordin",
@@ -19627,6 +21765,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-897-2021",
+"path": "ordin/sanatate/2021/897",
+"kind": "ordin",
+"year": "2021",
+"number": "897",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 897/2021 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 1.674/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 897/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243374",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-929-2021",
 "path": "ordin/sanatate/2021/929",
 "kind": "ordin",
@@ -19659,6 +21816,25 @@
 "alias": "ordin-munca-663-2021"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-931-2021",
+"path": "ordin/sanatate/2021/931",
+"kind": "ordin",
+"year": "2021",
+"number": "931",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 931/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 931/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-17",
+"latest": "2021-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243308",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-934-2021",
@@ -19752,6 +21928,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1028-2021",
+"path": "ordin/sanatate/2021/1028",
+"kind": "ordin",
+"year": "2021",
+"number": "1028",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.028/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1028/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-01",
+"latest": "2021-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243868",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1029-2021",
+"path": "ordin/sanatate/2021/1029",
+"kind": "ordin",
+"year": "2021",
+"number": "1029",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.029/2021 privind modificarea anexei la Ordinul ministrului sănătății nr. 1.674/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1029/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243837",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1030-2021",
 "path": "ordin/sanatate/2021/1030",
 "kind": "ordin",
@@ -19805,6 +22019,25 @@
 "from": "2021-07-08",
 "latest": "2021-07-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244191",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1054-2021",
+"path": "ordin/sanatate/2021/1054",
+"kind": "ordin",
+"year": "2021",
+"number": "1054",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.054/2021 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1054/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243886",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20138,6 +22371,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1178-2021",
+"path": "ordin/sanatate/2021/1178",
+"kind": "ordin",
+"year": "2021",
+"number": "1178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.178/2021 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1178/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-09",
+"latest": "2021-07-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244235",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1204-2021",
 "path": "ordin/sanatate/2021/1204",
 "kind": "ordin",
@@ -20256,6 +22508,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1365-2021",
+"path": "ordin/sanatate/2021/1365",
+"kind": "ordin",
+"year": "2021",
+"number": "1365",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.365/2021 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 1365/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-26",
+"latest": "2021-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244926",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1375-2021",
 "path": "ordin/sanatate/2021/1375",
 "kind": "ordin",
@@ -20359,6 +22630,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1402-2021",
+"path": "ordin/sanatate/2021/1402",
+"kind": "ordin",
+"year": "2021",
+"number": "1402",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.402/2021 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului sănătății nr. 1.244/2020 privind aprobarea Regulamentului pentru tratamentul intervențional al pacienților cu infarct miocardic acut și aprobarea Regulamentului pentru tratamentul urgențelor de chirurgie vasculară și urgențelor de chirurgie cardiovasculară în municipiul București",
+"short": "Ordin sanatate nr. 1402/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245079",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1427-2021",
 "path": "ordin/sanatate/2021/1427",
 "kind": "ordin",
@@ -20393,6 +22683,25 @@
 "from": "2021-08-12",
 "latest": "2021-08-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245299",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1519-2021",
+"path": "ordin/sanatate/2021/1519",
+"kind": "ordin",
+"year": "2021",
+"number": "1519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.519/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1519/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-12",
+"latest": "2021-08-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245304",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20454,6 +22763,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1599-2021",
+"path": "ordin/sanatate/2021/1599",
+"kind": "ordin",
+"year": "2021",
+"number": "1599",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.599/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1599/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-01",
+"latest": "2021-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245498",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1617-2021",
 "path": "ordin/sanatate/2021/1617",
 "kind": "ordin",
@@ -20469,6 +22797,44 @@
 "from": "2021-09-16",
 "latest": "2021-09-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246407",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1627-2021",
+"path": "ordin/sanatate/2021/1627",
+"kind": "ordin",
+"year": "2021",
+"number": "1627",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.627/2021 pentru modificarea și completarea Ordinului ministrului sănătății nr. 1.244/2020 privind aprobarea Regulamentului pentru tratamentul intervențional al pacienților cu infarct miocardic acut și aprobarea Regulamentului pentru tratamentul urgențelor de chirurgie vasculară și urgențelor de chirurgie cardiovasculară în municipiul București",
+"short": "Ordin sanatate nr. 1627/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245497",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1638-2021",
+"path": "ordin/sanatate/2021/1638",
+"kind": "ordin",
+"year": "2021",
+"number": "1638",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.638/2021 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1638/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-01",
+"latest": "2021-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245817",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20582,6 +22948,25 @@
 "alias": "ordin-interne-124-2021"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1754-2021",
+"path": "ordin/sanatate/2021/1754",
+"kind": "ordin",
+"year": "2021",
+"number": "1754",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.754/2021 pentru modificarea Ordinului ministrului sănătății nr. 1.244/2020 privind aprobarea Regulamentului pentru tratamentul intervențional al pacienților cu infarct miocardic acut și aprobarea Regulamentului pentru tratamentul urgențelor de chirurgie vasculară și urgențelor de chirurgie cardiovasculară în municipiul București",
+"short": "Ordin sanatate nr. 1754/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-06",
+"latest": "2021-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246052",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1755-2021",
@@ -21111,6 +23496,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2054-2021",
+"path": "ordin/sanatate/2021/2054",
+"kind": "ordin",
+"year": "2021",
+"number": "2054",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.054/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2054/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247360",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2067-2021",
 "path": "ordin/sanatate/2021/2067",
 "kind": "ordin",
@@ -21202,6 +23606,25 @@
 "from": "2021-10-13",
 "latest": "2021-10-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247389",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2117-2021",
+"path": "ordin/sanatate/2021/2117",
+"kind": "ordin",
+"year": "2021",
+"number": "2117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.117/2021 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2117/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-14",
+"latest": "2021-10-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247408",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21423,6 +23846,25 @@
 "from": "2021-10-20",
 "latest": "2021-10-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247564",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2223-2021",
+"path": "ordin/sanatate/2021/2223",
+"kind": "ordin",
+"year": "2021",
+"number": "2223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.223/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2223/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247572",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21706,6 +24148,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2387-2021",
+"path": "ordin/sanatate/2021/2387",
+"kind": "ordin",
+"year": "2021",
+"number": "2387",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.387/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2387/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248270",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2401-2021",
 "path": "ordin/sanatate/2021/2401",
 "kind": "ordin",
@@ -21855,6 +24316,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2519-2021",
+"path": "ordin/sanatate/2021/2519",
+"kind": "ordin",
+"year": "2021",
+"number": "2519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.519/2021 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2519/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-01",
+"latest": "2021-12-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248733",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2570-2021",
 "path": "ordin/sanatate/2021/2570",
 "kind": "ordin",
@@ -21935,6 +24415,44 @@
 "from": "2021-12-14",
 "latest": "2021-12-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249172",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2652-2021",
+"path": "ordin/sanatate/2021/2652",
+"kind": "ordin",
+"year": "2021",
+"number": "2652",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.652/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2652/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249139",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2653-2021",
+"path": "ordin/sanatate/2021/2653",
+"kind": "ordin",
+"year": "2021",
+"number": "2653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.653/2021 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 1.674/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/ farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2653/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249142",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22030,6 +24548,25 @@
 "from": "2021-12-24",
 "latest": "2021-12-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249898",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2892-2021",
+"path": "ordin/sanatate/2021/2892",
+"kind": "ordin",
+"year": "2021",
+"number": "2892",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.892/2021 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2892/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249930",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22152,6 +24689,25 @@
 "from": "2021-12-31",
 "latest": "2021-12-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250096",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3009-2021",
+"path": "ordin/sanatate/2021/3009",
+"kind": "ordin",
+"year": "2021",
+"number": "3009",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.009/2021 privind modificarea anexei nr. 3 la Ordinul ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 3009/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-03",
+"latest": "2022-01-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250148",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23048,6 +25604,74 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-422-2021",
+"path": "ordin/transporturi/2021/422",
+"kind": "ordin",
+"year": "2021",
+"number": "422",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 422/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+"short": "Ordin transporturi nr. 422/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-13",
+"latest": "2021-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244311",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "768",
+"date": "2021-07-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-768-2021"
+},
+{
+"issuer": "munca",
+"nr": "516",
+"date": "2021-06-11",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-516-2021"
+}
+]
+},
+{
+"slug": "ordin-transporturi-434-2021",
+"path": "ordin/transporturi/2021/434",
+"kind": "ordin",
+"year": "2021",
+"number": "434",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 434/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății \"Grup Exploatare și Întreținere Palat CFR\" - S.A.",
+"short": "Ordin transporturi nr. 434/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-02",
+"latest": "2021-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244075",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "730",
+"date": "2021-06-28",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-730-2021"
+},
+{
+"issuer": "munca",
+"nr": "517",
+"date": "2021-06-11",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-517-2021"
+}
+]
+},
+{
 "slug": "ordin-transporturi-796-2021",
 "path": "ordin/transporturi/2021/796",
 "kind": "ordin",
@@ -23065,6 +25689,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243149",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-854-2021",
+"path": "ordin/transporturi/2021/854",
+"kind": "ordin",
+"year": "2021",
+"number": "854",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 854/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Comerciale \"ROFERSPED\" - S.A.",
+"short": "Ordin transporturi nr. 854/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-03",
+"latest": "2021-08-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245137",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "899",
+"date": "2021-07-28",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-899-2021"
+},
+{
+"issuer": "munca",
+"nr": "593",
+"date": "2021-07-05",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-593-2021"
+}
+]
 },
 {
 "slug": "ordin-transporturi-869-2021",
@@ -23198,6 +25856,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245289",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1077-2021",
+"path": "ordin/transporturi/2021/1077",
+"kind": "ordin",
+"year": "2021",
+"number": "1077",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.077/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Comerciale \"Electrificare CFR\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1077/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-08",
+"latest": "2021-10-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247276",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1189",
+"date": "2021-09-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1189-2021"
+},
+{
+"issuer": "munca",
+"nr": "815",
+"date": "2021-09-15",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-815-2021"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1078-2021",
+"path": "ordin/transporturi/2021/1078",
+"kind": "ordin",
+"year": "2021",
+"number": "1078",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.078/2021 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2021 al Societății Comerciale \"Întreținere și Reparații Locomotive și Utilaje\" - CFR IRLU - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A.",
+"short": "Ordin transporturi nr. 1078/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-08",
+"latest": "2021-10-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247266",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1236",
+"date": "2021-10-01",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1236-2021"
+},
+{
+"issuer": "munca",
+"nr": "816",
+"date": "2021-09-15",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-816-2021"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1087-2021",

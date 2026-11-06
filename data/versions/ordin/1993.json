@@ -423,6 +423,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-856-1993",
+   "path": "ordin/sanatate/1993/856",
+   "short": "Ordin sanatate nr. 856/1993",
+   "title": "Ordinul nr. 856/1993 privind completarea Ordinului nr. 392 din 12 aprilie 1993 pentru aprobarea Metodologiei privind angajarea, transferarea, detașarea medicilor, farmaciștilor, biologilor, biochimiștilor și chimiștilor în unitățile sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3726",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3726",
+     "sha256": "30ebf48b812223e24eb506c276d1e3de1be6cc8e7db84d5afe91c2c0623c9505"
+    }
+   ]
+  },
+  {
    "slug": "ordin-turism-102-1993",
    "path": "ordin/turism/1993/102",
    "short": "Ordin turism nr. 102/1993",

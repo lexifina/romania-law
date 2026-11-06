@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-145-1997",
+   "path": "ordin/ancpi/1997/145",
+   "short": "Ordin ancpi nr. 145/1997",
+   "title": "Ordinul nr. 145/1997 privind constituirea Comisiei de autorizare a persoanelor fizice și juridice care au dreptul să execute, legal, lucrări de cadastru, geodezie și cartografie pe teritoriul României, precum și a Colegiului de onoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11804",
+   "versions": [
+    {
+     "from": "1997-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11804",
+     "sha256": "ef522832331b27008f1316895084f252b7d5aebfa82ed1f0245e7a9cfbd5e20b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-103-1997",
    "path": "ordin/anrm/1997/103",
    "short": "Ordin anrm nr. 103/1997",

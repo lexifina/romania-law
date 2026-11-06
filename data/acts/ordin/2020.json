@@ -3,6 +3,74 @@
 "shard": "ordin/2020",
 "acts": [
 {
+"slug": "ordin-aaas-15191-2020",
+"path": "ordin/aaas/2020/15191",
+"kind": "ordin",
+"year": "2020",
+"number": "15191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 15.191/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății ACTIVE CONEXE - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 15191/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235353",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1537",
+"date": "2020-10-20",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1537-2020"
+},
+{
+"issuer": "finante",
+"nr": "3046",
+"date": "2020-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3046-2020"
+}
+]
+},
+{
+"slug": "ordin-aaas-16836-2020",
+"path": "ordin/aaas/2020/16836",
+"kind": "ordin",
+"year": "2020",
+"number": "16836",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 16.836/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 16836/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235203",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1556",
+"date": "2020-10-27",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1556-2020"
+},
+{
+"issuer": "finante",
+"nr": "3004",
+"date": "2020-11-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3004-2020"
+}
+]
+},
+{
 "slug": "ordin-achizitii-45-2020",
 "path": "ordin/achizitii/2020/45",
 "kind": "ordin",
@@ -770,6 +838,40 @@
 "date": "2020-05-27",
 "name": "Ministerul Sănătății",
 "alias": "ordin-sanatate-949-2020"
+}
+]
+},
+{
+"slug": "ordin-agricultura-154-2020",
+"path": "ordin/agricultura/2020/154",
+"kind": "ordin",
+"year": "2020",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 154/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății Naționale \"Casa Română de Comerț Agroalimentar - UNIREA\" - S.A.",
+"short": "Ordin agricultura nr. 154/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228510",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1088",
+"date": "2020-06-19",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1088-2020"
+},
+{
+"issuer": "finante",
+"nr": "2154",
+"date": "2020-07-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2154-2020"
 }
 ]
 },
@@ -3507,6 +3609,44 @@
 "from": "2020-03-20",
 "latest": "2020-03-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224254",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-24-2020",
+"path": "ordin/anre/2020/24",
+"kind": "ordin",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 24/2020 privind aprobarea tarifelor de înmagazinare subterană aferente activității de înmagazinare subterană a gazelor naturale desfășurate de către Societatea Națională de Gaze Naturale Romgaz - S.A. - Filiala de Înmagazinare Gaze Naturale DEPOGAZ PLOIEȘTI - S.R.L.",
+"short": "Ordin anre nr. 24/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224344",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-25-2020",
+"path": "ordin/anre/2020/25",
+"kind": "ordin",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 25/2020 privind aprobarea tarifelor de înmagazinare subterană aferente activității de înmagazinare subterană a gazelor naturale desfășurate de către Societatea \"Depomureș\" Târgu Mureș - S.A.",
+"short": "Ordin anre nr. 25/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224345",
 "issuer": "anre",
 "joint": []
 },
@@ -11050,6 +11190,33 @@
 "joint": []
 },
 {
+"slug": "ordin-dezvoltare-1145-2020",
+"path": "ordin/dezvoltare/2020/1145",
+"kind": "ordin",
+"year": "2020",
+"number": "1145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.145/2020 pentru modificarea art. 1 din Ordinul viceprim-ministrului, ministrul administrației și internelor, și al ministrului finanțelor publice nr. 7/433/2009 privind constituirea Comitetului pentru finanțe publice locale",
+"short": "Ordin dezvoltare nr. 1145/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223862",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1719",
+"date": "2020-03-10",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1719-2020"
+}
+]
+},
+{
 "slug": "ordin-dezvoltare-1263-2020",
 "path": "ordin/dezvoltare/2020/1263",
 "kind": "ordin",
@@ -11375,6 +11542,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230383",
 "issuer": "dezvoltare",
 "joint": []
+},
+{
+"slug": "ordin-dezvoltare-3940-2020",
+"path": "ordin/dezvoltare/2020/3940",
+"kind": "ordin",
+"year": "2020",
+"number": "3940",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.940/2020 pentru aplicarea la nivelul municipiului București a prevederilor art. 3 alin. (5) din Ordonanța Guvernului nr. 36/2006 privind unele măsuri pentru funcționarea sistemelor centralizate de alimentare cu energie termică a populației",
+"short": "Ordin dezvoltare nr. 3940/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-10",
+"latest": "2020-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234531",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3096",
+"date": "2020-12-07",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3096-2020"
+}
+]
 },
 {
 "slug": "ordin-dezvoltare-3950-2020",
@@ -11746,6 +11940,176 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-700-2020",
+"path": "ordin/economie/2020/700",
+"kind": "ordin",
+"year": "2020",
+"number": "700",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 700/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Electrocentrale Grup - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 700/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-13",
+"latest": "2020-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224812",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1837",
+"date": "2020-04-07",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1837-2020"
+},
+{
+"issuer": "munca",
+"nr": "715",
+"date": "2020-03-24",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-715-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-736-2020",
+"path": "ordin/economie/2020/736",
+"kind": "ordin",
+"year": "2020",
+"number": "736",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 736/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Șantierul Naval Mangalia\" - S.A.",
+"short": "Ordin economie nr. 736/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-13",
+"latest": "2020-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224815",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1842",
+"date": "2020-04-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1842-2020"
+},
+{
+"issuer": "munca",
+"nr": "714",
+"date": "2020-03-23",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-714-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-758-2020",
+"path": "ordin/economie/2020/758",
+"kind": "ordin",
+"year": "2020",
+"number": "758",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 758/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea de Administrare a Participațiilor în Energie - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 758/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-24",
+"latest": "2020-04-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225001",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1872",
+"date": "2020-04-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1872-2020"
+},
+{
+"issuer": "munca",
+"nr": "769",
+"date": "2020-04-06",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-769-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-759-2020",
+"path": "ordin/economie/2020/759",
+"kind": "ordin",
+"year": "2020",
+"number": "759",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 759/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Medserv Min - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 759/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225069",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1868",
+"date": "2020-04-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1868-2020"
+},
+{
+"issuer": "munca",
+"nr": "751",
+"date": "2020-04-01",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-751-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-763-2020",
+"path": "ordin/economie/2020/763",
+"kind": "ordin",
+"year": "2020",
+"number": "763",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 763/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Eurotest\" - S.A.",
+"short": "Ordin economie nr. 763/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-23",
+"latest": "2020-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224988",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1866",
+"date": "2020-04-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1866-2020"
+},
+{
+"issuer": "munca",
+"nr": "736",
+"date": "2020-03-30",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-736-2020"
+}
+]
+},
+{
 "slug": "ordin-economie-791-2020",
 "path": "ordin/economie/2020/791",
 "kind": "ordin",
@@ -11765,6 +12129,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-792-2020",
+"path": "ordin/economie/2020/792",
+"kind": "ordin",
+"year": "2020",
+"number": "792",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 792/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Germisara\" - S.A.",
+"short": "Ordin economie nr. 792/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-26",
+"latest": "2020-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226079",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "munca",
+"nr": "846",
+"date": "2020-04-23",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-846-2020"
+},
+{
+"issuer": "finante",
+"nr": "1957",
+"date": "2020-05-18",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1957-2020"
+}
+]
+},
+{
 "slug": "ordin-economie-803-2020",
 "path": "ordin/economie/2020/803",
 "kind": "ordin",
@@ -11782,6 +12180,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224462",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-840-2020",
+"path": "ordin/economie/2020/840",
+"kind": "ordin",
+"year": "2020",
+"number": "840",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 840/2020 ORDIN nr. 840/1.904/794/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Minprest Serv - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 840/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-12",
+"latest": "2020-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225513",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1904",
+"date": "2020-04-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1904-2020"
+},
+{
+"issuer": "munca",
+"nr": "794",
+"date": "2020-04-13",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-794-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-850-2020",
+"path": "ordin/economie/2020/850",
+"kind": "ordin",
+"year": "2020",
+"number": "850",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 850/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Uzina Mecanică Cugir\" - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 850/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-14",
+"latest": "2020-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225559",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1903",
+"date": "2020-04-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1903-2020"
+},
+{
+"issuer": "munca",
+"nr": "792",
+"date": "2020-04-10",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-792-2020"
+}
+]
 },
 {
 "slug": "ordin-economie-872-2020",
@@ -11860,6 +12326,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1703-2020",
+"path": "ordin/economie/2020/1703",
+"kind": "ordin",
+"year": "2020",
+"number": "1703",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.703/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Institutul de Cercetare Științifică, Inginerie Tehnologică și Proiectări Mine pe Lignit - S.A., aflat sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 1703/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-19",
+"latest": "2020-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226894",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2008",
+"date": "2020-06-04",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2008-2020"
+},
+{
+"issuer": "munca",
+"nr": "949",
+"date": "2020-05-15",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-949-2020"
+}
+]
+},
+{
 "slug": "ordin-economie-1722-2020",
 "path": "ordin/economie/2020/1722",
 "kind": "ordin",
@@ -11896,6 +12396,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225887",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1728-2020",
+"path": "ordin/economie/2020/1728",
+"kind": "ordin",
+"year": "2020",
+"number": "1728",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.728/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"CARFIL - S.A. BRAȘOV\"- filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 1728/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227492",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2065",
+"date": "2020-06-26",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2065-2020"
+},
+{
+"issuer": "munca",
+"nr": "991",
+"date": "2020-05-22",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-991-2020"
+}
+]
 },
 {
 "slug": "ordin-economie-1730-2020",
@@ -11940,6 +12474,195 @@
 "date": "2020-05-15",
 "name": "Ministerul Sănătății",
 "alias": "ordin-sanatate-832-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-1736-2020",
+"path": "ordin/economie/2020/1736",
+"kind": "ordin",
+"year": "2020",
+"number": "1736",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.736/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 1736/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227528",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2054",
+"date": "2020-06-24",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2054-2020"
+},
+{
+"issuer": "munca",
+"nr": "1003",
+"date": "2020-05-28",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1003-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-1760-2020",
+"path": "ordin/economie/2020/1760",
+"kind": "ordin",
+"year": "2020",
+"number": "1760",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.760/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Mamaia\" - S.A.",
+"short": "Ordin economie nr. 1760/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228389",
+"issuer": "economie",
+"joint": []
+},
+{
+"slug": "ordin-economie-1777-2020",
+"path": "ordin/economie/2020/1777",
+"kind": "ordin",
+"year": "2020",
+"number": "1777",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.777/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 1777/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227495",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2053",
+"date": "2020-06-24",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2053-2020"
+},
+{
+"issuer": "munca",
+"nr": "1038",
+"date": "2020-06-09",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1038-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-1794-2020",
+"path": "ordin/economie/2020/1794",
+"kind": "ordin",
+"year": "2020",
+"number": "1794",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.794/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Uzina Automecanica Moreni\" - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 1794/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-06",
+"latest": "2020-07-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227618",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2081",
+"date": "2020-06-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2081-2020"
+},
+{
+"issuer": "munca",
+"nr": "1043",
+"date": "2020-06-10",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1043-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-1795-2020",
+"path": "ordin/economie/2020/1795",
+"kind": "ordin",
+"year": "2020",
+"number": "1795",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.795/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea TOHAN - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 1795/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-06",
+"latest": "2020-07-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227621",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2082",
+"date": "2020-06-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2082-2020"
+},
+{
+"issuer": "munca",
+"nr": "1042",
+"date": "2020-06-10",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1042-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-1796-2020",
+"path": "ordin/economie/2020/1796",
+"kind": "ordin",
+"year": "2020",
+"number": "1796",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.796/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Uzina de Produse Speciale Dragomirești\" - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 1796/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-17",
+"latest": "2020-07-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227948",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2094",
+"date": "2020-07-07",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2094-2020"
+},
+{
+"issuer": "munca",
+"nr": "1041",
+"date": "2020-06-10",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1041-2020"
 }
 ]
 },
@@ -11990,6 +12713,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1825-2020",
+"path": "ordin/economie/2020/1825",
+"kind": "ordin",
+"year": "2020",
+"number": "1825",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.825/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 1825/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-15",
+"latest": "2020-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227831",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2110",
+"date": "2020-07-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2110-2020"
+},
+{
+"issuer": "munca",
+"nr": "1051",
+"date": "2020-06-11",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1051-2020"
+}
+]
+},
+{
 "slug": "ordin-economie-1843-2020",
 "path": "ordin/economie/2020/1843",
 "kind": "ordin",
@@ -12028,6 +12785,25 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1990-2020",
+"path": "ordin/economie/2020/1990",
+"kind": "ordin",
+"year": "2020",
+"number": "1990",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.990/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea \"Neptun-Olimp\" - S.A.",
+"short": "Ordin economie nr. 1990/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229265",
+"issuer": "economie",
+"joint": []
+},
+{
 "slug": "ordin-economie-2409-2020",
 "path": "ordin/economie/2020/2409",
 "kind": "ordin",
@@ -12051,6 +12827,74 @@
 "date": "2020-07-28",
 "name": "Ministerul Lucrărilor Publice, Dezvoltării și Administrației",
 "alias": "ordin-dezvoltare-3501-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-2422-2020",
+"path": "ordin/economie/2020/2422",
+"kind": "ordin",
+"year": "2020",
+"number": "2422",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.422/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea ROȘIAMIN - S.A. - filiala C.N.C.A.F. MINVEST - S.A. Deva",
+"short": "Ordin economie nr. 2422/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-14",
+"latest": "2020-08-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229140",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2331",
+"date": "2020-08-12",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2331-2020"
+},
+{
+"issuer": "munca",
+"nr": "1215",
+"date": "2020-08-04",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1215-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-2649-2020",
+"path": "ordin/economie/2020/2649",
+"kind": "ordin",
+"year": "2020",
+"number": "2649",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.649/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea CERTEJ - S.A. - filiala Companiei Naționale a Cuprului, Aurului și Fierului \"MINVEST\" - S.A. Deva",
+"short": "Ordin economie nr. 2649/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-09",
+"latest": "2020-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229845",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2716",
+"date": "2020-09-02",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2716-2020"
+},
+{
+"issuer": "munca",
+"nr": "1244",
+"date": "2020-08-12",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1244-2020"
 }
 ]
 },
@@ -12093,6 +12937,25 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-2671-2020",
+"path": "ordin/economie/2020/2671",
+"kind": "ordin",
+"year": "2020",
+"number": "2671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.671/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea MEDSERV MIN - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 2671/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229990",
+"issuer": "economie",
+"joint": []
+},
+{
 "slug": "ordin-economie-2673-2020",
 "path": "ordin/economie/2020/2673",
 "kind": "ordin",
@@ -12110,6 +12973,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229080",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-2686-2020",
+"path": "ordin/economie/2020/2686",
+"kind": "ordin",
+"year": "2020",
+"number": "2686",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.686/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea PRELMEC - S.A. - unde Societatea Uzina Mecanică Orăștie - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri, deține 99,96% din capitalul social",
+"short": "Ordin economie nr. 2686/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230003",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2723",
+"date": "2020-09-07",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2723-2020"
+},
+{
+"issuer": "munca",
+"nr": "1297",
+"date": "2020-08-21",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1297-2020"
+}
+]
 },
 {
 "slug": "ordin-economie-2734-2020",
@@ -12131,6 +13028,74 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-2759-2020",
+"path": "ordin/economie/2020/2759",
+"kind": "ordin",
+"year": "2020",
+"number": "2759",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.759/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea de Administrare a Participațiilor în Energie - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 2759/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230395",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2756",
+"date": "2020-09-16",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2756-2020"
+},
+{
+"issuer": "munca",
+"nr": "1354",
+"date": "2020-09-03",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1354-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-2770-2020",
+"path": "ordin/economie/2020/2770",
+"kind": "ordin",
+"year": "2020",
+"number": "2770",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.770/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Radioactiv Mineral Măgurele - S.A.",
+"short": "Ordin economie nr. 2770/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230335",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2755",
+"date": "2020-09-16",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2755-2020"
+},
+{
+"issuer": "munca",
+"nr": "1358",
+"date": "2020-09-04",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1358-2020"
+}
+]
+},
+{
 "slug": "ordin-economie-2816-2020",
 "path": "ordin/economie/2020/2816",
 "kind": "ordin",
@@ -12148,6 +13113,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229844",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-2911-2020",
+"path": "ordin/economie/2020/2911",
+"kind": "ordin",
+"year": "2020",
+"number": "2911",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.911/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Telegondola Mamaia - S.R.L., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 2911/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-09",
+"latest": "2020-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230885",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2826",
+"date": "2020-10-06",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2826-2020"
+},
+{
+"issuer": "munca",
+"nr": "1443",
+"date": "2020-09-28",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1443-2020"
+}
+]
 },
 {
 "slug": "ordin-economie-2989-2020",
@@ -12205,6 +13204,346 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231551",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-3150-2020",
+"path": "ordin/economie/2020/3150",
+"kind": "ordin",
+"year": "2020",
+"number": "3150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.150/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Uzina de Produse Speciale Dragomirești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3150/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233776",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3002",
+"date": "2020-11-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3002-2020"
+},
+{
+"issuer": "munca",
+"nr": "1584",
+"date": "2020-11-06",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1584-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3151-2020",
+"path": "ordin/economie/2020/3151",
+"kind": "ordin",
+"year": "2020",
+"number": "3151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.151/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3151/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234091",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3025",
+"date": "2020-11-24",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3025-2020"
+},
+{
+"issuer": "munca",
+"nr": "1583",
+"date": "2020-11-06",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1583-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3186-2020",
+"path": "ordin/economie/2020/3186",
+"kind": "ordin",
+"year": "2020",
+"number": "3186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.186/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3186/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235050",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3049",
+"date": "2020-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3049-2020"
+},
+{
+"issuer": "munca",
+"nr": "1611",
+"date": "2020-11-12",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1611-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3187-2020",
+"path": "ordin/economie/2020/3187",
+"kind": "ordin",
+"year": "2020",
+"number": "3187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.187/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3187/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234367",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3047",
+"date": "2020-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3047-2020"
+},
+{
+"issuer": "munca",
+"nr": "1601",
+"date": "2020-11-11",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1601-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3188-2020",
+"path": "ordin/economie/2020/3188",
+"kind": "ordin",
+"year": "2020",
+"number": "3188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.188/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Fabrica de Pulberi Făgăraș - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3188/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234370",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3045",
+"date": "2020-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3045-2020"
+},
+{
+"issuer": "munca",
+"nr": "1610",
+"date": "2020-11-12",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1610-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3189-2020",
+"path": "ordin/economie/2020/3189",
+"kind": "ordin",
+"year": "2020",
+"number": "3189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.189/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3189/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234373",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3043",
+"date": "2020-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3043-2020"
+},
+{
+"issuer": "munca",
+"nr": "1602",
+"date": "2020-11-11",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1602-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3218-2020",
+"path": "ordin/economie/2020/3218",
+"kind": "ordin",
+"year": "2020",
+"number": "3218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.218/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Tohan - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3218/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234376",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3048",
+"date": "2020-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3048-2020"
+},
+{
+"issuer": "munca",
+"nr": "1657",
+"date": "2020-11-17",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1657-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3220-2020",
+"path": "ordin/economie/2020/3220",
+"kind": "ordin",
+"year": "2020",
+"number": "3220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.220/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3220/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234379",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3044",
+"date": "2020-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3044-2020"
+},
+{
+"issuer": "munca",
+"nr": "1660",
+"date": "2020-11-17",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1660-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3245-2020",
+"path": "ordin/economie/2020/3245",
+"kind": "ordin",
+"year": "2020",
+"number": "3245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.245/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3245/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235381",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3142",
+"date": "2020-12-10",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3142-2020"
+},
+{
+"issuer": "munca",
+"nr": "1684",
+"date": "2020-11-24",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1684-2020"
+}
+]
+},
+{
+"slug": "ordin-economie-3265-2020",
+"path": "ordin/economie/2020/3265",
+"kind": "ordin",
+"year": "2020",
+"number": "3265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.265/2020 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+"short": "Ordin economie nr. 3265/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235384",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3131",
+"date": "2020-12-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3131-2020"
+},
+{
+"issuer": "munca",
+"nr": "1685",
+"date": "2020-11-24",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1685-2020"
+}
+]
 },
 {
 "slug": "ordin-economie-3402-2020",
@@ -12707,6 +14046,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223928",
 "issuer": "educatie",
 "joint": []
+},
+{
+"slug": "ordin-educatie-3375-2020",
+"path": "ordin/educatie/2020/3375",
+"kind": "ordin",
+"year": "2020",
+"number": "3375",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.375/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 pentru Societatea Editura Didactică și Pedagogică - S.A.",
+"short": "Ordin educatie nr. 3375/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-10",
+"latest": "2020-04-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224778",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1786",
+"date": "2020-03-23",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1786-2020"
+},
+{
+"issuer": "munca",
+"nr": "576",
+"date": "2020-03-03",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-576-2020"
+}
+]
 },
 {
 "slug": "ordin-educatie-3463-2020",
@@ -13974,6 +15347,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229752",
 "issuer": "educatie",
 "joint": []
+},
+{
+"slug": "ordin-educatie-4742-2020",
+"path": "ordin/educatie/2020/4742",
+"kind": "ordin",
+"year": "2020",
+"number": "4742",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.742/2020 pentru aprobarea constituirii grupului de lucru interministerial în vederea stabilirii normelor/măsurilor pentru începerea anului școlar/anului universitar 2020-2021",
+"short": "Ordin educatie nr. 4742/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-05",
+"latest": "2020-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228676",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "sanatate",
+"nr": "1334",
+"date": "2020-07-27",
+"name": "Ministerul Sănătății",
+"alias": "ordin-sanatate-1334-2020"
+}
+]
 },
 {
 "slug": "ordin-educatie-4749-2020",
@@ -15384,6 +16784,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-81-2020",
+"path": "ordin/finante/2020/81",
+"kind": "ordin",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 81/2020 privind aprobarea contractării de către Ministerul Finanțelor Publice a unor împrumuturi pe piețele externe de capital în sumă totală de până la 3 miliarde euro, prin lansarea a două serii noi de obligațiuni, cu maturități de 12 ani și 30 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 81/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-21",
+"latest": "2020-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222391",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-93-2020",
 "path": "ordin/finante/2020/93",
 "kind": "ordin",
@@ -15441,6 +16860,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-409-2020",
+"path": "ordin/finante/2020/409",
+"kind": "ordin",
+"year": "2020",
+"number": "409",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 409/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2020",
+"short": "Ordin finante nr. 409/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222624",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-547-2020",
 "path": "ordin/finante/2020/547",
 "kind": "ordin",
@@ -15494,6 +16932,44 @@
 "from": "2020-03-02",
 "latest": "2020-03-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223416",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1619-2020",
+"path": "ordin/finante/2020/1619",
+"kind": "ordin",
+"year": "2020",
+"number": "1619",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.619/2020 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna februarie 2020",
+"short": "Ordin finante nr. 1619/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223241",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1645-2020",
+"path": "ordin/finante/2020/1645",
+"kind": "ordin",
+"year": "2020",
+"number": "1645",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.645/2020 privind prospectul de emisiune a certificatelor de trezorerie cu discont denominate în euro lansate în luna martie 2020",
+"short": "Ordin finante nr. 1645/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223346",
 "issuer": "finante",
 "joint": []
 },
@@ -15609,6 +17085,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1798-2020",
+"path": "ordin/finante/2020/1798",
+"kind": "ordin",
+"year": "2020",
+"number": "1798",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.798/2020 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1798/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-15",
+"latest": "2020-04-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224881",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1801-2020",
 "path": "ordin/finante/2020/1801",
 "kind": "ordin",
@@ -15624,6 +17119,25 @@
 "from": "2020-04-03",
 "latest": "2020-04-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224641",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1802-2020",
+"path": "ordin/finante/2020/1802",
+"kind": "ordin",
+"year": "2020",
+"number": "1802",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.802/2020 pentru modificarea Ordinului ministrului finanțelor publice nr. 1.671/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2020",
+"short": "Ordin finante nr. 1802/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-25",
+"latest": "2020-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224400",
 "issuer": "finante",
 "joint": []
 },
@@ -15761,6 +17275,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1886-2020",
+"path": "ordin/finante/2020/1886",
+"kind": "ordin",
+"year": "2020",
+"number": "1886",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.886/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia COVID-19 din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii \"IMM INVEST ROMÂNIA\", a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 1886/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225076",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1918-2020",
+"path": "ordin/finante/2020/1918",
+"kind": "ordin",
+"year": "2020",
+"number": "1918",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.918/2020 pentru modificarea Ordinului ministrului finanțelor publice nr. 1.899/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2020",
+"short": "Ordin finante nr. 1918/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-06",
+"latest": "2020-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225443",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1926-2020",
 "path": "ordin/finante/2020/1926",
 "kind": "ordin",
@@ -15831,6 +17383,79 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226058",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-1961-2020",
+"path": "ordin/finante/2020/1961",
+"kind": "ordin",
+"year": "2020",
+"number": "1961",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.961/2020 privind aprobarea contractării de către Ministerul Finanțelor Publice a unor împrumuturi pe piețele externe de capital în sumă totală de până la 4 miliarde euro, prin lansarea a două serii noi de obligațiuni, cu maturități de 5 ani sau mai mult și 10 ani în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 1961/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-19",
+"latest": "2020-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225918",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1995-2020",
+"path": "ordin/finante/2020/1995",
+"kind": "ordin",
+"year": "2020",
+"number": "1995",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.995/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății Comerciale \"RO-ARMYSECURITY\" - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+"short": "Ordin finante nr. 1995/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-12",
+"latest": "2020-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226743",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "880",
+"date": "2020-05-08",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-880-2020"
+}
+]
+},
+{
+"slug": "ordin-finante-1996-2020",
+"path": "ordin/finante/2020/1996",
+"kind": "ordin",
+"year": "2020",
+"number": "1996",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.996/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății \"RO-ARMYCATERING\" - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+"short": "Ordin finante nr. 1996/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-11",
+"latest": "2020-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226716",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "875",
+"date": "2020-05-07",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-875-2020"
+}
+]
 },
 {
 "slug": "ordin-finante-2012-2020",
@@ -15917,6 +17542,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2068-2020",
+"path": "ordin/finante/2020/2068",
+"kind": "ordin",
+"year": "2020",
+"number": "2068",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.068/2020 pentru modificarea și completarea anexei nr. 3 la Ordinul ministrului finanțelor publice nr. 1.886/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia COVID-19 din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii \"IMM INVEST ROMÂNIA\", a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 2068/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227594",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2073-2020",
+"path": "ordin/finante/2020/2073",
+"kind": "ordin",
+"year": "2020",
+"number": "2073",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.073/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2020",
+"short": "Ordin finante nr. 2073/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227483",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2090-2020",
+"path": "ordin/finante/2020/2090",
+"kind": "ordin",
+"year": "2020",
+"number": "2090",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.090/2020 privind aprobarea contractării de către Ministerul Finanțelor Publice a unor împrumuturi pe piețele externe de capital în sumă totală de până la 3,3 miliarde dolari americani, prin lansarea a două serii noi de obligațiuni, cu maturități de 10 ani sau mai mult și 30 de ani sau mai mult în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 2090/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-07",
+"latest": "2020-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227664",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2100-2020",
 "path": "ordin/finante/2020/2100",
 "kind": "ordin",
@@ -15955,6 +17637,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2118-2020",
+"path": "ordin/finante/2020/2118",
+"kind": "ordin",
+"year": "2020",
+"number": "2118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor Publice, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 2118/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-14",
+"latest": "2020-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227799",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2148-2020",
 "path": "ordin/finante/2020/2148",
 "kind": "ordin",
@@ -15970,6 +17671,25 @@
 "from": "2020-07-17",
 "latest": "2020-07-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227936",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2168-2020",
+"path": "ordin/finante/2020/2168",
+"kind": "ordin",
+"year": "2020",
+"number": "2168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.168/2020 pentru modificarea Ordinului ministrului finanțelor publice nr. 2.073/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2020",
+"short": "Ordin finante nr. 2168/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-15",
+"latest": "2020-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227845",
 "issuer": "finante",
 "joint": []
 },
@@ -16031,6 +17751,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2232-2020",
+"path": "ordin/finante/2020/2232",
+"kind": "ordin",
+"year": "2020",
+"number": "2232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.232/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2020",
+"short": "Ordin finante nr. 2232/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228586",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2241-2020",
+"path": "ordin/finante/2020/2241",
+"kind": "ordin",
+"year": "2020",
+"number": "2241",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.241/2020 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii august 2020",
+"short": "Ordin finante nr. 2241/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-07",
+"latest": "2020-08-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228736",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2381-2020",
 "path": "ordin/finante/2020/2381",
 "kind": "ordin",
@@ -16065,6 +17823,25 @@
 "from": "2020-08-25",
 "latest": "2020-08-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229519",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2633-2020",
+"path": "ordin/finante/2020/2633",
+"kind": "ordin",
+"year": "2020",
+"number": "2633",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.633/2020 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna august 2020",
+"short": "Ordin finante nr. 2633/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229553",
 "issuer": "finante",
 "joint": []
 },
@@ -16145,6 +17922,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2660-2020",
+"path": "ordin/finante/2020/2660",
+"kind": "ordin",
+"year": "2020",
+"number": "2660",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.660/2020 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului TEZAUR, aferent lunii septembrie 2020",
+"short": "Ordin finante nr. 2660/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229653",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2661-2020",
+"path": "ordin/finante/2020/2661",
+"kind": "ordin",
+"year": "2020",
+"number": "2661",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.661/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2020",
+"short": "Ordin finante nr. 2661/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229658",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2721-2020",
+"path": "ordin/finante/2020/2721",
+"kind": "ordin",
+"year": "2020",
+"number": "2721",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.721/2020 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 2721/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-25",
+"latest": "2020-09-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230462",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2737-2020",
 "path": "ordin/finante/2020/2737",
 "kind": "ordin",
@@ -16210,6 +18044,25 @@
 ]
 },
 {
+"slug": "ordin-finante-2793-2020",
+"path": "ordin/finante/2020/2793",
+"kind": "ordin",
+"year": "2020",
+"number": "2793",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.793/2020 privind prospectul de emisiune a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2020",
+"short": "Ordin finante nr. 2793/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-30",
+"latest": "2020-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230546",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2797-2020",
 "path": "ordin/finante/2020/2797",
 "kind": "ordin",
@@ -16225,6 +18078,25 @@
 "from": "2020-10-02",
 "latest": "2020-10-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230606",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2803-2020",
+"path": "ordin/finante/2020/2803",
+"kind": "ordin",
+"year": "2020",
+"number": "2803",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.803/2020 pentru modificarea și completarea Ordinului ministrului finanțelor publice nr. 1.886/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia COVID-19 din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii \"IMM INVEST ROMÂNIA\", a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 2803/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-05",
+"latest": "2020-10-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230620",
 "issuer": "finante",
 "joint": []
 },
@@ -16336,6 +18208,63 @@
 ]
 },
 {
+"slug": "ordin-finante-2880-2020",
+"path": "ordin/finante/2020/2880",
+"kind": "ordin",
+"year": "2020",
+"number": "2880",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.880/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente ajutorului de minimis cuvenit beneficiarilor în cadrul Schemei de ajutor de minimis aferente Programului de susținere a întreprinderilor mici și mijlocii \"IMM LEASING DE ECHIPAMENTE ȘI UTILAJE\" din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii \"IMM LEASING DE ECHIPAMENTE ȘI UTILAJE\", a modelului Convenției de garantare și plată a ajutorului de minimis pentru Programul de susținere a întreprinderilor mici și mijlocii \"IMM LEASING DE ECHIPAMENTE ȘI UTILAJE\", al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 2880/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241576",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2881-2020",
+"path": "ordin/finante/2020/2881",
+"kind": "ordin",
+"year": "2020",
+"number": "2881",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.881/2020 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna octombrie 2020",
+"short": "Ordin finante nr. 2881/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231697",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2946-2020",
+"path": "ordin/finante/2020/2946",
+"kind": "ordin",
+"year": "2020",
+"number": "2946",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.946/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2020",
+"short": "Ordin finante nr. 2946/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231956",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2948-2020",
 "path": "ordin/finante/2020/2948",
 "kind": "ordin",
@@ -16351,6 +18280,25 @@
 "from": "2020-11-03",
 "latest": "2020-11-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232030",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2961-2020",
+"path": "ordin/finante/2020/2961",
+"kind": "ordin",
+"year": "2020",
+"number": "2961",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.961/2020 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 9-27 noiembrie 2020, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor Publice, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 2961/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232670",
 "issuer": "finante",
 "joint": []
 },
@@ -16393,6 +18341,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2989-2020",
+"path": "ordin/finante/2020/2989",
+"kind": "ordin",
+"year": "2020",
+"number": "2989",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.989/2020 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii noiembrie 2020",
+"short": "Ordin finante nr. 2989/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233300",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2990-2020",
 "path": "ordin/finante/2020/2990",
 "kind": "ordin",
@@ -16427,6 +18394,25 @@
 "from": "2020-12-11",
 "latest": "2020-12-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235013",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-3020-2020",
+"path": "ordin/finante/2020/3020",
+"kind": "ordin",
+"year": "2020",
+"number": "3020",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.020/2020 privind aprobarea contractării de către Ministerul Finanțelor Publice a unor împrumuturi pe piețele externe de capital în sumă totală de până la 2,5 miliarde euro, prin lansarea a două serii noi de obligațiuni, cu maturități de 9 ani și 20 de ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 3020/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233627",
 "issuer": "finante",
 "joint": []
 },
@@ -16488,6 +18474,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-3066-2020",
+"path": "ordin/finante/2020/3066",
+"kind": "ordin",
+"year": "2020",
+"number": "3066",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.066/2020 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2020",
+"short": "Ordin finante nr. 3066/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-02",
+"latest": "2020-12-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234005",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-3155-2020",
 "path": "ordin/finante/2020/3155",
 "kind": "ordin",
@@ -16522,6 +18527,25 @@
 "from": "2020-12-22",
 "latest": "2020-12-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235561",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-3180-2020",
+"path": "ordin/finante/2020/3180",
+"kind": "ordin",
+"year": "2020",
+"number": "3180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.180/2020 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii ianuarie 2021",
+"short": "Ordin finante nr. 3180/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235526",
 "issuer": "finante",
 "joint": []
 },
@@ -16674,6 +18698,33 @@
 "joint": []
 },
 {
+"slug": "ordin-fonduri-492-2020",
+"path": "ordin/fonduri/2020/492",
+"kind": "ordin",
+"year": "2020",
+"number": "492",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 492/2020 pentru modificarea anexei la Ordinul ministrului economiei și finanțelor nr. 3.080/2008 privind constituirea Comitetului de investiții pentru Fondul de participare JEREMIE pentru operațiunile domeniului major de intervenție 1.2 \"Accesul la finanțare al întreprinderilor mici și mijlocii\" din cadrul axei prioritare 1 \"Un sistem de producție inovativ și ecoeficient\", Programul operațional sectorial \"Creșterea competitivității economice\" 2007-2013",
+"short": "Ordin fonduri nr. 492/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-23",
+"latest": "2020-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224984",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1845",
+"date": "2020-04-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1845-2020"
+}
+]
+},
+{
 "slug": "ordin-fonduri-577-2020",
 "path": "ordin/fonduri/2020/577",
 "kind": "ordin",
@@ -16729,6 +18780,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228548",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-876-2020",
+"path": "ordin/fonduri/2020/876",
+"kind": "ordin",
+"year": "2020",
+"number": "876",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 876/2020 pentru modificarea anexei la Ordinul ministrului economiei și finanțelor nr. 3.080/2008 privind constituirea Comitetului de investiții pentru Fondul de participare JEREMIE pentru operațiunile domeniului major de intervenție 1.2 \"Accesul la finanțare al întreprinderilor mici și mijlocii\" din cadrul axei prioritare 1 \"Un sistem de producție inovativ și ecoeficient\", Programul operațional sectorial \"Creșterea competitivității economice\" 2007-2013",
+"short": "Ordin fonduri nr. 876/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-13",
+"latest": "2020-08-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229106",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2233",
+"date": "2020-08-03",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2233-2020"
+}
+]
 },
 {
 "slug": "ordin-fonduri-894-2020",
@@ -19350,6 +21428,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-1202-2020",
+"path": "ordin/mediu/2020/1202",
+"kind": "ordin",
+"year": "2020",
+"number": "1202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.202/2020 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2020 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva prevăzute în anexa nr. 3 pct. 1-23 din Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1202/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-01",
+"latest": "2020-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229667",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1082",
+"date": "2020-06-18",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1082-2020"
+},
+{
+"issuer": "finante",
+"nr": "2643",
+"date": "2020-08-28",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2643-2020"
+}
+]
+},
+{
 "slug": "ordin-mediu-1230-2020",
 "path": "ordin/mediu/2020/1230",
 "kind": "ordin",
@@ -20278,6 +22390,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-595-2020",
+"path": "ordin/munca/2020/595",
+"kind": "ordin",
+"year": "2020",
+"number": "595",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 595/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Protecției Sociale",
+"short": "Ordin munca nr. 595/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225361",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-740-2020",
 "path": "ordin/munca/2020/740",
 "kind": "ordin",
@@ -20360,6 +22491,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225015",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "ordin-munca-950-2020",
+"path": "ordin/munca/2020/950",
+"kind": "ordin",
+"year": "2020",
+"number": "950",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 950/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+"short": "Ordin munca nr. 950/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-02",
+"latest": "2020-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227564",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2059",
+"date": "2020-06-25",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2059-2020"
+}
+]
 },
 {
 "slug": "ordin-munca-1004-2020",
@@ -20847,6 +23005,25 @@
 ]
 },
 {
+"slug": "ordin-munca-1564-2020",
+"path": "ordin/munca/2020/1564",
+"kind": "ordin",
+"year": "2020",
+"number": "1564",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.564/2020 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Protecției Sociale",
+"short": "Ordin munca nr. 1564/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234348",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-1600-2020",
 "path": "ordin/munca/2020/1600",
 "kind": "ordin",
@@ -21305,6 +23482,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-73-2020",
+"path": "ordin/sanatate/2020/73",
+"kind": "ordin",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 73/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 73/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-01",
+"latest": "2020-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222420",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-138-2020",
 "path": "ordin/sanatate/2020/138",
 "kind": "ordin",
@@ -21387,6 +23583,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223240",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-306-2020",
+"path": "ordin/sanatate/2020/306",
+"kind": "ordin",
+"year": "2020",
+"number": "306",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 306/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Companiei Naționale \"UNIFARM\" - S.A., aflată sub autoritatea Ministerului Sănătății",
+"short": "Ordin sanatate nr. 306/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-13",
+"latest": "2020-03-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223802",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1726",
+"date": "2020-03-10",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1726-2020"
+},
+{
+"issuer": "munca",
+"nr": "552",
+"date": "2020-02-27",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-552-2020"
+}
+]
 },
 {
 "slug": "ordin-sanatate-371-2020",
@@ -21473,6 +23703,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-400-2020",
+"path": "ordin/sanatate/2020/400",
+"kind": "ordin",
+"year": "2020",
+"number": "400",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 400/2020 pentru completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 400/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-16",
+"latest": "2020-03-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223828",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-414-2020",
 "path": "ordin/sanatate/2020/414",
 "kind": "ordin",
@@ -21492,6 +23741,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-421-2020",
+"path": "ordin/sanatate/2020/421",
+"kind": "ordin",
+"year": "2020",
+"number": "421",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 421/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 421/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223809",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-428-2020",
 "path": "ordin/sanatate/2020/428",
 "kind": "ordin",
@@ -21507,6 +23775,44 @@
 "from": "2020-03-12",
 "latest": "2020-03-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223789",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-441-2020",
+"path": "ordin/sanatate/2020/441",
+"kind": "ordin",
+"year": "2020",
+"number": "441",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 441/2020 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 441/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224262",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-468-2020",
+"path": "ordin/sanatate/2020/468",
+"kind": "ordin",
+"year": "2020",
+"number": "468",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 468/2020 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 1.469/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 468/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224298",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21572,6 +23878,25 @@
 "from": "2020-03-22",
 "latest": "2020-03-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224288",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-486-2020",
+"path": "ordin/sanatate/2020/486",
+"kind": "ordin",
+"year": "2020",
+"number": "486",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 486/2020 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 486/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-01",
+"latest": "2020-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224329",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21778,6 +24103,25 @@
 "from": "2020-03-30",
 "latest": "2020-03-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224479",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-525-2020",
+"path": "ordin/sanatate/2020/525",
+"kind": "ordin",
+"year": "2020",
+"number": "525",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 525/2020 privind acordarea S.C. CHIMCOMPLEX - S.A. Borzești, pentru o perioadă de 180 de zile, a derogării pentru punerea pe piață și utilizarea produsului biocid TP2 - hipoclorit de sodiu sol. 1,25% clor activ numai pentru utilizare bactericidă și fungicidă dovedită",
+"short": "Ordin sanatate nr. 525/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224481",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22083,6 +24427,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-577-2020",
+"path": "ordin/sanatate/2020/577",
+"kind": "ordin",
+"year": "2020",
+"number": "577",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 577/2020 privind desemnarea din cadrul direcțiilor de sănătate publică județene și a municipiului București a coordonatorilor pentru gestionarea situației COVID-19 pentru regiunile de dezvoltare ale României",
+"short": "Ordin sanatate nr. 577/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-07",
+"latest": "2020-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224716",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-578-2020",
 "path": "ordin/sanatate/2020/578",
 "kind": "ordin",
@@ -22174,6 +24537,25 @@
 "from": "2020-04-13",
 "latest": "2020-04-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224824",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-621-2020",
+"path": "ordin/sanatate/2020/621",
+"kind": "ordin",
+"year": "2020",
+"number": "621",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 621/2020 pentru modificarea Ordinului ministrului sănătății nr. 577/2020 privind desemnarea din cadrul direcțiilor de sănătate publică județene și a municipiului București a coordonatorilor pentru gestionarea situației COVID-19 pentru regiunile de dezvoltare ale României",
+"short": "Ordin sanatate nr. 621/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-15",
+"latest": "2020-04-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224879",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22327,6 +24709,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-653-2020",
+"path": "ordin/sanatate/2020/653",
+"kind": "ordin",
+"year": "2020",
+"number": "653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 653/2020 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 653/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-23",
+"latest": "2020-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224972",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-654-2020",
 "path": "ordin/sanatate/2020/654",
 "kind": "ordin",
@@ -22418,6 +24819,25 @@
 "from": "2020-04-27",
 "latest": "2020-04-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225042",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-706-2020",
+"path": "ordin/sanatate/2020/706",
+"kind": "ordin",
+"year": "2020",
+"number": "706",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 706/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 706/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-01",
+"latest": "2020-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225312",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22620,6 +25040,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-787-2020",
+"path": "ordin/sanatate/2020/787",
+"kind": "ordin",
+"year": "2020",
+"number": "787",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 787/2020 privind modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 787/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225818",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-788-2020",
 "path": "ordin/sanatate/2020/788",
 "kind": "ordin",
@@ -22750,6 +25189,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-808-2020",
+"path": "ordin/sanatate/2020/808",
+"kind": "ordin",
+"year": "2020",
+"number": "808",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 808/2020 pentru modificarea Ordinului ministrului sănătății nr. 577/2020 privind desemnarea din cadrul direcțiilor de sănătate publică județene și a municipiului București a coordonatorilor pentru gestionarea situației COVID-19 pentru regiunile de dezvoltare ale României",
+"short": "Ordin sanatate nr. 808/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-14",
+"latest": "2020-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225578",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-816-2020",
 "path": "ordin/sanatate/2020/816",
 "kind": "ordin",
@@ -22872,6 +25330,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-843-2020",
+"path": "ordin/sanatate/2020/843",
+"kind": "ordin",
+"year": "2020",
+"number": "843",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 843/2020 privind desemnarea din cadrul direcțiilor de sănătate publică județene și a municipiului București a coordonatorilor pentru gestionarea situației COVID-19 pentru regiunile de dezvoltare ale României",
+"short": "Ordin sanatate nr. 843/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225963",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-847-2020",
 "path": "ordin/sanatate/2020/847",
 "kind": "ordin",
@@ -22906,6 +25383,25 @@
 "from": "2020-05-22",
 "latest": "2020-05-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226019",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-864-2020",
+"path": "ordin/sanatate/2020/864",
+"kind": "ordin",
+"year": "2020",
+"number": "864",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 864/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 864/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-01",
+"latest": "2020-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226021",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23594,6 +26090,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1165-2020",
+"path": "ordin/sanatate/2020/1165",
+"kind": "ordin",
+"year": "2020",
+"number": "1165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1165/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227088",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1168-2020",
 "path": "ordin/sanatate/2020/1168",
 "kind": "ordin",
@@ -23952,6 +26467,44 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1320-2020",
+"path": "ordin/sanatate/2020/1320",
+"kind": "ordin",
+"year": "2020",
+"number": "1320",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.320/2020 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 1.469/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1320/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-01",
+"latest": "2020-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228329",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1321-2020",
+"path": "ordin/sanatate/2020/1321",
+"kind": "ordin",
+"year": "2020",
+"number": "1321",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.321/2020 pentru aprobarea planurilor privind modalitatea de aplicare de direcțiile de sănătate publică județene și a municipiului București, de Institutul Național de Sănătate Publică, precum și de unitățile sanitare a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 1321/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-23",
+"latest": "2020-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228316",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1322-2020",
 "path": "ordin/sanatate/2020/1322",
 "kind": "ordin",
@@ -23967,6 +26520,25 @@
 "from": "2020-07-24",
 "latest": "2020-07-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228345",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1331-2020",
+"path": "ordin/sanatate/2020/1331",
+"kind": "ordin",
+"year": "2020",
+"number": "1331",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.331/2020 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1331/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-01",
+"latest": "2020-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228427",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24100,6 +26672,25 @@
 "from": "2020-07-31",
 "latest": "2020-07-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228583",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1357-2020",
+"path": "ordin/sanatate/2020/1357",
+"kind": "ordin",
+"year": "2020",
+"number": "1357",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.357/2020 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1357/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228584",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24318,6 +26909,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1435-2020",
+"path": "ordin/sanatate/2020/1435",
+"kind": "ordin",
+"year": "2020",
+"number": "1435",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.435/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1435/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-01",
+"latest": "2020-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229207",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1456-2020",
 "path": "ordin/sanatate/2020/1456",
 "kind": "ordin",
@@ -24352,6 +26962,25 @@
 "from": "2020-08-27",
 "latest": "2020-08-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229576",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1471-2020",
+"path": "ordin/sanatate/2020/1471",
+"kind": "ordin",
+"year": "2020",
+"number": "1471",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.471/2020 pentru modificarea alin. (1) al art. 1 din Ordinul ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+"short": "Ordin sanatate nr. 1471/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229649",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24540,6 +27169,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1513-2020",
+"path": "ordin/sanatate/2020/1513",
+"kind": "ordin",
+"year": "2020",
+"number": "1513",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 1513/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-09",
+"latest": "2020-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229869",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1546-2020",
 "path": "ordin/sanatate/2020/1546",
 "kind": "ordin",
@@ -24662,6 +27310,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1591-2020",
+"path": "ordin/sanatate/2020/1591",
+"kind": "ordin",
+"year": "2020",
+"number": "1591",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.591/2020 pentru modificarea Ordinului ministrului sănătății nr. 1.078/2010 privind aprobarea regulamentului de organizare și funcționare și a structurii organizatorice ale direcțiilor de sănătate publică județene și a municipiului București",
+"short": "Ordin sanatate nr. 1591/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230332",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1594-2020",
 "path": "ordin/sanatate/2020/1594",
 "kind": "ordin",
@@ -24773,6 +27440,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1643-2020",
+"path": "ordin/sanatate/2020/1643",
+"kind": "ordin",
+"year": "2020",
+"number": "1643",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.643/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1643/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-01",
+"latest": "2020-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230481",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1662-2020",
 "path": "ordin/sanatate/2020/1662",
 "kind": "ordin",
@@ -24788,6 +27474,25 @@
 "from": "2020-09-28",
 "latest": "2020-09-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230491",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1663-2020",
+"path": "ordin/sanatate/2020/1663",
+"kind": "ordin",
+"year": "2020",
+"number": "1663",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.663/2020 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 1663/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-28",
+"latest": "2020-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230492",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24811,6 +27516,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1674-2020",
+"path": "ordin/sanatate/2020/1674",
+"kind": "ordin",
+"year": "2020",
+"number": "1674",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.674/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/ comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1674/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-01",
+"latest": "2020-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230574",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1686-2020",
 "path": "ordin/sanatate/2020/1686",
 "kind": "ordin",
@@ -24826,6 +27550,25 @@
 "from": "2020-10-05",
 "latest": "2020-10-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230613",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1690-2020",
+"path": "ordin/sanatate/2020/1690",
+"kind": "ordin",
+"year": "2020",
+"number": "1690",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.690/2020 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1690/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-05",
+"latest": "2020-10-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230625",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24990,6 +27733,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1727-2020",
+"path": "ordin/sanatate/2020/1727",
+"kind": "ordin",
+"year": "2020",
+"number": "1727",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.727/2020 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1727/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-09",
+"latest": "2020-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230893",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1731-2020",
 "path": "ordin/sanatate/2020/1731",
 "kind": "ordin",
@@ -25104,6 +27866,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1794-2020",
+"path": "ordin/sanatate/2020/1794",
+"kind": "ordin",
+"year": "2020",
+"number": "1794",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.794/2020 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1794/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-21",
+"latest": "2020-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231577",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1798-2020",
 "path": "ordin/sanatate/2020/1798",
 "kind": "ordin",
@@ -25169,6 +27950,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1810-2020",
+"path": "ordin/sanatate/2020/1810",
+"kind": "ordin",
+"year": "2020",
+"number": "1810",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.810/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1810/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-01",
+"latest": "2020-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231804",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1813-2020",
 "path": "ordin/sanatate/2020/1813",
 "kind": "ordin",
@@ -25215,6 +28015,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1819-2020",
+"path": "ordin/sanatate/2020/1819",
+"kind": "ordin",
+"year": "2020",
+"number": "1819",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.819/2020 privind modificarea și completarea Ordinului ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 1819/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-27",
+"latest": "2020-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231773",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1822-2020",
 "path": "ordin/sanatate/2020/1822",
 "kind": "ordin",
@@ -25240,6 +28059,25 @@
 "alias": "ordin-cnas-1105-2020"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1826-2020",
+"path": "ordin/sanatate/2020/1826",
+"kind": "ordin",
+"year": "2020",
+"number": "1826",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.826/2020 pentru modificarea Ordinului ministrului sănătății nr. 843/2020 privind desemnarea din cadrul direcțiilor de sănătate publică județene și a municipiului București a coordonatorilor pentru gestionarea situației COVID-19 pentru regiunile de dezvoltare ale României",
+"short": "Ordin sanatate nr. 1826/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-28",
+"latest": "2020-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231823",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1829-2020",
@@ -25276,6 +28114,25 @@
 "from": "2020-10-30",
 "latest": "2020-10-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231921",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1833-2020",
+"path": "ordin/sanatate/2020/1833",
+"kind": "ordin",
+"year": "2020",
+"number": "1833",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.833/2020 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1833/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-01",
+"latest": "2020-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231951",
 "issuer": "sanatate",
 "joint": []
 },
@@ -25532,6 +28389,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1993-2020",
+"path": "ordin/sanatate/2020/1993",
+"kind": "ordin",
+"year": "2020",
+"number": "1993",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.993/2020 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1993/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233270",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2006-2020",
 "path": "ordin/sanatate/2020/2006",
 "kind": "ordin",
@@ -25681,6 +28557,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2040-2020",
+"path": "ordin/sanatate/2020/2040",
+"kind": "ordin",
+"year": "2020",
+"number": "2040",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.040/2020 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 2040/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233841",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2041-2020",
 "path": "ordin/sanatate/2020/2041",
 "kind": "ordin",
@@ -25784,6 +28679,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2063-2020",
+"path": "ordin/sanatate/2020/2063",
+"kind": "ordin",
+"year": "2020",
+"number": "2063",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.063/2020 pentru înființarea comisiilor de analiză a solicitărilor de transfer în străinătate în vederea efectuării tratamentului pentru pacienții cu arsuri grave",
+"short": "Ordin sanatate nr. 2063/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234089",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2064-2020",
 "path": "ordin/sanatate/2020/2064",
 "kind": "ordin",
@@ -25828,6 +28742,25 @@
 "alias": "ordin-cnas-1167-2020"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2077-2020",
+"path": "ordin/sanatate/2020/2077",
+"kind": "ordin",
+"year": "2020",
+"number": "2077",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.077/2020 privind modificarea anexei la Ordinul ministrului sănătății nr. 1.674/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2077/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/234434",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-2081-2020",
@@ -26020,6 +28953,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2167-2020",
+"path": "ordin/sanatate/2020/2167",
+"kind": "ordin",
+"year": "2020",
+"number": "2167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.167/2020 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2167/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235525",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2168-2020",
 "path": "ordin/sanatate/2020/2168",
 "kind": "ordin",
@@ -26045,6 +28997,25 @@
 "alias": "ordin-cnas-1189-2020"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2169-2020",
+"path": "ordin/sanatate/2020/2169",
+"kind": "ordin",
+"year": "2020",
+"number": "2169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.169/2020 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2169/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-01",
+"latest": "2021-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235622",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-2171-2020",
@@ -26245,6 +29216,25 @@
 "from": "2020-12-29",
 "latest": "2020-12-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235693",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2239-2020",
+"path": "ordin/sanatate/2020/2239",
+"kind": "ordin",
+"year": "2020",
+"number": "2239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.239/2020 privind modificarea anexei nr. 3 la Ordinul ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 2239/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-30",
+"latest": "2020-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235791",
 "issuer": "sanatate",
 "joint": []
 },
@@ -26959,6 +29949,33 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-20-2020",
+"path": "ordin/transporturi/2020/20",
+"kind": "ordin",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 20/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2020 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+"short": "Ordin transporturi nr. 20/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235962",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3240",
+"date": "2020-12-31",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3240-2020"
+}
+]
+},
+{
 "slug": "ordin-transporturi-26-2020",
 "path": "ordin/transporturi/2020/26",
 "kind": "ordin",
@@ -27214,6 +30231,74 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-750-2020",
+"path": "ordin/transporturi/2020/750",
+"kind": "ordin",
+"year": "2020",
+"number": "750",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 750/2020 ORDIN nr. 750/1.846/673/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății Comerciale \"ROFERSPED\" - S.A., la care Societatea Națională de Transport Feroviar de Marfă \"CFR Marfă\" - S.A. deține o participație majoritară",
+"short": "Ordin transporturi nr. 750/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225061",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1846",
+"date": "2020-04-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1846-2020"
+},
+{
+"issuer": "munca",
+"nr": "673",
+"date": "2020-03-17",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-673-2020"
+}
+]
+},
+{
+"slug": "ordin-transporturi-751-2020",
+"path": "ordin/transporturi/2020/751",
+"kind": "ordin",
+"year": "2020",
+"number": "751",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 751/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății de Administrare Active Feroviare \"S.A.A.F.\" - S.A.",
+"short": "Ordin transporturi nr. 751/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-03",
+"latest": "2020-04-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224627",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1800",
+"date": "2020-03-25",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1800-2020"
+},
+{
+"issuer": "munca",
+"nr": "672",
+"date": "2020-03-17",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-672-2020"
+}
+]
+},
+{
 "slug": "ordin-transporturi-766-2020",
 "path": "ordin/transporturi/2020/766",
 "kind": "ordin",
@@ -27231,6 +30316,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223848",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-776-2020",
+"path": "ordin/transporturi/2020/776",
+"kind": "ordin",
+"year": "2020",
+"number": "776",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 776/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății \"Grup Exploatare și Întreținere Palat CFR\" - S.A.",
+"short": "Ordin transporturi nr. 776/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-14",
+"latest": "2020-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224864",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1850",
+"date": "2020-04-10",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1850-2020"
+},
+{
+"issuer": "munca",
+"nr": "712",
+"date": "2020-03-23",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-712-2020"
+}
+]
 },
 {
 "slug": "ordin-transporturi-852-2020",
@@ -27562,6 +30681,142 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226029",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1015-2020",
+"path": "ordin/transporturi/2020/1015",
+"kind": "ordin",
+"year": "2020",
+"number": "1015",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.015/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+"short": "Ordin transporturi nr. 1015/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227584",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2080",
+"date": "2020-06-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2080-2020"
+},
+{
+"issuer": "munca",
+"nr": "1035",
+"date": "2020-06-09",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1035-2020"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1016-2020",
+"path": "ordin/transporturi/2020/1016",
+"kind": "ordin",
+"year": "2020",
+"number": "1016",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.016/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății Comerciale \"Electrificare CFR\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1016/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-23",
+"latest": "2020-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228311",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2153",
+"date": "2020-07-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2153-2020"
+},
+{
+"issuer": "munca",
+"nr": "1036",
+"date": "2020-06-09",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1036-2020"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1017-2020",
+"path": "ordin/transporturi/2020/1017",
+"kind": "ordin",
+"year": "2020",
+"number": "1017",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.017/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1017/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227587",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2064",
+"date": "2020-06-26",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2064-2020"
+},
+{
+"issuer": "munca",
+"nr": "1034",
+"date": "2020-06-09",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1034-2020"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1018-2020",
+"path": "ordin/transporturi/2020/1018",
+"kind": "ordin",
+"year": "2020",
+"number": "1018",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.018/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Societății \"Tipografică Filaret\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1018/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-28",
+"latest": "2020-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228458",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2186",
+"date": "2020-07-17",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2186-2020"
+},
+{
+"issuer": "munca",
+"nr": "1027",
+"date": "2020-06-04",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1027-2020"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1021-2020",
@@ -28117,6 +31372,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232958",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-2058-2020",
+"path": "ordin/transporturi/2020/2058",
+"kind": "ordin",
+"year": "2020",
+"number": "2058",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.058/2020 ORDIN nr. 2.058/3.127/1.683/2020 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2020 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+"short": "Ordin transporturi nr. 2058/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235190",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3127",
+"date": "2020-12-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-3127-2020"
+},
+{
+"issuer": "munca",
+"nr": "1683",
+"date": "2020-11-24",
+"name": "Ministerul Muncii și Protecției Sociale",
+"alias": "ordin-munca-1683-2020"
+}
+]
 },
 {
 "slug": "ordin-transporturi-2061-2020",

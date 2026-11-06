@@ -9693,6 +9693,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3108-2004",
+   "path": "ordin/educatie/2004/3108",
+   "short": "Ordin educatie nr. 3108/2004",
+   "title": "Ordinul nr. 3.108/2004 privind constituirea Comisiei de evaluare pentru stabilirea cuantumului despăgubirilor acordate în temeiul art. 166 din Legea învățământului nr. 84/1995, republicată, cu completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56045",
+   "versions": [
+    {
+     "from": "2004-10-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56045",
+     "sha256": "7378006433b7ad0937d0bd95df8f1d8ba570ac3191e1a1d3bca8a96fd33980b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3297-2004",
    "path": "ordin/educatie/2004/3297",
    "short": "Ordin educatie nr. 3297/2004",
@@ -10773,6 +10788,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1154-2004",
+   "path": "ordin/finante/2004/1154",
+   "short": "Ordin finante nr. 1154/2004",
+   "title": "Ordinul nr. 1.154/2004 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente lunii august 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54285",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54285",
+     "sha256": "106b276e39cdb4a08421983c86594ed2e98e5099f318ec8b464617e3d160cef1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1155-2004",
    "path": "ordin/finante/2004/1155",
    "short": "Ordin finante nr. 1155/2004",
@@ -10874,6 +10904,51 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54941",
      "sha256": "ef626f3494ce8e65446d7f0b3769cf80bde025dc6a7b982442ffa558e3b47f7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1262-2004",
+   "path": "ordin/finante/2004/1262",
+   "short": "Ordin finante nr. 1262/2004",
+   "title": "Ordinul nr. 1.262/2004 privind prospectul de emisiune al certificatelor de trezorerie cu dobândă pentru populație, cod 1084",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54853",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54853",
+     "sha256": "3fcdd329ad33876f4cd8a44e2ff6eb616768f0f2ae3106e7234ac05883bde8f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1263-2004",
+   "path": "ordin/finante/2004/1263",
+   "short": "Ordin finante nr. 1263/2004",
+   "title": "Ordinul nr. 1.263/2004 privind prospectul de emisiune al certificatelor de trezorerie cu dobândă pentru populație, cod 1085",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54855",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54855",
+     "sha256": "1ecf98eee860730722dd76c969ca7b03d034237cc0a8710bcd7e483a80bb5f76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1265-2004",
+   "path": "ordin/finante/2004/1265",
+   "short": "Ordin finante nr. 1265/2004",
+   "title": "Ordinul nr. 1.265/2004 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente lunii septembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54856",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54856",
+     "sha256": "c8332606b6922475892d7da34c23a0983bbc64f0b17dce0dc28f77dceedd94f2"
     }
    ]
   },
@@ -11013,6 +11088,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1358-2004",
+   "path": "ordin/finante/2004/1358",
+   "short": "Ordin finante nr. 1358/2004",
+   "title": "Ordinul nr. 1.358/2004 pentru modificarea Ordinului ministrului finanțelor publice nr. 1.265/2004 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente lunii septembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55326",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55326",
+     "sha256": "94f9fd442038c03800145c47fbe78a14dc49241c9ae337fa38835719b80afbab"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1365-2004",
    "path": "ordin/finante/2004/1365",
    "short": "Ordin finante nr. 1365/2004",
@@ -11114,6 +11204,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55779",
      "sha256": "1a9dbe5be80d75c8448c797a3ecb9b636ecb8e327bb61253cfba183ea08ec557"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1471-2004",
+   "path": "ordin/finante/2004/1471",
+   "short": "Ordin finante nr. 1471/2004",
+   "title": "Ordinul nr. 1.471/2004 privind prospectele de emisiune ale obligațiunilor de stat cu dobândă, aferente lunii octombrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55780",
+   "versions": [
+    {
+     "from": "2004-10-12",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55780",
+     "sha256": "664d6e97a8ba1672d641d2ae0160724365519bdc97caaae76597b95252ce6be0"
     }
    ]
   },
@@ -11234,6 +11339,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49732",
      "sha256": "7cab0f9f2dabd8bd35ad2463b4da2969b6ade053456eedbde58195cf506f0970"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1624-2004",
+   "path": "ordin/finante/2004/1624",
+   "short": "Ordin finante nr. 1624/2004",
+   "title": "Ordinul nr. 1.624/2004 privind prospectele de emisiune ale obligațiunilor de stat cu dobândă aferente lunii noiembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56444",
+   "versions": [
+    {
+     "from": "2004-11-05",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56444",
+     "sha256": "c477090b93af03409354fd26d1dd98254aff704f63238bb3d491e1d8df41cf5b"
     }
    ]
   },
@@ -11384,6 +11504,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57259",
      "sha256": "35307876fc85e637782d3d546b6cf7f827263fbc268ffc10b06c5f09383586af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1771-2004",
+   "path": "ordin/finante/2004/1771",
+   "short": "Ordin finante nr. 1771/2004",
+   "title": "Ordinul nr. 1.771/2004 privind prospectele de emisiune ale obligațiunilor de stat cu dobândă, aferente lunii decembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57213",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57213",
+     "sha256": "41b1af3f95c96daa479b53fddf8cca645072c367125c3330754bebb425e9170b"
     }
    ]
   },
@@ -11639,6 +11774,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58631",
      "sha256": "9eb6e66b445ca54c9f892278b4644f6c2391810cd5d43ba3a45ff9653242061e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-198-2004",
+   "path": "ordin/finante/2004/198",
+   "short": "Ordin finante nr. 198/2004",
+   "title": "Ordinul nr. 198/2004 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și obligațiunilor de stat cu dobândă, aferente lunii februarie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49537",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49537",
+     "sha256": "400f28c45d0ee76bb0c1bc2f727cffbbe4d920895a62e9e4698ac30e1ec536b9"
     }
    ]
   },
@@ -12033,6 +12183,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-497-2004",
+   "path": "ordin/finante/2004/497",
+   "short": "Ordin finante nr. 497/2004",
+   "title": "Ordinul nr. 497/2004 privind prospectul de emisiune al certificatelor de trezorerie cu dobândă pentru populație cod 1080",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51029",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51029",
+     "sha256": "e66fec132d7728ba10f7cac4ec12190ae9d9531d17e550ab76c1f06bdbd3a4ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-498-2004",
+   "path": "ordin/finante/2004/498",
+   "short": "Ordin finante nr. 498/2004",
+   "title": "Ordinul nr. 498/2004 privind prospectul de emisiune al certificatelor de trezorerie cu dobândă pentru populație cod 1081",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51032",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51032",
+     "sha256": "3f1f8cb28a405e66d9bd7d25e8484a957805e2105dbec5f0f2b54bc0ed73f52c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-526-2004",
    "path": "ordin/finante/2004/526",
    "short": "Ordin finante nr. 526/2004",
@@ -12168,6 +12348,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-666-2004",
+   "path": "ordin/finante/2004/666",
+   "short": "Ordin finante nr. 666/2004",
+   "title": "Ordinul nr. 666/2004 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente lunii mai 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51650",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51650",
+     "sha256": "159eefa0f59294984ad2074fca62b80e8ae8c8000e3c44fa7629eb556b37816f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-668-2004",
    "path": "ordin/finante/2004/668",
    "short": "Ordin finante nr. 668/2004",
@@ -12228,6 +12423,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-734-2004",
+   "path": "ordin/finante/2004/734",
+   "short": "Ordin finante nr. 734/2004",
+   "title": "Ordinul nr. 734/2004 privind stabilirea componentei Comisiei de privatizare a Casei de Economii și Consemnațiuni C.E.C. - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52040",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52040",
+     "sha256": "5d38ac1cd11ef61c9e2d8e4e6f57d0f7a4123262b5c6afee75aec56a000247a8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-743-2004",
    "path": "ordin/finante/2004/743",
    "short": "Ordin finante nr. 743/2004",
@@ -12269,6 +12479,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52203",
      "sha256": "c571e4659a00eb0c6d206b9e3dbaf72e70181ff3126409fbc598ee81459d15e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-805-2004",
+   "path": "ordin/finante/2004/805",
+   "short": "Ordin finante nr. 805/2004",
+   "title": "Ordinul nr. 805/2004 pentru modificarea Ordinului ministrului finanțelor publice nr. 734/2004 privind stabilirea componenței Comisiei de privatizare a Casei de Economii și Consemnațiuni C.E.C. - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52315",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52315",
+     "sha256": "e3c72dc92ad7782359fd310745d524af6915c3bf84a3d4dbf4f3cc1720e0d441"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-826-2004",
+   "path": "ordin/finante/2004/826",
+   "short": "Ordin finante nr. 826/2004",
+   "title": "Ordinul nr. 826/2004 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat cu dobândă, aferente lunii iunie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52390",
+   "versions": [
+    {
+     "from": "2004-06-02",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52390",
+     "sha256": "d566870c6ff48911ed7f9dfcc49f3203018d782b050124f5f732da484b532110"
     }
    ]
   },
@@ -13064,6 +13304,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53649",
      "sha256": "f71c26acf4ab59f539d797412ae32a1fafa633398bd4e35dbe35c9f8d3e84d17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-188-c-2004",
+   "path": "ordin/justitie/2004/188-c",
+   "short": "Ordin justitie nr. 188/C/2004",
+   "title": "Ordinul nr. 188/C/2004 pentru abrogarea art. 6 alin. (2) din Ordinul ministrului justiției și al ministrului sănătății nr. 1.883/737/2003 privind înființarea Comisiei comune a Ministerului Justiției și Ministerului Sănătății de analiză a deceselor survenite în sistemul penitenciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49365",
+   "versions": [
+    {
+     "from": "2004-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49365",
+     "sha256": "3d6f3bf975946b1e6c8cc45341048daf5fd2c680d618e6b0d6241a21c33f5c46"
     }
    ]
   },
@@ -14748,6 +15003,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1062-2004",
+   "path": "ordin/sanatate/2004/1062",
+   "short": "Ordin sanatate nr. 1062/2004",
+   "title": "Ordinul nr. 1.062/2004 privind completarea anexei nr. 2 la Ordinul ministrului sănătății nr. 328/2004 pentru constituirea comisiilor de coordonare a activității de privatizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54878",
+   "versions": [
+    {
+     "from": "2004-09-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54878",
+     "sha256": "5435c8829bbaf0216e90f0203456f75ee88b96d865fe5d2a4cb7b9b9e75d12fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1063-2004",
+   "path": "ordin/sanatate/2004/1063",
+   "short": "Ordin sanatate nr. 1063/2004",
+   "title": "Ordinul nr. 1.063/2004 pentru modificarea Ordinului ministrului sănătății și familiei nr. 559/2003 privind aprobarea Normelor metodologice de evaluare pentru acreditarea furnizorilor de îngrijiri la domiciliu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54879",
+   "versions": [
+    {
+     "from": "2004-09-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54879",
+     "sha256": "302cde93f8a32df7c55faf902f7f3bf92ae8f0d79761bd941b6247a16cb28a8d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1070-2004",
    "path": "ordin/sanatate/2004/1070",
    "short": "Ordin sanatate nr. 1070/2004",
@@ -16083,6 +16368,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-328-2004",
+   "path": "ordin/sanatate/2004/328",
+   "short": "Ordin sanatate nr. 328/2004",
+   "title": "Ordinul nr. 328/2004 pentru constituirea comisiilor de coordonare a activității de privatizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50937",
+   "versions": [
+    {
+     "from": "2004-04-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50937",
+     "sha256": "e449bc8cdfb9323073904a5c353bd0248874ef1678d29c3d50802361c80a27f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-356-2004",
    "path": "ordin/sanatate/2004/356",
    "short": "Ordin sanatate nr. 356/2004",
@@ -16289,6 +16589,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51778",
      "sha256": "40b72f2fe68c78d8a71b3abd908b49d8f571cace78c381850a674c7ac2e0a7e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-511-2004",
+   "path": "ordin/sanatate/2004/511",
+   "short": "Ordin sanatate nr. 511/2004",
+   "title": "Ordinul nr. 511/2004 pentru modificarea Ordinului ministrului sănătății nr. 135/2004 pentru aprobarea condițiilor privind conferirea Medaliei Meritul Sanitar ca decorație civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51779",
+   "versions": [
+    {
+     "from": "2004-05-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51779",
+     "sha256": "75d3ba118367e990190ed513081d3d67658decb62ba2491b54f32bf9d99a33e0"
     }
    ]
   },
@@ -16698,6 +17013,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-820-2004",
+   "path": "ordin/sanatate/2004/820",
+   "short": "Ordin sanatate nr. 820/2004",
+   "title": "Ordinul nr. 820/2004 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2004 al Institutului Național de Cercetare-Dezvoltare pentru Microbiologie și Imunologie \"Cantacuzino\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53805",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53805",
+     "sha256": "7fa7c54fafd83d9a9c7cf4baa6f42292dda734c57aaa6f2f7835b46e71ca8792"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-846-2004",
    "path": "ordin/sanatate/2004/846",
    "short": "Ordin sanatate nr. 846/2004",
@@ -16934,6 +17264,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54315",
      "sha256": "7b7209d0962f213177fa6aa17d9e433b30f9dc9c3843f2d8a960702600ec1f25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-977-2004",
+   "path": "ordin/sanatate/2004/977",
+   "short": "Ordin sanatate nr. 977/2004",
+   "title": "Ordinul nr. 977/2004 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2004 al Institutului Național de Cercetare-Dezvoltare în Sănătate București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54935",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54935",
+     "sha256": "a0e20c1742777f0fc1b2f6fea12679268816464d23eb2c1950e313285e4eb19a"
     }
    ]
   },

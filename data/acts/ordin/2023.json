@@ -3,6 +3,40 @@
 "shard": "ordin/2023",
 "acts": [
 {
+"slug": "ordin-aaas-2944-2023",
+"path": "ordin/aaas/2023/2944",
+"kind": "ordin",
+"year": "2023",
+"number": "2944",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.944/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății ACTIVE CONEXE - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 2944/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267189",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "772",
+"date": "2023-03-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-772-2023"
+},
+{
+"issuer": "finante",
+"nr": "1293",
+"date": "2023-04-07",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1293-2023"
+}
+]
+},
+{
 "slug": "ordin-achizitii-1554-2023",
 "path": "ordin/achizitii/2023/1554",
 "kind": "ordin",
@@ -247,6 +281,40 @@
 ]
 },
 {
+"slug": "ordin-agricultura-52-2023",
+"path": "ordin/agricultura/2023/52",
+"kind": "ordin",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 52/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al S.C. PISCICOLA - S.A. Călărași din coordonarea Agenției Naționale pentru Pescuit și Acvacultură",
+"short": "Ordin agricultura nr. 52/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266302",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "644",
+"date": "2023-02-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-644-2023"
+},
+{
+"issuer": "finante",
+"nr": "1176",
+"date": "2023-03-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1176-2023"
+}
+]
+},
+{
 "slug": "ordin-agricultura-54-2023",
 "path": "ordin/agricultura/2023/54",
 "kind": "ordin",
@@ -408,6 +476,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265124",
 "issuer": "agricultura",
 "joint": []
+},
+{
+"slug": "ordin-agricultura-65-2023",
+"path": "ordin/agricultura/2023/65",
+"kind": "ordin",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 65/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Naționale \"Casa Română de Comerț Agroalimentar UNIREA\" - S.A.",
+"short": "Ordin agricultura nr. 65/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267302",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "679",
+"date": "2023-02-22",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-679-2023"
+},
+{
+"issuer": "finante",
+"nr": "1276",
+"date": "2023-04-04",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1276-2023"
+}
+]
 },
 {
 "slug": "ordin-agricultura-70-2023",
@@ -2527,6 +2629,25 @@
 "from": "2023-12-19",
 "latest": "2023-12-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277486",
+"issuer": "anaf",
+"joint": []
+},
+{
+"slug": "ordin-anaf-2047-2023",
+"path": "ordin/anaf/2023/2047",
+"kind": "ordin",
+"year": "2023",
+"number": "2047",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.047/2023 privind modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 4.156/2017 pentru aprobarea informațiilor conținute în registrul național de evidență a aparatelor de marcat electronice fiscale instalate în județe și în sectoarele municipiului București, precum și metodologia și procedura de înregistrare a acestora",
+"short": "Ordin anaf nr. 2047/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277804",
 "issuer": "anaf",
 "joint": []
 },
@@ -9288,6 +9409,40 @@
 "joint": []
 },
 {
+"slug": "ordin-comunicatii-20912-2023",
+"path": "ordin/comunicatii/2023/20912",
+"kind": "ordin",
+"year": "2023",
+"number": "20912",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 20.912/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății \"Romfilatelia\" - S.A., filiala Companiei Naționale \"Poșta Română\" - S.A.",
+"short": "Ordin comunicatii nr. 20912/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274151",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1801",
+"date": "2023-08-07",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1801-2023"
+},
+{
+"issuer": "finante",
+"nr": "2436",
+"date": "2023-08-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2436-2023"
+}
+]
+},
+{
 "slug": "ordin-comunicatii-21092-2023",
 "path": "ordin/comunicatii/2023/21092",
 "kind": "ordin",
@@ -9362,6 +9517,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275248",
 "issuer": "comunicatii",
 "joint": []
+},
+{
+"slug": "ordin-comunicatii-21214-2023",
+"path": "ordin/comunicatii/2023/21214",
+"kind": "ordin",
+"year": "2023",
+"number": "21214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 21.214/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Institutul de Cercetări în Transporturi - INCERTRANS - S.A.",
+"short": "Ordin comunicatii nr. 21214/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276295",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2129",
+"date": "2023-10-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2129-2023"
+},
+{
+"issuer": "finante",
+"nr": "4708",
+"date": "2023-11-03",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4708-2023"
+}
+]
 },
 {
 "slug": "ordin-comunicatii-21251-2023",
@@ -11250,6 +11439,74 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-36-2023",
+"path": "ordin/economie/2023/36",
+"kind": "ordin",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 36/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Institutul de Cercetări Metalurgice \"ICEM\" - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 36/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272274",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2206",
+"date": "2023-07-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2206-2023"
+},
+{
+"issuer": "munca",
+"nr": "1566",
+"date": "2023-06-30",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1566-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-126-2023",
+"path": "ordin/economie/2023/126",
+"kind": "ordin",
+"year": "2023",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 126/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Electrocentrale Grup - S.A.",
+"short": "Ordin economie nr. 126/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265394",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1056",
+"date": "2023-02-21",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1056-2023"
+},
+{
+"issuer": "munca",
+"nr": "620",
+"date": "2023-02-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-620-2023"
+}
+]
+},
+{
 "slug": "ordin-economie-180-2023",
 "path": "ordin/economie/2023/180",
 "kind": "ordin",
@@ -11286,6 +11543,108 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/273766",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-247-2023",
+"path": "ordin/economie/2023/247",
+"kind": "ordin",
+"year": "2023",
+"number": "247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 247/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea de Administrare a Participațiilor în Energie - S.A.",
+"short": "Ordin economie nr. 247/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266252",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1193",
+"date": "2023-03-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1193-2023"
+},
+{
+"issuer": "munca",
+"nr": "736",
+"date": "2023-03-01",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-736-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-248-2023",
+"path": "ordin/economie/2023/248",
+"kind": "ordin",
+"year": "2023",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 248/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Titan Power - S.A.",
+"short": "Ordin economie nr. 248/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266255",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1175",
+"date": "2023-03-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1175-2023"
+},
+{
+"issuer": "munca",
+"nr": "737",
+"date": "2023-03-01",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-737-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-283-2023",
+"path": "ordin/economie/2023/283",
+"kind": "ordin",
+"year": "2023",
+"number": "283",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 283/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea IPROCHIM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 283/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-19",
+"latest": "2023-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270517",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1524",
+"date": "2023-05-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1524-2023"
+},
+{
+"issuer": "munca",
+"nr": "648",
+"date": "2023-02-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-648-2023"
+}
+]
 },
 {
 "slug": "ordin-economie-300-2023",
@@ -11326,6 +11685,278 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-310-2023",
+"path": "ordin/economie/2023/310",
+"kind": "ordin",
+"year": "2023",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 310/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Șantierul Naval Mangalia - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 310/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267305",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1354",
+"date": "2023-04-13",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1354-2023"
+},
+{
+"issuer": "munca",
+"nr": "715",
+"date": "2023-02-28",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-715-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-319-2023",
+"path": "ordin/economie/2023/319",
+"kind": "ordin",
+"year": "2023",
+"number": "319",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 319/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Națională Plafar - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 319/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270143",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1461",
+"date": "2023-05-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1461-2023"
+},
+{
+"issuer": "munca",
+"nr": "717",
+"date": "2023-02-28",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-717-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-418-2023",
+"path": "ordin/economie/2023/418",
+"kind": "ordin",
+"year": "2023",
+"number": "418",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 418/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Medserv Min - S.A.",
+"short": "Ordin economie nr. 418/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267490",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1399",
+"date": "2023-04-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1399-2023"
+},
+{
+"issuer": "munca",
+"nr": "935",
+"date": "2023-04-12",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-935-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-443-2023",
+"path": "ordin/economie/2023/443",
+"kind": "ordin",
+"year": "2023",
+"number": "443",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 443/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Institutul de Cercetare Științifică, Inginerie Tehnologică și Proiectare Mine pe Lignit - S.A.",
+"short": "Ordin economie nr. 443/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271485",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1910",
+"date": "2023-06-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1910-2023"
+},
+{
+"issuer": "munca",
+"nr": "1024",
+"date": "2023-05-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1024-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-449-2023",
+"path": "ordin/economie/2023/449",
+"kind": "ordin",
+"year": "2023",
+"number": "449",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 449/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea CONVERSMIN - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 449/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270071",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1454",
+"date": "2023-05-03",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1454-2023"
+},
+{
+"issuer": "munca",
+"nr": "929",
+"date": "2023-04-12",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-929-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-480-2023",
+"path": "ordin/economie/2023/480",
+"kind": "ordin",
+"year": "2023",
+"number": "480",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 480/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 480/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270217",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1479",
+"date": "2023-05-09",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1479-2023"
+},
+{
+"issuer": "munca",
+"nr": "959",
+"date": "2023-04-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-959-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-496-2023",
+"path": "ordin/economie/2023/496",
+"kind": "ordin",
+"year": "2023",
+"number": "496",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 496/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Minprest Serv - S.A.",
+"short": "Ordin economie nr. 496/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-23",
+"latest": "2023-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270583",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1585",
+"date": "2023-05-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1585-2023"
+},
+{
+"issuer": "munca",
+"nr": "1041",
+"date": "2023-05-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1041-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-529-2023",
+"path": "ordin/economie/2023/529",
+"kind": "ordin",
+"year": "2023",
+"number": "529",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 529/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 529/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270815",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1597",
+"date": "2023-05-19",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1597-2023"
+},
+{
+"issuer": "munca",
+"nr": "1026",
+"date": "2023-05-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1026-2023"
+}
+]
+},
+{
 "slug": "ordin-economie-530-2023",
 "path": "ordin/economie/2023/530",
 "kind": "ordin",
@@ -11343,6 +11974,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270248",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-531-2023",
+"path": "ordin/economie/2023/531",
+"kind": "ordin",
+"year": "2023",
+"number": "531",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 531/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 531/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-19",
+"latest": "2023-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270520",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1523",
+"date": "2023-05-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1523-2023"
+},
+{
+"issuer": "munca",
+"nr": "1023",
+"date": "2023-05-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1023-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-538-2023",
+"path": "ordin/economie/2023/538",
+"kind": "ordin",
+"year": "2023",
+"number": "538",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 538/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Carfil - S.A. Brașov - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 538/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270648",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1586",
+"date": "2023-05-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1586-2023"
+},
+{
+"issuer": "munca",
+"nr": "1025",
+"date": "2023-05-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1025-2023"
+}
+]
 },
 {
 "slug": "ordin-economie-545-2023",
@@ -11381,6 +12080,305 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276046",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-549-2023",
+"path": "ordin/economie/2023/549",
+"kind": "ordin",
+"year": "2023",
+"number": "549",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 549/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Complexul Energetic Valea Jiului - S.A.",
+"short": "Ordin economie nr. 549/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271449",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1752",
+"date": "2023-06-09",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1752-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-556-2023",
+"path": "ordin/economie/2023/556",
+"kind": "ordin",
+"year": "2023",
+"number": "556",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 556/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Fabrica de Pulberi Făgăraș - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 556/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270818",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1626",
+"date": "2023-05-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1626-2023"
+},
+{
+"issuer": "munca",
+"nr": "1039",
+"date": "2023-05-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1039-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-557-2023",
+"path": "ordin/economie/2023/557",
+"kind": "ordin",
+"year": "2023",
+"number": "557",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 557/2023 ORDIN nr. 557/1.624/1.038/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Arsenal Reșița - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 557/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270821",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1624",
+"date": "2023-05-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1624-2023"
+},
+{
+"issuer": "munca",
+"nr": "1038",
+"date": "2023-05-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1038-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-563-2023",
+"path": "ordin/economie/2023/563",
+"kind": "ordin",
+"year": "2023",
+"number": "563",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 563/2023 ORDIN nr. 563/1.596/1.040/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 563/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270824",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1596",
+"date": "2023-05-19",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1596-2023"
+},
+{
+"issuer": "munca",
+"nr": "1040",
+"date": "2023-05-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1040-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-564-2023",
+"path": "ordin/economie/2023/564",
+"kind": "ordin",
+"year": "2023",
+"number": "564",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 564/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 564/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270651",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1590",
+"date": "2023-05-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1590-2023"
+},
+{
+"issuer": "munca",
+"nr": "1042",
+"date": "2023-05-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1042-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-565-2023",
+"path": "ordin/economie/2023/565",
+"kind": "ordin",
+"year": "2023",
+"number": "565",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 565/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 565/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270654",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1588",
+"date": "2023-05-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1588-2023"
+},
+{
+"issuer": "munca",
+"nr": "1043",
+"date": "2023-05-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1043-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-574-2023",
+"path": "ordin/economie/2023/574",
+"kind": "ordin",
+"year": "2023",
+"number": "574",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 574/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 574/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270827",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1598",
+"date": "2023-05-19",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1598-2023"
+},
+{
+"issuer": "munca",
+"nr": "1064",
+"date": "2023-05-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1064-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-575-2023",
+"path": "ordin/economie/2023/575",
+"kind": "ordin",
+"year": "2023",
+"number": "575",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 575/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 575/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270683",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1627",
+"date": "2023-05-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1627-2023"
+},
+{
+"issuer": "munca",
+"nr": "1063",
+"date": "2023-05-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1063-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-576-2023",
+"path": "ordin/economie/2023/576",
+"kind": "ordin",
+"year": "2023",
+"number": "576",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 576/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea TOHAN - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 576/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271045",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1646",
+"date": "2023-05-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1646-2023"
+},
+{
+"issuer": "munca",
+"nr": "1065",
+"date": "2023-05-09",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1065-2023"
+}
+]
 },
 {
 "slug": "ordin-economie-598-2023",
@@ -11459,6 +12457,74 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-606-2023",
+"path": "ordin/economie/2023/606",
+"kind": "ordin",
+"year": "2023",
+"number": "606",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 606/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea ROȘIAMIN - S.A. - filiala C.N.C.A.F. MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 606/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271096",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1715",
+"date": "2023-06-06",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1715-2023"
+},
+{
+"issuer": "munca",
+"nr": "1119",
+"date": "2023-05-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1119-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-667-2023",
+"path": "ordin/economie/2023/667",
+"kind": "ordin",
+"year": "2023",
+"number": "667",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 667/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea CERTEJ - S.A. - filiala C.N.C.A.F. MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 667/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271689",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1911",
+"date": "2023-06-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1911-2023"
+},
+{
+"issuer": "munca",
+"nr": "1155",
+"date": "2023-05-25",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1155-2023"
+}
+]
+},
+{
 "slug": "ordin-economie-747-2023",
 "path": "ordin/economie/2023/747",
 "kind": "ordin",
@@ -11535,6 +12601,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-802-2023",
+"path": "ordin/economie/2023/802",
+"kind": "ordin",
+"year": "2023",
+"number": "802",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 802/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea EUROTEST - S.A.",
+"short": "Ordin economie nr. 802/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-24",
+"latest": "2023-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272400",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2222",
+"date": "2023-07-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2222-2023"
+},
+{
+"issuer": "munca",
+"nr": "1543",
+"date": "2023-06-23",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1543-2023"
+}
+]
+},
+{
 "slug": "ordin-economie-889-2023",
 "path": "ordin/economie/2023/889",
 "kind": "ordin",
@@ -11598,6 +12698,176 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275324",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1147-2023",
+"path": "ordin/economie/2023/1147",
+"kind": "ordin",
+"year": "2023",
+"number": "1147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.147/2023 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2023 pentru Societatea Carfil - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1147/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275769",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4464",
+"date": "2023-10-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4464-2023"
+},
+{
+"issuer": "munca",
+"nr": "2221",
+"date": "2023-10-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2221-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-1148-2023",
+"path": "ordin/economie/2023/1148",
+"kind": "ordin",
+"year": "2023",
+"number": "1148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.148/2023 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2023 pentru Societatea Uzina de Produse Speciale Dragomirești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1148/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275772",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4462",
+"date": "2023-10-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4462-2023"
+},
+{
+"issuer": "munca",
+"nr": "2224",
+"date": "2023-10-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2224-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-1149-2023",
+"path": "ordin/economie/2023/1149",
+"kind": "ordin",
+"year": "2023",
+"number": "1149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.149/2023 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2023 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1149/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275775",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4465",
+"date": "2023-10-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4465-2023"
+},
+{
+"issuer": "munca",
+"nr": "2222",
+"date": "2023-10-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2222-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-1150-2023",
+"path": "ordin/economie/2023/1150",
+"kind": "ordin",
+"year": "2023",
+"number": "1150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.150/2023 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2023 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1150/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275778",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4463",
+"date": "2023-10-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4463-2023"
+},
+{
+"issuer": "munca",
+"nr": "2223",
+"date": "2023-10-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2223-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-1160-2023",
+"path": "ordin/economie/2023/1160",
+"kind": "ordin",
+"year": "2023",
+"number": "1160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.160/2023 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2023 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A. Mangalia, aflată sub autoritatea Ministerului Economiei, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1160/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276361",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "4667",
+"date": "2023-10-31",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-4667-2023"
+},
+{
+"issuer": "munca",
+"nr": "2270",
+"date": "2023-10-31",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2270-2023"
+}
+]
 },
 {
 "slug": "ordin-economie-1341-2023",
@@ -11769,6 +13039,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278030",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1587-2023",
+"path": "ordin/economie/2023/1587",
+"kind": "ordin",
+"year": "2023",
+"number": "1587",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.587/2023 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2023 pentru Societatea Minprest Serv - S.A.",
+"short": "Ordin economie nr. 1587/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277958",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "5425",
+"date": "2023-12-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-5425-2023"
+},
+{
+"issuer": "munca",
+"nr": "2475",
+"date": "2023-12-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2475-2023"
+}
+]
+},
+{
+"slug": "ordin-economie-1619-2023",
+"path": "ordin/economie/2023/1619",
+"kind": "ordin",
+"year": "2023",
+"number": "1619",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.619/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea Radioactiv Mineral Măgurele - S.A.",
+"short": "Ordin economie nr. 1619/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277961",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "5448",
+"date": "2023-12-28",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-5448-2023"
+},
+{
+"issuer": "munca",
+"nr": "2522",
+"date": "2023-12-22",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2522-2023"
+}
+]
 },
 {
 "slug": "ordin-economie-1663-2023",
@@ -12168,6 +13506,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265530",
 "issuer": "educatie",
 "joint": []
+},
+{
+"slug": "ordin-educatie-3733-2023",
+"path": "ordin/educatie/2023/3733",
+"kind": "ordin",
+"year": "2023",
+"number": "3733",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.733/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Editura Didactică și Pedagogică - S.A.",
+"short": "Ordin educatie nr. 3733/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-18",
+"latest": "2023-05-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270500",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1467",
+"date": "2023-05-08",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1467-2023"
+},
+{
+"issuer": "munca",
+"nr": "916",
+"date": "2023-04-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-916-2023"
+}
+]
 },
 {
 "slug": "ordin-educatie-3750-2023",
@@ -14462,6 +15834,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-41-2023",
+"path": "ordin/finante/2023/41",
+"kind": "ordin",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 41/2023 privind aprobarea contractării de către Ministerul Finanțelor a operațiunii de răscumpărare anticipată a unor serii de obligațiuni denominate în dolari americani scadente în data de 22 august 2023 și în data de 22 ianuarie 2024 și de preschimbare a acestora sau a unei părți din acestea cu obligațiuni noi sau o parte din acestea și contractarea unor împrumuturi pe piețele externe de capital în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", în sumă totală de până la 4 miliarde dolari americani, și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 41/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263668",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-596-2023",
 "path": "ordin/finante/2023/596",
 "kind": "ordin",
@@ -14519,6 +15910,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-743-2023",
+"path": "ordin/finante/2023/743",
+"kind": "ordin",
+"year": "2023",
+"number": "743",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 743/2023 pentru modificarea Ordinului ministrului finanțelor nr. 4.505/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2023",
+"short": "Ordin finante nr. 743/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-19",
+"latest": "2023-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264040",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-744-2023",
 "path": "ordin/finante/2023/744",
 "kind": "ordin",
@@ -14565,6 +15975,25 @@
 ]
 },
 {
+"slug": "ordin-finante-889-2023",
+"path": "ordin/finante/2023/889",
+"kind": "ordin",
+"year": "2023",
+"number": "889",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 889/2023 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 2 miliarde euro, prin redeschiderea emisiunii de obligațiuni scadente în data de 27 septembrie 2026, cupon 5,000%, și a emisiunii de obligațiuni scadente în data de 27 septembrie 2029, cupon 6,625%, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 889/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264444",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-890-2023",
 "path": "ordin/finante/2023/890",
 "kind": "ordin",
@@ -14580,6 +16009,44 @@
 "from": "2023-02-03",
 "latest": "2023-02-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264590",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-908-2023",
+"path": "ordin/finante/2023/908",
+"kind": "ordin",
+"year": "2023",
+"number": "908",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 908/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2023",
+"short": "Ordin finante nr. 908/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-01",
+"latest": "2023-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264534",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-909-2023",
+"path": "ordin/finante/2023/909",
+"kind": "ordin",
+"year": "2023",
+"number": "909",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 909/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii februarie 2023",
+"short": "Ordin finante nr. 909/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-02",
+"latest": "2023-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264551",
 "issuer": "finante",
 "joint": []
 },
@@ -14728,6 +16195,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1086-2023",
+"path": "ordin/finante/2023/1086",
+"kind": "ordin",
+"year": "2023",
+"number": "1086",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.086/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului TEZAUR, aferent lunii martie 2023",
+"short": "Ordin finante nr. 1086/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265388",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1094-2023",
+"path": "ordin/finante/2023/1094",
+"kind": "ordin",
+"year": "2023",
+"number": "1094",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.094/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2023",
+"short": "Ordin finante nr. 1094/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265408",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1106-2023",
 "path": "ordin/finante/2023/1106",
 "kind": "ordin",
@@ -14831,6 +16336,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1181-2023",
+"path": "ordin/finante/2023/1181",
+"kind": "ordin",
+"year": "2023",
+"number": "1181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.181/2023 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii unei persoane fizice care a constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1181/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266634",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1217-2023",
+"path": "ordin/finante/2023/1217",
+"kind": "ordin",
+"year": "2023",
+"number": "1217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.217/2023 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 1217/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-23",
+"latest": "2023-03-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266228",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1218-2023",
+"path": "ordin/finante/2023/1218",
+"kind": "ordin",
+"year": "2023",
+"number": "1218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.218/2023 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 27 martie-10 aprilie 2023, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1218/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-23",
+"latest": "2023-03-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266227",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1228-2023",
 "path": "ordin/finante/2023/1228",
 "kind": "ordin",
@@ -14884,6 +16446,25 @@
 "from": "2023-03-31",
 "latest": "2023-03-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266500",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1256-2023",
+"path": "ordin/finante/2023/1256",
+"kind": "ordin",
+"year": "2023",
+"number": "1256",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.256/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2023",
+"short": "Ordin finante nr. 1256/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266474",
 "issuer": "finante",
 "joint": []
 },
@@ -14987,6 +16568,25 @@
 "from": "2023-04-11",
 "latest": "2023-04-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266746",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1291-2023",
+"path": "ordin/finante/2023/1291",
+"kind": "ordin",
+"year": "2023",
+"number": "1291",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.291/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada aprilie-mai 2023",
+"short": "Ordin finante nr. 1291/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266767",
 "issuer": "finante",
 "joint": []
 },
@@ -15124,6 +16724,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1440-2023",
+"path": "ordin/finante/2023/1440",
+"kind": "ordin",
+"year": "2023",
+"number": "1440",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.440/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2023",
+"short": "Ordin finante nr. 1440/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267530",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1447-2023",
 "path": "ordin/finante/2023/1447",
 "kind": "ordin",
@@ -15177,6 +16796,25 @@
 "from": "2023-05-15",
 "latest": "2023-05-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270180",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1498-2023",
+"path": "ordin/finante/2023/1498",
+"kind": "ordin",
+"year": "2023",
+"number": "1498",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.498/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada mai-iunie 2023",
+"short": "Ordin finante nr. 1498/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270140",
 "issuer": "finante",
 "joint": []
 },
@@ -15311,6 +16949,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1698-2023",
+"path": "ordin/finante/2023/1698",
+"kind": "ordin",
+"year": "2023",
+"number": "1698",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.698/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2023",
+"short": "Ordin finante nr. 1698/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-06",
+"latest": "2023-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270942",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1714-2023",
 "path": "ordin/finante/2023/1714",
 "kind": "ordin",
@@ -15387,6 +17044,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1982-2023",
+"path": "ordin/finante/2023/1982",
+"kind": "ordin",
+"year": "2023",
+"number": "1982",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.982/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada iunie-iulie 2023",
+"short": "Ordin finante nr. 1982/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271459",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2043-2023",
 "path": "ordin/finante/2023/2043",
 "kind": "ordin",
@@ -15444,6 +17120,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2060-2023",
+"path": "ordin/finante/2023/2060",
+"kind": "ordin",
+"year": "2023",
+"number": "2060",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.060/2023 privind prospectele de emisiune a obligațiunilor de stat de tip benchmark aferente lunii iulie 2023",
+"short": "Ordin finante nr. 2060/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271808",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2157-2023",
+"path": "ordin/finante/2023/2157",
+"kind": "ordin",
+"year": "2023",
+"number": "2157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.157/2023 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 2157/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273323",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2171-2023",
+"path": "ordin/finante/2023/2171",
+"kind": "ordin",
+"year": "2023",
+"number": "2171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.171/2023 pentru modificarea și completarea Ordinului ministrului finanțelor nr. 2.060/2023 privind prospectele de emisiune a obligațiunilor de stat de tip benchmark aferente lunii iulie 2023",
+"short": "Ordin finante nr. 2171/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272008",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2178-2023",
 "path": "ordin/finante/2023/2178",
 "kind": "ordin",
@@ -15478,6 +17211,25 @@
 "from": "2023-07-14",
 "latest": "2023-07-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/272165",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2188-2023",
+"path": "ordin/finante/2023/2188",
+"kind": "ordin",
+"year": "2023",
+"number": "2188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.188/2023 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 17-28 iulie 2023, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 2188/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272075",
 "issuer": "finante",
 "joint": []
 },
@@ -15558,6 +17310,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2226-2023",
+"path": "ordin/finante/2023/2226",
+"kind": "ordin",
+"year": "2023",
+"number": "2226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.226/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului TEZAUR, în perioada iulie-august 2023",
+"short": "Ordin finante nr. 2226/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272253",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2238-2023",
 "path": "ordin/finante/2023/2238",
 "kind": "ordin",
@@ -15596,6 +17367,52 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2243-2023",
+"path": "ordin/finante/2023/2243",
+"kind": "ordin",
+"year": "2023",
+"number": "2243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.243/2023 ORDIN nr. M.130/2.243/1.556/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Comerciale \"RO-ARMYSECURITY\" - S.A., filială a Companiei Naționale \"ROMTEHNICA\" - S.A.",
+"short": "Ordin finante nr. 2243/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-01",
+"latest": "2023-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273430",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1556",
+"date": "2023-06-28",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1556-2023"
+}
+]
+},
+{
+"slug": "ordin-finante-2247-2023",
+"path": "ordin/finante/2023/2247",
+"kind": "ordin",
+"year": "2023",
+"number": "2247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.247/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2023",
+"short": "Ordin finante nr. 2247/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273371",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2256-2023",
 "path": "ordin/finante/2023/2256",
 "kind": "ordin",
@@ -15615,6 +17432,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2258-2023",
+"path": "ordin/finante/2023/2258",
+"kind": "ordin",
+"year": "2023",
+"number": "2258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.258/2023 pentru abrogarea Ordinului ministrului finanțelor publice nr. 2.460/2016 privind împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară de a constata contravențiile și a aplica sancțiunile prevăzute de Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice",
+"short": "Ordin finante nr. 2258/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-02",
+"latest": "2023-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273473",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2259-2023",
 "path": "ordin/finante/2023/2259",
 "kind": "ordin",
@@ -15630,6 +17466,44 @@
 "from": "2023-07-28",
 "latest": "2023-07-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/273377",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2346-2023",
+"path": "ordin/finante/2023/2346",
+"kind": "ordin",
+"year": "2023",
+"number": "2346",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.346/2023 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 2346/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274147",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2372-2023",
+"path": "ordin/finante/2023/2372",
+"kind": "ordin",
+"year": "2023",
+"number": "2372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.372/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada august-septembrie 2023",
+"short": "Ordin finante nr. 2372/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-22",
+"latest": "2023-08-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273895",
 "issuer": "finante",
 "joint": []
 },
@@ -15729,6 +17603,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2529-2023",
+"path": "ordin/finante/2023/2529",
+"kind": "ordin",
+"year": "2023",
+"number": "2529",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.529/2023 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 4 miliarde euro, prin lansarea a două serii noi de obligațiuni denominate în euro cu maturitatea de 5 ani și 10 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 2529/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274380",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2533-2023",
 "path": "ordin/finante/2023/2533",
 "kind": "ordin",
@@ -15802,6 +17695,44 @@
 ]
 },
 {
+"slug": "ordin-finante-2546-2023",
+"path": "ordin/finante/2023/2546",
+"kind": "ordin",
+"year": "2023",
+"number": "2546",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.546/2023 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 18 septembrie-3 octombrie 2023, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 2546/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274459",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2567-2023",
+"path": "ordin/finante/2023/2567",
+"kind": "ordin",
+"year": "2023",
+"number": "2567",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.567/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada septembrie-octombrie 2023",
+"short": "Ordin finante nr. 2567/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274511",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2574-2023",
 "path": "ordin/finante/2023/2574",
 "kind": "ordin",
@@ -15817,6 +17748,52 @@
 "from": "2023-09-18",
 "latest": "2023-09-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274543",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2589-2023",
+"path": "ordin/finante/2023/2589",
+"kind": "ordin",
+"year": "2023",
+"number": "2589",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.589/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Comerciale \"RO-ARMYCATERING\" - S.A., filială a Companiei Naționale \"ROMTEHNICA\" - S.A.",
+"short": "Ordin finante nr. 2589/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274764",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1931",
+"date": "2023-08-31",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1931-2023"
+}
+]
+},
+{
+"slug": "ordin-finante-2645-2023",
+"path": "ordin/finante/2023/2645",
+"kind": "ordin",
+"year": "2023",
+"number": "2645",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.645/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2023",
+"short": "Ordin finante nr. 2645/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274874",
 "issuer": "finante",
 "joint": []
 },
@@ -15867,6 +17844,44 @@
 ]
 },
 {
+"slug": "ordin-finante-2951-2023",
+"path": "ordin/finante/2023/2951",
+"kind": "ordin",
+"year": "2023",
+"number": "2951",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.951/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada octombrie-noiembrie 2023",
+"short": "Ordin finante nr. 2951/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-16",
+"latest": "2023-10-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275346",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4665-2023",
+"path": "ordin/finante/2023/4665",
+"kind": "ordin",
+"year": "2023",
+"number": "4665",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.665/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2023",
+"short": "Ordin finante nr. 4665/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275912",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-4705-2023",
 "path": "ordin/finante/2023/4705",
 "kind": "ordin",
@@ -15901,6 +17916,25 @@
 "from": "2023-11-07",
 "latest": "2023-11-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276113",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-5186-2023",
+"path": "ordin/finante/2023/5186",
+"kind": "ordin",
+"year": "2023",
+"number": "5186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.186/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada noiembrie-decembrie 2023",
+"short": "Ordin finante nr. 5186/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-10",
+"latest": "2023-11-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276240",
 "issuer": "finante",
 "joint": []
 },
@@ -15943,6 +17977,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-5288-2023",
+"path": "ordin/finante/2023/5288",
+"kind": "ordin",
+"year": "2023",
+"number": "5288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.288/2023 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 27 noiembrie-15 decembrie 2023, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 5288/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276531",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-5308-2023",
 "path": "ordin/finante/2023/5308",
 "kind": "ordin",
@@ -15958,6 +18011,44 @@
 "from": "2023-12-08",
 "latest": "2023-12-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277068",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-5309-2023",
+"path": "ordin/finante/2023/5309",
+"kind": "ordin",
+"year": "2023",
+"number": "5309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.309/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat cu cupon denominate în euro aferente lunii noiembrie 2023",
+"short": "Ordin finante nr. 5309/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276652",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-5322-2023",
+"path": "ordin/finante/2023/5322",
+"kind": "ordin",
+"year": "2023",
+"number": "5322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.322/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2023",
+"short": "Ordin finante nr. 5322/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276878",
 "issuer": "finante",
 "joint": []
 },
@@ -16049,6 +18140,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-5368-2023",
+"path": "ordin/finante/2023/5368",
+"kind": "ordin",
+"year": "2023",
+"number": "5368",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.368/2023 privind prospectele de emisiune a obligațiunilor de stat cu cupon denominate în euro aferente lunii decembrie 2023",
+"short": "Ordin finante nr. 5368/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277214",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-5378-2023",
 "path": "ordin/finante/2023/5378",
 "kind": "ordin",
@@ -16083,6 +18193,25 @@
 "from": "2023-12-18",
 "latest": "2023-12-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277437",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-5387-2023",
+"path": "ordin/finante/2023/5387",
+"kind": "ordin",
+"year": "2023",
+"number": "5387",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.387/2023 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada decembrie 2023-ianuarie 2024",
+"short": "Ordin finante nr. 5387/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277395",
 "issuer": "finante",
 "joint": []
 },
@@ -16258,6 +18387,25 @@
 "from": "2023-12-28",
 "latest": "2023-12-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277766",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-5440-2023",
+"path": "ordin/finante/2023/5440",
+"kind": "ordin",
+"year": "2023",
+"number": "5440",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.440/2023 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2024",
+"short": "Ordin finante nr. 5440/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277831",
 "issuer": "finante",
 "joint": []
 },
@@ -16562,6 +18710,60 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265534",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-1140-2023",
+"path": "ordin/fonduri/2023/1140",
+"kind": "ordin",
+"year": "2023",
+"number": "1140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.140/2023 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 806/1.316/2022 privind înființarea Comitetului de investiții pentru Fondul de fonduri de capital de risc pentru redresare din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 1140/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266335",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1201",
+"date": "2023-03-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1201-2023"
+}
+]
+},
+{
+"slug": "ordin-fonduri-1141-2023",
+"path": "ordin/fonduri/2023/1141",
+"kind": "ordin",
+"year": "2023",
+"number": "1141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.141/2023 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 1.789/1.784/2022 privind înființarea Comitetului de investiții pentru Fondul de Fonduri pentru digitalizare, acțiune climatică și alte domenii de interes, finanțat din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 1141/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266337",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1194",
+"date": "2023-03-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1194-2023"
+}
+]
 },
 {
 "slug": "ordin-fonduri-1154-2023",
@@ -17292,6 +19494,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277729",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-6220-2023",
+"path": "ordin/fonduri/2023/6220",
+"kind": "ordin",
+"year": "2023",
+"number": "6220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.220/2023 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 1.789/1.784/2022 privind înființarea Comitetului de investiții pentru Fondul de Fonduri pentru digitalizare, acțiune climatică și alte domenii de interes, finanțat din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 6220/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278714",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "119",
+"date": "2024-01-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-119-2024"
+}
+]
 },
 {
 "slug": "ordin-fonduri-6377-2023",
@@ -19103,6 +21332,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-715-2023",
+"path": "ordin/mediu/2023/715",
+"kind": "ordin",
+"year": "2023",
+"number": "715",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 715/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+"short": "Ordin mediu nr. 715/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-05",
+"latest": "2023-04-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266605",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "815",
+"date": "2023-03-20",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-815-2023"
+},
+{
+"issuer": "finante",
+"nr": "1261",
+"date": "2023-03-30",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1261-2023"
+}
+]
+},
+{
 "slug": "ordin-mediu-716-2023",
 "path": "ordin/mediu/2023/716",
 "kind": "ordin",
@@ -19470,6 +21733,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/267353",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-1058-2023",
+"path": "ordin/mediu/2023/1058",
+"kind": "ordin",
+"year": "2023",
+"number": "1058",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.058/2023 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2023 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva, prevăzute în anexa nr. 3 pct. 1-23 din Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1058/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-18",
+"latest": "2023-05-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270480",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1045",
+"date": "2023-05-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1045-2023"
+},
+{
+"issuer": "finante",
+"nr": "1514",
+"date": "2023-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1514-2023"
+}
+]
+},
+{
+"slug": "ordin-mediu-1059-2023",
+"path": "ordin/mediu/2023/1059",
+"kind": "ordin",
+"year": "2023",
+"number": "1059",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.059/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Direcției de creștere, exploatare și ameliorare a cabalinelor, unitate cu personalitate juridică a Regiei Naționale a Pădurilor - Romsilva prevăzută la pct. 24 din anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1059/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-19",
+"latest": "2023-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270528",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1031",
+"date": "2023-05-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1031-2023"
+},
+{
+"issuer": "finante",
+"nr": "1592",
+"date": "2023-05-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1592-2023"
+}
+]
 },
 {
 "slug": "ordin-mediu-1063-2023",
@@ -20818,6 +23149,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-604-2023",
+"path": "ordin/munca/2023/604",
+"kind": "ordin",
+"year": "2023",
+"number": "604",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 604/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Solidarității Sociale",
+"short": "Ordin munca nr. 604/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-23",
+"latest": "2023-03-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266238",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-619-2023",
 "path": "ordin/munca/2023/619",
 "kind": "ordin",
@@ -20975,6 +23325,33 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-1118-2023",
+"path": "ordin/munca/2023/1118",
+"kind": "ordin",
+"year": "2023",
+"number": "1118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.118/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin munca nr. 1118/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271614",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1850",
+"date": "2023-06-14",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1850-2023"
+}
+]
+},
+{
 "slug": "ordin-munca-1601-2023",
 "path": "ordin/munca/2023/1601",
 "kind": "ordin",
@@ -21090,6 +23467,25 @@
 "from": "2023-11-24",
 "latest": "2023-11-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276609",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-2391-2023",
+"path": "ordin/munca/2023/2391",
+"kind": "ordin",
+"year": "2023",
+"number": "2391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.391/2023 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2023 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Solidarității Sociale",
+"short": "Ordin munca nr. 2391/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277565",
 "issuer": "munca",
 "joint": []
 },
@@ -21504,6 +23900,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-82-2023",
+"path": "ordin/sanatate/2023/82",
+"kind": "ordin",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 82/2023 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 82/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264002",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-84-2023",
 "path": "ordin/sanatate/2023/84",
 "kind": "ordin",
@@ -21615,6 +24030,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-178-2023",
+"path": "ordin/sanatate/2023/178",
+"kind": "ordin",
+"year": "2023",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 178/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 178/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-01",
+"latest": "2023-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264480",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-179-2023",
 "path": "ordin/sanatate/2023/179",
 "kind": "ordin",
@@ -21705,6 +24139,25 @@
 "alias": "ordin-cnas-64-2023"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-302-2023",
+"path": "ordin/sanatate/2023/302",
+"kind": "ordin",
+"year": "2023",
+"number": "302",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 302/2023 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 302/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-10",
+"latest": "2023-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264749",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-330-2023",
@@ -21874,6 +24327,25 @@
 "from": "2023-03-06",
 "latest": "2023-03-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265514",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-585-2023",
+"path": "ordin/sanatate/2023/585",
+"kind": "ordin",
+"year": "2023",
+"number": "585",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 585/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 585/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265398",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22079,6 +24551,25 @@
 "alias": "ordin-educatie-3879-2023"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-714-2023",
+"path": "ordin/sanatate/2023/714",
+"kind": "ordin",
+"year": "2023",
+"number": "714",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 714/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 714/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-15",
+"latest": "2023-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265679",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-715-2023",
@@ -22290,6 +24781,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-847-2023",
+"path": "ordin/sanatate/2023/847",
+"kind": "ordin",
+"year": "2023",
+"number": "847",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 847/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 847/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-01",
+"latest": "2023-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266387",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-983-2023",
 "path": "ordin/sanatate/2023/983",
 "kind": "ordin",
@@ -22334,6 +24844,44 @@
 "alias": "ordin-cnas-202-2023"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1213-2023",
+"path": "ordin/sanatate/2023/1213",
+"kind": "ordin",
+"year": "2023",
+"number": "1213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.213/2023 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1213/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-13",
+"latest": "2023-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267103",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1225-2023",
+"path": "ordin/sanatate/2023/1225",
+"kind": "ordin",
+"year": "2023",
+"number": "1225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.225/2023 privind aprobarea detalierii pe județe și pentru municipiul București a numărului total de paturi din unitățile sanitare publice și private pentru care casele de asigurări de sănătate pot încheia contracte de furnizare de servicii medicale spitalicești, până la 30 iunie 2023",
+"short": "Ordin sanatate nr. 1225/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267217",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1257-2023",
@@ -22561,6 +25109,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1373-2023",
+"path": "ordin/sanatate/2023/1373",
+"kind": "ordin",
+"year": "2023",
+"number": "1373",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.373/2023 pentru modificarea Ordinului ministrului sănătății nr. 1.244/2020 privind aprobarea Regulamentului pentru tratamentul intervențional al pacienților cu infarct miocardic acut și aprobarea Regulamentului pentru tratamentul urgențelor de chirurgie vasculară și urgențelor de chirurgie cardiovasculară în municipiul București",
+"short": "Ordin sanatate nr. 1373/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-03",
+"latest": "2023-05-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267544",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1434-2023",
 "path": "ordin/sanatate/2023/1434",
 "kind": "ordin",
@@ -22586,6 +25153,25 @@
 "alias": "ordin-justitie-687-c-2023"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1460-2023",
+"path": "ordin/sanatate/2023/1460",
+"kind": "ordin",
+"year": "2023",
+"number": "1460",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.460/2023 privind modificarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1460/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267473",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1503-2023",
@@ -22752,6 +25338,44 @@
 "from": "2023-05-17",
 "latest": "2023-05-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270471",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1676-2023",
+"path": "ordin/sanatate/2023/1676",
+"kind": "ordin",
+"year": "2023",
+"number": "1676",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.676/2023 pentru modificarea alin. (1) al art. 1 din Ordinul ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+"short": "Ordin sanatate nr. 1676/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270637",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1710-2023",
+"path": "ordin/sanatate/2023/1710",
+"kind": "ordin",
+"year": "2023",
+"number": "1710",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.710/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1710/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-19",
+"latest": "2023-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270523",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23027,6 +25651,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1892-2023",
+"path": "ordin/sanatate/2023/1892",
+"kind": "ordin",
+"year": "2023",
+"number": "1892",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.892/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/ comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1892/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271068",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1898-2023",
 "path": "ordin/sanatate/2023/1898",
 "kind": "ordin",
@@ -23146,6 +25789,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1982-2023",
+"path": "ordin/sanatate/2023/1982",
+"kind": "ordin",
+"year": "2023",
+"number": "1982",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.982/2023 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1982/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-16",
+"latest": "2023-06-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271281",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1985-2023",
+"path": "ordin/sanatate/2023/1985",
+"kind": "ordin",
+"year": "2023",
+"number": "1985",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.985/2023 privind modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 1985/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-16",
+"latest": "2023-06-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271358",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1986-2023",
 "path": "ordin/sanatate/2023/1986",
 "kind": "ordin",
@@ -23184,6 +25865,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1994-2023",
+"path": "ordin/sanatate/2023/1994",
+"kind": "ordin",
+"year": "2023",
+"number": "1994",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.994/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1994/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-01",
+"latest": "2023-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271369",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1995-2023",
 "path": "ordin/sanatate/2023/1995",
 "kind": "ordin",
@@ -23199,6 +25899,25 @@
 "from": "2023-06-16",
 "latest": "2023-06-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271353",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2033-2023",
+"path": "ordin/sanatate/2023/2033",
+"kind": "ordin",
+"year": "2023",
+"number": "2033",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.033/2023 privind aprobarea detalierii pe județe și pentru municipiul București a numărului total de paturi din unitățile sanitare publice și private pentru care casele de asigurări de sănătate pot încheia contracte de furnizare de servicii medicale spitalicești, pentru anul 2023, începând cu data de 1 iulie",
+"short": "Ordin sanatate nr. 2033/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271538",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23247,6 +25966,44 @@
 "alias": "ordin-cnas-495-2023"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2144-2023",
+"path": "ordin/sanatate/2023/2144",
+"kind": "ordin",
+"year": "2023",
+"number": "2144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.144/2023 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2144/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-01",
+"latest": "2023-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271737",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2161-2023",
+"path": "ordin/sanatate/2023/2161",
+"kind": "ordin",
+"year": "2023",
+"number": "2161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.161/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2161/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271758",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-2162-2023",
@@ -23524,6 +26281,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2352-2023",
+"path": "ordin/sanatate/2023/2352",
+"kind": "ordin",
+"year": "2023",
+"number": "2352",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.352/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2352/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-17",
+"latest": "2023-07-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272192",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2386-2023",
 "path": "ordin/sanatate/2023/2386",
 "kind": "ordin",
@@ -23622,6 +26398,25 @@
 "alias": "ordin-cnas-564-2023"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2494-2023",
+"path": "ordin/sanatate/2023/2494",
+"kind": "ordin",
+"year": "2023",
+"number": "2494",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2494/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-01",
+"latest": "2023-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273372",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-2496-2023",
@@ -23838,6 +26633,44 @@
 ]
 },
 {
+"slug": "ordin-sanatate-2726-2023",
+"path": "ordin/sanatate/2023/2726",
+"kind": "ordin",
+"year": "2023",
+"number": "2726",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.726/2023 pentru modificarea anexei la Ordinul ministrului sănătății nr. 720/2014 privind înființarea Comitetului național de verificare a eliminării rujeolei și rubeolei",
+"short": "Ordin sanatate nr. 2726/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-22",
+"latest": "2023-08-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273901",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2784-2023",
+"path": "ordin/sanatate/2023/2784",
+"kind": "ordin",
+"year": "2023",
+"number": "2784",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.784/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2784/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-08-22",
+"latest": "2023-08-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/273902",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2843-2023",
 "path": "ordin/sanatate/2023/2843",
 "kind": "ordin",
@@ -23891,6 +26724,25 @@
 "from": "2023-08-30",
 "latest": "2023-08-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274062",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2905-2023",
+"path": "ordin/sanatate/2023/2905",
+"kind": "ordin",
+"year": "2023",
+"number": "2905",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.905/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2905/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274052",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24206,6 +27058,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3240-2023",
+"path": "ordin/sanatate/2023/3240",
+"kind": "ordin",
+"year": "2023",
+"number": "3240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.240/2023 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3240/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-22",
+"latest": "2023-09-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274674",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3241-2023",
 "path": "ordin/sanatate/2023/3241",
 "kind": "ordin",
@@ -24470,6 +27341,25 @@
 "from": "2023-10-03",
 "latest": "2023-10-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274974",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3309-2023",
+"path": "ordin/sanatate/2023/3309",
+"kind": "ordin",
+"year": "2023",
+"number": "3309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.309/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3309/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-01",
+"latest": "2023-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274840",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24745,6 +27635,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3544-2023",
+"path": "ordin/sanatate/2023/3544",
+"kind": "ordin",
+"year": "2023",
+"number": "3544",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.544/2023 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 3544/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-24",
+"latest": "2023-10-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275589",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3575-2023",
+"path": "ordin/sanatate/2023/3575",
+"kind": "ordin",
+"year": "2023",
+"number": "3575",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.575/2023 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/ comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3575/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275574",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3587-2023",
 "path": "ordin/sanatate/2023/3587",
 "kind": "ordin",
@@ -24806,6 +27734,25 @@
 "from": "2023-10-27",
 "latest": "2023-10-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275763",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3671-2023",
+"path": "ordin/sanatate/2023/3671",
+"kind": "ordin",
+"year": "2023",
+"number": "3671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.671/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3671/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-02",
+"latest": "2023-11-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275914",
 "issuer": "sanatate",
 "joint": []
 },
@@ -25027,6 +27974,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3904-2023",
+"path": "ordin/sanatate/2023/3904",
+"kind": "ordin",
+"year": "2023",
+"number": "3904",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.904/2023 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3904/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276509",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3957-2023",
 "path": "ordin/sanatate/2023/3957",
 "kind": "ordin",
@@ -25069,6 +28035,25 @@
 "from": "2023-11-29",
 "latest": "2023-11-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276883",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3986-2023",
+"path": "ordin/sanatate/2023/3986",
+"kind": "ordin",
+"year": "2023",
+"number": "3986",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.986/2023 pentru modificarea Ordinului ministrului sănătății nr. 1.078/2010 privind aprobarea regulamentului de organizare și funcționare și a structurii organizatorice ale direcțiilor de sănătate publică județene și a municipiului București",
+"short": "Ordin sanatate nr. 3986/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276565",
 "issuer": "sanatate",
 "joint": []
 },
@@ -25134,6 +28119,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-4030-2023",
+"path": "ordin/sanatate/2023/4030",
+"kind": "ordin",
+"year": "2023",
+"number": "4030",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.030/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4030/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276915",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-4049-2023",
 "path": "ordin/sanatate/2023/4049",
 "kind": "ordin",
@@ -25149,6 +28153,25 @@
 "from": "2023-12-05",
 "latest": "2023-12-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276971",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-4050-2023",
+"path": "ordin/sanatate/2023/4050",
+"kind": "ordin",
+"year": "2023",
+"number": "4050",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.050/2023 pentru modificarea anexei nr. 2 la Ordinul ministrului sănătății nr. 1.078/2010 privind aprobarea regulamentului de organizare și funcționare și a structurii organizatorice ale direcțiilor de sănătate publică județene și a municipiului București",
+"short": "Ordin sanatate nr. 4050/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/276844",
 "issuer": "sanatate",
 "joint": []
 },
@@ -25313,6 +28336,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-4340-2023",
+"path": "ordin/sanatate/2023/4340",
+"kind": "ordin",
+"year": "2023",
+"number": "4340",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.340/2023 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4340/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277723",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-4343-2023",
 "path": "ordin/sanatate/2023/4343",
 "kind": "ordin",
@@ -25419,6 +28461,25 @@
 "alias": "ordin-cnas-1236-2023"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-4357-2023",
+"path": "ordin/sanatate/2023/4357",
+"kind": "ordin",
+"year": "2023",
+"number": "4357",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.357/2023 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 2.408/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4357/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277859",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-4429-2023",
@@ -26010,6 +29071,40 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-742-2023",
+"path": "ordin/transporturi/2023/742",
+"kind": "ordin",
+"year": "2023",
+"number": "742",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 742/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+"short": "Ordin transporturi nr. 742/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267186",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1298",
+"date": "2023-04-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1298-2023"
+},
+{
+"issuer": "munca",
+"nr": "849",
+"date": "2023-03-28",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-849-2023"
+}
+]
+},
+{
 "slug": "ordin-transporturi-832-2023",
 "path": "ordin/transporturi/2023/832",
 "kind": "ordin",
@@ -26027,6 +29122,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266782",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-834-2023",
+"path": "ordin/transporturi/2023/834",
+"kind": "ordin",
+"year": "2023",
+"number": "834",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 834/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății \"Grup Exploatare și Întreținere Palat C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 834/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267308",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1366",
+"date": "2023-04-18",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1366-2023"
+},
+{
+"issuer": "munca",
+"nr": "896",
+"date": "2023-04-05",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-896-2023"
+}
+]
+},
+{
+"slug": "ordin-transporturi-890-2023",
+"path": "ordin/transporturi/2023/890",
+"kind": "ordin",
+"year": "2023",
+"number": "890",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 890/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Comerciale \"ROFERSPED\" - S.A.",
+"short": "Ordin transporturi nr. 890/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267496",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1417",
+"date": "2023-04-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1417-2023"
+},
+{
+"issuer": "munca",
+"nr": "923",
+"date": "2023-04-11",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-923-2023"
+}
+]
 },
 {
 "slug": "ordin-transporturi-893-2023",
@@ -26065,6 +29228,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266761",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-913-2023",
+"path": "ordin/transporturi/2023/913",
+"kind": "ordin",
+"year": "2023",
+"number": "913",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 913/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății \"Întreținere și Reparații Locomotive și Utilaje\" - C.F.R. IRLU - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A.",
+"short": "Ordin transporturi nr. 913/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270123",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1468",
+"date": "2023-05-08",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1468-2023"
+},
+{
+"issuer": "munca",
+"nr": "958",
+"date": "2023-04-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-958-2023"
+}
+]
 },
 {
 "slug": "ordin-transporturi-933-2023",
@@ -26431,6 +29628,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271403",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1372-2023",
+"path": "ordin/transporturi/2023/1372",
+"kind": "ordin",
+"year": "2023",
+"number": "1372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.372/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2023 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+"short": "Ordin transporturi nr. 1372/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275002",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2611",
+"date": "2023-09-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2611-2023"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1375-2023",
@@ -27034,6 +30258,40 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-2074-2023",
+"path": "ordin/transporturi/2023/2074",
+"kind": "ordin",
+"year": "2023",
+"number": "2074",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.074/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Tipografice \"Filaret\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 2074/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277786",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "5423",
+"date": "2023-12-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-5423-2023"
+},
+{
+"issuer": "munca",
+"nr": "2469",
+"date": "2023-12-06",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2469-2023"
+}
+]
+},
+{
 "slug": "ordin-transporturi-2079-2023",
 "path": "ordin/transporturi/2023/2079",
 "kind": "ordin",
@@ -27116,6 +30374,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277421",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-2108-2023",
+"path": "ordin/transporturi/2023/2108",
+"kind": "ordin",
+"year": "2023",
+"number": "2108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.108/2023 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 2108/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277752",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "5424",
+"date": "2023-12-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-5424-2023"
+},
+{
+"issuer": "munca",
+"nr": "2493",
+"date": "2023-12-14",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2493-2023"
+}
+]
 },
 {
 "slug": "ordin-transporturi-2293-2023",
@@ -27379,6 +30671,108 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264811",
 "issuer": "turism",
 "joint": []
+},
+{
+"slug": "ordin-turism-472-2023",
+"path": "ordin/turism/2023/472",
+"kind": "ordin",
+"year": "2023",
+"number": "472",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 472/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea MAMAIA - S.A., aflată sub autoritatea Ministerului Antreprenoriatului și Turismului",
+"short": "Ordin turism nr. 472/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271042",
+"issuer": "turism",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1693",
+"date": "2023-05-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1693-2023"
+},
+{
+"issuer": "munca",
+"nr": "733",
+"date": "2023-03-01",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-733-2023"
+}
+]
+},
+{
+"slug": "ordin-turism-473-2023",
+"path": "ordin/turism/2023/473",
+"kind": "ordin",
+"year": "2023",
+"number": "473",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 473/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea NEPTUN-OLIMP - S.A., aflată sub autoritatea Ministerului Antreprenoriatului și Turismului",
+"short": "Ordin turism nr. 473/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-06-19",
+"latest": "2023-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271399",
+"issuer": "turism",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1647",
+"date": "2023-05-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1647-2023"
+},
+{
+"issuer": "munca",
+"nr": "731",
+"date": "2023-03-01",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-731-2023"
+}
+]
+},
+{
+"slug": "ordin-turism-475-2023",
+"path": "ordin/turism/2023/475",
+"kind": "ordin",
+"year": "2023",
+"number": "475",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 475/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Societatea TELEGONDOLA - MAMAIA - S.R.L., aflată sub autoritatea Ministerului Antreprenoriatului și Turismului",
+"short": "Ordin turism nr. 475/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-04-20",
+"latest": "2023-04-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267272",
+"issuer": "turism",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1294",
+"date": "2023-04-07",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1294-2023"
+},
+{
+"issuer": "munca",
+"nr": "716",
+"date": "2023-02-28",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-716-2023"
+}
+]
 },
 {
 "slug": "ordin-turism-612-2023",

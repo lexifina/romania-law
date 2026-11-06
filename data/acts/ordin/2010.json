@@ -2709,6 +2709,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-2731-2010",
+"path": "ordin/anaf/2010/2731",
+"kind": "ordin",
+"year": "2010",
+"number": "2731",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.731/2010 privind organizarea activității de administrare a contribuabililor mijlocii la administrațiile finanțelor publice pentru contribuabilii mijlocii din cadrul direcțiilor generale ale finanțelor publice județene și a municipiului București",
+"short": "Ordin anaf nr. 2731/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-12-08",
+"latest": "2010-12-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124241",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-6504-2010",
 "path": "ordin/anaf/2010/6504",
 "kind": "ordin",
@@ -7911,6 +7930,40 @@
 "joint": []
 },
 {
+"slug": "ordin-comunicatii-259-2010",
+"path": "ordin/comunicatii/2010/259",
+"kind": "ordin",
+"year": "2010",
+"number": "259",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 259/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+"short": "Ordin comunicatii nr. 259/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-23",
+"latest": "2010-03-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117293",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "finante",
+"nr": "778",
+"date": "2010-03-11",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-778-2010"
+},
+{
+"issuer": "munca",
+"nr": "203",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-203-2010"
+}
+]
+},
+{
 "slug": "ordin-comunicatii-701-2010",
 "path": "ordin/comunicatii/2010/701",
 "kind": "ordin",
@@ -9607,6 +9660,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-358-2010",
+"path": "ordin/economie/2010/358",
+"kind": "ordin",
+"year": "2010",
+"number": "358",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 358/2010 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2010 pentru unii operatori economici, de sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+"short": "Ordin economie nr. 358/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-04-01",
+"latest": "2010-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117878",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "816",
+"date": "2010-03-17",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-816-2010"
+},
+{
+"issuer": "munca",
+"nr": "219",
+"date": "2010-03-05",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-219-2010"
+}
+]
+},
+{
 "slug": "ordin-economie-364-2010",
 "path": "ordin/economie/2010/364",
 "kind": "ordin",
@@ -9938,6 +10025,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1676-2010",
+"path": "ordin/economie/2010/1676",
+"kind": "ordin",
+"year": "2010",
+"number": "1676",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.676/2010 pentru modificarea anexelor nr. 1-3, 5-24 și 27-42 la Ordinul ministrului economiei, comerțului și mediului de afaceri, al ministrului finanțelor publice și al ministrului muncii, familiei și protecției sociale nr. 358/816/219/2010 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2010 pentru unii operatori economici, de sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+"short": "Ordin economie nr. 1676/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-10-13",
+"latest": "2010-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122724",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2291",
+"date": "2010-09-13",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2291-2010"
+},
+{
+"issuer": "munca",
+"nr": "1331",
+"date": "2010-09-20",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-1331-2010"
+}
+]
+},
+{
 "slug": "ordin-economie-1733-2010",
 "path": "ordin/economie/2010/1733",
 "kind": "ordin",
@@ -10012,6 +10133,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125232",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-2843-2010",
+"path": "ordin/economie/2010/2843",
+"kind": "ordin",
+"year": "2010",
+"number": "2843",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.843/2010 pentru modificarea anexelor nr. 3, 8, 11, 28-42 la Ordinul ministrului economiei, comerțului și mediului de afaceri, al ministrului finanțelor publice și al ministrului muncii, familiei și protecției sociale nr. 358/816/219/2010 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2010 pentru unii operatori economici, de sub autoritatea Ministerului Economiei, Comerțului și Mediului de Afaceri",
+"short": "Ordin economie nr. 2843/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-12",
+"latest": "2011-01-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125199",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2893",
+"date": "2010-12-29",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2893-2010"
+},
+{
+"issuer": "munca",
+"nr": "1753",
+"date": "2010-12-24",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-1753-2010"
+}
+]
 },
 {
 "slug": "ordin-economie-2926-2010",
@@ -11520,6 +11675,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-141-2010",
+"path": "ordin/finante/2010/141",
+"kind": "ordin",
+"year": "2010",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 141/2010 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii februarie 2010",
+"short": "Ordin finante nr. 141/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-01-29",
+"latest": "2010-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115712",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-143-2010",
 "path": "ordin/finante/2010/143",
 "kind": "ordin",
@@ -11634,6 +11808,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-267-2010",
+"path": "ordin/finante/2010/267",
+"kind": "ordin",
+"year": "2010",
+"number": "267",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 267/2010 privind constituirea Grupului de lucru pentru elaborarea Planului strategic național de combatere a traficului ilicit cu țigarete în perioada 2010-2012",
+"short": "Ordin finante nr. 267/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-10",
+"latest": "2010-03-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116927",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "interne",
+"nr": "64",
+"date": "2010-03-05",
+"name": "Ministerul Administrației și Internelor",
+"alias": "ordin-interne-64-2010"
+}
+]
+},
+{
 "slug": "ordin-finante-291-2010",
 "path": "ordin/finante/2010/291",
 "kind": "ordin",
@@ -11649,6 +11850,25 @@
 "from": "2010-03-03",
 "latest": "2010-03-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116717",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-708-2010",
+"path": "ordin/finante/2010/708",
+"kind": "ordin",
+"year": "2010",
+"number": "708",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 708/2010 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii martie 2010",
+"short": "Ordin finante nr. 708/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-03",
+"latest": "2010-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116713",
 "issuer": "finante",
 "joint": []
 },
@@ -11722,6 +11942,33 @@
 "date": "2009-12-09",
 "name": "Comisia Națională a Valorilor Mobiliare",
 "alias": "ordin-cnvm-68-2009"
+}
+]
+},
+{
+"slug": "ordin-finante-777-2010",
+"path": "ordin/finante/2010/777",
+"kind": "ordin",
+"year": "2010",
+"number": "777",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 777/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Sere și Pepiniere\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin finante nr. 777/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-19",
+"latest": "2010-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117232",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "193",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-193-2010"
 }
 ]
 },
@@ -11859,6 +12106,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-877-2010",
+"path": "ordin/finante/2010/877",
+"kind": "ordin",
+"year": "2010",
+"number": "877",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 877/2010 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii aprilie 2010",
+"short": "Ordin finante nr. 877/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-31",
+"latest": "2010-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117568",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-956-2010",
 "path": "ordin/finante/2010/956",
 "kind": "ordin",
@@ -11916,6 +12182,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1024-2010",
+"path": "ordin/finante/2010/1024",
+"kind": "ordin",
+"year": "2010",
+"number": "1024",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.024/2010 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii mai 2010",
+"short": "Ordin finante nr. 1024/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-04-30",
+"latest": "2010-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118359",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1032-2010",
 "path": "ordin/finante/2010/1032",
 "kind": "ordin",
@@ -11931,6 +12216,25 @@
 "from": "2010-05-04",
 "latest": "2010-05-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118419",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1034-2010",
+"path": "ordin/finante/2010/1034",
+"kind": "ordin",
+"year": "2010",
+"number": "1034",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.034/2010 pentru modificarea anexei la Ordinul ministrului economiei și finanțelor nr. 3.080/2008 privind constituirea Comitetului de investiții pentru Fondul de participare JEREMIE pentru operațiunile domeniului major de intervenție 1.2 \"Accesul la finanțare al întreprinderilor mici și mijlocii\" din cadrul axei prioritare 1 \"Un sistem de producție inovativ și ecoeficient\", Programul operațional sectorial \"Creșterea competitivității economice\" 2007-2013",
+"short": "Ordin finante nr. 1034/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-05-04",
+"latest": "2010-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118420",
 "issuer": "finante",
 "joint": []
 },
@@ -12026,6 +12330,44 @@
 "from": "2010-05-18",
 "latest": "2010-05-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118829",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1741-2010",
+"path": "ordin/finante/2010/1741",
+"kind": "ordin",
+"year": "2010",
+"number": "1741",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.741/2010 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii iunie 2010",
+"short": "Ordin finante nr. 1741/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-06-01",
+"latest": "2010-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119160",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1771-2010",
+"path": "ordin/finante/2010/1771",
+"kind": "ordin",
+"year": "2010",
+"number": "1771",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.771/2010 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 1771/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-06-09",
+"latest": "2010-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119413",
 "issuer": "finante",
 "joint": []
 },
@@ -12434,6 +12776,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2060-2010",
+"path": "ordin/finante/2010/2060",
+"kind": "ordin",
+"year": "2010",
+"number": "2060",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.060/2010 privind stabilirea nivelului comisionului de gestiune a garanțiilor acordate de Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii S.A. - IFN, în numele și în contul statului român, în cadrul Programului de sprijin pentru beneficiarii proiectelor în domenii prioritare pentru economia românească, finanțate din instrumentele structurale ale Uniunii Europene alocate României",
+"short": "Ordin finante nr. 2060/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-08-11",
+"latest": "2010-08-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121355",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2086-2010",
 "path": "ordin/finante/2010/2086",
 "kind": "ordin",
@@ -12518,6 +12879,52 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2179-2010",
+"path": "ordin/finante/2010/2179",
+"kind": "ordin",
+"year": "2010",
+"number": "2179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.179/2010 pentru aprobarea Convenției privind implementarea măsurilor de sprijin pentru reabilitarea termică a clădirilor de locuit cu finanțare prin credite bancare cu garanție guvernamentală, a Contractului de garantare, a Convenției de fidejusiune și a modelului înscrisului prevăzut la art. 15 din Ordonanța de urgență a Guvernului nr. 69/2010 privind reabilitarea termică a clădirilor de locuit cu finanțare prin credite bancare cu garanție guvernamentală, precum și pentru stabilirea nivelului comisionului de gestiune a garanțiilor acordate de Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN în numele și în contul statului român în cadrul măsurilor de sprijin",
+"short": "Ordin finante nr. 2179/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-10",
+"latest": "2010-09-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122085",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "economie",
+"nr": "1528",
+"date": "2010-08-25",
+"name": "Ministerul Economiei, Comerțului și Mediului de Afaceri",
+"alias": "ordin-economie-1528-2010"
+}
+]
+},
+{
+"slug": "ordin-finante-2190-2010",
+"path": "ordin/finante/2010/2190",
+"kind": "ordin",
+"year": "2010",
+"number": "2190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.190/2010 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiunilor de stat de tip benchmark aferente lunii septembrie 2010",
+"short": "Ordin finante nr. 2190/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-08-31",
+"latest": "2010-08-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121868",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2191-2010",
 "path": "ordin/finante/2010/2191",
 "kind": "ordin",
@@ -12575,6 +12982,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2307-2010",
+"path": "ordin/finante/2010/2307",
+"kind": "ordin",
+"year": "2010",
+"number": "2307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.307/2010 pentru modificarea și completarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 2307/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-17",
+"latest": "2010-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122234",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2329-2010",
 "path": "ordin/finante/2010/2329",
 "kind": "ordin",
@@ -12590,6 +13016,25 @@
 "from": "2010-09-20",
 "latest": "2010-09-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/122275",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2373-2010",
+"path": "ordin/finante/2010/2373",
+"kind": "ordin",
+"year": "2010",
+"number": "2373",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.373/2010 privind prospectele de emisiune ale certificatelor de trezorerie cu discont și ale obligațiilor de stat de tip benchmark aferente lunii octombrie 2010",
+"short": "Ordin finante nr. 2373/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-10-01",
+"latest": "2010-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122501",
 "issuer": "finante",
 "joint": []
 },
@@ -12841,6 +13286,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2718-2010",
+"path": "ordin/finante/2010/2718",
+"kind": "ordin",
+"year": "2010",
+"number": "2718",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.718/2010 privind prospectul de emisiune al obligațiunilor de stat cu cupon denominate în euro lansate în luna noiembrie 2010",
+"short": "Ordin finante nr. 2718/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-11-22",
+"latest": "2010-11-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/123786",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2722-2010",
 "path": "ordin/finante/2010/2722",
 "kind": "ordin",
@@ -12932,6 +13396,44 @@
 "from": "2010-12-30",
 "latest": "2010-12-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124967",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2871-2010",
+"path": "ordin/finante/2010/2871",
+"kind": "ordin",
+"year": "2010",
+"number": "2871",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.871/2010 privind stabilirea nivelului comisionului de gestiune a garanțiilor acordate de Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii S.A. - IFN, în numele și în contul statului român, în cadrul Programului de sprijin pentru beneficiarii proiectelor în domenii prioritare pentru economia românească, finanțate din instrumentele structurale ale Uniunii Europene alocate României",
+"short": "Ordin finante nr. 2871/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-12-30",
+"latest": "2010-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124876",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2875-2010",
+"path": "ordin/finante/2010/2875",
+"kind": "ordin",
+"year": "2010",
+"number": "2875",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.875/2010 pentru modificarea anexei la Ordinul ministrului economiei și finanțelor nr. 3.080/2008 privind constituirea Comitetului de investiții pentru Fondul de participare JEREMIE pentru operațiunile domeniului major de intervenție 1.2. \"Accesul la finanțare al întreprinderilor mici și mijlocii\" din cadrul axei prioritare 1 \"Un sistem de producție inovativ și ecoeficient\", Programul operațional sectorial \"Creșterea competitivității economice\" 2007-2013",
+"short": "Ordin finante nr. 2875/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-05",
+"latest": "2011-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125046",
 "issuer": "finante",
 "joint": []
 },
@@ -13904,6 +14406,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/122431",
 "issuer": "interne",
 "joint": []
+},
+{
+"slug": "ordin-interne-217-2010",
+"path": "ordin/interne/2010/217",
+"kind": "ordin",
+"year": "2010",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 217/2010 pentru modificarea art. 1 alin. (1) lit. b) din Ordinul viceprim-ministrului, ministrul administrației și internelor, și al ministrului finanțelor publice nr. 7/433/2009 privind constituirea Comitetului pentru finanțe publice locale",
+"short": "Ordin interne nr. 217/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-29",
+"latest": "2010-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122460",
+"issuer": "interne",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2353",
+"date": "2010-09-23",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2353-2010"
+}
+]
 },
 {
 "slug": "ordin-interne-218-2010",
@@ -15629,6 +16158,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-1091-2010",
+"path": "ordin/mediu/2010/1091",
+"kind": "ordin",
+"year": "2010",
+"number": "1091",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.091/2010 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2010 ale filialelor cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva, prevăzute la pct. 2-24 din anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 1091/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-08-25",
+"latest": "2010-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121774",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2070",
+"date": "2010-08-04",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-2070-2010"
+},
+{
+"issuer": "munca",
+"nr": "985",
+"date": "2010-08-11",
+"name": "Ministerul Muncii,familiei și Protecției Sociale",
+"alias": "ordin-munca-985-2010"
+}
+]
+},
+{
 "slug": "ordin-mediu-1157-2010",
 "path": "ordin/mediu/2010/1157",
 "kind": "ordin",
@@ -16496,6 +17059,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-63-2010",
+"path": "ordin/munca/2010/63",
+"kind": "ordin",
+"year": "2010",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 63/2010 privind stabilirea cuantumului taxei pentru acreditarea furnizorilor de servicii specializate pentru stimularea ocupării forței de muncă pentru anul 2010",
+"short": "Ordin munca nr. 63/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-01-26",
+"latest": "2010-01-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115624",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-112-2010",
 "path": "ordin/munca/2010/112",
 "kind": "ordin",
@@ -16793,6 +17375,25 @@
 ]
 },
 {
+"slug": "ordin-munca-335-2010",
+"path": "ordin/munca/2010/335",
+"kind": "ordin",
+"year": "2010",
+"number": "335",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 335/2010 pentru modificarea anexei la Ordinul ministrului muncii, familiei și egalității de șanse nr. 82/2008 privind aprobarea constituirii Comitetului de monitorizare pentru Programul operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+"short": "Ordin munca nr. 335/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-05-17",
+"latest": "2010-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/118755",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-363-2010",
 "path": "ordin/munca/2010/363",
 "kind": "ordin",
@@ -16808,6 +17409,25 @@
 "from": "2010-05-19",
 "latest": "2010-05-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/118862",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-388-2010",
+"path": "ordin/munca/2010/388",
+"kind": "ordin",
+"year": "2010",
+"number": "388",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 388/2010 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2010 ale institutelor naționale de cercetare-dezvoltare din coordonarea Ministerului Muncii, Familiei și Protecției Sociale",
+"short": "Ordin munca nr. 388/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-06-24",
+"latest": "2010-06-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119823",
 "issuer": "munca",
 "joint": []
 },
@@ -16875,6 +17495,25 @@
 "alias": "ordin-ins-1365-2010"
 }
 ]
+},
+{
+"slug": "ordin-munca-455-2010",
+"path": "ordin/munca/2010/455",
+"kind": "ordin",
+"year": "2010",
+"number": "455",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 455/2010 pentru constituirea comisiilor de abilitare a serviciilor externe de prevenire și protecție și de avizare a documentațiilor cu caracter tehnic de informare și instruire în domeniul securității și sănătății în muncă din cadrul inspectoratelor teritoriale de muncă",
+"short": "Ordin munca nr. 455/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-06-21",
+"latest": "2010-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119699",
+"issuer": "munca",
+"joint": []
 },
 {
 "slug": "ordin-munca-566-2010",
@@ -16976,6 +17615,33 @@
 "date": "2010-05-14",
 "name": "Ministerul Finanțelor Publice",
 "alias": "ordin-finante-1100-2010"
+}
+]
+},
+{
+"slug": "ordin-munca-1022-2010",
+"path": "ordin/munca/2010/1022",
+"kind": "ordin",
+"year": "2010",
+"number": "1022",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.022/2010 privind constituirea comisiei de analiză și validare a Metodologiei de autorizare și certificare a formării prin metoda e-learning",
+"short": "Ordin munca nr. 1022/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-01",
+"latest": "2010-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121906",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "educatie",
+"nr": "4677",
+"date": "2010-08-18",
+"name": "Ministerul Educației, Cercetării, Tineretului și Sportului",
+"alias": "ordin-educatie-4677-2010"
 }
 ]
 },
@@ -17098,6 +17764,25 @@
 "from": "2010-08-31",
 "latest": "2010-08-31",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/121872",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-1256-2010",
+"path": "ordin/munca/2010/1256",
+"kind": "ordin",
+"year": "2010",
+"number": "1256",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.256/2010 pentru modificarea anexei la Ordinul ministrului muncii, familiei și egalității de șanse nr. 82/2008 privind aprobarea constituirii Comitetului de monitorizare pentru Programul operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+"short": "Ordin munca nr. 1256/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-07",
+"latest": "2010-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122004",
 "issuer": "munca",
 "joint": []
 },
@@ -17704,6 +18389,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-5-2010",
+"path": "ordin/sanatate/2010/5",
+"kind": "ordin",
+"year": "2010",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5/2010 pentru modificarea Ordinului ministrului sănătății nr. 905/2009 privind înființarea Dispeceratului unic pentru centralizarea paturilor libere care se asigură de către spitalele de urgență din municipiul București pentru internarea pacienților proveniți din unitățile de primire a urgențelor (UPU) sau compartimentele de primire a urgențelor (CPU)",
+"short": "Ordin sanatate nr. 5/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-01-14",
+"latest": "2010-01-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115318",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-6-2010",
 "path": "ordin/sanatate/2010/6",
 "kind": "ordin",
@@ -17897,6 +18601,25 @@
 "alias": "ordin-cnas-55-2010"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-64-2010",
+"path": "ordin/sanatate/2010/64",
+"kind": "ordin",
+"year": "2010",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 64/2010 pentru aprobarea listei naționale de medici cu specialitatea medicină de urgență sau anestezie terapie intensivă care activează inclusiv într-o structură prespitalicească și a listei naționale de ingineri auto, care pot face parte din comisiile de autorizare a furnizorilor privați de servicii de asistență medicală de urgență prespitalicească și de transport medical asistat și transport sanitar neasistat, a serviciilor de ambulanță județene și al municipiului București și a serviciilor mobile de urgență, reanimare și descarcerare (SMURD)",
+"short": "Ordin sanatate nr. 64/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-02-15",
+"latest": "2010-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116228",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-75-2010",
@@ -18613,6 +19336,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-536-2010",
+"path": "ordin/sanatate/2010/536",
+"kind": "ordin",
+"year": "2010",
+"number": "536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 536/2010 pentru modificarea și completarea Ordinului ministrului sănătății nr. 326/2009 privind înființarea comisiilor de specialitate ale Ministerului Sănătății și Comisiei naționale de transparență",
+"short": "Ordin sanatate nr. 536/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-05-31",
+"latest": "2010-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119104",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-546-2010",
 "path": "ordin/sanatate/2010/546",
 "kind": "ordin",
@@ -19080,6 +19822,44 @@
 "alias": "ordin-cnas-619-2010"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1009-2010",
+"path": "ordin/sanatate/2010/1009",
+"kind": "ordin",
+"year": "2010",
+"number": "1009",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.009/2010 privind acreditarea unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+"short": "Ordin sanatate nr. 1009/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-13",
+"latest": "2010-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/120445",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1015-2010",
+"path": "ordin/sanatate/2010/1015",
+"kind": "ordin",
+"year": "2010",
+"number": "1015",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.015/2010 privind acreditarea Institutului Clinic de Uronefrologie și Transplant Renal Fundeni",
+"short": "Ordin sanatate nr. 1015/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-13",
+"latest": "2010-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/120446",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1016-2010",
@@ -19943,6 +20723,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1258-2010",
+"path": "ordin/sanatate/2010/1258",
+"kind": "ordin",
+"year": "2010",
+"number": "1258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.258/2010 privind modificarea art. 11 din anexa la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 1258/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-30",
+"latest": "2010-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122488",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1265-2010",
 "path": "ordin/sanatate/2010/1265",
 "kind": "ordin",
@@ -20137,6 +20936,25 @@
 "from": "2010-11-30",
 "latest": "2010-11-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124041",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1345-2010",
+"path": "ordin/sanatate/2010/1345",
+"kind": "ordin",
+"year": "2010",
+"number": "1345",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.345/2010 pentru modificarea și completarea Ordinului ministrului sănătății nr. 1.009/2010 privind acreditarea unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+"short": "Ordin sanatate nr. 1345/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-11-23",
+"latest": "2010-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/123814",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20558,6 +21376,44 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1493-2010",
+"path": "ordin/sanatate/2010/1493",
+"kind": "ordin",
+"year": "2010",
+"number": "1493",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.493/2010 privind modificarea art. 11 din anexa la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 1493/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-12-20",
+"latest": "2010-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124533",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1494-2010",
+"path": "ordin/sanatate/2010/1494",
+"kind": "ordin",
+"year": "2010",
+"number": "1494",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.494/2010 pentru completarea Ordinului ministrului sănătății nr. 1.009/2010 privind acreditarea unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+"short": "Ordin sanatate nr. 1494/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-12-21",
+"latest": "2010-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124586",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1497-2010",
 "path": "ordin/sanatate/2010/1497",
 "kind": "ordin",
@@ -20638,6 +21494,25 @@
 "from": "2010-12-30",
 "latest": "2010-12-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/124908",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1534-2010",
+"path": "ordin/sanatate/2010/1534",
+"kind": "ordin",
+"year": "2010",
+"number": "1534",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.534/2010 privind numirea administratorului special la Societatea Comercială SANEVIT 2003 - S.A. Arad",
+"short": "Ordin sanatate nr. 1534/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-12-30",
+"latest": "2010-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124909",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20824,6 +21699,516 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/116248",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-114-2010",
+"path": "ordin/transporturi/2010/114",
+"kind": "ordin",
+"year": "2010",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 114/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale de Revizii, Reparații Rame de Metrou și Instalații \"R.R.R.M.I.\" - S.A., filiala Societății Comerciale de Transport cu Metroul București \"Metrorex\" - S.A.",
+"short": "Ordin transporturi nr. 114/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-19",
+"latest": "2010-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117216",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "744",
+"date": "2010-03-05",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-744-2010"
+},
+{
+"issuer": "munca",
+"nr": "174",
+"date": "2010-02-23",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-174-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-115-2010",
+"path": "ordin/transporturi/2010/115",
+"kind": "ordin",
+"year": "2010",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 115/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale de Aprovizionare și Desfacere Brașov \"C.F.R. - S.C.A.D. Brașov\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A.",
+"short": "Ordin transporturi nr. 115/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-19",
+"latest": "2010-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117217",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "757",
+"date": "2010-03-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-757-2010"
+},
+{
+"issuer": "munca",
+"nr": "171",
+"date": "2010-02-23",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-171-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-116-2010",
+"path": "ordin/transporturi/2010/116",
+"kind": "ordin",
+"year": "2010",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 116/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale de Exploatare a Vagoanelor de Dormit, Cușetă, Restaurant și Bar \"C.F.R. - GEVARO\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A.",
+"short": "Ordin transporturi nr. 116/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-19",
+"latest": "2010-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117227",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "745",
+"date": "2010-03-05",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-745-2010"
+},
+{
+"issuer": "munca",
+"nr": "172",
+"date": "2010-02-23",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-172-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-117-2010",
+"path": "ordin/transporturi/2010/117",
+"kind": "ordin",
+"year": "2010",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 117/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Grup Exploatare și Întreținere Palat C.F.R.\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 117/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-19",
+"latest": "2010-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117224",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "758",
+"date": "2010-03-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-758-2010"
+},
+{
+"issuer": "munca",
+"nr": "173",
+"date": "2010-02-23",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-173-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-118-2010",
+"path": "ordin/transporturi/2010/118",
+"kind": "ordin",
+"year": "2010",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 118/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale Întreținere și Reparații Locomotive și Utilaje - \"C.F.R. IRLU\" - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. - Marfă\" - S.A.",
+"short": "Ordin transporturi nr. 118/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-18",
+"latest": "2010-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117181",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "755",
+"date": "2010-03-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-755-2010"
+},
+{
+"issuer": "munca",
+"nr": "175",
+"date": "2010-02-23",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-175-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-142-2010",
+"path": "ordin/transporturi/2010/142",
+"kind": "ordin",
+"year": "2010",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 142/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Întreținere Mecanizată\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 142/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-17",
+"latest": "2010-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117138",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "762",
+"date": "2010-03-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-762-2010"
+},
+{
+"issuer": "munca",
+"nr": "192",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-192-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-143-2010",
+"path": "ordin/transporturi/2010/143",
+"kind": "ordin",
+"year": "2010",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 143/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale de Reparații Locomotive \"C.F.R. - SCRL Brașov\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A.",
+"short": "Ordin transporturi nr. 143/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-18",
+"latest": "2010-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117190",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "770",
+"date": "2010-03-11",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-770-2010"
+},
+{
+"issuer": "munca",
+"nr": "191",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-191-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-144-2010",
+"path": "ordin/transporturi/2010/144",
+"kind": "ordin",
+"year": "2010",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 144/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale de Vânzare Legitimații de Călătorie \"VOIAJ C.F.R.\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. - Călători\" - S.A.",
+"short": "Ordin transporturi nr. 144/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-18",
+"latest": "2010-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117193",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "771",
+"date": "2010-03-11",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-771-2010"
+},
+{
+"issuer": "munca",
+"nr": "199",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-199-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-145-2010",
+"path": "ordin/transporturi/2010/145",
+"kind": "ordin",
+"year": "2010",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 145/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale Întreținere și Reparații Vagoane \"C.F.R. IRV\" - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. - Marfă\" - S.A.",
+"short": "Ordin transporturi nr. 145/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-19",
+"latest": "2010-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117225",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "792",
+"date": "2010-03-12",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-792-2010"
+},
+{
+"issuer": "munca",
+"nr": "194",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-194-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-154-2010",
+"path": "ordin/transporturi/2010/154",
+"kind": "ordin",
+"year": "2010",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 154/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale de Transport Maritim și de Coastă \"C.F.R. Ferry-Boat\" - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R.-Marfă\" - S.A.",
+"short": "Ordin transporturi nr. 154/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-17",
+"latest": "2010-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117140",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "764",
+"date": "2010-03-10",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-764-2010"
+},
+{
+"issuer": "munca",
+"nr": "197",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-197-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-155-2010",
+"path": "ordin/transporturi/2010/155",
+"kind": "ordin",
+"year": "2010",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 155/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 155/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-17",
+"latest": "2010-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117134",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "763",
+"date": "2010-03-10",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-763-2010"
+},
+{
+"issuer": "munca",
+"nr": "198",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-198-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-156-2010",
+"path": "ordin/transporturi/2010/156",
+"kind": "ordin",
+"year": "2010",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 156/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Electrificare C.F.R.\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 156/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-19",
+"latest": "2010-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117236",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "793",
+"date": "2010-03-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-793-2010"
+},
+{
+"issuer": "munca",
+"nr": "195",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-195-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-157-2010",
+"path": "ordin/transporturi/2010/157",
+"kind": "ordin",
+"year": "2010",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 157/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Tipografia Filaret\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 157/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-17",
+"latest": "2010-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117154",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "765",
+"date": "2010-03-10",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-765-2010"
+},
+{
+"issuer": "munca",
+"nr": "196",
+"date": "2010-03-01",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-196-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-179-2010",
+"path": "ordin/transporturi/2010/179",
+"kind": "ordin",
+"year": "2010",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 179/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Intervenții Feroviare\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 179/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-25",
+"latest": "2010-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117392",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "830",
+"date": "2010-03-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-830-2010"
+},
+{
+"issuer": "munca",
+"nr": "223",
+"date": "2010-03-09",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-223-2010"
+}
+]
+},
+{
+"slug": "ordin-transporturi-180-2010",
+"path": "ordin/transporturi/2010/180",
+"kind": "ordin",
+"year": "2010",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 180/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Societății Comerciale \"Telecomunicații C.F.R.\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 180/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-03-25",
+"latest": "2010-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117390",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "831",
+"date": "2010-03-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-831-2010"
+},
+{
+"issuer": "munca",
+"nr": "222",
+"date": "2010-03-09",
+"name": "Ministerul Muncii, Familiei și Protecției Sociale",
+"alias": "ordin-munca-222-2010"
+}
+]
 },
 {
 "slug": "ordin-transporturi-184-2010",

@@ -3,6 +3,51 @@
  "shard": "ordin/2019",
  "acts": [
   {
+   "slug": "ordin-aaas-15191-2019",
+   "path": "ordin/aaas/2019/15191",
+   "short": "Ordin aaas nr. 15191/2019",
+   "title": "Ordinul nr. 15.191/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218003",
+   "versions": [
+    {
+     "from": "2019-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218003",
+     "sha256": "326034f8579ce8a1c1c2be15d557fc8a9fc1aae72359cc06f7623de3dcd88557"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-17628-2019",
+   "path": "ordin/aaas/2019/17628",
+   "short": "Ordin aaas nr. 17628/2019",
+   "title": "Ordinul nr. 17.628/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății ACTIVE CONEXE - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217979",
+   "versions": [
+    {
+     "from": "2019-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217979",
+     "sha256": "6128fcb254fb20d157317ed96f9c02e642c99dccebd5b8d07ca5a3e76b098c2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-20155-2019",
+   "path": "ordin/aaas/2019/20155",
+   "short": "Ordin aaas nr. 20155/2019",
+   "title": "Ordinul nr. 20.155/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății ICTCM - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219009",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219009",
+     "sha256": "a71ca2f9dfc6b892a1e638764e8211515e5454cb82622914eb07847c237d4eff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-589-2019",
    "path": "ordin/aaas/2019/589",
    "short": "Ordin aaas nr. 589/2019",
@@ -1638,6 +1683,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-857-2019",
+   "path": "ordin/anaf/2019/857",
+   "short": "Ordin anaf nr. 857/2019",
+   "title": "Ordinul nr. 857/2019 privind modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 4.156/2017 pentru aprobarea informațiilor conținute în registrul național de evidență a aparatelor de marcat electronice fiscale instalate în județe și în sectoarele municipiului București, precum și metodologia și procedura de înregistrare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212640",
+   "versions": [
+    {
+     "from": "2019-04-10",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212640",
+     "sha256": "eab398a7dd0e67fbd485cc4cfe3629e1fc3b6d91328a0eda4b5dfb25e5d165f8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-942-2019",
    "path": "ordin/anaf/2019/942",
    "short": "Ordin anaf nr. 942/2019",
@@ -1653,6 +1713,156 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-10-2019",
+   "path": "ordin/ancpi/2019/10",
+   "short": "Ordin ancpi nr. 10/2019",
+   "title": "Ordinul nr. 10/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 11 unități administrativ-teritoriale din județul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211003",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211003",
+     "sha256": "8f5ea8cf8752362214b07b9ffffa1dbae15d0da3458edf3327476f2b9df1e5d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1006-2019",
+   "path": "ordin/ancpi/2019/1006",
+   "short": "Ordin ancpi nr. 1006/2019",
+   "title": "Ordinul nr. 1.006/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 4 unități administrativ-teritoriale din județul Iași în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213277",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213277",
+     "sha256": "0cf3ceecd5fc49bb3347da656ec11e6083709c6623c4123180a0cfde5a270472"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1007-2019",
+   "path": "ordin/ancpi/2019/1007",
+   "short": "Ordin ancpi nr. 1007/2019",
+   "title": "Ordinul nr. 1.007/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Belin din județul Covasna în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212711",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212711",
+     "sha256": "98187abe5829e347d2596a2640610fdc27bfaa3320604d3e50c5d4f82f235b46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1008-2019",
+   "path": "ordin/ancpi/2019/1008",
+   "short": "Ordin ancpi nr. 1008/2019",
+   "title": "Ordinul nr. 1.008/2019 privind finalizarea lucrărilor de înregistrare sistematică la nivelul unității administrativ-teritoriale Luciu din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213411",
+   "versions": [
+    {
+     "from": "2019-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213411",
+     "sha256": "29fd5209eecaa988273d0718ed70537eee21c5d2cfcf572d14a278cde5960f11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1009-2019",
+   "path": "ordin/ancpi/2019/1009",
+   "short": "Ordin ancpi nr. 1009/2019",
+   "title": "Ordinul nr. 1.009/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 5 unități administrativ-teritoriale din județul Neamț în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213412",
+   "versions": [
+    {
+     "from": "2019-05-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213412",
+     "sha256": "356b7070edba080f51190b09af06d37252c746ecdcc1a63a4f5fe57da0b549bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1010-2019",
+   "path": "ordin/ancpi/2019/1010",
+   "short": "Ordin ancpi nr. 1010/2019",
+   "title": "Ordinul nr. 1.010/2019 privind aducerea la cunoștința publică a sectorului cadastral din unitatea administrativ-teritorială Poienarii de Muscel din județul Argeș în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213265",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213265",
+     "sha256": "a466415b5081c61fe0fb265325a276f1afcb01f17a04e7c3417f5d375ab289d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1011-2019",
+   "path": "ordin/ancpi/2019/1011",
+   "short": "Ordin ancpi nr. 1011/2019",
+   "title": "Ordinul nr. 1.011/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Deva din județul Hunedoara în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213266",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213266",
+     "sha256": "41008d59317d450938e8d85252d3e44fe69b1fcbe396226fed993ee3e1fa2832"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1012-2019",
+   "path": "ordin/ancpi/2019/1012",
+   "short": "Ordin ancpi nr. 1012/2019",
+   "title": "Ordinul nr. 1.012/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 2 unități administrativ-teritoriale din județul Ialomița în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213267",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213267",
+     "sha256": "23665b3147c38f5c2a37ab6479342ebc05c3a1929ba42910e2509f959d254355"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1019-2019",
+   "path": "ordin/ancpi/2019/1019",
+   "short": "Ordin ancpi nr. 1019/2019",
+   "title": "Ordinul nr. 1.019/2019 privind aducerea la cunoștința publică a sectorului cadastral din unitatea administrativ-teritorială Voila din județul Brașov în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213278",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213278",
+     "sha256": "4f9a8f9ca9c699b78a05a0b2115f1c1dee1f847498e129de63efac08f8bcf40a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-102-2019",
+   "path": "ordin/ancpi/2019/102",
+   "short": "Ordin ancpi nr. 102/2019",
+   "title": "Ordinul nr. 102/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 9 unități administrativ-teritoriale din județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211069",
+   "versions": [
+    {
+     "from": "2019-02-19",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211069",
+     "sha256": "f037bb91b536a8801ed03f1f3703ddf49047b9c4d5c108a264f5eca930fb932a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1020-2019",
    "path": "ordin/ancpi/2019/1020",
    "short": "Ordin ancpi nr. 1020/2019",
@@ -1664,6 +1874,261 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212653",
      "sha256": "4a3a158982cee5ad46c992db3b65e46b8506e4987da3d2f140dd42dac86a7d00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1021-2019",
+   "path": "ordin/ancpi/2019/1021",
+   "short": "Ordin ancpi nr. 1021/2019",
+   "title": "Ordinul nr. 1.021/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Estelnic din județul Covasna în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213268",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213268",
+     "sha256": "31874d18d9484f984a59ec71f5023b53fbde010688ccd763c4ed3c51439c9b33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1022-2019",
+   "path": "ordin/ancpi/2019/1022",
+   "short": "Ordin ancpi nr. 1022/2019",
+   "title": "Ordinul nr. 1.022/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 2 unități administrativ-teritoriale din județul Mehedinți în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213269",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213269",
+     "sha256": "d5a460951ab9ea930cbc1938565b994ec0ba9a80d69ab09f9576cce80dfd378b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-103-2019",
+   "path": "ordin/ancpi/2019/103",
+   "short": "Ordin ancpi nr. 103/2019",
+   "title": "Ordinul nr. 103/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 7 unități administrativ-teritoriale din județul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211030",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211030",
+     "sha256": "1033b022dce5fe8be19a85f596e4c684de6316bdec17ef9d4ee84210d7373760"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1039-2019",
+   "path": "ordin/ancpi/2019/1039",
+   "short": "Ordin ancpi nr. 1039/2019",
+   "title": "Ordinul nr. 1.039/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 3 unități administrativ-teritoriale din județul Mehedinți în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212971",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212971",
+     "sha256": "1bb4a610c8be87dc0716d16e36c894c6e6ed06f3f2388aeae0a8e91602983802"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-104-2019",
+   "path": "ordin/ancpi/2019/104",
+   "short": "Ordin ancpi nr. 104/2019",
+   "title": "Ordinul nr. 104/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 20 de unități administrativ-teritoriale din județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211028",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211028",
+     "sha256": "f56c83ddfadd42abb77ff3f94c8a7f2a0d575d567ca16743182660956f26af4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1040-2019",
+   "path": "ordin/ancpi/2019/1040",
+   "short": "Ordin ancpi nr. 1040/2019",
+   "title": "Ordinul nr. 1.040/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 11 unități administrativ-teritoriale din județul Mureș în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213259",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213259",
+     "sha256": "0cc6e8afcb0dfa48934be03d33c7fb720502487fa721e146e2f182decc81a2b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1041-2019",
+   "path": "ordin/ancpi/2019/1041",
+   "short": "Ordin ancpi nr. 1041/2019",
+   "title": "Ordinul nr. 1.041/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 5 unități administrativ-teritoriale din județul Cluj în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213325",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213325",
+     "sha256": "4e44babf123ed8bd4c25b3b00e95b0b00e92d3f15e378ca86dc68a93d8bd3fad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1042-2019",
+   "path": "ordin/ancpi/2019/1042",
+   "short": "Ordin ancpi nr. 1042/2019",
+   "title": "Ordinul nr. 1.042/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 5 unități administrativ-teritoriale din județul Bistrița-Năsăud în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213326",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213326",
+     "sha256": "82603468166e37f42da9681e405ce5c8e66425d0be103574683a58236648eec5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1044-2019",
+   "path": "ordin/ancpi/2019/1044",
+   "short": "Ordin ancpi nr. 1044/2019",
+   "title": "Ordinul nr. 1.044/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 10 unități administrativ-teritoriale din județul Sibiu în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213203",
+   "versions": [
+    {
+     "from": "2019-04-22",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213203",
+     "sha256": "69777ba87f2d159bcfd0e90a40f411d6ff0bbd9d1be8941b328fe79e0efa8e98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1045-2019",
+   "path": "ordin/ancpi/2019/1045",
+   "short": "Ordin ancpi nr. 1045/2019",
+   "title": "Ordinul nr. 1.045/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 8 unități administrativ-teritoriale din județul Timiș în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213236",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213236",
+     "sha256": "2270a06ffa19fa4ef8b556c4010754270e27ac6708488362c06b00e6f2e337f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-105-2019",
+   "path": "ordin/ancpi/2019/105",
+   "short": "Ordin ancpi nr. 105/2019",
+   "title": "Ordinul nr. 105/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 7 unități administrativ-teritoriale din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211029",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211029",
+     "sha256": "acfb61da340726a6da99f122e3bb988badb7c1aea35caf5607ca17c033dafdfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1092-2019",
+   "path": "ordin/ancpi/2019/1092",
+   "short": "Ordin ancpi nr. 1092/2019",
+   "title": "Ordinul nr. 1.092/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 9 unități administrativ-teritoriale din județul Suceava în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213260",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213260",
+     "sha256": "7902c568ad14cf886c7da607b86bab2fe2e8719adedeb2ce808851f9cc722d5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1095-2019",
+   "path": "ordin/ancpi/2019/1095",
+   "short": "Ordin ancpi nr. 1095/2019",
+   "title": "Ordinul nr. 1.095/2019 pentru abrogarea unor dispoziții ale Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.118/2018 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 47 de unități administrativ-teritoriale din județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213279",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213279",
+     "sha256": "4703601635b7401d80f422b2875f555e5c3f8d6a60d083b358486d089b17c88a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1102-2019",
+   "path": "ordin/ancpi/2019/1102",
+   "short": "Ordin ancpi nr. 1102/2019",
+   "title": "Ordinul nr. 1.102/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 8 unități administrativ-teritoriale din județul Giurgiu în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213315",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213315",
+     "sha256": "f0e21bd5fc696e97e3682f3397a6852093c543c7eb5c39159d0a4fb468029255"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1103-2019",
+   "path": "ordin/ancpi/2019/1103",
+   "short": "Ordin ancpi nr. 1103/2019",
+   "title": "Ordinul nr. 1.103/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 17 unități administrativ-teritoriale din județul Dolj în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213528",
+   "versions": [
+    {
+     "from": "2019-05-08",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213528",
+     "sha256": "f598cccffda653c06d7a9910e35469127ac24753ea229768dfc4fb909c484433"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1120-2019",
+   "path": "ordin/ancpi/2019/1120",
+   "short": "Ordin ancpi nr. 1120/2019",
+   "title": "Ordinul nr. 1.120/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.585/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 19 unități administrativ-teritoriale din județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213434",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213434",
+     "sha256": "7ef508696ee816180921152af5532a04efa2e2f2052f689f0806dd36425f4800"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1160-2019",
+   "path": "ordin/ancpi/2019/1160",
+   "short": "Ordin ancpi nr. 1160/2019",
+   "title": "Ordinul nr. 1.160/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 4 unități administrativ-teritoriale din județul Botoșani în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213425",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213425",
+     "sha256": "e54eabdd3133f4d99df2050e596e4012923fc5d930986bc7a50d92c95888483f"
     }
    ]
   },
@@ -1698,6 +2163,156 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1619-2019",
+   "path": "ordin/ancpi/2019/1619",
+   "short": "Ordin ancpi nr. 1619/2019",
+   "title": "Ordinul nr. 1.619/2019 pentru modificarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.521/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 11 unități administrativ-teritoriale din județul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213865",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213865",
+     "sha256": "dfdf0e0cbe4eca29816ced1e09d26e3473af87054e6f56d7ca7d0b2b035e7a59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1620-2019",
+   "path": "ordin/ancpi/2019/1620",
+   "short": "Ordin ancpi nr. 1620/2019",
+   "title": "Ordinul nr. 1.620/2019 pentru modificarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 104/2018 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213866",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213866",
+     "sha256": "9f39f8e3a6a71f5036228ce198766215af937abcc4f8d444e912f653972b4b7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1621-2019",
+   "path": "ordin/ancpi/2019/1621",
+   "short": "Ordin ancpi nr. 1621/2019",
+   "title": "Ordinul nr. 1.621/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.280/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 13 unități administrativ-teritoriale din județul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213867",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213867",
+     "sha256": "46a8c4b2715bcf573426ba42de53f7c86ac3d44c490560803bc00eabe7c35325"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1623-2019",
+   "path": "ordin/ancpi/2019/1623",
+   "short": "Ordin ancpi nr. 1623/2019",
+   "title": "Ordinul nr. 1.623/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.667/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 32 de unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213868",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213868",
+     "sha256": "7437e805ed2e667e23d6ef55a3694e9637a572ec9341edcd1dc0fd2ad46dd9a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1624-2019",
+   "path": "ordin/ancpi/2019/1624",
+   "short": "Ordin ancpi nr. 1624/2019",
+   "title": "Ordinul nr. 1.624/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Sâncel din județul Alba în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213602",
+   "versions": [
+    {
+     "from": "2019-05-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213602",
+     "sha256": "52a83f1fdcebafbcb95053377e64768d79739ad39219df52b4d953b8f6759840"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1651-2019",
+   "path": "ordin/ancpi/2019/1651",
+   "short": "Ordin ancpi nr. 1651/2019",
+   "title": "Ordinul nr. 1.651/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 13 unități administrativ-teritoriale din județul Dâmbovița în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214075",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214075",
+     "sha256": "6abb331dfa4de46f39af2b2c466eb141f0ff26dbe24735d2e443c55753050f32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1652-2019",
+   "path": "ordin/ancpi/2019/1652",
+   "short": "Ordin ancpi nr. 1652/2019",
+   "title": "Ordinul nr. 1.652/2019 pentru abrogarea unor dispoziții ale Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.414/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 41 de unități administrativ-teritoriale din județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213869",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213869",
+     "sha256": "5613007541e8daf8bcc6ab9031cf9b5255a89a5fe6ece79c1d779b06fcd511cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1653-2019",
+   "path": "ordin/ancpi/2019/1653",
+   "short": "Ordin ancpi nr. 1653/2019",
+   "title": "Ordinul nr. 1.653/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.305/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 23 de unități administrativ-teritoriale din județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213870",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213870",
+     "sha256": "41841324d49fa8fcd8c6ee11c011aab94bc65bf0e288a647e03a9477f255aeb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1695-2019",
+   "path": "ordin/ancpi/2019/1695",
+   "short": "Ordin ancpi nr. 1695/2019",
+   "title": "Ordinul nr. 1.695/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din două unități administrativ-teritoriale din județul Sibiu în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214096",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214096",
+     "sha256": "43ab03f086f2cb3b96e43dab2269a082b8713a46b039a351d0b9c260e7ccb655"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1696-2019",
+   "path": "ordin/ancpi/2019/1696",
+   "short": "Ordin ancpi nr. 1696/2019",
+   "title": "Ordinul nr. 1.696/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Roșia de Secaș din județul Alba în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214111",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214111",
+     "sha256": "264cb0d08ee2100b253db72f52658ab8aa82ac020f77f48a16ed4c23d461e8f3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1710-2019",
    "path": "ordin/ancpi/2019/1710",
    "short": "Ordin ancpi nr. 1710/2019",
@@ -1728,6 +2343,36 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1746-2019",
+   "path": "ordin/ancpi/2019/1746",
+   "short": "Ordin ancpi nr. 1746/2019",
+   "title": "Ordinul nr. 1.746/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 6 unități administrativ-teritoriale din județul Dâmbovița în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214859",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214859",
+     "sha256": "f83ca1ae952fbdb3d0a53a46348792f1a0c4d27db79e4913125728ceeb741140"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1747-2019",
+   "path": "ordin/ancpi/2019/1747",
+   "short": "Ordin ancpi nr. 1747/2019",
+   "title": "Ordinul nr. 1.747/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 25 de unități administrativ-teritoriale din județul Dâmbovița în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214863",
+   "versions": [
+    {
+     "from": "2019-06-10",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214863",
+     "sha256": "8ff97f5d49f17d9bed4d451253fd379b3dca29ededde6ec25c14e1a182f42e7e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1764-2019",
    "path": "ordin/ancpi/2019/1764",
    "short": "Ordin ancpi nr. 1764/2019",
@@ -1743,6 +2388,81 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1768-2019",
+   "path": "ordin/ancpi/2019/1768",
+   "short": "Ordin ancpi nr. 1768/2019",
+   "title": "Ordinul nr. 1.768/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Mănești din județul Dâmbovița în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214765",
+   "versions": [
+    {
+     "from": "2019-06-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214765",
+     "sha256": "b27526d1641b5497bef68f77107b8f7b7daed23df553e1ed7e59f158df761fe4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1769-2019",
+   "path": "ordin/ancpi/2019/1769",
+   "short": "Ordin ancpi nr. 1769/2019",
+   "title": "Ordinul nr. 1.769/2019 pentru modificarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 3/2018 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214926",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214926",
+     "sha256": "82df01bc9167536b2dc05d72fa147279a27269d3ad0d1aee7c87027280306409"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1777-2019",
+   "path": "ordin/ancpi/2019/1777",
+   "short": "Ordin ancpi nr. 1777/2019",
+   "title": "Ordinul nr. 1.777/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 4 unități administrativ-teritoriale din județul Satu Mare în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214867",
+   "versions": [
+    {
+     "from": "2019-06-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214867",
+     "sha256": "f2e7fdcc347fbc9956b9bc5c312e1401241287e0fcd0b30ea40fd77108675e00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1789-2019",
+   "path": "ordin/ancpi/2019/1789",
+   "short": "Ordin ancpi nr. 1789/2019",
+   "title": "Ordinul nr. 1.789/2019 privind aducerea la cunoștința publică a derulării lucrărilor de înregistrare sistematică în unitatea administrativ-teritorială Moșoaia din județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214565",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214565",
+     "sha256": "f86549824aa5969fc5e06af3c8dc1ff0323d9b15c6be88d5f11e6fd944955d36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1795-2019",
+   "path": "ordin/ancpi/2019/1795",
+   "short": "Ordin ancpi nr. 1795/2019",
+   "title": "Ordinul nr. 1.795/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Vălenii de Munte din județul Prahova în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214938",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214938",
+     "sha256": "612d9863ba2e7984cda7e0badabc14185f95cbc58cd7d9f710e7dcae7bf40e67"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-18-2019",
    "path": "ordin/ancpi/2019/18",
    "short": "Ordin ancpi nr. 18/2019",
@@ -1754,6 +2474,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210073",
      "sha256": "0bc0c6a1bf04b5eea53f834316ecad65b3ffc1bcbc1c11abdb07f1f04f061406"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-197-2019",
+   "path": "ordin/ancpi/2019/197",
+   "short": "Ordin ancpi nr. 197/2019",
+   "title": "Ordinul nr. 197/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.593/2018 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 23 de unități administrativ-teritoriale din județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211043",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211043",
+     "sha256": "fe091057a46950744afece679547fee98996ea8ae197d2bb273c90d1e9090043"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-198-2019",
+   "path": "ordin/ancpi/2019/198",
+   "short": "Ordin ancpi nr. 198/2019",
+   "title": "Ordinul nr. 198/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Robănești din județul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210963",
+   "versions": [
+    {
+     "from": "2019-02-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210963",
+     "sha256": "4d689dfc7dce6c5ee9c58b6a67fc80f1564c3e0f070a7aaf334082592f796c11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-199-2019",
+   "path": "ordin/ancpi/2019/199",
+   "short": "Ordin ancpi nr. 199/2019",
+   "title": "Ordinul nr. 199/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210964",
+   "versions": [
+    {
+     "from": "2019-02-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210964",
+     "sha256": "356f65fe960b8a197465183dd1da1866c61364a8c400d28556aaf97bfe848800"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-20-2019",
+   "path": "ordin/ancpi/2019/20",
+   "short": "Ordin ancpi nr. 20/2019",
+   "title": "Ordinul nr. 20/2019 pentru modificarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.558/2018 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 37 de unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211032",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211032",
+     "sha256": "2ce474270f3e807fce331aa4100e1fe5c5a7d3000703c3149651279a8c2c9415"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-24-2019",
+   "path": "ordin/ancpi/2019/24",
+   "short": "Ordin ancpi nr. 24/2019",
+   "title": "Ordinul nr. 24/2019 privind finalizarea lucrărilor de înregistrare sistematică la nivelul unității administrativ-teritoriale Cilibia din județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210592",
+   "versions": [
+    {
+     "from": "2019-02-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210592",
+     "sha256": "964e1e72577fa8c3e5b762fdecdebbc19ca721d03203a67c817a1a658ee0d113"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-25-2019",
+   "path": "ordin/ancpi/2019/25",
+   "short": "Ordin ancpi nr. 25/2019",
+   "title": "Ordinul nr. 25/2019 pentru modificarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.130/2018 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 21 de unități administrativ-teritoriale din județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210593",
+   "versions": [
+    {
+     "from": "2019-02-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210593",
+     "sha256": "8b81bdeb2654c12cacc98aed902dd373e43990ee825bfe57771012064b586de2"
     }
    ]
   },
@@ -1848,6 +2658,351 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-36-2019",
+   "path": "ordin/ancpi/2019/36",
+   "short": "Ordin ancpi nr. 36/2019",
+   "title": "Ordinul nr. 36/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210575",
+   "versions": [
+    {
+     "from": "2019-02-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210575",
+     "sha256": "d41717351612705529b8c1a9241d156d4846e7cafcc5fb8e8ad5c3ca8051be50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-5-2019",
+   "path": "ordin/ancpi/2019/5",
+   "short": "Ordin ancpi nr. 5/2019",
+   "title": "Ordinul nr. 5/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.411/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210418",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210418",
+     "sha256": "29b0783c934fabcc0e86e313ce97d2877649e68613b852b2c4ad87247556a0f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-55-2019",
+   "path": "ordin/ancpi/2019/55",
+   "short": "Ordin ancpi nr. 55/2019",
+   "title": "Ordinul nr. 55/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Bocșa din județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210969",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210969",
+     "sha256": "e8314366d8c9ff8f6b812b93532d756ee2a41dba3945c9c053bd75bc474faa83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-56-2019",
+   "path": "ordin/ancpi/2019/56",
+   "short": "Ordin ancpi nr. 56/2019",
+   "title": "Ordinul nr. 56/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Maliuc din județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210970",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210970",
+     "sha256": "486d018ffce372413e8ce8e82386a95a735baa2095768812d64a325dc7a429a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-57-2019",
+   "path": "ordin/ancpi/2019/57",
+   "short": "Ordin ancpi nr. 57/2019",
+   "title": "Ordinul nr. 57/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 8 unități administrativ-teritoriale din județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210941",
+   "versions": [
+    {
+     "from": "2019-02-13",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210941",
+     "sha256": "23ea80fd9f29e88f395d12bb27061ad446fb23c269bddbb4e05608d616b81b64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-64-2019",
+   "path": "ordin/ancpi/2019/64",
+   "short": "Ordin ancpi nr. 64/2019",
+   "title": "Ordinul nr. 64/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 3 unități administrativ-teritoriale din județul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210936",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210936",
+     "sha256": "41d308dc19a4ca6a96747f1b5675855b9a6ec2c8e633d7da2ae8360ed5b2785e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-65-2019",
+   "path": "ordin/ancpi/2019/65",
+   "short": "Ordin ancpi nr. 65/2019",
+   "title": "Ordinul nr. 65/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Străoane din județul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211096",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211096",
+     "sha256": "a2c3904417e385172bc2a54a53adee2fdb9be28ff142ab2b044ec87c9edb0e7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-66-2019",
+   "path": "ordin/ancpi/2019/66",
+   "short": "Ordin ancpi nr. 66/2019",
+   "title": "Ordinul nr. 66/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 8 unități administrativ-teritoriale din județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211097",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211097",
+     "sha256": "97f359d09f846d93d60947fa79388585068e93344bbe6c081e5aeebb2892dbc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-660-2019",
+   "path": "ordin/ancpi/2019/660",
+   "short": "Ordin ancpi nr. 660/2019",
+   "title": "Ordinul nr. 660/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211261",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211261",
+     "sha256": "84099c6d0b2a6e1e20b9ac17bac8d3200c5f20b8c93f00b8ab45bcd7b4798cfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-663-2019",
+   "path": "ordin/ancpi/2019/663",
+   "short": "Ordin ancpi nr. 663/2019",
+   "title": "Ordinul nr. 663/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 20 de unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211237",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211237",
+     "sha256": "5de255421696a115e3790b7734346e09e1ad61305817797ff3f94f759869b743"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-670-2019",
+   "path": "ordin/ancpi/2019/670",
+   "short": "Ordin ancpi nr. 670/2019",
+   "title": "Ordinul nr. 670/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în unitatea administrativ-teritorială Balotești din județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211705",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211705",
+     "sha256": "e8c02b7a07bf2541dfed63bc84d4af39a37e60e6c4c609d3b59710d931d0b77b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-671-2019",
+   "path": "ordin/ancpi/2019/671",
+   "short": "Ordin ancpi nr. 671/2019",
+   "title": "Ordinul nr. 671/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 9 unități administrativ-teritoriale din județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211619",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211619",
+     "sha256": "9e33d409b0395696ac3be168a866b5ac60cbaf1e85c7e0915b6a898e539e9700"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-7-2019",
+   "path": "ordin/ancpi/2019/7",
+   "short": "Ordin ancpi nr. 7/2019",
+   "title": "Ordinul nr. 7/2019 pentru abrogarea unor dispoziții ale Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.667/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 32 de unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210431",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210431",
+     "sha256": "9746612518e36010512d7321ecc11e6649458c31faee626c49c79b3916725d79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-719-2019",
+   "path": "ordin/ancpi/2019/719",
+   "short": "Ordin ancpi nr. 719/2019",
+   "title": "Ordinul nr. 719/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.667/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 32 de unități administrativ-teritoriale din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211635",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211635",
+     "sha256": "67d9afd5f61a5aaefc4b30ec4b22b03986ab305adfc297b0f3ef88e85508fc68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-730-2019",
+   "path": "ordin/ancpi/2019/730",
+   "short": "Ordin ancpi nr. 730/2019",
+   "title": "Ordinul nr. 730/2019 pentru abrogarea unor dispoziții cuprinse în Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 10/2018 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 9 unități administrativ-teritoriale din județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211811",
+   "versions": [
+    {
+     "from": "2019-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211811",
+     "sha256": "6c0ad51d7efa6a391acd97b035beba4e2bcdeeaae444493a8f18b43ac7f5141f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-731-2019",
+   "path": "ordin/ancpi/2019/731",
+   "short": "Ordin ancpi nr. 731/2019",
+   "title": "Ordinul nr. 731/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale din județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211636",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211636",
+     "sha256": "fe21adbc17dc8ca2aff4aface6978d327d31731a772ddbf399a30cc69b25946b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-732-2019",
+   "path": "ordin/ancpi/2019/732",
+   "short": "Ordin ancpi nr. 732/2019",
+   "title": "Ordinul nr. 732/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211637",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211637",
+     "sha256": "0f74ed6637d0f7bd5cc8c473095c1410ab9386319427bd4a78a1e69fa02353e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-764-2019",
+   "path": "ordin/ancpi/2019/764",
+   "short": "Ordin ancpi nr. 764/2019",
+   "title": "Ordinul nr. 764/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 39 de unități administrativ-teritoriale din județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211823",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211823",
+     "sha256": "32467df203e5bf2596df8665572cb008ac346ff0395b812e4aee3f7ce67e342f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-771-2019",
+   "path": "ordin/ancpi/2019/771",
+   "short": "Ordin ancpi nr. 771/2019",
+   "title": "Ordinul nr. 771/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în două unități administrativ-teritoriale din județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211892",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211892",
+     "sha256": "d356d5fd23cfdec8586453bf2c6ab3c23522d4634245f883c5804cae260578b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-772-2019",
+   "path": "ordin/ancpi/2019/772",
+   "short": "Ordin ancpi nr. 772/2019",
+   "title": "Ordinul nr. 772/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 21 de unități administrativ-teritoriale din județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211991",
+   "versions": [
+    {
+     "from": "2019-03-25",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211991",
+     "sha256": "f647f4c910db78df9f2caa8ef5fc6dab9f19817f546b0d22487477fce8f494ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-773-2019",
+   "path": "ordin/ancpi/2019/773",
+   "short": "Ordin ancpi nr. 773/2019",
+   "title": "Ordinul nr. 773/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 7 unități administrativ-teritoriale din județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211893",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211893",
+     "sha256": "eab95a636b44e36f01ef54f38bf58b387113bd9ae626ff365bd492dd59577ddd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-774-2019",
+   "path": "ordin/ancpi/2019/774",
+   "short": "Ordin ancpi nr. 774/2019",
+   "title": "Ordinul nr. 774/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 6 unități administrativ-teritoriale din județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211827",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211827",
+     "sha256": "7bdf39ca394279b33b76fd33b030b21085e4504799b20a7286251a002d4b35c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-788-2019",
+   "path": "ordin/ancpi/2019/788",
+   "short": "Ordin ancpi nr. 788/2019",
+   "title": "Ordinul nr. 788/2019 privind finalizarea lucrărilor de înregistrare sistematică la nivelul unității administrativ-teritoriale Vulcana-Băi din județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211902",
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211902",
+     "sha256": "a7063e21c9499c3b7bfbffe594f58130e0fba16ad08db25dfe7ec02f1c445d5a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-796-2019",
    "path": "ordin/ancpi/2019/796",
    "short": "Ordin ancpi nr. 796/2019",
@@ -1863,6 +3018,186 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-8-2019",
+   "path": "ordin/ancpi/2019/8",
+   "short": "Ordin ancpi nr. 8/2019",
+   "title": "Ordinul nr. 8/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 18 unități administrativ-teritoriale din județul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210986",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210986",
+     "sha256": "50a2ba69ba129b1a47b110d44a909cabadc3a464916cfec1716de6a61109e449"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-810-2019",
+   "path": "ordin/ancpi/2019/810",
+   "short": "Ordin ancpi nr. 810/2019",
+   "title": "Ordinul nr. 810/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Hărman din județul Brașov în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212035",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212035",
+     "sha256": "8c827bf00390b845b8c3db362b8b6b024fd670ce4bd408ae924fc726dbada857"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-811-2019",
+   "path": "ordin/ancpi/2019/811",
+   "short": "Ordin ancpi nr. 811/2019",
+   "title": "Ordinul nr. 811/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din două unități administrativ-teritoriale din județul Teleorman în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212229",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212229",
+     "sha256": "358580cc1aaa10c65c0d76f9b892aae51bd7f145ce2369094b1aa41bf1e925d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-812-2019",
+   "path": "ordin/ancpi/2019/812",
+   "short": "Ordin ancpi nr. 812/2019",
+   "title": "Ordinul nr. 812/2019 privind finalizarea lucrărilor de înregistrare sistematică la nivelul unității administrativ-teritoriale Dobreni din județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212284",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212284",
+     "sha256": "27e87b067d557ea0a7e1c263838b3aeeb0d1d1c49921c135581068e38fbb4944"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-820-2019",
+   "path": "ordin/ancpi/2019/820",
+   "short": "Ordin ancpi nr. 820/2019",
+   "title": "Ordinul nr. 820/2019 pentru abrogarea unor dispoziții ale Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.646/2017 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 34 de unități administrativ-teritoriale din județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212056",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212056",
+     "sha256": "ea8d7ad50b81b447bc4389c7570f9491e5a503b01d77d6b2289e53bbe3f2416d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-852-2019",
+   "path": "ordin/ancpi/2019/852",
+   "short": "Ordin ancpi nr. 852/2019",
+   "title": "Ordinul nr. 852/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Bălcești din județul Vâlcea în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213213",
+   "versions": [
+    {
+     "from": "2019-04-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213213",
+     "sha256": "409e069cd005286454a6f52fb30a70eda40f872b441a32e8fa8a482564ec20b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-853-2019",
+   "path": "ordin/ancpi/2019/853",
+   "short": "Ordin ancpi nr. 853/2019",
+   "title": "Ordinul nr. 853/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 8 unități administrativ-teritoriale din județul Dolj în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213214",
+   "versions": [
+    {
+     "from": "2019-04-22",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213214",
+     "sha256": "3e8e54f65a502711951708cbc34fa64dc44da08a09a1bea6b5af583a9d6b56e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-854-2019",
+   "path": "ordin/ancpi/2019/854",
+   "short": "Ordin ancpi nr. 854/2019",
+   "title": "Ordinul nr. 854/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 10 unități administrativ-teritoriale din județul Suceava în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212375",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212375",
+     "sha256": "c0d60963e9087dd82007d7c104e23b026312207f4e8bcb596ced9ee6ad9b1356"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-855-2019",
+   "path": "ordin/ancpi/2019/855",
+   "short": "Ordin ancpi nr. 855/2019",
+   "title": "Ordinul nr. 855/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 2 unități administrativ-teritoriale din județul Călărași în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212388",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212388",
+     "sha256": "78c8be07d40f4a62d5b5ba70babcce0a10f3f51fcfa40f9c488191dd2be078ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-856-2019",
+   "path": "ordin/ancpi/2019/856",
+   "short": "Ordin ancpi nr. 856/2019",
+   "title": "Ordinul nr. 856/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din unitatea administrativ-teritorială Sfântu Gheorghe din județul Covasna în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212389",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212389",
+     "sha256": "7b5b7c1decef0831728316541055147a31f60af44bb4e3decd09de8e907a295d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-857-2019",
+   "path": "ordin/ancpi/2019/857",
+   "short": "Ordin ancpi nr. 857/2019",
+   "title": "Ordinul nr. 857/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 6 unități administrativ-teritoriale din județul Bacău în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212036",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212036",
+     "sha256": "eb06d763e5ffa57de6923bb808738ce9104819e278e75da1048c082cb9c753b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-858-2019",
+   "path": "ordin/ancpi/2019/858",
+   "short": "Ordin ancpi nr. 858/2019",
+   "title": "Ordinul nr. 858/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 4 unități administrativ-teritoriale din județul Arad în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212658",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212658",
+     "sha256": "d9acbfa44c852fb72d760c3b54547673a9fe4347461d5cc33849c754142ec233"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-867-2019",
    "path": "ordin/ancpi/2019/867",
    "short": "Ordin ancpi nr. 867/2019",
@@ -1874,6 +3209,141 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/212312",
      "sha256": "d814b02acaf63de2331f7fd1c98e58006065948414ac06f850291308b431de6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-870-2019",
+   "path": "ordin/ancpi/2019/870",
+   "short": "Ordin ancpi nr. 870/2019",
+   "title": "Ordinul nr. 870/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 3 unități administrativ-teritoriale din județul Teleorman în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212953",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212953",
+     "sha256": "8f56385a2d22f7cdc1f09b084452ff36fb00797315493dacca7cb71534394c0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-872-2019",
+   "path": "ordin/ancpi/2019/872",
+   "short": "Ordin ancpi nr. 872/2019",
+   "title": "Ordinul nr. 872/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 21 de unități administrativ-teritoriale din județul Prahova în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212381",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212381",
+     "sha256": "3f584ffc16e31b6cb12164f654ea7b6c0f961402a380ef9c14f9c6bf8fe31dcd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-874-2019",
+   "path": "ordin/ancpi/2019/874",
+   "short": "Ordin ancpi nr. 874/2019",
+   "title": "Ordinul nr. 874/2019 privind finalizarea lucrărilor de înregistrare sistematică la nivelul unității administrativ-teritoriale Băleni din județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212420",
+   "versions": [
+    {
+     "from": "2019-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212420",
+     "sha256": "2749742d71c958ca3ed662a2d9bb5c0df97825c86d013f67e5923f5b73da7502"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-9-2019",
+   "path": "ordin/ancpi/2019/9",
+   "short": "Ordin ancpi nr. 9/2019",
+   "title": "Ordinul nr. 9/2019 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 10 unități administrativ-teritoriale din județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211002",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211002",
+     "sha256": "94b756c614220aa82c336b1472aa674b3c238d5f4fecac86d0fec1d796ca17e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-934-2019",
+   "path": "ordin/ancpi/2019/934",
+   "short": "Ordin ancpi nr. 934/2019",
+   "title": "Ordinul nr. 934/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 21 de unități administrativ-teritoriale din județul Mureș în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212970",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212970",
+     "sha256": "65fad7afbad50df941538abfa94fc2398f8733364314130df9bef51292faa3a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-935-2019",
+   "path": "ordin/ancpi/2019/935",
+   "short": "Ordin ancpi nr. 935/2019",
+   "title": "Ordinul nr. 935/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 8 unități administrativ-teritoriale din județul Iași în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212954",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212954",
+     "sha256": "d51f6bb2d11ff634ee2123be7ada28f8a519eae325745d5442972d13ab018d06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-936-2019",
+   "path": "ordin/ancpi/2019/936",
+   "short": "Ordin ancpi nr. 936/2019",
+   "title": "Ordinul nr. 936/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 4 unități administrativ-teritoriale din județul Argeș în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212611",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212611",
+     "sha256": "dd09fd074ff40b3e7c3f3055977e44e7d8ad1429566f0e3a4f2f29a8180abbde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-937-2019",
+   "path": "ordin/ancpi/2019/937",
+   "short": "Ordin ancpi nr. 937/2019",
+   "title": "Ordinul nr. 937/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 7 unități administrativ-teritoriale din județul Argeș în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212606",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212606",
+     "sha256": "050f7986f2d7db667cec927414567cf638481e0ace23aac73b28438f68c380bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-944-2019",
+   "path": "ordin/ancpi/2019/944",
+   "short": "Ordin ancpi nr. 944/2019",
+   "title": "Ordinul nr. 944/2019 privind aducerea la cunoștința publică a sectoarelor cadastrale din 2 unități administrativ-teritoriale din județul Iași în care se derulează lucrări de înregistrare sistematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212715",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212715",
+     "sha256": "e7d322feec9fc5f1c20a52596036727ba8d67b4deae0ed5a71298482a7988f2b"
     }
    ]
   },
@@ -6813,6 +8283,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-938-2019",
+   "path": "ordin/comunicatii/2019/938",
+   "short": "Ordin comunicatii nr. 938/2019",
+   "title": "Ordinul nr. 938/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219126",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219126",
+     "sha256": "50b755bc0c80273b446f29b397e279e9889e7eb6e13af92672a823b17aef23ee"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-1037-2019",
    "path": "ordin/concurenta/2019/1037",
    "short": "Ordin concurenta nr. 1037/2019",
@@ -7578,6 +9063,51 @@
    ]
   },
   {
+   "slug": "ordin-economie-1054-2019",
+   "path": "ordin/economie/2019/1054",
+   "short": "Ordin economie nr. 1054/2019",
+   "title": "Ordinul nr. 1.054/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217915",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217915",
+     "sha256": "c6ddad0ae48724193ccfc08fe9a48b6cf30de248ae3b60adbb6eb7e42b5eae5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1102-2019",
+   "path": "ordin/economie/2019/1102",
+   "short": "Ordin economie nr. 1102/2019",
+   "title": "Ordinul nr. 1.102/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea \"ICEM\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218602",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218602",
+     "sha256": "93f055dfbb97275bc463b0625ed5d2acd4a765fb742a08298d0b14b52694c009"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1129-2019",
+   "path": "ordin/economie/2019/1129",
+   "short": "Ordin economie nr. 1129/2019",
+   "title": "Ordinul nr. 1.129/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea PRELMEC - S.A. unde Societatea Uzina Mecanică ORĂȘTIE - S.A., aflată sub autoritatea Ministerului Economiei, deține 99,96% din capitalul social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218605",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218605",
+     "sha256": "8465973e50f98226fbd9cb60bf9d74601c46ed4dba4e16a961710b2a115f55f4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1133-2019",
    "path": "ordin/economie/2019/1133",
    "short": "Ordin economie nr. 1133/2019",
@@ -7589,6 +9119,156 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215364",
      "sha256": "c33719faaac17a83c1ed202825aaf4beac9b3d4be7a291cc3cbed84fa3391c37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1138-2019",
+   "path": "ordin/economie/2019/1138",
+   "short": "Ordin economie nr. 1138/2019",
+   "title": "Ordinul nr. 1.138/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Pirochim Victoria - S.A., filiala Companiei Naționale ROMARM - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218716",
+   "versions": [
+    {
+     "from": "2019-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218716",
+     "sha256": "d85ecf6a065f5a4300da3538519ed2dc7a47463b5ae1c8448d9e728d13fc47e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1139-2019",
+   "path": "ordin/economie/2019/1139",
+   "short": "Ordin economie nr. 1139/2019",
+   "title": "Ordinul nr. 1.139/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Arsenal-Reșița - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218902",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218902",
+     "sha256": "eec4fe2be5e5991ec52cc070ba72f6fb5c30c259dbb5172bd9ce665d32328a2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1140-2019",
+   "path": "ordin/economie/2019/1140",
+   "short": "Ordin economie nr. 1140/2019",
+   "title": "Ordinul nr. 1.140/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218653",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218653",
+     "sha256": "bb43a8b647c3af5fab69eaa57677663e18b066d5619ab6b09d8623f717d7ba84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1159-2019",
+   "path": "ordin/economie/2019/1159",
+   "short": "Ordin economie nr. 1159/2019",
+   "title": "Ordinul nr. 1.159/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea CERTEJ - S.A. - filiala Companiei Naționale a Cuprului, Aurului și Fierului MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219429",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219429",
+     "sha256": "e89f88d8a9a8365aaf3cdb5bcc0b8492712d91ce3759d45594e0982b54008919"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1178-2019",
+   "path": "ordin/economie/2019/1178",
+   "short": "Ordin economie nr. 1178/2019",
+   "title": "Ordinul nr. 1.178/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea ROȘIAMIN - S.A. - filiala Companiei Naționale a Cuprului, Aurului și Fierului MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218763",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218763",
+     "sha256": "401d4b7c1ed762c249a547eea9abaafdf8aa17236c1a5f4caffec61c407a5353"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1179-2019",
+   "path": "ordin/economie/2019/1179",
+   "short": "Ordin economie nr. 1179/2019",
+   "title": "Ordinul nr. 1.179/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Tohan - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218905",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218905",
+     "sha256": "e0de590adfe65628dbe69f72c7a47d433ea84ecd7a9bad479c59dd06edc038f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1181-2019",
+   "path": "ordin/economie/2019/1181",
+   "short": "Ordin economie nr. 1181/2019",
+   "title": "Ordinul nr. 1.181/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218755",
+   "versions": [
+    {
+     "from": "2019-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218755",
+     "sha256": "0cd499f7a3fe2395ea80a08a60e61c6ec96bde006ae32a7e679f151b31633d8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1182-2019",
+   "path": "ordin/economie/2019/1182",
+   "short": "Ordin economie nr. 1182/2019",
+   "title": "Ordinul nr. 1.182/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea \"Fabrica de Pulberi Făgăraș\" - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218908",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218908",
+     "sha256": "b1678d613506a025c8932f1d0879285d70afd117ba104f220e892a55391e5108"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1183-2019",
+   "path": "ordin/economie/2019/1183",
+   "short": "Ordin economie nr. 1183/2019",
+   "title": "Ordinul nr. 1.183/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218911",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218911",
+     "sha256": "c31ce5e9640b1af094fe0822008d26c97ed912ca3150c5053d77fd3544148fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1184-2019",
+   "path": "ordin/economie/2019/1184",
+   "short": "Ordin economie nr. 1184/2019",
+   "title": "Ordinul nr. 1.184/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218744",
+   "versions": [
+    {
+     "from": "2019-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218744",
+     "sha256": "8d6f52640961daa8900f78846126709915b13b4baf2948dc9c203c741aa6b387"
     }
    ]
   },
@@ -7668,6 +9348,111 @@
    ]
   },
   {
+   "slug": "ordin-economie-182-2019",
+   "path": "ordin/economie/2019/182",
+   "short": "Ordin economie nr. 182/2019",
+   "title": "Ordinul nr. 182/2019 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 pentru Societatea FABRICA DE ARME CUGIR S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221144",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221144",
+     "sha256": "23996f89247717de4c53197ed03d7e57ef61927eb60d468b0927b9373b73e6e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-183-2019",
+   "path": "ordin/economie/2019/183",
+   "short": "Ordin economie nr. 183/2019",
+   "title": "Ordinul nr. 183/2019 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 pentru Societatea UZINA MECANICĂ MIJA - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221147",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221147",
+     "sha256": "70a0b8ec235169f7d4a14248f214274992db73af2ee55b55be1003437ba78924"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-184-2019",
+   "path": "ordin/economie/2019/184",
+   "short": "Ordin economie nr. 184/2019",
+   "title": "Ordinul nr. 184/2019 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 pentru Societatea UZINA AUTOMECANICA Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221150",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221150",
+     "sha256": "2060aa084ba5265b8fe17e4aec241de0850669b8fb32dfde25ad3f2475739724"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-185-2019",
+   "path": "ordin/economie/2019/185",
+   "short": "Ordin economie nr. 185/2019",
+   "title": "Ordinul nr. 185/2019 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 pentru Societatea UZINA MECANICĂ PLOPENI - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221118",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221118",
+     "sha256": "6176945ded54e92ce5206e16dcd6204244ed40a89050074a7adc60cf12f836ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-187-2019",
+   "path": "ordin/economie/2019/187",
+   "short": "Ordin economie nr. 187/2019",
+   "title": "Ordinul nr. 187/2019 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 pentru Societatea TOHAN - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221121",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221121",
+     "sha256": "4cf24c125f81c61daa16e4abdddc05b832fdf67582be022f79bcecce8f4d7fa2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-188-2019",
+   "path": "ordin/economie/2019/188",
+   "short": "Ordin economie nr. 188/2019",
+   "title": "Ordinul nr. 188/2019 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 pentru Societatea UZINA MECANICĂ SADU - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221127",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221127",
+     "sha256": "d7eb2c806f0f81d056fdf636dcb5804af0fb59db1e8240e4e9b984ec02ec1ad7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-190-2019",
+   "path": "ordin/economie/2019/190",
+   "short": "Ordin economie nr. 190/2019",
+   "title": "Ordinul nr. 190/2019 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 pentru Societatea UZINA MECANICĂ BUCUREȘTI - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Energiei și Mediului de Afaceri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221124",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221124",
+     "sha256": "aaff59b2aa96921449f89d615926f53ffbc58f4de985107f1d621ea068166449"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-25-2019",
    "path": "ordin/economie/2019/25",
    "short": "Ordin economie nr. 25/2019",
@@ -7698,6 +9483,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-516-2019",
+   "path": "ordin/economie/2019/516",
+   "short": "Ordin economie nr. 516/2019",
+   "title": "Ordinul nr. 516/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea \"Șantierul Naval Mangalia\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214672",
+   "versions": [
+    {
+     "from": "2019-06-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214672",
+     "sha256": "1aae2770c898f986498aeb7032f4931ca4c691d12b8c7b8207a690f456fede3a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-569-2019",
    "path": "ordin/economie/2019/569",
    "short": "Ordin economie nr. 569/2019",
@@ -7709,6 +9509,186 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217587",
      "sha256": "1b7e329ba3c9aa95cca766bef7db128aa63f0fa743165b21d3de214a5598f41f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-572-2019",
+   "path": "ordin/economie/2019/572",
+   "short": "Ordin economie nr. 572/2019",
+   "title": "Ordinul nr. 572/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A. Mangalia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214909",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214909",
+     "sha256": "5c762a1579f33a074d3887daabddbea60339dde3e457bd5ea40acc1cd77886ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-67-2019",
+   "path": "ordin/economie/2019/67",
+   "short": "Ordin economie nr. 67/2019",
+   "title": "Ordinul nr. 67/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Minprest Serv - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214912",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214912",
+     "sha256": "c507eb1933762954beefa19e643461de126344b195d4882d475e7b2b100b0c5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-70-2019",
+   "path": "ordin/economie/2019/70",
+   "short": "Ordin economie nr. 70/2019",
+   "title": "Ordinul nr. 70/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Medserv Min - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215922",
+   "versions": [
+    {
+     "from": "2019-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215922",
+     "sha256": "026c79acb979fdb59fe0c8752dbee240ca8338a60d4ab35f645a5940f7d0678f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-71-2019",
+   "path": "ordin/economie/2019/71",
+   "short": "Ordin economie nr. 71/2019",
+   "title": "Ordinul nr. 71/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea de Administrare a Participațiilor în Energie - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217574",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217574",
+     "sha256": "96da9880c7b968c6fdac54f91c97a3f26173540f21ebfed3c4040130f809e40e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-78-2019",
+   "path": "ordin/economie/2019/78",
+   "short": "Ordin economie nr. 78/2019",
+   "title": "Ordinul nr. 78/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Electrocentrale Grup - S.A., aflată sub autoritatea Ministerului Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216091",
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216091",
+     "sha256": "7c23964da087ad53aa2ce12d341265af6668ad9a739b3fb0472e6853df67ebd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-884-2019",
+   "path": "ordin/economie/2019/884",
+   "short": "Ordin economie nr. 884/2019",
+   "title": "Ordinul nr. 884/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea EUROTEST - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217115",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217115",
+     "sha256": "de93c86af8e17a2294d911bb54b7ed9a86e3f903c77ddf37c8a305e1f906454b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-885-2019",
+   "path": "ordin/economie/2019/885",
+   "short": "Ordin economie nr. 885/2019",
+   "title": "Ordinul nr. 885/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea \"Uzina Mecanică Cugir\" - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217120",
+   "versions": [
+    {
+     "from": "2019-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217120",
+     "sha256": "9613e7c45b3d1fff687dc78804ae090f1930a3b3e8a699cb173a9b40c05845ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-898-2019",
+   "path": "ordin/economie/2019/898",
+   "short": "Ordin economie nr. 898/2019",
+   "title": "Ordinul nr. 898/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Radioactiv Mineral - S.A. Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216880",
+   "versions": [
+    {
+     "from": "2019-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216880",
+     "sha256": "68b9cf4398e69434c982ae3b0b21c93224f39b5a25c8a6962431d901e9f6bb53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-924-2019",
+   "path": "ordin/economie/2019/924",
+   "short": "Ordin economie nr. 924/2019",
+   "title": "Ordinul nr. 924/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Uzina de Produse Speciale Dragomirești - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217809",
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217809",
+     "sha256": "6c752766b92ed9545e59ce5a642b2b704067b8d13185e5ee65cdab0c325337e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-942-2019",
+   "path": "ordin/economie/2019/942",
+   "short": "Ordin economie nr. 942/2019",
+   "title": "Ordinul nr. 942/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217812",
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217812",
+     "sha256": "a990ec7766c6941e47f10b89cb8c2a1f289e88a1b61de8903b5f9f2b7615eab1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-965-2019",
+   "path": "ordin/economie/2019/965",
+   "short": "Ordin economie nr. 965/2019",
+   "title": "Ordinul nr. 965/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217956",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217956",
+     "sha256": "7bf5034c5b7052d796c445f162681cfd2fb24c5ff55dbabfb7ace92e0ba17f0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-967-2019",
+   "path": "ordin/economie/2019/967",
+   "short": "Ordin economie nr. 967/2019",
+   "title": "Ordinul nr. 967/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A. București, aflată sub autoritatea Ministerului Economiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217912",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217912",
+     "sha256": "dc76cce06385ec5e2f8d8877428bb5033ec8c5db7b5f088b25496f9936278170"
     }
    ]
   },
@@ -8613,6 +10593,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4958-2019",
+   "path": "ordin/educatie/2019/4958",
+   "short": "Ordin educatie nr. 4958/2019",
+   "title": "Ordinul nr. 4.958/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019, pentru Societatea Editura Didactică și Pedagogică - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221174",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221174",
+     "sha256": "9f1ea6ed605279760d3b1d10a5ac6998a4782d4e0c09ece5ebcff0805b91d0ed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5085-2019",
    "path": "ordin/educatie/2019/5085",
    "short": "Ordin educatie nr. 5085/2019",
@@ -9228,6 +11223,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1748-2019",
+   "path": "ordin/finante/2019/1748",
+   "short": "Ordin finante nr. 1748/2019",
+   "title": "Ordinul nr. 1.748/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211283",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211283",
+     "sha256": "eaf06905d7368c2acf49f65b1d3e1ec996539b140721bd03bbbf4cc8252eaf30"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1750-2019",
    "path": "ordin/finante/2019/1750",
    "short": "Ordin finante nr. 1750/2019",
@@ -9239,6 +11249,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211694",
      "sha256": "8683974f681e0d49374140140798732e7ce3cb9da803824baa5793f8a4f63db7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1753-2019",
+   "path": "ordin/finante/2019/1753",
+   "short": "Ordin finante nr. 1753/2019",
+   "title": "Ordinul nr. 1.753/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului TEZAUR, aferent lunii martie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211284",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211284",
+     "sha256": "50797f6568324791e89b3fa37bef8ca278d7b4659d9c5f2c352a9c6c6413f723"
     }
    ]
   },
@@ -9329,6 +11354,51 @@
      "units": 66,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212602",
      "sha256": "75fe57bb8be29c20c89f758523617fcbd4bccabcdf2103244b64670fd744a4ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1912-2019",
+   "path": "ordin/finante/2019/1912",
+   "short": "Ordin finante nr. 1912/2019",
+   "title": "Ordinul nr. 1.912/2019 privind aprobarea contractării de către Ministerul Finanțelor Publice a unor împrumuturi pe piețele externe de capital, prin lansarea unor serii noi de obligațiuni, cu maturitatea de minimum 7 ani, în sumă totală de până la 3 miliarde euro, în cadrul programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212214",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212214",
+     "sha256": "ab96c18b70162ad18bfc72758e505ffb0574c2bacc74c3faa591fe39ac79aaaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1921-2019",
+   "path": "ordin/finante/2019/1921",
+   "short": "Ordin finante nr. 1921/2019",
+   "title": "Ordinul nr. 1.921/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212285",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212285",
+     "sha256": "eb69bd4e77733c1bec22fbe211f1cc17600b499db653cf6d2fe4410d6a4c7dde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1922-2019",
+   "path": "ordin/finante/2019/1922",
+   "short": "Ordin finante nr. 1922/2019",
+   "title": "Ordinul nr. 1.922/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii aprilie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212286",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212286",
+     "sha256": "7ea8a6c297bce4a53ab22bdfe3445b3beb9dff18249730896985255d0da34201"
     }
    ]
   },
@@ -9453,6 +11523,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-2105-2019",
+   "path": "ordin/finante/2019/2105",
+   "short": "Ordin finante nr. 2105/2019",
+   "title": "Ordinul nr. 2.105/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului TEZAUR, aferent lunii mai 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213321",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213321",
+     "sha256": "6b57a3878167fb910e7c5bbd413671cc35356a420540517acae3e3de06842f53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2106-2019",
+   "path": "ordin/finante/2019/2106",
+   "short": "Ordin finante nr. 2106/2019",
+   "title": "Ordinul nr. 2.106/2019 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna mai 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213400",
+   "versions": [
+    {
+     "from": "2019-05-03",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213400",
+     "sha256": "6c89622694666f916e507afcda2ab3d76eb882ea864c4b4248e4099ba48bf644"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2107-2019",
+   "path": "ordin/finante/2019/2107",
+   "short": "Ordin finante nr. 2107/2019",
+   "title": "Ordinul nr. 2.107/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213401",
+   "versions": [
+    {
+     "from": "2019-05-03",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213401",
+     "sha256": "4f8cf49e78fd2deb47e8b0ed276d97eca8b76ee89ea32dbf1509549456c58715"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2113-2019",
    "path": "ordin/finante/2019/2113",
    "short": "Ordin finante nr. 2113/2019",
@@ -9479,6 +11594,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213814",
      "sha256": "7d655ce272841e182da7ddfebffa02faf11dd8d24304f888ee8e7f0c68c8d250"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2215-2019",
+   "path": "ordin/finante/2019/2215",
+   "short": "Ordin finante nr. 2215/2019",
+   "title": "Ordinul nr. 2.215/2019 privind modificarea și completarea Ordinului ministrului economiei și finanțelor nr. 3.663/2008 pentru aprobarea înființării Unității de implementare a ajutorului de stat individual în baza Ordonanței de urgență a Guvernului nr. 109/2008 privind acordarea de ajutor de stat individual având ca obiectiv dezvoltarea regională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215365",
+   "versions": [
+    {
+     "from": "2019-06-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215365",
+     "sha256": "8d72ecdddac82cedc1aa18447ef798c2a40b7590c9db6961996825de1efc7baf"
     }
    ]
   },
@@ -9558,6 +11688,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2488-2019",
+   "path": "ordin/finante/2019/2488",
+   "short": "Ordin finante nr. 2488/2019",
+   "title": "Ordinul nr. 2.488/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii iulie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215687",
+   "versions": [
+    {
+     "from": "2019-07-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215687",
+     "sha256": "11b52427b028a89def606c9e16b6a7ca56aee5ada8dc41c588a79242c426d37e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2493-2019",
    "path": "ordin/finante/2019/2493",
    "short": "Ordin finante nr. 2493/2019",
@@ -9569,6 +11714,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216190",
      "sha256": "0be17af00a6588cc1a33c2f173c12fd549dace0555ce8029df6f1536012541c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2552-2019",
+   "path": "ordin/finante/2019/2552",
+   "short": "Ordin finante nr. 2552/2019",
+   "title": "Ordinul nr. 2.552/2019 privind aprobarea contractării de către Ministerul Finanțelor Publice a unor împrumuturi pe piețele externe de capital în sumă totală de până la 2 miliarde euro, prin lansarea unei serii noi de obligațiuni, cu maturitatea de minimum 7 ani, și redeschiderea emisiunii cu scadența în data de 3 aprilie 2049, cupon 4,625%, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215979",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215979",
+     "sha256": "ec78c8cb4641f115e71c8cd193c043c8efdfe8a27115cd390178fcf07f632c25"
     }
    ]
   },
@@ -9603,6 +11763,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-2649-2019",
+   "path": "ordin/finante/2019/2649",
+   "short": "Ordin finante nr. 2649/2019",
+   "title": "Ordinul nr. 2.649/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216793",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216793",
+     "sha256": "ee0031c731e4d1f0d8db861448f3e30345a4df20d68f3708deb31516ba76af59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2650-2019",
+   "path": "ordin/finante/2019/2650",
+   "short": "Ordin finante nr. 2650/2019",
+   "title": "Ordinul nr. 2.650/2019 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.488/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii iulie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216779",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216779",
+     "sha256": "6602911bd6155e23a4380766208feccff6c52e971e266fef3b7831cac9af12ec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2677-2019",
    "path": "ordin/finante/2019/2677",
    "short": "Ordin finante nr. 2677/2019",
@@ -9629,6 +11819,36 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20250406222341id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/216923",
      "sha256": "1e3f5066faa3a5e4671baf2402af04c76a893b5887b0a10c7bcc32128e8556b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2696-2019",
+   "path": "ordin/finante/2019/2696",
+   "short": "Ordin finante nr. 2696/2019",
+   "title": "Ordinul nr. 2.696/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății Comerciale \"RO-ARMYCATERING\"” - S.A., filială a Companiei Naționale \"ROMTEHNICA\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217264",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217264",
+     "sha256": "bbdc3e584885030edae88b1b60b5280330f268dd69e7b118f3b4265890dd9aee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2697-2019",
+   "path": "ordin/finante/2019/2697",
+   "short": "Ordin finante nr. 2697/2019",
+   "title": "Ordinul nr. 2.697/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății Comerciale \"RO-ARMYSECURITY\" - S.A., filială a Companiei Naționale \"ROMTEHNICA\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217241",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217241",
+     "sha256": "63eff2cbb582839cab4fe0766ca96bbce11fb7ec55ff148e10403d6368259df9"
     }
    ]
   },
@@ -9768,6 +11988,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3064-2019",
+   "path": "ordin/finante/2019/3064",
+   "short": "Ordin finante nr. 3064/2019",
+   "title": "Ordinul nr. 3.064/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii septembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217936",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217936",
+     "sha256": "75a3a90f6dbeefc906b19a2138eb41244b45171c7886e2b575381f6fab0c80bb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3126-2019",
    "path": "ordin/finante/2019/3126",
    "short": "Ordin finante nr. 3126/2019",
@@ -9779,6 +12014,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218497",
      "sha256": "b110682278d8937364912f980542402ace945006b768cf0c0394576700946659"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3153-2019",
+   "path": "ordin/finante/2019/3153",
+   "short": "Ordin finante nr. 3153/2019",
+   "title": "Ordinul nr. 3.153/2019 privind împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară de a constata contravențiile și a aplica sancțiunile prevăzute de Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218616",
+   "versions": [
+    {
+     "from": "2019-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218616",
+     "sha256": "fba5e2b0d7beb18857bd68c7f728a15f64152ac42ce94fea7477e319959c4692"
     }
    ]
   },
@@ -9813,6 +12063,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3200-2019",
+   "path": "ordin/finante/2019/3200",
+   "short": "Ordin finante nr. 3200/2019",
+   "title": "Ordinul nr. 3.200/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218619",
+   "versions": [
+    {
+     "from": "2019-10-02",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218619",
+     "sha256": "f2083d7a5382089e9897c210931c303aa21375205fb940cf21c1602a64df1230"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3207-2019",
    "path": "ordin/finante/2019/3207",
    "short": "Ordin finante nr. 3207/2019",
@@ -9828,6 +12093,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3214-2019",
+   "path": "ordin/finante/2019/3214",
+   "short": "Ordin finante nr. 3214/2019",
+   "title": "Ordinul nr. 3.214/2019 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218972",
+   "versions": [
+    {
+     "from": "2019-10-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218972",
+     "sha256": "033ab1a3cad52873fdb8f06ebe03bc13a7857572ba6fb1e53cea56370a450ccc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3217-2019",
    "path": "ordin/finante/2019/3217",
    "short": "Ordin finante nr. 3217/2019",
@@ -9839,6 +12119,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218841",
      "sha256": "9c7ff5396c638ffe0c49ef23f8181ed22b2ee0bbf1b24b9e61c11a3c899aa88a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3223-2019",
+   "path": "ordin/finante/2019/3223",
+   "short": "Ordin finante nr. 3223/2019",
+   "title": "Ordinul nr. 3.223/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii octombrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218674",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218674",
+     "sha256": "7e06ae14681799c4e72b7116b1ae7689d32ad3d37fb30508ecee22afc976494f"
     }
    ]
   },
@@ -9888,6 +12183,66 @@
    ]
   },
   {
+   "slug": "ordin-finante-3397-2019",
+   "path": "ordin/finante/2019/3397",
+   "short": "Ordin finante nr. 3397/2019",
+   "title": "Ordinul nr. 3.397/2019 pentru aprobarea modificării Statutului C.E.C. BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219448",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219448",
+     "sha256": "1a1de269cb9c5e026349f1a2f79b6d1685773d05c1c33f5f74cd2dfec5d3c28c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3398-2019",
+   "path": "ordin/finante/2019/3398",
+   "short": "Ordin finante nr. 3398/2019",
+   "title": "Ordinul nr. 3.398/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219451",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219451",
+     "sha256": "329fb32f2ed2fbbe132f7ea9ce26ef4204a4088b88adc13d55e19db15b4c8506"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3399-2019",
+   "path": "ordin/finante/2019/3399",
+   "short": "Ordin finante nr. 3399/2019",
+   "title": "Ordinul nr. 3.399/2019 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna noiembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219452",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219452",
+     "sha256": "9e5f4fab2438eff47d3741e355749c8d765f17d26b667966a3a27e12e9ad36e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3415-2019",
+   "path": "ordin/finante/2019/3415",
+   "short": "Ordin finante nr. 3415/2019",
+   "title": "Ordinul nr. 3.415/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii noiembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219498",
+   "versions": [
+    {
+     "from": "2019-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219498",
+     "sha256": "2882ef3837107d64c3d8b50e276304fca12f2491e510ffd1fa45aed0b4254572"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3494-2019",
    "path": "ordin/finante/2019/3494",
    "short": "Ordin finante nr. 3494/2019",
@@ -9899,6 +12254,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219843",
      "sha256": "44e201a089be57f7bb2dbb644bf602f93ad2c961889a6aa256e0a1962003384f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3635-2019",
+   "path": "ordin/finante/2019/3635",
+   "short": "Ordin finante nr. 3635/2019",
+   "title": "Ordinul nr. 3.635/2019 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna noiembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220037",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220037",
+     "sha256": "22181e611c81b54058c279760662eae8307a89cfe118fbba6a2af3441fad0b85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3670-2019",
+   "path": "ordin/finante/2019/3670",
+   "short": "Ordin finante nr. 3670/2019",
+   "title": "Ordinul nr. 3.670/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220510",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220510",
+     "sha256": "cc98948f0631b7ead40cdde2a4126dcc9176f078a6c4315ccbec83bd5a34d51e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3677-2019",
+   "path": "ordin/finante/2019/3677",
+   "short": "Ordin finante nr. 3677/2019",
+   "title": "Ordinul nr. 3.677/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\"- S.A., în cadrul Programului Tezaur, aferent lunii decembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220525",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220525",
+     "sha256": "a5ca3152dfe0da50372e03024caf1623e114ef0f4d57b761b47745808aa7dc37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3741-2019",
+   "path": "ordin/finante/2019/3741",
+   "short": "Ordin finante nr. 3741/2019",
+   "title": "Ordinul nr. 3.741/2019 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna decembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220934",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220934",
+     "sha256": "190165dd830e91a8cff9df7287b1bfa5cf38c89bf6fdf59d9a44ced2c10f9820"
     }
    ]
   },
@@ -9963,6 +12378,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3807-2019",
+   "path": "ordin/finante/2019/3807",
+   "short": "Ordin finante nr. 3807/2019",
+   "title": "Ordinul nr. 3.807/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221784",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221784",
+     "sha256": "a7ae8c7fe7a650dd6d7a6ee7234f1fa4f704dfa7c9df23983028300f317bc00a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3818-2019",
    "path": "ordin/finante/2019/3818",
    "short": "Ordin finante nr. 3818/2019",
@@ -9993,6 +12423,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-613-2019",
+   "path": "ordin/finante/2019/613",
+   "short": "Ordin finante nr. 613/2019",
+   "title": "Ordinul nr. 613/2019 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii februarie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210505",
+   "versions": [
+    {
+     "from": "2019-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210505",
+     "sha256": "6934b8b0990a1f300c12005fa56ef50ff294dacc7b1f1c48a83074a8119490fb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-670-2019",
    "path": "ordin/finante/2019/670",
    "short": "Ordin finante nr. 670/2019",
@@ -10004,6 +12449,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210608",
      "sha256": "f414f63a3325d4ffb7b041e8307e0a119a4c4027e02d417c90e4e7d3e114ca89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-78-2019",
+   "path": "ordin/finante/2019/78",
+   "short": "Ordin finante nr. 78/2019",
+   "title": "Ordinul nr. 78/2019 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna ianuarie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209968",
+   "versions": [
+    {
+     "from": "2019-01-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209968",
+     "sha256": "b62e3f7a52f27c59b9a11e4a61db7c8fdc8b989df6fd92fe376e595bad60f8c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-869-2019",
+   "path": "ordin/finante/2019/869",
+   "short": "Ordin finante nr. 869/2019",
+   "title": "Ordinul nr. 869/2019 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210553",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210553",
+     "sha256": "4598116d2303def0b20e5a74b8bd287fd29ef10439090e2078184f19dee260b1"
     }
    ]
   },
@@ -11613,6 +14088,36 @@
    ]
   },
   {
+   "slug": "ordin-mediu-651-2019",
+   "path": "ordin/mediu/2019/651",
+   "short": "Ordin mediu nr. 651/2019",
+   "title": "Ordinul nr. 651/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214834",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214834",
+     "sha256": "8a2eea9e977f77ad4025304dab06997e5c79714d998c6bb3223228b0e38ace08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-661-2019",
+   "path": "ordin/mediu/2019/661",
+   "short": "Ordin mediu nr. 661/2019",
+   "title": "Ordinul nr. 661/2019 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2019 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva prevăzute în anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214716",
+   "versions": [
+    {
+     "from": "2019-06-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214716",
+     "sha256": "e77b9c35fa29c0a8716042a2dd5cf47dd54487ad2d1b8686a5f56a59001d015d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-673-2019",
    "path": "ordin/mediu/2019/673",
    "short": "Ordin mediu nr. 673/2019",
@@ -12093,6 +14598,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-785-2019",
+   "path": "ordin/munca/2019/785",
+   "short": "Ordin munca nr. 785/2019",
+   "title": "Ordinul nr. 785/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale aflat în coordonarea Ministerului Muncii și Justiției Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214194",
+   "versions": [
+    {
+     "from": "2019-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214194",
+     "sha256": "ddfd296edd27758d1ac7c8f94475b3684025346801a8da4e07482392cc526cbd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-792-2019",
    "path": "ordin/munca/2019/792",
    "short": "Ordin munca nr. 792/2019",
@@ -12134,6 +14654,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210600",
      "sha256": "e4de40fec64c5758f47223ea57f308c85cddde39067d8f7d5e123ceaee154f03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-845-2019",
+   "path": "ordin/munca/2019/845",
+   "short": "Ordin munca nr. 845/2019",
+   "title": "Ordinul nr. 845/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215314",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215314",
+     "sha256": "93a0d6ddb8a6fcd1fc03da07faa3d9262c5e2bf1e2a6298bcedcd72ffec25cb9"
     }
    ]
   },
@@ -12588,6 +15123,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1053-2019",
+   "path": "ordin/sanatate/2019/1053",
+   "short": "Ordin sanatate nr. 1053/2019",
+   "title": "Ordinul nr. 1.053/2019 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215957",
+   "versions": [
+    {
+     "from": "2019-07-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215957",
+     "sha256": "f28f29fdf4c80419efb6a0134ed593b42fae0d03e0b98f6348201029c1fa22e9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1056-2019",
    "path": "ordin/sanatate/2019/1056",
    "short": "Ordin sanatate nr. 1056/2019",
@@ -12659,6 +15209,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216761",
      "sha256": "1b10a31469ce2c5e459de61bb0d00a3ae1bbeb18574458d2954fe559fcc35b00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1168-2019",
+   "path": "ordin/sanatate/2019/1168",
+   "short": "Ordin sanatate nr. 1168/2019",
+   "title": "Ordinul nr. 1.168/2019 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 1.469/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216898",
+   "versions": [
+    {
+     "from": "2019-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216898",
+     "sha256": "421732f8239c2abaf953d0e51a51c83e3028065716e006b378ab0aaeca86084a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1216-2019",
+   "path": "ordin/sanatate/2019/1216",
+   "short": "Ordin sanatate nr. 1216/2019",
+   "title": "Ordinul nr. 1.216/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216792",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216792",
+     "sha256": "c84a66f63732d15fd80c8f38bdf9966d0fd67a3e08671da0aff57c7c951eb875"
     }
    ]
   },
@@ -12828,6 +15408,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1334-2019",
+   "path": "ordin/sanatate/2019/1334",
+   "short": "Ordin sanatate nr. 1334/2019",
+   "title": "Ordinul nr. 1.334/2019 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217819",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217819",
+     "sha256": "b66ca666e377905c5335de456477da8c412dc8ef018784dba81e4607bb48e212"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1364-2019",
+   "path": "ordin/sanatate/2019/1364",
+   "short": "Ordin sanatate nr. 1364/2019",
+   "title": "Ordinul nr. 1.364/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217889",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217889",
+     "sha256": "03d88a591b6cf0d8d20fdea483e497386aed3e81d1832ba13cec1c7657f4dd53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1384-2019",
    "path": "ordin/sanatate/2019/1384",
    "short": "Ordin sanatate nr. 1384/2019",
@@ -12948,6 +15558,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1490-2019",
+   "path": "ordin/sanatate/2019/1490",
+   "short": "Ordin sanatate nr. 1490/2019",
+   "title": "Ordinul nr. 1.490/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218673",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218673",
+     "sha256": "1777be4e29aad41b7beab1315a677477a4eb4de44917fad70943904ef6aab7da"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1522-2019",
    "path": "ordin/sanatate/2019/1522",
    "short": "Ordin sanatate nr. 1522/2019",
@@ -13008,6 +15633,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1554-2019",
+   "path": "ordin/sanatate/2019/1554",
+   "short": "Ordin sanatate nr. 1554/2019",
+   "title": "Ordinul nr. 1.554/2019 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218971",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218971",
+     "sha256": "8ff4741497fefea7fc9b6f4155d842caefe671318df9659e078f04c217695d6b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1555-2019",
    "path": "ordin/sanatate/2019/1555",
    "short": "Ordin sanatate nr. 1555/2019",
@@ -13053,6 +15693,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1570-2019",
+   "path": "ordin/sanatate/2019/1570",
+   "short": "Ordin sanatate nr. 1570/2019",
+   "title": "Ordinul nr. 1.570/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219064",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219064",
+     "sha256": "697030380cf1366325f2fca0fdb3dfe82c4c6a65fce6d395b7300573be7b5fd1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-158-2019",
    "path": "ordin/sanatate/2019/158",
    "short": "Ordin sanatate nr. 158/2019",
@@ -13083,6 +15738,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1613-2019",
+   "path": "ordin/sanatate/2019/1613",
+   "short": "Ordin sanatate nr. 1613/2019",
+   "title": "Ordinul nr. 1.613/2019 privind modificarea și completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219169",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219169",
+     "sha256": "fabdea5aa7e43a652c12e6f9fab0df75c8214ba4856353a370fd3e69c98a3f7a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1614-2019",
    "path": "ordin/sanatate/2019/1614",
    "short": "Ordin sanatate nr. 1614/2019",
@@ -13094,6 +15764,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219170",
      "sha256": "8837f495eac2219c9ca7008bcde22479f2ecb8c4d9a44483f756b6cb73977087"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1653-2019",
+   "path": "ordin/sanatate/2019/1653",
+   "short": "Ordin sanatate nr. 1653/2019",
+   "title": "Ordinul nr. 1.653/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2019 al Companiei Naționale \"UNIFARM\" - S.A., aflată sub autoritatea Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219442",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219442",
+     "sha256": "40f8eb04dc626d8a5432d9da15c3759b6cd078860d8633784be9fbbebdbe96d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1663-2019",
+   "path": "ordin/sanatate/2019/1663",
+   "short": "Ordin sanatate nr. 1663/2019",
+   "title": "Ordinul nr. 1.663/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219450",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219450",
+     "sha256": "b201ec9aef3ecc769ecab52ee99c35482aee574830399318ee2ab46bee45e227"
     }
    ]
   },
@@ -13139,6 +15839,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219722",
      "sha256": "3784ae77af60b462661fd9039f43379f2c6890c397f21a5bf73b1121233194f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1683-2019",
+   "path": "ordin/sanatate/2019/1683",
+   "short": "Ordin sanatate nr. 1683/2019",
+   "title": "Ordinul nr. 1.683/2019 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 1.469/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219631",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219631",
+     "sha256": "5de260e17448728a286fa2f5b545b3d3374ce16b752ab972d9acb54a023f75fc"
     }
    ]
   },
@@ -13214,6 +15929,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220522",
      "sha256": "732140a44b348a9e30d2cae4a5e4e92c27cc8630a6c5042309eba1dc8d05f3c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1795-2019",
+   "path": "ordin/sanatate/2019/1795",
+   "short": "Ordin sanatate nr. 1795/2019",
+   "title": "Ordinul nr. 1.795/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220523",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220523",
+     "sha256": "a3dc5c4af666ec51a259963760a412088961f786db76795be3de1328327d6675"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1796-2019",
+   "path": "ordin/sanatate/2019/1796",
+   "short": "Ordin sanatate nr. 1796/2019",
+   "title": "Ordinul nr. 1.796/2019 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220524",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220524",
+     "sha256": "98b0959cf05571328213119fdd5959517aac709ecee3fe42a12c3bd779f1c0ff"
     }
    ]
   },
@@ -13323,6 +16068,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1908-2019",
+   "path": "ordin/sanatate/2019/1908",
+   "short": "Ordin sanatate nr. 1908/2019",
+   "title": "Ordinul nr. 1.908/2019 pentru modificarea alin. (1) al art. 1 din Ordinul ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221862",
+   "versions": [
+    {
+     "from": "2020-01-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221862",
+     "sha256": "1f345f70a0536557ea51f452af20949fc16b3e0e797b37989da251ea64cf2965"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1916-2019",
    "path": "ordin/sanatate/2019/1916",
    "short": "Ordin sanatate nr. 1916/2019",
@@ -13398,6 +16158,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1951-2019",
+   "path": "ordin/sanatate/2019/1951",
+   "short": "Ordin sanatate nr. 1951/2019",
+   "title": "Ordinul nr. 1.951/2019 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221713",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221713",
+     "sha256": "34aa503567acd245b0b639fa44ff331617499cc29256c858e55b01f9af0de21d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1959-2019",
    "path": "ordin/sanatate/2019/1959",
    "short": "Ordin sanatate nr. 1959/2019",
@@ -13409,6 +16184,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/221740",
      "sha256": "3951760f582fb62857ce871bb9ae24c95889ae007cc902ea22e6a87108a1ea4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1961-2019",
+   "path": "ordin/sanatate/2019/1961",
+   "short": "Ordin sanatate nr. 1961/2019",
+   "title": "Ordinul nr. 1.961/2019 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221751",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221751",
+     "sha256": "ed2552e6f6d62ede5e04fba4c59207090267125ecc789bcb6d297af4c24cbb9b"
     }
    ]
   },
@@ -13563,6 +16353,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-316-2019",
+   "path": "ordin/sanatate/2019/316",
+   "short": "Ordin sanatate nr. 316/2019",
+   "title": "Ordinul nr. 316/2019 privind modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211901",
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211901",
+     "sha256": "209017051feba9debced3b9ac1d31da8f2e96109584d7ed264be831879fdf73b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-329-2019",
    "path": "ordin/sanatate/2019/329",
    "short": "Ordin sanatate nr. 329/2019",
@@ -13683,6 +16488,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-474-2019",
+   "path": "ordin/sanatate/2019/474",
+   "short": "Ordin sanatate nr. 474/2019",
+   "title": "Ordinul nr. 474/2019 privind modificarea și completarea anexelor nr. 1-3 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212295",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212295",
+     "sha256": "1a593ff9e2ecb4924bcb6f17c8e435776e2325f6bbdf169db58f920a56210819"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-520-2019",
+   "path": "ordin/sanatate/2019/520",
+   "short": "Ordin sanatate nr. 520/2019",
+   "title": "Ordinul nr. 520/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212387",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212387",
+     "sha256": "49e69ce19ad0720b3bd745241903f9b312f296d6a2d195f6ca7d79f7f4f6b4b5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-522-2019",
    "path": "ordin/sanatate/2019/522",
    "short": "Ordin sanatate nr. 522/2019",
@@ -13788,6 +16623,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-615-2019",
+   "path": "ordin/sanatate/2019/615",
+   "short": "Ordin sanatate nr. 615/2019",
+   "title": "Ordinul nr. 615/2019 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213319",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213319",
+     "sha256": "c27bee202da7e6e78ea9260cc50d575ae074ec1d80e25cfbcbf4b78a0b3221c0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-646-2019",
    "path": "ordin/sanatate/2019/646",
    "short": "Ordin sanatate nr. 646/2019",
@@ -13878,6 +16728,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-804-2019",
+   "path": "ordin/sanatate/2019/804",
+   "short": "Ordin sanatate nr. 804/2019",
+   "title": "Ordinul nr. 804/2019 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214668",
+   "versions": [
+    {
+     "from": "2019-06-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214668",
+     "sha256": "2cbc53a4fd91001628bfc2a832fee8ec14e850a928fd06f2f0a592c123d0bd22"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-805-2019",
    "path": "ordin/sanatate/2019/805",
    "short": "Ordin sanatate nr. 805/2019",
@@ -13953,6 +16818,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-840-2019",
+   "path": "ordin/sanatate/2019/840",
+   "short": "Ordin sanatate nr. 840/2019",
+   "title": "Ordinul nr. 840/2019 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214840",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214840",
+     "sha256": "0f5284aa12535e6fc63e7353789f385df377efdb85a2a04f4710b75c0a56b802"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-841-2019",
    "path": "ordin/sanatate/2019/841",
    "short": "Ordin sanatate nr. 841/2019",
@@ -13983,6 +16863,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-857-2019",
+   "path": "ordin/sanatate/2019/857",
+   "short": "Ordin sanatate nr. 857/2019",
+   "title": "Ordinul nr. 857/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Companiei Naționale \"UNIFARM\" - S.A., aflată sub autoritatea Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215910",
+   "versions": [
+    {
+     "from": "2019-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215910",
+     "sha256": "656e13856f150c9348c838eef394aa3f972b885ae134972ce29f6c56e816ffe5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-895-2019",
    "path": "ordin/sanatate/2019/895",
    "short": "Ordin sanatate nr. 895/2019",
@@ -14009,6 +16904,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216604",
      "sha256": "9fcb0c6d483ecdf4bfc61d593a3eeb1c3e921b9e29588fc887f6159cdb40c87d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-977-2019",
+   "path": "ordin/sanatate/2019/977",
+   "short": "Ordin sanatate nr. 977/2019",
+   "title": "Ordinul nr. 977/2019 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.468/2018 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215570",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215570",
+     "sha256": "6a18160db1ddfc90eaac3cdaf62938002211a37504d32ecc21a5896f737acf70"
     }
    ]
   },
@@ -14309,6 +17219,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216524",
      "sha256": "e1c620e5d01eb694c44954f89ffc4298a8bbef9444d63fc148b418fff0abaacd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sport-812-2019",
+   "path": "ordin/sport/2019/812",
+   "short": "Ordin sport nr. 812/2019",
+   "title": "Ordinul nr. 812/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății Comerciale Biroul de Turism pentru Tineret (B.T.T.) \"PERLA COSTINEȘTIULUI\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219500",
+   "versions": [
+    {
+     "from": "2019-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219500",
+     "sha256": "40e35f7fdbf4645e256c6455c02a732e7e0e14f53299708d5b04c3a96973647c"
     }
    ]
   },
@@ -15138,6 +18063,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-68-2019",
+   "path": "ordin/transporturi/2019/68",
+   "short": "Ordin transporturi nr. 68/2019",
+   "title": "Ordinul nr. 68/2019 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2019 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221161",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221161",
+     "sha256": "2f628806ef57cb357d1bc6d8d5de7b9d023194d74747a4b4063c43a0c59fd4be"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-722-2019",
    "path": "ordin/transporturi/2019/722",
    "short": "Ordin transporturi nr. 722/2019",
@@ -15194,6 +18134,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213842",
      "sha256": "236f27e806a74b0ca0ee8f6756214cfdb4219ac8d087cac222a403a78f1ea434"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-796-2019",
+   "path": "ordin/transporturi/2019/796",
+   "short": "Ordin transporturi nr. 796/2019",
+   "title": "Ordinul nr. 796/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății de Administrare Active Feroviare \"S.A.A.F.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214824",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214824",
+     "sha256": "5b94b2c056233445ddae2db27058652edab22d3040539efd394755b6514a093d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-797-2019",
+   "path": "ordin/transporturi/2019/797",
+   "short": "Ordin transporturi nr. 797/2019",
+   "title": "Ordinul nr. 797/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății \"Grup Exploatare și Întreținere Palat CFR\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214837",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214837",
+     "sha256": "17440e070995514fb6bb9e3e560fac5e43a43028a0bc4925f0dac3f8047eefc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-804-2019",
+   "path": "ordin/transporturi/2019/804",
+   "short": "Ordin transporturi nr. 804/2019",
+   "title": "Ordinul nr. 804/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214827",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214827",
+     "sha256": "06a48ab4a061f4bb55aafbc9eec034b0fc14d8a65dbafeb2c7619cdb73e05cc2"
     }
    ]
   },
@@ -15318,6 +18303,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-937-2019",
+   "path": "ordin/transporturi/2019/937",
+   "short": "Ordin transporturi nr. 937/2019",
+   "title": "Ordinul nr. 937/2019 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2019 al Societății Tipografice Filaret - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217167",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217167",
+     "sha256": "ef612ad9e93b1a9cd23bffef82e56d03f26edc5c0e9c347eac9d92ce9626386d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-953-2019",
    "path": "ordin/transporturi/2019/953",
    "short": "Ordin transporturi nr. 953/2019",
@@ -15329,6 +18329,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215363",
      "sha256": "a90275ffd047e8092ab7bd12be08ae36334a086d4c9a0ff783fdfec0344ae495"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-23400-2019",
+   "path": "ordin/turism/2019/23400",
+   "short": "Ordin turism nr. 23400/2019",
+   "title": "Ordinul nr. 23.400/2019 ORDIN nr. 23.400/864/2.412/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea \"Germisara\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215623",
+   "versions": [
+    {
+     "from": "2019-07-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215623",
+     "sha256": "f883bc72b048149cf42ea90247c9047ee7ca5f3af47b8d0ee6394bacdf9dccd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-26406-2019",
+   "path": "ordin/turism/2019/26406",
+   "short": "Ordin turism nr. 26406/2019",
+   "title": "Ordinul nr. 26.406/2019 privind aprobarea bugetului de venituri și cheltuieli pe anul 2019 pentru Societatea \"Mamaia\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219196",
+   "versions": [
+    {
+     "from": "2019-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219196",
+     "sha256": "a17461ae0e21c2ded91dc61754cc579ee5dffccfc0808f9925d0745061140547"
     }
    ]
   },

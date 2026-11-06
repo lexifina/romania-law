@@ -3,6 +3,40 @@
 "shard": "ordin/2022",
 "acts": [
 {
+"slug": "ordin-aaas-11011-2022",
+"path": "ordin/aaas/2022/11011",
+"kind": "ordin",
+"year": "2022",
+"number": "11011",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 11.011/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 11011/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259774",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1241",
+"date": "2022-08-05",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1241-2022"
+},
+{
+"issuer": "finante",
+"nr": "2056",
+"date": "2022-09-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2056-2022"
+}
+]
+},
+{
 "slug": "ordin-achizitii-1174-2022",
 "path": "ordin/achizitii/2022/1174",
 "kind": "ordin",
@@ -348,6 +382,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252463",
 "issuer": "agricultura",
 "joint": []
+},
+{
+"slug": "ordin-agricultura-55-2022",
+"path": "ordin/agricultura/2022/55",
+"kind": "ordin",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 55/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății Comerciale PISCICOLA - S.A. Călărași din coordonarea Agenției Naționale pentru Pescuit și Acvacultură",
+"short": "Ordin agricultura nr. 55/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254637",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "527",
+"date": "2022-03-21",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-527-2022"
+},
+{
+"issuer": "finante",
+"nr": "1000",
+"date": "2022-04-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1000-2022"
+}
+]
 },
 {
 "slug": "ordin-agricultura-57-2022",
@@ -1163,6 +1231,40 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-293-2022",
+"path": "ordin/agricultura/2022/293",
+"kind": "ordin",
+"year": "2022",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 293/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății Naționale \"Casa Română de Comerț Agroalimentar - UNIREA\" - S.A.",
+"short": "Ordin agricultura nr. 293/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260297",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1949",
+"date": "2022-10-05",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1949-2022"
+},
+{
+"issuer": "finante",
+"nr": "3682",
+"date": "2022-10-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3682-2022"
+}
+]
+},
+{
 "slug": "ordin-agricultura-299-2022",
 "path": "ordin/agricultura/2022/299",
 "kind": "ordin",
@@ -1973,6 +2075,44 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-467-2022",
+"path": "ordin/anaf/2022/467",
+"kind": "ordin",
+"year": "2022",
+"number": "467",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 467/2022 privind blocarea fondurilor și resurselor economice deținute de Societatea TMK ASSETS - S.R.L., CUI 18902022",
+"short": "Ordin anaf nr. 467/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253165",
+"issuer": "anaf",
+"joint": []
+},
+{
+"slug": "ordin-anaf-468-2022",
+"path": "ordin/anaf/2022/468",
+"kind": "ordin",
+"year": "2022",
+"number": "468",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 468/2022 privind blocarea fondurilor și resurselor economice deținute de Societatea TMK ARTROM - S.A., CUI 1510210",
+"short": "Ordin anaf nr. 468/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253166",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-493-2022",
 "path": "ordin/anaf/2022/493",
 "kind": "ordin",
@@ -1988,6 +2128,63 @@
 "from": "2022-05-09",
 "latest": "2022-05-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254961",
+"issuer": "anaf",
+"joint": []
+},
+{
+"slug": "ordin-anaf-495-2022",
+"path": "ordin/anaf/2022/495",
+"kind": "ordin",
+"year": "2022",
+"number": "495",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 495/2022 privind blocarea acreditivului DTF/LCI/14315, emis de EximBank - S.A. în beneficiul entității METALOINVEST TRADING AG",
+"short": "Ordin anaf nr. 495/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253511",
+"issuer": "anaf",
+"joint": []
+},
+{
+"slug": "ordin-anaf-496-2022",
+"path": "ordin/anaf/2022/496",
+"kind": "ordin",
+"year": "2022",
+"number": "496",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 496/2022 privind blocarea acreditivelor DTF/LCI/14319 și DTF/LCI/14320, emise de EximBank - S.A. în beneficiul entității MMK METALURJI SANAYI TICARET VE LIMAN ISLETMECILIGI A.S.",
+"short": "Ordin anaf nr. 496/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253512",
+"issuer": "anaf",
+"joint": []
+},
+{
+"slug": "ordin-anaf-727-2022",
+"path": "ordin/anaf/2022/727",
+"kind": "ordin",
+"year": "2022",
+"number": "727",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 727/2022 privind blocarea acreditivului IMP/LC000312201, emis de Banca Transilvania - S.A. în beneficiul entității MMK METALURJI SANAYI TICARET VE LIMAN ISLETMECILIGI A.S.",
+"short": "Ordin anaf nr. 727/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-14",
+"latest": "2022-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253908",
 "issuer": "anaf",
 "joint": []
 },
@@ -2182,6 +2379,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-1181-2022",
+"path": "ordin/anaf/2022/1181",
+"kind": "ordin",
+"year": "2022",
+"number": "1181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.181/2022 privind deblocarea fondurilor și resurselor economice deținute de Societatea TMK ARTROM - S.A., CUI 1510210",
+"short": "Ordin anaf nr. 1181/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256899",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-1286-2022",
 "path": "ordin/anaf/2022/1286",
 "kind": "ordin",
@@ -2254,6 +2470,25 @@
 "from": "2022-08-19",
 "latest": "2022-08-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258525",
+"issuer": "anaf",
+"joint": []
+},
+{
+"slug": "ordin-anaf-1541-2022",
+"path": "ordin/anaf/2022/1541",
+"kind": "ordin",
+"year": "2022",
+"number": "1541",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.541/2022 privind deblocarea fondurilor și resurselor economice deținute de Societatea TMK ASSETS - S.R.L., CUI 18902022",
+"short": "Ordin anaf nr. 1541/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-24",
+"latest": "2022-08-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258607",
 "issuer": "anaf",
 "joint": []
 },
@@ -4359,6 +4594,44 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-51-2022",
+"path": "ordin/anre/2022/51",
+"kind": "ordin",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 51/2022 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 70/2021 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea NORD GAZ - S.R.L.",
+"short": "Ordin anre nr. 51/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253369",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-52-2022",
+"path": "ordin/anre/2022/52",
+"kind": "ordin",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 52/2022 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 71/2021 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea NOVA POWER GAS - S.R.L.",
+"short": "Ordin anre nr. 52/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253370",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-53-2022",
 "path": "ordin/anre/2022/53",
 "kind": "ordin",
@@ -4374,6 +4647,44 @@
 "from": "2022-04-01",
 "latest": "2022-04-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253371",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-54-2022",
+"path": "ordin/anre/2022/54",
+"kind": "ordin",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 54/2022 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 81/2021 privind aprobarea tarifelor reglementate pentru operarea sistemului de distribuție preluat, realizată de Societatea PREMIER ENERGY - S.R.L., în calitate de operator desemnat să preia operarea sistemului de distribuție a gazelor naturale din localitatea Zimnicea, aparținătoare municipiului Zimnicea, județul Teleorman",
+"short": "Ordin anre nr. 54/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253372",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-55-2022",
+"path": "ordin/anre/2022/55",
+"kind": "ordin",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 55/2022 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 135/2021 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea PRISMA SERV COMPANY - S.R.L.",
+"short": "Ordin anre nr. 55/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253373",
 "issuer": "anre",
 "joint": []
 },
@@ -9674,6 +9985,40 @@
 "joint": []
 },
 {
+"slug": "ordin-comunicatii-21228-2022",
+"path": "ordin/comunicatii/2022/21228",
+"kind": "ordin",
+"year": "2022",
+"number": "21228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 21.228/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății \"Romfilatelia\" - S.A., filiala Companiei Naționale \"Poșta Română\" - S.A.",
+"short": "Ordin comunicatii nr. 21228/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-14",
+"latest": "2022-09-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259327",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1352",
+"date": "2022-08-26",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1352-2022"
+},
+{
+"issuer": "finante",
+"nr": "2074",
+"date": "2022-09-06",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2074-2022"
+}
+]
+},
+{
 "slug": "ordin-comunicatii-21451-2022",
 "path": "ordin/comunicatii/2022/21451",
 "kind": "ordin",
@@ -11481,6 +11826,754 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-205-2022",
+"path": "ordin/economie/2022/205",
+"kind": "ordin",
+"year": "2022",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 205/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Electrocentrale Grup - S.A.",
+"short": "Ordin economie nr. 205/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-06",
+"latest": "2022-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253659",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "356",
+"date": "2022-03-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-356-2022"
+},
+{
+"issuer": "munca",
+"nr": "511",
+"date": "2022-03-16",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-511-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-206-2022",
+"path": "ordin/economie/2022/206",
+"kind": "ordin",
+"year": "2022",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 206/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Medserv Min - S.A.",
+"short": "Ordin economie nr. 206/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-06",
+"latest": "2022-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253662",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "352",
+"date": "2022-03-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-352-2022"
+},
+{
+"issuer": "munca",
+"nr": "509",
+"date": "2022-03-16",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-509-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-207-2022",
+"path": "ordin/economie/2022/207",
+"kind": "ordin",
+"year": "2022",
+"number": "207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 207/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Minprest Serv - S.A.",
+"short": "Ordin economie nr. 207/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-06",
+"latest": "2022-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253665",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "351",
+"date": "2022-03-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-351-2022"
+},
+{
+"issuer": "munca",
+"nr": "510",
+"date": "2022-03-16",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-510-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-237-2022",
+"path": "ordin/economie/2022/237",
+"kind": "ordin",
+"year": "2022",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 237/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Națională de Închideri Mine Valea Jiului - S.A.",
+"short": "Ordin economie nr. 237/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-21",
+"latest": "2022-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254304",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1001",
+"date": "2022-04-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1001-2022"
+},
+{
+"issuer": "munca",
+"nr": "564",
+"date": "2022-03-22",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-564-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-385-2022",
+"path": "ordin/economie/2022/385",
+"kind": "ordin",
+"year": "2022",
+"number": "385",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 385/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Șantierul Naval Mangalia - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 385/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253192",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "321",
+"date": "2022-03-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-321-2022"
+},
+{
+"issuer": "munca",
+"nr": "276",
+"date": "2022-03-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-276-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-451-2022",
+"path": "ordin/economie/2022/451",
+"kind": "ordin",
+"year": "2022",
+"number": "451",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 451/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Titan Power - S.A.",
+"short": "Ordin economie nr. 451/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-15",
+"latest": "2022-06-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256438",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1365",
+"date": "2022-06-06",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1365-2022"
+},
+{
+"issuer": "munca",
+"nr": "818",
+"date": "2022-05-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-818-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-452-2022",
+"path": "ordin/economie/2022/452",
+"kind": "ordin",
+"year": "2022",
+"number": "452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 452/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea de Administrare a Participațiilor în Energie - S.A.",
+"short": "Ordin economie nr. 452/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-15",
+"latest": "2022-06-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256441",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1350",
+"date": "2022-06-03",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1350-2022"
+},
+{
+"issuer": "munca",
+"nr": "819",
+"date": "2022-05-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-819-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-481-2022",
+"path": "ordin/economie/2022/481",
+"kind": "ordin",
+"year": "2022",
+"number": "481",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 481/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Damen Shipyards Mangalia - S.A., unde Societatea Șantierul Naval 2 Mai - S.A., aflată sub autoritatea Ministerului Economiei, deține 51% din capitalul social",
+"short": "Ordin economie nr. 481/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-14",
+"latest": "2022-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253885",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "938",
+"date": "2022-04-06",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-938-2022"
+},
+{
+"issuer": "munca",
+"nr": "620",
+"date": "2022-04-05",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-620-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-487-2022",
+"path": "ordin/economie/2022/487",
+"kind": "ordin",
+"year": "2022",
+"number": "487",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 487/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A. Mangalia, aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 487/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-06",
+"latest": "2022-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254953",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1040",
+"date": "2022-04-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1040-2022"
+},
+{
+"issuer": "munca",
+"nr": "635",
+"date": "2022-04-06",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-635-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-572-2022",
+"path": "ordin/economie/2022/572",
+"kind": "ordin",
+"year": "2022",
+"number": "572",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 572/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Radioactiv Mineral Măgurele - S.A.",
+"short": "Ordin economie nr. 572/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-14",
+"latest": "2022-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257521",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1586",
+"date": "2022-07-05",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1586-2022"
+},
+{
+"issuer": "munca",
+"nr": "978",
+"date": "2022-06-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-978-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-581-2022",
+"path": "ordin/economie/2022/581",
+"kind": "ordin",
+"year": "2022",
+"number": "581",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 581/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 581/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255807",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1270",
+"date": "2022-05-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1270-2022"
+},
+{
+"issuer": "munca",
+"nr": "780",
+"date": "2022-05-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-780-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-582-2022",
+"path": "ordin/economie/2022/582",
+"kind": "ordin",
+"year": "2022",
+"number": "582",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 582/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 582/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255810",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1273",
+"date": "2022-05-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1273-2022"
+},
+{
+"issuer": "munca",
+"nr": "777",
+"date": "2022-05-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-777-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-584-2022",
+"path": "ordin/economie/2022/584",
+"kind": "ordin",
+"year": "2022",
+"number": "584",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 584/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 584/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255813",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1271",
+"date": "2022-05-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1271-2022"
+},
+{
+"issuer": "munca",
+"nr": "779",
+"date": "2022-05-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-779-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-611-2022",
+"path": "ordin/economie/2022/611",
+"kind": "ordin",
+"year": "2022",
+"number": "611",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 611/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 611/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-03",
+"latest": "2022-06-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255902",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1307",
+"date": "2022-05-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1307-2022"
+},
+{
+"issuer": "munca",
+"nr": "797",
+"date": "2022-05-13",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-797-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-612-2022",
+"path": "ordin/economie/2022/612",
+"kind": "ordin",
+"year": "2022",
+"number": "612",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 612/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea \"Arsenal Reșița\" - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 612/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-03",
+"latest": "2022-06-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255905",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1306",
+"date": "2022-05-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1306-2022"
+},
+{
+"issuer": "munca",
+"nr": "798",
+"date": "2022-05-13",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-798-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-631-2022",
+"path": "ordin/economie/2022/631",
+"kind": "ordin",
+"year": "2022",
+"number": "631",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 631/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 631/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-06",
+"latest": "2022-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255936",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1309",
+"date": "2022-05-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1309-2022"
+},
+{
+"issuer": "munca",
+"nr": "796",
+"date": "2022-05-13",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-796-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-669-2022",
+"path": "ordin/economie/2022/669",
+"kind": "ordin",
+"year": "2022",
+"number": "669",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 669/2022 ORDIN nr. 669/1.406/852/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 669/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-21",
+"latest": "2022-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256593",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1406",
+"date": "2022-06-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1406-2022"
+},
+{
+"issuer": "munca",
+"nr": "852",
+"date": "2022-05-25",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-852-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-670-2022",
+"path": "ordin/economie/2022/670",
+"kind": "ordin",
+"year": "2022",
+"number": "670",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 670/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 670/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-21",
+"latest": "2022-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256596",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1416",
+"date": "2022-06-14",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1416-2022"
+},
+{
+"issuer": "munca",
+"nr": "887",
+"date": "2022-05-30",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-887-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-671-2022",
+"path": "ordin/economie/2022/671",
+"kind": "ordin",
+"year": "2022",
+"number": "671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 671/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea TOHAN - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 671/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-20",
+"latest": "2022-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256530",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1407",
+"date": "2022-06-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1407-2022"
+},
+{
+"issuer": "munca",
+"nr": "853",
+"date": "2022-05-25",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-853-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-672-2022",
+"path": "ordin/economie/2022/672",
+"kind": "ordin",
+"year": "2022",
+"number": "672",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 672/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Fabrica de Pulberi Făgăraș - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 672/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-20",
+"latest": "2022-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256533",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1405",
+"date": "2022-06-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1405-2022"
+},
+{
+"issuer": "munca",
+"nr": "854",
+"date": "2022-05-25",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-854-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-739-2022",
+"path": "ordin/economie/2022/739",
+"kind": "ordin",
+"year": "2022",
+"number": "739",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 739/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 739/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-13",
+"latest": "2022-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257478",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1516",
+"date": "2022-06-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1516-2022"
+},
+{
+"issuer": "munca",
+"nr": "938",
+"date": "2022-06-08",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-938-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-748-2022",
+"path": "ordin/economie/2022/748",
+"kind": "ordin",
+"year": "2022",
+"number": "748",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 748/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea ROȘIAMIN - S.A. - filiala C.N.C.A.F. MINVEST - S.A. Deva, aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 748/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-13",
+"latest": "2022-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257481",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1542",
+"date": "2022-06-30",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1542-2022"
+},
+{
+"issuer": "munca",
+"nr": "960",
+"date": "2022-06-14",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-960-2022"
+}
+]
+},
+{
 "slug": "ordin-economie-763-2022",
 "path": "ordin/economie/2022/763",
 "kind": "ordin",
@@ -11538,6 +12631,74 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-879-2022",
+"path": "ordin/economie/2022/879",
+"kind": "ordin",
+"year": "2022",
+"number": "879",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 879/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea EUROTEST - S.A.",
+"short": "Ordin economie nr. 879/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259716",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2952",
+"date": "2022-09-22",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2952-2022"
+},
+{
+"issuer": "munca",
+"nr": "1842",
+"date": "2022-09-12",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1842-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-934-2022",
+"path": "ordin/economie/2022/934",
+"kind": "ordin",
+"year": "2022",
+"number": "934",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 934/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea Medserv Min - S.A.",
+"short": "Ordin economie nr. 934/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260300",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3558",
+"date": "2022-10-04",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3558-2022"
+},
+{
+"issuer": "munca",
+"nr": "1871",
+"date": "2022-09-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1871-2022"
+}
+]
+},
+{
 "slug": "ordin-economie-949-2022",
 "path": "ordin/economie/2022/949",
 "kind": "ordin",
@@ -11555,6 +12716,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/259792",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1004-2022",
+"path": "ordin/economie/2022/1004",
+"kind": "ordin",
+"year": "2022",
+"number": "1004",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.004/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Institutul de Cercetări Metalurgice \"ICEM\" - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 1004/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-14",
+"latest": "2022-09-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259348",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "2075",
+"date": "2022-09-06",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-2075-2022"
+},
+{
+"issuer": "munca",
+"nr": "1303",
+"date": "2022-08-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1303-2022"
+}
+]
 },
 {
 "slug": "ordin-economie-1100-2022",
@@ -11633,6 +12828,108 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1343-2022",
+"path": "ordin/economie/2022/1343",
+"kind": "ordin",
+"year": "2022",
+"number": "1343",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.343/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea Uzina de Produse Speciale Dragomirești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 1343/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260796",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3931",
+"date": "2022-10-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3931-2022"
+},
+{
+"issuer": "munca",
+"nr": "1978",
+"date": "2022-10-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1978-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-1344-2022",
+"path": "ordin/economie/2022/1344",
+"kind": "ordin",
+"year": "2022",
+"number": "1344",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.344/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 1344/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260850",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3930",
+"date": "2022-10-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3930-2022"
+},
+{
+"issuer": "munca",
+"nr": "1977",
+"date": "2022-10-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1977-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-1345-2022",
+"path": "ordin/economie/2022/1345",
+"kind": "ordin",
+"year": "2022",
+"number": "1345",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.345/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 1345/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260799",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3932",
+"date": "2022-10-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3932-2022"
+},
+{
+"issuer": "munca",
+"nr": "1976",
+"date": "2022-10-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1976-2022"
+}
+]
+},
+{
 "slug": "ordin-economie-1371-2022",
 "path": "ordin/economie/2022/1371",
 "kind": "ordin",
@@ -11650,6 +12947,108 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260518",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1377-2022",
+"path": "ordin/economie/2022/1377",
+"kind": "ordin",
+"year": "2022",
+"number": "1377",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.377/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 1377/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260853",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3952",
+"date": "2022-10-27",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3952-2022"
+},
+{
+"issuer": "munca",
+"nr": "2026",
+"date": "2022-10-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2026-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-1378-2022",
+"path": "ordin/economie/2022/1378",
+"kind": "ordin",
+"year": "2022",
+"number": "1378",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.378/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 1378/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260814",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3944",
+"date": "2022-10-26",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3944-2022"
+},
+{
+"issuer": "munca",
+"nr": "2013",
+"date": "2022-10-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2013-2022"
+}
+]
+},
+{
+"slug": "ordin-economie-1384-2022",
+"path": "ordin/economie/2022/1384",
+"kind": "ordin",
+"year": "2022",
+"number": "1384",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.384/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei",
+"short": "Ordin economie nr. 1384/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260884",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3963",
+"date": "2022-10-28",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3963-2022"
+},
+{
+"issuer": "munca",
+"nr": "2019",
+"date": "2022-10-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2019-2022"
+}
+]
 },
 {
 "slug": "ordin-economie-1436-2022",
@@ -12087,6 +13486,40 @@
 "date": "2022-03-08",
 "name": "Ministerul Sănătății",
 "alias": "ordin-sanatate-707-2022"
+}
+]
+},
+{
+"slug": "ordin-educatie-3350-2022",
+"path": "ordin/educatie/2022/3350",
+"kind": "ordin",
+"year": "2022",
+"number": "3350",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.350/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea Editura Didactică și Pedagogică - S.A.",
+"short": "Ordin educatie nr. 3350/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-14",
+"latest": "2022-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253888",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "365",
+"date": "2022-03-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-365-2022"
+},
+{
+"issuer": "munca",
+"nr": "512",
+"date": "2022-03-16",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-512-2022"
 }
 ]
 },
@@ -14572,6 +16005,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-56-2022",
+"path": "ordin/finante/2022/56",
+"kind": "ordin",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 56/2022 pentru împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară în vederea constatării contravențiilor și aplicării sancțiunilor prevăzute la art. 23 din Legea nr. 672/2002 privind auditul public intern",
+"short": "Ordin finante nr. 56/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-25",
+"latest": "2022-01-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251105",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-66-2022",
+"path": "ordin/finante/2022/66",
+"kind": "ordin",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 66/2022 privind aprobarea contractării de către Ministerul Finanțelor a operațiunii de răscumpărare anticipată a unor serii de obligațiuni denominate în dolari scadente în data de 7 februarie 2022, 22 august 2023 și 22 ianuarie 2024 și de preschimbare a acestora sau a unei părți din acestea cu obligațiuni noi sau o parte din acestea și contractarea unor împrumuturi pe piețele externe de capital în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", în sumă totală de până la 2,5 miliarde dolari, și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 66/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250613",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-79-2022",
 "path": "ordin/finante/2022/79",
 "kind": "ordin",
@@ -14610,6 +16081,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-99-2022",
+"path": "ordin/finante/2022/99",
+"kind": "ordin",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 99/2022 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 2,5 miliarde euro, prin lansarea a două serii noi de obligațiuni denominate în euro cu maturitatea de 6 ani sau mai mult și, respectiv, maturitatea de 12 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 99/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251245",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-106-2022",
+"path": "ordin/finante/2022/106",
+"kind": "ordin",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 106/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2022",
+"short": "Ordin finante nr. 106/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251292",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-109-2022",
 "path": "ordin/finante/2022/109",
 "kind": "ordin",
@@ -14625,6 +16134,25 @@
 "from": "2022-02-10",
 "latest": "2022-02-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251540",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-118-2022",
+"path": "ordin/finante/2022/118",
+"kind": "ordin",
+"year": "2022",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 118/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii februarie 2022",
+"short": "Ordin finante nr. 118/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-04",
+"latest": "2022-02-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251405",
 "issuer": "finante",
 "joint": []
 },
@@ -14758,6 +16286,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-196-2022",
+"path": "ordin/finante/2022/196",
+"kind": "ordin",
+"year": "2022",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 196/2022 pentru modificarea și completarea Ordinului ministrului finanțelor publice nr. 1.886/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia COVID-19 din bugetul Ministerului Finanțelor Publice - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii și a întreprinderilor mici cu capitalizare de piață medie - IMM INVEST ROMÂNIA, a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 196/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-18",
+"latest": "2022-02-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251781",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-199-2022",
 "path": "ordin/finante/2022/199",
 "kind": "ordin",
@@ -14773,6 +16320,25 @@
 "from": "2022-03-01",
 "latest": "2022-03-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252262",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-225-2022",
+"path": "ordin/finante/2022/225",
+"kind": "ordin",
+"year": "2022",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 225/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii martie 2022",
+"short": "Ordin finante nr. 225/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252205",
 "issuer": "finante",
 "joint": []
 },
@@ -14849,6 +16415,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-261-2022",
+"path": "ordin/finante/2022/261",
+"kind": "ordin",
+"year": "2022",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 261/2022 pentru modificarea Ordinului ministrului finanțelor publice nr. 1.886/2020 privind aprobarea mecanismului financiar de transfer al sumelor aferente granturilor cuvenite beneficiarilor în cadrul Schemei de ajutor de stat pentru susținerea activității IMM-urilor în contextul crizei economice generate de pandemia COVID-19 din bugetul Ministerului Finanțelor - Acțiuni generale către Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN/ Fondul de Garantare a Creditului Rural S.A. - IFN, a modelului Convenției privind implementarea Programului de susținere a întreprinderilor mici și mijlocii și a întreprinderilor mici cu capitalizare de piață medie - IMM INVEST ROMÂNIA, a modelului Convenției de garantare și plată a granturilor, al contractului de garantare, al înscrisului, precum și pentru stabilirea nivelului comisionului de risc și al comisionului de administrare pentru anul 2020",
+"short": "Ordin finante nr. 261/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-07",
+"latest": "2022-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252432",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-270-2022",
 "path": "ordin/finante/2022/270",
 "kind": "ordin",
@@ -14891,6 +16476,44 @@
 "from": "2022-03-17",
 "latest": "2022-03-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252684",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-294-2022",
+"path": "ordin/finante/2022/294",
+"kind": "ordin",
+"year": "2022",
+"number": "294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 294/2022 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 294/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-15",
+"latest": "2022-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252608",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-295-2022",
+"path": "ordin/finante/2022/295",
+"kind": "ordin",
+"year": "2022",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 295/2022 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 17 martie-1 aprilie 2022, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 295/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-15",
+"latest": "2022-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252629",
 "issuer": "finante",
 "joint": []
 },
@@ -14948,6 +16571,25 @@
 "from": "2022-04-01",
 "latest": "2022-04-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253574",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-341-2022",
+"path": "ordin/finante/2022/341",
+"kind": "ordin",
+"year": "2022",
+"number": "341",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 341/2022 pentru aprobarea modificării Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 341/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253534",
 "issuer": "finante",
 "joint": []
 },
@@ -15013,6 +16655,44 @@
 "from": "2022-03-30",
 "latest": "2022-03-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253300",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-408-2022",
+"path": "ordin/finante/2022/408",
+"kind": "ordin",
+"year": "2022",
+"number": "408",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 408/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2022",
+"short": "Ordin finante nr. 408/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253541",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-409-2022",
+"path": "ordin/finante/2022/409",
+"kind": "ordin",
+"year": "2022",
+"number": "409",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 409/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii aprilie 2022",
+"short": "Ordin finante nr. 409/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-01",
+"latest": "2022-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253542",
 "issuer": "finante",
 "joint": []
 },
@@ -15097,6 +16777,25 @@
 "from": "2022-04-13",
 "latest": "2022-04-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253857",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-948-2022",
+"path": "ordin/finante/2022/948",
+"kind": "ordin",
+"year": "2022",
+"number": "948",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 948/2022 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna aprilie 2022",
+"short": "Ordin finante nr. 948/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-11",
+"latest": "2022-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253805",
 "issuer": "finante",
 "joint": []
 },
@@ -15315,6 +17014,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1237-2022",
+"path": "ordin/finante/2022/1237",
+"kind": "ordin",
+"year": "2022",
+"number": "1237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.237/2022 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 2,5 miliarde de dolari, prin lansarea a două serii noi de obligațiuni denominate în dolari cu maturitatea de 5 ani sau mai mult și, respectiv, maturitatea de 12 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 1237/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255526",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1238-2022",
 "path": "ordin/finante/2022/1238",
 "kind": "ordin",
@@ -15349,6 +17067,90 @@
 "from": "2022-05-26",
 "latest": "2022-05-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255713",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1294-2022",
+"path": "ordin/finante/2022/1294",
+"kind": "ordin",
+"year": "2022",
+"number": "1294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.294/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2022",
+"short": "Ordin finante nr. 1294/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255792",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1303-2022",
+"path": "ordin/finante/2022/1303",
+"kind": "ordin",
+"year": "2022",
+"number": "1303",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.303/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății Comerciale \"RO-ARMYSECURITY\" - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+"short": "Ordin finante nr. 1303/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-06",
+"latest": "2022-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255933",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "781",
+"date": "2022-05-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-781-2022"
+}
+]
+},
+{
+"slug": "ordin-finante-1324-2022",
+"path": "ordin/finante/2022/1324",
+"kind": "ordin",
+"year": "2022",
+"number": "1324",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.324/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii iunie 2022",
+"short": "Ordin finante nr. 1324/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255799",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1325-2022",
+"path": "ordin/finante/2022/1325",
+"kind": "ordin",
+"year": "2022",
+"number": "1325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.325/2022 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 6 iunie-21 iunie 2022, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1325/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255848",
 "issuer": "finante",
 "joint": []
 },
@@ -15593,6 +17395,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1533-2022",
+"path": "ordin/finante/2022/1533",
+"kind": "ordin",
+"year": "2022",
+"number": "1533",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.533/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii iulie 2022",
+"short": "Ordin finante nr. 1533/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-01",
+"latest": "2022-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256946",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1534-2022",
+"path": "ordin/finante/2022/1534",
+"kind": "ordin",
+"year": "2022",
+"number": "1534",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.534/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2022",
+"short": "Ordin finante nr. 1534/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-01",
+"latest": "2022-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256947",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1580-2022",
 "path": "ordin/finante/2022/1580",
 "kind": "ordin",
@@ -15625,6 +17465,25 @@
 "alias": "ordin-sanatate-2220-2022"
 }
 ]
+},
+{
+"slug": "ordin-finante-1598-2022",
+"path": "ordin/finante/2022/1598",
+"kind": "ordin",
+"year": "2022",
+"number": "1598",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.598/2022 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1598/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-05",
+"latest": "2022-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258298",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-1604-2022",
@@ -15707,6 +17566,25 @@
 "from": "2022-07-28",
 "latest": "2022-07-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257895",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1760-2022",
+"path": "ordin/finante/2022/1760",
+"kind": "ordin",
+"year": "2022",
+"number": "1760",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.760/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2022",
+"short": "Ordin finante nr. 1760/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257927",
 "issuer": "finante",
 "joint": []
 },
@@ -15821,6 +17699,63 @@
 "from": "2022-09-06",
 "latest": "2022-09-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258875",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1967-2022",
+"path": "ordin/finante/2022/1967",
+"kind": "ordin",
+"year": "2022",
+"number": "1967",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.967/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2022",
+"short": "Ordin finante nr. 1967/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258712",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1968-2022",
+"path": "ordin/finante/2022/1968",
+"kind": "ordin",
+"year": "2022",
+"number": "1968",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.968/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii septembrie 2022",
+"short": "Ordin finante nr. 1968/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258713",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1969-2022",
+"path": "ordin/finante/2022/1969",
+"kind": "ordin",
+"year": "2022",
+"number": "1969",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.969/2022 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 1-16 septembrie 2022, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1969/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258714",
 "issuer": "finante",
 "joint": []
 },
@@ -15993,6 +17928,25 @@
 ]
 },
 {
+"slug": "ordin-finante-2603-2022",
+"path": "ordin/finante/2022/2603",
+"kind": "ordin",
+"year": "2022",
+"number": "2603",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.603/2022 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 3,5 miliarde euro, prin lansarea a două serii noi de obligațiuni denominate în euro cu maturitatea de 4 ani și, respectiv, maturitatea de 7 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 2603/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259478",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-3033-2022",
 "path": "ordin/finante/2022/3033",
 "kind": "ordin",
@@ -16035,6 +17989,44 @@
 "from": "2022-09-30",
 "latest": "2022-09-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/259768",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-3253-2022",
+"path": "ordin/finante/2022/3253",
+"kind": "ordin",
+"year": "2022",
+"number": "3253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.253/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2022",
+"short": "Ordin finante nr. 3253/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259785",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-3254-2022",
+"path": "ordin/finante/2022/3254",
+"kind": "ordin",
+"year": "2022",
+"number": "3254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.254/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului TEZAUR, aferent lunii octombrie 2022",
+"short": "Ordin finante nr. 3254/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259786",
 "issuer": "finante",
 "joint": []
 },
@@ -16207,6 +18199,63 @@
 ]
 },
 {
+"slug": "ordin-finante-3957-2022",
+"path": "ordin/finante/2022/3957",
+"kind": "ordin",
+"year": "2022",
+"number": "3957",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.957/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului TEZAUR, aferent lunii noiembrie 2022",
+"short": "Ordin finante nr. 3957/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260820",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-3958-2022",
+"path": "ordin/finante/2022/3958",
+"kind": "ordin",
+"year": "2022",
+"number": "3958",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.958/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2022",
+"short": "Ordin finante nr. 3958/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260821",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4010-2022",
+"path": "ordin/finante/2022/4010",
+"kind": "ordin",
+"year": "2022",
+"number": "4010",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.010/2022 pentru aprobarea modificării Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 4010/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261376",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-4092-2022",
 "path": "ordin/finante/2022/4092",
 "kind": "ordin",
@@ -16264,6 +18313,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-4156-2022",
+"path": "ordin/finante/2022/4156",
+"kind": "ordin",
+"year": "2022",
+"number": "4156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.156/2022 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 5-19 decembrie 2022, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 4156/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261700",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-4158-2022",
 "path": "ordin/finante/2022/4158",
 "kind": "ordin",
@@ -16279,6 +18347,44 @@
 "from": "2022-12-09",
 "latest": "2022-12-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262310",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4171-2022",
+"path": "ordin/finante/2022/4171",
+"kind": "ordin",
+"year": "2022",
+"number": "4171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.171/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii decembrie 2022",
+"short": "Ordin finante nr. 4171/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261729",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-4183-2022",
+"path": "ordin/finante/2022/4183",
+"kind": "ordin",
+"year": "2022",
+"number": "4183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.183/2022 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2022",
+"short": "Ordin finante nr. 4183/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261935",
 "issuer": "finante",
 "joint": []
 },
@@ -16473,6 +18579,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-4552-2022",
+"path": "ordin/finante/2022/4552",
+"kind": "ordin",
+"year": "2022",
+"number": "4552",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.552/2022 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, aferent lunii ianuarie 2023",
+"short": "Ordin finante nr. 4552/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263333",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-4574-2022",
 "path": "ordin/finante/2022/4574",
 "kind": "ordin",
@@ -16557,6 +18682,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-4774-2022",
+"path": "ordin/finante/2022/4774",
+"kind": "ordin",
+"year": "2022",
+"number": "4774",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.774/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății Comerciale \"RO-ARMYCATERING\" - S.A., filială a Companiei Naționale \"ROMTEHNICA\" - S.A.",
+"short": "Ordin finante nr. 4774/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263703",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2271",
+"date": "2022-12-23",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2271-2022"
+}
+]
+},
+{
 "slug": "ordin-fonduri-267-2022",
 "path": "ordin/fonduri/2022/267",
 "kind": "ordin",
@@ -16639,6 +18791,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252662",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-806-2022",
+"path": "ordin/fonduri/2022/806",
+"kind": "ordin",
+"year": "2022",
+"number": "806",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 806/2022 privind înființarea Comitetului de investiții pentru Fondul de fonduri de capital de risc pentru redresare din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 806/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255846",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1316",
+"date": "2022-05-30",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1316-2022"
+}
+]
 },
 {
 "slug": "ordin-fonduri-863-2022",
@@ -19209,6 +21388,59 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-822-2022",
+"path": "ordin/mediu/2022/822",
+"kind": "ordin",
+"year": "2022",
+"number": "822",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 822/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Direcției de Creștere, Exploatare și Ameliorare a Cabalinelor, unitate cu personalitate juridică a Regiei Naționale a Pădurilor - Romsilva, prevăzută la pct. 24 din anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 822/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-05",
+"latest": "2022-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254904",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "685",
+"date": "2022-04-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-685-2022"
+},
+{
+"issuer": "finante",
+"nr": "1089",
+"date": "2022-05-02",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1089-2022"
+}
+]
+},
+{
+"slug": "ordin-mediu-823-2022",
+"path": "ordin/mediu/2022/823",
+"kind": "ordin",
+"year": "2022",
+"number": "823",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 823/2022 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2022 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor -Romsilva prevăzute în anexa nr. 3 pct. 1-23 din Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 823/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-06",
+"latest": "2022-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254934",
+"issuer": "mediu",
+"joint": []
+},
+{
 "slug": "ordin-mediu-831-2022",
 "path": "ordin/mediu/2022/831",
 "kind": "ordin",
@@ -21009,6 +23241,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-247-2022",
+"path": "ordin/munca/2022/247",
+"kind": "ordin",
+"year": "2022",
+"number": "247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 247/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Solidarității Sociale",
+"short": "Ordin munca nr. 247/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-13",
+"latest": "2022-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253880",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-251-2022",
 "path": "ordin/munca/2022/251",
 "kind": "ordin",
@@ -21043,6 +23294,25 @@
 "from": "2022-03-10",
 "latest": "2022-03-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252531",
+"issuer": "munca",
+"joint": []
+},
+{
+"slug": "ordin-munca-634-2022",
+"path": "ordin/munca/2022/634",
+"kind": "ordin",
+"year": "2022",
+"number": "634",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 634/2022 privind modificarea Ordinului ministrului muncii, familiei și protecției sociale nr. 455/2010 pentru constituirea comisiilor de abilitare a serviciilor externe de prevenire și protecție și de avizare a documentațiilor cu caracter tehnic de informare și instruire în domeniul securității și sănătății în muncă din cadrul inspectoratelor teritoriale de muncă",
+"short": "Ordin munca nr. 634/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-31",
+"latest": "2022-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255854",
 "issuer": "munca",
 "joint": []
 },
@@ -21110,6 +23380,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254851",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "ordin-munca-775-2022",
+"path": "ordin/munca/2022/775",
+"kind": "ordin",
+"year": "2022",
+"number": "775",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 775/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății ACTIVE CONEXE - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin munca nr. 775/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-20",
+"latest": "2022-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256536",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1366",
+"date": "2022-06-06",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1366-2022"
+}
+]
 },
 {
 "slug": "ordin-munca-799-2022",
@@ -21299,6 +23596,25 @@
 ]
 },
 {
+"slug": "ordin-munca-2008-2022",
+"path": "ordin/munca/2022/2008",
+"kind": "ordin",
+"year": "2022",
+"number": "2008",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.008/2022 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii și Solidarității Sociale",
+"short": "Ordin munca nr. 2008/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261703",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-2084-2022",
 "path": "ordin/munca/2022/2084",
 "kind": "ordin",
@@ -21365,6 +23681,25 @@
 "alias": "ordin-educatie-6389-2022"
 }
 ]
+},
+{
+"slug": "ordin-munca-2143-2022",
+"path": "ordin/munca/2022/2143",
+"kind": "ordin",
+"year": "2022",
+"number": "2143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.143/2022 privind modificarea și completarea Ordinului ministrului muncii și justiției sociale nr. 29/2019 pentru aprobarea standardelor minime de calitate pentru acreditarea serviciilor sociale destinate persoanelor vârstnice, persoanelor fără adăpost, tinerilor care au părăsit sistemul de protecție a copilului și altor categorii de persoane adulte aflate în dificultate, precum și a serviciilor acordate în comunitate, serviciilor acordate în sistem integrat și cantinele sociale",
+"short": "Ordin munca nr. 2143/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263082",
+"issuer": "munca",
+"joint": []
 },
 {
 "slug": "ordin-munca-2155-2022",
@@ -21589,6 +23924,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-35-2022",
+"path": "ordin/sanatate/2022/35",
+"kind": "ordin",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 35/2022 privind modificarea anexei nr. 3 la Ordinul ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 35/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-09",
+"latest": "2022-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250338",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-54-2022",
 "path": "ordin/sanatate/2022/54",
 "kind": "ordin",
@@ -21727,6 +24081,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-86-2022",
+"path": "ordin/sanatate/2022/86",
+"kind": "ordin",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 86/2022 pentru modificarea și completarea Ordinului ministrului sănătății nr. 434/2021 privind aprobarea Planului de măsuri pentru organizarea spitalelor și a unităților de dializă în contextul pandemiei de COVID-19 și a listei spitalelor și unităților de dializă care asigură asistența medicală pentru pacienți, cazuri confirmate și suspecte de COVID-19, conform clasificării spitalelor în 3 niveluri de competență, și pentru modificarea Ordinului ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 86/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-14",
+"latest": "2022-01-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/250509",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-101-2022",
 "path": "ordin/sanatate/2022/101",
 "kind": "ordin",
@@ -21799,6 +24172,44 @@
 "from": "2022-01-26",
 "latest": "2022-01-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251133",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-156-2022",
+"path": "ordin/sanatate/2022/156",
+"kind": "ordin",
+"year": "2022",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 156/2022 pentru modificarea anexei nr. 2 la Ordinul ministrului sănătății nr. 434/2021 privind aprobarea Planului de măsuri pentru organizarea spitalelor și a unităților de dializă în contextul pandemiei de COVID-19 și a listei spitalelor și unităților de dializă care asigură asistența medicală pentru pacienți, cazuri confirmate și suspecte de COVID-19, conform clasificării spitalelor în 3 niveluri de competență, precum și pentru modificarea Ordinului ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 156/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251150",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-187-2022",
+"path": "ordin/sanatate/2022/187",
+"kind": "ordin",
+"year": "2022",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 187/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 187/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251234",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21895,6 +24306,63 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-213-2022",
+"path": "ordin/sanatate/2022/213",
+"kind": "ordin",
+"year": "2022",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 213/2022 privind modificarea anexei nr. 3 la Ordinul ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 213/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-02",
+"latest": "2022-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251347",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-243-2022",
+"path": "ordin/sanatate/2022/243",
+"kind": "ordin",
+"year": "2022",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 243/2022 pentru modificarea alin. (1) al art. 1 din Ordinul ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+"short": "Ordin sanatate nr. 243/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251513",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-254-2022",
+"path": "ordin/sanatate/2022/254",
+"kind": "ordin",
+"year": "2022",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 254/2022 privind modificarea Ordinului ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 254/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-04",
+"latest": "2022-02-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251411",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-260-2022",
 "path": "ordin/sanatate/2022/260",
 "kind": "ordin",
@@ -21979,6 +24447,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-304-2022",
+"path": "ordin/sanatate/2022/304",
+"kind": "ordin",
+"year": "2022",
+"number": "304",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 304/2022 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 304/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-08",
+"latest": "2022-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251486",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-355-2022",
 "path": "ordin/sanatate/2022/355",
 "kind": "ordin",
@@ -22044,6 +24531,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-443-2022",
+"path": "ordin/sanatate/2022/443",
+"kind": "ordin",
+"year": "2022",
+"number": "443",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 443/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-01",
+"latest": "2022-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251961",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-476-2022",
 "path": "ordin/sanatate/2022/476",
 "kind": "ordin",
@@ -22059,6 +24565,25 @@
 "from": "2022-02-25",
 "latest": "2022-02-25",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251946",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-509-2022",
+"path": "ordin/sanatate/2022/509",
+"kind": "ordin",
+"year": "2022",
+"number": "509",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 509/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-01",
+"latest": "2022-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252282",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22174,6 +24699,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-741-2022",
+"path": "ordin/sanatate/2022/741",
+"kind": "ordin",
+"year": "2022",
+"number": "741",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 741/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 741/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-11",
+"latest": "2022-03-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252566",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-757-2022",
+"path": "ordin/sanatate/2022/757",
+"kind": "ordin",
+"year": "2022",
+"number": "757",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 757/2022 pentru modificarea anexei la Ordinul ministrului sănătății nr. 720/2014 privind înființarea Comitetului național de verificare a eliminării rujeolei și rubeolei",
+"short": "Ordin sanatate nr. 757/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-11",
+"latest": "2022-03-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252567",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-760-2022",
 "path": "ordin/sanatate/2022/760",
 "kind": "ordin",
@@ -22189,6 +24752,25 @@
 "from": "2022-03-17",
 "latest": "2022-03-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252677",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-777-2022",
+"path": "ordin/sanatate/2022/777",
+"kind": "ordin",
+"year": "2022",
+"number": "777",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 777/2022 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 777/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-15",
+"latest": "2022-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252634",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22548,6 +25130,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1003-2022",
+"path": "ordin/sanatate/2022/1003",
+"kind": "ordin",
+"year": "2022",
+"number": "1003",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.003/2022 privind modificarea și completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 1003/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-07",
+"latest": "2022-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253718",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1004-2022",
 "path": "ordin/sanatate/2022/1004",
 "kind": "ordin",
@@ -22751,6 +25352,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1209-2022",
+"path": "ordin/sanatate/2022/1209",
+"kind": "ordin",
+"year": "2022",
+"number": "1209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.209/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1209/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-01",
+"latest": "2022-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254438",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1213-2022",
 "path": "ordin/sanatate/2022/1213",
 "kind": "ordin",
@@ -22820,6 +25440,44 @@
 "from": "2022-04-29",
 "latest": "2022-04-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254528",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1237-2022",
+"path": "ordin/sanatate/2022/1237",
+"kind": "ordin",
+"year": "2022",
+"number": "1237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.237/2022 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1237/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-29",
+"latest": "2022-05-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254551",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1246-2022",
+"path": "ordin/sanatate/2022/1246",
+"kind": "ordin",
+"year": "2022",
+"number": "1246",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.246/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1246/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254498",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23025,6 +25683,25 @@
 "alias": "ordin-cnas-249-2022"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1322-2022",
+"path": "ordin/sanatate/2022/1322",
+"kind": "ordin",
+"year": "2022",
+"number": "1322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.322/2022 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1322/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-09",
+"latest": "2022-05-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254973",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1327-2022",
@@ -23459,6 +26136,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1555-2022",
+"path": "ordin/sanatate/2022/1555",
+"kind": "ordin",
+"year": "2022",
+"number": "1555",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.555/2022 pentru completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.078/2010 privind aprobarea regulamentului de organizare și funcționare și a structurii organizatorice ale direcțiilor de sănătate publică județene și a municipiului București",
+"short": "Ordin sanatate nr. 1555/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-09",
+"latest": "2022-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256073",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1584-2022",
+"path": "ordin/sanatate/2022/1584",
+"kind": "ordin",
+"year": "2022",
+"number": "1584",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.584/2022 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1584/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256413",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1593-2022",
 "path": "ordin/sanatate/2022/1593",
 "kind": "ordin",
@@ -23558,6 +26273,25 @@
 "from": "2022-06-23",
 "latest": "2022-06-23",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256695",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1698-2022",
+"path": "ordin/sanatate/2022/1698",
+"kind": "ordin",
+"year": "2022",
+"number": "1698",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.698/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1698/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-01",
+"latest": "2022-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256843",
 "issuer": "sanatate",
 "joint": []
 },
@@ -23792,6 +26526,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2207-2022",
+"path": "ordin/sanatate/2022/2207",
+"kind": "ordin",
+"year": "2022",
+"number": "2207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.207/2022 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2207/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-15",
+"latest": "2022-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257575",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2209-2022",
 "path": "ordin/sanatate/2022/2209",
 "kind": "ordin",
@@ -23920,6 +26673,25 @@
 "alias": "ordin-achizitii-1205-2022"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2248-2022",
+"path": "ordin/sanatate/2022/2248",
+"kind": "ordin",
+"year": "2022",
+"number": "2248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.248/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2248/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-01",
+"latest": "2022-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257824",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-2251-2022",
@@ -24144,6 +26916,44 @@
 ]
 },
 {
+"slug": "ordin-sanatate-2368-2022",
+"path": "ordin/sanatate/2022/2368",
+"kind": "ordin",
+"year": "2022",
+"number": "2368",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.368/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2368/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258334",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2394-2022",
+"path": "ordin/sanatate/2022/2394",
+"kind": "ordin",
+"year": "2022",
+"number": "2394",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.394/2022 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2394/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-18",
+"latest": "2022-08-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258505",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2408-2022",
 "path": "ordin/sanatate/2022/2408",
 "kind": "ordin",
@@ -24190,6 +27000,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-2438-2022",
+"path": "ordin/sanatate/2022/2438",
+"kind": "ordin",
+"year": "2022",
+"number": "2438",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.438/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2438/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258554",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2439-2022",
 "path": "ordin/sanatate/2022/2439",
 "kind": "ordin",
@@ -24232,6 +27061,25 @@
 "from": "2022-08-26",
 "latest": "2022-08-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258664",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2459-2022",
+"path": "ordin/sanatate/2022/2459",
+"kind": "ordin",
+"year": "2022",
+"number": "2459",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.459/2022 privind aprobarea Listei tarifelor pentru prestațiile în domeniul sănătății publice efectuate la nivelul direcțiilor de sănătate publică județene și a municipiului București și de către Institutul Național de Sănătate Publică",
+"short": "Ordin sanatate nr. 2459/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261134",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24301,6 +27149,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2644-2022",
+"path": "ordin/sanatate/2022/2644",
+"kind": "ordin",
+"year": "2022",
+"number": "2644",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.644/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2644/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-07",
+"latest": "2022-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259117",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2657-2022",
 "path": "ordin/sanatate/2022/2657",
 "kind": "ordin",
@@ -24364,6 +27231,25 @@
 "alias": "ordin-cnas-588-2022"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-2705-2022",
+"path": "ordin/sanatate/2022/2705",
+"kind": "ordin",
+"year": "2022",
+"number": "2705",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.705/2022 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2705/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-14",
+"latest": "2022-09-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259325",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-2706-2022",
@@ -24461,6 +27347,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2783-2022",
+"path": "ordin/sanatate/2022/2783",
+"kind": "ordin",
+"year": "2022",
+"number": "2783",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.783/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2783/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-21",
+"latest": "2022-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259523",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2812-2022",
 "path": "ordin/sanatate/2022/2812",
 "kind": "ordin",
@@ -24495,6 +27400,25 @@
 "from": "2022-10-04",
 "latest": "2022-10-04",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/259851",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2828-2022",
+"path": "ordin/sanatate/2022/2828",
+"kind": "ordin",
+"year": "2022",
+"number": "2828",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.828/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2828/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259815",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24686,6 +27610,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-2907-2022",
+"path": "ordin/sanatate/2022/2907",
+"kind": "ordin",
+"year": "2022",
+"number": "2907",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.907/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2907/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260239",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2908-2022",
 "path": "ordin/sanatate/2022/2908",
 "kind": "ordin",
@@ -24766,6 +27709,25 @@
 "from": "2022-10-21",
 "latest": "2022-10-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260679",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3162-2022",
+"path": "ordin/sanatate/2022/3162",
+"kind": "ordin",
+"year": "2022",
+"number": "3162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.162/2022 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 3162/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-21",
+"latest": "2022-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260680",
 "issuer": "sanatate",
 "joint": []
 },
@@ -24919,6 +27881,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3273-2022",
+"path": "ordin/sanatate/2022/3273",
+"kind": "ordin",
+"year": "2022",
+"number": "3273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.273/2022 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3273/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260733",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3295-2022",
 "path": "ordin/sanatate/2022/3295",
 "kind": "ordin",
@@ -24971,6 +27952,44 @@
 "alias": "ordin-cnas-909-2022"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-3323-2022",
+"path": "ordin/sanatate/2022/3323",
+"kind": "ordin",
+"year": "2022",
+"number": "3323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.323/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3323/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-02",
+"latest": "2022-11-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260944",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3324-2022",
+"path": "ordin/sanatate/2022/3324",
+"kind": "ordin",
+"year": "2022",
+"number": "3324",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.324/2022 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 509/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 3324/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261243",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-3332-2022",
@@ -25087,6 +28106,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3421-2022",
+"path": "ordin/sanatate/2022/3421",
+"kind": "ordin",
+"year": "2022",
+"number": "3421",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.421/2022 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 2.459/2022 privind aprobarea Listei tarifelor pentru prestațiile în domeniul sănătății publice efectuate la nivelul direcțiilor de sănătate publică județene și a municipiului București și de către Institutul Național de Sănătate Publică",
+"short": "Ordin sanatate nr. 3421/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-21",
+"latest": "2022-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261512",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-3422-2022",
+"path": "ordin/sanatate/2022/3422",
+"kind": "ordin",
+"year": "2022",
+"number": "3422",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.422/2022 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3422/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261349",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3423-2022",
 "path": "ordin/sanatate/2022/3423",
 "kind": "ordin",
@@ -25112,6 +28169,25 @@
 "alias": "ordin-munca-2128-2022"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-3431-2022",
+"path": "ordin/sanatate/2022/3431",
+"kind": "ordin",
+"year": "2022",
+"number": "3431",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.431/2022 privind aprobarea detalierii pe județe și pentru municipiul București a numărului total de paturi, pe anul 2022, din unitățile sanitare publice și private pentru care casele de asigurări de sănătate pot încheia contracte de furnizare de servicii medicale spitalicești",
+"short": "Ordin sanatate nr. 3431/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-21",
+"latest": "2022-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261518",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-3467-2022",
@@ -25285,6 +28361,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3686-2022",
+"path": "ordin/sanatate/2022/3686",
+"kind": "ordin",
+"year": "2022",
+"number": "3686",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.686/2022 privind completarea Ordinului ministrului sănătății nr. 1.513/2020 pentru aprobarea planurilor privind modalitatea de aplicare de către direcțiile de sănătate publică județene și a municipiului București, de către Institutul Național de Sănătate Publică, de către unitățile sanitare, precum și de către serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov și de medicii de familie a măsurilor în domeniul sănătății publice în situații de risc epidemiologic de infectare cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 3686/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/262273",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-3695-2022",
 "path": "ordin/sanatate/2022/3695",
 "kind": "ordin",
@@ -25394,6 +28489,25 @@
 "alias": "ordin-cnas-998-2022"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-3855-2022",
+"path": "ordin/sanatate/2022/3855",
+"kind": "ordin",
+"year": "2022",
+"number": "3855",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.855/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 3855/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263084",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-3926-2022",
@@ -25554,6 +28668,25 @@
 "alias": "ordin-cnas-1051-2022"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-4023-2022",
+"path": "ordin/sanatate/2022/4023",
+"kind": "ordin",
+"year": "2022",
+"number": "4023",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.023/2022 privind modificarea anexei nr. 2 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 4023/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-30",
+"latest": "2022-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263376",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sie-390-2022",
@@ -26179,6 +29312,40 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-198-2022",
+"path": "ordin/transporturi/2022/198",
+"kind": "ordin",
+"year": "2022",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 198/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+"short": "Ordin transporturi nr. 198/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-28",
+"latest": "2022-03-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253232",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "322",
+"date": "2022-03-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-322-2022"
+},
+{
+"issuer": "munca",
+"nr": "283",
+"date": "2022-03-04",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-283-2022"
+}
+]
+},
+{
 "slug": "ordin-transporturi-209-2022",
 "path": "ordin/transporturi/2022/209",
 "kind": "ordin",
@@ -26318,6 +29485,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252779",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-261-2022",
+"path": "ordin/transporturi/2022/261",
+"kind": "ordin",
+"year": "2022",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 261/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății \"Grup Exploatare și Întreținere Palat C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 261/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253205",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "316",
+"date": "2022-03-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-316-2022"
+},
+{
+"issuer": "munca",
+"nr": "302",
+"date": "2022-03-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-302-2022"
+}
+]
 },
 {
 "slug": "ordin-transporturi-271-2022",
@@ -26601,6 +29802,40 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-397-2022",
+"path": "ordin/transporturi/2022/397",
+"kind": "ordin",
+"year": "2022",
+"number": "397",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 397/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății Comerciale \"ROFERSPED\" - S.A.",
+"short": "Ordin transporturi nr. 397/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254640",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1060",
+"date": "2022-04-26",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1060-2022"
+},
+{
+"issuer": "munca",
+"nr": "684",
+"date": "2022-04-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-684-2022"
+}
+]
+},
+{
 "slug": "ordin-transporturi-421-2022",
 "path": "ordin/transporturi/2022/421",
 "kind": "ordin",
@@ -26628,6 +29863,40 @@
 ]
 },
 {
+"slug": "ordin-transporturi-434-2022",
+"path": "ordin/transporturi/2022/434",
+"kind": "ordin",
+"year": "2022",
+"number": "434",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 434/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății Tipografice \"Filaret\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 434/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255501",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1199",
+"date": "2022-05-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1199-2022"
+},
+{
+"issuer": "munca",
+"nr": "734",
+"date": "2022-05-02",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-734-2022"
+}
+]
+},
+{
 "slug": "ordin-transporturi-459-2022",
 "path": "ordin/transporturi/2022/459",
 "kind": "ordin",
@@ -26645,6 +29914,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254902",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-467-2022",
+"path": "ordin/transporturi/2022/467",
+"kind": "ordin",
+"year": "2022",
+"number": "467",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 467/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Societății Informatică Feroviară - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 467/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255706",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1248",
+"date": "2022-05-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1248-2022"
+},
+{
+"issuer": "munca",
+"nr": "776",
+"date": "2022-05-10",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-776-2022"
+}
+]
 },
 {
 "slug": "ordin-transporturi-510-2022",
@@ -26759,6 +30062,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255989",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-998-2022",
+"path": "ordin/transporturi/2022/998",
+"kind": "ordin",
+"year": "2022",
+"number": "998",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 998/2022 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2022 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2022 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+"short": "Ordin transporturi nr. 998/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-28",
+"latest": "2022-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256805",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1491",
+"date": "2022-06-23",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1491-2022"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1000-2022",
@@ -27263,6 +30593,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260399",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-2159-2022",
+"path": "ordin/transporturi/2022/2159",
+"kind": "ordin",
+"year": "2022",
+"number": "2159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.159/2022 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 al Societății \"Întreținere și Reparații Locomotive și Utilaje\" - C.F.R. IRLU - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A.",
+"short": "Ordin transporturi nr. 2159/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260741",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3918",
+"date": "2022-10-21",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3918-2022"
+},
+{
+"issuer": "munca",
+"nr": "2021",
+"date": "2022-10-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2021-2022"
+}
+]
+},
+{
+"slug": "ordin-transporturi-2160-2022",
+"path": "ordin/transporturi/2022/2160",
+"kind": "ordin",
+"year": "2022",
+"number": "2160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.160/2022 pentru aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 al Societății \"Grup Exploatare și Întreținere Palat C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 2160/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-28",
+"latest": "2022-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260817",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3937",
+"date": "2022-10-25",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3937-2022"
+},
+{
+"issuer": "munca",
+"nr": "2020",
+"date": "2022-10-19",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-2020-2022"
+}
+]
 },
 {
 "slug": "ordin-transporturi-2212-2022",
@@ -27870,6 +31268,40 @@
 ]
 },
 {
+"slug": "ordin-turism-1239-2022",
+"path": "ordin/turism/2022/1239",
+"kind": "ordin",
+"year": "2022",
+"number": "1239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.239/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru Societatea MAMAIA - S.A., aflată sub autoritatea Ministerului Antreprenoriatului și Turismului",
+"short": "Ordin turism nr. 1239/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-25",
+"latest": "2022-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258647",
+"issuer": "turism",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1857",
+"date": "2022-08-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1857-2022"
+},
+{
+"issuer": "munca",
+"nr": "1181",
+"date": "2022-07-27",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1181-2022"
+}
+]
+},
+{
 "slug": "ordin-turism-1293-2022",
 "path": "ordin/turism/2022/1293",
 "kind": "ordin",
@@ -27944,6 +31376,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260221",
 "issuer": "turism",
 "joint": []
+},
+{
+"slug": "ordin-turism-1597-2022",
+"path": "ordin/turism/2022/1597",
+"kind": "ordin",
+"year": "2022",
+"number": "1597",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.597/2022 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2022 pentru Societatea CENTRUL NAȚIONAL DE ÎNVĂȚĂMÂNT TURISTIC - S.A., aflată sub autoritatea Ministerului Antreprenoriatului și Turismului",
+"short": "Ordin turism nr. 1597/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260573",
+"issuer": "turism",
+"joint": [
+{
+"issuer": "finante",
+"nr": "3881",
+"date": "2022-10-14",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-3881-2022"
+},
+{
+"issuer": "munca",
+"nr": "1937",
+"date": "2022-10-03",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1937-2022"
+}
+]
 },
 {
 "slug": "ordin-turism-1759-2022",

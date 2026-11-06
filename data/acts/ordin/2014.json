@@ -2864,6 +2864,101 @@
 "joint": []
 },
 {
+"slug": "ordin-ancpi-716-2014",
+"path": "ordin/ancpi/2014/716",
+"kind": "ordin",
+"year": "2014",
+"number": "716",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 716/2014 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate pe teritoriul unității administrativ-teritoriale Iancu Jianu, județul Olt",
+"short": "Ordin ancpi nr. 716/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-24",
+"latest": "2014-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160142",
+"issuer": "ancpi",
+"joint": []
+},
+{
+"slug": "ordin-ancpi-717-2014",
+"path": "ordin/ancpi/2014/717",
+"kind": "ordin",
+"year": "2014",
+"number": "717",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 717/2014 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate pe teritoriul unității administrativ-teritoriale Mârzănești, județul Teleorman",
+"short": "Ordin ancpi nr. 717/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-24",
+"latest": "2014-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160143",
+"issuer": "ancpi",
+"joint": []
+},
+{
+"slug": "ordin-ancpi-718-2014",
+"path": "ordin/ancpi/2014/718",
+"kind": "ordin",
+"year": "2014",
+"number": "718",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 718/2014 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate pe teritoriul unității administrativ-teritoriale Valea Mărului, județul Galați",
+"short": "Ordin ancpi nr. 718/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-24",
+"latest": "2014-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160149",
+"issuer": "ancpi",
+"joint": []
+},
+{
+"slug": "ordin-ancpi-719-2014",
+"path": "ordin/ancpi/2014/719",
+"kind": "ordin",
+"year": "2014",
+"number": "719",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 719/2014 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor din unitatea administrativ-teritorială Poiana Vadului, județul Alba",
+"short": "Ordin ancpi nr. 719/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-25",
+"latest": "2014-07-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160166",
+"issuer": "ancpi",
+"joint": []
+},
+{
+"slug": "ordin-ancpi-756-2014",
+"path": "ordin/ancpi/2014/756",
+"kind": "ordin",
+"year": "2014",
+"number": "756",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 756/2014 pentru închiderea vechilor evidențe de cadastru și publicitate imobiliară cu privire la imobilele situate pe teritoriul unității administrativ-teritoriale Nana, județul Călărași",
+"short": "Ordin ancpi nr. 756/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-05",
+"latest": "2014-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160436",
+"issuer": "ancpi",
+"joint": []
+},
+{
 "slug": "ordin-ancpi-890-2014",
 "path": "ordin/ancpi/2014/890",
 "kind": "ordin",
@@ -9140,6 +9235,40 @@
 "joint": []
 },
 {
+"slug": "ordin-comunicatii-181-2014",
+"path": "ordin/comunicatii/2014/181",
+"kind": "ordin",
+"year": "2014",
+"number": "181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 181/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății Comerciale \"Romfilatelia\" - S.A., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+"short": "Ordin comunicatii nr. 181/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-17",
+"latest": "2014-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159069",
+"issuer": "comunicatii",
+"joint": [
+{
+"issuer": "munca",
+"nr": "515",
+"date": "2014-04-02",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-515-2014"
+},
+{
+"issuer": "finante",
+"nr": "781",
+"date": "2014-06-06",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-781-2014"
+}
+]
+},
+{
 "slug": "ordin-conas-50-2014",
 "path": "ordin/conas/2014/50",
 "kind": "ordin",
@@ -9608,6 +9737,33 @@
 "date": "2014-02-10",
 "name": "Ministerul Finanțelor Publice",
 "alias": "ordin-finante-206-2014"
+}
+]
+},
+{
+"slug": "ordin-dezvoltare-64-2014",
+"path": "ordin/dezvoltare/2014/64",
+"kind": "ordin",
+"year": "2014",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 64/2014 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2014, pe județe și municipiul București",
+"short": "Ordin dezvoltare nr. 64/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-21",
+"latest": "2014-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154662",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "39",
+"date": "2014-01-14",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-39-2014"
 }
 ]
 },
@@ -10210,6 +10366,33 @@
 "joint": []
 },
 {
+"slug": "ordin-dezvoltare-1560-2014",
+"path": "ordin/dezvoltare/2014/1560",
+"kind": "ordin",
+"year": "2014",
+"number": "1560",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.560/2014 privind modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului delegat pentru buget nr. 64/39/2014 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2014, pe județe și municipiul București",
+"short": "Ordin dezvoltare nr. 1560/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-03",
+"latest": "2014-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161017",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1051",
+"date": "2014-08-13",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1051-2014"
+}
+]
+},
+{
 "slug": "ordin-dezvoltare-1654-2014",
 "path": "ordin/dezvoltare/2014/1654",
 "kind": "ordin",
@@ -10240,6 +10423,33 @@
 "date": "2014-10-03",
 "name": "Ministerul Finanțelor Publice",
 "alias": "ordin-finante-1356-2014"
+}
+]
+},
+{
+"slug": "ordin-dezvoltare-1656-2014",
+"path": "ordin/dezvoltare/2014/1656",
+"kind": "ordin",
+"year": "2014",
+"number": "1656",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.656/2014 pentru modificarea art. 1 din Ordinul viceprim-ministrului, ministrul administrației și internelor, și al ministrului finanțelor publice nr. 7/433/2009 privind constituirea Comitetului pentru finanțe publice locale",
+"short": "Ordin dezvoltare nr. 1656/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-13",
+"latest": "2014-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162102",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1202",
+"date": "2014-09-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1202-2014"
 }
 ]
 },
@@ -10280,6 +10490,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/162344",
 "issuer": "dezvoltare",
 "joint": []
+},
+{
+"slug": "ordin-dezvoltare-1920-2014",
+"path": "ordin/dezvoltare/2014/1920",
+"kind": "ordin",
+"year": "2014",
+"number": "1920",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.920/2014 privind modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului delegat pentru buget nr. 64/39/2014 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2014, pe județe și municipiul București",
+"short": "Ordin dezvoltare nr. 1920/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-17",
+"latest": "2014-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162243",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1408",
+"date": "2014-10-16",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1408-2014"
+}
+]
 },
 {
 "slug": "ordin-dezvoltare-2194-2014",
@@ -10339,6 +10576,87 @@
 "joint": []
 },
 {
+"slug": "ordin-dezvoltare-2376-2014",
+"path": "ordin/dezvoltare/2014/2376",
+"kind": "ordin",
+"year": "2014",
+"number": "2376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.376/2014 privind modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului delegat pentru buget nr. 64/39/2014 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2014, pe județe și municipiul București",
+"short": "Ordin dezvoltare nr. 2376/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-03",
+"latest": "2014-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163480",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1622",
+"date": "2014-11-27",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1622-2014"
+}
+]
+},
+{
+"slug": "ordin-dezvoltare-2425-2014",
+"path": "ordin/dezvoltare/2014/2425",
+"kind": "ordin",
+"year": "2014",
+"number": "2425",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.425/2014 privind modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului delegat pentru buget nr. 64/39/2014 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2014, pe județe și municipiul București",
+"short": "Ordin dezvoltare nr. 2425/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-08",
+"latest": "2014-12-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163650",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1656",
+"date": "2014-12-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1656-2014"
+}
+]
+},
+{
+"slug": "ordin-dezvoltare-2539-2014",
+"path": "ordin/dezvoltare/2014/2539",
+"kind": "ordin",
+"year": "2014",
+"number": "2539",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.539/2014 privind modificarea anexei la Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, al viceprim-ministrului, ministrul finanțelor publice, și al ministrului delegat pentru buget nr. 64/39/2014 privind aprobarea nivelului maxim al cheltuielilor de personal aferent bugetului general centralizat al unităților administrativ-teritoriale, pentru anul 2014, pe județe și municipiul București",
+"short": "Ordin dezvoltare nr. 2539/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-19",
+"latest": "2014-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/164045",
+"issuer": "dezvoltare",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1775",
+"date": "2014-12-18",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1775-2014"
+}
+]
+},
+{
 "slug": "ordin-dezvoltare-2581-2014",
 "path": "ordin/dezvoltare/2014/2581",
 "kind": "ordin",
@@ -10377,6 +10695,142 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-242-2014",
+"path": "ordin/economie/2014/242",
+"kind": "ordin",
+"year": "2014",
+"number": "242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 242/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"Unitatea de Execuție Foraje Motru\" - S.A.",
+"short": "Ordin economie nr. 242/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-06",
+"latest": "2014-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157937",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "602",
+"date": "2014-04-22",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-602-2014"
+},
+{
+"issuer": "munca",
+"nr": "465",
+"date": "2014-03-26",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-465-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-243-2014",
+"path": "ordin/economie/2014/243",
+"kind": "ordin",
+"year": "2014",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 243/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială MINPREST SERV - S.A. Rovinari",
+"short": "Ordin economie nr. 243/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-23",
+"latest": "2014-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/158473",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "702",
+"date": "2014-05-20",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-702-2014"
+},
+{
+"issuer": "munca",
+"nr": "464",
+"date": "2014-03-26",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-464-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-244-2014",
+"path": "ordin/economie/2014/244",
+"kind": "ordin",
+"year": "2014",
+"number": "244",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 244/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"Medserv Min\" - S.A.",
+"short": "Ordin economie nr. 244/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-22",
+"latest": "2014-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/158432",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "654",
+"date": "2014-05-07",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-654-2014"
+},
+{
+"issuer": "munca",
+"nr": "462",
+"date": "2014-03-26",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-462-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-245-2014",
+"path": "ordin/economie/2014/245",
+"kind": "ordin",
+"year": "2014",
+"number": "245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 245/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea \"Hidro Tarnița\" - S.A.",
+"short": "Ordin economie nr. 245/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-06",
+"latest": "2014-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157939",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "596",
+"date": "2014-04-22",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-596-2014"
+},
+{
+"issuer": "munca",
+"nr": "463",
+"date": "2014-03-26",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-463-2014"
+}
+]
+},
+{
 "slug": "ordin-economie-265-2014",
 "path": "ordin/economie/2014/265",
 "kind": "ordin",
@@ -10413,6 +10867,210 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158807",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-401-2014",
+"path": "ordin/economie/2014/401",
+"kind": "ordin",
+"year": "2014",
+"number": "401",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 401/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice Electrica Distribuție Transilvania Nord\" - S.A.",
+"short": "Ordin economie nr. 401/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-07",
+"latest": "2014-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159663",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "841",
+"date": "2014-06-25",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-841-2014"
+},
+{
+"issuer": "munca",
+"nr": "792",
+"date": "2014-05-22",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-792-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-402-2014",
+"path": "ordin/economie/2014/402",
+"kind": "ordin",
+"year": "2014",
+"number": "402",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 402/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"FISE Electrica Serv\" - S.A.",
+"short": "Ordin economie nr. 402/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-17",
+"latest": "2014-07-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159952",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "913",
+"date": "2014-07-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-913-2014"
+},
+{
+"issuer": "munca",
+"nr": "794",
+"date": "2014-05-22",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-794-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-403-2014",
+"path": "ordin/economie/2014/403",
+"kind": "ordin",
+"year": "2014",
+"number": "403",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 403/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială ELECTRICA FURNIZARE - S.A.",
+"short": "Ordin economie nr. 403/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-07",
+"latest": "2014-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159665",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "840",
+"date": "2014-06-25",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-840-2014"
+},
+{
+"issuer": "munca",
+"nr": "795",
+"date": "2014-05-22",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-795-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-404-2014",
+"path": "ordin/economie/2014/404",
+"kind": "ordin",
+"year": "2014",
+"number": "404",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 404/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice Electrica Distribuție Transilvania Sud\" - S.A.",
+"short": "Ordin economie nr. 404/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-28",
+"latest": "2014-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159381",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "814",
+"date": "2014-06-17",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-814-2014"
+},
+{
+"issuer": "munca",
+"nr": "793",
+"date": "2014-05-22",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-793-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-411-2014",
+"path": "ordin/economie/2014/411",
+"kind": "ordin",
+"year": "2014",
+"number": "411",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 411/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"Filiala de Distribuție a Energiei Electrice Electrica Distribuție Muntenia Nord\" - S.A.",
+"short": "Ordin economie nr. 411/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-17",
+"latest": "2014-07-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159955",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "916",
+"date": "2014-07-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-916-2014"
+},
+{
+"issuer": "munca",
+"nr": "1082",
+"date": "2014-05-29",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1082-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-441-2014",
+"path": "ordin/economie/2014/441",
+"kind": "ordin",
+"year": "2014",
+"number": "441",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 441/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"Servicii Energetice Muntenia\" - S.A.",
+"short": "Ordin economie nr. 441/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-18",
+"latest": "2014-07-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159957",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "914",
+"date": "2014-07-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-914-2014"
+},
+{
+"issuer": "munca",
+"nr": "1200",
+"date": "2014-06-17",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1200-2014"
+}
+]
 },
 {
 "slug": "ordin-economie-447-2014",
@@ -10489,6 +11147,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157996",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-590-2014",
+"path": "ordin/economie/2014/590",
+"kind": "ordin",
+"year": "2014",
+"number": "590",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 590/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială \"Hidroelectrica Serv\" - S.A.",
+"short": "Ordin economie nr. 590/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-06",
+"latest": "2014-11-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162808",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1465",
+"date": "2014-10-28",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1465-2014"
+},
+{
+"issuer": "munca",
+"nr": "1567",
+"date": "2014-07-28",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1567-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-595-2014",
+"path": "ordin/economie/2014/595",
+"kind": "ordin",
+"year": "2014",
+"number": "595",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 595/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială ENERGONUCLEAR - S.A.",
+"short": "Ordin economie nr. 595/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-07",
+"latest": "2014-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161938",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1294",
+"date": "2014-09-24",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1294-2014"
+},
+{
+"issuer": "munca",
+"nr": "1566",
+"date": "2014-07-28",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1566-2014"
+}
+]
 },
 {
 "slug": "ordin-economie-685-2014",
@@ -10594,6 +11320,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1143-2014",
+"path": "ordin/economie/2014/1143",
+"kind": "ordin",
+"year": "2014",
+"number": "1143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.143/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea \"Electrocentrale Titan\" - S.A., aflată sub autoritatea Ministerului Energiei, Întreprinderilor Mici și Mijlocii și Mediului de Afaceri",
+"short": "Ordin economie nr. 1143/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-01-06",
+"latest": "2015-01-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/164367",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1810",
+"date": "2014-12-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1810-2014"
+},
+{
+"issuer": "munca",
+"nr": "2272",
+"date": "2014-12-29",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-2272-2014"
+}
+]
+},
+{
 "slug": "ordin-economie-1169-2014",
 "path": "ordin/economie/2014/1169",
 "kind": "ordin",
@@ -10676,6 +11436,550 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163812",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-2534-2014",
+"path": "ordin/economie/2014/2534",
+"kind": "ordin",
+"year": "2014",
+"number": "2534",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.534/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea FA Cugir - S.A. - filiala Companiei Naționale \"Romarm\" - S.A.",
+"short": "Ordin economie nr. 2534/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-27",
+"latest": "2014-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162460",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1424",
+"date": "2014-10-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1424-2014"
+},
+{
+"issuer": "munca",
+"nr": "1513",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1513-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2535-2014",
+"path": "ordin/economie/2014/2535",
+"kind": "ordin",
+"year": "2014",
+"number": "2535",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.535/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială UZINA MECANICĂ SADU - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2535/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160861",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1059",
+"date": "2014-08-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1059-2014"
+},
+{
+"issuer": "munca",
+"nr": "1514",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1514-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2536-2014",
+"path": "ordin/economie/2014/2536",
+"kind": "ordin",
+"year": "2014",
+"number": "2536",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.536/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială U.P.S. DRAGOMIREȘTI - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2536/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-30",
+"latest": "2014-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160965",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1078",
+"date": "2014-08-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1078-2014"
+},
+{
+"issuer": "munca",
+"nr": "1504",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1504-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2537-2014",
+"path": "ordin/economie/2014/2537",
+"kind": "ordin",
+"year": "2014",
+"number": "2537",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.537/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială METROM - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2537/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160863",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1063",
+"date": "2014-08-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1063-2014"
+},
+{
+"issuer": "munca",
+"nr": "1515",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1515-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2538-2014",
+"path": "ordin/economie/2014/2538",
+"kind": "ordin",
+"year": "2014",
+"number": "2538",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.538/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială UZINA MECANICĂ PLOPENI - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2538/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160865",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1039",
+"date": "2014-08-11",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1039-2014"
+},
+{
+"issuer": "munca",
+"nr": "1503",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1503-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2539-2014",
+"path": "ordin/economie/2014/2539",
+"kind": "ordin",
+"year": "2014",
+"number": "2539",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.539/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială PIROCHIM VICTORIA - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2539/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160867",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1067",
+"date": "2014-08-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1067-2014"
+},
+{
+"issuer": "munca",
+"nr": "1508",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1508-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2540-2014",
+"path": "ordin/economie/2014/2540",
+"kind": "ordin",
+"year": "2014",
+"number": "2540",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.540/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială FABRICA DE PULBERI FĂGĂRAȘ - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2540/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160869",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1054",
+"date": "2014-08-18",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1054-2014"
+},
+{
+"issuer": "munca",
+"nr": "1509",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1509-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2541-2014",
+"path": "ordin/economie/2014/2541",
+"kind": "ordin",
+"year": "2014",
+"number": "2541",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.541/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială ARSENAL - REȘIȚA - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2541/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160871",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1065",
+"date": "2014-08-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1065-2014"
+},
+{
+"issuer": "munca",
+"nr": "1507",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1507-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2542-2014",
+"path": "ordin/economie/2014/2542",
+"kind": "ordin",
+"year": "2014",
+"number": "2542",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.542/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială UZINA AUTOMECANICĂ MORENI - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2542/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-27",
+"latest": "2014-08-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160873",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1040",
+"date": "2014-08-11",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1040-2014"
+},
+{
+"issuer": "munca",
+"nr": "1506",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1506-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2543-2014",
+"path": "ordin/economie/2014/2543",
+"kind": "ordin",
+"year": "2014",
+"number": "2543",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.543/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială ELECTROMECANICA PLOIEȘTI - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2543/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-29",
+"latest": "2014-08-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160967",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1066",
+"date": "2014-08-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1066-2014"
+},
+{
+"issuer": "munca",
+"nr": "1517",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1517-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2544-2014",
+"path": "ordin/economie/2014/2544",
+"kind": "ordin",
+"year": "2014",
+"number": "2544",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.544/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială CARFIL - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2544/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-01",
+"latest": "2014-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160991",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1077",
+"date": "2014-08-21",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1077-2014"
+},
+{
+"issuer": "munca",
+"nr": "1511",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1511-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2545-2014",
+"path": "ordin/economie/2014/2545",
+"kind": "ordin",
+"year": "2014",
+"number": "2545",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.545/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială UZINA MECANICĂ BUCUREȘTI - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2545/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-19",
+"latest": "2014-09-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161465",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1088",
+"date": "2014-08-26",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1088-2014"
+},
+{
+"issuer": "munca",
+"nr": "1512",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1512-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2546-2014",
+"path": "ordin/economie/2014/2546",
+"kind": "ordin",
+"year": "2014",
+"number": "2546",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.546/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea TOHAN - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2546/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-23",
+"latest": "2014-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161494",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1214",
+"date": "2014-09-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1214-2014"
+},
+{
+"issuer": "munca",
+"nr": "1516",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1516-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2547-2014",
+"path": "ordin/economie/2014/2547",
+"kind": "ordin",
+"year": "2014",
+"number": "2547",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.547/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială U.M. MIJA - S.A. - filială a Companiei Naționale ROMARM - S.A.",
+"short": "Ordin economie nr. 2547/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-29",
+"latest": "2014-08-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160969",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1060",
+"date": "2014-08-19",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1060-2014"
+},
+{
+"issuer": "munca",
+"nr": "1505",
+"date": "2014-07-21",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1505-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2855-2014",
+"path": "ordin/economie/2014/2855",
+"kind": "ordin",
+"year": "2014",
+"number": "2855",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.855/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială de Închidere a Obiectivelor Miniere ECONORD - S.A. - filială a Companiei Naționale a Metalelor Prețioase și Neferoase REMIN - S.A.",
+"short": "Ordin economie nr. 2855/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-23",
+"latest": "2014-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161518",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1240",
+"date": "2014-09-12",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1240-2014"
+},
+{
+"issuer": "munca",
+"nr": "1650",
+"date": "2014-08-12",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1650-2014"
+}
+]
+},
+{
+"slug": "ordin-economie-2856-2014",
+"path": "ordin/economie/2014/2856",
+"kind": "ordin",
+"year": "2014",
+"number": "2856",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.856/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială PRELMEC - S.A. - filială a Societății Comerciale UM ORĂȘTIE - S.A.",
+"short": "Ordin economie nr. 2856/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-23",
+"latest": "2014-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161537",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1217",
+"date": "2014-09-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1217-2014"
+},
+{
+"issuer": "munca",
+"nr": "1613",
+"date": "2014-08-04",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1613-2014"
+}
+]
 },
 {
 "slug": "ordin-educatie-146-2014",
@@ -12643,6 +13947,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-8-2014",
+"path": "ordin/finante/2014/8",
+"kind": "ordin",
+"year": "2014",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8/2014 pentru aprobarea Convenției privind implementarea Programului de garantare a creditelor pentru întreprinderi mici și mijlocii dintre Ministerul Finanțelor Publice și Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A. - IFN, prevăzută la art. 8 alin. (1) din Ordonanța de urgență a Guvernului nr. 92/2013 privind Programul de garantare a creditelor pentru întreprinderi mici și mijlocii, și a Convenției de colaborare prevăzute la art. 1 alin. (5) din Normele metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 92/2013 privind Programul de garantare a creditelor pentru întreprinderi mici și mijlocii, aprobate prin Hotărârea Guvernului nr. 936/2013",
+"short": "Ordin finante nr. 8/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-14",
+"latest": "2014-01-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154502",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-9-2014",
 "path": "ordin/finante/2014/9",
 "kind": "ordin",
@@ -12677,6 +14000,25 @@
 "from": "2014-01-14",
 "latest": "2014-01-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154480",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-16-2014",
+"path": "ordin/finante/2014/16",
+"kind": "ordin",
+"year": "2014",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 16/2014 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 16/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-16",
+"latest": "2014-01-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154566",
 "issuer": "finante",
 "joint": []
 },
@@ -12776,6 +14118,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-119-2014",
+"path": "ordin/finante/2014/119",
+"kind": "ordin",
+"year": "2014",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 119/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2014",
+"short": "Ordin finante nr. 119/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-31",
+"latest": "2014-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155124",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-120-2014",
+"path": "ordin/finante/2014/120",
+"kind": "ordin",
+"year": "2014",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 120/2014 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna februarie 2014",
+"short": "Ordin finante nr. 120/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-31",
+"latest": "2014-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155100",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-132-2014",
+"path": "ordin/finante/2014/132",
+"kind": "ordin",
+"year": "2014",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 132/2014 pentru modificarea art. 1 din anexa nr. 1 la Ordinul ministrului delegat pentru buget nr. 119/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2014",
+"short": "Ordin finante nr. 132/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-03",
+"latest": "2014-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155160",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-136-2014",
 "path": "ordin/finante/2014/136",
 "kind": "ordin",
@@ -12848,6 +14247,44 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-201-2014",
+"path": "ordin/finante/2014/201",
+"kind": "ordin",
+"year": "2014",
+"number": "201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 201/2014 pentru modificarea și completarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 201/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-18",
+"latest": "2014-02-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155569",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-228-2014",
+"path": "ordin/finante/2014/228",
+"kind": "ordin",
+"year": "2014",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 228/2014 pentru stabilirea componenței Comisiei de avizare a distribuitorilor și a aparatelor de marcat electronice fiscale",
+"short": "Ordin finante nr. 228/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-18",
+"latest": "2014-02-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155561",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-247-2014",
 "path": "ordin/finante/2014/247",
 "kind": "ordin",
@@ -12905,6 +14342,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-316-2014",
+"path": "ordin/finante/2014/316",
+"kind": "ordin",
+"year": "2014",
+"number": "316",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 316/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2014",
+"short": "Ordin finante nr. 316/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-28",
+"latest": "2014-02-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155909",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-319-2014",
 "path": "ordin/finante/2014/319",
 "kind": "ordin",
@@ -12958,6 +14414,25 @@
 "from": "2014-04-07",
 "latest": "2014-04-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157168",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-494-2014",
+"path": "ordin/finante/2014/494",
+"kind": "ordin",
+"year": "2014",
+"number": "494",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 494/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2014",
+"short": "Ordin finante nr. 494/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-01",
+"latest": "2014-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156963",
 "issuer": "finante",
 "joint": []
 },
@@ -13055,6 +14530,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/157436",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-598-2014",
+"path": "ordin/finante/2014/598",
+"kind": "ordin",
+"year": "2014",
+"number": "598",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 598/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății Comerciale \"Poșta Română Broker de Asigurare\" - S.R.L., filială a Companiei Naționale \"Poșta Română\" - S.A.",
+"short": "Ordin finante nr. 598/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-07",
+"latest": "2014-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157954",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "comunicatii",
+"nr": "190",
+"date": "2014-03-31",
+"name": "Ministerul pentru Societatea Informațională",
+"alias": "ordin-comunicatii-190-2014"
+},
+{
+"issuer": "munca",
+"nr": "528",
+"date": "2014-04-04",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-528-2014"
+}
+]
 },
 {
 "slug": "ordin-finante-656-2014",
@@ -13209,6 +14718,52 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-745-2014",
+"path": "ordin/finante/2014/745",
+"kind": "ordin",
+"year": "2014",
+"number": "745",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 745/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2014",
+"short": "Ordin finante nr. 745/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-30",
+"latest": "2014-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/158667",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-782-2014",
+"path": "ordin/finante/2014/782",
+"kind": "ordin",
+"year": "2014",
+"number": "782",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 782/2014 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2014 al Societății Comerciale RO-ARMYCATERING - S.A., filială a Companiei Naționale \"Romtehnica\" - S.A.",
+"short": "Ordin finante nr. 782/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-20",
+"latest": "2014-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159184",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "533",
+"date": "2014-04-07",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-533-2014"
+}
+]
+},
+{
 "slug": "ordin-finante-791-2014",
 "path": "ordin/finante/2014/791",
 "kind": "ordin",
@@ -13285,6 +14840,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-855-2014",
+"path": "ordin/finante/2014/855",
+"kind": "ordin",
+"year": "2014",
+"number": "855",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 855/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2014",
+"short": "Ordin finante nr. 855/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-02",
+"latest": "2014-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159515",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-872-2014",
 "path": "ordin/finante/2014/872",
 "kind": "ordin",
@@ -13312,6 +14886,25 @@
 ]
 },
 {
+"slug": "ordin-finante-880-2014",
+"path": "ordin/finante/2014/880",
+"kind": "ordin",
+"year": "2014",
+"number": "880",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 880/2014 pentru modificarea Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 880/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-07",
+"latest": "2014-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159644",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-917-2014",
 "path": "ordin/finante/2014/917",
 "kind": "ordin",
@@ -13331,6 +14924,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-918-2014",
+"path": "ordin/finante/2014/918",
+"kind": "ordin",
+"year": "2014",
+"number": "918",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 918/2014 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2014 al Societății Comerciale RO-ARMYSECURITY - S.A., filială a Companiei Naționale \"Romtehnica\"- S.A.",
+"short": "Ordin finante nr. 918/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-16",
+"latest": "2014-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159916",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1262",
+"date": "2014-06-26",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1262-2014"
+}
+]
+},
+{
 "slug": "ordin-finante-936-2014",
 "path": "ordin/finante/2014/936",
 "kind": "ordin",
@@ -13346,6 +14966,25 @@
 "from": "2014-07-21",
 "latest": "2014-07-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160043",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-979-2014",
+"path": "ordin/finante/2014/979",
+"kind": "ordin",
+"year": "2014",
+"number": "979",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 979/2014 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro lansate în luna august 2014",
+"short": "Ordin finante nr. 979/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-30",
+"latest": "2014-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160281",
 "issuer": "finante",
 "joint": []
 },
@@ -13369,6 +15008,60 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-983-2014",
+"path": "ordin/finante/2014/983",
+"kind": "ordin",
+"year": "2014",
+"number": "983",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 983/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Fondul Local de Garantare Focșani - S.A., filială a Fondului Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii S.A. - IFN, aflat sub autoritatea Ministerului Finanțelor Publice",
+"short": "Ordin finante nr. 983/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-18",
+"latest": "2014-08-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160721",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1612",
+"date": "2014-08-04",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1612-2014"
+}
+]
+},
+{
+"slug": "ordin-finante-984-2014",
+"path": "ordin/finante/2014/984",
+"kind": "ordin",
+"year": "2014",
+"number": "984",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 984/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Fondul Local de Garantare Sfântu Gheorghe - S.A., filială a Fondului Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii S.A. - IFN, aflat sub autoritatea Ministerului Finanțelor Publice",
+"short": "Ordin finante nr. 984/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-18",
+"latest": "2014-08-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160722",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1611",
+"date": "2014-08-04",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1611-2014"
+}
+]
+},
+{
 "slug": "ordin-finante-988-2014",
 "path": "ordin/finante/2014/988",
 "kind": "ordin",
@@ -13384,6 +15077,25 @@
 "from": "2014-08-06",
 "latest": "2014-08-06",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160479",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-997-2014",
+"path": "ordin/finante/2014/997",
+"kind": "ordin",
+"year": "2014",
+"number": "997",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 997/2014 privind prospectele de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 997/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-04",
+"latest": "2014-08-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160428",
 "issuer": "finante",
 "joint": []
 },
@@ -13422,6 +15134,25 @@
 "from": "2014-08-13",
 "latest": "2014-08-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160631",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1036-2014",
+"path": "ordin/finante/2014/1036",
+"kind": "ordin",
+"year": "2014",
+"number": "1036",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.036/2014 pentru modificarea Ordinului ministrului delegat pentru buget nr. 978/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2014",
+"short": "Ordin finante nr. 1036/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-08",
+"latest": "2014-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160546",
 "issuer": "finante",
 "joint": []
 },
@@ -13483,6 +15214,97 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1087-2014",
+"path": "ordin/finante/2014/1087",
+"kind": "ordin",
+"year": "2014",
+"number": "1087",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.087/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială pentru Servicii de Mentenanță a Rețelei Electrice de Transport SMART - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+"short": "Ordin finante nr. 1087/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-02",
+"latest": "2014-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161013",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "guvern",
+"nr": "454",
+"date": "2014-08-01",
+"name": "Secretariatul General al Guvernului",
+"alias": "ordin-guvern-454-2014"
+},
+{
+"issuer": "munca",
+"nr": "1649",
+"date": "2014-08-12",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1649-2014"
+}
+]
+},
+{
+"slug": "ordin-finante-1090-2014",
+"path": "ordin/finante/2014/1090",
+"kind": "ordin",
+"year": "2014",
+"number": "1090",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.090/2014 privind împuternicirea persoanelor din cadrul aparatului de inspecție economico-financiară de a constata contravențiile și a aplica sancțiunile prevăzute de Legea responsabilității fiscal-bugetare nr. 69/2010",
+"short": "Ordin finante nr. 1090/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-08",
+"latest": "2014-09-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161119",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1091-2014",
+"path": "ordin/finante/2014/1091",
+"kind": "ordin",
+"year": "2014",
+"number": "1091",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.091/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2014",
+"short": "Ordin finante nr. 1091/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-01",
+"latest": "2014-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160978",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1135-2014",
+"path": "ordin/finante/2014/1135",
+"kind": "ordin",
+"year": "2014",
+"number": "1135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.135/2014 pentru modificarea Ordinului ministrului delegat pentru buget nr. 997/2014 privind prospectele de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1135/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-01",
+"latest": "2014-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160987",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1154-2014",
 "path": "ordin/finante/2014/1154",
 "kind": "ordin",
@@ -13536,6 +15358,25 @@
 "from": "2014-10-01",
 "latest": "2014-10-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/161096",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1177-2014",
+"path": "ordin/finante/2014/1177",
+"kind": "ordin",
+"year": "2014",
+"number": "1177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.177/2014 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1177/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-05",
+"latest": "2014-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161105",
 "issuer": "finante",
 "joint": []
 },
@@ -13616,6 +15457,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1309-2014",
+"path": "ordin/finante/2014/1309",
+"kind": "ordin",
+"year": "2014",
+"number": "1309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.309/2014 privind modificarea Ordinului ministrului delegat pentru buget nr. 1.177/2014 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1309/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-29",
+"latest": "2014-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161646",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1338-2014",
 "path": "ordin/finante/2014/1338",
 "kind": "ordin",
@@ -13650,6 +15510,25 @@
 "from": "2014-10-03",
 "latest": "2014-10-03",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/161837",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1344-2014",
+"path": "ordin/finante/2014/1344",
+"kind": "ordin",
+"year": "2014",
+"number": "1344",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.344/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2014",
+"short": "Ordin finante nr. 1344/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-03",
+"latest": "2014-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161853",
 "issuer": "finante",
 "joint": []
 },
@@ -13776,6 +15655,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1477-2014",
+"path": "ordin/finante/2014/1477",
+"kind": "ordin",
+"year": "2014",
+"number": "1477",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.477/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2014",
+"short": "Ordin finante nr. 1477/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-31",
+"latest": "2014-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162619",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1481-2014",
 "path": "ordin/finante/2014/1481",
 "kind": "ordin",
@@ -13791,6 +15689,78 @@
 "from": "2014-11-12",
 "latest": "2014-11-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/162908",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1504-2014",
+"path": "ordin/finante/2014/1504",
+"kind": "ordin",
+"year": "2014",
+"number": "1504",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.504/2014 privind numirea de membri în Comitetul pentru Audit Public Intern",
+"short": "Ordin finante nr. 1504/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-21",
+"latest": "2014-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163141",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1511-2014",
+"path": "ordin/finante/2014/1511",
+"kind": "ordin",
+"year": "2014",
+"number": "1511",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.511/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială FORMENERG - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+"short": "Ordin finante nr. 1511/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-10",
+"latest": "2014-11-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162876",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "guvern",
+"nr": "601",
+"date": "2014-10-09",
+"name": "Secretariatul General al Guvernului",
+"alias": "ordin-guvern-601-2014"
+},
+{
+"issuer": "munca",
+"nr": "1994",
+"date": "2014-10-10",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1994-2014"
+}
+]
+},
+{
+"slug": "ordin-finante-1531-2014",
+"path": "ordin/finante/2014/1531",
+"kind": "ordin",
+"year": "2014",
+"number": "1531",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.531/2014 privind modificarea Ordinului ministrului delegat pentru buget nr. 1.368/2014 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1531/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-07",
+"latest": "2014-11-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162837",
 "issuer": "finante",
 "joint": []
 },
@@ -13833,6 +15803,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1628-2014",
+"path": "ordin/finante/2014/1628",
+"kind": "ordin",
+"year": "2014",
+"number": "1628",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.628/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2014",
+"short": "Ordin finante nr. 1628/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-02",
+"latest": "2014-12-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163462",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1650-2014",
 "path": "ordin/finante/2014/1650",
 "kind": "ordin",
@@ -13850,6 +15839,60 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163740",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-1653-2014",
+"path": "ordin/finante/2014/1653",
+"kind": "ordin",
+"year": "2014",
+"number": "1653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.653/2014 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2014 pentru Fondul Local de Garantare Focșani - S.A., filială a Fondului Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii S.A. - IFN, aflat sub autoritatea Ministerului Finanțelor Publice",
+"short": "Ordin finante nr. 1653/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-01-05",
+"latest": "2015-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/164357",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2364",
+"date": "2014-12-16",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-2364-2014"
+}
+]
+},
+{
+"slug": "ordin-finante-1654-2014",
+"path": "ordin/finante/2014/1654",
+"kind": "ordin",
+"year": "2014",
+"number": "1654",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.654/2014 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2014 pentru Fondul Local de Garantare Sfântu Gheorghe - S.A., filială a Fondului Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii S.A. - IFN, aflat sub autoritatea Ministerului Finanțelor Publice",
+"short": "Ordin finante nr. 1654/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-01-05",
+"latest": "2015-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/164350",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2363",
+"date": "2014-12-16",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-2363-2014"
+}
+]
 },
 {
 "slug": "ordin-finante-1682-2014",
@@ -13886,6 +15929,25 @@
 "from": "2014-12-15",
 "latest": "2014-12-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163835",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1769-2014",
+"path": "ordin/finante/2014/1769",
+"kind": "ordin",
+"year": "2014",
+"number": "1769",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.769/2014 pentru modificarea Ordinului ministrului delegat pentru buget nr. 1.628/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2014",
+"short": "Ordin finante nr. 1769/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-18",
+"latest": "2014-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163963",
 "issuer": "finante",
 "joint": []
 },
@@ -14019,6 +16081,25 @@
 "from": "2014-12-30",
 "latest": "2014-12-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164298",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1815-2014",
+"path": "ordin/finante/2014/1815",
+"kind": "ordin",
+"year": "2014",
+"number": "1815",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.815/2014 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2015",
+"short": "Ordin finante nr. 1815/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-01-05",
+"latest": "2015-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/164338",
 "issuer": "finante",
 "joint": []
 },
@@ -14875,6 +16956,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164176",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-guvern-590-2014",
+"path": "ordin/guvern/2014/590",
+"kind": "ordin",
+"year": "2014",
+"number": "590",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 590/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială pentru Servicii de Telecomunicații și Tehnologia Informației în Rețele Electrice de Transport \"Teletrans\" - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+"short": "Ordin guvern nr. 590/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-21",
+"latest": "2014-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/162299",
+"issuer": "guvern",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1847",
+"date": "2014-09-17",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1847-2014"
+},
+{
+"issuer": "finante",
+"nr": "1371",
+"date": "2014-10-09",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1371-2014"
+}
+]
+},
+{
+"slug": "ordin-guvern-624-2014",
+"path": "ordin/guvern/2014/624",
+"kind": "ordin",
+"year": "2014",
+"number": "624",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 624/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Operatorul Pieței de Energie Electrică și de Gaze Naturale \"OPCOM\" - S.A., filială a Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A.",
+"short": "Ordin guvern nr. 624/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-21",
+"latest": "2014-11-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163167",
+"issuer": "guvern",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2117",
+"date": "2014-11-03",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-2117-2014"
+},
+{
+"issuer": "finante",
+"nr": "1574",
+"date": "2014-11-18",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1574-2014"
+}
+]
 },
 {
 "slug": "ordin-guvern-709-2014",
@@ -17967,6 +20116,47 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-559-2014",
+"path": "ordin/mediu/2014/559",
+"kind": "ordin",
+"year": "2014",
+"number": "559",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 559/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+"short": "Ordin mediu nr. 559/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-07",
+"latest": "2014-08-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160520",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "mediu",
+"nr": "964",
+"date": "2014-06-24",
+"name": "Ministerul Mediului și Schimbărilor Climatice",
+"alias": "ordin-mediu-964-2014"
+},
+{
+"issuer": "munca",
+"nr": "1250",
+"date": "2014-06-24",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1250-2014"
+},
+{
+"issuer": "finante",
+"nr": "915",
+"date": "2014-07-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-915-2014"
+}
+]
+},
+{
 "slug": "ordin-mediu-596-2014",
 "path": "ordin/mediu/2014/596",
 "kind": "ordin",
@@ -19069,6 +21259,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-45-2014",
+"path": "ordin/munca/2014/45",
+"kind": "ordin",
+"year": "2014",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 45/2014 privind împuternicirea domnului Sorin Dumitru Ștefoni, secretar de stat, pentru semnarea Actului adițional nr. 7 la Acordul de delegare de funcții privind implementarea Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\" dintre Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice - Autoritatea de management pentru Programul operațional sectorial pentru dezvoltarea resurselor umane și Organismul intermediar regional pentru Programul operațional sectorial pentru dezvoltarea resurselor umane - Regiunea București-Ilfov",
+"short": "Ordin munca nr. 45/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-11",
+"latest": "2014-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155405",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-91-2014",
 "path": "ordin/munca/2014/91",
 "kind": "ordin",
@@ -19153,6 +21362,33 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-412-2014",
+"path": "ordin/munca/2014/412",
+"kind": "ordin",
+"year": "2014",
+"number": "412",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 412/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+"short": "Ordin munca nr. 412/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-16",
+"latest": "2014-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157455",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "finante",
+"nr": "15482",
+"date": "2014-04-08",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-15482-2014"
+}
+]
+},
+{
 "slug": "ordin-munca-424-2014",
 "path": "ordin/munca/2014/424",
 "kind": "ordin",
@@ -19197,6 +21433,25 @@
 "alias": "ordin-ins-138-2014"
 }
 ]
+},
+{
+"slug": "ordin-munca-466-2014",
+"path": "ordin/munca/2014/466",
+"kind": "ordin",
+"year": "2014",
+"number": "466",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 466/2014 privind stabilirea cuantumului taxei pentru acreditarea furnizorilor de servicii specializate pentru stimularea ocupării forței de muncă pentru anul 2014",
+"short": "Ordin munca nr. 466/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-03",
+"latest": "2014-04-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157044",
+"issuer": "munca",
+"joint": []
 },
 {
 "slug": "ordin-munca-698-2014",
@@ -19489,6 +21744,108 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-2334-2014",
+"path": "ordin/munca/2014/2334",
+"kind": "ordin",
+"year": "2014",
+"number": "2334",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.334/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială CERTEJ - S.A. - filiala Companiei Naționale a Cuprului, Aurului și Fierului \"MINVEST\" - S.A. Deva",
+"short": "Ordin munca nr. 2334/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-01-27",
+"latest": "2015-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/165151",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "economie",
+"nr": "1316",
+"date": "2014-12-17",
+"name": "Ministerul Economiei, Comerțului și Turismului",
+"alias": "ordin-economie-1316-2014"
+},
+{
+"issuer": "finante",
+"nr": "1818",
+"date": "2014-12-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1818-2014"
+}
+]
+},
+{
+"slug": "ordin-munca-2335-2014",
+"path": "ordin/munca/2014/2335",
+"kind": "ordin",
+"year": "2014",
+"number": "2335",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.335/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 pentru Societatea Comercială ROȘIAMIN S.A. - filiala Companiei Naționale a Cuprului, Aurului și Fierului \"MINVEST\" - S.A. Deva",
+"short": "Ordin munca nr. 2335/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-01-27",
+"latest": "2015-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/165153",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "economie",
+"nr": "1317",
+"date": "2014-12-17",
+"name": "Ministerul Economiei, Comerțului și Turismului",
+"alias": "ordin-economie-1317-2014"
+},
+{
+"issuer": "finante",
+"nr": "1819",
+"date": "2014-12-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1819-2014"
+}
+]
+},
+{
+"slug": "ordin-munca-2356-2014",
+"path": "ordin/munca/2014/2356",
+"kind": "ordin",
+"year": "2014",
+"number": "2356",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.356/2014 privind aprobarea bugetului de venituri și cheltuieli rectificat pe anul 2014 pentru Societatea Comercială U.M. MORENI - S.A. - filiala Companiei Naționale ROMARM - S.A.",
+"short": "Ordin munca nr. 2356/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-01-27",
+"latest": "2015-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/165150",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "economie",
+"nr": "1268",
+"date": "2014-12-17",
+"name": "Ministerul Economiei, Comerțului și Turismului",
+"alias": "ordin-economie-1268-2014"
+},
+{
+"issuer": "finante",
+"nr": "1817",
+"date": "2014-12-30",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1817-2014"
+}
+]
+},
+{
 "slug": "ordin-munca-2396-2014",
 "path": "ordin/munca/2014/2396",
 "kind": "ordin",
@@ -19759,6 +22116,82 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-34-2014",
+"path": "ordin/sanatate/2014/34",
+"kind": "ordin",
+"year": "2014",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 34/2014 pentru modificarea Ordinului ministrului sănătății, interimar, nr. 1.446/2009 privind înființarea Comisiei Naționale de Etică și aprobarea componenței acesteia",
+"short": "Ordin sanatate nr. 34/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-13",
+"latest": "2014-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154446",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-71-2014",
+"path": "ordin/sanatate/2014/71",
+"kind": "ordin",
+"year": "2014",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 71/2014 privind acreditarea unității sanitare Institutul de Boli Cardiovasculare și Transplant Târgu Mureș pentru activitatea de laborator HLA de transplant",
+"short": "Ordin sanatate nr. 71/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-24",
+"latest": "2014-01-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154810",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-72-2014",
+"path": "ordin/sanatate/2014/72",
+"kind": "ordin",
+"year": "2014",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 72/2014 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Târgu Mureș pentru activitatea de prelevare și transplant țesut osos și tendinos",
+"short": "Ordin sanatate nr. 72/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-24",
+"latest": "2014-01-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154811",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-73-2014",
+"path": "ordin/sanatate/2014/73",
+"kind": "ordin",
+"year": "2014",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 73/2014 privind acreditarea unității sanitare Spitalul Clinic \"Dr. C. I. Parhon\" Iași pentru activitatea de transplant renal",
+"short": "Ordin sanatate nr. 73/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-24",
+"latest": "2014-01-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154812",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-100-2014",
 "path": "ordin/sanatate/2014/100",
 "kind": "ordin",
@@ -19786,6 +22219,44 @@
 ]
 },
 {
+"slug": "ordin-sanatate-117-2014",
+"path": "ordin/sanatate/2014/117",
+"kind": "ordin",
+"year": "2014",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 117/2014 privind acreditarea unității sanitare Spitalul Clinic de Urgențe pentru Copii \"Maria Sklodowska Curie\" pentru activitatea de prelevare și transplant țesut osos, tendinos și cartilagii",
+"short": "Ordin sanatate nr. 117/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-10",
+"latest": "2014-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155354",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-118-2014",
+"path": "ordin/sanatate/2014/118",
+"kind": "ordin",
+"year": "2014",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 118/2014 privind acreditarea unității sanitare Spitalul Universitar de Urgență Militar Central \"Dr. Carol Davila\" pentru activitatea de prelevare și transplant țesut osos, tendinos și cartilagii și activitatea de prelevare organe, țesuturi și celule",
+"short": "Ordin sanatate nr. 118/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-10",
+"latest": "2014-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155355",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-119-2014",
 "path": "ordin/sanatate/2014/119",
 "kind": "ordin",
@@ -19805,6 +22276,44 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-142-2014",
+"path": "ordin/sanatate/2014/142",
+"kind": "ordin",
+"year": "2014",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 142/2014 privind acreditarea unității sanitare Spitalul Clinic de Recuperare Iași pentru activitatea de prelevare și transplant țesut osos, tendinos și cartilagii",
+"short": "Ordin sanatate nr. 142/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-12",
+"latest": "2014-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155451",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-145-2014",
+"path": "ordin/sanatate/2014/145",
+"kind": "ordin",
+"year": "2014",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 145/2014 privind acreditarea unității sanitare Spitalul Clinic de Urgență \"Prof. Dr. Agrippa Ionescu\" pentru activitatea de prelevare de organe, țesuturi și celule de origine umană",
+"short": "Ordin sanatate nr. 145/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-12",
+"latest": "2014-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155452",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-167-2014",
 "path": "ordin/sanatate/2014/167",
 "kind": "ordin",
@@ -19820,6 +22329,82 @@
 "from": "2014-02-19",
 "latest": "2014-02-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/155608",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-173-2014",
+"path": "ordin/sanatate/2014/173",
+"kind": "ordin",
+"year": "2014",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 173/2014 privind acreditarea unității sanitare Societatea Comercială LID MEDICAL CENTER - S.R.L. pentru activitatea de prelevare de celule reproductive umane, pentru bancă de celule reproductive (procesare, conservare, stocare și distribuție) și utilizare de celule umane în scop terapeutic (fertilizare în vitro) pentru punctul de lucru situat în Calea Văcărești nr. 252-254, etajul 1",
+"short": "Ordin sanatate nr. 173/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-26",
+"latest": "2014-02-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155818",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-193-2014",
+"path": "ordin/sanatate/2014/193",
+"kind": "ordin",
+"year": "2014",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 193/2014 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență \"Sf. Apostol Andrei\" Galați pentru activitatea de prelevare și transplant de țesut osos, tendinos și cartilagii",
+"short": "Ordin sanatate nr. 193/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-26",
+"latest": "2014-02-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155819",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-194-2014",
+"path": "ordin/sanatate/2014/194",
+"kind": "ordin",
+"year": "2014",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 194/2014 privind acreditarea unității sanitare Spitalul Clinic de Urgență București pentru activitatea de transplant de cord și cord-pulmon",
+"short": "Ordin sanatate nr. 194/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-26",
+"latest": "2014-02-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155820",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-195-2014",
+"path": "ordin/sanatate/2014/195",
+"kind": "ordin",
+"year": "2014",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 195/2014 privind acreditarea unității sanitare Spitalul Județean de Urgență Buzău pentru activitatea de prelevare de organe, țesuturi și celule de origine umană",
+"short": "Ordin sanatate nr. 195/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-02-26",
+"latest": "2014-02-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/155821",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20093,6 +22678,44 @@
 "alias": "ordin-cnas-214-2014"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-342-2014",
+"path": "ordin/sanatate/2014/342",
+"kind": "ordin",
+"year": "2014",
+"number": "342",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 342/2014 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Brașov pentru activitatea de transplant renal",
+"short": "Ordin sanatate nr. 342/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-01",
+"latest": "2014-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156946",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-343-2014",
+"path": "ordin/sanatate/2014/343",
+"kind": "ordin",
+"year": "2014",
+"number": "343",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 343/2014 privind acreditarea unității sanitare Societatea Comercială PROMED SYSTEM - S.R.L. pentru activitatea de prelevare de celule reproductive umane, pentru bancă de celule reproductive (procesare, conservare, stocare și distribuție) și utilizare de celule umane în scop terapeutic (fertilizare in vitro), pentru punctul de lucru Spitalul Well Born, str. Brodina nr. 3, sectorul 1, București",
+"short": "Ordin sanatate nr. 343/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-01",
+"latest": "2014-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156947",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-359-2014",
@@ -20393,6 +23016,44 @@
 "from": "2014-05-19",
 "latest": "2014-05-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/158278",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-515-2014",
+"path": "ordin/sanatate/2014/515",
+"kind": "ordin",
+"year": "2014",
+"number": "515",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 515/2014 privind completarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 515/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-14",
+"latest": "2014-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/158161",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-518-2014",
+"path": "ordin/sanatate/2014/518",
+"kind": "ordin",
+"year": "2014",
+"number": "518",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 518/2014 privind acreditarea unității sanitare Spitalul Clinic Județean de Urgență Oradea, Ortopedie I și Ortopedie II, pentru activitatea de prelevare capete femurale de la donator viu și transplant țesut osos, tendinos și cartilagii",
+"short": "Ordin sanatate nr. 518/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-14",
+"latest": "2014-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/158170",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20776,6 +23437,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-720-2014",
+"path": "ordin/sanatate/2014/720",
+"kind": "ordin",
+"year": "2014",
+"number": "720",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 720/2014 privind înființarea Comitetului național de verificare a eliminării rujeolei și rubeolei",
+"short": "Ordin sanatate nr. 720/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-27",
+"latest": "2014-06-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159346",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-722-2014",
 "path": "ordin/sanatate/2014/722",
 "kind": "ordin",
@@ -20860,6 +23540,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-747-2014",
+"path": "ordin/sanatate/2014/747",
+"kind": "ordin",
+"year": "2014",
+"number": "747",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 747/2014 privind acreditarea unității sanitare Spitalul Județean de Urgență Piatra-Neamț pentru activitatea de prelevare de organe, țesuturi și celule",
+"short": "Ordin sanatate nr. 747/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-28",
+"latest": "2014-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159393",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-748-2014",
 "path": "ordin/sanatate/2014/748",
 "kind": "ordin",
@@ -20875,6 +23574,25 @@
 "from": "2014-07-02",
 "latest": "2014-07-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159491",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-751-2014",
+"path": "ordin/sanatate/2014/751",
+"kind": "ordin",
+"year": "2014",
+"number": "751",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 751/2014 privind acreditarea unității sanitare Institutul Clinic Fundeni pentru activitățile de bancă de celule stem hematopoietice centrale și din sângele periferic (procesare, conservare și stocare), prelevare și transplant de celule stem hematopoietice centrale și din sângele periferic",
+"short": "Ordin sanatate nr. 751/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-28",
+"latest": "2014-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159394",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21065,6 +23783,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-854-2014",
+"path": "ordin/sanatate/2014/854",
+"kind": "ordin",
+"year": "2014",
+"number": "854",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 854/2014 privind suspendarea acreditării pentru activitatea de bănci de celule reproductive umane și utilizatori de celule reproductive, acordată Societății Comerciale \"Policlinica Athena\" - S.R.L. - Departamentul de fertilizare in vitro, potrivit art. 1 pct. 13 din Ordinul ministrului sănătății nr. 712/2012 pentru acreditarea în domeniul transplantului a unităților sanitare care pot efectua activități de bănci de țesuturi și/sau celule umane, respectiv de utilizator de țesuturi și/sau celule umane în scop terapeutic",
+"short": "Ordin sanatate nr. 854/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-23",
+"latest": "2014-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160069",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-860-2014",
 "path": "ordin/sanatate/2014/860",
 "kind": "ordin",
@@ -21099,6 +23836,25 @@
 "from": "2014-07-28",
 "latest": "2014-07-28",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160204",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-880-2014",
+"path": "ordin/sanatate/2014/880",
+"kind": "ordin",
+"year": "2014",
+"number": "880",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 880/2014 privind completarea punctului I din anexa nr. 3 la Ordinul ministrului sănătății și familiei nr. 698/2001 pentru aprobarea unor metodologii privind angajarea, transferarea și detașarea medicilor, farmaciștilor, biologilor, biochimiștilor și chimiștilor, precum și a altui personal de specialitate cu studii superioare din unitățile sanitare publice",
+"short": "Ordin sanatate nr. 880/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-29",
+"latest": "2014-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160217",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21194,6 +23950,25 @@
 "from": "2014-11-18",
 "latest": "2014-11-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160754",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-939-2014",
+"path": "ordin/sanatate/2014/939",
+"kind": "ordin",
+"year": "2014",
+"number": "939",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 939/2014 privind modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 939/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-08-20",
+"latest": "2014-08-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/160755",
 "issuer": "sanatate",
 "joint": []
 },
@@ -21834,6 +24609,25 @@
 "from": "2014-11-20",
 "latest": "2014-11-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163135",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1406-2014",
+"path": "ordin/sanatate/2014/1406",
+"kind": "ordin",
+"year": "2014",
+"number": "1406",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.406/2014 privind modificarea Ordinului ministrului sănătății nr. 398/2013 pentru înființarea comisiilor consultative ale Ministerului Sănătății",
+"short": "Ordin sanatate nr. 1406/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-28",
+"latest": "2014-11-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/163313",
 "issuer": "sanatate",
 "joint": []
 },
@@ -22646,6 +25440,33 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-434-2014",
+"path": "ordin/transporturi/2014/434",
+"kind": "ordin",
+"year": "2014",
+"number": "434",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 434/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2014 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+"short": "Ordin transporturi nr. 434/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-28",
+"latest": "2014-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157778",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "616",
+"date": "2014-04-25",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-616-2014"
+}
+]
+},
+{
 "slug": "ordin-transporturi-485-2014",
 "path": "ordin/transporturi/2014/485",
 "kind": "ordin",
@@ -22766,6 +25587,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/159637",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-582-2014",
+"path": "ordin/transporturi/2014/582",
+"kind": "ordin",
+"year": "2014",
+"number": "582",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 582/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății Comerciale \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 582/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-08",
+"latest": "2014-07-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159703",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "817",
+"date": "2014-06-18",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-817-2014"
+},
+{
+"issuer": "munca",
+"nr": "751",
+"date": "2014-05-19",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-751-2014"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1031-2014",
@@ -22994,6 +25849,108 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/160294",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1215-2014",
+"path": "ordin/transporturi/2014/1215",
+"kind": "ordin",
+"year": "2014",
+"number": "1215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.215/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății Comerciale \"Sere și Pepiniere\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1215/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-23",
+"latest": "2014-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161520",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1244",
+"date": "2014-09-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1244-2014"
+},
+{
+"issuer": "munca",
+"nr": "1628",
+"date": "2014-08-07",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1628-2014"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1216-2014",
+"path": "ordin/transporturi/2014/1216",
+"kind": "ordin",
+"year": "2014",
+"number": "1216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.216/2014 privind aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății Comerciale \"Întreținere și Reparații Locomotive și Utilaje CFR IRLU\" - S.A., filiala Societății Naționale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A.",
+"short": "Ordin transporturi nr. 1216/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-23",
+"latest": "2014-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161539",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1243",
+"date": "2014-09-15",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1243-2014"
+},
+{
+"issuer": "munca",
+"nr": "1629",
+"date": "2014-08-07",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1629-2014"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1217-2014",
+"path": "ordin/transporturi/2014/1217",
+"kind": "ordin",
+"year": "2014",
+"number": "1217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.217/2014 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2014 al Societății Comerciale Întreținere Mecanizată - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1217/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-30",
+"latest": "2014-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161739",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1269",
+"date": "2014-09-18",
+"name": "Ministerul Finanțelor Publice",
+"alias": "ordin-finante-1269-2014"
+},
+{
+"issuer": "munca",
+"nr": "1626",
+"date": "2014-08-07",
+"name": "Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+"alias": "ordin-munca-1626-2014"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1252-2014",

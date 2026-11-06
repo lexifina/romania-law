@@ -1502,10 +1502,10 @@
    "file": "data/freshness/criterii/1991.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -1529,9 +1529,9 @@
    "count": 1,
    "by_status": {
     "current": 0,
-    "pending-change": 0,
+    "pending-change": 1,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4818,9 +4818,9 @@
    "count": 1,
    "by_status": {
     "current": 0,
-    "pending-change": 0,
+    "pending-change": 1,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4830,10 +4830,10 @@
    "file": "data/freshness/instructiuni/1969.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4844,9 +4844,9 @@
    "count": 1,
    "by_status": {
     "current": 0,
-    "pending-change": 0,
+    "pending-change": 1,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4869,10 +4869,10 @@
    "file": "data/freshness/instructiuni/1993.csv",
    "count": 6,
    "by_status": {
-    "current": 1,
+    "current": 3,
     "pending-change": 3,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4882,10 +4882,10 @@
    "file": "data/freshness/instructiuni/1994.csv",
    "count": 11,
    "by_status": {
-    "current": 4,
-    "pending-change": 5,
+    "current": 5,
+    "pending-change": 6,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4895,10 +4895,10 @@
    "file": "data/freshness/instructiuni/1995.csv",
    "count": 9,
    "by_status": {
-    "current": 7,
+    "current": 8,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4908,10 +4908,10 @@
    "file": "data/freshness/instructiuni/1996.csv",
    "count": 14,
    "by_status": {
-    "current": 5,
+    "current": 7,
     "pending-change": 7,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4922,9 +4922,9 @@
    "count": 13,
    "by_status": {
     "current": 5,
-    "pending-change": 6,
+    "pending-change": 8,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4947,10 +4947,10 @@
    "file": "data/freshness/instructiuni/1999.csv",
    "count": 13,
    "by_status": {
-    "current": 7,
+    "current": 8,
     "pending-change": 5,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4961,9 +4961,9 @@
    "count": 8,
    "by_status": {
     "current": 3,
-    "pending-change": 4,
+    "pending-change": 5,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4986,10 +4986,10 @@
    "file": "data/freshness/instructiuni/2002.csv",
    "count": 12,
    "by_status": {
-    "current": 10,
+    "current": 11,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -4999,10 +4999,10 @@
    "file": "data/freshness/instructiuni/2003.csv",
    "count": 15,
    "by_status": {
-    "current": 9,
-    "pending-change": 4,
+    "current": 10,
+    "pending-change": 5,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -5090,10 +5090,10 @@
    "file": "data/freshness/instructiuni/2010.csv",
    "count": 8,
    "by_status": {
-    "current": 5,
+    "current": 6,
     "pending-change": 2,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -5129,10 +5129,10 @@
    "file": "data/freshness/instructiuni/2013.csv",
    "count": 12,
    "by_status": {
-    "current": 6,
-    "pending-change": 3,
+    "current": 8,
+    "pending-change": 4,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -5181,10 +5181,10 @@
    "file": "data/freshness/instructiuni/2017.csv",
    "count": 12,
    "by_status": {
-    "current": 8,
+    "current": 9,
     "pending-change": 3,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -5233,10 +5233,10 @@
    "file": "data/freshness/instructiuni/2021.csv",
    "count": 6,
    "by_status": {
-    "current": 5,
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -6325,10 +6325,10 @@
    "file": "data/freshness/local/alba/abrud/2024.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -6338,10 +6338,10 @@
    "file": "data/freshness/local/alba/abrud/2026.csv",
    "count": 36,
    "by_status": {
-    "current": 36,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 34,
     "source-unavailable": 0
    }
   },
@@ -6533,10 +6533,10 @@
    "file": "data/freshness/local/alba/mihalt/2025.csv",
    "count": 23,
    "by_status": {
-    "current": 23,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 23,
     "source-unavailable": 0
    }
   },
@@ -6559,10 +6559,10 @@
    "file": "data/freshness/local/alba/ocna-mures/2018.csv",
    "count": 12,
    "by_status": {
-    "current": 12,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 12,
     "source-unavailable": 0
    }
   },
@@ -7781,10 +7781,10 @@
    "file": "data/freshness/local/bacau/comanesti/2016.csv",
    "count": 2,
    "by_status": {
-    "current": 2,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -7794,10 +7794,10 @@
    "file": "data/freshness/local/bacau/comanesti/2020.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -8028,10 +8028,10 @@
    "file": "data/freshness/local/bacau/racova/2026.csv",
    "count": 10,
    "by_status": {
-    "current": 10,
+    "current": 8,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -8600,10 +8600,10 @@
    "file": "data/freshness/local/bihor/valea-lui-mihai/2026.csv",
    "count": 35,
    "by_status": {
-    "current": 35,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 32,
     "source-unavailable": 0
    }
   },
@@ -9887,10 +9887,10 @@
    "file": "data/freshness/local/brasov/tarlungeni/2026.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -11395,10 +11395,10 @@
    "file": "data/freshness/local/buzau/nehoiu/2025.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -11408,10 +11408,10 @@
    "file": "data/freshness/local/buzau/podgoria/2026.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -12695,10 +12695,10 @@
    "file": "data/freshness/local/dambovita/razvad/2014.csv",
    "count": 2,
    "by_status": {
-    "current": 2,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -13085,10 +13085,10 @@
    "file": "data/freshness/local/gorj/bumbesti-jiu/2025.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -13228,10 +13228,10 @@
    "file": "data/freshness/local/gorj/ticleni/2026.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -18662,10 +18662,10 @@
    "file": "data/freshness/local/maramures/tautii-magheraus/2026.csv",
    "count": 2,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -19793,10 +19793,10 @@
    "file": "data/freshness/local/olt/draganesti-olt/2019.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -21340,10 +21340,10 @@
    "file": "data/freshness/local/tulcea/sulina/2025.csv",
    "count": 4,
    "by_status": {
-    "current": 4,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 4,
     "source-unavailable": 0
    }
   },
@@ -21925,10 +21925,10 @@
    "file": "data/freshness/metodologie/1997.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -21951,10 +21951,10 @@
    "file": "data/freshness/metodologie/2024.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22211,10 +22211,10 @@
    "file": "data/freshness/norma/1980.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22224,10 +22224,10 @@
    "file": "data/freshness/norma/1990.csv",
    "count": 2,
    "by_status": {
-    "current": 0,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22237,10 +22237,10 @@
    "file": "data/freshness/norma/1991.csv",
    "count": 11,
    "by_status": {
-    "current": 9,
-    "pending-change": 0,
+    "current": 10,
+    "pending-change": 1,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22251,9 +22251,9 @@
    "count": 15,
    "by_status": {
     "current": 5,
-    "pending-change": 9,
+    "pending-change": 10,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22263,10 +22263,10 @@
    "file": "data/freshness/norma/1993.csv",
    "count": 14,
    "by_status": {
-    "current": 4,
-    "pending-change": 5,
+    "current": 8,
+    "pending-change": 6,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22276,10 +22276,10 @@
    "file": "data/freshness/norma/1994.csv",
    "count": 31,
    "by_status": {
-    "current": 6,
-    "pending-change": 20,
+    "current": 9,
+    "pending-change": 22,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22289,10 +22289,10 @@
    "file": "data/freshness/norma/1995.csv",
    "count": 23,
    "by_status": {
-    "current": 8,
-    "pending-change": 12,
+    "current": 9,
+    "pending-change": 14,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22302,10 +22302,10 @@
    "file": "data/freshness/norma/1996.csv",
    "count": 31,
    "by_status": {
-    "current": 9,
-    "pending-change": 9,
+    "current": 16,
+    "pending-change": 15,
     "stale": 0,
-    "unverified": 13,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22315,10 +22315,10 @@
    "file": "data/freshness/norma/1997.csv",
    "count": 24,
    "by_status": {
-    "current": 4,
-    "pending-change": 9,
+    "current": 5,
+    "pending-change": 19,
     "stale": 0,
-    "unverified": 11,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22328,10 +22328,10 @@
    "file": "data/freshness/norma/1998.csv",
    "count": 19,
    "by_status": {
-    "current": 7,
-    "pending-change": 6,
+    "current": 9,
+    "pending-change": 10,
     "stale": 0,
-    "unverified": 6,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22341,10 +22341,10 @@
    "file": "data/freshness/norma/1999.csv",
    "count": 29,
    "by_status": {
-    "current": 7,
+    "current": 15,
     "pending-change": 14,
     "stale": 0,
-    "unverified": 8,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22354,10 +22354,10 @@
    "file": "data/freshness/norma/2000.csv",
    "count": 15,
    "by_status": {
-    "current": 2,
+    "current": 5,
     "pending-change": 10,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22367,10 +22367,10 @@
    "file": "data/freshness/norma/2001.csv",
    "count": 16,
    "by_status": {
-    "current": 2,
+    "current": 3,
     "pending-change": 13,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22614,10 +22614,10 @@
    "file": "data/freshness/norma/2020.csv",
    "count": 41,
    "by_status": {
-    "current": 33,
+    "current": 34,
     "pending-change": 7,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22627,10 +22627,10 @@
    "file": "data/freshness/norma/2021.csv",
    "count": 26,
    "by_status": {
-    "current": 21,
+    "current": 23,
     "pending-change": 3,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22640,10 +22640,10 @@
    "file": "data/freshness/norma/2022.csv",
    "count": 31,
    "by_status": {
-    "current": 25,
+    "current": 28,
     "pending-change": 3,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22666,10 +22666,10 @@
    "file": "data/freshness/norma/2024.csv",
    "count": 28,
    "by_status": {
-    "current": 19,
+    "current": 20,
     "pending-change": 8,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22679,10 +22679,10 @@
    "file": "data/freshness/norma/2025.csv",
    "count": 25,
    "by_status": {
-    "current": 24,
+    "current": 25,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -22692,10 +22692,10 @@
    "file": "data/freshness/norma/2026.csv",
    "count": 16,
    "by_status": {
-    "current": 15,
+    "current": 16,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23264,10 +23264,10 @@
    "file": "data/freshness/ordin/1997.csv",
    "count": 216,
    "by_status": {
-    "current": 141,
+    "current": 142,
     "pending-change": 74,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23290,10 +23290,10 @@
    "file": "data/freshness/ordin/1999.csv",
    "count": 321,
    "by_status": {
-    "current": 184,
-    "pending-change": 134,
+    "current": 185,
+    "pending-change": 136,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23304,9 +23304,9 @@
    "count": 324,
    "by_status": {
     "current": 174,
-    "pending-change": 149,
+    "pending-change": 150,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23317,9 +23317,9 @@
    "count": 552,
    "by_status": {
     "current": 250,
-    "pending-change": 300,
+    "pending-change": 302,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23329,10 +23329,10 @@
    "file": "data/freshness/ordin/2002.csv",
    "count": 900,
    "by_status": {
-    "current": 453,
-    "pending-change": 445,
+    "current": 454,
+    "pending-change": 446,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23343,9 +23343,9 @@
    "count": 1068,
    "by_status": {
     "current": 497,
-    "pending-change": 569,
+    "pending-change": 571,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23355,10 +23355,10 @@
    "file": "data/freshness/ordin/2004.csv",
    "count": 1252,
    "by_status": {
-    "current": 568,
+    "current": 569,
     "pending-change": 683,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23381,10 +23381,10 @@
    "file": "data/freshness/ordin/2006.csv",
    "count": 1366,
    "by_status": {
-    "current": 728,
-    "pending-change": 636,
+    "current": 727,
+    "pending-change": 639,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23395,9 +23395,9 @@
    "count": 1169,
    "by_status": {
     "current": 666,
-    "pending-change": 502,
+    "pending-change": 503,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23407,10 +23407,10 @@
    "file": "data/freshness/ordin/2008.csv",
    "count": 1212,
    "by_status": {
-    "current": 677,
-    "pending-change": 530,
+    "current": 680,
+    "pending-change": 532,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23420,10 +23420,10 @@
    "file": "data/freshness/ordin/2009.csv",
    "count": 1020,
    "by_status": {
-    "current": 576,
-    "pending-change": 435,
+    "current": 581,
+    "pending-change": 439,
     "stale": 0,
-    "unverified": 9,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23433,10 +23433,10 @@
    "file": "data/freshness/ordin/2010.csv",
    "count": 1081,
    "by_status": {
-    "current": 666,
-    "pending-change": 406,
+    "current": 672,
+    "pending-change": 409,
     "stale": 0,
-    "unverified": 9,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23446,10 +23446,10 @@
    "file": "data/freshness/ordin/2011.csv",
    "count": 1067,
    "by_status": {
-    "current": 656,
-    "pending-change": 407,
+    "current": 658,
+    "pending-change": 409,
     "stale": 0,
-    "unverified": 4,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23459,10 +23459,10 @@
    "file": "data/freshness/ordin/2012.csv",
    "count": 992,
    "by_status": {
-    "current": 660,
-    "pending-change": 327,
+    "current": 663,
+    "pending-change": 329,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23472,10 +23472,10 @@
    "file": "data/freshness/ordin/2013.csv",
    "count": 1085,
    "by_status": {
-    "current": 701,
-    "pending-change": 377,
+    "current": 706,
+    "pending-change": 379,
     "stale": 0,
-    "unverified": 7,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23485,10 +23485,10 @@
    "file": "data/freshness/ordin/2014.csv",
    "count": 1195,
    "by_status": {
-    "current": 758,
-    "pending-change": 435,
+    "current": 759,
+    "pending-change": 436,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23498,10 +23498,10 @@
    "file": "data/freshness/ordin/2015.csv",
    "count": 1227,
    "by_status": {
-    "current": 776,
-    "pending-change": 448,
+    "current": 778,
+    "pending-change": 449,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23511,10 +23511,10 @@
    "file": "data/freshness/ordin/2016.csv",
    "count": 1366,
    "by_status": {
-    "current": 868,
-    "pending-change": 488,
+    "current": 875,
+    "pending-change": 491,
     "stale": 0,
-    "unverified": 10,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23524,10 +23524,10 @@
    "file": "data/freshness/ordin/2017.csv",
    "count": 1110,
    "by_status": {
-    "current": 757,
-    "pending-change": 345,
+    "current": 763,
+    "pending-change": 347,
     "stale": 0,
-    "unverified": 8,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23537,10 +23537,10 @@
    "file": "data/freshness/ordin/2018.csv",
    "count": 1209,
    "by_status": {
-    "current": 812,
-    "pending-change": 391,
+    "current": 817,
+    "pending-change": 392,
     "stale": 0,
-    "unverified": 6,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23550,10 +23550,10 @@
    "file": "data/freshness/ordin/2019.csv",
    "count": 1140,
    "by_status": {
-    "current": 805,
-    "pending-change": 329,
+    "current": 810,
+    "pending-change": 330,
     "stale": 0,
-    "unverified": 6,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23563,10 +23563,10 @@
    "file": "data/freshness/ordin/2020.csv",
    "count": 1431,
    "by_status": {
-    "current": 1039,
-    "pending-change": 374,
+    "current": 1049,
+    "pending-change": 382,
     "stale": 0,
-    "unverified": 18,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23576,10 +23576,10 @@
    "file": "data/freshness/ordin/2021.csv",
    "count": 1186,
    "by_status": {
-    "current": 912,
+    "current": 916,
     "pending-change": 270,
     "stale": 0,
-    "unverified": 4,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23589,10 +23589,10 @@
    "file": "data/freshness/ordin/2022.csv",
    "count": 1402,
    "by_status": {
-    "current": 1053,
-    "pending-change": 332,
+    "current": 1068,
+    "pending-change": 334,
     "stale": 0,
-    "unverified": 17,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23602,10 +23602,10 @@
    "file": "data/freshness/ordin/2023.csv",
    "count": 1387,
    "by_status": {
-    "current": 1110,
-    "pending-change": 268,
+    "current": 1118,
+    "pending-change": 269,
     "stale": 0,
-    "unverified": 9,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23615,10 +23615,10 @@
    "file": "data/freshness/ordin/2024.csv",
    "count": 1323,
    "by_status": {
-    "current": 1087,
-    "pending-change": 218,
+    "current": 1102,
+    "pending-change": 221,
     "stale": 0,
-    "unverified": 18,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23628,10 +23628,10 @@
    "file": "data/freshness/ordin/2025.csv",
    "count": 1116,
    "by_status": {
-    "current": 955,
+    "current": 964,
     "pending-change": 152,
     "stale": 0,
-    "unverified": 9,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -23641,10 +23641,10 @@
    "file": "data/freshness/ordin/2026.csv",
    "count": 855,
    "by_status": {
-    "current": 814,
+    "current": 815,
     "pending-change": 40,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24057,10 +24057,10 @@
    "file": "data/freshness/precizari/1991.csv",
    "count": 2,
    "by_status": {
-    "current": 0,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24083,10 +24083,10 @@
    "file": "data/freshness/precizari/1993.csv",
    "count": 6,
    "by_status": {
-    "current": 5,
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24097,9 +24097,9 @@
    "count": 3,
    "by_status": {
     "current": 0,
-    "pending-change": 1,
+    "pending-change": 3,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24135,10 +24135,10 @@
    "file": "data/freshness/precizari/1997.csv",
    "count": 3,
    "by_status": {
-    "current": 2,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24590,10 +24590,10 @@
    "file": "data/freshness/regulament/1921.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24603,10 +24603,10 @@
    "file": "data/freshness/regulament/1944.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24655,8 +24655,8 @@
    "file": "data/freshness/regulament/1994.csv",
    "count": 5,
    "by_status": {
-    "current": 2,
-    "pending-change": 3,
+    "current": 1,
+    "pending-change": 4,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -24681,10 +24681,10 @@
    "file": "data/freshness/regulament/1996.csv",
    "count": 20,
    "by_status": {
-    "current": 4,
+    "current": 5,
     "pending-change": 15,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24694,10 +24694,10 @@
    "file": "data/freshness/regulament/1997.csv",
    "count": 14,
    "by_status": {
-    "current": 5,
+    "current": 6,
     "pending-change": 8,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24707,10 +24707,10 @@
    "file": "data/freshness/regulament/1998.csv",
    "count": 10,
    "by_status": {
-    "current": 3,
+    "current": 4,
     "pending-change": 6,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24772,10 +24772,10 @@
    "file": "data/freshness/regulament/2003.csv",
    "count": 9,
    "by_status": {
-    "current": 5,
+    "current": 6,
     "pending-change": 3,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24889,10 +24889,10 @@
    "file": "data/freshness/regulament/2012.csv",
    "count": 26,
    "by_status": {
-    "current": 5,
+    "current": 6,
     "pending-change": 20,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24903,9 +24903,9 @@
    "count": 16,
    "by_status": {
     "current": 2,
-    "pending-change": 13,
+    "pending-change": 14,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -25006,10 +25006,10 @@
    "file": "data/freshness/regulament/2021.csv",
    "count": 27,
    "by_status": {
-    "current": 20,
+    "current": 21,
     "pending-change": 6,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },

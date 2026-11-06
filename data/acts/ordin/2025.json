@@ -22,6 +22,142 @@
 "joint": []
 },
 {
+"slug": "ordin-aaas-7794-2025",
+"path": "ordin/aaas/2025/7794",
+"kind": "ordin",
+"year": "2025",
+"number": "7794",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 7.794/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 7794/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304094",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1546",
+"date": "2025-07-08",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1546-2025"
+},
+{
+"issuer": "finante",
+"nr": "1755",
+"date": "2025-10-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1755-2025"
+}
+]
+},
+{
+"slug": "ordin-aaas-8093-2025",
+"path": "ordin/aaas/2025/8093",
+"kind": "ordin",
+"year": "2025",
+"number": "8093",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8.093/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății ACTIVE CONEXE - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 8093/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304040",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1540",
+"date": "2025-07-07",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1540-2025"
+},
+{
+"issuer": "finante",
+"nr": "1788",
+"date": "2025-10-31",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1788-2025"
+}
+]
+},
+{
+"slug": "ordin-aaas-8135-2025",
+"path": "ordin/aaas/2025/8135",
+"kind": "ordin",
+"year": "2025",
+"number": "8135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8.135/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății Radioactiv Mineral Măgurele - S.A., societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 8135/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-20",
+"latest": "2025-10-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303553",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1569",
+"date": "2025-07-11",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1569-2025"
+},
+{
+"issuer": "finante",
+"nr": "1654",
+"date": "2025-10-08",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1654-2025"
+}
+]
+},
+{
+"slug": "ordin-aaas-8139-2025",
+"path": "ordin/aaas/2025/8139",
+"kind": "ordin",
+"year": "2025",
+"number": "8139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8.139/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății EUROTEST - S.A. București, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+"short": "Ordin aaas nr. 8139/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304043",
+"issuer": "aaas",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1568",
+"date": "2025-07-11",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1568-2025"
+},
+{
+"issuer": "finante",
+"nr": "1781",
+"date": "2025-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1781-2025"
+}
+]
+},
+{
 "slug": "ordin-agricultura-3-2025",
 "path": "ordin/agricultura/2025/3",
 "kind": "ordin",
@@ -624,6 +760,40 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-131-2025",
+"path": "ordin/agricultura/2025/131",
+"kind": "ordin",
+"year": "2025",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 131/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății Comerciale PISCICOLA CĂLĂRAȘI - S.A. din coordonarea Agenției Naționale pentru Pescuit și Acvacultură",
+"short": "Ordin agricultura nr. 131/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303785",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1602",
+"date": "2025-07-16",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1602-2025"
+},
+{
+"issuer": "finante",
+"nr": "1696",
+"date": "2025-10-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1696-2025"
+}
+]
+},
+{
 "slug": "ordin-agricultura-144-2025",
 "path": "ordin/agricultura/2025/144",
 "kind": "ordin",
@@ -770,6 +940,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/297876",
 "issuer": "agricultura",
 "joint": []
+},
+{
+"slug": "ordin-agricultura-167-2025",
+"path": "ordin/agricultura/2025/167",
+"kind": "ordin",
+"year": "2025",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 167/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății Naționale \"Casa Română de Comerț Agroalimentar UNIREA\" - S.A.",
+"short": "Ordin agricultura nr. 167/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303788",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1601",
+"date": "2025-07-16",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1601-2025"
+},
+{
+"issuer": "finante",
+"nr": "1703",
+"date": "2025-10-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1703-2025"
+}
+]
 },
 {
 "slug": "ordin-agricultura-168-2025",
@@ -8776,6 +8980,40 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-372-2025",
+"path": "ordin/economie/2025/372",
+"kind": "ordin",
+"year": "2025",
+"number": "372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 372/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Titan Power - S.A.",
+"short": "Ordin economie nr. 372/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298377",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "832",
+"date": "2025-05-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-832-2025"
+},
+{
+"issuer": "munca",
+"nr": "1053",
+"date": "2025-04-29",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1053-2025"
+}
+]
+},
+{
 "slug": "ordin-economie-373-2025",
 "path": "ordin/economie/2025/373",
 "kind": "ordin",
@@ -8869,6 +9107,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298208",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-580-2025",
+"path": "ordin/economie/2025/580",
+"kind": "ordin",
+"year": "2025",
+"number": "580",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 580/2025 pentru constituirea grupului de lucru interministerial privind elaborarea și promovarea unui plan de măsuri privind realizarea unor programe de formare profesională pentru dezvoltarea și perfecționarea forței de muncă locale în scopul asigurării personalului calificat necesar dezvoltării lanțului de aprovizionare și al construirii centralelor electrice eoliene offshore",
+"short": "Ordin economie nr. 580/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299700",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "educatie",
+"nr": "4338",
+"date": "2025-06-19",
+"name": "Ministerul Educației și Cercetării",
+"alias": "ordin-educatie-4338-2025"
+},
+{
+"issuer": "munca",
+"nr": "1294",
+"date": "2025-06-03",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1294-2025"
+}
+]
 },
 {
 "slug": "ordin-economie-622-2025",
@@ -9004,6 +9276,210 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1014-2025",
+"path": "ordin/economie/2025/1014",
+"kind": "ordin",
+"year": "2025",
+"number": "1014",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.014/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Institutul de Cercetări în Transporturi INCERTRANS - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1014/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298225",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "812",
+"date": "2025-05-15",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-812-2025"
+},
+{
+"issuer": "munca",
+"nr": "503",
+"date": "2025-04-15",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-503-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1054-2025",
+"path": "ordin/economie/2025/1054",
+"kind": "ordin",
+"year": "2025",
+"number": "1054",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.054/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A. Mangalia, aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1054/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298853",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "846",
+"date": "2025-05-26",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-846-2025"
+},
+{
+"issuer": "munca",
+"nr": "1060",
+"date": "2025-04-30",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1060-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1067-2025",
+"path": "ordin/economie/2025/1067",
+"kind": "ordin",
+"year": "2025",
+"number": "1067",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.067/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea IPROCHIM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1067/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298856",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "845",
+"date": "2025-05-26",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-845-2025"
+},
+{
+"issuer": "munca",
+"nr": "1063",
+"date": "2025-04-30",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1063-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1068-2025",
+"path": "ordin/economie/2025/1068",
+"kind": "ordin",
+"year": "2025",
+"number": "1068",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.068/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Centrul Național de Învățământ Turistic \"CNIT\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1068/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298380",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "823",
+"date": "2025-05-19",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-823-2025"
+},
+{
+"issuer": "munca",
+"nr": "1064",
+"date": "2025-04-30",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1064-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1097-2025",
+"path": "ordin/economie/2025/1097",
+"kind": "ordin",
+"year": "2025",
+"number": "1097",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.097/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Mamaia - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1097/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298383",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "822",
+"date": "2025-05-19",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-822-2025"
+},
+{
+"issuer": "munca",
+"nr": "1061",
+"date": "2025-04-30",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1061-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1098-2025",
+"path": "ordin/economie/2025/1098",
+"kind": "ordin",
+"year": "2025",
+"number": "1098",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.098/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Telegondola Mamaia - S.R.L., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1098/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298386",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "831",
+"date": "2025-05-20",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-831-2025"
+},
+{
+"issuer": "munca",
+"nr": "1052",
+"date": "2025-04-29",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1052-2025"
+}
+]
+},
+{
 "slug": "ordin-economie-1147-2025",
 "path": "ordin/economie/2025/1147",
 "kind": "ordin",
@@ -9116,6 +9592,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303642",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-1300-2025",
+"path": "ordin/economie/2025/1300",
+"kind": "ordin",
+"year": "2025",
+"number": "1300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.300/2025 ORDIN nr. 1.300/1.790/2.270/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea de Administrare a Participațiilor în Energie - S.A.",
+"short": "Ordin economie nr. 1300/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303959",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1790",
+"date": "2025-10-31",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1790-2025"
+},
+{
+"issuer": "munca",
+"nr": "2270",
+"date": "2025-10-29",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2270-2025"
+}
+]
 },
 {
 "slug": "ordin-economie-1377-2025",
@@ -9330,6 +9840,210 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1631-2025",
+"path": "ordin/economie/2025/1631",
+"kind": "ordin",
+"year": "2025",
+"number": "1631",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.631/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Pirochim Victoria - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1631/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301991",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1477",
+"date": "2025-09-03",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1477-2025"
+},
+{
+"issuer": "munca",
+"nr": "1775",
+"date": "2025-08-12",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1775-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1816-2025",
+"path": "ordin/economie/2025/1816",
+"kind": "ordin",
+"year": "2025",
+"number": "1816",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.816/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1816/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303628",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1718",
+"date": "2025-10-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1718-2025"
+},
+{
+"issuer": "munca",
+"nr": "1895",
+"date": "2025-08-26",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1895-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1817-2025",
+"path": "ordin/economie/2025/1817",
+"kind": "ordin",
+"year": "2025",
+"number": "1817",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.817/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1817/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303606",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1715",
+"date": "2025-10-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1715-2025"
+},
+{
+"issuer": "munca",
+"nr": "1891",
+"date": "2025-08-26",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1891-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1818-2025",
+"path": "ordin/economie/2025/1818",
+"kind": "ordin",
+"year": "2025",
+"number": "1818",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.818/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1818/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303679",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1717",
+"date": "2025-10-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1717-2025"
+},
+{
+"issuer": "munca",
+"nr": "1894",
+"date": "2025-08-26",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1894-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1820-2025",
+"path": "ordin/economie/2025/1820",
+"kind": "ordin",
+"year": "2025",
+"number": "1820",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.820/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Arsenal Reșița - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1820/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301994",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1476",
+"date": "2025-09-03",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1476-2025"
+},
+{
+"issuer": "munca",
+"nr": "1893",
+"date": "2025-08-26",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1893-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1870-2025",
+"path": "ordin/economie/2025/1870",
+"kind": "ordin",
+"year": "2025",
+"number": "1870",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.870/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1870/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303838",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1757",
+"date": "2025-10-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1757-2025"
+},
+{
+"issuer": "munca",
+"nr": "2103",
+"date": "2025-10-02",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2103-2025"
+}
+]
+},
+{
 "slug": "ordin-economie-1928-2025",
 "path": "ordin/economie/2025/1928",
 "kind": "ordin",
@@ -9349,6 +10063,108 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1943-2025",
+"path": "ordin/economie/2025/1943",
+"kind": "ordin",
+"year": "2025",
+"number": "1943",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.943/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1943/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303609",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1719",
+"date": "2025-10-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1719-2025"
+},
+{
+"issuer": "munca",
+"nr": "2014",
+"date": "2025-09-16",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2014-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1944-2025",
+"path": "ordin/economie/2025/1944",
+"kind": "ordin",
+"year": "2025",
+"number": "1944",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.944/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Carfil - S.A. Brașov - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1944/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303612",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1720",
+"date": "2025-10-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1720-2025"
+},
+{
+"issuer": "munca",
+"nr": "2015",
+"date": "2025-09-16",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2015-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-1945-2025",
+"path": "ordin/economie/2025/1945",
+"kind": "ordin",
+"year": "2025",
+"number": "1945",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.945/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 1945/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303506",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1655",
+"date": "2025-10-08",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1655-2025"
+},
+{
+"issuer": "munca",
+"nr": "2016",
+"date": "2025-09-16",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2016-2025"
+}
+]
+},
+{
 "slug": "ordin-economie-1970-2025",
 "path": "ordin/economie/2025/1970",
 "kind": "ordin",
@@ -9366,6 +10182,108 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302410",
 "issuer": "economie",
 "joint": []
+},
+{
+"slug": "ordin-economie-2034-2025",
+"path": "ordin/economie/2025/2034",
+"kind": "ordin",
+"year": "2025",
+"number": "2034",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.034/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Tohan - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 2034/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303682",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1716",
+"date": "2025-10-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1716-2025"
+},
+{
+"issuer": "munca",
+"nr": "2099",
+"date": "2025-10-02",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2099-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-2035-2025",
+"path": "ordin/economie/2025/2035",
+"kind": "ordin",
+"year": "2025",
+"number": "2035",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.035/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Fabrica de Pulberi - S.A. Făgăraș - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 2035/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303568",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1701",
+"date": "2025-10-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1701-2025"
+},
+{
+"issuer": "munca",
+"nr": "2101",
+"date": "2025-10-02",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2101-2025"
+}
+]
+},
+{
+"slug": "ordin-economie-2055-2025",
+"path": "ordin/economie/2025/2055",
+"kind": "ordin",
+"year": "2025",
+"number": "2055",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.055/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+"short": "Ordin economie nr. 2055/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303559",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1691",
+"date": "2025-10-14",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1691-2025"
+},
+{
+"issuer": "munca",
+"nr": "2102",
+"date": "2025-10-02",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2102-2025"
+}
+]
 },
 {
 "slug": "ordin-economie-2147-2025",
@@ -10368,6 +11286,33 @@
 "date": "2025-05-20",
 "name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
 "alias": "ordin-munca-1200-2025"
+}
+]
+},
+{
+"slug": "ordin-educatie-3978-2025",
+"path": "ordin/educatie/2025/3978",
+"kind": "ordin",
+"year": "2025",
+"number": "3978",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.978/2025 privind aprobarea componenței Grupului Național pentru Asigurarea Calității în Educație și Formare Profesională",
+"short": "Ordin educatie nr. 3978/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298238",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1149",
+"date": "2025-05-12",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1149-2025"
 }
 ]
 },
@@ -11691,6 +12636,40 @@
 "joint": []
 },
 {
+"slug": "ordin-educatie-6530-2025",
+"path": "ordin/educatie/2025/6530",
+"kind": "ordin",
+"year": "2025",
+"number": "6530",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.530/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 pentru Societatea Editura Didactică și Pedagogică - S.A.",
+"short": "Ordin educatie nr. 6530/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303949",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2218",
+"date": "2025-10-21",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2218-2025"
+},
+{
+"issuer": "finante",
+"nr": "1780",
+"date": "2025-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1780-2025"
+}
+]
+},
+{
 "slug": "ordin-educatie-6538-2025",
 "path": "ordin/educatie/2025/6538",
 "kind": "ordin",
@@ -12684,6 +13663,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-14-2025",
+"path": "ordin/finante/2025/14",
+"kind": "ordin",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 14/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada ianuarie-februarie 2025",
+"short": "Ordin finante nr. 14/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293454",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-24-2025",
 "path": "ordin/finante/2025/24",
 "kind": "ordin",
@@ -12817,6 +13815,82 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-159-2025",
+"path": "ordin/finante/2025/159",
+"kind": "ordin",
+"year": "2025",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 159/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii februarie 2025",
+"short": "Ordin finante nr. 159/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294169",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-173-2025",
+"path": "ordin/finante/2025/173",
+"kind": "ordin",
+"year": "2025",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 173/2025 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 173/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294274",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-174-2025",
+"path": "ordin/finante/2025/174",
+"kind": "ordin",
+"year": "2025",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 174/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 7-14 februarie 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 174/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294275",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-182-2025",
+"path": "ordin/finante/2025/182",
+"kind": "ordin",
+"year": "2025",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 182/2025 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 5 miliarde euro sau echivalent în altă valută, prin lansarea a două serii noi de obligațiuni denominate în euro cu maturitatea de 5 ani sau mai mult și, respectiv, 9 ani sau mai mult și a unei serii denominate în dolari americani cu maturitatea de 12 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 182/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294233",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-195-2025",
 "path": "ordin/finante/2025/195",
 "kind": "ordin",
@@ -12832,6 +13906,25 @@
 "from": "2025-02-07",
 "latest": "2025-02-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/294605",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-231-2025",
+"path": "ordin/finante/2025/231",
+"kind": "ordin",
+"year": "2025",
+"number": "231",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 231/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A., în cadrul Programului Tezaur, în perioada februarie-martie 2025",
+"short": "Ordin finante nr. 231/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294624",
 "issuer": "finante",
 "joint": []
 },
@@ -12977,6 +14070,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-352-2025",
+"path": "ordin/finante/2025/352",
+"kind": "ordin",
+"year": "2025",
+"number": "352",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 352/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii martie 2025",
+"short": "Ordin finante nr. 352/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295095",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-361-2025",
 "path": "ordin/finante/2025/361",
 "kind": "ordin",
@@ -13002,6 +14114,25 @@
 "alias": "ordin-cultura-2680-2025"
 }
 ]
+},
+{
+"slug": "ordin-finante-376-2025",
+"path": "ordin/finante/2025/376",
+"kind": "ordin",
+"year": "2025",
+"number": "376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 376/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada martie-aprilie 2025",
+"short": "Ordin finante nr. 376/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295161",
+"issuer": "finante",
+"joint": []
 },
 {
 "slug": "ordin-finante-439-2025",
@@ -13038,6 +14169,25 @@
 "from": "2025-03-21",
 "latest": "2025-03-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295733",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-476-2025",
+"path": "ordin/finante/2025/476",
+"kind": "ordin",
+"year": "2025",
+"number": "476",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 476/2025 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 476/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296733",
 "issuer": "finante",
 "joint": []
 },
@@ -13134,6 +14284,25 @@
 ]
 },
 {
+"slug": "ordin-finante-530-2025",
+"path": "ordin/finante/2025/530",
+"kind": "ordin",
+"year": "2025",
+"number": "530",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 530/2025 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 4 miliarde euro, prin lansarea a două serii noi de obligațiuni denominate în euro cu maturitatea de 7 ani sau mai mult și 14 ani sau mai mult, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\", și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 530/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295884",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-533-2025",
 "path": "ordin/finante/2025/533",
 "kind": "ordin",
@@ -13149,6 +14318,101 @@
 "from": "2025-04-15",
 "latest": "2025-04-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296670",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-541-2025",
+"path": "ordin/finante/2025/541",
+"kind": "ordin",
+"year": "2025",
+"number": "541",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 541/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2025",
+"short": "Ordin finante nr. 541/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296033",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-549-2025",
+"path": "ordin/finante/2025/549",
+"kind": "ordin",
+"year": "2025",
+"number": "549",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 549/2025 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor Publice, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 549/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296330",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-550-2025",
+"path": "ordin/finante/2025/550",
+"kind": "ordin",
+"year": "2025",
+"number": "550",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 550/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada aprilie-mai 2025",
+"short": "Ordin finante nr. 550/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296326",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-551-2025",
+"path": "ordin/finante/2025/551",
+"kind": "ordin",
+"year": "2025",
+"number": "551",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 551/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 4-11 aprilie 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 551/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296327",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-589-2025",
+"path": "ordin/finante/2025/589",
+"kind": "ordin",
+"year": "2025",
+"number": "589",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 589/2025 pentru aprobarea modificării Statutului CEC BANK - S.A., aprobat prin Ordinul ministrului economiei și finanțelor nr. 425/2008",
+"short": "Ordin finante nr. 589/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296734",
 "issuer": "finante",
 "joint": []
 },
@@ -13191,6 +14455,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-728-2025",
+"path": "ordin/finante/2025/728",
+"kind": "ordin",
+"year": "2025",
+"number": "728",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 728/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2025",
+"short": "Ordin finante nr. 728/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297037",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-736-2025",
 "path": "ordin/finante/2025/736",
 "kind": "ordin",
@@ -13206,6 +14489,44 @@
 "from": "2025-05-07",
 "latest": "2025-05-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/297795",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-753-2025",
+"path": "ordin/finante/2025/753",
+"kind": "ordin",
+"year": "2025",
+"number": "753",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 753/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada mai-iunie 2025",
+"short": "Ordin finante nr. 753/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-09",
+"latest": "2025-05-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297844",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-810-2025",
+"path": "ordin/finante/2025/810",
+"kind": "ordin",
+"year": "2025",
+"number": "810",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 810/2025 pentru modificarea Ordinului ministrului finanțelor nr. 4.224/2024 privind desemnarea membrilor Comitetului director din cadrul Comitetului interministerial pentru coordonarea politicilor și acțiunilor aferente produselor din tutun și produselor conexe",
+"short": "Ordin finante nr. 810/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298194",
 "issuer": "finante",
 "joint": []
 },
@@ -13248,6 +14569,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-871-2025",
+"path": "ordin/finante/2025/871",
+"kind": "ordin",
+"year": "2025",
+"number": "871",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 871/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iunie 2025",
+"short": "Ordin finante nr. 871/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298472",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-888-2025",
+"path": "ordin/finante/2025/888",
+"kind": "ordin",
+"year": "2025",
+"number": "888",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 888/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 6-16 iunie 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 888/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298861",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-893-2025",
+"path": "ordin/finante/2025/893",
+"kind": "ordin",
+"year": "2025",
+"number": "893",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 893/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada iunie-iulie 2025",
+"short": "Ordin finante nr. 893/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298895",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-899-2025",
 "path": "ordin/finante/2025/899",
 "kind": "ordin",
@@ -13282,6 +14660,101 @@
 "from": "2025-06-16",
 "latest": "2025-06-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299066",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1086-2025",
+"path": "ordin/finante/2025/1086",
+"kind": "ordin",
+"year": "2025",
+"number": "1086",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.086/2025 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor Publice, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 1086/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299580",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1087-2025",
+"path": "ordin/finante/2025/1087",
+"kind": "ordin",
+"year": "2025",
+"number": "1087",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.087/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 4-11 iulie 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1087/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299581",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1088-2025",
+"path": "ordin/finante/2025/1088",
+"kind": "ordin",
+"year": "2025",
+"number": "1088",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.088/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2025",
+"short": "Ordin finante nr. 1088/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299572",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1093-2025",
+"path": "ordin/finante/2025/1093",
+"kind": "ordin",
+"year": "2025",
+"number": "1093",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.093/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada iulie-august 2025",
+"short": "Ordin finante nr. 1093/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299668",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1115-2025",
+"path": "ordin/finante/2025/1115",
+"kind": "ordin",
+"year": "2025",
+"number": "1115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.115/2025 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 5 miliarde euro echivalent, prin lansarea a două serii denominate în dolari americani cu maturitatea de 5 ani sau mai mult și, respectiv, 10 ani sau mai mult, precum și prin redeschiderea emisiunii de obligațiuni denominate în euro scadente în data de 11 iulie 2039, cupon 6,750%, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+"short": "Ordin finante nr. 1115/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-09",
+"latest": "2025-07-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299741",
 "issuer": "finante",
 "joint": []
 },
@@ -13377,6 +14850,82 @@
 "from": "2025-08-05",
 "latest": "2025-08-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301141",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1218-2025",
+"path": "ordin/finante/2025/1218",
+"kind": "ordin",
+"year": "2025",
+"number": "1218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.218/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 1-8 august 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1218/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300405",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1221-2025",
+"path": "ordin/finante/2025/1221",
+"kind": "ordin",
+"year": "2025",
+"number": "1221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.221/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2025",
+"short": "Ordin finante nr. 1221/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300423",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1222-2025",
+"path": "ordin/finante/2025/1222",
+"kind": "ordin",
+"year": "2025",
+"number": "1222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.222/2025 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro aferente lunii august 2025",
+"short": "Ordin finante nr. 1222/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300424",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1223-2025",
+"path": "ordin/finante/2025/1223",
+"kind": "ordin",
+"year": "2025",
+"number": "1223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.223/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada august-septembrie 2025",
+"short": "Ordin finante nr. 1223/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300425",
 "issuer": "finante",
 "joint": []
 },
@@ -13522,6 +15071,44 @@
 ]
 },
 {
+"slug": "ordin-finante-1473-2025",
+"path": "ordin/finante/2025/1473",
+"kind": "ordin",
+"year": "2025",
+"number": "1473",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.473/2025 pentru modificarea anexei la Ordinul ministrului finanțelor publice nr. 2.118/2020 privind aprobarea Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor Publice, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară",
+"short": "Ordin finante nr. 1473/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301878",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1474-2025",
+"path": "ordin/finante/2025/1474",
+"kind": "ordin",
+"year": "2025",
+"number": "1474",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.474/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 5-12 septembrie 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1474/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301879",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1480-2025",
 "path": "ordin/finante/2025/1480",
 "kind": "ordin",
@@ -13537,6 +15124,25 @@
 "from": "2025-09-09",
 "latest": "2025-09-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301956",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1484-2025",
+"path": "ordin/finante/2025/1484",
+"kind": "ordin",
+"year": "2025",
+"number": "1484",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.484/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada septembrie-octombrie 2025",
+"short": "Ordin finante nr. 1484/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-05",
+"latest": "2025-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301906",
 "issuer": "finante",
 "joint": []
 },
@@ -13671,6 +15277,63 @@
 ]
 },
 {
+"slug": "ordin-finante-1617-2025",
+"path": "ordin/finante/2025/1617",
+"kind": "ordin",
+"year": "2025",
+"number": "1617",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.617/2025 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în cadrul Programului-cadru de emisiuni de titluri de stat „Medium Term Notes”, în sumă totală de până la 4 miliarde euro, și desemnarea administratorilor tranzacției, precum și contractarea operațiunii de răscumpărare anticipată a unor serii de obligațiuni denominate în euro scadente în data de 26 februarie 2026, cupon 2,75%, 27 septembrie 2026, cupon 5,00%, și în data de 8 decembrie 2026, cupon 2,00%",
+"short": "Ordin finante nr. 1617/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-02",
+"latest": "2025-10-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302694",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1626-2025",
+"path": "ordin/finante/2025/1626",
+"kind": "ordin",
+"year": "2025",
+"number": "1626",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.626/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2025",
+"short": "Ordin finante nr. 1626/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302692",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1633-2025",
+"path": "ordin/finante/2025/1633",
+"kind": "ordin",
+"year": "2025",
+"number": "1633",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.633/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada octombrie-noiembrie 2025",
+"short": "Ordin finante nr. 1633/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302777",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1648-2025",
 "path": "ordin/finante/2025/1648",
 "kind": "ordin",
@@ -13690,6 +15353,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1656-2025",
+"path": "ordin/finante/2025/1656",
+"kind": "ordin",
+"year": "2025",
+"number": "1656",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.656/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 10-17 octombrie 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1656/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302917",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1753-2025",
 "path": "ordin/finante/2025/1753",
 "kind": "ordin",
@@ -13705,6 +15387,44 @@
 "from": "2025-10-27",
 "latest": "2025-10-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/303729",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1795-2025",
+"path": "ordin/finante/2025/1795",
+"kind": "ordin",
+"year": "2025",
+"number": "1795",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.795/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2025",
+"short": "Ordin finante nr. 1795/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303894",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1820-2025",
+"path": "ordin/finante/2025/1820",
+"kind": "ordin",
+"year": "2025",
+"number": "1820",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.820/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada noiembrie-decembrie 2025",
+"short": "Ordin finante nr. 1820/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304065",
 "issuer": "finante",
 "joint": []
 },
@@ -13743,6 +15463,25 @@
 "from": "2025-11-10",
 "latest": "2025-11-10",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304086",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1831-2025",
+"path": "ordin/finante/2025/1831",
+"kind": "ordin",
+"year": "2025",
+"number": "1831",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.831/2025 pentru modificarea Ordinului ministrului finanțelor nr. 1.795/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2025",
+"short": "Ordin finante nr. 1831/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304106",
 "issuer": "finante",
 "joint": []
 },
@@ -13804,6 +15543,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1909-2025",
+"path": "ordin/finante/2025/1909",
+"kind": "ordin",
+"year": "2025",
+"number": "1909",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.909/2025 pentru modificarea Ordinului ministrului finanțelor nr. 4.224/2024 privind desemnarea membrilor Comitetului director din cadrul Comitetului interministerial pentru coordonarea politicilor și acțiunilor aferente produselor din tutun și produselor conexe",
+"short": "Ordin finante nr. 1909/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305033",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1912-2025",
 "path": "ordin/finante/2025/1912",
 "kind": "ordin",
@@ -13819,6 +15577,25 @@
 "from": "2025-12-02",
 "latest": "2025-12-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304866",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1937-2025",
+"path": "ordin/finante/2025/1937",
+"kind": "ordin",
+"year": "2025",
+"number": "1937",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.937/2025 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 5-12 decembrie 2025, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+"short": "Ordin finante nr. 1937/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304937",
 "issuer": "finante",
 "joint": []
 },
@@ -13842,6 +15619,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1944-2025",
+"path": "ordin/finante/2025/1944",
+"kind": "ordin",
+"year": "2025",
+"number": "1944",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.944/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada decembrie 2025-ianuarie 2026",
+"short": "Ordin finante nr. 1944/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304963",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1960-2025",
 "path": "ordin/finante/2025/1960",
 "kind": "ordin",
@@ -13857,6 +15653,25 @@
 "from": "2025-12-30",
 "latest": "2025-12-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306193",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1975-2025",
+"path": "ordin/finante/2025/1975",
+"kind": "ordin",
+"year": "2025",
+"number": "1975",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.975/2025 privind prospectul de emisiune a titlurilor de stat emise în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 1975/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307188",
 "issuer": "finante",
 "joint": []
 },
@@ -13895,6 +15710,25 @@
 "from": "2025-12-22",
 "latest": "2025-12-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/305700",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-1998-2025",
+"path": "ordin/finante/2025/1998",
+"kind": "ordin",
+"year": "2025",
+"number": "1998",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.998/2025 pentru modificarea Ordinului ministrului finanțelor nr. 1.928/2025 privind prospectele de emisiune a obligațiunilor de stat de tip benchmark aferente lunii decembrie 2025",
+"short": "Ordin finante nr. 1998/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305670",
 "issuer": "finante",
 "joint": []
 },
@@ -13956,6 +15790,63 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2110-2025",
+"path": "ordin/finante/2025/2110",
+"kind": "ordin",
+"year": "2025",
+"number": "2110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.110/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii ianuarie 2026",
+"short": "Ordin finante nr. 2110/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306248",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2111-2025",
+"path": "ordin/finante/2025/2111",
+"kind": "ordin",
+"year": "2025",
+"number": "2111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.111/2025 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat cu cupon denominate în euro aferente lunii ianuarie 2026",
+"short": "Ordin finante nr. 2111/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306249",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2116-2025",
+"path": "ordin/finante/2025/2116",
+"kind": "ordin",
+"year": "2025",
+"number": "2116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.116/2025 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada ianuarie-februarie 2026",
+"short": "Ordin finante nr. 2116/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-08",
+"latest": "2026-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306296",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-2117-2025",
 "path": "ordin/finante/2025/2117",
 "kind": "ordin",
@@ -13971,6 +15862,25 @@
 "from": "2026-01-08",
 "latest": "2026-01-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306301",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-2121-2025",
+"path": "ordin/finante/2025/2121",
+"kind": "ordin",
+"year": "2025",
+"number": "2121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.121/2025 privind prospectul de emisiune a unui titlu de stat emis în vederea despăgubirii persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+"short": "Ordin finante nr. 2121/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307983",
 "issuer": "finante",
 "joint": []
 },
@@ -14154,6 +16064,60 @@
 "joint": []
 },
 {
+"slug": "ordin-fonduri-1006-2025",
+"path": "ordin/fonduri/2025/1006",
+"kind": "ordin",
+"year": "2025",
+"number": "1006",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.006/2025 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 806/1.316/2022 privind înființarea Comitetului de investiții pentru Fondul de fonduri de capital de risc pentru redresare din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 1006/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299130",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "957",
+"date": "2025-06-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-957-2025"
+}
+]
+},
+{
+"slug": "ordin-fonduri-1013-2025",
+"path": "ordin/fonduri/2025/1013",
+"kind": "ordin",
+"year": "2025",
+"number": "1013",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.013/2025 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 1.789/1.784/2022 privind înființarea Comitetului de investiții pentru Fondul de Fonduri pentru digitalizare, acțiune climatică și alte domenii de interes, finanțat din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 1013/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299132",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "950",
+"date": "2025-06-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-950-2025"
+}
+]
+},
+{
 "slug": "ordin-fonduri-1146-2025",
 "path": "ordin/fonduri/2025/1146",
 "kind": "ordin",
@@ -14323,6 +16287,60 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302329",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-5587-2025",
+"path": "ordin/fonduri/2025/5587",
+"kind": "ordin",
+"year": "2025",
+"number": "5587",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.587/2025 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 1.789/1.784/2022 privind înființarea Comitetului de investiții pentru Fondul de Fonduri pentru digitalizare, acțiune climatică și alte domenii de interes, finanțat din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 5587/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-17",
+"latest": "2025-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304200",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1849",
+"date": "2025-11-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1849-2025"
+}
+]
+},
+{
+"slug": "ordin-fonduri-5588-2025",
+"path": "ordin/fonduri/2025/5588",
+"kind": "ordin",
+"year": "2025",
+"number": "5588",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.588/2025 pentru modificarea anexei la Ordinul ministrului investițiilor și proiectelor europene și al ministrului finanțelor nr. 806/1.316/2022 privind înființarea Comitetului de investiții pentru Fondul de fonduri de capital de risc pentru redresare din cadrul Planului național de redresare și reziliență al României",
+"short": "Ordin fonduri nr. 5588/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-17",
+"latest": "2025-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304202",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1850",
+"date": "2025-11-12",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1850-2025"
+}
+]
 },
 {
 "slug": "ordin-fonduri-5615-2025",
@@ -15872,6 +17890,40 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-1346-2025",
+"path": "ordin/mediu/2025/1346",
+"kind": "ordin",
+"year": "2025",
+"number": "1346",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.346/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+"short": "Ordin mediu nr. 1346/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-02",
+"latest": "2025-06-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298485",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1163",
+"date": "2025-05-15",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1163-2025"
+},
+{
+"issuer": "finante",
+"nr": "844",
+"date": "2025-05-26",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-844-2025"
+}
+]
+},
+{
 "slug": "ordin-mediu-1359-2025",
 "path": "ordin/mediu/2025/1359",
 "kind": "ordin",
@@ -16247,6 +18299,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302859",
 "issuer": "mediu",
 "joint": []
+},
+{
+"slug": "ordin-mediu-2486-2025",
+"path": "ordin/mediu/2025/2486",
+"kind": "ordin",
+"year": "2025",
+"number": "2486",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.486/2025 ORDIN nr. 2.486/2.133/1.774/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Direcției de creștere, exploatare și ameliorare a cabalinelor, unitate cu personalitate juridică a Regiei Naționale a Pădurilor - Romsilva prevăzută la pct. 24 din anexa nr. 3 la Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 2486/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303901",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2133",
+"date": "2025-10-06",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2133-2025"
+},
+{
+"issuer": "finante",
+"nr": "1774",
+"date": "2025-10-29",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1774-2025"
+}
+]
+},
+{
+"slug": "ordin-mediu-2487-2025",
+"path": "ordin/mediu/2025/2487",
+"kind": "ordin",
+"year": "2025",
+"number": "2487",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.487/2025 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2025 ale unităților cu personalitate juridică ale Regiei Naționale a Pădurilor - Romsilva prevăzute în anexa nr. 3 pct. 1-23 din Hotărârea Guvernului nr. 229/2009 privind reorganizarea Regiei Naționale a Pădurilor - Romsilva și aprobarea regulamentului de organizare și funcționare",
+"short": "Ordin mediu nr. 2487/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303751",
+"issuer": "mediu",
+"joint": [
+{
+"issuer": "munca",
+"nr": "2134",
+"date": "2025-10-06",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2134-2025"
+},
+{
+"issuer": "finante",
+"nr": "1756",
+"date": "2025-10-24",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1756-2025"
+}
+]
 },
 {
 "slug": "ordin-mediu-2581-2025",
@@ -16656,6 +18776,33 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-1254-2025",
+"path": "ordin/munca/2025/1254",
+"kind": "ordin",
+"year": "2025",
+"number": "1254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.254/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+"short": "Ordin munca nr. 1254/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299101",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "finante",
+"nr": "928",
+"date": "2025-06-11",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-928-2025"
+}
+]
+},
+{
 "slug": "ordin-munca-1541-2025",
 "path": "ordin/munca/2025/1541",
 "kind": "ordin",
@@ -16700,6 +18847,25 @@
 "alias": "ordin-ins-1334-2025"
 }
 ]
+},
+{
+"slug": "ordin-munca-1689-2025",
+"path": "ordin/munca/2025/1689",
+"kind": "ordin",
+"year": "2025",
+"number": "1689",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.689/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Institutului Național de Cercetare Științifică în Domeniul Muncii și Protecției Sociale, aflat în coordonarea Ministerului Muncii, Familiei, Tineretului și Solidarității Sociale",
+"short": "Ordin munca nr. 1689/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302839",
+"issuer": "munca",
+"joint": []
 },
 {
 "slug": "ordin-munca-1864-2025",
@@ -17288,6 +19454,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-117-2025",
+"path": "ordin/sanatate/2025/117",
+"kind": "ordin",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 117/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 117/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-23",
+"latest": "2025-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293864",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-169-2025",
 "path": "ordin/sanatate/2025/169",
 "kind": "ordin",
@@ -17357,6 +19542,63 @@
 "from": "2025-07-09",
 "latest": "2025-07-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299732",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-201-2025",
+"path": "ordin/sanatate/2025/201",
+"kind": "ordin",
+"year": "2025",
+"number": "201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 201/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 201/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299757",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-268-2025",
+"path": "ordin/sanatate/2025/268",
+"kind": "ordin",
+"year": "2025",
+"number": "268",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 268/2025 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 268/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294200",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-323-2025",
+"path": "ordin/sanatate/2025/323",
+"kind": "ordin",
+"year": "2025",
+"number": "323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 323/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 323/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299779",
 "issuer": "sanatate",
 "joint": []
 },
@@ -17584,6 +19826,25 @@
 "alias": "ordin-cnas-1044-2025"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-471-2025",
+"path": "ordin/sanatate/2025/471",
+"kind": "ordin",
+"year": "2025",
+"number": "471",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 471/2025 privind modificarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 471/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300394",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-482-2025",
@@ -17868,6 +20129,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-640-2025",
+"path": "ordin/sanatate/2025/640",
+"kind": "ordin",
+"year": "2025",
+"number": "640",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 640/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 640/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295122",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-650-2025",
 "path": "ordin/sanatate/2025/650",
 "kind": "ordin",
@@ -17921,6 +20201,63 @@
 "from": "2025-03-21",
 "latest": "2025-03-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/295750",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-677-2025",
+"path": "ordin/sanatate/2025/677",
+"kind": "ordin",
+"year": "2025",
+"number": "677",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 677/2025 pentru modificarea anexei la Ordinul ministrului sănătății nr. 6.161/2024 privind aprobarea Regulamentului de organizare și funcționare a direcțiilor de sănătate publică județene și a municipiului București",
+"short": "Ordin sanatate nr. 677/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295193",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-704-2025",
+"path": "ordin/sanatate/2025/704",
+"kind": "ordin",
+"year": "2025",
+"number": "704",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 704/2025 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 704/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295194",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-713-2025",
+"path": "ordin/sanatate/2025/713",
+"kind": "ordin",
+"year": "2025",
+"number": "713",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 713/2025 privind modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 713/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295353",
 "issuer": "sanatate",
 "joint": []
 },
@@ -17990,6 +20327,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-733-2025",
+"path": "ordin/sanatate/2025/733",
+"kind": "ordin",
+"year": "2025",
+"number": "733",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 733/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 733/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-20",
+"latest": "2025-08-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301485",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-776-2025",
 "path": "ordin/sanatate/2025/776",
 "kind": "ordin",
@@ -18005,6 +20361,25 @@
 "from": "2025-08-27",
 "latest": "2025-08-27",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301619",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-794-2025",
+"path": "ordin/sanatate/2025/794",
+"kind": "ordin",
+"year": "2025",
+"number": "794",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 794/2025 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 794/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301664",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18085,6 +20460,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-818-2025",
+"path": "ordin/sanatate/2025/818",
+"kind": "ordin",
+"year": "2025",
+"number": "818",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 818/2025 privind modificarea anexei la Ordinul ministrului sănătății nr. 1.470/2011 pentru aprobarea criteriilor privind angajarea și promovarea în funcții, grade și trepte profesionale a personalului contractual din unitățile sanitare publice din sectorul sanitar",
+"short": "Ordin sanatate nr. 818/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301908",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-819-2025",
 "path": "ordin/sanatate/2025/819",
 "kind": "ordin",
@@ -18100,6 +20494,25 @@
 "from": "2025-08-29",
 "latest": "2025-08-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301675",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-823-2025",
+"path": "ordin/sanatate/2025/823",
+"kind": "ordin",
+"year": "2025",
+"number": "823",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 823/2025 privind completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 823/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295660",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18175,6 +20588,25 @@
 "alias": "ordin-cnas-1372-2025"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-842-2025",
+"path": "ordin/sanatate/2025/842",
+"kind": "ordin",
+"year": "2025",
+"number": "842",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 842/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 842/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301810",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-852-2025",
@@ -18360,6 +20792,44 @@
 "from": "2025-04-01",
 "latest": "2025-04-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/296034",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-954-2025",
+"path": "ordin/sanatate/2025/954",
+"kind": "ordin",
+"year": "2025",
+"number": "954",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 954/2025 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 954/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295999",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-955-2025",
+"path": "ordin/sanatate/2025/955",
+"kind": "ordin",
+"year": "2025",
+"number": "955",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 955/2025 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 955/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296012",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18621,6 +21091,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1148-2025",
+"path": "ordin/sanatate/2025/1148",
+"kind": "ordin",
+"year": "2025",
+"number": "1148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.148/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1148/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296624",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1168-2025",
 "path": "ordin/sanatate/2025/1168",
 "kind": "ordin",
@@ -18735,6 +21224,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1230-2025",
+"path": "ordin/sanatate/2025/1230",
+"kind": "ordin",
+"year": "2025",
+"number": "1230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.230/2025 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1230/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303579",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1235-2025",
 "path": "ordin/sanatate/2025/1235",
 "kind": "ordin",
@@ -18750,6 +21258,25 @@
 "from": "2025-05-07",
 "latest": "2025-05-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/297798",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1252-2025",
+"path": "ordin/sanatate/2025/1252",
+"kind": "ordin",
+"year": "2025",
+"number": "1252",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.252/2025 pentru abrogarea Ordinului ministrului sănătății nr. 1.244/2020 privind aprobarea Regulamentului pentru tratamentul intervențional al pacienților cu infarct miocardic acut și aprobarea Regulamentului pentru tratamentul urgențelor de chirurgie vasculară și urgențelor de chirurgie cardiovasculară în municipiul București",
+"short": "Ordin sanatate nr. 1252/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-05",
+"latest": "2025-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297078",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18876,6 +21403,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1296-2025",
+"path": "ordin/sanatate/2025/1296",
+"kind": "ordin",
+"year": "2025",
+"number": "1296",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.296/2025 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1296/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297128",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1297-2025",
 "path": "ordin/sanatate/2025/1297",
 "kind": "ordin",
@@ -18891,6 +21437,25 @@
 "from": "2025-05-16",
 "latest": "2025-05-16",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298094",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1325-2025",
+"path": "ordin/sanatate/2025/1325",
+"kind": "ordin",
+"year": "2025",
+"number": "1325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.325/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1325/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303674",
 "issuer": "sanatate",
 "joint": []
 },
@@ -18977,6 +21542,25 @@
 "alias": "ordin-anmcs-191-2025"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-1424-2025",
+"path": "ordin/sanatate/2025/1424",
+"kind": "ordin",
+"year": "2025",
+"number": "1424",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.424/2025 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1424/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298217",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1425-2025",
@@ -19216,6 +21800,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1554-2025",
+"path": "ordin/sanatate/2025/1554",
+"kind": "ordin",
+"year": "2025",
+"number": "1554",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.554/2025 privind aprobarea detalierii pe județe și pentru municipiul București a numărului total de paturi din unitățile sanitare publice și private pentru care casele de asigurări de sănătate pot încheia contracte de furnizare de servicii medicale spitalicești, în regim de spitalizare continuă, pentru anul 2025",
+"short": "Ordin sanatate nr. 1554/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298235",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1562-2025",
 "path": "ordin/sanatate/2025/1562",
 "kind": "ordin",
@@ -19319,6 +21922,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1614-2025",
+"path": "ordin/sanatate/2025/1614",
+"kind": "ordin",
+"year": "2025",
+"number": "1614",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.614/2025 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1614/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304681",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1636-2025",
 "path": "ordin/sanatate/2025/1636",
 "kind": "ordin",
@@ -19403,6 +22025,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1685-2025",
+"path": "ordin/sanatate/2025/1685",
+"kind": "ordin",
+"year": "2025",
+"number": "1685",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.685/2025 pentru modificarea Ordinului ministrului sănătății nr. 444/2016 privind constituirea și stabilirea atribuțiilor Comisiei de analiză și aprobare a solicitărilor depuse la Ministerul Sănătății în temeiul Ordonanței de urgență a Guvernului nr. 56/2015 privind plata tratamentului în străinătate al persoanelor a căror stare de sănătate a fost afectată în urma tragicului eveniment din data de 30 octombrie 2015 produs în clubul Colectiv din municipiul București",
+"short": "Ordin sanatate nr. 1685/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298921",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1686-2025",
 "path": "ordin/sanatate/2025/1686",
 "kind": "ordin",
@@ -19437,6 +22078,25 @@
 "from": "2025-12-02",
 "latest": "2025-12-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/304861",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1713-2025",
+"path": "ordin/sanatate/2025/1713",
+"kind": "ordin",
+"year": "2025",
+"number": "1713",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.713/2025 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1713/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305032",
 "issuer": "sanatate",
 "joint": []
 },
@@ -19544,6 +22204,25 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1827-2025",
+"path": "ordin/sanatate/2025/1827",
+"kind": "ordin",
+"year": "2025",
+"number": "1827",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.827/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1827/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305164",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1833-2025",
 "path": "ordin/sanatate/2025/1833",
 "kind": "ordin",
@@ -19578,6 +22257,25 @@
 "from": "2025-06-18",
 "latest": "2025-06-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299146",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1838-2025",
+"path": "ordin/sanatate/2025/1838",
+"kind": "ordin",
+"year": "2025",
+"number": "1838",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.838/2025 privind modificarea și completarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 1838/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299151",
 "issuer": "sanatate",
 "joint": []
 },
@@ -19620,6 +22318,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1866-2025",
+"path": "ordin/sanatate/2025/1866",
+"kind": "ordin",
+"year": "2025",
+"number": "1866",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.866/2025 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1866/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299173",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-1876-2025",
 "path": "ordin/sanatate/2025/1876",
 "kind": "ordin",
@@ -19654,6 +22371,25 @@
 "from": "2025-06-26",
 "latest": "2025-06-26",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299346",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-1903-2025",
+"path": "ordin/sanatate/2025/1903",
+"kind": "ordin",
+"year": "2025",
+"number": "1903",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.903/2025 privind modificarea și completarea Ordinului ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 1903/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305192",
 "issuer": "sanatate",
 "joint": []
 },
@@ -19864,6 +22600,82 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2085-2025",
+"path": "ordin/sanatate/2025/2085",
+"kind": "ordin",
+"year": "2025",
+"number": "2085",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.085/2025 privind modificarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2085/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299539",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2103-2025",
+"path": "ordin/sanatate/2025/2103",
+"kind": "ordin",
+"year": "2025",
+"number": "2103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.103/2025 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2103/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299399",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2104-2025",
+"path": "ordin/sanatate/2025/2104",
+"kind": "ordin",
+"year": "2025",
+"number": "2104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.104/2025 privind modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2104/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299279",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2105-2025",
+"path": "ordin/sanatate/2025/2105",
+"kind": "ordin",
+"year": "2025",
+"number": "2105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.105/2025 privind modificarea anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/ farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public",
+"short": "Ordin sanatate nr. 2105/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299341",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2132-2025",
 "path": "ordin/sanatate/2025/2132",
 "kind": "ordin",
@@ -19925,6 +22737,82 @@
 "from": "2026-01-13",
 "latest": "2026-01-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/306375",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2157-2025",
+"path": "ordin/sanatate/2025/2157",
+"kind": "ordin",
+"year": "2025",
+"number": "2157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.157/2025 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2157/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299410",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2263-2025",
+"path": "ordin/sanatate/2025/2263",
+"kind": "ordin",
+"year": "2025",
+"number": "2263",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.263/2025 privind modificarea anexei la Ordinul ministrului sănătății publice nr. 1.597/2006 pentru numirea membrilor comisiilor de avizare a donării de la donatorul viu",
+"short": "Ordin sanatate nr. 2263/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-08",
+"latest": "2026-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306286",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2264-2025",
+"path": "ordin/sanatate/2025/2264",
+"kind": "ordin",
+"year": "2025",
+"number": "2264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.264/2025 privind modificarea și completarea anexelor nr. 1, 2 și 4 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2264/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306240",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "ordin-sanatate-2280-2025",
+"path": "ordin/sanatate/2025/2280",
+"kind": "ordin",
+"year": "2025",
+"number": "2280",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.280/2025 privind modificarea anexelor nr. 1 și 4 la Ordinul ministrului sănătății nr. 5.994/2024 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative",
+"short": "Ordin sanatate nr. 2280/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306218",
 "issuer": "sanatate",
 "joint": []
 },
@@ -20622,6 +23510,40 @@
 ]
 },
 {
+"slug": "ordin-transporturi-330-2025",
+"path": "ordin/transporturi/2025/330",
+"kind": "ordin",
+"year": "2025",
+"number": "330",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 330/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Regiei Autonome \"Administrația Canalului Navigabil Bega\" Timiș",
+"short": "Ordin transporturi nr. 330/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298009",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "760",
+"date": "2025-05-07",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-760-2025"
+},
+{
+"issuer": "munca",
+"nr": "502",
+"date": "2025-04-15",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-502-2025"
+}
+]
+},
+{
 "slug": "ordin-transporturi-336-2025",
 "path": "ordin/transporturi/2025/336",
 "kind": "ordin",
@@ -20791,6 +23713,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/297880",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-427-2025",
+"path": "ordin/transporturi/2025/427",
+"kind": "ordin",
+"year": "2025",
+"number": "427",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 427/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății Carpatica Feroviar România - S.A.",
+"short": "Ordin transporturi nr. 427/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-02",
+"latest": "2025-06-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298476",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "847",
+"date": "2025-05-26",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-847-2025"
+},
+{
+"issuer": "munca",
+"nr": "1162",
+"date": "2025-05-15",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1162-2025"
+}
+]
 },
 {
 "slug": "ordin-transporturi-457-2025",
@@ -21237,6 +24193,33 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-1314-2025",
+"path": "ordin/transporturi/2025/1314",
+"kind": "ordin",
+"year": "2025",
+"number": "1314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.314/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2025 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+"short": "Ordin transporturi nr. 1314/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303883",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1786",
+"date": "2025-10-30",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1786-2025"
+}
+]
+},
+{
 "slug": "ordin-transporturi-1317-2025",
 "path": "ordin/transporturi/2025/1317",
 "kind": "ordin",
@@ -21294,6 +24277,74 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-1328-2025",
+"path": "ordin/transporturi/2025/1328",
+"kind": "ordin",
+"year": "2025",
+"number": "1328",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.328/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1328/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302485",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1522",
+"date": "2025-09-11",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1522-2025"
+},
+{
+"issuer": "munca",
+"nr": "1825",
+"date": "2025-08-19",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1825-2025"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1329-2025",
+"path": "ordin/transporturi/2025/1329",
+"kind": "ordin",
+"year": "2025",
+"number": "1329",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.329/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății \"Electrificare C.F.R.\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1329/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303625",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1680",
+"date": "2025-10-14",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1680-2025"
+},
+{
+"issuer": "munca",
+"nr": "1875",
+"date": "2025-08-22",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1875-2025"
+}
+]
+},
+{
 "slug": "ordin-transporturi-1335-2025",
 "path": "ordin/transporturi/2025/1335",
 "kind": "ordin",
@@ -21332,6 +24383,40 @@
 "joint": []
 },
 {
+"slug": "ordin-transporturi-1337-2025",
+"path": "ordin/transporturi/2025/1337",
+"kind": "ordin",
+"year": "2025",
+"number": "1337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.337/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății Tipografice \"Filaret\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1337/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303593",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1679",
+"date": "2025-10-14",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1679-2025"
+},
+{
+"issuer": "munca",
+"nr": "1902",
+"date": "2025-08-27",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1902-2025"
+}
+]
+},
+{
 "slug": "ordin-transporturi-1727-2025",
 "path": "ordin/transporturi/2025/1727",
 "kind": "ordin",
@@ -21349,6 +24434,74 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301620",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1754-2025",
+"path": "ordin/transporturi/2025/1754",
+"kind": "ordin",
+"year": "2025",
+"number": "1754",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.754/2025 ORDIN nr. 1.754/1.702/1.949/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății de Reparații Locomotive \"C.F.R. - S.C.R.L. Brașov\" - S.A., filiala Societății Naționale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A.",
+"short": "Ordin transporturi nr. 1754/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303876",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1702",
+"date": "2025-10-16",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1702-2025"
+},
+{
+"issuer": "munca",
+"nr": "1949",
+"date": "2025-09-04",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1949-2025"
+}
+]
+},
+{
+"slug": "ordin-transporturi-1755-2025",
+"path": "ordin/transporturi/2025/1755",
+"kind": "ordin",
+"year": "2025",
+"number": "1755",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.755/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății \"Grup Exploatare și Întreținere Palat C.F.R.\" - S.A.",
+"short": "Ordin transporturi nr. 1755/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303643",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1671",
+"date": "2025-10-10",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1671-2025"
+},
+{
+"issuer": "munca",
+"nr": "1960",
+"date": "2025-09-08",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1960-2025"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1774-2025",
@@ -21387,6 +24540,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302665",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1888-2025",
+"path": "ordin/transporturi/2025/1888",
+"kind": "ordin",
+"year": "2025",
+"number": "1888",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.888/2025 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Societății \"ROFERSPED\" - S.A.",
+"short": "Ordin transporturi nr. 1888/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304087",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "finante",
+"nr": "1721",
+"date": "2025-10-17",
+"name": "Ministerul Finanțelor",
+"alias": "ordin-finante-1721-2025"
+},
+{
+"issuer": "munca",
+"nr": "2150",
+"date": "2025-10-08",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-2150-2025"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1901-2025",
