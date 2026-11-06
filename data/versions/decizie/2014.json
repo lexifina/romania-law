@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "decizie/2014",
+ "acts": [
+  {
+   "slug": "decizie-ancom-582-2014",
+   "path": "decizie/ancom/2014/582",
+   "short": "Decizia ancom nr. 582/2014",
+   "title": "Decizia nr. 582/2014 privind modificarea Deciziei președintelui Autorității Naționale pentru Comunicații nr. 127/2009 privind raportarea unor date statistice de către furnizorii de servicii poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157113",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 4,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-582-2014-privind-modificarea-deciziei-preedintelui-autoritii-naionale-pentru-comunicaii-nr-127-2009-privind-raportarea-unor-date-statistice-de-ctre-fur/?link_id=Decizie_2014_5821397128453.pdf",
+     "sha256": "5fff4b8de9295af62116a188e43624849624f3aea2d73fe1ca2dfbd05b7418d8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-64-2014",
+   "path": "decizie/ancom/2014/64",
+   "short": "Decizia ancom nr. 64/2014",
+   "title": "Decizia nr. 64/2014 pentru modificarea Deciziei presedintelui Autoritatii Nationale pentru Administrare si Reglementare în Comunicații nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154909",
+   "versions": [
+    {
+     "from": "2014-01-27",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-64-2014-pentru-modificarea-deciziei-preedintelui-autoritii-naionale-pentru-administrare-i-reglementare-in-comunicaii-nr-551-2012-privind-stabilirea-tar/?link_id=decizie_64_20141395761104.pdf",
+     "sha256": "52f4fd8e70a1fa01b5e2b2c1ffd1d8e70a795c5c123472a9ab5771383e2c660e"
+    }
+   ]
+  }
+ ]
+}

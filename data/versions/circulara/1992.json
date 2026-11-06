@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "circulara/1992",
+ "acts": [
+  {
+   "slug": "circulara-bnr-20-1992",
+   "path": "circulara/bnr/1992/20",
+   "short": "Circulara bnr nr. 20/1992",
+   "title": "Circulara nr. 20/1992 pentru unele modificări ale prevederilor anexei nr. 3 la Regulamentul privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2170",
+   "versions": [
+    {
+     "from": "1992-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2170",
+     "sha256": "d409739d8eeb2d6ba89b116f5a6d27d5a35e31f00dd1c4e4194223e8365354fd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-1992",
+   "path": "circulara/bnr/1992/21",
+   "short": "Circulara bnr nr. 21/1992",
+   "title": "Circulara nr. 21/1992 pentru unele modificări ale prevederilor anexei nr. 3 la Regulamentul privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2174",
+   "versions": [
+    {
+     "from": "1992-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2174",
+     "sha256": "dc7a3ea485daf1d0630e93758b174cdc45a5e264edbcda43bf4b96ef8efd63c9"
+    }
+   ]
+  }
+ ]
+}

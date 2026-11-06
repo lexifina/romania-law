@@ -106,6 +106,681 @@
      "sha256": "737fd04c99661d1204988df6e6fe6076e4fb8734f4d198771cd551ce57afc5d0"
     }
    ]
+  },
+  {
+   "slug": "decizie-anrgn-1-2002",
+   "path": "decizie/anrgn/2002/1",
+   "short": "Decizia anrgn nr. 1/2002",
+   "title": "Decizia nr. 1/2002 privind stabilirea gradului de deschidere a pieței interne a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33447",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33447",
+     "sha256": "ca23e1f949ee4e4581a196d729c6bfdc833d87d0cd6071957c216f982ee3f0ac"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-246-2002",
+   "path": "decizie/anrgn/2002/246",
+   "short": "Decizia anrgn nr. 246/2002",
+   "title": "Decizia nr. 246/2002 privind aprobarea Metodologiei de monitorizare a pieței interne reglementate a gazelor naturale și a consumatorilor eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34284",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34284",
+     "sha256": "85b742c3196269b1132d9fddee34c9f6e6f35514087fa4edb9f5096ec64ff493"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-247-2002",
+   "path": "decizie/anrgn/2002/247",
+   "short": "Decizia anrgn nr. 247/2002",
+   "title": "Decizia nr. 247/2002 privind aprobarea Contractului-cadru de înmagazinare subterana a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34306",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34306",
+     "sha256": "786e93e7629cdbd5b682803bdd8ef59c675a386f5f5bd698dcc99bd863c9b0a1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-248-2002",
+   "path": "decizie/anrgn/2002/248",
+   "short": "Decizia anrgn nr. 248/2002",
+   "title": "Decizia nr. 248/2002 privind aprobarea Metodologiei de soluționare a neînțelegerilor precontractuale în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34300",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34300",
+     "sha256": "507a484d6d34a44177db27b0dd66c637e63bc24f28ab7f91f1e644c7eeb116da"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-249-2002",
+   "path": "decizie/anrgn/2002/249",
+   "short": "Decizia anrgn nr. 249/2002",
+   "title": "Decizia nr. 249/2002 pentru modificarea și completarea Regulamentului de constatare, notificare și sancționare a abaterilor de la reglementările emise în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34302",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34302",
+     "sha256": "f543daba5298fa7c069ea925f6f363c3ba06115e735a3eb6f4d8b316afb1027c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-493-2002",
+   "path": "decizie/anrgn/2002/493",
+   "short": "Decizia anrgn nr. 493/2002",
+   "title": "Decizia nr. 493/2002 privind retragerea acreditării de consumator eligibil de gaze naturale a Societății Comerciale \"Amonil\" - S.A. Slobozia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35533",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35533",
+     "sha256": "7dafe4de84c352d1f3d1a6a6d73a5508b5c340b23bf941de23f00688c4212e07"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-506-2002",
+   "path": "decizie/anrgn/2002/506",
+   "short": "Decizia anrgn nr. 506/2002",
+   "title": "Decizia nr. 506/2002 pentru modificarea contractelor-cadru de furnizare a gazelor naturale pentru consumatorii captivi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35568",
+   "versions": [
+    {
+     "from": "2002-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35568",
+     "sha256": "93e653fb2205aa3c35e35bd6504dffcf71d763ffe1024af2f5a0fb8b455a6c20"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-540-2002",
+   "path": "decizie/anrgn/2002/540",
+   "short": "Decizia anrgn nr. 540/2002",
+   "title": "Decizia nr. 540/2002 privind retragerea acreditării de consumator eligibil Societății Comerciale \"Sofert\" - S.A. Bacău pentru locul de consum Sofert Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36191",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36191",
+     "sha256": "890c2505acb2a2f6b5816e28a012cf7e7b5b45a67bd4fdf439125adb20a236e6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-616-2002",
+   "path": "decizie/anrgn/2002/616",
+   "short": "Decizia anrgn nr. 616/2002",
+   "title": "Decizia nr. 616/2002 pentru aprobarea Codului tehnic al sectorului gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36809",
+   "versions": [
+    {
+     "from": "2002-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36809",
+     "sha256": "f25c7ac669d5506f40371a950fdaeefbb46ddc25a11d3cae0a2ef9ff7d6d8721"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-636-2002",
+   "path": "decizie/anrgn/2002/636",
+   "short": "Decizia anrgn nr. 636/2002",
+   "title": "Decizia nr. 636/2002 de aprobare a Regulilor comerciale privind piața gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37280",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37280",
+     "sha256": "6c5170a91440130071418019898e7630cd2e4eff7161dcf09476c3525559ba56"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-637-2002",
+   "path": "decizie/anrgn/2002/637",
+   "short": "Decizia anrgn nr. 637/2002",
+   "title": "Decizia nr. 637/2002 privind modificarea și completarea Contractului-cadru de transport al gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37281",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37281",
+     "sha256": "5d5beb7f06451dc8e09b0681b642c46bd6465dd5de5f3569d21cbf5333275b78"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-638-2002",
+   "path": "decizie/anrgn/2002/638",
+   "short": "Decizia anrgn nr. 638/2002",
+   "title": "Decizia nr. 638/2002 privind modificarea și completarea Contractului-cadru de distribuție a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37282",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37282",
+     "sha256": "073b951242456cd463e41aa1e40a984386a68378122e05a875f3965e8960d5e5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-654-2002",
+   "path": "decizie/anrgn/2002/654",
+   "short": "Decizia anrgn nr. 654/2002",
+   "title": "Decizia nr. 654/2002 privind aprobarea Criteriilor și metodelor pentru calculul prețurilor și al tarifelor reglementate în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37285",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37285",
+     "sha256": "eda4c20f93ce469d1d007ef35164d93f29aa7a2708aed9d4df7007631841ab0c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-657-2002",
+   "path": "decizie/anrgn/2002/657",
+   "short": "Decizia anrgn nr. 657/2002",
+   "title": "Decizia nr. 657/2002 privind aprobarea Regulamentului de măsurare a cantităților de gaze naturale tranzacționate la consumatorii captivi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37284",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37284",
+     "sha256": "2c6e6339c2691ce49c667ff1a36126176cf2746231a3fb076753cf5e30ba0131"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-800-2002",
+   "path": "decizie/anrgn/2002/800",
+   "short": "Decizia anrgn nr. 800/2002",
+   "title": "Decizia nr. 800/2002 pentru modificarea contractelor-cadru de furnizare a gazelor naturale pentru consumatorii captivi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38192",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38192",
+     "sha256": "9cbca5f24fa2be687dcf815adbe00ac131f8206791715f9cc2e330d625b23a43"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-871-2002",
+   "path": "decizie/anrgn/2002/871",
+   "short": "Decizia anrgn nr. 871/2002",
+   "title": "Decizia nr. 871/2002 privind aprobarea Procedurii de întocmire a raportului financiar de către titularul de licența din sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39361",
+   "versions": [
+    {
+     "from": "2002-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39361",
+     "sha256": "2e71f8c44a63443a242f2375f7e29f2f95b7a24cddd0a21d5dacaf265cdb08a8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-891-2002",
+   "path": "decizie/anrgn/2002/891",
+   "short": "Decizia anrgn nr. 891/2002",
+   "title": "Decizia nr. 891/2002 privind aprobarea Normelor tehnice - de timp și de personal - pentru exploatarea în siguranța a Sistemului național de transport al gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39613",
+   "versions": [
+    {
+     "from": "2002-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39613",
+     "sha256": "f4aba61fcaa3d6a1d3980ad929abe0056172b8162c86cc0ac2e82d3d66127e8a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-938-2002",
+   "path": "decizie/anrgn/2002/938",
+   "short": "Decizia anrgn nr. 938/2002",
+   "title": "Decizia nr. 938/2002 privind aprobarea Standardului de performanță pentru serviciul de furnizare a gazelor naturale, realizat de operatorii de distribuție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40093",
+   "versions": [
+    {
+     "from": "2002-11-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40093",
+     "sha256": "0cedc8f47c5a3524f5e12e07b3b361f692cf6253d0d371c5ca65b5bb7474f283"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-939-2002",
+   "path": "decizie/anrgn/2002/939",
+   "short": "Decizia anrgn nr. 939/2002",
+   "title": "Decizia nr. 939/2002 privind aprobarea Regulamentului de constatare, notificare și sancționare a abaterilor de la reglementările emise în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40183",
+   "versions": [
+    {
+     "from": "2002-11-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40183",
+     "sha256": "ec29ac903f9077ff937250cdc7b824b9c9e6915baa7256ed3215b02338e26dac"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-974-2002",
+   "path": "decizie/anrgn/2002/974",
+   "short": "Decizia anrgn nr. 974/2002",
+   "title": "Decizia nr. 974/2002 privind aprobarea Regulamentului pentru acreditarea consumatorilor eligibili de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40781",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40781",
+     "sha256": "b0af52525159207d8ca013d7d94c599824618747f25cc661e8813c46560e10df"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-997-2002",
+   "path": "decizie/anrgn/2002/997",
+   "short": "Decizia anrgn nr. 997/2002",
+   "title": "Decizia nr. 997/2002 privind stabilirea gradului de deschidere a pieței interne a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40922",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40922",
+     "sha256": "e5c1118e3a8a4c0d69e75cb61b6198aa983513de25f92cfa1a9e351bc3754d49"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-11-2002",
+   "path": "decizie/cna/2002/11",
+   "short": "Decizia cna nr. 11/2002",
+   "title": "Decizia nr. 11/2002 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33938",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33938",
+     "sha256": "1d91dbcfaf33e510a881005b7f5b97aaaa9a640245bd852bbe03b9ba8c9c2dc8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-13-2002",
+   "path": "decizie/cna/2002/13",
+   "short": "Decizia cna nr. 13/2002",
+   "title": "Decizia nr. 13/2002 privind retragerea Licenței de emisie nr. C 2.717 din 17 mai 2001, acordată Societății Comerciale \"Mulți Service Electro\" - S.R.L. pentru localitatea Saes, județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34072",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34072",
+     "sha256": "ff242ad907d7b14a1d61b7384ae28c8708886d4a81d6765960871113af5fb909"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-130-2002",
+   "path": "decizie/cna/2002/130",
+   "short": "Decizia cna nr. 130/2002",
+   "title": "Decizia nr. 130/2002 privind difuzarea operelor audiovizuale românești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40392",
+   "versions": [
+    {
+     "from": "2002-11-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40392",
+     "sha256": "fcc2a61fbf6f2489d28161af843087c7e6f1c6c9d3d0cecaefdda3ffe6809a42"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-14-2002",
+   "path": "decizie/cna/2002/14",
+   "short": "Decizia cna nr. 14/2002",
+   "title": "Decizia nr. 14/2002 privind suspendarea cu 3 luni a duratei Deciziei de autorizare nr. 173.0 din 28 mai 1996, acordată Societății Comerciale \"S&amp;M Cosmo-Farm\" - S.R.L. pentru postul Tele 7 Parang din localitatea Petroșani, județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34073",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34073",
+     "sha256": "53710a82f6d9f06b8a1065eb5a55416c818c01fba686684711c3bb4b4568c48e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-146-2002",
+   "path": "decizie/cna/2002/146",
+   "short": "Decizia cna nr. 146/2002",
+   "title": "Decizia nr. 146/2002 privind acordarea licenței audiovizuale și eliberarea deciziei de autorizare audiovizuala pentru difuzarea pe cale radioelectrica terestra a serviciilor de programe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40530",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40530",
+     "sha256": "ebe6a887f0bf87e24a331c12d78d4eab29db6dba32dbde2ee4738a17a2e47fd7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-147-2002",
+   "path": "decizie/cna/2002/147",
+   "short": "Decizia cna nr. 147/2002",
+   "title": "Decizia nr. 147/2002 privind acordarea licenței audiovizuale și eliberarea deciziei de autorizare audiovizuala pentru difuzarea serviciilor de programe prin satelit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40535",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40535",
+     "sha256": "99bb7500f382027487c149bc7161e67e650b5777f68293bb3f17f20b17a81d45"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-42-2002",
+   "path": "decizie/cna/2002/42",
+   "short": "Decizia cna nr. 42/2002",
+   "title": "Decizia nr. 42/2002 privind reducerea cu un an a duratei Licenței de emisie nr. TV 058 din 22 septembrie 1993, acordată Societății Comerciale \"Cinemar\" - S.A. pentru postul TV-CINEMAR din Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36178",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36178",
+     "sha256": "9ec02a53d8759619bc74d0813eca1fedf1432360aca6569ed82de8be0d0628ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-51-2002",
+   "path": "decizie/cna/2002/51",
+   "short": "Decizia cna nr. 51/2002",
+   "title": "Decizia nr. 51/2002 privind scoaterea la concurs a unei frecvente de radiodifuziune locală de putere mica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36623",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36623",
+     "sha256": "931e722b80fef10499e947a60952a93c8a1c73f63c03ecfd37b8773ec3f5c6ed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-56-2002",
+   "path": "decizie/cna/2002/56",
+   "short": "Decizia cna nr. 56/2002",
+   "title": "Decizia nr. 56/2002 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37073",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37073",
+     "sha256": "cb37cd853b3098b432a50a055915a6f9f8b6cf12379b0b37c640c8900be7250a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-6-2002",
+   "path": "decizie/cna/2002/6",
+   "short": "Decizia cna nr. 6/2002",
+   "title": "Decizia nr. 6/2002 privind reducerea cu 6 luni a duratei Licenței de emisie nr. R 111 din 1 martie 1994, acordată Societății Comerciale \"Prundvilchim\" - S.R.L. pentru postul Radio Horion din Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33781",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33781",
+     "sha256": "c2551d437e8b62693e92414176b341fd0ab7af2adb6574a1ce874e05da456090"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-7-2002",
+   "path": "decizie/cna/2002/7",
+   "short": "Decizia cna nr. 7/2002",
+   "title": "Decizia nr. 7/2002 privind retragerea Licenței de emisie nr. TV 002 din 7 ianuarie 1993, acordată Societății Comerciale \"Dacia R.T.V. Europa Nova\" - S.R.L. pentru postul de televiziune Tele Europa Nova din Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33784",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33784",
+     "sha256": "6dc6f46ded6904d1a0ae52cea174ee1b82c76f7aa4f87731cd1e3b9ebfae58b1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-70-2002",
+   "path": "decizie/cna/2002/70",
+   "short": "Decizia cna nr. 70/2002",
+   "title": "Decizia nr. 70/2002 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37275",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37275",
+     "sha256": "ddb8b5f6d4bdebeefe568e4d17da70c1bfdcd55413afa2cfac959cd0c8f23989"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-78-2002",
+   "path": "decizie/cna/2002/78",
+   "short": "Decizia cna nr. 78/2002",
+   "title": "Decizia nr. 78/2002 privind protecția minorilor în cadrul serviciilor de programe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38028",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38028",
+     "sha256": "cc86092751ea79d8654224f3637d67ea2affe5c5f8e85d0b28d21b73bd128b4c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-79-2002",
+   "path": "decizie/cna/2002/79",
+   "short": "Decizia cna nr. 79/2002",
+   "title": "Decizia nr. 79/2002 privind cedarea licenței de emisie pentru comunicație audiovizuala pe cale radioelectrica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38029",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38029",
+     "sha256": "c48ee91d84c20d27e80c44d5ea39d579e10eec8de1985bbe3eeb0af4106ceb3c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-80-2002",
+   "path": "decizie/cna/2002/80",
+   "short": "Decizia cna nr. 80/2002",
+   "title": "Decizia nr. 80/2002 privind protecția demnității umane și a dreptului la propria imagine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38077",
+   "versions": [
+    {
+     "from": "2002-08-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38077",
+     "sha256": "85cbf9e3e8239c951b77da717034349c005474621993f6a1e9c39cca829b9414"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-9-2002",
+   "path": "decizie/cna/2002/9",
+   "short": "Decizia cna nr. 9/2002",
+   "title": "Decizia nr. 9/2002 privind obligațiile ce revin titularilor de licența de emisie referitor la înregistrarea programelor de radio și de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33786",
+   "versions": [
+    {
+     "from": "2002-02-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33786",
+     "sha256": "97f4d6ffc7af4c454d4a9f8d9dd5ae61f0f16b5017571c0030fbbb2e38695f78"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-96-2002",
+   "path": "decizie/cna/2002/96",
+   "short": "Decizia cna nr. 96/2002",
+   "title": "Decizia nr. 96/2002 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38603",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38603",
+     "sha256": "ce727637654b06d62b2ae538f246a50e7bf4df153b13a6bab10e2973b442e7c3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-106-2002",
+   "path": "decizie/concurenta/2002/106",
+   "short": "Decizia concurenta nr. 106/2002",
+   "title": "Decizia nr. 106/2002 privind concentrarea economică realizată de către Societatea Comercială \"Gastrotim\" - S.A. Timișoara prin dobândirea controlului unic direct asupra Societății Comerciale \"Bentocalcar\" - S.A. Gurasada",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37571",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37571",
+     "sha256": "0151f7677c7e9fbdde8f644a653c4922a40a3145ac3c351bfb2bc8ff6d8ff7fd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-175-2002",
+   "path": "decizie/concurenta/2002/175",
+   "short": "Decizia concurenta nr. 175/2002",
+   "title": "Decizia nr. 175/2002 privind concentrarea economică realizată de către Societatea Comercială \"Hewlett-Packard Company\" U.S.A. prin dobândirea controlului asupra Societății Comerciale \"Compaq Computer Corporation\" U.S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37039",
+   "versions": [
+    {
+     "from": "2002-07-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37039",
+     "sha256": "ce505241035f4dc9ce431043ff096a92e88c8d68b4f7530f29b328defb880790"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-430-2002",
+   "path": "decizie/concurenta/2002/430",
+   "short": "Decizia concurenta nr. 430/2002",
+   "title": "Decizia nr. 430/2002 privind concentrarea economică realizată de către Societatea Comercială \"Bega Reparații Vagoane\" - S.A. Timișoara prin dobândirea controlului unic direct asupra Societății Comerciale \"Mecanică\" - S.A. Negrești-Oas",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43039",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43039",
+     "sha256": "8dd97a7c86d56821d22d5735c48b968b04cdcc8400c4e42587313f67e1b3a204"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-69-2002",
+   "path": "decizie/concurenta/2002/69",
+   "short": "Decizia concurenta nr. 69/2002",
+   "title": "Decizia nr. 69/2002 privind concentrarea economică realizată de către Societatea Comercială \"Metaleuroest\" - S.R.L. Câmpina prin dobândirea controlului unic direct asupra Societății Comerciale \"Elsid\" - S.A. Titu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37567",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37567",
+     "sha256": "613573c731d7ac589300a6544848a023a71bb4da8b02af3aa369fcbc85d08a1a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-77-2002",
+   "path": "decizie/concurenta/2002/77",
+   "short": "Decizia concurenta nr. 77/2002",
+   "title": "Decizia nr. 77/2002 privind concentrarea economică realizată de către Societatea Comercială \"Begatrans\" - S.A. Timișoara prin dobândirea controlului unic direct asupra Societății Comerciale \"Real\" - S.A. Pleasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34762",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34762",
+     "sha256": "a9264db4c0eb3ea0a16fc31252d6ab3196cc54779fcb075fde50d3337f3db57f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-87-2002",
+   "path": "decizie/concurenta/2002/87",
+   "short": "Decizia concurenta nr. 87/2002",
+   "title": "Decizia nr. 87/2002 privind autorizarea concentrării economice dintre Societatea Comercială \"Bega\" - S.A. și Societatea Comercială \"Optica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34772",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34772",
+     "sha256": "0c9394375554c8f456eb132d7eb4ad4104d3fab03daeb4fb600c8f878358b965"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-90-2002",
+   "path": "decizie/concurenta/2002/90",
+   "short": "Decizia concurenta nr. 90/2002",
+   "title": "Decizia nr. 90/2002 privind autorizarea concentrării economice la Societatea Comercială \"Herzfeld &amp; Rubin (România)\" - S.R.L. Municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37918",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37918",
+     "sha256": "0f13d2a0925f563315cec1a9c633e8b7870cc185c66ba12e27c7d3b6a9313d54"
+    }
+   ]
   }
  ]
 }

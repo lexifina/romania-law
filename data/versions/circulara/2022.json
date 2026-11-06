@@ -3,6 +3,156 @@
  "shard": "circulara/2022",
  "acts": [
   {
+   "slug": "circulara-bnr-1-2022",
+   "path": "circulara/bnr/2022/1",
+   "short": "Circulara bnr nr. 1/2022",
+   "title": "Circulara nr. 1/2022 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250362",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20495-circulara-1-2022",
+     "sha256": "1b11fce443e2096222035ac88e4e47034d5fedad0a735bd06f80f783680b7083"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2022",
+   "path": "circulara/bnr/2022/10",
+   "short": "Circulara bnr nr. 10/2022",
+   "title": "Circulara nr. 10/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255077",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19363-circulara-10-2022",
+     "sha256": "11c344fce545f7fcc74a1da32e4a0b4111be0057033a39026102a935ea7f2de8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2022",
+   "path": "circulara/bnr/2022/11",
+   "short": "Circulara bnr nr. 11/2022",
+   "title": "Circulara nr. 11/2022 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255028",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19313-circulara-11-2022",
+     "sha256": "6abcd78f7dd8dbc3e91a71dc94c4167bda1af6a7f30b422f71a1ff9862f1d65f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2022",
+   "path": "circulara/bnr/2022/12",
+   "short": "Circulara bnr nr. 12/2022",
+   "title": "Circulara nr. 12/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255655",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21923-circulara-12-2022",
+     "sha256": "08b4c7ba36fea2be388c53198ff35c042ef0dce15bceb43c1af28bc3515800e6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2022",
+   "path": "circulara/bnr/2022/13",
+   "short": "Circulara bnr nr. 13/2022",
+   "title": "Circulara nr. 13/2022 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 aprilie-23 mai 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255555",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19479-circulara-13-2022",
+     "sha256": "e91dbb075a421505cf43b37a6f360a4fa2e44b1212dc182ed82ae0ed58120abf"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2022",
+   "path": "circulara/bnr/2022/14",
+   "short": "Circulara bnr nr. 14/2022",
+   "title": "Circulara nr. 14/2022 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii constituite în lei începând cu perioada de aplicare 24 mai-23 iunie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255556",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20432-circulara-14-2022",
+     "sha256": "9b4f276a2798c8f3e6078321bef117cd0b834e9f41d1d52cd0b2d79a4ddff9bd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2022",
+   "path": "circulara/bnr/2022/15",
+   "short": "Circulara bnr nr. 15/2022",
+   "title": "Circulara nr. 15/2022 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 mai-23 iunie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256646",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20316-circulara-15-2022",
+     "sha256": "7d3e5bbb7285d282c16ceb584fa530a066c7898f196011c67a60c4966025a411"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2022",
+   "path": "circulara/bnr/2022/16",
+   "short": "Circulara bnr nr. 16/2022",
+   "title": "Circulara nr. 16/2022 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari începând cu perioada de aplicare 24 mai-23 iunie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256647",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21941-circulara-16-2022",
+     "sha256": "4582afd5813fcdfd90ae14adfa5772b9ec22d9b58ca01f2048033afbba173e4a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2022",
+   "path": "circulara/bnr/2022/17",
+   "short": "Circulara bnr nr. 17/2022",
+   "title": "Circulara nr. 17/2022 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257362",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21922-circulara-17-2022",
+     "sha256": "01e3e1576ce78ff1cde74993e746fc78ae486c13038cc8845cbf0b93e30b0c59"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2022",
+   "path": "circulara/bnr/2022/18",
+   "short": "Circulara bnr nr. 18/2022",
+   "title": "Circulara nr. 18/2022",
+   "url": "https://www.bnr.ro/21910-circulara-18-2022",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21910-circulara-18-2022",
+     "sha256": "e7785d15db3b089e151c7cf73707fd91509bfe420266fb0abb6cc7c08acbd780"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-19-2022",
    "path": "circulara/bnr/2022/19",
    "short": "Circulara bnr nr. 19/2022",
@@ -14,6 +164,21 @@
      "units": 1,
      "source_url": "https://www.bnr.ro/19646-circulara-19-2022",
      "sha256": "48e4779a2f4dc5fe941cf0a70264da766a63abf5811bb3d16a48c7549cb78315"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2022",
+   "path": "circulara/bnr/2022/2",
+   "short": "Circulara bnr nr. 2/2022",
+   "title": "Circulara nr. 2/2022 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 decembrie 2021-23 ianuarie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250555",
+   "versions": [
+    {
+     "from": "2022-01-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21897-circulara-2-2022",
+     "sha256": "2e4dd62e987fffd6ea9c087f6c9dc171982f9058d3344ebf785821750f23c3e5"
     }
    ]
   },
@@ -168,6 +333,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-3-2022",
+   "path": "circulara/bnr/2022/3",
+   "short": "Circulara bnr nr. 3/2022",
+   "title": "Circulara nr. 3/2022 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii constituite în lei începând cu perioada de aplicare 24 ianuarie-23 februarie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250556",
+   "versions": [
+    {
+     "from": "2022-01-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21945-circulara-3-2022",
+     "sha256": "c05b6ebdf9536e45ab806d8c2471cbc6f7f77e16dfc91f63210a54b0a7e6f3b9"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-30-2022",
    "path": "circulara/bnr/2022/30",
    "short": "Circulara bnr nr. 30/2022",
@@ -318,6 +498,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-4-2022",
+   "path": "circulara/bnr/2022/4",
+   "short": "Circulara bnr nr. 4/2022",
+   "title": "Circulara nr. 4/2022 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251535",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19258-circulara-4-2022",
+     "sha256": "fbf895d7450db71402b34b2f3ec5816e7882fc7e67c17fd6dfd5335ca34934f6"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-40-2022",
    "path": "circulara/bnr/2022/40",
    "short": "Circulara bnr nr. 40/2022",
@@ -449,6 +644,81 @@
      "units": 6,
      "source_url": "https://www.bnr.ro/20498-circulara-48-2022",
      "sha256": "13a3dec4219fc72f19d8450c3f0c4c1b2e87ac2801f92cd7e7c670cb892e6e65"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2022",
+   "path": "circulara/bnr/2022/5",
+   "short": "Circulara bnr nr. 5/2022",
+   "title": "Circulara nr. 5/2022 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii constituite în lei începând cu perioada de aplicare 24 februarie-23 martie 2022",
+   "url": "https://www.bnr.ro/21915-circulara-5-2022",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21915-circulara-5-2022",
+     "sha256": "d272721ecafffa65a7e19b005e969cea50f8b3d5517ceb2812e8f3d68717f5e5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2022",
+   "path": "circulara/bnr/2022/6",
+   "short": "Circulara bnr nr. 6/2022",
+   "title": "Circulara nr. 6/2022 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 februarie-23 martie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252803",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19478-circulara-6-2022",
+     "sha256": "3d5889544ee86f135c1a1f520ea9b3c4a608f2df0df1b67c0c85ba236297a99e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2022",
+   "path": "circulara/bnr/2022/7",
+   "short": "Circulara bnr nr. 7/2022",
+   "title": "Circulara nr. 7/2022 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253658",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21909-circulara-7-2022",
+     "sha256": "296fca257e9f4aebe46fa823bdca3147e328a6afe63dd181e73bcfb79713c42a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2022",
+   "path": "circulara/bnr/2022/8",
+   "short": "Circulara bnr nr. 8/2022",
+   "title": "Circulara nr. 8/2022 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 martie-23 aprilie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253924",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19340-circulara-8-2022",
+     "sha256": "8b302ca1a41fa04be1699e676b8e5a7f92338ec8e6a545f5365384b5f0cc4d1c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2022",
+   "path": "circulara/bnr/2022/9",
+   "short": "Circulara bnr nr. 9/2022",
+   "title": "Circulara nr. 9/2022 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii constituite în lei începând cu perioada de aplicare 24 aprilie-23 mai 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253925",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19428-circulara-9-2022",
+     "sha256": "e5d63e937eda1f5eb30feec033d28dce66cbbf9a4b74af4b19ecad5a0fba40bd"
     }
    ]
   }

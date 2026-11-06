@@ -16156,6 +16156,96 @@
      "sha256": "123a3477962f7f0379e6622a34e96371baf06c308f9c41650f822243e193c727"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-252-2021",
+   "path": "ordin/bnr/2021/252",
+   "short": "Ordin bnr nr. 252/2021",
+   "title": "Ordinul nr. 252/2021 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății TRANS PEC LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/19423-ordin-252-2021",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19423-ordin-252-2021",
+     "sha256": "3358ba992a2120f8c99da2becdcf8a29fd7ee3bc0c9e335a1f0928d73ebefffd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-280-2021",
+   "path": "ordin/bnr/2021/280",
+   "short": "Ordin bnr nr. 280/2021",
+   "title": "Ordinul nr. 280/2021 privind publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare a Societății EUROTATI IFN - S.A",
+   "url": "https://www.bnr.ro/19257-ordin-280-2021",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19257-ordin-280-2021",
+     "sha256": "8949edf995c221fc0f7da95fd6f5d32441a96fd23b9ab7973aecc8e885e05135"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-281-2021",
+   "path": "ordin/bnr/2021/281",
+   "short": "Ordin bnr nr. 281/2021",
+   "title": "Ordinul nr. 281/2021 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății BGA MICROCREDIT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246777",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20322-ordin-281-2021",
+     "sha256": "0c17b6d1db664df058e3551397eb166f5c6a406eb20ca7ddc15b63b01661032d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-293-2021",
+   "path": "ordin/bnr/2021/293",
+   "short": "Ordin bnr nr. 293/2021",
+   "title": "Ordinul nr. 293/2021 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății TBI LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/20356-ordin-293-2021",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20356-ordin-293-2021",
+     "sha256": "80e7be40d8f3cf003d11934cf0d04cee77bfac315d7b9cf6c3a617241455f845"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-314-2021",
+   "path": "ordin/bnr/2021/314",
+   "short": "Ordin bnr nr. 314/2021",
+   "title": "Ordinul nr. 314/2021 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a societății PRO VITAL CREDIT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247530",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19467-ordin-314-2021",
+     "sha256": "a9cc0157625a80274c112f16c695b52d9a4dde41f2256d89b8bfee9d3ef99ab5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-386-2021",
+   "path": "ordin/bnr/2021/386",
+   "short": "Ordin bnr nr. 386/2021",
+   "title": "Ordinul nr. 386/2021 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății PHOENIX CREDIT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249145",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21937-ordin-386-2021",
+     "sha256": "787b2619b9a780bb898c06a2a90c0a0c2079d8515aacdc44178181ec325dacc1"
+    }
+   ]
   }
  ]
 }

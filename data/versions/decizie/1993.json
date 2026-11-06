@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "decizie/1993",
+ "acts": [
+  {
+   "slug": "decizie-cna-105-1993",
+   "path": "decizie/cna/1993/105",
+   "short": "Decizia cna nr. 105/1993",
+   "title": "Decizia nr. 105/1993 pentru aprobarea Normelor obligatorii privind realizarea publicității în cadrul programelor audiovizuale radiodifuzate sau distribuite prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3299",
+   "versions": [
+    {
+     "from": "1993-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3299",
+     "sha256": "68da82fa090a83907a88e9c307e3ef1e5eecb1541dae33c51602866aae7fdb8f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-175-1993",
+   "path": "decizie/cna/1993/175",
+   "short": "Decizia cna nr. 175/1993",
+   "title": "Decizia nr. 175/1993 privind aprobarea Normelor obligatorii pentru acordarea și programarea dreptului la replica în cadrul programelor audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3354",
+   "versions": [
+    {
+     "from": "1993-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3354",
+     "sha256": "33d7c4d32fbc220c75ef4ab9404b0cf2bfe75fb8bec525a90ff63f31807797e0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-190-1993",
+   "path": "decizie/cna/1993/190",
+   "short": "Decizia cna nr. 190/1993",
+   "title": "Decizia nr. 190/1993 privind acordarea licențelor de emisie pentru televiziune în trimestrul IV/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3369",
+   "versions": [
+    {
+     "from": "1994-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3369",
+     "sha256": "e8c7f8a11085cfbd615623a02b98fc4248dcf94f9dcec1557a377d675c79cc65"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-191-1993",
+   "path": "decizie/cna/1993/191",
+   "short": "Decizia cna nr. 191/1993",
+   "title": "Decizia nr. 191/1993 privind acordarea licențelor de emisie pentru radiodifuziune în trimestrul IV/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3370",
+   "versions": [
+    {
+     "from": "1994-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3370",
+     "sha256": "5ec672ff8f5d0450616a64356623933431a0ec1753834b64da938729e5f70cef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-82-1993",
+   "path": "decizie/cna/1993/82",
+   "short": "Decizia cna nr. 82/1993",
+   "title": "Decizia nr. 82/1993 privind acordarea licențelor de emisie pentru radiodifuziune/televiziune transmisă prin cablu, în trimestrul I/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17503",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17503",
+     "sha256": "05b19003440a57b7c773c6e1b8954c6e58021f98e1ca921906630031956b2eff"
+    }
+   ]
+  }
+ ]
+}

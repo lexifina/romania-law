@@ -19008,6 +19008,81 @@
    ]
   },
   {
+   "slug": "ordin-bnr-138-2022",
+   "path": "ordin/bnr/2022/138",
+   "short": "Ordin bnr nr. 138/2022",
+   "title": "Ordinul nr. 138/2022 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății APS CONSUMER FINANCE IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255412",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19645-ordin-138-2022",
+     "sha256": "b89bb80fba4e7bcd407fc13a282cbfb907765d592d9c2c1c3c7652d447c6b7fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-186-2022",
+   "path": "ordin/bnr/2022/186",
+   "short": "Ordin bnr nr. 186/2022",
+   "title": "Ordinul nr. 186/2022 privind publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare a societății FONDUL DE GARANTARE A CAPACITĂȚII FINANCIARE IFN - S.A",
+   "url": "https://www.bnr.ro/19420-ordin-186-2022",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19420-ordin-186-2022",
+     "sha256": "2bfd7d8d9bc8e81736a7363d7189869a480e99267a95bfff8ecebe2f3bae042e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-21-2022",
+   "path": "ordin/bnr/2022/21",
+   "short": "Ordin bnr nr. 21/2022",
+   "title": "Ordinul nr. 21/2022 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății BIOCHEM CREDITARE IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251236",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19492-ordin-21-2022",
+     "sha256": "f5bf248ca229acb7967f1d559237c6e3cb0c3c2477a30920e3d79ab6518ec113"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-30-2022",
+   "path": "ordin/bnr/2022/30",
+   "short": "Ordin bnr nr. 30/2022",
+   "title": "Ordinul nr. 30/2022 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății IFN TOP LEASING - S.A., în faliment",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251439",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19468-ordin-30-2022",
+     "sha256": "f325228a8404dc90cb7c0e5382db2ea035fc0166c9abf00ce7152730f7bf8cea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-42-2022",
+   "path": "ordin/bnr/2022/42",
+   "short": "Ordin bnr nr. 42/2022",
+   "title": "Ordinul nr. 42/2022 privind publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare a Societății RD Leasing IFN - S.A",
+   "url": "https://www.bnr.ro/20323-ordin-42-2022",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20323-ordin-42-2022",
+     "sha256": "c1eb0eea3acf98d37c2b6965ddb19d0dbbdb7c1dd80116225859db3ec4bd7630"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-6-2022",
    "path": "ordin/bnr/2022/6",
    "short": "Ordin bnr nr. 6/2022",
@@ -19019,6 +19094,21 @@
      "units": 3,
      "source_url": "https://www.bnr.ro/19368-ordin-6-2022",
      "sha256": "e3cc301c8cc356de268e4aa0f37285de65e7868e5d12bfdff7e09848bcdeb7d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-66-2022",
+   "path": "ordin/bnr/2022/66",
+   "short": "Ordin bnr nr. 66/2022",
+   "title": "Ordinul nr. 66/2022 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății VISION LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252351",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20501-ordin-66-2022",
+     "sha256": "84a4aeda971afb6584eb48debfb8020e57148e193eef4c9ac634cf948bb30e8a"
     }
    ]
   }

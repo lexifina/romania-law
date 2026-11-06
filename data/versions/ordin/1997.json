@@ -3046,6 +3046,36 @@
      "sha256": "ea0b913214885732193c842f2515a2e88ae0c42cd6502b680f51a1689b04311d"
     }
    ]
+  },
+  {
+   "slug": "ordin-cnvm-4-1997",
+   "path": "ordin/cnvm/1997/4",
+   "short": "Ordin cnvm nr. 4/1997",
+   "title": "Ordinul nr. 4/1997 pentru aprobarea Instrucțiunilor nr. 2/1997 cuprinzând normele privind transferul societăților comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10817",
+   "versions": [
+    {
+     "from": "1997-02-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10817",
+     "sha256": "a4b3c3424270b7383013a40505197b4a555b693cb034f9cc7513442c2f3e1de0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-6-1997",
+   "path": "ordin/cnvm/1997/6",
+   "short": "Ordin cnvm nr. 6/1997",
+   "title": "Ordinul nr. 6/1997 pentru aprobarea Regulamentului nr. 3/1997 de completare a Regulamentului nr. 4/1996 privind autorizarea temporară a agenților de valori mobiliare în vederea vânzării acțiunilor dobândite din programul de privatizare în masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10854",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10854",
+     "sha256": "aa4f1854a8f39e9bf467bd17d8fb0acbec76aa35bebcebaca4329f2474af3230"
+    }
+   ]
   }
  ]
 }

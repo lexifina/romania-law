@@ -12136,6 +12136,36 @@
      "sha256": "e607d498f623f6341948f4ccfea9b435ee5ab3b2578c3ce552e6a665d3b19361"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-100-2026",
+   "path": "ordin/bnr/2026/100",
+   "short": "Ordin bnr nr. 100/2026",
+   "title": "Ordinul nr. 100/2026 privind publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare a Societății CREDIT MARKET IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309816",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/25435-ordin-100-2026",
+     "sha256": "3bc33f0695223bca3027211d379f1fc71656c98467509c015efd6f98127d3f70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-98-2026",
+   "path": "ordin/bnr/2026/98",
+   "short": "Ordin bnr nr. 98/2026",
+   "title": "Ordinul nr. 98/2026 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății TBI MONEY IFN - S.A. (actualmente LENVIARSA MONEY SOLUTIONS IFN - S.A.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309815",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/25434-ordin-98-2026",
+     "sha256": "4ad16b80763964fe31a49f1e0da4e1ac53e3dadcbcea87451e9a7c7f09d86c76"
+    }
+   ]
   }
  ]
 }

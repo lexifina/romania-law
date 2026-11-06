@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "circulara/2019",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2019",
+   "path": "circulara/bnr/2019/1",
+   "short": "Circulara bnr nr. 1/2019",
+   "title": "Circulara nr. 1/2019 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari SUA începând cu perioada de aplicare 24 decembrie 2018-23 ianuarie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210062",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21759-circulara-1-2019",
+     "sha256": "55ad52ec51f12b14b9666e065f1571a56a9e556211844119ff86a582acbf428b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2019",
+   "path": "circulara/bnr/2019/10",
+   "short": "Circulara bnr nr. 10/2019",
+   "title": "Circulara nr. 10/2019 privind lansarea în circuitul numismatic a unor monede din aur și alamă pentru colecționare și punerea în circulație a unei monede din alamă, cu tema Vizita Apostolică a Sanctității Sale Papa Francisc în România",
+   "url": "https://www.bnr.ro/20065-circulara-10-2019",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 7,
+     "source_url": "https://www.bnr.ro/20065-circulara-10-2019",
+     "sha256": "4a2c8297f46c7a2359bbe7d3a1d4978eb9cbb01a47eb7b380dbd72c2ce6537c8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2019",
+   "path": "circulara/bnr/2019/11",
+   "short": "Circulara bnr nr. 11/2019",
+   "title": "Circulara nr. 11/2019 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 mai-23 iunie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215049",
+   "versions": [
+    {
+     "from": "2019-06-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21550-circulara-11-2019",
+     "sha256": "a4bcb01582bbb298204352f2ab5cd0456cafd0302a061701242a9a9484c4ed75"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2019",
+   "path": "circulara/bnr/2019/12",
+   "short": "Circulara bnr nr. 12/2019",
+   "title": "Circulara nr. 12/2019",
+   "url": "https://www.bnr.ro/21762-circulara-12-2019",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21762-circulara-12-2019",
+     "sha256": "4d9c3274f1f6a4a33d0e134208a0aed1c312ff652423526099ccbb11f04a4611"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2019",
+   "path": "circulara/bnr/2019/14",
+   "short": "Circulara bnr nr. 14/2019",
+   "title": "Circulara nr. 14/2019 privind lansarea în circuitul numismatic a unor monede din aur și alamă pentru colecționare și punerea în circulație a unei monede din alamă, cu tema Desăvârșirea Marii Uniri - Regele Ferdinand I Întregitorul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217281",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 7,
+     "source_url": "https://www.bnr.ro/20358-circulara-14-2019",
+     "sha256": "9515fe6527d4aa14b9faff8ef8aeb18295918718a0771d24ea1778ce07a95c74"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2019",
+   "path": "circulara/bnr/2019/15",
+   "short": "Circulara bnr nr. 15/2019",
+   "title": "Circulara nr. 15/2019 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 iulie-23 august 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217236",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20353-circulara-15-2019",
+     "sha256": "f997e13a74015122af5f43e8b617979a99c16e125769dd46cc95ac8493f620c0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2019",
+   "path": "circulara/bnr/2019/16",
+   "short": "Circulara bnr nr. 16/2019",
+   "title": "Circulara nr. 16/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema 140 de ani de la înființarea Societății de Cultură Macedo-Română",
+   "url": "https://www.bnr.ro/21679-circulara-16-2019",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21679-circulara-16-2019",
+     "sha256": "279f9b56f869f4fdfc251427e3f6ca64273b00f7d15b393a5aff9c68df79097b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2019",
+   "path": "circulara/bnr/2019/17",
+   "short": "Circulara bnr nr. 17/2019",
+   "title": "Circulara nr. 17/2019 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 august-23 septembrie 2019",
+   "url": "https://www.bnr.ro/20087-circulara-17-2019",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20087-circulara-17-2019",
+     "sha256": "4c02ac113ad37f50cb965de6d5f721b363d83456fbeab204ef501feb33b67b5f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2019",
+   "path": "circulara/bnr/2019/18",
+   "short": "Circulara bnr nr. 18/2019",
+   "title": "Circulara nr. 18/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de învățământ superior românesc la Cluj",
+   "url": "https://www.bnr.ro/21546-circulara-18-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21546-circulara-18-2019",
+     "sha256": "91375ba8d90f0cd6a336081bae1c02f92e72674dff5d36f3290e0d51c7974fa1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2019",
+   "path": "circulara/bnr/2019/19",
+   "short": "Circulara bnr nr. 19/2019",
+   "title": "Circulara nr. 19/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema 75 de ani de la eliberarea Ardealului de Nord",
+   "url": "https://www.bnr.ro/19816-circulara-19-2019",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19816-circulara-19-2019",
+     "sha256": "d079871aa761f0989ad288cc5288026e10cc40cc5801380d346e19b6e856dc25"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2019",
+   "path": "circulara/bnr/2019/2",
+   "short": "Circulara bnr nr. 2/2019",
+   "title": "Circulara nr. 2/2019 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 ianuarie-23 februarie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211044",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19845-circulara-2-2019",
+     "sha256": "ec9b9da18e7ea1c69feeec523f131fbd64c3cafa8be68e5179812b694548920b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2019",
+   "path": "circulara/bnr/2019/20",
+   "short": "Circulara bnr nr. 20/2019",
+   "title": "Circulara nr. 20/2019 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 septembrie-23 octombrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218946",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20425-circulara-20-2019",
+     "sha256": "c24569c8357a1a9599f14a6ae70119524a467e3114ac2e9a111e6ffb3b86d66c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2019",
+   "path": "circulara/bnr/2019/21",
+   "short": "Circulara bnr nr. 21/2019",
+   "title": "Circulara nr. 21/2019 privind lansarea în circuitul numismatic a unor monede din aur și alamă pentru colecționare și punerea în circulație a unei monede din alamă, cu tema Desăvârșirea Marii Uniri - Regina Maria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219092",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 7,
+     "source_url": "https://www.bnr.ro/20427-circulara-21-2019",
+     "sha256": "2fe9a7e37af1528e6c6dce03025ad12177344bd6512d4c534f61b4bd7fa9934d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2019",
+   "path": "circulara/bnr/2019/22",
+   "short": "Circulara bnr nr. 22/2019",
+   "title": "Circulara nr. 22/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema 70 de ani de la stabilirea relațiilor politico-diplomatice între România și Republica Populară Chineză",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219709",
+   "versions": [
+    {
+     "from": "2019-11-11",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20428-circulara-22-2019",
+     "sha256": "581b25538afa4e5a4f2d3fe50b1109e2e47a5aad3da7b03e5e393dd3459bbb3c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2019",
+   "path": "circulara/bnr/2019/23",
+   "short": "Circulara bnr nr. 23/2019",
+   "title": "Circulara nr. 23/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema 75 de ani de la înființarea Universității de Vest din Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219920",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20430-circulara-23-2019",
+     "sha256": "0272859b994e9186eefc3ec0c2b1ecf8353a34cf95aab43849691ea3043ac8c6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2019",
+   "path": "circulara/bnr/2019/24",
+   "short": "Circulara bnr nr. 24/2019",
+   "title": "Circulara nr. 24/2019 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 octombrie-23 noiembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219921",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20452-circulara-24-2019",
+     "sha256": "fe5c08a053f87d04b50a7d5205684ab46342240551e7894a65dc7f0a19badf73"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2019",
+   "path": "circulara/bnr/2019/25",
+   "short": "Circulara bnr nr. 25/2019",
+   "title": "Circulara nr. 25/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220515",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20453-circulara-25-2019",
+     "sha256": "49990974c36ca1891be2bf6a6e6fdc1f16eee972c2f7b2c40a4a7025da449ad0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2019",
+   "path": "circulara/bnr/2019/26",
+   "short": "Circulara bnr nr. 26/2019",
+   "title": "Circulara nr. 26/2019 privind lansarea în circuitul numismatic a unor monede din argint și alamă pentru colecționare și punerea în circulație a unei monede din alamă, cu tema 30 de ani de la Revoluția Română din Decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220992",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 7,
+     "source_url": "https://www.bnr.ro/20455-circulara-26-2019",
+     "sha256": "01a2e483b4f52d7dac972801a52aa21083c9757fb0d3ce17a1945223e7abf14b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2019",
+   "path": "circulara/bnr/2019/27",
+   "short": "Circulara bnr nr. 27/2019",
+   "title": "Circulara nr. 27/2019 privind lansarea în circuitul numismatic a unei monede din aur dedicate împlinirii a 90 de ani de la publicarea romanului interbelic Craii de Curtea-Veche",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221721",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19710-circulara-27-2019",
+     "sha256": "2d842a6e78cfc4b76a546bb5bc7982b68bb7b4eab966ca12e0c183bf90426424"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2019",
+   "path": "circulara/bnr/2019/3",
+   "short": "Circulara bnr nr. 3/2019",
+   "title": "Circulara nr. 3/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211903",
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21204-circulara-3-2019",
+     "sha256": "4aa8ad7badc7bf9a585206585d53094fb1d2e5b2e57157212da2bb591c6e6e9d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2019",
+   "path": "circulara/bnr/2019/4",
+   "short": "Circulara bnr nr. 4/2019",
+   "title": "Circulara nr. 4/2019 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 februarie-23 martie 2019",
+   "url": "https://www.bnr.ro/21205-circulara-4-2019",
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21205-circulara-4-2019",
+     "sha256": "61f77b8bf95709dff6a27c26f5b027b5554c2e4f76350035e36afb6f18e3a120"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2019",
+   "path": "circulara/bnr/2019/5",
+   "short": "Circulara bnr nr. 5/2019",
+   "title": "Circulara nr. 5/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de la adoptarea calendarului gregorian de către România",
+   "url": "https://www.bnr.ro/19846-circulara-5-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19846-circulara-5-2019",
+     "sha256": "b1469f76feb12cf00831cfb9aa93cf30a2e87897d3371e3797bb80127e4b4ba7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2019",
+   "path": "circulara/bnr/2019/6",
+   "short": "Circulara bnr nr. 6/2019",
+   "title": "Circulara nr. 6/2019 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA, începând cu perioada de aplicare 24 martie-23 aprilie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212700",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21206-circulara-6-2019",
+     "sha256": "80b9f7340cafe9a539aea2cfd00a6eda6faa8f21208de99f4b4b378b97789731"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2019",
+   "path": "circulara/bnr/2019/7",
+   "short": "Circulara bnr nr. 7/2019",
+   "title": "Circulara nr. 7/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema Desăvârșirea Marii Uniri - Henri Mathias Berthelot",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213002",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20349-circulara-7-2019",
+     "sha256": "8d9066c7a9167ac6bd4d1ae9b76289f40465595badcd2c5f7db418e0b778c877"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2019",
+   "path": "circulara/bnr/2019/8",
+   "short": "Circulara bnr nr. 8/2019",
+   "title": "Circulara nr. 8/2019 privind lansarea în circuitul numismatic a unei monede din argint cu tema Desăvârșirea Marii Uniri - Emmanuel de Martonne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213830",
+   "versions": [
+    {
+     "from": "2019-05-13",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20350-circulara-8-2019",
+     "sha256": "efda8bc8fabd7f2940f95b60189d3ff13782d13258e991b2493f92c96c51db14"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2019",
+   "path": "circulara/bnr/2019/9",
+   "short": "Circulara bnr nr. 9/2019",
+   "title": "Circulara nr. 9/2019 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 aprilie-23 mai 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214113",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20351-circulara-9-2019",
+     "sha256": "69970ccb20fc8c518cbfc336afd65d36762b061faedf30a878db7231f5fb3cfe"
+    }
+   ]
+  }
+ ]
+}

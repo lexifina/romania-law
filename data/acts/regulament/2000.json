@@ -3,6 +3,25 @@
 "shard": "regulament/2000",
 "acts": [
 {
+"slug": "regulament-bnr-1-2000",
+"path": "regulament/bnr/2000/1",
+"kind": "regulament",
+"year": "2000",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/2000 privind operațiunile de piața monetara efectuate de Banca Naționala a României și facilitățile de creditare și de depozit acordate de aceasta băncilor",
+"short": "Regulament bnr nr. 1/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-05-05",
+"latest": "2000-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21726",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-bnr-2-2000",
 "path": "regulament/bnr/2000/2",
 "kind": "regulament",

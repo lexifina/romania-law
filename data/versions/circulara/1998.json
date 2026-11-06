@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "circulara/1998",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-1998",
+   "path": "circulara/bnr/1998/1",
+   "short": "Circulara bnr nr. 1/1998",
+   "title": "Circulara nr. 1/1998 privind modificarea nivelului rezervelor obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13918",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13918",
+     "sha256": "c6587151ada84277309f502eeb2155353e87f80825218c8821f16eb6887e478b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-1998",
+   "path": "circulara/bnr/1998/11",
+   "short": "Circulara bnr nr. 11/1998",
+   "title": "Circulara nr. 11/1998 privind ratele dobânzilor practicate de Banca Naționala a României începând cu 1 august 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15322",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15322",
+     "sha256": "e5eac70473923a3c6d0fe04294ee6a8480a17e875d3c6018312706fd44eacba0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-1998",
+   "path": "circulara/bnr/1998/12",
+   "short": "Circulara bnr nr. 12/1998",
+   "title": "Circulara nr. 12/1998 privind punerea în circulație, în scop numismatic, a monedelor din aur cu valori nominale de 500 lei și 1.000 lei, dedicate Revoluției române din anul 1848",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15362",
+   "versions": [
+    {
+     "from": "1998-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15362",
+     "sha256": "7a03c22fbbde7b4f05b4c11d17f2df835ad6c1ccd4ac24e453fd336b0da3d525"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-1998",
+   "path": "circulara/bnr/1998/13",
+   "short": "Circulara bnr nr. 13/1998",
+   "title": "Circulara nr. 13/1998 privind ratele dobânzilor plătite la rezervele minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15338",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15338",
+     "sha256": "0b3f168090f7912c8a95fd4f0d00ecad5041f9abcac3d82b733ff663b5fe3ca2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-1998",
+   "path": "circulara/bnr/1998/15",
+   "short": "Circulara bnr nr. 15/1998",
+   "title": "Circulara nr. 15/1998 privind ratele dobânzilor plătite de Banca Național a României la rezervele minime obligatorii în luna august 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15604",
+   "versions": [
+    {
+     "from": "1998-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15604",
+     "sha256": "be49e5c1e046c710ab804a8edf8186d4bfba822736b0a3d3f5687b0636e32bc4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-1998",
+   "path": "circulara/bnr/1998/16",
+   "short": "Circulara bnr nr. 16/1998",
+   "title": "Circulara nr. 16/1998 privind ratele dobânzilor plătite de Banca Naționala a României la rezervele minime obligatorii în luna septembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15794",
+   "versions": [
+    {
+     "from": "1998-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15794",
+     "sha256": "8e9fdfdfed602935fabdbef5b8bc61ccfe478f6fd4e16dc8abf9af8e3a6afea1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-1998",
+   "path": "circulara/bnr/1998/17",
+   "short": "Circulara bnr nr. 17/1998",
+   "title": "Circulara nr. 17/1998 privind ratele dobânzilor plătite de Banca Naționala a României la rezervele minime obligatorii în luna octombrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16012",
+   "versions": [
+    {
+     "from": "1998-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16012",
+     "sha256": "9d8f2a6d17ac5cd26d384c870b8630a3d67d89ad2c365b7e6ee8c5ab4fb91ea4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-1998",
+   "path": "circulara/bnr/1998/19",
+   "short": "Circulara bnr nr. 19/1998",
+   "title": "Circulara nr. 19/1998 privind ratele dobânzilor plătite la rezervele minime obligatorii în luna noiembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16248",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16248",
+     "sha256": "75950cf9fa908cbcc305c3e6faa757ff52e2b87c7156015b3fa9817a71b1a4b1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-1998",
+   "path": "circulara/bnr/1998/24",
+   "short": "Circulara bnr nr. 24/1998",
+   "title": "Circulara nr. 24/1998 privind ratele dobânzilor plătite la rezervele minime obligatorii în luna decembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16542",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16542",
+     "sha256": "4c61079ff1d9dafff8db6c5aaaecee4ee05fa2ba4632bbac53d5b63e1a738759"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-1998",
+   "path": "circulara/bnr/1998/26",
+   "short": "Circulara bnr nr. 26/1998",
+   "title": "Circulara nr. 26/1998 privind retragerea din circulație a bancnotelor cu valoarea nominală de 1.000 lei și 5.000 lei, emisiunile 1991-1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16715",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16715",
+     "sha256": "abfc6810c57ec2458c1924a328fba835e1ee6a5f580508c5580209ce5c247edb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-1998",
+   "path": "circulara/bnr/1998/3",
+   "short": "Circulara bnr nr. 3/1998",
+   "title": "Circulara nr. 3/1998 privind punerea în circulație, în scop numismatic, a unei monede din argint cu valoare nominală de 100 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13948",
+   "versions": [
+    {
+     "from": "1998-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13948",
+     "sha256": "b74965d0243538a68111b20a3ed247550d2b5de3cb460e48dd4519c905dec960"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-1998",
+   "path": "circulara/bnr/1998/4",
+   "short": "Circulara bnr nr. 4/1998",
+   "title": "Circulara nr. 4/1998 privind organizarea la Banca Naționala a României a unor operațiuni aferente decontării cupoanelor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13963",
+   "versions": [
+    {
+     "from": "1998-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13963",
+     "sha256": "420d52185b451685fe8cc315402d41d585c31e471ad72603b86392bddd88577d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-1998",
+   "path": "circulara/bnr/1998/7",
+   "short": "Circulara bnr nr. 7/1998",
+   "title": "Circulara nr. 7/1998 pentru modificarea unor prevederi din Regulamentul nr. 3/1997 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14833",
+   "versions": [
+    {
+     "from": "1998-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14833",
+     "sha256": "52fab1d152ec268c9265c311c219ff78373b0462dcad7a34f04817dc5aa7a17a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-1998",
+   "path": "circulara/bnr/1998/8",
+   "short": "Circulara bnr nr. 8/1998",
+   "title": "Circulara nr. 8/1998 privind punerea în circulație, în scop numismatic, a unei monede din argint cu valoarea nominală de 100 de lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14878",
+   "versions": [
+    {
+     "from": "1998-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14878",
+     "sha256": "d6972246c27319b657ed52167030a35d881d1fc12d3b0056770598f5bebd86ee"
+    }
+   ]
+  }
+ ]
+}

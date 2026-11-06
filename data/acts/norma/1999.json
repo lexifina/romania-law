@@ -22,6 +22,25 @@
 "joint": []
 },
 {
+"slug": "norma-bnr-2-1999",
+"path": "norma/bnr/1999/2",
+"kind": "norma",
+"year": "1999",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 2/1999 privind autorizarea băncilor",
+"short": "Norma bnr nr. 2/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-02-10",
+"latest": "1999-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16933",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-5-1999",
 "path": "norma/bnr/1999/5",
 "kind": "norma",

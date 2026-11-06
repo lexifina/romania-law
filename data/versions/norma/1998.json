@@ -181,6 +181,21 @@
      "sha256": "21ebe63074c94bc55c06ec68ff95de945a35f5d4d1ea1cf8eb12defcb596197a"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-2-1998",
+   "path": "norma/bnr/1998/2",
+   "short": "Norma bnr nr. 2/1998",
+   "title": "Norma nr. 2/1998 privind întocmirea și verificarea bilanțurilor contabile ale societăților bancare pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39425",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39425",
+     "sha256": "4d3b894fbda71c92decfdefb757188b636b385b50db6501f57f4eac988e95b16"
+    }
+   ]
   }
  ]
 }

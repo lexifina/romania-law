@@ -2208,6 +2208,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1252-2009",
+   "path": "ue/regulament/2009/1252",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1252/2009",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1252/2009 al Consiliului din 18 decembrie 2009 de încheiere a reexaminării în ceea ce privește un nou exportator a Regulamentului (CE) nr. 1338/2006 de instituire a unei taxe antidumping definitive la importurile de piei chamois originare din Republica Populară Chineză, de percepere retroactivă și de instituire a unei taxe antidumping cu privire la importurile care provin de la un exportator din această țară și de încetare a înregistrării acestor importuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1252",
+   "versions": [
+    {
+     "from": "2009-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8566619-6b86-4a59-9b82-43ab990cdce9.0019.02/DOC_1",
+     "sha256": "7ce2fab6242c7e374ba78cc0fe7750aec3bcb5361e3d8d609278d74e62aaa21a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1254-2009",
    "path": "ue/regulament/2009/1254",
    "short": "Regulamentul (UE) nr. 1254/2009",
@@ -2354,6 +2369,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/23062176-0fc4-433f-822f-b4d2e08c1757.0019.02/DOC_1",
      "sha256": "ab05f89df108e890d901ebc246ffb27e53fab3ec6661d3886ceb56617635bcb7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1297-2009",
+   "path": "ue/regulament/2009/1297",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1297/2009",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1297/2009 al Consiliului din 22 decembrie 2009 de abrogare a taxei antidumping instituită de Regulamentul (CE) nr. 172/2008 la importurile de ferosiliciu originare din Fosta Republică Iugoslavă a Macedoniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1297",
+   "versions": [
+    {
+     "from": "2009-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85276734-2029-4339-8159-10ea38f75184.0019.02/DOC_1",
+     "sha256": "51498b286fe2cf3cb37eb9c3b5194a9f237bce35b8ce234d943b6ea971ac1e61"
     }
    ]
   },

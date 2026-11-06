@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "decizie/2000",
+ "acts": [
+  {
+   "slug": "decizie-anre-100-2000",
+   "path": "decizie/anre/2000/100",
+   "short": "Decizia anre nr. 100/2000",
+   "title": "Decizia nr. 100/2000 pentru aprobarea tarifelor la energia termica livrata de Societatea Comercială \"Termoelectrica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22755",
+   "versions": [
+    {
+     "from": "2000-06-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22755",
+     "sha256": "1cdaa0816934633266ace966240d06aec58da2bb31bc11bd8e7ae9e5627d496a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-101-2000",
+   "path": "decizie/anre/2000/101",
+   "short": "Decizia anre nr. 101/2000",
+   "title": "Decizia nr. 101/2000 pentru aprobarea Codului tehnic al rețelelor electrice de distribuție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22854",
+   "versions": [
+    {
+     "from": "2000-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22854",
+     "sha256": "2f6f32a1c04f47ed816e11a1c8ac413952131e156afeb4befcd47a6f501456e3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-103-2000",
+   "path": "decizie/anre/2000/103",
+   "short": "Decizia anre nr. 103/2000",
+   "title": "Decizia nr. 103/2000 pentru aprobarea Procedurii (interimare) de repartizare a încasărilor rezultate din vânzarea de energie electrică la consumatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22855",
+   "versions": [
+    {
+     "from": "2000-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22855",
+     "sha256": "6ac3ee8e1b038b45bbb75217647b10ba7b867c0a049a5fd7c1256cc54ad91d97"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-11-2000",
+   "path": "decizie/anre/2000/11",
+   "short": "Decizia anre nr. 11/2000",
+   "title": "Decizia nr. 11/2000 pentru aprobarea contractului-cadru de achiziție a energiei electrice de la autoproducători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24322",
+   "versions": [
+    {
+     "from": "2000-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24322",
+     "sha256": "6cbbdd168f2137ebf2e5ee09e8a494c9003ae15cc1599928d6d469a4508741ad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-126-2000",
+   "path": "decizie/anre/2000/126",
+   "short": "Decizia anre nr. 126/2000",
+   "title": "Decizia nr. 126/2000 pentru aprobarea Metodologiei de stabilire a prețurilor reglementate de vânzare/cumpărare, a tarifelor de transport și de distribuție pentru energia termica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23867",
+   "versions": [
+    {
+     "from": "2000-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23867",
+     "sha256": "8ea16b4e65138aec6eebdce39445d159cde483bc26f60efb5fea6aa353856d2c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-127-2000",
+   "path": "decizie/anre/2000/127",
+   "short": "Decizia anre nr. 127/2000",
+   "title": "Decizia nr. 127/2000 pentru aprobarea Metodologiei de stabilire a tarifelor reglementate pentru consumatorii finali de energie termica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23868",
+   "versions": [
+    {
+     "from": "2000-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23868",
+     "sha256": "5e90c5a032623fa5938d51fb9c34e51be75efd311cfca4ffe83ac88c9f65e347"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-128-2000",
+   "path": "decizie/anre/2000/128",
+   "short": "Decizia anre nr. 128/2000",
+   "title": "Decizia nr. 128/2000 pentru aprobarea contractului-cadru de furnizare a energiei electrice pentru consumul tehnologic al producătorilor de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23870",
+   "versions": [
+    {
+     "from": "2000-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23870",
+     "sha256": "614b819d08d05132f9ba85adddfcbb91f0d682993f12b499cd28ea26195a38b8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-13-2000",
+   "path": "decizie/anre/2000/13",
+   "short": "Decizia anre nr. 13/2000",
+   "title": "Decizia nr. 13/2000 pentru aprobarea Metodologiei de determinare a tarifului pentru energia electrică și termica livrate de Unitatea nr. 1 CNE-PROD Cernavodă, sucursala a Societății Naționale \"Nuclearelectrica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20873",
+   "versions": [
+    {
+     "from": "2000-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20873",
+     "sha256": "b4edd04dc7ab6dd712c6fc4c121ce33cfd22af8cde9cae23cc0382f36dac2ef1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-157-2000",
+   "path": "decizie/anre/2000/157",
+   "short": "Decizia anre nr. 157/2000",
+   "title": "Decizia nr. 157/2000 pentru aprobarea contractului-cadru pentru serviciul de administrare a pieței angro de energie electrică asigurat de operatorul comercial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23872",
+   "versions": [
+    {
+     "from": "2000-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23872",
+     "sha256": "6d8eb1e17fdc72bb6db4ee04245284ecbb2cc4ee4ac871142d55984f6c4b2a88"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-168-2000",
+   "path": "decizie/anre/2000/168",
+   "short": "Decizia anre nr. 168/2000",
+   "title": "Decizia nr. 168/2000 pentru aprobarea Metodologiei pentru negocierea prețurilor de achiziție a energiei electrice de la producători independenți și autoproducători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24316",
+   "versions": [
+    {
+     "from": "2000-09-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24316",
+     "sha256": "679bba9dfc2039ba635d5e2238a62e4392c335a167f416bec84e0cba5f3ddac5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-22-2000",
+   "path": "decizie/anre/2000/22",
+   "short": "Decizia anre nr. 22/2000",
+   "title": "Decizia nr. 22/2000 pentru aprobarea Procedurii de soluționare a neînțelegerilor apărute la încheierea contractelor în sectorul energiei electrice și termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23934",
+   "versions": [
+    {
+     "from": "2000-08-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23934",
+     "sha256": "7f2228f2f5e3fe80a59821fb59298ca5c3b6af084d5d832b7a4a1b17f02f9be7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-29-2000",
+   "path": "decizie/anre/2000/29",
+   "short": "Decizia anre nr. 29/2000",
+   "title": "Decizia nr. 29/2000 privind aprobarea tarifelor pentru acordarea autorizațiilor și licențelor, precum și a contribuțiilor agenților economici pentru emiterea reglementărilor, altele decât licențele și autorizațiile, pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21455",
+   "versions": [
+    {
+     "from": "2000-03-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21455",
+     "sha256": "5a0430fd2fb9ab1ec6805ae664642c680688cef52c3d876f3f18bcefd898f257"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-32-2000",
+   "path": "decizie/anre/2000/32",
+   "short": "Decizia anre nr. 32/2000",
+   "title": "Decizia nr. 32/2000 privind aprobarea contractului-cadru pentru servicii energetice prestate de consumatorul principal către subconsumatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24300",
+   "versions": [
+    {
+     "from": "2000-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24300",
+     "sha256": "0db8c48bec3beca87e5478bf4783700d3edac94d672d51d4b5680c783847a8f4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-33-2000",
+   "path": "decizie/anre/2000/33",
+   "short": "Decizia anre nr. 33/2000",
+   "title": "Decizia nr. 33/2000 privind aprobarea contractului-cadru pentru servicii de transformare și/sau conexiune în stații electrice de înalta și foarte înalta tensiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24301",
+   "versions": [
+    {
+     "from": "2000-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24301",
+     "sha256": "c95dc10eb6b13dc3d5e77529f916f690dfed00da7f36760a740ba2b9d191ba28"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-4-2000",
+   "path": "decizie/anre/2000/4",
+   "short": "Decizia anre nr. 4/2000",
+   "title": "Decizia nr. 4/2000 pentru aprobarea contractului-cadru de vânzare-cumpărare a energiei termice din sisteme de alimentare centralizata",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21233",
+   "versions": [
+    {
+     "from": "2000-02-29",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21233",
+     "sha256": "bc38ed66e45121e12e144a58764e561209dbb0e96c9b322bbe4e0c2dd2c1ec57"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-51-2000",
+   "path": "decizie/anre/2000/51",
+   "short": "Decizia anre nr. 51/2000",
+   "title": "Decizia nr. 51/2000 pentru aprobarea Codului tehnic al rețelei electrice de transport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23862",
+   "versions": [
+    {
+     "from": "2000-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23862",
+     "sha256": "a12822507ce429ad5b1794bc1e1814bda7c5e49be2b8c8de4f5ec4356ab65698"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-83-2000",
+   "path": "decizie/anre/2000/83",
+   "short": "Decizia anre nr. 83/2000",
+   "title": "Decizia nr. 83/2000 pentru aprobarea contractului-cadru de furnizare a energiei electrice la consumatorii eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24302",
+   "versions": [
+    {
+     "from": "2000-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24302",
+     "sha256": "3eca970c9d7cd271bca627a011c0a04a4ea0e4acb424ebdac517f5c049958861"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1-2000",
+   "path": "decizie/anrgn/2000/1",
+   "short": "Decizia anrgn nr. 1/2000",
+   "title": "Decizia nr. 1/2000 pentru aprobarea contractelor-cadru de furnizare a gazelor naturale pentru consumatorii captivi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26345",
+   "versions": [
+    {
+     "from": "2001-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26345",
+     "sha256": "97e5d465e39bef20418a43feb6f6c5f0ed1ccaf5b8d2e4ae9908c3c8d70f3b6c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-2-2000",
+   "path": "decizie/anrgn/2000/2",
+   "short": "Decizia anrgn nr. 2/2000",
+   "title": "Decizia nr. 2/2000 privind aprobarea Regulamentului pentru acreditarea consumatorilor eligibili de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26340",
+   "versions": [
+    {
+     "from": "2001-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26340",
+     "sha256": "a2e604bf5865a880afbfefb5a8368b8346a0403d61246d8139de5ebfdb2b42c1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-3-2000",
+   "path": "decizie/anrgn/2000/3",
+   "short": "Decizia anrgn nr. 3/2000",
+   "title": "Decizia nr. 3/2000 pentru aprobarea Contractului-cadru de vânzare-cumpărare a gazelor naturale pentru consumatorii eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26333",
+   "versions": [
+    {
+     "from": "2001-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26333",
+     "sha256": "a22a74da401317c7b5f4f97f1478182a46acc40074e0584b5e5281f9dcfcdce1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-109-2000",
+   "path": "decizie/cna/2000/109",
+   "short": "Decizia cna nr. 109/2000",
+   "title": "Decizia nr. 109/2000 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23971",
+   "versions": [
+    {
+     "from": "2000-08-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23971",
+     "sha256": "ec4fc45dab0852a0e1fd3cba51d140ff76b3b031175a4a7a5040d994721dadc8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-1260-2000",
+   "path": "decizie/cna/2000/1260",
+   "short": "Decizia cna nr. 1260/2000",
+   "title": "Decizia nr. 1.260/2000 privind reducerea cu 6 luni a duratei licenței de emisie nr. TV 008 din 14 ianuarie 1993, acordată Societății Comerciale CMC INTERNAȚIONAL IMPEX-S.R.L. pentru postul TELE 7 abc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25480",
+   "versions": [
+    {
+     "from": "2000-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25480",
+     "sha256": "a3f3a9335f313b6b05827d6d43bbbe2ba9c6b3fb185ddbb75c634926a0b504e8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-1264-2000",
+   "path": "decizie/cna/2000/1264",
+   "short": "Decizia cna nr. 1264/2000",
+   "title": "Decizia nr. 1.264/2000 privind reducerea cu 6 luni a duratei licenței de emisie nr. TV 050 din 20 iulie 1993, acordată Societății Comerciale GHINEA ACTUALITATEA-S.N.C. pentru postul TV BRĂILA-33",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25481",
+   "versions": [
+    {
+     "from": "2000-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25481",
+     "sha256": "87e34fbcda296844a93f63395c3d91b5e378304041d73e9c0ca72f31aaee00e0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-18-2000",
+   "path": "decizie/cna/2000/18",
+   "short": "Decizia cna nr. 18/2000",
+   "title": "Decizia nr. 18/2000 privind retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22345",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22345",
+     "sha256": "37b0caee685f7b4da6a4d1e2cd4acac4202c16a46343ac048d843a32b4c7ca86"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-224-2000",
+   "path": "decizie/cna/2000/224",
+   "short": "Decizia cna nr. 224/2000",
+   "title": "Decizia nr. 224/2000 privind regimul difuzării programelor axate pe jocuri de noroc, în scopul protecției minorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24511",
+   "versions": [
+    {
+     "from": "2000-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24511",
+     "sha256": "829136f132bf6599f7d4674eeafef40cb5646aeb382e07b9f345644368004ed0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-240-2000",
+   "path": "decizie/cna/2000/240",
+   "short": "Decizia cna nr. 240/2000",
+   "title": "Decizia nr. 240/2000 privind condițiile de prezentare și duratele programelor destinate campaniei electorale pentru alegerea Camerei Deputaților și a Senatului și pentru alegerea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24561",
+   "versions": [
+    {
+     "from": "2000-10-12",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24561",
+     "sha256": "fd70fca57441bc1d985d940ccc6420011dedf9e72b244ce142a4f3d2375ab59e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-250-2000",
+   "path": "decizie/cna/2000/250",
+   "short": "Decizia cna nr. 250/2000",
+   "title": "Decizia nr. 250/2000 privind retragerea Licenței de emisie nr. R 053 din 20 mai 1993, acordată Societății Comerciale RADIO SONIC - S.R.L. pentru postul RADIO SONIC din Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25380",
+   "versions": [
+    {
+     "from": "2000-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25380",
+     "sha256": "2f05bb981e4c1593f5ef526270aa9c7452a37ed50020e4e95b38380a0c8e6642"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-251-2000",
+   "path": "decizie/cna/2000/251",
+   "short": "Decizia cna nr. 251/2000",
+   "title": "Decizia nr. 251/2000 privind reducerea cu 2 ani a duratei Licenței de emisie nr. TV 100 din 24 octombrie 1995, acordată Societății Comerciale ROMSAT CARDINAL NETWORK - S.A. pentru postul de televiziune TELE 7 BACĂU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25381",
+   "versions": [
+    {
+     "from": "2000-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25381",
+     "sha256": "41710cbd0b7799105062d4c47f733020206fa1563dd004662e8c1cbb6b08674b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-252-2000",
+   "path": "decizie/cna/2000/252",
+   "short": "Decizia cna nr. 252/2000",
+   "title": "Decizia nr. 252/2000 privind reducerea cu 2 ani a duratei Licenței de emisie nr. TV 026 din 25 februarie 1993, acordată Societății Comerciale CINEMAR - S.R.L. Sibiu pentru postul de televiziune CINEMAR SIBIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25382",
+   "versions": [
+    {
+     "from": "2000-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25382",
+     "sha256": "527098bed52c2e0143a067ee72e2e59c5f78b80b86327c0a263353dddd823630"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-277-2000",
+   "path": "decizie/cna/2000/277",
+   "short": "Decizia cna nr. 277/2000",
+   "title": "Decizia nr. 277/2000 privind solicitarea comunității, necesară pentru eliberarea licenței de emisie pentru radiodifuziune/televiziune transmisă prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26220",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26220",
+     "sha256": "4816dca2a7f334d4294a2cda7bbac80585178edc31a45f65f7bf6d1bce3b1d25"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-280-2000",
+   "path": "decizie/cna/2000/280",
+   "short": "Decizia cna nr. 280/2000",
+   "title": "Decizia nr. 280/2000 privind scoaterea la concurs, în sesiunea din anul 2001, a frecvențelor pentru stații de radiodifuziune de putere mare și a frecvențelor pentru stații de radiodifuziune locale de putere mică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26223",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26223",
+     "sha256": "eafa9770e909a5de475ce0fe218f9b0f98e72849e154a02c79434a3bcf39d68d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-283-2000",
+   "path": "decizie/cna/2000/283",
+   "short": "Decizia cna nr. 283/2000",
+   "title": "Decizia nr. 283/2000 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26239",
+   "versions": [
+    {
+     "from": "2001-01-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26239",
+     "sha256": "42e5966244a535f26148bdf42859ab6ccaeb88bc09fbddb9a353d2e770110888"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-33-2000",
+   "path": "decizie/cna/2000/33",
+   "short": "Decizia cna nr. 33/2000",
+   "title": "Decizia nr. 33/2000 privind retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22346",
+   "versions": [
+    {
+     "from": "2000-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22346",
+     "sha256": "26c6c590c6089a503de3f32f986732e04c6d36447bdddcb9aa49e2a4fcb4a1f1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-41-2000",
+   "path": "decizie/cna/2000/41",
+   "short": "Decizia cna nr. 41/2000",
+   "title": "Decizia nr. 41/2000 privind îndeplinirea erorii materiale existente în Decizia Consiliului Național al Audiovizualului nr. 18/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22408",
+   "versions": [
+    {
+     "from": "2000-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22408",
+     "sha256": "4156a883b7811e1df4660f023885556e6daa6590d245bfce68a593fb234be757"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-47-2000",
+   "path": "decizie/cna/2000/47",
+   "short": "Decizia cna nr. 47/2000",
+   "title": "Decizia nr. 47/2000 privind restricții și avertizări în scopul protecției minorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22057",
+   "versions": [
+    {
+     "from": "2000-05-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22057",
+     "sha256": "a2fbeb24f4f76703d8ffac07dfbb6a8dbdcdba62fe229db47c2ac3e4d39a88c1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-51-2000",
+   "path": "decizie/cna/2000/51",
+   "short": "Decizia cna nr. 51/2000",
+   "title": "Decizia nr. 51/2000 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22432",
+   "versions": [
+    {
+     "from": "2000-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22432",
+     "sha256": "cf7393f8ef42812905c72ab12104df5e31e473169d09ef2e8e844f7eed558123"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-57-2000",
+   "path": "decizie/cna/2000/57",
+   "short": "Decizia cna nr. 57/2000",
+   "title": "Decizia nr. 57/2000 privind modificarea unor prevederi ale Deciziei Consiliului Național al Audiovizualului nr. 45/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22205",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22205",
+     "sha256": "15a958c353009dc60a032f2e162e207e9d7a984146fc08653719f416e88f0176"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-65-2000",
+   "path": "decizie/cna/2000/65",
+   "short": "Decizia cna nr. 65/2000",
+   "title": "Decizia nr. 65/2000 privind adoptarea Normelor obligatorii pentru publicitate, teleshopping și sponsorizare în domeniul audiovizualului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23506",
+   "versions": [
+    {
+     "from": "2000-09-25",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23506",
+     "sha256": "5d122efde383f179d33bed9400098c8a07bfc35f91e874a1dce7a53ea8d20473"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-82-2000",
+   "path": "decizie/cna/2000/82",
+   "short": "Decizia cna nr. 82/2000",
+   "title": "Decizia nr. 82/2000 privind retragerea Licenței de emisie nr. C 1.588 din 3 iunie 1998, acordată Societății Comerciale \"Astracom\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23725",
+   "versions": [
+    {
+     "from": "2000-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23725",
+     "sha256": "3a2a1f3b291780fa0ae969b227cc6dd7332a5a0e090f0efe66d4d10d84987cb1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-83-2000",
+   "path": "decizie/cna/2000/83",
+   "short": "Decizia cna nr. 83/2000",
+   "title": "Decizia nr. 83/2000 privind reducerea cu 2 ani a duratei licenței de emisie nr. TV 050 din 20 iulie 1993, acordată Societății Comerciale \"Ghinea Actualitatea\" - S.N.C. pentru postul TV Brăila-33",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23968",
+   "versions": [
+    {
+     "from": "2000-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23968",
+     "sha256": "15fff041d480536404d16ddad1d7f7df60cb82662fb33f90ba3e4dd72806569a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-84-2000",
+   "path": "decizie/cna/2000/84",
+   "short": "Decizia cna nr. 84/2000",
+   "title": "Decizia nr. 84/2000 privind retragerea Licenței de emisie nr. C 392 din 29 martie 1994, acordată Societății Comerciale \"Koax Electro\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23726",
+   "versions": [
+    {
+     "from": "2000-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23726",
+     "sha256": "c7a6e65fcb9514c06199a018fe72791a4f5510eb26b02a96ddb37b913d007716"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-99-2000",
+   "path": "decizie/cna/2000/99",
+   "short": "Decizia cna nr. 99/2000",
+   "title": "Decizia nr. 99/2000 privind îndreptarea erorii materiale existente în Decizia Consiliului Național al Audiovizualului nr. 51/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23969",
+   "versions": [
+    {
+     "from": "2000-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23969",
+     "sha256": "3e520ed3d657d609a4c9a5f3081cd264f0a2f7e182b56ce5d233fc42b764d07b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-51-2000",
+   "path": "decizie/cnvm/2000/51",
+   "short": "Decizia cnvm nr. 51/2000",
+   "title": "Decizia nr. 51/2000 D51 din 17 ianuarie 2000 privind retragerea autorizației de funcționare a Fondului deschis de investiții \"Fondul Român pentru Privatizare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20728",
+   "versions": [
+    {
+     "from": "2000-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20728",
+     "sha256": "da6c5164c56556060ff8e51e2263672bd0d881a4f640900ccd8969d0b5d1bdb9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-52-2000",
+   "path": "decizie/cnvm/2000/52",
+   "short": "Decizia cnvm nr. 52/2000",
+   "title": "Decizia nr. 52/2000 D52 din 17 ianuarie 2000 privind retragerea autorizației de funcționare a Fondului deschis de investiții \"Solidaritatea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20729",
+   "versions": [
+    {
+     "from": "2000-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20729",
+     "sha256": "f71b458223ebbc33237087f157cbaf5b470da1fc58e47c932033f56c56d9d2b5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-593-2000",
+   "path": "decizie/cnvm/2000/593",
+   "short": "Decizia cnvm nr. 593/2000",
+   "title": "Decizia nr. 593/2000 D593 din 29 martie 2000 privind activitatea cenzorilor externi independenți de a organiza testarea vizând cunoașterea legislației privind valorile mobiliare și bursele de valori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21821",
+   "versions": [
+    {
+     "from": "2000-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21821",
+     "sha256": "f606bf924f47eb4311a0466817dc2791b2db19ea77640b4bb67c4c7c18cccc7a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-1-2000",
+   "path": "decizie/concurenta/2000/1",
+   "short": "Decizia concurenta nr. 1/2000",
+   "title": "Decizia nr. 1/2000 privind autorizarea concentrărilor economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22421",
+   "versions": [
+    {
+     "from": "2000-05-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22421",
+     "sha256": "c4673c99b717902d0835e752ea7a262d0b31bcb83dac9954333b384f9a6dac42"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-151-2000",
+   "path": "decizie/concurenta/2000/151",
+   "short": "Decizia concurenta nr. 151/2000",
+   "title": "Decizia nr. 151/2000 privind autorizarea condiționată a operațiunii de concentrare economică, notificată de Societatea Comercială \"Tofan Trans\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22554",
+   "versions": [
+    {
+     "from": "2000-06-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22554",
+     "sha256": "c70ec9cf2436f949b7c0b398b5e152ab84ece56aa5a96b7523a3b12e21754286"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-250-2000",
+   "path": "decizie/concurenta/2000/250",
+   "short": "Decizia concurenta nr. 250/2000",
+   "title": "Decizia nr. 250/2000 privind autorizarea condiționată a operațiunii de concentrare economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23674",
+   "versions": [
+    {
+     "from": "2000-08-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23674",
+     "sha256": "07c62cf79c58a646061dedac005ff72a6d4c6d11d0376fccc9c1a7c2f7ac833f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-374-2000",
+   "path": "decizie/concurenta/2000/374",
+   "short": "Decizia concurenta nr. 374/2000",
+   "title": "Decizia nr. 374/2000 privind autorizarea condiționată a operațiunii de concentrare economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23808",
+   "versions": [
+    {
+     "from": "2000-08-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23808",
+     "sha256": "6fe2c4d7337441501f925d95166a10510e8ca6f8cb1b291d5e94b34c660bc6bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-521-2000",
+   "path": "decizie/concurenta/2000/521",
+   "short": "Decizia concurenta nr. 521/2000",
+   "title": "Decizia nr. 521/2000 *) privind concentrarea economică realizată de Societatea Comercială \"Cimus\" - S.A. Câmpulung prin dobândirea controlului la Societatea Comercială \"Premeco\" - S.A. Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26255",
+   "versions": [
+    {
+     "from": "2001-01-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26255",
+     "sha256": "01aadcd8e3d799e9c4f37b6db61c6d9885ed5b2aaa4647e06a7eb225615b06ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-535-2000",
+   "path": "decizie/concurenta/2000/535",
+   "short": "Decizia concurenta nr. 535/2000",
+   "title": "Decizia nr. 535/2000 cu privire la concentrarea economică Societatea Comercială \"Meteor\" - S.A. București/Societatea Comercială \"Metav\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26256",
+   "versions": [
+    {
+     "from": "2001-01-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26256",
+     "sha256": "3673e775b5e3f5cbbcac2c3835a42a980ca10aa86ffa3fc2ec3ea8434a108334"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-75-2000",
+   "path": "decizie/concurenta/2000/75",
+   "short": "Decizia concurenta nr. 75/2000",
+   "title": "Decizia nr. 75/2000 privind achiziționarea pachetului de control al Societății Comerciale \"Telemobil\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21681",
+   "versions": [
+    {
+     "from": "2000-03-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21681",
+     "sha256": "81786a689e3257308bf151c2824772581a4f81f4feabfce45390f8f3eaae4c39"
+    }
+   ]
+  }
+ ]
+}

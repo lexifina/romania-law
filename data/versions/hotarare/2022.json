@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2022",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-15-2022",
+   "path": "hotarare/bnr/2022/15",
+   "short": "Hotărârea bnr nr. 15/2022",
+   "title": "Hotărârea nr. 15/2022 privind radierea Societății OCAZIA I.F.N. - S.A. din Registrul general Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261310",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/20497-hotarare-15-2022",
+     "sha256": "790ff6fd81628fad39410fdc7d9cbbfa78f7c243ee700a64feb1a98a3a3d2e07"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-16-2022",
+   "path": "hotarare/bnr/2022/16",
+   "short": "Hotărârea bnr nr. 16/2022",
+   "title": "Hotărârea nr. 16/2022 privind radierea Societății FINBIZ INVESTIȚII IFN - S.A. din Registrul general Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261425",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/21948-hotarare-16-2022",
+     "sha256": "e03b754e78865f8bdfdfdb5d35a8bcf1ac8748f827a459aad2a34f9488c29ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-3-2022",
+   "path": "hotarare/bnr/2022/3",
+   "short": "Hotărârea bnr nr. 3/2022",
+   "title": "Hotărârea nr. 3/2022 privind radierea Societății SIGMA FINANCE IFN - S.A. din Registrul general Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252264",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/20492-hotarare-3-2022",
+     "sha256": "67b04f007dc767d6f109679170cd85ab2f5e3c207b9209bd9c349d0966be68ad"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-5-2022",
+   "path": "hotarare/bnr/2022/5",
+   "short": "Hotărârea bnr nr. 5/2022",
+   "title": "Hotărârea nr. 5/2022 privind radierea Societății FINANCE ONE IFN - S.A. din Registrul general și din Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255086",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/20330-hotarare-5-2022",
+     "sha256": "7dfd873954aaf30c58a334cdfe3596eca0c0ec834922e7fd99192495d379236b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-830-2022",
+   "path": "hotarare/bnr/2022/830",
+   "short": "Hotărârea bnr nr. 830/2022",
+   "title": "Hotărârea nr. 830/2022",
+   "url": "https://www.bnr.ro/20331-hotarare-830-2022",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20331-hotarare-830-2022",
+     "sha256": "145ded39c089b383a370daccf5c513b76933e0b7d4cbc2744b179f6ed685c41d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-9-2022",
+   "path": "hotarare/bnr/2022/9",
+   "short": "Hotărârea bnr nr. 9/2022",
+   "title": "Hotărârea nr. 9/2022 privind radierea societății PHOENIX CAPITAL IFN - S.A. din Registrul general Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257738",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19641-hotarare-9-2022",
+     "sha256": "fa3b1e22edd9ef11241b0ee5acb5fe774fac8907331ff1c6c7030e6305f94b4b"
+    }
+   ]
+  }
+ ]
+}

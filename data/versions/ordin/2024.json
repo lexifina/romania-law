@@ -17388,6 +17388,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-141-2024",
+   "path": "ordin/bnr/2024/141",
+   "short": "Ordin bnr nr. 141/2024",
+   "title": "Ordinul nr. 141/2024 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății MONEY-MAT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283257",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/23490-ordin-141-2024",
+     "sha256": "2d3c784cc92e6d881e66af54abb31edb9cb4375fae36c1e955ce4ae1b1d38495"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-2-2024",
    "path": "ordin/bnr/2024/2",
    "short": "Ordin bnr nr. 2/2024",
@@ -17399,6 +17414,51 @@
      "units": 2,
      "source_url": "https://www.bnr.ro/23518-ordin-2-2024",
      "sha256": "bd46c035be951d6c129edb82e34b037242a660c19695e22af16c7f7d0c7e6fef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-236-2024",
+   "path": "ordin/bnr/2024/236",
+   "short": "Ordin bnr nr. 236/2024",
+   "title": "Ordinul nr. 236/2024 privind publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare a Societății BRD FINANCE IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288224",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/23487-ordin-236-2024",
+     "sha256": "0b2cbaca260744fa0682bb93b18033168465e38468a105b0af55aa612171d65f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-383-2024",
+   "path": "ordin/bnr/2024/383",
+   "short": "Ordin bnr nr. 383/2024",
+   "title": "Ordinul nr. 383/2024 privind publicarea efectuării radierii din Registrul General Instituții Financiare Nebancare a societății CONVERT LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/23484-ordin-383-2024",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/23484-ordin-383-2024",
+     "sha256": "4ee607905f139da3ae7281f646cc64a9096c757c7592415ebdfe47ad48844e78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-96-2024",
+   "path": "ordin/bnr/2024/96",
+   "short": "Ordin bnr nr. 96/2024",
+   "title": "Ordinul nr. 96/2024 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății MIDOCAR LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/23473-ordin-96-2024",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/23473-ordin-96-2024",
+     "sha256": "8952e7435024999897cfab2049c31a05be01bdfd70321ecd47302d8e3c13e261"
     }
    ]
   }

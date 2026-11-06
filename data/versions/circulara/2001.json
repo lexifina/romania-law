@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "circulara/2001",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2001",
+   "path": "circulara/bnr/2001/1",
+   "short": "Circulara bnr nr. 1/2001",
+   "title": "Circulara nr. 1/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii ianuarie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26046",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26046",
+     "sha256": "285aea513278b9ff6b0769dbd670ce82d9675baf3d3a4366597871bf8c367121"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2001",
+   "path": "circulara/bnr/2001/11",
+   "short": "Circulara bnr nr. 11/2001",
+   "title": "Circulara nr. 11/2001 privind punerea în circulație, în scop numismatic, a monedei din aur cu valoarea nominală de 1.000 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28784",
+   "versions": [
+    {
+     "from": "2001-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28784",
+     "sha256": "eda297a6b42051ea6d5e87ce61c6554d61b27a69bb137e31a0d6af0c89b03683"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2001",
+   "path": "circulara/bnr/2001/12",
+   "short": "Circulara bnr nr. 12/2001",
+   "title": "Circulara nr. 12/2001 privind modificarea ratei rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29041",
+   "versions": [
+    {
+     "from": "2001-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29041",
+     "sha256": "4bb78045918116dbb2a40f737918fb3a0f40e51766909a106d4d7ffa8c946cce"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2001",
+   "path": "circulara/bnr/2001/13",
+   "short": "Circulara bnr nr. 13/2001",
+   "title": "Circulara nr. 13/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii iunie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29014",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29014",
+     "sha256": "da0c8d6b15b792ae23f922a40f89d21c9cd62c59b46fc9960bdedc66d2c7a2dc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2001",
+   "path": "circulara/bnr/2001/14",
+   "short": "Circulara bnr nr. 14/2001",
+   "title": "Circulara nr. 14/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii iulie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29551",
+   "versions": [
+    {
+     "from": "2001-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29551",
+     "sha256": "2ab7c76675963a8418a300cff3d529c6e048b7406417c40885f5add05bc7a1c9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2001",
+   "path": "circulara/bnr/2001/15",
+   "short": "Circulara bnr nr. 15/2001",
+   "title": "Circulara nr. 15/2001 privind întocmirea de către bănci a situației financiar-contabile - Indicatori de activitate-mod. 4090 -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29987",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29987",
+     "sha256": "60be089f0d9fb70b41aafe5269eba20ee5a89e2a0c46e36a9b69ea3c64c037f3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2001",
+   "path": "circulara/bnr/2001/16",
+   "short": "Circulara bnr nr. 16/2001",
+   "title": "Circulara nr. 16/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii august 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30189",
+   "versions": [
+    {
+     "from": "2001-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30189",
+     "sha256": "63f5a465fe56c9dc669ad0e60e5b4dc590a947d44a04de111871e465fad34604"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2001",
+   "path": "circulara/bnr/2001/17",
+   "short": "Circulara bnr nr. 17/2001",
+   "title": "Circulara nr. 17/2001 privind punerea în circulație, în scop numismatic, a trei monede din argint cu valoarea nominală de 50 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30319",
+   "versions": [
+    {
+     "from": "2001-08-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30319",
+     "sha256": "20958c4f185ae6dd8f75420e2fe53d8c3156132425722d148e7c197d4062889f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2001",
+   "path": "circulara/bnr/2001/18",
+   "short": "Circulara bnr nr. 18/2001",
+   "title": "Circulara nr. 18/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii septembrie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30602",
+   "versions": [
+    {
+     "from": "2001-09-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30602",
+     "sha256": "e06df7c29b4377ff6ad06d9e7112df142c7442359dbf3896fe76f170379c65fb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2001",
+   "path": "circulara/bnr/2001/19",
+   "short": "Circulara bnr nr. 19/2001",
+   "title": "Circulara nr. 19/2001 privind modificarea ratei rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30847",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30847",
+     "sha256": "c49b7c89a280d6ed8abae007c256f348662816c80157668e0294111982a993a1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2001",
+   "path": "circulara/bnr/2001/20",
+   "short": "Circulara bnr nr. 20/2001",
+   "title": "Circulara nr. 20/2001 privind ratele dobânzilor practicate de Banca Naționala a României la facilitățile permanente acordate băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30979",
+   "versions": [
+    {
+     "from": "2001-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30979",
+     "sha256": "9a65d3e3d33c7d60e8e389d866393f07d148e9eaba4c1228d1358c196c0f58a7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2001",
+   "path": "circulara/bnr/2001/24",
+   "short": "Circulara bnr nr. 24/2001",
+   "title": "Circulara nr. 24/2001 privind abrogarea unor prevederi ale Regulamentului Băncii Naționale a României nr. 1/1995 și ale Ordinului guvernatorului Băncii Naționale a României nr. 37/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32105",
+   "versions": [
+    {
+     "from": "2001-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32105",
+     "sha256": "9907b631016199ccd8a9d424fb6b5b26f0f5c5b29d8d1257d66ec09e0cb1c0c3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2001",
+   "path": "circulara/bnr/2001/25",
+   "short": "Circulara bnr nr. 25/2001",
+   "title": "Circulara nr. 25/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii noiembrie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32217",
+   "versions": [
+    {
+     "from": "2001-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32217",
+     "sha256": "21a184683e847d12161576e60cd5a1100fa8be27c6aad7780c0ee0899bdb9f8c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2001",
+   "path": "circulara/bnr/2001/26",
+   "short": "Circulara bnr nr. 26/2001",
+   "title": "Circulara nr. 26/2001 pentru modificarea și completarea Regulamentului nr. 3/1997 privind efectuarea operațiunilor valutare, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32485",
+   "versions": [
+    {
+     "from": "2001-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32485",
+     "sha256": "37aee6fedfc33d298b0167a6d06733b679554298deb64ef251f0700aa4d8f446"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2001",
+   "path": "circulara/bnr/2001/27",
+   "short": "Circulara bnr nr. 27/2001",
+   "title": "Circulara nr. 27/2001 privind punerea în circulație a unei bancnote cu valoarea nominală de 50.000 lei, imprimata pe polimer, și a unei monede metalice cu valoarea nominală de 5.000 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32602",
+   "versions": [
+    {
+     "from": "2001-12-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32602",
+     "sha256": "90d1486273721923458a78f6ae1e7c93f7da19e98a2ee92ef2d7d2d48e23d744"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2001",
+   "path": "circulara/bnr/2001/28",
+   "short": "Circulara bnr nr. 28/2001",
+   "title": "Circulara nr. 28/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii decembrie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32661",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32661",
+     "sha256": "50b3f3d709b23bff85ae337c45d47ee2b367ef4a860becfb49f29a8c4be7d07d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2001",
+   "path": "circulara/bnr/2001/29",
+   "short": "Circulara bnr nr. 29/2001",
+   "title": "Circulara nr. 29/2001 privind punerea în circulație în scop numismatic a patru monede din aur cu valoarea nominală de 500 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32890",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32890",
+     "sha256": "0847520510d6253e93c18ca985a23b6c97c890176506c642fbd038bd10e24d56"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2001",
+   "path": "circulara/bnr/2001/4",
+   "short": "Circulara bnr nr. 4/2001",
+   "title": "Circulara nr. 4/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii martie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27215",
+   "versions": [
+    {
+     "from": "2001-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27215",
+     "sha256": "26561061c94a3b3432e25f6531c1df12371be66ae6d045c4f272bf28b4b1bcfb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2001",
+   "path": "circulara/bnr/2001/5",
+   "short": "Circulara bnr nr. 5/2001",
+   "title": "Circulara nr. 5/2001 pentru modificarea Normelor Băncii Naționale a României nr. 8/1999 privind limitarea riscului de credit al băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27266",
+   "versions": [
+    {
+     "from": "2001-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27266",
+     "sha256": "7f04e1a70aa3b51e58ca4cabaafbd555f8eda9f6e3b692f597e1af2bac3d166c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2001",
+   "path": "circulara/bnr/2001/8",
+   "short": "Circulara bnr nr. 8/2001",
+   "title": "Circulara nr. 8/2001 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii aprilie 2001 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27907",
+   "versions": [
+    {
+     "from": "2001-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27907",
+     "sha256": "57a997f4358fed74daed82550a48963d57dc8963c3d92ec5f8988851ab5af910"
+    }
+   ]
+  }
+ ]
+}

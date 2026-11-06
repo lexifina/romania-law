@@ -106,6 +106,21 @@
      "sha256": "e5acf6201a59d47ebbc480aed55b5c02c27f2815490796dbddc34281c1deedc6"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-9-1993",
+   "path": "norma/bnr/1993/9",
+   "short": "Norma bnr nr. 9/1993",
+   "title": "Norma nr. 9/1993 privind supravegherea pozițiilor valutare ale societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3023",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3023",
+     "sha256": "e2505d8293448490c4f2c28cae45d3d8e7fa0a5be29cccd030377a40772ae265"
+    }
+   ]
   }
  ]
 }

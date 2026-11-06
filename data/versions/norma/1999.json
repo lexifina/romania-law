@@ -241,6 +241,21 @@
      "sha256": "7163e7964af67b9cfef5eaeb664228df94c424a1f727582ac81d4149c15d907f"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-2-1999",
+   "path": "norma/bnr/1999/2",
+   "short": "Norma bnr nr. 2/1999",
+   "title": "Norma nr. 2/1999 privind autorizarea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16933",
+   "versions": [
+    {
+     "from": "1999-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16933",
+     "sha256": "2f0943f803776ec3cb9e69d7389b64ef6dc5ba48d6a47691f244ac17bde855c6"
+    }
+   ]
   }
  ]
 }

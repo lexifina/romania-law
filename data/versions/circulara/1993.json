@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "circulara/1993",
+ "acts": [
+  {
+   "slug": "circulara-bnr-18-1993",
+   "path": "circulara/bnr/1993/18",
+   "short": "Circulara bnr nr. 18/1993",
+   "title": "Circulara nr. 18/1993 privind formularul \"Dispoziție de Plata Valutara Externa/Cerere de Deschidere de Acreditiv\" (D.P.V.E.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3058",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3058",
+     "sha256": "b6be1ca8a687196088af01f9fb8f338d11587d31fca8ef6094e3c08cf636fc76"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-1993",
+   "path": "circulara/bnr/1993/21",
+   "short": "Circulara bnr nr. 21/1993",
+   "title": "Circulara nr. 21/1993 privind majorarea plafonului maxim anual de schimb valutar pentru persoane fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3067",
+   "versions": [
+    {
+     "from": "1993-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3067",
+     "sha256": "e8f1044bc2613c984d4b62acb02014fd2626331da6613fc1d78e36c967b25f58"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-1993",
+   "path": "circulara/bnr/1993/3",
+   "short": "Circulara bnr nr. 3/1993",
+   "title": "Circulara nr. 3/1993 privind efectuarea de către bănci a operațiunilor legate de virarea la buget a impozitelor, taxelor, contribuțiilor și a altor venituri, în valută, datorate de către agenții economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2989",
+   "versions": [
+    {
+     "from": "1993-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2989",
+     "sha256": "df1727d850eef42620195f2b20b9c517969ccdcf64788f15adeece930cf396be"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-1993",
+   "path": "circulara/bnr/1993/31",
+   "short": "Circulara bnr nr. 31/1993",
+   "title": "Circulara nr. 31/1993 privind interzicerea acordării de credite în lei cu garanții în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3114",
+   "versions": [
+    {
+     "from": "1993-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3114",
+     "sha256": "e79d4695b3c3b591a9b558bbe21c71a6481fb3917757a5076dff5df1a5abdb6c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-1993",
+   "path": "circulara/bnr/1993/35",
+   "short": "Circulara bnr nr. 35/1993",
+   "title": "Circulara nr. 35/1993 referitoare la unele modificări aduse anexei nr. 4 la Regulamentul privind efectuarea operațiunilor valutare - modificată prin Ordinul nr. 469/1993 al guvernatorului Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3131",
+   "versions": [
+    {
+     "from": "1993-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3131",
+     "sha256": "7ff375d16216c73fb9691545ff87af3b1f88dbb679e38214415e452819f41ba2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-1993",
+   "path": "circulara/bnr/1993/5",
+   "short": "Circulara bnr nr. 5/1993",
+   "title": "Circulara nr. 5/1993 privind modificarea penultimului alineat al pct. 2 din Normele Băncii Naționale a României nr. 11/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3004",
+   "versions": [
+    {
+     "from": "1993-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3004",
+     "sha256": "526638a81a7acc30e9552e2851bbdedcb4eddd0370aa656cf7a80af25636607c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "hotarare/1998",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-2-1998",
+   "path": "hotarare/bnr/1998/2",
+   "short": "Hotărârea bnr nr. 2/1998",
+   "title": "Hotărârea nr. 2/1998 privind retragerea autorizației Anglo-Romanian Bank Ltd Londra - Sucursala București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15855",
+   "versions": [
+    {
+     "from": "1998-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15855",
+     "sha256": "be0be99fbe1adbdaf15c93e6ba3c0d33b1274beef3d7af547914df26520545c2"
+    }
+   ]
+  }
+ ]
+}

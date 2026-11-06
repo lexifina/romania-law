@@ -106,6 +106,51 @@
      "sha256": "fb54eec04ec2f5a832a429d6b636d3ab0e2a2294f423ebfb64e6fc65654c2163"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-10-1998",
+   "path": "instructiuni/cnvm/1998/10",
+   "short": "Instrucțiuni cnvm nr. 10/1998",
+   "title": "Instrucțiunile nr. 10/1998 din 1997 privind eliberarea de duplicate ale autorizațiilor distruse, pierdute sau furate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10923",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10923",
+     "sha256": "3e3c79f56dc5cf77989ea781198e276ad9179539278d973b3ff03a7eac7fe0bc"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-11-1998",
+   "path": "instructiuni/cnvm/1998/11",
+   "short": "Instrucțiuni cnvm nr. 11/1998",
+   "title": "Instrucțiunile nr. 11/1998 din 1997 privind obligația raportării la societățile de registru independent privat a listei clienților ale căror valori mobiliare sunt deținute în cont la depozitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10941",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10941",
+     "sha256": "c2a707c8495c50baf9826dfa9401daf1763857e10c706ef49df75d133d6c7f08"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-12-1998",
+   "path": "instructiuni/cnvm/1998/12",
+   "short": "Instrucțiuni cnvm nr. 12/1998",
+   "title": "Instrucțiunile nr. 12/1998 din 1997 cu privire la modificarea și completarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10956",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10956",
+     "sha256": "867560d62d659f35a2dbb0f3f3889391529b4c22f1e0fe65fc2fc74933ba118b"
+    }
+   ]
   }
  ]
 }

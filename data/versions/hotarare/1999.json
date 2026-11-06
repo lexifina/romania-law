@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "hotarare/1999",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-13-1999",
+   "path": "hotarare/bnr/1999/13",
+   "short": "Hotărârea bnr nr. 13/1999",
+   "title": "Hotărârea nr. 13/1999 privind retragerea autorizației Sucursalei București a Băncii Societe Generale Paris",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20212",
+   "versions": [
+    {
+     "from": "1999-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20212",
+     "sha256": "b63a1811a88fcc84ea01801eb6329aa9a10b79503c535b0d64d604782ad5a260"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-4-1999",
+   "path": "hotarare/bnr/1999/4",
+   "short": "Hotărârea bnr nr. 4/1999",
+   "title": "Hotărârea nr. 4/1999 privind prelungirea administrării speciale a Băncii Române de Comerț Exterior (Bancorex) - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18051",
+   "versions": [
+    {
+     "from": "1999-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18051",
+     "sha256": "80da29912e7bbe3eb526e27f08e26cc0210f3ee9b0b3336662c37816f555ddb3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-5-1999",
+   "path": "hotarare/bnr/1999/5",
+   "short": "Hotărârea bnr nr. 5/1999",
+   "title": "Hotărârea nr. 5/1999 privind retragerea autorizației de funcționare și introducerea cererii de declanșare a procedurii falimentului Băncii Comerciale \"Albina\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18169",
+   "versions": [
+    {
+     "from": "1999-05-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18169",
+     "sha256": "868d37c91a5db0fcac40f4eb43c9a007ee55ced070178428d1e97ace5563a79d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-8-1999",
+   "path": "hotarare/bnr/1999/8",
+   "short": "Hotărârea bnr nr. 8/1999",
+   "title": "Hotărârea nr. 8/1999 privind retragerea autorizației The Chase Manhattan Bank NA, New York - Sucursala București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18511",
+   "versions": [
+    {
+     "from": "1999-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18511",
+     "sha256": "34ebde14842fb39b08d994049e464a4b10d833b09beb7ce87f19ccbeff976ea4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-9-1999",
+   "path": "hotarare/bnr/1999/9",
+   "short": "Hotărârea bnr nr. 9/1999",
+   "title": "Hotărârea nr. 9/1999 privind retragerea autorizației de funcționare a Băncii Române de Comerț Exterior - Bancorex - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18933",
+   "versions": [
+    {
+     "from": "1999-08-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18933",
+     "sha256": "d267ad88df49f41759ad2d78394fab8881f1511e8be68ffc6cab0187c119826a"
+    }
+   ]
+  }
+ ]
+}

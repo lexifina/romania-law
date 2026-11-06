@@ -241,6 +241,36 @@
      "sha256": "ae812257c4f66885acd9e6ba819ccb13ee511f6ddcca34e6ee9b8bdb730343f3"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-3-1996",
+   "path": "regulament/bnr/1996/3",
+   "short": "Regulament bnr nr. 3/1996",
+   "title": "Regulamentul nr. 3/1996 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7736",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7736",
+     "sha256": "4b5bb6af559e93298360c1796c1305f984c90493e80d32f312273da1f542bb71"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-1996",
+   "path": "regulament/cnvm/1996/7",
+   "short": "Regulament cnvm nr. 7/1996",
+   "title": "Regulamentul nr. 7/1996 privind autorizarea și funcționarea organismelor de autoreglementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7810",
+   "versions": [
+    {
+     "from": "1996-08-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7810",
+     "sha256": "dfa30f5d6b537a723a2215fa5b0a45d335c8a6257bdc0599f0cd9c0f1dda4077"
+    }
+   ]
   }
  ]
 }

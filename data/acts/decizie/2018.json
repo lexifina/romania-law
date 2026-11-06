@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "decizie/2018",
+"acts": [
+{
+"slug": "decizie-ancom-381-2018",
+"path": "decizie/ancom/2018/381",
+"kind": "decizie",
+"year": "2018",
+"number": "381",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 381/2018 pentru modificarea art. 19 alin (2) din Decizia președintelui Autorității Naționale de Reglementare în Comunicații nr. 144/EN/2006 privind implementarea portabilității numerelor",
+"short": "Decizia ancom nr. 381/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-15",
+"latest": "2018-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200682",
+"issuer": "ancom",
+"joint": []
+}
+]
+}

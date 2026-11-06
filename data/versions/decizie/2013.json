@@ -3,6 +3,21 @@
  "shard": "decizie/2013",
  "acts": [
   {
+   "slug": "decizie-ancom-1154-2013",
+   "path": "decizie/ancom/2013/1154",
+   "short": "Decizia ancom nr. 1154/2013",
+   "title": "Decizia nr. 1.154/2013 privind identificarea pieței relevante corespunzătoare serviciilor de tranzit comutat al apelurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154064",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-1154-2013-privind-identificarea-pieei-relevante-corespunztoare-serviciilor-de-tranzit-comutat-al-apelurilor/?link_id=Decizie_2013_11541389008295.pdf",
+     "sha256": "a2f241cf8236ca2a828e41f824b8a0434150b8e7f76749bfab1fff007844bb1d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-117-2013",
    "path": "decizie/ancom/2013/117",
    "short": "Decizia ancom nr. 117/2013",
@@ -14,6 +29,96 @@
      "units": 1,
      "source_url": "https://www.ancom.ro/decizie/decizie-nr-117-2013-pentru-modificarea-deciziei-preedintelui-autoritii-naionale-pentru-administrare-i-reglementare-in-comunicaii-nr-459-2010-privind-alocarea-35/?link_id=Decizia_2013_1171360577870.pdf",
      "sha256": "ed3717d7334ffe1a1477ebfd6954b392dbd523f34230eab479b74a7b8a003603"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-333-2013",
+   "path": "decizie/ancom/2013/333",
+   "short": "Decizia ancom nr. 333/2013",
+   "title": "Decizia nr. 333/2013 333/2013 privind raportarea unor date statistice de către furnizorii de rețele publice de comunicații electronice sau de servicii de comunicații electronice destinate publicului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148608",
+   "versions": [
+    {
+     "from": "2013-06-03",
+     "units": 3,
+     "source_url": "https://www.ancom.ro/decizie/decizie-333-2013-privind-raportarea-unor-date-statistice-de-ctre-furnizorii-de-reele-publice-de-comunicaii-electronice-sau-de-servicii-de-comunicaii-electronice-destinate-publi/?link_id=Decizie_2013_3331370505738.pdf",
+     "sha256": "8b4ce18ff1398515b5bef6aebb5765bf8889a919b8796153f0186956a6f40821"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-377-2013",
+   "path": "decizie/ancom/2013/377",
+   "short": "Decizia ancom nr. 377/2013",
+   "title": "Decizia nr. 377/2013 privind utilizarea numerelor naționale scurte interne și a codurilor scurte SMS/MMS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148700",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 19,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-377-2013-privind-utilizarea-numerelor-naionale-scurte-interne-i-a-codurilor-scurte-sms-mms/?link_id=Decizia_377_20131370940143.pdf",
+     "sha256": "8538a3ca2b9d4de29cca3c2e60a31a0508be8d89480b07530aeb0ea16506420d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-378-2013",
+   "path": "decizie/ancom/2013/378",
+   "short": "Decizia ancom nr. 378/2013",
+   "title": "Decizia nr. 378/2013 pentru modificarea Decizia președintelui Autorității Naționale pentru Reglementare în Comunicații și Tehnologia Informației nr. 321/2008 privind alocarea și utilizarea unor numere naționale scurte pentru servicii armonizate la nivel european",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148710",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-378-2013-pentru-modificarea-decizia-preedintelui-autoritii-naionale-pentru-reglementare-in-comunicaii-i-tehnologia-informaiei-nr-321-2008-privin/?link_id=Decizia_378_20131371035000.pdf",
+     "sha256": "ec04be7cad93f177bf9eedfdc2663c5fff0d5ae8a83b5ada26c3ec694a4b44e0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-512-2013",
+   "path": "decizie/ancom/2013/512",
+   "short": "Decizia ancom nr. 512/2013",
+   "title": "Decizia nr. 512/2013 privind stabilirea măsurilor minime de securitate ce trebuie luate de către furnizorii de rețele publice de comunicații electronice sau de servicii de comunicații electronice destinate publicului și raportarea incidentelor cu impact semnificativ asupra furnizării rețelelor și serviciilor de comunicații electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150712",
+   "versions": [
+    {
+     "from": "2013-08-19",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-512-2013-privind-stabilirea-msurilor-minime-de-securitate-ce-trebuie-luate-de-ctre-furnizorii-de-reele-publice-de-comunicaii-electronice-sau-de-servicii-de-comunica/?link_id=decizie_2013_5121381320491.pdf",
+     "sha256": "851b531c83d92ce064dd4087997ef2d43dd6e134d7dcd12004762bc17219b34a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-638-2013",
+   "path": "decizie/ancom/2013/638",
+   "short": "Decizia ancom nr. 638/2013",
+   "title": "Decizia nr. 638/2013 privind unele măsuri referitoare la gestionarea benzii de frecvențe radio 3400-3800 MHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151550",
+   "versions": [
+    {
+     "from": "2013-09-25",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-638-2013-privind-unele-msuri-referitoare-la-gestionarea-benzii-de-frecvene-radio-3400-3800-mhz/?link_id=Decizie_2013_6381380119770.pdf",
+     "sha256": "31f16686ce5b59892bc2d478c7ef1592fe6f2ae14c712c62008a069f65ef0268"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-639-2013",
+   "path": "decizie/ancom/2013/639",
+   "short": "Decizia ancom nr. 639/2013",
+   "title": "Decizia nr. 639/2013 pentru modificarea si completarea Deciziei presedintelui Autoritatii Nationale pentru Administrare și Reglementare în Comunicații nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151572",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-639-2013-pentru-modificarea-i-completarea-deciziei-preedintelui-autoritii-naionale-pentru-administrare-i-reglementare-in-comunicaii-nr-551-2012-p/?link_id=Decizie_2013_6391380119854.pdf",
+     "sha256": "2912faf1e80a0f6c1b7d32d712aeeb0c0834de915c3ddf0c21f9b3cd7b2a63da"
     }
    ]
   }

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2023",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-3-2023",
+   "path": "hotarare/bnr/2023/3",
+   "short": "Hotărârea bnr nr. 3/2023",
+   "title": "Hotărârea nr. 3/2023 privind radierea Societății DELTA FINANCE IFN - S.A. din Registrul general și din Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266416",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19295-hotarare-3-2023",
+     "sha256": "26583c8c0586b24fe0db2729e06204deee1169ad1eb125eb89e1fbdae1e23706"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-4-2023",
+   "path": "hotarare/bnr/2023/4",
+   "short": "Hotărârea bnr nr. 4/2023",
+   "title": "Hotărârea nr. 4/2023 privind radierea Societății WIZ COVER IFN - S.A. din Registrul general Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270669",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/21944-hotarare-4-2023",
+     "sha256": "fe25ef9dfa1147877e8374957ce6bb27fa762a03d2d5f2c916ca317f880d616f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-7-2023",
+   "path": "hotarare/bnr/2023/7",
+   "short": "Hotărârea bnr nr. 7/2023",
+   "title": "Hotărârea nr. 7/2023 privind radierea Societății MAXCREDIT FINANCE IFN - S.A. din Registrul general și Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274349",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19474-hotarare-7-2023",
+     "sha256": "1bb1da392f0b5122681f3cd8bf5c09f36b6576cee8ff900608c4374cf9037fbf"
+    }
+   ]
+  }
+ ]
+}

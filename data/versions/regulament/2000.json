@@ -91,6 +91,21 @@
      "sha256": "30123798db0011e08e16b86fdaf04059e504e53fbe4edf1f5f4a0c82c1e29996"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-1-2000",
+   "path": "regulament/bnr/2000/1",
+   "short": "Regulament bnr nr. 1/2000",
+   "title": "Regulamentul nr. 1/2000 privind operațiunile de piața monetara efectuate de Banca Naționala a României și facilitățile de creditare și de depozit acordate de aceasta băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21726",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21726",
+     "sha256": "44332cb7d60b64ac67e2e19c02f0975edefd137ea9b79240029a6694de330473"
+    }
+   ]
   }
  ]
 }

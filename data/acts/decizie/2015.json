@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "decizie/2015",
+"acts": [
+{
+"slug": "decizie-ancom-651-2015",
+"path": "decizie/ancom/2015/651",
+"kind": "decizie",
+"year": "2015",
+"number": "651",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 651/2015 pentru modificarea și completarea unor reglementări din domeniul resurselor de numerotație, resurselor tehnice și al portabilității numerelor",
+"short": "Decizia ancom nr. 651/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-08-21",
+"latest": "2015-08-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/170771",
+"issuer": "ancom",
+"joint": []
+}
+]
+}

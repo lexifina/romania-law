@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "decizie/1994",
+ "acts": [
+  {
+   "slug": "decizie-cna-107-1994",
+   "path": "decizie/cna/1994/107",
+   "short": "Decizia cna nr. 107/1994",
+   "title": "Decizia nr. 107/1994 pentru completarea Normelor obligatorii privind realizarea publicității în cadrul programelor audiovizuale, radiodifuzate sau distribuite prin cablu, adoptate prin Decizia Consiliului Național al Audiovizualului nr. 105 din 22 iulie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4435",
+   "versions": [
+    {
+     "from": "1995-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4435",
+     "sha256": "e695fe0d02544d48f4f0e55d6ac5dc8f718ce89119e98338cce4f271de14a880"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-109-1994",
+   "path": "decizie/cna/1994/109",
+   "short": "Decizia cna nr. 109/1994",
+   "title": "Decizia nr. 109/1994 privind retragerea, la cerere, a unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4444",
+   "versions": [
+    {
+     "from": "1995-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4444",
+     "sha256": "4844d2bbf0a4ffdf6023d4e7bc2049195c9ac9561f6f8ef3145f53985f4dc36e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-113-1994",
+   "path": "decizie/cna/1994/113",
+   "short": "Decizia cna nr. 113/1994",
+   "title": "Decizia nr. 113/1994 privind acordarea licențelor de emisie pentru radiodifuziune/televiziune transmisă prin cablu, în trimestrul IV/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4464",
+   "versions": [
+    {
+     "from": "1995-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4464",
+     "sha256": "f903b2260f6c7d3a37965c8ce7fe44db32efa844e4b75ec303d5dd2151cb1dd7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-114-1994",
+   "path": "decizie/cna/1994/114",
+   "short": "Decizia cna nr. 114/1994",
+   "title": "Decizia nr. 114/1994 privind unele reglementări referitoare la grila de programe transmise",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4469",
+   "versions": [
+    {
+     "from": "1995-01-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4469",
+     "sha256": "9e3d7541db7b23f61978a6925730f9e926ba73b708f6437008e0502324f7cf13"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-31-1994",
+   "path": "decizie/cna/1994/31",
+   "short": "Decizia cna nr. 31/1994",
+   "title": "Decizia nr. 31/1994 privind acordarea licențelor de emisie pentru televiziune în trimestrul I/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4056",
+   "versions": [
+    {
+     "from": "1994-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4056",
+     "sha256": "82fcff07df516f84a16ece636ea4119abca2c97628a00c9d7f141c2921b7cb17"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-96-1994",
+   "path": "decizie/cna/1994/96",
+   "short": "Decizia cna nr. 96/1994",
+   "title": "Decizia nr. 96/1994 privind retragerea Licenței de emisie TV 005 din 29 ianuarie 1993 și a Deciziei de autorizare nr. 069.0 din 4 octombrie 1994, acordate Societății Comerciale \"Soți\" - S.A. pentru canalul 57 în municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4389",
+   "versions": [
+    {
+     "from": "1994-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4389",
+     "sha256": "ab654f9c1a4f9d0c3a9b60b47e31e522d15c02c5be2d088a43ce10c62e692da8"
+    }
+   ]
+  }
+ ]
+}

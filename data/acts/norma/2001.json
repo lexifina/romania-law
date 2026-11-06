@@ -155,6 +155,25 @@
 "joint": []
 },
 {
+"slug": "norma-csa-5-2001",
+"path": "norma/csa/2001/5",
+"kind": "norma",
+"year": "2001",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 5/2001 privind metodologia de calcul și de evidenta a rezervelor tehnice minimale pentru activitatea de asigurări generale",
+"short": "Norma csa nr. 5/2001",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-10-23",
+"latest": "2001-10-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/31416",
+"issuer": "csa",
+"joint": []
+},
+{
 "slug": "norma-csa-6-2001",
 "path": "norma/csa/2001/6",
 "kind": "norma",

@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "circulara/2020",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2020",
+   "path": "circulara/bnr/2020/1",
+   "short": "Circulara bnr nr. 1/2020",
+   "title": "Circulara nr. 1/2020 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 decembrie 2019-23 ianuarie 2020",
+   "url": "https://www.bnr.ro/21252-circulara-1-2020",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21252-circulara-1-2020",
+     "sha256": "4b9596861efeb4841a89fc1485d10b7802d63720b67a0460276c661dc94dc3b2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2020",
+   "path": "circulara/bnr/2020/10",
+   "short": "Circulara bnr nr. 10/2020",
+   "title": "Circulara nr. 10/2020 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în euro și în dolari SUA începând cu perioada de aplicare 24 martie-23 aprilie 2020",
+   "url": "https://www.bnr.ro/21763-circulara-10-2020",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21763-circulara-10-2020",
+     "sha256": "376bd711244d2651c9e479dbf6fc3f459bcb990154c54d5c5c32c73fd7b27093"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2020",
+   "path": "circulara/bnr/2020/11",
+   "short": "Circulara bnr nr. 11/2020",
+   "title": "Circulara nr. 11/2020 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în euro și în dolari SUA începând cu perioada de aplicare 24 aprilie-23 mai 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225985",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20084-circulara-11-2020",
+     "sha256": "4303c1894d53d9facbd8f25d06c3619ae3e74e5c5bd5d8b7b3980fc31b20f5a4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2020",
+   "path": "circulara/bnr/2020/12",
+   "short": "Circulara bnr nr. 12/2020",
+   "title": "Circulara nr. 12/2020 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226191",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20488-circulara-12-2020",
+     "sha256": "395c6306f25ccc315865943be1651b518959a5cceb63feacb8dad8e37b89f87d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2020",
+   "path": "circulara/bnr/2020/13",
+   "short": "Circulara bnr nr. 13/2020",
+   "title": "Circulara nr. 13/2020 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 mai-23 iunie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226952",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19228-circulara-13-2020",
+     "sha256": "aef8b59686ec939f0d2ca1a38b142fbec6e039fb4dbaa5acb193309daafd1f32"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2020",
+   "path": "circulara/bnr/2020/14",
+   "short": "Circulara bnr nr. 14/2020",
+   "title": "Circulara nr. 14/2020 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 iunie-23 iulie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226953",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19444-circulara-14-2020",
+     "sha256": "4f76967c9f0d9ecb61c1cab99d6e110ee9ae2b10aa3a63ad70d752a9bb03bc04"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2020",
+   "path": "circulara/bnr/2020/15",
+   "short": "Circulara bnr nr. 15/2020",
+   "title": "Circulara nr. 15/2020 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 iunie-23 iulie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227846",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19464-circulara-15-2020",
+     "sha256": "fe0d99b7e61b15d9970dfd97410b0001dc29aa08b6a4398ed4ae233e561c8b08"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2020",
+   "path": "circulara/bnr/2020/16",
+   "short": "Circulara bnr nr. 16/2020",
+   "title": "Circulara nr. 16/2020 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228706",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20298-circulara-16-2020",
+     "sha256": "3ff8a64377fc902e4e4a69f5b32da34203b27f66bd7d80010f5803eb7e7851c4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2020",
+   "path": "circulara/bnr/2020/18",
+   "short": "Circulara bnr nr. 18/2020",
+   "title": "Circulara nr. 18/2020 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 august-23 septembrie 2020",
+   "url": "https://www.bnr.ro/19316-circulara-18-2020",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19316-circulara-18-2020",
+     "sha256": "bf02f3d2412171fd4544d09ebbbad00c525b8a0b46747951e21b1ce09d773140"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2020",
+   "path": "circulara/bnr/2020/19",
+   "short": "Circulara bnr nr. 19/2020",
+   "title": "Circulara nr. 19/2020 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 august-23 septembrie 2020",
+   "url": "https://www.bnr.ro/21920-circulara-19-2020",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21920-circulara-19-2020",
+     "sha256": "2f6a289adb5e9dc2e60767a9399766e0221175a9969b1ef3b45a7054e017b486"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2020",
+   "path": "circulara/bnr/2020/2",
+   "short": "Circulara bnr nr. 2/2020",
+   "title": "Circulara nr. 2/2020 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de la înființarea Operei Române din Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223016",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21724-circulara-2-2020",
+     "sha256": "d2a739931c1d0008a58fd5baee31b2385e2723061d2c7bab3d305121b151379c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2020",
+   "path": "circulara/bnr/2020/20",
+   "short": "Circulara bnr nr. 20/2020",
+   "title": "Circulara nr. 20/2020 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 august - 23 septembrie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229935",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19497-circulara-20-2020",
+     "sha256": "5b0c80f6ecb37be3ae6c7753ad03ad0b522e5d9297ca75f2ff91e91a892f6e98"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2020",
+   "path": "circulara/bnr/2020/21",
+   "short": "Circulara bnr nr. 21/2020",
+   "title": "Circulara nr. 21/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231510",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21919-circulara-21-2020",
+     "sha256": "172037d45294c5b732794ed26bb8fb13ed0721dda18c3db8042dbf9c7b51281a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2020",
+   "path": "circulara/bnr/2020/22",
+   "short": "Circulara bnr nr. 22/2020",
+   "title": "Circulara nr. 22/2020 privind comisioanele percepute de Banca Națională a României titularilor de conturi în valută deschise la Banca Națională a României, intrare în vigoare la data de 19 noiembrie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231527",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 7,
+     "source_url": "https://www.bnr.ro/19230-circulara-22-2020",
+     "sha256": "82cef03f4ba01588af1b5cc89afb153279e89c47ee8d59b93a1d905faeded59d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2020",
+   "path": "circulara/bnr/2020/23",
+   "short": "Circulara bnr nr. 23/2020",
+   "title": "Circulara nr. 23/2020 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari SUA începând cu perioada de aplicare 24 septembrie-23 octombrie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231556",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19231-circulara-23-2020",
+     "sha256": "d285d359e968831eb168dd8da8604e051e75884bd033e2d9756b250e6fb19cae"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2020",
+   "path": "circulara/bnr/2020/24",
+   "short": "Circulara bnr nr. 24/2020",
+   "title": "Circulara nr. 24/2020 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de la înființarea Universității Politehnica Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232588",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20300-circulara-24-2020",
+     "sha256": "ae428d4e2ce5190751a62645d4e76d8353460aba95de83b35dd8c318e0478f0c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2020",
+   "path": "circulara/bnr/2020/25",
+   "short": "Circulara bnr nr. 25/2020",
+   "title": "Circulara nr. 25/2020 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 octombrie-23 noiembrie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233385",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21954-circulara-25-2020",
+     "sha256": "8b8593843248dc5466798d35d3bcdb47c40bc378e0d82d9bea1a7a55c1cee3da"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2020",
+   "path": "circulara/bnr/2020/26",
+   "short": "Circulara bnr nr. 26/2020",
+   "title": "Circulara nr. 26/2020 privind modificarea ratei rezervelor minime obligatorii pentru mijloacele bănești în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233309",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21936-circulara-26-2020",
+     "sha256": "575cb76a03d5202bf0a489ed143295ba96581deb6c6491a70c2f709260e46c3b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2020",
+   "path": "circulara/bnr/2020/27",
+   "short": "Circulara bnr nr. 27/2020",
+   "title": "Circulara nr. 27/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234030",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20320-circulara-27-2020",
+     "sha256": "f8480bd68d5f8f822fc09794a811653330af78c3976dcd16a3c7b5495f99fff7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2020",
+   "path": "circulara/bnr/2020/28",
+   "short": "Circulara bnr nr. 28/2020",
+   "title": "Circulara nr. 28/2020 nr, 28/2020 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 noiembrie-23 decembrie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235279",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19498-circulara-28-2020",
+     "sha256": "7bb1b060d90fe65a8d4804a31cc11eb611dd151953911c0d1e859ff8499a8f50"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2020",
+   "path": "circulara/bnr/2020/29",
+   "short": "Circulara bnr nr. 29/2020",
+   "title": "Circulara nr. 29/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235688",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19417-circulara-29-2020",
+     "sha256": "f1a1bf3474bb55ce68fcdcff9e0c442bb6b3526c9e8cc63fd26e5bbefa1efc31"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2020",
+   "path": "circulara/bnr/2020/3",
+   "short": "Circulara bnr nr. 3/2020",
+   "title": "Circulara nr. 3/2020 privind modificarea ratei rezervelor minime obligatorii pentru mijloacele bănești în valută",
+   "url": "https://www.bnr.ro/19716-circulara-3-2020",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19716-circulara-3-2020",
+     "sha256": "917b6b4573def68a9637c43075026db0a586d333d67f4112b9f238f9ae9b3b00"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2020",
+   "path": "circulara/bnr/2020/4",
+   "short": "Circulara bnr nr. 4/2020",
+   "title": "Circulara nr. 4/2020 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 ianuarie-23 februarie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223090",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19717-circulara-4-2020",
+     "sha256": "9b649ab862ee9132b3b674378c9b47f3bc582fa69c1e6554681a6edab6fab217"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2020",
+   "path": "circulara/bnr/2020/5",
+   "short": "Circulara bnr nr. 5/2020",
+   "title": "Circulara nr. 5/2020 privind lansarea în circuitul numismatic a unei monede din aur cu tema Istoria aurului - Obiecte de orfevrărie romană târzie descoperite la Carsium",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223274",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19718-circulara-5-2020",
+     "sha256": "e0b272b0675045f6fe40c7c54813971ea5751ae085057faf3a80b16215e73c06"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2020",
+   "path": "circulara/bnr/2020/8",
+   "short": "Circulara bnr nr. 8/2020",
+   "title": "Circulara nr. 8/2020 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224306",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21253-circulara-8-2020",
+     "sha256": "61b5689fb8639b9ecbcf181a761b8eb581e370bcaf1d2eccea54072018721e1d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2020",
+   "path": "circulara/bnr/2020/9",
+   "short": "Circulara bnr nr. 9/2020",
+   "title": "Circulara nr. 9/2020 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 aprilie-23 mai 2020",
+   "url": "https://www.bnr.ro/21254-circulara-9-2020",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21254-circulara-9-2020",
+     "sha256": "1ccadb8e98f5839d9a2dd2ccc7d60508121d3670c63d1dc4e08b47812345f265"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "decizie/1997",
+ "acts": [
+  {
+   "slug": "decizie-cna-106-1997",
+   "path": "decizie/cna/1997/106",
+   "short": "Decizia cna nr. 106/1997",
+   "title": "Decizia nr. 106/1997 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11642",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11642",
+     "sha256": "464875e85ec0aa01e8366fdfe8d3894db097239ff32bc040d1cf4e3899b5e685"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-134-1997",
+   "path": "decizie/cna/1997/134",
+   "short": "Decizia cna nr. 134/1997",
+   "title": "Decizia nr. 134/1997 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11757",
+   "versions": [
+    {
+     "from": "1998-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11757",
+     "sha256": "5ae6294a4ee5347df1793b855e23aa474935e448a23c2dc570b6ff1d70082850"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-65-1997",
+   "path": "decizie/cna/1997/65",
+   "short": "Decizia cna nr. 65/1997",
+   "title": "Decizia nr. 65/1997 privind îndreptarea erorii materiale existente în Decizia Consiliului Național al Audiovizualului nr. 44 din 24 aprilie 1997 *)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11416",
+   "versions": [
+    {
+     "from": "1997-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11416",
+     "sha256": "e851234a192c10a3722830ac8d3ec58ac93089204c150e9d40ed4de3e9b52c69"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-3148-1997",
+   "path": "decizie/cnvm/1997/3148",
+   "short": "Decizia cnvm nr. 3148/1997",
+   "title": "Decizia nr. 3.148/1997 privind retragerea autorizației de funcționare a Societății de intermediere S.C.F. GROUP AS - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13878",
+   "versions": [
+    {
+     "from": "1997-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13878",
+     "sha256": "343f8470fd4dc2702d6c81848ea5f226c7ca92cdcf9782c73a5cac35b6570237"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-3775-1997",
+   "path": "decizie/cnvm/1997/3775",
+   "short": "Decizia cnvm nr. 3775/1997",
+   "title": "Decizia nr. 3.775/1997 privind prelungirea autorizării temporare ca organism de autoreglementare a Asociației Naționale a Societăților de Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13881",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13881",
+     "sha256": "be888ebf8d1cbf011dd11915f669799b83a4d6b697c71d80132ef6c2878f2dcb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-3776-1997",
+   "path": "decizie/cnvm/1997/3776",
+   "short": "Decizia cnvm nr. 3776/1997",
+   "title": "Decizia nr. 3.776/1997 privind prelungirea autorizării temporare ca organism de autoreglementare a Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13882",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13882",
+     "sha256": "8c09cf56d8a34e04f822bee8a31dc2a965d8541d145f65e376cda39fd91a14a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-15-1997",
+   "path": "decizie/concurenta/1997/15",
+   "short": "Decizia concurenta nr. 15/1997",
+   "title": "Decizia nr. 15/1997 referitoare la concentrarea economică, conform prevederilor Legii concurentei nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11000",
+   "versions": [
+    {
+     "from": "1998-02-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11000",
+     "sha256": "bb4a64a80b806f661664ef52b99ad7db9b275e5d010e64063445f1a31decda65"
+    }
+   ]
+  }
+ ]
+}

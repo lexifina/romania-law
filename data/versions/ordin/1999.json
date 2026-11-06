@@ -4321,6 +4321,81 @@
      "sha256": "cce3d601951fc25f9641edd9a757af2e138a82dcec4df36cfa2a02c7ef5c2ef0"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-20-1999",
+   "path": "ordin/bnr/1999/20",
+   "short": "Ordin bnr nr. 20/1999",
+   "title": "Ordinul nr. 20/1999 pentru aprobarea metodologiei de înregistrare în contabilitate a operațiunilor legate de primirea și utilizarea fondurilor din contribuția financiară a Comunității Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20412",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20412",
+     "sha256": "40dc63c210ae08333e2441569d90d6b1f1c7eacce677e7d1ba3d3a13489c7b35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-473-1999",
+   "path": "ordin/bnr/1999/473",
+   "short": "Ordin bnr nr. 473/1999",
+   "title": "Ordinul nr. 473/1999 privind sancționarea Casei de schimb valutar \"Miravia Exchange Office\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20464",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20464",
+     "sha256": "8bdb8c6eadd5f92df2549870886684cabf004b59c359f54e04e4a229a7b4137e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-14-1999",
+   "path": "ordin/cnvm/1999/14",
+   "short": "Ordin cnvm nr. 14/1999",
+   "title": "Ordinul nr. 14/1999 pentru aprobarea Instrucțiunilor nr. 5/1999 cu privire la modificarea și completarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18700",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18700",
+     "sha256": "113fc2af369166b3ce3ef18b2a8dff198b4213d014bec191b724a3f0c8fb7524"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-24-1999",
+   "path": "ordin/cnvm/1999/24",
+   "short": "Ordin cnvm nr. 24/1999",
+   "title": "Ordinul nr. 24/1999 pentru aprobarea Instrucțiunilor nr. 8/1999 privind transferul acțiunilor deținute de stat la unele societăți comerciale din administrarea Fondului Proprietății de Stat în administrarea Ministerului Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20669",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20669",
+     "sha256": "3d549b3e20ee9b9edc08f2425a4125592b017b87583ce32f9c7373a38bbc7e6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-4-1999",
+   "path": "ordin/cnvm/1999/4",
+   "short": "Ordin cnvm nr. 4/1999",
+   "title": "Ordinul nr. 4/1999 pentru aprobarea Regulamentului nr. 2/1999 privind organizarea pieței valorilor mobiliare necotate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17248",
+   "versions": [
+    {
+     "from": "1999-03-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17248",
+     "sha256": "38fe525212d61efc20ef2b77b5daa734738b84c785e093e32537e942892b572d"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "hotarare/2019",
+"acts": [
+{
+"slug": "hotarare-bnr-7-2019",
+"path": "hotarare/bnr/2019/7",
+"kind": "hotarare",
+"year": "2019",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 7/2019 privind radierea din Registrul general a Societății BALKAN CREDIT IFN - S.A. și, implicit, interzicerea desfășurării activității de creditare",
+"short": "Hotărârea bnr nr. 7/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-01",
+"latest": "2019-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218594",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-8-2019",
+"path": "hotarare/bnr/2019/8",
+"kind": "hotarare",
+"year": "2019",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 8/2019 privind radierea din Registrul general a Societății IATSA LEASING INSTITUȚIE FINANCIARĂ NEBANCARĂ - S.A. și, implicit, interzicerea desfășurării activității de creditare",
+"short": "Hotărârea bnr nr. 8/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-17",
+"latest": "2019-10-17",
+"portal": "https://www.bnr.ro/20426-hotarare-8-2019",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-19-2019",
+"path": "hotarare/bnr/2019/19",
+"kind": "hotarare",
+"year": "2019",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 19/2019",
+"short": "Hotărârea bnr nr. 19/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-07-03",
+"latest": "2019-07-03",
+"portal": "https://www.bnr.ro/19153-hotarare-19-2019",
+"issuer": "bnr",
+"joint": []
+}
+]
+}

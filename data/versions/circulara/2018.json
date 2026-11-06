@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "circulara/2018",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2018",
+   "path": "circulara/bnr/2018/1",
+   "short": "Circulara bnr nr. 1/2018",
+   "title": "Circulara nr. 1/2018 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196442",
+   "versions": [
+    {
+     "from": "2018-01-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21684-circulara-1-2018",
+     "sha256": "736b4349caddadaf8f39a2b0350c05fe99a3f33c0e46137fbe4189c340cf4c86"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2018",
+   "path": "circulara/bnr/2018/10",
+   "short": "Circulara bnr nr. 10/2018",
+   "title": "Circulara nr. 10/2018 privind lansarea în circuitul numismatic a unei monede din aur cu tema 330 de ani de la tipărirea Bibliei de la București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199832",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21890-circulara-10-2018",
+     "sha256": "bd6341b969f2e4625cd94790ddd3a22f89874e6c0da0dce7d59c2bbf3bed5a7b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2018",
+   "path": "circulara/bnr/2018/11",
+   "short": "Circulara bnr nr. 11/2018",
+   "title": "Circulara nr. 11/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200520",
+   "versions": [
+    {
+     "from": "2018-05-08",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19188-circulara-11-2018",
+     "sha256": "a45675cd6b3d01bf8aad4446a910a7829f0361def77a4afe3826a65e4b55a5f7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2018",
+   "path": "circulara/bnr/2018/12",
+   "short": "Circulara bnr nr. 12/2018",
+   "title": "Circulara nr. 12/2018 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200345",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20399-circulara-12-2018",
+     "sha256": "a6d2d3b7174912b7c9936c19e9621465f4d414263f69b76978ff5ed196944c55"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2018",
+   "path": "circulara/bnr/2018/13",
+   "short": "Circulara bnr nr. 13/2018",
+   "title": "Circulara nr. 13/2018 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 aprilie-23 mai 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200946",
+   "versions": [
+    {
+     "from": "2018-05-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20203-circulara-13-2018",
+     "sha256": "b231c10462821b050303511a4ae9e86851c2caf8807987e6a20815ede4c184ae"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2018",
+   "path": "circulara/bnr/2018/14",
+   "short": "Circulara bnr nr. 14/2018",
+   "title": "Circulara nr. 14/2018 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 mai-23 iunie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200947",
+   "versions": [
+    {
+     "from": "2018-05-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20400-circulara-14-2018",
+     "sha256": "4010744330477113657f8bb856c5d4e06d56dfa8313e53f8af71de0377cd8c3a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2018",
+   "path": "circulara/bnr/2018/15",
+   "short": "Circulara bnr nr. 15/2018",
+   "title": "Circulara nr. 15/2018 privind lansarea în circuitul numismatic a unei monede din aur cu tema 100 de ani de la încheierea Primului Război Mondial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201106",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19189-circulara-15-2018",
+     "sha256": "2f6b1ab63a8865dc8539d84bdba59a108964806879c7d2e6053e9c442db6a9ca"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2018",
+   "path": "circulara/bnr/2018/16",
+   "short": "Circulara bnr nr. 16/2018",
+   "title": "Circulara nr. 16/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201768",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19800-circulara-16-2018",
+     "sha256": "ca8494d49eb4021599e53dd8bb85d2e8dba49b29298da1d5a1b04e4873246c73"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2018",
+   "path": "circulara/bnr/2018/17",
+   "short": "Circulara bnr nr. 17/2018",
+   "title": "Circulara nr. 17/2018 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 mai-23 iunie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201769",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20205-circulara-17-2018",
+     "sha256": "bb729ed30702cc74a81e0ea00ae3f32ec24f06e29cc5412f0984b6e11d92fb8a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2018",
+   "path": "circulara/bnr/2018/18",
+   "short": "Circulara bnr nr. 18/2018",
+   "title": "Circulara nr. 18/2018",
+   "url": "https://www.bnr.ro/19197-circulara-18-2018",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19197-circulara-18-2018",
+     "sha256": "dfc02825637639be317de2bc6309eaa1fe26e8f77389ec42d50414eb3db4a63f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2018",
+   "path": "circulara/bnr/2018/19",
+   "short": "Circulara bnr nr. 19/2018",
+   "title": "Circulara nr. 19/2018 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 iunie – 23 iulie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202613",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19138-circulara-19-2018",
+     "sha256": "8cb5a63d2eee3be84933b3146433cd260b97c6aa03fac67fcfa5239311f93251"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2018",
+   "path": "circulara/bnr/2018/2",
+   "short": "Circulara bnr nr. 2/2018",
+   "title": "Circulara nr. 2/2018 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari S.U.A. începând cu perioada de aplicare 24 decembrie 2017-23 ianuarie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196883",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20204-circulara-2-2018",
+     "sha256": "164b7a07d43d6db6abf5a1ee3f24b8272b562a972c84c15854e4371744132f5e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2018",
+   "path": "circulara/bnr/2018/21",
+   "short": "Circulara bnr nr. 21/2018",
+   "title": "Circulara nr. 21/2018 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 iulie-23 august 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203959",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20420-circulara-21-2018",
+     "sha256": "9ecb7143bbb1b5052f6fd89ec08589f1e93cd9bdb0cc65607a1a25dc8aaf2907"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2018",
+   "path": "circulara/bnr/2018/22",
+   "short": "Circulara bnr nr. 22/2018",
+   "title": "Circulara nr. 22/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204283",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19142-circulara-22-2018",
+     "sha256": "89c4084d5155507070041b3ddda947393a2410a4ff0feb3d2728d551d031af00"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2018",
+   "path": "circulara/bnr/2018/23",
+   "short": "Circulara bnr nr. 23/2018",
+   "title": "Circulara nr. 23/2018 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 august-23 septembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205056",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19844-circulara-23-2018",
+     "sha256": "d4677b83ad94ff8140c7548ce38cee477f12c7adaa034c927a4c3745d61f8809"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2018",
+   "path": "circulara/bnr/2018/24",
+   "short": "Circulara bnr nr. 24/2018",
+   "title": "Circulara nr. 24/2018 privind lansarea în circuitul numismatic a unei monede din aur cu tema 175 de ani de la nașterea reginei Elisabeta a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206084",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19864-circulara-24-2018",
+     "sha256": "5a03c2c9230a9f43c94f97cb0cce572aa0d07f286a07ea41334549546ace5e14"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2018",
+   "path": "circulara/bnr/2018/25",
+   "short": "Circulara bnr nr. 25/2018",
+   "title": "Circulara nr. 25/2018 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 septembrie-23 octombrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206085",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19144-circulara-25-2018",
+     "sha256": "da0aa6a0a7fdfb022649e22d074d2af60ddd58348a4c2ed01e9d9bd7f61c66b2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2018",
+   "path": "circulara/bnr/2018/26",
+   "short": "Circulara bnr nr. 26/2018",
+   "title": "Circulara nr. 26/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206086",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19654-circulara-26-2018",
+     "sha256": "c0540c3de9c278571103b7a56aa310c58dc7ceace6809e6056154a041ec17aa5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2018",
+   "path": "circulara/bnr/2018/27",
+   "short": "Circulara bnr nr. 27/2018",
+   "title": "Circulara nr. 27/2018 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari SUA începând cu perioada de aplicare 24 octombrie-23 noiembrie 2018",
+   "url": "https://www.bnr.ro/19682-circulara-27-2018",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19682-circulara-27-2018",
+     "sha256": "a71214eac08c11a315984974d10ff502f1cf8fbb9ae6610d2737033736841307"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2018",
+   "path": "circulara/bnr/2018/28",
+   "short": "Circulara bnr nr. 28/2018",
+   "title": "Circulara nr. 28/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207123",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21721-circulara-28-2018",
+     "sha256": "90823b55d3d535392929dad9dac4b784c0e8c07e04e43f4fdd7763c7f1c52069"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2018",
+   "path": "circulara/bnr/2018/29",
+   "short": "Circulara bnr nr. 29/2018",
+   "title": "Circulara nr. 29/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208067",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19685-circulara-29-2018",
+     "sha256": "6e58ac34813669bd47d27e0dac5765c43d1295f48f8a3dcc11a769f9b6573a42"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2018",
+   "path": "circulara/bnr/2018/3",
+   "short": "Circulara bnr nr. 3/2018",
+   "title": "Circulara nr. 3/2018 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 ianuarie-23 februarie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196884",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19297-circulara-3-2018",
+     "sha256": "f196fae97f648b9cf2a125cbe3572ec9360909329915d96d8aa44093f7ad93c3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2018",
+   "path": "circulara/bnr/2018/30",
+   "short": "Circulara bnr nr. 30/2018",
+   "title": "Circulara nr. 30/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209047",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21722-circulara-30-2018",
+     "sha256": "85ed2749288327c5eeb2f1212a318affcb8af5b20be31ee58253c024407321bd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2018",
+   "path": "circulara/bnr/2018/31",
+   "short": "Circulara bnr nr. 31/2018",
+   "title": "Circulara nr. 31/2018 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 noiembrie-23 decembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209044",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21676-circulara-31-2018",
+     "sha256": "2e14f9e151662fdff811a86507ef92bc83b6830825bef490a3543207e43ab556"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2018",
+   "path": "circulara/bnr/2018/32",
+   "short": "Circulara bnr nr. 32/2018",
+   "title": "Circulara nr. 32/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209453",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21150-circulara-32-2018",
+     "sha256": "a6ecb2097759404f25c7c6100a9abd9af8ae0d0f62e15e16afc7cc3e7a2b3c42"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2018",
+   "path": "circulara/bnr/2018/33",
+   "short": "Circulara bnr nr. 33/2018",
+   "title": "Circulara nr. 33/2018 privind lansarea în circuitul numismatic a unor monede dedicate preluării de către România, la 1 ianuarie 2019, a Președinției Consiliului Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209454",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21151-circulara-33-2018",
+     "sha256": "99417479f48f3ee7011d61d9e79a47bb106c013a81dd4e39224976d52dafac38"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2018",
+   "path": "circulara/bnr/2018/4",
+   "short": "Circulara bnr nr. 4/2018",
+   "title": "Circulara nr. 4/2018 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197539",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19184-circulara-4-2018",
+     "sha256": "48341535565b8642e46704777e13abaed198df3f52f0e7dbeed2ce2b18492f6a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2018",
+   "path": "circulara/bnr/2018/5",
+   "short": "Circulara bnr nr. 5/2018",
+   "title": "Circulara nr. 5/2018 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 ianuarie-23 februarie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198072",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19186-circulara-5-2018",
+     "sha256": "f1e8add07be5c71931b6f56b21b6e549e7d399c8e1e126ca1d78ee136ecdff11"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2018",
+   "path": "circulara/bnr/2018/6",
+   "short": "Circulara bnr nr. 6/2018",
+   "title": "Circulara nr. 6/2018 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 februarie-23 martie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198073",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20397-circulara-6-2018",
+     "sha256": "9d51a868fa57868b6ac74a3598278a9ca55b8647e0105b47a089ce5bfd0855ce"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2018",
+   "path": "circulara/bnr/2018/7",
+   "short": "Circulara bnr nr. 7/2018",
+   "title": "Circulara nr. 7/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198425",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21685-circulara-7-2018",
+     "sha256": "3e36988872d49dc35b4f02a10e131658ab307e527c87f695c8e8a5688d298e2a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2018",
+   "path": "circulara/bnr/2018/8",
+   "short": "Circulara bnr nr. 8/2018",
+   "title": "Circulara nr. 8/2018 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 februarie-23 martie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198854",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21623-circulara-8-2018",
+     "sha256": "305018fe01f3001989df81cf6be25032a6546ecc4427fffa22bedacdd811a52b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2018",
+   "path": "circulara/bnr/2018/9",
+   "short": "Circulara bnr nr. 9/2018",
+   "title": "Circulara nr. 9/2018 privind lansarea în circuitul numismatic a unui set de trei monede (din aur, argint și tombac cuprat) și a unei monede din alamă, pentru colecționare, dedicate împlinirii a 100 de ani de la unirea Basarabiei cu România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199471",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19095-circulara-9-2018",
+     "sha256": "81ff817d73a2e4ad830876c75d869344a68d791d09394791b756b0f165f5d626"
+    }
+   ]
+  }
+ ]
+}

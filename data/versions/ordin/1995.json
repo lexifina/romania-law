@@ -1561,6 +1561,21 @@
      "sha256": "2d2120db980638dbc439f5634e1276288c3083c1a5edc8323df507f14f6dd360"
     }
    ]
+  },
+  {
+   "slug": "ordin-cnvm-71-1995",
+   "path": "ordin/cnvm/1995/71",
+   "short": "Ordin cnvm nr. 71/1995",
+   "title": "Ordinul nr. 71/1995 pentru aprobarea Instrucțiunilor nr. 6/1995 cu privire la retragerea sau suspendarea autorizației agenților de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6112",
+   "versions": [
+    {
+     "from": "1995-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6112",
+     "sha256": "475d1178d7c5c8cfba05b0808ef28e357f94b504b469714a41f3333f79351b36"
+    }
+   ]
   }
  ]
 }

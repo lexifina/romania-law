@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "decizie-ancom-144-2006",
+   "path": "decizie/ancom/2006/144",
+   "short": "Decizia ancom nr. 144/2006",
+   "title": "Decizia nr. 144/2006 /EN din 10 aprilie 2006 privind implementarea portabilității numerelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70944",
+   "versions": [
+    {
+     "from": "2006-04-19",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70944",
+     "sha256": "8aa093af54cd75e7c9a2f29a4ae86a3fdb64c49c4a29b9529c25f675dbd2b051"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-151-2006",
+   "path": "decizie/ancom/2006/151",
+   "short": "Decizia ancom nr. 151/2006",
+   "title": "Decizia nr. 151/2006 /EN din 17 aprilie 2006 privind raportarea unor date statistice de către furnizorii de rețele și servicii de comunicații electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71097",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71097",
+     "sha256": "7f6e4e3e7e229db9b8ab8b895adf507c5b284902727afc64dae9ab45ebc9fcdf"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-345-2006",
    "path": "decizie/ancom/2006/345",
    "short": "Decizia ancom nr. 345/2006",
@@ -89,6 +119,726 @@
      "units": 2,
      "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-689-2006-privind-modificarea-si-completarea-anexei-la-decizia-presedintelui-inspectoratului-general-pentr/?link_id=81193342_decizie_2006_689.pdf",
      "sha256": "80a4b01c7f32f9249497a37a8d27115690775e3e48d7c794ebb7a046da392ac7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1000-2006",
+   "path": "decizie/anrgn/2006/1000",
+   "short": "Decizia anrgn nr. 1000/2006",
+   "title": "Decizia nr. 1.000/2006 pentru aprobarea Regulamentului privind furnizorul de ultimă instanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74861",
+   "versions": [
+    {
+     "from": "2006-09-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74861",
+     "sha256": "129bf6780398af6ca0ff3a364c4bbc9c277c1657192502bc857bdef09dd46399"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1001-2006",
+   "path": "decizie/anrgn/2006/1001",
+   "short": "Decizia anrgn nr. 1001/2006",
+   "title": "Decizia nr. 1.001/2006 pentru prorogarea termenului prevăzut la pct. 7.17 din Regulamentul de măsurare a cantităților de gaze naturale tranzacționate pe piața angro, aprobat prin Decizia președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 664/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74833",
+   "versions": [
+    {
+     "from": "2006-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74833",
+     "sha256": "cc33e1cbf7695b96e4e0ebcf3c6ea4480d2fdc97f349a38724bb47abd1189f99"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1139-2006",
+   "path": "decizie/anrgn/2006/1139",
+   "short": "Decizia anrgn nr. 1139/2006",
+   "title": "Decizia nr. 1.139/2006 pentru aprobarea Regulamentului privind separarea contabilă, legală, funcțională și organizatorică a activităților reglementate din sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76241",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76241",
+     "sha256": "6149081995b9c4401e16ea94935e0ca0fb913aae096d34f0cc092471d0467d75"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-252-2006",
+   "path": "decizie/anrgn/2006/252",
+   "short": "Decizia anrgn nr. 252/2006",
+   "title": "Decizia nr. 252/2006 pentru modificarea criteriilor și metodelor privind aprobarea prețurilor și stabilirea tarifelor reglementate în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69582",
+   "versions": [
+    {
+     "from": "2006-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69582",
+     "sha256": "0dcba38fc064aeecd7b665167299a6724f2459a08545da9952d5a9c504820a4c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-253-2006",
+   "path": "decizie/anrgn/2006/253",
+   "short": "Decizia anrgn nr. 253/2006",
+   "title": "Decizia nr. 253/2006 privind modificarea și completarea Contractului-cadru de înmagazinare subterană a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69583",
+   "versions": [
+    {
+     "from": "2006-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69583",
+     "sha256": "032582bcbb3a0ddf2460f6165f422f0452f32f813469bfbfff40c9f17907749d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-277-2006",
+   "path": "decizie/anrgn/2006/277",
+   "short": "Decizia anrgn nr. 277/2006",
+   "title": "Decizia nr. 277/2006 privind aprobarea Codului tehnic al gazelor naturale comprimate pentru vehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70302",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70302",
+     "sha256": "27b22426b611b5ebebd80872f25338b34e14c270c5d4db8fc48b91df5201febd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-461-2006",
+   "path": "decizie/anrgn/2006/461",
+   "short": "Decizia anrgn nr. 461/2006",
+   "title": "Decizia nr. 461/2006 pentru aprobarea Metodologiei privind medierea neînțelegerilor precontractuale în sectorul gazelor naturale - segmentul concurențial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72146",
+   "versions": [
+    {
+     "from": "2006-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72146",
+     "sha256": "8aa88f63d774749f97fcf35caa99d79d5d1213046e022c6bc2d826374a9ea4ce"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-528-2006",
+   "path": "decizie/anrgn/2006/528",
+   "short": "Decizia anrgn nr. 528/2006",
+   "title": "Decizia nr. 528/2006 privind aprobarea Contractului-cadru pentru prestarea serviciilor întreruptibile de transport al gazelor naturale prin Sistemul național de transport al gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72169",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72169",
+     "sha256": "0cae6d2ded7e5433e68eff85869a72b81402bc4404fb1e107fe874d1ce6c7321"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-531-2006",
+   "path": "decizie/anrgn/2006/531",
+   "short": "Decizia anrgn nr. 531/2006",
+   "title": "Decizia nr. 531/2006 privind stabilirea nivelurilor minime ale stocurilor de gaze naturale aflate în depozitele de înmagazinare subterană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72106",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72106",
+     "sha256": "c4fb1e7cf201ee32655e03ea36d35ef4ae7793a62735219bad9728f62053f224"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-637-2006",
+   "path": "decizie/anrgn/2006/637",
+   "short": "Decizia anrgn nr. 637/2006",
+   "title": "Decizia nr. 637/2006 privind modificarea Procedurii de acreditare a consumatorilor eligibili de gaze naturale, aprobată prin Decizia președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 1.086/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72693",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72693",
+     "sha256": "4026ea4dceb18e72d55aebb4d91fdd30f84491e4e92b01b79a12aa033bafeb85"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-7-2006",
+   "path": "decizie/anrgn/2006/7",
+   "short": "Decizia anrgn nr. 7/2006",
+   "title": "Decizia nr. 7/2006 pentru modificarea și completarea Contractului-cadru de distribuție a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67941",
+   "versions": [
+    {
+     "from": "2006-01-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67941",
+     "sha256": "f738e88b0f2aa6b85239694bbe56df81afb78d7051da925ccdb1fbc62454ed1d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-848-2006",
+   "path": "decizie/anrgn/2006/848",
+   "short": "Decizia anrgn nr. 848/2006",
+   "title": "Decizia nr. 848/2006 pentru modificarea Regulamentului de constatare, notificare și sancționare a abaterilor de la reglementările emise în sectorul gazelor naturale, aprobat prin Decizia președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 1.231/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73636",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73636",
+     "sha256": "91da1a8a0465639354f9dff451824ca6358c247b23082d2d6f3cbaa34b8171a8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-967-2006",
+   "path": "decizie/anrgn/2006/967",
+   "short": "Decizia anrgn nr. 967/2006",
+   "title": "Decizia nr. 967/2006 pentru modificarea și completarea Regulamentului de funcționare a Comisiei de soluționare a refuzului accesului la sistemele de transport, distribuție, înmagazinare subterana a gazelor naturale și la conductele din amonte, aprobat prin Decizia președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 1.345/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74712",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74712",
+     "sha256": "f1342261203f8ae72491138afe04e6eadad37f8fc1ab813a00ad19327427f21d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-968-2006",
+   "path": "decizie/anrgn/2006/968",
+   "short": "Decizia anrgn nr. 968/2006",
+   "title": "Decizia nr. 968/2006 privind aprobarea Codului tehnic al gazelor petroliere lichefiate (GPL)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74819",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74819",
+     "sha256": "14a3427991dd980cb55ab43bd186df4b1ae487a1a3833606eda7edf9019ff613"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-164-2006",
+   "path": "decizie/cna/2006/164",
+   "short": "Decizia cna nr. 164/2006",
+   "title": "Decizia nr. 164/2006 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 130/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70233",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70233",
+     "sha256": "318d8fb07c37c075344e28e6646e95b6e70265103a6a8140038d5d3ad20670b3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-187-2006",
+   "path": "decizie/cna/2006/187",
+   "short": "Decizia cna nr. 187/2006",
+   "title": "Decizia nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70832",
+   "versions": [
+    {
+     "from": "2006-04-14",
+     "units": 165,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70832",
+     "sha256": "8775ca37dec7b0ac908d2ad3fa864042a501d0f0b9a1eed3d00dca7ea9c6523f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-335-2006",
+   "path": "decizie/cna/2006/335",
+   "short": "Decizia cna nr. 335/2006",
+   "title": "Decizia nr. 335/2006 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72450",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72450",
+     "sha256": "1e09ccf5d75058b3177cdb980cb5a8ab0d09ad1ab0d122b4efb50171dae913ea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-401-2006",
+   "path": "decizie/cna/2006/401",
+   "short": "Decizia cna nr. 401/2006",
+   "title": "Decizia nr. 401/2006 privind difuzarea programelor locale de radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73231",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73231",
+     "sha256": "1ffd38299fe54afbdff9b04b976627e57de8828851653067fb775ef87522b807"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-111368-2006",
+   "path": "decizie/csa/2006/111368",
+   "short": "Decizia csa nr. 111368/2006",
+   "title": "Decizia nr. 111.368/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"TEAM Insurance Management - TIM Broker de Asigurare - Reasigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74602",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74602",
+     "sha256": "9a3280b9d8e3e85eba52e7cc55630429d7abf6fb4eb22f2281f4de0057b98925"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-111372-2006",
+   "path": "decizie/csa/2006/111372",
+   "short": "Decizia csa nr. 111372/2006",
+   "title": "Decizia nr. 111.372/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"GOLD &amp; PLATIN Broker de Asigurare - Reasigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74603",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74603",
+     "sha256": "6350b4c36c78652fc3e1ab18cea8980599b9e628f743b92de2aced30055904bb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114043-2006",
+   "path": "decizie/csa/2006/114043",
+   "short": "Decizia csa nr. 114043/2006",
+   "title": "Decizia nr. 114.043/2006 privind autorizarea Societății Comerciale \"KD LIFE Asigurări\" - S.A. să funcționeze ca societate de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72451",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72451",
+     "sha256": "011faf8060b0066d43a03030de86c6be9686c064d6e4a9be346fc49d97038de7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114095-2006",
+   "path": "decizie/csa/2006/114095",
+   "short": "Decizia csa nr. 114095/2006",
+   "title": "Decizia nr. 114.095/2006 privind majorarea capitalului social al Societății Comerciale \"ABG INSURANCE\" - S.A. și reautorizarea acesteia ca societate de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73974",
+   "versions": [
+    {
+     "from": "2006-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73974",
+     "sha256": "60a4fa7510481f7aa4e36de42eafc44acd404fd4d377039bb4f0ca499273e074"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114304-2006",
+   "path": "decizie/csa/2006/114304",
+   "short": "Decizia csa nr. 114304/2006",
+   "title": "Decizia nr. 114.304/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"SIS Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68754",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68754",
+     "sha256": "436fb25a2dd96be34120ad65bbdf590d6336ff943271041e46ab82b6a7f90454"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114305-2006",
+   "path": "decizie/csa/2006/114305",
+   "short": "Decizia csa nr. 114305/2006",
+   "title": "Decizia nr. 114.305/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Risk Star Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68755",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68755",
+     "sha256": "e8284b433c3147aff015d8fc93e52981f92ac7b03d97c883e1fe59474d07a5e0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114310-2006",
+   "path": "decizie/csa/2006/114310",
+   "short": "Decizia csa nr. 114310/2006",
+   "title": "Decizia nr. 114.310/2006 privind autorizarea Societății \"Risk Management Consulting Broker de Asigurare\" - S.R.L. să funcționeze ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69427",
+   "versions": [
+    {
+     "from": "2006-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69427",
+     "sha256": "49d8798d43028c7c63eaa7b6330197d2924950aafcc899c77ab013cdf4eabdb5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114312-2006",
+   "path": "decizie/csa/2006/114312",
+   "short": "Decizia csa nr. 114312/2006",
+   "title": "Decizia nr. 114.312/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"A&amp;A Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70448",
+   "versions": [
+    {
+     "from": "2006-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70448",
+     "sha256": "73fefc9f619596108c11d23a97ae99d1366e1e55b1c9ca949e2917f4c83f5604"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114317-2006",
+   "path": "decizie/csa/2006/114317",
+   "short": "Decizia csa nr. 114317/2006",
+   "title": "Decizia nr. 114.317/2006 privind autorizarea Societății Comerciale \"Orizont Broker de Asigurare-Reasigurare\" - S.A. pentru funcționarea ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70787",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70787",
+     "sha256": "3b56e77f83f34b98d07c666516089ef3c34dcccaa7df3986abe10c7439fbd02d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114319-2006",
+   "path": "decizie/csa/2006/114319",
+   "short": "Decizia csa nr. 114319/2006",
+   "title": "Decizia nr. 114.319/2006 privind autorizarea Societății Comerciale \"Verbita - Broker de Asigurare\" - S.R.L. pentru funcționarea ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70788",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70788",
+     "sha256": "dd762eadc1f653a4c18bc08e2e004a519a80dc0dbe161ae82111316351b70b0f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114321-2006",
+   "path": "decizie/csa/2006/114321",
+   "short": "Decizia csa nr. 114321/2006",
+   "title": "Decizia nr. 114.321/2006 privind autorizarea Societății Comerciale \"V.P. Investments - Insurance Broker\" - S.R.L. pentru funcționarea ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70789",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70789",
+     "sha256": "4f52b08deb6000fb9ef5e17ca280baa1337db9c503d565301af754809ef5a7b9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114323-2006",
+   "path": "decizie/csa/2006/114323",
+   "short": "Decizia csa nr. 114323/2006",
+   "title": "Decizia nr. 114.323/2006 privind autorizarea Societății Comerciale \"Exa Broker de Asigurare\" - S.R.L. pentru funcționarea ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70790",
+   "versions": [
+    {
+     "from": "2006-04-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70790",
+     "sha256": "3b27b5bc57a9b161e367acb0ca1f1d8362abee42dfa9b0f031bb052e334e317d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114325-2006",
+   "path": "decizie/csa/2006/114325",
+   "short": "Decizia csa nr. 114325/2006",
+   "title": "Decizia nr. 114.325/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Corsig Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71199",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71199",
+     "sha256": "17cb04539d23af6512cf3e2479bc0bd5d0dff15bc9fc7a8446ea380346acdf81"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114326-2006",
+   "path": "decizie/csa/2006/114326",
+   "short": "Decizia csa nr. 114326/2006",
+   "title": "Decizia nr. 114.326/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Traditional Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71200",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71200",
+     "sha256": "7e4b25eab7e866fb9a424cf1c84f39dd10e9790904ad10b88b6325a917ff0f39"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114327-2006",
+   "path": "decizie/csa/2006/114327",
+   "short": "Decizia csa nr. 114327/2006",
+   "title": "Decizia nr. 114.327/2006 pentru autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Expres Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71367",
+   "versions": [
+    {
+     "from": "2006-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71367",
+     "sha256": "8fd414c52ab905be11083d2ab5feca5051a194c4636927959d72162eed23c817"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114330-2006",
+   "path": "decizie/csa/2006/114330",
+   "short": "Decizia csa nr. 114330/2006",
+   "title": "Decizia nr. 114.330/2006 privind autorizarea Societății Comerciale \"Union Consulting - Broker de Asigurare\" - S.R.L. să funcționeze ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72375",
+   "versions": [
+    {
+     "from": "2006-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72375",
+     "sha256": "08170501e41eb977749f66f4fecc7d32a79b9845ec0685f899165c0601c35f42"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114333-2006",
+   "path": "decizie/csa/2006/114333",
+   "short": "Decizia csa nr. 114333/2006",
+   "title": "Decizia nr. 114.333/2006 de autorizare a Societății Comerciale \"BIREX - Broker de Asigurare-Reasigurare\" - S.R.L. să funcționeze ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72410",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72410",
+     "sha256": "3827139f205235485842e5e5c9199b2a87ad3bf2139049b7cf5828dc53c2eea4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114346-2006",
+   "path": "decizie/csa/2006/114346",
+   "short": "Decizia csa nr. 114346/2006",
+   "title": "Decizia nr. 114.346/2006 pentru autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Direct Automotive Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73534",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73534",
+     "sha256": "3ed2c73a24ecbb6078a5513df9080f15fb5d482bc9a0883c70e0ed9f2183fd93"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114354-2006",
+   "path": "decizie/csa/2006/114354",
+   "short": "Decizia csa nr. 114354/2006",
+   "title": "Decizia nr. 114.354/2006 privind autorizarea Societății Comerciale \"GT-RO Broker de Asigurare\" - S.R.L. pentru funcționarea ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74015",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74015",
+     "sha256": "6bb4b728471730838866b959f2790b025f3a19bee633ade72d1c8e3eb727dafc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114355-2006",
+   "path": "decizie/csa/2006/114355",
+   "short": "Decizia csa nr. 114355/2006",
+   "title": "Decizia nr. 114.355/2006 privind autorizarea Societății Comerciale \"Toyo Motor Broker de Asigurare\" - S.R.L. pentru funcționarea ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74016",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74016",
+     "sha256": "6fe2912de850a7bd5a74a7a75a5a4231a50b3160d8ecbaf3a2ec8823afc2aa05"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114356-2006",
+   "path": "decizie/csa/2006/114356",
+   "short": "Decizia csa nr. 114356/2006",
+   "title": "Decizia nr. 114.356/2006 privind autorizarea Societății Comerciale \"Bras Broker de Asigurare\" - S.R.L. pentru funcționarea ca broker de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74017",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74017",
+     "sha256": "e67a8f8c896be0e6693101b19bd37707ad7d88b361f007fd58b286889a497903"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114374-2006",
+   "path": "decizie/csa/2006/114374",
+   "short": "Decizia csa nr. 114374/2006",
+   "title": "Decizia nr. 114.374/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"AMSTERDAM - Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74604",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74604",
+     "sha256": "420be700adff49ebbd4172a09297022e3f238b0fd2cfdda123a7f11d8e53ce83"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114378-2006",
+   "path": "decizie/csa/2006/114378",
+   "short": "Decizia csa nr. 114378/2006",
+   "title": "Decizia nr. 114.378/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Safeguard Broker de Asigurare-Reasigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74873",
+   "versions": [
+    {
+     "from": "2006-09-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74873",
+     "sha256": "8c1b1ef54360ca0e9e2d58ddf65ce15baea45ab05c9425adce424ab89ada2847"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114382-2006",
+   "path": "decizie/csa/2006/114382",
+   "short": "Decizia csa nr. 114382/2006",
+   "title": "Decizia nr. 114.382/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Personal Insurance - Broker de Asigurare-Reasigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74998",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74998",
+     "sha256": "b2ef0016c2f1c9b76901948c89ec5f361241bbbcf1ac2a9839943d903c672a20"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114384-2006",
+   "path": "decizie/csa/2006/114384",
+   "short": "Decizia csa nr. 114384/2006",
+   "title": "Decizia nr. 114.384/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"FEHU Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75652",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75652",
+     "sha256": "14d4f24b4db7692ac0a155cee89dece3163464466a658341ed0ca24c1324d461"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114393-2006",
+   "path": "decizie/csa/2006/114393",
+   "short": "Decizia csa nr. 114393/2006",
+   "title": "Decizia nr. 114.393/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"SIRCOM Insurance Broker\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75708",
+   "versions": [
+    {
+     "from": "2006-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75708",
+     "sha256": "019f96ad6ce258fe00031f3e9d473a006a2b4d18afb91ebf9e75e3d6087ca159"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114395-2006",
+   "path": "decizie/csa/2006/114395",
+   "short": "Decizia csa nr. 114395/2006",
+   "title": "Decizia nr. 114.395/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ALLSIGRO BROKER DE ASIGURARE-REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76110",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76110",
+     "sha256": "ec2999c1bbe8e4272023bb45ed94ce8cabf00bb7b3d5b3f0cbf15e31f6e64b59"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114397-2006",
+   "path": "decizie/csa/2006/114397",
+   "short": "Decizia csa nr. 114397/2006",
+   "title": "Decizia nr. 114.397/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"MEDIHELP INTERNAȚIONAL BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76111",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76111",
+     "sha256": "253ed3b9e96e999d9c6dbae368add5af275e0b2c1ebbe3e753eaa19951c96d5e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114400-2006",
+   "path": "decizie/csa/2006/114400",
+   "short": "Decizia csa nr. 114400/2006",
+   "title": "Decizia nr. 114.400/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"MGM BROKER DE ASIGURARE-REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76137",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76137",
+     "sha256": "16885219fb1222cd2993d36f4408c145461494d5c242ecb12f10788a702b0805"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-114401-2006",
+   "path": "decizie/csa/2006/114401",
+   "short": "Decizia csa nr. 114401/2006",
+   "title": "Decizia nr. 114.401/2006 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"PIRAEUS INSURANCE REINSURANCE BROKER ROMÂNIA\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76138",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76138",
+     "sha256": "76cbb70c50c979171da5c186ef01921f26c2cae42a53e71beb7bc2c4018665bd"
     }
    ]
   }

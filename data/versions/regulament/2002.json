@@ -136,6 +136,21 @@
      "sha256": "4ec77b5964f437431305fc17d16db4058742742072cfcced3d220aa88e55f150"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-5-2002",
+   "path": "regulament/cnvm/2002/5",
+   "short": "Regulament cnvm nr. 5/2002",
+   "title": "Regulamentul nr. 5/2002 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41504",
+   "versions": [
+    {
+     "from": "2003-01-30",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41504",
+     "sha256": "e67c411afc6ee379a4f43cfa5bddc8997380625be243b335474e4bb3f22a458a"
+    }
+   ]
   }
  ]
 }

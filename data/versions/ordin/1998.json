@@ -3046,6 +3046,51 @@
      "sha256": "dd4d48b0fefcb06a75cc6b0b16247b6f11903ab213f5d2e9c9f302c89331c9ce"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-27-1998",
+   "path": "ordin/bnr/1998/27",
+   "short": "Ordin bnr nr. 27/1998",
+   "title": "Ordinul nr. 27/1998 pentru aprobarea Precizărilor privind reflectarea în contabilitate a unor operațiuni, precum și unele măsuri referitoare la închiderea exercițiului financiar-contabil pe anul 1997 la societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14111",
+   "versions": [
+    {
+     "from": "1998-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14111",
+     "sha256": "56f15728c6492b01e4c67a85afced832d475b011ec8ce5534545afe4147264d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-362-1998",
+   "path": "ordin/bnr/1998/362",
+   "short": "Ordin bnr nr. 362/1998",
+   "title": "Ordinul nr. 362/1998 privind aprobarea modelelor situațiilor financiar-contabile pentru bănci și a normelor metodologice privind întocmirea și utilizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15617",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15617",
+     "sha256": "7fc6d9a48ed98482ad9b6d27fcb2f63cf3974cf31a383c8ffc3067c07419a619"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-concurenta-41-1998",
+   "path": "ordin/concurenta/1998/41",
+   "short": "Ordin concurenta nr. 41/1998",
+   "title": "Ordinul nr. 41/1998 de punere în aplicare a Regulamentului pentru modificarea anexei la Regulamentul privind stabilirea și perceperea tarifelor pentru procedurile și serviciile prevăzute de Legea concurenței nr. 21/1996 și de regulamentele emise pentru aplicarea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14721",
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14721",
+     "sha256": "40c06a8c94f1a549e8a9be76b92d9905852ba630efdb1df7bd430e5bc8de7c2c"
+    }
+   ]
   }
  ]
 }

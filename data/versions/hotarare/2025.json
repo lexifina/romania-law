@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2025",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-14-2025",
+   "path": "hotarare/bnr/2025/14",
+   "short": "Hotărârea bnr nr. 14/2025",
+   "title": "Hotărârea nr. 14/2025 privind radierea Societății AFORTI FACTOR ROMANIA IFN - S.A. din Registrul general Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298892",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/24526-hotarare-14-2025",
+     "sha256": "67f6811929efb15fe306eba4e2857c857c1a43fce4829268372b69fc81b3501f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-6-2025",
+   "path": "hotarare/bnr/2025/6",
+   "short": "Hotărârea bnr nr. 6/2025",
+   "title": "Hotărârea nr. 6/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295980",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24227-hotarare-6-2025",
+     "sha256": "ac3d33f3f7840d099b6ee8120d20daa0159ef90f975692cd04505c73d80df934"
+    }
+   ]
+  }
+ ]
+}

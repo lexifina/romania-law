@@ -18333,6 +18333,51 @@
    ]
   },
   {
+   "slug": "ordin-bnr-144-2020",
+   "path": "ordin/bnr/2020/144",
+   "short": "Ordin bnr nr. 144/2020",
+   "title": "Ordinul nr. 144/2020 privind publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare a Societății RAPIDA LOANS IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227117",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19229-ordin-144-2020",
+     "sha256": "081f6e5b6b7af06154d2a06788085876259648505f4e3f41f7e39e0cf50c1689"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-195-2020",
+   "path": "ordin/bnr/2020/195",
+   "short": "Ordin bnr nr. 195/2020",
+   "title": "Ordinul nr. 195/2020 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății P & K GENERAL LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/19496-ordin-195-2020",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19496-ordin-195-2020",
+     "sha256": "9f0cf318df0909d4feef515d8789cd57179760c734bf6ce7a0f74c050b26570e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-221-2020",
+   "path": "ordin/bnr/2020/221",
+   "short": "Ordin bnr nr. 221/2020",
+   "title": "Ordinul nr. 221/2020 privind publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare a Societății NBG LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229936",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21956-ordin-221-2020",
+     "sha256": "3f32c01ee87a7628210324116b8c4a83167b7d20b228a833c5dd1d79506289ec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-3-2020",
    "path": "ordin/bnr/2020/3",
    "short": "Ordin bnr nr. 3/2020",
@@ -18344,6 +18389,36 @@
      "units": 2,
      "source_url": "https://www.bnr.ro/21917-ordin-3-2020",
      "sha256": "377105bcf133e7fd259dd2a37b29e66829b209f5556d0925c888eb3d6e96cfea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-37-2020",
+   "path": "ordin/bnr/2020/37",
+   "short": "Ordin bnr nr. 37/2020",
+   "title": "Ordinul nr. 37/2020 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății EFI GARANT GROUP IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223041",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19714-ordin-37-2020",
+     "sha256": "fbeadff5ce435a243fc2944deccee9975cf6e27c93514886da1c7628f39134e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-56-2020",
+   "path": "ordin/bnr/2020/56",
+   "short": "Ordin bnr nr. 56/2020",
+   "title": "Ordinul nr. 56/2020 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății PRO LEASING INSTITUȚIE FINANCIARĂ NEBANCARĂ - S.A",
+   "url": "https://www.bnr.ro/21725-ordin-56-2020",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21725-ordin-56-2020",
+     "sha256": "619ce9b65ea2b2661029c57f042e8c93c786e1b213c1a94bbd41cccee3fe3e38"
     }
    ]
   }

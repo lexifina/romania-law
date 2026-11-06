@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "hotarare/1997",
+"acts": [
+{
+"slug": "hotarare-bnr-2-1997",
+"path": "hotarare/bnr/1997/2",
+"kind": "hotarare",
+"year": "1997",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 2/1997 privind retragerea autorizației Societății Bancare \"Dacia Felix\" - S.A",
+"short": "Hotărârea bnr nr. 2/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-04-21",
+"latest": "1997-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10772",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-3-1997",
+"path": "hotarare/bnr/1997/3",
+"kind": "hotarare",
+"year": "1997",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 3/1997 privind retragerea autorizației Societății Bancare \"Renașterea Creditului Românesc\" - CREDIT BANK - S.A",
+"short": "Hotărârea bnr nr. 3/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-04-22",
+"latest": "1997-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10793",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-5-1997",
+"path": "hotarare/bnr/1997/5",
+"kind": "hotarare",
+"year": "1997",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 5/1997 privind retragerea autorizației Societății Bancare \"Euro Expres Bank\" - S.A",
+"short": "Hotărârea bnr nr. 5/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-05-05",
+"latest": "1997-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10831",
+"issuer": "bnr",
+"joint": []
+}
+]
+}

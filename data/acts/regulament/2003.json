@@ -60,6 +60,25 @@
 "joint": []
 },
 {
+"slug": "regulament-cnvm-3-2003",
+"path": "regulament/cnvm/2003/3",
+"kind": "regulament",
+"year": "2003",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 3/2003 privind autorizarea și funcționarea societăților de servicii de investiții financiare",
+"short": "Regulament cnvm nr. 3/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-01-30",
+"latest": "2003-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/41502",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-6-2003",
 "path": "regulament/cnvm/2003/6",
 "kind": "regulament",

@@ -61,6 +61,66 @@
      "sha256": "7c981e62b3528fb6b34063a5e4daf6242124d1ffe195e1170bc2b6b0d9a6ca53"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-1275-1991",
+   "path": "norma/bnr/1991/1275",
+   "short": "Norma bnr nr. 1275/1991",
+   "title": "Norma nr. 1.275/1991 V/1275 din 12 septembrie 1991 completare la Normele Băncii Naționale a României nr. V/371/21 din 6 iunie 1991, publicate în Monitorul Oficial, Partea I, nr. 150 din 18 iulie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2053",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2053",
+     "sha256": "a03f5da597588951d37321d26f9aa8debc4b5d53a334af1afed852af0c7a4975"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1782-1991",
+   "path": "norma/bnr/1991/1782",
+   "short": "Norma bnr nr. 1782/1991",
+   "title": "Norma nr. 1.782/1991 privind efectuarea încasărilor și plăților valutare curente, elaborate în baza prevederilor Hotărîrii Guvernului nr. 763/1991 și ale Ordinului nr. 616/11.XI.1991 al guvernatorului Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2055",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2055",
+     "sha256": "cfceed4968a1ee9f49cf64ee3e807f4b976579f4efeb1ab3c97edac9dcc64a5f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-371-1991",
+   "path": "norma/bnr/1991/371",
+   "short": "Norma bnr nr. 371/1991",
+   "title": "Norma nr. 371/1991 V/371/21 din 6 iunie 1991 privind aplicarea prevederilor referitoare la sumele în valută și în lei ce pot fi introduse și scoase din România potrivit Regulamentului privind operațiunile curente și transferurile de capital cu mijloace de plată străine, emis de Banca Naționala a României și publicat în Monitorul Oficial al României, Partea I, nr. 101 din 13 mai 1991 (art. 13, 14, 15, 16,",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1797",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1797",
+     "sha256": "7e5676caff8807e91055558aa7ee0d459ef047b1f649e4269f6bf794992c923f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-688-1991",
+   "path": "norma/bnr/1991/688",
+   "short": "Norma bnr nr. 688/1991",
+   "title": "Norma nr. 688/1991 II/688/60 din 13 noiembrie 1991 privind metodologia de cedare și utilizare a disponibilităților valutare conform Hotărîrii Guvernului nr. 763/1991 și Ordinului nr. 616/11.XI.1991 al guvernatorului Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1972",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1972",
+     "sha256": "871ff0f4c8edbdbf63baa1f1056410b947dfd44f0d43823eff880587b40f388b"
+    }
+   ]
   }
  ]
 }

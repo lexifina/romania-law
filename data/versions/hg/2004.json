@@ -1167,6 +1167,36 @@
    ]
   },
   {
+   "slug": "hg-1-2004",
+   "path": "hg/2004/1",
+   "short": "HG nr. 1/2004",
+   "title": "Hotărârea Guvernului nr. 1/2004 privind acordarea de către România a unui ajutor umanitar de urgenţă, cu titlu gratuit, pentru Iran",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48967",
+   "versions": [
+    {
+     "from": "2004-01-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48967",
+     "sha256": "615b431585238aa82eadb4e914673991e014471280ffa2347fe4557eb2169564"
+    }
+   ]
+  },
+  {
+   "slug": "hg-10-2004",
+   "path": "hg/2004/10",
+   "short": "HG nr. 10/2004",
+   "title": "Hotărârea Guvernului nr. 10/2004 pentru asigurarea fondurilor necesare realizării în anul 2004 a unor studii şi documentaţii tehnico-economice pentru stadionul din incinta Complexului Sportiv Naţional \"Lia Manoliu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49181",
+   "versions": [
+    {
+     "from": "2004-01-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49181",
+     "sha256": "29ff37b01b0f070d8ff4d2319921b9f9cbc5b503752a0e28bb92de689e06f4ce"
+    }
+   ]
+  },
+  {
    "slug": "hg-1000-2004",
    "path": "hg/2004/1000",
    "short": "HG nr. 1000/2004",
@@ -2654,6 +2684,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53636",
      "sha256": "65695bf6162dd83b58e1604d88bf3f1094d4bd576cf65980405cc2cc2023fabc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-11-2004",
+   "path": "hg/2004/11",
+   "short": "HG nr. 11/2004",
+   "title": "Hotărârea Guvernului nr. 11/2004 pentru modificarea Hotărârii Guvernului nr. 865/2003 privind sprijinul direct al statului acordat producătorilor agricoli, în anul 2003, pentru construirea de adăposturi de vaci de lapte, precum şi pentru achiziţionarea de juninci şi instalaţii zootehnice şi pentru aprobarea normelor metodologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49242",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49242",
+     "sha256": "b105263070bcd3d4eee806f1393ce559fc51c5b8f4c1d3da3c1c43dbef63cccd"
     }
    ]
   },
@@ -4214,6 +4259,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54160",
      "sha256": "9b90270512ab5f1b7dccad2b531c9bc99f09ca7344cd98202d3b27ba793091db"
+    }
+   ]
+  },
+  {
+   "slug": "hg-12-2004",
+   "path": "hg/2004/12",
+   "short": "HG nr. 12/2004",
+   "title": "Hotărârea Guvernului nr. 12/2004 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2003 al Companiei Naţionale \"Imprimeria Naţională\" - S.A., unitate economică de interes public naţional, aflată sub autoritatea Ministerului Finanţelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49291",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49291",
+     "sha256": "9439b4723aadc6e02d09be0252f7fb956b4c3a6b94390c00dda3bee4a487a5b5"
     }
    ]
   },
@@ -7365,6 +7425,21 @@
    ]
   },
   {
+   "slug": "hg-14-2004",
+   "path": "hg/2004/14",
+   "short": "HG nr. 14/2004",
+   "title": "Hotărârea Guvernului nr. 14/2004 privind recunoaşterea Asociaţiei \"George C. Marshall - România\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49243",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49243",
+     "sha256": "30592af72256b194c983d0108bd6b26844413b69800d3c1ce18689cd976e900b"
+    }
+   ]
+  },
+  {
    "slug": "hg-1400-2004",
    "path": "hg/2004/1400",
    "short": "HG nr. 1400/2004",
@@ -8873,6 +8948,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55302",
      "sha256": "a108d1810fc37988083c9dd3b07607b1a82448b66eee84ca3fe37be11d8661f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-15-2004",
+   "path": "hg/2004/15",
+   "short": "HG nr. 15/2004",
+   "title": "Hotărârea Guvernului nr. 15/2004 pentru aprobarea inventarelor bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49244",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49244",
+     "sha256": "8a9f4914128b3b8fadba9a9c910d0993f469fa215c84dfafcc70178eb709fd1b"
     }
    ]
   },
@@ -10424,6 +10514,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55771",
      "sha256": "4b699d847bd60336d5030ce0de3567dcd2f8bfd654058128a3736717d30b3c79"
+    }
+   ]
+  },
+  {
+   "slug": "hg-16-2004",
+   "path": "hg/2004/16",
+   "short": "HG nr. 16/2004",
+   "title": "Hotărârea Guvernului nr. 16/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe aflate în administrarea Ministerului Finanţelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49264",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49264",
+     "sha256": "d794e62e83c536d881155ec04a5ffcc0ab9ce96d9524dd887cc480a495348b45"
     }
    ]
   },
@@ -13560,6 +13665,21 @@
    ]
   },
   {
+   "slug": "hg-18-2004",
+   "path": "hg/2004/18",
+   "short": "HG nr. 18/2004",
+   "title": "Hotărârea Guvernului nr. 18/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru organizarea manifestărilor ocazionate de aniversarea a 145 de ani de la Unirea Principatelor Române Moldova şi Muntenia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49182",
+   "versions": [
+    {
+     "from": "2004-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49182",
+     "sha256": "6de1df284b7d01c432c6deea7bec0b9fda6e31e9968cf039afc76d485a229150"
+    }
+   ]
+  },
+  {
    "slug": "hg-180-2004",
    "path": "hg/2004/180",
    "short": "HG nr. 180/2004",
@@ -15105,6 +15225,21 @@
    ]
   },
   {
+   "slug": "hg-19-2004",
+   "path": "hg/2004/19",
+   "short": "HG nr. 19/2004",
+   "title": "Hotărârea Guvernului nr. 19/2004 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2004 al Autorităţii Naţionale de Reglementare pentru Serviciile Publice de Gospodărie Comunală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49240",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49240",
+     "sha256": "aad861c4ac2b3bb776ec2c1b047d5e75318d51ca4d07713845fe80d353f16abf"
+    }
+   ]
+  },
+  {
    "slug": "hg-190-2004",
    "path": "hg/2004/190",
    "short": "HG nr. 190/2004",
@@ -16625,6 +16760,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57145",
      "sha256": "63ce08b633fa12521017dadc5ccb1364a908232f76d89c479b3ac6e333666b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2-2004",
+   "path": "hg/2004/2",
+   "short": "HG nr. 2/2004",
+   "title": "Hotărârea Guvernului nr. 2/2004 privind finanţarea în anul 2004 a proiectului \"Casa NATO\" din fondurile pentru promovarea imaginii externe a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49024",
+   "versions": [
+    {
+     "from": "2004-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49024",
+     "sha256": "7db07594d4c9a75630aa840d8afc31d1c312a3ef8e160d4adae3bb65b031217e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-2004",
+   "path": "hg/2004/20",
+   "short": "HG nr. 20/2004",
+   "title": "Hotărârea Guvernului nr. 20/2004 privind recunoaşterea Uniunii Naţionale a Cadrelor Militare în Rezervă şi în Retragere \"Alexandru Ioan Cuza\" ca fiind de utilitate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49565",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49565",
+     "sha256": "2b19c3ec4b85ce719812cfeb490155d335472d2b12a6f4cc5b66b7ca5767f38c"
     }
    ]
   },
@@ -21261,6 +21426,21 @@
    ]
   },
   {
+   "slug": "hg-23-2004",
+   "path": "hg/2004/23",
+   "short": "HG nr. 23/2004",
+   "title": "Hotărârea Guvernului nr. 23/2004 privind acoperirea cheltuielilor de diurnă şi transport internaţional pe ruta Bucureşti-Tel Aviv-Bucureşti, aferente participării tinerilor politicieni români la cursul de specializare în domeniul Holocaustului, Israel, 8-15 noiembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49295",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49295",
+     "sha256": "a7ff5c495696e660a9a95d31c63aac89617cb2a110e4b450ba1ea9b4ced88dfb"
+    }
+   ]
+  },
+  {
    "slug": "hg-230-2004",
    "path": "hg/2004/230",
    "short": "HG nr. 230/2004",
@@ -22836,6 +23016,21 @@
    ]
   },
   {
+   "slug": "hg-24-2004",
+   "path": "hg/2004/24",
+   "short": "HG nr. 24/2004",
+   "title": "Hotărârea Guvernului nr. 24/2004 privind constituirea societăţii administrator al Parcului industrial \"Roman\" Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49321",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49321",
+     "sha256": "401f0f6a304155e5238e0fcabbb4d79fb42ce6d08eb8c1ea031d14fae433883c"
+    }
+   ]
+  },
+  {
    "slug": "hg-240-2004",
    "path": "hg/2004/240",
    "short": "HG nr. 240/2004",
@@ -23799,6 +23994,21 @@
    ]
   },
   {
+   "slug": "hg-25-2004",
+   "path": "hg/2004/25",
+   "short": "HG nr. 25/2004",
+   "title": "Hotărârea Guvernului nr. 25/2004 pentru aprobarea Planului de ocupare a funcţiilor publice pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49436",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49436",
+     "sha256": "5f8b9defb3ea3c921f69ae1a86b69f890d84e978c7e38d81269713881f5d8b62"
+    }
+   ]
+  },
+  {
    "slug": "hg-250-2004",
    "path": "hg/2004/250",
    "short": "HG nr. 250/2004",
@@ -23885,6 +24095,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50381",
      "sha256": "bab3cf03897303e100db68fe0adff3f8c4344fcca59a031651c3e206a0f2cea8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-26-2004",
+   "path": "hg/2004/26",
+   "short": "HG nr. 26/2004",
+   "title": "Hotărârea Guvernului nr. 26/2004 pentru aprobarea Înţelegerii dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Franceză privind cooperarea în domeniul istoriei militare, semnată la Bucureşti la 14 mai 2003 şi la Paris la 12 septembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49399",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49399",
+     "sha256": "582fd18497223859b78f9cf4e8fdde9452cd80c43e80662c8b55c4c822baa357"
     }
    ]
   },
@@ -24045,6 +24270,21 @@
    ]
   },
   {
+   "slug": "hg-27-2004",
+   "path": "hg/2004/27",
+   "short": "HG nr. 27/2004",
+   "title": "Hotărârea Guvernului nr. 27/2004 pentru aprobarea condiţiilor de închiriere de către Compania Naţională de Căi Ferate \"C.F.R.\" - S.A. a unor părţi din infrastructura feroviară neinteroperabilă, precum şi de gestionare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49407",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49407",
+     "sha256": "820b7d4a7560dc89897293345ad4889def983cae06549b1ab1cd8577eb15fb30"
+    }
+   ]
+  },
+  {
    "slug": "hg-270-2004",
    "path": "hg/2004/270",
    "short": "HG nr. 270/2004",
@@ -24195,6 +24435,21 @@
    ]
   },
   {
+   "slug": "hg-28-2004",
+   "path": "hg/2004/28",
+   "short": "HG nr. 28/2004",
+   "title": "Hotărârea Guvernului nr. 28/2004 privind aprobarea înfiinţării şi finanţării parţiale din fonduri de la bugetul de stat a cheltuielilor de organizare şi funcţionare a reprezentanţei comerciale a Societăţii Comerciale \"ADREM INVEST\" - S.R.L. la Moscova - Federaţia Rusă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49394",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49394",
+     "sha256": "625d15a119851049e9791ff6a9c0516a04199ca470e7bdae41def3ad0a16e63b"
+    }
+   ]
+  },
+  {
    "slug": "hg-280-2004",
    "path": "hg/2004/280",
    "short": "HG nr. 280/2004",
@@ -24332,6 +24587,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50589",
      "sha256": "58714ba845f1a9955c1699038d65495015311ccbe839652cd0491dfa367c95b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-29-2004",
+   "path": "hg/2004/29",
+   "short": "HG nr. 29/2004",
+   "title": "Hotărârea Guvernului nr. 29/2004 privind aprobarea majorării plafonului valoric al mesei calde zilnice care se acordă personalului minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49377",
+   "versions": [
+    {
+     "from": "2004-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49377",
+     "sha256": "aac0f35baf4dab0692356a457cdc667f4827d66e50423af898926769de5df239"
     }
    ]
   },
@@ -24531,6 +24801,36 @@
    ]
   },
   {
+   "slug": "hg-302-2004",
+   "path": "hg/2004/302",
+   "short": "HG nr. 302/2004",
+   "title": "Hotărârea Guvernului nr. 302/2004 pentru aprobarea plăţii contribuţiilor voluntare, în lei, ale României la programele şi fondurile de dezvoltare ale ONU pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50596",
+   "versions": [
+    {
+     "from": "2004-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50596",
+     "sha256": "6a97cee4b57c7aa5f363c229b0134d748ed6b475e9e3078ab73e9569770afefc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-303-2004",
+   "path": "hg/2004/303",
+   "short": "HG nr. 303/2004",
+   "title": "Hotărârea Guvernului nr. 303/2004 pentru modificarea alin. (1) al art. 2 din Hotărârea Guvernului nr. 318/2003 privind constituirea şi funcţionarea Comitetului interministerial şi a comitetelor judeţene pentru zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50472",
+   "versions": [
+    {
+     "from": "2004-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50472",
+     "sha256": "5cb7798884db30c242da8605d221b46c9dea93010a413b1208f15dc1ddf7baef"
+    }
+   ]
+  },
+  {
    "slug": "hg-305-2004",
    "path": "hg/2004/305",
    "short": "HG nr. 305/2004",
@@ -24602,6 +24902,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50442",
      "sha256": "ebd7e66361b1dfe9354318c3db6868cef92d3f619c1134de6b3ff9c53965cbc7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-31-2004",
+   "path": "hg/2004/31",
+   "short": "HG nr. 31/2004",
+   "title": "Hotărârea Guvernului nr. 31/2004 privind transmiterea unei părţi dintr-un imobil, proprietate publică a statului, din administrarea Prefecturii judeţului Bihor în administrarea Institutului Naţional de Statistică, pentru Direcţia Judeţeană de Statistică Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49393",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49393",
+     "sha256": "8704ae881620d342d49866ea90f9e81d3ebb706689785e91a725bc7866c8fab3"
     }
    ]
   },
@@ -24741,6 +25056,21 @@
    ]
   },
   {
+   "slug": "hg-32-2004",
+   "path": "hg/2004/32",
+   "short": "HG nr. 32/2004",
+   "title": "Hotărârea Guvernului nr. 32/2004 privind acordarea unui ajutor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49299",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49299",
+     "sha256": "8c3a50d72353529a17008777efead7d12f1cb4ad75037c4f48fec7aa6e2fae32"
+    }
+   ]
+  },
+  {
    "slug": "hg-320-2004",
    "path": "hg/2004/320",
    "short": "HG nr. 320/2004",
@@ -24872,6 +25202,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50768",
      "sha256": "fb94e7756c5a77a6633e86d8414ffc3a9958748b214eedad093af08817bb870b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-33-2004",
+   "path": "hg/2004/33",
+   "short": "HG nr. 33/2004",
+   "title": "Hotărârea Guvernului nr. 33/2004 privind acordarea unui ajutor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49300",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49300",
+     "sha256": "4b84be2cce04a4538857271ab870d04c103721a67144784595161e739c349f03"
     }
    ]
   },
@@ -25164,6 +25509,21 @@
    ]
   },
   {
+   "slug": "hg-35-2004",
+   "path": "hg/2004/35",
+   "short": "HG nr. 35/2004",
+   "title": "Hotărârea Guvernului nr. 35/2004 privind alocarea unei sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, pentru judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49302",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49302",
+     "sha256": "dc547bc1bd32a41e749618bfd1e2aa4b7c344bb69e1ce01ea5e18d2e17670af4"
+    }
+   ]
+  },
+  {
    "slug": "hg-350-2004",
    "path": "hg/2004/350",
    "short": "HG nr. 350/2004",
@@ -25310,6 +25670,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50811",
      "sha256": "6ed157670c37f67017c8d3436125c5d140ae22e1db9c44c456831c3dbc12e2a1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-36-2004",
+   "path": "hg/2004/36",
+   "short": "HG nr. 36/2004",
+   "title": "Hotărârea Guvernului nr. 36/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2004, Consiliului Local al Oraşului Oţelu Roşu, judeţul Caraş-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49303",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49303",
+     "sha256": "d584b4ed003854f4d0a25c22811208eeeefc46dc1a0f846730ac3fbe644226cf"
     }
    ]
   },
@@ -25695,6 +26070,21 @@
    ]
   },
   {
+   "slug": "hg-39-2004",
+   "path": "hg/2004/39",
+   "short": "HG nr. 39/2004",
+   "title": "Hotărârea Guvernului nr. 39/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 734/2003 privind organizarea şi funcţionarea Ministerului Integrării Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49381",
+   "versions": [
+    {
+     "from": "2004-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49381",
+     "sha256": "ea93e0f1ef0a38ff81c5aa2066497df85400b003fd396f3c05806e3c918348ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-390-2004",
    "path": "hg/2004/390",
    "short": "HG nr. 390/2004",
@@ -25845,6 +26235,21 @@
    ]
   },
   {
+   "slug": "hg-40-2004",
+   "path": "hg/2004/40",
+   "short": "HG nr. 40/2004",
+   "title": "Hotărârea Guvernului nr. 40/2004 pentru aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Kazahstan privind cooperarea în domeniul medicinei veterinare, semnată la Astana la 9 septembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49434",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49434",
+     "sha256": "b83bad1db295faf3ece5bc4833cbdacbae312ab396282c644ffad338d84a91e6"
+    }
+   ]
+  },
+  {
    "slug": "hg-400-2004",
    "path": "hg/2004/400",
    "short": "HG nr. 400/2004",
@@ -25946,6 +26351,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50772",
      "sha256": "ae402c844b45218f208380f99147cdc952b91da4788d82ec370b203d672d9da2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-41-2004",
+   "path": "hg/2004/41",
+   "short": "HG nr. 41/2004",
+   "title": "Hotărârea Guvernului nr. 41/2004 privind suplimentarea bugetului Serviciului de Protecţie şi Pază pe anul 2004 din Fondul de rezervă bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49392",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49392",
+     "sha256": "7dfba52daf8270dd66ecaba79e2ea6d93492930e535107341a4086595333e411"
     }
    ]
   },
@@ -26219,6 +26639,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50992",
      "sha256": "0e3d60598f365aa04bafc091f133b3fa242e956708153296f550138739553e26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-43-2004",
+   "path": "hg/2004/43",
+   "short": "HG nr. 43/2004",
+   "title": "Hotărârea Guvernului nr. 43/2004 privind organizarea şi finanţarea meciului de Cupa Davis din cadrul grupei mondiale, dintre reprezentativele României şi Elveţiei, Bucureşti - 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49415",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49415",
+     "sha256": "59517492fa2b3b9f30c7228e710c081109a9b4f225f1eab72bb7a21972d76bcf"
     }
    ]
   },
@@ -26769,6 +27204,21 @@
    ]
   },
   {
+   "slug": "hg-47-2004",
+   "path": "hg/2004/47",
+   "short": "HG nr. 47/2004",
+   "title": "Hotărârea Guvernului nr. 47/2004 privind aprobarea contractului de mentenanţă de material rulant şi feroviar pentru circulaţia în tunel, încheiat între Societatea Comercială de Transport cu Metroul Bucureşti \"Metrorex\" - S.A. şi Societatea Comercială \"ALSTOM Transport\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49533",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49533",
+     "sha256": "aaf78a2db18e1726e3c39d8b7e6e8056279b29d0ce14e8eadc7d0eb3e0ff9406"
+    }
+   ]
+  },
+  {
    "slug": "hg-470-2004",
    "path": "hg/2004/470",
    "short": "HG nr. 470/2004",
@@ -27176,6 +27626,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51265",
      "sha256": "72c62875501ee53421841b92e069ccaf0be6e354edc8877e9f32e6823520eab9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-5-2004",
+   "path": "hg/2004/5",
+   "short": "HG nr. 5/2004",
+   "title": "Hotărârea Guvernului nr. 5/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 263/2001 privind amenajarea, omologarea, întreţinerea şi exploatarea pârtiilor şi traseelor de schi pentru agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49069",
+   "versions": [
+    {
+     "from": "2004-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49069",
+     "sha256": "d3541c8bb6f33493deb1b7e106a0cab4b3d0c1c0e8c544ff9301163b7c204f11"
     }
    ]
   },
@@ -28371,6 +28836,21 @@
    ]
   },
   {
+   "slug": "hg-59-2004",
+   "path": "hg/2004/59",
+   "short": "HG nr. 59/2004",
+   "title": "Hotărârea Guvernului nr. 59/2004 privind darea în administrarea Casei Judeţene de Pensii Dolj a unor imobile şi a unui teren proprietate publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49586",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49586",
+     "sha256": "80e8f7013018117325d1add60abd920d1186656afc84e8ffa1d66a1c9e2d7f0f"
+    }
+   ]
+  },
+  {
    "slug": "hg-590-2004",
    "path": "hg/2004/590",
    "short": "HG nr. 590/2004",
@@ -28502,6 +28982,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51431",
      "sha256": "78ec4796ed4961ba2bdffbaf2637c134fb27a74b410a7a7c4036dc9f737374de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-6-2004",
+   "path": "hg/2004/6",
+   "short": "HG nr. 6/2004",
+   "title": "Hotărârea Guvernului nr. 6/2004 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.574/2003 privind organizarea şi funcţionarea Ministerului Finanţelor Publice şi a Agenţiei Naţionale de Administrare Fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49128",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49128",
+     "sha256": "7603c21e73728e23b6eeab7db5cf56198f15a8c62776b3fa8d32b35c12cfc707"
+    }
+   ]
+  },
+  {
+   "slug": "hg-60-2004",
+   "path": "hg/2004/60",
+   "short": "HG nr. 60/2004",
+   "title": "Hotărârea Guvernului nr. 60/2004 privind modificarea şi completarea Normelor metodologice pentru punerea în aplicare a prevederilor Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe, aprobate prin Hotărârea Guvernului nr. 962/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49600",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49600",
+     "sha256": "24257b7ae43e54832730aff9b904c8c2ebfbfdce2d808357d36d02b41081fa1b"
     }
    ]
   },
@@ -28656,6 +29166,21 @@
    ]
   },
   {
+   "slug": "hg-61-2004",
+   "path": "hg/2004/61",
+   "short": "HG nr. 61/2004",
+   "title": "Hotărârea Guvernului nr. 61/2004 privind transmiterea fără plată a unui mijloc fix din patrimoniul Societăţii Comerciale de Producere a Energiei Electrice şi Termice \"Termoelectrica\" - S.A. în patrimoniul Companiei Naţionale de Transport al Energiei Electrice \"Transelectrica\" - S.A., Sucursala de Transport Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49587",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49587",
+     "sha256": "4532dc7213bdaa98267033d2965cf59737bb8bc2cff4bebf0f148095af4f1b0b"
+    }
+   ]
+  },
+  {
    "slug": "hg-610-2004",
    "path": "hg/2004/610",
    "short": "HG nr. 610/2004",
@@ -28802,6 +29327,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51545",
      "sha256": "a9681180160e8083051686f69be93699c11c6ef3b765bc43ca2b90a3dbd1c6b6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-62-2004",
+   "path": "hg/2004/62",
+   "short": "HG nr. 62/2004",
+   "title": "Hotărârea Guvernului nr. 62/2004 privind trecerea din domeniul public al statului în domeniul privat al statului a unor mijloace fixe aflate în administrarea Companiei Naţionale de Transport al Energiei Electrice \"Transelectrica\" - S.A., Sucursala de Transport Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49588",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49588",
+     "sha256": "d0ce5beafd43c3112fd2144ebb4598c51087acd937908eb162b24437510e75e9"
     }
    ]
   },
@@ -29046,6 +29586,21 @@
    ]
   },
   {
+   "slug": "hg-64-2004",
+   "path": "hg/2004/64",
+   "short": "HG nr. 64/2004",
+   "title": "Hotărârea Guvernului nr. 64/2004 privind stabilirea numărului de permise de muncă ce pot fi eliberate străinilor în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49589",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49589",
+     "sha256": "b5cd13edcbba813cbce65ce6dd6eda85cafc249c79c5edffff066cdc00c026b5"
+    }
+   ]
+  },
+  {
    "slug": "hg-640-2004",
    "path": "hg/2004/640",
    "short": "HG nr. 640/2004",
@@ -29196,6 +29751,21 @@
    ]
   },
   {
+   "slug": "hg-65-2004",
+   "path": "hg/2004/65",
+   "short": "HG nr. 65/2004",
+   "title": "Hotărârea Guvernului nr. 65/2004 privind schimbarea titularului dreptului de proprietate şi de administrare asupra unor imobile situate în oraşul Negru Vodă, judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49566",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49566",
+     "sha256": "61c7cc346815fbc27ad5c544f79674877f7e941b0f2847006181c9b9de066837"
+    }
+   ]
+  },
+  {
    "slug": "hg-651-2004",
    "path": "hg/2004/651",
    "short": "HG nr. 651/2004",
@@ -29327,6 +29897,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51787",
      "sha256": "7b1b41713fb0f339add82f7a3ade6b216973d5d2601e20b4b76364020ba85c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-66-2004",
+   "path": "hg/2004/66",
+   "short": "HG nr. 66/2004",
+   "title": "Hotărârea Guvernului nr. 66/2004 privind transmiterea cu titlu gratuit a obiectivului de investiţii \"Extindere Spital Clinic de Pediatrie\" Timişoara - corp B din domeniul privat al statului şi din administrarea Ministerului Sănătăţii în domeniul public al municipiului Timişoara şi în administrarea Consiliului Local al Municipiului Timişoara, judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49567",
+   "versions": [
+    {
+     "from": "2004-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49567",
+     "sha256": "1afd19ba42c366a64e771f9495b2e0aac7a7bb55737bd4986d61d7a2f40e0e8a"
     }
    ]
   },
@@ -29901,6 +30486,21 @@
    ]
   },
   {
+   "slug": "hg-7-2004",
+   "path": "hg/2004/7",
+   "short": "HG nr. 7/2004",
+   "title": "Hotărârea Guvernului nr. 7/2004 privind protecţia juridică a serviciilor bazate pe acces condiţionat sau constând în accesul condiţionat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49228",
+   "versions": [
+    {
+     "from": "2004-01-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49228",
+     "sha256": "177fa018e2e3be37e26d59815a0e11dcfc38e8a95e1f20aaa62941646e62fa85"
+    }
+   ]
+  },
+  {
    "slug": "hg-700-2004",
    "path": "hg/2004/700",
    "short": "HG nr. 700/2004",
@@ -30051,6 +30651,21 @@
    ]
   },
   {
+   "slug": "hg-71-2004",
+   "path": "hg/2004/71",
+   "short": "HG nr. 71/2004",
+   "title": "Hotărârea Guvernului nr. 71/2004 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2004 al Autorităţii pentru Valorificarea Activelor Bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49596",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49596",
+     "sha256": "31c2011a108fa718785b5976d28317ab1c9485576c6befbcebc71aef127b658a"
+    }
+   ]
+  },
+  {
    "slug": "hg-710-2004",
    "path": "hg/2004/710",
    "short": "HG nr. 710/2004",
@@ -30197,6 +30812,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52034",
      "sha256": "5b87df8c3b2ecc3ac2bea945f898352ec1bc9ef4d8676267a773f06f38798a63"
+    }
+   ]
+  },
+  {
+   "slug": "hg-72-2004",
+   "path": "hg/2004/72",
+   "short": "HG nr. 72/2004",
+   "title": "Hotărârea Guvernului nr. 72/2004 privind redobândirea cetăţeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49593",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49593",
+     "sha256": "a06124a0c4d2082f1004a3be3587086baa1dbd36bfcd21ee913f2fa274677aa7"
     }
    ]
   },
@@ -30909,6 +31539,21 @@
    ]
   },
   {
+   "slug": "hg-77-2004",
+   "path": "hg/2004/77",
+   "short": "HG nr. 77/2004",
+   "title": "Hotărârea Guvernului nr. 77/2004 privind aprobarea unei licenţe de dare în administrare a activităţii miniere de exploatare, încheiată între Agenţia Naţională pentru Resurse Minerale şi Casa Naţională de Pensii şi Alte Drepturi de Asigurări Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49617",
+   "versions": [
+    {
+     "from": "2004-02-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49617",
+     "sha256": "8ddf1214dbfbb931a1d47df78460f9ffc8d4ec099e9970138a77d4d52d16bfaa"
+    }
+   ]
+  },
+  {
    "slug": "hg-770-2004",
    "path": "hg/2004/770",
    "short": "HG nr. 770/2004",
@@ -31040,6 +31685,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52151",
      "sha256": "3d8678746f00c12fbe1b0e15b1f239ef7dcb32fbda686e59423b274dd4ef2c8f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-78-2004",
+   "path": "hg/2004/78",
+   "short": "HG nr. 78/2004",
+   "title": "Hotărârea Guvernului nr. 78/2004 privind redobândirea cetăţeniei române de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49618",
+   "versions": [
+    {
+     "from": "2004-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49618",
+     "sha256": "3d5a50e2198a43df4f388f7b16bbcf11e52b4626685b5233b99fd742680759e3"
     }
    ]
   },
@@ -31316,6 +31976,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52507",
      "sha256": "6502735fb0e0d708042b1ec02fb14ae4782135c3ece8fac281c9bde3fa4438d6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-8-2004",
+   "path": "hg/2004/8",
+   "short": "HG nr. 8/2004",
+   "title": "Hotărârea Guvernului nr. 8/2004 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2004 al Autorităţii Naţionale de Reglementare în Domeniul Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49138",
+   "versions": [
+    {
+     "from": "2004-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49138",
+     "sha256": "325c2b958a1aabb1dc65d8bf246ac45e124c017233d48af018aa3c1673d6baf0"
     }
    ]
   },

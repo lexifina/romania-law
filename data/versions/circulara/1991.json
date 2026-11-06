@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "circulara/1991",
+ "acts": [
+  {
+   "slug": "circulara-bnr-10-1991",
+   "path": "circulara/bnr/1991/10",
+   "short": "Circulara bnr nr. 10/1991",
+   "title": "Circulara nr. 10/1991 privind obligațiile agenților economici și băncilor comerciale de asigurare a resurselor valutare necesare importurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1439",
+   "versions": [
+    {
+     "from": "1991-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1439",
+     "sha256": "79f23e2bf6a433b8c19b25a78bbce4e7be7ed02ad6a382ae613d6f65b9c52cfc"
+    }
+   ]
+  }
+ ]
+}

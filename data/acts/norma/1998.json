@@ -3,6 +3,25 @@
 "shard": "norma/1998",
 "acts": [
 {
+"slug": "norma-bnr-2-1998",
+"path": "norma/bnr/1998/2",
+"kind": "norma",
+"year": "1998",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 2/1998 privind întocmirea și verificarea bilanțurilor contabile ale societăților bancare pe anul 1997",
+"short": "Norma bnr nr. 2/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-04-16",
+"latest": "1998-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/39425",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-3-1998",
 "path": "norma/bnr/1998/3",
 "kind": "norma",

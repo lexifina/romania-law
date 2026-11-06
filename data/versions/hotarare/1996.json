@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "hotarare/1996",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-2-1996",
+   "path": "hotarare/bnr/1996/2",
+   "short": "Hotărârea bnr nr. 2/1996",
+   "title": "Hotărârea nr. 2/1996 privind introducerea unor măsuri speciale de supraveghere a Societății Bancare \"Dacia Felix\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7710",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7710",
+     "sha256": "42291abb17781d55a600e5bb7bce83866f2d126dd382f850601e18a58a82f94c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-3-1996",
+   "path": "hotarare/bnr/1996/3",
+   "short": "Hotărârea bnr nr. 3/1996",
+   "title": "Hotărârea nr. 3/1996 privind retragerea autorizației Băncii Comerciale \"Fortuna\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7727",
+   "versions": [
+    {
+     "from": "1996-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7727",
+     "sha256": "b8e9818c97315631de30f0dcbb85312a8a9ffec709a9414f92c4dd43fc46ca3b"
+    }
+   ]
+  }
+ ]
+}

@@ -91,6 +91,21 @@
      "sha256": "3736bbe8a9a64308226978ae5b88c428ea96a9e270a933dd7e3cbda88f36b22d"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-3-1995",
+   "path": "instructiuni/cnvm/1995/3",
+   "short": "Instrucțiuni cnvm nr. 3/1995",
+   "title": "Instrucțiunile nr. 3/1995 cu privire la înregistrarea în Registrul acționarilor a transferului de proprietate asupra acțiunilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5650",
+   "versions": [
+    {
+     "from": "1995-09-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5650",
+     "sha256": "9ec816bf676b8fe8d8afdf4bdd680980e143db91f4cb1f554db8e8f1c5859e91"
+    }
+   ]
   }
  ]
 }

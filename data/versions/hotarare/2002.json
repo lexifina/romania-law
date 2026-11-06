@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2002",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-28-2002",
+   "path": "hotarare/bnr/2002/28",
+   "short": "Hotărârea bnr nr. 28/2002",
+   "title": "Hotărârea nr. 28/2002 privind retragerea autorizației de funcționare a Băncii de Investiții și Dezvoltare (B.I.D.) - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34886",
+   "versions": [
+    {
+     "from": "2002-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34886",
+     "sha256": "b83eb479a5f2d5750e495c6d5a1db20bf439d241d0ae607e1deb6b3d5b9f8f32"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-37-2002",
+   "path": "hotarare/bnr/2002/37",
+   "short": "Hotărârea bnr nr. 37/2002",
+   "title": "Hotărârea nr. 37/2002 privind retragerea autorizației de funcționare și declanșarea procedurii falimentului Băncii Turco-Române - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35970",
+   "versions": [
+    {
+     "from": "2002-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35970",
+     "sha256": "397311393d730386f598a8ff1e82af16eaf406075faccdaa084011fbf346b4e0"
+    }
+   ]
+  }
+ ]
+}

@@ -346,6 +346,36 @@
      "sha256": "b122f50591f5d1f70913f98165c708b3567650ff310e1d9570085dabd2b61c80"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2006",
+   "path": "regulament/cnvm/2006/1",
+   "short": "Regulament cnvm nr. 1/2006",
+   "title": "Regulamentul nr. 1/2006 privind",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71100",
+   "versions": [
+    {
+     "from": "2006-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71100",
+     "sha256": "4005f7ebfd131d4ac7d6ad2e465d417a46922540875b7d801a583523ce629d29"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-2006",
+   "path": "regulament/cnvm/2006/7",
+   "short": "Regulament cnvm nr. 7/2006",
+   "title": "Regulamentul nr. 7/2006 privind veniturile Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70509",
+   "versions": [
+    {
+     "from": "2006-04-05",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70509",
+     "sha256": "10a065fb813dcaa0b938059c34907577e0d6f66b9f279099834ceed3f1347b80"
+    }
+   ]
   }
  ]
 }

@@ -61,6 +61,21 @@
      "sha256": "058e6f9ed2621710fb8e70730d15ec389612208b73a2f60689090597f5e0aef9"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-6-1995",
+   "path": "regulament/cnvm/1995/6",
+   "short": "Regulament cnvm nr. 6/1995",
+   "title": "Regulamentul nr. 6/1995 privind oferta publică de vînzare de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5690",
+   "versions": [
+    {
+     "from": "1996-02-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5690",
+     "sha256": "4bba84d091d95fdfd51812f7b93223ba781085f86bbd3d2cd0b02618cd0a0329"
+    }
+   ]
   }
  ]
 }

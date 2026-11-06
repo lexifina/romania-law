@@ -18498,6 +18498,36 @@
    ]
   },
   {
+   "slug": "ordin-bnr-136-2023",
+   "path": "ordin/bnr/2023/136",
+   "short": "Ordin bnr nr. 136/2023",
+   "title": "Ordinul nr. 136/2023 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății EUROPROJECT FINANCE IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270511",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19495-ordin-136-2023",
+     "sha256": "2550d746050e5523528a3f1a7038064a7a846e4b0451a2838624e886465ccb81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-19-2023",
+   "path": "ordin/bnr/2023/19",
+   "short": "Ordin bnr nr. 19/2023",
+   "title": "Ordinul nr. 19/2023 privind publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare a Societății UNIT CREDIT GARANT IFN - S.A",
+   "url": "https://www.bnr.ro/19644-ordin-19-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19644-ordin-19-2023",
+     "sha256": "44d4314fe002db5449dd231422bb1c1c7d9b7e4a3a3235413f3ec51081a800e5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-2-2023",
    "path": "ordin/bnr/2023/2",
    "short": "Ordin bnr nr. 2/2023",
@@ -18513,6 +18543,81 @@
    ]
   },
   {
+   "slug": "ordin-bnr-20-2023",
+   "path": "ordin/bnr/2023/20",
+   "short": "Ordin bnr nr. 20/2023",
+   "title": "Ordinul nr. 20/2023 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății PORTAL LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/21913-ordin-20-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21913-ordin-20-2023",
+     "sha256": "fac1cbeb97de9752450d3c7de9b3c59f6a0cfb20527c185f2277fb528b0f0baa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-249-2023",
+   "path": "ordin/bnr/2023/249",
+   "short": "Ordin bnr nr. 249/2023",
+   "title": "Ordinul nr. 249/2023 privind publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare a Societății D & M INVESTMENT COMPANY IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274010",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21958-ordin-249-2023",
+     "sha256": "e437805669c7df9ab9716152abee3c2a0cf081cd5ceafb734bb96cd18f9b710f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-25-2023",
+   "path": "ordin/bnr/2023/25",
+   "short": "Ordin bnr nr. 25/2023",
+   "title": "Ordinul nr. 25/2023 privind publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare a Societății FONDUL DE GARANTARE ȘI FINANȚARE TRANSILVANIA IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264697",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20499-ordin-25-2023",
+     "sha256": "3dabbde782e79b544b0139314d9beac8d61ba04c58d7bc71e20729392fce9809"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-250-2023",
+   "path": "ordin/bnr/2023/250",
+   "short": "Ordin bnr nr. 250/2023",
+   "title": "Ordinul nr. 250/2023 privind publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare a Societății Fondul Român de Garantare a Creditelor pentru Întreprinzătorii Privați IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274011",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20326-ordin-250-2023",
+     "sha256": "a59009784621ed73fcc83c7ddd27092c1b2a63f5d41f90cfc0c9250d3b530905"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-26-2023",
+   "path": "ordin/bnr/2023/26",
+   "short": "Ordin bnr nr. 26/2023",
+   "title": "Ordinul nr. 26/2023 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății AGRILEND IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264698",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19397-ordin-26-2023",
+     "sha256": "555d71205d79eb5c07cbae66ce9a0540bd5e1e3a8d866f382101e9b120c41384"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-3-2023",
    "path": "ordin/bnr/2023/3",
    "short": "Ordin bnr nr. 3/2023",
@@ -18524,6 +18629,51 @@
      "units": 10,
      "source_url": "https://www.bnr.ro/21912-ordin-3-2023",
      "sha256": "4f31940d77724c56b13f3f5af49771126bff835e73995253349981d5a9c2c995"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-313-2023",
+   "path": "ordin/bnr/2023/313",
+   "short": "Ordin bnr nr. 313/2023",
+   "title": "Ordinul nr. 313/2023 privind publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare a Societății AGER LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/21899-ordin-313-2023",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21899-ordin-313-2023",
+     "sha256": "410600f91dac943e850ccff5439143ca8a7233b48067997cb4009c50177bc85b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-343-2023",
+   "path": "ordin/bnr/2023/343",
+   "short": "Ordin bnr nr. 343/2023",
+   "title": "Ordinul nr. 343/2023 privind publicarea radierii din Registrul general și din Registrul special Instituții Financiare Nebancare a Societății FINANCIARUM PRIME IFN - S.A",
+   "url": "https://www.bnr.ro/20130-ordin-343-2023",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20130-ordin-343-2023",
+     "sha256": "88b964febd03f66da9358639b965397b820131ddd8c8edd738108dcfd464a4e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-68-2023",
+   "path": "ordin/bnr/2023/68",
+   "short": "Ordin bnr nr. 68/2023",
+   "title": "Ordinul nr. 68/2023 privind publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare a societății ȚIRIAC LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266099",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19343-ordin-68-2023",
+     "sha256": "7e6d3600a175fb9e46eda3d2c19f4119a1a52b04b55ce5d19ffee21c7eee312e"
     }
    ]
   },

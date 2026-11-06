@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "circulara/1995",
+ "acts": [
+  {
+   "slug": "circulara-bnr-10-1995",
+   "path": "circulara/bnr/1995/10",
+   "short": "Circulara bnr nr. 10/1995",
+   "title": "Circulara nr. 10/1995 privind orarul de plăti al Direcției plăti și decontări bancare din cadrul Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5734",
+   "versions": [
+    {
+     "from": "1995-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5734",
+     "sha256": "167d55111f3220fab73baf7481445d5ea06368ac82576b589264e8094369f84f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-1995",
+   "path": "circulara/bnr/1995/15",
+   "short": "Circulara bnr nr. 15/1995",
+   "title": "Circulara nr. 15/1995 privind aplicarea Regulamentului Băncii Naționale nr. 10/1994 , a Normelor Băncii Naționale nr. 2/1980 și unele modificări aduse Circularei nr. 9/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5786",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5786",
+     "sha256": "299fcd5e2eb24e5436ce6de5b19827bd882289fed63dbf46df32c1f79aa6d420"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-1995",
+   "path": "circulara/bnr/1995/16",
+   "short": "Circulara bnr nr. 16/1995",
+   "title": "Circulara nr. 16/1995 privind modificarea Circularei Băncii Naționale a României nr. 12/1995 și Circularei Băncii Naționale a României nr. 15/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5796",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5796",
+     "sha256": "189a689779ea126d70032a864d5e0707e9846a977ebe186fc322a84d4926a777"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-1995",
+   "path": "circulara/bnr/1995/21",
+   "short": "Circulara bnr nr. 21/1995",
+   "title": "Circulara nr. 21/1995 privind anularea si modificarea unor acte normative ale Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5843",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5843",
+     "sha256": "81ed98bb7f1897afe6985fb94baf33c75c3abfda25a80e724ce786acc3efcce3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-1995",
+   "path": "circulara/bnr/1995/23",
+   "short": "Circulara bnr nr. 23/1995",
+   "title": "Circulara nr. 23/1995 pentru modificarea unor prevederi din Regulamentul privind efectuarea operațiunilor valutare, emis de Banca Naționala a României la 18 august 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5856",
+   "versions": [
+    {
+     "from": "1995-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5856",
+     "sha256": "ac084310e24f7a72bc59c52a75b010d393189b110512d4c91c9ff709f154bb36"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-1995",
+   "path": "circulara/bnr/1995/24",
+   "short": "Circulara bnr nr. 24/1995",
+   "title": "Circulara nr. 24/1995 privind modificarea Normelor tehnice ale Băncii Naționale a României nr. 9/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5863",
+   "versions": [
+    {
+     "from": "1995-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5863",
+     "sha256": "dc72bd43636d108c898993049e0484bfd03219c9035ed5cc6bcb3d9ff8f66821"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-1995",
+   "path": "circulara/bnr/1995/25",
+   "short": "Circulara bnr nr. 25/1995",
+   "title": "Circulara nr. 25/1995 privind exceptarea Băncii de Export-Import a României de la prevederile pct. 11 din Circulara Băncii Naționale a României nr. 11/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5869",
+   "versions": [
+    {
+     "from": "1995-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5869",
+     "sha256": "7f44d25d5ff3491dcb3a87883f566f5a051d0ac52d92b0100d600a4c9e3feb3d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-1995",
+   "path": "circulara/bnr/1995/26",
+   "short": "Circulara bnr nr. 26/1995",
+   "title": "Circulara nr. 26/1995 privind înființarea contului 50BBX99.10 \"Disponibilități blocate de instanțele judecătorești\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5875",
+   "versions": [
+    {
+     "from": "1995-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5875",
+     "sha256": "5a4855b51bcb7c3fae597df6b959771b16e252f2af9689ef3139f3b7ca7c63d9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-1995",
+   "path": "circulara/bnr/1995/27",
+   "short": "Circulara bnr nr. 27/1995",
+   "title": "Circulara nr. 27/1995 privind modificarea capitolului V \"Sancțiuni\" din anexa nr. 3 - Norme privind funcționarea pieței valutare interbancare - la Regulamentul privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5882",
+   "versions": [
+    {
+     "from": "1995-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5882",
+     "sha256": "5844512f22a7f28ae65a84d678c9a9ca1336e1c75682f37fbde20bc8c5b1e204"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-1995",
+   "path": "circulara/bnr/1995/29",
+   "short": "Circulara bnr nr. 29/1995",
+   "title": "Circulara nr. 29/1995 privind efectuarea de operațiuni valutare între persoane juridice rezidente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5896",
+   "versions": [
+    {
+     "from": "1995-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5896",
+     "sha256": "b849f6a8976ba96ae1b522e9400b9729db09ad280d7e23e4325c110571a0c693"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-1995",
+   "path": "circulara/bnr/1995/32",
+   "short": "Circulara bnr nr. 32/1995",
+   "title": "Circulara nr. 32/1995 pentru modificarea unor prevederi din Normele privind efectuarea operațiunilor de schimb valutar pentru persoane fizice pe teritoriul României (anexa nr. 4 la Regulamentul privind efectuarea operațiunilor valutare, publicată în Monitorul Oficial al României, Partea I, nr. 94 din 18 mai 1995)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5921",
+   "versions": [
+    {
+     "from": "1995-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5921",
+     "sha256": "3ce2ed99755bac32bab1e70c96029a64cad8ddff589b28134f3d1f71af5c944c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-1995",
+   "path": "circulara/bnr/1995/33",
+   "short": "Circulara bnr nr. 33/1995",
+   "title": "Circulara nr. 33/1995 referitoare la modificarea unor reglementări privind ordinul de plată și cecul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5928",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5928",
+     "sha256": "fa5e797eaf824b5879e49b83d22225cddc3724932161e75d1718fa656a28474a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-1995",
+   "path": "circulara/bnr/1995/34",
+   "short": "Circulara bnr nr. 34/1995",
+   "title": "Circulara nr. 34/1995 referitoare la completarea, modificarea și abrogarea unor reglementări în domeniul plăților și decontărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5935",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5935",
+     "sha256": "7a19670ceb4ded1200f156e948260f847b8cb2711718e1ec9be754aa5b728478"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-1995",
+   "path": "circulara/bnr/1995/35",
+   "short": "Circulara bnr nr. 35/1995",
+   "title": "Circulara nr. 35/1995 privind asigurarea condițiilor corespunzătoare pentru limitarea riscurilor de credit și menținerea în permanenta a nivelului minim de solvabilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5941",
+   "versions": [
+    {
+     "from": "1995-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5941",
+     "sha256": "3158da381e7558d7113f2f32f7c727430d157e1d93b1cf2b85713fb6212ab245"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-1995",
+   "path": "circulara/bnr/1995/39",
+   "short": "Circulara bnr nr. 39/1995",
+   "title": "Circulara nr. 39/1995 conținând precizări în aplicarea prevederilor pct. 3 din Circulara Băncii Naționale a României nr. 35/1995 privind asigurarea condițiilor corespunzătoare pentru limitarea riscurilor de credit și menținerea în permanență a nivelului minim de solvabilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5968",
+   "versions": [
+    {
+     "from": "1996-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5968",
+     "sha256": "862ec157a2bcaae87b17f02a87986af8babe630cbbd9ef65437b5039afd3ba5d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-1995",
+   "path": "circulara/bnr/1995/4",
+   "short": "Circulara bnr nr. 4/1995",
+   "title": "Circulara nr. 4/1995 privind virarea sumelor la rezerva valutară a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5661",
+   "versions": [
+    {
+     "from": "1995-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5661",
+     "sha256": "5a0b049e60739ae85e881500fb14d6376d10a14241f3994f18f9b96814e0ff3b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-44-1995",
+   "path": "circulara/bnr/1995/44",
+   "short": "Circulara bnr nr. 44/1995",
+   "title": "Circulara nr. 44/1995 privind ordinele de plată cu valori mai mari de un miliard lei și alimentarea conturilor de decontare a tranzacțiilor cu valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6001",
+   "versions": [
+    {
+     "from": "1995-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6001",
+     "sha256": "87f344b30c6d8db94c637f89512546254499c2c43699707e5c86e35397996c75"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-45-1995",
+   "path": "circulara/bnr/1995/45",
+   "short": "Circulara bnr nr. 45/1995",
+   "title": "Circulara nr. 45/1995 pentru modificarea unor prevederi din Normele privind efectuarea operațiunilor de schimb valutar pentru persoane fizice pe teritoriul României (anexa nr. 4 la Regulamentul privind efectuarea operațiunilor valutare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6008",
+   "versions": [
+    {
+     "from": "1995-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6008",
+     "sha256": "54d800e7e6911e42c5a674070ee2fd1aa9d3bbb1f6fecfaffe4b3f56c426e089"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-47-1995",
+   "path": "circulara/bnr/1995/47",
+   "short": "Circulara bnr nr. 47/1995",
+   "title": "Circulara nr. 47/1995 pentru modificarea unor prevederi din Normele privind efectuarea operațiunilor de schimb valutar pentru persoane fizice pe teritoriul României (anexa nr. 4 la Regulamentul privind efectuarea operațiunilor valutare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6018",
+   "versions": [
+    {
+     "from": "1995-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6018",
+     "sha256": "f254e5c00b89b69d25808bccd0f3811dc42a1ea73ca9e1deaeee358277813c91"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-48-1995",
+   "path": "circulara/bnr/1995/48",
+   "short": "Circulara bnr nr. 48/1995",
+   "title": "Circulara nr. 48/1995 privind unele precizări la prevederile Normelor privind efectuarea operațiunilor de schimb valutar pentru persoane fizice pe teritoriul României (anexa nr. 4 la Regulamentul privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6023",
+   "versions": [
+    {
+     "from": "1995-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6023",
+     "sha256": "490b537329e4783149b9c12e31fc1919a9707166f2477cb67324555b60018114"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-1995",
+   "path": "circulara/bnr/1995/5",
+   "short": "Circulara bnr nr. 5/1995",
+   "title": "Circulara nr. 5/1995 pentru modificarea Regulamentului privind condițiile și modul de efectuare a refinanțării societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5673",
+   "versions": [
+    {
+     "from": "1995-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5673",
+     "sha256": "2f4a7b4c2e3ef69d4b04df0e0743c6b01cdb9eb538b793087f2bbdd142125f87"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-52-1995",
+   "path": "circulara/bnr/1995/52",
+   "short": "Circulara bnr nr. 52/1995",
+   "title": "Circulara nr. 52/1995 privind raportarea de către societățile bancare a nivelului expunerii lor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6044",
+   "versions": [
+    {
+     "from": "1995-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6044",
+     "sha256": "ef71a9b395b40be7e8c7876f96c524dfdfbe3d1c5a10ba530689c6a2e3598a29"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-54-1995",
+   "path": "circulara/bnr/1995/54",
+   "short": "Circulara bnr nr. 54/1995",
+   "title": "Circulara nr. 54/1995 pentru modificarea unor prevederi din Regulamentul Băncii Naționale a României nr. 7/1994 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6050",
+   "versions": [
+    {
+     "from": "1995-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6050",
+     "sha256": "f1597aa78428a633c78a4164f31cf0caa3e888aa3a53296e9f6fed147d9becc6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-1995",
+   "path": "circulara/bnr/1995/7",
+   "short": "Circulara bnr nr. 7/1995",
+   "title": "Circulara nr. 7/1995 pentru modificarea Regulamentului nr. 4/1993 privind rezervele obligatorii ale societăților bancare la Banca Naționala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5702",
+   "versions": [
+    {
+     "from": "1995-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5702",
+     "sha256": "00841bc02354a6691e325bcfaf1ab7cb607420e175aea90d1db47e71fb5a079d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-1995",
+   "path": "circulara/bnr/1995/9",
+   "short": "Circulara bnr nr. 9/1995",
+   "title": "Circulara nr. 9/1995 referitoare la evidența contabilă a plăților și decontărilor interbancare în cadrul Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5724",
+   "versions": [
+    {
+     "from": "1995-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5724",
+     "sha256": "11846ac74823d558c9572beb8d963a73e59df70cc3d6885f4f699920f111a5f1"
+    }
+   ]
+  }
+ ]
+}

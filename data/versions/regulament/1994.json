@@ -16,6 +16,36 @@
      "sha256": "fff03fc2bb0668b351a043c00bb0ee8d979f6a1736f49ee8549da98139b230bd"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-10-1994",
+   "path": "regulament/bnr/1994/10",
+   "short": "Regulament bnr nr. 10/1994",
+   "title": "Regulamentul nr. 10/1994 privind compensarea multilaterala a plăților interbancare fără numerar pe suport hârtie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3868",
+   "versions": [
+    {
+     "from": "1995-04-26",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3868",
+     "sha256": "951b4a1ed586557f82e85a85999e59174d63061f58537eb13438b5da24ef48c2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10813-1994",
+   "path": "regulament/bnr/1994/10813",
+   "short": "Regulament bnr nr. 10813/1994",
+   "title": "Regulamentul nr. 10.813/1994 V/10813 din 18 august 1994 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5580",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5580",
+     "sha256": "5c7d3e4de5ab63340ec76fc75da7b70b13b845a83140b87aa8cea374abd4dea0"
+    }
+   ]
   }
  ]
 }

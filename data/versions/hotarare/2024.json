@@ -3,6 +3,66 @@
  "shard": "hotarare/2024",
  "acts": [
   {
+   "slug": "hotarare-bnr-1-2024",
+   "path": "hotarare/bnr/2024/1",
+   "short": "Hotărârea bnr nr. 1/2024",
+   "title": "Hotărârea nr. 1/2024 privind radierea Societății REAL CREDIT & LEASE IFN - S.A. din Registrul general și Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278364",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19386-hotarare-1-2024",
+     "sha256": "c1dc9a1f554b43049022cb5744d0227649f08edcd7e3f23dcdb9a5cdf98e3d91"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-13-2024",
+   "path": "hotarare/bnr/2024/13",
+   "short": "Hotărârea bnr nr. 13/2024",
+   "title": "Hotărârea nr. 13/2024 privind radierea Societății GARANTARE ȘI CREDITARE IFN - S.A. din Registrul general și Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://www.bnr.ro/23476-hotarare-13-2024",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/23476-hotarare-13-2024",
+     "sha256": "17cc72199a074d8068704ab6f811d7138500f0b5b63c9ce0035f4cb6d971fc7d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-16-2024",
+   "path": "hotarare/bnr/2024/16",
+   "short": "Hotărârea bnr nr. 16/2024",
+   "title": "Hotărârea nr. 16/2024 privind radierea Societății Fondul de Garantare și Creditare IFN - S.A. din Registrul general și Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://www.bnr.ro/23508-hotarare-16-2024",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/23508-hotarare-16-2024",
+     "sha256": "d8549db6a30bec045485dfbfdf40f7de037f90b141a1c0cd49b070720e1d9dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-2-2024",
+   "path": "hotarare/bnr/2024/2",
+   "short": "Hotărârea bnr nr. 2/2024",
+   "title": "Hotărârea nr. 2/2024 privind radierea Societății EDEN FINANCE IFN - S.A. din Registrul general și Registrul special Instituții Financiare Nebancare și, implicit, interzicerea desfășurării activității de creditare",
+   "url": "https://www.bnr.ro/19387-hotarare-2-2024",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19387-hotarare-2-2024",
+     "sha256": "7687a887dc21736f8b3e779b9d623e70695140aee5ffdffd6861042c3c50549d"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-27-2024",
    "path": "hotarare/bnr/2024/27",
    "short": "Hotărârea bnr nr. 27/2024",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2000",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-4-2000",
+   "path": "hotarare/bnr/2000/4",
+   "short": "Hotărârea bnr nr. 4/2000",
+   "title": "Hotărârea nr. 4/2000 privind retragerea autorizației de funcționare a Băncii \"Columna\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23032",
+   "versions": [
+    {
+     "from": "2000-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23032",
+     "sha256": "6e4c3ae0edaa3f4c606487c2ee07668912c6b9847dcf41f590de165fb5e1d364"
+    }
+   ]
+  }
+ ]
+}

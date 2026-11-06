@@ -226,6 +226,51 @@
      "sha256": "ec3651d0010599b789270515659abc052b6c9b105599116045a46c7d110ed8dc"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-12-1994",
+   "path": "norma/bnr/1994/12",
+   "short": "Norma bnr nr. 12/1994",
+   "title": "Norma nr. 12/1994 privind supravegherea pozițiilor valutare ale societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3887",
+   "versions": [
+    {
+     "from": "1994-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3887",
+     "sha256": "20ad55fbe7c1e25b54167f594e537dde97620d18e00e6ebe34bb0f782a98e153"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-13-1994",
+   "path": "norma/bnr/1994/13",
+   "short": "Norma bnr nr. 13/1994",
+   "title": "Norma nr. 13/1994 privind aplicarea Hotărârii Guvernului nr. 270/1994 pentru completarea Hotărârii Guvernului nr. 83/1993 privind unele măsuri pentru întărirea disciplinei financiare la agenții economici cu capital integral sau majoritar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3899",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3899",
+     "sha256": "4c4c19de5e13408e9cb2704d8d503c213ff8786171c65add187a8a0a5bbb1d92"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-1994",
+   "path": "norma/bnr/1994/3",
+   "short": "Norma bnr nr. 3/1994",
+   "title": "Norma nr. 3/1994 privind clasificarea creditelor și constituirea provizioanelor specifice de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3801",
+   "versions": [
+    {
+     "from": "1994-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3801",
+     "sha256": "d45e233a6a59431bf6ebb3d44dbcefe0b57f46d32bce57ee28fbaa311830f871"
+    }
+   ]
   }
  ]
 }

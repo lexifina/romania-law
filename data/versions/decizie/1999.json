@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "decizie/1999",
+ "acts": [
+  {
+   "slug": "decizie-anre-1-1999",
+   "path": "decizie/anre/1999/1",
+   "short": "Decizia anre nr. 1/1999",
+   "title": "Decizia nr. 1/1999 pentru aprobarea contractelor-cadru de furnizare a energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17357",
+   "versions": [
+    {
+     "from": "1999-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17357",
+     "sha256": "13e44a8bf13ea0d9be699d1672cd2dade72cf9e7ec969a0df42c469d45d0df15"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-11-1999",
+   "path": "decizie/anre/1999/11",
+   "short": "Decizia anre nr. 11/1999",
+   "title": "Decizia nr. 11/1999 privind aprobarea Regulamentului pentru acreditarea consumatorilor eligibili de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18220",
+   "versions": [
+    {
+     "from": "1999-05-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18220",
+     "sha256": "b6640ff3ecf879cc541e987f3c33a2a5bdaf6f9da0218718e4ae5946ed3204ff"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-15-1999",
+   "path": "decizie/anre/1999/15",
+   "short": "Decizia anre nr. 15/1999",
+   "title": "Decizia nr. 15/1999 pentru aprobarea Regulamentului de măsurare a cantităților de energie electrică tranzacționate pe piața angro",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18831",
+   "versions": [
+    {
+     "from": "1999-07-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18831",
+     "sha256": "7b7ddf76baad55d33cd43b2af32330e9cbd2bebda6bf9affa42fb5a1e9b350ae"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-16-1999",
+   "path": "decizie/anre/1999/16",
+   "short": "Decizia anre nr. 16/1999",
+   "title": "Decizia nr. 16/1999 pentru aprobarea unor contracte-cadru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18838",
+   "versions": [
+    {
+     "from": "1999-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18838",
+     "sha256": "3ea8974bbaae1f26224a3ed17b4a46eb21901f701c0b867a7e39a413de211283"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-17-1999",
+   "path": "decizie/anre/1999/17",
+   "short": "Decizia anre nr. 17/1999",
+   "title": "Decizia nr. 17/1999 pentru aprobarea procedurii pentru determinarea prețurilor și cantităților de energie electrică din contractele-cadru de portofoliu (interimare) de vânzare/cumpărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18832",
+   "versions": [
+    {
+     "from": "1999-07-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18832",
+     "sha256": "e1629fa12a639eafedeb96bfb5659e671ab6eb747d35dc42bcd10408fc8dfbf7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-18-1999",
+   "path": "decizie/anre/1999/18",
+   "short": "Decizia anre nr. 18/1999",
+   "title": "Decizia nr. 18/1999 pentru aprobarea Regulamentului de programare și dispecerizare a Sistemului electroenergetic național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18833",
+   "versions": [
+    {
+     "from": "1999-07-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18833",
+     "sha256": "dcc60c0dfd8db363f2220b217e4774d9d5b063dcf69b25cacd4471b6d7b31beb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-22-1999",
+   "path": "decizie/anre/1999/22",
+   "short": "Decizia anre nr. 22/1999",
+   "title": "Decizia nr. 22/1999 pentru aprobarea Codului comercial al pieței angro de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18834",
+   "versions": [
+    {
+     "from": "1999-07-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18834",
+     "sha256": "1bd00c77055fc8d1c02053a87dae0dfe3457aba887d55c7e3733667dbf4cfdf2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-28-1999",
+   "path": "decizie/anre/1999/28",
+   "short": "Decizia anre nr. 28/1999",
+   "title": "Decizia nr. 28/1999 pentru aprobarea Contractului-cadru de vânzare-cumpărare pe termen lung a energiei electrice, încheiat între Societatea Naționala \"Nuclearelectrica\" - S.A. și Societatea Comercială \"Electrica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19015",
+   "versions": [
+    {
+     "from": "1999-08-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19015",
+     "sha256": "6128837ee45420e0703b75fb4b064231131136748d75ee07d58d7fcfb26e5eb1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-29-1999",
+   "path": "decizie/anre/1999/29",
+   "short": "Decizia anre nr. 29/1999",
+   "title": "Decizia nr. 29/1999 pentru aprobarea Metodologiei de stabilire a tarifului pentru transportul energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19016",
+   "versions": [
+    {
+     "from": "1999-08-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19016",
+     "sha256": "97d56f45cbc0bc3d8932a28d50660f2d80293b3b4dd7c3742781b5b5f152210a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-33-1999",
+   "path": "decizie/anre/1999/33",
+   "short": "Decizia anre nr. 33/1999",
+   "title": "Decizia nr. 33/1999 pentru aprobarea Regulamentului de constatare, notificare și sancționare a abaterilor de la reglementările emise în domeniul energiei electrice și termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19607",
+   "versions": [
+    {
+     "from": "1999-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19607",
+     "sha256": "1a430a5c8548c0ac529cfdc97f880c1d576f0403d87a195d1ab14c49bc7a3de8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-34-1999",
+   "path": "decizie/anre/1999/34",
+   "short": "Decizia anre nr. 34/1999",
+   "title": "Decizia nr. 34/1999 pentru aprobarea Standardului de performanță pentru serviciul de furnizare a energiei electrice la tarife reglementate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19608",
+   "versions": [
+    {
+     "from": "1999-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19608",
+     "sha256": "e474d83df9cbd012853d40c977f225c84a902888c0beed1c34dcda56ef24ce85"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-35-1999",
+   "path": "decizie/anre/1999/35",
+   "short": "Decizia anre nr. 35/1999",
+   "title": "Decizia nr. 35/1999 pentru aprobarea Metodologiei de stabilire a tarifelor pentru servicii de sistem",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19609",
+   "versions": [
+    {
+     "from": "1999-10-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19609",
+     "sha256": "2ce13d77484640502300c98d7b95d567bcb5af498840ac97c64fc43f2a067138"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-36-1999",
+   "path": "decizie/anre/1999/36",
+   "short": "Decizia anre nr. 36/1999",
+   "title": "Decizia nr. 36/1999 pentru aprobarea Contractului-cadru de achiziție a energiei electrice de la un producător independent de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19588",
+   "versions": [
+    {
+     "from": "1999-10-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19588",
+     "sha256": "2967cbfbbe88b563067d4cde0744dc27e6c5191da48aee81ea26ca995fbf2bc7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-44-1999",
+   "path": "decizie/anre/1999/44",
+   "short": "Decizia anre nr. 44/1999",
+   "title": "Decizia nr. 44/1999 pentru aprobarea tarifelor la energia electrică și termica livrata de Compania Naționala de Electricitate - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19392",
+   "versions": [
+    {
+     "from": "1999-10-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19392",
+     "sha256": "98f14a2070eb87348ab26c6579d879dde13d3cee2935c714f39bacc3b969b3bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-46-1999",
+   "path": "decizie/anre/1999/46",
+   "short": "Decizia anre nr. 46/1999",
+   "title": "Decizia nr. 46/1999 privind acordarea Licenței pentru furnizarea de energie electrică Societății Comerciale \"Electrica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20023",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20023",
+     "sha256": "236df6c60031c5e413cfecc5cbfb62223978b09e9ee46608d585b38ce54e0304"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-53-1999",
+   "path": "decizie/anre/1999/53",
+   "short": "Decizia anre nr. 53/1999",
+   "title": "Decizia nr. 53/1999 pentru aprobarea Standardului de performanță pentru serviciul de furnizare a energiei termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20025",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20025",
+     "sha256": "16ea94b468f19b1a90b5dd48f14b4b63aa7fbaf9d41b24d074de19041d1a23bb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-57-1999",
+   "path": "decizie/anre/1999/57",
+   "short": "Decizia anre nr. 57/1999",
+   "title": "Decizia nr. 57/1999 pentru aprobarea contractelor-cadru de furnizare a energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20330",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20330",
+     "sha256": "1ebe2ed2acb868071bdb2c6e4b51bb28f68947bd6f98a5908bfffcd82100c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-61-1999",
+   "path": "decizie/anre/1999/61",
+   "short": "Decizia anre nr. 61/1999",
+   "title": "Decizia nr. 61/1999 pentru aprobarea Normelor tehnice privind delimitarea zonelor de protecție și de siguranță ale capacităților energetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20584",
+   "versions": [
+    {
+     "from": "2000-01-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20584",
+     "sha256": "39447af3ac5ecf8b058d5b1a7648cfa052313e77f1bebba02311063f6018a43e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-66-1999",
+   "path": "decizie/anre/1999/66",
+   "short": "Decizia anre nr. 66/1999",
+   "title": "Decizia nr. 66/1999 privind aprobarea prețului pentru energia termică destinată populației orașului Cernavodă, produsă și livrată de către C.N.E. - PROD Cernavodă, sucursală a Societății Naționale \"Nuclearelectrica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20026",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20026",
+     "sha256": "5f1e80edd96f0f1e406492f72faba561174942d0d4b38689e0c29a1b494a6471"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-71-1999",
+   "path": "decizie/anre/1999/71",
+   "short": "Decizia anre nr. 71/1999",
+   "title": "Decizia nr. 71/1999 pentru aprobarea Metodologiei pentru stabilirea tarifului pentru serviciile de sistem funcționale ale S.E.N. și a Metodologiei pentru stabilirea tarifului perceput de operatorul comercial al pieței angro de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20343",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20343",
+     "sha256": "ccd7cfb1184ddd9bf327a7c7641959abce5213accba22e5a804d710d61e44a3f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-75-1999",
+   "path": "decizie/anre/1999/75",
+   "short": "Decizia anre nr. 75/1999",
+   "title": "Decizia nr. 75/1999 pentru numirea agenților constatatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20630",
+   "versions": [
+    {
+     "from": "2000-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20630",
+     "sha256": "e2a16ca37da78d48eca06c075a3d871118af0d6a6ff13fa755bd2677683b38d4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-78-1999",
+   "path": "decizie/anre/1999/78",
+   "short": "Decizia anre nr. 78/1999",
+   "title": "Decizia nr. 78/1999 privind aprobarea Metodologiei de stabilire a tarifului pentru serviciul de distribuție a energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20575",
+   "versions": [
+    {
+     "from": "2000-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20575",
+     "sha256": "fb9e9ced773512628eb19911acba5076b64331575b1af7a5d809955be0e798f0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-101-1999",
+   "path": "decizie/cna/1999/101",
+   "short": "Decizia cna nr. 101/1999",
+   "title": "Decizia nr. 101/1999 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19051",
+   "versions": [
+    {
+     "from": "1999-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19051",
+     "sha256": "9a0503665982524af3b38a23bac20241228aaa5725356ae3e92f3f05b7e7ff40"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-115-1999",
+   "path": "decizie/cna/1999/115",
+   "short": "Decizia cna nr. 115/1999",
+   "title": "Decizia nr. 115/1999 privind frecventele pentru stațiile locale de radio și canalele pentru stațiile locale de televiziune (putere mica), care vor fi scoase la concurs pentru obținerea de licențe de emisie în sesiunea de toamna-iarna 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18922",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18922",
+     "sha256": "fc7d615ca402d24d708c0c4377dfed29a9b69beea57030c80b9d1161275b21a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-117-1999",
+   "path": "decizie/cna/1999/117",
+   "short": "Decizia cna nr. 117/1999",
+   "title": "Decizia nr. 117/1999 privind acordarea licenței de emisie pentru radiodifuziune, prin rețea cu acoperire națională, Societății Comerciale \"EUROPE DEVELOPMENT INTERNAȚIONAL ROMÂNIA\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19213",
+   "versions": [
+    {
+     "from": "1999-09-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19213",
+     "sha256": "cc088f27985048a640513cf9d376458f6f55e4a931cdb3155f8242ca63baf755"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-121-1999",
+   "path": "decizie/cna/1999/121",
+   "short": "Decizia cna nr. 121/1999",
+   "title": "Decizia nr. 121/1999 privind îndreptarea erorii materiale cuprinse în Decizia nr. 171/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19391",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19391",
+     "sha256": "8144bf7584e43cffadbbed5748558215cdd35d2c125a5f180ea95c4d98516102"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-132-1999",
+   "path": "decizie/cna/1999/132",
+   "short": "Decizia cna nr. 132/1999",
+   "title": "Decizia nr. 132/1999 privind îndreptarea erorii materiale existente în Decizia Consiliului Național al Audiovizualului nr. 90 din 22 iunie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22283",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22283",
+     "sha256": "a7adb0940ffb8b33853523f4f4ac168bc55d8e0b31f2a5586f1297d69d80b818"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-135-1999",
+   "path": "decizie/cna/1999/135",
+   "short": "Decizia cna nr. 135/1999",
+   "title": "Decizia nr. 135/1999 privind obligația titularilor de licențe de emisie de a aduce la cunoștința publicului somațiile și sancțiunile aplicate de Consiliul Național al Audiovizualului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22284",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22284",
+     "sha256": "3027ce6dc667dfea7ff534af77cbeb88ca5c94c425bd78acb6f4ad0f80d2c1de"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-137-1999",
+   "path": "decizie/cna/1999/137",
+   "short": "Decizia cna nr. 137/1999",
+   "title": "Decizia nr. 137/1999 privind unele precizări referitoare la obligațiile ce revin titularilor de licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22286",
+   "versions": [
+    {
+     "from": "2000-05-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22286",
+     "sha256": "26332234903c5e1fe0424823bbec4842c51cc474660128966d5653207ac1271c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-14-1999",
+   "path": "decizie/cna/1999/14",
+   "short": "Decizia cna nr. 14/1999",
+   "title": "Decizia nr. 14/1999 privind traducerea în limba română a unor programe difuzate în alte limbi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17063",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17063",
+     "sha256": "cf5f64595c517debf002456d7f840e03a5551b8269f85ba22d96bceb66dc12ba"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-19-1999",
+   "path": "decizie/cna/1999/19",
+   "short": "Decizia cna nr. 19/1999",
+   "title": "Decizia nr. 19/1999 privind retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17430",
+   "versions": [
+    {
+     "from": "1999-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17430",
+     "sha256": "0adea6d804b6b5999cf24ce752f89b72185dc395f11891aa01e3ed2f322ba7cf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-23-1999",
+   "path": "decizie/cna/1999/23",
+   "short": "Decizia cna nr. 23/1999",
+   "title": "Decizia nr. 23/1999 privind traducerea în limba română a unor programe de televiziune difuzate în alte limbi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17217",
+   "versions": [
+    {
+     "from": "1999-03-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17217",
+     "sha256": "2b9a82e0c5a6c2f4b5cef2534ca12084dd8b91fd41308fb2fd9b4da160549ae6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-31-1999",
+   "path": "decizie/cna/1999/31",
+   "short": "Decizia cna nr. 31/1999",
+   "title": "Decizia nr. 31/1999 privind reducerea cu jumătate a duratei Licenței de emisie nr. C 1.333 din 8 mai 1997, acordată Societății Comerciale \"Mega Construct\" - S.R.L. Galați pentru localitatea Focșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17995",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17995",
+     "sha256": "3f609a9046b8600954d6d5e21bb04b81ef919c8284435fc92cdf2fef7adf1fdd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-32-1999",
+   "path": "decizie/cna/1999/32",
+   "short": "Decizia cna nr. 32/1999",
+   "title": "Decizia nr. 32/1999 privind retragerea Licenței de emisie nr. R 132 din 27 octombrie 1994, acordată Societății Comerciale \"Tehnosat\" - S.R.L. Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17996",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17996",
+     "sha256": "36a4bb442038ba4ead7532cbdca12bd277a529da50065b139db3ec2d5f561508"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-46-1999",
+   "path": "decizie/cna/1999/46",
+   "short": "Decizia cna nr. 46/1999",
+   "title": "Decizia nr. 46/1999 privind retragerea Licenței de emisie nr. TV 070 din 20 octombrie 1993, acordată Societății Comerciale \"Radio Televiziunea\" Oradea - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18248",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18248",
+     "sha256": "9523e79144a49fa22b3b623000f32e89ef552defaec45b3a49c7ebfad7fa3832"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-48-1999",
+   "path": "decizie/cna/1999/48",
+   "short": "Decizia cna nr. 48/1999",
+   "title": "Decizia nr. 48/1999 privind retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18250",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18250",
+     "sha256": "c2cd973e52a0ed92f185f355cd9ee2b7568ad021840c42227f83cd0414d19a01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-69-1999",
+   "path": "decizie/cna/1999/69",
+   "short": "Decizia cna nr. 69/1999",
+   "title": "Decizia nr. 69/1999 privind reducerea cu jumătate a duratei licenței de emisie nr. C 472 din 9 iunie 1994, acordată Societății Comerciale \"Cony-Sat\" - S.R.L. Galați pentru localitatea Brad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18538",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18538",
+     "sha256": "a46f3b4f325bb96194d1f357622f52089aec348da29aac1f077d419195ac188a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-70-1999",
+   "path": "decizie/cna/1999/70",
+   "short": "Decizia cna nr. 70/1999",
+   "title": "Decizia nr. 70/1999 privind reducerea cu jumătate a duratei licenței de emisie nr. C 427 din 26 aprilie 1994, acordată Societății Comerciale \"Cony-Sat\" - S.R.L. Galați pentru localitatea Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18539",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18539",
+     "sha256": "311214cd6c3908069faf4f319d4652e122f40306f53fcca26287254a650635f6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-89-1999",
+   "path": "decizie/cna/1999/89",
+   "short": "Decizia cna nr. 89/1999",
+   "title": "Decizia nr. 89/1999 privind modificarea pct. 2 din anexa nr. 2 la Decizia Consiliului Național al Audiovizualului nr. 44 din 22 aprilie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18702",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18702",
+     "sha256": "e4c71baee541d425d601a7c9aca3e1de4b2e35d7e0d4e3362c579c3d73e2f627"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-90-1999",
+   "path": "decizie/cna/1999/90",
+   "short": "Decizia cna nr. 90/1999",
+   "title": "Decizia nr. 90/1999 privind retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18736",
+   "versions": [
+    {
+     "from": "1999-07-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18736",
+     "sha256": "262df96a3cd40cea30c4153f8b909d677899584469d39f47d01e0c6a0313dd4e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-98-1999",
+   "path": "decizie/cna/1999/98",
+   "short": "Decizia cna nr. 98/1999",
+   "title": "Decizia nr. 98/1999 privind reprezentarea societăților la dezbaterile publice organizate de Consiliul Național al Audiovizualului pentru acordarea licențelor de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18748",
+   "versions": [
+    {
+     "from": "1999-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18748",
+     "sha256": "b83589ef774c8dcacf2bd37763bb010a837229f4d11c602f6c2a50f17ac267ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-1094-1999",
+   "path": "decizie/cnvm/1999/1094",
+   "short": "Decizia cnvm nr. 1094/1999",
+   "title": "Decizia nr. 1.094/1999 D 1.094 din 18 mai 1999 privind autorizarea Fondului Oamenilor de Afaceri, administrat de Societatea Comercială SAFI INVEST - S.A., ca fond închis de investiții cu capital de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19769",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19769",
+     "sha256": "35737956de75cd3d464b149ccb30f9029e8285e75becdaea25ce2b922ffaa7fa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-2440-1999",
+   "path": "decizie/cnvm/1999/2440",
+   "short": "Decizia cnvm nr. 2440/1999",
+   "title": "Decizia nr. 2.440/1999 privind autorizarea ca organism de autoreglementare a Asociației Cenzorilor Externi Independenți din România (A.C.E.I.R.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21820",
+   "versions": [
+    {
+     "from": "2000-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21820",
+     "sha256": "171baf91e6032c564076b91b06e9c2f6636b2e7f6f2b6e0dbfa9f2a5eda08a33"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-540-1999",
+   "path": "decizie/cnvm/1999/540",
+   "short": "Decizia cnvm nr. 540/1999",
+   "title": "Decizia nr. 540/1999 privind crearea și organizarea pieței valorilor mobiliare necotate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17247",
+   "versions": [
+    {
+     "from": "1999-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17247",
+     "sha256": "9db0c97c47a93a76db94fd0c591e0d1431874e6ad24c7d20845d0524900195b0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-103-1999",
+   "path": "decizie/concurenta/1999/103",
+   "short": "Decizia concurenta nr. 103/1999",
+   "title": "Decizia nr. 103/1999 privind vânzarea unui pachet de acțiuni din capitalul social al Societății Comerciale \"Ductil\" - S.A. Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19070",
+   "versions": [
+    {
+     "from": "1999-08-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19070",
+     "sha256": "78d1c3caf462f8ac703ff8d7ba775a37c67f426ce18366b200fc58e892b97940"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-106-1999",
+   "path": "decizie/concurenta/1999/106",
+   "short": "Decizia concurenta nr. 106/1999",
+   "title": "Decizia nr. 106/1999 privind concentrarea economică ca urmare a contractului de cesiune între părți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19079",
+   "versions": [
+    {
+     "from": "1999-08-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19079",
+     "sha256": "fe6341240245034fc14d93ddf0334f17c09d5977e888f18426dfcba4979dab47"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-107-1999",
+   "path": "decizie/concurenta/1999/107",
+   "short": "Decizia concurenta nr. 107/1999",
+   "title": "Decizia nr. 107/1999 privind concentrarea economică ca urmare a contractului de cesiune între părți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19080",
+   "versions": [
+    {
+     "from": "1999-08-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19080",
+     "sha256": "955d918455a8770816ade695e8be14a0a83056d6f002cf13f42f71042a93657a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-118-1999",
+   "path": "decizie/concurenta/1999/118",
+   "short": "Decizia concurenta nr. 118/1999",
+   "title": "Decizia nr. 118/1999 privind autorizarea concentrării economice în conformitate cu dispozițiile art. 51 alin. (1) lit. b) din Legea concurenței nr. 21/1996 și ale pct. 9.1 lit. b) din partea a III-a cap. II din Regulamentul privind autorizarea concentrărilor economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19089",
+   "versions": [
+    {
+     "from": "1999-08-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19089",
+     "sha256": "1ba702aba4eb4f604825c9173a2b94c4055539a8bc51f86bfd5e765189703398"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-125-1999",
+   "path": "decizie/concurenta/1999/125",
+   "short": "Decizia concurenta nr. 125/1999",
+   "title": "Decizia nr. 125/1999 privind autorizarea concentrării economice în conformitate cu dispozițiile art. 51 alin. (1) lit. b) din Legea concurenței nr. 21/1996 și ale pct. 9.1 lit. b) din partea a III-a cap. II din Regulamentul privind autorizarea concentrărilor economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19081",
+   "versions": [
+    {
+     "from": "1999-08-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19081",
+     "sha256": "c6ec7a969fb580392075118e80c2ad8b6870940662a2b09ac62ebc5c2d089392"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-247-1999",
+   "path": "decizie/concurenta/1999/247",
+   "short": "Decizia concurenta nr. 247/1999",
+   "title": "Decizia nr. 247/1999 privind încălcarea dispozițiilor art. 6 lit. a) și c) din Legea concurenței nr. 21/1996 de către Societatea Comercială \"Registrul Român al Acționarilor\" S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20848",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20848",
+     "sha256": "8ec3df13b30de5510c65f5e84dca8811e87315506e38186f231245eb86e133a3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-27-1999",
+   "path": "decizie/concurenta/1999/27",
+   "short": "Decizia concurenta nr. 27/1999",
+   "title": "Decizia nr. 27/1999 privind plata taxei de autorizare de către Societe Generale - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17208",
+   "versions": [
+    {
+     "from": "1999-03-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17208",
+     "sha256": "27b56619ccff711e59ad4f305f861882f8a364401529f990ca172daaff519080"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-394-1999",
+   "path": "decizie/concurenta/1999/394",
+   "short": "Decizia concurenta nr. 394/1999",
+   "title": "Decizia nr. 394/1999 privind autorizarea operațiunii de concentrare economică în conformitate cu dispozițiile art. 51 alin. (1) lit. b) din Legea concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20846",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20846",
+     "sha256": "16c7e81ff762535ef822585442b664225927f945ef95f678d5122dfa9e734ab0"
+    }
+   ]
+  }
+ ]
+}

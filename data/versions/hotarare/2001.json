@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2001",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-150-2001",
+   "path": "hotarare/bnr/2001/150",
+   "short": "Hotărârea bnr nr. 150/2001",
+   "title": "Hotărârea nr. 150/2001 privind retragerea autorizației de funcționare a Băncii Comerciale \"Unirea\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29433",
+   "versions": [
+    {
+     "from": "2001-07-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29433",
+     "sha256": "445f64d442e422384c0aa6ab92916f55052b4ac870d28c320c5cb6e19b88468d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "hotarare/2018",
+"acts": [
+{
+"slug": "hotarare-bnr-1-2018",
+"path": "hotarare/bnr/2018/1",
+"kind": "hotarare",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1/2018 privind radierea Societății MEDROM LEASING IFN - S.A. din Registrul general și, implicit, interzicerea desfășurării activității de creditare",
+"short": "Hotărârea bnr nr. 1/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-02",
+"latest": "2018-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203313",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-4-2018",
+"path": "hotarare/bnr/2018/4",
+"kind": "hotarare",
+"year": "2018",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 4/2018 privind publicarea încetării de drept a valabilității autorizației de funcționare a BĂNCII COOPERATISTE MIKO Miercurea-Ciuc",
+"short": "Hotărârea bnr nr. 4/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-17",
+"latest": "2018-09-17",
+"portal": "https://www.bnr.ro/21627-hotarare-4-2018",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-5-2018",
+"path": "hotarare/bnr/2018/5",
+"kind": "hotarare",
+"year": "2018",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 5/2018 privind radierea Societății OMEGA TOP IFN - S.A. din Registrul general și Registrul special și, implicit, interzicerea desfășurării activității de creditare",
+"short": "Hotărârea bnr nr. 5/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-03",
+"latest": "2018-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205452",
+"issuer": "bnr",
+"joint": []
+}
+]
+}

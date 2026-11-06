@@ -6336,6 +6336,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1247"
 },
 {
+"slug": "ue-regulament-1252-2009",
+"path": "ue/regulament/2009/1252",
+"kind": "ue",
+"year": "2009",
+"number": "1252",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) nr. 1252/2009 al Consiliului din 18 decembrie 2009 de încheiere a reexaminării în ceea ce privește un nou exportator a Regulamentului (CE) nr. 1338/2006 de instituire a unei taxe antidumping definitive la importurile de piei chamois originare din Republica Populară Chineză, de percepere retroactivă și de instituire a unei taxe antidumping cu privire la importurile care provin de la un exportator din această țară și de încetare a înregistrării acestor importuri",
+"short": "Regulamentul de punere în aplicare (UE) nr. 1252/2009",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2009-12-20",
+"latest": "2009-12-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1252"
+},
+{
 "slug": "ue-regulament-1254-2009",
 "path": "ue/regulament/2009/1254",
 "kind": "ue",
@@ -6510,6 +6527,23 @@
 "from": "2009-12-30",
 "latest": "2009-12-30",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1296"
+},
+{
+"slug": "ue-regulament-1297-2009",
+"path": "ue/regulament/2009/1297",
+"kind": "ue",
+"year": "2009",
+"number": "1297",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) nr. 1297/2009 al Consiliului din 22 decembrie 2009 de abrogare a taxei antidumping instituită de Regulamentul (CE) nr. 172/2008 la importurile de ferosiliciu originare din Fosta Republică Iugoslavă a Macedoniei",
+"short": "Regulamentul de punere în aplicare (UE) nr. 1297/2009",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2009-12-31",
+"latest": "2009-12-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R1297"
 }
 ]
 }

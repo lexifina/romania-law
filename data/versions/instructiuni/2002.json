@@ -136,6 +136,36 @@
      "sha256": "681d35fcc8d268cd2ad4c1582d9a4ec1f12ea019a53c600c00c7b62686995343"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-1-2002",
+   "path": "instructiuni/cnvm/2002/1",
+   "short": "Instrucțiuni cnvm nr. 1/2002",
+   "title": "Instrucțiunile nr. 1/2002 de modificare a Instrucțiunilor nr. 4/1997 privind condițiile pe care trebuie să le îndeplinească o persoană pentru a putea fi aleasă administrator al unei societăți de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36347",
+   "versions": [
+    {
+     "from": "2002-05-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36347",
+     "sha256": "d7cfee9b36b433f04d740b5aa9900fc96d9d11b3bb2f65c6e1e17cc689d5a3b5"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2002",
+   "path": "instructiuni/cnvm/2002/2",
+   "short": "Instrucțiuni cnvm nr. 2/2002",
+   "title": "Instrucțiunile nr. 2/2002 din 2002 privind aplicarea prevederilor art. 138 din Ordonanța de urgență a Guvernului nr. 28/2002 privind valorile mobiliare, serviciile de investiții financiare și piețele reglementate, aprobată și modificată prin Legea nr. 525/2002 , astfel cum a fost modificat prin Ordonanța de urgență a Guvernului nr. 165/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40357",
+   "versions": [
+    {
+     "from": "2002-12-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40357",
+     "sha256": "900f8d8310c09681f38377ddabcdc283fa80aadd394d109c127aa9bdd7c830f6"
+    }
+   ]
   }
  ]
 }

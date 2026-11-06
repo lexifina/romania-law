@@ -151,6 +151,66 @@
      "sha256": "4a5c569fdfa2c3ff86ef2cf3c104ca2cc9858398a9a4637d5ad391b650929a7b"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-32-1992",
+   "path": "norma/bnr/1992/32",
+   "short": "Norma bnr nr. 32/1992",
+   "title": "Norma nr. 32/1992 de control valutar asupra încasărilor din activitatea de export",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2212",
+   "versions": [
+    {
+     "from": "1992-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2212",
+     "sha256": "5fc596d7263520ef025df21bac9184a01577ccb7c0fe61d6aa203732198f263a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-400-1992",
+   "path": "norma/bnr/1992/400",
+   "short": "Norma bnr nr. 400/1992",
+   "title": "Norma nr. 400/1992 V/400/6 din 10 februarie 1992 privind organizarea și funcționarea ghișeelor de schimb valutar în cadrul societăților comerciale de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94099",
+   "versions": [
+    {
+     "from": "1992-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94099",
+     "sha256": "9b8ee3b664ab5e4ea050df670fa2d29e4ef68ea0c6dcde1057185489244f2bce"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-1992",
+   "path": "norma/bnr/1992/5",
+   "short": "Norma bnr nr. 5/1992",
+   "title": "Norma nr. 5/1992 privind împrumuturile mari acordate clienților de către societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2103",
+   "versions": [
+    {
+     "from": "1992-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2103",
+     "sha256": "b5329c00d28225ad3639a81891e1a02927b5e0b15f56f1df78aacf7e3f55ee4f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-1992",
+   "path": "norma/bnr/1992/6",
+   "short": "Norma bnr nr. 6/1992",
+   "title": "Norma nr. 6/1992 privind supravegherea pozițiilor valutare ale societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2108",
+   "versions": [
+    {
+     "from": "1992-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2108",
+     "sha256": "1559efe7bb2e2ad98699a485658192b2c0a6680f6d6833d0e6c72bbd1a889393"
+    }
+   ]
   }
  ]
 }

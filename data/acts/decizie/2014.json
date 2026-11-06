@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "decizie/2014",
+"acts": [
+{
+"slug": "decizie-ancom-64-2014",
+"path": "decizie/ancom/2014/64",
+"kind": "decizie",
+"year": "2014",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 64/2014 pentru modificarea Deciziei presedintelui Autoritatii Nationale pentru Administrare si Reglementare în Comunicații nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+"short": "Decizia ancom nr. 64/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-27",
+"latest": "2014-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154909",
+"issuer": "ancom",
+"joint": []
+},
+{
+"slug": "decizie-ancom-582-2014",
+"path": "decizie/ancom/2014/582",
+"kind": "decizie",
+"year": "2014",
+"number": "582",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 582/2014 privind modificarea Deciziei președintelui Autorității Naționale pentru Comunicații nr. 127/2009 privind raportarea unor date statistice de către furnizorii de servicii poștale",
+"short": "Decizia ancom nr. 582/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-04",
+"latest": "2014-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157113",
+"issuer": "ancom",
+"joint": []
+}
+]
+}

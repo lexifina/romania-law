@@ -1,0 +1,3531 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2004",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-10-2004",
+   "path": "hotarare/bnr/2004/10",
+   "short": "Hotărârea bnr nr. 10/2004",
+   "title": "Hotărârea nr. 10/2004 privind retragerea autorizației de funcționare a Cooperativei de credit \"Cetățuia\" Luncavița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51625",
+   "versions": [
+    {
+     "from": "2004-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51625",
+     "sha256": "9e844ad359bd997e57a06e8f10d7fba7bf0d4a5b3d9a364f075a2e86bfa56951"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-104-2004",
+   "path": "hotarare/bnr/2004/104",
+   "short": "Hotărârea bnr nr. 104/2004",
+   "title": "Hotărârea nr. 104/2004 privind retragerea autorizației de funcționare a Cooperativei de credit LISEANCA LISA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53052",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53052",
+     "sha256": "8d2e175f2a2d8e86af7664f514b3284200b21493154756af147ccb7d15f72d70"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-108-2004",
+   "path": "hotarare/bnr/2004/108",
+   "short": "Hotărârea bnr nr. 108/2004",
+   "title": "Hotărârea nr. 108/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CRĂIȚA CRIHALMA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53142",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53142",
+     "sha256": "c8f3a1e036e30e7b3952ee5fe268a0c821b8157bb620bb605a22fd672c2ec5e5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-109-2004",
+   "path": "hotarare/bnr/2004/109",
+   "short": "Hotărârea bnr nr. 109/2004",
+   "title": "Hotărârea nr. 109/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL ȘINCA VECHE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53143",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53143",
+     "sha256": "bb2e0b7c578d67b980465f9ebcca6e23e8172225818dc5bbeb7325edba9e11a9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-113-2004",
+   "path": "hotarare/bnr/2004/113",
+   "short": "Hotărârea bnr nr. 113/2004",
+   "title": "Hotărârea nr. 113/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ȚARA OLTULUI VOILA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53091",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53091",
+     "sha256": "a131e0f33a2284cb074eebda4f3d17f2b5729daf42740a668d2b51112a959a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-114-2004",
+   "path": "hotarare/bnr/2004/114",
+   "short": "Hotărârea bnr nr. 114/2004",
+   "title": "Hotărârea nr. 114/2004 privind retragerea autorizației de funcționare a Cooperativei de credit OLTUS FELDIOARA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53092",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53092",
+     "sha256": "a8b34a78bacb8b39b8df19d5b2f11d2b3fcba456f8f1bc659452cab65ec54e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-115-2004",
+   "path": "hotarare/bnr/2004/115",
+   "short": "Hotărârea bnr nr. 115/2004",
+   "title": "Hotărârea nr. 115/2004 privind retragerea autorizației de funcționare a Cooperativei de credit NEGOIU VICTORIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53225",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53225",
+     "sha256": "d1c84129978acf3b98f3be03def3995a279a513fa59724255a4302ee52109d87"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-117-2004",
+   "path": "hotarare/bnr/2004/117",
+   "short": "Hotărârea bnr nr. 117/2004",
+   "title": "Hotărârea nr. 117/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ȘERCĂIANA ȘERCAIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53123",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53123",
+     "sha256": "92e3a3a5ee19da148d293fee6dc65ea68802e3e2b948cbb0317b60247fcc5e03"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-118-2004",
+   "path": "hotarare/bnr/2004/118",
+   "short": "Hotărârea bnr nr. 118/2004",
+   "title": "Hotărârea nr. 118/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BUCEGI MOECIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53287",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53287",
+     "sha256": "f0a9b7ea524faf5f79b420fbd8cbd26f7d3af31028a7901bb9a34f85fa2e3bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-119-2004",
+   "path": "hotarare/bnr/2004/119",
+   "short": "Hotărârea bnr nr. 119/2004",
+   "title": "Hotărârea nr. 119/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA PÂRSCOV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53288",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53288",
+     "sha256": "2fb76c20f52eef4557d9e219f9ff907a16756f8e872885affe1ec8799b444c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-120-2004",
+   "path": "hotarare/bnr/2004/120",
+   "short": "Hotărârea bnr nr. 120/2004",
+   "title": "Hotărârea nr. 120/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VALEA BUZĂULUI PĂTÂRLAGELE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53056",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53056",
+     "sha256": "fe37e763c90a8a18c7a091c33f971d4c378adf829afa5388512d31e2bb93ce84"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-121-2004",
+   "path": "hotarare/bnr/2004/121",
+   "short": "Hotărârea bnr nr. 121/2004",
+   "title": "Hotărârea nr. 121/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VALEA SLĂNICULUI BECENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53057",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53057",
+     "sha256": "96612c79e227d185ffbed19252fe38387b8fbb184450570cf87f2f1b03f124de"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-122-2004",
+   "path": "hotarare/bnr/2004/122",
+   "short": "Hotărârea bnr nr. 122/2004",
+   "title": "Hotărârea nr. 122/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VULCANII NOROIOȘI BERCA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53058",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53058",
+     "sha256": "2f0ba8e3243853af5b5c34181e984ce4584534097f1601aa63487d6f3be299be"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-123-2004",
+   "path": "hotarare/bnr/2004/123",
+   "short": "Hotărârea bnr nr. 123/2004",
+   "title": "Hotărârea nr. 123/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CRIVĂȚ BOLDU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53059",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53059",
+     "sha256": "d857575e341c4c730bf1d75dcf3b39e57c6a39245a4e1f0ba5c294339e07c218"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-124-2004",
+   "path": "hotarare/bnr/2004/124",
+   "short": "Hotărârea bnr nr. 124/2004",
+   "title": "Hotărârea nr. 124/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SPERANȚA POGOANELE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53060",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53060",
+     "sha256": "93d4fccf6f4691bbc1ebfb279d0efe8f8d718b13ad513fa29b6801b9c0162d76"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-125-2004",
+   "path": "hotarare/bnr/2004/125",
+   "short": "Hotărârea bnr nr. 125/2004",
+   "title": "Hotărârea nr. 125/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PIETROASA PIETROASELE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53061",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53061",
+     "sha256": "45c3039563e052459c4bb02a74d334706a9e7f23478d546d3167c6b349fb0ffe"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-126-2004",
+   "path": "hotarare/bnr/2004/126",
+   "short": "Hotărârea bnr nr. 126/2004",
+   "title": "Hotărârea nr. 126/2004 privind retragerea autorizației de funcționare a Cooperativei de credit RÂMNIC RÂMNICU SĂRAT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53062",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53062",
+     "sha256": "29dbc1525f20d3bc0f3db2c06129cd560fc6a0c32775044e51774332b9b3e6f3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-127-2004",
+   "path": "hotarare/bnr/2004/127",
+   "short": "Hotărârea bnr nr. 127/2004",
+   "title": "Hotărârea nr. 127/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VALEA CĂLMĂȚUIULUI SMEENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53063",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53063",
+     "sha256": "3c2de729c03a93726af1619e8c2f950d763546e2a2bd84ad79ea9de4fdb2ff38"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-128-2004",
+   "path": "hotarare/bnr/2004/128",
+   "short": "Hotărârea bnr nr. 128/2004",
+   "title": "Hotărârea nr. 128/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA VADU PAȘII",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53064",
+   "versions": [
+    {
+     "from": "2004-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53064",
+     "sha256": "c1ba512c0821fcd7f089f2490fde0f3f64d76bda621b6e1d84b7c2bd48aea4f3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-129-2004",
+   "path": "hotarare/bnr/2004/129",
+   "short": "Hotărârea bnr nr. 129/2004",
+   "title": "Hotărârea nr. 129/2004 privind retragerea autorizației de funcționare a Cooperativei de credit I. GH. DUCA FUNDULEA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53116",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53116",
+     "sha256": "8dd8379ae98750c69ce6a975b6be69761916ebfd23c966ac431135e41b8b49b7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-130-2004",
+   "path": "hotarare/bnr/2004/130",
+   "short": "Hotărârea bnr nr. 130/2004",
+   "title": "Hotărârea nr. 130/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ARMONIA DRAGALINA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53117",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53117",
+     "sha256": "9820fa0f4975a518e140af410d238c0cae5202530802abf41acce98b3cb4a681"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-131-2004",
+   "path": "hotarare/bnr/2004/131",
+   "short": "Hotărârea bnr nr. 131/2004",
+   "title": "Hotărârea nr. 131/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SPICUL MODELU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53118",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53118",
+     "sha256": "1629550566b87df1a6ae0738ddc681af54c08667640d5552270174f47850a2ed"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-132-2004",
+   "path": "hotarare/bnr/2004/132",
+   "short": "Hotărârea bnr nr. 132/2004",
+   "title": "Hotărârea nr. 132/2004 privind retragerea autorizației de funcționare a Cooperativei de credit IZVORUL NOU MĂNĂSTIREA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53119",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53119",
+     "sha256": "cc0058d0fa84e27fc325547f1c877b3dfbf73dc0ecbdbdab619f7f373a1a66c3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-133-2004",
+   "path": "hotarare/bnr/2004/133",
+   "short": "Hotărârea bnr nr. 133/2004",
+   "title": "Hotărârea nr. 133/2004 privind retragerea autorizației de funcționare a Cooperativei de credit STEAUA GĂLBINAȘI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53124",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53124",
+     "sha256": "d9ac6ef787ea5093d646c29ad167258ad5b75816e64f1f7c7ad9ada7175cf9dd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-145-2004",
+   "path": "hotarare/bnr/2004/145",
+   "short": "Hotărârea bnr nr. 145/2004",
+   "title": "Hotărârea nr. 145/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DORINȚA BOBÂLNA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53209",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53209",
+     "sha256": "4c40ae6f8a33200238a19b03290f9333b9dbed80d1f0d109a8e1c8414d250201"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-146-2004",
+   "path": "hotarare/bnr/2004/146",
+   "short": "Hotărârea bnr nr. 146/2004",
+   "title": "Hotărârea nr. 146/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CENANA CEANU MARE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53210",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53210",
+     "sha256": "b708074d47abfa3c768b2aba09a14f18c94a12b48fec1c4808f6895d214e3d06"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-147-2004",
+   "path": "hotarare/bnr/2004/147",
+   "short": "Hotărârea bnr nr. 147/2004",
+   "title": "Hotărârea nr. 147/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VICTORIA CÂMPIA TURZII",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53211",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53211",
+     "sha256": "59fca962262314bce5948c7f9f2707a76c365462d9a37057c533ff377d45c4a0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-148-2004",
+   "path": "hotarare/bnr/2004/148",
+   "short": "Hotărârea bnr nr. 148/2004",
+   "title": "Hotărârea nr. 148/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VICTORIA DEJ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53212",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53212",
+     "sha256": "b26a90a696a2bd79e28568a3126c4959aa63cc4798621b1a45aa6a69bbb587bb"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-150-2004",
+   "path": "hotarare/bnr/2004/150",
+   "short": "Hotărârea bnr nr. 150/2004",
+   "title": "Hotărârea nr. 150/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ICLODEANA ICLOD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53555",
+   "versions": [
+    {
+     "from": "2004-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53555",
+     "sha256": "775ae78ee01188525ff1707f88b92195858d1abdcad62f360fd3e7287b372287"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-151-2004",
+   "path": "hotarare/bnr/2004/151",
+   "short": "Hotărârea bnr nr. 151/2004",
+   "title": "Hotărârea nr. 151/2004 privind retragerea autorizației de funcționare a Cooperativei de credit OGORUL MOCIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53556",
+   "versions": [
+    {
+     "from": "2004-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53556",
+     "sha256": "a9d2ec1b113779cefe0e1eecdc2421d69b3de429ea9ff2f28e2e3c4ebdb09dff"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-153-2004",
+   "path": "hotarare/bnr/2004/153",
+   "short": "Hotărârea bnr nr. 153/2004",
+   "title": "Hotărârea nr. 153/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA ȚAGA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53348",
+   "versions": [
+    {
+     "from": "2004-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53348",
+     "sha256": "17ebf35871078700dc7a86f65c328cd727d11622f1f08f76a72cdac065da0126"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-155-2004",
+   "path": "hotarare/bnr/2004/155",
+   "short": "Hotărârea bnr nr. 155/2004",
+   "title": "Hotărârea nr. 155/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ARIEȘUL VIIȘOARA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53350",
+   "versions": [
+    {
+     "from": "2004-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53350",
+     "sha256": "a00ac333cb5b89eaba26a6a09d435df71bf08fc81a33d08cf7b43c4eb3802657"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-156-2004",
+   "path": "hotarare/bnr/2004/156",
+   "short": "Hotărârea bnr nr. 156/2004",
+   "title": "Hotărârea nr. 156/2004 privind retragerea autorizației de funcționare a Cooperativei de credit FURNICA BĂNEASA OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53351",
+   "versions": [
+    {
+     "from": "2004-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53351",
+     "sha256": "e30299a633fc78891809b1be1fdcb051fea4ae603a252216e76d15826f6cc54e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-162-2004",
+   "path": "hotarare/bnr/2004/162",
+   "short": "Hotărârea bnr nr. 162/2004",
+   "title": "Hotărârea nr. 162/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VOINȚA NEGRU VODĂ OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53425",
+   "versions": [
+    {
+     "from": "2004-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53425",
+     "sha256": "c54ed17cb67991da5eff1e6205d2b51730478f89546cc1041329ece91e480694"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-163-2004",
+   "path": "hotarare/bnr/2004/163",
+   "short": "Hotărârea bnr nr. 163/2004",
+   "title": "Hotărârea nr. 163/2004 privind retragerea autorizației de funcționare a Cooperativei de credit NEMIRA BREȚCU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53426",
+   "versions": [
+    {
+     "from": "2004-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53426",
+     "sha256": "c106cad05a931e7a256fed958994eb473393c42042606f9ce463b45f57f9f079"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-164-2004",
+   "path": "hotarare/bnr/2004/164",
+   "short": "Hotărârea bnr nr. 164/2004",
+   "title": "Hotărârea nr. 164/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PROFIT COVASNA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53427",
+   "versions": [
+    {
+     "from": "2004-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53427",
+     "sha256": "cf37a66f3c5a122edf5b75b3d7bf533471f4f19007b66ab55fd3e0e2b402dbea"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-165-2004",
+   "path": "hotarare/bnr/2004/165",
+   "short": "Hotărârea bnr nr. 165/2004",
+   "title": "Hotărârea nr. 165/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PILISKE OZUN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53557",
+   "versions": [
+    {
+     "from": "2004-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53557",
+     "sha256": "6c2cb82650c831744edbf669b6d3347fdce5056e3f845705c666d77b145b4cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-176-2004",
+   "path": "hotarare/bnr/2004/176",
+   "short": "Hotărârea bnr nr. 176/2004",
+   "title": "Hotărârea nr. 176/2004 privind retragerea autorizației de funcționare a Cooperativei de credit 30 DECEMBRIE CARAULA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53533",
+   "versions": [
+    {
+     "from": "2004-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53533",
+     "sha256": "4d4f2460ab708685276cb93398df6cb4f2b708850f6f720db8624672537fd766"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-179-2004",
+   "path": "hotarare/bnr/2004/179",
+   "short": "Hotărârea bnr nr. 179/2004",
+   "title": "Hotărârea nr. 179/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PROGRESUL CETATE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53536",
+   "versions": [
+    {
+     "from": "2004-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53536",
+     "sha256": "553be8044b70707c55e01046fe70827f6aad0e2a59078652f48cfb19cf5ec906"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-184-2004",
+   "path": "hotarare/bnr/2004/184",
+   "short": "Hotărârea bnr nr. 184/2004",
+   "title": "Hotărârea nr. 184/2004 privind retragerea autorizației de funcționare a Cooperativei de credit AMARADIA MELINEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53612",
+   "versions": [
+    {
+     "from": "2004-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53612",
+     "sha256": "f3d0715359d0dd793bd7a88fa96814fe37dbad6d501c8b294143f6a87c80e63b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-187-2004",
+   "path": "hotarare/bnr/2004/187",
+   "short": "Hotărârea bnr nr. 187/2004",
+   "title": "Hotărârea nr. 187/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CERBUL PIELEȘTI - DRĂGOTEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53504",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53504",
+     "sha256": "71b9ad5a2dd90433d03034f4429151bc4ce3817942f83767f2b855d4f1763635"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-188-2004",
+   "path": "hotarare/bnr/2004/188",
+   "short": "Hotărârea bnr nr. 188/2004",
+   "title": "Hotărârea nr. 188/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BUJORUL PLENIȚA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53590",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53590",
+     "sha256": "ffdf77ea3918bebf84c2627a0b616e0ee80acd00abe2f918b89be6190f9ef885"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-189-2004",
+   "path": "hotarare/bnr/2004/189",
+   "short": "Hotărârea bnr nr. 189/2004",
+   "title": "Hotărârea nr. 189/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MISINA POIANA MARE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53452",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53452",
+     "sha256": "f280156221893ef401173bee44f8f532b61aba18f71f2139eb273aff1bf19f3f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-191-2004",
+   "path": "hotarare/bnr/2004/191",
+   "short": "Hotărârea bnr nr. 191/2004",
+   "title": "Hotărârea nr. 191/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VICTORIA TEASC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53455",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53455",
+     "sha256": "8035923ba159ed24401b7694bd08d997ed81774d48836e04559e177ee57c51a8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-192-2004",
+   "path": "hotarare/bnr/2004/192",
+   "short": "Hotărârea bnr nr. 192/2004",
+   "title": "Hotărârea nr. 192/2004 privind retragerea autorizației de funcționare a Cooperativei de credit IZBÂNDA INDEPENDENȚA OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53717",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53717",
+     "sha256": "caeb68e2cd1db25567d159cac572f5b29c330f9c913796e2ce2a197685737974"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-195-2004",
+   "path": "hotarare/bnr/2004/195",
+   "short": "Hotărârea bnr nr. 195/2004",
+   "title": "Hotărârea nr. 195/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SPICUL PECHEA OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53722",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53722",
+     "sha256": "88a0a7ea0b05e08c197c17d911f3c57a11e096e4ae04e5f3200a93b9f8a6c2a6"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-196-2004",
+   "path": "hotarare/bnr/2004/196",
+   "short": "Hotărârea bnr nr. 196/2004",
+   "title": "Hotărârea nr. 196/2004 privind retragerea autorizației de funcționare a Cooperativei de credit AJUTORUL SĂTEANULUI PISCU OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53812",
+   "versions": [
+    {
+     "from": "2004-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53812",
+     "sha256": "66c8731699253da32ecf90b5b20c2c6fe2ef8249786710b2fe926dca2655c4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-198-2004",
+   "path": "hotarare/bnr/2004/198",
+   "short": "Hotărârea bnr nr. 198/2004",
+   "title": "Hotărârea nr. 198/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ALBINA TÂRGU BUJOR OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53859",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53859",
+     "sha256": "f25064515e0b49a7e4153406e3ed8df50531c79a111f6327def0f5304fa46261"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-199-2004",
+   "path": "hotarare/bnr/2004/199",
+   "short": "Hotărârea bnr nr. 199/2004",
+   "title": "Hotărârea nr. 199/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PRUTUL MĂSTĂCANI OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53591",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53591",
+     "sha256": "b274cf30e42a20c50a85e378415e58d25610d126da772475750668dddb8eb61b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-2-2004",
+   "path": "hotarare/bnr/2004/2",
+   "short": "Hotărârea bnr nr. 2/2004",
+   "title": "Hotărârea nr. 2/2004 privind prelungirea activității de administrare specială la Cooperativa de credit \"Cetățuia\" Luncavița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49539",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49539",
+     "sha256": "37d38f89f5c34b812c42a3f159758fd23f5fb40be2d7122e8108a4084ded648c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-206-2004",
+   "path": "hotarare/bnr/2004/206",
+   "short": "Hotărârea bnr nr. 206/2004",
+   "title": "Hotărârea nr. 206/2004 privind retragerea autorizației de funcționare a Cooperativei de credit NEAJLOV BUCȘANI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53674",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53674",
+     "sha256": "ce292aae03f75d120180d1a1d8a468c4914b1f7ac1a497aa1ad7cef321843346"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-207-2004",
+   "path": "hotarare/bnr/2004/207",
+   "short": "Hotărârea bnr nr. 207/2004",
+   "title": "Hotărârea nr. 207/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFLORIREA FLORESTI-STOENESTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53675",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53675",
+     "sha256": "aa193cf521ebfaa1298f64632111c46d7af2089866ddbf0ed7fb54de1a352439"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-208-2004",
+   "path": "hotarare/bnr/2004/208",
+   "short": "Hotărârea bnr nr. 208/2004",
+   "title": "Hotărârea nr. 208/2004 privind retragerea autorizației de funcționare a Cooperativei de credit GOSPODARUL MIHAILESTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53676",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53676",
+     "sha256": "ee2f53c7076dc06149349d97e635c98902438b71e828e5b517b4356935278e69"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-209-2004",
+   "path": "hotarare/bnr/2004/209",
+   "short": "Hotărârea bnr nr. 209/2004",
+   "title": "Hotărârea nr. 209/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BIRUINȚA PUTINEIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53680",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53680",
+     "sha256": "aaafd1df378b1c259a64220c7c28b0f8a68b408e8be2b57882733eaa8642f316"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-210-2004",
+   "path": "hotarare/bnr/2004/210",
+   "short": "Hotărârea bnr nr. 210/2004",
+   "title": "Hotărârea nr. 210/2004 privind retragerea autorizației de funcționare a Cooperativei de credit COLSACRED BUMBEȘTI JIU OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53694",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53694",
+     "sha256": "58639035873513fcca9331aa9612419074c80718bf698258e33006d08b6dcda4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-211-2004",
+   "path": "hotarare/bnr/2004/211",
+   "short": "Hotărârea bnr nr. 211/2004",
+   "title": "Hotărârea nr. 211/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CAMARAZII BUSTUCHIN OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53547",
+   "versions": [
+    {
+     "from": "2004-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53547",
+     "sha256": "e08552c920ecbd6264072b03c73eaf24d267774c732e242a85e7530608fb7314"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-213-2004",
+   "path": "hotarare/bnr/2004/213",
+   "short": "Hotărârea bnr nr. 213/2004",
+   "title": "Hotărârea nr. 213/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ROVFAR ROVINARI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53861",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53861",
+     "sha256": "dacf69a7b7698a936ba803f16bb81ae6b74d6bdf9fa6750d0bb754dfeee9acb7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-214-2004",
+   "path": "hotarare/bnr/2004/214",
+   "short": "Hotărârea bnr nr. 214/2004",
+   "title": "Hotărârea nr. 214/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PARÂNGUL BENGEȘTI OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53862",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53862",
+     "sha256": "1a4b68d7de21c984a66458ec906fe43fbb02a41a8406210aea22ce2d8925041b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-218-2004",
+   "path": "hotarare/bnr/2004/218",
+   "short": "Hotărârea bnr nr. 218/2004",
+   "title": "Hotărârea nr. 218/2004 privind retragerea autorizației de funcționare a Cooperativei de credit TÂRNAVA CRISTURU SECUIESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53569",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53569",
+     "sha256": "504f554071226c335ecf2326142501724bdd895bd1bad22ddfeacd8590486a24"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-219-2004",
+   "path": "hotarare/bnr/2004/219",
+   "short": "Hotărârea bnr nr. 219/2004",
+   "title": "Hotărârea nr. 219/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MUREȘ REMETEA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53570",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53570",
+     "sha256": "0c97a9e89b23224fc8349abe2825796e689aef8ee2208f4cf43e23dadb237e22"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-220-2004",
+   "path": "hotarare/bnr/2004/220",
+   "short": "Hotărârea bnr nr. 220/2004",
+   "title": "Hotărârea nr. 220/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PETANA TULGHES",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53927",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53927",
+     "sha256": "973259aa05b62ff94f11f0c6d01b195041f905be47f47370699c7d1e1b42ec6a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-221-2004",
+   "path": "hotarare/bnr/2004/221",
+   "short": "Hotărârea bnr nr. 221/2004",
+   "title": "Hotărârea nr. 221/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL DITRĂU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53928",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53928",
+     "sha256": "3aa28094d33462c94de8452e910124ecc4bc3fe6cd12181482ce84d4b746cefd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-222-2004",
+   "path": "hotarare/bnr/2004/222",
+   "short": "Hotărârea bnr nr. 222/2004",
+   "title": "Hotărârea nr. 222/2004 privind retragerea autorizației de funcționare a Cooperativei de credit OLT CÂRȚA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53929",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53929",
+     "sha256": "9f55613c280c4ca740cdabf72650e1be6a7db86f2ed681a63cfa69b683093a30"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-232-2004",
+   "path": "hotarare/bnr/2004/232",
+   "short": "Hotărârea bnr nr. 232/2004",
+   "title": "Hotărârea nr. 232/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL CĂZĂNEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53765",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53765",
+     "sha256": "de48536badb189c19ec7c775ba3fc3ca58026af26c99f60b0501af4d7a4c0325"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-233-2004",
+   "path": "hotarare/bnr/2004/233",
+   "short": "Hotărârea bnr nr. 233/2004",
+   "title": "Hotărârea nr. 233/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PROGRESUL GÂRBOVI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53614",
+   "versions": [
+    {
+     "from": "2004-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53614",
+     "sha256": "f5be368077d9f4a776f335c39bc703cd7cee265afe7a07676e688af2a6f28475"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-234-2004",
+   "path": "hotarare/bnr/2004/234",
+   "short": "Hotărârea bnr nr. 234/2004",
+   "title": "Hotărârea nr. 234/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SPERANȚA MOVILIȚA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53615",
+   "versions": [
+    {
+     "from": "2004-07-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53615",
+     "sha256": "340bdcc9e6485981ba1d677e03a88cb217b2920871319e81ce78c1cd4a8b5fb9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-241-2004",
+   "path": "hotarare/bnr/2004/241",
+   "short": "Hotărârea bnr nr. 241/2004",
+   "title": "Hotărârea nr. 241/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PROGRESUL HÂRLĂU OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53942",
+   "versions": [
+    {
+     "from": "2004-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53942",
+     "sha256": "ec277cdbd90dc8b58d78da983f23aa4de4e6bbc11a3599c01061d682d4934aae"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-243-2004",
+   "path": "hotarare/bnr/2004/243",
+   "short": "Hotărârea bnr nr. 243/2004",
+   "title": "Hotărârea nr. 243/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNAINTE LEȚCANI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53691",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53691",
+     "sha256": "1fddc877e9e5a7bab189b5ed4b393d113702a51a64dfb0351578e019f9aa23e9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-245-2004",
+   "path": "hotarare/bnr/2004/245",
+   "short": "Hotărârea bnr nr. 245/2004",
+   "title": "Hotărârea nr. 245/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VOINTA OTELENI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53693",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53693",
+     "sha256": "7c446795e20d834715a1dfd6497a5f4795324bcbd28385ceeae734a5ba30346f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-246-2004",
+   "path": "hotarare/bnr/2004/246",
+   "short": "Hotărârea bnr nr. 246/2004",
+   "title": "Hotărârea nr. 246/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ALIANȚA PODU ILOAIEI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53698",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53698",
+     "sha256": "a3b5661c9082f5c52d31195f599465ff8ff5fbee0f104e39bb173d5ce3dcca2b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-249-2004",
+   "path": "hotarare/bnr/2004/249",
+   "short": "Hotărârea bnr nr. 249/2004",
+   "title": "Hotărârea nr. 249/2004 privind retragerea autorizației de funcționare a Cooperativei de credit 24 IANUARIE RUGINOASA OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53955",
+   "versions": [
+    {
+     "from": "2004-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53955",
+     "sha256": "179518b8a16a5d55285aeb1376b5ab4e1360ede1bc18948daf75bb6680c48064"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-258-2004",
+   "path": "hotarare/bnr/2004/258",
+   "short": "Hotărârea bnr nr. 258/2004",
+   "title": "Hotărârea nr. 258/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VLĂSIA BUFTEA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53986",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53986",
+     "sha256": "5bf4ee4a81f4628a28de72477330cb3ddc8e5454d264524b955560081d2846dc"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-259-2004",
+   "path": "hotarare/bnr/2004/259",
+   "short": "Hotărârea bnr nr. 259/2004",
+   "title": "Hotărârea nr. 259/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA SNAGOV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54029",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54029",
+     "sha256": "69034d46d48d13b0f9a7b19e1df6f24a6129cba2e5ad9058cf8fc6cc80a990b9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-26-2004",
+   "path": "hotarare/bnr/2004/26",
+   "short": "Hotărârea bnr nr. 26/2004",
+   "title": "Hotărârea nr. 26/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CETATEA CETATEA DE BALTĂ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52690",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52690",
+     "sha256": "dd32dc783e3d6e26a8e8291418c9c5e35a14f80302bfb473632b1142738e2c0f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-261-2004",
+   "path": "hotarare/bnr/2004/261",
+   "short": "Hotărârea bnr nr. 261/2004",
+   "title": "Hotărârea nr. 261/2004 privind retragerea autorizației de funcționare a Cooperativei de credit FRUMUȘEAUA BISTRA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54031",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54031",
+     "sha256": "18a7c3bd8e336b7d135f608ac0cd940e1a2fa7656bb5a293d39670d854ba265c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-262-2004",
+   "path": "hotarare/bnr/2004/262",
+   "short": "Hotărârea bnr nr. 262/2004",
+   "title": "Hotărârea nr. 262/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL COPALNIC-MĂNĂȘTUR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54032",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54032",
+     "sha256": "79eacd7fbfb9c35d17d2fb49b6d8f67d05f652757db557dfd4e35efdf069bf0d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-263-2004",
+   "path": "hotarare/bnr/2004/263",
+   "short": "Hotărârea bnr nr. 263/2004",
+   "title": "Hotărârea nr. 263/2004 privind retragerea autorizației de funcționare a Cooperativei de credit GUTINUL OCNA SUGATAG",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53920",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53920",
+     "sha256": "8450e8217a40eb0e108560eabd900ab2113590c014c5f7a58766b5e192c95c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-264-2004",
+   "path": "hotarare/bnr/2004/264",
+   "short": "Hotărârea bnr nr. 264/2004",
+   "title": "Hotărârea nr. 264/2004 privind retragerea autorizației de funcționare a Cooperativei de credit RONIȘOARA - RONA DE JOS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53921",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53921",
+     "sha256": "e642916ff78ecad373292d57f1ab214034d46eb025273b11fb4032ba90b11b6d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-265-2004",
+   "path": "hotarare/bnr/2004/265",
+   "short": "Hotărârea bnr nr. 265/2004",
+   "title": "Hotărârea nr. 265/2004 privind retragerea autorizației de funcționare a Cooperativei de credit IZA - ROZAVLEA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53922",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53922",
+     "sha256": "f23413acf972f97a5a64e3312a28b8cc9041376be3959686c580bc64f35ce2d2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-266-2004",
+   "path": "hotarare/bnr/2004/266",
+   "short": "Hotărârea bnr nr. 266/2004",
+   "title": "Hotărârea nr. 266/2004 privind retragerea autorizației de funcționare a Cooperativei de credit LIVADA SĂPÂNȚA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53923",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53923",
+     "sha256": "88d7b3c305ece0ed77cf99f8a5490bd6ef3c9d596dae3d1717b2df2e536e3dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-267-2004",
+   "path": "hotarare/bnr/2004/267",
+   "short": "Hotărârea bnr nr. 267/2004",
+   "title": "Hotărârea nr. 267/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA SEINI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53949",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53949",
+     "sha256": "9ce16acce3add04c872697e23aea144a31ef631c4e376791b09d939708cf0b35"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-268-2004",
+   "path": "hotarare/bnr/2004/268",
+   "short": "Hotărârea bnr nr. 268/2004",
+   "title": "Hotărârea nr. 268/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BREAZA - SUCIU DE SUS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53950",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53950",
+     "sha256": "47430317c856514fbef1cfdf557058dbbfe46b9dee22522243cea3c88614eb96"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-269-2004",
+   "path": "hotarare/bnr/2004/269",
+   "short": "Hotărârea bnr nr. 269/2004",
+   "title": "Hotărârea nr. 269/2004 privind retragerea autorizației de funcționare a Cooperativei de credit FURNICA ȘOMCUTA MARE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54165",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54165",
+     "sha256": "058595bb64baaac8ffc49297af76587c5873d69a732f7a0200cc8bf3beae8ab0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-270-2004",
+   "path": "hotarare/bnr/2004/270",
+   "short": "Hotărârea bnr nr. 270/2004",
+   "title": "Hotărârea nr. 270/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ȚIBLEȘUL TÂRGU LĂPUȘ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54166",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54166",
+     "sha256": "56f76a8fcaf099dd2c5b2dc7de335cecf0d9dd7515a8959ef170ab1bd47fb594"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-271-2004",
+   "path": "hotarare/bnr/2004/271",
+   "short": "Hotărârea bnr nr. 271/2004",
+   "title": "Hotărârea nr. 271/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SOMEȘ-CODREANA ULMENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53987",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53987",
+     "sha256": "e62815a209518e72de4364e6a34e827b5c60ca302e904a05ea6d50c0a1c9030e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-272-2004",
+   "path": "hotarare/bnr/2004/272",
+   "short": "Hotărârea bnr nr. 272/2004",
+   "title": "Hotărârea nr. 272/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VISEU-BORSA VISEU DE SUS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53951",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53951",
+     "sha256": "eafb50b456d649ad3162a85cdbb3172726587661aa027ec6953aea6de9ce5240"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-273-2004",
+   "path": "hotarare/bnr/2004/273",
+   "short": "Hotărârea bnr nr. 273/2004",
+   "title": "Hotărârea nr. 273/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA BĂLĂCIȚA OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53952",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53952",
+     "sha256": "6c165737badee6dbce9d661d5849929503522314777f4380c5179044b88a9950"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-274-2004",
+   "path": "hotarare/bnr/2004/274",
+   "short": "Hotărârea bnr nr. 274/2004",
+   "title": "Hotărârea nr. 274/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL CUJMIR OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53953",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53953",
+     "sha256": "04e5a47890ce84cc8a316a72b4e8bd8cfedf8e329690c3994cfc0b8477df557f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-275-2004",
+   "path": "hotarare/bnr/2004/275",
+   "short": "Hotărârea bnr nr. 275/2004",
+   "title": "Hotărârea nr. 275/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DUNĂREA ORȘOVA OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53797",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53797",
+     "sha256": "9e9b4e47567da978e9be1a4cd573c7a35eae864dbeee489efdfddfcd86f5625d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-276-2004",
+   "path": "hotarare/bnr/2004/276",
+   "short": "Hotărârea bnr nr. 276/2004",
+   "title": "Hotărârea nr. 276/2004 privind retragerea autorizației de funcționare a Cooperativei de credit STÂNCA STREHAIA OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53798",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53798",
+     "sha256": "64465e14af1f02b8ef50047a88eafd9cfe740ed26a59715d77a66e2b4624c3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-277-2004",
+   "path": "hotarare/bnr/2004/277",
+   "short": "Hotărârea bnr nr. 277/2004",
+   "title": "Hotărârea nr. 277/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ALBINA VÂNJU MARE OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53799",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53799",
+     "sha256": "a80f96c6dd5b84395f8bb44fc27a257ddb84e66143bdb9e90f2e7e85dd631c07"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-278-2004",
+   "path": "hotarare/bnr/2004/278",
+   "short": "Hotărârea bnr nr. 278/2004",
+   "title": "Hotărârea nr. 278/2004 privind retragerea autorizației de funcționare a Cooperativei de credit COSUSTEA BROȘTENI OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53800",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53800",
+     "sha256": "c071466bfd475f9584566574d0c35a474ff13a27e7ec23e5e403653e86674623"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-279-2004",
+   "path": "hotarare/bnr/2004/279",
+   "short": "Hotărârea bnr nr. 279/2004",
+   "title": "Hotărârea nr. 279/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BLAHNITA PĂTULELE OC3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53801",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53801",
+     "sha256": "f2b7624eb93d3c7dceceed559c9da86f11263e05e2037e3248a9da19ac62c948"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-280-2004",
+   "path": "hotarare/bnr/2004/280",
+   "short": "Hotărârea bnr nr. 280/2004",
+   "title": "Hotărârea nr. 280/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MUREȘUL SUPERIOR DEDA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53789",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53789",
+     "sha256": "845545bb884e03767627a3970e1d65ad967df094a52801eaf3a0eea9eb1166f0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-281-2004",
+   "path": "hotarare/bnr/2004/281",
+   "short": "Hotărârea bnr nr. 281/2004",
+   "title": "Hotărârea nr. 281/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DORIANA HODAC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53790",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53790",
+     "sha256": "a83fb67d048bb7f86f7bdbeb69d794e873a248f5a301b2d6a05a1cc8e8d62698"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-282-2004",
+   "path": "hotarare/bnr/2004/282",
+   "short": "Hotărârea bnr nr. 282/2004",
+   "title": "Hotărârea nr. 282/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PRIETENIA REGHIN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53791",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53791",
+     "sha256": "c47791cea75b725054422c8bc7d1053af7897378e5d5663df55bf31ca330ab50"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-286-2004",
+   "path": "hotarare/bnr/2004/286",
+   "short": "Hotărârea bnr nr. 286/2004",
+   "title": "Hotărârea nr. 286/2004 privind retragerea autorizației de funcționare a Cooperativei de credit FRĂȚIA RÂCIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53788",
+   "versions": [
+    {
+     "from": "2004-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53788",
+     "sha256": "f413d1940302b895fb224197aababb43c52e7b8e755d01d7d48468ba54d9b78c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-290-2004",
+   "path": "hotarare/bnr/2004/290",
+   "short": "Hotărârea bnr nr. 290/2004",
+   "title": "Hotărârea nr. 290/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CREDITUL SOVATA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54075",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54075",
+     "sha256": "b7f729a4b315463deb971c128e9ed8f501ca13cc937206154f461be18a53483e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-291-2004",
+   "path": "hotarare/bnr/2004/291",
+   "short": "Hotărârea bnr nr. 291/2004",
+   "title": "Hotărârea nr. 291/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BATOSANA BATOȘ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54076",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54076",
+     "sha256": "65d316ef4abee84da8aa0f3eaf5b9edecd0c4503ac71c3c8108045a567c18bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-299-2004",
+   "path": "hotarare/bnr/2004/299",
+   "short": "Hotărârea bnr nr. 299/2004",
+   "title": "Hotărârea nr. 299/2004 privind retragerea autorizației de funcționare a Cooperativei de credit OLTUL DRĂGĂNEȘTI-OLT OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54098",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54098",
+     "sha256": "6acd3f5b2dbe9f2109382e131f1bb85b1a23ea6cd50cf9bea9ba0d3a8325a329"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-3-2004",
+   "path": "hotarare/bnr/2004/3",
+   "short": "Hotărârea bnr nr. 3/2004",
+   "title": "Hotărârea nr. 3/2004 privind retragerea autorizației de funcționare a Cooperativei de credit \"Devotații\" Mătăsari OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50857",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50857",
+     "sha256": "2f3e6b99d9d842ba659923326af2062e8a5873a65ab8dbcafdada13be97fc211"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-303-2004",
+   "path": "hotarare/bnr/2004/303",
+   "short": "Hotărârea bnr nr. 303/2004",
+   "title": "Hotărârea nr. 303/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA CUNGREA OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54287",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54287",
+     "sha256": "c1a530008bdd245fa9f2b70c7c29a698463f16780da5eb58a5c557cc70c44d3d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-304-2004",
+   "path": "hotarare/bnr/2004/304",
+   "short": "Hotărârea bnr nr. 304/2004",
+   "title": "Hotărârea nr. 304/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL CURTIȘOARA OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54288",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54288",
+     "sha256": "fe86a2de0b539de522e6a6aa2cc42782996bfe760ca6f430592bc40fe5ce176c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-305-2004",
+   "path": "hotarare/bnr/2004/305",
+   "short": "Hotărârea bnr nr. 305/2004",
+   "title": "Hotărârea nr. 305/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SF. NICOLAE DOBROTEASCA OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54099",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54099",
+     "sha256": "97ad7c201c75af4ea776e039f3cd70f34c9060fd257ccd9e0164cb0608ea846c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-306-2004",
+   "path": "hotarare/bnr/2004/306",
+   "short": "Hotărârea bnr nr. 306/2004",
+   "title": "Hotărârea nr. 306/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VICTORIA DOBRUN OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54100",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54100",
+     "sha256": "67f3386a7d2c26c1d4f2a29e1a3dde80c9eea1081c73e6633ac6f39de70875b0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-308-2004",
+   "path": "hotarare/bnr/2004/308",
+   "short": "Hotărârea bnr nr. 308/2004",
+   "title": "Hotărârea nr. 308/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VOINȚA OSICA DE SUS OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54102",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54102",
+     "sha256": "eae2d0ed818f1448f934c5dc28978b05016384fbbd962e98b6e3c8e2dd9f091a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-309-2004",
+   "path": "hotarare/bnr/2004/309",
+   "short": "Hotărârea bnr nr. 309/2004",
+   "title": "Hotărârea nr. 309/2004 privind retragerea autorizației de funcționare a Cooperativei de credit OLTUL PIATRA-OLT OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54103",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54103",
+     "sha256": "e9a6a88eb70620d9edda7a37fd41ddecdf0321f052fedf9487c1e42f6f16101a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-31-2004",
+   "path": "hotarare/bnr/2004/31",
+   "short": "Hotărârea bnr nr. 31/2004",
+   "title": "Hotărârea nr. 31/2004 privind retragerea autorizației de funcționare a Cooperativei de credit IZVORUL SEBEȘ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52703",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52703",
+     "sha256": "236d244ddddf864f2e4c33b47458708aec52f084a0d9ebb134546dbf71f080c4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-310-2004",
+   "path": "hotarare/bnr/2004/310",
+   "short": "Hotărârea bnr nr. 310/2004",
+   "title": "Hotărârea nr. 310/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA POTCOAVA OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54036",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54036",
+     "sha256": "ef2bed4e7e6ea7929310b356657917e3efd448feb790f13a7eb7995f2d6afd41"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-311-2004",
+   "path": "hotarare/bnr/2004/311",
+   "short": "Hotărârea bnr nr. 311/2004",
+   "title": "Hotărârea nr. 311/2004 privind retragerea autorizației de funcționare a Cooperativei de credit STEJARUL SCORNICESTI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54037",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54037",
+     "sha256": "133f31c15961051059a0c479d588f2d8346457a5f20a2e954d4777937efd8b94"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-313-2004",
+   "path": "hotarare/bnr/2004/313",
+   "short": "Hotărârea bnr nr. 313/2004",
+   "title": "Hotărârea nr. 313/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VEDEA VALENI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54134",
+   "versions": [
+    {
+     "from": "2004-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54134",
+     "sha256": "89eb7aa44870c4e691be45ac101bac9ab54ef15177af1e6e697c63544d59590e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-314-2004",
+   "path": "hotarare/bnr/2004/314",
+   "short": "Hotărârea bnr nr. 314/2004",
+   "title": "Hotărârea nr. 314/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA BĂRCĂNEȘTI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54034",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54034",
+     "sha256": "f22f27a2117b8763cc5a8c7ec217e4378480d132c3e472bb56c85025c4c40dde"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-315-2004",
+   "path": "hotarare/bnr/2004/315",
+   "short": "Hotărârea bnr nr. 315/2004",
+   "title": "Hotărârea nr. 315/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CĂPRIOARA BUȘTENI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54035",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54035",
+     "sha256": "29f2a04d5524a513b0a4c8e22a8692e95b036218ccc693bb4c1978eb444c2065"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-316-2004",
+   "path": "hotarare/bnr/2004/316",
+   "short": "Hotărârea bnr nr. 316/2004",
+   "title": "Hotărârea nr. 316/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIATA NOUA FILIPESTII DE TÂRG OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54268",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54268",
+     "sha256": "fafacd44e044f13253592d738007b30cc31a9f5890e409480977bef79806fe85"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-317-2004",
+   "path": "hotarare/bnr/2004/317",
+   "short": "Hotărârea bnr nr. 317/2004",
+   "title": "Hotărârea nr. 317/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ZAGANU MĂNECIU OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54263",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54263",
+     "sha256": "1e7bedb36828e520f4570dcc1253d8e43a5689a3509c3c6ae02089d45b9e6d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-319-2004",
+   "path": "hotarare/bnr/2004/319",
+   "short": "Hotărârea bnr nr. 319/2004",
+   "title": "Hotărârea nr. 319/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ZMEURET STARCHIOJD OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54051",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54051",
+     "sha256": "77c5ca844c0fa52ffd9da9e6e51911c35cdc4fe7830852e922d2db4fadce1405"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-32-2004",
+   "path": "hotarare/bnr/2004/32",
+   "short": "Hotărârea bnr nr. 32/2004",
+   "title": "Hotărârea nr. 32/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DACIA VINEREA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52704",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52704",
+     "sha256": "3b4d459b86c0d9c11c954e973c54bd3c24afc9344e32e039b7d11ebad854ee6f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-320-2004",
+   "path": "hotarare/bnr/2004/320",
+   "short": "Hotărârea bnr nr. 320/2004",
+   "title": "Hotărârea nr. 320/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ȘOIMUL SOIMARI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54056",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54056",
+     "sha256": "aabc74c6008146a728888d249cfcddfb47d10e8c577604e96dcd7606a195a620"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-321-2004",
+   "path": "hotarare/bnr/2004/321",
+   "short": "Hotărârea bnr nr. 321/2004",
+   "title": "Hotărârea nr. 321/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PODGORIA VALEA CALUGĂREASCĂ OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54289",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54289",
+     "sha256": "4d8e1bb998dd44def26869670a76b89d9622b5a8c2ce11266e6ba18a8a86312d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-322-2004",
+   "path": "hotarare/bnr/2004/322",
+   "short": "Hotărârea bnr nr. 322/2004",
+   "title": "Hotărârea nr. 322/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SOLIDARITATEA VARBILAU OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54290",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54290",
+     "sha256": "44bcd74eb5225f9fa0c3566255456072c09e12fc70533008cdf06a9b56f84109"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-327-2004",
+   "path": "hotarare/bnr/2004/327",
+   "short": "Hotărârea bnr nr. 327/2004",
+   "title": "Hotărârea nr. 327/2004 privind retragerea autorizației de funcționare a Cooperativei de credit NEGREȘTEANA NEGREȘTI-OAȘ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54329",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54329",
+     "sha256": "e83add81c1f00c0ab80c935f40336549b6bde46f00e92c26b71167216fdf9f75"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-329-2004",
+   "path": "hotarare/bnr/2004/329",
+   "short": "Hotărârea bnr nr. 329/2004",
+   "title": "Hotărârea nr. 329/2004 privind retragerea autorizației de funcționare a Cooperativei de credit NEGOIUL AVRIG",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54331",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54331",
+     "sha256": "251185217a98f78296ee1e23cbf4330726209bb2d669d43de5c0532ffe782a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-330-2004",
+   "path": "hotarare/bnr/2004/330",
+   "short": "Hotărârea bnr nr. 330/2004",
+   "title": "Hotărârea nr. 330/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ALBINA CARTA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54291",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54291",
+     "sha256": "db8b847cfdeeb73e1080cdda8e46166ceb5eff118f6975075469a93c3327c4ea"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-333-2004",
+   "path": "hotarare/bnr/2004/333",
+   "short": "Hotărârea bnr nr. 333/2004",
+   "title": "Hotărârea nr. 333/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CRINUL MIERCUREA SIBIULUI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54392",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54392",
+     "sha256": "1d6f80ced9e66342d2ff1f9bdb7432df71182eee5070d6be49070802087f924c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-334-2004",
+   "path": "hotarare/bnr/2004/334",
+   "short": "Hotărârea bnr nr. 334/2004",
+   "title": "Hotărârea nr. 334/2004 privind retragerea autorizației de funcționare a Cooperativei de credit 8 MARTIE NOCRICH",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54595",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54595",
+     "sha256": "3a25e0320436549c8d2c71cb48c5d9afdbd4bc9443b7151dfa6a1ba755ba37e7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-335-2004",
+   "path": "hotarare/bnr/2004/335",
+   "short": "Hotărârea bnr nr. 335/2004",
+   "title": "Hotărârea nr. 335/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VISARION ROMAN RĂȘINARI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54267",
+   "versions": [
+    {
+     "from": "2004-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54267",
+     "sha256": "c0012d4ea9149e43bc8ae090c8d31d98961a46e5055bab127457bfed4a4a8b22"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-34-2004",
+   "path": "hotarare/bnr/2004/34",
+   "short": "Hotărârea bnr nr. 34/2004",
+   "title": "Hotărârea nr. 34/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CODRUL BELIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52706",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52706",
+     "sha256": "1d484ef01fe2a4e60bddab06e88890b80e9189190f146c54f8e46c5d15901417"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-340-2004",
+   "path": "hotarare/bnr/2004/340",
+   "short": "Hotărârea bnr nr. 340/2004",
+   "title": "Hotărârea nr. 340/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CINDRELUL CISNĂDIE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54369",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54369",
+     "sha256": "e541f10f38f143405b2dd91826eb1b2418c70d855184d2bb5347c9afac693494"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-341-2004",
+   "path": "hotarare/bnr/2004/341",
+   "short": "Hotărârea bnr nr. 341/2004",
+   "title": "Hotărârea nr. 341/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MONEDA CÂMPULUNG MOLDOVENESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54322",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54322",
+     "sha256": "c9c08710fd47ee3e38d400ca29e687d06b5c6bc0887da5c06d612f062347589b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-342-2004",
+   "path": "hotarare/bnr/2004/342",
+   "short": "Hotărârea bnr nr. 342/2004",
+   "title": "Hotărârea nr. 342/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ECONOMISIREA FĂLTICENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54325",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54325",
+     "sha256": "3ac8f6c96d2b7037d907f80eaa658a3588ce305df0f41edd13016fa628aea083"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-343-2004",
+   "path": "hotarare/bnr/2004/343",
+   "short": "Hotărârea bnr nr. 343/2004",
+   "title": "Hotărârea nr. 343/2004 privind retragerea autorizației de funcționare a Cooperativei de credit HUMORUL GURA HUMORULUI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54326",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54326",
+     "sha256": "c73586ff63d891241f5b25fca09f4028a031eddb2386f980a6182eebd96eda07"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-347-2004",
+   "path": "hotarare/bnr/2004/347",
+   "short": "Hotărârea bnr nr. 347/2004",
+   "title": "Hotărârea nr. 347/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BIRUINȚA DOLHASCA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54386",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54386",
+     "sha256": "1500f82d95510a8b0576e0c9d1e400cd58a1aa19d0c05b0fae5adf5d72c96096"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-348-2004",
+   "path": "hotarare/bnr/2004/348",
+   "short": "Hotărârea bnr nr. 348/2004",
+   "title": "Hotărârea nr. 348/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ECONOMIA FRĂTĂUȚII VECHI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54387",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54387",
+     "sha256": "58eb67ce2647cfeb0cf08253e1a4de33b0b5cd7f4c745372dd23a15b221b9244"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-349-2004",
+   "path": "hotarare/bnr/2004/349",
+   "short": "Hotărârea bnr nr. 349/2004",
+   "title": "Hotărârea nr. 349/2004 privind retragerea autorizației de funcționare a Cooperativei de credit AJUTORUL LITENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54388",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54388",
+     "sha256": "2174b34a635c0c3edc7fe27458c6439c6c854b8ade135980ddbc27304f6606be"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-35-2004",
+   "path": "hotarare/bnr/2004/35",
+   "short": "Hotărârea bnr nr. 35/2004",
+   "title": "Hotărârea nr. 35/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CERMEIANA CERMEI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52707",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52707",
+     "sha256": "0f211b759320002e18c1a1c6c6de432833db121df2a28d156e124d075184333c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-350-2004",
+   "path": "hotarare/bnr/2004/350",
+   "short": "Hotărârea bnr nr. 350/2004",
+   "title": "Hotărârea nr. 350/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BRĂDIȘ RÂȘCA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54352",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54352",
+     "sha256": "7d03ef5220a0c88f4db2a8f9fcb107d16be507e3266bc79e5a5f5a9ade5f066b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-351-2004",
+   "path": "hotarare/bnr/2004/351",
+   "short": "Hotărârea bnr nr. 351/2004",
+   "title": "Hotărârea nr. 351/2004 privind retragerea autorizației de funcționare a Cooperativei de credit RAMURI NEAGRA ȘARULUI, ȘARU DORNEI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54353",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54353",
+     "sha256": "2407fcd4fb84506bfcf4bfd9c6001721684bcef40f35e330fee84ec07af2b75a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-353-2004",
+   "path": "hotarare/bnr/2004/353",
+   "short": "Hotărârea bnr nr. 353/2004",
+   "title": "Hotărârea nr. 353/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA BUZESCU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54382",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54382",
+     "sha256": "fefbc0cd649d0622d9227415da10a9543c9798638bd466707dc2df32fe1577a8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-354-2004",
+   "path": "hotarare/bnr/2004/354",
+   "short": "Hotărârea bnr nr. 354/2004",
+   "title": "Hotărârea nr. 354/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VEDEA BRAGADIRU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54596",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54596",
+     "sha256": "13629a3f3641787d247a66e74fec2e486bcfdc73e59964a67e033547599755fa"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-355-2004",
+   "path": "hotarare/bnr/2004/355",
+   "short": "Hotărârea bnr nr. 355/2004",
+   "title": "Hotărârea nr. 355/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VICTORIA CĂLMĂȚUIU DE SUS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54586",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54586",
+     "sha256": "0e374af99b824d9327052a23b1da210fefbe060d7268bb809265587f7fee0671"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-356-2004",
+   "path": "hotarare/bnr/2004/356",
+   "short": "Hotărârea bnr nr. 356/2004",
+   "title": "Hotărârea nr. 356/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VICTORIA CIOLĂNEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54587",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54587",
+     "sha256": "b599960549ace00961c36599027ce9f843c27c1f2eb2399d2b8f9a006131865a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-357-2004",
+   "path": "hotarare/bnr/2004/357",
+   "short": "Hotărârea bnr nr. 357/2004",
+   "title": "Hotărârea nr. 357/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VALEA URLUIULUI FURCULEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54535",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54535",
+     "sha256": "d6b2a6f7ebe29fd6a65e92e16fc9c97e733e4f688abef96affbdb665300297ed"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-358-2004",
+   "path": "hotarare/bnr/2004/358",
+   "short": "Hotărârea bnr nr. 358/2004",
+   "title": "Hotărârea nr. 358/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SPICUL ORBEASCA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54536",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54536",
+     "sha256": "614422f28ea894a218779231057b72381e2643cd597fca0b26465f74f365720f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-359-2004",
+   "path": "hotarare/bnr/2004/359",
+   "short": "Hotărârea bnr nr. 359/2004",
+   "title": "Hotărârea nr. 359/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MIORIȚA DOBROTEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54537",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54537",
+     "sha256": "33d856eea2b9a5976b1486beba34c0bdfb2232be5137b3cb3ef772d06c5cdc1c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-36-2004",
+   "path": "hotarare/bnr/2004/36",
+   "short": "Hotărârea bnr nr. 36/2004",
+   "title": "Hotărârea nr. 36/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ALBINA CURTICI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52687",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52687",
+     "sha256": "fccd32ab750f8276f5f98af98b60c109860a7b483af0388b86ee00ce2afab916"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-361-2004",
+   "path": "hotarare/bnr/2004/361",
+   "short": "Hotărârea bnr nr. 361/2004",
+   "title": "Hotărârea nr. 361/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CLANITA TALPA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54521",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54521",
+     "sha256": "1ba5c5d32bfe275fd95cfec79ce54d1b09a57666c8a08b470136dce4760bad25"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-362-2004",
+   "path": "hotarare/bnr/2004/362",
+   "short": "Hotărârea bnr nr. 362/2004",
+   "title": "Hotărârea nr. 362/2004 privind retragerea autorizației de funcționare a Cooperativei de credit TELEORMANUL TĂTÂRĂȘTII DE JOS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54522",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54522",
+     "sha256": "2b4e5582de5b3deb143ad22ad008638f053f4285d69e8f109706095feace7c7a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-363-2004",
+   "path": "hotarare/bnr/2004/363",
+   "short": "Hotărârea bnr nr. 363/2004",
+   "title": "Hotărârea nr. 363/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PROGRESUL ȚIGĂNEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54523",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54523",
+     "sha256": "7e30ede17228bf1f8511f892230c8915bc49f39753d06a79307addf5fb8015c5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-364-2004",
+   "path": "hotarare/bnr/2004/364",
+   "short": "Hotărârea bnr nr. 364/2004",
+   "title": "Hotărârea nr. 364/2004 privind retragerea autorizației de funcționare a Cooperativei de credit 1 MAI VIDELE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54524",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54524",
+     "sha256": "9164cb6f3d0daf6e949efc73e9b7ecd15dbf0f1f502d3c1f9278cacc048979be"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-365-2004",
+   "path": "hotarare/bnr/2004/365",
+   "short": "Hotărârea bnr nr. 365/2004",
+   "title": "Hotărârea nr. 365/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MĂGURA VARTOAPELE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54501",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54501",
+     "sha256": "bd7f5805e274cef28327ab0ac850cbec0e7678e43e249810d452b613e9ca00ae"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-366-2004",
+   "path": "hotarare/bnr/2004/366",
+   "short": "Hotărârea bnr nr. 366/2004",
+   "title": "Hotărârea nr. 366/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DUNĂREA TRAIAN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54502",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54502",
+     "sha256": "bdf753f881edd79edcefee510bfcc3f685a92864be462f714d9cb787576d52b5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-367-2004",
+   "path": "hotarare/bnr/2004/367",
+   "short": "Hotărârea bnr nr. 367/2004",
+   "title": "Hotărârea nr. 367/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BEGA BALINT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54503",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54503",
+     "sha256": "17a2527ab42a0e9dd877163da6e9dc35c1b1fe82c3c7056d017311812efa69bb"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-368-2004",
+   "path": "hotarare/bnr/2004/368",
+   "short": "Hotărârea bnr nr. 368/2004",
+   "title": "Hotărârea nr. 368/2004 privind retragerea autorizației de funcționare a Cooperativei de credit LUCEAFĂRUL BECICHERECU MIC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54504",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54504",
+     "sha256": "dae2a4174fa0854ec8479fd8dc84d9bcfa5e6abf95f7d8d0fec2177e6a53b17f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-369-2004",
+   "path": "hotarare/bnr/2004/369",
+   "short": "Hotărârea bnr nr. 369/2004",
+   "title": "Hotărârea nr. 369/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BUZIESANA BUZIAȘ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54473",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54473",
+     "sha256": "c0c185a9810c02c6d973bd56cf40e01fb55bda5f9a095965ac110a9aab0e5a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-37-2004",
+   "path": "hotarare/bnr/2004/37",
+   "short": "Hotărârea bnr nr. 37/2004",
+   "title": "Hotărârea nr. 37/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PODGORIA GHIOROC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52688",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52688",
+     "sha256": "4b8f97808e5a761f23edf320ce51c50145e8178891c3088f00a16fb77e6a6ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-370-2004",
+   "path": "hotarare/bnr/2004/370",
+   "short": "Hotărârea bnr nr. 370/2004",
+   "title": "Hotărârea nr. 370/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CAPRINISANA CAPRINIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54474",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54474",
+     "sha256": "28a2a924f9057f10a6cb1e5e484beead81dc2631b7ce231b6879845e212151e4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-371-2004",
+   "path": "hotarare/bnr/2004/371",
+   "short": "Hotărârea bnr nr. 371/2004",
+   "title": "Hotărârea nr. 371/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA PECIU NOU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54475",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54475",
+     "sha256": "39154ce5253a429517204a29072867a7b0a30f123a4d8cf7274b31f0755ca55a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-372-2004",
+   "path": "hotarare/bnr/2004/372",
+   "short": "Hotărârea bnr nr. 372/2004",
+   "title": "Hotărârea nr. 372/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CETATE CIACOVA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54484",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54484",
+     "sha256": "70e11e28f4a2a383eae3a5e1f664e67a433ab527793c6e543b3f7b1f06adfca2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-373-2004",
+   "path": "hotarare/bnr/2004/373",
+   "short": "Hotărârea bnr nr. 373/2004",
+   "title": "Hotărârea nr. 373/2004 privind retragerea autorizației de funcționare a Cooperativei de credit FĂGEȚEANA FĂGET",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54506",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54506",
+     "sha256": "9fbc5a7f40c1bebd2adaaae30ecfb0a145690a3bc38e8beb74d15b7916797bd8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-374-2004",
+   "path": "hotarare/bnr/2004/374",
+   "short": "Hotărârea bnr nr. 374/2004",
+   "title": "Hotărârea nr. 374/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SUMIGUL GATAIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54507",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54507",
+     "sha256": "6836d9f84b44f78b4b50c1c823128a224b207a23832b86fdefd871084353af0b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-375-2004",
+   "path": "hotarare/bnr/2004/375",
+   "short": "Hotărârea bnr nr. 375/2004",
+   "title": "Hotărârea nr. 375/2004 privind retragerea autorizației de funcționare a Cooperativei de credit TIMIȘUL GAVOJDIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54508",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54508",
+     "sha256": "3143da0e1f9170e42500f744306b2934ec8abb5fe3121c50475b5290175dff22"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-376-2004",
+   "path": "hotarare/bnr/2004/376",
+   "short": "Hotărârea bnr nr. 376/2004",
+   "title": "Hotărârea nr. 376/2004 privind retragerea autorizației de funcționare a Cooperativei de credit POIENIȚA JAMU MARE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54509",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54509",
+     "sha256": "5022e5b8247657a6664a7e0991cca4d0a0ad539b84e4edf23dfb326caa42d683"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-378-2004",
+   "path": "hotarare/bnr/2004/378",
+   "short": "Hotărârea bnr nr. 378/2004",
+   "title": "Hotărârea nr. 378/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA JIMBOLIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54588",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54588",
+     "sha256": "47d2d423612aa47d55cc44ed4a9d808117486b91db3b733e4559772c5e02f050"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-379-2004",
+   "path": "hotarare/bnr/2004/379",
+   "short": "Hotărârea bnr nr. 379/2004",
+   "title": "Hotărârea nr. 379/2004 privind retragerea autorizației de funcționare a Cooperativei de credit HĂRNICIA PERIAM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54397",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54397",
+     "sha256": "f2d55897f043bee47ab41643a1e36b1f87251fe8e2e4399419a4f61c07d3df20"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-38-2004",
+   "path": "hotarare/bnr/2004/38",
+   "short": "Hotărârea bnr nr. 38/2004",
+   "title": "Hotărârea nr. 38/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CRIȘUL ALB INEU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52689",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52689",
+     "sha256": "f3ebdd6e773c1df73455ea073ff9aa0c30b66eac5ce50703a7dd1ffb428e0a34"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-380-2004",
+   "path": "hotarare/bnr/2004/380",
+   "short": "Hotărârea bnr nr. 380/2004",
+   "title": "Hotărârea nr. 380/2004 privind retragerea autorizației de funcționare a Cooperativei de credit RECĂSANA RECAS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54398",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54398",
+     "sha256": "70ebad7f0b741d8a73c739fb0816f4a5a4fdcf52e251871a8803747199ece7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-381-2004",
+   "path": "hotarare/bnr/2004/381",
+   "short": "Hotărârea bnr nr. 381/2004",
+   "title": "Hotărârea nr. 381/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VARIEȘANA VARIAS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54399",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54399",
+     "sha256": "ba0ab10235efd0572b330d29c6055bd33007afaa9c2b425a70c1267bbe604f44"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-383-2004",
+   "path": "hotarare/bnr/2004/383",
+   "short": "Hotărârea bnr nr. 383/2004",
+   "title": "Hotărârea nr. 383/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CETATEA TURNU MĂGURELE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54423",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54423",
+     "sha256": "c4c4ee70ce4514d4ccf88e377203b74ddaab581dc370a3fcd060320ce2fcc8c7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-389-2004",
+   "path": "hotarare/bnr/2004/389",
+   "short": "Hotărârea bnr nr. 389/2004",
+   "title": "Hotărârea nr. 389/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA AMARASTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54433",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54433",
+     "sha256": "08cc6d66566df2f97eea067a55e9078920d43e951b235f04a42c4985af337f5b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-39-2004",
+   "path": "hotarare/bnr/2004/39",
+   "short": "Hotărârea bnr nr. 39/2004",
+   "title": "Hotărârea nr. 39/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PÂNCOTANA PANCOTA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53227",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53227",
+     "sha256": "fa1ebabc5e11c6bcf4956e385aa5adb18c9e7ec2dbf127adc89437cf99e68897"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-391-2004",
+   "path": "hotarare/bnr/2004/391",
+   "short": "Hotărârea bnr nr. 391/2004",
+   "title": "Hotărârea nr. 391/2004 privind retragerea autorizației de funcționare a Cooperativei de credit LUNCAVĂȚUL HOREZU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54597",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54597",
+     "sha256": "4d858de24d8785eb0d8dce8f6d2eeded466ab8387e0e4f86b2eb16414644e171"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-392-2004",
+   "path": "hotarare/bnr/2004/392",
+   "short": "Hotărârea bnr nr. 392/2004",
+   "title": "Hotărârea nr. 392/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CERNA FÂRTĂȚEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54610",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54610",
+     "sha256": "d866904624b381df12dbf63381c57116cc6327c1754601cee26f9be15bc8cc70"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-394-2004",
+   "path": "hotarare/bnr/2004/394",
+   "short": "Hotărârea bnr nr. 394/2004",
+   "title": "Hotărârea nr. 394/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BELȘUGUL BĂRBĂTEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54612",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54612",
+     "sha256": "647534b15c0a5de1ce01e2091ee099bdd25e6aa7936575fd2d3d135a3b10481d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-395-2004",
+   "path": "hotarare/bnr/2004/395",
+   "short": "Hotărârea bnr nr. 395/2004",
+   "title": "Hotărârea nr. 395/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ANINOASA STROEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54613",
+   "versions": [
+    {
+     "from": "2004-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54613",
+     "sha256": "38a0b9dfeebc49039ddb15a257abb78955637dc55fb3c091416e84437e2ffe2d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-397-2004",
+   "path": "hotarare/bnr/2004/397",
+   "short": "Hotărârea bnr nr. 397/2004",
+   "title": "Hotărârea nr. 397/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CETATEA GRĂDIȘTEA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54617",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54617",
+     "sha256": "d14c8119bf49340c4e2ce3e3dbad0c9412a851cb74b23e9aa6eb064755c7f965"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-398-2004",
+   "path": "hotarare/bnr/2004/398",
+   "short": "Hotărârea bnr nr. 398/2004",
+   "title": "Hotărârea nr. 398/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ARNOTA COSTEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54618",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54618",
+     "sha256": "cca8ed886d0877b27aa868fd6cb6c55b8f4c15c29e9596b4cf33defcd76308e3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-40-2004",
+   "path": "hotarare/bnr/2004/40",
+   "short": "Hotărârea bnr nr. 40/2004",
+   "title": "Hotărârea nr. 40/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SPERANȚA PECICA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53228",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53228",
+     "sha256": "c36033decfa72caea9482a4dea2b3aec348978d62adfa2867315c9e7fb073b6e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-402-2004",
+   "path": "hotarare/bnr/2004/402",
+   "short": "Hotărârea bnr nr. 402/2004",
+   "title": "Hotărârea nr. 402/2004 privind retragerea autorizației de funcționare a Cooperativei de credit JIRAVAT BÂRLAD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54622",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54622",
+     "sha256": "5161310dedb2a90bd9bfbc2ece7a8f4fd6c2abdf75ec984ef1f9ddc8961cebf0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-405-2004",
+   "path": "hotarare/bnr/2004/405",
+   "short": "Hotărârea bnr nr. 405/2004",
+   "title": "Hotărârea nr. 405/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VATRA MURGENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54578",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54578",
+     "sha256": "33dd07e6f3f42533dc142c5a7da643d64cdc606442388f89066a6d5f07d0f477"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-41-2004",
+   "path": "hotarare/bnr/2004/41",
+   "short": "Hotărârea bnr nr. 41/2004",
+   "title": "Hotărârea nr. 41/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SOLIDARITATEA SÂNTANA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53229",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53229",
+     "sha256": "61f309f1757827702f05d111447e4a391571742bdbf69fcdf0202368034a4c16"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-410-2004",
+   "path": "hotarare/bnr/2004/410",
+   "short": "Hotărârea bnr nr. 410/2004",
+   "title": "Hotărârea nr. 410/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BELȘUGUL VIIȘOARA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54731",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54731",
+     "sha256": "ad77f4d4d710347231c9b22b8c7a3df852f7759461869980c59b31e218346b60"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-411-2004",
+   "path": "hotarare/bnr/2004/411",
+   "short": "Hotărârea bnr nr. 411/2004",
+   "title": "Hotărârea nr. 411/2004 privind retragerea autorizației de funcționare a Cooperativei de credit TROTUȘUL ADJUD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54736",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54736",
+     "sha256": "7921f56481a1e556879c0587134a8b806db86a01d0d211ab847eead231459c33"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-412-2004",
+   "path": "hotarare/bnr/2004/412",
+   "short": "Hotărârea bnr nr. 412/2004",
+   "title": "Hotărârea nr. 412/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PROGRESUL COTEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54737",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54737",
+     "sha256": "96aac1b84495b85cf042544045cd71cf28857d49a93568c33956936796dc306b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-413-2004",
+   "path": "hotarare/bnr/2004/413",
+   "short": "Hotărârea bnr nr. 413/2004",
+   "title": "Hotărârea nr. 413/2004 privind retragerea autorizației de funcționare a Cooperativei de credit PLAIUL DUMITREȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54583",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54583",
+     "sha256": "651db8f5f664c9ef72285e109f3876ef0c65d17502541b374ef9362f5d05b1e9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-414-2004",
+   "path": "hotarare/bnr/2004/414",
+   "short": "Hotărârea bnr nr. 414/2004",
+   "title": "Hotărârea nr. 414/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SIRETUL MĂRĂȘEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54584",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54584",
+     "sha256": "7fdee0e930bf448d1368c9ccea41e089e4a2099e5c3f14e161effeaf935ed1be"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-415-2004",
+   "path": "hotarare/bnr/2004/415",
+   "short": "Hotărârea bnr nr. 415/2004",
+   "title": "Hotărârea nr. 415/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MĂGURA ODOBESTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54759",
+   "versions": [
+    {
+     "from": "2004-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54759",
+     "sha256": "b8030a6217654deac54984c29d0aeb9ba0f794fe1148a090e0875e7f40af9109"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-416-2004",
+   "path": "hotarare/bnr/2004/416",
+   "short": "Hotărârea bnr nr. 416/2004",
+   "title": "Hotărârea nr. 416/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL URECHESTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54760",
+   "versions": [
+    {
+     "from": "2004-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54760",
+     "sha256": "78e82f03415ba855b40e7c8c536b692d17ba37ddf837885c7d696a64e5e36905"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-417-2004",
+   "path": "hotarare/bnr/2004/417",
+   "short": "Hotărârea bnr nr. 417/2004",
+   "title": "Hotărârea nr. 417/2004 privind retragerea autorizației de funcționare a Cooperativei de credit POARTA VRANCEI VIDRA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54761",
+   "versions": [
+    {
+     "from": "2004-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54761",
+     "sha256": "1453859c5807bfd1efa29cf8d7a551ec0da09d835f3fa296501d8813f1302a09"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-418-2004",
+   "path": "hotarare/bnr/2004/418",
+   "short": "Hotărârea bnr nr. 418/2004",
+   "title": "Hotărârea nr. 418/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DREPTATEA CUNTA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54762",
+   "versions": [
+    {
+     "from": "2004-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54762",
+     "sha256": "5d8ce676f485d0aee4a9144b4a30b24e94ac91d1ed8b335ca128afd3d0ec54a2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-419-2004",
+   "path": "hotarare/bnr/2004/419",
+   "short": "Hotărârea bnr nr. 419/2004",
+   "title": "Hotărârea nr. 419/2004 privind retragerea autorizației de funcționare a Cooperativei de credit MUREȘANA SĂVÂRȘIM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54711",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54711",
+     "sha256": "7fb286a2386cab3e946317fafec6a67da7a0874cb82985f3a376dc8a1665b8ce"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-42-2004",
+   "path": "hotarare/bnr/2004/42",
+   "short": "Hotărârea bnr nr. 42/2004",
+   "title": "Hotărârea nr. 42/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIITORUL SECUSIGIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53230",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53230",
+     "sha256": "df4b4e184514d3515b64a90622f37fe23516bbfb286ba0e49776b7db6dbad790"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-421-2004",
+   "path": "hotarare/bnr/2004/421",
+   "short": "Hotărârea bnr nr. 421/2004",
+   "title": "Hotărârea nr. 421/2004 privind retragerea autorizației de funcționare a Cooperativei de credit POTOPUL HULUBEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54713",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54713",
+     "sha256": "fb3b2d5a10551e4e5af994d70c3977bf0e9a51bf727884d4ee8722f1c1ed03d7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-423-2004",
+   "path": "hotarare/bnr/2004/423",
+   "short": "Hotărârea bnr nr. 423/2004",
+   "title": "Hotărârea nr. 423/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CRICOVUL DULCE MORENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54693",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54693",
+     "sha256": "52f7f62e922c05547b5a6ebe2426340a5f9c0f97bcae323072403803fb207abc"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-424-2004",
+   "path": "hotarare/bnr/2004/424",
+   "short": "Hotărârea bnr nr. 424/2004",
+   "title": "Hotărârea nr. 424/2004 privind retragerea autorizației de funcționare a Cooperativei de credit I.C. VISSARION TITU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54714",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54714",
+     "sha256": "73419964f819c6e5901c2ecdefac62c5ccc43e6785fdb2fa426d58191e73aee9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-428-2004",
+   "path": "hotarare/bnr/2004/428",
+   "short": "Hotărârea bnr nr. 428/2004",
+   "title": "Hotărârea nr. 428/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SF. MARIA BREZOAELE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54718",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54718",
+     "sha256": "abfb69be68f14e27ee03ee35a6af3b43d7c7f78cc0e9038f4838da897a9f9339"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-429-2004",
+   "path": "hotarare/bnr/2004/429",
+   "short": "Hotărârea bnr nr. 429/2004",
+   "title": "Hotărârea nr. 429/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CSOMA CIUMANI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54719",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54719",
+     "sha256": "7ac7edeeeb1388f341fcd601c59b7d5d0ccab473992ea4980e4248b7eacf0d74"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-43-2004",
+   "path": "hotarare/bnr/2004/43",
+   "short": "Hotărârea bnr nr. 43/2004",
+   "title": "Hotărârea nr. 43/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA ȘEITIN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53204",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53204",
+     "sha256": "2a4bd9567811e1aab4903c4ad69af1ceea6579c0ef58ee3c1ffd63efba86dc9d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-430-2004",
+   "path": "hotarare/bnr/2004/430",
+   "short": "Hotărârea bnr nr. 430/2004",
+   "title": "Hotărârea nr. 430/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BISTRIȚA BĂBENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54733",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54733",
+     "sha256": "2dab550f90952cdd8d2bbf9d5802efdba3dbf576edbb71f44281e4f848c5ee5c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-44-2004",
+   "path": "hotarare/bnr/2004/44",
+   "short": "Hotărârea bnr nr. 44/2004",
+   "title": "Hotărârea nr. 44/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DUMBRAVA SEPREUS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53205",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53205",
+     "sha256": "c7f5cbabda8f7a2dbc1ec255e5956e35cf468c305a87499114f67a99ad66ca97"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-45-2004",
+   "path": "hotarare/bnr/2004/45",
+   "short": "Hotărârea bnr nr. 45/2004",
+   "title": "Hotărârea nr. 45/2004 privind retragerea autorizației de funcționare a Cooperativei de credit FURNICA SIRIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53206",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53206",
+     "sha256": "e0be998574ff3de8d452fe0654ebe753ce5a244723cc7602b9cf3e7e8ff76e56"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-452-2004",
+   "path": "hotarare/bnr/2004/452",
+   "short": "Hotărârea bnr nr. 452/2004",
+   "title": "Hotărârea nr. 452/2004 privind prelungirea activității de administrare specială la Cooperativa de credit \"Stogul\" - Poienile de sub Munte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54252",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54252",
+     "sha256": "51b10228c63e0774350537e10cc3abc6dc6a21459d95885c7845856bb32e824a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-453-2004",
+   "path": "hotarare/bnr/2004/453",
+   "short": "Hotărârea bnr nr. 453/2004",
+   "title": "Hotărârea nr. 453/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VOINTA ODOREU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54485",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54485",
+     "sha256": "f3906919c02cadaa012fe00f5ab5713b90bf78c89aad76896f11c4a86c924a66"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-456-2004",
+   "path": "hotarare/bnr/2004/456",
+   "short": "Hotărârea bnr nr. 456/2004",
+   "title": "Hotărârea nr. 456/2004 privind retragerea autorizației de funcționare a COOPERATIVEI DE CREDIT NOBUZ TARGU CĂRBUNEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55135",
+   "versions": [
+    {
+     "from": "2004-09-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55135",
+     "sha256": "d2f0ef7821ee3be5375bc18962fb11c37d020d991bf6045ae564992a5bfadde9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-457-2004",
+   "path": "hotarare/bnr/2004/457",
+   "short": "Hotărârea bnr nr. 457/2004",
+   "title": "Hotărârea nr. 457/2004 privind retragerea autorizației de funcționare a COOPERATIVEI DE CREDIT SÂRGUINȚA TURCENI OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55350",
+   "versions": [
+    {
+     "from": "2004-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55350",
+     "sha256": "e4ee50247f6b409c98192198078d246e095cb712dad58f4da84cd73105bda221"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-46-2004",
+   "path": "hotarare/bnr/2004/46",
+   "short": "Hotărârea bnr nr. 46/2004",
+   "title": "Hotărârea nr. 46/2004 privind retragerea autorizației de funcționare a Cooperativei de credit OGORUL TÂRNOVA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53207",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53207",
+     "sha256": "bce26b4ed12a6f6fb151be4d505b3815a20718493b9fac5cfa39bdddd49315e2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-464-2004",
+   "path": "hotarare/bnr/2004/464",
+   "short": "Hotărârea bnr nr. 464/2004",
+   "title": "Hotărârea nr. 464/2004 privind retragerea autorizației de funcționare a Cooperativei de Credit \"Voința\" Șimian OC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91064",
+   "versions": [
+    {
+     "from": "2004-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91064",
+     "sha256": "e4743f1a35dbcfca887a49f51108a78fdccc5dfa736ec3f4cbbb0713f004ca2f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-469-2004",
+   "path": "hotarare/bnr/2004/469",
+   "short": "Hotărârea bnr nr. 469/2004",
+   "title": "Hotărârea nr. 469/2004 privind retragerea autorizației de funcționare a Cooperativei de Credit \"Stogul\" - Poienile de sub Munte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58150",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58150",
+     "sha256": "b6e55bd4f030713c049f4536ab82efa9548b2224cbedf54ce3b4aad52f51ac97"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-47-2004",
+   "path": "hotarare/bnr/2004/47",
+   "short": "Hotărârea bnr nr. 47/2004",
+   "title": "Hotărârea nr. 47/2004 privind retragerea autorizației de funcționare a Cooperativei de credit AGRICULTORUL VINGA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52775",
+   "versions": [
+    {
+     "from": "2004-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52775",
+     "sha256": "f8c2b113bcd21978979c72ae0b0a6ed5fee7f8dac5a8a57b9c0e1f83fcef19db"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-49-2004",
+   "path": "hotarare/bnr/2004/49",
+   "short": "Hotărârea bnr nr. 49/2004",
+   "title": "Hotărârea nr. 49/2004 privind retragerea autorizației de funcționare a Cooperativei de credit TELEORMANUL COSTEȘTI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52782",
+   "versions": [
+    {
+     "from": "2004-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52782",
+     "sha256": "5cc08f4898bef88a7a8845c50747fdd7419f60f1441c614ebe614470d87654d3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-50-2004",
+   "path": "hotarare/bnr/2004/50",
+   "short": "Hotărârea bnr nr. 50/2004",
+   "title": "Hotărârea nr. 50/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ALBINA MIROȘI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52783",
+   "versions": [
+    {
+     "from": "2004-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52783",
+     "sha256": "e10f81a5388b0457a40491ec1a4600bcbf953db2892b606693476ba46fb8bec5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-58-2004",
+   "path": "hotarare/bnr/2004/58",
+   "short": "Hotărârea bnr nr. 58/2004",
+   "title": "Hotărârea nr. 58/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ORBIC BUHUȘI O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52784",
+   "versions": [
+    {
+     "from": "2004-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52784",
+     "sha256": "b0e25422839a58eeeae4c6432cb405ba09ed14634e1e1e3a2960431fa7f6f79e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-59-2004",
+   "path": "hotarare/bnr/2004/59",
+   "short": "Hotărârea bnr nr. 59/2004",
+   "title": "Hotărârea nr. 59/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ZĂVOI COMĂNEȘTI O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52785",
+   "versions": [
+    {
+     "from": "2004-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52785",
+     "sha256": "9570e300b9b140f78d05b681db9d940c0773ba29657d89581cabbd23ae80a042"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-60-2004",
+   "path": "hotarare/bnr/2004/60",
+   "short": "Hotărârea bnr nr. 60/2004",
+   "title": "Hotărârea nr. 60/2004 privind retragerea autorizației de funcționare a Cooperativei de credit GALBENI FILIPEȘTI O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52786",
+   "versions": [
+    {
+     "from": "2004-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52786",
+     "sha256": "76ab79692af5ba5b613052f2c1da08fb5e74e9a61df044942743e2041ca89e0c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-61-2004",
+   "path": "hotarare/bnr/2004/61",
+   "short": "Hotărârea bnr nr. 61/2004",
+   "title": "Hotărârea nr. 61/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VALEA TAZLĂULUI LIVEZI O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52906",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52906",
+     "sha256": "c6a9b5f10fb9cfbc496485fb23c08269c3db681749a964adb180f7730da7145a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-62-2004",
+   "path": "hotarare/bnr/2004/62",
+   "short": "Hotărârea bnr nr. 62/2004",
+   "title": "Hotărârea nr. 62/2004 privind retragerea autorizației de funcționare a Cooperativei de credit AVÂNTUL MOINEȘTI O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52907",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52907",
+     "sha256": "87cf1b3321cd75c54feb15f28ab0253840ce951ac133cb453caeab091840c03b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-63-2004",
+   "path": "hotarare/bnr/2004/63",
+   "short": "Hotărârea bnr nr. 63/2004",
+   "title": "Hotărârea nr. 63/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SIMBREACOOP AGĂȘ O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52823",
+   "versions": [
+    {
+     "from": "2004-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52823",
+     "sha256": "ea8796b1aa3499521fe5ba9a2eae90b77fb6650604edd3baa190680e6db0811c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-65-2004",
+   "path": "hotarare/bnr/2004/65",
+   "short": "Hotărârea bnr nr. 65/2004",
+   "title": "Hotărârea nr. 65/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CREDBAC SASCUT O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52945",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52945",
+     "sha256": "743c9ecb921a521aa950ce9070daae5f615580f0d091a85e7fe4ecce76e8dae9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-66-2004",
+   "path": "hotarare/bnr/2004/66",
+   "short": "Hotărârea bnr nr. 66/2004",
+   "title": "Hotărârea nr. 66/2004 privind retragerea autorizației de funcționare a Cooperativei de credit SEMĂNĂTORUL SECUIENI O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52824",
+   "versions": [
+    {
+     "from": "2004-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52824",
+     "sha256": "e2c7b5d80165efd652a4a5d3b1f5581dc7eda3f0331416ef56cfc72628261c36"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-68-2004",
+   "path": "hotarare/bnr/2004/68",
+   "short": "Hotărârea bnr nr. 68/2004",
+   "title": "Hotărârea nr. 68/2004 privind retragerea autorizației de funcționare a Cooperativei de credit OCNACOOP TÂRGU OCNA O.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53004",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53004",
+     "sha256": "1fb472818000142bbaf09177f92962bd28acec7fd11a2f0d83807f452121c5ee"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-69-2004",
+   "path": "hotarare/bnr/2004/69",
+   "short": "Hotărârea bnr nr. 69/2004",
+   "title": "Hotărârea nr. 69/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CASCADA VADU CRIȘULUI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53005",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53005",
+     "sha256": "ed05aa5741e07a388b69cd9f29893329a5231ab795dd9ed7d7917872efb6e60f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-70-2004",
+   "path": "hotarare/bnr/2004/70",
+   "short": "Hotărârea bnr nr. 70/2004",
+   "title": "Hotărârea nr. 70/2004 privind retragerea autorizației de funcționare a Cooperativei de credit POIANA BRATCA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53006",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53006",
+     "sha256": "b1e41ace913a765d3bf99c406e6f36ac85944f00ba507c8f9a790797e4ca60bf"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-71-2004",
+   "path": "hotarare/bnr/2004/71",
+   "short": "Hotărârea bnr nr. 71/2004",
+   "title": "Hotărârea nr. 71/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ARMONIA NOJORID",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52841",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52841",
+     "sha256": "a373c00cc000b186c812b97bdea17b147cb63e9bf30614393f1d7d2f0a09a996"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-72-2004",
+   "path": "hotarare/bnr/2004/72",
+   "short": "Hotărârea bnr nr. 72/2004",
+   "title": "Hotărârea nr. 72/2004 privind retragerea autorizației de funcționare a Cooperativei de credit STRĂDUINȚA COȚUȘCA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52842",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52842",
+     "sha256": "26a9118597a4239270f2f0235bcbe2b231db37a344bdb9fea0d419ffe47ff97e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-73-2004",
+   "path": "hotarare/bnr/2004/73",
+   "short": "Hotărârea bnr nr. 73/2004",
+   "title": "Hotărârea nr. 73/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ILVEANA ILVA MARE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52843",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52843",
+     "sha256": "74910c39c5983e7c0f0fdced88e8c1f53289e2af384ad7e3cf90ea02dc7326a1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-74-2004",
+   "path": "hotarare/bnr/2004/74",
+   "short": "Hotărârea bnr nr. 74/2004",
+   "title": "Hotărârea nr. 74/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA LECHINȚA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52901",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52901",
+     "sha256": "ae8e23518b4b9525516cd6919fa89239fc96124460a83c0f33a9e29ce1a1c4b9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-75-2004",
+   "path": "hotarare/bnr/2004/75",
+   "short": "Hotărârea bnr nr. 75/2004",
+   "title": "Hotărârea nr. 75/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VALEA ȚIBLEȘULUI URIU",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52902",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52902",
+     "sha256": "80e9fea3318ad0bf45febf133b61ee027d0130468a7ef75c877ede80e9f7cc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-76-2004",
+   "path": "hotarare/bnr/2004/76",
+   "short": "Hotărârea bnr nr. 76/2004",
+   "title": "Hotărârea nr. 76/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VATRA ZAGRA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52903",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52903",
+     "sha256": "3a206c655606bb8494d1a495ff1911906050aeb0e8db3eacd31ac39244c8998f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-79-2004",
+   "path": "hotarare/bnr/2004/79",
+   "short": "Hotărârea bnr nr. 79/2004",
+   "title": "Hotărârea nr. 79/2004 privind retragerea autorizației de funcționare a Cooperativei de credit GRĂNICERUL RODNA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52908",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52908",
+     "sha256": "881b6b81c0e16e3a901ed1664e39b0eabe69a57a828032b8a27e67d359f774af"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-80-2004",
+   "path": "hotarare/bnr/2004/80",
+   "short": "Hotărârea bnr nr. 80/2004",
+   "title": "Hotărârea nr. 80/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA AVRĂMENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52911",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52911",
+     "sha256": "d47eda264bf8d5baf1b3c7069d881c30de034276868bab4000288a7d31e33552"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-82-2004",
+   "path": "hotarare/bnr/2004/82",
+   "short": "Hotărârea bnr nr. 82/2004",
+   "title": "Hotărârea nr. 82/2004 privind retragerea autorizației de funcționare a Cooperativei de credit ÎNFRĂȚIREA DARABANI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52913",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52913",
+     "sha256": "989546d1643c5187f00365962c70c4a74e33de0b1b7cc32d09e2d86bb3f33172"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-83-2004",
+   "path": "hotarare/bnr/2004/83",
+   "short": "Hotărârea bnr nr. 83/2004",
+   "title": "Hotărârea nr. 83/2004 privind retragerea autorizației de funcționare a Cooperativei de credit FURNICA DERSCA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52914",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52914",
+     "sha256": "3ab06c8074c04eed744713ca94ec3cfcab4cd596f4f2ddc25c8b7f29646d52d5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-85-2004",
+   "path": "hotarare/bnr/2004/85",
+   "short": "Hotărârea bnr nr. 85/2004",
+   "title": "Hotărârea nr. 85/2004 privind retragerea autorizației de funcționare a Cooperativei de credit BELȘUGUL FRUMUȘICA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52970",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52970",
+     "sha256": "d77ffa22b2de82453451011e77ab0e9861bdfc96e980fc2f1e02ce5acb90d0ad"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-86-2004",
+   "path": "hotarare/bnr/2004/86",
+   "short": "Hotărârea bnr nr. 86/2004",
+   "title": "Hotărârea nr. 86/2004 privind retragerea autorizației de funcționare a Cooperativei de credit UNIREA HAVÂRNA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52972",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52972",
+     "sha256": "826ce1cf5f1a4f54ab524e846423a94e72be02b7479ed4551280001cc6326548"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-87-2004",
+   "path": "hotarare/bnr/2004/87",
+   "short": "Hotărârea bnr nr. 87/2004",
+   "title": "Hotărârea nr. 87/2004 privind retragerea autorizației de funcționare a Cooperativei de credit VIAȚA NOUĂ SĂVENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52998",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52998",
+     "sha256": "0bcff31bf312d66e9aa794f81796e226ebe0ad4beb2b4d7ed128eaec1360ff1c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-89-2004",
+   "path": "hotarare/bnr/2004/89",
+   "short": "Hotărârea bnr nr. 89/2004",
+   "title": "Hotărârea nr. 89/2004 privind retragerea autorizației de funcționare a Cooperativei de credit DRUM NOU UNGURENI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53000",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53000",
+     "sha256": "ad6224f5e9fb8b86f6539791cff1e6e49e2feb11c6ae24b1ff02c664a23a5f6f"
+    }
+   ]
+  }
+ ]
+}

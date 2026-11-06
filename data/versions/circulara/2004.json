@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "circulara/2004",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2004",
+   "path": "circulara/bnr/2004/1",
+   "short": "Circulara bnr nr. 1/2004",
+   "title": "Circulara nr. 1/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna ianuarie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48982",
+   "versions": [
+    {
+     "from": "2004-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48982",
+     "sha256": "ed4bd2b9e63a153bed599978998a7b389ae6ca4f086356efa8aeaf6101ff0e03"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2004",
+   "path": "circulara/bnr/2004/10",
+   "short": "Circulara bnr nr. 10/2004",
+   "title": "Circulara nr. 10/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna mai 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51780",
+   "versions": [
+    {
+     "from": "2004-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51780",
+     "sha256": "33842e1994daed5b0f1b2f4e4ccd82743394c86072112d88b1c02e7d8e629915"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2004",
+   "path": "circulara/bnr/2004/14",
+   "short": "Circulara bnr nr. 14/2004",
+   "title": "Circulara nr. 14/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iulie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53353",
+   "versions": [
+    {
+     "from": "2004-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53353",
+     "sha256": "5febd042f190b1af26b42d0ed198ef023737e3a11e6630edf86ca0f3b2bda9a3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2004",
+   "path": "circulara/bnr/2004/15",
+   "short": "Circulara bnr nr. 15/2004",
+   "title": "Circulara nr. 15/2004 pentru modificarea Regulamentului nr. 1/2001 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53999",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53999",
+     "sha256": "f92b5c0c0de680224591360ed414a46a8e95c7483d3383f72e1e9f513a4c7d60"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2004",
+   "path": "circulara/bnr/2004/16",
+   "short": "Circulara bnr nr. 16/2004",
+   "title": "Circulara nr. 16/2004 privind perceperea de comisioane pentru operațiunile efectuate prin contul curent general al Trezoreriei Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54011",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54011",
+     "sha256": "6f8b494bd05cb48ebfa17d1737bf5e55de7e6fb02c2ac5c9dd9ebfe844ea956a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2004",
+   "path": "circulara/bnr/2004/17",
+   "short": "Circulara bnr nr. 17/2004",
+   "title": "Circulara nr. 17/2004 privind comisioanele percepute de către Banca Națională a României pentru efectuarea operațiunilor în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54012",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54012",
+     "sha256": "1c622ed734c549dfce2a74241b640dd1218702d6ba75867df24592ebaf13b1d7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2004",
+   "path": "circulara/bnr/2004/18",
+   "short": "Circulara bnr nr. 18/2004",
+   "title": "Circulara nr. 18/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna august 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54251",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54251",
+     "sha256": "775fa4b3a2954c4d98347800baf86fd49784e110206843e4b282aa41de151993"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2004",
+   "path": "circulara/bnr/2004/19",
+   "short": "Circulara bnr nr. 19/2004",
+   "title": "Circulara nr. 19/2004 privind modificarea ratei rezervelor minime obligatorii pentru mijloacele bănești în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54403",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54403",
+     "sha256": "16b11b934d6d7b2970c0140375d518104c6705ca27abe0a56cf7161bec6bf82c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2004",
+   "path": "circulara/bnr/2004/2",
+   "short": "Circulara bnr nr. 2/2004",
+   "title": "Circulara nr. 2/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna februarie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49595",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49595",
+     "sha256": "e148ccfd6582415ec58d81dbffccfe9c6cf9a114ba3ab1ee9723345a0b268f8c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2004",
+   "path": "circulara/bnr/2004/20",
+   "short": "Circulara bnr nr. 20/2004",
+   "title": "Circulara nr. 20/2004 privind retragerea din circulație și încetarea puterii circulatorii a bancnotei cu valoarea nominală de 2.000 lei - emisiunea 1999, imprimată pe suport de polimer",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54707",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54707",
+     "sha256": "689f8e9734a11adf3470abf42bab3e0642544cb47f31f75222aa647c3d67c6ed"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2004",
+   "path": "circulara/bnr/2004/22",
+   "short": "Circulara bnr nr. 22/2004",
+   "title": "Circulara nr. 22/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna septembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55014",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55014",
+     "sha256": "f1ae08ed5f5bde61f74afbaabc02ecf3bde229228de28ac7d5e148c34e39c857"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2004",
+   "path": "circulara/bnr/2004/26",
+   "short": "Circulara bnr nr. 26/2004",
+   "title": "Circulara nr. 26/2004 pentru completarea Regulamentului Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57230",
+   "versions": [
+    {
+     "from": "2004-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57230",
+     "sha256": "352b8d155ad3eeeaf2c42222b41afe484c4dcafa75fa98f092adde6879b0989e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2004",
+   "path": "circulara/bnr/2004/27",
+   "short": "Circulara bnr nr. 27/2004",
+   "title": "Circulara nr. 27/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna decembrie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57416",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57416",
+     "sha256": "c6ef6338baa9f7b3a683eb6ab0cde0b40162398f02ac572d830e6ebda46b1aab"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2004",
+   "path": "circulara/bnr/2004/28",
+   "short": "Circulara bnr nr. 28/2004",
+   "title": "Circulara nr. 28/2004 privind punerea în circulație, în scop numismatic, a unei monede din aur cu valoarea nominală de 100 lei, emisiunea \"Istoria aurului - engolpion cantacuzin\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57674",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57674",
+     "sha256": "69adaff1ba96efd12ea8196b183c2ef2b31afb24998184284ebd34b46bf7af4b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2004",
+   "path": "circulara/bnr/2004/3",
+   "short": "Circulara bnr nr. 3/2004",
+   "title": "Circulara nr. 3/2004 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 1/2000 privind operațiunile de piață monetară efectuate de Banca Națională a României și facilitățile de creditare și de depozit acordate de aceasta băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50247",
+   "versions": [
+    {
+     "from": "2004-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50247",
+     "sha256": "122720dceb29c777761147604df06fc71855d36a8f81261bd7a10225c6c05c59"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2004",
+   "path": "circulara/bnr/2004/30",
+   "short": "Circulara bnr nr. 30/2004",
+   "title": "Circulara nr. 30/2004 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 5/2004 privind adecvarea capitalului instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58039",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58039",
+     "sha256": "6d4cd71d67114715044a62a44f2c40b7be4ee3ecd2a1a055ace922aa603ea39c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2004",
+   "path": "circulara/bnr/2004/31",
+   "short": "Circulara bnr nr. 31/2004",
+   "title": "Circulara nr. 31/2004 privind decontarea transferurilor de fonduri denominate în lei ale instituțiilor de credit, ale Băncii Naționale a României și ale Trezoreriei Statului în perioada de finalizare a exercițiului financiar pe anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58137",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58137",
+     "sha256": "d83bb982c727fef6ad9ce5cd9d61847dc3513707a20ceae94fcaa0b00eeeb1e0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2004",
+   "path": "circulara/bnr/2004/4",
+   "short": "Circulara bnr nr. 4/2004",
+   "title": "Circulara nr. 4/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna martie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50219",
+   "versions": [
+    {
+     "from": "2004-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50219",
+     "sha256": "978a4bdeb007d4a275dc9be43870deeff99a7a2c86dd8fee0878fc581581a026"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2004",
+   "path": "circulara/bnr/2004/5",
+   "short": "Circulara bnr nr. 5/2004",
+   "title": "Circulara nr. 5/2004 privind abrogarea unor articole din Regulamentul Băncii Naționale a României nr. 2/1996 cu privire la operațiunile cu numerar, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50607",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50607",
+     "sha256": "70601d770d4c0207b9a0f2283171b47bc282bf5103df4edcc18a82b49b4df7eb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2004",
+   "path": "circulara/bnr/2004/6",
+   "short": "Circulara bnr nr. 6/2004",
+   "title": "Circulara nr. 6/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna aprilie 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50983",
+   "versions": [
+    {
+     "from": "2004-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50983",
+     "sha256": "77439e138b6b3f3911b53c0fc7ddd9c6755168718885a7f78c4916c93bea8d0a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2004",
+   "path": "circulara/bnr/2004/7",
+   "short": "Circulara bnr nr. 7/2004",
+   "title": "Circulara nr. 7/2004 pentru completarea Regulamentului Băncii Naționale a României nr. 1/2004 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51047",
+   "versions": [
+    {
+     "from": "2004-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51047",
+     "sha256": "667977ef1f6573752556735d1ca4bc1ba578e2e24c12e98acc1b148e2c45d194"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2004",
+   "path": "circulara/bnr/2004/9",
+   "short": "Circulara bnr nr. 9/2004",
+   "title": "Circulara nr. 9/2004 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51758",
+   "versions": [
+    {
+     "from": "2004-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51758",
+     "sha256": "5bccabe40c48f2ec610c5ae7873d73a6c98cd00070032b2accc171686eda6dc6"
+    }
+   ]
+  }
+ ]
+}

@@ -106,6 +106,36 @@
      "sha256": "f07cce63353c37a3c3193c8f380293c1e390ad7d5732c51b72592885fb206c1f"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-4-1998",
+   "path": "regulament/bnr/1998/4",
+   "short": "Regulament bnr nr. 4/1998",
+   "title": "Regulamentul nr. 4/1998 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15256",
+   "versions": [
+    {
+     "from": "1998-07-22",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15256",
+     "sha256": "4b384d75c51f90397953c865bf5caec37e482441553648a92660d1952cf466f1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-12-1998",
+   "path": "regulament/cnvm/1998/12",
+   "short": "Regulament cnvm nr. 12/1998",
+   "title": "Regulamentul nr. 12/1998 din 1997 privind modificarea și completarea Regulamentului nr. 9/1997 privind cerințele, criteriile de înregistrare și procedurile de autorizare a societăților de registru independent privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10958",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10958",
+     "sha256": "9377ecae567eb37c8a8be1876f712608370d1407bdb0931cb975abc19e674d55"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2006",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-20-2006",
+   "path": "hotarare/bnr/2006/20",
+   "short": "Hotărârea bnr nr. 20/2006",
+   "title": "Hotărârea nr. 20/2006 privind retragerea autorizației Nova Bank - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74470",
+   "versions": [
+    {
+     "from": "2006-08-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74470",
+     "sha256": "ca9e4d58589e13f4ceeb64fc46e52799410987460ad2d75296ee3dcde5d96e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-14-2006",
+   "path": "hotarare/csspp/2006/14",
+   "short": "Hotărârea csspp nr. 14/2006",
+   "title": "Hotărârea nr. 14/2006 pentru aprobarea Normei nr. 2/2006 privind autorizarea societății de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74954",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74954",
+     "sha256": "f496864ccd5089533545316c5817de9726f98918ef91f39f143e332d1c52bc5e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-15-2006",
+   "path": "hotarare/csspp/2006/15",
+   "short": "Hotărârea csspp nr. 15/2006",
+   "title": "Hotărârea nr. 15/2006 pentru aprobarea Normei nr. 3/2006 privind autorizarea fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74965",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74965",
+     "sha256": "5955de353b11db4e9b144fdc663dea18c54e30efdfec3da33fbb1ef70ba268b8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-17-2006",
+   "path": "hotarare/csspp/2006/17",
+   "short": "Hotărârea csspp nr. 17/2006",
+   "title": "Hotărârea nr. 17/2006 pentru aprobarea Normei nr. 5/2006 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii facultative și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74975",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74975",
+     "sha256": "870d01ab1ac70f23cf5ff4eb679b1348ce890cd953d55bd9e816c4bf8e5c25b3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-18-2006",
+   "path": "hotarare/csspp/2006/18",
+   "short": "Hotărârea csspp nr. 18/2006",
+   "title": "Hotărârea nr. 18/2006 pentru aprobarea Normei nr. 6/2006 privind prospectul schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74979",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74979",
+     "sha256": "c98d9d93623a176d20932b8f7a742de4f2657007f5caa737b859cd55b8d7bae2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-19-2006",
+   "path": "hotarare/csspp/2006/19",
+   "short": "Hotărârea csspp nr. 19/2006",
+   "title": "Hotărârea nr. 19/2006 pentru aprobarea Normei nr. 7/2006 privind încetarea activității administratorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74925",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74925",
+     "sha256": "7e5a72be3eb1bec72404243a5e43250f9d5c8ac81f6a612cbdf397544e0a494c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-20-2006",
+   "path": "hotarare/csspp/2006/20",
+   "short": "Hotărârea csspp nr. 20/2006",
+   "title": "Hotărârea nr. 20/2006 pentru aprobarea Normei nr. 8/2006 privind auditorul financiar pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75147",
+   "versions": [
+    {
+     "from": "2006-09-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75147",
+     "sha256": "98cb5a39c25b7075c323a4e019f11ed681902c45fbfac9de1302d0ff61d2a87c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-21-2006",
+   "path": "hotarare/csspp/2006/21",
+   "short": "Hotărârea csspp nr. 21/2006",
+   "title": "Hotărârea nr. 21/2006 pentru aprobarea Normei nr. 9/2006 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76257",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76257",
+     "sha256": "267fde2ade1f7d184108c87dd176eb9d623c41ffb267eaf40fb552ae683efb82"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-24-2006",
+   "path": "hotarare/csspp/2006/24",
+   "short": "Hotărârea csspp nr. 24/2006",
+   "title": "Hotărârea nr. 24/2006 pentru aprobarea Normei nr. 12/2006 privind participanții la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76248",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76248",
+     "sha256": "bc20e18c98c9b2ffd99a4a242eadd040a55aba28fe097a5d76623a1b7eb2ff4e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-25-2006",
+   "path": "hotarare/csspp/2006/25",
+   "short": "Hotărârea csspp nr. 25/2006",
+   "title": "Hotărârea nr. 25/2006 pentru aprobarea Normei nr. 13/2006 privind autorizarea prospectului schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76262",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76262",
+     "sha256": "fc19ba911f24e2f201fba3cd60f658af525516312580c3ec073ecda9846d3cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-26-2006",
+   "path": "hotarare/csspp/2006/26",
+   "short": "Hotărârea csspp nr. 26/2006",
+   "title": "Hotărârea nr. 26/2006 pentru aprobarea Normei nr. 14/2006 privind transferul participanților între fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76267",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76267",
+     "sha256": "5739ff88933047b3c681c63156c7d99c08b68b8dc3d1c25191c586576ad8f59c"
+    }
+   ]
+  }
+ ]
+}

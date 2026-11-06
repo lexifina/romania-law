@@ -3,6 +3,21 @@
  "shard": "decizie/2004",
  "acts": [
   {
+   "slug": "decizie-ancom-1074-2004",
+   "path": "decizie/ancom/2004/1074",
+   "short": "Decizia ancom nr. 1074/2004",
+   "title": "Decizia nr. 1.074/2004 /EN din 6 iulie 2004 privind implementarea serviciului universal în sectorul comunicațiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54490",
+   "versions": [
+    {
+     "from": "2004-08-21",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54490",
+     "sha256": "df27bc747b2a3420768a8a8b42a226079acbe2edbe54571e9a31e60e50ec8f16"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-1124-2004",
    "path": "decizie/ancom/2004/1124",
    "short": "Decizia ancom nr. 1124/2004",
@@ -74,6 +89,741 @@
      "units": 1,
      "source_url": "https://www.ancom.ro/decizie/decizia-nr-153-2004-pentru-modificarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-88-2004-privind-desemnarea-furnizorului-de-serviciu-universal-in-domeniul-servicii/?link_id=107209_decizie_2004_153.pdf",
      "sha256": "6d7a3a961d816130b90b2bacc5b3e0dee07eb2add7928ef6ab098ea4d602afbc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-88-2004",
+   "path": "decizie/ancom/2004/88",
+   "short": "Decizia ancom nr. 88/2004",
+   "title": "Decizia nr. 88/2004 /EN din 8 aprilie 2004 privind desemnarea furnizorului de serviciu universal în domeniul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51356",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51356",
+     "sha256": "346f64523c208f93716aa91ecfcecde1c5fbe9e985b6d2ba06aaaa9661b8f8e7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-23-2004",
+   "path": "decizie/anre/2004/23",
+   "short": "Decizia anre nr. 23/2004",
+   "title": "Decizia nr. 23/2004 privind acordarea autorizației pentru înființarea obiectivului energetic \"Stația electrică 110/20 kV Port IV\" Companiei Naționale \"Administrația Porturilor Maritime\" - S.A. Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49681",
+   "versions": [
+    {
+     "from": "2004-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49681",
+     "sha256": "b8938cb93ad5787cb2072e3c9e34d88fb1d49ca716879c19793a949d92c831e7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-24-2004",
+   "path": "decizie/anre/2004/24",
+   "short": "Decizia anre nr. 24/2004",
+   "title": "Decizia nr. 24/2004 privind acordarea autorizației de înființare pentru retehnologizarea obiectivului energetic \"Stația electrică 110/20/10 kV Eforie Nord\" Societății Comerciale Filiala de Distribuție și Furnizare a Energiei Electrice \"Electrica Dobrogea\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49683",
+   "versions": [
+    {
+     "from": "2004-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49683",
+     "sha256": "bfcb098c79d56dccf72912d810d926af5814917c179f25cadcf3c49f9604e552"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-54-2004",
+   "path": "decizie/anre/2004/54",
+   "short": "Decizia anre nr. 54/2004",
+   "title": "Decizia nr. 54/2004 privind acordarea autorizației pentru înființarea obiectivului energetic \"Stația electrică 110/20/6 kV Comănești\" Societății Comerciale Filiala de Distribuție și Furnizare a Energiei Electrice \"Electrica Moldova\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50382",
+   "versions": [
+    {
+     "from": "2004-03-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50382",
+     "sha256": "c2458348caccfcd197eef8bc649fa60aa5af965d6ee982acb38e77e6863b673a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-64-2004",
+   "path": "decizie/anre/2004/64",
+   "short": "Decizia anre nr. 64/2004",
+   "title": "Decizia nr. 64/2004 privind acordarea Autorizației pentru înființarea obiectivului energetic \"Stația electrică 110/20 kV Tecuci Est\" Societății Comerciale Filiala de Distribuție și Furnizare a Energiei Electrice \"Electrica Muntenia Nord\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50961",
+   "versions": [
+    {
+     "from": "2004-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50961",
+     "sha256": "bde52ec0a2d8934e0e146798242f75eac3fca4086b07becdce928149c22fc9e5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-87-2004",
+   "path": "decizie/anre/2004/87",
+   "short": "Decizia anre nr. 87/2004",
+   "title": "Decizia nr. 87/2004 privind acordarea autorizației pentru înființarea obiectivului energetic \"LES 110 kV Baba Novac-Centru 1\" Societății Comerciale Filiala de Distribuție și Furnizare a Energiei Electrice \"Electrica Dobrogea\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51139",
+   "versions": [
+    {
+     "from": "2004-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51139",
+     "sha256": "f4b7c0bf4388391b9139e43ca5da3559b6d1e332cc81cd2bcc52fda0bda1ae20"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1231-2004",
+   "path": "decizie/anrgn/2004/1231",
+   "short": "Decizia anrgn nr. 1231/2004",
+   "title": "Decizia nr. 1.231/2004 privind aprobarea Regulamentului de constatare, notificare și sancționare a abaterilor de la reglementările emise în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55513",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55513",
+     "sha256": "45b5bfe4c2951695f7801cf979a94bbd04d886e3887b414f2ee724f3e9cf6c14"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1232-2004",
+   "path": "decizie/anrgn/2004/1232",
+   "short": "Decizia anrgn nr. 1232/2004",
+   "title": "Decizia nr. 1.232/2004 pentru modificarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 331/2004 privind aprobarea Listei centralizate a consumatorilor eligibili de gaze naturale în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55502",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55502",
+     "sha256": "83e85674a83f274767fa8daefca59cddf0a40a8fdeac17e7906ae23456e88046"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1271-2004",
+   "path": "decizie/anrgn/2004/1271",
+   "short": "Decizia anrgn nr. 1271/2004",
+   "title": "Decizia nr. 1.271/2004 privind aprobarea Condițiilor-cadru de valabilitate a licenței pentru distribuția gazelor naturale, a Condițiilor-cadru de valabilitate a licenței pentru furnizarea gazelor naturale și a Condițiilor-cadru de valabilitate a autorizației de funcționare a obiectivelor/sistemelor de distribuție a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57596",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57596",
+     "sha256": "92d8d4501304ebeaf125a2b0060d7e17f10c14e1e0862c354394c46a9e0ee376"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1342-2004",
+   "path": "decizie/anrgn/2004/1342",
+   "short": "Decizia anrgn nr. 1342/2004",
+   "title": "Decizia nr. 1.342/2004 privind aprobarea Regulamentului pentru autorizarea și verificarea persoanelor fizice care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale și a Regulamentului pentru autorizarea și verificarea agenților economici care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56381",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56381",
+     "sha256": "477f0a5fb79fed8eb7b9a55d0cea60b0e5323f3cce0c9d826bda07389e85578b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1345-2004",
+   "path": "decizie/anrgn/2004/1345",
+   "short": "Decizia anrgn nr. 1345/2004",
+   "title": "Decizia nr. 1.345/2004 pentru aprobarea Regulamentului de funcționare a Comisiei de soluționare a refuzului accesului la sistemele de transport, distribuție, înmagazinare subterană a gazelor naturale și la conductele din amonte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56357",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56357",
+     "sha256": "eb9f912cf916810460046944678342dac3884d0f73fdbbe1538f69574eb2d48a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1346-2004",
+   "path": "decizie/anrgn/2004/1346",
+   "short": "Decizia anrgn nr. 1346/2004",
+   "title": "Decizia nr. 1.346/2004 privind aprobarea Regulamentului pentru acreditarea consumatorilor eligibili de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56359",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56359",
+     "sha256": "837281f5dd96fc844f8992b46046ebc788c59f9ee89bb49963a41c0330510144"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1347-2004",
+   "path": "decizie/anrgn/2004/1347",
+   "short": "Decizia anrgn nr. 1347/2004",
+   "title": "Decizia nr. 1.347/2004 privind stabilirea cantităților de gaze naturale alocate consumatorilor eligibili în anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56337",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56337",
+     "sha256": "4152d332167e63e86dd981b79dd80221736532a24650b337c2d48e10e65f61ba"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1348-2004",
+   "path": "decizie/anrgn/2004/1348",
+   "short": "Decizia anrgn nr. 1348/2004",
+   "title": "Decizia nr. 1.348/2004 pentru completarea Listei centralizate a consumatorilor eligibili de gaze naturale în anul 2004, aprobată prin Decizia președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 331/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56336",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56336",
+     "sha256": "4c55a2512c436517f422c97bb2e71c09d1eb7062d80138a0d796e20666235604"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1353-2004",
+   "path": "decizie/anrgn/2004/1353",
+   "short": "Decizia anrgn nr. 1353/2004",
+   "title": "Decizia nr. 1.353/2004 pentru aprobarea Regulamentului de programare, funcționare și dispecerizare a depozitelor de înmagazinare subterană a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57583",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57583",
+     "sha256": "8890a96db84d9b806e0489656b95409be50b5a0aeb1be8ed023920fa3239ddb2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1354-2004",
+   "path": "decizie/anrgn/2004/1354",
+   "short": "Decizia anrgn nr. 1354/2004",
+   "title": "Decizia nr. 1.354/2004 pentru aprobarea Regulamentului privind alimentarea cu gaze naturale a consumatorilor captivi racordați direct în Sistemul național de transport și/sau la conductele din amonte și a consumatorilor eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57589",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57589",
+     "sha256": "633f5cac3212bd38abc400d176f088b65fb407750bb1ffbb73c049f38868c049"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-1412-2004",
+   "path": "decizie/anrgn/2004/1412",
+   "short": "Decizia anrgn nr. 1412/2004",
+   "title": "Decizia nr. 1.412/2004 privind aprobarea Listei centralizate a consumatorilor eligibili de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57157",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57157",
+     "sha256": "cc3fe6f576784c30d87217e4786381e0a694be1c34a8327143eab1c5c06499c0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-3-2004",
+   "path": "decizie/anrgn/2004/3",
+   "short": "Decizia anrgn nr. 3/2004",
+   "title": "Decizia nr. 3/2004 de modificare a Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 974/2002 privind aprobarea Regulamentului pentru acreditarea consumatorilor eligibili de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48998",
+   "versions": [
+    {
+     "from": "2004-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48998",
+     "sha256": "b20319c1ed2933b26bdbcb2aab0ab12e5addfa8171c95247ef58113ac3375122"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-331-2004",
+   "path": "decizie/anrgn/2004/331",
+   "short": "Decizia anrgn nr. 331/2004",
+   "title": "Decizia nr. 331/2004 privind aprobarea Listei centralizate a consumatorilor eligibili de gaze naturale în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50402",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50402",
+     "sha256": "3ad241a9762c2240dd54c3f3937b42a3a4cdba23773ec55fc12961b263dd41df"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-332-2004",
+   "path": "decizie/anrgn/2004/332",
+   "short": "Decizia anrgn nr. 332/2004",
+   "title": "Decizia nr. 332/2004 privind retragerea acreditării de consumator eligibil de gaze naturale Societății Comerciale \"Prescon B.V.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50597",
+   "versions": [
+    {
+     "from": "2004-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50597",
+     "sha256": "b16565b004b947da8bd669eb2d14cfa6a03337d4bb07ca183eda293b815de637"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-333-2004",
+   "path": "decizie/anrgn/2004/333",
+   "short": "Decizia anrgn nr. 333/2004",
+   "title": "Decizia nr. 333/2004 privind retragerea acreditării de consumator eligibil de gaze naturale Societății Comerciale \"AZOMUREȘ\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50598",
+   "versions": [
+    {
+     "from": "2004-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50598",
+     "sha256": "e04398919014f197a02e1488a2fc93006d9b2fab2f0044cf7c778316f88a7184"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-334-2004",
+   "path": "decizie/anrgn/2004/334",
+   "short": "Decizia anrgn nr. 334/2004",
+   "title": "Decizia nr. 334/2004 privind retragerea acreditării de consumator eligibil de gaze naturale Societății Comerciale \"Uzina Termoelectrică Midia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50599",
+   "versions": [
+    {
+     "from": "2004-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50599",
+     "sha256": "a6653b1ed3f1dcf8193a3458e17af5b443c0267eb6d8fa5cf9626896c22d1fef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-339-2004",
+   "path": "decizie/anrgn/2004/339",
+   "short": "Decizia anrgn nr. 339/2004",
+   "title": "Decizia nr. 339/2004 privind aprobarea duratelor reglementate pentru amortizarea imobilizărilor corporale și necorporale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50600",
+   "versions": [
+    {
+     "from": "2004-03-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50600",
+     "sha256": "b57683fbcd7fe36f5cfb2922e7120dd82f018343f2d289b0ea046a366db27fad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-387-2004",
+   "path": "decizie/anrgn/2004/387",
+   "short": "Decizia anrgn nr. 387/2004",
+   "title": "Decizia nr. 387/2004 privind aprobarea Regulamentului pentru acordarea licenței provizorii în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50740",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50740",
+     "sha256": "990a7983c152bbbe6c2d4cf184efb204b98b17a2639bde94486e18f4955e5a64"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-480-2004",
+   "path": "decizie/anrgn/2004/480",
+   "short": "Decizia anrgn nr. 480/2004",
+   "title": "Decizia nr. 480/2004 privind aprobarea Contractului-cadru de înmagazinare subterană a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51186",
+   "versions": [
+    {
+     "from": "2004-04-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51186",
+     "sha256": "eda838c99385533c78bf36d59e8c99c1f1eca863fbd82a7039b30103373a52ff"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-552-2004",
+   "path": "decizie/anrgn/2004/552",
+   "short": "Decizia anrgn nr. 552/2004",
+   "title": "Decizia nr. 552/2004 pentru modificarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 331/2004 privind aprobarea Listei centralizate a consumatorilor eligibili de gaze naturale în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51257",
+   "versions": [
+    {
+     "from": "2004-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51257",
+     "sha256": "6487d36f5e610eeaf398c788b5ea3efd52ac2f71d01ce6968d6cef04f1602222"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-575-2004",
+   "path": "decizie/anrgn/2004/575",
+   "short": "Decizia anrgn nr. 575/2004",
+   "title": "Decizia nr. 575/2004 privind retragerea acreditării de consumator eligibil de gaze naturale Societății Comerciale \"CAROM\" - S.A. Onești și modificarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 331/2004 privind aprobarea Listei centralizate a consumatorilor eligibili de gaze naturale în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51525",
+   "versions": [
+    {
+     "from": "2004-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51525",
+     "sha256": "7d2678c1191ac8fb5b90ea9ca772198467e9c79fc27f3641aad34c95379fe730"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-620-2004",
+   "path": "decizie/anrgn/2004/620",
+   "short": "Decizia anrgn nr. 620/2004",
+   "title": "Decizia nr. 620/2004 pentru aprobarea Normelor privind prevenirea abuzului de poziție dominantă pe piața internă de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51774",
+   "versions": [
+    {
+     "from": "2004-05-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51774",
+     "sha256": "c6f536174bb782618169d86eff232efc18003658ee900cf670424501a11d22fe"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-824-2004",
+   "path": "decizie/anrgn/2004/824",
+   "short": "Decizia anrgn nr. 824/2004",
+   "title": "Decizia nr. 824/2004 pentru aprobarea Regulamentului privind accesul reglementat la depozitele de înmagazinare subterană a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52950",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52950",
+     "sha256": "f9b9edb1ae233a34acbb33f64e5f5f95faa9c3c270d4e8b19f96a4c7658517b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-825-2004",
+   "path": "decizie/anrgn/2004/825",
+   "short": "Decizia anrgn nr. 825/2004",
+   "title": "Decizia nr. 825/2004 pentru aprobarea Codului tehnic al gazelor naturale lichefiate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52968",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52968",
+     "sha256": "2a40793c96c40a8dd674cada5b57289b2d749444c61e526ee92c8ddd774b4031"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-884-2004",
+   "path": "decizie/anrgn/2004/884",
+   "short": "Decizia anrgn nr. 884/2004",
+   "title": "Decizia nr. 884/2004 pentru modificarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Gazelor Naturale nr. 331/2004 privind aprobarea Listei centralizate a consumatorilor eligibili de gaze naturale în anul 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52886",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52886",
+     "sha256": "4d9b27ae8ce7fb17897f3c3c71d993ffdd3cf555e8bb925c82dffde94551694b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-887-2004",
+   "path": "decizie/anrgn/2004/887",
+   "short": "Decizia anrgn nr. 887/2004",
+   "title": "Decizia nr. 887/2004 privind modificarea Contractului-cadru de înmagazinare subterană a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53214",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53214",
+     "sha256": "a44ea3a909bab5fd392f443cc2541ff327aeddedc43aa704899e9e362149d71c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-888-2004",
+   "path": "decizie/anrgn/2004/888",
+   "short": "Decizia anrgn nr. 888/2004",
+   "title": "Decizia nr. 888/2004 privind aprobarea Contractului-cadru de transport al gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53222",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53222",
+     "sha256": "55e0a9dafd244873bad591ce3cb9cf5697e62652e1a7cfac3aacbeb6795583af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-889-2004",
+   "path": "decizie/anrgn/2004/889",
+   "short": "Decizia anrgn nr. 889/2004",
+   "title": "Decizia nr. 889/2004 privind modificarea și completarea Contractului-cadru de distribuție a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53224",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53224",
+     "sha256": "4a06c35d1c824c2de55230ac287ecb8c84703c0230ea4f8bbad1742d7cea8be0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-895-2004",
+   "path": "decizie/anrgn/2004/895",
+   "short": "Decizia anrgn nr. 895/2004",
+   "title": "Decizia nr. 895/2004 privind modificarea contractelor-cadru de furnizare a gazelor naturale pentru consumatorii captivi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53443",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53443",
+     "sha256": "b359128c74f1861a286d0f643df1ddbb9cbbeb69dd4ebc5c7658b558a6da1e31"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-17-2004",
+   "path": "decizie/cna/2004/17",
+   "short": "Decizia cna nr. 17/2004",
+   "title": "Decizia nr. 17/2004 pentru modificarea și completarea Deciziei Consiliului Național al Audiovizualului nr. 123/2003 privind publicitatea și teleshoppingul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49723",
+   "versions": [
+    {
+     "from": "2004-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49723",
+     "sha256": "059adadc473e91dc0808741338bd50d159ddb851bca2ce503724a1075432bc81"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-247-2004",
+   "path": "decizie/cna/2004/247",
+   "short": "Decizia cna nr. 247/2004",
+   "title": "Decizia nr. 247/2004 pentru retragerea unor licențe audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53268",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53268",
+     "sha256": "cc848945c0a1aaa7a2593dce0e4846e879ff24beca50534e6b21c65b5117d816"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-248-2004",
+   "path": "decizie/cna/2004/248",
+   "short": "Decizia cna nr. 248/2004",
+   "title": "Decizia nr. 248/2004 privind protecția demnității umane și a dreptului la propria imagine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53823",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53823",
+     "sha256": "da7de297f6f4d0578b5bac76c152f8ec0cdbd821c969bb3413e102c64d205761"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-249-2004",
+   "path": "decizie/cna/2004/249",
+   "short": "Decizia cna nr. 249/2004",
+   "title": "Decizia nr. 249/2004 privind protecția copiilor în cadrul serviciilor de programe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53824",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53824",
+     "sha256": "839d8d6c88539da61f8e6f0b976ac6e5dec31b14be13df70ed0a4873273f29a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-250-2004",
+   "path": "decizie/cna/2004/250",
+   "short": "Decizia cna nr. 250/2004",
+   "title": "Decizia nr. 250/2004 pentru completarea Deciziei Consiliului Național al Audiovizualului nr. 40/2004 privind asigurarea informării corecte și a pluralismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53825",
+   "versions": [
+    {
+     "from": "2004-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53825",
+     "sha256": "dc0acb5dc126216fcbe088e5906a6903df59f91a56a0492925918fc3ffa99b3b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-277-2004",
+   "path": "decizie/cna/2004/277",
+   "short": "Decizia cna nr. 277/2004",
+   "title": "Decizia nr. 277/2004 pentru retragerea, la cerere, a unui aviz de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54608",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54608",
+     "sha256": "80724df7d0e4c709275d0cd7d1e089e47a6799b7607168b99b2601b3f6952394"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-280-2004",
+   "path": "decizie/cna/2004/280",
+   "short": "Decizia cna nr. 280/2004",
+   "title": "Decizia nr. 280/2004 pentru retragerea, la cerere, a unui aviz de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54609",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54609",
+     "sha256": "72277a953f99e7cacee791be07d3f51f3dbe5ef8d77e503dd90241e8dbf51e83"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-281-2004",
+   "path": "decizie/cna/2004/281",
+   "short": "Decizia cna nr. 281/2004",
+   "title": "Decizia nr. 281/2004 privind retragerea unei licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54491",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54491",
+     "sha256": "0372b099f13b332448da9edc81d70b56dbb0356f37a94b863949465e1d8130a9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-40-2004",
+   "path": "decizie/cna/2004/40",
+   "short": "Decizia cna nr. 40/2004",
+   "title": "Decizia nr. 40/2004 privind asigurarea informării corecte și a pluralismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50437",
+   "versions": [
+    {
+     "from": "2004-03-17",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50437",
+     "sha256": "0cd8c9bf9624850a4f4860e17c316df2f767a8525944b52e60724c4fc362e770"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-113-2004",
+   "path": "decizie/concurenta/2004/113",
+   "short": "Decizia concurenta nr. 113/2004",
+   "title": "Decizia nr. 113/2004 privind concentrarea economică realizată de către Societatea Comercială METALTRADE INTERNATIONAL - S.R.L. Galați prin dobândirea controlului unic direct asupra Societății Comerciale \"HELITUBE\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51552",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51552",
+     "sha256": "647aadd625127731d47f377908ac0722d337c19485525a5cfa16e75ec2a005cd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-328-2004",
+   "path": "decizie/concurenta/2004/328",
+   "short": "Decizia concurenta nr. 328/2004",
+   "title": "Decizia nr. 328/2004 privind concentrarea economică realizată de către Societatea Comercială \"Port Bazinul Nou\" - S.A. Galați prin achiziționarea mijloacelor fixe din patrimoniul Societății Comerciale \"Helitube\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58680",
+   "versions": [
+    {
+     "from": "2005-01-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58680",
+     "sha256": "8b92030e8da565ef9633e534d12458f1e720a96435b6e437e9508a8473c6370d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-85-2004",
+   "path": "decizie/concurenta/2004/85",
+   "short": "Decizia concurenta nr. 85/2004",
+   "title": "Decizia nr. 85/2004 privind concentrarea economică realizată de către Societatea Comercială GINGER GROUPE INGINERIE EUROPE-S.A. din Franța prin dobândirea controlului unic direct asupra Societății Comerciale CAMUSAT ROM TELECOMUNICAȚII-S.R.L. Otopeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51033",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51033",
+     "sha256": "f562c9861ff63bc705c66b3fdf4881d86889afcd4c4405c94ca73ff99183fd07"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3360-2004",
+   "path": "decizie/csa/2004/3360",
+   "short": "Decizia csa nr. 3360/2004",
+   "title": "Decizia nr. 3.360/2004 privind retragerea autorizației de constituire ca broker de asigurare a Societății Comerciale \"TOP ASIGURĂRI\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55255",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55255",
+     "sha256": "8436710610d6cbcd87ac2e5de88c7ee3057a0117359d8f604a607f5782c1b664"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3598-2004",
+   "path": "decizie/csa/2004/3598",
+   "short": "Decizia csa nr. 3598/2004",
+   "title": "Decizia nr. 3.598/2004 privind aprobarea transferului unui portofoliu de asigurări de viață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58095",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58095",
+     "sha256": "cf45e21adceb19580816d601e37c9829c727c6c654538b2aa9312c6e1fc1ec3c"
     }
    ]
   }

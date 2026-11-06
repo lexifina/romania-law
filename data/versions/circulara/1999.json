@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "circulara/1999",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-1999",
+   "path": "circulara/bnr/1999/1",
+   "short": "Circulara bnr nr. 1/1999",
+   "title": "Circulara nr. 1/1999 referitoare la ratele dobânzilor plătite la rezervele minime obligatorii în luna ianuarie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16910",
+   "versions": [
+    {
+     "from": "1999-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16910",
+     "sha256": "fdf36be4a50847e3a68c8dfa7b6df68b38e8d1590c3952e3931166d40f443205"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-1999",
+   "path": "circulara/bnr/1999/10",
+   "short": "Circulara bnr nr. 10/1999",
+   "title": "Circulara nr. 10/1999 privind ratele dobânzilor plătite de Banca Naționala a României la rezervele minime obligatorii, aferente lunii mai 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18203",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18203",
+     "sha256": "1365cd3fa55b35aa3c0df452439dd3800d397c76b329b72040da9cc31409ba82"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-1999",
+   "path": "circulara/bnr/1999/11",
+   "short": "Circulara bnr nr. 11/1999",
+   "title": "Circulara nr. 11/1999 privind reflectarea unor operațiuni în contabilitate și întocmirea unor situații financiar-contabile de către bănci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18618",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18618",
+     "sha256": "cb29cffd54a6c69209d194db35651b6683e103bfc31a47239d5b52766ea6d17a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-1999",
+   "path": "circulara/bnr/1999/13",
+   "short": "Circulara bnr nr. 13/1999",
+   "title": "Circulara nr. 13/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii, aferente lunii iunie 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18513",
+   "versions": [
+    {
+     "from": "1999-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18513",
+     "sha256": "1f32c69ede986f52e1ac484bc3096f5a772f93a79d93480a683d5d5a720f44f3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-1999",
+   "path": "circulara/bnr/1999/14",
+   "short": "Circulara bnr nr. 14/1999",
+   "title": "Circulara nr. 14/1999 privind modificarea ratei rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18698",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18698",
+     "sha256": "0024ead8d511dbb5a79ee455763dc76ade191f64aaa603069324665eb247e842"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-1999",
+   "path": "circulara/bnr/1999/15",
+   "short": "Circulara bnr nr. 15/1999",
+   "title": "Circulara nr. 15/1999 pentru modificarea Regulamentului Băncii Naționale a României nr. 4/1998 privind regimul rezervelor minime obligatorii, republicat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18699",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18699",
+     "sha256": "be1793b20841b796b9e1592827be87856e87c1ccc97da375bdbe658ef113285c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-1999",
+   "path": "circulara/bnr/1999/16",
+   "short": "Circulara bnr nr. 16/1999",
+   "title": "Circulara nr. 16/1999 privind punerea în circulație a unei bancnote cu valoarea nominală de 2.000 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18743",
+   "versions": [
+    {
+     "from": "1999-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18743",
+     "sha256": "e60a20021bcf06efb814b7b0e0d2384b1bc359552671a2ce211b0e0893cd1f3f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-1999",
+   "path": "circulara/bnr/1999/17",
+   "short": "Circulara bnr nr. 17/1999",
+   "title": "Circulara nr. 17/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente perioadei de aplicare 1-15 iulie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18783",
+   "versions": [
+    {
+     "from": "1999-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18783",
+     "sha256": "3e7400ab5dfbd07a462afb2c66844d1618d550b46dfe008601d7173b232b820d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-1999",
+   "path": "circulara/bnr/1999/18",
+   "short": "Circulara bnr nr. 18/1999",
+   "title": "Circulara nr. 18/1999 pentru modificarea și completarea Circularei nr. 9/1998 privind comisioanele încasate de Banca Naționala a României pentru serviciile de plăti fără numerar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19014",
+   "versions": [
+    {
+     "from": "1999-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19014",
+     "sha256": "e11a20269db5f76e10dfa0a3e1ef9023d76f851d397cc0f329c194a620596ff4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-1999",
+   "path": "circulara/bnr/1999/19",
+   "short": "Circulara bnr nr. 19/1999",
+   "title": "Circulara nr. 19/1999 privind punerea în circulație, cu ocazia eclipsei totale de Soare din data de 11 august 1999, a monedei cu valoare nominală de 500 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19008",
+   "versions": [
+    {
+     "from": "1999-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19008",
+     "sha256": "ff4ad5ca8e2e7ad32d109e64883b44e456dcc9e7a5ec3c4de350a540302ce799"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-1999",
+   "path": "circulara/bnr/1999/22",
+   "short": "Circulara bnr nr. 22/1999",
+   "title": "Circulara nr. 22/1999 pentru modificarea unor prevederi din Regulamentul Băncii Naționale a României nr. 3/1997 privind efectuarea operațiunilor valutare, modificat prin circularele Băncii Naționale a României nr. 7/1998 și nr. 25/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19258",
+   "versions": [
+    {
+     "from": "1999-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19258",
+     "sha256": "7b2fb94ee6665e61cc845f3f7a8b181dcc545037fe501b7d78d83a91ccb2015f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-1999",
+   "path": "circulara/bnr/1999/23",
+   "short": "Circulara bnr nr. 23/1999",
+   "title": "Circulara nr. 23/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii, aferente perioadei de aplicare septembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19260",
+   "versions": [
+    {
+     "from": "1999-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19260",
+     "sha256": "4d437f16059988f1af1969c6957a33714f2aede143e6a9fb738b07a1ced9dad2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-1999",
+   "path": "circulara/bnr/1999/24",
+   "short": "Circulara bnr nr. 24/1999",
+   "title": "Circulara nr. 24/1999 pentru abrogarea Normelor metodologice nr. 12/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19464",
+   "versions": [
+    {
+     "from": "1999-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19464",
+     "sha256": "472f9d323f08db2c12b008e98272461ee5e7c918c67871b4e1a6c8d4e7f46fd5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-1999",
+   "path": "circulara/bnr/1999/25",
+   "short": "Circulara bnr nr. 25/1999",
+   "title": "Circulara nr. 25/1999 privind retragerea și încetarea puterii circulatorii a bancnotei cu valoarea nominală de 500 lei - emisiunea 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19390",
+   "versions": [
+    {
+     "from": "1999-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19390",
+     "sha256": "15c864dba2b417e7cf4983e52848d67929f4a6c6ddaf46b15d67ebf5b62f82de"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-1999",
+   "path": "circulara/bnr/1999/26",
+   "short": "Circulara bnr nr. 26/1999",
+   "title": "Circulara nr. 26/1999 pentru modificarea Regulamentului Băncii Naționale a României nr. 3/1997 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19465",
+   "versions": [
+    {
+     "from": "1999-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19465",
+     "sha256": "9066df8e085a1a91b2032db20b525dece98fdef67307f2d8059d38e919541c7d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-1999",
+   "path": "circulara/bnr/1999/27",
+   "short": "Circulara bnr nr. 27/1999",
+   "title": "Circulara nr. 27/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii octombrie 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19617",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19617",
+     "sha256": "e80e5f6e0442b3e00357b8c6933e10219603b051f27b3c86286234bacd4bd7ca"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-1999",
+   "path": "circulara/bnr/1999/28",
+   "short": "Circulara bnr nr. 28/1999",
+   "title": "Circulara nr. 28/1999 pentru modificarea Regulamentului nr. 4/1998 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19647",
+   "versions": [
+    {
+     "from": "1999-11-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19647",
+     "sha256": "c0dd372ff0a8c96604c15f3ee61502a57b2fb82a72713580b5f28f73eea2d9e6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-1999",
+   "path": "circulara/bnr/1999/29",
+   "short": "Circulara bnr nr. 29/1999",
+   "title": "Circulara nr. 29/1999 privind modificarea ratei rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19648",
+   "versions": [
+    {
+     "from": "1999-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19648",
+     "sha256": "ba5ee1ebf3b186b415f10f55f984d0100d7c7ce767dcd232762d7ddc6ca44317"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-1999",
+   "path": "circulara/bnr/1999/3",
+   "short": "Circulara bnr nr. 3/1999",
+   "title": "Circulara nr. 3/1999 privind punerea în circulație a monedei cu valoarea nominală de 500 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17105",
+   "versions": [
+    {
+     "from": "1999-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17105",
+     "sha256": "37dd0fa0a39989a65cd77a6fd6ae2616eaa7c1162356a253573bed66e148f375"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-1999",
+   "path": "circulara/bnr/1999/30",
+   "short": "Circulara bnr nr. 30/1999",
+   "title": "Circulara nr. 30/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii noiembrie 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19928",
+   "versions": [
+    {
+     "from": "1999-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19928",
+     "sha256": "e0362dc1313ef78de172cc79dca23ea2d5fb4a162c23f51305bcd60e9819c4ae"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-1999",
+   "path": "circulara/bnr/1999/31",
+   "short": "Circulara bnr nr. 31/1999",
+   "title": "Circulara nr. 31/1999 privind decontarea operațiunilor de plăti și încasări prin conturile curente ale băncilor și ale trezoreriei statului în perioada de finalizare a exercițiului financiar pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20199",
+   "versions": [
+    {
+     "from": "1999-12-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20199",
+     "sha256": "87062547b5aa4e155ecf161364d6735cf801b4a185aad2da5da7391c0ab4e4b0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-1999",
+   "path": "circulara/bnr/1999/32",
+   "short": "Circulara bnr nr. 32/1999",
+   "title": "Circulara nr. 32/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii aferente lunii decembrie 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20248",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20248",
+     "sha256": "04574466d382c3ae73428f2f16ac01f175209b4a36684dd360f1bf088dee9190"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-1999",
+   "path": "circulara/bnr/1999/33",
+   "short": "Circulara bnr nr. 33/1999",
+   "title": "Circulara nr. 33/1999 privind punerea în circulație, în scop numismatic, a monedei din aur cu valoarea nominală de 100 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20289",
+   "versions": [
+    {
+     "from": "1999-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20289",
+     "sha256": "31918e01b6d52bf266403a498e04f8f43aaaa2cf2de02be3c7c0e20f2d25bac7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-1999",
+   "path": "circulara/bnr/1999/34",
+   "short": "Circulara bnr nr. 34/1999",
+   "title": "Circulara nr. 34/1999 pentru modificarea Regulamentului nr. 3/1997 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20344",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20344",
+     "sha256": "d608f6d593f08f3beaed5527b05c18600197a5c188b06185a86ec7e0104c8ffd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-1999",
+   "path": "circulara/bnr/1999/4",
+   "short": "Circulara bnr nr. 4/1999",
+   "title": "Circulara nr. 4/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii, aferente lunii februarie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17106",
+   "versions": [
+    {
+     "from": "1999-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17106",
+     "sha256": "9c47a5a0d31d80611494f554a991e7d0a899f101a629f605f1515d43797600cd"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-1999",
+   "path": "circulara/bnr/1999/7",
+   "short": "Circulara bnr nr. 7/1999",
+   "title": "Circulara nr. 7/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii, aferente lunii martie 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17285",
+   "versions": [
+    {
+     "from": "1999-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17285",
+     "sha256": "b7d7df938a143f42a10bbd2f33f8eee07a56aba2b1a45744ffa09ecabb600a13"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-1999",
+   "path": "circulara/bnr/1999/8",
+   "short": "Circulara bnr nr. 8/1999",
+   "title": "Circulara nr. 8/1999 privind ratele dobânzilor plătite la rezervele minime obligatorii, aferente lunii aprilie 1999 (perioade de aplicare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17951",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17951",
+     "sha256": "2899439c6a574800edb95bbe1705e81687ed1ba910fd9fcbea8ba160b61d10cc"
+    }
+   ]
+  }
+ ]
+}

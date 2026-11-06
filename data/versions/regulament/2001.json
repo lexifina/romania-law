@@ -46,6 +46,51 @@
      "sha256": "d7330400c902f6b5f2119a4406bb85464ade6094670d3d80a505fe8201735cfc"
     }
    ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2001",
+   "path": "regulament/cnvm/2001/1",
+   "short": "Regulament cnvm nr. 1/2001",
+   "title": "Regulamentul nr. 1/2001 din 2001 pentru completarea și modificarea Regulamentului nr. 3/1998 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28453",
+   "versions": [
+    {
+     "from": "2001-05-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28453",
+     "sha256": "3382e655bcb0b430aa5a7c00a045996d2d9da0d1648281e4266bb181d7272275"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-6-2001",
+   "path": "regulament/cnvm/2001/6",
+   "short": "Regulament cnvm nr. 6/2001",
+   "title": "Regulamentul nr. 6/2001 din 2000 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare potrivit Ordonanței de urgență a Guvernului nr. 229/2000 pentru modificarea și completarea Legii nr. 52/1994 privind valorile mobiliare și bursele de valori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26976",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26976",
+     "sha256": "8bbe98036638c4bf64bd3e83b7e5ac789399a69c92355054ee9071c8bc42c3d5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-2001",
+   "path": "regulament/cnvm/2001/8",
+   "short": "Regulament cnvm nr. 8/2001",
+   "title": "Regulamentul nr. 8/2001 din 2001 privind organizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32068",
+   "versions": [
+    {
+     "from": "2001-11-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32068",
+     "sha256": "261ffc82bf446378e1c3a7f5c5ae53f1b2ace62a65918b105334623c14434158"
+    }
+   ]
   }
  ]
 }

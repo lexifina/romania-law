@@ -166,6 +166,21 @@
      "sha256": "dc33be601aa645ea38a7cb7e844c69c6b39f7aefbf306a3649e755c5f966e3af"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-2-1997",
+   "path": "norma/bnr/1997/2",
+   "short": "Norma bnr nr. 2/1997",
+   "title": "Norma nr. 2/1997 pentru aplicarea prevederilor Legii nr. 135/1996 privind autorizarea Băncii Naționale a României de a acorda credite pentru acoperirea cererilor populației de retragere a depozitelor bancare constituite la societățile bancare \"Dacia Felix\" - S.A. și \"Credit Bank\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10781",
+   "versions": [
+    {
+     "from": "1997-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10781",
+     "sha256": "d777e3b11d4fdfbe41a6f1cfc6eaa0dec8df0f39442f9552091f33d08062a83d"
+    }
+   ]
   }
  ]
 }

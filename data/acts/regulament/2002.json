@@ -136,6 +136,25 @@
 "joint": []
 },
 {
+"slug": "regulament-cnvm-5-2002",
+"path": "regulament/cnvm/2002/5",
+"kind": "regulament",
+"year": "2002",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 5/2002 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare",
+"short": "Regulament cnvm nr. 5/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-01-30",
+"latest": "2003-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/41504",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-15-2002",
 "path": "regulament/cnvm/2002/15",
 "kind": "regulament",

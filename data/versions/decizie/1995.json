@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "decizie/1995",
+ "acts": [
+  {
+   "slug": "decizie-cna-130-1995",
+   "path": "decizie/cna/1995/130",
+   "short": "Decizia cna nr. 130/1995",
+   "title": "Decizia nr. 130/1995 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6365",
+   "versions": [
+    {
+     "from": "1995-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6365",
+     "sha256": "7c53ddd8239747466e2db7198b38e5232c751a64b99167c0daf1063ae7cc5d53"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-144-1995",
+   "path": "decizie/cna/1995/144",
+   "short": "Decizia cna nr. 144/1995",
+   "title": "Decizia nr. 144/1995 privind acordarea licențelor de emisie pentru radiodifuziune în trimestrul III/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6409",
+   "versions": [
+    {
+     "from": "1995-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6409",
+     "sha256": "26ccbc67fdc54929d37eae8198b28b0b98d13249e5be4ab6da590925e78e51ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-19-1995",
+   "path": "decizie/cna/1995/19",
+   "short": "Decizia cna nr. 19/1995",
+   "title": "Decizia nr. 19/1995 pentru aprobarea Normelor obligatorii privind sponsorizarea în domeniul audiovizualului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5827",
+   "versions": [
+    {
+     "from": "1995-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5827",
+     "sha256": "dd177915bcfe3a55d5c82e5bb77833054652e2278656031b99b87dc6a19c1406"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-76-1995",
+   "path": "decizie/cna/1995/76",
+   "short": "Decizia cna nr. 76/1995",
+   "title": "Decizia nr. 76/1995 privind retragerea licenței de emisie nr. TV006 din 27 ianuarie 1993 acordată Societății Comerciale \"Televiziunea T'89\" - S.A. pentru canalul 34 în municipiul Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6137",
+   "versions": [
+    {
+     "from": "1995-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6137",
+     "sha256": "d133d2994aba25af53c12a79577d7e41bd738e8868ded937d0ee1443318d1026"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-89-1995",
+   "path": "decizie/cna/1995/89",
+   "short": "Decizia cna nr. 89/1995",
+   "title": "Decizia nr. 89/1995 privind retragerea unor licențe de emisie pentru radiodifuziune/televiziune distribuita prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6197",
+   "versions": [
+    {
+     "from": "1995-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6197",
+     "sha256": "34fd461f48a359c8a90298b90c8f7ebef4e85dcb523308a590446969bc94fbe6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-92-1995",
+   "path": "decizie/cna/1995/92",
+   "short": "Decizia cna nr. 92/1995",
+   "title": "Decizia nr. 92/1995 referitoare la obligațiile titularilor de licențe de emisie privind siguranța emisiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6212",
+   "versions": [
+    {
+     "from": "1995-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6212",
+     "sha256": "036ae6ccdc87ed54ff09972aec94da85781e147383716871ea6fe765b839aa37"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-111-1995",
+   "path": "decizie/cnvm/1995/111",
+   "short": "Decizia cnvm nr. 111/1995",
+   "title": "Decizia nr. 111/1995 D/111 din 11 august 1995 privind aprobarea regulamentelor Bursei de Valori București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6291",
+   "versions": [
+    {
+     "from": "1995-09-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6291",
+     "sha256": "4635f87a547c511cfd36991e79dfc85289296737cb4b1cf6215052168076fb66"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-115-1995",
+   "path": "decizie/cnvm/1995/115",
+   "short": "Decizia cnvm nr. 115/1995",
+   "title": "Decizia nr. 115/1995 privind aprobarea regulamentelor Bursei de Valori București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6310",
+   "versions": [
+    {
+     "from": "1995-09-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6310",
+     "sha256": "0f2d5c353c8481354e6efb35aa88bf06b673da0db2a20958aea9e5309fae7f2d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-20-1995",
+   "path": "decizie/cnvm/1995/20",
+   "short": "Decizia cnvm nr. 20/1995",
+   "title": "Decizia nr. 20/1995 D.20 din 21 aprilie 1995 prin care se înființează Bursa de Valori București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5837",
+   "versions": [
+    {
+     "from": "1995-04-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5837",
+     "sha256": "1dba4df6248e54c18e1f69fdb9ec0957d7d24aeed905a9a6821cd59ec9c5abdc"
+    }
+   ]
+  }
+ ]
+}

@@ -226,6 +226,66 @@
      "sha256": "394b38a7e3b374e85fcc515e26d3125a4c73d91b693f4b57cefd755deda93117"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-12-1995",
+   "path": "norma/bnr/1995/12",
+   "short": "Norma bnr nr. 12/1995",
+   "title": "Norma nr. 12/1995 privind garantarea creditelor de refinanțare acordate de Banca Națională a României societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5758",
+   "versions": [
+    {
+     "from": "1995-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5758",
+     "sha256": "28bb3c44e00ddf813340e2d1ae4198e9a6b565de763e53620fc34a076f5a183d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-15-1995",
+   "path": "norma/bnr/1995/15",
+   "short": "Norma bnr nr. 15/1995",
+   "title": "Norma nr. 15/1995 privind supravegherea pozițiilor valutare ale societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5787",
+   "versions": [
+    {
+     "from": "1995-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5787",
+     "sha256": "4d31737d3b731775296f535dd2904b31a34fa602a3c3cf2c188dd04df76297c1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-16-1995",
+   "path": "norma/bnr/1995/16",
+   "short": "Norma bnr nr. 16/1995",
+   "title": "Norma nr. 16/1995 privind fondurile proprii ale societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5797",
+   "versions": [
+    {
+     "from": "1995-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5797",
+     "sha256": "06554bfb6ce43824e87b22ffa1b5e94261ee727a16fea1d89edc81a45c400be8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-1995",
+   "path": "norma/bnr/1995/8",
+   "short": "Norma bnr nr. 8/1995",
+   "title": "Norma nr. 8/1995 privind nivelul pozițiilor valutare ale sucursalelor din România ale societăților bancare, persoane juridice străine, pentru tranzacțiile valută contra lei efectuate pe piața valutară interbancară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5714",
+   "versions": [
+    {
+     "from": "1995-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5714",
+     "sha256": "28fffc3372e6681e2135456448355413dca890743da65139be3363680ee10a6d"
+    }
+   ]
   }
  ]
 }

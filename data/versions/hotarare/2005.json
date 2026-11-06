@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2005",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-10-2005",
+   "path": "hotarare/bnr/2005/10",
+   "short": "Hotărârea bnr nr. 10/2005",
+   "title": "Hotărârea nr. 10/2005 privind retragerea autorizației de funcționare a Cooperativei de credit \"Danubiana Corabia OC\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59959",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59959",
+     "sha256": "860eaed8dec69617020b665f9db9850b4e47b765cb98ee37a777d8516e47ecb0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-11-2005",
+   "path": "hotarare/bnr/2005/11",
+   "short": "Hotărârea bnr nr. 11/2005",
+   "title": "Hotărârea nr. 11/2005 privind retragerea autorizației de funcționare a Cooperativei de credit \"Credep Luduș\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59960",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59960",
+     "sha256": "3eaf07ec18602d5b761524b5aa5d1473b7e6934bc0bfbfef29ef4c593ae2dede"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-15-2005",
+   "path": "hotarare/bnr/2005/15",
+   "short": "Hotărârea bnr nr. 15/2005",
+   "title": "Hotărârea nr. 15/2005 privind retragerea autorizației de funcționare a Național Bank of Greece-S.A. - Sucursala București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62458",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62458",
+     "sha256": "f2f17b21ca9c2e22eb3710e19b63085d6e9a47ae94e88417220c822427746d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-16-2005",
+   "path": "hotarare/bnr/2005/16",
+   "short": "Hotărârea bnr nr. 16/2005",
+   "title": "Hotărârea nr. 16/2005 privind retragerea autorizației de funcționare a cooperativei \"Speranța Cooperativa de Credit\" Domnești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62926",
+   "versions": [
+    {
+     "from": "2005-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62926",
+     "sha256": "893b5087b83b59dcdca148fbe80d153fdcf4ee07d1d849b412063254910f4f86"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-17-2005",
+   "path": "hotarare/bnr/2005/17",
+   "short": "Hotărârea bnr nr. 17/2005",
+   "title": "Hotărârea nr. 17/2005 privind retragerea autorizației de funcționare a cooperativei \"Economia Cooperativa de Credit\" Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62927",
+   "versions": [
+    {
+     "from": "2005-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62927",
+     "sha256": "bc8cd2ed7af12288f5bf79f0daeeb986e0e15f5b6064c14d53ea80664e57000a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-23-2005",
+   "path": "hotarare/bnr/2005/23",
+   "short": "Hotărârea bnr nr. 23/2005",
+   "title": "Hotărârea nr. 23/2005 privind retragerea autorizației de funcționare a Cooperativei de credit \"Alianța Galați OC3\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31756",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31756",
+     "sha256": "fbe5d69dfb556999fb2be8e2e661189bffe0c14bd55d4ea0201c6cca04724a11"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-6-2005",
+   "path": "hotarare/bnr/2005/6",
+   "short": "Hotărârea bnr nr. 6/2005",
+   "title": "Hotărârea nr. 6/2005 privind retragerea autorizației de funcționare a Cooperativei de credit \"Turțana Turț OC\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59955",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59955",
+     "sha256": "16c82294be6ac35e0241e8aa6200ed58b6ab6075d903f37f73182612f5496548"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-7-2005",
+   "path": "hotarare/bnr/2005/7",
+   "short": "Hotărârea bnr nr. 7/2005",
+   "title": "Hotărârea nr. 7/2005 privind retragerea autorizației de funcționare a Cooperativei de credit \"Stăruința Bărbătești OC\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59956",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59956",
+     "sha256": "1270bb3c8b80256dd82902d87c26978198681da190618ac34bdfdbf8a13f5390"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-8-2005",
+   "path": "hotarare/bnr/2005/8",
+   "short": "Hotărârea bnr nr. 8/2005",
+   "title": "Hotărârea nr. 8/2005 privind retragerea autorizației de funcționare a Cooperativei de credit \"Salina Ocna Sibiului\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59957",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59957",
+     "sha256": "cfcdca8b78ea10b8b948fb3f9ee31b677afd978bfab177ac817fdb8ee01f4cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-9-2005",
+   "path": "hotarare/bnr/2005/9",
+   "short": "Hotărârea bnr nr. 9/2005",
+   "title": "Hotărârea nr. 9/2005 privind retragerea autorizației de funcționare a Cooperativei de credit \"Trandafirul Berești OC3\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59958",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59958",
+     "sha256": "9c3601cc62cde52c23e7f28665b65427bb7e2329e5ee3eef01b9e576e5831b39"
+    }
+   ]
+  }
+ ]
+}

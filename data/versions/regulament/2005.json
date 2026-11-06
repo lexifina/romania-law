@@ -301,6 +301,66 @@
      "sha256": "2e1b27f8d8b4fc1dce5f49b3f7bab80a6e68bb59bb51b6d4ccdc28ebc3ce18fb"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-1-2005",
+   "path": "regulament/bnr/2005/1",
+   "short": "Regulament bnr nr. 1/2005",
+   "title": "Regulamentul nr. 1/2005 privind sistemele de plăți care asigură compensarea fondurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60391",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60391",
+     "sha256": "8caaf5a7d730c27fcb76c545f5987c5929658c6e19de61c8bd8548f14008660e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2005",
+   "path": "regulament/bnr/2005/4",
+   "short": "Regulament bnr nr. 4/2005",
+   "title": "Regulamentul nr. 4/2005 privind regimul valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60607",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60607",
+     "sha256": "d156f6f82f3098085c516390ae372b9a5d22320947e18de56cf84fe8b7211848"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-15-2005",
+   "path": "regulament/cnvm/2005/15",
+   "short": "Regulament cnvm nr. 15/2005",
+   "title": "Regulamentul nr. 15/2005 privind serviciile de investiții financiare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68844",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68844",
+     "sha256": "bb1a10685cf32f556432219177efc78f1c1b16f652d2f3d0f4dca9d818e2d98b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-16-2005",
+   "path": "regulament/cnvm/2005/16",
+   "short": "Regulament cnvm nr. 16/2005",
+   "title": "Regulamentul nr. 16/2005 privind piața secundara a titlurilor de stat organizata ca piața reglementata*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68845",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68845",
+     "sha256": "cf11175d4987da0cef0574eab86dd4fbb84882425b834bb9dbdfe1e674b6b9db"
+    }
+   ]
   }
  ]
 }

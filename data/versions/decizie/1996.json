@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "decizie/1996",
+ "acts": [
+  {
+   "slug": "decizie-cna-30-1996",
+   "path": "decizie/cna/1996/30",
+   "short": "Decizia cna nr. 30/1996",
+   "title": "Decizia nr. 30/1996 pentru retragerea unor licențe de emisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8111",
+   "versions": [
+    {
+     "from": "1996-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8111",
+     "sha256": "5f8bd6b6193a6357e05022ecfda2e2b6d772bdb4564b28c5c745eada5c9ff685"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-4-1996",
+   "path": "decizie/cna/1996/4",
+   "short": "Decizia cna nr. 4/1996",
+   "title": "Decizia nr. 4/1996 privind acordarea licențelor de emisie pentru radiodifuziune, în trimestrul IV/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7757",
+   "versions": [
+    {
+     "from": "1996-02-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7757",
+     "sha256": "81b266d538b059dd4dc0e6dcd7e4b59f3f70fc05efef719215890a13566430af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-5-1996",
+   "path": "decizie/cna/1996/5",
+   "short": "Decizia cna nr. 5/1996",
+   "title": "Decizia nr. 5/1996 privind acordarea licențelor de emisie pentru televiziune, în trimestrul IV/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7774",
+   "versions": [
+    {
+     "from": "1996-02-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7774",
+     "sha256": "ca3e0e32848822a15d013175017969643cdf5a3f2e185789b803a1afe279448d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-55-1996",
+   "path": "decizie/cna/1996/55",
+   "short": "Decizia cna nr. 55/1996",
+   "title": "Decizia nr. 55/1996 privind retragerea Licenței de emisie nr. TV 006 din 27 ianuarie 1993, acordată postului de televiziune T'89 Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8312",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8312",
+     "sha256": "59212bea28eae4a0bf7c37849d7e11b8ba788129fa83abcb67f66f7b676ed815"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-56-1996",
+   "path": "decizie/cna/1996/56",
+   "short": "Decizia cna nr. 56/1996",
+   "title": "Decizia nr. 56/1996 privind suspendarea Deciziei de autorizare nr. 044 din 19 iulie 1994 a postului de radio \"Uniplus\" București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8317",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8317",
+     "sha256": "74efb054b33ea50c5efbd7a12a9c4a1b65311001299b6d367cfcabb97b295b73"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-1184-1996",
+   "path": "decizie/cnvm/1996/1184",
+   "short": "Decizia cnvm nr. 1184/1996",
+   "title": "Decizia nr. 1.184/1996 privind autorizarea temporară ca organism de autoreglementare a Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10249",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10249",
+     "sha256": "f4c563b4755c62aee2802f8231f26c8a12babc14dffe830dc315993ab3df2c86"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-1185-1996",
+   "path": "decizie/cnvm/1996/1185",
+   "short": "Decizia cnvm nr. 1185/1996",
+   "title": "Decizia nr. 1.185/1996 privind autorizarea Registrului Român al Acționarilor în forma juridică de societate comercială pe acțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10251",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10251",
+     "sha256": "b93c6b947d530cab42b93b0e5e3dbada8ee5b915efb04fcffbacd6e19928adcb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-1186-1996",
+   "path": "decizie/cnvm/1996/1186",
+   "short": "Decizia cnvm nr. 1186/1996",
+   "title": "Decizia nr. 1.186/1996 privind autorizarea temporară ca organism de autoreglementare a Asociației Naționale a Societăților de Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10253",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10253",
+     "sha256": "b809bb1ddd69a7d0f459693ca5ceb0653c8f0e4da206bfc354caec1d750514f3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-797-1996",
+   "path": "decizie/cnvm/1996/797",
+   "short": "Decizia cnvm nr. 797/1996",
+   "title": "Decizia nr. 797/1996 privind anularea certificatelor de investitor tip D emise de Societatea Comercială \"Safi Invest\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9856",
+   "versions": [
+    {
+     "from": "1996-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9856",
+     "sha256": "39cf6dc7f728b59bd396ca6cd8cc0fe95186237a242433abe704428117093d09"
+    }
+   ]
+  }
+ ]
+}

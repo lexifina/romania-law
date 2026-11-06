@@ -646,6 +646,21 @@
      "sha256": "badc22869070250f3a51e10eb8ccc7c709fe553c53d33cb793d70f5ececde28d"
     }
    ]
+  },
+  {
+   "slug": "norma-csspp-5-2006",
+   "path": "norma/csspp/2006/5",
+   "short": "Norma csspp nr. 5/2006",
+   "title": "Norma nr. 5/2006 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii facultative și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74976",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74976",
+     "sha256": "a3e6c8a27432d443a6c72b1ae54cdb44aa4ca3dc1dc733698185df968271c1e4"
+    }
+   ]
   }
  ]
 }

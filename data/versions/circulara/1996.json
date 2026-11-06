@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "circulara/1996",
+ "acts": [
+  {
+   "slug": "circulara-bnr-11-1996",
+   "path": "circulara/bnr/1996/11",
+   "short": "Circulara bnr nr. 11/1996",
+   "title": "Circulara nr. 11/1996 cu privire la modificarea anexei nr. 3 - Norme privind funcționarea pieței valutare interbancare - la Regulamentul Băncii Naționale a României privind efectuarea operațiunilor valutare, republicate în Monitorul Oficial al României, Partea I, nr. 52 din 13 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7874",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7874",
+     "sha256": "5e7d63c899ad19d3a8540f7f47c102a7164a51425753e69e160a8db0750e9ef1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-1996",
+   "path": "circulara/bnr/1996/13",
+   "short": "Circulara bnr nr. 13/1996",
+   "title": "Circulara nr. 13/1996 pentru modificarea punctului 10 alineatul 2 al capitolului III din Circulara Băncii Naționale a României nr. 3/1996 privind modificarea anexei nr. 3 - Norme privind funcționarea pieței valutare interbancare - la Regulamentul privind efectuarea operațiunilor valutare, publicată în Monitorul Oficial al României, Partea I, nr. 46 din 5 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7905",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7905",
+     "sha256": "388dabaeeebbc61609608dcbfbc7733ff8944b8f34a71c9279a785b0784a5e51"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-1996",
+   "path": "circulara/bnr/1996/18",
+   "short": "Circulara bnr nr. 18/1996",
+   "title": "Circulara nr. 18/1996 cu privire la modificarea unor prevederi din Normele privind efectuarea operațiunilor de schimb valutar pentru persoanele fizice pe teritoriul României (anexa nr. 4 la Regulamentul privind efectuarea operațiunilor valutare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7975",
+   "versions": [
+    {
+     "from": "1996-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7975",
+     "sha256": "0da81e3526d41da5fee7044d3a08e1db17d6d202cdf6154ac0e2bb91e0a05b95"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-1996",
+   "path": "circulara/bnr/1996/19",
+   "short": "Circulara bnr nr. 19/1996",
+   "title": "Circulara nr. 19/1996 pentru completarea Regulamentului Băncii Naționale a României nr. 6/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7988",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7988",
+     "sha256": "a180444e23062b25378d8e5e168300bba54efedf269d367be5966e9725fd9876"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-1996",
+   "path": "circulara/bnr/1996/20",
+   "short": "Circulara bnr nr. 20/1996",
+   "title": "Circulara nr. 20/1996 pentru modificarea Normelor Băncii Naționale a României nr. 10/1996 privind lichiditatea valutară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8000",
+   "versions": [
+    {
+     "from": "1996-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8000",
+     "sha256": "65b1e2e9f3229790b81d6de48f08ed98899a3669f6de8d44137b016cc6d9912a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-1996",
+   "path": "circulara/bnr/1996/21",
+   "short": "Circulara bnr nr. 21/1996",
+   "title": "Circulara nr. 21/1996 privind punerea în circulație a unei bancnote cu valoare nominală de 50.000 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8014",
+   "versions": [
+    {
+     "from": "1996-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8014",
+     "sha256": "32237be496c19bcc9e962233298dc699fe2109cc49c26c48a089a0b61f70d040"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-1996",
+   "path": "circulara/bnr/1996/23",
+   "short": "Circulara bnr nr. 23/1996",
+   "title": "Circulara nr. 23/1996 privind procedurile de decontare ale Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8040",
+   "versions": [
+    {
+     "from": "1996-10-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8040",
+     "sha256": "9c11e58889c8fba08f8c35995da9d17f24c305a59943cc95b2ba68dd0174e470"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-1996",
+   "path": "circulara/bnr/1996/24",
+   "short": "Circulara bnr nr. 24/1996",
+   "title": "Circulara nr. 24/1996 pentru modificarea Regulamentului nr. 3/1996 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8049",
+   "versions": [
+    {
+     "from": "1996-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8049",
+     "sha256": "72efb1a375edc363a240168e43d8948abcf4f7379328189e0f785909c882eb2c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-1996",
+   "path": "circulara/bnr/1996/25",
+   "short": "Circulara bnr nr. 25/1996",
+   "title": "Circulara nr. 25/1996 privind rezervele minime obligatorii și gradul de lichiditate valutară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8059",
+   "versions": [
+    {
+     "from": "1996-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8059",
+     "sha256": "f15b37f673295a0b6128777270201698dddf03c3f95d5e4d526108c26348a523"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-1996",
+   "path": "circulara/bnr/1996/26",
+   "short": "Circulara bnr nr. 26/1996",
+   "title": "Circulara nr. 26/1996 privind decontarea operațiunilor bancare prin conturile curente ale societăților bancare și conturile speciale de decontare finala ale caselor de compensații interbancare autorizate de Banca Naționala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8070",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8070",
+     "sha256": "2cad9a67aa223a9ea5d1441502f74bd9550ca78bc03a495a1be3354a46902fd4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-1996",
+   "path": "circulara/bnr/1996/29",
+   "short": "Circulara bnr nr. 29/1996",
+   "title": "Circulara nr. 29/1996 pentru modificarea articolului 5 din Circulara nr. 23/1996 privind procedurile de decontare ale Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8097",
+   "versions": [
+    {
+     "from": "1996-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8097",
+     "sha256": "bc5e2da9693810aee594e330ebca923ca7d222aa78806d522b60c395799986ac"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-1996",
+   "path": "circulara/bnr/1996/30",
+   "short": "Circulara bnr nr. 30/1996",
+   "title": "Circulara nr. 30/1996 privind completarea Regulamentului Băncii Naționale a României nr. 8/1996 , stabilirea cuantumului garanțiilor pe luna decembrie 1996 și modificarea Regulamentului Băncii Naționale a României nr. 10/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8108",
+   "versions": [
+    {
+     "from": "1996-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8108",
+     "sha256": "c9fe7d711056456e7db88987feb050a17445ed696f53d81ff0e7f7e940490bb5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-1996",
+   "path": "circulara/bnr/1996/32",
+   "short": "Circulara bnr nr. 32/1996",
+   "title": "Circulara nr. 32/1996 privind punerea în circulație, în scop numismatic, a unei monede din argint cu valoarea nominală de 100 lei și a unei monede din metal comun cu valoarea nominală de 10 lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8132",
+   "versions": [
+    {
+     "from": "1996-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8132",
+     "sha256": "e1bd5b5fbad3c441ec52175348509afd3f5d09c84f00394943995cb2f390ba25"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-1996",
+   "path": "circulara/bnr/1996/33",
+   "short": "Circulara bnr nr. 33/1996",
+   "title": "Circulara nr. 33/1996 privind retragerea din circulație a unor bancnote și monede metalice care au fost emise înainte de anul 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8144",
+   "versions": [
+    {
+     "from": "1996-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8144",
+     "sha256": "6a812cc59de23d250bb0c95e1435c1f11177a121234b864c2a1d691a46227a7d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-1996",
+   "path": "circulara/bnr/1996/35",
+   "short": "Circulara bnr nr. 35/1996",
+   "title": "Circulara nr. 35/1996 privind stabilirea cursului de referință al monedei naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8164",
+   "versions": [
+    {
+     "from": "1996-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8164",
+     "sha256": "ef567203f31b70eaaa07549c8c53466e90177eb1841b5386dd9a60425dbffc63"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-36-1996",
+   "path": "circulara/bnr/1996/36",
+   "short": "Circulara bnr nr. 36/1996",
+   "title": "Circulara nr. 36/1996 privind conturile curente ale Casei de Economii și Consemnațiuni și ale Băncii Comerciale Române - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8173",
+   "versions": [
+    {
+     "from": "1997-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8173",
+     "sha256": "605922d43807096d55e4c3e7b9ac93c217c7cb376efa5d9fa5a7effd66dea9e5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-1996",
+   "path": "circulara/bnr/1996/37",
+   "short": "Circulara bnr nr. 37/1996",
+   "title": "Circulara nr. 37/1996 privind stabilirea cuantumului garanțiilor societăților bancare participante la decontarea finala a operațiunilor cu valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8183",
+   "versions": [
+    {
+     "from": "1997-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8183",
+     "sha256": "6ea4e7fa81007f55198cfd51f80810705a31408ec3900cfcc32da564f1822772"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-1996",
+   "path": "circulara/bnr/1996/38",
+   "short": "Circulara bnr nr. 38/1996",
+   "title": "Circulara nr. 38/1996 privind modificarea taxei oficiale a scontului începând cu data de 1 ianuarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8192",
+   "versions": [
+    {
+     "from": "1997-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8192",
+     "sha256": "ec6fe8da04340689940dea457df330c9de0cffbe2b931d5077c4d4075b536678"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-1996",
+   "path": "circulara/bnr/1996/39",
+   "short": "Circulara bnr nr. 39/1996",
+   "title": "Circulara nr. 39/1996 privind modificarea Regulamentului Băncii Naționale a României nr. 3/1995 privind condițiile și modul de efectuare a refinanțării societăților bancare de către Banca Naționala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8202",
+   "versions": [
+    {
+     "from": "1997-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8202",
+     "sha256": "33d23c689d59ff8ea1f196197f19a7ff4d772c89c0c4106fc225b46406864ac0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-1996",
+   "path": "circulara/bnr/1996/6",
+   "short": "Circulara bnr nr. 6/1996",
+   "title": "Circulara nr. 6/1996 privind modificarea Circularei Băncii Naționale a României nr. 49/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7790",
+   "versions": [
+    {
+     "from": "1996-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7790",
+     "sha256": "2d3698c572a1c9e996587df433263165b486184a13d249524fcc929cc52a08ca"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-1996",
+   "path": "circulara/bnr/1996/7",
+   "short": "Circulara bnr nr. 7/1996",
+   "title": "Circulara nr. 7/1996 privind modificarea Circularei Băncii Naționale a României nr. 6/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7808",
+   "versions": [
+    {
+     "from": "1996-04-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7808",
+     "sha256": "865fc1bbec1fe70d477b9eedd9d8e16ab61589ef27f027c3f69a0d13d28b8cbe"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-1996",
+   "path": "circulara/bnr/1996/8",
+   "short": "Circulara bnr nr. 8/1996",
+   "title": "Circulara nr. 8/1996 privind modificarea Circularei Băncii Naționale a României nr. 7/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7826",
+   "versions": [
+    {
+     "from": "1996-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7826",
+     "sha256": "50efcc0ee2f20e360d21d39e9bec25e5235bc14505ff444d210616e0316a2281"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-1996",
+   "path": "circulara/bnr/1996/9",
+   "short": "Circulara bnr nr. 9/1996",
+   "title": "Circulara nr. 9/1996 privind modificarea Circularei Băncii Naționale a României nr. 9/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7845",
+   "versions": [
+    {
+     "from": "1996-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7845",
+     "sha256": "7ba314435971703d156e8bd8c26940f8958b76be6fae4b02d264d8fcec325368"
+    }
+   ]
+  }
+ ]
+}
