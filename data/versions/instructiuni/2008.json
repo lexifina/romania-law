@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "instructiuni-anaf-zi0425-2008",
+   "path": "instructiuni/anaf/2008/04-25",
+   "short": "Instrucțiuni anaf din 25 aprilie 2008",
+   "title": "Instrucțiuni din 25 aprilie 2008 pentru întocmirea programului de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92113",
+   "versions": [
+    {
+     "from": "2008-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92113",
+     "sha256": "3b4eb78cf772d103ead83d1256ae6229e3d9f8590ce3a2167e13a36842423ffc"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-ansvsa-zi1104-2008",
+   "path": "instructiuni/ansvsa/2008/11-04",
+   "short": "Instrucțiuni ansvsa din 4 noiembrie 2008",
+   "title": "Instrucțiuni din 4 noiembrie 2008 privind transportul, depozitarea și utilizarea vaccinurilor antipestoase vii atenuate și a vaccinurilor antipestoase sub formă de momeli vaccinale cu administrare orală, destinate vaccinării de urgență a porcinelor domestice din exploatațiile nonprofesionale de porcine, respectiv a mistreților, precum și sistemele de raportare și verificare a vaccinărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100101",
+   "versions": [
+    {
+     "from": "2008-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100101",
+     "sha256": "36b9688d657952e5b18244813c90a4b93db40f1d76fd60684d1b6d2799762101"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-cnvm-2-2008",
    "path": "instructiuni/cnvm/2008/2",
    "short": "Instrucțiuni cnvm nr. 2/2008",
@@ -74,6 +104,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96673",
      "sha256": "018f86a82297e54524f5a5e9efa596b014fc7a2d71629c8913ec2a92cbbf8bee"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-dezvoltare-zi0702-2008",
+   "path": "instructiuni/dezvoltare/2008/07-02",
+   "short": "Instrucțiuni dezvoltare din 2 iulie 2008",
+   "title": "Instrucțiuni din 2 iulie 2008 de aplicare a unor prevederi din Hotărârea Guvernului nr. 28/2008 privind aprobarea conținutului-cadru al documentației tehnico-economice aferente investițiilor publice, precum și a structurii și metodologiei de elaborare a devizului general pentru obiective de investiții și lucrări de intervenții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95557",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95557",
+     "sha256": "d864e42cacd9c1a5cc5c756909d45d46126fe2c0a89964899765f9b22173fa6d"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-mediu-zi0219-2008",
+   "path": "instructiuni/mediu/2008/02-19",
+   "short": "Instrucțiuni mediu din 19 februarie 2008",
+   "title": "Instrucțiuni din 19 februarie 2008 privind modalitățile de aplicare a Legii nr. 10/2008 pentru instituirea Programului de stimulare a înnoirii Parcului național de tractoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89966",
+   "versions": [
+    {
+     "from": "2008-02-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89966",
+     "sha256": "6d2a1fbb241b5adba37a53e8a0a08a05822f225b1f6f217c7d0f19f3d9a5972c"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-mediu-zi0406-2008",
+   "path": "instructiuni/mediu/2008/04-06",
+   "short": "Instrucțiuni mediu din 6 aprilie 2008",
+   "title": "Instrucțiuni din 6 aprilie 2008 privind modalitățile de aplicare a Ordonanței de urgență a Guvernului nr. 55/2008 privind reluarea pentru anul 2008 a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92686",
+   "versions": [
+    {
+     "from": "2008-05-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92686",
+     "sha256": "8a83d98bf487e795aeb227c8642b97945dcb4118f2b5cd3b7e7bbfb776ea445f"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-munca-zi0325-2008",
+   "path": "instructiuni/munca/2008/03-25",
+   "short": "Instrucțiuni munca din 25 martie 2008",
+   "title": "Instrucțiuni din 25 martie 2008 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 14/2008 pentru acordarea unui ajutor suplimentar familiilor și persoanelor singure cu venituri reduse, care utilizează gaze naturale pentru încălzirea locuinței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91120",
+   "versions": [
+    {
+     "from": "2008-04-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91120",
+     "sha256": "1aeefefad83b6fb22403d0c67d6a3e8d0c43f7d147243bc179a7628fd3c93068"
     }
    ]
   }

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2017",
+ "acts": [
+  {
+   "slug": "metodologie-educatie-zi0329-2017",
+   "path": "metodologie/educatie/2017/03-29",
+   "short": "Metodologie educatie din 29 martie 2017",
+   "title": "Metodologia-cadru din 29 martie 2017 de organizare și desfășurare a admiterii în învățământul dual pentru calificări profesionale de nivel 3, conform Cadrului național al calificărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187944",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187944",
+     "sha256": "7c7a6e9b669270d9954046455de5f3444a87ab03aaa4a26cf80b6e237811c0ea"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0516-1-2017",
+   "path": "metodologie/educatie/2017/05-16-1",
+   "short": "Metodologie educatie din 16 mai 2017",
+   "title": "Metodologie din 16 mai 2017 de școlarizare a românilor de pretutindeni în învățământul superior de stat din România, pe locuri de studii fără plata taxelor de școlarizare, dar cu bursă, respectiv, fără plata taxelor de școlarizare, dar fără bursă, începând cu anul universitar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247576",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247576",
+     "sha256": "35287c4fa2406280bacc1c5ba18f15441732182486e8ecb8047f61f3f18e1bbc"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0516-2-2017",
+   "path": "metodologie/educatie/2017/05-16-2",
+   "short": "Metodologie educatie din 16 mai 2017",
+   "title": "Metodologia din 16 mai 2017 de școlarizare a românilor de pretutindeni în învățământul preuniversitar de stat din România, pe locuri de studii fără plata taxelor de școlarizare, dar cu bursă, respectiv fără plata taxelor de școlarizare, dar fără bursă începând cu anul școlar 2017 - 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247577",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247577",
+     "sha256": "b61fa0b2e70ee29139733d6a73bdfb1421c8e912c1c7aabf37119c15da202e22"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-penitenciare-zi1003-2017",
+   "path": "metodologie/penitenciare/2017/10-03",
+   "short": "Metodologie penitenciare din 3 octombrie 2017",
+   "title": "Metodologia din 3 octombrie 2017 activităților educative, de asistență psihologică și asistență socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194919",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 116,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194919",
+     "sha256": "f061246f8a92ad2cf3fab9fb1d8688d9b89b696c1e70f645d2bcb5e3540cb378"
+    }
+   ]
+  }
+ ]
+}

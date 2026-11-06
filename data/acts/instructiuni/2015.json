@@ -115,6 +115,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/168450",
 "issuer": "interne",
 "joint": []
+},
+{
+"slug": "instructiuni-munca-zi0114-2015",
+"path": "instructiuni/munca/2015/01-14",
+"kind": "instructiuni",
+"year": "2015",
+"number": "01-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni din 14 ianuarie 2015 privind completarea fișelor de autoevaluare pentru serviciile destinate prevenirii separării copilului de părinții săi, precum și pentru realizarea protecției speciale a copilului separat, temporar sau definitiv, de părinții săi*)",
+"short": "Instrucțiuni munca din 14 ianuarie 2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-02-02",
+"latest": "2015-02-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/165656",
+"issuer": "munca",
+"joint": []
 }
 ]
 }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2022",
+ "acts": [
+  {
+   "slug": "criterii-guvern-zi0526-2022",
+   "path": "criterii/guvern/2022/05-26",
+   "short": "Criterii guvern din 26 mai 2022",
+   "title": "Criterii din 26 mai 2022 pentru autorizarea, construcția, înscrierea/înregistrarea, controlul, exploatarea și întreținerea sistemelor individuale adecvate de colectare și epurare a apelor uzate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255779",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255779",
+     "sha256": "2bd2d4282e04645432de82b869a3a34b61b5e4c63697c457aac2b987c04cdbe5"
+    }
+   ]
+  }
+ ]
+}

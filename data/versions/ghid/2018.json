@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "ghid/2018",
+ "acts": [
+  {
+   "slug": "ghid-agricultura-zi0928-2018",
+   "path": "ghid/agricultura/2018/09-28",
+   "short": "Ghid agricultura din 28 septembrie 2018",
+   "title": "Ghidul solicitantului din 28 septembrie 2018 privind obiectivul specific 1.4 - Sporirea competitivității și a viabilității întreprinderilor din domeniul pescuitului, inclusiv a flotei costiere la scară mică, și îmbunătățirea condițiilor de siguranță sau de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280724",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280724",
+     "sha256": "519e9b667bf892e5eb9e13b2603bdd50af54e9aa7e951f8a9be0b12e4dbba8c0"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-mediu-zi1105-2018",
+   "path": "ghid/mediu/2018/11-05",
+   "short": "Ghid mediu din 5 noiembrie 2018",
+   "title": "Ghid de finanțare din 5 noiembrie 2018 a Programului național de înlocuire a echipamentelor electrice și electronice uzate cu unele mai performante din punct de vedere energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207069",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207069",
+     "sha256": "c3a46b72b7f9d72ffe0c5bcb96d5c3f2c81d0de4a5b4281569405e11714d03b1"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0104-1-2018",
+   "path": "ghid/sanatate/2018/01-04-1",
+   "short": "Ghid sanatate din 4 ianuarie 2018",
+   "title": "Ghid național din 4 ianuarie 2018 privind managementul cazurilor TB-HIV 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206252",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206252",
+     "sha256": "7be5968ec0780934ba78912a88b3525495e4930e0c47642090f1db8c51d12dda"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0104-2-2018",
+   "path": "ghid/sanatate/2018/01-04-2",
+   "short": "Ghid sanatate din 4 ianuarie 2018",
+   "title": "Ghid național din 4 ianuarie 2018 pentru rețeaua laboratoarelor TB",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206286",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206286",
+     "sha256": "1f7f5d216b17b7cf4b5a5641bf824d89a5519945ddaa307f343f0d2b097fe9d0"
+    }
+   ]
+  }
+ ]
+}

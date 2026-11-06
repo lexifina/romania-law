@@ -136,6 +136,36 @@
      "sha256": "738b321617dd21f61166397a5800b86966e06e86c99cdcc1f3c619f19c93b69a"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0304-2025",
+   "path": "instructiuni/concurenta/2025/03-04",
+   "short": "Instrucțiuni concurenta din 4 martie 2025",
+   "title": "Instrucțiuni din 4 martie 2025 privind modificarea anexei la Instrucțiunile cu privire la calculul taxei de autorizare a concentrărilor economice, puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 439/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295801",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295801",
+     "sha256": "f255e6a1ee8638d8641804777e73d17ce13e3e6ce09c5621dd626b56764a2996"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0722-2025",
+   "path": "instructiuni/concurenta/2025/07-22",
+   "short": "Instrucțiuni concurenta din 22 iulie 2025",
+   "title": "Instrucțiuni din 22 iulie 2025 emise în aplicarea prevederilor art. 3 alin. (5) din Ordonanța de urgență a Guvernului nr. 46/2022 privind măsurile de punere în aplicare a Regulamentului (UE) 2019/452 al Parlamentului European și al Consiliului din 19 martie 2019 de stabilire a unui cadru pentru examinarea investițiilor străine directe în Uniune, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300367",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300367",
+     "sha256": "b099f6387dfd759ddaca55732b26682e109c178423d3237ab1999c7d04889c34"
+    }
+   ]
   }
  ]
 }

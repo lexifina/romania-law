@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1209-2018",
+   "path": "ordin/agricultura/2018/1209",
+   "short": "Ordin agricultura nr. 1209/2018",
+   "title": "Ordinul nr. 1.209/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul unor organizații ale utilizatorilor de apă pentru irigații din județul Dolj, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202125",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202125",
+     "sha256": "1dbd26d9e8bb6cc30142d72ac60b5a74a26a73342dabe0ba9793b70ef4a1220d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1219-2018",
    "path": "ordin/agricultura/2018/1219",
    "short": "Ordin agricultura nr. 1219/2018",
@@ -273,6 +288,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1239-2018",
+   "path": "ordin/agricultura/2018/1239",
+   "short": "Ordin agricultura nr. 1239/2018",
+   "title": "Ordinul nr. 1.239/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul unor organizații ale utilizatorilor de apă pentru irigații din județul Călărași, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202626",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202626",
+     "sha256": "1d75ffb83d4f3eda1ba1b80561f1e77a54bc59f5646bac9bf9807126941d79a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1241-2018",
+   "path": "ordin/agricultura/2018/1241",
+   "short": "Ordin agricultura nr. 1241/2018",
+   "title": "Ordinul nr. 1.241/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul unor organizații ale utilizatorilor de apă pentru irigații din județul Brăila, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202631",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202631",
+     "sha256": "205050d6533630db3912042bb207f553e10f7b464a06802d12cefc5ff330176d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1244-2018",
+   "path": "ordin/agricultura/2018/1244",
+   "short": "Ordin agricultura nr. 1244/2018",
+   "title": "Ordinul nr. 1.244/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul unor organizații ale utilizatorilor de apă pentru irigații din județul Olt, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202617",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202617",
+     "sha256": "4b2337a66c3433b6c8f2328a5381559e4a4ac6c50dc45bd5a4e2883d2321db99"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1249-2018",
    "path": "ordin/agricultura/2018/1249",
    "short": "Ordin agricultura nr. 1249/2018",
@@ -314,6 +374,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203912",
      "sha256": "1bf9b01c4a09bb65dfaf7171157eaf67f76f0971e26617a7ec8700dcbdbcc44c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1264-2018",
+   "path": "ordin/agricultura/2018/1264",
+   "short": "Ordin agricultura nr. 1264/2018",
+   "title": "Ordinul nr. 1.264/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Țara Hațegului din județul Hunedoara, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203092",
+   "versions": [
+    {
+     "from": "2018-07-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203092",
+     "sha256": "2afa07ff2166895832ed1103e67ed31f7bc3ee2c46d2649a7097014991014d70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1288-2018",
+   "path": "ordin/agricultura/2018/1288",
+   "short": "Ordin agricultura nr. 1288/2018",
+   "title": "Ordinul nr. 1.288/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul unor organizații ale utilizatorilor de apă pentru irigații din județul Vrancea, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203509",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203509",
+     "sha256": "856553731fe4d119851297cb476bfda9163cfd59831fccfc0dcd59bcb0ed1b16"
     }
    ]
   },
@@ -483,6 +573,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1361-2018",
+   "path": "ordin/agricultura/2018/1361",
+   "short": "Ordin agricultura nr. 1361/2018",
+   "title": "Ordinul nr. 1.361/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Comoșteni și al Organizației utilizatorilor de apă pentru irigații Piscu Nou din județul Dolj, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204812",
+   "versions": [
+    {
+     "from": "2018-09-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204812",
+     "sha256": "9ee107c6cde4a471b2d57a11192711701a8f280c620ff2ab0ffa4ee0af4792cb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1366-2018",
    "path": "ordin/agricultura/2018/1366",
    "short": "Ordin agricultura nr. 1366/2018",
@@ -528,6 +633,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1385-2018",
+   "path": "ordin/agricultura/2018/1385",
+   "short": "Ordin agricultura nr. 1385/2018",
+   "title": "Ordinul nr. 1.385/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 15 Dealul Viei și al Organizației utilizatorilor de apă pentru irigații SPP 1 Săhăteni din județul Buzău, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205409",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205409",
+     "sha256": "d300d1e7e1c135857c9f6f465aa79b43f5a2ac05aca8483ccf7dd281dab0249c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1388-2018",
    "path": "ordin/agricultura/2018/1388",
    "short": "Ordin agricultura nr. 1388/2018",
@@ -539,6 +659,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206299",
      "sha256": "367b2369b408310dc0a749268de95475041f8e74b38603c17a9f99e22427a2c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1390-2018",
+   "path": "ordin/agricultura/2018/1390",
+   "short": "Ordin agricultura nr. 1390/2018",
+   "title": "Ordinul nr. 1.390/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Sascut din județul Bacău, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205205",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205205",
+     "sha256": "0c580ea1b5be4844fca5f037c1e4ea6982aa360d99337e2a67ce3aed1d579b62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1391-2018",
+   "path": "ordin/agricultura/2018/1391",
+   "short": "Ordin agricultura nr. 1391/2018",
+   "title": "Ordinul nr. 1.391/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul unor organizații ale utilizatorilor de apă pentru irigații din județul Galați,în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205195",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205195",
+     "sha256": "06598717a15b8e47c1882194219f5e55db190976044d93726acc856be2432385"
     }
    ]
   },
@@ -588,6 +738,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1399-2018",
+   "path": "ordin/agricultura/2018/1399",
+   "short": "Ordin agricultura nr. 1399/2018",
+   "title": "Ordinul nr. 1.399/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Padina din județul Mehedinți, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205450",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205450",
+     "sha256": "b27dfc48f8bcf177151f5fdc0f654ee295b7036681894b66db0467d09b24dee3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1400-2018",
    "path": "ordin/agricultura/2018/1400",
    "short": "Ordin agricultura nr. 1400/2018",
@@ -633,6 +798,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1409-2018",
+   "path": "ordin/agricultura/2018/1409",
+   "short": "Ordin agricultura nr. 1409/2018",
+   "title": "Ordinul nr. 1.409/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații zona Mihai Viteazu, Moldovenești, Călărași din județul Cluj, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205837",
+   "versions": [
+    {
+     "from": "2018-10-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205837",
+     "sha256": "f057e9d04386e07ab67eb0dc54ef4852dc73122109f01d7215dfb8ad9f127ca8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1412-2018",
    "path": "ordin/agricultura/2018/1412",
    "short": "Ordin agricultura nr. 1412/2018",
@@ -648,6 +828,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1414-2018",
+   "path": "ordin/agricultura/2018/1414",
+   "short": "Ordin agricultura nr. 1414/2018",
+   "title": "Ordinul nr. 1.414/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Taița Satu Nou din județul Tulcea, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205944",
+   "versions": [
+    {
+     "from": "2018-10-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205944",
+     "sha256": "d98a8f975dc58992430f0be9ca2719acd9918bdaee556abdf7b9740d6544be54"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1416-2018",
    "path": "ordin/agricultura/2018/1416",
    "short": "Ordin agricultura nr. 1416/2018",
@@ -659,6 +854,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206149",
      "sha256": "9d25db043a775dc97e3501712ad93216f5e3ece53bdaaec4c43d0cb9e0b11e54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1429-2018",
+   "path": "ordin/agricultura/2018/1429",
+   "short": "Ordin agricultura nr. 1429/2018",
+   "title": "Ordinul nr. 1.429/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Chineja 1 și al Organizației utilizatorilor de apă pentru irigații Chineja 2 din județul Galați, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206245",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206245",
+     "sha256": "c7a2c523ce2edf619046d19eb33343e4c3805e061e9b9602ca3fe64d62836f7b"
     }
    ]
   },
@@ -704,6 +914,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210489",
      "sha256": "2ab3a05e54004a13033dc75ca396bafd570db8286969c769268490b71a391bfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1451-2018",
+   "path": "ordin/agricultura/2018/1451",
+   "short": "Ordin agricultura nr. 1451/2018",
+   "title": "Ordinul nr. 1.451/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Horezu-Poenari din județul Dolj, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206604",
+   "versions": [
+    {
+     "from": "2018-11-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206604",
+     "sha256": "9aa6760bc0a63af338a3cf4d8e19e28e3b51fe10bf7f265606da5596c982ee98"
     }
    ]
   },
@@ -783,6 +1008,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1496-2018",
+   "path": "ordin/agricultura/2018/1496",
+   "short": "Ordin agricultura nr. 1496/2018",
+   "title": "Ordinul nr. 1.496/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP3 Vernești din județul Buzău, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208670",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208670",
+     "sha256": "ee7bdabc3d94f9d68d5670a9128d0a0b2f24e7002bbfce761b3dfa816268ad24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1500-2018",
+   "path": "ordin/agricultura/2018/1500",
+   "short": "Ordin agricultura nr. 1500/2018",
+   "title": "Ordinul nr. 1.500/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 14 Haret din județul Vrancea, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208669",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208669",
+     "sha256": "e4e3bfa0d35563e7840b7af54d7093e23ca9edb231bc015beabc0e33173bae4a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1502-2018",
    "path": "ordin/agricultura/2018/1502",
    "short": "Ordin agricultura nr. 1502/2018",
@@ -824,6 +1079,36 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209414",
      "sha256": "11f2cbccdb9f7596b8fe285de135c31c4ecedff3c0bb5d600c93837081a56930"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1521-2018",
+   "path": "ordin/agricultura/2018/1521",
+   "short": "Ordin agricultura nr. 1521/2018",
+   "title": "Ordinul nr. 1.521/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Putineiu SPpC13 și al Organizației utilizatorilor de apă pentru irigații Putineiu SPpC14 din județul Giurgiu, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209396",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209396",
+     "sha256": "5e2ea3f85df7e64f0e84e14399f73e566b9f6a1233962f2939b08cef81f8a512"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1522-2018",
+   "path": "ordin/agricultura/2018/1522",
+   "short": "Ordin agricultura nr. 1522/2018",
+   "title": "Ordinul nr. 1.522/2018 pentru aprobarea transmiterii terenurilor aparținând domeniului privat al statului, aflate în administrarea Agenției Naționale de Îmbunătățiri Funciare, în proprietatea unor organizații ale utilizatorilor de apă pentru irigații din județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209397",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209397",
+     "sha256": "5a60155dbab1af2fdebbcb99ab3829f5e71b9e58557567e7c4d9e467462461f4"
     }
    ]
   },
@@ -974,6 +1259,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199004",
      "sha256": "0d8762f294232ebeb56aa95f7b5f7ca1e8f657bcde7ce340332cc946a2d54dd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-25-2018",
+   "path": "ordin/agricultura/2018/25",
+   "short": "Ordin agricultura nr. 25/2018",
+   "title": "Ordinul nr. 25/2018 privind recunoașterea Asociației Organizația Interprofesională pe Produs \"Cereale, Oleaginoase și Produse Derivate\" (O.I.P.C.O.P.D.) ca organizație interprofesională pe filiera cereale și pe filiera oleaginoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197216",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197216",
+     "sha256": "dfa2af9b817335090783293a389d620b15a2fdd0b8c937c95ed08b3e075f0b72"
     }
    ]
   },
@@ -6663,6 +6963,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-138-2018",
+   "path": "ordin/anrm/2018/138",
+   "short": "Ordin anrm nr. 138/2018",
+   "title": "Ordinul nr. 138/2018 privind aprobarea Licenței de dare în administrare pentru explorare nr. 21.101/2018 în perimetrul Șugaș Băi, județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203564",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203564",
+     "sha256": "2a7d214f437bb312a3ae8abec3568aa33575b4bd082136a973ad9d74464df927"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-139-2018",
    "path": "ordin/anrm/2018/139",
    "short": "Ordin anrm nr. 139/2018",
@@ -6764,6 +7079,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199513",
      "sha256": "e2c0084705321b6e17c1ea51b0309146ce0046aaa63fd9c9b3ad33615cdc2504"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-79-2018",
+   "path": "ordin/anrm/2018/79",
+   "short": "Ordin anrm nr. 79/2018",
+   "title": "Ordinul nr. 79/2018 privind aprobarea Licenței de dare în administrare pentru explorare nr. 20.841/2018 privind explorarea resurselor de apă geotermală din perimetrul geotermal - municipiul Salonta, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199825",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199825",
+     "sha256": "a36c6a072c08b01ec326f8082f6a1d75483fb43bc6a4239aca9db99dc2c0d5a5"
     }
    ]
   },
@@ -7604,6 +7934,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206734",
      "sha256": "b37195604e93475652ebd2ceab648388fee675b508dca0f88b9b5a6f2acb968b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-1930-2018",
+   "path": "ordin/aparare/2018/1930",
+   "short": "Ordin aparare nr. 1930/2018",
+   "title": "Ordinul nr. 1.930/2018 pentru completarea Ordinului ministrului apărării naționale nr. M.132/2012 privind acordarea gradelor și înaintarea în gradul următor, pe timp de pace, a cadrelor militare în rezervă și în retragere, avansarea în grad a veteranilor de război, precum și înaintarea în gradul următor a fostelor cadre militare active îndepărtate abuziv din armată în perioada 23 august 1944 - 31 decembrie 1961",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206355",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206355",
+     "sha256": "c5a90ca937bb19167a4419edea4b38ed52bb94acf3a9908d75c3526a5d8f6ab3"
     }
    ]
   },
@@ -8973,6 +9318,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-406-2018",
+   "path": "ordin/comunicatii/2018/406",
+   "short": "Ordin comunicatii nr. 406/2018",
+   "title": "Ordinul nr. 406/2018 privind aprobarea bugetului de venituri și cheltuieli pe anul 2018 al Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București din coordonarea Ministerului Comunicațiilor și Societății Informaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201001",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201001",
+     "sha256": "501ef886c3696bfc51cd0c9c59f0d7141bc120f71c84662a3298d2521c3dcb38"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-677-2018",
    "path": "ordin/comunicatii/2018/677",
    "short": "Ordin comunicatii nr. 677/2018",
@@ -8984,6 +9344,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204309",
      "sha256": "06eec656005c77a1b43b670da2da4d85e018b3f5e0cd2f171ebf4da1d006c658"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-988-2018",
+   "path": "ordin/comunicatii/2018/988",
+   "short": "Ordin comunicatii nr. 988/2018",
+   "title": "Ordinul nr. 988/2018 pentru aprobarea bugetelor de venituri și cheltuieli rectificate pe anul 2018 ale institutelor naționale de cercetare-dezvoltare în coordonarea Ministerului Cercetării și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209345",
+   "versions": [
+    {
+     "from": "2018-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209345",
+     "sha256": "ac2788411ae1dd10d4b2d20348b5d7a96bd7a2ae353b0cad6cb38283fdbc761d"
     }
    ]
   },
@@ -9138,6 +9513,51 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2073-2018",
+   "path": "ordin/cultura/2018/2073",
+   "short": "Ordin cultura nr. 2073/2018",
+   "title": "Ordinul nr. 2.073/2018 pentru acreditarea Muzeului Național al Banatului din Timișoara, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198234",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198234",
+     "sha256": "bc77d06662a79f4b2ea05e7f1ea8495c45bc974afcee36e86de2470ff72429bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2074-2018",
+   "path": "ordin/cultura/2018/2074",
+   "short": "Ordin cultura nr. 2074/2018",
+   "title": "Ordinul nr. 2.074/2018 pentru acreditarea Muzeului de Artă Timișoara, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198235",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198235",
+     "sha256": "7c631197718075d97f78abd02b868ab1b89289c4febaf549bd3b0ebbb8dceadd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2124-2018",
+   "path": "ordin/cultura/2018/2124",
+   "short": "Ordin cultura nr. 2124/2018",
+   "title": "Ordinul nr. 2.124/2018 pentru constatarea anulării Ordinului ministrului culturii nr. 2.576/2013 privind declasarea parțială a monumentului de arhitectură Școala 80, cu păstrarea fațadelor principală și laterale, din Calea Dudești nr. 191, sectorul 3, București, înscris în Lista monumentelor istorice cu cod B-II-m-B-18622",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198185",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198185",
+     "sha256": "757a13945c3f9782f4e208b88257aedb8009b786ac1ea116a8427c95669a2e6d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2232-2018",
    "path": "ordin/cultura/2018/2232",
    "short": "Ordin cultura nr. 2232/2018",
@@ -9149,6 +9569,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199850",
      "sha256": "921ab18747f0a2cdbae4ef8c33df9a1ac0aca0f01f9aec07673db37099f00b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2233-2018",
+   "path": "ordin/cultura/2018/2233",
+   "short": "Ordin cultura nr. 2233/2018",
+   "title": "Ordinul nr. 2.233/2018 pentru reacreditarea Muzeului \"Vasile Pârvan\" din Bârlad, județul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200297",
+   "versions": [
+    {
+     "from": "2018-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200297",
+     "sha256": "43292b2ede7e56a6ee10c3c0317a9b1d18d07e1c57e6eeb3c1cacc455543b9bb"
     }
    ]
   },
@@ -9183,6 +9618,111 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2351-2018",
+   "path": "ordin/cultura/2018/2351",
+   "short": "Ordin cultura nr. 2351/2018",
+   "title": "Ordinul nr. 2.351/2018 pentru reacreditarea Colecției publice de obiecte și fond documentar din cadrul Centrului de Documentare și Informare Gaze Naturale Mediaș/S.N.G.N. ROMGAZ - S.A. din Mediaș, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201442",
+   "versions": [
+    {
+     "from": "2018-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201442",
+     "sha256": "4502431127b50681c12ee0c4fbc80315d871c8f4ebee9587747cfaf444c8688c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2502-2018",
+   "path": "ordin/cultura/2018/2502",
+   "short": "Ordin cultura nr. 2502/2018",
+   "title": "Ordinul nr. 2.502/2018 pentru acreditarea Muzeului de Artă \"Iulia Hălăucescu\" din Tarcău, județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202119",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202119",
+     "sha256": "8137edfcd55ef883c1d6002e8025e14e6c2128e7662e998e682bcc70a477a271"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2528-2018",
+   "path": "ordin/cultura/2018/2528",
+   "short": "Ordin cultura nr. 2528/2018",
+   "title": "Ordinul nr. 2.528/2018 privind declasarea parțială a monumentului istoric Bucureștii Noi - Ștrand, cod LMI B-I-s-B-17865 și a componentelor sale B-I-m-B-17865.01, B-I-m-B-17865.02, B-I-m-B-17865.03, situate în cartierul Bucureștii Noi, între malul sud-vestic al lacului Grivița și str. Fabrica de Cărămidă; carou cadastral: 1'-0; NM și LK(din Lista monumentelor istorice, respectiv declasarea imobilului situat la adresa poștală str. Fabrica de Cărămidă nr. 3, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204392",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20241126180629id_/https://legislatie.just.ro/Public/DetaliiDocument/204392",
+     "sha256": "63d530f7f962d711bfa058c6a68bcdbf6c280a6d8d78741a7d3649ddd8509528"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2557-2018",
+   "path": "ordin/cultura/2018/2557",
+   "short": "Ordin cultura nr. 2557/2018",
+   "title": "Ordinul nr. 2.557/2018 pentru acreditarea Complexului Național Muzeal ASTRA din Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203723",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203723",
+     "sha256": "37b1988f0ee7a5c800f787c2397efe7acb2a80fc13317a145be7bb83669b6dab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2560-2018",
+   "path": "ordin/cultura/2018/2560",
+   "short": "Ordin cultura nr. 2560/2018",
+   "title": "Ordinul nr. 2.560/2018 pentru reacreditarea Muzeului Civilizației Dacice și Romane din Deva, județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203724",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203724",
+     "sha256": "dfdfd5c36fced54c0a085aa5212f2e7dffeff732f75c3a89918abe6b23f9874b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2564-2018",
+   "path": "ordin/cultura/2018/2564",
+   "short": "Ordin cultura nr. 2564/2018",
+   "title": "Ordinul nr. 2.564/2018 privind declasarea din Lista monumentelor istorice a imobilului clasat ca monument istoric cu denumirea Centru boli cardiovasculare - Secția cardiologie II_Corp H4, situat la adresa poștală Calea Plevnei nr. 134, sector 6, București, având cod LMI B-II-m-B-19408.15",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205972",
+   "versions": [
+    {
+     "from": "2018-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205972",
+     "sha256": "f1d44edea945a90fb4947d07e7b925f9f7aa4b43c0cf967f34fe5e7b584345b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2581-2018",
+   "path": "ordin/cultura/2018/2581",
+   "short": "Ordin cultura nr. 2581/2018",
+   "title": "Ordinul nr. 2.581/2018 privind declasarea monumentului istoric Casă, cod LMI B-II-m-B-19777, situat la adresa poștală str. Toneanu Vasile 9, sector 3, municipiul București din Lista monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207065",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20211201210651id_/https://legislatie.just.ro/Public/DetaliiDocument/207065",
+     "sha256": "63ad49971ba1c8c0dd1d73ccc94dcd5540bccea0693cfc20d3ee328f47e776ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2604-2018",
    "path": "ordin/cultura/2018/2604",
    "short": "Ordin cultura nr. 2604/2018",
@@ -9194,6 +9734,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203541",
      "sha256": "778df692bb6ba28c71c53920b7b2f2d2d43c773d80a7f33126417c036e6dfd49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2629-2018",
+   "path": "ordin/cultura/2018/2629",
+   "short": "Ordin cultura nr. 2629/2018",
+   "title": "Ordinul nr. 2.629/2018 privind clasarea ca monument istoric a imobilului situat la adresa poștală localitatea Valea Vinului, Cartier, drumul comunal, F.N., comuna Rodna, județul Bistrița-Năsăud, în Lista monumentelor istorice, cu denumirea Casa scriitorilor - pavilioanele C1 și C2, în categoria II - arhitectură, m - monument, grupa valorică B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208938",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208938",
+     "sha256": "274d573c554ebdd929ebfaa77cf2eac138b0e49fab1a3bc200f7d535f554262e"
     }
    ]
   },
@@ -9213,6 +9768,66 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2645-2018",
+   "path": "ordin/cultura/2018/2645",
+   "short": "Ordin cultura nr. 2645/2018",
+   "title": "Ordinul nr. 2.645/2018 privind clasarea subcomponentelor ansamblului monument istoric clasat cu denumirea Fabrica de țigarete \"Belvedere\", situat în șoseaua Giulești nr. 1-3, sector 6, București, cod LMI B-II-a-B-18821",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207028",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207028",
+     "sha256": "7c013533d7e9394a0b3e9bb4e3d8e53b07940eb83b0d24cd410083cb692f2cd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2682-2018",
+   "path": "ordin/cultura/2018/2682",
+   "short": "Ordin cultura nr. 2682/2018",
+   "title": "Ordinul nr. 2.682/2018 privind transformarea din m - monument în a - ansamblu a monumentului istoric situat la adresa poștală Calea Plevnei nr. 145, sector 6, municipiul București, clasat în Lista monumentelor istorice cu denumirea \"Fabrica de Pâine\", sub codul LMI B-II-m-B-19413, și clasarea subcomponentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206198",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206198",
+     "sha256": "4a1583271ad61e320e3c55f287356ec07453d2fa13e8e08fa329f176cd15b733"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2685-2018",
+   "path": "ordin/cultura/2018/2685",
+   "short": "Ordin cultura nr. 2685/2018",
+   "title": "Ordinul nr. 2.685/2018 privind declasarea din Lista monumentelor istorice a construcțiilor C2, C3, C4, C5, C6, C7, C8, părți ale imobilului clasat ca monument istoric cu denumirea Spitalul Grecescu, str. Grecescu Dimitrie nr. 1, municipiul Drobeta-Turnu Severin, județul Mehedinți, având codul LMI MH-II-m-A-10179.02",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210000",
+   "versions": [
+    {
+     "from": "2019-01-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20211201173423id_/https://legislatie.just.ro/Public/DetaliiDocument/210000",
+     "sha256": "cb32164b07468d51c0e2831675bf5a010336a38f1a78299205683a4e33dfdac3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2728-2018",
+   "path": "ordin/cultura/2018/2728",
+   "short": "Ordin cultura nr. 2728/2018",
+   "title": "Ordinul nr. 2.728/2018 pentru acreditarea Muzeului Vrancei din Focșani, județul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206043",
+   "versions": [
+    {
+     "from": "2018-10-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206043",
+     "sha256": "dc2410dadc71c86afef6fe1c7eb29a52c6d19b18d26bc294bda9c160d46a9fec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2807-2018",
    "path": "ordin/cultura/2018/2807",
    "short": "Ordin cultura nr. 2807/2018",
@@ -9224,6 +9839,111 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/206946",
      "sha256": "8d98704533c53d8317cc171a3585169dc11698debaffa94e33b68f8b282e58d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2834-2018",
+   "path": "ordin/cultura/2018/2834",
+   "short": "Ordin cultura nr. 2834/2018",
+   "title": "Ordinul nr. 2.834/2018 privind declasarea parțială a imobilului monument istoric clasat în Lista monumentelor istorice cu denumirea Cramă, având cod LMI IL-II-m-A-14146.02, parte a monumentului istoric Ansamblul conacului Hagianoff, având cod LMI IL-II-a-A-14146, situat la adresa poștală comuna Manasia, județul Ialomița, respectiv declasarea anexei C5-1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210904",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210904",
+     "sha256": "d3de435de43c9af3062d075e2cfc3efb9c94e86ec39d491edc4aae2cf4bf871c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2840-2018",
+   "path": "ordin/cultura/2018/2840",
+   "short": "Ordin cultura nr. 2840/2018",
+   "title": "Ordinul nr. 2.840/2018 privind clasarea în Lista monumentelor istorice a Ansamblului Bisericii de lemn \"Sf. Nicolae\" situat în satul Dobrinăuți-Hapăi, comuna Vârfu Câmpului, județul Botoșani, ca monument istoric, categoria II - arhitectură, a - ansamblu, grupa valorică B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210630",
+   "versions": [
+    {
+     "from": "2019-02-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210630",
+     "sha256": "6cd7c79125b1948cc8efe078cd7fc69fec992c393feec192ac47e3f73f214a9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2841-2018",
+   "path": "ordin/cultura/2018/2841",
+   "short": "Ordin cultura nr. 2841/2018",
+   "title": "Ordinul nr. 2.841/2018 privind declasarea din Lista monumentelor istorice a monumentului istoric Casa Săulescu, situat la adresa poștală str. George Enescu nr. 38, sectorul 1, municipiul București, având cod LMI B-II-m-B-18702",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210631",
+   "versions": [
+    {
+     "from": "2019-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210631",
+     "sha256": "9fdb110a35269e951ec8af22c383a7fee78328622b48c6bed38f506490b5efd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2842-2018",
+   "path": "ordin/cultura/2018/2842",
+   "short": "Ordin cultura nr. 2842/2018",
+   "title": "Ordinul nr. 2.842/2018 privind schimbarea din grupa valorică B în grupa valorică A a monumentului istoric clasat în Lista monumentelor istorice cu denumirea Biserica \"Sf. Grigore Decapolitul - Eleonul a fostului schit Păpușa\", situat la adresa poștală satul Bistrița, comuna Costești, județul Vâlcea, având codul LMI VL-II-m-B-09668",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210905",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210905",
+     "sha256": "2fb1dda86e1f537bf65dded82dc6b321621d4ec8220457867fd8c8af57a2c031"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2852-2018",
+   "path": "ordin/cultura/2018/2852",
+   "short": "Ordin cultura nr. 2852/2018",
+   "title": "Ordinul nr. 2.852/2018 privind declasarea parțială din Lista monumentelor istorice a imobilelor situate la adresa poștală șos. Panduri nr. 71, sector 5, București, aflate în proprietatea S.C. SPAVIN INVEST - S.R.L., părți ale monumentului istoric clasat cu denumirea Întreprinderea \"Uzinele Chimice Române\", șos. Panduri nr. 71-75, sector 5, București, având cod LMI B-II-m-B-19321",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208562",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250622031502id_/https://legislatie.just.ro/Public/DetaliiDocument/208562",
+     "sha256": "881aa1c1625da5c64d8565b49afeb0afd40865d4e5e53caedaa586f6ab8e7b82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2856-2018",
+   "path": "ordin/cultura/2018/2856",
+   "short": "Ordin cultura nr. 2856/2018",
+   "title": "Ordinul nr. 2.856/2018 privind declasarea monumentului istoric clasat cu denumirea Casă, având cod LMI B-II-m-B-18734, situat la adresa poștală Calea Floreasca nr. 200, sectorul 1, municipiul București, din Lista monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210906",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210906",
+     "sha256": "1f7c18ea93797391013e89feb064272476d75340984bbac12f92cf820644a706"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2857-2018",
+   "path": "ordin/cultura/2018/2857",
+   "short": "Ordin cultura nr. 2857/2018",
+   "title": "Ordinul nr. 2.857/2018 privind declasarea din Lista monumentelor istorice a anexei C2, parte a monumentului istoric clasat sub denumirea \"Casă\", situat la adresa poștală str. Buzești nr. 44, sectorul 1, București, având codul LMI B-II-m-B-18262",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209725",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209725",
+     "sha256": "6585dc2f6d4ddaada19cf42504cb2c85d2b588f3007bc85a4371f0c54b01702b"
     }
    ]
   },
@@ -9243,6 +9963,81 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2902-2018",
+   "path": "ordin/cultura/2018/2902",
+   "short": "Ordin cultura nr. 2902/2018",
+   "title": "Ordinul nr. 2.902/2018 privind clasarea ca monument istoric a imobilului situat la adresa poștală Str. Victoriei nr. 58, satul Pișcolt, comuna Pișcolt, județul Satu Mare în Lista monumentelor istorice, cu denumirea Biserica Ortodoxă Sf. Arhangheli Mihail și Gavril, în categoria II - arhitectură, m - monument, grupa valorică B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210632",
+   "versions": [
+    {
+     "from": "2019-02-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210632",
+     "sha256": "1e824f44fd44d961907a55b4a4fbba556c07e345584c1c60408c5e91a5c2b621"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2903-2018",
+   "path": "ordin/cultura/2018/2903",
+   "short": "Ordin cultura nr. 2903/2018",
+   "title": "Ordinul nr. 2.903/2018 privind declasarea parțială din Lista monumentelor istorice a imobilului monument istoric clasat cu denumirea Casa Irimia, azi Căminul de bătrâni, situat la adresa poștală Str. Polonă nr. 22, municipiul Brăila, județul Brăila, având cod LMI BR-II-m-B-02122",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210907",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210907",
+     "sha256": "18f3130e78c91e17dd047793571e8dc834fe73f84c643cb0c8c0ca600df6378a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2904-2018",
+   "path": "ordin/cultura/2018/2904",
+   "short": "Ordin cultura nr. 2904/2018",
+   "title": "Ordinul nr. 2.904/2018 privind schimbarea denumirii monumentului istoric din Fostul Seminar Teologic, azi Institutul Tehnic Militar în Fostul Seminar Teologic, azi Academia Tehnică Militară, având cod LMI B-II-m-B-18500, transformarea din m - monument în a - ansamblu și clasarea ca monumente istorice în cadrul ansamblului a imobilelor C1, C2, C3 și C8, situate la adresa poștală bd. Coșbuc George nr. 39-49, sectorul 5, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212670",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212670",
+     "sha256": "9e7bf645b3aa2468bfc7d8e539daedacf770def47d1f8bed82a68503e1e3df95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2905-2018",
+   "path": "ordin/cultura/2018/2905",
+   "short": "Ordin cultura nr. 2905/2018",
+   "title": "Ordinul nr. 2.905/2018 privind clasarea ca monument istoric a imobilului situat la adresa poștală Str. Dobrogei nr. 6, municipiul Sibiu, județul Sibiu, în Lista monumentelor istorice, cu denumirea Casa fostă Kraus, în categoria II - arhitectură, m - monument, grupa valorică B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238257",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20211201173344id_/https://legislatie.just.ro/Public/DetaliiDocument/238257",
+     "sha256": "b162d09cb75e2ae3670081f0873d4dbab4a69c9e8f18b49e5c4d52d7e959bf51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2906-2018",
+   "path": "ordin/cultura/2018/2906",
+   "short": "Ordin cultura nr. 2906/2018",
+   "title": "Ordinul nr. 2.906/2018 privind declasarea monumentului istoric clasat cu denumirea Casa Piliuță, având cod LMI BT-II-m-B-01939, situat la adresa poștală str. Vârnav nr. 29, municipiul Botoșani, județul Botoșani, din Lista monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210908",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210908",
+     "sha256": "e2ac17f24d85dc9519ecb39fdfe0fc0579bc288bd50cbcca8d8372320af3b2c9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2941-2018",
    "path": "ordin/cultura/2018/2941",
    "short": "Ordin cultura nr. 2941/2018",
@@ -9258,6 +10053,111 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2957-2018",
+   "path": "ordin/cultura/2018/2957",
+   "short": "Ordin cultura nr. 2957/2018",
+   "title": "Ordinul nr. 2.957/2018 pentru reacreditarea Muzeului Național Brukenthal, cu sediul în Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209650",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209650",
+     "sha256": "b2ef3d69de3d3dbef5f866cb3c03dd47952f5e72f61d448d41743f1c43b4c328"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2958-2018",
+   "path": "ordin/cultura/2018/2958",
+   "short": "Ordin cultura nr. 2958/2018",
+   "title": "Ordinul nr. 2.958/2018 pentru acreditarea Muzeului Satului Bănățean din Timișoara, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209651",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209651",
+     "sha256": "2a249907ef1563d59f1ff22ff614aab088fecf86bc4052dd66e47e36dca3a4ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2959-2018",
+   "path": "ordin/cultura/2018/2959",
+   "short": "Ordin cultura nr. 2959/2018",
+   "title": "Ordinul nr. 2.959/2018 pentru acreditarea Complexului Muzeal \"Iulian Antonescu\" din Bacău, județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209652",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209652",
+     "sha256": "4a4b6d9fa81e669bc9e49bfb2db4f8628a2f952545c4e703ed2e4ad297c616e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2977-2018",
+   "path": "ordin/cultura/2018/2977",
+   "short": "Ordin cultura nr. 2977/2018",
+   "title": "Ordinul nr. 2.977/2018 privind clasarea ca monument istoric în Lista monumentelor istorice a imobilului situat la adresa poștală Calea Victoriei nr. 38-38A, municipiul Sibiu, județul Sibiu, cu denumirea Fosta reședință de vară mitropolitană cu grădină, în categoria II - arhitectură, a - ansamblu, grupa valorică A, cu trei componente, Palatul mitropolitan situat în Calea Victoriei nr. 38, Grădina cu arbori seculari situată în Calea Victoriei nr. 38-38A, Gard situat în Calea Victoriei nr. 38-38A, toate componentele în categoria II - arhitectură, m - monument, grupa valorică A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211876",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211876",
+     "sha256": "81ef6b1684a2bd2b639af4a9b897d92eb7f3d4946e2c064f5bd2a9dd40af194e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2981-2018",
+   "path": "ordin/cultura/2018/2981",
+   "short": "Ordin cultura nr. 2981/2018",
+   "title": "Ordinul nr. 2.981/2018 privind declasarea parțială din Lista monumentelor istorice a monumentului istoric clasat cu denumirea Întreprinderea \"Uzinele Chimice Române\", șos. Panduri nr. 71-75, sectorul 5, București, având cod LMI B-II-m-B-19321, respectiv declasarea imobilelor C4 și C7",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235697",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235697",
+     "sha256": "21d9171beadf4eb23db935a8b1cc9406052d33f9cebfee6de9bd9b8922ae6be4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-4000-2018",
+   "path": "ordin/cultura/2018/4000",
+   "short": "Ordin cultura nr. 4000/2018",
+   "title": "Ordinul nr. 4.000/2018 pentru reacreditarea Muzeului Național de Istorie Naturală \"Grigore Antipa\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210024",
+   "versions": [
+    {
+     "from": "2019-01-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210024",
+     "sha256": "0fa2898177c877c2b5b76ade2b085657cbb6e79cd21c9dbe224ecf1e5ca8a88a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-4001-2018",
+   "path": "ordin/cultura/2018/4001",
+   "short": "Ordin cultura nr. 4001/2018",
+   "title": "Ordinul nr. 4.001/2018 privind declasarea parțială din Lista monumentelor istorice a imobilului clasat ca monument istoric cu denumirea Casă, situat la adresa poștală str. Mihai Eminescu nr. 93, municipiul București, sector 2, având codul LMI B-II-m-B-18693, respectiv declasarea corpului secundar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215564",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215564",
+     "sha256": "a5535e2f2a41efa3904e44a6176aaae41c60a199e9709fcd100a9872dabfea49"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-4003-2018",
    "path": "ordin/cultura/2018/4003",
    "short": "Ordin cultura nr. 4003/2018",
@@ -9269,6 +10169,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209906",
      "sha256": "6f0211d84ebcec211404ba42df9db146f77946320d072a8fe60066e97f96948c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-4009-2018",
+   "path": "ordin/cultura/2018/4009",
+   "short": "Ordin cultura nr. 4009/2018",
+   "title": "Ordinul nr. 4.009/2018 privind declasarea parțială din Lista monumentelor istorice a monumentului istoric Situl arheologic subacvatic, cod LMI CT-I-s-A-02561",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209944",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209944",
+     "sha256": "de7f6a48e7529f003d4e567f165450d60e0cc62105cad03cea9812e052519f83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-4013-2018",
+   "path": "ordin/cultura/2018/4013",
+   "short": "Ordin cultura nr. 4013/2018",
+   "title": "Ordinul nr. 4.013/2018 privind declasarea parțială din Lista monumentelor istorice a monumentului istoric clasat cu denumirea Fabrica de Țevi \"Republica\", având cod LMI B-II-a-A-18092",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211891",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211891",
+     "sha256": "f9ad040abfa20a549fa3e74461c16ab1cf06b81b0eff787c5ce19e965daca710"
     }
    ]
   },
@@ -11133,6 +12063,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3330-2018",
+   "path": "ordin/educatie/2018/3330",
+   "short": "Ordin educatie nr. 3330/2018",
+   "title": "Ordinul nr. 3.330/2018 privind aprobarea componenței nominale a Consiliului Național de Statistică și Prognoză a Învățământului Superior (C.N.S.P.I.S.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199578",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199578",
+     "sha256": "5740e569971ae9509e3a14136ef2062b302753fd93f913c68f95e159db8a566b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3344-2018",
    "path": "ordin/educatie/2018/3344",
    "short": "Ordin educatie nr. 3344/2018",
@@ -11433,6 +12378,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3631-2018",
+   "path": "ordin/educatie/2018/3631",
+   "short": "Ordin educatie nr. 3631/2018",
+   "title": "Ordinul nr. 3.631/2018 privind aprobarea componenței Grupului de revizuire a planurilor-cadru de învățământ pentru învățământul primar și a componenței Comisiei de validare a planurilor-cadru de învățământ revizuite pentru învățământul primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200721",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/200721",
+     "sha256": "b79f8b8acd89f4cd81ac1520e97809b5fd8f716b01c6828403d9c4ab463e1fcf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3633-2018",
    "path": "ordin/educatie/2018/3633",
    "short": "Ordin educatie nr. 3633/2018",
@@ -11448,6 +12408,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3638-2018",
+   "path": "ordin/educatie/2018/3638",
+   "short": "Ordin educatie nr. 3638/2018",
+   "title": "Ordinul nr. 3.638/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Sfântul Dumitru - Mavrogheni\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200765",
+   "versions": [
+    {
+     "from": "2018-05-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200765",
+     "sha256": "c857074fa44a85d6ac4790465fc1d1b6f2073a0277e1782cc7dd77560d38fd9c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3657-2018",
    "path": "ordin/educatie/2018/3657",
    "short": "Ordin educatie nr. 3657/2018",
@@ -11459,6 +12434,81 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200994",
      "sha256": "5926e9987f5e8eaa2bd6eaa250858344df7c668c53bd15a2a344aa92d02c54f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3675-2018",
+   "path": "ordin/educatie/2018/3675",
+   "short": "Ordin educatie nr. 3675/2018",
+   "title": "Ordinul nr. 3.675/2018 privind aprobarea componenței grupului de elaborare a planurilor-cadru de învățământ pentru învățământul secundar și a componenței comisiei de validare a proiectelor de planuri-cadru de învățământ pentru învățământul secundar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201405",
+   "versions": [
+    {
+     "from": "2018-06-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201405",
+     "sha256": "82105eff7197c33d790d77ba7d0318d22d84fafe0d0aac98c47bc5a32f7fc69b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3681-2018",
+   "path": "ordin/educatie/2018/3681",
+   "short": "Ordin educatie nr. 3681/2018",
+   "title": "Ordinul nr. 3.681/2018 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 7 iunie-29 noiembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201534",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201534",
+     "sha256": "26263aa42a041665829d6e4381a516e826ce43ca64ddfc74f9a3295603c68da8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3687-2018",
+   "path": "ordin/educatie/2018/3687",
+   "short": "Ordin educatie nr. 3687/2018",
+   "title": "Ordinul nr. 3.687/2018 privind acordarea acreditării pentru nivelul de învățământ \"preșcolar\" din cadrul unității de învățământ preuniversitar particular Liceul \"Natanael\" din municipiul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201414",
+   "versions": [
+    {
+     "from": "2018-06-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201414",
+     "sha256": "34f9eedfb016850886744b1efaaab9601a5313134ff95c7f903277ad8d615afe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3692-2018",
+   "path": "ordin/educatie/2018/3692",
+   "short": "Ordin educatie nr. 3692/2018",
+   "title": "Ordinul nr. 3.692/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program normal \"Betleem\" din orașul Hațeg",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201420",
+   "versions": [
+    {
+     "from": "2018-06-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201420",
+     "sha256": "593a52213dde2b4c5d4d9b1250b43a79040e935ad75e63840f29b43d3ee2960d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3693-2018",
+   "path": "ordin/educatie/2018/3693",
+   "short": "Ordin educatie nr. 3693/2018",
+   "title": "Ordinul nr. 3.693/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program normal și program prelungit \"Licurici\" din municipiul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201406",
+   "versions": [
+    {
+     "from": "2018-06-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201406",
+     "sha256": "343276f73593c14c6a567c53787f8c066dc2dcd41374a56e2074854be41f9185"
     }
    ]
   },
@@ -11568,6 +12618,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3915-2018",
+   "path": "ordin/educatie/2018/3915",
+   "short": "Ordin educatie nr. 3915/2018",
+   "title": "Ordinul nr. 3.915/2018 pentru modificarea Ordinului ministrului educației și cercetării științifice nr. 4.243/2015 privind constituirea Consiliului Național pentru Finanțarea Învățământului Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201806",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201806",
+     "sha256": "6032488edf72776ebfe1929ebadab2511132d9f58e82be1ecc01088fc849f13f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3921-2018",
    "path": "ordin/educatie/2018/3921",
    "short": "Ordin educatie nr. 3921/2018",
@@ -11579,6 +12644,21 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201556",
      "sha256": "3fd0aaace338ce36f6f497fc5fa9adedb3df7c65125cc0c6bf7b469fb9412e03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3962-2018",
+   "path": "ordin/educatie/2018/3962",
+   "short": "Ordin educatie nr. 3962/2018",
+   "title": "Ordinul nr. 3.962/2018 privind aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202157",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202157",
+     "sha256": "c62eb653ee3d7525758cfd4269ea663b50aee3ccee8ef4bbfe41f7f6ced9867c"
     }
    ]
   },
@@ -11613,6 +12693,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4039-2018",
+   "path": "ordin/educatie/2018/4039",
+   "short": "Ordin educatie nr. 4039/2018",
+   "title": "Ordinul nr. 4.039/2018 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical generalist\", din cadrul unității de învățământ preuniversitar particular Liceul \"Radu Miron\" din municipiul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202746",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202746",
+     "sha256": "584f28a9f564fbb2f600ec48a34b35a1cd85a3b0b3f1eb8fce2cb7643c7a9fe1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4046-2018",
    "path": "ordin/educatie/2018/4046",
    "short": "Ordin educatie nr. 4046/2018",
@@ -11643,6 +12738,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4128-2018",
+   "path": "ordin/educatie/2018/4128",
+   "short": "Ordin educatie nr. 4128/2018",
+   "title": "Ordinul nr. 4.128/2018 privind repunerea în situația anterioară și numirea Consiliului de administrație al Regiei Autonome \"Editura Didactică și Pedagogică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202755",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202755",
+     "sha256": "cc94d33d8623c014cbe1d7c3642291e1a1c1b2d587034ac8fb71b48125388b46"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4129-2018",
    "path": "ordin/educatie/2018/4129",
    "short": "Ordin educatie nr. 4129/2018",
@@ -11654,6 +12764,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203245",
      "sha256": "ef6aa16306264217e405631b7d5f52d4927a2ae5df7f37ecc6457975a0293ef8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4143-2018",
+   "path": "ordin/educatie/2018/4143",
+   "short": "Ordin educatie nr. 4143/2018",
+   "title": "Ordinul nr. 4.143/2018 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"industrie alimentară\", calificările profesionale \"tehnician controlul calității produselor agroalimentare\", \"tehnician pentru panificație și produse făinoase\" din cadrul unității de învățământ preuniversitar de stat Colegiul \"Brad Segal\" din municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203952",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203952",
+     "sha256": "788f6585405046ad997810b9c73d17ce2b248f25cb2ce56b8c0ab32d216478c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4145-2018",
+   "path": "ordin/educatie/2018/4145",
+   "short": "Ordin educatie nr. 4145/2018",
+   "title": "Ordinul nr. 4.145/2018 privind acordarea acreditării pentru nivelul de învățământ \"primar\" din cadrul unității de învățământ preuniversitar particular Școala Primară \"Angels\" din comuna Păulești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203965",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203965",
+     "sha256": "e7929e742515ed9f4c98a2b8e4dc560f0571e72f28059b4bfde2b3bc3e07cc29"
     }
    ]
   },
@@ -11733,6 +12873,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4208-2018",
+   "path": "ordin/educatie/2018/4208",
+   "short": "Ordin educatie nr. 4208/2018",
+   "title": "Ordinul nr. 4.208/2018 privind modificarea și completarea Ordinului ministrului educației naționale nr. 3.962/2018 pentru aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203725",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203725",
+     "sha256": "165117e75aa5002a874092b67843d9e2729da713ee86e8c38008faf76fe85148"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4209-2018",
    "path": "ordin/educatie/2018/4209",
    "short": "Ordin educatie nr. 4209/2018",
@@ -11789,6 +12944,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203943",
      "sha256": "725df6451c1a079a66ae06e0fe25827c8d65a995c08bf8b506863706547c3bb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4251-2018",
+   "path": "ordin/educatie/2018/4251",
+   "short": "Ordin educatie nr. 4251/2018",
+   "title": "Ordinul nr. 4.251/2018 privind modificarea anexei la Ordinul ministrului educației naționale nr. 4.542/2017 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 10 aprilie - 16 iunie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205117",
+   "versions": [
+    {
+     "from": "2018-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205117",
+     "sha256": "a998a0ae274cb11811c2fb11ab29311daae89aff7181758820d17dc0f1d1e5d4"
     }
    ]
   },
@@ -11943,6 +13113,396 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4837-2018",
+   "path": "ordin/educatie/2018/4837",
+   "short": "Ordin educatie nr. 4837/2018",
+   "title": "Ordinul nr. 4.837/2018 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 23 noiembrie 2017-20 aprilie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205064",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205064",
+     "sha256": "4724e031497a13251bb7698e93d3e577761bda787bad6e1a0c323620a5d82e8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4910-2018",
+   "path": "ordin/educatie/2018/4910",
+   "short": "Ordin educatie nr. 4910/2018",
+   "title": "Ordinul nr. 4.910/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program prelungit \"Lumea Ștrumfilor\" din municipiul Alba Iulia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205876",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205876",
+     "sha256": "b4f51f4675531e4d530f77a44e0d0b6054ad8f345be904610815393673283f49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4911-2018",
+   "path": "ordin/educatie/2018/4911",
+   "short": "Ordin educatie nr. 4911/2018",
+   "title": "Ordinul nr. 4.911/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Magic Land One\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206271",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206271",
+     "sha256": "4bafeedbe4cf01fddc7653086e70100495e237a947bcb7788404f0e98da25036"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4912-2018",
+   "path": "ordin/educatie/2018/4912",
+   "short": "Ordin educatie nr. 4912/2018",
+   "title": "Ordinul nr. 4.912/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program prelungit \"Bambi\" din municipiul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206272",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206272",
+     "sha256": "9abd8421d10de11b8db12202871521fddf05955629439ab96b6c01bc2c607c58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4914-2018",
+   "path": "ordin/educatie/2018/4914",
+   "short": "Ordin educatie nr. 4914/2018",
+   "title": "Ordinul nr. 4.914/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program prelungit \"Raykids\" din comuna Cârcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206273",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206273",
+     "sha256": "c035aed17de8bee7b4fedb582338a02a8f57281b916a464073aeb6771a327af4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4916-2018",
+   "path": "ordin/educatie/2018/4916",
+   "short": "Ordin educatie nr. 4916/2018",
+   "title": "Ordinul nr. 4.916/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Toys Story\" din municipiul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206274",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206274",
+     "sha256": "ba186389df3794fbc4db86f2b2a9fcc1bcbe734cda5bcc2785dedaba2be3d16f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4917-2018",
+   "path": "ordin/educatie/2018/4917",
+   "short": "Ordin educatie nr. 4917/2018",
+   "title": "Ordinul nr. 4.917/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic \"Henri Coandă\" din comuna Feldru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206275",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206275",
+     "sha256": "1236bcae9f83811a71dbd11c29eb0caf817aab685d6ba9374d545fcbfee4bd75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4918-2018",
+   "path": "ordin/educatie/2018/4918",
+   "short": "Ordin educatie nr. 4918/2018",
+   "title": "Ordinul nr. 4.918/2018 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"mecanică\", calificarea profesională \"tehnician optometrist\" din cadrul unității de învățământ preuniversitar particular Liceul Tehnologic UCECOM \"Spiru Haret\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206276",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206276",
+     "sha256": "afaf9f61435972312a084de294c94b7a55a60b329171d9a87b281936bcdc2a63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4919-2018",
+   "path": "ordin/educatie/2018/4919",
+   "short": "Ordin educatie nr. 4919/2018",
+   "title": "Ordinul nr. 4.919/2018 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Gimnazială Adventistă \"Matca\" din comuna Matca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206305",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206305",
+     "sha256": "647947895b34ceb683b8b257b41e536b9e729fc356422a77a3c5ab10488e8231"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4920-2018",
+   "path": "ordin/educatie/2018/4920",
+   "short": "Ordin educatie nr. 4920/2018",
+   "title": "Ordinul nr. 4.920/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială \"Lexford Castel\" din municipiul Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206626",
+   "versions": [
+    {
+     "from": "2018-11-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206626",
+     "sha256": "df6aef5d0d7e64a729268dbfb9418adce68489b8c21650b193259f8d6642916d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4921-2018",
+   "path": "ordin/educatie/2018/4921",
+   "short": "Ordin educatie nr. 4921/2018",
+   "title": "Ordinul nr. 4.921/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Montessori \"Acoperământul Maicii Domnului\" din municipiul Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206306",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206306",
+     "sha256": "bbcbd413f6e4b142bb2c505bdbb301caccbc3c8f6cb3b955f86a381936f4a9f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4922-2018",
+   "path": "ordin/educatie/2018/4922",
+   "short": "Ordin educatie nr. 4922/2018",
+   "title": "Ordinul nr. 4.922/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Centrul de Studii Europene București\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206343",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206343",
+     "sha256": "f124c7ab09aa3e979c7dc1fc55f098eb3ced653f886bcf5ab96582175076b8b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4923-2018",
+   "path": "ordin/educatie/2018/4923",
+   "short": "Ordin educatie nr. 4923/2018",
+   "title": "Ordinul nr. 4.923/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Diada\" din municipiul Mangalia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206344",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206344",
+     "sha256": "834c786ec3538bee1572223bb5a2acaf90667109fd067238706855830d96b322"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4924-2018",
+   "path": "ordin/educatie/2018/4924",
+   "short": "Ordin educatie nr. 4924/2018",
+   "title": "Ordinul nr. 4.924/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală FEG din municipiul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206345",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206345",
+     "sha256": "aced4d9649c3bf1ba6486be5cb4916b7ae779b7ec974c76c6919295dd80a7c18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4925-2018",
+   "path": "ordin/educatie/2018/4925",
+   "short": "Ordin educatie nr. 4925/2018",
+   "title": "Ordinul nr. 4.925/2018 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical balneofiziokinetoterapie și recuperare\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală FEG din municipiul Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206346",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206346",
+     "sha256": "5656ea4b440c84a2ec5f77c4e663785e9fc4c7932b28e577db9129bddc49713c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4926-2018",
+   "path": "ordin/educatie/2018/4926",
+   "short": "Ordin educatie nr. 4926/2018",
+   "title": "Ordinul nr. 4.926/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Fortuna\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206347",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206347",
+     "sha256": "758698eb8376bbc6d717e57088a26197c152d13a1a9afd37afc202dc65866a23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4927-2018",
+   "path": "ordin/educatie/2018/4927",
+   "short": "Ordin educatie nr. 4927/2018",
+   "title": "Ordinul nr. 4.927/2018 privind acordarea acreditării pentru nivelul de învățământ \"primar\" din cadrul unității de învățământ preuniversitar particular Școala Primară \"Just 4 Kids\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206387",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206387",
+     "sha256": "d6bfdb0d8101a1946f918a46d8eb49c30115da3cd638dd978b7551960ede9e95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4928-2018",
+   "path": "ordin/educatie/2018/4928",
+   "short": "Ordin educatie nr. 4928/2018",
+   "title": "Ordinul nr. 4.928/2018 privind acordarea acreditării pentru nivelul de învățământ \"primar\" din cadrul unității de învățământ preuniversitar particular Școala Primară \"Lorelay\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206348",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206348",
+     "sha256": "639b2f93daff4bc4a3d4236f05458a8886f8dd4f1ed9ae6a154cfa0034a8df6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4929-2018",
+   "path": "ordin/educatie/2018/4929",
+   "short": "Ordin educatie nr. 4929/2018",
+   "title": "Ordinul nr. 4.929/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală „Med Farm Speranța” din orașul Ocna Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206349",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206349",
+     "sha256": "e842f98702f6f73e9eca4b93ad20b4b0e64f6f88dd0f06afed56e7581ba4b84a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4930-2018",
+   "path": "ordin/educatie/2018/4930",
+   "short": "Ordin educatie nr. 4930/2018",
+   "title": "Ordinul nr. 4.930/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala \"Speranța\" din comuna Macea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206350",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206350",
+     "sha256": "cff757e1e34be0b708138c53f0e1eef67cc8d74b9449eb49d128cd1a7d36876e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4947-2018",
+   "path": "ordin/educatie/2018/4947",
+   "short": "Ordin educatie nr. 4947/2018",
+   "title": "Ordinul nr. 4.947/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic Național din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206351",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206351",
+     "sha256": "b6504ba7af94da3fc67568d244df669574c8048f6f8cc89ec6a268e52068dfbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4955-2018",
+   "path": "ordin/educatie/2018/4955",
+   "short": "Ordin educatie nr. 4955/2018",
+   "title": "Ordinul nr. 4.955/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița lui Mickey din municipiul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206352",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206352",
+     "sha256": "0e629c41d9b9587e96c97b0a54137adcb83e656a722df7251628efbbaeb6cfb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4956-2018",
+   "path": "ordin/educatie/2018/4956",
+   "short": "Ordin educatie nr. 4956/2018",
+   "title": "Ordinul nr. 4.956/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program prelungit \"Episcop Melchisedec\" din municipiul Roman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206353",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206353",
+     "sha256": "1116ac4f5b671b44ecfac8b04d74366c05142dd72a6f729b03e3633f73c17645"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4958-2018",
+   "path": "ordin/educatie/2018/4958",
+   "short": "Ordin educatie nr. 4958/2018",
+   "title": "Ordinul nr. 4.958/2018 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Conil\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206307",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206307",
+     "sha256": "0971c1e5ed498816d33eb4dc5a9225e1a48d03073629375203c1f1659e260c32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4989-2018",
+   "path": "ordin/educatie/2018/4989",
+   "short": "Ordin educatie nr. 4989/2018",
+   "title": "Ordinul nr. 4.989/2018 privind acordarea acreditării pentru nivelul de învățământ \"primar\" din cadrul unității de învățământ preuniversitar particular Școala Gimnazială \"Fridolin\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206692",
+   "versions": [
+    {
+     "from": "2018-11-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206692",
+     "sha256": "ab8061e3e176dd89491e4a87cdccbf2efebd49c1d3cddd7288d2e5302f33a8a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4994-2018",
+   "path": "ordin/educatie/2018/4994",
+   "short": "Ordin educatie nr. 4994/2018",
+   "title": "Ordinul nr. 4.994/2018 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"transporturi\", calificarea profesională \"tehnician diagnostic auto\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic Mecanic \"Grivița\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206693",
+   "versions": [
+    {
+     "from": "2018-11-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206693",
+     "sha256": "7815bdcc99efad7dd59f8f8be50dc659caab1e33ff6ee5153919ba77d040f918"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5031-2018",
    "path": "ordin/educatie/2018/5031",
    "short": "Ordin educatie nr. 5031/2018",
@@ -11973,6 +13533,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5048-2018",
+   "path": "ordin/educatie/2018/5048",
+   "short": "Ordin educatie nr. 5048/2018",
+   "title": "Ordinul nr. 5.048/2018 pentru modificarea și completarea anexelor nr. 2 și 3 la Ordinul ministrului educației naționale și cercetării științifice nr. 4.106/2016 privind componența nominală a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204793",
+   "versions": [
+    {
+     "from": "2018-09-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204793",
+     "sha256": "88c0e9b520d8bfcaedd56410fb038f0c6d1cf1ceadc65329ddba05eaa08ca479"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5049-2018",
+   "path": "ordin/educatie/2018/5049",
+   "short": "Ordin educatie nr. 5049/2018",
+   "title": "Ordinul nr. 5.049/2018 pentru modificarea anexei la Ordinul ministrului educației naționale nr. 3.990/2017 privind componența nominală a comisiilor de contestații ale Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204794",
+   "versions": [
+    {
+     "from": "2018-09-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20251216002457id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/204794",
+     "sha256": "5673e3ce4bd71292d7a1aec59f90067ea9594bd8caed68b0e95ef5c37fdd4ecc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5110-2018",
    "path": "ordin/educatie/2018/5110",
    "short": "Ordin educatie nr. 5110/2018",
@@ -11984,6 +13574,21 @@
      "units": 77,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205122",
      "sha256": "9f7c9858617afe02778b927319af7f9b3d556a26e510d18d934da4221f084432"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5127-2018",
+   "path": "ordin/educatie/2018/5127",
+   "short": "Ordin educatie nr. 5127/2018",
+   "title": "Ordinul nr. 5.127/2018 pentru modificarea anexelor nr. 2 și 3 la Ordinul ministrului educației naționale și cercetării științifice nr. 4.106/2016 privind componența nominală a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205900",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/205900",
+     "sha256": "fa144a36cdf1e5fefecf7d76fa37b39309b4b2ffd4fd51aa64f94e05088ce81c"
     }
    ]
   },
@@ -12014,6 +13619,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206180",
      "sha256": "b2d664431ac94df8d6c3667acd40b407ba24b266420e2f460a43caad4de58c2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5311-2018",
+   "path": "ordin/educatie/2018/5311",
+   "short": "Ordin educatie nr. 5311/2018",
+   "title": "Ordinul nr. 5.311/2018 privind desemnarea membrilor Consiliului Național pentru Finanțarea Învățământului Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206186",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206186",
+     "sha256": "fda138f542a51ecc078301f1c1d4a0dc5086a82230887a4fde4598dfd9745893"
     }
    ]
   },
@@ -12198,6 +13818,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5611-2018",
+   "path": "ordin/educatie/2018/5611",
+   "short": "Ordin educatie nr. 5611/2018",
+   "title": "Ordinul nr. 5.611/2018 pentru modificarea Ordinului ministrului educației naționale nr. 5.552/2017 privind componența Consiliului de etică și management universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208646",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208646",
+     "sha256": "4986ba286c9f1e2b4a5ec55a1e222eced7f6e8e6a36dbe7f44ace4441bc75961"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5635-2018",
+   "path": "ordin/educatie/2018/5635",
+   "short": "Ordin educatie nr. 5635/2018",
+   "title": "Ordinul nr. 5.635/2018 pentru completarea Ordinului ministrului educației naționale nr. 5.311/2018 privind desemnarea membrilor Consiliului Național pentru Finanțarea Învățământului Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209045",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209045",
+     "sha256": "c3b28faf904b5f2b67dbeeeb6ceab152907e80874692de7a846bc14c070b63bf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5658-2018",
    "path": "ordin/educatie/2018/5658",
    "short": "Ordin educatie nr. 5658/2018",
@@ -12374,6 +14024,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200913",
      "sha256": "800c054f051716173f37899085ff8daa3c6df1cd0d74b1d9e2b26d7ef6bc3f81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-988-2018",
+   "path": "ordin/externe/2018/988",
+   "short": "Ordin externe nr. 988/2018",
+   "title": "Ordinul nr. 988/2018 privind acordarea burselor \"Eugen Ionescu\" în anul universitar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203559",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203559",
+     "sha256": "ea823c85d779fc2435516c42b956df7e022ade757a1fa24c56549654bf918809"
     }
    ]
   },

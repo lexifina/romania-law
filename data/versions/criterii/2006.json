@@ -3,6 +3,36 @@
  "shard": "criterii/2006",
  "acts": [
   {
+   "slug": "criterii-guvern-zi0913-2006",
+   "path": "criterii/guvern/2006/09-13",
+   "short": "Criterii guvern din 13 septembrie 2006",
+   "title": "Criterii din 13 septembrie 2006 de acordare a etichetei ecologice pentru grupul de produse lubrifianți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75612",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75612",
+     "sha256": "b506a1c035857f29f9279d779044f7f1eab22b3071c8bc874de3e56c57f9e3b3"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi1108-2006",
+   "path": "criterii/guvern/2006/11-08",
+   "short": "Criterii guvern din 8 noiembrie 2006",
+   "title": "Criterii de acordare din 8 noiembrie 2006 a etichetei ecologice pentru serviciile de camping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77376",
+   "versions": [
+    {
+     "from": "2006-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77376",
+     "sha256": "a56a4d23be7f9bdc2546fdeb1cf77072cb8cb06b00c47f18fa71d92897e9ef04"
+    }
+   ]
+  },
+  {
    "slug": "criterii-hipica-1-2006",
    "path": "criterii/hipica/2006/1",
    "short": "Criterii hipica nr. 1/2006",

@@ -391,6 +391,36 @@
      "sha256": "696d5553d973c53be138e02c4860814b0b495963ce6070d739b6af75cd623b71"
     }
    ]
+  },
+  {
+   "slug": "norma-finante-zi0409-2019",
+   "path": "norma/finante/2019/04-09",
+   "short": "Norma finante din 9 aprilie 2019",
+   "title": "Norme metodologice din 9 aprilie 2019 privind întocmirea și depunerea situațiilor financiare trimestriale și a unor raportări financiare lunare ale instituțiilor publice în anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212722",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212722",
+     "sha256": "1abfe0a694dfadb60f2e955623617fba1878e5628d4791532175a2a6d447606f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0227-2019",
+   "path": "norma/guvern/2019/02-27",
+   "short": "Norma guvern din 27 februarie 2019",
+   "title": "Norme metodologice din 27 februarie 2019 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 46/2018 privind înființarea, organizarea și funcționarea Oficiului Național pentru Achiziții Centralizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211683",
+   "versions": [
+    {
+     "from": "2019-03-06",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211683",
+     "sha256": "a054ee20ff7b3539ceeeb14ed21a45892c8059d24102854c598ea4504149a06d"
+    }
+   ]
   }
  ]
 }

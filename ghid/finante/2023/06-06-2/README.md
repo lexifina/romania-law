@@ -1,0 +1,18 @@
+# Ghidul de plată din 6 iunie 2023 a ajutorului de stat acordat în baza Hotărârii Guvernului nr. 807/2014 pentru instituirea unor scheme de ajutor de stat având ca obiectiv stimularea investițiilor cu impact major în economie
+
+Ghid finante din 6 iunie 2023 · 1 versions, from 2023-06-09 (latest in force: 2023-06-09) · <https://legislatie.just.ro/Public/DetaliiDocument/271715>
+
+**Status:** Published as it appeared in the Monitorul Oficial, as a document of its own: approving act not identified (it will be linked to the act that approves it); later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `ghid-finante-zi0606-2-2023` (tags `ghid-finante-zi0606-2-2023/<day>`; `python tools/on.py <day> ghid-finante-zi0606-2-2023`).
+
+## Decisions made by hand
+
+- Ghid finante din 6 iunie 2023: added from the official web service of the Portalul legislativ (FreeWebService) as the guide published in Monitorul Oficial nr. 507 of 9 June 2023 as a document of its own, with no number of its own (document 271715, retrieved 2026-11-03, held on disk; the service was not requested again). Whether later acts amended it has not yet been checked; amendments, if any, are not applied here.
+- Ghid finante din 6 iunie 2023: approving act not identified. The guide was published without a number, as a document of its own; no act of the same Monitorul Oficial issue points to it or approves a document of its subject, so it is published on its own, its folder named by its day (the number it lacks), and will be linked to its approving act later.
+- Ghid finante din 6 iunie 2023: the first version is the guide as published in Monitorul Oficial nr. 507 of 9 June 2023, in force from its publication in the Monitorul Oficial.
+- Ghid finante din 6 iunie 2023: its text is kept whole as one unit: its articles could not be split without losing words.

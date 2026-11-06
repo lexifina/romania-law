@@ -91,6 +91,96 @@
      "sha256": "bc0f8a41b0ce5f8e3d7fcf857cd6ef118f7f9207978cd967a5b8dbd4c1979306"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-agricultura-zi0907-2006",
+   "path": "instructiuni/agricultura/2006/09-07",
+   "short": "Instrucțiuni agricultura din 7 septembrie 2006",
+   "title": "Instrucțiuni din 7 septembrie 2006 pentru administrarea de către Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, prin Agenția de Plăți și Intervenție pentru Agricultură, a contribuțiilor pentru producțiile de zahăr și izoglucoză realizate în cadrul cotelor alocate României de către Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76680",
+   "versions": [
+    {
+     "from": "2006-11-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76680",
+     "sha256": "4ea182e6a7a4461d49b4cf6deffb1575dc9e9ebfcd8df83c32496528078b8235"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cncan-zi1115-2006",
+   "path": "instructiuni/cncan/2006/11-15",
+   "short": "Instrucțiuni cncan din 15 noiembrie 2006",
+   "title": "Instrucțiuni din 15 noiembrie 2006 referitoare la crearea cadrului legal pentru aplicarea Regulamentului Consiliului (Euratom) nr. 1.493/93 din 8 iunie 1993 privind expedițiile de substanțe radioactive între statele membre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77497",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77497",
+     "sha256": "b816e564c313d98e7d38ef70a5562202c764c11d463ef8224ec7e66d1aaab473"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0410-2006",
+   "path": "instructiuni/concurenta/2006/04-10",
+   "short": "Instrucțiuni concurenta din 10 aprilie 2006",
+   "title": "Instrucțiuni din 10 aprilie 2006 privind regulile de acces la dosarul Consiliului Concurenței în cazurile referitoare la art. 5 și 6 din Legea concurenței nr. 21/1996 și în cazurile de concentrări economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71121",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71121",
+     "sha256": "dc3e85783b576d499087359039ca7f8f7765d561db13c286ddeb12823a9b57cc"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-zi0529-2006",
+   "path": "instructiuni/finante/2006/05-29",
+   "short": "Instrucțiuni finante din 29 mai 2006",
+   "title": "Instrucțiuni din 29 mai 2006 privind restituirea sumelor virate în mod eronat, de mai multe ori, de către instituțiile de credit, prin Sistemul electronic de plăți, ca urmare a unor erori informatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72400",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72400",
+     "sha256": "192adcb5f804703a2fa0d00cbc7088e9d6c0948d7f26dc15393e8d7dab83bdd9"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-zi0609-2006",
+   "path": "instructiuni/finante/2006/06-09",
+   "short": "Instrucțiuni finante din 9 iunie 2006",
+   "title": "Instrucțiuni din 9 iunie 2006 pentru completarea Declarației recapitulative privind livrările/achizițiile intracomunitare de bunuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74331",
+   "versions": [
+    {
+     "from": "2006-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74331",
+     "sha256": "23c59cccb12a8f8aea0687e263d072b2f10b3b5c04f438419bd95086994ed1f1"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-zi1027-2006",
+   "path": "instructiuni/finante/2006/10-27",
+   "short": "Instrucțiuni finante din 27 octombrie 2006",
+   "title": "Instrucțiuni din 27 octombrie 2006 pentru administrarea de către Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, prin Agenția de Plăți și Intervenție pentru Agricultură, a contribuțiilor pentru producțiile de zahăr și izoglucoză realizate în cadrul cotelor alocate României de către Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76690",
+   "versions": [
+    {
+     "from": "2006-11-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76690",
+     "sha256": "aa8d147c2f76627faba977d9e4fd910f5531f3f659bee516b70769fb134c2a1d"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "ghid/2019",
+ "acts": [
+  {
+   "slug": "ghid-mediu-zi0307-2019",
+   "path": "ghid/mediu/2019/03-07",
+   "short": "Ghid mediu din 7 martie 2019",
+   "title": "Ghid de finanțare din 7 martie 2019 a Programului privind închiderea depozitelor de deșeuri municipale neconforme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212014",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212014",
+     "sha256": "153ebc1b1e8f1ea32202aa885b85af2a0593b2ff8425e87323e16eac9661c2c6"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-rezervestat-zi0131-2019",
+   "path": "ghid/rezervestat/2019/01-31",
+   "short": "Ghid rezervestat din 31 ianuarie 2019",
+   "title": "Ghid din 31 ianuarie 2019 pentru acordarea de către Administrația Națională a Rezervelor de Stat și Probleme Speciale a avizului privind încadrarea/neîncadrarea obiectului concesiunii în infrastructura sistemului național de apărare, la solicitările de concesionare a bunurilor proprietate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211677",
+   "versions": [
+    {
+     "from": "2019-03-06",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211677",
+     "sha256": "701a60d20bc43294b1fcb1822123a399a2cfa09209f0b1312e06e855cdf6fa0f"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0809-1-2019",
+   "path": "ghid/sanatate/2019/08-09-1",
+   "short": "Ghid sanatate din 9 august 2019",
+   "title": "Ghid din 9 august 2019 privind evaluarea statusului vitaminei D la adulți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218407",
+   "versions": [
+    {
+     "from": "2019-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218407",
+     "sha256": "c1bca7586a67b7fb630c7ec2519ec3b384733bb778031dec2a58e50057abad1c"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0809-2-2019",
+   "path": "ghid/sanatate/2019/08-09-2",
+   "short": "Ghid sanatate din 9 august 2019",
+   "title": "Ghid din 9 august 2019 privind asistența nașterii în prezentația craniană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218522",
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218522",
+     "sha256": "423e49cbddf0d5da96b62b75e71f3fa172d5e44a2b96ff4a3be61cac8152ab10"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0809-3-2019",
+   "path": "ghid/sanatate/2019/08-09-3",
+   "short": "Ghid sanatate din 9 august 2019",
+   "title": "Ghid din 9 august 2019 privind asistența nașterii în prezentația pelviană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218523",
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218523",
+     "sha256": "c5968a0ded08f8f910505443161e949bd2a3d09dba046900da4b02bc37d6b274"
+    }
+   ]
+  }
+ ]
+}

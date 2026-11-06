@@ -468,6 +468,66 @@
    ]
   },
   {
+   "slug": "norma-ansvsa-zi0613-2008",
+   "path": "norma/ansvsa/2008/06-13",
+   "short": "Norma ansvsa din 13 iunie 2008",
+   "title": "Norme metodologice din 13 iunie 2008 de aplicare a Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2008*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97634",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97634",
+     "sha256": "7c1446fe246214816148844a713ec35d3771746f8081a65d52a23f688681bb7b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi0925-2008",
+   "path": "norma/ansvsa/2008/09-25",
+   "short": "Norma ansvsa din 25 septembrie 2008",
+   "title": "Normă sanitară veterinară din 25 septembrie 2008 privind procedura de introducere pe piață și de utilizare a reagenților și a seturilor de diagnostic de uz veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98510",
+   "versions": [
+    {
+     "from": "2008-10-27",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98510",
+     "sha256": "bf3153037334fbb67a7d7a5c16c18bb8c6876984cc7660422fe3fc1ced710772"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0509-2008",
+   "path": "norma/aparare/2008/05-09",
+   "short": "Norma aparare din 9 mai 2008",
+   "title": "Norme tehnice din 9 mai 2008 pentru lucrări de întreținere și reparații curente la clădirile și construcțiile speciale din patrimoniul imobiliar al Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93500",
+   "versions": [
+    {
+     "from": "2008-05-28",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93500",
+     "sha256": "d7f793814eb80c770bc41196b6cf9a7fff21f5edbf0a31a654b73210d7b05563"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi1111-2008",
+   "path": "norma/aparare/2008/11-11",
+   "short": "Norma aparare din 11 noiembrie 2008",
+   "title": "Norme din 11 noiembrie 2008 de apărare împotriva incendiilor în Ministerul Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101431",
+   "versions": [
+    {
+     "from": "2008-12-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101431",
+     "sha256": "8beb33b495d3684d33a103b370f98aeb6f9e3f829cb3ec5a5d97f052ab200289"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-4-2008",
    "path": "norma/bnr/2008/4",
    "short": "Norma bnr nr. 4/2008",
@@ -498,6 +558,66 @@
    ]
   },
   {
+   "slug": "norma-cnas-zi0228-1-2008",
+   "path": "norma/cnas/2008/02-28-1",
+   "short": "Norma cnas din 28 februarie 2008",
+   "title": "Norme metodologice din 28 februarie 2008 privind activitatea structurilor de control din cadrul sistemului de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91148",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91148",
+     "sha256": "a3822bf2bf59cd348dd9c784ef48d94ed8601294d54e6f81bf108fb2420b28d7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0228-2-2008",
+   "path": "norma/cnas/2008/02-28-2",
+   "short": "Norma cnas din 28 februarie 2008",
+   "title": "Norme metodologice din 28 februarie 2008 pentru stabilirea și recuperarea sumelor încasate necuvenit de la Fondul național unic de asigurări sociale de sănătate de către furnizorii de servicii medicale, medicamente și dispozitive medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91155",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91155",
+     "sha256": "8c3f39c04f17036a4b59856192de1f5815c2b886ae135459e643fbc87c85c904"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0327-2008",
+   "path": "norma/cnas/2008/03-27",
+   "short": "Norma cnas din 27 martie 2008",
+   "title": "Norme metodologice din 27 martie 2008 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pe anul 2008*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91268",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91268",
+     "sha256": "17c7ef0d3c073a0cf3ce7dda1810fd4df24eaadade8dcda3648f8d550cadf969"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0331-2008",
+   "path": "norma/cnas/2008/03-31",
+   "short": "Norma cnas din 31 martie 2008",
+   "title": "Norme tehnice din 31 martie 2008 de realizare a programelor naționale de sănătate în anul 2008*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91179",
+   "versions": [
+    {
+     "from": "2008-04-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91179",
+     "sha256": "7e2f3a50fdcdeef2a0240e5d3658674e21d05c480e25e6d1bc9d20e3bc93f4eb"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-20-2008",
    "path": "norma/csspp/2008/20",
    "short": "Norma csspp nr. 20/2008",
@@ -509,6 +629,141 @@
      "units": 18,
      "source_url": "https://asfromania.ro/uploads/articole/attachments/609d37ec77ba7514983071.pdf",
      "sha256": "db07dd4716f8d25b40b05cf849fa90623d1106fd54d977ebd59cb664e5e0924f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi1204-2008",
+   "path": "norma/dezvoltare/2008/12-04",
+   "short": "Norma dezvoltare din 4 decembrie 2008",
+   "title": "Norme metodologice din 4 decembrie 2008 pentru derularea Programului \"Patinoare artificiale\", realizat prin Compania Națională de Investiții \"C.N.I.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100578",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100578",
+     "sha256": "ef4c2fb764c2c9220340781a57f289e92915d0fa7bb29a18d0f9fbe2043e8d53"
+    }
+   ]
+  },
+  {
+   "slug": "norma-educatie-zi1215-2008",
+   "path": "norma/educatie/2008/12-15",
+   "short": "Norma educatie din 15 decembrie 2008",
+   "title": "Norme metodologice din 15 decembrie 2008 de aplicare a Hotărârii Guvernului nr. 769/2005 privind acordarea unor burse de studii unor studenți cu domiciliul în mediul rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101147",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101147",
+     "sha256": "41b9d918c061e7f717e7120774beb48eb9c9d94834497ad6fbfe48f86495eea5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1127-1-2008",
+   "path": "norma/finante/2008/11-27-1",
+   "short": "Norma finante din 27 noiembrie 2008",
+   "title": "Norme metodologice din 27 noiembrie 2008 de întocmire și utilizare a documentelor financiar-contabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100764",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100764",
+     "sha256": "0589781ead5f428c20ee024e89d18727489a70e56c5f5a6122b68d639fc81f6c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1127-2-2008",
+   "path": "norma/finante/2008/11-27-2",
+   "short": "Norma finante din 27 noiembrie 2008",
+   "title": "Norme specifice din 27 noiembrie 2008 de întocmire și utilizare a documentelor financiar-contabile (Anexa nr. 2)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101012",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101012",
+     "sha256": "5a9b8a8aeebd691289c250a0278d5d93ed25b3adf3fffaf80f6cfe0441b94df1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1212-2008",
+   "path": "norma/finante/2008/12-12",
+   "short": "Norma finante din 12 decembrie 2008",
+   "title": "Norme metodologice din 12 decembrie 2008 privind încheierea exercițiului bugetar al anului 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100761",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100761",
+     "sha256": "06d389d8b51d1ea955da34d3df7d1c27a41246518d20fdeaea4cbcfd67eb8d7e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1022-2008",
+   "path": "norma/guvern/2008/10-22",
+   "short": "Norma guvern din 22 octombrie 2008",
+   "title": "Norme metodologice din 22 octombrie 2008 privind acordarea, verificarea și plata ajutorului financiar pentru producția internă de semințe și material săditor, certificată oficial, destinată însămânțării sau plantării în campaniile agricole din toamna anului 2008 și primăvara anului 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98869",
+   "versions": [
+    {
+     "from": "2008-11-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98869",
+     "sha256": "c93936f7f79e128f72973e1e80910983b45b6b34b72d5cd6c66dde4d023fa84b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-imm-zi0512-2008",
+   "path": "norma/imm/2008/05-12",
+   "short": "Norma imm din 12 mai 2008",
+   "title": "Norme metodologice din 12 mai 2008 privind clasificarea structurilor de primire turistice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94584",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94584",
+     "sha256": "222fd65533b6ffafae3304c21f4938c54902c88234911f0dcab927b00469ea18"
+    }
+   ]
+  },
+  {
+   "slug": "norma-interne-zi0530-2008",
+   "path": "norma/interne/2008/05-30",
+   "short": "Norma interne din 30 mai 2008",
+   "title": "Norme din 30 mai 2008 de asigurare cu materiale de resortul echipamentului, de întreținere și alte materiale specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95710",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95710",
+     "sha256": "bab1c0b16e29e3e9f23ca6ae663e1cf2d83d8b64ceeb9915c0333c73b2a3ec43"
+    }
+   ]
+  },
+  {
+   "slug": "norma-interne-zi0910-2008",
+   "path": "norma/interne/2008/09-10",
+   "short": "Norma interne din 10 septembrie 2008",
+   "title": "Norme proprii din 10 septembrie 2008 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2008, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98861",
+   "versions": [
+    {
+     "from": "2008-11-05",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98861",
+     "sha256": "7eab63114c6558c348b5ecc11c6c8d7a62c953267eb1a4c379f143fd1f25a130"
     }
    ]
   }

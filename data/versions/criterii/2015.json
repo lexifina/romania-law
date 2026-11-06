@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2015",
+ "acts": [
+  {
+   "slug": "criterii-guvern-zi0624-2015",
+   "path": "criterii/guvern/2015/06-24",
+   "short": "Criterii guvern din 24 iunie 2015",
+   "title": "Criterii minime obligatorii din 24 iunie 2015 de autorizare și acreditare pentru programele de studii universitare de Arhitectură din domeniul de licență Arhitectură (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169613",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169613",
+     "sha256": "6add8d2669d43b72e59f95994d5b8686bfad0ed2bb365db8993de6d7ce00e438"
+    }
+   ]
+  }
+ ]
+}

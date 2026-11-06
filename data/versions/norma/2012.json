@@ -153,6 +153,96 @@
    ]
   },
   {
+   "slug": "norma-anre-zi0224-2012",
+   "path": "norma/anre/2012/02-24",
+   "short": "Norma anre din 24 februarie 2012",
+   "title": "Normă tehnică din 24 februarie 2012 privind proiectarea, execuția, operarea, întreținerea și repararea stațiilor de depozitare și distribuție a gazelor naturale comprimate utilizate drept combustibil pentru vehicule (GNCV)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141333",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141333",
+     "sha256": "52762d22e4926eefea9ba76f35a4d334b10b0f0cbcb6ea358937f75437a04846"
+    }
+   ]
+  },
+  {
+   "slug": "norma-anre-zi1114-2012",
+   "path": "norma/anre/2012/11-14",
+   "short": "Norma anre din 14 noiembrie 2012",
+   "title": "Normă tehnică din 14 noiembrie 2012 pentru proiectarea sistemelor de circuite secundare ale stațiilor electrice, cod NTE 011/12/00",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145869",
+   "versions": [
+    {
+     "from": "2013-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145869",
+     "sha256": "d05fb0b50b393dd6055ab45a37a04228cae9084597ebef166859e12bd7db0134"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi1016-1-2012",
+   "path": "norma/ansvsa/2012/10-16-1",
+   "short": "Norma ansvsa din 16 octombrie 2012",
+   "title": "Normă sanitară veterinară din 16 octombrie 2012 privind formularele de prescripție medicală cu regim special și normele metodologice referitoare la utilizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142550",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142550",
+     "sha256": "f562f251c2210b33ea5f07ea0b13f7bd52198dbf72877e1dd53a158dba636b43"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi1016-2-2012",
+   "path": "norma/ansvsa/2012/10-16-2",
+   "short": "Norma ansvsa din 16 octombrie 2012",
+   "title": "Norme metodologice din 16 octombrie 2012 referitoare la utilizarea formularului de prescripție medicală pentru eliberarea produselor medicinale veterinare și a formularului de prescripție medicală cu timbru sec pentru prescrierea substanțelor și preparatelor stupefiante și psihotrope de către farmaciile veterinare, ca imprimate cu regim special",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142551",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142551",
+     "sha256": "0f58de2b8526722bc5e61563e75a2d900b0d9415b2a2e40fc661165073fa294f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-zi0206-2012",
+   "path": "norma/cifga/2012/02-06",
+   "short": "Norma cifga din 6 februarie 2012",
+   "title": "Normă din 6 februarie 2012 privind analiza și avizarea solicitărilor de emitere de garanții de stat sau de acordare de subîmprumuturi de către Ministerul Finanțelor Publice (NI-CST-10-II/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135484",
+   "versions": [
+    {
+     "from": "2012-02-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135484",
+     "sha256": "66cf3a614cc126d2950b6f35ac5af480804a71564502e6f73d3c9f71c1476182"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-zi1019-2012",
+   "path": "norma/cifga/2012/10-19",
+   "short": "Norma cifga din 19 octombrie 2012",
+   "title": "Normă din 19 octombrie 2012 privind asigurarea pe termen scurt, în numele și în contul statului, a riscului de neplată la extern, riscuri nonpiață (NI-ASR-07-III/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142340",
+   "versions": [
+    {
+     "from": "2012-10-29",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142340",
+     "sha256": "87dc13d5328936947be90a57847ec2979370f8e336439b47a6f3cc1af2bba8e5"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-1-2012",
    "path": "norma/csspp/2012/1",
    "short": "Norma csspp nr. 1/2012",
@@ -314,6 +404,96 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137572",
      "sha256": "321607f74a2cd03cdbc827c569f5ff9a53159a4cdf869a5df7dec239d1f845f8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1003-1-2012",
+   "path": "norma/finante/2012/10-03-1",
+   "short": "Norma finante din 3 octombrie 2012",
+   "title": "Norme metodologice din 3 octombrie 2012 de utilizare a sumelor alocate pentru destinațiile prevăzute la art. 2 alin. (1) lit. a) din Ordinul viceprim-ministrului, ministrul finanțelor publice, nr. 1.297/2012 de aplicare a prevederilor art. 7 alin. (14) din Ordonanța Guvernului nr. 13/2012 cu privire la rectificarea bugetului de stat pe anul 2012 și art. IX din Ordonanța de urgență a Guvernului nr. 47/2012 pentru modificarea și completarea unor acte normative și reglementarea unor măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141721",
+   "versions": [
+    {
+     "from": "2012-10-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141721",
+     "sha256": "4f4806d20f6ba389f32ebf49b404ba435859bf84713622b87bb4f5f1c8e20ee1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1003-2-2012",
+   "path": "norma/finante/2012/10-03-2",
+   "short": "Norma finante din 3 octombrie 2012",
+   "title": "Norme metodologice din 3 octombrie 2012 de utilizare a sumelor alocate pentru destinațiile prevăzute la art. 2 alin. (1) lit. b) din Ordinul viceprim-ministrului, ministrul finanțelor publice, nr. 1.297/2012 de aplicare a prevederilor art. 7 alin. (14) din Ordonanța Guvernului nr. 13/2012 cu privire la rectificarea bugetului de stat pe anul 2012 și art. IX din Ordonanța de urgență a Guvernului nr. 47/2012 pentru modificarea și completarea unor acte normative și reglementarea unor măsuri fiscal-bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141722",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141722",
+     "sha256": "d188ed514335a45a0c7fb150d52c751d94a934bb5c558dcc8c836f0532732733"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1105-1-2012",
+   "path": "norma/finante/2012/11-05-1",
+   "short": "Norma finante din 5 noiembrie 2012",
+   "title": "Norme metodologice din 5 noiembrie 2012 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale unităților administrativ-teritoriale și instituțiilor publice finanțate integral din bugetul local pe destinațiile prevăzute la art. 35 alin. (12) din Ordonanța de urgență a Guvernului nr. 61/2012 cu privire la rectificarea bugetului de stat pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142616",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142616",
+     "sha256": "7981d3588dd7cf23008e9f6e5b49d214a78b66d2db2e7b507ccec4aed702ef12"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1105-2-2012",
+   "path": "norma/finante/2012/11-05-2",
+   "short": "Norma finante din 5 noiembrie 2012",
+   "title": "Norme metodologice din 5 noiembrie 2012 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale instituțiilor publice finanțate parțial din bugetul local și spitalelor publice din rețeaua autorităților administrației publice locale pentru destinațiile prevăzute la art. 35 alin. (12) din Ordonanța de urgență a Guvernului nr. 61/2012 cu privire la rectificarea bugetului de stat pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142617",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142617",
+     "sha256": "eccdb7fd25b4a9999dff568762d165ae6a79ede6ab7823a9b8e095fe308c7879"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1105-3-2012",
+   "path": "norma/finante/2012/11-05-3",
+   "short": "Norma finante din 5 noiembrie 2012",
+   "title": "Norme metodologice din 5 noiembrie 2012 de repartizare a sumelor potrivit prevederilor art. 35 alin. (15)-(19) din Ordonanța de urgență a Guvernului nr. 61/2012 cu privire la rectificarea bugetului de stat pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142618",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142618",
+     "sha256": "229a69bd38f813906277da43733e98592de23b3844ac2c728c6970f2ff7210db"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-zi0329-2012",
+   "path": "norma/justitie/2012/03-29",
+   "short": "Norma justitie din 29 martie 2012",
+   "title": "Norme din 29 martie 2012 de acordare a drepturilor de hrană, în timp de pace, personalului din sistemul administrației penitenciare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148642",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148642",
+     "sha256": "9b60a4ba3ff34ad61e0a73dc2a538734ba32d1bcdd7d92bbbf26bb71026aabec"
     }
    ]
   }

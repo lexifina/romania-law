@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "ghid/2015",
+ "acts": [
+  {
+   "slug": "ghid-fonduri-zi0313-2015",
+   "path": "ghid/fonduri/2015/03-13",
+   "short": "Ghid fonduri din 13 martie 2015",
+   "title": "Ghidul solicitantului din 13 martie 2015 axa III \"Tehnologia Informației și Comunicațiilor (TIC) pentru sectoarele privat și public\", domeniul Major de Intervenție 2 - \"Dezvoltarea și creșterea eficienței serviciilor publice electronice\", Operațiunea 4 \"Susținerea implementării de soluții de e-sănătate și asigurarea conexiunii la broadband, acolo unde este necesar\" (Anexa nr. 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172072",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172072",
+     "sha256": "9f732d9f786638dc1664a29e6a29cd09a0874767c39b437909ad07613386e7d9"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-fonduri-zi0427-1-2015",
+   "path": "ghid/fonduri/2015/04-27-1",
+   "short": "Ghid fonduri din 27 aprilie 2015",
+   "title": "Ghidul solicitantului din 27 aprilie 2015 Condiții specifice pentru cererea de propuneri de proiecte nr. 187 \"Sprijin pentru doctoranzi\", domeniul major de intervenție 1.5 \"Programe doctorale și postdoctorale în sprijinul cercetării\"*) - Anexa nr. 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176128",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176128",
+     "sha256": "d233816b672fa08bfca0f07fe73b4e6ba053753ac776dacfe1f44e2930f06177"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-fonduri-zi0427-2-2015",
+   "path": "ghid/fonduri/2015/04-27-2",
+   "short": "Ghid fonduri din 27 aprilie 2015",
+   "title": "Ghidul solicitantului din 27 aprilie 2015 Condiții specifice pentru cererea de propuneri de proiecte nr. 188 \"Oportunități integrate de diminuare a părăsirii timpurii a școlii\", domeniul major de intervenție 2.2 \"Prevenirea și corectarea părăsirii timpurii a școlii\"*) - Anexa nr. 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176129",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176129",
+     "sha256": "30bba204a789d9e466affc4cb8eaa2a51cdc1938460e95e5f17958a7372dcdd7"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-fonduri-zi0427-3-2015",
+   "path": "ghid/fonduri/2015/04-27-3",
+   "short": "Ghid fonduri din 27 aprilie 2015",
+   "title": "Ghidul solicitantului din 27 aprilie 2015 Condiții generale aferent cererilor de propuneri de proiecte lansate în cadrul Programului operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013 în anul 2015 - Anexa nr. 1*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176134",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176134",
+     "sha256": "d9d76ef6bd57e4346aa3f40001d140a650cc7c07e948121e552373f4dc371996"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-fonduri-zi0504-2015",
+   "path": "ghid/fonduri/2015/05-04",
+   "short": "Ghid fonduri din 4 mai 2015",
+   "title": "Ghidul solicitantului din 4 mai 2015 condiții specifice pentru cererea de propuneri de proiecte nr. 189 \"Stagii de practică pentru studenți\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 2.1 \"Tranziția de la școală la viața activă\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169197",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169197",
+     "sha256": "f866e18a92ed5a7ebfc638b59416f6679455a10d794a484060e503274f33e15a"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-fonduri-zi1008-2015",
+   "path": "ghid/fonduri/2015/10-08",
+   "short": "Ghid fonduri din 8 octombrie 2015",
+   "title": "Ghidul solicitantului din 8 octombrie 2015 pentru Programul operațional \"Asistență tehnică\" 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180323",
+   "versions": [
+    {
+     "from": "2015-10-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180323",
+     "sha256": "bbdfaeb08a61793b9187c2bc9b1b6d0ff593377bdc33eab26dff0a0930a881be"
+    }
+   ]
+  }
+ ]
+}

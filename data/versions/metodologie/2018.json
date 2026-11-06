@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2018",
+ "acts": [
+  {
+   "slug": "metodologie-orda-zi0122-2018",
+   "path": "metodologie/orda/2018/01-22",
+   "short": "Metodologie orda din 22 ianuarie 2018",
+   "title": "Metodologie din 22 ianuarie 2018 privind utilizarea prin radiodifuzare a operelor muzicale de către organismele de radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197532",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197532",
+     "sha256": "b34d61637c49d6fa153799bc3d266825828637c8746b6f7c9ccbe02dc3391728"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0906-2018",
+   "path": "metodologie/sanatate/2018/09-06",
+   "short": "Metodologie sanatate din 6 septembrie 2018",
+   "title": "Metodologie din 6 septembrie 2018 de organizare și desfășurare a examenului de grad principal pentru asistenți medicali generaliști, moașe, asistenți medicali, surori medicale și oficianți medicali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205184",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205184",
+     "sha256": "74cd2218fd27ad361447b95081778ad574ef3e85386584a297bdfc29e00b06ec"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi1003-2018",
+   "path": "metodologie/sanatate/2018/10-03",
+   "short": "Metodologie sanatate din 3 octombrie 2018",
+   "title": "Metodologie din 3 octombrie 2018 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 18 noiembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205967",
+   "versions": [
+    {
+     "from": "2018-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205967",
+     "sha256": "f2fa86e213126bc67e7b0ae01171f7379b5e224fe24a7a7afd311763437069b1"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sport-zi0607-2018",
+   "path": "metodologie/sport/2018/06-07",
+   "short": "Metodologie sport din 7 iunie 2018",
+   "title": "Metodologie din 7 iunie 2018 privind eliberarea autorizației de sportiv de performanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201849",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201849",
+     "sha256": "6963a9ec2e39b9963dc52d97552707298b1298bdae77cd701c22e5a85a53b591"
+    }
+   ]
+  }
+ ]
+}

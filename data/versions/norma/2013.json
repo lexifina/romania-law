@@ -123,6 +123,51 @@
    ]
   },
   {
+   "slug": "norma-ansvsa-zi1230-2013",
+   "path": "norma/ansvsa/2013/12-30",
+   "short": "Norma ansvsa din 30 decembrie 2013",
+   "title": "Normă sanitară veterinară și pentru siguranța alimentelor din 30 decembrie 2013 privind autorizarea laboratoarelor în care se desfășoară activități supuse supravegherii și controlului sanitar veterinar și pentru siguranța alimentelor din 30.12.2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156374",
+   "versions": [
+    {
+     "from": "2014-01-27",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156374",
+     "sha256": "fde127906af8d984091461cc4ea13f93ccbd027e6c3d3a237f6e2f42fad50347"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0206-2013",
+   "path": "norma/aparare/2013/02-06",
+   "short": "Norma aparare din 6 februarie 2013",
+   "title": "Norme din 6 februarie 2013 privind protecția informațiilor clasificare în Ministerul Apărării Naționale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146422",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146422",
+     "sha256": "70694161e95060a9e5d1b50a21ca1933449bc760eeb5ada17c57b77de3fcbd94"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0423-2013",
+   "path": "norma/aparare/2013/04-23",
+   "short": "Norma aparare din 23 aprilie 2013",
+   "title": "Norme metodologice din 23 aprilie 2013 privind selecția și expertiza medicală și psihologică a personalului aeronautic care execută activități aeronautice militare*) - Anexa 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149782",
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149782",
+     "sha256": "4536fab83a58a307d7d4d9b7324331ef0e5fc5297b3008653c4a3a558f02910b"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-10-2013",
    "path": "norma/asf/2013/10",
    "short": "Norma asf nr. 10/2013",
@@ -243,6 +288,36 @@
    ]
   },
   {
+   "slug": "norma-camera-zi0701-2013",
+   "path": "norma/camera/2013/07-01",
+   "short": "Norma camera din 1 iulie 2013",
+   "title": "Norme din 1 iulie 2013 privind modul de utilizare și justificare a sumei forfetare pentru cheltuieli de organizare și funcționare a birourilor parlamentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149687",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149687",
+     "sha256": "70e902b2172adbf01cfc28470f5e2c6cc93feba60f87dcab1002c91f7160a401"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0329-2013",
+   "path": "norma/cnas/2013/03-29",
+   "short": "Norma cnas din 29 martie 2013",
+   "title": "Norme tehnice din 29 martie 2013 de realizare a programelor naționale de sănătate curative pentru anii 2013 și 2014*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146679",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146679",
+     "sha256": "5fc91ec36dc62e671524fcafd0e0358eedd223dd68061b27c63420cca1248aef"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-1-2013",
    "path": "norma/csspp/2013/1",
    "short": "Norma csspp nr. 1/2013",
@@ -269,6 +344,81 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146060",
      "sha256": "a0b3c16382b54603bf26de09aa24eac2f5c441c0477658a2f2d757ec51a58c74"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi0628-1-2013",
+   "path": "norma/dezvoltare/2013/06-28-1",
+   "short": "Norma dezvoltare din 28 iunie 2013",
+   "title": "Norme metodologice din 28 iunie 2013 pentru aplicarea procedurilor privind raportarea situațiilor de criză financiară a unităților administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149600",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149600",
+     "sha256": "9e57af8f1a3e9525ac26e5c563628f1446b2ffbf33bb663022af623416f649ce"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi0628-2-2013",
+   "path": "norma/dezvoltare/2013/06-28-2",
+   "short": "Norma dezvoltare din 28 iunie 2013",
+   "title": "Norme metodologice din 28 iunie 2013 pentru aplicarea procedurilor privind raportarea situațiilor de insolvență a unităților administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149601",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149601",
+     "sha256": "a5405e07a7100e4b680b8117d5a3fed62f5708a6d30c80f3f76e6a291107186e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0618-1-2013",
+   "path": "norma/finante/2013/06-18-1",
+   "short": "Norma finante din 18 iunie 2013",
+   "title": "Norme metodologice din 18 iunie 2013 pentru aplicarea procedurilor privind raportarea situațiilor de criză financiară a unităților administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149596",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149596",
+     "sha256": "a6286e0ebafc70512596390e93d44518ee1a5bf1d3116d72d039735fc6af41ed"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0618-2-2013",
+   "path": "norma/finante/2013/06-18-2",
+   "short": "Norma finante din 18 iunie 2013",
+   "title": "Norme metodologice din 18 iunie 2013 pentru aplicarea procedurilor privind raportarea situațiilor de insolvență a unităților administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149597",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149597",
+     "sha256": "7eedfc864ed1ab5cf7623dbd543b7742d04f08cb84995883f11841a5526c2871"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-zi1021-2013",
+   "path": "norma/justitie/2013/10-21",
+   "short": "Norma justitie din 21 octombrie 2013",
+   "title": "Norme proprii din 21 octombrie 2013 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013-2014, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154157",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154157",
+     "sha256": "9a2de2e9225e7d0aa60d6584ee5e83fc0455a884564fe9addab6f1ac6f7cc9fb"
     }
    ]
   }

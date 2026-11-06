@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "ghid/2021",
+ "acts": [
+  {
+   "slug": "ghid-finante-zi0810-2021",
+   "path": "ghid/finante/2021/08-10",
+   "short": "Ghid finante din 10 august 2021",
+   "title": "Ghidul solicitantului din 10 august 2021 elaborat în baza Hotărârii Guvernului nr. 807/2014 pentru instituirea unor scheme de ajutor de stat având ca obiectiv stimularea investițiilor cu impact major în economie - Revizia 5 -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246293",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246293",
+     "sha256": "05893d75a5e748f611faa35972769223d1190f32bfa9d047c5a3a202a99fa1d0"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0223-1-2021",
+   "path": "ghid/sanatate/2021/02-23-1",
+   "short": "Ghid sanatate din 23 februarie 2021",
+   "title": "Ghid de practică medicală din 23 februarie 2021 pentru specialitatea hematologie - Leucemia acută mieloblastică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238474",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238474",
+     "sha256": "7f458f25f2a9177b8fb88b7590c210b94f41d998e60ad1ff53e4f0144d5f0137"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0223-2-2021",
+   "path": "ghid/sanatate/2021/02-23-2",
+   "short": "Ghid sanatate din 23 februarie 2021",
+   "title": "Ghid de practică medicală din 23 februarie 2021 pentru specialitatea hematologie - leucemia prolimfocitară T",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238480",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238480",
+     "sha256": "eb144e3ef5568e5adbbeed8228a32afbe48b79e8ff47eece8f01a38fb57e12e4"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0223-3-2021",
+   "path": "ghid/sanatate/2021/02-23-3",
+   "short": "Ghid sanatate din 23 februarie 2021",
+   "title": "Ghid de practică medicală din 23 februarie 2021 pentru specialitatea hematologie - Leucemia acută limfoblastică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238481",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238481",
+     "sha256": "ba79f5bb5546260fff50f81622f0af6c3722b7d3e82852dca450622adc6f0267"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0223-4-2021",
+   "path": "ghid/sanatate/2021/02-23-4",
+   "short": "Ghid sanatate din 23 februarie 2021",
+   "title": "Ghid de practică medicală din 23 februarie 2021 pentru specialitatea hematologie - Leucemia mielomonocitară cronică (LMMC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238487",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238487",
+     "sha256": "af0bd8bdb124a3136e14d0d364b0c285eea5c8772266c107727ddd25bb414e86"
+    }
+   ]
+  }
+ ]
+}

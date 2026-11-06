@@ -22,6 +22,25 @@
 "joint": []
 },
 {
+"slug": "instructiuni-anrm-zi0520-2002",
+"path": "instructiuni/anrm/2002/05-20",
+"kind": "instructiuni",
+"year": "2002",
+"number": "05-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni tehnice din 20 mai 2002 privind conținutul-cadru și modul de întocmire a Cărții miniere",
+"short": "Instrucțiuni anrm din 20 mai 2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-07-22",
+"latest": "2002-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/37510",
+"issuer": "anrm",
+"joint": []
+},
+{
 "slug": "instructiuni-cnvm-1-2002",
 "path": "instructiuni/cnvm/2002/1",
 "kind": "instructiuni",
@@ -114,6 +133,25 @@
 "latest": "2002-05-17",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/36046",
 "issuer": "dezvoltare",
+"joint": []
+},
+{
+"slug": "instructiuni-economie-zi0520-2002",
+"path": "instructiuni/economie/2002/05-20",
+"kind": "instructiuni",
+"year": "2002",
+"number": "05-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni tehnice din 20 mai 2002 privind conținutul-cadru și modul de întocmire a Cărții miniere",
+"short": "Instrucțiuni economie din 20 mai 2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-07-22",
+"latest": "2002-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/37512",
+"issuer": "economie",
 "joint": []
 },
 {

@@ -3,6 +3,25 @@
 "shard": "instructiuni/2022",
 "acts": [
 {
+"slug": "instructiuni-aparare-zi0128-2022",
+"path": "instructiuni/aparare/2022/01-28",
+"kind": "instructiuni",
+"year": "2022",
+"number": "01-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni din 28 ianuarie 2022 privind modul de raportare și investigare a evenimentelor de aviație produse cu aeronave de stat",
+"short": "Instrucțiuni aparare din 28 ianuarie 2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251501",
+"issuer": "aparare",
+"joint": []
+},
+{
 "slug": "instructiuni-asf-1-2022",
 "path": "instructiuni/asf/2022/1",
 "kind": "instructiuni",
@@ -76,6 +95,25 @@
 "latest": "2022-10-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260547",
 "issuer": "asf",
+"joint": []
+},
+{
+"slug": "instructiuni-sanatate-zi1121-2022",
+"path": "instructiuni/sanatate/2022/11-21",
+"kind": "instructiuni",
+"year": "2022",
+"number": "11-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni din 21 noiembrie 2022 privind vaccinarea cu ROR în cadrul asistenței medicale primare",
+"short": "Instrucțiuni sanatate din 21 noiembrie 2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261697",
+"issuer": "sanatate",
 "joint": []
 }
 ]

@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2008",
+ "acts": [
+  {
+   "slug": "metodologie-agricultura-zi0704-1-2008",
+   "path": "metodologie/agricultura/2008/07-04-1",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor pe piața cerealelor și oleaginoaselor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95983",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95983",
+     "sha256": "ac334aa52dff0405115db48ea1cfc0be9644f3e083c371d7b1fe5b198d7ea341"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-agricultura-zi0704-2-2008",
+   "path": "metodologie/agricultura/2008/07-04-2",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor la zahăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95984",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95984",
+     "sha256": "0ccb4d5bda18d2a84b9ebdd9a9a7fbfdca774aa1e2b26c029562dd758d3df51d"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-agricultura-zi0704-3-2008",
+   "path": "metodologie/agricultura/2008/07-04-3",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor la lapte și produse lactate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95985",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95985",
+     "sha256": "e324e3f5765f5978aaa2b4f4d178d734f9125f6bc9c24c2f19e4d26eaca11913"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-agricultura-zi0704-4-2008",
+   "path": "metodologie/agricultura/2008/07-04-4",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor la legume și fructe proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95986",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95986",
+     "sha256": "b24151c06b2705f1776f32df89f5b98a0d807c3ede88d3d98544b540c3197f60"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-agricultura-zi0704-5-2008",
+   "path": "metodologie/agricultura/2008/07-04-5",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor la vinul de masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95987",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95987",
+     "sha256": "da0c74f54bb03912a916d7093e0681b2c2a6b909f41c111c1907058132a4537c"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-agricultura-zi0704-6-2008",
+   "path": "metodologie/agricultura/2008/07-04-6",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor la carne de pasăre și ouă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95988",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95988",
+     "sha256": "f611dcb3206e3ce0a4ddfba9f6b5b870fb2e50000378b059b2643c63bc609c6d"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-agricultura-zi0704-7-2008",
+   "path": "metodologie/agricultura/2008/07-04-7",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor la carne de bovină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95989",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95989",
+     "sha256": "81a5876e33a2ec35ac35b55635253f03873a86bb3845e909bacdc5cb6488d012"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-agricultura-zi0704-8-2008",
+   "path": "metodologie/agricultura/2008/07-04-8",
+   "short": "Metodologie agricultura din 4 iulie 2008",
+   "title": "Metodologie din 4 iulie 2008 de colectare, prelucrare, interpretare și difuzare a prețurilor la carne de porc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95990",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95990",
+     "sha256": "7dad94ea3c153c1e1a277b35275ebf64af6d0f671b72532e46007e5660bebf0c"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-anre-zi0603-2008",
+   "path": "metodologie/anre/2008/06-03",
+   "short": "Metodologie anre din 3 iunie 2008",
+   "title": "Metodologie din 3 iunie 2008 de stabilire a prețurilor și a cantităților de energie electrică vândute de producători pe bază de contracte reglementate și a prețurilor pentru energia termică livrată din centrale cu grupuri de cogenerare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94881",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94881",
+     "sha256": "92fc3b8cdefdac60239aedd855bb80aee4d9a784a6f3e856e7d0b997509e1c21"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-anre-zi0612-2008",
+   "path": "metodologie/anre/2008/06-12",
+   "short": "Metodologie anre din 12 iunie 2008",
+   "title": "Metodologie din 12 iunie 2008 de întocmire a raportului financiar de către titularii de licențe*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102385",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102385",
+     "sha256": "fcbc3a69967e0f9417099e4459f877ea8536f891d52a673b0c1d1a3e6a261741"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-aparare-zi0707-2008",
+   "path": "metodologie/aparare/2008/07-07",
+   "short": "Metodologie aparare din 7 iulie 2008",
+   "title": "Metodologie din 7 iulie 2008 de întocmire și completare a aprecierii de serviciu a soldaților și gradaților voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96906",
+   "versions": [
+    {
+     "from": "2008-08-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96906",
+     "sha256": "cc7f1301fe040f904d2685888544869bbbb0c30df73e6135bdccc2620c93e104"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-aparare-zi0813-2008",
+   "path": "metodologie/aparare/2008/08-13",
+   "short": "Metodologie aparare din 13 august 2008",
+   "title": "Metodologie din 13 august 2008 privind selecționarea cadrelor militare în vederea participării la studii de perfecționare a pregătirii profesionale organizate în țară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97067",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97067",
+     "sha256": "62c53bc1ff2cd8e0de3271d14837b0a64258c186f92f1486ba3ba30e885d65d5"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-cnas-zi0212-2008",
+   "path": "metodologie/cnas/2008/02-12",
+   "short": "Metodologie cnas din 12 februarie 2008",
+   "title": "Metodologie din 12 februarie 2008 de evaluare a cazurilor invalidate pentru care se solicită revalidarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89749",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89749",
+     "sha256": "75fb85b7a0f80d3ba549099675591384014aabc395c3074f30a1e130a6ca5ae5"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0829-1-2008",
+   "path": "metodologie/educatie/2008/08-29-1",
+   "short": "Metodologie educatie din 29 august 2008",
+   "title": "Metodologie din 29 august 2008 de organizare și desfășurare a admiterii în învățământul liceal și profesional de stat pentru anul școlar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97738",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97738",
+     "sha256": "fa44a26ad24a321e6cfce0d8bbef988bc937d899f53c605725f3cdfe6f50c43b"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0829-2-2008",
+   "path": "metodologie/educatie/2008/08-29-2",
+   "short": "Metodologie educatie din 29 august 2008",
+   "title": "Metodologia din 29 august 2008 de organizare și desfășurare a tezelor cu subiect unic pentru clasele a VII-a și a VIII-a în anul școlar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98268",
+   "versions": [
+    {
+     "from": "2008-10-16",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98268",
+     "sha256": "0cd4f22ab2f99325c5a4446db2e592e8ac1659c82091245c12d99b2fecb29579"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1028-2008",
+   "path": "metodologie/educatie/2008/10-28",
+   "short": "Metodologie educatie din 28 octombrie 2008",
+   "title": "Metodologie din 28 octombrie 2008 privind mișcarea personalului didactic din învățământul preuniversitar*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101957",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101957",
+     "sha256": "422fa92a3023e0c8c0de02f6b984f6eb02606d425f6fbd35e892f3d618c4994e"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-guvern-zi0109-2008",
+   "path": "metodologie/guvern/2008/01-09",
+   "short": "Metodologie guvern din 9 ianuarie 2008",
+   "title": "Metodologie din 9 ianuarie 2008 privind elaborarea devizului general pentru obiective de investiții și lucrări de intervenții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88962",
+   "versions": [
+    {
+     "from": "2008-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88962",
+     "sha256": "3d52e1e3cdd53bc0e39b56c01394ba171c1d49f82282e3ef0f700ef48b229aea"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-interne-zi0707-2008",
+   "path": "metodologie/interne/2008/07-07",
+   "short": "Metodologie interne din 7 iulie 2008",
+   "title": "Metodologie din 7 iulie 2008 de stabilire și aprobare a tarifelor pentru unitățile de cazare aflate în administrarea Ministerului Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96880",
+   "versions": [
+    {
+     "from": "2008-08-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96880",
+     "sha256": "3c48c413ad0e7f55b446feb8e7f13bf54261933860976218ced41f3dde35914b"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-interne-zi1128-1-2008",
+   "path": "metodologie/interne/2008/11-28-1",
+   "short": "Metodologie interne din 28 noiembrie 2008",
+   "title": "Metodologia din 28 noiembrie 2008 desfășurării activităților de analiză a postului și de întocmire a fișei postului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100195",
+   "versions": [
+    {
+     "from": "2009-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100195",
+     "sha256": "868eeaff4934d284037c64f6b2e7731cd9c9ae5962dbcc74310462e1ef270c20"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-interne-zi1128-2-2008",
+   "path": "metodologie/interne/2008/11-28-2",
+   "short": "Metodologie interne din 28 noiembrie 2008",
+   "title": "Metodologia din 28 noiembrie 2008 privind organizarea și desfășurarea examenelor/concursurilor pentru ocuparea posturilor vacante în Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100196",
+   "versions": [
+    {
+     "from": "2009-01-10",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100196",
+     "sha256": "05eda20738ce1c641b342a4ed471dc3b1a0f9e7c6a582c23c0e32f0b7105d793"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi1006-2008",
+   "path": "metodologie/mediu/2008/10-06",
+   "short": "Metodologie mediu din 6 octombrie 2008",
+   "title": "Metodologie din 6 octombrie 2008 de selectare a soluțiilor de amenajare/reamenajare a cursurilor de apă pe baza analizei de decizie multicriterială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98885",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98885",
+     "sha256": "b8f6dc78d91a64dbd2795f9d90afaf99f3781728bc75065d901bc6967c4656e9"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi1127-1-2008",
+   "path": "metodologie/mediu/2008/11-27-1",
+   "short": "Metodologie mediu din 27 noiembrie 2008",
+   "title": "Metodologie din 27 noiembrie 2008 de atribuire a administrării ariilor naturale protejate care necesită constituirea de structuri de administrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99772",
+   "versions": [
+    {
+     "from": "2008-12-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99772",
+     "sha256": "0dda332daa63d86f2063a214a62288f76f7b6a27349f14a18201a8e0af7c1509"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi1127-2-2008",
+   "path": "metodologie/mediu/2008/11-27-2",
+   "short": "Metodologie mediu din 27 noiembrie 2008",
+   "title": "Metodologie din 27 noiembrie 2008 de atribuire a custodiei ariilor naturale protejate care nu necesită constituirea de structuri de administrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99773",
+   "versions": [
+    {
+     "from": "2008-12-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99773",
+     "sha256": "e6f49c560a228ac63ca76e3cced28ea3016ac934b366b4a53b7035768fc405ab"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0320-2008",
+   "path": "metodologie/sanatate/2008/03-20",
+   "short": "Metodologie sanatate din 20 martie 2008",
+   "title": "Metodologie din 20 martie 2008 privind organizarea și desfășurarea evaluării activității managerului spitalului public în anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90603",
+   "versions": [
+    {
+     "from": "2008-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90603",
+     "sha256": "459f013cacd6b7d4366709f9bbf46ab97c8eb40ddc374f030aaad40decd33431"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0709-2008",
+   "path": "metodologie/sanatate/2008/07-09",
+   "short": "Metodologie sanatate din 9 iulie 2008",
+   "title": "Metodologie din 9 iulie 2008 privind organizarea și desfășurarea reevaluării activității managerului spitalului public pentru perioada 1 ianuarie - 30 iunie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95807",
+   "versions": [
+    {
+     "from": "2008-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95807",
+     "sha256": "1bbd4edb30e0d539e0ddfb5f82772d609e8e981190c4cfea17988388cd587a33"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi1210-2008",
+   "path": "metodologie/sanatate/2008/12-10",
+   "short": "Metodologie sanatate din 10 decembrie 2008",
+   "title": "Metodologie din 10 decembrie 2008 de rambursare de către Ministerul Sănătății Publice a sumelor aferente TVA pentru bunurile și serviciile achiziționate în cadrul programelor privind combaterea HIV/SIDA și tuberculozei în România, finanțate din fonduri nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100452",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100452",
+     "sha256": "dcf2a5c4ba9e4a5c145584f4d5f055b462017d9dea5d7a861ebbe4eef09f3fed"
+    }
+   ]
+  }
+ ]
+}

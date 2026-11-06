@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2026",
+ "acts": [
+  {
+   "slug": "metodologie-anrm-zi0513-2026",
+   "path": "metodologie/anrm/2026/05-13",
+   "short": "Metodologie anrm din 13 mai 2026",
+   "title": "Metodologie din 13 mai 2026 de calcul al tarifelor pentru sesiunile de pregătire de specialitate și consultanță organizate de ANRMPSG",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310945",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310945",
+     "sha256": "28d3eca1feae1526556c8bf649f65df9946dccb31a30d4089822ce0b8f153d55"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0226-1-2026",
+   "path": "metodologie/educatie/2026/02-26-1",
+   "short": "Metodologie educatie din 26 februarie 2026",
+   "title": "Metodologie din 26 februarie 2026 de achiziție a manualelor școlare pentru învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307952",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307952",
+     "sha256": "af1f25f7033bca7c4c3278055f9ca2c3a939bcf4860bda3373397f203cae541b"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0226-2-2026",
+   "path": "metodologie/educatie/2026/02-26-2",
+   "short": "Metodologie educatie din 26 februarie 2026",
+   "title": "Metodologie din 26 februarie 2026 de administrare a manualelor școlare pentru învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307954",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307954",
+     "sha256": "0ac6ec446232a12aaa46d3b6f59870f42313e95b0fa370991ba9d5f921e327eb"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1015-2026",
+   "path": "metodologie/educatie/2026/10-15",
+   "short": "Metodologie educatie din 15 octombrie 2026",
+   "title": "Metodologie-cadru din 15 octombrie 2026 de organizare și desfășurare a evaluării naționale pentru absolvenții clasei a VIII-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315281",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315281",
+     "sha256": "47c02afc8e4524adb815314413dedb72780882f22ce91f357dfb5ae955dd4394"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-guvern-zi0224-1-2026",
+   "path": "metodologie/guvern/2026/02-24-1",
+   "short": "Metodologie guvern din 24 februarie 2026",
+   "title": "Metodologie din 24 februarie 2026 pentru realizarea procesului de evaluare a performanțelor profesionale individuale ale funcționarilor publici pe bază de competențe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307574",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307574",
+     "sha256": "d3d0c24e4bfbfd137cc17665b135b9f97b6077ba31535e7da01932b910577919"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-guvern-zi0224-2-2026",
+   "path": "metodologie/guvern/2026/02-24-2",
+   "short": "Metodologie guvern din 24 februarie 2026",
+   "title": "Metodologie din 24 februarie 2026 pentru realizarea procesului de evaluare multianuală a performanțelor profesionale individuale ale funcționarilor publici din categoria înalților funcționari publici și ale funcționarilor publici de conducere care ocupă funcții sensibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307575",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307575",
+     "sha256": "3eb9c36c39436a9729355deb14f9395f5ef6c098899695af938a693415bfec8b"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-guvern-zi0831-2-2026",
+   "path": "metodologie/guvern/2026/08-31-2",
+   "short": "Metodologie guvern din 31 august 2026",
+   "title": "Metodologie din 31 august 2026 privind stabilirea și aplicarea redevențelor și taxelor aferente concesionării perimetrelor eoliene offshore din sectorul românesc al Mării Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314364",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314364",
+     "sha256": "4a5802eacb69cd38689366cb757e7a3ad09ce401a54d5550cfddca8324132e79"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0305-2026",
+   "path": "metodologie/sanatate/2026/03-05",
+   "short": "Metodologie sanatate din 5 martie 2026",
+   "title": "Metodologie din 5 martie 2026 de organizare a examenului la nivel european pentru obținerea titlului de medic specialist în specialitatea radiologie-imagistică medicală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308134",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308134",
+     "sha256": "9302667b55de052637f915da1de78fe8692a1339c371d0eb900f52d687e25237"
+    }
+   ]
+  }
+ ]
+}

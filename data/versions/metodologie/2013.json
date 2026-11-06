@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2013",
+ "acts": [
+  {
+   "slug": "metodologie-educatie-zi0312-2013",
+   "path": "metodologie/educatie/2013/03-12",
+   "short": "Metodologie educatie din 12 martie 2013",
+   "title": "Metodologie din 12 martie 2013 privind aplicarea planurilor-cadru de învățământ pentru învățământul primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146700",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146700",
+     "sha256": "d17105290ee1f3bf859b771bd91c50c9bff95bd05f523d7e6bbf7ecafcc89505"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-munca-zi0227-2013",
+   "path": "metodologie/munca/2013/02-27",
+   "short": "Metodologie munca din 27 februarie 2013",
+   "title": "Metodologie din 27 februarie 2013 de acordare a sumelor de la bugetul de stat, prin bugetul Ministerului Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice, organizațiilor neguvernamentale prevăzute la art. 98 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145948",
+   "versions": [
+    {
+     "from": "2013-03-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145948",
+     "sha256": "0d0b9ed19bcfd3c2526df5537137a6ef5b3af71d00e1144e3ad96d51d13f10a4"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0123-1-2013",
+   "path": "metodologie/orda/2013/01-23-1",
+   "short": "Metodologie orda din 23 ianuarie 2013",
+   "title": "Metodologie din 23 ianuarie 2013 privind remunerația datorată artiștilor interpreți sau executanți reprezentați de ARAIEX pentru radiodifuzarea prestațiilor artistice din domeniul audiovizual de către organismele de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151119",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151119",
+     "sha256": "4de23059a76a7f633934a1aeb37af86a299d6eec5a69d818be2a3cbfb2893e2d"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0123-2-2013",
+   "path": "metodologie/orda/2013/01-23-2",
+   "short": "Metodologie orda din 23 ianuarie 2013",
+   "title": "Metodologie din 23 ianuarie 2013 privind remunerația datorată artiștilor interpreți sau executanți pentru radiodifuzarea prestațiilor artistice din domeniul audiovizual de către organismele de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151120",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151120",
+     "sha256": "4be295f3fb00e51be20665665deb98c05357fb92dadc5ec1428b0531d4b132be"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0930-2013",
+   "path": "metodologie/sanatate/2013/09-30",
+   "short": "Metodologie sanatate din 30 septembrie 2013",
+   "title": "Metodologie din 30 septembrie 2013 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 17 noiembrie 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151678",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151678",
+     "sha256": "cc477eb0313fdd75eea596a95c12f0c676243d8c0c81a33e23cfc2fd30e76d02"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-transporturi-zi0425-2013",
+   "path": "metodologie/transporturi/2013/04-25",
+   "short": "Metodologie transporturi din 25 aprilie 2013",
+   "title": "Metodologie din 25 aprilie 2013 de organizare și desfășurare a cursurilor de pregătire teoretică și practică a persoanelor în vederea obținerii permisului de conducere (Anexa 3)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148397",
+   "versions": [
+    {
+     "from": "2013-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148397",
+     "sha256": "744606526fef8c887ecb641b6cb52aa5110a8370fd90e757937341b3e358e8d1"
+    }
+   ]
+  }
+ ]
+}

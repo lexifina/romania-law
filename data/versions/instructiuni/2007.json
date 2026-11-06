@@ -136,6 +136,81 @@
      "sha256": "d5d68fe1c5426cce207a977ca68a0b8b8a3962a215587d196e9343271a62826d"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-educatie-zi0403-2007",
+   "path": "instructiuni/educatie/2007/04-03",
+   "short": "Instrucțiuni educatie din 3 aprilie 2007",
+   "title": "Instrucțiuni din 3 aprilie 2007 privind organizarea și desfășurarea examenului pentru reconstituirea situațiilor școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81786",
+   "versions": [
+    {
+     "from": "2007-05-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81786",
+     "sha256": "35bca346ff7a9fe5077deecbb9101f37884af5a498e41f815073c6b43aff537a"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-zi1029-1-2007",
+   "path": "instructiuni/finante/2007/10-29-1",
+   "short": "Instrucțiuni finante din 29 octombrie 2007",
+   "title": "Instrucțiuni din 29 octombrie 2007 de aplicare a măsurilor de simplificare în domeniul taxei pe valoarea adăugată privind operațiunile pluripartite din Comunitate, legate de lucrări asupra bunurilor mobile corporale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86921",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86921",
+     "sha256": "d4d624002b495f3a445240fd25a4e015233c50b5e632a9c925593fa27070ba94"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-zi1029-2-2007",
+   "path": "instructiuni/finante/2007/10-29-2",
+   "short": "Instrucțiuni finante din 29 octombrie 2007",
+   "title": "Instrucțiuni din 29 octombrie 2007 de aplicare a măsurilor de simplificare în domeniul taxei pe valoarea adăugată privind retururile de bunuri în spațiul comunitar și tratamentul fiscal al reparațiilor efectuate în perioada de garanție și postgaranție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86922",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86922",
+     "sha256": "74dd09e4bacb1d2cf2114a502989c1d76cd7085e19ca4af433d8ca08a3348a6a"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-zi1218-2007",
+   "path": "instructiuni/finante/2007/12-18",
+   "short": "Instrucțiuni finante din 18 decembrie 2007",
+   "title": "Instrucțiuni din 18 decembrie 2007 de aplicare a scutirii de taxă pe valoarea adăugată pentru operațiunile prevăzute la art. 143 alin. (1) lit. a)-i), art. 143 alin. (2) și art. 144^1 din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88166",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88166",
+     "sha256": "d4a250b493cdb0fb69c77d40510eb69790bf42f140f5b93d226de34d9add7331"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-sanatate-zi0927-2007",
+   "path": "instructiuni/sanatate/2007/09-27",
+   "short": "Instrucțiuni sanatate din 27 septembrie 2007",
+   "title": "Setul de instrucțiuni metodologice din 27 septembrie 2007 pentru controlul prin verificare periodică pe tipuri/grupe de dispozitive medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86604",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86604",
+     "sha256": "335b3f658d40cdad18185d86865fb2bfcfb72a7c2e25d3a9967db42654961eba"
+    }
+   ]
   }
  ]
 }

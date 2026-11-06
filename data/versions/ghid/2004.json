@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "ghid/2004",
+ "acts": [
+  {
+   "slug": "ghid-educatie-zi0719-2004",
+   "path": "ghid/educatie/2004/07-19",
+   "short": "Ghid educatie din 19 iulie 2004",
+   "title": "Ghid din 19 iulie 2004 de selecție a unităților de invățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54753",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54753",
+     "sha256": "7dcd379e43541cd651dc350b5c3d231320e819c18c8b53000b6e3b90c1adeae1"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1213-1-2004",
+   "path": "ghid/sanatate/2004/12-13-1",
+   "short": "Ghid sanatate din 13 decembrie 2004",
+   "title": "Ghid din 13 decembrie 2004 privind colectarea, verificarea și prezentarea rapoartelor de reacții adverse provenite de la studiile clinice cu medicamente de uz uman*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59989",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59989",
+     "sha256": "6598aeefa3fd1c4325d2f8592eca7175cfebd69e8780b244de20d44262aa0466"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1213-2-2004",
+   "path": "ghid/sanatate/2004/12-13-2",
+   "short": "Ghid sanatate din 13 decembrie 2004",
+   "title": "Ghid din 13 decembrie 2004 privind procedurile de inspecție pentru verificarea respectării Regulilor de buna practica în studiul clinic*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59990",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59990",
+     "sha256": "ca47c6de974e1cbfd1ff9ca2fed7979aa3094a5e5b956643c974dbfd54f44367"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1213-3-2004",
+   "path": "ghid/sanatate/2004/12-13-3",
+   "short": "Ghid sanatate din 13 decembrie 2004",
+   "title": "Ghid din 13 decembrie 2004 privind calificarea inspectorilor care verifica respectarea Regulilor de buna practica în studiul clinic*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59991",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59991",
+     "sha256": "a959f19f3d4e0d5d26784da8d871b6b452277c97e3cf77a498ab83a126960bb2"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1213-4-2004",
+   "path": "ghid/sanatate/2004/12-13-4",
+   "short": "Ghid sanatate din 13 decembrie 2004",
+   "title": "Ghid din 13 decembrie 2004 privind dosarul de baza al studiului clinic și arhivarea acestuia*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59992",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59992",
+     "sha256": "02e102df3f1afa4b09ac02ed1db31979d730111345174193a2d67f30472e7d71"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1213-5-2004",
+   "path": "ghid/sanatate/2004/12-13-5",
+   "short": "Ghid sanatate din 13 decembrie 2004",
+   "title": "Ghid din 13 decembrie 2004 privind considerațiile generale despre studiile clinice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59993",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59993",
+     "sha256": "8050624bb8d25c0456ae972bd1db4fe7919495f36ea9b0625d0de6780298847f"
+    }
+   ]
+  }
+ ]
+}

@@ -91,6 +91,96 @@
      "sha256": "63fac9f7f84526a804a4d03faabb475509df0b8a571c9ad7ff0605ddcde066a1"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0121-2020",
+   "path": "instructiuni/concurenta/2020/01-21",
+   "short": "Instrucțiuni concurenta din 21 ianuarie 2020",
+   "title": "Instrucțiuni din 21 ianuarie 2020 pentru modificarea pct. 1 din Instrucțiunile privind conceptele de concentrare economică, întreprindere implicată, funcționare deplină și cifră de afaceri, puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 386/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222518",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222518",
+     "sha256": "243ca633325ad3152ac708d20d57a07642fb7487ab51ac0a72f77319547388a9"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0416-2020",
+   "path": "instructiuni/concurenta/2020/04-16",
+   "short": "Instrucțiuni concurenta din 16 aprilie 2020",
+   "title": "Instrucțiuni din 16 aprilie 2020 privind procedura de calculare a dobânzii în cazul ajutorului de stat sau de minimis care trebuie rambursat sau recuperat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225494",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225494",
+     "sha256": "3391842c853fe5fd855d9d8b53ac0183322b4372784a16803775963b316e5a5c"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi1119-1-2020",
+   "path": "instructiuni/concurenta/2020/11-19-1",
+   "short": "Instrucțiuni concurenta din 19 noiembrie 2020",
+   "title": "Instrucțiuni din 19 noiembrie 2020 pentru completarea Instrucțiunilor privind condițiile, termenele și procedura pentru acceptarea și evaluarea angajamentelor, în cazul practicilor anticoncurențiale, puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 724/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233967",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233967",
+     "sha256": "eac633fe7a3e607a263b3e7b26f173d24975804aa8f09e8ae019c17250606909"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi1119-2-2020",
+   "path": "instructiuni/concurenta/2020/11-19-2",
+   "short": "Instrucțiuni concurenta din 19 noiembrie 2020",
+   "title": "Instrucțiuni din 19 noiembrie 2020 pentru modificarea și completarea Instrucțiunilor privind individualizarea sancțiunilor pentru contravențiile prevăzute la art. 55 din Legea concurenței nr. 21/1996 , puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 1.037/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233969",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233969",
+     "sha256": "3249c9c49db888bffabcee8cd460cf8368190bd95a614f6d766818306e6384de"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-mediu-zi0821-2020",
+   "path": "instructiuni/mediu/2020/08-21",
+   "short": "Instrucțiuni mediu din 21 august 2020",
+   "title": "Instrucțiuni de utilizare din 21 august 2020 a aplicației informatice Sistemul informatic de asigurare a trasabilității deșeurilor (SIATD), în vederea monitorizării și verificării corectitudinii tranzacțiilor cu deșeuri de ambalaje în sistemul răspunderii extinse a producătorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229538",
+   "versions": [
+    {
+     "from": "2020-08-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229538",
+     "sha256": "73f837439d4107e30d225a961a39709901a504b88e0a04c63f22611db71e92b1"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-munca-zi0528-2020",
+   "path": "instructiuni/munca/2020/05-28",
+   "short": "Instrucțiuni munca din 28 mai 2020",
+   "title": "Instrucțiuni din 28 mai 2020 privind autorizarea furnizorilor de formare profesională să desfășoare programe de formare profesională a adulților în sistem on-line",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226517",
+   "versions": [
+    {
+     "from": "2020-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226517",
+     "sha256": "32b58583d260b6586a8993b50afaf95819b47531465fd02c38ea3d230f4e75c5"
+    }
+   ]
   }
  ]
 }

@@ -91,6 +91,21 @@
      "sha256": "20d2b05917605ade5bf7e4adc841ccfad09bd35d0656d20d0d4ccf515e205c9c"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-aparare-zi0115-2014",
+   "path": "instructiuni/aparare/2014/01-15",
+   "short": "Instrucțiuni aparare din 15 ianuarie 2014",
+   "title": "Instrucțiuni din 15 ianuarie 2014 privind operațiunile de mișcare și transport ale marilor unități și unităților militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178900",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 277,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178900",
+     "sha256": "383314c90fdd8085f78849390e9d8e22202bea07b5a2453822e75d870802c228"
+    }
+   ]
   }
  ]
 }

@@ -33,6 +33,66 @@
    ]
   },
   {
+   "slug": "instructiuni-aparare-zi0714-1-2009",
+   "path": "instructiuni/aparare/2009/07-14-1",
+   "short": "Instrucțiuni aparare din 14 iulie 2009",
+   "title": "Instrucțiuni din 14 iulie 2009 privind activitatea legislativă și de asistență juridică în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110184",
+   "versions": [
+    {
+     "from": "2009-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110184",
+     "sha256": "cf86a62fad5476e1443cdc787b93ffdf2d516d3d10bfcffc772093638c4dc0a3"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aparare-zi0714-2-2009",
+   "path": "instructiuni/aparare/2009/07-14-2",
+   "short": "Instrucțiuni aparare din 14 iulie 2009",
+   "title": "Instrucțiuni din 14 iulie 2009 privind activitatea legislativă, de reprezentare și asistență juridică în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271662",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271662",
+     "sha256": "daa9cbed84aae92c33c7e50d99bff8b10c56e994923dbb9d3a291bdf4a56c20d"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-aparare-zi0922-2009",
+   "path": "instructiuni/aparare/2009/09-22",
+   "short": "Instrucțiuni aparare din 22 septembrie 2009",
+   "title": "Instrucțiuni din 22 septembrie 2009 de aplicare a Regulamentului privind organizarea procedurilor pentru valorificarea bunurilor aflate în administrarea Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112745",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112745",
+     "sha256": "a0a9d6ff31fbc3c2225004b18e8b3ef26637b46008b498db7cf1a40c54f4a13e"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnpp-zi0401-2009",
+   "path": "instructiuni/cnpp/2009/04-01",
+   "short": "Instrucțiuni cnpp din 1 aprilie 2009",
+   "title": "Instrucțiuni din 1 aprilie 2009 pentru aplicarea în sistemul public de pensii și alte drepturi de asigurări sociale a Regulamentului (CEE) nr. 1.408/71 al Consiliului din 14 iunie 1971 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați și cu familiile acestora care se deplasează în cadrul Comunității și a Regulamentului (CEE) nr. 574/72 al Consiliului din 21 martie 1972 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1.408/71 privind aplicarea regimurilor de securitate socială în raport cu salariații și cu membrii familiilor acestora care se deplasează în interiorul Comunității*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109815",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109815",
+     "sha256": "12a9640e73f12455c3d0b4e847d0cd3fa1dccf67832f155a1c2c027a6e38ba11"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-cnvm-2-2009",
    "path": "instructiuni/cnvm/2009/2",
    "short": "Instrucțiuni cnvm nr. 2/2009",
@@ -89,6 +149,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112820",
      "sha256": "623b2e0bee2d8f4f2d653b30fa9c74f63886770000395f48779c2b86d2775b14"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0821-2009",
+   "path": "instructiuni/concurenta/2009/08-21",
+   "short": "Instrucțiuni concurenta din 21 august 2009",
+   "title": "Instrucțiuni din 21 august 2009 privind condițiile și criteriile de aplicare a unei politici de clemență potrivit prevederilor art. 51 alin. (2) din Legea concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111046",
+   "versions": [
+    {
+     "from": "2009-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111046",
+     "sha256": "badfdac9e052d1d284a704e269f72615cb2cabd0b10abb9a26ce8927710ad10c"
     }
    ]
   }

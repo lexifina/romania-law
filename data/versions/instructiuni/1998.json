@@ -151,6 +151,111 @@
      "sha256": "867560d62d659f35a2dbb0f3f3889391529b4c22f1e0fe65fc2fc74933ba118b"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi0616-1-1998",
+   "path": "instructiuni/guvern/1998/06-16-1",
+   "short": "Instrucțiuni guvern din 16 iunie 1998",
+   "title": "Instrucțiuni de metrologie legală din 16 iunie 1998 I.M.L. 1-97 - Transmiterea unităților de măsură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59135",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59135",
+     "sha256": "656d4eb1894618d687e9f6e106e9e7a34cc18028c02fbd5dd074cb77a42a4299"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi0616-2-1998",
+   "path": "instructiuni/guvern/1998/06-16-2",
+   "short": "Instrucțiuni guvern din 16 iunie 1998",
+   "title": "Instrucțiuni de metrologie legală din 16 iunie 1998 I.M.L. 2-97 - Aprobarea de model",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59136",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59136",
+     "sha256": "a360330c67d22a9d107eb419025da149d82b0d345196a5f654abd7ebf909ab00"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi0616-3-1998",
+   "path": "instructiuni/guvern/1998/06-16-3",
+   "short": "Instrucțiuni guvern din 16 iunie 1998",
+   "title": "Instrucțiuni de metrologie legală din 16 iunie 1998 I.M.L. 3-97 - Autorizații și avize metrologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59137",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59137",
+     "sha256": "d515d6761f40c08822a308fb24303469904e4e05162847ac193fb766cfce3226"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi0616-4-1998",
+   "path": "instructiuni/guvern/1998/06-16-4",
+   "short": "Instrucțiuni guvern din 16 iunie 1998",
+   "title": "Instrucțiuni de metrologie legală din 16 iunie 1998 I.M.L. 4-97 - Mărci metrologie de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59138",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59138",
+     "sha256": "7919da630a238f20f6a152346a0e96764c9439094729b36c048a1b601f20bd80"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi0616-5-1998",
+   "path": "instructiuni/guvern/1998/06-16-5",
+   "short": "Instrucțiuni guvern din 16 iunie 1998",
+   "title": "Instrucțiuni de metrologie legală din 16 iunie 1998 I.M.L. 5-97 - Sistemul național de etalonare ale unităților de măsură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59139",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59139",
+     "sha256": "a6a46324652acb3f788dc538c6f0b5d448ebe8d70761a46f79e5acd916af20ce"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi0616-6-1998",
+   "path": "instructiuni/guvern/1998/06-16-6",
+   "short": "Instrucțiuni guvern din 16 iunie 1998",
+   "title": "Instrucțiuni de metrologie legală din 16 iunie 1998 I.M.L. 6-97 - Controlul metrologic al statului prin inspecții și testări inopinate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59140",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59140",
+     "sha256": "b20b77c27d18f414a6ff2138e112f89867d4b09dc0a898723247f45ec32b5247"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi0616-7-1998",
+   "path": "instructiuni/guvern/1998/06-16-7",
+   "short": "Instrucțiuni guvern din 16 iunie 1998",
+   "title": "Instrucțiuni de metrologie legală din 16 iunie 1998 I.M.L. 7-97 - Supravegherea metrologică a activităților deținătorilor de autorizații metrologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59141",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59141",
+     "sha256": "4943b71301ec193e00b7ae7060b02a60f7c74eaaa593473708d100266ff6fc52"
+    }
+   ]
   }
  ]
 }

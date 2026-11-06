@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-152-2010",
+   "path": "ordin/agricultura/2010/152",
+   "short": "Ordin agricultura nr. 152/2010",
+   "title": "Ordinul nr. 152/2010 pentru stabilirea componenței Comisiei Naționale de Clasare și Evaluare a Cabalinelor de Rasă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119979",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119979",
+     "sha256": "2c5c3573c9fd3d21371d7f28ad870e819b1a7a248d64a94d02d5a4edf3ed3925"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-155-2010",
    "path": "ordin/agricultura/2010/155",
    "short": "Ordin agricultura nr. 155/2010",
@@ -663,6 +678,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-241-2010",
+   "path": "ordin/agricultura/2010/241",
+   "short": "Ordin agricultura nr. 241/2010",
+   "title": "Ordinul nr. 241/2010 pentru modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 480/2009 privind constituirea Comisiei pentru acordarea licențelor de depozit pentru semințele de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123220",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123220",
+     "sha256": "3ffce98e733359c4f1d04b692740d529871a5b7fa4e049dd9745ea5ce79f4a21"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-244-2010",
    "path": "ordin/agricultura/2010/244",
    "short": "Ordin agricultura nr. 244/2010",
@@ -869,6 +899,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116292",
      "sha256": "f6a6cb547a57abb949884c49d0166070a907289311f4459f87f0311cbb383c0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-31-2010",
+   "path": "ordin/agricultura/2010/31",
+   "short": "Ordin agricultura nr. 31/2010",
+   "title": "Ordinul nr. 31/2010 pentru modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 480/2009 privind constituirea Comisiei pentru acordarea licențelor de depozit pentru semințele de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116221",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116221",
+     "sha256": "57786153e899d14ded532fca5f5f4b1178d57beefb74775651e22aa81ab34682"
     }
    ]
   },
@@ -2928,6 +2973,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-119-2010",
+   "path": "ordin/anrm/2010/119",
+   "short": "Ordin anrm nr. 119/2010",
+   "title": "Ordinul nr. 119/2010 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121157",
+   "versions": [
+    {
+     "from": "2010-08-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121157",
+     "sha256": "77d55ea38c8da7924abe1d21156b464b82cbad374bded46508093c0f8cfe1ced"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-127-2010",
+   "path": "ordin/anrm/2010/127",
+   "short": "Ordin anrm nr. 127/2010",
+   "title": "Ordinul nr. 127/2010 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121714",
+   "versions": [
+    {
+     "from": "2010-08-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121714",
+     "sha256": "c01975ba5e1c5cc5afb18dc6904d129f78c0a9a28de54278f351f63087478bc4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-13-2010",
    "path": "ordin/anrm/2010/13",
    "short": "Ordin anrm nr. 13/2010",
@@ -3048,6 +3123,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-29-2010",
+   "path": "ordin/anrm/2010/29",
+   "short": "Ordin anrm nr. 29/2010",
+   "title": "Ordinul nr. 29/2010 privind aprobarea unei licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115912",
+   "versions": [
+    {
+     "from": "2010-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115912",
+     "sha256": "806034d6d3089c702518a5184d8c67f40f2d474ca4221034a7e537ed1e167670"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-35-2010",
    "path": "ordin/anrm/2010/35",
    "short": "Ordin anrm nr. 35/2010",
@@ -3059,6 +3149,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116264",
      "sha256": "f76e27c2618126e424e6f782db484bb911214de670d9f1150b6fb08861407e4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-61-2010",
+   "path": "ordin/anrm/2010/61",
+   "short": "Ordin anrm nr. 61/2010",
+   "title": "Ordinul nr. 61/2010 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117552",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117552",
+     "sha256": "6f1c38a7c22af82b877135d8283d03878e380f2ef8de67c80480665b5a5b56b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-72-2010",
+   "path": "ordin/anrm/2010/72",
+   "short": "Ordin anrm nr. 72/2010",
+   "title": "Ordinul nr. 72/2010 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118339",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118339",
+     "sha256": "440fddb03329f28a9b8d6a9c1fc03544990f61e9be20a25083c5c582cb8a6181"
     }
    ]
   },
@@ -4173,6 +4293,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-35-2010",
+   "path": "ordin/aparare/2010/35",
+   "short": "Ordin aparare nr. 35/2010",
+   "title": "Ordinul nr. 35/2010 privind constituirea Grupului de lucru sectorial al Ministerului Apărării Naționale pentru elaborarea strategiei fiscal-bugetare pentru perioada 2011-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117666",
+   "versions": [
+    {
+     "from": "2010-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117666",
+     "sha256": "b14460d047e16a80653e15d15bce7cc08760a5cca70abf5e5a1ac9cc557fecd9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-37-2010",
    "path": "ordin/aparare/2010/37",
    "short": "Ordin aparare nr. 37/2010",
@@ -4218,6 +4353,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-44-2010",
+   "path": "ordin/aparare/2010/44",
+   "short": "Ordin aparare nr. 44/2010",
+   "title": "Ordinul nr. 44/2010 privind constituirea Consiliului miniștrilor apărării naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118144",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118144",
+     "sha256": "9c45e295f568d54283c7a364dab635924afa765020b1db2a8584fa7d306a7944"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-49-2010",
    "path": "ordin/aparare/2010/49",
    "short": "Ordin aparare nr. 49/2010",
@@ -4229,6 +4379,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118193",
      "sha256": "242016e33b4f7c5ea9c1c3039e6ac75ce87d03d527d9e9511cc1189626977c6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-5-2010",
+   "path": "ordin/aparare/2010/5",
+   "short": "Ordin aparare nr. 5/2010",
+   "title": "Ordinul nr. 5/2010 pentru modificarea Ordinului ministrului apărării naționale nr. M.104/2009 privind îndeplinirea de către secretarul de stat pentru politica de apărare și planificare a competenței conducerii Departamentului pentru relația cu Parlamentul și informare publică, precum și delegarea competenței îndeplinirii unor atribuții aflate în responsabilitatea ministrului apărării naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115152",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115152",
+     "sha256": "4b378e8288e3779fc08a0235e5080277f9389a5b87e115b5582c027766039680"
     }
    ]
   },
@@ -5478,6 +5643,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-171-2010",
+   "path": "ordin/comunicatii/2010/171",
+   "short": "Ordin comunicatii nr. 171/2010",
+   "title": "Ordinul nr. 171/2010 privind retragerea de pe piață, interzicerea comercializării și utilizării echipamentelor de tip 2,4 GHz Wireless Acces Point, DWL-2100AP, D-Link, introduse pe piața din România de către Societatea Comercială \"Asesoft Distribution\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116624",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116624",
+     "sha256": "a7c938767625a1830b92dba5021f0efabe9eb5e94cbd9d47636b1f9f556a90c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-172-2010",
+   "path": "ordin/comunicatii/2010/172",
+   "short": "Ordin comunicatii nr. 172/2010",
+   "title": "Ordinul nr. 172/2010 privind retragerea de pe piață, interzicerea comercializării și utilizării echipamentelor de tip 2,4 GHz Wireless Acces Point, QA705401APE, Qubs, introduse pe piață din România de către Societatea Comercială \"Tornado Sistems\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116625",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116625",
+     "sha256": "1227977d8622fee450b829a773427541589a45f273170af3842a39d45645c24e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-259-2010",
    "path": "ordin/comunicatii/2010/259",
    "short": "Ordin comunicatii nr. 259/2010",
@@ -5493,6 +5688,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-322-2010",
+   "path": "ordin/comunicatii/2010/322",
+   "short": "Ordin comunicatii nr. 322/2010",
+   "title": "Ordinul nr. 322/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Institutului Național de Studii și Cercetări pentru Comunicații - I.N.S.C.C. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117493",
+   "versions": [
+    {
+     "from": "2010-03-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117493",
+     "sha256": "e56af7d600224a3290e6593b9a1051efd7490d18a8306e1d7aab4848533c949a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-340-2010",
+   "path": "ordin/comunicatii/2010/340",
+   "short": "Ordin comunicatii nr. 340/2010",
+   "title": "Ordinul nr. 340/2010 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117501",
+   "versions": [
+    {
+     "from": "2010-03-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117501",
+     "sha256": "ed3c6c7192db3b1e76e15e39d339f012d38c27b3602cbe1c9ce6f807a6654dfe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-701-2010",
    "path": "ordin/comunicatii/2010/701",
    "short": "Ordin comunicatii nr. 701/2010",
@@ -5504,6 +5729,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122019",
      "sha256": "8259276a3854e9d91fe0846859ce321d5f20c2485e6315e0279a2fb86a91c63e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-953-2010",
+   "path": "ordin/comunicatii/2010/953",
+   "short": "Ordin comunicatii nr. 953/2010",
+   "title": "Ordinul nr. 953/2010 privind retragerea de pe piață, interzicerea comercializării și utilizării echipamentelor radio \"izolator telefon mobil GDT007 bruiaj GSM Pocket R10, izolator telefon mobil GDT007 bruiaj GSM R50, izolator video GDT007 bruiaj cameră wireless mini R10, transceiver Kewood TK 1118, Kit GDT007 microcameră în nasture wireless 500 m, Kit GDT007 microcameră wireless Pix 100 m+receiver USB\", introduse pe piața din România de către Societatea Comercială INVENT GADGET 007 - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122714",
+   "versions": [
+    {
+     "from": "2010-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122714",
+     "sha256": "3905f00aba97e61433fd3a413f3b36d602f92dfc29e5fa4169a4fc0927471928"
     }
    ]
   },
@@ -5928,6 +6168,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2011-2010",
+   "path": "ordin/cultura/2010/2011",
+   "short": "Ordin cultura nr. 2011/2010",
+   "title": "Ordinul nr. 2.011/2010 pentru acreditarea Muzeului Brăilei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115870",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115870",
+     "sha256": "0c438cbe99bda195d6b254311299cc3c8e88c70d6110085d805331dfe07ef57a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2112-2010",
+   "path": "ordin/cultura/2010/2112",
+   "short": "Ordin cultura nr. 2112/2010",
+   "title": "Ordinul nr. 2.112/2010 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa \"B\", a imobilului Ansamblul Parohiei Evanghelice Lutherane din satul Butin, comuna Gătaia, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118001",
+   "versions": [
+    {
+     "from": "2010-04-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118001",
+     "sha256": "cc8081998274f7ee7d19692069a4c7aa0d715aeaa87013ebf91291ee9dbf2a7c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2227-2010",
    "path": "ordin/cultura/2010/2227",
    "short": "Ordin cultura nr. 2227/2010",
@@ -5943,6 +6213,411 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2255-2010",
+   "path": "ordin/cultura/2010/2255",
+   "short": "Ordin cultura nr. 2255/2010",
+   "title": "Ordinul nr. 2.255/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului Fosta locuință directorială a Fabricii de Textile Sfântu Gheorghe, din str. Kos Karoly nr. 19/A, orașul Sfântu Gheorghe, județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119911",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119911",
+     "sha256": "bb943dee40081484de39361f69ab20ece50e8e3f62496ec1e500e98777fb1446"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2256-2010",
+   "path": "ordin/cultura/2010/2256",
+   "short": "Ordin cultura nr. 2256/2010",
+   "title": "Ordinul nr. 2.256/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului Biserica \"Sf. Vineri\", din str. Neagoe Basarab nr. 12, Ploiești, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119912",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119912",
+     "sha256": "786336a0e639fd16142e092deed1440690b17f384064bab9063d1d715e0424e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2257-2010",
+   "path": "ordin/cultura/2010/2257",
+   "short": "Ordin cultura nr. 2257/2010",
+   "title": "Ordinul nr. 2.257/2010 privind clasarea în Lista monumentelor istorice, categoria memoriale, grupa \"B\", a imobilului \"Atelierul pictorului Nicolae Grigorescu din Str. Batiștei nr. 20, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121202",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121202",
+     "sha256": "191c0c324c0af604107cbb10cc71aa980542a4579c8878bd49fb81d5c5a501a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2258-2010",
+   "path": "ordin/cultura/2010/2258",
+   "short": "Ordin cultura nr. 2258/2010",
+   "title": "Ordinul nr. 2.258/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casa arh. Dimitrie Maimarolu\" din str. George Vraca nr. 6, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121203",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121203",
+     "sha256": "1b307c1fe96606e742527b99796fab6b3883afc81a4f31ec1eeceb9657474544"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2259-2010",
+   "path": "ordin/cultura/2010/2259",
+   "short": "Ordin cultura nr. 2259/2010",
+   "title": "Ordinul nr. 2.259/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casa Mihail Șuțu\" din str. Nicolae Iorga nr. 12A, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121204",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121204",
+     "sha256": "589088de2a99df9e1180f5d9c93df2fdf2c6e35d2e5e54cf2d4a9db5bd959b56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2261-2010",
+   "path": "ordin/cultura/2010/2261",
+   "short": "Ordin cultura nr. 2261/2010",
+   "title": "Ordinul nr. 2.261/2010 privind clasarea în Lista monumentelor istorice, categoria Monumente memoriale/funerare, grupa \"B\", a Monumentului funerar al generalului Alexander Wasiliewich Gelhard, din satul/comuna Valea Mărului, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120126",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120126",
+     "sha256": "90aefc02fa670b0ac0140677a2434dbb3cb6d0f713bb632694b7a4a1ecba02b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2262-2010",
+   "path": "ordin/cultura/2010/2262",
+   "short": "Ordin cultura nr. 2262/2010",
+   "title": "Ordinul nr. 2.262/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casa Horvath\", din Str. Arcușului nr. 25, Sfântu Gheorghe, județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120127",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120127",
+     "sha256": "4648c93c320fc429997a95bfadc69e9242e33a51f1a9de5936df729a93040ae7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2263-2010",
+   "path": "ordin/cultura/2010/2263",
+   "short": "Ordin cultura nr. 2263/2010",
+   "title": "Ordinul nr. 2.263/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului Biserica ortodoxă \"Sf. Arhangheli Mihail și Gavriil\", din str. Română nr. 37, Beiuș, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120128",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120128",
+     "sha256": "e74d257af68557ec354014eaa9855ce493847c5a10e1d463f0f467a0ffc6100d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2264-2010",
+   "path": "ordin/cultura/2010/2264",
+   "short": "Ordin cultura nr. 2264/2010",
+   "title": "Ordinul nr. 2.264/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casa Ștefan Lilovici\" din str. Matei Basarab nr. 29, sectorul 3, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121205",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121205",
+     "sha256": "28a5f6bc1f60376a9894fd0d389424838a289db53ecaf79dcee1ff3683ec8b05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2265-2010",
+   "path": "ordin/cultura/2010/2265",
+   "short": "Ordin cultura nr. 2265/2010",
+   "title": "Ordinul nr. 2.265/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului Biserica \"Sf. Mare Mucenic Dimitrie Izvorâtor de Mir\", din piața Samuil Vulcan nr. 26, Beiuș, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120129",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120129",
+     "sha256": "162eb9b350c463f58c90d1a1ae398337cbc35300fdeeadb18f90a7ef8885a1ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2266-2010",
+   "path": "ordin/cultura/2010/2266",
+   "short": "Ordin cultura nr. 2266/2010",
+   "title": "Ordinul nr. 2.266/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Moara țărănească\", din Str. Florilor nr. 2, orașul Țăndărei, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120297",
+   "versions": [
+    {
+     "from": "2010-07-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120297",
+     "sha256": "70600a5963c0845e60d9aea5d41a20f50ab28c3490aaca44668b3f6ff8c69a90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2269-2010",
+   "path": "ordin/cultura/2010/2269",
+   "short": "Ordin cultura nr. 2269/2010",
+   "title": "Ordinul nr. 2.269/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a corpului A, cu poarta de acces dinspre str. Andrei Șaguna, aparținând imobilului din str. Andrei Șaguna nr. 25, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121206",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121206",
+     "sha256": "c86579d1751486621ba5c59761827da99a2bfe97d25dc5999b5e5fdf3ca34877"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2270-2010",
+   "path": "ordin/cultura/2010/2270",
+   "short": "Ordin cultura nr. 2270/2010",
+   "title": "Ordinul nr. 2.270/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casă de locuit\" din str. Andrei Șaguna nr. 3, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121207",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121207",
+     "sha256": "d0c1397e1bc27f06f4c24d47d704bfeba9312070669355e12f950ffbf5b28c54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2271-2010",
+   "path": "ordin/cultura/2010/2271",
+   "short": "Ordin cultura nr. 2271/2010",
+   "title": "Ordinul nr. 2.271/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casă de locuit\" din str. Andrei Șaguna nr. 7, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121208",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121208",
+     "sha256": "fd079fc9855c7e31476b1dee4340867ba8a4ee7e6b1cce61c254a80ce9e66b96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2272-2010",
+   "path": "ordin/cultura/2010/2272",
+   "short": "Ordin cultura nr. 2272/2010",
+   "title": "Ordinul nr. 2.272/2010 privind clasarea în Lista monumentelor istorice, categoria Ansamblu, grupa \"B\", a imobilului Grupul Școlar Independența, fosta fabrică de pantofi \"Herma\", din Str. Ocnei nr. 33, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120130",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120130",
+     "sha256": "23205f2968fcf2b73c1a03e6daa3b84211abd3a9d762b4b313decbc196e6c5c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2273-2010",
+   "path": "ordin/cultura/2010/2273",
+   "short": "Ordin cultura nr. 2273/2010",
+   "title": "Ordinul nr. 2.273/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Fostul cinematograf Arta\", din Str. Tribunei nr. 6, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120131",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120131",
+     "sha256": "d3b5ae74bbb55793369b4211c8237f034c8d15e1697b7549832411a1ddc5cf45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2274-2010",
+   "path": "ordin/cultura/2010/2274",
+   "short": "Ordin cultura nr. 2274/2010",
+   "title": "Ordinul nr. 2.274/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casă de locuit\" din str. Andrei Șaguna nr. 5, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121209",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121209",
+     "sha256": "89cf23913cbe3805c156eacf08acae2ca0da053b2a87908899db856ffbe88709"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2282-2010",
+   "path": "ordin/cultura/2010/2282",
+   "short": "Ordin cultura nr. 2282/2010",
+   "title": "Ordinul nr. 2.282/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casă de locuit\", corpurile A, B și C, din str. Andrei Șaguna nr. 17, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120132",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120132",
+     "sha256": "e1727b53b4a9e292544e51706dcdb87d738348928578d603daf0f70c4402c0e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2283-2010",
+   "path": "ordin/cultura/2010/2283",
+   "short": "Ordin cultura nr. 2283/2010",
+   "title": "Ordinul nr. 2.283/2010 privind declasarea parțială din Lista monumentelor istorice a imobilului \"Casa Coculescu\", din str. Armand Călinescu nr. 32-34, municipiul Pitești, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120133",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120133",
+     "sha256": "d448f9111aa2a7ebd808f3d6024693f4d5761db2cfc91e31fcb87875d47f5d87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2284-2010",
+   "path": "ordin/cultura/2010/2284",
+   "short": "Ordin cultura nr. 2284/2010",
+   "title": "Ordinul nr. 2.284/2010 privind clasarea în Lista monumentelor istorice, categoria Memoriale, grupa \"B\", a imobilului \"Izvorul lui Mihai Eminescu\", din satul/comuna Ion Corvin, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120135",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120135",
+     "sha256": "da76394912c28df45dbaed873eaf25ed8392b1cecdf453396585296d79dd8ca1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2288-2010",
+   "path": "ordin/cultura/2010/2288",
+   "short": "Ordin cultura nr. 2288/2010",
+   "title": "Ordinul nr. 2.288/2010 privind clasarea în Lista monumentelor istorice, categoria Ansamblu memorial, grupa \"A\", a imobilului Peșterile \"Sf. Apostol Andrei\", din satul/comuna Ion Corvin, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120136",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120136",
+     "sha256": "b4f0da8bb1c6cbd99b38f9110e609a811d06c1b4ab8dae527b58334a95c20281"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2296-2010",
+   "path": "ordin/cultura/2010/2296",
+   "short": "Ordin cultura nr. 2296/2010",
+   "title": "Ordinul nr. 2.296/2010 pentru acreditarea Muzeului Aviației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119598",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119598",
+     "sha256": "bffa62d2f4b939447884e8f7143a3d9ff74874105b5b904b19eb61cf2dced767"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2297-2010",
+   "path": "ordin/cultura/2010/2297",
+   "short": "Ordin cultura nr. 2297/2010",
+   "title": "Ordinul nr. 2.297/2010 pentru acreditarea Muzeului Etnografic al Transilvaniei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119599",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119599",
+     "sha256": "438074e49f61e6ddd141f7effeef3b0f9597d8c57f793ac39850da7477afd0f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2351-2010",
+   "path": "ordin/cultura/2010/2351",
+   "short": "Ordin cultura nr. 2351/2010",
+   "title": "Ordinul nr. 2.351/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casă\", situat în municipiul București, bd. Ghica Tei nr. 125A, sectorul 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121035",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121035",
+     "sha256": "51085055fc6d832086c9fe5573a705b6e6edeee1b206110bda9c4b818eddeb89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2352-2010",
+   "path": "ordin/cultura/2010/2352",
+   "short": "Ordin cultura nr. 2352/2010",
+   "title": "Ordinul nr. 2.352/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casă\", situat în municipiul București, Calea Floreasca nr. 226, sectorul 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121034",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121034",
+     "sha256": "c3df325f2a723fa3501cd93cadb0c833bf6f15f3ed80c512e1e7880f9dea66d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2353-2010",
+   "path": "ordin/cultura/2010/2353",
+   "short": "Ordin cultura nr. 2353/2010",
+   "title": "Ordinul nr. 2.353/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casă\", situat în municipiul București, Str. Fluviului nr. 12, sectorul 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121033",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121033",
+     "sha256": "935f2f77a34970489caf0aa5df19bfa7c796e739fffaa64d04c7713e5f50f4f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2354-2010",
+   "path": "ordin/cultura/2010/2354",
+   "short": "Ordin cultura nr. 2354/2010",
+   "title": "Ordinul nr. 2.354/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casa Eugenia Boaru\", situat în satul/comuna Balta Albă, județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121032",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121032",
+     "sha256": "3137823cc61c7c90a2b3bc5f7d3a3a1733c9788e95cf1fcc338bbf544e89a264"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2361-2010",
    "path": "ordin/cultura/2010/2361",
    "short": "Ordin cultura nr. 2361/2010",
@@ -5954,6 +6629,231 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122511",
      "sha256": "1d88811fca9977e3d1cbb9166350c094384e0378356aa615f12c5a7320042c59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2362-2010",
+   "path": "ordin/cultura/2010/2362",
+   "short": "Ordin cultura nr. 2362/2010",
+   "title": "Ordinul nr. 2.362/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casă\", situat în municipiul București, str. Negulescu Ștefan nr. 20-22, sectorul 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121030",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121030",
+     "sha256": "4effa7af0773d4515b668d4cda7dd48530590019634f604a9d36ebd870414d8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2388-2010",
+   "path": "ordin/cultura/2010/2388",
+   "short": "Ordin cultura nr. 2388/2010",
+   "title": "Ordinul nr. 2.388/2010 privind declasarea parțială din Lista monumentelor istorice a imobilului \"Casa Ibrăileanu\" din Str. Gării nr. 6, Focșani, județul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121210",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121210",
+     "sha256": "45703de5bcf56da084956245cd8456966ca75d139e06d179d93cff91e812d09b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2398-2010",
+   "path": "ordin/cultura/2010/2398",
+   "short": "Ordin cultura nr. 2398/2010",
+   "title": "Ordinul nr. 2.398/2010 privind schimbarea grupei de clasare din \"B\" în \"A\" pentru imobilul Biserica \"Buna Vestire\" a fostei mânăstiri Bisericani din satul Bisericani, comuna Alexandru cel Bun, județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121211",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121211",
+     "sha256": "0641c83bc9f86b67a454326ae621c68d7206eabc2c66477897faefb6d63b3cc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2399-2010",
+   "path": "ordin/cultura/2010/2399",
+   "short": "Ordin cultura nr. 2399/2010",
+   "title": "Ordinul nr. 2.399/2010 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului fostei primării din Str. Unirii nr. 15, Zalău, județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121212",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121212",
+     "sha256": "5c7bbf8785cc351ba100041593be123321bbc2a9c6be8cbbfb93d07d0972439f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2400-2010",
+   "path": "ordin/cultura/2010/2400",
+   "short": "Ordin cultura nr. 2400/2010",
+   "title": "Ordinul nr. 2.400/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casa D.R. Ioanițescu\" din str. Mântuleasa nr. 33, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121213",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121213",
+     "sha256": "3b4485b9c9b23095775c9929269be06ecfe9be1c6a2ff078bfc1cedef19e0b50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2405-2010",
+   "path": "ordin/cultura/2010/2405",
+   "short": "Ordin cultura nr. 2405/2010",
+   "title": "Ordinul nr. 2.405/2010 privind clasarea în Lista monumentelor istorice, categoria memoriale, grupa B, a imobilului \"Casa sculptorului George Apostu\" din satul/comuna Stănișești, județul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122446",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122446",
+     "sha256": "dbcbd54a99cc1bc2f797296b8ddad8b20dcab2d05f7f4adbc20ca669b04d4ecf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2450-2010",
+   "path": "ordin/cultura/2010/2450",
+   "short": "Ordin cultura nr. 2450/2010",
+   "title": "Ordinul nr. 2.450/2010 privind clasarea în Lista monumentelor istorice, grupa B, a imobilului \"Casa Dr. Gh. Nanu\" din Str. Icoanei nr. 50A, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122398",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122398",
+     "sha256": "cfe74c86f22f51af130dc69799c99d107b3be5a7295983de35fd4cab00e3c007"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2451-2010",
+   "path": "ordin/cultura/2010/2451",
+   "short": "Ordin cultura nr. 2451/2010",
+   "title": "Ordinul nr. 2.451/2010 privind clasarea în Lista monumentelor istorice, grupa B, a imobilului \"Casa G-ral Jitianu I.\" din str. Olari nr. 32, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122399",
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122399",
+     "sha256": "94a76936ec33e1071708c1857507bceb1084d76104f94a13297e8897849409cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2452-2010",
+   "path": "ordin/cultura/2010/2452",
+   "short": "Ordin cultura nr. 2452/2010",
+   "title": "Ordinul nr. 2.452/2010 privind clasarea în Lista monumentelor istorice, grupa B, a imobilului \"Pasajul Generală\" din Str. Academiei nr. 39-41, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122447",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122447",
+     "sha256": "030242183c063e23527849df642800a7c55eaa6cf3d26b7945b605160eecdbaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2458-2010",
+   "path": "ordin/cultura/2010/2458",
+   "short": "Ordin cultura nr. 2458/2010",
+   "title": "Ordinul nr. 2.458/2010 privind clasarea în Lista monumentelor istorice, grupa B, a imobilului \"Casa parohială\" din satul/comuna Roșia nr. 247, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122448",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122448",
+     "sha256": "34790c8982b0ab2f26e4f23d83114ba8999c8d71c455c08add377a9fe62e1fd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2459-2010",
+   "path": "ordin/cultura/2010/2459",
+   "short": "Ordin cultura nr. 2459/2010",
+   "title": "Ordinul nr. 2.459/2010 privind clasarea în Lista monumentelor istorice, grupa B, a imobilului \"Casă de locuit\" din str. Andrei Șaguna nr. 19, municipiul Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122449",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122449",
+     "sha256": "452990521a9f708dd6b6c465b4706f03d79656ba15c5bab58ff8bae64d6e568d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2460-2010",
+   "path": "ordin/cultura/2010/2460",
+   "short": "Ordin cultura nr. 2460/2010",
+   "title": "Ordinul nr. 2.460/2010 privind clasarea de urgență în Lista monumentelor istorice, categoria ansamblu, grupa B, a imobilului \"Ansamblul Cazinoul Mamaia\" din stațiunea Mamaia, municipiul Constanța, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122450",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122450",
+     "sha256": "077b4201047d3c5ea949a9cc9642eb22976895b246500a70f9226bc1f55a7243"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2464-2010",
+   "path": "ordin/cultura/2010/2464",
+   "short": "Ordin cultura nr. 2464/2010",
+   "title": "Ordinul nr. 2.464/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\" nr. 211 din satul/comuna Zăbala, județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122451",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122451",
+     "sha256": "06d68be41d3031b2b86238712615a623440e50c2a78b5de30ab1cdc14f5686c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2480-2010",
+   "path": "ordin/cultura/2010/2480",
+   "short": "Ordin cultura nr. 2480/2010",
+   "title": "Ordinul nr. 2.480/2010 privind clasarea în Lista monumentelor istorice, grupa A, a imobilului \"Ghețărie\", în cadrul \"Ansamblului Palatului Brâncovenesc\", din str. Valea Parcului nr. 1, satul/comuna Mogoșoaia, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122452",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122452",
+     "sha256": "1a47948bbd72e6ef0ea18fac59d0fdcf011cb0da098a1947a88887210618bad6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2489-2010",
+   "path": "ordin/cultura/2010/2489",
+   "short": "Ordin cultura nr. 2489/2010",
+   "title": "Ordinul nr. 2.489/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\" din str. Sandu-Aldea Constantin nr. 37, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122453",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122453",
+     "sha256": "c7cee6055547ac9ec09e26dbc21631da76fb30b6a7ae9ed0685885ed1501bad7"
     }
    ]
   },
@@ -6018,6 +6918,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2520-2010",
+   "path": "ordin/cultura/2010/2520",
+   "short": "Ordin cultura nr. 2520/2010",
+   "title": "Ordinul nr. 2.520/2010 privind clasarea în Lista monumentelor istorice, grupa valorică A, a imobilului Biserica \"Adormirea Maicii Domnului\" - Maica Precista de la Dud (Madona Dudu) din str. Madona Dudu nr. 3, Craiova, județul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122861",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122861",
+     "sha256": "87de2f7fa442af2125f302914b4fb205c4f64ecaacaed6ec6bd816c4d4e05092"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2524-2010",
+   "path": "ordin/cultura/2010/2524",
+   "short": "Ordin cultura nr. 2524/2010",
+   "title": "Ordinul nr. 2.524/2010 privind clasarea în Lista monumentelor istorice, grupa valorică B, a imobilului Biserica ortodoxă \"Sf. Nicolae\" din satul Gherdeal, comuna Bruiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122862",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122862",
+     "sha256": "b544e220f7453c43818b8b3062f2562a6063063e1db0e3ed8abf37ec95abd117"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2557-2010",
    "path": "ordin/cultura/2010/2557",
    "short": "Ordin cultura nr. 2557/2010",
@@ -6033,6 +6963,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2558-2010",
+   "path": "ordin/cultura/2010/2558",
+   "short": "Ordin cultura nr. 2558/2010",
+   "title": "Ordinul nr. 2.558/2010 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa valorică \"B\", a imobilului Calea ferată forestieră îngustă \"Valea Vaserului\" din orașul Vișeu de Sus, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124362",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124362",
+     "sha256": "43d4bf1c4711b006db191acd5b25ce59e4ad344fb180c4cccf7b3f991511e690"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2561-2010",
+   "path": "ordin/cultura/2010/2561",
+   "short": "Ordin cultura nr. 2561/2010",
+   "title": "Ordinul nr. 2.561/2010 privind clasarea în Lista monumentelor istorice, grupa \"A\", a imobilului \"Casa Ștefan Z. Ghica Ghiculescu\", cu împrejmuirea dinspre stradă, din Str. Italiană nr. 4, Ploiești, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124170",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124170",
+     "sha256": "b5ac9ec91b48b9cb0d4354fb5a1a9940a6e6124dc3833b8be0874f53a19b9915"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2562-2010",
    "path": "ordin/cultura/2010/2562",
    "short": "Ordin cultura nr. 2562/2010",
@@ -6044,6 +7004,171 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123659",
      "sha256": "84be364740a26111dbddb423e72aaba06fec4d1cc33ed4d729fa064d192c4551"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2569-2010",
+   "path": "ordin/cultura/2010/2569",
+   "short": "Ordin cultura nr. 2569/2010",
+   "title": "Ordinul nr. 2.569/2010 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa \"B\", a imobilului Ansamblul fostului seminar evanghelic din Bd. Victoriei nr. 40, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124356",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124356",
+     "sha256": "dbc417556979cee73ed310b1740b57f782ed6da6373eb14cd79911cd1f4497d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2570-2010",
+   "path": "ordin/cultura/2010/2570",
+   "short": "Ordin cultura nr. 2570/2010",
+   "title": "Ordinul nr. 2.570/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Casă de locuit\" din str. Andrei Șaguna nr. 23, Sibiu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124357",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124357",
+     "sha256": "e1852706e2dad2d4e59422e8546820ff63cf333d2f5ea2e24db56b602e91c95d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2571-2010",
+   "path": "ordin/cultura/2010/2571",
+   "short": "Ordin cultura nr. 2571/2010",
+   "title": "Ordinul nr. 2.571/2010 privind clasarea în Lista monumentelor istorice, grupa \"B\", a imobilului \"Conacul din Murani\", satul Murani, comuna Pișchia, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124348",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124348",
+     "sha256": "ec16c9d02dfbead126784f2704d5e2bd27666d6c393bb65c06daf01b9a107e09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2622-2010",
+   "path": "ordin/cultura/2010/2622",
+   "short": "Ordin cultura nr. 2622/2010",
+   "title": "Ordinul nr. 2.622/2010 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa \"B\", a imobilului \"Ansamblul Piața Libertății\", din municipiul Salonta, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124169",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124169",
+     "sha256": "e8a006de9361d753fcefc9c9b797456f2edfa6f56326b9ccd7eb6ee0a359ae13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2624-2010",
+   "path": "ordin/cultura/2010/2624",
+   "short": "Ordin cultura nr. 2624/2010",
+   "title": "Ordinul nr. 2.624/2010 privind declasarea din Lista monumentelor istorice a imobilului Hotel Marna, din str. Buzești nr. 3, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124165",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124165",
+     "sha256": "203902d3b44f51cd00d14dcdd2406d526a456296aad4e1f3c442f96dbc135ee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2625-2010",
+   "path": "ordin/cultura/2010/2625",
+   "short": "Ordin cultura nr. 2625/2010",
+   "title": "Ordinul nr. 2.625/2010 privind declasarea din Lista monumentelor istorice a imobilului Casa în care a locuit Mihai Eminescu, din str. Buzești nr. 5, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124181",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124181",
+     "sha256": "8b38133f4dc709c8805a85504e123ef378f082db7140e98961bdace1c117369f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2626-2010",
+   "path": "ordin/cultura/2010/2626",
+   "short": "Ordin cultura nr. 2626/2010",
+   "title": "Ordinul nr. 2.626/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casa C-țin Rădulescu\", fațadele dinspre Calea Griviței și str. Buzești, din Calea Griviței nr. 80, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124182",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124182",
+     "sha256": "b661e9f052a45ed87af4ad4ed872f1c8f919c1132c0dc9a0b5840f08e2748f27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2627-2010",
+   "path": "ordin/cultura/2010/2627",
+   "short": "Ordin cultura nr. 2627/2010",
+   "title": "Ordinul nr. 2.627/2010 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\", din Calea Plevnei nr. 52, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124183",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124183",
+     "sha256": "335908110fa689bd132f2ab3bab80b1e262f966050a8798b373dd65dff19cb05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2630-2010",
+   "path": "ordin/cultura/2010/2630",
+   "short": "Ordin cultura nr. 2630/2010",
+   "title": "Ordinul nr. 2.630/2010 privind radierea din Lista monumentelor istorice a imobilului din str. Naum Râmniceanu nr. 7, sectorul 1, București, nr. crt.. 1.829, cod B-II-m-B-19526",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124524",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124524",
+     "sha256": "d2ef6d36b57e54cc1ed929c2765432a91f7ec29292a11cd15c0d878485abe34f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2653-2010",
+   "path": "ordin/cultura/2010/2653",
+   "short": "Ordin cultura nr. 2653/2010",
+   "title": "Ordinul nr. 2.653/2010 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Turnul de apă \"Cetatea lui Țepeș Vodă\" din str. Candiano Popescu nr. 6, sectorul 4, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124611",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124611",
+     "sha256": "4b7bb022dec7f29638a3ca18b431af266c7b858e4367d5518622f2a4dc4af74a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2654-2010",
+   "path": "ordin/cultura/2010/2654",
+   "short": "Ordin cultura nr. 2654/2010",
+   "title": "Ordinul nr. 2.654/2010 privind declasarea parțială din Lista monumentelor istorice a imobilului Fabrica de tricotaje \"Moldova\" (corp vechi) și sediu Mica Industrie, din str. Păcurari nr. 115, Iași, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124525",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124525",
+     "sha256": "99c45147495dcf9698658e09944f618231effb155aba11c5f82ff83c813c9bcf"
     }
    ]
   },
@@ -7413,6 +8538,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3429-2010",
+   "path": "ordin/educatie/2010/3429",
+   "short": "Ordin educatie nr. 3429/2010",
+   "title": "Ordinul nr. 3.429/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița GE. CE. PIC (Englishkinder) din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117345",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117345",
+     "sha256": "32b6a0d8c629ddefc998c6425f2cbba959ba283ae4caae5b682c06a404d69dca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3546-2010",
+   "path": "ordin/educatie/2010/3546",
+   "short": "Ordin educatie nr. 3546/2010",
+   "title": "Ordinul nr. 3.546/2010 privind modificarea Ordinului ministrului educației, cercetării și inovării nr. 3.553/2009 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program normal \"Maestre Pie\" din Pildești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117772",
+   "versions": [
+    {
+     "from": "2010-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117772",
+     "sha256": "d7b85b45831361c8c08c4a9c3c45a66b59c602fa767598ae0f5df56a18b340ee"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3567-2010",
    "path": "ordin/educatie/2010/3567",
    "short": "Ordin educatie nr. 3567/2010",
@@ -7443,6 +8598,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3707-2010",
+   "path": "ordin/educatie/2010/3707",
+   "short": "Ordin educatie nr. 3707/2010",
+   "title": "Ordinul nr. 3.707/2010 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2010 ale institutelor naționale de cercetare-dezvoltare din coordonarea Autorității Naționale pentru Cercetare Științifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118824",
+   "versions": [
+    {
+     "from": "2010-05-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118824",
+     "sha256": "d1d8b1bfb7267dabdcd86af8c4ad69a033c8fdf53351134ced0f6bde838ca8ea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3743-2010",
    "path": "ordin/educatie/2010/3743",
    "short": "Ordin educatie nr. 3743/2010",
@@ -7469,6 +8639,51 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118988",
      "sha256": "bc541fe62348f5954a186319dcb44449c3513beea07c5186a48e5ff45e094bc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3811-2010",
+   "path": "ordin/educatie/2010/3811",
+   "short": "Ordin educatie nr. 3811/2010",
+   "title": "Ordinul nr. 3.811/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Gosen\" din Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118989",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118989",
+     "sha256": "d21b821dc3aad72da873583892856e777fa74854ccadd3da4bc231f73221502c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3812-2010",
+   "path": "ordin/educatie/2010/3812",
+   "short": "Ordin educatie nr. 3812/2010",
+   "title": "Ordinul nr. 3.812/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală FEG din Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118990",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118990",
+     "sha256": "7b2c251abacb8ddad79fb777f46a983096c031f5a659ce5a5dc5371e8d2385aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3828-2010",
+   "path": "ordin/educatie/2010/3828",
+   "short": "Ordin educatie nr. 3828/2010",
+   "title": "Ordinul nr. 3.828/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Particular \"Virgil Madgearu\" din Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118991",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118991",
+     "sha256": "dc99588779a71ba2aba38a8defc65344f006f44896f3a7b3812abad3126b35ed"
     }
    ]
   },
@@ -7559,6 +8774,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119591",
      "sha256": "7830ef3c22caddd75a05f8df3f9508941bafdcd8fe859213add7fa5aa205cdb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4074-2010",
+   "path": "ordin/educatie/2010/4074",
+   "short": "Ordin educatie nr. 4074/2010",
+   "title": "Ordinul nr. 4.074/2010 privind aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121403",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121403",
+     "sha256": "d98f5c1e06706100eb1ce93e6f2d400400405979c5de08b77a2d4812b26b1f0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-410-2010",
+   "path": "ordin/educatie/2010/410",
+   "short": "Ordin educatie nr. 410/2010",
+   "title": "Ordinul nr. 410/2010 privind constituirea Comisiei Naționale de Disciplină Sportivă și a Consiliului director",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119316",
+   "versions": [
+    {
+     "from": "2010-06-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119316",
+     "sha256": "9263d5a5e81308a2dbc89b8417f39756deeb5f900be2bb281ade907b7bc788f5"
     }
    ]
   },
@@ -7683,6 +8928,171 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4469-2010",
+   "path": "ordin/educatie/2010/4469",
+   "short": "Ordin educatie nr. 4469/2010",
+   "title": "Ordinul nr. 4.469/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Kinder Strumff\" din Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120866",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120866",
+     "sha256": "d95dcc1da0a38f098fd875db2e0e3cfdf1073e091276fc28af5e469e11f0781e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4470-2010",
+   "path": "ordin/educatie/2010/4470",
+   "short": "Ordin educatie nr. 4470/2010",
+   "title": "Ordinul nr. 4.470/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița Catolică \"Sf. Ioana Antida\" din Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120867",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120867",
+     "sha256": "825470ca7d63a18afdb0ea00d5f01a328b659a0557a1b0b9c62f8c4da8794bb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4496-2010",
+   "path": "ordin/educatie/2010/4496",
+   "short": "Ordin educatie nr. 4496/2010",
+   "title": "Ordinul nr. 4.496/2010 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.074/2010 privind aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121949",
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121949",
+     "sha256": "366760473705a83d182ba9d4961e8aecc60489205b636ec6ff42a92f10544494"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4572-2010",
+   "path": "ordin/educatie/2010/4572",
+   "short": "Ordin educatie nr. 4572/2010",
+   "title": "Ordinul nr. 4.572/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Teleki\" din Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121375",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121375",
+     "sha256": "cc9f1f8a2d4fa2601e95fef4e7dfd93b2d19ce1f695b18f479a96810e4f61062"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4573-2010",
+   "path": "ordin/educatie/2010/4573",
+   "short": "Ordin educatie nr. 4573/2010",
+   "title": "Ordinul nr. 4.573/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Creștină \"Filadelfia\" clasele I-XII din Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121376",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121376",
+     "sha256": "521988910ef0df95db7ad83b322ec68389c4fb4810fc42901a41c5ab97b5c68b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4575-2010",
+   "path": "ordin/educatie/2010/4575",
+   "short": "Ordin educatie nr. 4575/2010",
+   "title": "Ordinul nr. 4.575/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Dr. I. Cantacuzino\" din Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121388",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121388",
+     "sha256": "5e9b8208ddb192e92b7f3eff5948965610c25484c868c7d760c18239dbf4e6c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4576-2010",
+   "path": "ordin/educatie/2010/4576",
+   "short": "Ordin educatie nr. 4576/2010",
+   "title": "Ordinul nr. 4.576/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Motanul Încălțat\" din Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121488",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121488",
+     "sha256": "676fe2e9fc4a068b926de1f192b8ff41bf15a6759e563126390b10908719f62e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4577-2010",
+   "path": "ordin/educatie/2010/4577",
+   "short": "Ordin educatie nr. 4577/2010",
+   "title": "Ordinul nr. 4.577/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program normal din localitatea Tălmaciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121489",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121489",
+     "sha256": "295a6190f08084a2fac764789fef6dfb6cebc6c4f92a589d8c8d3be50b7e1049"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4578-2010",
+   "path": "ordin/educatie/2010/4578",
+   "short": "Ordin educatie nr. 4578/2010",
+   "title": "Ordinul nr. 4.578/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Christiana\" din Zalău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121492",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121492",
+     "sha256": "99a07195fa4c7cd1ad063187c0e486b6ed23f8dee0641356cc8005781a4e80f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4590-2010",
+   "path": "ordin/educatie/2010/4590",
+   "short": "Ordin educatie nr. 4590/2010",
+   "title": "Ordinul nr. 4.590/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar de stat Grup Școlar \"Puskas Tivadar\" din municipiul Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121493",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121493",
+     "sha256": "8b6668e92a360d5db8dab6e1ea7596e60b914d893eb75685611f2df4644aaa2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4591-2010",
+   "path": "ordin/educatie/2010/4591",
+   "short": "Ordin educatie nr. 4591/2010",
+   "title": "Ordinul nr. 4.591/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar de stat Grup Școlar Economic Administrativ \"Berde Aron\" din municipiul Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121494",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121494",
+     "sha256": "a87ba891f933eb907ea318f452f0021391e1adbbac2946aeb29df4585955ee09"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4627-2010",
    "path": "ordin/educatie/2010/4627",
    "short": "Ordin educatie nr. 4627/2010",
@@ -7713,6 +9123,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4667-2010",
+   "path": "ordin/educatie/2010/4667",
+   "short": "Ordin educatie nr. 4667/2010",
+   "title": "Ordinul nr. 4.667/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Sf. Ana\" din Săbăoani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121648",
+   "versions": [
+    {
+     "from": "2010-08-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121648",
+     "sha256": "6852e8da8335a8b19832af8f79f563b1bd0d94a84c418cce1f302e64945c44c2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4713-2010",
    "path": "ordin/educatie/2010/4713",
    "short": "Ordin educatie nr. 4713/2010",
@@ -7724,6 +9149,156 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122039",
      "sha256": "c899bcc5837d4a21aaaa1ddacd356c39200cf6063302085cb65d99d493605d09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4748-2010",
+   "path": "ordin/educatie/2010/4748",
+   "short": "Ordin educatie nr. 4748/2010",
+   "title": "Ordinul nr. 4.748/2010 privind acordarea acreditării pentru nivelul de învățământ \"an de completare\", domeniul \"mecanică\", calificarea profesională \"mecanic auto\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Gheorghe Asachi\" din Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121909",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121909",
+     "sha256": "0c54b50c73ba35f86a45e3a1731ef30103996cee2d5d3b36466c1e4a365742f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4749-2010",
+   "path": "ordin/educatie/2010/4749",
+   "short": "Ordin educatie nr. 4749/2010",
+   "title": "Ordinul nr. 4.749/2010 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"real\", specializarea \"matematică-informatică\" din cadrul unității de învățământ preuniversitar particular Liceul Teoretic \"Eugen Nicoară\" din Reghin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121897",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121897",
+     "sha256": "dca55ca460090523e8d878a4f445f25efa8eb70b6986019fa8059e077c51881d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4750-2010",
+   "path": "ordin/educatie/2010/4750",
+   "short": "Ordin educatie nr. 4750/2010",
+   "title": "Ordinul nr. 4.750/2010 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Europeană București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121898",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121898",
+     "sha256": "d6e36a64334cdc268e83e50087144c4ce9a6d1e5ef2fb509729d989156a12712"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4751-2010",
+   "path": "ordin/educatie/2010/4751",
+   "short": "Ordin educatie nr. 4751/2010",
+   "title": "Ordinul nr. 4.751/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Sfântul Luca\" din Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121899",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121899",
+     "sha256": "a583015311642bd4e94305564ab029e6b6626d4ff030aa9da97bdf6e767e4edc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4752-2010",
+   "path": "ordin/educatie/2010/4752",
+   "short": "Ordin educatie nr. 4752/2010",
+   "title": "Ordinul nr. 4.752/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Privată \"Casa Speranței\" din Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121900",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121900",
+     "sha256": "5686aed9a16cce500f6c58228fbcfd46efeba7b79b77ed276f2313079922e2a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4753-2010",
+   "path": "ordin/educatie/2010/4753",
+   "short": "Ordin educatie nr. 4753/2010",
+   "title": "Ordinul nr. 4.753/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Samariteanul\" din Petroșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121901",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121901",
+     "sha256": "39c7b5cb19b7aa1967cb2796ff2d7a143ee9f278ddf27c478fdc65d0048814b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4754-2010",
+   "path": "ordin/educatie/2010/4754",
+   "short": "Ordin educatie nr. 4754/2010",
+   "title": "Ordinul nr. 4.754/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Pinocchio\" din Sighișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121902",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121902",
+     "sha256": "2efc3c5ae0dad3103207dc31363cb8650157f702ad2ef2d414b7b3dbfd3bc86c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4755-2010",
+   "path": "ordin/educatie/2010/4755",
+   "short": "Ordin educatie nr. 4755/2010",
+   "title": "Ordinul nr. 4.755/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița Evanghelică din Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121903",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121903",
+     "sha256": "4d8fc967fe4cd498e4c2dff9f6f498237bf09e204dc60bbb40bcd32d36893347"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4756-2010",
+   "path": "ordin/educatie/2010/4756",
+   "short": "Ordin educatie nr. 4756/2010",
+   "title": "Ordinul nr. 4.756/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Carol Davila\" din Onești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121904",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121904",
+     "sha256": "6f4c81f52eb91802744117338dafb9895f5a3d53eeb03a905b6ddf1761c4f7c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4757-2010",
+   "path": "ordin/educatie/2010/4757",
+   "short": "Ordin educatie nr. 4757/2010",
+   "title": "Ordinul nr. 4.757/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Ocrotirea\" din Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121905",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121905",
+     "sha256": "a68dec8f2e242b1d421b80826b41c19d980b1dc5fe54873f5e41df22b76ba7b4"
     }
    ]
   },
@@ -7799,6 +9374,66 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122191",
      "sha256": "85463d9c52b8cd87a7d93c0de74cecb73fbafd45a8f292cc6795ff94a55622d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5135-2010",
+   "path": "ordin/educatie/2010/5135",
+   "short": "Ordin educatie nr. 5135/2010",
+   "title": "Ordinul nr. 5.135/2010 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\" (școală de maiștri), domeniul \"mecanic\", calificarea profesională \"maistru mecanic\", din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Industrial de Petrol \"Teleajen\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122305",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122305",
+     "sha256": "8787ffbc4e99f36f7dc997dfa740715c150c2d0d98ef6e649d3ced1963a570e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5136-2010",
+   "path": "ordin/educatie/2010/5136",
+   "short": "Ordin educatie nr. 5136/2010",
+   "title": "Ordinul nr. 5.136/2010 privind acordarea acreditării pentru nivelul de învățământ \"an de completare\", domeniul \"turism și alimentație\", calificarea profesională \"bucătar\", respectiv pentru nivelul \"liceal\", profilul \"servicii\", domeniul \"turism și alimentație\", calificarea profesională \"tehnician în gastronomie\", domeniul \"estetica și igiena 430-4corpului omenesc\", calificarea profesională \"coafor stilist\", din cadrul unității de în vățământ preuniversitar de stat Grupul Școlar de Servicii \"Sfântul Apostol Andrei\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122298",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122298",
+     "sha256": "0c62db68c3b8eb98a851872591274ff2164e59f97c5b8a483dbebec89fbbf0d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5137-2010",
+   "path": "ordin/educatie/2010/5137",
+   "short": "Ordin educatie nr. 5137/2010",
+   "title": "Ordinul nr. 5.137/2010 privind acordarea acreditării pentru nivelul de învățământ \"an de completare\", domeniul \"electronică și automatizări\", calificarea profesională \"electronist aparate și echipamente\", respectiv pentru nivelul \"liceal\", profilul \"tehnic\", domeniul \"construcții, instalații și lucrări\", calificarea profesională \"tehnician instalator pentru construcții\", din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Elie Radu\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122299",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122299",
+     "sha256": "808921820acd31eebbb07e010a0a03c3545bea83097cf5e6ac1e6cd9f20a24ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5138-2010",
+   "path": "ordin/educatie/2010/5138",
+   "short": "Ordin educatie nr. 5138/2010",
+   "title": "Ordinul nr. 5.138/2010 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"turism și alimentație\", calificarea profesională \"organizator banqueting\", din cadrul unității de învățământ preuniversitar de stat Colegiul \"Mihail Cantacuzino\" din localitatea Sinaia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122300",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122300",
+     "sha256": "3294f0cb6e7c50096aa68df2a8c20a3c5b167b5dbac1230ea3c31ff281c9e6d7"
     }
    ]
   },
@@ -7908,6 +9543,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5471-2010",
+   "path": "ordin/educatie/2010/5471",
+   "short": "Ordin educatie nr. 5471/2010",
+   "title": "Ordinul nr. 5.471/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grup Școlar Postliceal \"Prof. Dr. Doc. Enescu Longinus\" din Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123087",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123087",
+     "sha256": "fcaba4c60ef8f27ed49a2cfeade0862e95a9d447c45bcb5aef403ee0f2c072be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5497-2010",
+   "path": "ordin/educatie/2010/5497",
+   "short": "Ordin educatie nr. 5497/2010",
+   "title": "Ordinul nr. 5.497/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița Italiană \"Sfânta Ioana Antida\" din Lugoj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123088",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123088",
+     "sha256": "d610871086def91b1c21ade2e0dce1d40108ea15863e0eeb92d549b1ec02136b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5498-2010",
+   "path": "ordin/educatie/2010/5498",
+   "short": "Ordin educatie nr. 5498/2010",
+   "title": "Ordinul nr. 5.498/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Sfinții Împărați Constantin și Elena\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123089",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123089",
+     "sha256": "3840542ba67b394d9be6d5511260d40245b188a78864d43392441069044f6ceb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5499-2010",
+   "path": "ordin/educatie/2010/5499",
+   "short": "Ordin educatie nr. 5499/2010",
+   "title": "Ordinul nr. 5.499/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program prelungit \"Girotondo\" din Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123090",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123090",
+     "sha256": "a12c1bda2777c78b9f1ec6d7eddc942194a454b12a2ab808ea4ab0d3b0039ab0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5573-2010",
    "path": "ordin/educatie/2010/5573",
    "short": "Ordin educatie nr. 5573/2010",
@@ -7983,6 +9678,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5652-2010",
+   "path": "ordin/educatie/2010/5652",
+   "short": "Ordin educatie nr. 5652/2010",
+   "title": "Ordinul nr. 5.652/2010 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.074/2010 privind aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124019",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124019",
+     "sha256": "ba57517557458f4c2473b80e786cb30210d058db2c1e165ac1031b763149595b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5686-2010",
    "path": "ordin/educatie/2010/5686",
    "short": "Ordin educatie nr. 5686/2010",
@@ -8039,6 +9749,66 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124677",
      "sha256": "5927b74739f3574d2a3689f7f75e4c725ce661a6ef24f3457b43121b443e38a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5914-2010",
+   "path": "ordin/educatie/2010/5914",
+   "short": "Ordin educatie nr. 5914/2010",
+   "title": "Ordinul nr. 5.914/2010 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"turism și alimentație\", calificările profesionale \"asistent de gestiune în unități de cazare și alimentație\", \"organizator de conferințe, congrese, târguri și expoziții\", din cadrul unității de învățământ preuniversitar de stat Colegiul Economic \"Andrei Bârseanu\" din municipiul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125194",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125194",
+     "sha256": "ec7c129a91a9ba883c6ed4ecb8d2114d3c53c424619b2e5c7362520dcb83c40e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5924-2010",
+   "path": "ordin/educatie/2010/5924",
+   "short": "Ordin educatie nr. 5924/2010",
+   "title": "Ordinul nr. 5.924/2010 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"construcții, instalații și lucrări\", calificarea profesională \"tehnician instalator pentru construcții\", profilul \"resurse naturale și protecția mediului\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician în industria alimentară\", din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Constantin Istrati\" din municipiul Câmpina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125301",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125301",
+     "sha256": "c4c9bb8b03f02d6a34436e3e329b7f42079fa9c6f3abe02d499ef6715f9193ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5925-2010",
+   "path": "ordin/educatie/2010/5925",
+   "short": "Ordin educatie nr. 5925/2010",
+   "title": "Ordinul nr. 5.925/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic \"Muntele de Foc\" din localitatea Câmpenița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125302",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125302",
+     "sha256": "424cd6765406e296d769cd525bcca68e131b704cf0728fbdc5e4b239f7c53e90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5926-2010",
+   "path": "ordin/educatie/2010/5926",
+   "short": "Ordin educatie nr. 5926/2010",
+   "title": "Ordinul nr. 5.926/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Bethania\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125303",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125303",
+     "sha256": "50a0c649cb2353e0a7b45d4e1ff034675354216bbf15e34ed0b49ce1e0431c46"
     }
    ]
   },

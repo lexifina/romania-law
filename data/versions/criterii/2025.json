@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2025",
+ "acts": [
+  {
+   "slug": "criterii-munca-zi1103-2025",
+   "path": "criterii/munca/2025/11-03",
+   "short": "Criterii munca din 3 noiembrie 2025",
+   "title": "Criterii medico-psihosociale din 3 noiembrie 2025 pe baza cărora se stabilește încadrarea în grad de handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304068",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304068",
+     "sha256": "dcdfc76bf5e688ef759def271e3111fa85ce15193136077a2fa8028a0414c646"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2017",
+ "acts": [
+  {
+   "slug": "criterii-anre-zi0529-2017",
+   "path": "criterii/anre/2017/05-29",
+   "short": "Criterii anre din 29 mai 2017",
+   "title": "Criterii din 29 mai 2017 de acordare a derogărilor locurilor/nodurilor de consum racordate la rețelele electrice de transport și de distribuție de la obligația de îndeplinire a uneia sau mai multor cerințe din norma tehnică pentru racordare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189632",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189632",
+     "sha256": "fd55e0f3cd3ff778d75f3b8e0df6295e16819eeb8d0b87e8322141664389efe4"
+    }
+   ]
+  }
+ ]
+}

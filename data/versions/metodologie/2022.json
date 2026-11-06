@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2022",
+ "acts": [
+  {
+   "slug": "metodologie-anfp-zi0111-2022",
+   "path": "metodologie/anfp/2022/01-11",
+   "short": "Metodologie anfp din 11 ianuarie 2022",
+   "title": "Metodologie din 11 ianuarie 2022 de completare și transmitere a informațiilor privind implementarea principiilor aplicabile conduitei profesionale a funcționarilor publici și a normelor/standardelor de conduită a funcționarilor publici, precum și a procedurilor administrativ-disciplinare aplicabile funcționarilor publici în cadrul autorităților și instituțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250448",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250448",
+     "sha256": "a09043c397c112c6c9b920a6c27cdb295bc1112d4b2e5671b564bea6784f4c17"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-anre-zi0223-2022",
+   "path": "metodologie/anre/2022/02-23",
+   "short": "Metodologie anre din 23 februarie 2022",
+   "title": "Metodologie din 23 februarie 2022 de stabilire a regulilor de comercializare a energiei electrice produse în centrale electrice din surse regenerabile cu putere electrică instalată de cel mult 400 kW pe loc de consum aparținând prosumatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252374",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252374",
+     "sha256": "ca42c61bfba82c96378c0585c44466a38e63c947a1dd4bff05f7c6d23449f6f6"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-cultura-zi1222-2022",
+   "path": "metodologie/cultura/2022/12-22",
+   "short": "Metodologie cultura din 22 decembrie 2022",
+   "title": "Metodologie din 22 decembrie 2022 de intervenție pentru abordarea noninvazivă a eficienței energetice în clădiri cu valoare istorică și arhitecturală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263682",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263682",
+     "sha256": "217cabad318b2995205d08cf8eb61a15ff30fec1c792fa2c2c5e3bbd4e0ba092"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0125-1-2022",
+   "path": "metodologie/educatie/2022/01-25-1",
+   "short": "Metodologie educatie din 25 ianuarie 2022",
+   "title": "Metodologie din 25 ianuarie 2022 privind organizarea Programului \"A doua șansă\" - învățământ primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251476",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251476",
+     "sha256": "842a315f174292e9d66ceb80521107cfc8ded6788e4cf0d9627c736920f9e5b9"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0125-2-2022",
+   "path": "metodologie/educatie/2022/01-25-2",
+   "short": "Metodologie educatie din 25 ianuarie 2022",
+   "title": "Metodologie din 25 ianuarie 2022 privind organizarea Programului \"A doua șansă\" - învățământ secundar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251477",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251477",
+     "sha256": "887f1c9e0af86be8eeb407acdf5dd18fc73fbb6a906689e481f271cccdc08c0a"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1024-1-2022",
+   "path": "metodologie/educatie/2022/10-24-1",
+   "short": "Metodologie educatie din 24 octombrie 2022",
+   "title": "Metodologie din 24 octombrie 2022 privind școlarizarea și organizarea și desfășurarea cursului de inițiere în limba română pentru minorii care au dobândit o formă de protecție internațională sau un drept de ședere în România, precum și pentru minorii cetățeni ai statelor membre ale Uniunii Europene și ale Spațiului Economic European și ai Confederației Elvețiene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261308",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261308",
+     "sha256": "51ad7ffad9dd0644b156ee72241f790db98713fe91e1a1cad815c34100d46869"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1024-2-2022",
+   "path": "metodologie/educatie/2022/10-24-2",
+   "short": "Metodologie educatie din 24 octombrie 2022",
+   "title": "Metodologie din 24 octombrie 2022 privind organizarea și desfășurarea cursului de inițiere în limba română pentru străinii adulți care au dobândit o formă de protecție internațională sau un drept de ședere în România, precum și pentru cetățenii statelor membre ale Uniunii Europene și ale Spațiului Economic European și cetățenii Confederației Elvețiene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261382",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261382",
+     "sha256": "5a1fddc32274c81e6289f434795ce35294728db1c523a12a5227d87a45dc213c"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi1111-1-2022",
+   "path": "metodologie/sanatate/2022/11-11-1",
+   "short": "Metodologie sanatate din 11 noiembrie 2022",
+   "title": "Metodologie din 11 noiembrie 2022 de evaluare medicală a persoanelor cu dizabilități intelectuale și psihosociale în contextul dispunerii, prelungirii, înlocuirii sau ridicării măsurii de ocrotire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261628",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261628",
+     "sha256": "0d1cec50684f5551a97176f9546f2307716723381a5a77f1c5c93ab175aa3cb4"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi1111-2-2022",
+   "path": "metodologie/sanatate/2022/11-11-2",
+   "short": "Metodologie sanatate din 11 noiembrie 2022",
+   "title": "Metodologie din 11 noiembrie 2022 de evaluare psihologică a persoanelor cu dizabilități intelectuale și psihosociale în contextul dispunerii, prelungirii, înlocuirii sau ridicării măsurii de ocrotire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261629",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261629",
+     "sha256": "8ad781cdc7b4e4298041e4b1aa7d82343a223eb0dd478e6edc8e344420cb01f3"
+    }
+   ]
+  }
+ ]
+}

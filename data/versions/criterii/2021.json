@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "criterii/2021",
+ "acts": [
+  {
+   "slug": "criterii-sanatate-zi0628-1-2021",
+   "path": "criterii/sanatate/2021/06-28-1",
+   "short": "Criterii sanatate din 28 iunie 2021",
+   "title": "Criterii din 28 iunie 2021 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 2 din anexa nr. 2 la Hotărârea Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022 - pentru asistența medicală primară -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243900",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243900",
+     "sha256": "c62789b4ff98db8a60a910d47fdcefe5710512f9f9eda3f8014dd06d2a01749c"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0628-2-2021",
+   "path": "criterii/sanatate/2021/06-28-2",
+   "short": "Criterii sanatate din 28 iunie 2021",
+   "title": "Criterii din 28 iunie 2021 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 22 alin. (4) și (5) și art. 40 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022 - pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice și pentru specialitatea clinică medicină fizică și de reabilitare -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243901",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243901",
+     "sha256": "d1d8702a5c5cd4cbc0d84a67f1d803b973226438fa3cba88ac779a39934ea53f"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0628-3-2021",
+   "path": "criterii/sanatate/2021/06-28-3",
+   "short": "Criterii sanatate din 28 iunie 2021",
+   "title": "Criterii din 28 iunie 2021 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 87 alin. (3) și (4) din anexa nr. 2 la Hotărârea Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022 - pentru asistența medicală spitalicească -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243902",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243902",
+     "sha256": "26d9e8e53bf2088be8e48b80347f236b54fe975d947b06c521f236dfad721689"
+    }
+   ]
+  }
+ ]
+}

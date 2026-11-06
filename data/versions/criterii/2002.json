@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "criterii/2002",
+ "acts": [
+  {
+   "slug": "criterii-anrgn-zi0621-2002",
+   "path": "criterii/anrgn/2002/06-21",
+   "short": "Criterii anrgn din 21 iunie 2002",
+   "title": "Criterii și metode din 21 iunie 2002 pentru calculul prețurilor și al tarifelor reglementate în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37286",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37286",
+     "sha256": "85ef7ce99a682b6fa436faa2021f14326e86805d89c0c551f50e870d6619a36f"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi0220-2002",
+   "path": "criterii/guvern/2002/02-20",
+   "short": "Criterii guvern din 20 februarie 2002",
+   "title": "Criterii și proceduri din 20 februarie 2002 de acceptare a deșeurilor în depozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52032",
+   "versions": [
+    {
+     "from": "2002-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52032",
+     "sha256": "6e7309e2492d6cbafa82c7f706ec9f944a79a665b0636c8682ef8cd9bcf74a42"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi0731-2002",
+   "path": "criterii/guvern/2002/07-31",
+   "short": "Criterii guvern din 31 iulie 2002",
+   "title": "Criterii din 31 iulie 2002 de acordare a etichetei ecologice pentru grupul de produse aparate frigorifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91824",
+   "versions": [
+    {
+     "from": "2003-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91824",
+     "sha256": "bf663baad24c72980ed1dbb1f8592dd9cc3aa1e9b3521778d888e3fed34a0269"
+    }
+   ]
+  }
+ ]
+}

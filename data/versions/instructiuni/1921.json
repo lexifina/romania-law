@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/1921",
+ "acts": [
+  {
+   "slug": "instructiuni-finante-zi1101-1921",
+   "path": "instructiuni/finante/1921/11-01",
+   "short": "Instrucțiuni finante din 1 noiembrie 1921",
+   "title": "Instrucțiuni din 1 noiembrie 1921 pentru aplicarea legii impozitului pe avere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28295",
+   "versions": [
+    {
+     "from": "1921-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28295",
+     "sha256": "ef8da70ea00d8a96d95a9ea85be66f5b00e478d8358f9896ca536211d7723591"
+    }
+   ]
+  }
+ ]
+}

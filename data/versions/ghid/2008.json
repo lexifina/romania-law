@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "ghid/2008",
+ "acts": [
+  {
+   "slug": "ghid-cnas-zi0228-2008",
+   "path": "ghid/cnas/2008/02-28",
+   "short": "Ghid cnas din 28 februarie 2008",
+   "title": "Ghid din 28 februarie 2008 privind controlul în sistemul asigurărilor sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91156",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91156",
+     "sha256": "0e34023c0dbb5e30cf45bde65f58820870f889c4ffc6a5eb9035456d29bbe7a8"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-cncan-zi0924-2008",
+   "path": "ghid/cncan/2008/09-24",
+   "short": "Ghid cncan din 24 septembrie 2008",
+   "title": "Ghid din 24 septembrie 2008 privind termenii utilizați în reglementarea, autorizarea și controlul activităților nucleare, acordurile și convențiile în domeniul nuclear*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102390",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102390",
+     "sha256": "2000703887dcb68b9422cd5ca42166f716fcbc70a884c5cdc63a2bbc08cbb279"
+    }
+   ]
+  }
+ ]
+}

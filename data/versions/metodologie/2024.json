@@ -3,6 +3,21 @@
  "shard": "metodologie/2024",
  "acts": [
   {
+   "slug": "metodologie-dezvoltare-zi1113-2024",
+   "path": "metodologie/dezvoltare/2024/11-13",
+   "short": "Metodologie dezvoltare din 13 noiembrie 2024",
+   "title": "Metodologie din 13 noiembrie 2024 de emitere a avizului tehnic de către Inspectoratul de Stat în Construcții - I.S.C. pentru documentațiile tehnico-economice aferente obiectivelor de investiții finanțate din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291758",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291758",
+     "sha256": "c4758dbf623dcab2c54de9e2be8a73389143ef23f73582b9dc4f7a51ea8875e8"
+    }
+   ]
+  },
+  {
    "slug": "metodologie-economie-373-2024",
    "path": "metodologie/economie/2024/373",
    "short": "Metodologie economie nr. 373/2024",
@@ -14,6 +29,126 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281861",
      "sha256": "c3ddf5147bb8dd765e9c9b0bdb0033f6397d109d55895e23f4932423c17327c6"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0312-2024",
+   "path": "metodologie/educatie/2024/03-12",
+   "short": "Metodologie educatie din 12 martie 2024",
+   "title": "Metodologie din 12 martie 2024 de acordare a atestatului de abilitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280142",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280142",
+     "sha256": "0f5ba35e3f93789532aca77ae3b7a52a6401b5d1ab7d006855c30246ee21f2af"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0708-2024",
+   "path": "metodologie/educatie/2024/07-08",
+   "short": "Metodologie educatie din 8 iulie 2024",
+   "title": "Metodologie din 8 iulie 2024 privind evaluarea periodică a modului de îndeplinire a obligațiilor asumate de părțile implicate în consorțiul de învățământ dual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285451",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285451",
+     "sha256": "2d5b83cdf80f080e821de1bb95759e59636d5a592131744ef903ee29a9d9a68e"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1001-2024",
+   "path": "metodologie/educatie/2024/10-01",
+   "short": "Metodologie educatie din 1 octombrie 2024",
+   "title": "Metodologie din 1 octombrie 2024 privind organizarea și funcționarea consorțiilor școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289417",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289417",
+     "sha256": "34ca07fe89cb25221cbd839dc97fe82b2db6234f4212cd0170fb26539218278c"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1220-2024",
+   "path": "metodologie/educatie/2024/12-20",
+   "short": "Metodologie educatie din 20 decembrie 2024",
+   "title": "Metodologie din 20 decembrie 2024 de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293152",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293152",
+     "sha256": "7e84d5ca263117895e0401e8e6e1bd2bafa12d243fcfa33d506152c1caa69db4"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-guvern-zi0704-2024",
+   "path": "metodologie/guvern/2024/07-04",
+   "short": "Metodologie guvern din 4 iulie 2024",
+   "title": "Metodologie din 4 iulie 2024 privind susținerea financiară, de către Ministerul Agriculturii și Dezvoltării Rurale, a liceelor tehnologice cu profil preponderent agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285191",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285191",
+     "sha256": "6de08c13ee35a7dbdf2cf48fec1549379f1561199d65d3991676b9c902ed0c47"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi1010-1-2024",
+   "path": "metodologie/mediu/2024/10-10-1",
+   "short": "Metodologie mediu din 10 octombrie 2024",
+   "title": "Metodologie din 10 octombrie 2024 de calcul al tarifului de gestionare pentru ambalajele din sistemul de garanție-returnare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289722",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289722",
+     "sha256": "4e476b10e644f3f0968515018e2431ec08228a7f1fd1e5eaf296f867db4c035e"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi1010-2-2024",
+   "path": "metodologie/mediu/2024/10-10-2",
+   "short": "Metodologie mediu din 10 octombrie 2024",
+   "title": "Metodologie din 10 octombrie 2024 de calcul al tarifului de administrare pentru ambalajele din sistemul de garanție-returnare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289723",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289723",
+     "sha256": "3b03039103e5c48a5d5a2183830d185a77675d4e0b48b4bde10bf67314e0d653"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0509-2024",
+   "path": "metodologie/sanatate/2024/05-09",
+   "short": "Metodologie sanatate din 9 mai 2024",
+   "title": "Metodologie din 9 mai 2024 de acordare a avizului de oportunitate în vederea implementării proiectelor de investiții în domeniul oncologiei cu finanțare din Programul sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282679",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282679",
+     "sha256": "857e375f34cb22d447f83a15c4dcb5a568ae590dc4902a510a964043c00bf775"
     }
    ]
   }

@@ -393,6 +393,51 @@
    ]
   },
   {
+   "slug": "norma-anre-zi0205-2009",
+   "path": "norma/anre/2009/02-05",
+   "short": "Norma anre din 5 februarie 2009",
+   "title": "Normă tehnică din 5 februarie 2009 pentru proiectarea, executarea și exploatarea sistemelor de alimentare cu gaze naturale - NTPEE-2008*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116366",
+   "versions": [
+    {
+     "from": "2009-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116366",
+     "sha256": "65a8497aadc0cf15abcc35608705e2390cb209a1de76438c14e83a84169b4786"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi0428-2009",
+   "path": "norma/ansvsa/2009/04-28",
+   "short": "Norma ansvsa din 28 aprilie 2009",
+   "title": "Norme metodologice din 28 aprilie 2009 de aplicare a Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2009*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105974",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 73,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105974",
+     "sha256": "7efd77f9bc2111d585332c118dca95bcecd78d17e30f274d3815192b56c9f174"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0318-2009",
+   "path": "norma/cnas/2009/03-18",
+   "short": "Norma cnas din 18 martie 2009",
+   "title": "Norme metodologice din 18 martie 2009 privind exercitarea auditului public intern în cadrul Casei Naționale de Asigurări de Sănătate și al caselor de asigurări de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104654",
+   "versions": [
+    {
+     "from": "2009-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104654",
+     "sha256": "8ad8d5ca5ce1a1728228b523f51c58c7a4198aeda91dcf2ca6214dbfaa1f4950"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-19-2009",
    "path": "norma/csspp/2009/19",
    "short": "Norma csspp nr. 19/2009",
@@ -434,6 +479,141 @@
      "units": 31,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103409",
      "sha256": "8d1a9665587eec04479bd90839799c18aebf4afc84a93a770ab1cb7c99a0ddef"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi1012-2009",
+   "path": "norma/dezvoltare/2009/10-12",
+   "short": "Norma dezvoltare din 12 octombrie 2009",
+   "title": "Norme metodologice din 12 octombrie 2009 de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114301",
+   "versions": [
+    {
+     "from": "2009-11-23",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114301",
+     "sha256": "5d341f23c1eeb871dab4004380de9eafebbeafcdf1bfba6584fad5e3e66ff951"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0319-2009",
+   "path": "norma/finante/2009/03-19",
+   "short": "Norma finante din 19 martie 2009",
+   "title": "Norme metodologice din 19 martie 2009 de aplicare a Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103919",
+   "versions": [
+    {
+     "from": "2009-03-27",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103919",
+     "sha256": "46f4fbb326dc13a3066c5302cb398b40008d259eb2cdf24612383c6edded41c3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0403-2009",
+   "path": "norma/finante/2009/04-03",
+   "short": "Norma finante din 3 aprilie 2009",
+   "title": "Norme metodologice din 3 aprilie 2009 privind întocmirea și depunerea situațiilor financiare trimestriale ale instituțiilor publice, precum și a unor raportări financiare lunare în anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104631",
+   "versions": [
+    {
+     "from": "2009-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104631",
+     "sha256": "636d7fc068d37af86232c4262560603f51cbf0aa61b3e382e17f4a7778517e04"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1218-2009",
+   "path": "norma/finante/2009/12-18",
+   "short": "Norma finante din 18 decembrie 2009",
+   "title": "Norme metodologice din 18 decembrie 2009 privind situațiile financiare ce se întocmesc de autoritățile și instituțiile publice care se reorganizează potrivit prevederilor Legii nr. 329/2009 privind reorganizarea unor autorități și instituții publice, raționalizarea cheltuielilor publice, susținerea mediului de afaceri și respectarea acordurilor-cadru cu Comisia Europeană și Fondul Monetar Internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114802",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114802",
+     "sha256": "038636da091c81326a2f0b24d985bd47c447e78b5c9f679596f6e77b39a2bbf9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0218-2009",
+   "path": "norma/guvern/2009/02-18",
+   "short": "Norma guvern din 18 februarie 2009",
+   "title": "Norme metodologice din 18 februarie 2009 privind constituirea și utilizarea fondului destinat stimulării personalului Gărzii Naționale de Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102919",
+   "versions": [
+    {
+     "from": "2009-03-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102919",
+     "sha256": "8226db139af396780f6ed8e89e305fbc70dbeae9adf6b6616d69d03db23dcd50"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0513-2009",
+   "path": "norma/guvern/2009/05-13",
+   "short": "Norma guvern din 13 mai 2009",
+   "title": "Norme metodologice din 13 mai 2009 de aplicare a Legii nr. 173/2008 privind intervențiile active în atmosferă*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110636",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110636",
+     "sha256": "983dba782a941f4a7357bd1ba2365f2ab4035dd16f1b062d807b903ef3ad8d0b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1007-2009",
+   "path": "norma/guvern/2009/10-07",
+   "short": "Norma guvern din 7 octombrie 2009",
+   "title": "Norme metodologice din 7 octombrie 2009 privind finanțarea cheltuielilor pentru acordarea despăgubirilor pentru animalele tăiate, ucise sau altfel afectate în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112911",
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112911",
+     "sha256": "58e5a205ef5bb1ab66ab13cc90217cdc8df72a729dd72df3f15fba522d9142c1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1104-2009",
+   "path": "norma/guvern/2009/11-04",
+   "short": "Norma guvern din 4 noiembrie 2009",
+   "title": "Norme metodologice din 4 noiembrie 2009 privind constituirea și utilizarea fondului de stimulente stabilit în condițiile Ordonanței de urgență a Guvernului nr. 91/2003 privind organizarea Gărzii Financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113677",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113677",
+     "sha256": "0ad0b7ac06e64b56aa9e66ecb79cbd42fe12185c8f8c6126f86b3f3d0b74765e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-interne-zi0319-2009",
+   "path": "norma/interne/2009/03-19",
+   "short": "Norma interne din 19 martie 2009",
+   "title": "Norme metodologice din 19 martie 2009 de aplicare a Ordonanței de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103920",
+   "versions": [
+    {
+     "from": "2009-03-27",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103920",
+     "sha256": "264f52fd65cc8b5954e4064ed46a8a2506fdd40421f2d2111130c939988580a0"
     }
    ]
   }

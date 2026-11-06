@@ -376,6 +376,141 @@
      "sha256": "1c6ebbb083992821647301d9d1d95b8fd19de7d4f6f9a7551ef35fac00982e91"
     }
    ]
+  },
+  {
+   "slug": "norma-agricultura-zi0512-1-2014",
+   "path": "norma/agricultura/2014/05-12-1",
+   "short": "Norma agricultura din 12 mai 2014",
+   "title": "Norme metodologice din 12 mai 2014 pentru aplicarea titlului I din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului în scopul obținerii avizului specific al Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158622",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158622",
+     "sha256": "bf48b9d2090b0d853e82996a5b1c15b63f226ea73c2832fe1fbbf6cb8de14d07"
+    }
+   ]
+  },
+  {
+   "slug": "norma-agricultura-zi0512-2-2014",
+   "path": "norma/agricultura/2014/05-12-2",
+   "short": "Norma agricultura din 12 mai 2014",
+   "title": "Norme metodologice din 12 mai 2014 pentru aplicarea titlului I din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, în scopul obținerii avizului specific al Ministerului Culturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158623",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158623",
+     "sha256": "2e6e47785d0edb409db99629f03211bbb57326d0efaa429baddbb8373cbc8cc4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0617-2014",
+   "path": "norma/aparare/2014/06-17",
+   "short": "Norma aparare din 17 iunie 2014",
+   "title": "Norme metodologice din 17 iunie 2014 privind exercitarea auditului public intern în Ministerul Apărării Naționale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159894",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 111,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159894",
+     "sha256": "444e6177ccdbde108069b6b338d420974e2a111c65cc5d789c49b588f1aa945b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi1119-2014",
+   "path": "norma/aparare/2014/11-19",
+   "short": "Norma aparare din 19 noiembrie 2014",
+   "title": "Norme metodologice specifice din 19 noiembrie 2014 privind organizarea și exercitarea controlului financiar preventiv propriu în Ministerul Apărării Naționale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165480",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165480",
+     "sha256": "e5b2829a31817e68f3caa590816d01908479efe386d40ea693d60a958e619871"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cncan-zi0116-2014",
+   "path": "norma/cncan/2014/01-16",
+   "short": "Norma cncan din 16 ianuarie 2014",
+   "title": "Normă din 16 ianuarie 2014 de securitate nucleară privind pregătirea răspunsului la tranzienți, accidente și situații de urgență la centralele nuclearoelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154822",
+   "versions": [
+    {
+     "from": "2014-04-27",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154822",
+     "sha256": "9f26192419b6ffec8d03c60343cac91cd385b59515c4fde7b0cacee91068d59e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cncan-zi1021-2014",
+   "path": "norma/cncan/2014/10-21",
+   "short": "Norma cncan din 21 octombrie 2014",
+   "title": "Norme din 21 octombrie 2014 privind protecția instalațiilor nucleare împotriva amenințărilor cibernetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162722",
+   "versions": [
+    {
+     "from": "2014-11-04",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162722",
+     "sha256": "02b9f79c85b91f6c2dbe1482020ae8890163820afd7452c93ef9be600fc2c50c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0709-2014",
+   "path": "norma/guvern/2014/07-09",
+   "short": "Norma guvern din 9 iulie 2014",
+   "title": "Norme metodologice și proceduri din 9 iulie 2014 privind constituirea, utilizarea și eliberarea garanției de asigurare a bunei funcționări a infrastructurii de îmbunătățiri funciare pentru care s-a aprobat constituirea dreptului de folosință în favoarea organizațiilor de îmbunătățiri funciare și a federațiilor de organizații de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160004",
+   "versions": [
+    {
+     "from": "2014-07-18",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160004",
+     "sha256": "e23f38f04e69fc65fef4069ce14661c3f23e5d125ab6eb47999b449b3260689d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-interne-zi1218-2014",
+   "path": "norma/interne/2014/12-18",
+   "short": "Norma interne din 18 decembrie 2014",
+   "title": "Norme metodologice din 18 decembrie 2014 privind organizarea și exercitarea controlului financiar preventiv propriu în cadrul Ministerului Afacerilor Interne*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165835",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165835",
+     "sha256": "e6d135d9c45a837c8bd4888996e4cafb8ec02585fb8cc650ab97ff38d6be2287"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-zi0911-2014",
+   "path": "norma/justitie/2014/09-11",
+   "short": "Norma justitie din 11 septembrie 2014",
+   "title": "Norme metodologice din 11 septembrie 2014 de acordare a majorării pentru lucrări de excepție sau misiuni speciale, pentru funcționarii publici cu statut special și personalul civil din Administrația Națională a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161573",
+   "versions": [
+    {
+     "from": "2014-09-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161573",
+     "sha256": "9bcd0b2ab4ecd000af89ead97a7a16d983ac2d02041359e49a77474da1151bf0"
+    }
+   ]
   }
  ]
 }

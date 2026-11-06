@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2025",
+ "acts": [
+  {
+   "slug": "metodologie-agricultura-zi1107-2025",
+   "path": "metodologie/agricultura/2025/11-07",
+   "short": "Metodologie agricultura din 7 noiembrie 2025",
+   "title": "Metodologie din 7 noiembrie 2025 pentru reglementarea modului de diminuare a sprijinului financiar din Programul pentru acvacultură și pescuit 2021-2027 în cazul încălcării unor prevederi din regulamente ale UE sau din contractul de finanțare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304251",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304251",
+     "sha256": "9a1684483e2009c716372d58ce4a79e088c23ba8c5efd33bfe6190c3c25147d3"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-anmcs-zi0808-2025",
+   "path": "metodologie/anmcs/2025/08-08",
+   "short": "Metodologie anmcs din 8 august 2025",
+   "title": "Metodologie din 8 august 2025 pentru stabilirea structurii comisiilor de evaluare în vederea acreditării unităților sanitare din ambulatoriu, pentru primul ciclu de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301298",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301298",
+     "sha256": "23316ee694371d1e10cb15ee15dbb7e95548cbf729f6864429e65e88d6a67024"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0515-2025",
+   "path": "metodologie/educatie/2025/05-15",
+   "short": "Metodologie educatie din 15 mai 2025",
+   "title": "Metodologie-cadru din 15 mai 2025 privind organizarea și funcționarea \"Școlii din spital\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299114",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299114",
+     "sha256": "86b49e13232cd48a81aaaeefc0fd93b4bd8c833dccd93b55bbca606327566337"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-interne-zi0505-2025",
+   "path": "metodologie/interne/2025/05-05",
+   "short": "Metodologie interne din 5 mai 2025",
+   "title": "Metodologie din 5 mai 2025 de utilizare, scoatere, dare în folosință gratuită, reîntregire și împrospătare a stocurilor pentru produsele stocuri de urgență medicală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299057",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299057",
+     "sha256": "dd86a8eb03f94c71347a43d26f0e8defc80e655c0835a545a02ce0acaf84ab02"
+    }
+   ]
+  }
+ ]
+}

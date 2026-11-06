@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "criterii/1990",
+"acts": [
+{
+"slug": "criterii-guvern-zi0412-1990",
+"path": "criterii/guvern/1990/04-12",
+"kind": "criterii",
+"year": "1990",
+"number": "04-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Criterii din 12 aprilie 1990 care vor fi avute în vedere în activitatea de avizare a utilizării combustibililor și energiei",
+"short": "Criterii guvern din 12 aprilie 1990",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1990-04-23",
+"latest": "1990-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/92151",
+"issuer": "guvern",
+"joint": []
+}
+]
+}

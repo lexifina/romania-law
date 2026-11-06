@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "metodologie/1993",
+ "acts": [
+  {
+   "slug": "metodologie-sanatate-zi0412-1-1993",
+   "path": "metodologie/sanatate/1993/04-12-1",
+   "short": "Metodologie sanatate din 12 aprilie 1993",
+   "title": "Metodologia-cadru din 12 aprilie 1993 privind ocuparea, prin concurs, a posturilor vacante de medici, farmaciști, biologi, biochimiști și chimiști, precum și a funcției de medic sef de secție, sef de laborator, farmacist sef în unități sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72518",
+   "versions": [
+    {
+     "from": "1993-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72518",
+     "sha256": "bc8454d170f4d43b0976f89f481a790804fe6e84a8085a2c4a99ebc1b7da5fc1"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0412-2-1993",
+   "path": "metodologie/sanatate/1993/04-12-2",
+   "short": "Metodologie sanatate din 12 aprilie 1993",
+   "title": "Metodologie din 12 aprilie 1993 privind calcularea punctajului la concursurile pentru ocuparea posturilor vacante de medici, farmaciști, biologi, biochimiști și chimiști, precum și a funcției de medic sef de secție, sef de laborator și farmacist sef în unități sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72519",
+   "versions": [
+    {
+     "from": "1993-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72519",
+     "sha256": "d6ca62b87076b873d5d6f92cbe761eb3a07bd3699268f2f5ed641dd39071d2ee"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "criterii/2005",
+ "acts": [
+  {
+   "slug": "criterii-anfp-zi0228-2005",
+   "path": "criterii/anfp/2005/02-28",
+   "short": "Criterii anfp din 28 februarie 2005",
+   "title": "Criterii din 28 februarie 2005 de evaluare a posturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61144",
+   "versions": [
+    {
+     "from": "2005-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61144",
+     "sha256": "0875a161c301cb5f3ebd3d423338010990ae166dae5bd63a856778bd87aa2c16"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-ansvsa-zi0114-2005",
+   "path": "criterii/ansvsa/2005/01-14",
+   "short": "Criterii ansvsa din 14 ianuarie 2005",
+   "title": "Criteriile uniforme din 14 ianuarie 2005 privind condițiile de sănătate pentru producerea și comercializarea laptelui crud, a laptelui tratat termic și a produselor pe bază de lapte, pentru acordarea de derogări de la art. 7 lit. A pct. 2 și de la art. 14 alin. (2) ale aceleiași norme unor unități care fabrică produse pe bază de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58915",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58915",
+     "sha256": "c7e06824faec4cfb32dcbd2efb97ca37f6de9cb158c2dcd032f2ceeb0d9a2126"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi0609-2005",
+   "path": "criterii/guvern/2005/06-09",
+   "short": "Criterii guvern din 9 iunie 2005",
+   "title": "Criterii de acordare A ETICHETEI ECOLOGICE din 9 iunie 2005 pentru grupul de produse din hârtie absorbantă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62547",
+   "versions": [
+    {
+     "from": "2005-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62547",
+     "sha256": "eccbdf10d2b8b60b9b6ba42cc4cd18cb3a79e5ee1206d9abe775811902324472"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi1221-2005",
+   "path": "criterii/guvern/2005/12-21",
+   "short": "Criterii guvern din 21 decembrie 2005",
+   "title": "Criterii de acordare din 21 decembrie 2005 a etichetei ecologice pentru grupul de produse aspiratoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67797",
+   "versions": [
+    {
+     "from": "2006-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67797",
+     "sha256": "e12c63091d9024b8f358a21b01188cbaf97ccdd7b9f32a8c3aff90ad448d07a2"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi1222-2005",
+   "path": "criterii/guvern/2005/12-22",
+   "short": "Criterii guvern din 22 decembrie 2005",
+   "title": "Criterii din 22 decembrie 2005 de acordare a etichetei ecologice pentru serviciile de cazare pentru turiști",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67995",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67995",
+     "sha256": "5947a00c909824848d80d963e0b9b332fc18d5d5bffe2a654cfb76b2b980cec9"
+    }
+   ]
+  }
+ ]
+}

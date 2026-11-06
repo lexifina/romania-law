@@ -646,6 +646,231 @@
      "sha256": "10c41b5b842c313e82a4e430679c5e43524d4fe5eae32472ceaaa3563707c523"
     }
    ]
+  },
+  {
+   "slug": "norma-agricultura-zi0210-2015",
+   "path": "norma/agricultura/2015/02-10",
+   "short": "Norma agricultura din 10 februarie 2015",
+   "title": "Normă din 10 februarie 2015 privind ecocondiționalitatea în cadrul schemelor și măsurilor de sprijin pentru fermieri în România [în temeiul art. 93 și 94, respectiv anexa II din Regulamentul (UE) nr. 1.306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2.799/98, (CE) nr. 814/2000, (CE) nr. 1.290/2005 și (CE) nr. 485/2008 ale Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168310",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168310",
+     "sha256": "0898a0030875c3fcad4c05deede38faee437f740d1716c8092617e0bf5a8a236"
+    }
+   ]
+  },
+  {
+   "slug": "norma-anaf-zi0831-2015",
+   "path": "norma/anaf/2015/08-31",
+   "short": "Norma anaf din 31 august 2015",
+   "title": "Norme tehnice din 31 august 2015 privind acordarea statutului de operator economic autorizat*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173046",
+   "versions": [
+    {
+     "from": "2015-10-27",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173046",
+     "sha256": "d573705c76e090661ea292bb7246d26f42b234041dfb0c4dca9a95a627f4954c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0224-2015",
+   "path": "norma/aparare/2015/02-24",
+   "short": "Norma aparare din 24 februarie 2015",
+   "title": "Norme din 24 februarie 2015 privind obținerea, menținerea și ridicarea titlurilor de clasificare și specializare pentru personalul aeronautic din Ministerul Apărării Naționale și din alte instituții sau structuri care desfășoară activități aeronautice militare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168913",
+   "versions": [
+    {
+     "from": "2015-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168913",
+     "sha256": "60d1291e215aa9742972e1f785694bf46002fc5ec25bedcff2c70ee8de05375a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0608-2015",
+   "path": "norma/aparare/2015/06-08",
+   "short": "Norma aparare din 8 iunie 2015",
+   "title": "Norme din 8 iunie 2015 de apărare împotriva incendiilor în Ministerul Apărării Naționale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168976",
+   "versions": [
+    {
+     "from": "2015-06-16",
+     "units": 619,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168976",
+     "sha256": "0e566b5baca04f76e1ae7398a1f02991ddf6a349d518cf788e9c890de84ae5f6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0616-2015",
+   "path": "norma/aparare/2015/06-16",
+   "short": "Norma aparare din 16 iunie 2015",
+   "title": "Norme din 16 iunie 2015 privind organizarea și desfășurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313981",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313981",
+     "sha256": "145b4de4ba1b163a8d892b827ff48abdee96e0332755726e0f93e78d72cd292a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-zi0212-2015",
+   "path": "norma/cifga/2015/02-12",
+   "short": "Norma cifga din 12 februarie 2015",
+   "title": "Normă din 12 februarie 2015 privind \"Asigurarea garanțiilor de export în numele și în contul statului\" (NI-ASR-08-I/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165878",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165878",
+     "sha256": "76cde1ea1d878fb34fd92e60ec41d103cd5ea579dfc0bb2b00983c864005805c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0330-1-2015",
+   "path": "norma/cnas/2015/03-30-1",
+   "short": "Norma cnas din 30 martie 2015",
+   "title": "Norme metodologice din 30 martie 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166981",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166981",
+     "sha256": "9a56671a1b82bcd0034ed27b25defa2440d837e8e14d064bce944b92d169756f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0330-2-2015",
+   "path": "norma/cnas/2015/03-30-2",
+   "short": "Norma cnas din 30 martie 2015",
+   "title": "Norme tehnice din 30 martie 2015 de realizare a programelor naționale de sănătate curative pentru anii 2015 și 2016 din 30.03.2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167017",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167017",
+     "sha256": "936c97876683c145b73dae5b78eee172d6552432892c0dde6de60df7f430bdbe"
+    }
+   ]
+  },
+  {
+   "slug": "norma-educatie-zi0923-2015",
+   "path": "norma/educatie/2015/09-23",
+   "short": "Norma educatie din 23 septembrie 2015",
+   "title": "Normele metodologice din 23 septembrie 2015 de organizare și desfășurare a programului de pregătire psihopedagogică și metodică a maiștrilor instructori absolvenți de școli postliceale/colegii din învățământul terțiar nonuniversitar/școli de maiștri în domeniu și a antrenorilor absolvenți de liceu urmat de o școală de antrenori, școli postliceale ori colegii de învățământ terțiar nonuniversitar de profil, cu specializarea în ramura de sport respectivă, în vederea certificării pentru profesia didactică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171758",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171758",
+     "sha256": "aa8944bf45da3a022663ef5325ad7230d70042dbf6dc57d4f776ad637050c04d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0803-2015",
+   "path": "norma/finante/2015/08-03",
+   "short": "Norma finante din 3 august 2015",
+   "title": "Norme metodologice din 3 august 2015 privind reflectarea în contabilitate a principalelor operațiuni de fuziune, divizare, dizolvare și lichidare a societăților, precum și de retragere sau excludere a unor asociați din cadrul societăților - Anexa nr. 1*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171604",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171604",
+     "sha256": "e2bbe409ab13539492719093241050e111fd38e13fb45e6a64fe56048fd1e85f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-interne-zi0225-2015",
+   "path": "norma/interne/2015/02-25",
+   "short": "Norma interne din 25 februarie 2015",
+   "title": "Norme metodologice din 25 februarie 2015 privind exercitarea auditului public intern în Ministerul Afacerilor Interne (Anexa nr. 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168555",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168555",
+     "sha256": "a8719655b351393686b6284e1d3fe1d4691513bff48835b5bb494b2eaac04d34"
+    }
+   ]
+  },
+  {
+   "slug": "norma-interne-zi1014-2015",
+   "path": "norma/interne/2015/10-14",
+   "short": "Norma interne din 14 octombrie 2015",
+   "title": "Norme tehnice din 14 octombrie 2015 privind managementul activităților de intervenție pentru asanarea terenurilor de munițiile rămase neexplodate din timpul conflictelor armate și executarea lucrărilor de distrugere a zăpoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172323",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172323",
+     "sha256": "e5a978dd3c27433001eb5a42bb88e54ca0237183272fbde66eb64b47fe97d99e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0407-2015",
+   "path": "norma/munca/2015/04-07",
+   "short": "Norma munca din 7 aprilie 2015",
+   "title": "Norme metodologice din 7 aprilie 2015 de aplicare a Legii nr. 52/2011 privind exercitarea unor activități cu caracter ocazional desfășurate de zilieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168497",
+   "versions": [
+    {
+     "from": "2015-06-03",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168497",
+     "sha256": "d01958e7230ccf5e4b117be62c14cbba2378aec436b49bd6af78636a461e1f22"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0629-2015",
+   "path": "norma/munca/2015/06-29",
+   "short": "Norma munca din 29 iunie 2015",
+   "title": "Norme metodologice din 29 iunie 2015 de aplicare a prevederilor Legii nr. 83/2015 pentru completarea Legii nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169343",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169343",
+     "sha256": "116deb7c0fde46e6a5b77ae0296dfe5d6a86750a5b8ad682138a2549e2cdd18f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0105-2015",
+   "path": "norma/sanatate/2015/01-05",
+   "short": "Norma sanatate din 5 ianuarie 2015",
+   "title": "Norme metodologice din 5 ianuarie 2015 pentru aplicarea prevederilor art. 2 alin. (2) din Legea nr. 149/2014 privind unele măsuri referitoare la veniturile medicilor de familie care asigură continuitatea asistenței medicale în centrele de permanență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164715",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164715",
+     "sha256": "121b37461f5a7c20f49140e808597ca78dbe93c8a4539daf4dc68d01e62a3b34"
+    }
+   ]
   }
  ]
 }

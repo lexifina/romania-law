@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "ghid/2011",
+ "acts": [
+  {
+   "slug": "ghid-mediu-zi0131-2011",
+   "path": "ghid/mediu/2011/01-31",
+   "short": "Ghid mediu din 31 ianuarie 2011",
+   "title": "Ghid de finanțare din 31 ianuarie 2011 a Programului de stimulare a înnoirii Parcului auto național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126106",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126106",
+     "sha256": "85c8b241c7c04172a94bebebed61dc2a0201c815765fbfc404cee7b6cb5f5088"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0217-1-2011",
+   "path": "ghid/sanatate/2011/02-17-1",
+   "short": "Ghid sanatate din 17 februarie 2011",
+   "title": "Ghid de practică*) din 17 februarie 2011 în chirurgia oro-maxilo-facială - 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128466",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128466",
+     "sha256": "e1a36e696e9923a391aeea7c9bfd4374a317df66efb0e202c5e12713d87a08c5"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0217-2-2011",
+   "path": "ghid/sanatate/2011/02-17-2",
+   "short": "Ghid sanatate din 17 februarie 2011",
+   "title": "Ghid de practică din 17 februarie 2011 În chirurgia dento-alveolara - 2010 -*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128467",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128467",
+     "sha256": "027e5b0d9a39005c00c3b7275ec444a14b9e53fb4c7a46f91792828afd312052"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-1-2011",
+   "path": "ghid/sanatate/2011/08-02-1",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru specialitatea neonatologie - determinarea vârstei de gestație la nou-născut (Anexa nr. 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132242",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132242",
+     "sha256": "3629f246f670891ba68398a865f036f37939ecf27dafd0cf336b499b282a3753"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-2-2011",
+   "path": "ghid/sanatate/2011/08-02-2",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru specialitatea neonatologie - diagnosticul și tratamentul convulsiilor neonatale - (Anexa nr. 4)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132245",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132245",
+     "sha256": "17df6461f1c287c4a46b8a6b772628b2d33c16e3d43bef24aec40760d414c872"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-3-2011",
+   "path": "ghid/sanatate/2011/08-02-3",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru specialitatea neonatologie - Reanimarea neonatală - (Anexa nr. 5)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132246",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132246",
+     "sha256": "f0b0c8f32f85cb59045fb3305ca1193a5f22c93d719ed7ad143e0c3fe1c865ba"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-4-2011",
+   "path": "ghid/sanatate/2011/08-02-4",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru specialitatea neonatologie - Echilibrarea nou-născutului pentru transport și transportul neonatal - (Anexa nr. 6)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132247",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132247",
+     "sha256": "bef9c908e961b7226acd59fe12b5804131187dac917546c755bce586fc5513ee"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-5-2011",
+   "path": "ghid/sanatate/2011/08-02-5",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru specialitatea neonatologie - Oxigenoterapia la nou-născut (Anexa nr. 8)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132249",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132249",
+     "sha256": "9ffbfbd37eeeba8d09647f5636c4ec4c561ff2ede1f83947a7d2816c0233eaf2"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-6-2011",
+   "path": "ghid/sanatate/2011/08-02-6",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru specialitatea neonatologie - Alimentația parenterală a nou-născutului la termen bolnav (Anexa nr. 10)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132251",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132251",
+     "sha256": "5831aa69691b50bffccf4af367bad750a1ccd42604e10d5621ef1def8a5c2311"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-7-2011",
+   "path": "ghid/sanatate/2011/08-02-7",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru specialitatea neonatologie - Termoreglarea la nou-născut (Anexa nr. 11)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132252",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132252",
+     "sha256": "b4bbb8f30188b67c6b518060a76618ae8b95d9372a3491373042fcf8ed2ce1ab"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0802-8-2011",
+   "path": "ghid/sanatate/2011/08-02-8",
+   "short": "Ghid sanatate din 2 august 2011",
+   "title": "Ghid din 2 august 2011 de practică medicală pentru aplicabilitatea neonatologie - diagnosticul și tratamentul hipoglicemie neonatale (Anexa nr. 14)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132255",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132255",
+     "sha256": "17870c635f851f2f99be9c274e914d1bd6221f8722a3bef9ad82d55e1db4a949"
+    }
+   ]
+  }
+ ]
+}

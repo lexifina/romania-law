@@ -646,6 +646,231 @@
      "sha256": "c1aae4b490a0b4e9e08a33725021a98fd734ee75333ecf2585f3486739cf3b5f"
     }
    ]
+  },
+  {
+   "slug": "norma-agricultura-zi0904-1-2007",
+   "path": "norma/agricultura/2007/09-04-1",
+   "short": "Norma agricultura din 4 septembrie 2007",
+   "title": "Norme metodologice din 4 septembrie 2007 privind modul de acordare a sprijinului financiar și condițiile de eligibilitate pentru susținerea unor cheltuieli de depozitare a produselor agricole, astfel cum este prevăzut la lit. b) pct. 1 din anexa nr. 1, precum și pentru susținerea producției marfă la culturile de sfeclă de zahăr, orez, în și cânepă pentru fibră, și/sau ulei și/sau alte utilizări industriale, soia convențională, hamei, culturi energetice (biocarburanți și biomasă), astfel cum este prevăzut la lit. b) pct. 2 din anexa nr. 2 la Ordonanța de urgență a Guvernului nr. 123/2006 pentru aprobarea acordării sprijinului financiar producătorilor agricoli din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, aprobată cu modificări prin Legea nr. 125/2007 (anexa A la Ordinul nr. 850/2006 )",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85661",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85661",
+     "sha256": "7f5264f56dccf15c5bf3186e7de3725ac7a09f3af9cf8bf40068b6bd6acc18ed"
+    }
+   ]
+  },
+  {
+   "slug": "norma-agricultura-zi0904-2-2007",
+   "path": "norma/agricultura/2007/09-04-2",
+   "short": "Norma agricultura din 4 septembrie 2007",
+   "title": "Norme metodologice din 4 septembrie 2007 privind modul de acordare a sprijinului financiar și condițiile de eligibilitate pentru procesarea inului și a cânepei pentru fibră, astfel cum este prevăzut la lit. b) pct. 1 din anexa nr. 2 la Ordonanța de urgență a Guvernului nr. 123/2006 pentru aprobarea acordării sprijinului financiar producătorilor agricoli din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, aprobată cu modificări prin Legea nr. 125/2007 (anexa I la Ordinul nr. 850/2006 )",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85662",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85662",
+     "sha256": "c481e49c7e638fbdf688077d9c4b1ddcf6732fd4daf2c122094a9d93aef821af"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi0201-1-2007",
+   "path": "norma/ansvsa/2007/02-01-1",
+   "short": "Norma ansvsa din 1 februarie 2007",
+   "title": "Normă sanitară veterinară din 1 februarie 2007 ce stabilește metode de analiză pentru determinarea produselor amprolium, diclazuril și carbadox din furaje",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79813",
+   "versions": [
+    {
+     "from": "2007-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79813",
+     "sha256": "53afbae495f8c670bf31bd7f83d015c3b0339abc063f224d61ba69fd2615c3ad"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi0201-2-2007",
+   "path": "norma/ansvsa/2007/02-01-2",
+   "short": "Norma ansvsa din 1 februarie 2007",
+   "title": "Norma sanitară veterinară și pentru siguranța alimentelor din 1 februarie 2007 privind stabilirea limitelor maxime de reziduuri de pesticide din conținutul sau de pe suprafața produselor alimentare de origine animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79818",
+   "versions": [
+    {
+     "from": "2007-02-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79818",
+     "sha256": "017b880f2ee468d8ed8373b113caf618bd2b25ddc3f67035e625bd9459217f8b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi0427-2007",
+   "path": "norma/ansvsa/2007/04-27",
+   "short": "Norma ansvsa din 27 aprilie 2007",
+   "title": "Normă sanitară veterinară din 27 aprilie 2007 privind măsurile pentru combaterea febrei aftoase*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85456",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85456",
+     "sha256": "379f96b395c2be2fd0ca092e4e725346b1402e6ad5e219581addc64c97d2a3e4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi1031-2007",
+   "path": "norma/ansvsa/2007/10-31",
+   "short": "Norma ansvsa din 31 octombrie 2007",
+   "title": "Normă sanitară veterinară din 31 octombrie 2007 privind Codul produselor medicinale veterinare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87964",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87964",
+     "sha256": "0ae75c952a25366f44af101bb585481bf4df0c5320cc35485cb01a15a514e8af"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-zi1101-2007",
+   "path": "norma/cifga/2007/11-01",
+   "short": "Norma cifga din 1 noiembrie 2007",
+   "title": "Normă din 1 noiembrie 2007 pentru analiza și avizarea solicitărilor de emitere de garanții de stat sau de acordare de subîmprumuturi de către Ministerul Economiei și Finanțelor (cod ISO NI-CST-10-1/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87257",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87257",
+     "sha256": "743bcf5332602a8f7547041b52f35427caa97c831c79b72b101aeffe40352ca9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1214-2007",
+   "path": "norma/finante/2007/12-14",
+   "short": "Norma finante din 14 decembrie 2007",
+   "title": "Norme metodologice din 14 decembrie 2007 privind încheierea exercițiului bugetar al anului 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88176",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88176",
+     "sha256": "028e519e4c00a6ec9415009bf71635b358e9a8951ee972ab819a9d0aef34be9b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0110-2007",
+   "path": "norma/guvern/2007/01-10",
+   "short": "Norma guvern din 10 ianuarie 2007",
+   "title": "Norme și proceduri din 10 ianuarie 2007 privind autorizarea contractării sau garantării de împrumuturi de către unitățile administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79193",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79193",
+     "sha256": "d69546a752abae16b391bcd3e8f3bf8c93e061e11936ecc524e52a1eab6693ed"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0214-2007",
+   "path": "norma/guvern/2007/02-14",
+   "short": "Norma guvern din 14 februarie 2007",
+   "title": "Norme metodologice din 14 februarie 2007 de aplicare a Ordonanței de urgență a Guvernului nr. 54/2006 privind regimul contractelor de concesiune de bunuri proprietate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79853",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79853",
+     "sha256": "b72551830f4491a819562fe718ce04e3560f520b7082eb260c696f01fc684eaf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0530-2007",
+   "path": "norma/guvern/2007/05-30",
+   "short": "Norma guvern din 30 mai 2007",
+   "title": "Norme metodologice din 30 mai 2007 privind constituirea și utilizarea fondului de stimulente stabilit în condițiile Ordonanței de urgență a Guvernului nr. 91/2003 privind organizarea Gărzii Financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82924",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82924",
+     "sha256": "ec4e2d1ddda627fea22fda9ad4da22927027f84a37bcbfbbd5cdbcd31a59281f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0704-2007",
+   "path": "norma/guvern/2007/07-04",
+   "short": "Norma guvern din 4 iulie 2007",
+   "title": "Norme metodologice din 4 iulie 2007 de aplicare a Ordonanței Guvernului nr. 14/2007 pentru reglementarea modului și condițiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84213",
+   "versions": [
+    {
+     "from": "2007-08-07",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84213",
+     "sha256": "a9e2142bd374825f315e62b8dc9c654a8948e7e492d415c353fe5fd422131236"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1010-1-2007",
+   "path": "norma/guvern/2007/10-10-1",
+   "short": "Norma guvern din 10 octombrie 2007",
+   "title": "Norme tehnice din 10 octombrie 2007 privind organizarea și desfășurarea activităților de control și inspecție în domeniul protecției mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86622",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86622",
+     "sha256": "0dc763abbcfd630406d15a8dd6c9eff1c0368cc34998788bba201627c597c1be"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1010-2-2007",
+   "path": "norma/guvern/2007/10-10-2",
+   "short": "Norma guvern din 10 octombrie 2007",
+   "title": "Norme metodologice din 10 octombrie 2007 privind constituirea și utilizarea fondului destinat stimulării personalului Gărzii Naționale de Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86623",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86623",
+     "sha256": "1181a8110f060f82f1500647fe0bb7343c3df1a09b1aa719dad62805c211c2a9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-mediu-zi0724-2007",
+   "path": "norma/mediu/2007/07-24",
+   "short": "Norma mediu din 24 iulie 2007",
+   "title": "Norme procedurale interne din 24 iulie 2007 privind organizarea și desfășurarea procedurilor de încheiere a contractului-cadru pentru asistență juridică și reprezentare în legătură cu contractele/acordurile/protocoalele încheiate de Ministerul Mediului și Dezvoltării Durabile, prin Direcția generală pentru managementul instrumentelor structurale, în calitate de autoritate de management, pentru implementarea Programului operațional sectorial de mediu, precum și asistență juridică pentru contractele finanțate în cadrul acestuia, inclusiv alte documente relevante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84527",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84527",
+     "sha256": "8e30381249b7f79940516aaf3687d438450710fe401923ce37bd2b942ee2e65f"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ghid/2017",
+ "acts": [
+  {
+   "slug": "ghid-agricultura-zi0607-1-2017",
+   "path": "ghid/agricultura/2017/06-07-1",
+   "short": "Ghid agricultura din 7 iunie 2017",
+   "title": "Ghidul solicitantului din 7 iunie 2017 pentru măsura II.2 - \"Investiții productive în acvacultură\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220646",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220646",
+     "sha256": "5788652e03eed21b2049ab3bd03b670975e7c07322f30b04ede0170c2895d8a6"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-agricultura-zi0607-2-2017",
+   "path": "ghid/agricultura/2017/06-07-2",
+   "short": "Ghid agricultura din 7 iunie 2017",
+   "title": "Ghidul solicitantului din 7 iunie 2017 pentru măsura IV.4 - \"Prelucrarea produselor pescărești și de acvacultură\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220647",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220647",
+     "sha256": "d09a26c582546a4591ef23d9b21aef07c69397cf05117deb886784e694a759f1"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-mediu-zi1103-2017",
+   "path": "ghid/mediu/2017/11-03",
+   "short": "Ghid mediu din 3 noiembrie 2017",
+   "title": "Ghid de finanțare din 3 noiembrie 2017 a Programului vizând transporturile tip RO-LA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194587",
+   "versions": [
+    {
+     "from": "2017-11-09",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194587",
+     "sha256": "656333ea9bf5a4efb4cf3823c29ef283271d0833cf83c4ea67a2ffd09a3e5b55"
+    }
+   ]
+  }
+ ]
+}

@@ -43,7 +43,15 @@ ORDER_KINDS = {'ordin': 'Ministerial and authority orders (ordine)', 'norma': 'N
                # issuer and year like an order: circulara/bnr/2026/27/, hotarare/bnr/2010/5/, decizie/ancom/2024/123/
                'circulara': 'Circulars of authorities (circulare)',
                'hotarare': "Decisions of authorities' boards (hotărâri)",
-               'decizie': 'Decisions of authorities (decizii)'}
+               'decizie': 'Decisions of authorities (decizii)',
+               # procedures, guides and protocols approved by order and published in MO Part I (coordinator,
+               # 2026-11-06): procedura/<issuer>/<year>/<number>/ like the other instruments
+               'procedura': 'Procedures (proceduri)', 'ghid': 'Guides (ghiduri)', 'protocol': 'Protocols (protocoale)'}
+# An instrument published with no number of its own, whose approving act is not identified yet (sources/norms,
+# 2026-11-06): its MO-printed day stands for the number, <kind>/<issuer>/<year>/<MM>-<DD>[-<n>]/, id
+# <kind>-<issuer>-zi<MM><DD>[-<n>]-<year> (norma/sanatate/2014/02-19/, norma-sanatate-zi0219-2014); -<n> orders several
+# documents of one kind, issuer and day by their service document id. It is linked to its approving act later.
+UNNUMBERED_SLUG_RE = re.compile(r'^(' + '|'.join(ORDER_KINDS) + r')-([a-z]+)-zi(\d{2})(\d{2})(?:-(\d+))?-(\d{4})$')
 # The kinds added on 2026-11-06 share a first word with the lane roots decizie-bec and hotarare-aep: an id of those
 # roots is never read as one of these kinds (act_path below).
 NEW_ORDER_KINDS = ('circulara', 'hotarare', 'decizie')
@@ -153,6 +161,9 @@ def act_path(slug: str, title: str = '') -> str:
         m = None  # decizie-bec-..., hotarare-aep-...: a lane root's id, not an authority's decision
     if m:  # ordin-justitie-492-c-2012 -> ordin/justitie/2012/492-c
         return f'{m.group(1)}/{m.group(2)}/{m.group(5)}/{int(m.group(3))}' + (f'-{m.group(4)}' if m.group(4) else '')
+    m = UNNUMBERED_SLUG_RE.match(slug)
+    if m and not LANE_SLUG.match(slug):  # norma-sanatate-zi0219-2014 -> norma/sanatate/2014/02-19
+        return f'{m.group(1)}/{m.group(2)}/{m.group(6)}/{m.group(3)}-{m.group(4)}' + (f'-{int(m.group(5))}' if m.group(5) else '')
     for rx, path in LOCAL_SLUGS:  # hcgmb-67-2004 -> local/bucuresti/cgmb/2004/67 (before the title rules: a local
         m = rx.match(slug)        # decision's title often names a law)
         if m:

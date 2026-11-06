@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2005",
+ "acts": [
+  {
+   "slug": "metodologie-cnas-zi0406-2005",
+   "path": "metodologie/cnas/2005/04-06",
+   "short": "Metodologie cnas din 6 aprilie 2005",
+   "title": "Metodologia din 6 aprilie 2005 de decontare a obligațiilor restante ale unităților sanitare cu paturi din rețeaua Ministerului Sănătății către furnizorii de medicamente și materiale sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60970",
+   "versions": [
+    {
+     "from": "2005-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60970",
+     "sha256": "af51eda73a3d2bb5009c5a17e9f774774ca261d376d13ef2e46b9cdafd548818"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-cnas-zi1229-2005",
+   "path": "metodologie/cnas/2005/12-29",
+   "short": "Metodologie cnas din 29 decembrie 2005",
+   "title": "Metodologia din 29 decembrie 2005 de evaluare a cazurilor externate, raportate și nevalidate, solicitate spre revalidare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68681",
+   "versions": [
+    {
+     "from": "2006-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68681",
+     "sha256": "7f03be71f2d023eebda29a688f20ee8c9e3b60f4af9dd17529f8015ee414e0b6"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-cncan-zi1213-2005",
+   "path": "metodologie/cncan/2005/12-13",
+   "short": "Metodologie cncan din 13 decembrie 2005",
+   "title": "Metodologie din 13 decembrie 2005 de autorizare a activităților asociate pe toată durata de viață a unui depozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70868",
+   "versions": [
+    {
+     "from": "2006-04-17",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70868",
+     "sha256": "64ca71e126cc5eeb04276ecc18012b7a1c10e0438057ab7ac508ba0c9a16c90e"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-economie-zi0324-2005",
+   "path": "metodologie/economie/2005/03-24",
+   "short": "Metodologie economie din 24 martie 2005",
+   "title": "Metodologia din 24 martie 2005 de evaluare a organismelor de inspecție tehnică în vederea recunoașterii și desemnării acestora pentru a efectua inspecția tehnică a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60966",
+   "versions": [
+    {
+     "from": "2005-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60966",
+     "sha256": "482b2a05638a4a08da0e656c6021b2ea5a23bd59b38587927e3e3ecadc16d7ec"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0831-2005",
+   "path": "metodologie/educatie/2005/08-31",
+   "short": "Metodologie educatie din 31 august 2005",
+   "title": "Metodologie din 31 august 2005 de organizare și desfășurare a examenului de bacalaureat - 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65042",
+   "versions": [
+    {
+     "from": "2005-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65042",
+     "sha256": "ef56612ec4d4755e2eeeaf1711abd003ea1c3917777b66dc0cd5cbf5585ad6e9"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0923-2005",
+   "path": "metodologie/educatie/2005/09-23",
+   "short": "Metodologie educatie din 23 septembrie 2005",
+   "title": "Metodologie din 23 septembrie 2005 de organizare și desfășurare a admiterii în învățământul liceal și profesional de stat pentru anul școlar 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35076",
+   "versions": [
+    {
+     "from": "2005-10-19",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35076",
+     "sha256": "7cb85603fa4dc810efea0348c8fe052152f60ddbb05099d3af1f30a293301a0c"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi1229-1-2005",
+   "path": "metodologie/ins/2005/12-29-1",
+   "short": "Metodologie ins din 29 decembrie 2005",
+   "title": "Metodologia din 29 decembrie 2005 cercetării statistice privind efectivele de animale existente la 1 decembrie și producția animală obținută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68052",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68052",
+     "sha256": "8f4eb923a81f18a1a00f0350efa272128771445ce7f84c83325206d104e8a78a"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi1229-2-2005",
+   "path": "metodologie/ins/2005/12-29-2",
+   "short": "Metodologie ins din 29 decembrie 2005",
+   "title": "Metodologia din 29 decembrie 2005 cercetării statistice privind efectivele de bovine existente la 1 iunie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68054",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68054",
+     "sha256": "ea6f087f038f7ca08bc26732bb6f3c0b2d21d78835d4bfa82f6b26095d075629"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi1229-3-2005",
+   "path": "metodologie/ins/2005/12-29-3",
+   "short": "Metodologie ins din 29 decembrie 2005",
+   "title": "Metodologia din 29 decembrie 2005 cercetării statistice privind efectivele de porcine existente la 1 aprilie/1 august",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68056",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68056",
+     "sha256": "699e37a3bee0b71fa83d900d6d163ecc7a01f53815db9af12e51017f4e34c251"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi1229-4-2005",
+   "path": "metodologie/ins/2005/12-29-4",
+   "short": "Metodologie ins din 29 decembrie 2005",
+   "title": "Metodologie din 29 decembrie 2005 cercetărilor statistice lunare și anuale referitoare la producția de lapte și produse lactate (IND L), modulul industrie alimentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68093",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68093",
+     "sha256": "23c2f48d80639b219a6646a8c7526576df9c26ccf8811a0b3c2d69841870b7ee"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi1229-5-2005",
+   "path": "metodologie/ins/2005/12-29-5",
+   "short": "Metodologie ins din 29 decembrie 2005",
+   "title": "Metodologia cercetării statistice din 29 decembrie 2005 privind frecventarea structurilor de primire turistica cu funcțiuni de cazare turistica*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75905",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75905",
+     "sha256": "359e8007c4dfa75f851cd82167f7d9122e0112b5b7c7d8882f981d3f0c813cb0"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi1229-6-2005",
+   "path": "metodologie/ins/2005/12-29-6",
+   "short": "Metodologie ins din 29 decembrie 2005",
+   "title": "Metodologia cercetării statistice din 29 decembrie 2005 privind cererea turistica a rezidenților în România*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75906",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75906",
+     "sha256": "d5e1d6a977c99a96f75d8fb62249704252ddf785a2ec3b4b81301bb7c0544e99"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi0326-1-2005",
+   "path": "metodologie/mediu/2005/03-26-1",
+   "short": "Metodologie mediu din 26 martie 2005",
+   "title": "Metodologie din 26 martie 2005 de evaluare a riscului substanțelor periculoase din listele I și II și al substanțelor prioritare/prioritar periculoase în mediul acvatic prin modelare matematică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62869",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62869",
+     "sha256": "4d49d881a6bf8ba6e591cd6047b1e8454406fb8a9fd99ae3e89a966fac3fcdd8"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi0326-2-2005",
+   "path": "metodologie/mediu/2005/03-26-2",
+   "short": "Metodologie mediu din 26 martie 2005",
+   "title": "Metodologie din 26 martie 2005 de evaluare a impactului substanțelor periculoase din listele I și II și al substanțelor prioritare/prioritar periculoase asupra mediului acvatic prin teste ecotoxicologice - alge verzi, dafnia, pești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62870",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62870",
+     "sha256": "2be1d3984d7c7993ad169cadcdf63fba0d834aa6fefed0bd042c84a8972bac02"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0304-2005",
+   "path": "metodologie/orda/2005/03-04",
+   "short": "Metodologie orda din 4 martie 2005",
+   "title": "Metodologie din 4 martie 2005 privind cuantumul remunerației compensatorii pentru copia privată pentru coli de hârtie pentru copiator format A4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61377",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61377",
+     "sha256": "7bc1f3e8a14cda8fc0642881f2d1c5dd55a91529772dbfb843c1e30bfd46e444"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0428-2005",
+   "path": "metodologie/orda/2005/04-28",
+   "short": "Metodologie orda din 28 aprilie 2005",
+   "title": "Metodologie din 28 aprilie 2005 privind utilizarea repertoriului de opere cinematografice-audiovizuale de către organismele de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61400",
+   "versions": [
+    {
+     "from": "2005-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61400",
+     "sha256": "69619600965ea12ce9e4d4522f7c267255931b4ec3139aab7c9fa6a09e848c01"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0503-2005",
+   "path": "metodologie/orda/2005/05-03",
+   "short": "Metodologie orda din 3 mai 2005",
+   "title": "Metodologie din 3 mai 2005 privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru radiodifuzarea fonogramelor publicate în scop comercial sau a reproducerilor acestora de către organisme de radiodifuziune și de televiziune, prin gestiune colectivă obligatorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61373",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61373",
+     "sha256": "0286a12e318fd773609cc84b0c0af0d1db7a8ec441807796082bd1bdff6c3924"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0621-2005",
+   "path": "metodologie/orda/2005/06-21",
+   "short": "Metodologie orda din 21 iunie 2005",
+   "title": "Metodologie din 21 iunie 2005 privind utilizarea prin radiodifuzare a operelor muzicale și tabel cuprinzând remunerațiile cuvenite titularilor de drepturi de autor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63487",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63487",
+     "sha256": "4f5a6f712637f806811c9a494760e8e694d27ca0a964459f02534c06d9ecf344"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi1015-2005",
+   "path": "metodologie/orda/2005/10-15",
+   "short": "Metodologie orda din 15 octombrie 2005",
+   "title": "Metodologie din 15 octombrie 2005 privind remunerația datorată de către organismele de radiodifuziune și organismele de televiziune titularilor de drepturi de autor pentru radiodifuzarea operelor scrise ale acestora, valorificate prin intermediul organismelor de gestiune colectivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65649",
+   "versions": [
+    {
+     "from": "2005-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65649",
+     "sha256": "f3402437715969eb9104a256b588fd534bf2e2e043e7995d32416d600204bb05"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi1207-2005",
+   "path": "metodologie/orda/2005/12-07",
+   "short": "Metodologie orda din 7 decembrie 2005",
+   "title": "Metodologie din 7 decembrie 2005 privind remunerațiile reprezentând drepturi patrimoniale de autor pentru înregistrările audiovizuale ale operelor muzicale pe suporturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67363",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67363",
+     "sha256": "0bff969f23be9748a5f08effe5a59ae8f68685746cfe128d005d019bdadf733a"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0406-2005",
+   "path": "metodologie/sanatate/2005/04-06",
+   "short": "Metodologie sanatate din 6 aprilie 2005",
+   "title": "Metodologia din 6 aprilie 2005 de decontare a obligațiilor restante ale unităților sanitare cu paturi din rețeaua Ministerului Sănătății către furnizorii de medicamente și materiale sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60968",
+   "versions": [
+    {
+     "from": "2005-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60968",
+     "sha256": "83776eb56a0f82d07fbdcbc6e210e695667d00c7f61c2e76eaaf92cbcaa3c9cd"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi1121-2005",
+   "path": "metodologie/sanatate/2005/11-21",
+   "short": "Metodologie sanatate din 21 noiembrie 2005",
+   "title": "Metodologie din 21 noiembrie 2005 de analiză, evaluare și restructurare a unităților sanitare cu paturi în vederea prevenirii înregistrării de noi datorii și decontării obligațiilor restante la data de 31 mai 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66124",
+   "versions": [
+    {
+     "from": "2005-11-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66124",
+     "sha256": "729b0cd9efa5657ac58555d486277da717dc4e8bcaffceb0cef6eba7dfca2c71"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-transporturi-zi1229-1-2005",
+   "path": "metodologie/transporturi/2005/12-29-1",
+   "short": "Metodologie transporturi din 29 decembrie 2005",
+   "title": "Metodologie din 29 decembrie 2005 de organizare și de derulare a programelor de formare-calificare a personalului care efectuează activități specifice desfășurării transportului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68757",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68757",
+     "sha256": "3d395e167ff0799b6438544da705f09678164be87a2c7905dbee49946d12e352"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-transporturi-zi1229-2-2005",
+   "path": "metodologie/transporturi/2005/12-29-2",
+   "short": "Metodologie transporturi din 29 decembrie 2005",
+   "title": "Metodologie din 29 decembrie 2005 de organizare și de derulare a programelor de verificare profesională periodică a personalului care efectuează activități specifice desfășurării transportului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68758",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68758",
+     "sha256": "5d64a20f9214438f9723ced9c8c061cc0d8bae235e76378ac27b128571faac6a"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-transporturi-zi1229-3-2005",
+   "path": "metodologie/transporturi/2005/12-29-3",
+   "short": "Metodologie transporturi din 29 decembrie 2005",
+   "title": "Metodologie din 29 decembrie 2005 de organizare și de derulare a programelor de perfecționare a pregătirii profesionale a personalului care efectuează activități specifice desfășurării transportului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68759",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68759",
+     "sha256": "c61964936aa28dd6128b72827995f776c7dbe8307dd07ef2e098204e4ca1e9c1"
+    }
+   ]
+  }
+ ]
+}

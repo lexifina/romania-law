@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2003",
+ "acts": [
+  {
+   "slug": "metodologie-dezvoltare-zi0508-2003",
+   "path": "metodologie/dezvoltare/2003/05-08",
+   "short": "Metodologie dezvoltare din 8 mai 2003",
+   "title": "Metodologia și condițiile tehnice din 8 mai 2003 privind certificarea sau omologarea echipamentelor, pieselor de schimb și materialelor de exploatare utilizate la vehicule rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43846",
+   "versions": [
+    {
+     "from": "2003-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43846",
+     "sha256": "4bde348c1110c71c941b4fca559379adbf3f8f2eb262417a8ae52cbc8c551255"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1121-2003",
+   "path": "metodologie/educatie/2003/11-21",
+   "short": "Metodologie educatie din 21 noiembrie 2003",
+   "title": "Metodologie din 21 noiembrie 2003 de organizare și desfășurare a admiterii în învățământul liceal și profesional de stat pentru anul școlar 2004-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51007",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51007",
+     "sha256": "a36b51778a89772039d1603a07ed07c8bc8e5fe9ee49cc4c7315ad87a5657ac8"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-guvern-zi0206-2003",
+   "path": "metodologie/guvern/2003/02-06",
+   "short": "Metodologie guvern din 6 februarie 2003",
+   "title": "Metodologie din 6 februarie 2003 privind utilizarea repertoriului de opere audiovizuale de către organismele de televiziune și tabelul cuprinzând drepturile patrimoniale cuvenite autorilor de opere audiovizuale, cu excepția autorilor muzicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42215",
+   "versions": [
+    {
+     "from": "2003-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42215",
+     "sha256": "dac084c310ff3faacb863a727e9b82383a19404a03fcba7ab6b12a1725c02140"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-guvern-zi0521-2003",
+   "path": "metodologie/guvern/2003/05-21",
+   "short": "Metodologie guvern din 21 mai 2003",
+   "title": "Metodologiile din 21 mai 2003 de evaluare și acreditare a unităților componente ale sistemului de cercetare-dezvoltare de interes național, precum și de atestare a capacității de a desfășura activități de cercetare-dezvoltare de către unități sau instituții, altele decât instituțiile de învățământ superior acreditate și unitățile din subordinea acestora și unitățile și instituțiile aflate în subordinea sau coordonarea Academiei Române și academiilor de ramura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44181",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44181",
+     "sha256": "622989664d4ecd7b3c52234d4b9d42ec37018a72c68b17b45c4d1174bc0d1500"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-transporturi-zi0812-2003",
+   "path": "metodologie/transporturi/2003/08-12",
+   "short": "Metodologie transporturi din 12 august 2003",
+   "title": "Metodologia și condițiile tehnice din 12 august 2003 privind autorizarea agenților economici care desfășoară activități de reparații, de reglare, de modificări constructive, de reconstrucție a vehiculelor rutiere, precum și de dezmembrare a vehiculelor uzate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45709",
+   "versions": [
+    {
+     "from": "2003-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45709",
+     "sha256": "162f2d0cab92915e1bc4a4128c1c9f50f12a4d2c7bf9afc99aeb7081721a8123"
+    }
+   ]
+  }
+ ]
+}

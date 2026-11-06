@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2009",
+ "acts": [
+  {
+   "slug": "metodologie-aparare-zi0216-2009",
+   "path": "metodologie/aparare/2009/02-16",
+   "short": "Metodologie aparare din 16 februarie 2009",
+   "title": "Metodologie din 16 februarie 2009 privind elaborarea devizului general pentru obiectivele/proiectele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102953",
+   "versions": [
+    {
+     "from": "2009-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102953",
+     "sha256": "5ea8605c0f7c9f32e8055df3e426ad01ea4287ccdab6bb67cbd0ba773c76d466"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-cnas-zi0526-2009",
+   "path": "metodologie/cnas/2009/05-26",
+   "short": "Metodologie cnas din 26 mai 2009",
+   "title": "Metodologie din 26 mai 2009 de evaluare a cazurilor invalidate pentru care se solicită revalidarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107148",
+   "versions": [
+    {
+     "from": "2009-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107148",
+     "sha256": "03711c7761d625972dc4e93c1657f6cebe072805f7ddc0a2e7da9e9fbc5cf130"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-dizabilitati-zi0622-2009",
+   "path": "metodologie/dizabilitati/2009/06-22",
+   "short": "Metodologie dizabilitati din 22 iunie 2009",
+   "title": "Metodologie din 22 iunie 2009 de acordare a subvențiilor de la bugetul de stat, prin bugetul Autorității Naționale pentru Persoanele cu Handicap, pentru organizațiile prevăzute la art. 98 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109270",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109270",
+     "sha256": "18a0c1782e5fe94e2837320f2bf66da46ba618c53f45d210a17bace733f288d0"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0424-2009",
+   "path": "metodologie/educatie/2009/04-24",
+   "short": "Metodologie educatie din 24 aprilie 2009",
+   "title": "Metodologie din 24 aprilie 2009 de organizare și desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110605",
+   "versions": [
+    {
+     "from": "2009-07-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110605",
+     "sha256": "a6338eab3e7f43532f03b83831715720be2d94d55f0614858a8819c7bbe39981"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0506-2009",
+   "path": "metodologie/educatie/2009/05-06",
+   "short": "Metodologie educatie din 6 mai 2009",
+   "title": "Metodologie din 6 mai 2009 de înregistrare a rezultatelor activităților de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108190",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108190",
+     "sha256": "ef462429a560004d882fb097a966555e62c459c3ddaffd5680bf08d6f622baa5"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0831-1-2009",
+   "path": "metodologie/educatie/2009/08-31-1",
+   "short": "Metodologie educatie din 31 august 2009",
+   "title": "Metodologie din 31 august 2009 de organizare și desfășurare a evaluării naționale pentru elevii clasei a VIII-a în anul școlar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112731",
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112731",
+     "sha256": "f5bde6d8301b89999f36939789ec0354cf02aa7b13e57b2e9b20664df1bd589e"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0831-2-2009",
+   "path": "metodologie/educatie/2009/08-31-2",
+   "short": "Metodologie educatie din 31 august 2009",
+   "title": "Metodologie*) din 31 august 2009 de organizare și desfășurare a admiterii în învățământul liceal de stat pentru anul școlar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113415",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113415",
+     "sha256": "5fa97df2cb26c3a0977347370b42ae76d18f2f1b6cf567c3bc966eb408124f35"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0910-2009",
+   "path": "metodologie/educatie/2009/09-10",
+   "short": "Metodologie educatie din 10 septembrie 2009",
+   "title": "Prevederi metodologice din 10 septembrie 2009 privind organizarea și desfășurarea activităților specifice funcției de diriginte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112138",
+   "versions": [
+    {
+     "from": "2009-10-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112138",
+     "sha256": "c728c1d582bded663a272e2071070dde0f82711508b2f1a05fe02f5b66fea1c1"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1006-2009",
+   "path": "metodologie/educatie/2009/10-06",
+   "short": "Metodologie educatie din 6 octombrie 2009",
+   "title": "Metodologia din 6 octombrie 2009 de organizare și desfășurare a examenului de bacalaureat - 2010*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113251",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113251",
+     "sha256": "f25185578aebb6943744a979d075554d616d598ba081e2181f7788ceb0b50dc7"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1029-2009",
+   "path": "metodologie/educatie/2009/10-29",
+   "short": "Metodologie educatie din 29 octombrie 2009",
+   "title": "Metodologia din 29 octombrie 2009 de recunoaștere și echivalare a rezultatelor obținute la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu proba de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113413",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113413",
+     "sha256": "caac67a0f5afd2fe6d5239bf63b15f9cc38ed0f5b023e63794ddf05db2b93b84"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1110-2009",
+   "path": "metodologie/educatie/2009/11-10",
+   "short": "Metodologie educatie din 10 noiembrie 2009",
+   "title": "Metodologie din 10 noiembrie 2009 privind mișcarea personalului didactic din învățământul preuniversitar*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115029",
+   "versions": [
+    {
+     "from": "2009-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115029",
+     "sha256": "e1eb8d905674bf994afc422a72512b72bdddcf64cf10ce95320b99b186cde987"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0128-1-2009",
+   "path": "metodologie/ins/2009/01-28-1",
+   "short": "Metodologie ins din 28 ianuarie 2009",
+   "title": "Metodologie din 28 ianuarie 2009 cercetării statistice privind efectivele de bovine existente la 1 iunie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102080",
+   "versions": [
+    {
+     "from": "2009-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102080",
+     "sha256": "470f6aee4a546b67a1442b2c011156842afd6149e7295e77b44f85dbf90df292"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0128-2-2009",
+   "path": "metodologie/ins/2009/01-28-2",
+   "short": "Metodologie ins din 28 ianuarie 2009",
+   "title": "Metodologia din 28 ianuarie 2009 cercetării statistice privind efectivele de animale existente la 1 decembrie și producția animală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102107",
+   "versions": [
+    {
+     "from": "2009-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102107",
+     "sha256": "86569a69b2ede63b31e7929270b2bf3dac092faa9f3dce756643f18f13572c8b"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0128-3-2009",
+   "path": "metodologie/ins/2009/01-28-3",
+   "short": "Metodologie ins din 28 ianuarie 2009",
+   "title": "Metodologia din 28 ianuarie 2009 cercetării statistice lunare referitoare la producția de carne de animale și păsări de curte din abatoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102108",
+   "versions": [
+    {
+     "from": "2009-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102108",
+     "sha256": "49e8f40a56c62f49d11a6f6c06b2d89475a335d31b5f9a2cd02271f332017271"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0224-1-2009",
+   "path": "metodologie/ins/2009/02-24-1",
+   "short": "Metodologie ins din 24 februarie 2009",
+   "title": "Metodologia cercetării statistice din 24 februarie 2009 privind călătoriile internaționale la frontierele României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103664",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103664",
+     "sha256": "d01cbea3c579661f989116ebf205517551c21a591c9b32339c4100a93380aac4"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0224-2-2009",
+   "path": "metodologie/ins/2009/02-24-2",
+   "short": "Metodologie ins din 24 februarie 2009",
+   "title": "Metodologia cercetării statistice din 24 februarie 2009 privind cheltuielile turistice ale nerezidenților cazați în structurile de cazare turistică colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103680",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103680",
+     "sha256": "513212336d31eb673098f69c013f4625742a70d2717fbfc667172afc6b8cebbb"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0224-3-2009",
+   "path": "metodologie/ins/2009/02-24-3",
+   "short": "Metodologie ins din 24 februarie 2009",
+   "title": "Metodologia cercetării statistice din 24 februarie 2009 privind activitatea agențiilor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104148",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104148",
+     "sha256": "44b8c7912de97b01abb387cafbc8f3027e6ee218fbf545aff3bfcb7175486646"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0331-2009",
+   "path": "metodologie/ins/2009/03-31",
+   "short": "Metodologie ins din 31 martie 2009",
+   "title": "Metodologie din 31 martie 2009 de elaborare a conturilor naționale nefinanciare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105343",
+   "versions": [
+    {
+     "from": "2009-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105343",
+     "sha256": "fc4489674e5cc057f24a3e531c2894a4a03339698ad258e3fe5db4123c8088fb"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0423-2009",
+   "path": "metodologie/ins/2009/04-23",
+   "short": "Metodologie ins din 23 aprilie 2009",
+   "title": "Metodologie din 23 aprilie 2009 cercetării statistice privind statisticile comunitare legate de structura și activitatea filialelor străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106048",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106048",
+     "sha256": "94eb3b28a99a8a406fe30a6adc4c94b6f3b486f4b2ee9fe4adec3a8057c54a31"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-ins-zi0504-2009",
+   "path": "metodologie/ins/2009/05-04",
+   "short": "Metodologie ins din 4 mai 2009",
+   "title": "Metodologia din 4 mai 2009 cercetării statistice privind inovarea în industrie și servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105814",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105814",
+     "sha256": "e1b119c77edf406c2bc101ba6c9dc95569bee075840170a9921c5bca84ca7346"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0309-2009",
+   "path": "metodologie/orda/2009/03-09",
+   "short": "Metodologie orda din 9 martie 2009",
+   "title": "Metodologie din 9 martie 2009 privind stabilirea remunerațiilor cuvenite titularilor de drepturi de autor și titularilor de drepturi conexe pentru retransmiterea prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104477",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104477",
+     "sha256": "76e83a8bb907df34e9b6617831cfb0ca9bf84162dbce781f2b1ce14da50326f8"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi1207-2009",
+   "path": "metodologie/orda/2009/12-07",
+   "short": "Metodologie orda din 7 decembrie 2009",
+   "title": "Metodologie din 7 decembrie 2009 privind remunerațiile reprezentând drepturi patrimoniale de autor pentru reproducerile pe videograme ale operelor muzicale utilizate în cadrul operelor audiovizuale, altele decât videoclipurile muzicale, concertele și înregistrările audiovizuale conținând biografii ale unor artiști interpreți sau trupe de muzică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114859",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114859",
+     "sha256": "bf9e4419f0a02c7efec69a3efc718fcd35ec5d27b54f31ab19448348bab5d791"
+    }
+   ]
+  }
+ ]
+}

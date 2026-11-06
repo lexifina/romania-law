@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "criterii/2014",
+ "acts": [
+  {
+   "slug": "criterii-sanatate-zi0530-1-2014",
+   "path": "criterii/sanatate/2014/05-30-1",
+   "short": "Criterii sanatate din 30 mai 2014",
+   "title": "Criterii din 30 mai 2014 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 1 alin. (3) și (4) din anexa nr. 2 la Hotărârea Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, pentru asistența medicală primară (Anexa nr. 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158627",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158627",
+     "sha256": "86be3b0263d1a818db8a853b058ffabc9b0889539ff9d510e3d1038cfca4c354"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0530-2-2014",
+   "path": "criterii/sanatate/2014/05-30-2",
+   "short": "Criterii sanatate din 30 mai 2014",
+   "title": "Criterii din 30 mai 2014 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 22 alin. (3) și (4) și art. 40 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice și pentru specialitatea clinică reabilitare medicală (Anexa nr. 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158628",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158628",
+     "sha256": "1938c25efab0554568ca565eaa834ff1eb45c786ed9f1d808000681266462100"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0530-3-2014",
+   "path": "criterii/sanatate/2014/05-30-3",
+   "short": "Criterii sanatate din 30 mai 2014",
+   "title": "Criterii din 30 mai 2014 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 87 alin. (3) și (4) din anexa nr. 2 la Hotărârea Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, pentru asistența medicală spitalicească (Anexa nr. 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158629",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158629",
+     "sha256": "ae1374d6d605394e1eb061a95e592705e0b9e33fca840cdcf6980248998259f0"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0530-4-2014",
+   "path": "criterii/sanatate/2014/05-30-4",
+   "short": "Criterii sanatate din 30 mai 2014",
+   "title": "Criterii din 30 mai 2014 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 72 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, pentru asistența medicală ambulatorie de specialitate pentru specialitățile paraclinice (Anexa nr. 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158630",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158630",
+     "sha256": "29054a47791e2475dff00070dd14a766f9838e9ddd249ec6085e7278ebe2266f"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-transporturi-zi0123-2014",
+   "path": "criterii/transporturi/2014/01-23",
+   "short": "Criterii transporturi din 23 ianuarie 2014",
+   "title": "Criterii de autorizare din 23 ianuarie 2014 ale operatorilor economici pentru desfășurarea activității de transport public de pasageri și/sau de mărfuri pe căi navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155260",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155260",
+     "sha256": "49a62e6fd53544d1946ae53c3d7fde92c6bc6ba900b6c35c89c95493272838da"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-transporturi-zi0506-1-2014",
+   "path": "criterii/transporturi/2014/05-06-1",
+   "short": "Criterii transporturi din 6 mai 2014",
+   "title": "Criterii de autorizare din 6 mai 2014 a operatorilor economici pentru a putea desfășura pilotajul navelor maritime",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158154",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158154",
+     "sha256": "5b05a59607d6b948ef76225c32e5fcc42409235bb82460f7777d02ea0c78baf1"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-transporturi-zi0506-2-2014",
+   "path": "criterii/transporturi/2014/05-06-2",
+   "short": "Criterii transporturi din 6 mai 2014",
+   "title": "Criterii de autorizare din 6 mai 2014 a operatorilor economici pentru a putea desfășura remorcajul de manevră al navelor maritime",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158155",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158155",
+     "sha256": "8dc72923e692c4a752068f56676d6d949b98f3e8b6a05aa6a4d4bb8ffcf47b21"
+    }
+   ]
+  }
+ ]
+}

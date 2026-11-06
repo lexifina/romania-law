@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2001",
+ "acts": [
+  {
+   "slug": "criterii-economie-zi1023-2001",
+   "path": "criterii/economie/2001/10-23",
+   "short": "Criterii economie din 23 octombrie 2001",
+   "title": "Criterii din 23 octombrie 2001 de evaluare a organismelor de inspecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52798",
+   "versions": [
+    {
+     "from": "2002-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52798",
+     "sha256": "22b4901531b1e268b4d13f47acaa85530909512f656e5f9135bf6ee73260b0f5"
+    }
+   ]
+  }
+ ]
+}

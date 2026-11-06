@@ -663,6 +663,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-212-2012",
+   "path": "ordin/agricultura/2012/212",
+   "short": "Ordin agricultura nr. 212/2012",
+   "title": "Ordinul nr. 212/2012 pentru modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 480/2009 privind constituirea Comisiei pentru acordarea licențelor de depozit pentru semințele de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141427",
+   "versions": [
+    {
+     "from": "2012-09-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141427",
+     "sha256": "922ff48d499cc7683bf65ab73f1f7ebd3ddc59e42e4385f266c3336b8fa73475"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-213-2012",
    "path": "ordin/agricultura/2012/213",
    "short": "Ordin agricultura nr. 213/2012",
@@ -3108,6 +3123,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-116-2012",
+   "path": "ordin/anrm/2012/116",
+   "short": "Ordin anrm nr. 116/2012",
+   "title": "Ordinul nr. 116/2012 pentru aprobarea unor licențe de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136177",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136177",
+     "sha256": "eef3abf17e10a6c868bc5c6b0d262c712ff84b6f955d642ca71edd4887b92598"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-118-2012",
    "path": "ordin/anrm/2012/118",
    "short": "Ordin anrm nr. 118/2012",
@@ -3119,6 +3149,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136556",
      "sha256": "02c0ac8e98c72a030a9456793b0a592b5780467e716c6402fd79573e0a93e1aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-143-2012",
+   "path": "ordin/anrm/2012/143",
+   "short": "Ordin anrm nr. 143/2012",
+   "title": "Ordinul nr. 143/2012 pentru aprobarea unor licențe de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138026",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138026",
+     "sha256": "28f4705ef86965d88d9d9429591a73159c8b093cf7b6f508e26e3a00b94b03c6"
     }
    ]
   },
@@ -3149,6 +3194,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138587",
      "sha256": "55cb8a3338e589704864a8d33bf105c5959c727b99f91e7688c69d2915a76b50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-256-2012",
+   "path": "ordin/anrm/2012/256",
+   "short": "Ordin anrm nr. 256/2012",
+   "title": "Ordinul nr. 256/2012 privind aprobarea unor licențe de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139718",
+   "versions": [
+    {
+     "from": "2012-07-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139718",
+     "sha256": "2c399830d9aa30806be91b1002a4e8841bf3a82e9d88f83a7191ff108afdab6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-263-2012",
+   "path": "ordin/anrm/2012/263",
+   "short": "Ordin anrm nr. 263/2012",
+   "title": "Ordinul nr. 263/2012 pentru aprobarea unei licențe de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139998",
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139998",
+     "sha256": "9ee916270331c3371079c0f3a8d230383a26848294ce2f775b3d1dbd6cc7e9af"
     }
    ]
   },
@@ -3213,6 +3288,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-319-2012",
+   "path": "ordin/anrm/2012/319",
+   "short": "Ordin anrm nr. 319/2012",
+   "title": "Ordinul nr. 319/2012 pentru aprobarea unei licențe de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142675",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142675",
+     "sha256": "b34d9636568899f9d456ad795c1391482834e74cb685ed9f8d7a617f03c30baf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-324-2012",
    "path": "ordin/anrm/2012/324",
    "short": "Ordin anrm nr. 324/2012",
@@ -3239,6 +3329,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144376",
      "sha256": "497a713a6bae541c735efffb845db22eddf25519e702990bd9094d3d2d7dd8a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-431-2012",
+   "path": "ordin/anrm/2012/431",
+   "short": "Ordin anrm nr. 431/2012",
+   "title": "Ordinul nr. 431/2012 privind aprobarea unor licențe de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144475",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144475",
+     "sha256": "5ab96c178087ab5e8026a5011ce7f05d482388c9edf38089573194f7e55c1e7b"
     }
    ]
   },
@@ -3903,6 +4008,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-132-2012",
+   "path": "ordin/aparare/2012/132",
+   "short": "Ordin aparare nr. 132/2012",
+   "title": "Ordinul nr. 132/2012 privind acordarea gradelor și înaintarea în gradul următor, pe timp de pace, a cadrelor militare în rezervă și în retragere, avansarea în grad a veteranilor de război, precum și înaintarea în gradul următor a fostelor cadre militare active îndepărtate abuziv din armată în perioada 23 august 1944 - 31 decembrie 1961",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142577",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142577",
+     "sha256": "e6b08e6be3880ca04f41572a74b6be14bdeab60e427150aea0cdfbeeed4ad2f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-137-2012",
    "path": "ordin/aparare/2012/137",
    "short": "Ordin aparare nr. 137/2012",
@@ -3929,6 +4049,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142994",
      "sha256": "158b7c94d85ac330128166cec1f7a287e5b53fff648ce3c2f0867b97b8c3b553"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-142-2012",
+   "path": "ordin/aparare/2012/142",
+   "short": "Ordin aparare nr. 142/2012",
+   "title": "Ordinul nr. 142/2012 privind declasificarea și publicarea în Monitorul Oficial al României, Partea I, a unor ordine ale ministrului apărării naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143398",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143398",
+     "sha256": "f165a90503eeed616e744b4bf7991db0778652a62ff0517ec32aaeb564520302"
     }
    ]
   },
@@ -4109,6 +4244,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138025",
      "sha256": "56a900ab68d3dbe8d5853763e8cf13ead89e82a2c4f2babef87a94953ebf0855"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-48-2012",
+   "path": "ordin/aparare/2012/48",
+   "short": "Ordin aparare nr. 48/2012",
+   "title": "Ordinul nr. 48/2012 pentru delegarea competenței privind coordonarea Spitalului Universitar de Urgență Militar Central \"Dr. Carol Davila\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138007",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138007",
+     "sha256": "299e3a2763de237984b90fe5ea981ecafefe26ff4216a9115c280c58d1540f63"
     }
    ]
   },
@@ -4908,6 +5058,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-350-2012",
+   "path": "ordin/comunicatii/2012/350",
+   "short": "Ordin comunicatii nr. 350/2012",
+   "title": "Ordinul nr. 350/2012 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București din coordonarea Ministerului Comunicațiilor și Societății Informaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139714",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139714",
+     "sha256": "cc8c6eedf47da419cf34e9d4d9af3eb48bd74a8667992f6babf045f1c8f566c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-384-2012",
+   "path": "ordin/comunicatii/2012/384",
+   "short": "Ordin comunicatii nr. 384/2012",
+   "title": "Ordinul nr. 384/2012 privind aprobarea bugetului de venituri și cheltuieli pe anul 2012 al Institutului Național de Studii și Cercetări pentru Comunicații - I.N.S.C.C. București, din coordonarea Ministerului Comunicațiilor și Societății Informaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139180",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139180",
+     "sha256": "f9c05b62bd201f1fb45ac6e8391f3ada909438ff8433d53d80b9aa146c6a47e0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-501-2012",
    "path": "ordin/comunicatii/2012/501",
    "short": "Ordin comunicatii nr. 501/2012",
@@ -4934,6 +5114,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134765",
      "sha256": "1e8ccc842e8a8be080444dc3e947027f7f0973fdcc988bd6ad283ec926f460b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-782-2012",
+   "path": "ordin/comunicatii/2012/782",
+   "short": "Ordin comunicatii nr. 782/2012",
+   "title": "Ordinul nr. 782/2012 privind desemnarea reprezentanților Ministerului Comunicațiilor și Societății Informaționale ca membri în cadrul Consiliului Infrastructurii naționale pentru informații spațiale în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142771",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142771",
+     "sha256": "1f7eb6295c879e1a6051cdf6ef208144c48c8d96a279388785aad906e5d3aa61"
     }
    ]
   },
@@ -5328,6 +5523,186 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2010-2012",
+   "path": "ordin/cultura/2012/2010",
+   "short": "Ordin cultura nr. 2010/2012",
+   "title": "Ordinul nr. 2.010/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Fortul 13 Jilava\" din satul Jilava, comuna Jilava, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135696",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135696",
+     "sha256": "32742fb616d55ba0f5205ad4f2491d3eda9f24eb5d9fb1584034c2e198e92bab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2011-2012",
+   "path": "ordin/cultura/2012/2011",
+   "short": "Ordin cultura nr. 2011/2012",
+   "title": "Ordinul nr. 2.011/2012 privind declasarea din Lista monumentelor istorice a imobilului din Calea Călărașilor nr. 149, sectorul 3, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135685",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135685",
+     "sha256": "b9c788161ce1141561aa6bf00a14c3af229dccbed3039429b2693fd362e259d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2012-2012",
+   "path": "ordin/cultura/2012/2012",
+   "short": "Ordin cultura nr. 2012/2012",
+   "title": "Ordinul nr. 2.012/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a monumentului de for public \"Nimfa adormită\" din Parcul Herăstrău, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135687",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135687",
+     "sha256": "6e7bfd7db19d381fda95d9ce68280ba01e7ed1093d0f0259192dd77cbad536b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2013-2012",
+   "path": "ordin/cultura/2012/2013",
+   "short": "Ordin cultura nr. 2013/2012",
+   "title": "Ordinul nr. 2.013/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Casa Constantin Ionescu\" din str. Baia Baciului nr. 10, orașul Slănic, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135689",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135689",
+     "sha256": "1d070211be6352d1c016cb9ea74a270f3b6c870eeee908a5f171a8a172356b1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2014-2012",
+   "path": "ordin/cultura/2012/2014",
+   "short": "Ordin cultura nr. 2014/2012",
+   "title": "Ordinul nr. 2.014/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\" din bd. Regina Maria nr. 60, sectorul 4, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135690",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135690",
+     "sha256": "aa6a45d977b506135926a0d2e020eef4949f60f550f655c60e91d412f26e17b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2018-2012",
+   "path": "ordin/cultura/2012/2018",
+   "short": "Ordin cultura nr. 2018/2012",
+   "title": "Ordinul nr. 2.018/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului din str. J. L. Calderon nr. 33, sectorul 2, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135695",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135695",
+     "sha256": "359f67b631804fb40d09983628b933eff445b02906013a7816470aa83ffeac2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2054-2012",
+   "path": "ordin/cultura/2012/2054",
+   "short": "Ordin cultura nr. 2054/2012",
+   "title": "Ordinul nr. 2.054/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a monumentelor memoriale/funerare din cadrul sitului clasat monument istoric Cimitirul central, cod CJ-IV-s-B-07839, din str. Avram Iancu nr. 26-28, Cluj-Napoca, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136926",
+   "versions": [
+    {
+     "from": "2012-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136926",
+     "sha256": "3044c0873b19d6ecb9d42f56b7f75279fa3cff083c80e5023837967e76af18bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2095-2012",
+   "path": "ordin/cultura/2012/2095",
+   "short": "Ordin cultura nr. 2095/2012",
+   "title": "Ordinul nr. 2.095/2012 pentru modificarea anexei la Ordinul ministrului culturii și patrimoniului național nr. 2.709/2011 privind clasarea în Lista monumentelor istorice, categoria Ansamblu, grupa valorică \"B\", a imobilului Muzeul Aviației, din str. Fabrica de Glucoză nr. 2-4, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137021",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137021",
+     "sha256": "f63742e587c962b20405f66aff098bfe76699f223d5200bcae3f48dd53a2f784"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2097-2012",
+   "path": "ordin/cultura/2012/2097",
+   "short": "Ordin cultura nr. 2097/2012",
+   "title": "Ordinul nr. 2.097/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Pavilionul 1 al Spitalului de Neurologie și Psihiatrie, secție a Spitalului Clinic Municipal \"Dr. Gavril Curteanu\", din str. Louis Pasteur nr. 26, Oradea, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137026",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137026",
+     "sha256": "f3b2f5dff277411eb22fa4df0a3e6687d5e96ff8197bdf33366e8b3b33c6ecab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2107-2012",
+   "path": "ordin/cultura/2012/2107",
+   "short": "Ordin cultura nr. 2107/2012",
+   "title": "Ordinul nr. 2.107/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Biserica \"Sf. Nicolae\" și \"Sf. Mucenic Miron\" din str. Victor Daimaca nr. 1, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137028",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137028",
+     "sha256": "d7fc427a65fc607245c12c8d29ee4a181436b901583d6f4345db45938dae193e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2144-2012",
+   "path": "ordin/cultura/2012/2144",
+   "short": "Ordin cultura nr. 2144/2012",
+   "title": "Ordinul nr. 2.144/2012 privind clasarea în Lista monumentelor istorice, categoria Monumente memoriale/funerare, grupa valorică \"B\", a imobilului Capela funerară Iacob N. Lahovary din cadrul Ansamblului \"Cimitirul Șerban Vodă-Bellu\" din calea Șerban Vodă nr. 249, sectorul 4, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137031",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137031",
+     "sha256": "5a7e00114851f46deddc5bd2d9783627489b1d36b5d15ff0158917f075deb42e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2153-2012",
+   "path": "ordin/cultura/2012/2153",
+   "short": "Ordin cultura nr. 2153/2012",
+   "title": "Ordinul nr. 2.153/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului din bd. Schitu Măgureanu nr. 19, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138329",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138329",
+     "sha256": "8c024d5c52a77073fad30e82a3768f3e5c17f94623798dc15c550f32ea2339d3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2182-2012",
    "path": "ordin/cultura/2012/2182",
    "short": "Ordin cultura nr. 2182/2012",
@@ -5343,6 +5718,216 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2202-2012",
+   "path": "ordin/cultura/2012/2202",
+   "short": "Ordin cultura nr. 2202/2012",
+   "title": "Ordinul nr. 2.202/2012 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa valorică \"B\", a imobilului Ansamblul Bisericii ortodoxe grecești \"Sf. Nicolae\" din Str. Păcii nr. 1, orașul Sulina, județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138307",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138307",
+     "sha256": "7e9b2de123f009b3c5a408be5ca34f0cd05a9325ece9ac273d8b353c7d427f19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2203-2012",
+   "path": "ordin/cultura/2012/2203",
+   "short": "Ordin cultura nr. 2203/2012",
+   "title": "Ordinul nr. 2.203/2012 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa valorică \"A\", a imobilului Ansamblul Institutului de Cercetări Agronomice al României, azi Academia de Științe Agricole și Silvice \"Gheorghe Ionescu-Șișești\", din bd. Mărăști nr. 61, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138308",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138308",
+     "sha256": "a37977e5582c44147ff852e6b9bc77cecc31129efa34d59bc743a7fe73f77747"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2204-2012",
+   "path": "ordin/cultura/2012/2204",
+   "short": "Ordin cultura nr. 2204/2012",
+   "title": "Ordinul nr. 2.204/2012 privind clasarea în Lista monumentelor istorice, categoria Arheologie, grupa valorică \"A\", a imobilului Așezare neoeneolitică, punctul Taraschina, comuna Maliuc, județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138412",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138412",
+     "sha256": "66bec7313d2d081ecc2d457ed0f110bd8f022dc567c404937f31433e4dcd8ad7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2222-2012",
+   "path": "ordin/cultura/2012/2222",
+   "short": "Ordin cultura nr. 2222/2012",
+   "title": "Ordinul nr. 2.222/2012 privind clasarea în Lista monumentelor istorice, categoria Arheologie, grupa valorică \"A\", a imobilului Monument funerar român (Cavoul \"Tudorka\") din satul Slava Rusă, comuna Slava Cercheză, județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138377",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138377",
+     "sha256": "361db905b25e3a6b6ef17968112057b7cb9ec5c8e5e33e02f93cbb173e3ed452"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2243-2012",
+   "path": "ordin/cultura/2012/2243",
+   "short": "Ordin cultura nr. 2243/2012",
+   "title": "Ordinul nr. 2.243/2012 pentru acreditarea Muzeului de Mineralogie Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138309",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138309",
+     "sha256": "1d65907bf942daba82181b23c6feeb3d7a6cfabfaaae576b536c829c3641c2d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2285-2012",
+   "path": "ordin/cultura/2012/2285",
+   "short": "Ordin cultura nr. 2285/2012",
+   "title": "Ordinul nr. 2.285/2012 privind declasarea din Lista monumentelor istorice a imobilului Casa ofițerilor, azi Casa Armatei, din str. Costache Racoviță nr. 22, Tecuci, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140391",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140391",
+     "sha256": "5fdb23351a5a43487b5b789e01ad2acf32da0dedfc19be0bb4c97c53e595b9fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2286-2012",
+   "path": "ordin/cultura/2012/2286",
+   "short": "Ordin cultura nr. 2286/2012",
+   "title": "Ordinul nr. 2.286/2012 pentru acreditarea Complexului Muzeal Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140308",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140308",
+     "sha256": "0c1674c71f7c9d56d0a5d48f515146e6deac6139dedbfc757646507ad1da4b24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2287-2012",
+   "path": "ordin/cultura/2012/2287",
+   "short": "Ordin cultura nr. 2287/2012",
+   "title": "Ordinul nr. 2.287/2012 pentru acreditarea Muzeului Județean de Etnografie și Artă Populară din Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140305",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140305",
+     "sha256": "5df6bd233907fea154df1aff53947876dae52d49440d548f123df8880dec20d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2288-2012",
+   "path": "ordin/cultura/2012/2288",
+   "short": "Ordin cultura nr. 2288/2012",
+   "title": "Ordinul nr. 2.288/2012 pentru acreditarea Muzeului Viticulturii și Pomiculturii Golești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140306",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140306",
+     "sha256": "802c4d16a2b7c166b6ea51a16f021d88121ed0b2ff64d76fb014f40af9c367fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2289-2012",
+   "path": "ordin/cultura/2012/2289",
+   "short": "Ordin cultura nr. 2289/2012",
+   "title": "Ordinul nr. 2.289/2012 pentru acreditarea Muzeului Național Secuiesc din Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140307",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140307",
+     "sha256": "705b3bf4cd68029fc1d14af402c2aebc075daf9354807cb662b1436e70aa313c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2298-2012",
+   "path": "ordin/cultura/2012/2298",
+   "short": "Ordin cultura nr. 2298/2012",
+   "title": "Ordinul nr. 2.298/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului \"Casă de locuit\" din str. Mihai Viteazul nr. 44, Târgu Mureș, județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140397",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140397",
+     "sha256": "bdd8685673fa8191c666e36143e25cc7855dd8445d32d70f9d2fb0f35fdceff7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2337-2012",
+   "path": "ordin/cultura/2012/2337",
+   "short": "Ordin cultura nr. 2337/2012",
+   "title": "Ordinul nr. 2.337/2012 pentru acreditarea Muzeului Județean Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139841",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139841",
+     "sha256": "cec4b3c057982751927471f06847414a57b91d65d403db3de1cb058b3a778f93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2339-2012",
+   "path": "ordin/cultura/2012/2339",
+   "short": "Ordin cultura nr. 2339/2012",
+   "title": "Ordinul nr. 2.339/2012 pentru acreditarea Muzeului \"Anastasie Crimca\" al Mănăstirii Dragomirna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139842",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139842",
+     "sha256": "f5563cc61302ab66462c86943bb62ab2964407e54aab3e213b51c967d45086ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2340-2012",
+   "path": "ordin/cultura/2012/2340",
+   "short": "Ordin cultura nr. 2340/2012",
+   "title": "Ordinul nr. 2.340/2012 pentru acreditarea Muzeului Județean de Istorie și Arheologie Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139843",
+   "versions": [
+    {
+     "from": "2012-07-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139843",
+     "sha256": "233f95a182cc0128651c8ca4a0a35160c2af775d71d314ecfcb5a03188b97831"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2382-2012",
    "path": "ordin/cultura/2012/2382",
    "short": "Ordin cultura nr. 2382/2012",
@@ -5354,6 +5939,426 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140573",
      "sha256": "a78331bedf7b1d63e10a80ff8e54bcead48cd913203ff3bf53fc1862dbc2bc90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2427-2012",
+   "path": "ordin/cultura/2012/2427",
+   "short": "Ordin cultura nr. 2427/2012",
+   "title": "Ordinul nr. 2.427/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Spitalul vechi\" din bd. București nr. 82, Giurgiu, județul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141697",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141697",
+     "sha256": "e4ee1f0807cc4f3ad61d977a45ec6273710a0004704629c9e4873ffc069039b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2428-2012",
+   "path": "ordin/cultura/2012/2428",
+   "short": "Ordin cultura nr. 2428/2012",
+   "title": "Ordinul nr. 2.428/2012 privind declasarea parțială din Lista monumentelor istorice a imobilului \"Fosta casă Popp și Bunescu\" din Calea Moșilor nr. 116-122, sectorul 2, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141698",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141698",
+     "sha256": "cd731a858ad700dc4720bfef6d5b133d967cbf6c6fbb40e4167b8236551e2273"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2430-2012",
+   "path": "ordin/cultura/2012/2430",
+   "short": "Ordin cultura nr. 2430/2012",
+   "title": "Ordinul nr. 2.430/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Casa Dumitru Șovăială\" din Str. Teilor nr. 22, Moreni, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141699",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141699",
+     "sha256": "ae58a4bdc227a136b109afe363b4f652853c46845a8d8174440c3184e2f15062"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2435-2012",
+   "path": "ordin/cultura/2012/2435",
+   "short": "Ordin cultura nr. 2435/2012",
+   "title": "Ordinul nr. 2.435/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului din Str. Dianei nr. 9, sectorul 2, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142485",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142485",
+     "sha256": "9c9994cfead168b74791711675bee4db225ddc35512f2f500012efca6857dc36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2436-2012",
+   "path": "ordin/cultura/2012/2436",
+   "short": "Ordin cultura nr. 2436/2012",
+   "title": "Ordinul nr. 2.436/2012 privind schimbarea grupei valorice de clasare din \"B\" în \"A\" a imobilului Biserica \"Nașterea Maicii Domnului\" din satul Telița, comuna Frecăței, județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141660",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141660",
+     "sha256": "47522fee3363596c363f6429f108adbb9956b498f6d2e69636c0ad914539a092"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2437-2012",
+   "path": "ordin/cultura/2012/2437",
+   "short": "Ordin cultura nr. 2437/2012",
+   "title": "Ordinul nr. 2.437/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Spital\" din str. Copăcești nr. 2, Adjud, județul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141661",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141661",
+     "sha256": "6de7e2595d30d25515db63fbb4860f8d0473535422b3e926daea930053b95c4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2454-2012",
+   "path": "ordin/cultura/2012/2454",
+   "short": "Ordin cultura nr. 2454/2012",
+   "title": "Ordinul nr. 2.454/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Conacul Hagi Theodoraky din str. Biserica Măxineni nr. 10, satul Grădiștea, comuna Grădiștea, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142484",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142484",
+     "sha256": "c70bbc773c503943fec30d602ba9a49ff4465687f535534657c55d2637d3aa86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2455-2012",
+   "path": "ordin/cultura/2012/2455",
+   "short": "Ordin cultura nr. 2455/2012",
+   "title": "Ordinul nr. 2.455/2012 privind declasarea din Lista monumentelor istorice a imobilului Fabrica de cărămidă, astăzi hală, din Str. Călărașilor f.n. (fosta str. Traian Lalescu nr. 36, incinta Societății Comerciale TMK - S.A.), municipiul Reșița, județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142051",
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142051",
+     "sha256": "b001062dca0c8a832be5e68e1b6d1ad21ebe71fda7239d7c41990f54dca48507"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2456-2012",
+   "path": "ordin/cultura/2012/2456",
+   "short": "Ordin cultura nr. 2456/2012",
+   "title": "Ordinul nr. 2.456/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Casă\" din str. Hagi Moscu Maria nr. 28-30, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142067",
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142067",
+     "sha256": "42882c398c8065e37358ea7443eaa8d39208d4df7726d57ac784bde29fc32e33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2457-2012",
+   "path": "ordin/cultura/2012/2457",
+   "short": "Ordin cultura nr. 2457/2012",
+   "title": "Ordinul nr. 2.457/2012 privind declasarea din Lista monumentelor istorice a imobilului Uzinele Timpuri Noi, birouri - fostul Centru de calcul, din Splaiul Unirii nr. 165, sectorul 3, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142077",
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142077",
+     "sha256": "5b2c9b5b8921540eef558005600c24a073377346b61b30c048e5a0c1bfd46615"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2458-2012",
+   "path": "ordin/cultura/2012/2458",
+   "short": "Ordin cultura nr. 2458/2012",
+   "title": "Ordinul nr. 2.458/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Casa Corbeanu\" din str. Decebal nr. 4, municipiul Curtea de Argeș, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142082",
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142082",
+     "sha256": "9566a1fb35a36f9fddb6d1f9816e85bc3d484cf68f0df413d354e70849195c08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2462-2012",
+   "path": "ordin/cultura/2012/2462",
+   "short": "Ordin cultura nr. 2462/2012",
+   "title": "Ordinul nr. 2.462/2012 privind declasarea din Lista monumentelor istorice a imobilului \"Casă\" din bd. Regina Maria nr. 12, sectorul 4, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142083",
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142083",
+     "sha256": "54c250b0c9a3d78c12b6eec92d904cb4e695faed00ee1edb9213e49b6098d0c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2478-2012",
+   "path": "ordin/cultura/2012/2478",
+   "short": "Ordin cultura nr. 2478/2012",
+   "title": "Ordinul nr. 2.478/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Edificiul cu contraforturi\", situat în situl arheologic medieval \"Orașul de Floci\", din satul Giurgeni, comuna Giurgeni, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142356",
+   "versions": [
+    {
+     "from": "2012-10-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142356",
+     "sha256": "7eb4e5da3c94ea37dee57c34bcf8ae82aaed7fb47ae32dc3f882c421bbdfa1df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2479-2012",
+   "path": "ordin/cultura/2012/2479",
+   "short": "Ordin cultura nr. 2479/2012",
+   "title": "Ordinul nr. 2.479/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Biserica nr. 2\", situat în situl arheologic medieval \"Orașul de Floci\" din satul Giurgeni, comuna Giurgeni, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142357",
+   "versions": [
+    {
+     "from": "2012-10-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142357",
+     "sha256": "4fb7541d4ec65c8f02b307241ee11ed4641116226b352c44c32255f1ce0048cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2480-2012",
+   "path": "ordin/cultura/2012/2480",
+   "short": "Ordin cultura nr. 2480/2012",
+   "title": "Ordinul nr. 2.480/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Ruine zona hala centrală\", situat la intersecția str. Anastasie Panu cu str. Sf. Lazăr, municipiul Iași, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142295",
+   "versions": [
+    {
+     "from": "2012-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142295",
+     "sha256": "c3f1bbddbb2f4a524b16a0ed5a2565394ed78c9198e756187207e41e405d8895"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2529-2012",
+   "path": "ordin/cultura/2012/2529",
+   "short": "Ordin cultura nr. 2529/2012",
+   "title": "Ordinul nr. 2.529/2012 pentru acreditarea Muzeului Dunării de Jos din Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142505",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142505",
+     "sha256": "1a51fc4e06916b14135e8da7bcb56147830b7b6decebf461726368d4f392f130"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2537-2012",
+   "path": "ordin/cultura/2012/2537",
+   "short": "Ordin cultura nr. 2537/2012",
+   "title": "Ordinul nr. 2.537/2012 pentru acreditarea Muzeului Câmpulung Muscel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142483",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142483",
+     "sha256": "d499a8482ead2b1051fd60a7313151bbb4c0b2538de5452420d817cad68d2405"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2563-2012",
+   "path": "ordin/cultura/2012/2563",
+   "short": "Ordin cultura nr. 2563/2012",
+   "title": "Ordinul nr. 2.563/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Clădirea \"Olimpia\" din str. G. Coșbuc nr. 2, municipiul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144622",
+   "versions": [
+    {
+     "from": "2013-01-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144622",
+     "sha256": "58f41b05adf80958fab6d5b3c2a446aee7c6c1cbfe3a82b344f31ff2f342bbc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2647-2012",
+   "path": "ordin/cultura/2012/2647",
+   "short": "Ordin cultura nr. 2647/2012",
+   "title": "Ordinul nr. 2.647/2012 privind clasarea în Lista monumentelor istorice, grupa valorică B, a imobilului \"Casa Pompiliu Eliade\" din Splaiul Independenței nr. 74, sectorul 5, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145581",
+   "versions": [
+    {
+     "from": "2013-02-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145581",
+     "sha256": "fceeb9775c4d8f8d6fe06017aafa6f84c54d98788c27bd102be2eefa35c69b5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2648-2012",
+   "path": "ordin/cultura/2012/2648",
+   "short": "Ordin cultura nr. 2648/2012",
+   "title": "Ordinul nr. 2.648/2012 privind clasarea în Lista monumentelor istorice, categoria arheologie, grupa valorică A, a imobilului \"Casa monahală\" (stăreția veche), satul Măxineni, comuna Măxineni, la 9 km N-N-E de sat, pe malul drept al Siretului, județul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145637",
+   "versions": [
+    {
+     "from": "2013-02-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145637",
+     "sha256": "cba3ebf6519057eb226b77389477830e819593144526df8005b5e77d5947f94f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2654-2012",
+   "path": "ordin/cultura/2012/2654",
+   "short": "Ordin cultura nr. 2654/2012",
+   "title": "Ordinul nr. 2.654/2012 privind clasarea în Lista monumentelor istorice, grupa valorică B, a imobilului \"Fosta clopotniță\", situat în Ansamblul Bisericii \"Sf. Nicolae\" - Șuici, din satul Șuici, comuna Șuici, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145583",
+   "versions": [
+    {
+     "from": "2013-02-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145583",
+     "sha256": "7e49109ae58ae3000607ef8e3a3b5f2d0ce66daf8c22d6b9b84e9183d0f4a4e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2655-2012",
+   "path": "ordin/cultura/2012/2655",
+   "short": "Ordin cultura nr. 2655/2012",
+   "title": "Ordinul nr. 2.655/2012 privind clasarea în Lista monumentelor istorice, categoria monumente memoriale/funerare, grupa valorică B, a imobilului \"Mormântul magistratului Constantin Crupenschi\" din Cimitirul \"Eternitatea\", parcela 12/1, municipiul Iași, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145783",
+   "versions": [
+    {
+     "from": "2013-02-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145783",
+     "sha256": "e54b4e4eedf63632761355785135e6e3c171c752bfba77f8471a81787c2363e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2656-2012",
+   "path": "ordin/cultura/2012/2656",
+   "short": "Ordin cultura nr. 2656/2012",
+   "title": "Ordinul nr. 2.656/2012 privind declasarea parțială din Lista monumentelor istorice a imobilului \"Ferma agricolă Perieți\", satul Perieți, comuna Perieți, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145638",
+   "versions": [
+    {
+     "from": "2013-02-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145638",
+     "sha256": "733a89d9467648b4b741cf0782adf0c9dec57c4ebca3076119baa72ed3c73ba8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2657-2012",
+   "path": "ordin/cultura/2012/2657",
+   "short": "Ordin cultura nr. 2657/2012",
+   "title": "Ordinul nr. 2.657/2012 privind declasarea parțială din Lista monumentelor istorice a imobilului Fabrica de pâine \"Traiul\", str. Maramureș nr. 4, municipiul Craiova, județul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145639",
+   "versions": [
+    {
+     "from": "2013-02-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145639",
+     "sha256": "0ba42a3897743636b8de7f9729a9e68ea10a1d08325dea790be0214995ade649"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2684-2012",
+   "path": "ordin/cultura/2012/2684",
+   "short": "Ordin cultura nr. 2684/2012",
+   "title": "Ordinul nr. 2.684/2012 privind clasarea în Lista monumentelor istorice, grupa valorică B, a imobilului \"Fosta bolniță\", situat în ansamblul Mânăstirii Cozia din Căciulata, orașul Călimănești, județul Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145584",
+   "versions": [
+    {
+     "from": "2013-02-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145584",
+     "sha256": "95b1eadbb533d675111fda48a23f11ca271e4206a2dbedaae3ae05e50bdf10bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2685-2012",
+   "path": "ordin/cultura/2012/2685",
+   "short": "Ordin cultura nr. 2685/2012",
+   "title": "Ordinul nr. 2.685/2012 privind schimbarea grupei valorice de clasare din B în A a imobilului \"Ansamblul conacului Petre P. Carp\" din comuna Țibănești, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145699",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145699",
+     "sha256": "d7f854245f80133deb09b1908afe1d93d5f1a1083da628c64d7ff38c68a6ab26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2686-2012",
+   "path": "ordin/cultura/2012/2686",
+   "short": "Ordin cultura nr. 2686/2012",
+   "title": "Ordinul nr. 2.686/2012 privind schimbarea grupei valorice de clasare din B în A a imobilului \"Casa Avramide\", azi \"Muzeul de Științele Naturii\", Str. Progresului nr. 32, municipiul Tulcea, județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145700",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145700",
+     "sha256": "c9e804fafa4f612d8aa6ce0a503f68a51b56edf4d5470c1528f9936f05e7ec73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2687-2012",
+   "path": "ordin/cultura/2012/2687",
+   "short": "Ordin cultura nr. 2687/2012",
+   "title": "Ordinul nr. 2.687/2012 privind clasarea în Lista monumentelor istorice, grupa valorică B, a imobilului \"Palatul Arta\", actualul sediu ArCuB, Str. Batiștei nr. 14, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145586",
+   "versions": [
+    {
+     "from": "2013-02-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145586",
+     "sha256": "8fb7702b6096e0d1094df9f501e3b61fae8ccbb9f7a81504bfa5b007b99e8882"
     }
    ]
   },
@@ -6873,6 +7878,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3006-2012",
+   "path": "ordin/educatie/2012/3006",
+   "short": "Ordin educatie nr. 3006/2012",
+   "title": "Ordinul nr. 3.006/2012 privind aprobarea unor măsuri referitoare la recunoașterea autorizării, respectiv a acreditării unităților de învățământ liceal din filiera vocațională, profilul pedagogic, pentru specializările educator-puericultor, mediator școlar și instructor de educație extrașcolară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134685",
+   "versions": [
+    {
+     "from": "2012-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134685",
+     "sha256": "e7aee7cc262b1202ded18018d3bc31b8c6189d7673d4e80194ee24e0b2c957ca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3035-2012",
    "path": "ordin/educatie/2012/3035",
    "short": "Ordin educatie nr. 3035/2012",
@@ -6914,6 +7934,141 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134774",
      "sha256": "525df4e3222c10bf9394ff42dc3049c2cc61e732f8044d764c6207dc2ce7dfd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3074-2012",
+   "path": "ordin/educatie/2012/3074",
+   "short": "Ordin educatie nr. 3074/2012",
+   "title": "Ordinul nr. 3.074/2012 privind aprobarea componenței Comisiei specializate de acreditare a furnizorilor de formare continuă și a programelor de formare oferite de aceștia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135264",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135264",
+     "sha256": "83563264685c5866f6b2aab687e3bb16c8115d96f3216d250eff7366683bb18e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3124-2012",
+   "path": "ordin/educatie/2012/3124",
+   "short": "Ordin educatie nr. 3124/2012",
+   "title": "Ordinul nr. 3.124/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Primii Pași\" din municipiul Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135294",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135294",
+     "sha256": "52ceb135d897f2060fe9ca8b8adf955c8b334beff33dfd6df36a99377095e691"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3125-2012",
+   "path": "ordin/educatie/2012/3125",
+   "short": "Ordin educatie nr. 3125/2012",
+   "title": "Ordinul nr. 3.125/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Millennium\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135299",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135299",
+     "sha256": "1ea8275407e1da6c6514e5fa5afdd1c33c9c8ee9f6cac0e2bc78ad3ea3ad1fd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3126-2012",
+   "path": "ordin/educatie/2012/3126",
+   "short": "Ordin educatie nr. 3126/2012",
+   "title": "Ordinul nr. 3.126/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala \"Sfântul Iosif\" din municipiul Alba Iulia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135300",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135300",
+     "sha256": "1f2eaca708d9b7a6311870adc8a12e48c5b1ff2dcc231449fcb425cc59571ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3127-2012",
+   "path": "ordin/educatie/2012/3127",
+   "short": "Ordin educatie nr. 3127/2012",
+   "title": "Ordinul nr. 3.127/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Surâsul Copiilor\" din municipiul Blaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135301",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135301",
+     "sha256": "b36058e552434fd820ebf3fa998110e679cdfb590a67677447f61d86c8d0fcf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3132-2012",
+   "path": "ordin/educatie/2012/3132",
+   "short": "Ordin educatie nr. 3132/2012",
+   "title": "Ordinul nr. 3.132/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician construcții navale\", domeniul \"electronică automatizări\", calificarea profesională \"tehnician electronist\", din cadrul unității de învățământ preuniversitar de stat Colegiul \"Anghel Saligny\" din municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135295",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135295",
+     "sha256": "c008bddf05deeb6ab775ab478da15d4777a2c7f7aaf0c00a01cc015a805cfb0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3137-2012",
+   "path": "ordin/educatie/2012/3137",
+   "short": "Ordin educatie nr. 3137/2012",
+   "title": "Ordinul nr. 3.137/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"silvicultură\", calificarea profesională \"tehnician silvic\", din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic din municipiul Piatra-Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135296",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135296",
+     "sha256": "2c39f5b357da2b191565cfb01904c11ffdb8ecb9e08342625ef8c271eb8156b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3138-2012",
+   "path": "ordin/educatie/2012/3138",
+   "short": "Ordin educatie nr. 3138/2012",
+   "title": "Ordinul nr. 3.138/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"comerț\", calificarea profesională \"tehnician activități comerciale\", domeniul \"turism și alimentație\", calificarea profesională \"organizator de conferințe, congrese, târguri și expoziții\", din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Grigore Moisil\" din municipiul Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135297",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135297",
+     "sha256": "4924f7ea6e70da0ae208ede39025058de6e8b14503a9c63be45469b1100cb8aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3140-2012",
+   "path": "ordin/educatie/2012/3140",
+   "short": "Ordin educatie nr. 3140/2012",
+   "title": "Ordinul nr. 3.140/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"mecanică\", calificarea profesională \"tehnician tehnolog mecanic\", nivelul de învățământ \"liceal\", profilul \"resurse naturale și protecția mediului\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician în industria alimentară\", nivelul de învățământ \"liceal (ciclul inferior)\", domeniul \"estetica și igiena corpului omenesc\", calificarea profesională \"frizer - coafor - manichiurist - pedichiurist\", domeniul \"mecanică\", calificarea profesională \"strungar\", din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Transilvania\" din municipiul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135298",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135298",
+     "sha256": "792d018fa2b5412ae6f41e275d82fe51cf409d39f3ff3d3f0fc1b3c747e205e6"
     }
    ]
   },
@@ -7083,6 +8238,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3364-2012",
+   "path": "ordin/educatie/2012/3364",
+   "short": "Ordin educatie nr. 3364/2012",
+   "title": "Ordinul nr. 3.364/2012 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Paradis\" din municipiul Iași de către unitatea de învățământ preuniversitar particular Școala \"Paradis\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137002",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137002",
+     "sha256": "14030191f35c5d55265042e345df1567ebf1e6572fc6905dc55a43355b845ae3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3365-2012",
    "path": "ordin/educatie/2012/3365",
    "short": "Ordin educatie nr. 3365/2012",
@@ -7124,6 +8294,261 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136470",
      "sha256": "c8799b35096a0a5c493e41de7f84116f685f8566d49daeb57ddb066524592ff5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3381-2012",
+   "path": "ordin/educatie/2012/3381",
+   "short": "Ordin educatie nr. 3381/2012",
+   "title": "Ordinul nr. 3.381/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"SOS Satul Copiilor\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136249",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136249",
+     "sha256": "ebe01c3e7777d00b9046673030c70468533f830bb78b29943ddbc056d9831b6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3382-2012",
+   "path": "ordin/educatie/2012/3382",
+   "short": "Ordin educatie nr. 3382/2012",
+   "title": "Ordinul nr. 3.382/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița Creștină Creativă \"Pinochio\" cu program prelungit din municipiul Târgu Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136247",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136247",
+     "sha256": "321ef20f279fd1c40c2c541d81a435da851ab1a7d9b4e606054d8c1b3b3c32f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3383-2012",
+   "path": "ordin/educatie/2012/3383",
+   "short": "Ordin educatie nr. 3383/2012",
+   "title": "Ordinul nr. 3.383/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program normal \"Sfântul Nicolae\" din satul Iugani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136259",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136259",
+     "sha256": "391e16dd287a0ad40614201b44d66167248f21ac6641823ccfaab3ae86936c01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3384-2012",
+   "path": "ordin/educatie/2012/3384",
+   "short": "Ordin educatie nr. 3384/2012",
+   "title": "Ordinul nr. 3.384/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program prelungit \"Sfântul Ioan cel Nou de la Suceava\" din municipiul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136261",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136261",
+     "sha256": "d927b27a8d6fd3cd3f5648486379fd00bb5fc925b1b1baff6b5265d76e3ab613"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3387-2012",
+   "path": "ordin/educatie/2012/3387",
+   "short": "Ordin educatie nr. 3387/2012",
+   "title": "Ordinul nr. 3.387/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"comerț\", calificarea profesională \"tehnician în activități de comerț\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Constantin Brâncuși\" din municipiul Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136251",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136251",
+     "sha256": "df0df6d24cbffa6a9118e3514228cd87c4a6ca4b995991bea3ed470671529b06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3391-2012",
+   "path": "ordin/educatie/2012/3391",
+   "short": "Ordin educatie nr. 3391/2012",
+   "title": "Ordinul nr. 3.391/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical generalist\", \"asistent medical de farmacie\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Carol Davila\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136298",
+   "versions": [
+    {
+     "from": "2012-03-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136298",
+     "sha256": "738f2cb2e3ec9496b7c41ca990556d6cfed04cb641dab58d14be1c553b5919dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3392-2012",
+   "path": "ordin/educatie/2012/3392",
+   "short": "Ordin educatie nr. 3392/2012",
+   "title": "Ordinul nr. 3.392/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"protecția mediului\", calificarea profesională \"tehnician laborant pentru protecția calității mediului\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Ștefan Bănulescu\" din municipiul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136406",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136406",
+     "sha256": "64da85c32cec3e718aa74cab0ebff0eca6ecafb6483ef30caf3ef783e710ef64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3395-2012",
+   "path": "ordin/educatie/2012/3395",
+   "short": "Ordin educatie nr. 3395/2012",
+   "title": "Ordinul nr. 3.395/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\" (școală de maiștri), domeniul \"minier, petrol și gaze\", calificările profesionale \"maistru miner\" și \"maistru electromecanic minier\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Dimitrie Leonida\" din municipiul Petroșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136409",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136409",
+     "sha256": "d6ea744e8ce50256308d83c0d4371dd80f36f2dca912c728e91d9ead6f83939c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3397-2012",
+   "path": "ordin/educatie/2012/3397",
+   "short": "Ordin educatie nr. 3397/2012",
+   "title": "Ordinul nr. 3.397/2012 privind acordarea acreditării pentru nivelul de învățământ \"preșcolar\" din cadrul unității de învățământ preuniversitar de stat Școala cu clasele I-VIII \"Sfântul Vasile\" - structura Școala cu clasele I-VIII \"Ion Creangă\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136410",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136410",
+     "sha256": "a0369fdae06bb239ddd665207ff2b84e2fa77b2750ece95cd71423ac311a7bf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3398-2012",
+   "path": "ordin/educatie/2012/3398",
+   "short": "Ordin educatie nr. 3398/2012",
+   "title": "Ordinul nr. 3.398/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul UCECOM \"Spiru Haret\" din municipiul Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136411",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136411",
+     "sha256": "c3a3cd020ef12552f0b7d3fb2c263dd2c46b49fd2f25fc73323d74ab79597e50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3399-2012",
+   "path": "ordin/educatie/2012/3399",
+   "short": "Ordin educatie nr. 3399/2012",
+   "title": "Ordinul nr. 3.399/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Paintbrush\" din localitatea Corbeanca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136412",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136412",
+     "sha256": "702380255adb4197d78c65cf260058f7137344de6c6463a5b4bea27e10fea66e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3400-2012",
+   "path": "ordin/educatie/2012/3400",
+   "short": "Ordin educatie nr. 3400/2012",
+   "title": "Ordinul nr. 3.400/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program prelungit \"Aricel\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136413",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136413",
+     "sha256": "d70e278199086a9f094ba5f35360a859d5d5e8c3b64ddd637b59dd9d10142af0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3409-2012",
+   "path": "ordin/educatie/2012/3409",
+   "short": "Ordin educatie nr. 3409/2012",
+   "title": "Ordinul nr. 3.409/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Particulară \"Ethos\" din municipiul Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136364",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136364",
+     "sha256": "0a913e312e022691b00f3d0a6125caf1bf6ab46eb2c3389e3255d396882e8a2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3410-2012",
+   "path": "ordin/educatie/2012/3410",
+   "short": "Ordin educatie nr. 3410/2012",
+   "title": "Ordinul nr. 3.410/2012 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Mea din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136571",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136571",
+     "sha256": "f5056067872d9a2d8dd5ca962fd95ab15a5f6c496285e801306b089cd334422d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3413-2012",
+   "path": "ordin/educatie/2012/3413",
+   "short": "Ordin educatie nr. 3413/2012",
+   "title": "Ordinul nr. 3.413/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Disney\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136422",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136422",
+     "sha256": "008880d978caae82eb31f89ce9d66164c550572c94e2046d14948a55dfd278d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3414-2012",
+   "path": "ordin/educatie/2012/3414",
+   "short": "Ordin educatie nr. 3414/2012",
+   "title": "Ordinul nr. 3.414/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Sfânta Inimă a lui Isus\" din municipiul Zalău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136425",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136425",
+     "sha256": "8bdd3b5f2e9d591b21d390a89772ae65e81912ae8c9a92dd3578c450dcbf13ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3416-2012",
+   "path": "ordin/educatie/2012/3416",
+   "short": "Ordin educatie nr. 3416/2012",
+   "title": "Ordinul nr. 3.416/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"agricultură\", calificarea profesională \"tehnician cadastru funciar - topograf\", domeniul \"producție media\", calificarea profesională \"designer pentru publicitate\" din cadrul unității de învățământ preuniversitar de stat Grup Școlar \"Gabor Aron\" din municipiul Târgu Secuiesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136427",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136427",
+     "sha256": "692aa796b18fb02084a61ee3001bed2c5ce6f33fc35891b0ee4cbfedacde45e8"
     }
    ]
   },
@@ -7263,6 +8688,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3606-2012",
+   "path": "ordin/educatie/2012/3606",
+   "short": "Ordin educatie nr. 3606/2012",
+   "title": "Ordinul nr. 3.606/2012 privind aprobarea componenței Comitetului de coordonare pentru implementarea proiectului major ELI - Nuclear Physics (ELI-NP) finanțat în cadrul axei prioritare 2 - Competitivitate prin cercetare-dezvoltare și inovare a Programului operațional sectorial \"Creșterea competitivității economice\" (POS CCE)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138162",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138162",
+     "sha256": "6ab32bd302a0d1da23acd215aa1b6fee4cc53d23d0343451e82ca38cc677e88e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3656-2012",
    "path": "ordin/educatie/2012/3656",
    "short": "Ordin educatie nr. 3656/2012",
@@ -7289,6 +8729,36 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136843",
      "sha256": "5f799411edda98475c23cafdc275ce9762b30ec17e04edef600e2966475e939e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3670-2012",
+   "path": "ordin/educatie/2012/3670",
+   "short": "Ordin educatie nr. 3670/2012",
+   "title": "Ordinul nr. 3.670/2012 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Buna Vestire\" din municipiul Iași de către unitatea de învățământ preuniversitar particular Școala \"Varlaam Mitropolitul\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137567",
+   "versions": [
+    {
+     "from": "2012-05-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137567",
+     "sha256": "db06298159b9139528a5c1daa6637abbe4b3ca672baaab1533fd1f5431cb0873"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3672-2012",
+   "path": "ordin/educatie/2012/3672",
+   "short": "Ordin educatie nr. 3672/2012",
+   "title": "Ordinul nr. 3.672/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician mecanic pentru întreținere și reparații\", domeniul \"industria textilă și pielărie\", calificarea profesională \"tehnician în industria textilă\" din cadrul unității de învățământ preuniversitar particular Liceul UCECOM \"Spiru Haret\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137566",
+   "versions": [
+    {
+     "from": "2012-05-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137566",
+     "sha256": "74c7c3be6d947340f3f737d180b04cb6261f8bc90a03e03bc7dc8e26ae00d162"
     }
    ]
   },
@@ -7338,6 +8808,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3697-2012",
+   "path": "ordin/educatie/2012/3697",
+   "short": "Ordin educatie nr. 3697/2012",
+   "title": "Ordinul nr. 3.697/2012 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.691/2011 privind aprobarea standardelor minimale necesare și obligatorii pentru conferirea titlurilor didactice din învățământul superior, a gradelor profesionale de cercetare-dezvoltare și a atestatului de abilitare, pentru domeniile științifice aferente panelului pe domenii fundamentale P4 - Științe sociale din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare, a Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.759/2011 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare și a structurii acestuia și a Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.089/2011 privind aprobarea componenței nominale a comisiilor de specialitate ale Panelului 4 - Științe sociale din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137626",
+   "versions": [
+    {
+     "from": "2012-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137626",
+     "sha256": "a80754725f7d3c2924e344bef4955bb69e0a8f78880b3b8ccff3c1d70dc94bca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3720-2012",
    "path": "ordin/educatie/2012/3720",
    "short": "Ordin educatie nr. 3720/2012",
@@ -7383,6 +8868,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3779-2012",
+   "path": "ordin/educatie/2012/3779",
+   "short": "Ordin educatie nr. 3779/2012",
+   "title": "Ordinul nr. 3.779/2012 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 5.925/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic \"Muntele de Foc\" din localitatea Câmpenița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137777",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137777",
+     "sha256": "4527dfe1f3b500876b6b28d716e61a62e3a87628fe4d869ad4ac68d35a6470d4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3794-2012",
    "path": "ordin/educatie/2012/3794",
    "short": "Ordin educatie nr. 3794/2012",
@@ -7394,6 +8894,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137590",
      "sha256": "15b128dcee31a9e1f1938ae69e82bd7b04f71292b6893cbe5232d089804a558f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3825-2012",
+   "path": "ordin/educatie/2012/3825",
+   "short": "Ordin educatie nr. 3825/2012",
+   "title": "Ordinul nr. 3.825/2012 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2012 ale institutelor naționale de cercetare-dezvoltare din coordonarea Autorității Naționale pentru Cercetare Științifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137953",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137953",
+     "sha256": "cf97ec2e40fc1fe842c4923f2362e213477c5a7f1ac1eae702cc7743ec97efb6"
     }
    ]
   },
@@ -7518,6 +9033,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3912-2012",
+   "path": "ordin/educatie/2012/3912",
+   "short": "Ordin educatie nr. 3912/2012",
+   "title": "Ordinul nr. 3.912/2012 privind acordarea acreditării pentru nivelul de învățământ \"primar\" din cadrul unității de învățământ preuniversitar particular Școala cu clasele I-IV \"Petre Ispirescu\" din municipiul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137702",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137702",
+     "sha256": "d30959dc2aa70f6cd990b759fe36be03e60e18f7a7d7fb0f0facbd55884ff96f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3925-2012",
+   "path": "ordin/educatie/2012/3925",
+   "short": "Ordin educatie nr. 3925/2012",
+   "title": "Ordinul nr. 3.925/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"turism și alimentație\", calificarea profesională \"tehnician în gastronomie\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician mecanic pentru întreținere și reparații\", profilul \"resurse naturale și protecția mediului\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician în industria alimentară\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Ioan Bojor\" din municipiul Reghin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137920",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137920",
+     "sha256": "77b81834c934f1449f673ed7a643f5d5d29781f90826d9f95a211e6b5dc0fcf3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3952-2012",
    "path": "ordin/educatie/2012/3952",
    "short": "Ordin educatie nr. 3952/2012",
@@ -7529,6 +9074,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137784",
      "sha256": "1033de680bdb9a7b95f647c78f7b6e36e99a3fcddf6e06ed09546a5e3491fce0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3955-2012",
+   "path": "ordin/educatie/2012/3955",
+   "short": "Ordin educatie nr. 3955/2012",
+   "title": "Ordinul nr. 3.955/2012 pentru modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.760/2011 privind aprobarea componenței nominale a Consiliului general al Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137952",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137952",
+     "sha256": "34f8062e3390429f472b03f7d45b86bc18c1ef58d3b1ed34751609a4151d2694"
     }
    ]
   },
@@ -7574,6 +9134,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138380",
      "sha256": "f51d4c56cb5ff2f3c4a42a51387604199552d0a924049ca5141708ef4abd00a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3994-2012",
+   "path": "ordin/educatie/2012/3994",
+   "short": "Ordin educatie nr. 3994/2012",
+   "title": "Ordinul nr. 3.994/2012 pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 4.692/2011 privind aprobarea standardelor minimale necesare și obligatorii pentru conferirea titlurilor didactice din învățământul superior, a gradelor profesionale de cercetare-dezvoltare și a atestatului de abilitare, pentru domeniile științifice aferente panelului pe domenii-fundamentale P5 - Arte și științe umaniste din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138039",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138039",
+     "sha256": "8e160a0db2429b2b756ab95f7e47a9bb2735a06bd00d9c71fb0656caa3169337"
     }
    ]
   },
@@ -7683,6 +9258,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4301-2012",
+   "path": "ordin/educatie/2012/4301",
+   "short": "Ordin educatie nr. 4301/2012",
+   "title": "Ordinul nr. 4.301/2012 pentru aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139110",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139110",
+     "sha256": "37e21d63df37d9aec3bb0c43a66d8d08a8baf7c607d0f74cc3029cb75e3f5e09"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4334-2012",
    "path": "ordin/educatie/2012/4334",
    "short": "Ordin educatie nr. 4334/2012",
@@ -7709,6 +9299,111 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138711",
      "sha256": "44c2e9713d3780b604ad7a0ff450ae540e7e806384bffc4d24c022cef51b245e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4364-2012",
+   "path": "ordin/educatie/2012/4364",
+   "short": "Ordin educatie nr. 4364/2012",
+   "title": "Ordinul nr. 4.364/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"electromecanic\", calificarea profesională \"tehnician electromecanic\", nivelul \"postliceal\" (școală de maiștri), domeniul \"mecanic\", calificarea profesională \"maistru mecanic\", domeniul \"textile-pielărie\", calificarea profesională \"maistru confecții îmbrăcăminte (maistru croitor)\" din cadrul unității de învățământ preuniversitar de stat Grup Școlar Industrial din municipiul Râmnicu Sărat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139000",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139000",
+     "sha256": "f5d3df260c860bbae921c6552f158996b74bb373291faeed549f48ed909e6de1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4365-2012",
+   "path": "ordin/educatie/2012/4365",
+   "short": "Ordin educatie nr. 4365/2012",
+   "title": "Ordinul nr. 4.365/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"turism și alimentație\", calificarea profesională \"asistent de gestiune în unități de cazare și alimentație\", domeniul \"construcții, instalații și lucrări publice\", calificările profesionale \"tehnician drumuri și poduri\", \"maistru construcții civile, industriale și agricole\" din cadrul unității de învățământ preuniversitar de stat Grup Școlar \"Dan Mateescu\" din municipiul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139001",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139001",
+     "sha256": "8fdeed1438a65f91e84333a39f7604956ce3ff68eb4e06b1b28339d1a7c408f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4366-2012",
+   "path": "ordin/educatie/2012/4366",
+   "short": "Ordin educatie nr. 4366/2012",
+   "title": "Ordinul nr. 4.366/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\" (școală de maiștri), domeniul \"energetic\", calificarea profesională \"maistru electrician centrale, stații și rețele electrice\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic Energetic din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139008",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139008",
+     "sha256": "1bcb2ab6abbfa9fe297c33a90cebd36bee7bb0dfeccce825e022c727025f70ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4367-2012",
+   "path": "ordin/educatie/2012/4367",
+   "short": "Ordin educatie nr. 4367/2012",
+   "title": "Ordinul nr. 4.367/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician transporturi\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Emil Racoviță\" din municipiul Roșiori de Vede",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139009",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139009",
+     "sha256": "43bc3953c14e4f8f9036da13a1453210e53e70fb8acd2469dade98ddfa0147ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4368-2012",
+   "path": "ordin/educatie/2012/4368",
+   "short": "Ordin educatie nr. 4368/2012",
+   "title": "Ordinul nr. 4.368/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"estetica și igiena corpului omenesc\", calificarea profesională \"coafor stilist\", domeniul \"turism și alimentație\", calificarea profesională \"tehnician în gastronomie\" din cadrul unității de învățământ preuniversitar particular Liceul UCECOM \"Spiru Haret\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139010",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139010",
+     "sha256": "2370f89dcf2d9d63b1793b81490b08cbc145babb3a2391f354939de4184fee79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4369-2012",
+   "path": "ordin/educatie/2012/4369",
+   "short": "Ordin educatie nr. 4369/2012",
+   "title": "Ordinul nr. 4.369/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Tom și Jerry\" din municipiul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139005",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139005",
+     "sha256": "6fb62e1c59a3f855f642ada55797d6b0fcc2509088f83bf09fd137ead04a4261"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4393-2012",
+   "path": "ordin/educatie/2012/4393",
+   "short": "Ordin educatie nr. 4393/2012",
+   "title": "Ordinul nr. 4.393/2012 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Etică a Cercetării Științifice, Dezvoltării Tehnologice și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138689",
+   "versions": [
+    {
+     "from": "2012-06-08",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138689",
+     "sha256": "ab2ac0cb8a753913958ef301e74504ae567719447d49f58f05c193a1509846e3"
     }
    ]
   },
@@ -7754,6 +9449,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139190",
      "sha256": "2e2988761b4ec8f1bb779289b4ded9894f9ec50d36376fbd18ed212b3d34a031"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4600-2012",
+   "path": "ordin/educatie/2012/4600",
+   "short": "Ordin educatie nr. 4600/2012",
+   "title": "Ordinul nr. 4.600/2012 pentru modificarea art. 1 din Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5336/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"real\", specializarea \"matematică-informatică\", profilul \"umanist\", specializarea \"științe sociale\", limba de predare \"română\", forma de învățământ \"zi\" din cadrul unității de învățământ preuniversitar particular Complexul Educațional \"Lauder Reut\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139512",
+   "versions": [
+    {
+     "from": "2012-07-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20220812053420id_/https://legislatie.just.ro/Public/DetaliiDocument/139512",
+     "sha256": "c7dc40234b64d896dd665171086b13079de7d2fbb6af90b973cbc63ac8bc9a48"
     }
    ]
   },
@@ -7833,6 +9543,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4737-2012",
+   "path": "ordin/educatie/2012/4737",
+   "short": "Ordin educatie nr. 4737/2012",
+   "title": "Ordinul nr. 4.737/2012 privind modificarea și completarea Ordinului ministrului educației, cercetării, tineretului și sportului, interimar, nr. 4.301/2012 pentru aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140052",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140052",
+     "sha256": "f57b9c464d5599d5452ce56dd53460772fd3569854f83b0350245683cde354c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4797-2012",
+   "path": "ordin/educatie/2012/4797",
+   "short": "Ordin educatie nr. 4797/2012",
+   "title": "Ordinul nr. 4.797/2012 ORDIN nr. C2-2/3.432 din 4 iulie 2012 privind acordarea burselor \"Eugen Ionescu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140811",
+   "versions": [
+    {
+     "from": "2012-08-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140811",
+     "sha256": "3d50a9b27514b1fea83363324da6019864e087c13e0dc4f4fb62d86b64280996"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4805-2012",
    "path": "ordin/educatie/2012/4805",
    "short": "Ordin educatie nr. 4805/2012",
@@ -7844,6 +9584,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140098",
      "sha256": "b65174636ec6829c427356de97c2adeec33c63d3202c7567a5ff26f515e37048"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4835-2012",
+   "path": "ordin/educatie/2012/4835",
+   "short": "Ordin educatie nr. 4835/2012",
+   "title": "Ordinul nr. 4.835/2012 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.393/2012 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Etică a Cercetării Științifice, Dezvoltării Tehnologice și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140012",
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140012",
+     "sha256": "75a7729f243aea5a03f7924bcc76aba7e95dc3773cfd72ca3461c66900986a5b"
     }
    ]
   },
@@ -7889,6 +9644,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140360",
      "sha256": "e14e884c5f8203c06974fbdd160b1dc3dd6ac7643d786ef0a5b15cc32fbd6c3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4933-2012",
+   "path": "ordin/educatie/2012/4933",
+   "short": "Ordin educatie nr. 4933/2012",
+   "title": "Ordinul nr. 4.933/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Heidi\" din municipiul Sebeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140676",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140676",
+     "sha256": "16a31b2585096daf3e74106690376c2dfe10ce4450eed9564ce08daca3535eaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4936-2012",
+   "path": "ordin/educatie/2012/4936",
+   "short": "Ordin educatie nr. 4936/2012",
+   "title": "Ordinul nr. 4.936/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Smart Kids\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140673",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140673",
+     "sha256": "200bb78b5d301bd60457721dc42a5e96a29d5d7b1ce2624c3a69bb36bf6e3979"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4937-2012",
+   "path": "ordin/educatie/2012/4937",
+   "short": "Ordin educatie nr. 4937/2012",
+   "title": "Ordinul nr. 4.937/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Christiana\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140707",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140707",
+     "sha256": "c70df2c5e817dafa661c8ea4a2f003fee88aaf1310f7e80c9ab013b2d7d9e8c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4938-2012",
+   "path": "ordin/educatie/2012/4938",
+   "short": "Ordin educatie nr. 4938/2012",
+   "title": "Ordinul nr. 4.938/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială Reformată \"Talentum\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140708",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140708",
+     "sha256": "dd00f3c98e3b5e58f0997be2724dc2835311d69eeee46db7ab6247ca2799b12b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4939-2012",
+   "path": "ordin/educatie/2012/4939",
+   "short": "Ordin educatie nr. 4939/2012",
+   "title": "Ordinul nr. 4.939/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Christiana\" din municipiul Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140709",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140709",
+     "sha256": "b45fb14ff0305c21eab6b1fe711b54845396af8f67de0fd095d9b7bdbc43ad8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4940-2012",
+   "path": "ordin/educatie/2012/4940",
+   "short": "Ordin educatie nr. 4940/2012",
+   "title": "Ordinul nr. 4.940/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Varlaam Mitropolitul\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140701",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140701",
+     "sha256": "3a5467a1733722845304fc09abac55ddee011a21b61c3b6eb0c8fd6517d5716d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4941-2012",
+   "path": "ordin/educatie/2012/4941",
+   "short": "Ordin educatie nr. 4941/2012",
+   "title": "Ordinul nr. 4.941/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Happy Kids\" din municipiul Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140702",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140702",
+     "sha256": "f6b6c597350905c80c6c98f4cb57989e71d5fa0925da57dfad1fc9a1107da6f4"
     }
    ]
   },
@@ -7953,6 +9813,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5103-2012",
+   "path": "ordin/educatie/2012/5103",
+   "short": "Ordin educatie nr. 5103/2012",
+   "title": "Ordinul nr. 5.103/2012 privind modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului, interimar, nr. 4.301/2012 pentru aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140809",
+   "versions": [
+    {
+     "from": "2012-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140809",
+     "sha256": "b86cf2d08ad23fed64bc3b835d9be4b4fce770a0db2152486c40787298fb142f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5223-2012",
    "path": "ordin/educatie/2012/5223",
    "short": "Ordin educatie nr. 5223/2012",
@@ -7994,6 +9869,96 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140889",
      "sha256": "b32abad322db16c1852b1f59f8fb17caa4b7c79fc0b929298c4ae65508c2e772"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5384-2012",
+   "path": "ordin/educatie/2012/5384",
+   "short": "Ordin educatie nr. 5384/2012",
+   "title": "Ordinul nr. 5.384/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical generalist\", \"asistent medical de farmacie\", din cadrul unității de învățământ preuniversitar particular Centrul de Studii \"Ștefan cel Mare și Sfânt\" Botoșani din municipiul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140920",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140920",
+     "sha256": "c532a36b2f58fcaab8553a109bbed94c0ef1d21881b4521ee0c331f19076189f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5385-2012",
+   "path": "ordin/educatie/2012/5385",
+   "short": "Ordin educatie nr. 5385/2012",
+   "title": "Ordinul nr. 5.385/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Smiley Kindergarten\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140923",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140923",
+     "sha256": "371268c09065863ffe2164b8c7009a5047d27be0c5817ea4280761bfaae1a87e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5386-2012",
+   "path": "ordin/educatie/2012/5386",
+   "short": "Ordin educatie nr. 5386/2012",
+   "title": "Ordinul nr. 5.386/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Sfântul Andrei\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140924",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140924",
+     "sha256": "d8d4d9ff288946e19a1b18f8b71e7dd1c80337f3305730305b579e59c60ee594"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5390-2012",
+   "path": "ordin/educatie/2012/5390",
+   "short": "Ordin educatie nr. 5390/2012",
+   "title": "Ordinul nr. 5.390/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Little London\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140921",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140921",
+     "sha256": "a4f08ce45b54ae6ad7ce765ba615b0f27514ad8b3711e8175399ca03497ab623"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5394-2012",
+   "path": "ordin/educatie/2012/5394",
+   "short": "Ordin educatie nr. 5394/2012",
+   "title": "Ordinul nr. 5.394/2012 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada aprilie-iunie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140963",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140963",
+     "sha256": "3a6e3b0748100a527911cd26661574f673bda52438ff96a6c0b1eeee0dbb0b24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5396-2012",
+   "path": "ordin/educatie/2012/5396",
+   "short": "Ordin educatie nr. 5396/2012",
+   "title": "Ordinul nr. 5.396/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Degețica\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140925",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140925",
+     "sha256": "0d960354543e687239934fa14e6a79f3456a2827a87d29d17e9ad58c5c1cd279"
     }
    ]
   },
@@ -8133,6 +10098,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5703-2012",
+   "path": "ordin/educatie/2012/5703",
+   "short": "Ordin educatie nr. 5703/2012",
+   "title": "Ordinul nr. 5.703/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Albă ca Zăpada\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141326",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141326",
+     "sha256": "3ce250f35757fa262ef2dbd0dd4ee48c3dea8cd73e048bda695ad16782411a77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5704-2012",
+   "path": "ordin/educatie/2012/5704",
+   "short": "Ordin educatie nr. 5704/2012",
+   "title": "Ordinul nr. 5.704/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"economic\", calificarea profesională \"tehnician în activități economice\", din cadrul unității de învățământ preuniversitar particular Liceul Particular \"Henri Coandă\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141327",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141327",
+     "sha256": "c66b82bcc0502a9b3ae4a9148420c189f50601b0d52f22f60d804608a9d9808d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5705-2012",
+   "path": "ordin/educatie/2012/5705",
+   "short": "Ordin educatie nr. 5705/2012",
+   "title": "Ordinul nr. 5.705/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical de farmacie\" \"asistent medical de radiologie\", \"ergoterapeut\", domeniul \"estetica și igiena corpului omenesc\", calificările profesionale \"cosmetician\", \"stilist\", din cadrul unității de învățământ preuniversitar particular Școala Tehnică Postliceală \"Henri Coandă\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141328",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141328",
+     "sha256": "b991606af6ae90bb75b24e9fb1123e0b3f05444f2f3d33f01faccef6f71a09d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5706-2012",
+   "path": "ordin/educatie/2012/5706",
+   "short": "Ordin educatie nr. 5706/2012",
+   "title": "Ordinul nr. 5.706/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"construcții, instalații și lucrări\", calificarea profesională \"tehnician în construcții și lucrări publice\", din cadrul unității de învățământ preuniversitar de stat Grup Școlar \"Constantin Brâncoveanu\" din localitatea Horezu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141329",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141329",
+     "sha256": "9645259cc6ddca598ae214506e55da62724cd08516aa3608787ff6bdaf441e93"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5720-2012",
    "path": "ordin/educatie/2012/5720",
    "short": "Ordin educatie nr. 5720/2012",
@@ -8238,6 +10263,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5826-2012",
+   "path": "ordin/educatie/2012/5826",
+   "short": "Ordin educatie nr. 5826/2012",
+   "title": "Ordinul nr. 5.826/2012 pentru modificarea art. 6 din Ordinul ministrului educației, cercetării, tineretului și sportului nr. 4.934/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Prelungit \"Trei Ursuleți\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141738",
+   "versions": [
+    {
+     "from": "2012-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141738",
+     "sha256": "c95cf6b81c78ff400eb1b0282f6a92f72275fc3c6dd3377cb155f3a2345b10e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5827-2012",
+   "path": "ordin/educatie/2012/5827",
+   "short": "Ordin educatie nr. 5827/2012",
+   "title": "Ordinul nr. 5.827/2012 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Lorelay\" din municipiul Iași de către unitatea de învățământ preuniversitar particular Școala Primară \"Lorelay\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141739",
+   "versions": [
+    {
+     "from": "2012-10-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141739",
+     "sha256": "35b37fa1f75706b9eb7c0cbe4533adb60c63a8d23a1edb3495564819699d43c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5859-2012",
+   "path": "ordin/educatie/2012/5859",
+   "short": "Ordin educatie nr. 5859/2012",
+   "title": "Ordinul nr. 5.859/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Paradisul Copiilor\" din satul Ostratu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141695",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141695",
+     "sha256": "95aa7e4fd483d1fe63024d1928ace1f465ce9b59a0ab4307c2ce8fa4548b7eec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5866-2012",
    "path": "ordin/educatie/2012/5866",
    "short": "Ordin educatie nr. 5866/2012",
@@ -8279,6 +10349,36 @@
      "units": 3,
      "source_url": "https://web.archive.org/web/20250214171815id_/https://legislatie.just.ro/Public/DetaliiDocument/141806",
      "sha256": "f4d653df692bf97805517f71126ad204ab4574b0de6fefacfa7ae6446cc52f80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5898-2012",
+   "path": "ordin/educatie/2012/5898",
+   "short": "Ordin educatie nr. 5898/2012",
+   "title": "Ordinul nr. 5.898/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Centrul Educativ de Zi \"Maria Ajutorul Copiilor\" din municipiul Focșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141696",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141696",
+     "sha256": "9dc9af90035c651ec3ad0282a8da82333381ca8211250259ad6111ecde08b7e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5899-2012",
+   "path": "ordin/educatie/2012/5899",
+   "short": "Ordin educatie nr. 5899/2012",
+   "title": "Ordinul nr. 5.899/2012 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical generalist\", din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Christiana\" din municipiul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141711",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141711",
+     "sha256": "2f0cd78df9ac9d4af5965dfa04131b3889df82562f115c5ed5c5a0840c31d08f"
     }
    ]
   },
@@ -8328,6 +10428,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5973-2012",
+   "path": "ordin/educatie/2012/5973",
+   "short": "Ordin educatie nr. 5973/2012",
+   "title": "Ordinul nr. 5.973/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic \"Phoenix\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142026",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142026",
+     "sha256": "06f417307c340d1344bcb760a088ed2241e3fee0a929f649b4653d46240bd556"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6018-2012",
    "path": "ordin/educatie/2012/6018",
    "short": "Ordin educatie nr. 6018/2012",
@@ -8354,6 +10469,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142884",
      "sha256": "cc68bc8992c7f1df86ab8570a40c3fa7ce3b6a39ea1f1c245a26023f00193144"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6095-2012",
+   "path": "ordin/educatie/2012/6095",
+   "short": "Ordin educatie nr. 6095/2012",
+   "title": "Ordinul nr. 6.095/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic \"Mark Twain International School\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142536",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142536",
+     "sha256": "342e3849a9ad6b1ac010558baf80fddab16b0f46c70358da8dc3e1c9d747b2d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6096-2012",
+   "path": "ordin/educatie/2012/6096",
+   "short": "Ordin educatie nr. 6096/2012",
+   "title": "Ordinul nr. 6.096/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Creștină Privată din Cartierul Rromilor din localitatea Tinca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142545",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142545",
+     "sha256": "cd75ad9211160602bb52359f2863d86e682e9789e6e1d2cc3291e2722d8e18dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6098-2012",
+   "path": "ordin/educatie/2012/6098",
+   "short": "Ordin educatie nr. 6098/2012",
+   "title": "Ordinul nr. 6.098/2012 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"estetica și igiena corpului omenesc\", calificarea profesională \"coafor stilist\", din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Gh. K. Constantinescu\" din municipiul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142537",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142537",
+     "sha256": "64398bd4c19f430dac549d028fb72752b8bebc63fddb1819e7a202e596b65e3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6108-2012",
+   "path": "ordin/educatie/2012/6108",
+   "short": "Ordin educatie nr. 6108/2012",
+   "title": "Ordinul nr. 6.108/2012 privind modificarea Ordinului ministrului educației, cercetării, tineretului și sportului, interimar, nr. 4.301/2012 pentru aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142569",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142569",
+     "sha256": "459fc9e721d4359941db341874c5fa94528fa02f684903399e6409ef15b051d7"
     }
    ]
   },
@@ -8399,6 +10574,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144455",
      "sha256": "045bf8a7566abcd7f7a229f10e1f763bed636ad1ee63d9f0651bbe7981528191"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6223-2012",
+   "path": "ordin/educatie/2012/6223",
+   "short": "Ordin educatie nr. 6223/2012",
+   "title": "Ordinul nr. 6.223/2012 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Smart Kids\" din municipiul București de către unitatea de învățământ preuniversitar particular Școala Primară \"Smart Kids\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143462",
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143462",
+     "sha256": "dad2cb88a3adaf4abb9f4f208f3fccc9e9b84436749d68ec18030791e1ca2686"
     }
    ]
   },
@@ -8564,6 +10754,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143970",
      "sha256": "c78907bb11b4f37972260c47ae3f60411afdd02bf7430b6408ed9982ee78a084"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6537-2012",
+   "path": "ordin/educatie/2012/6537",
+   "short": "Ordin educatie nr. 6537/2012",
+   "title": "Ordinul nr. 6.537/2012 pentru aprobarea bugetelor de venituri și cheltuieli rectificate pe anul 2012 ale institutelor naționale de cercetare-dezvoltare din coordonarea Autorității Naționale pentru Cercetare Științifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144709",
+   "versions": [
+    {
+     "from": "2013-01-16",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144709",
+     "sha256": "9e0302c985e017424639b1b91ca0273e17cb3b2cd835c0e5392653aa6334d4e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6540-2012",
+   "path": "ordin/educatie/2012/6540",
+   "short": "Ordin educatie nr. 6540/2012",
+   "title": "Ordinul nr. 6.540/2012 privind numirea provizorie a membrilor Consiliului Agenției Române de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144155",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144155",
+     "sha256": "f583159fcabdfbe6f57dc121ab1d5b0402a227c5d2fc8c25520a92d54f077daa"
     }
    ]
   },
@@ -8774,6 +10994,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137073",
      "sha256": "25e92537a922968afee8e4ad2492f7ca5d78a22cd786b73acc51b3903ca948fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-41-2012",
+   "path": "ordin/externe/2012/41",
+   "short": "Ordin externe nr. 41/2012",
+   "title": "Ordinul nr. 41/2012 privind supunerea regimului de control prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului serviciilor de intermediere și tranzitului de produse cu dublă utilizare a operațiunii de export al componentelor special concepute pentru mașina de alezat și frezat BMK 130 CNC către firma Bharat Heavy Electricals Ltd., Ramachandrapuram, Hyderabad, 502032, India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134581",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134581",
+     "sha256": "b47cd5336f232d189513bfca6c19e107d4d3e9b60815bee28ccaed128ce9f487"
     }
    ]
   },
@@ -10184,6 +12419,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135026",
      "sha256": "9624c961339fd73803d64f9458e999c91c0a07bb687cec7c903fc033f72bebfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-functiepublica-1166-2012",
+   "path": "ordin/functiepublica/2012/1166",
+   "short": "Ordin functiepublica nr. 1166/2012",
+   "title": "Ordinul nr. 1.166/2012 privind contractarea de către Ministerul Finanțelor Publice a unui împrumut pe piețele externe de capital, prin redeschiderea emisiunii de obligațiuni din data de 18 iunie 2008, denominată în euro, cu maturitate în anul 2018 și cupon 6,500%, în sumă de minimum 250 milioane euro și maximum 750 milioane euro, și desemnarea intermediarilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140975",
+   "versions": [
+    {
+     "from": "2012-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140975",
+     "sha256": "8fffe54192448896b8f1ff1994f52c9e4cd505a31168a957367792c7fcde4688"
     }
    ]
   },
@@ -13124,6 +15374,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142504",
      "sha256": "d8a481badee70930914c4b9fdab63c05db9fac82fd8f4e5f0e8f2224353163bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-108-2012",
+   "path": "ordin/orniss/2012/108",
+   "short": "Ordin orniss nr. 108/2012",
+   "title": "Ordinul nr. 108/2012 pentru aprobarea Directivei privind acreditarea de securitate a sistemelor informatice și de comunicații (SIC) care stochează, procesează sau transmit informații clasificate - INFOSEC 13",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142191",
+   "versions": [
+    {
+     "from": "2012-10-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142191",
+     "sha256": "a6634d80d1d861828a532bda05dad00dbb11baf8da7de752e41b17c8d6cd63e6"
     }
    ]
   },

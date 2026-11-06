@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "ghid/2024",
+"acts": [
+{
+"slug": "ghid-dizabilitati-zi0402-2024",
+"path": "ghid/dizabilitati/2024/04-02",
+"kind": "ghid",
+"year": "2024",
+"number": "04-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid din 2 aprilie 2024 conținând instrumentele de lucru privind accelerarea procesului de dezinstituționalizare",
+"short": "Ghid dizabilitati din 2 aprilie 2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281776",
+"issuer": "dizabilitati",
+"joint": []
+},
+{
+"slug": "ghid-finante-zi0423-2024",
+"path": "ghid/finante/2024/04-23",
+"kind": "ghid",
+"year": "2024",
+"number": "04-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghidul solicitantului din 23 aprilie 2024 pentru instituirea unei scheme de ajutor de stat având ca obiectiv dezvoltarea regională prin stimularea realizării de investiții - Revizia 0",
+"short": "Ghid finante din 23 aprilie 2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282535",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ghid-finante-zi1203-2024",
+"path": "ghid/finante/2024/12-03",
+"kind": "ghid",
+"year": "2024",
+"number": "12-03",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid de plată din 3 decembrie 2024 a ajutorului de stat acordat în baza Hotărârii Guvernului nr. 1.385/2024 privind aprobarea acordării unui ajutor de stat regional ad-hoc Societății NOKIAN TYRES EUROPE OPERATIONS - S.R.L",
+"short": "Ghid finante din 3 decembrie 2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292287",
+"issuer": "finante",
+"joint": []
+}
+]
+}

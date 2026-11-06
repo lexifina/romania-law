@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2009",
+ "acts": [
+  {
+   "slug": "criterii-guvern-zi0617-2009",
+   "path": "criterii/guvern/2009/06-17",
+   "short": "Criterii guvern din 17 iunie 2009",
+   "title": "Criterii din 17 iunie 2009 de eligibilitate pentru beneficiarii care achiziționează locuințe finalizate, care urmează să se construiască sau aflate în faza de construcție la roșu și pentru finanțatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107179",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107179",
+     "sha256": "5eb9efef32cda9faeaa2f5e38b21218c5427f3eee2551f8a4554e57de2050087"
+    }
+   ]
+  }
+ ]
+}

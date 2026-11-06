@@ -3,6 +3,21 @@
  "shard": "metodologie/1997",
  "acts": [
   {
+   "slug": "metodologie-guvern-zi0128-1997",
+   "path": "metodologie/guvern/1997/01-28",
+   "short": "Metodologie guvern din 28 ianuarie 1997",
+   "title": "Metodologie din 28 ianuarie 1997 privind obținerea autorizatiei pentru desfășurarea activității de intermediere pentru angajarea personalului navigant maritim sau fluvial român pe nave sub pavilion străin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65413",
+   "versions": [
+    {
+     "from": "1997-01-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65413",
+     "sha256": "533c09c7242aa6e5a9255267c999ae5a2fd715f6c1fb0ce692c04686b1e47019"
+    }
+   ]
+  },
+  {
    "slug": "metodologie-interne-1-1997",
    "path": "metodologie/interne/1997/1",
    "short": "Metodologie interne nr. 1/1997",

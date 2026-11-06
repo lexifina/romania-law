@@ -378,6 +378,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1791-2015",
+   "path": "ordin/agricultura/2015/1791",
+   "short": "Ordin agricultura nr. 1791/2015",
+   "title": "Ordinul nr. 1.791/2015 pentru modificarea anexei nr. 1 la Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 946/2014 privind aprobarea Listei și a atribuțiilor specialiștilor care își desfășoară activitatea în cadrul direcțiilor pentru agricultură județene și a municipiului București, care fac parte din Oficiul de reglementare a organizațiilor de îmbunătățiri funciare, și a Listei specialiștilor împuterniciți să constate contravențiile și să aplice sancțiunile prevăzute la art. 83 din Legea îmbunătățirilor funciare nr. 138/2004, precum și pentru aprobarea modelului și conținutului legitimației speciale de identificare a acestora și a modelului procesului-verbal de constatare a contravențiilor și de aplicare a sancțiunilor în domeniul îmbunătățirilor funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170459",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170459",
+     "sha256": "bc44c545d7f7b7aebc6af1cb43c28628d24d4aae4e019fc402004ba92e5bc106"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1803-2015",
    "path": "ordin/agricultura/2015/1803",
    "short": "Ordin agricultura nr. 1803/2015",
@@ -419,6 +434,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170576",
      "sha256": "ec404c460c9506b31a66aec1ea2432ed5828e546fd4e21aa0946fe5f011ea33f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1846-2015",
+   "path": "ordin/agricultura/2015/1846",
+   "short": "Ordin agricultura nr. 1846/2015",
+   "title": "Ordinul nr. 1.846/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Institutului Național de Cercetare-Dezvoltare pentru Îmbunătățiri Funciare - I.N.C.D.I.F. - \"ISPIF\" București din coordonarea Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171888",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171888",
+     "sha256": "2ae7d97951bcb4b1ecf0998c846701a86bf135fb252594563ef68af069c13146"
     }
    ]
   },
@@ -2748,6 +2778,36 @@
    ]
   },
   {
+   "slug": "ordin-anmcs-237-2015",
+   "path": "ordin/anmcs/2015/237",
+   "short": "Ordin anmcs nr. 237/2015",
+   "title": "Ordinul nr. 237/2015 privind încadrarea Societății Comerciale CARDIO MED - S.R.L. - spital: medicină internă, cardiologie intervențională, cardiologie în categoria \"Nivel acreditat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176237",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176237",
+     "sha256": "d472a89246444d2a6ec77a8363b17d132c815112f4c96ebba0b8a79d55cd22bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-238-2015",
+   "path": "ordin/anmcs/2015/238",
+   "short": "Ordin anmcs nr. 238/2015",
+   "title": "Ordinul nr. 238/2015 privind încadrarea Societății Comerciale CENTRUL MEDICAL TOPMED - S.R.L. - SPITAL CENTRUL MEDICAL TOPMED în categoria \"Nivel acreditat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176238",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176238",
+     "sha256": "f4be6c43d27b3d1c67384b330e0ef9bb04f3487bc906e310a9f7144221fe7f32"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-239-2015",
    "path": "ordin/anmcs/2015/239",
    "short": "Ordin anmcs nr. 239/2015",
@@ -2793,6 +2853,21 @@
    ]
   },
   {
+   "slug": "ordin-anmcs-242-2015",
+   "path": "ordin/anmcs/2015/242",
+   "short": "Ordin anmcs nr. 242/2015",
+   "title": "Ordinul nr. 242/2015 privind încadrarea Societății Comerciale MEDISPROF - S.R.L. - centru medical în categoria \"Nivel acreditat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176260",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176260",
+     "sha256": "9c9c2770ed6f42fc441a1c77164c6e351b6255f46fcee89164083b44838ca84e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anmcs-243-2015",
    "path": "ordin/anmcs/2015/243",
    "short": "Ordin anmcs nr. 243/2015",
@@ -2804,6 +2879,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176261",
      "sha256": "549763bfd189579dc5f81ae4818ec0c280a3c7085cee47e01fea828b136c46c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-244-2015",
+   "path": "ordin/anmcs/2015/244",
+   "short": "Ordin anmcs nr. 244/2015",
+   "title": "Ordinul nr. 244/2015 privind încadrarea Societății Comerciale COSAMEXT - S.R.L. - Centrul Medical Puls - spital privat în categoria \"Nivel acreditat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176262",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176262",
+     "sha256": "cc6439b099792bc45c06310d4817813c319e9b4c9345a53dff7b74885b003602"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-245-2015",
+   "path": "ordin/anmcs/2015/245",
+   "short": "Ordin anmcs nr. 245/2015",
+   "title": "Ordinul nr. 245/2015 privind încadrarea Societății Comerciale MEDSTAR 2000 - S.R.L. - unitate sanitară privată în categoria \"Nivel acreditat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176263",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176263",
+     "sha256": "c33cc2f88ee7e8edcdd30ee7af20991cb4e18ed76077c30156d5fd61b7e6ce1a"
     }
    ]
   },
@@ -4413,6 +4518,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-140-2015",
+   "path": "ordin/anrm/2015/140",
+   "short": "Ordin anrm nr. 140/2015",
+   "title": "Ordinul nr. 140/2015 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170243",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170243",
+     "sha256": "83cc0f61efdfbfc8dfdf7cc4fd776b694567ae5092c2dccf73b5ce9e959b9436"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-170-2015",
    "path": "ordin/anrm/2015/170",
    "short": "Ordin anrm nr. 170/2015",
@@ -5433,6 +5553,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-97-2015",
+   "path": "ordin/aparare/2015/97",
+   "short": "Ordin aparare nr. 97/2015",
+   "title": "Ordinul nr. 97/2015 pentru modificarea și completarea Ordinului ministrului apărării naționale nr. M.132/2012 privind acordarea gradelor și înaintarea în gradul următor, pe timp de pace, a cadrelor militare în rezervă și în retragere, avansarea în grad a veteranilor de război, precum și înaintarea în gradul următor a fostelor cadre militare active îndepărtate abuziv din armată în perioada 23 august 1944-31 decembrie 1961",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171780",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171780",
+     "sha256": "00d8faa00d399b85b3543e9893ba7f04aa9d4bb48476372a3f7057c2f3fb1887"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-1-2015",
    "path": "ordin/bnr/2015/1",
    "short": "Ordin bnr nr. 1/2015",
@@ -6333,6 +6468,51 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-517-2015",
+   "path": "ordin/comunicatii/2015/517",
+   "short": "Ordin comunicatii nr. 517/2015",
+   "title": "Ordinul nr. 517/2015 pentru modificarea anexei la Ordinul ministrului pentru societatea informațională nr. 436/2015 privind aprobarea Schemei de ajutor de stat pentru sprijinirea dezvoltării de produse și servicii inovative, care este o componentă aferentă axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", din cadrul Programului operațional Competitivitate 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172401",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172401",
+     "sha256": "236817accb61cda001e63d56f615836dc0bf926bf0bfe5eb87d4bfab7bf67e26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-518-2015",
+   "path": "ordin/comunicatii/2015/518",
+   "short": "Ordin comunicatii nr. 518/2015",
+   "title": "Ordinul nr. 518/2015 pentru modificarea anexei la Ordinul ministrului pentru societatea informațională nr. 435/2015 privind aprobarea schemei de ajutor de minimis care se adresează domeniului tehnologiei informației și comunicațiilor (TIC), denumită \"Schemă de ajutor de minimis pentru creșterea contribuției sectorului TIC pentru competitivitatea economică\", care este o componentă aferentă axei prioritare 2, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", din cadrul Programului operațional Competitivitate 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172400",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172400",
+     "sha256": "6fe8dc730eb6d44def4e285be873989d83ee30bf48ba15a6c4f90f6c8351c0dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-520-2015",
+   "path": "ordin/comunicatii/2015/520",
+   "short": "Ordin comunicatii nr. 520/2015",
+   "title": "Ordinul nr. 520/2015 privind modificarea anexei la Ordinul ministrului pentru societatea informațională nr. 437/2015 pentru aprobarea Ghidului solicitantului pentru beneficiarii privați, aferent axei prioritare II a Programului operațional Competitivitate 2014-2020, acțiunea 2.2.1 - apel 1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182944",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182944",
+     "sha256": "e6305347472da4dc5e413192bc5aab32f3f254326ef8b7a0d7fac939a982720a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-conas-129-2015",
    "path": "ordin/conas/2015/129",
    "short": "Ordin conas nr. 129/2015",
@@ -6558,6 +6738,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2094-2015",
+   "path": "ordin/cultura/2015/2094",
+   "short": "Ordin cultura nr. 2094/2015",
+   "title": "Ordinul nr. 2.094/2015 pentru acreditarea Muzeului Național Cotroceni din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166123",
+   "versions": [
+    {
+     "from": "2015-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166123",
+     "sha256": "a1e8ff307fb07561a8c5ab25635a5b40676d517acb8f750ad585b29d8024f8b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2104-2015",
+   "path": "ordin/cultura/2015/2104",
+   "short": "Ordin cultura nr. 2104/2015",
+   "title": "Ordinul nr. 2.104/2015 privind clasarea în Lista monumentelor istorice, categoria monument, grupa valorică B, a clădirii W, corp C1, din municipiul Galați, Str. Domnească nr. 102, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173413",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173413",
+     "sha256": "68f607ea87479389deab025d57a12f63bcda89324645132b92d8450040215c02"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2111-2015",
    "path": "ordin/cultura/2015/2111",
    "short": "Ordin cultura nr. 2111/2015",
@@ -6569,6 +6779,216 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165885",
      "sha256": "92fefdbe9961e4fd0b4de5c584dcd33aef179aac3fdd47a0f866bde3712fa306"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2170-2015",
+   "path": "ordin/cultura/2015/2170",
+   "short": "Ordin cultura nr. 2170/2015",
+   "title": "Ordinul nr. 2.170/2015 privind schimbarea grupei valorice din B în A a monumentului istoric Poșta veche înscrisă în Lista monumentelor istorice cu cod CL-II-m-B-14614 Călărași, str. București nr. 193, județul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168559",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168559",
+     "sha256": "42eebbfeeef551834ba6ae26f574f0ca9d23ff662dc981765ff20f61d5d3f9f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2171-2015",
+   "path": "ordin/cultura/2015/2171",
+   "short": "Ordin cultura nr. 2171/2015",
+   "title": "Ordinul nr. 2.171/2015 privind schimbarea grupei valorice din B în A a monumentului istoric Castelul Wass-Banffy (Barcsay) înscris în Lista monumentelor istorice cu cod CJ-II-m-B-07673.01 Gilău, Str. Principală, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168560",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168560",
+     "sha256": "eae47108cd185880011c479abf0ac26ee386cca4aca5b44c269369ff3e056a17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2225-2015",
+   "path": "ordin/cultura/2015/2225",
+   "short": "Ordin cultura nr. 2225/2015",
+   "title": "Ordinul nr. 2.225/2015 privind clasarea în Lista monumentelor istorice, categoria monument, grupa valorică B, a Primăriei Sfântu Gheorghe, corp A, Str. 1 Decembrie 1918 nr. 2, municipiul Sfântu Gheorghe, județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168561",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168561",
+     "sha256": "58f3b12bca63930607dda4751bb7320ffece92cf65d372bd279fca4ad9b6bbd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2226-2015",
+   "path": "ordin/cultura/2015/2226",
+   "short": "Ordin cultura nr. 2226/2015",
+   "title": "Ordinul nr. 2.226/2015 privind clasarea în Lista monumentelor istorice, categoria monument, grupa valorică B, a fostului Abator comunal, str. Mikes Kelemen nr. 36, municipiul Sfântu Gheorghe, județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168517",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168517",
+     "sha256": "5d802fda0a25c899bd97ee14079085a3b0357071a0a5c02088eb5800cc8fdd41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2358-2015",
+   "path": "ordin/cultura/2015/2358",
+   "short": "Ordin cultura nr. 2358/2015",
+   "title": "Ordinul nr. 2.358/2015 pentru acreditarea temporară a Muzeului Municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169013",
+   "versions": [
+    {
+     "from": "2015-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169013",
+     "sha256": "94a8769001d7c3e48c5fb6213f957b03ce89f89a03f50db65c4050bf561e47f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2487-2015",
+   "path": "ordin/cultura/2015/2487",
+   "short": "Ordin cultura nr. 2487/2015",
+   "title": "Ordinul nr. 2.487/2015 privind schimbarea grupei valorice din B în A a monumentului istoric Biserica \"Buna Vestire I\", înscrisă în Lista monumentelor istorice cu cod LMI BR-II-m-B-02076, Str. Călărașilor nr. 3, municipiul Brăila, județul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169784",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169784",
+     "sha256": "95161a24f3ffb3a7b0b35bf3252b8a3b4738cc2406609d2a951b639f1a95eec4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2522-2015",
+   "path": "ordin/cultura/2015/2522",
+   "short": "Ordin cultura nr. 2522/2015",
+   "title": "Ordinul nr. 2.522/2015 pentru acreditarea Muzeului Brăilei \"Carol I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170332",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170332",
+     "sha256": "072c3a6de17d0fb1bd96113b9e20acf4b172d8d9f2a24ca1ddf1ab7bd72398ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2523-2015",
+   "path": "ordin/cultura/2015/2523",
+   "short": "Ordin cultura nr. 2523/2015",
+   "title": "Ordinul nr. 2.523/2015 pentru acreditarea Muzeului Municipal Curtea de Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170333",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170333",
+     "sha256": "2c538263c54d173dbabc556547117d3601a57a58bceb87a797e4ff6634541e60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2524-2015",
+   "path": "ordin/cultura/2015/2524",
+   "short": "Ordin cultura nr. 2524/2015",
+   "title": "Ordinul nr. 2.524/2015 pentru acreditarea Muzeului Județean Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170334",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170334",
+     "sha256": "86623a4c37d47ce0fa44f00be67932d14d1829b28e9eaccae188d7739f99258b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2525-2015",
+   "path": "ordin/cultura/2015/2525",
+   "short": "Ordin cultura nr. 2525/2015",
+   "title": "Ordinul nr. 2.525/2015 pentru acreditarea Colecției de artă Lucian Pop",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170335",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170335",
+     "sha256": "e2f648133753b80466df36360190105bfcd8b1ca134ae1cab674bb63693c50d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2562-2015",
+   "path": "ordin/cultura/2015/2562",
+   "short": "Ordin cultura nr. 2562/2015",
+   "title": "Ordinul nr. 2.562/2015 privind clasarea în Lista monumentelor istorice, categoria arheologie, grupa valorică A, a Amfiteatrului roman, Str. Independenței nr. 2, municipiul Drobeta-Turnu Severin, județul Mehedinți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170945",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170945",
+     "sha256": "acaae982426f0960b7907a9d7c0f3d18573c5f6b939c44ab3abe9e1a1f2d2f44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2566-2015",
+   "path": "ordin/cultura/2015/2566",
+   "short": "Ordin cultura nr. 2566/2015",
+   "title": "Ordinul nr. 2.566/2015 privind clasarea în Lista monumentelor istorice, categoria monument, grupa valorică B, a imobilului Casă din Bulevardul Primăverii nr. 28, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170372",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170372",
+     "sha256": "7a00274e6bc3b21f84a965b704e75f065db0e5c626843939c4707130b4135484"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2567-2015",
+   "path": "ordin/cultura/2015/2567",
+   "short": "Ordin cultura nr. 2567/2015",
+   "title": "Ordinul nr. 2.567/2015 privind clasarea în Lista monumentelor istorice, categoria II, monument, grupa valorică B, a Casei Gheorghe Țițeica, Str. Paltinului nr. 7, orașul Bușteni, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170400",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170400",
+     "sha256": "b3602c39afcf8e0c818ccc8f937e1acc02accb575b44b679038cdf7d3e1a3b16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2579-2015",
+   "path": "ordin/cultura/2015/2579",
+   "short": "Ordin cultura nr. 2579/2015",
+   "title": "Ordinul nr. 2.579/2015 privind declasarea parțială din Lista monumentelor istorice a corpurilor C1, C2, C3, C4-parțial, componente ale obiectivului monument istoric \"Casă\" situat în str. Matei Basarab nr. 59, sectorul 3, București, având cod LMI B-II-m-B-18088",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170616",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170616",
+     "sha256": "c70bc05bb127a28b17f99a8e9dd3212d779b5c87edb20071b59a3a4f42f05cc8"
     }
    ]
   },
@@ -6588,6 +7008,66 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2730-2015",
+   "path": "ordin/cultura/2015/2730",
+   "short": "Ordin cultura nr. 2730/2015",
+   "title": "Ordinul nr. 2.730/2015 pentru acreditarea Muzeului Ianca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172968",
+   "versions": [
+    {
+     "from": "2015-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172968",
+     "sha256": "de90158171f0845f78ba9b5d377a94da8de21c380989482f8aee7ee8600b6f8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2731-2015",
+   "path": "ordin/cultura/2015/2731",
+   "short": "Ordin cultura nr. 2731/2015",
+   "title": "Ordinul nr. 2.731/2015 pentru acreditarea Muzeului Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172969",
+   "versions": [
+    {
+     "from": "2015-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172969",
+     "sha256": "0815352bc36c3f30ced76bc619650acae377fcf202f2634eccd2125e3269ceab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2732-2015",
+   "path": "ordin/cultura/2015/2732",
+   "short": "Ordin cultura nr. 2732/2015",
+   "title": "Ordinul nr. 2.732/2015 pentru acreditarea Muzeului \"Casa Mureșenilor\" Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173048",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173048",
+     "sha256": "f01417b272dec1c483cc45ee6283682c4030109e1be2e6eec3ef32469514be24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2791-2015",
+   "path": "ordin/cultura/2015/2791",
+   "short": "Ordin cultura nr. 2791/2015",
+   "title": "Ordinul nr. 2.791/2015 pentru reacreditarea Muzeului Național al Aviației Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174732",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174732",
+     "sha256": "ffb5fb19bd6d075499d680a03231c79aca96cc975d97802ad78df7055f5278c6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2799-2015",
    "path": "ordin/cultura/2015/2799",
    "short": "Ordin cultura nr. 2799/2015",
@@ -6599,6 +7079,21 @@
      "units": 76,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174310",
      "sha256": "019f6877f2eb0900bf3bc730dffc26b3f10aab82d4795653f29640279f8e9f36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2823-2015",
+   "path": "ordin/cultura/2015/2823",
+   "short": "Ordin cultura nr. 2823/2015",
+   "title": "Ordinul nr. 2.823/2015 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa valorică A, a Exploatării Miniere Petrila, ansamblu situat în Str. Minei nr. 2, orașul Petrila, județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174737",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174737",
+     "sha256": "4c4935ffdf1c307e2e2ad13abd2aa9ee0a0c83fd942a6b112aefbb6175a6a7d4"
     }
    ]
   },
@@ -8268,6 +8763,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3011-2015",
+   "path": "ordin/educatie/2015/3011",
+   "short": "Ordin educatie nr. 3011/2015",
+   "title": "Ordinul nr. 3.011/2015 privind aprobarea Componenței nominale a Consiliului Național al Cercetării Științifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164694",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164694",
+     "sha256": "8b3e54dab249114ed2753d9daae5d47d39a37972bc339e7fa36cbfce32abbf4d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3050-2015",
    "path": "ordin/educatie/2015/3050",
    "short": "Ordin educatie nr. 3050/2015",
@@ -8463,6 +8973,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3304-2015",
+   "path": "ordin/educatie/2015/3304",
+   "short": "Ordin educatie nr. 3304/2015",
+   "title": "Ordinul nr. 3.304/2015 privind constituirea Consiliului de etică și management universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166234",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166234",
+     "sha256": "ac42d4d07a0ca2e3ff40ecdaac8ae61fdb203033859c02f762709ed13a689b98"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3375-2015",
    "path": "ordin/educatie/2015/3375",
    "short": "Ordin educatie nr. 3375/2015",
@@ -8489,6 +9014,261 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166866",
      "sha256": "3d90f7c554a1ae5dbb3656aa1d2ae7b92d4c39707c595b950fb3519d2f50c509"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3417-2015",
+   "path": "ordin/educatie/2015/3417",
+   "short": "Ordin educatie nr. 3417/2015",
+   "title": "Ordinul nr. 3.417/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician dietetician\" din cadrul unității de învățământ preuniversitar de stat Colegiul \"Brad Segal\" din municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167194",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167194",
+     "sha256": "0e71d5c4801704855ebeccb397010d7bb312c723ae150f4656cca7eaf38f3b03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3418-2015",
+   "path": "ordin/educatie/2015/3418",
+   "short": "Ordin educatie nr. 3418/2015",
+   "title": "Ordinul nr. 3.418/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Normal \"Laleaua\" din municipiul Târnăveni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167105",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167105",
+     "sha256": "f929d4f9756020c6367ee7397fece2b04c83acd13a5cc67e19f83411a3be3b72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3419-2015",
+   "path": "ordin/educatie/2015/3419",
+   "short": "Ordin educatie nr. 3419/2015",
+   "title": "Ordinul nr. 3.419/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Sincron\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167106",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167106",
+     "sha256": "6e69a67a37bf036cf35bea8c8abed6ce3baf04e9ea3a241c8d7e1dc41b1c18d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3420-2015",
+   "path": "ordin/educatie/2015/3420",
+   "short": "Ordin educatie nr. 3420/2015",
+   "title": "Ordinul nr. 3.420/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Sanitară Postliceală \"Carol Davila\" din municipiul Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167195",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167195",
+     "sha256": "3971480699583460cd8da5946fe0bfc2d1bb263af8f4d2d3edd9bae2921a3701"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3427-2015",
+   "path": "ordin/educatie/2015/3427",
+   "short": "Ordin educatie nr. 3427/2015",
+   "title": "Ordinul nr. 3.427/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Florentina Mosora\" din municipiul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167196",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167196",
+     "sha256": "5e696d3e5348a0ea0b4e978ed7049ffba63f5348a7bb72bcc85d5e4ada4c4f20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3428-2015",
+   "path": "ordin/educatie/2015/3428",
+   "short": "Ordin educatie nr. 3428/2015",
+   "title": "Ordinul nr. 3.428/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Hipocrates\" din municipiul Sighetu Marmației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167197",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167197",
+     "sha256": "365ae9c17fd4162c8c627ea64d19421c4b2c3fa51111b79ec23126307dd616cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3473-2015",
+   "path": "ordin/educatie/2015/3473",
+   "short": "Ordin educatie nr. 3473/2015",
+   "title": "Ordinul nr. 3.473/2015 pentru modificarea Ordinului ministrului educației naționale nr. 4.387/2014 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular \"Grădinița Mea\" din municipiul București de către unitatea de învățământ preuniversitar particular Liceul Teoretic \"Școala Mea\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167233",
+   "versions": [
+    {
+     "from": "2015-04-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167233",
+     "sha256": "a142fab41a5a92cff07e9ac6bd7f27fa4dc8656f85c49eb5b3beebd3a9bd0c0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3516-2015",
+   "path": "ordin/educatie/2015/3516",
+   "short": "Ordin educatie nr. 3516/2015",
+   "title": "Ordinul nr. 3.516/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Carol Davila\" din municipiul Bistrița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167198",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167198",
+     "sha256": "52cafd51c026f3c23fc95136945d0e5a53042d05eb40f4d3376cd30d057c5f2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3519-2015",
+   "path": "ordin/educatie/2015/3519",
+   "short": "Ordin educatie nr. 3519/2015",
+   "title": "Ordinul nr. 3.519/2015 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"electronică automatizări\", calificarea profesională \"tehnician electronist\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic din municipiul Câmpulung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167199",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167199",
+     "sha256": "29405ac605a79b1e08cc6bd045999fe38536bfe80a5bf09116de4e68c597e1c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3521-2015",
+   "path": "ordin/educatie/2015/3521",
+   "short": "Ordin educatie nr. 3521/2015",
+   "title": "Ordinul nr. 3.521/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"fabricarea produselor din lemn\", calificarea profesională \"tehnician exploatări forestiere\" din cadrul unității de învățământ preuniversitar de stat Liceul \"Simion Mehedinți\" din comuna Vidra",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167201",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167201",
+     "sha256": "714a3911a987c9a2555d211b52472f7b751444afc6b81466c2213440bd53e9b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3522-2015",
+   "path": "ordin/educatie/2015/3522",
+   "short": "Ordin educatie nr. 3522/2015",
+   "title": "Ordinul nr. 3.522/2015 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"turism și alimentație\", calificarea profesională \"tehnician în gastronomie\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician mecanic pentru întreținere și reparații\", domeniul \"industria textilă și pielărie\", calificarea profesională \"tehnician în industria textilă\" din cadrul unității de învățământ preuniversitar de stat Liceul Tehnologic din localitatea Târgu Ocna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167202",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167202",
+     "sha256": "0076c462e730455e7ea1125723276488d7caa7a369d3c08edc4ba4f7988774b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3528-2015",
+   "path": "ordin/educatie/2015/3528",
+   "short": "Ordin educatie nr. 3528/2015",
+   "title": "Ordinul nr. 3.528/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Bel Sorriso\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167107",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167107",
+     "sha256": "2cea3febf19b742f86e5190e0af01b4ed811f25fc40e42c0de89484b6acf2a5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3529-2015",
+   "path": "ordin/educatie/2015/3529",
+   "short": "Ordin educatie nr. 3529/2015",
+   "title": "Ordinul nr. 3.529/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Căsuța din Pădure\" din municipiul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167108",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167108",
+     "sha256": "c234f7db52c619c9929194a7c2ca63ed80f0bf53dac67dffb09ec65df7babf26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3530-2015",
+   "path": "ordin/educatie/2015/3530",
+   "short": "Ordin educatie nr. 3530/2015",
+   "title": "Ordinul nr. 3.530/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Happy Days\" din satul Tamași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167109",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167109",
+     "sha256": "e5c73aafa45b7d8cb9dceafb2a63bae1f5011b13ab3b92b86337e38e4704f6e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3531-2015",
+   "path": "ordin/educatie/2015/3531",
+   "short": "Ordin educatie nr. 3531/2015",
+   "title": "Ordinul nr. 3.531/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Prelungit \"Patricia\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167110",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167110",
+     "sha256": "e4d6967174ff017f77f68a1bc38f00d36f3a3d6190a8352fa03f38370b348986"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3532-2015",
+   "path": "ordin/educatie/2015/3532",
+   "short": "Ordin educatie nr. 3532/2015",
+   "title": "Ordinul nr. 3.532/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială \"Helikon\" din municipiul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167111",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167111",
+     "sha256": "33a69108384714fdcfbcaa36c71ac9935e15f01358af06a5cfc47dcf05b01afc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3535-2015",
+   "path": "ordin/educatie/2015/3535",
+   "short": "Ordin educatie nr. 3535/2015",
+   "title": "Ordinul nr. 3.535/2015 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada 17 noiembrie-19 decembrie 2014, începând cu anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167204",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167204",
+     "sha256": "7093182b8206c4c64f164b32094e526dd90d7b9e9e694022b1526abc70b4d401"
     }
    ]
   },
@@ -8673,6 +9453,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3807-2015",
+   "path": "ordin/educatie/2015/3807",
+   "short": "Ordin educatie nr. 3807/2015",
+   "title": "Ordinul nr. 3.807/2015 privind modificarea Ordinului ministrului educației și cercetării științifice nr. 3.530/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Happy Days\" din satul Tamași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168322",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168322",
+     "sha256": "0f869c60752e8e5fb525bd34cd61b98aba27003cba18532b24d5a9b346046a89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3808-2015",
+   "path": "ordin/educatie/2015/3808",
+   "short": "Ordin educatie nr. 3808/2015",
+   "title": "Ordinul nr. 3.808/2015 pentru modificarea anexei la Ordinul ministrului educației naționale nr. 4.491/2014 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada 24 martie-13 iunie 2014, începând cu anul școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168323",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168323",
+     "sha256": "36b64a74606a714d007ff9ae0e8afe3941787c279341de7866de1fe563632479"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3814-2015",
    "path": "ordin/educatie/2015/3814",
    "short": "Ordin educatie nr. 3814/2015",
@@ -8748,6 +9558,81 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3899-2015",
+   "path": "ordin/educatie/2015/3899",
+   "short": "Ordin educatie nr. 3899/2015",
+   "title": "Ordinul nr. 3.899/2015 privind acordarea acreditării pentru nivelurile de învățământ \"preșcolar\", respectiv \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Liceul \"Don Orione\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168768",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168768",
+     "sha256": "5bdebc053d738498404d91aedd5d9ec79561434a1da30f850b154ab7e0e780ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3902-2015",
+   "path": "ordin/educatie/2015/3902",
+   "short": "Ordin educatie nr. 3902/2015",
+   "title": "Ordinul nr. 3.902/2015 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"resurse naturale și protecția mediului\", domeniul \"agricultură\", calificarea profesională \"tehnician în agricultură\" din cadrul unității de învățământ preuniversitar de stat Liceul Tehnologic din localitatea Topolog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168766",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168766",
+     "sha256": "fbeec70dfc4622bbdd2e25584c9b04ab9176b2e149bd7bbc502c5a65461c3e4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4074-2015",
+   "path": "ordin/educatie/2015/4074",
+   "short": "Ordin educatie nr. 4074/2015",
+   "title": "Ordinul nr. 4.074/2015 pentru aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170455",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170455",
+     "sha256": "78069ba3043d48053848084ab1ca14b61efb95bc2007e9aae3b1a46ca3e5a95b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4192-2015",
+   "path": "ordin/educatie/2015/4192",
+   "short": "Ordin educatie nr. 4192/2015",
+   "title": "Ordinul nr. 4.192/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Free Children\" din municipiul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168986",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168986",
+     "sha256": "bc29cb202dd9c0c8be9ac4119e62c85a0d73f98eb1fe1811cd83ee349dec0c9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4194-2015",
+   "path": "ordin/educatie/2015/4194",
+   "short": "Ordin educatie nr. 4194/2015",
+   "title": "Ordinul nr. 4.194/2015 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada 16 februarie-20 martie 2015, începând cu anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169164",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169164",
+     "sha256": "33ee4a6a9ee69a9eb89ad5b377fc339ffa0f606a034575711b531f599f1cc22b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4239-2015",
    "path": "ordin/educatie/2015/4239",
    "short": "Ordin educatie nr. 4239/2015",
@@ -8763,6 +9648,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4243-2015",
+   "path": "ordin/educatie/2015/4243",
+   "short": "Ordin educatie nr. 4243/2015",
+   "title": "Ordinul nr. 4.243/2015 privind constituirea Consiliului Național pentru Finanțarea Învățământului Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169149",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169149",
+     "sha256": "a46c70a82975d7be4d2fd38b1941310c702a036b80a5239c09df20179b512db4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4265-2015",
    "path": "ordin/educatie/2015/4265",
    "short": "Ordin educatie nr. 4265/2015",
@@ -8774,6 +9674,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169082",
      "sha256": "2a759e87ff40bbba89d959803df47e6d844039585e2bf9ec2ecc9f0de8a2ddbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4273-2015",
+   "path": "ordin/educatie/2015/4273",
+   "short": "Ordin educatie nr. 4273/2015",
+   "title": "Ordinul nr. 4.273/2015 privind modificarea și completarea Ordinului ministrului educației și cercetării științifice nr. 4.074/2015 pentru aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170740",
+   "versions": [
+    {
+     "from": "2015-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170740",
+     "sha256": "d52fbb7faed5a5a171c19937d66304fce1cfc2be915343bb3925ad11e334f418"
     }
    ]
   },
@@ -8819,6 +9734,21 @@
      "units": 44,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169852",
      "sha256": "89374c5ec7b8dd5f86dbd7cae474ca35f4ee0ae47b3acabe9d7c4965eb1ba235"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4446-2015",
+   "path": "ordin/educatie/2015/4446",
+   "short": "Ordin educatie nr. 4446/2015",
+   "title": "Ordinul nr. 4.446/2015 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2015 ale institutelor naționale de cercetare-dezvoltare în coordonarea Autorității Naționale pentru Cercetare Științifică și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170522",
+   "versions": [
+    {
+     "from": "2015-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170522",
+     "sha256": "557cfe8433d2b06a50a5dbc8658465f9cbb4aeea5a1eba6e9790f17fb7f7a33b"
     }
    ]
   },
@@ -8883,6 +9813,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4535-2015",
+   "path": "ordin/educatie/2015/4535",
+   "short": "Ordin educatie nr. 4535/2015",
+   "title": "Ordinul nr. 4.535/2015 privind modificarea Ordinului ministrului educației și cercetării științifice nr. 4.074/2015 pentru aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170630",
+   "versions": [
+    {
+     "from": "2015-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170630",
+     "sha256": "2d42dc5c7ab376d611cfc7f253a60cb1f4b078eef697abe1d56d51a9bdbda12b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4572-2015",
+   "path": "ordin/educatie/2015/4572",
+   "short": "Ordin educatie nr. 4572/2015",
+   "title": "Ordinul nr. 4.572/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Institutului Național de Cercetare-Dezvoltare Marină \"Grigore Antipa\" - Constanța și al Institutului Național de Cercetare-Dezvoltare \"Delta Dunării\" - Tulcea, aflate în coordonarea Autorității Naționale pentru Cercetare Științifică și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170937",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170937",
+     "sha256": "3a2826b581636f18570e32318856594ec4ee7038e5412d126be8717bf041b0cd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4621-2015",
    "path": "ordin/educatie/2015/4621",
    "short": "Ordin educatie nr. 4621/2015",
@@ -8909,6 +9869,21 @@
      "units": 61,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170370",
      "sha256": "638f7f16d1c452f7b17548de1f93f183ddbc3d17a5b0d2e4d43a098c5d92f63d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4649-2015",
+   "path": "ordin/educatie/2015/4649",
+   "short": "Ordin educatie nr. 4649/2015",
+   "title": "Ordinul nr. 4.649/2015 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2015 al Institutului Național de Cercetare-Dezvoltare pentru Biotehnologii în Horticultură Ștefănești - Argeș în coordonarea Autorității Naționale pentru Cercetare Științifică și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171385",
+   "versions": [
+    {
+     "from": "2015-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171385",
+     "sha256": "d5a4a4d31f0a76737389d27981b4d26e0f6942c9e5e0968b495fe738fa19acd8"
     }
    ]
   },
@@ -9123,6 +10098,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5114-2015",
+   "path": "ordin/educatie/2015/5114",
+   "short": "Ordin educatie nr. 5114/2015",
+   "title": "Ordinul nr. 5.114/2015 privind aprobarea componenței grupului de elaborare a planurilor-cadru de învățământ pentru învățământul secundar și a componenței comisiei de validare a proiectelor de planuri-cadru de învățământ pentru învățământul secundar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171782",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171782",
+     "sha256": "0a4e12c4fb6db88c19711da0bd2775ed9e78e9fbf98cbeb577d71e374ca0224c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5160-2015",
    "path": "ordin/educatie/2015/5160",
    "short": "Ordin educatie nr. 5160/2015",
@@ -9149,6 +10139,426 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/171308",
      "sha256": "ed6211fee82299b8269a27ebfaf773523c92471105bef8a01dd623802ca69966"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5179-2015",
+   "path": "ordin/educatie/2015/5179",
+   "short": "Ordin educatie nr. 5179/2015",
+   "title": "Ordinul nr. 5.179/2015 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada 4 mai-26 iulie 2015, începând cu anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171920",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171920",
+     "sha256": "21ac013ea55423ae2f850bddb380f8a40dd41da9e3575e00d911b093267c8b21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5180-2015",
+   "path": "ordin/educatie/2015/5180",
+   "short": "Ordin educatie nr. 5180/2015",
+   "title": "Ordinul nr. 5.180/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Curtea de Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172223",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172223",
+     "sha256": "06f5551f99d63f9f794814e9ab5f3d4bdeaba9134561859a6e0efbcf879966b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5181-2015",
+   "path": "ordin/educatie/2015/5181",
+   "short": "Ordin educatie nr. 5181/2015",
+   "title": "Ordinul nr. 5.181/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic Centrul de Studii \"Ștefan cel Mare și Sfânt\" din municipiul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172224",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172224",
+     "sha256": "847220e2338252f96d5ceea45053be3b8001fb26776cba8e9a3e7abf834015fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5185-2015",
+   "path": "ordin/educatie/2015/5185",
+   "short": "Ordin educatie nr. 5185/2015",
+   "title": "Ordinul nr. 5.185/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Tic - Pitic\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172319",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172319",
+     "sha256": "9632e34484463f1a4623a0e52d889ebce85abd77ee3b4b6f58743cf4df63cbe0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5186-2015",
+   "path": "ordin/educatie/2015/5186",
+   "short": "Ordin educatie nr. 5186/2015",
+   "title": "Ordinul nr. 5.186/2015 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Gimnazială \"Avenor\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172320",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172320",
+     "sha256": "3ddb6d60d7f05fc82e00d3eb0aaffd8d5189820fff4791192f559f8f1eee5bdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5187-2015",
+   "path": "ordin/educatie/2015/5187",
+   "short": "Ordin educatie nr. 5187/2015",
+   "title": "Ordinul nr. 5.187/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din localitatea Moldova Nouă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172225",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172225",
+     "sha256": "4491cd7e35d3e27d67829f6857c7533b8e4b6fe8bb9d2aa8523cd9a073476341"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5188-2015",
+   "path": "ordin/educatie/2015/5188",
+   "short": "Ordin educatie nr. 5188/2015",
+   "title": "Ordinul nr. 5.188/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Adia Kindergarden\" din municipiul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172259",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172259",
+     "sha256": "88b4e08a14fa6b32d492559aaeeca17444427c98799259478aa0e047520a623e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5189-2015",
+   "path": "ordin/educatie/2015/5189",
+   "short": "Ordin educatie nr. 5189/2015",
+   "title": "Ordinul nr. 5.189/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"FEG Education\" din municipiul Târgu Secuiesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172237",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172237",
+     "sha256": "79a7e26646e31abe3ad853efa3edeed89c9efd424864dcdf0db567deb2a922a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5190-2015",
+   "path": "ordin/educatie/2015/5190",
+   "short": "Ordin educatie nr. 5190/2015",
+   "title": "Ordinul nr. 5.190/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical de laborator\", \"asistent medical balneofiziokinetoterapie și recuperare\", domeniul \"estetica și igiena corpului omenesc\", calificările profesionale \"cosmetician\", \"tehnician maseur\", din cadrul unității de învățământ preuniversitar particular Școala Postliceală \"Intellectum\" din municipiul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172238",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172238",
+     "sha256": "5da6cafd3cae10687c105b328c4e53f5bf784a2331e6943f33b9326f31539d55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5191-2015",
+   "path": "ordin/educatie/2015/5191",
+   "short": "Ordin educatie nr. 5191/2015",
+   "title": "Ordinul nr. 5.191/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Veselă\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172261",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172261",
+     "sha256": "6fd33a1c0d560f511649e4ab5c814a9032062fd7dc14c23e30fbf2d911ee7318"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5195-2015",
+   "path": "ordin/educatie/2015/5195",
+   "short": "Ordin educatie nr. 5195/2015",
+   "title": "Ordinul nr. 5.195/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Normal și Prelungit \"Mish - Mash\" din localitatea Băicoi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172331",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172331",
+     "sha256": "7432e8565f56413c1105aa295acfc7f9c8aa3d3715b0e65b668423f70ccbd247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5196-2015",
+   "path": "ordin/educatie/2015/5196",
+   "short": "Ordin educatie nr. 5196/2015",
+   "title": "Ordinul nr. 5.196/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172239",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172239",
+     "sha256": "4d29bc9152eca31b562015d4cd9c2bd9ff1a332445e6f72d879fe874693d1fdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5198-2015",
+   "path": "ordin/educatie/2015/5198",
+   "short": "Ordin educatie nr. 5198/2015",
+   "title": "Ordinul nr. 5.198/2015 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada 16 februarie-19 iunie 2015, începând cu anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171939",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171939",
+     "sha256": "15f0437916432c857c7eab1c385956644e6d7d2966acd23a81cfd9b9d6f66bce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5200-2015",
+   "path": "ordin/educatie/2015/5200",
+   "short": "Ordin educatie nr. 5200/2015",
+   "title": "Ordinul nr. 5.200/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Ary\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172263",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172263",
+     "sha256": "bb957a41fa7ab2c1136e2c9e4b7f74dab2e79ac0d4a447ebf2c0c5d1e5e0e33c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5201-2015",
+   "path": "ordin/educatie/2015/5201",
+   "short": "Ordin educatie nr. 5201/2015",
+   "title": "Ordinul nr. 5.201/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Dorothy\" din municipiul Târgoviște",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172264",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172264",
+     "sha256": "842f7f0a34329c7cce5b8a00975464b0530d38319abdcfa456a6bd132543769e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5203-2015",
+   "path": "ordin/educatie/2015/5203",
+   "short": "Ordin educatie nr. 5203/2015",
+   "title": "Ordinul nr. 5.203/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Olga Gudynn International School\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172265",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172265",
+     "sha256": "76eef53ef5d6096e490076a27503f82ba08bd5e0cac9ae0b80158a9c35227d78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5204-2015",
+   "path": "ordin/educatie/2015/5204",
+   "short": "Ordin educatie nr. 5204/2015",
+   "title": "Ordinul nr. 5.204/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Penilla\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172254",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172254",
+     "sha256": "66ce306b6c0387db8a3d8d3a1c1d40c38ade8fac18c390d3ded276d1c00e1aef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5205-2015",
+   "path": "ordin/educatie/2015/5205",
+   "short": "Ordin educatie nr. 5205/2015",
+   "title": "Ordinul nr. 5.205/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Pink Lemon\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172332",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172332",
+     "sha256": "2a5a100452791835abc2d092c84097ee3fde8530a74acbb2e205aee742bf6852"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5208-2015",
+   "path": "ordin/educatie/2015/5208",
+   "short": "Ordin educatie nr. 5208/2015",
+   "title": "Ordinul nr. 5.208/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială \"Paradis\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172255",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172255",
+     "sha256": "3a12b7a16c3d291bcf13a3c876590e15bd04ced805e27f2015355a909ed02702"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5209-2015",
+   "path": "ordin/educatie/2015/5209",
+   "short": "Ordin educatie nr. 5209/2015",
+   "title": "Ordinul nr. 5.209/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Dr. Luca\" din municipiul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172256",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172256",
+     "sha256": "35da96ec23f6a5aab2960872be19b7a2fb8c024e21a239c381baca2d2847ef5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5210-2015",
+   "path": "ordin/educatie/2015/5210",
+   "short": "Ordin educatie nr. 5210/2015",
+   "title": "Ordinul nr. 5.210/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală F.E.G. Education din municipiul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172170",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172170",
+     "sha256": "f7c3d4bde89d000824c717e277f2804410f52d25a61a2618843daa575f9bdadd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5211-2015",
+   "path": "ordin/educatie/2015/5211",
+   "short": "Ordin educatie nr. 5211/2015",
+   "title": "Ordinul nr. 5.211/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Bistrița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172163",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172163",
+     "sha256": "b83d1bc392ff13907ce997191164f81b2cd60f047f0662ba89a5c08486547a64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5212-2015",
+   "path": "ordin/educatie/2015/5212",
+   "short": "Ordin educatie nr. 5212/2015",
+   "title": "Ordinul nr. 5.212/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din localitatea Feldru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172165",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172165",
+     "sha256": "cb822f77963fe8aadda48358da87d6768b42f054e35a80170ab59acb7e0455d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5215-2015",
+   "path": "ordin/educatie/2015/5215",
+   "short": "Ordin educatie nr. 5215/2015",
+   "title": "Ordinul nr. 5.215/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Urziceni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172240",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172240",
+     "sha256": "3a98f96367c36126545a5e38ecacbd36d3b9a6845f02bc5d8291ca3d390be680"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5216-2015",
+   "path": "ordin/educatie/2015/5216",
+   "short": "Ordin educatie nr. 5216/2015",
+   "title": "Ordinul nr. 5.216/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Lorelay\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172257",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172257",
+     "sha256": "af93418fbea7a13ffbaaa5ce836437ea9a265d89b9d8c8a1dbcdf676f8e08b7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5218-2015",
+   "path": "ordin/educatie/2015/5218",
+   "short": "Ordin educatie nr. 5218/2015",
+   "title": "Ordinul nr. 5.218/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară Centrul de Studii \"Ștefan cel Mare și Sfânt\" din municipiul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172241",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172241",
+     "sha256": "4cfcf54ef023ed7577f64c9633e76034d559982f633332e2f6c0bbe30143b8ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5219-2015",
+   "path": "ordin/educatie/2015/5219",
+   "short": "Ordin educatie nr. 5219/2015",
+   "title": "Ordinul nr. 5.219/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Terraveda\" din municipiul Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172260",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172260",
+     "sha256": "81024f86500ca957288046f9c88c011080215ec911bfce37edb2b3833e700146"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5220-2015",
+   "path": "ordin/educatie/2015/5220",
+   "short": "Ordin educatie nr. 5220/2015",
+   "title": "Ordinul nr. 5.220/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Vasile Goldiș\" din municipiul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172242",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172242",
+     "sha256": "c209a8cf9e8c56383e042064c6b422b59ddbaa54f8609f237b4aef22eb12ee4b"
     }
    ]
   },
@@ -9333,6 +10743,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5381-2015",
+   "path": "ordin/educatie/2015/5381",
+   "short": "Ordin educatie nr. 5381/2015",
+   "title": "Ordinul nr. 5.381/2015 pentru completarea Ordinului ministrului educației și cercetării științifice nr. 4.243/2015 privind constituirea Consiliului Național pentru Finanțarea Învățământului Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171806",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171806",
+     "sha256": "d95f203be6fd025cefab033a83a7a817f1866d48a86b4b1feda521ab1449bbf3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5439-2015",
    "path": "ordin/educatie/2015/5439",
    "short": "Ordin educatie nr. 5439/2015",
@@ -9419,6 +10844,81 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172399",
      "sha256": "69bc7feb97b3679292326dbe3ec9868e0e8c94b7811ee26798425218bc3ccd76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5547-2015",
+   "path": "ordin/educatie/2015/5547",
+   "short": "Ordin educatie nr. 5547/2015",
+   "title": "Ordinul nr. 5.547/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"mecanică\", calificarea profesională \"maistru mecanic\", domeniul \"servicii\", calificarea profesională \"bibliotecar studii medii\", domeniul \"turism și alimentație\", calificarea profesională \"asistent manager unități hoteliere\", din cadrul unității de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172635",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172635",
+     "sha256": "9c9c703e9dfb5ed70ddd592baad924c4191d2c26ebe924fb5b86b343c9569062"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5548-2015",
+   "path": "ordin/educatie/2015/5548",
+   "short": "Ordin educatie nr. 5548/2015",
+   "title": "Ordinul nr. 5.548/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical de farmacie\" și \"asistent medical balneofiziokinetoterapie și recuperare\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară Centrul de Studii \"Ștefan cel Mare și Sfânt\" din municipiul Pașcani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172641",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172641",
+     "sha256": "8fd7b1ceee12e913f97fdc2c97393c8784d0869dff09a4e61af3e76e821be2cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5549-2015",
+   "path": "ordin/educatie/2015/5549",
+   "short": "Ordin educatie nr. 5549/2015",
+   "title": "Ordinul nr. 5.549/2015 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"estetica și igiena corpului omenesc\", calificarea profesională \"coafor stilist\", din cadrul unității de învățământ preuniversitar particular Liceul Tehnologic UCECOM \"Spiru Haret\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172681",
+   "versions": [
+    {
+     "from": "2015-11-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172681",
+     "sha256": "5829d8a0bd59b725195ed50b49ef28490fecaa537dd1babebca0136934170903"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5550-2015",
+   "path": "ordin/educatie/2015/5550",
+   "short": "Ordin educatie nr. 5550/2015",
+   "title": "Ordinul nr. 5.550/2015 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"electronică și automatizări\", calificarea profesională \"tehnician operator tehnică de calcul\", domeniul \"construcții, instalații și lucrări publice\", calificarea profesională \"tehnician desenator pentru construcții și instalații\", din cadrul unității de învățământ preuniversitar particular Liceul Tehnologic \"Sfântul Ioan de La Salle\" din satul Pildești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172684",
+   "versions": [
+    {
+     "from": "2015-11-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172684",
+     "sha256": "ec4a67169dc7c421f515161b2d489b8a314ff2a150f917ded9b1e2b7d7cfcb30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5551-2015",
+   "path": "ordin/educatie/2015/5551",
+   "short": "Ordin educatie nr. 5551/2015",
+   "title": "Ordinul nr. 5.551/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical generalist\", din cadrul unității de învățământ preuniversitar particular Colegiul de Afaceri din municipiul Alba Iulia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172692",
+   "versions": [
+    {
+     "from": "2015-11-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172692",
+     "sha256": "a176608cacf1b54bb42ba2c713b2b0e94481d2cc1986a8d550b88cfd74572d62"
     }
    ]
   },
@@ -9588,6 +11088,171 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5694-2015",
+   "path": "ordin/educatie/2015/5694",
+   "short": "Ordin educatie nr. 5694/2015",
+   "title": "Ordinul nr. 5.694/2015 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada 18 mai-24 iulie 2015, începând cu anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173576",
+   "versions": [
+    {
+     "from": "2015-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173576",
+     "sha256": "d8537a31169aa8b25162e1f238bf8936a206e2081ba13c348b3fc6a026a4fdfc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5696-2015",
+   "path": "ordin/educatie/2015/5696",
+   "short": "Ordin educatie nr. 5696/2015",
+   "title": "Ordinul nr. 5.696/2015 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"umanist\", specializarea \"filologie\" din cadrul unității de învățământ preuniversitar particular Complexul Școlar \"CRONOS\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173401",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173401",
+     "sha256": "b7aa799c8267b6e90925d6cf4fb07717ccac0dc75abfe8788a2359d6fdd8f41a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5697-2015",
+   "path": "ordin/educatie/2015/5697",
+   "short": "Ordin educatie nr. 5697/2015",
+   "title": "Ordinul nr. 5.697/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical de farmacie\", \"asistent medical de balneofiziokinetoterapie și recuperare\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173408",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173408",
+     "sha256": "e80c9cc0baca62fc1b752297a0efa8a1a2e33fea53be264c5da2f113cb29ac5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5698-2015",
+   "path": "ordin/educatie/2015/5698",
+   "short": "Ordin educatie nr. 5698/2015",
+   "title": "Ordinul nr. 5.698/2015 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical de farmacie\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală \"Louis Pasteur\" din municipiul Câmpina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173409",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173409",
+     "sha256": "02c18c0bf4b160caae72dda106570ff22f234004fce89c05b5469db7c374e0b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5699-2015",
+   "path": "ordin/educatie/2015/5699",
+   "short": "Ordin educatie nr. 5699/2015",
+   "title": "Ordinul nr. 5.699/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Cordiana\" din municipiul Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173410",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173410",
+     "sha256": "076b57ae7e0d3250dd99cd042fc449aa3d21cc53808a1d4f63695cf672e9ce3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5700-2015",
+   "path": "ordin/educatie/2015/5700",
+   "short": "Ordin educatie nr. 5700/2015",
+   "title": "Ordinul nr. 5.700/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița LONGAVIT din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173411",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173411",
+     "sha256": "1b183182d06a754358aea9b0bf6c9f22e59b6201dc5e6849fd7dcea9cd6e3b6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5701-2015",
+   "path": "ordin/educatie/2015/5701",
+   "short": "Ordin educatie nr. 5701/2015",
+   "title": "Ordinul nr. 5.701/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"FEG Education\" din municipiul Mangalia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173414",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173414",
+     "sha256": "e1d78561bef4b8d811045571948969a2ac45cb83559bfbcdf84df1fe24976663"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5702-2015",
+   "path": "ordin/educatie/2015/5702",
+   "short": "Ordin educatie nr. 5702/2015",
+   "title": "Ordinul nr. 5.702/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"FEG Education\" din municipiul Oltenița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173415",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173415",
+     "sha256": "40910758e95510f5a37ee75486d9531d94d862544e6c124c85adb3e8d0e0b556"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5703-2015",
+   "path": "ordin/educatie/2015/5703",
+   "short": "Ordin educatie nr. 5703/2015",
+   "title": "Ordinul nr. 5.703/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"FEG Education\" din municipiul Roșiori de Vede",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173334",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173334",
+     "sha256": "d3c07c85706311d21e154f6fd8c1197e064e263bb8220de2a18cb3701f8c3713"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5704-2015",
+   "path": "ordin/educatie/2015/5704",
+   "short": "Ordin educatie nr. 5704/2015",
+   "title": "Ordinul nr. 5.704/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Alba Iulia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173336",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173336",
+     "sha256": "da33a7bd2affa35b5c875551864f00f81ab73036342cc3baf8ee73c031748ecb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5705-2015",
+   "path": "ordin/educatie/2015/5705",
+   "short": "Ordin educatie nr. 5705/2015",
+   "title": "Ordinul nr. 5.705/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Brad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173329",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173329",
+     "sha256": "5a86d4456771fbb714383625cb8fcca6eb606861d3d7c8385ad762015032f58c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5751-2015",
    "path": "ordin/educatie/2015/5751",
    "short": "Ordin educatie nr. 5751/2015",
@@ -9599,6 +11264,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173000",
      "sha256": "d4cf9030d92a087040a6136f92a3e7998d84027bd7ef7fbd337bc581f6ee2ddc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5776-2015",
+   "path": "ordin/educatie/2015/5776",
+   "short": "Ordin educatie nr. 5776/2015",
+   "title": "Ordinul nr. 5.776/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Planeta Copiilor II\" din localitatea Chiajna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173333",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173333",
+     "sha256": "cedbe5af51463ef5ecf85fee04ebde07cbb546461a188484f361c2840f9a0ae7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5777-2015",
+   "path": "ordin/educatie/2015/5777",
+   "short": "Ordin educatie nr. 5777/2015",
+   "title": "Ordinul nr. 5.777/2015 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Carol Davila\" din municipiul Tecuci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173335",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173335",
+     "sha256": "72a93d632b6b3158d0ccd2c87dbc64c1602416538e69c1ab7de0e49ee672b4e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5780-2015",
+   "path": "ordin/educatie/2015/5780",
+   "short": "Ordin educatie nr. 5780/2015",
+   "title": "Ordinul nr. 5.780/2015 privind schimbarea sediului unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Carol Davila\" din municipiul Onești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173546",
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173546",
+     "sha256": "b0f94fe2d7ab0bb63363726f00b08b2a6c8b97139a2959475aa145d1ddffde89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5784-2015",
+   "path": "ordin/educatie/2015/5784",
+   "short": "Ordin educatie nr. 5784/2015",
+   "title": "Ordinul nr. 5.784/2015 pentru modificarea anexei la Ordinul ministrului educației și cercetării științifice nr. 5.179/2015 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada 4 mai-26 iulie 2015, începând cu anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173337",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173337",
+     "sha256": "af14fa857e2fea6ef5356f6fe3080fb3eec28a894397e1c778b9638a366dc240"
     }
    ]
   },
@@ -9629,6 +11354,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173349",
      "sha256": "92381bca147101cfd247f0dd7308c17255436e923bc889c742eeea49a00671e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5856-2015",
+   "path": "ordin/educatie/2015/5856",
+   "short": "Ordin educatie nr. 5856/2015",
+   "title": "Ordinul nr. 5.856/2015 privind aprobarea bugetului de venituri și cheltuieli pe anul 2015 pentru Institutul Național de Cercetare-Dezvoltare în Silvicultură \"Marin Drăcea\", aflat în coordonarea Autorității Naționale pentru Cercetare Științifică și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174322",
+   "versions": [
+    {
+     "from": "2015-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174322",
+     "sha256": "d3cc89e117daeebf10646a015f1052a0ea91ea4b4c807effe0479ed0874d71a3"
     }
    ]
   },
@@ -9689,6 +11429,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175052",
      "sha256": "5bfd0985e1e49817d944f29373b388d5c3595372e5bde6cd4dda907730991fb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1043-2015",
+   "path": "ordin/externe/2015/1043",
+   "short": "Ordin externe nr. 1043/2015",
+   "title": "Ordinul nr. 1.043/2015 privind acordarea burselor \"Eugen Ionescu\" în anul universitar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170273",
+   "versions": [
+    {
+     "from": "2015-08-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170273",
+     "sha256": "afcc5a94a9443ff869249a45db1d1867903787b39455c956c457344f95e128fe"
     }
    ]
   },
@@ -9779,6 +11534,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173246",
      "sha256": "3f8f89562f9ac72e74d7f67c1933683aed70d014232724d5817f37cf50b33972"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2410-2015",
+   "path": "ordin/externe/2015/2410",
+   "short": "Ordin externe nr. 2410/2015",
+   "title": "Ordinul nr. 2.410/2015 privind supunerea regimului de control prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare a operațiunii de export a produselor țevi din oțel fără sudură pentru lucru la temperaturi înalte, din oțel Grad P22, conform normei ASME SA 335/SA 335M, cu dimensiunile 406,40 x 12,70 mm și cantitatea de 1.073 kg, către firma Larsen&amp;Toubro Limited Piping Center Hariza Manufacturing Complex, District Surat, Gujarat, India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173999",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173999",
+     "sha256": "cddb5e5c544df97e2d5e21b9fdca4983cce93e83dd64a622e6016e18b5bd93c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-243-2015",
+   "path": "ordin/externe/2015/243",
+   "short": "Ordin externe nr. 243/2015",
+   "title": "Ordinul nr. 243/2015 privind supunerea regimului de control prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare a operațiunii de export al produselor țevi din oțel fără sudură pentru lucru la temperaturi înalte, din oțel Grad P22, conform normei ASME SA 335/SA 335M, către firma Larsen &amp; Toubro Limited, Piping Centre, Hazira Manufacturing Complex, District Surat, Gujarat, India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166003",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166003",
+     "sha256": "13b9f5b1cfdaf7d1cd202545133e2f0cf8bb4d2d3b81290d304da4f8684179d9"
     }
    ]
   },
@@ -15089,6 +16874,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168506",
      "sha256": "acc05342ae0e29e114a91fdf955b7a7999a6331b722f9b45888005039d8a70e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-orniss-11-2015",
+   "path": "ordin/orniss/2015/11",
+   "short": "Ordin orniss nr. 11/2015",
+   "title": "Ordinul nr. 11/2015 pentru aprobarea Ghidului INFOSEC privind reutilizarea, reclasificarea și declasificarea mediilor de stocare ale calculatoarelor - DS 14",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165500",
+   "versions": [
+    {
+     "from": "2015-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165500",
+     "sha256": "636c0cedffa5acc4b18b82a9e2f3a0f86f4f467dc756c83d9441d58a2aa70d3b"
     }
    ]
   },

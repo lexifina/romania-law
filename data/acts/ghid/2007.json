@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "ghid/2007",
+"acts": [
+{
+"slug": "ghid-cncan-zi0829-2007",
+"path": "ghid/cncan/2007/08-29",
+"kind": "ghid",
+"year": "2007",
+"number": "08-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid din 29 august 2007 privind protecția preventivă a instalațiilor nucleare",
+"short": "Ghid cncan din 29 august 2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-17",
+"latest": "2007-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85384",
+"issuer": "cncan",
+"joint": []
+}
+]
+}

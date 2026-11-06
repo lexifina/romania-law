@@ -115,6 +115,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/3730",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "instructiuni-turism-zi0614-1993",
+"path": "instructiuni/turism/1993/06-14",
+"kind": "instructiuni",
+"year": "1993",
+"number": "06-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni din 14 iunie 1993 privind acordarea licențelor și a brevetelor de turism",
+"short": "Instrucțiuni turism din 14 iunie 1993",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1993-07-08",
+"latest": "1993-07-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/64337",
+"issuer": "turism",
+"joint": []
 }
 ]
 }

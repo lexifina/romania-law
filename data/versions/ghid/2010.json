@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "ghid/2010",
+ "acts": [
+  {
+   "slug": "ghid-munca-zi0413-2010",
+   "path": "ghid/munca/2010/04-13",
+   "short": "Ghid munca din 13 aprilie 2010",
+   "title": "Ghid din 13 aprilie 2010 privind cereri de ajutor de stat și ajutor de minimis \"Angajați mai mulți, mai competenți, mai sănătoși 3 propuneri în sprijinul angajaților tăi: Bani pentru completarea echipei; Bani pentru formare profesională; Bani pentru sănătatea și siguranța salariaților\" necesar implementării Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120811",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120811",
+     "sha256": "482a56b7737762588eb399b3b46ad716b912a6ad9d526c1f048dc3fef69a6c6e"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-munca-zi0909-2010",
+   "path": "ghid/munca/2010/09-09",
+   "short": "Ghid munca din 9 septembrie 2010",
+   "title": "Ghidul solicitantului din 9 septembrie 2010 privind Condițiile specifice pentru cererile de propuneri de proiecte nr. 108 \"Acces și participare la formare profesională continuă\" pentru implementarea Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128354",
+   "versions": [
+    {
+     "from": "2010-09-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128354",
+     "sha256": "e4b2addf7b33ea2be8d1c58a22ae71154c3485d72caccaa4a96184d860ece297"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-munca-zi1101-2010",
+   "path": "ghid/munca/2010/11-01",
+   "short": "Ghid munca din 1 noiembrie 2010",
+   "title": "Ghidul solicitantului din 1 noiembrie 2010 Condiții specifice pentru cererile de propuneri de proiecte nr. 110 \"Promovarea sustenabilității pe termen lung a zonelor rurale în ceea ce privește dezvoltarea resurselor umane și ocuparea forței de muncă\" pentru implementarea Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125759",
+   "versions": [
+    {
+     "from": "2010-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125759",
+     "sha256": "eef2347b572e1fe646906a03284e77e0225fce29552b139eba83ccf559faa067"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-munca-zi1206-2010",
+   "path": "ghid/munca/2010/12-06",
+   "short": "Ghid munca din 6 decembrie 2010",
+   "title": "Ghidul solicitantului din 6 decembrie 2010 Condiții specifice pentru cererile de propuneri de proiecte de tip grant nr. 112 \"Dezvoltarea economiei sociale\" pentru implementarea Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126201",
+   "versions": [
+    {
+     "from": "2010-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126201",
+     "sha256": "10b8e10e7c0aaa4e7d1d431d1494952c8317a709c66601befd7c540591a4cbd7"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-munca-zi1223-2010",
+   "path": "ghid/munca/2010/12-23",
+   "short": "Ghid munca din 23 decembrie 2010",
+   "title": "Ghidul din 23 decembrie 2010 solicitantului - Condiții specifice pentru cererile de propuneri de proiecte de tip grant nr. 113 \"Profesioniști în piața muncii\" pentru implementarea Programului operațional sectorial \"Dezvoltarea resurselor umane 2007 - 2013\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125113",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125113",
+     "sha256": "046660f1436d4c27c81db351297887fad4a9fcde329652aae8e77fbe9e710186"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-1-2010",
+   "path": "ghid/sanatate/2010/09-16-1",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghidul din 16 septembrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123346",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123346",
+     "sha256": "e39aa34fb8bae654d9f2a2f73cc622bd6a19a414dc019b58903b273e76bcf0aa"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-2-2010",
+   "path": "ghid/sanatate/2010/09-16-2",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid din 16 septembrie 2010 de practică medicală pentru specialitatea gastroenterologie - \"Boala de reflux gastro-esofagian (BRGE)\" - Anexa 1*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123431",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123431",
+     "sha256": "db39f2d3d52418f985dac38263670a38d39b56d3ae3ddf75d06b1004bf1b0f91"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-3-2010",
+   "path": "ghid/sanatate/2010/09-16-3",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid din 16 septembrie 2010 de practică medicală pentru specialitatea gastroenterologie - \"GASTRITELE ACUTE\" - Anexa 5*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123435",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123435",
+     "sha256": "58b41301977d99b0f9e4b6af32a61847f07042a606faa035d9e6eef7d7af812c"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-4-2010",
+   "path": "ghid/sanatate/2010/09-16-4",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid din 16 septembrie 2010 de practică medicală pentru specialitatea gastroenterologie - \"PATOLOGIA STOMACULUI OPERAT\" - Anexa 14*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123444",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123444",
+     "sha256": "c2b03703bf05d09e01deb21cb7dea0ff9859f80153c2d7c5603b1582b39baa89"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-5-2010",
+   "path": "ghid/sanatate/2010/09-16-5",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid din 16 septembrie 2010 de practică medicală pentru specialitatea dermatovenerologie*)- \"PROGRAM TERAPEUTIC PRIVIND ACCESUL PACIENȚILOR CU PSORIAZIS LA TRATAMENTUL ACTUAL TOPIC ȘI SISTEMIC\" - Anexa 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123459",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123459",
+     "sha256": "3be15f5b75386e215fa5b2e630e41f75e406f891c38af23522a114590f478dc4"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-6-2010",
+   "path": "ghid/sanatate/2010/09-16-6",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid din 16 septembrie 2010 de practică medicală pentru specialitatea dermatovenerologie*)- \"GHID DE DIAGNOSTIC ȘI TRATAMENT PENTRU ACNEE\" - Anexa 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123460",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123460",
+     "sha256": "0691fece00dd55c8e3d10a5dcacf84d1a9b171dd4534b92c0e2fd840ba26f0b9"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-7-2010",
+   "path": "ghid/sanatate/2010/09-16-7",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid din 16 septembrie 2010 de practică medicală pentru specialitatea anatomie patologică \"Tehnici orientative de lucru pentru prelucrare și colorare a preparatelor citopatologice și histopatologice\"*) - Anexa 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123489",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123489",
+     "sha256": "9dbd105f7242738274d7d91faf1112a3dbe9c6b7ded9091486bae1129b6f9849"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-8-2010",
+   "path": "ghid/sanatate/2010/09-16-8",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid din 16 septembrie 2010 de practică medicală pentru specialitatea neurologie*) - \"Ghid de diagnostic și tratament în distoniile primare și sindroamele distonie plus\" - Anexa 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123635",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123635",
+     "sha256": "164dd7ed5d2ece8f584a27626c9cce1b84be375ccfda9c34fd6d44d0f5f3fe96"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0916-9-2010",
+   "path": "ghid/sanatate/2010/09-16-9",
+   "short": "Ghid sanatate din 16 septembrie 2010",
+   "title": "Ghid*) din 16 septembrie 2010 de practică medicală pentru specialitatea oncologie medicală \"Recomandările Societății Europene de Oncologie Medicală (ESMO) pentru diagnosticul, tratamentul și urmărirea post terapeutică, în afecțiunile oncologice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123731",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123731",
+     "sha256": "be4f0e9176b64a92035ae08cac5a0fc8dcdd6c824805872e18cbd6110912227c"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1005-1-2010",
+   "path": "ghid/sanatate/2010/10-05-1",
+   "short": "Ghid sanatate din 5 octombrie 2010",
+   "title": "Ghid din 5 octombrie 2010 de practică medicală pentru specialitatea otorinolaringologie*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124084",
+   "versions": [
+    {
+     "from": "2010-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124084",
+     "sha256": "7c186a7b876b1f2989a9703e021c1eda2a99052f0e54db9dba7d01fa7f27fdf2"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1005-2-2010",
+   "path": "ghid/sanatate/2010/10-05-2",
+   "short": "Ghid sanatate din 5 octombrie 2010",
+   "title": "Ghid din 5 octombrie 2010 de practică medicală pentru specialitățile psihiatrie și psihiatrie pediatrică*) - \"Ghid de farmacoterapie în schizofrenie și ghid de farmacoterapie în tulburarea depresivă\" - (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124252",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124252",
+     "sha256": "2cb165488b89114d7b76db40d3550f7a0d18829472f2625f89ae7887c96822d0"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1005-3-2010",
+   "path": "ghid/sanatate/2010/10-05-3",
+   "short": "Ghid sanatate din 5 octombrie 2010",
+   "title": "Ghid din 5 octombrie 2010 de practică medicală pentru specialitatea pneumologie*) - \"Ghid local de management al bronhopneumopatiei obstructive cronice\" - Anexa 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125567",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125567",
+     "sha256": "d256af88ad3a40446e115b50d1e610b3d258159d4a17fb7c112287f9209f8503"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1018-1-2010",
+   "path": "ghid/sanatate/2010/10-18-1",
+   "short": "Ghid sanatate din 18 octombrie 2010",
+   "title": "Ghid din 18 octombrie 2010 de practică medicală pentru specialitatea urologie*) - \"GHID MINIMAL INVESTIGAȚIONAL AL PACIENTULUI CHIRURGICAL UROLOGIC\" - Anexa 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124060",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124060",
+     "sha256": "ed4071cd59b447cb873e117b94a3be249cf63cec19911f8051389fadbff530dc"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1018-2-2010",
+   "path": "ghid/sanatate/2010/10-18-2",
+   "short": "Ghid sanatate din 18 octombrie 2010",
+   "title": "Ghid din 18 octombrie 2010 de practică medicală pentru specialitatea reumatologie*) - \"GHID DE TRATAMENT AL POLIARTRITEI REUMATOIDE\" - Anexa 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124387",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124387",
+     "sha256": "fe3652ef08becfeb9b222c936c3cb4c110a47ae5e3c7f550cd9422039ffe93fc"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1018-3-2010",
+   "path": "ghid/sanatate/2010/10-18-3",
+   "short": "Ghid sanatate din 18 octombrie 2010",
+   "title": "Ghid din 18 octombrie 2010 de practică medicală pentru specialitatea endocrinologie*) - \"GHID PENTRU DIAGNOSTICUL ȘI TRATAMENTUL OSTEOPOROZEI LA BĂRBAȚI\" - Anexa 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125552",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125552",
+     "sha256": "e849c287f686a0aa1b27de776fc1694a454bc71d9819655355051ee070cc5690"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1108-1-2010",
+   "path": "ghid/sanatate/2010/11-08-1",
+   "short": "Ghid sanatate din 8 noiembrie 2010",
+   "title": "Ghid din 8 noiembrie 2010 de practică medicală pentru specialitatea medicină internă - \"Managementul pacienților cu boală arterială periferică\"*) - Anexa nr. 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126707",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126707",
+     "sha256": "90467fa35c4915899a9ced6b9f9732a31f8847f9261ca7293ce9d46258353c37"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1108-2-2010",
+   "path": "ghid/sanatate/2010/11-08-2",
+   "short": "Ghid sanatate din 8 noiembrie 2010",
+   "title": "Ghid din 8 noiembrie 2010 de practică medicală pentru specialitățile radiologie-imagistică medicală și medicină nucleară*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126930",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126930",
+     "sha256": "fb16228ad42653465a3d9ff156be446dc1aa7b9707e94881e8f0e6e6cb1f4ac6"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1108-3-2010",
+   "path": "ghid/sanatate/2010/11-08-3",
+   "short": "Ghid sanatate din 8 noiembrie 2010",
+   "title": "Ghid din 8 noiembrie 2010 de practică medicală pentru anemia secundară bolii cronice de rinichi - Anexa 1*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129061",
+   "versions": [
+    {
+     "from": "2011-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129061",
+     "sha256": "614177c0987f0aba7dca00d5fc842a2404d32dea74843c690e0040166baff965"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1130-2010",
+   "path": "ghid/sanatate/2010/11-30",
+   "short": "Ghid sanatate din 30 noiembrie 2010",
+   "title": "Ghid din 30 noiembrie 2010 de practică medicală pentru specialitatea geriatrie și gerontologie*) - \"Ghid practic de utilizare - Evaluarea geriatrică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126705",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126705",
+     "sha256": "140cb18544a4192cc5bf884e14eab57ec6f8a9aeaaeebfb685ea4b7c0de9614f"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1223-1-2010",
+   "path": "ghid/sanatate/2010/12-23-1",
+   "short": "Ghid sanatate din 23 decembrie 2010",
+   "title": "Ghid din 23 decembrie 2010 privind anestezia în imagistica prin rezonanță magnetică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218777",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218777",
+     "sha256": "c2ca4dbac4ccd584ac4e43be87f613e22862a53aa2c018a874e625eab25b890a"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1223-2-2010",
+   "path": "ghid/sanatate/2010/12-23-2",
+   "short": "Ghid sanatate din 23 decembrie 2010",
+   "title": "Ghid din 23 decembrie 2010 privind managementul anestezic al pacienților suferinzi de Sindromul Apneei Obstructive de Somn (SAOS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218783",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218783",
+     "sha256": "209ec6484ec323c26b41d0843e02d831fe750da1b9d4c0a7994878c9dd25a754"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1223-3-2010",
+   "path": "ghid/sanatate/2010/12-23-3",
+   "short": "Ghid sanatate din 23 decembrie 2010",
+   "title": "Ghid din 23 decembrie 2010 privind supravegherea postanestezică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218791",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218791",
+     "sha256": "9f86b92f0c49f4d22f5a09fb003e0f0c4745ee02aa2fcf6b7827373e84decf22"
+    }
+   ]
+  }
+ ]
+}

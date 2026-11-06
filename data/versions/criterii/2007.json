@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2007",
+ "acts": [
+  {
+   "slug": "criterii-sanatate-zi1119-2007",
+   "path": "criterii/sanatate/2007/11-19",
+   "short": "Criterii sanatate din 19 noiembrie 2007",
+   "title": "Criterii din 19 noiembrie 2007 medico-psihosociale de de încadrare în grad de handicap*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88950",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88950",
+     "sha256": "9401ae4919f37a066d51b506302abf86da20017296f3ffceebaa4fba0a320f7f"
+    }
+   ]
+  }
+ ]
+}

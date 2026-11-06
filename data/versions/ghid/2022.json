@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "ghid/2022",
+ "acts": [
+  {
+   "slug": "ghid-agricultura-zi1020-1-2022",
+   "path": "ghid/agricultura/2022/10-20-1",
+   "short": "Ghid agricultura din 20 octombrie 2022",
+   "title": "Ghidul solicitantului din 20 octombrie 2022 pentru Programul de investiții pentru înființarea centrelor de colectare și/sau prelucrare a laptelui în zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260765",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260765",
+     "sha256": "4f2b15a19b76ba95bd375f17bd6992cc27b0df5c7ee31744064e0f7c9c6282f3"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-agricultura-zi1020-2-2022",
+   "path": "ghid/agricultura/2022/10-20-2",
+   "short": "Ghid agricultura din 20 octombrie 2022",
+   "title": "Ghidul solicitantului din 20 octombrie 2022 pentru Programul de investiții pentru înființarea stânelor montane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260766",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260766",
+     "sha256": "2451fe7de44400adea04d70547a26887c4f3e60c9315807a78c6ba4e1f368b6f"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-familie-zi1101-2022",
+   "path": "ghid/familie/2022/11-01",
+   "short": "Ghid familie din 1 noiembrie 2022",
+   "title": "Ghid specific din 1 noiembrie 2022 Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C13/I1, componenta 13 - Reforme sociale, investiția I1 - Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263757",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263757",
+     "sha256": "873276ff14874a950d5a76085a2fe4c45f938241d9a3c1961e3015bc358e5f63"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-mediu-zi1004-2022",
+   "path": "ghid/mediu/2022/10-04",
+   "short": "Ghid mediu din 4 octombrie 2022",
+   "title": "Ghidul specific din 4 octombrie 2022 privind Condițiile de accesare a fondurilor europene aferente Planului național de redresare și reziliență, componenta C1 - Managementul apei, Investiția 3. Sprijinirea conectării populației cu venituri mici la rețelele de alimentare cu apă și canalizare existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260613",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260613",
+     "sha256": "1c9f0ff51f568b824835122d6e85332f11f38879b4ac402c1a859f8b7b189854"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1118-2022",
+   "path": "ghid/sanatate/2022/11-18",
+   "short": "Ghid sanatate din 18 noiembrie 2022",
+   "title": "Ghid de finanțare din 18 noiembrie 2022 pentru beneficiarii preselectați în cadrul apelului de proiecte competitiv - cod apel: MS-0212, pilonul V: Sănătate și reziliență instituțională, componenta 12: Sănătate, investiția: I2. Dezvoltarea infrastructurii spitalicești publice, investiția specifică: I2.1 - Infrastructură spitalicească publică nouă și investiția specifică: I2.2 - Echipamente și aparatură medicală, aferent Planului național de redresare și reziliență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261710",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261710",
+     "sha256": "2c653730ddfa65bcdc38a243ec3ca56c5779131191a79c41b6f2545375d11276"
+    }
+   ]
+  }
+ ]
+}

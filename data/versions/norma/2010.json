@@ -138,6 +138,96 @@
    ]
   },
   {
+   "slug": "norma-ansvsa-zi0120-2010",
+   "path": "norma/ansvsa/2010/01-20",
+   "short": "Norma ansvsa din 20 ianuarie 2010",
+   "title": "Norme metodologice din 20 ianuarie 2010 de aplicare a Programului acțiunilor de supraveghere, prevenire și control al bolilor la animale, al celor transmisibile de la animale la om, protecția animalelor și protecția mediului pentru anul 2010 (anexa nr. 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115882",
+   "versions": [
+    {
+     "from": "2010-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115882",
+     "sha256": "58dd99a0892b057996988080e72a44844cb0d0fa00bfb15a700edcbf01c70401"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi0316-2010",
+   "path": "norma/ansvsa/2010/03-16",
+   "short": "Norma ansvsa din 16 martie 2010",
+   "title": "Normă sanitară veterinară din 16 martie 2010 privind procedura de înregistrare/autorizare sanitar-veterinară a unităților/centrelor de colectare/exploatațiilor de origine și a mijloacelor de transport din domeniul sănătății și al bunăstării animalelor, precum și a unităților implicate în depozitarea și neutralizarea subproduselor de origine animală ce nu sunt destinate consumului uman și a produselor procesate *)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117673",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117673",
+     "sha256": "02261cba6d400223b11e5da0ffaedba246188ec3b3bf4dc74583f8c7195a4e21"
+    }
+   ]
+  },
+  {
+   "slug": "norma-ansvsa-zi0429-2010",
+   "path": "norma/ansvsa/2010/04-29",
+   "short": "Norma ansvsa din 29 aprilie 2010",
+   "title": "Norma sanitară veterinară din 29 aprilie 2010 pentru implementarea procesului de identificare și înregistrare a suinelor, ovinelor, caprinelor și bovinelor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118427",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118427",
+     "sha256": "42cc22843fc50c8db5b0a310826b35038319496d824955be88c1e41de781e66c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0205-2010",
+   "path": "norma/aparare/2010/02-05",
+   "short": "Norma aparare din 5 februarie 2010",
+   "title": "Norme din 5 februarie 2010 privind evaluarea competenței lingvistice în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116227",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116227",
+     "sha256": "eec4539d00e7b1ad3060288275c11903324dee1ed8b96bfdb6133b9f960acf0f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi1014-2010",
+   "path": "norma/aparare/2010/10-14",
+   "short": "Norma aparare din 14 octombrie 2010",
+   "title": "Norme proprii din 14 octombrie 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123847",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123847",
+     "sha256": "7692735064b11684964aebbac57e4ff8ebb44da8cd7008b6337a69065bdbf401"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0401-2010",
+   "path": "norma/cnas/2010/04-01",
+   "short": "Norma cnas din 1 aprilie 2010",
+   "title": "Norme metodologice din 1 aprilie 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117758",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117758",
+     "sha256": "02853b01c6f40c81d957208e63f729ac868fe456dc18d4e70c2bd5e28b833bde"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-1-2010",
    "path": "norma/csspp/2010/1",
    "short": "Norma csspp nr. 1/2010",
@@ -254,6 +344,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119306",
      "sha256": "fe3debb845f3f3cbf07856cfbd77b307ef7a51f7d46e86402e6aa29b2308a5aa"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi0415-2010",
+   "path": "norma/dezvoltare/2010/04-15",
+   "short": "Norma dezvoltare din 15 aprilie 2010",
+   "title": "Norme metodologice din 15 aprilie 2010 privind clasificarea structurilor de primire turistice*",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119050",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119050",
+     "sha256": "14a4c75ba80d91ad54381c636d14a7773ab9ecacfd2fd0017dd00e62351a034a"
     }
    ]
   }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ghid/2014",
+ "acts": [
+  {
+   "slug": "ghid-fonduri-zi0923-2014",
+   "path": "ghid/fonduri/2014/09-23",
+   "short": "Ghid fonduri din 23 septembrie 2014",
+   "title": "Ghidul solicitantului din 23 septembrie 2014 pentru dezvoltarea infrastructurii publice de cercetare-dezvoltare existente și crearea de noi infrastructuri(anexa nr. 2)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167427",
+   "versions": [
+    {
+     "from": "2014-09-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167427",
+     "sha256": "2987fb3a8faf570077ec4f97ea199eb5f67cc702722099634e5db7421b1d157c"
+    }
+   ]
+  }
+ ]
+}

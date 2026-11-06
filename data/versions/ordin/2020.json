@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-101-2020",
+   "path": "ordin/agricultura/2020/101",
+   "short": "Ordin agricultura nr. 101/2020",
+   "title": "Ordinul nr. 101/2020 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații CD 10 APT Bordei Verde din județul Brăila, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224862",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224862",
+     "sha256": "741433c1e4c9fef7ef87979890796bf7e623b1cd318b9e5621ceb347b6a00dc8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-109-2020",
    "path": "ordin/agricultura/2020/109",
    "short": "Ordin agricultura nr. 109/2020",
@@ -303,6 +318,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-146-2020",
+   "path": "ordin/agricultura/2020/146",
+   "short": "Ordin agricultura nr. 146/2020",
+   "title": "Ordinul nr. 146/2020 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Ulmu-Dorobanțu și al Organizației utilizatorilor de apă pentru irigații Vărăști-Pădure din județul Călărași, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226595",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226595",
+     "sha256": "0b3b6bcbb2402e7cee184863beee83d94a7e89e153612d73ca43c20d537fb21b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-147-2020",
+   "path": "ordin/agricultura/2020/147",
+   "short": "Ordin agricultura nr. 147/2020",
+   "title": "Ordinul nr. 147/2020 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SN Râmnicelu, Organizației utilizatorilor de apă pentru irigații SPP2 Râmnicelu, Organizației utilizatorilor de apă pentru irigații Imagini Tichilești, Organizației utilizatorilor de apă pentru irigații SPP 32 Grădiștea și al Organizației utilizatorilor de apă pentru irigații SPP 33+34 Grădiștea din județul Brăila, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226602",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226602",
+     "sha256": "f3174e48e1973ccf9366a0abbddf79ffebdf3add17d22ee867b709e5bfca7966"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-154-2020",
    "path": "ordin/agricultura/2020/154",
    "short": "Ordin agricultura nr. 154/2020",
@@ -329,6 +374,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226887",
      "sha256": "3d56837adf237d263c1c4845af7e27f956891e0e05d2a416531929623cb3a46f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-162-2020",
+   "path": "ordin/agricultura/2020/162",
+   "short": "Ordin agricultura nr. 162/2020",
+   "title": "Ordinul nr. 162/2020 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2020 al Institutului Național de Cercetare-Dezvoltare pentru Îmbunătățiri Funciare - I.N.C.D.I.F. - \"ISPIF\" București din coordonarea Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229730",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229730",
+     "sha256": "c23fafcb404752b76b1de459deaa4dd4a84801396a2f9489e84a927f7aaedf1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-170-2020",
+   "path": "ordin/agricultura/2020/170",
+   "short": "Ordin agricultura nr. 170/2020",
+   "title": "Ordinul nr. 170/2020 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Cosâmbești din județul Ialomița, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226966",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226966",
+     "sha256": "8cca42004337edbce5fc0fe620c95ee8109d99b96e955a219b85ccf7196d0f7f"
     }
    ]
   },
@@ -404,6 +479,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228479",
      "sha256": "a78c77e37001a34b2c05f00bbfa1f8cf74341ecf86f306de08768c8a6b191bf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-202-2020",
+   "path": "ordin/agricultura/2020/202",
+   "short": "Ordin agricultura nr. 202/2020",
+   "title": "Ordinul nr. 202/2020 privind modificarea numărului curent 2 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 204/2019 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Comana - SPP 1 TMB și al Organizației utilizatorilor de apă pentru irigații Hotarele din județul Giurgiu, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228452",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228452",
+     "sha256": "c21afad67c3801c42c052e22e64884a33b004f8df40dfc7a61c64962b4610627"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-203-2020",
+   "path": "ordin/agricultura/2020/203",
+   "short": "Ordin agricultura nr. 203/2020",
+   "title": "Ordinul nr. 203/2020 privind modificarea numerelor curente 1 și 2 din anexa la Ordinul ministrului agriculturii și dezvoltării rurale nr. 237/2019 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Prundu-Gostinari, al Organizației utilizatorilor de apă pentru irigații Prundu-Mislea și al Organizației utilizatorilor de apă pentru irigații Putineiu-Giurgiu din județul Giurgiu, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228453",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228453",
+     "sha256": "485f2033286380d68ba8025a2b90308943d50be77c9a657ee33e0cbfc62e6c69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-204-2020",
+   "path": "ordin/agricultura/2020/204",
+   "short": "Ordin agricultura nr. 204/2020",
+   "title": "Ordinul nr. 204/2020 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.497/2018 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Pietrele-Sam II din județul Giurgiu, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228454",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228454",
+     "sha256": "441e1e0c07e2378b9c2cb8cee642073c649834eac32c73db98a08ba0ef7ce359"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-205-2020",
+   "path": "ordin/agricultura/2020/205",
+   "short": "Ordin agricultura nr. 205/2020",
+   "title": "Ordinul nr. 205/2020 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Stația 25 și al Organizației utilizatorilor de apă pentru irigații SRPA 52 + 53 Tătaru din județul Brăila, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228455",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228455",
+     "sha256": "b1681c61ad7d59d38d98189dff8a11d14ae71d96c49a9c38009abd914aa405fe"
     }
    ]
   },
@@ -948,6 +1083,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-352-2020",
+   "path": "ordin/agricultura/2020/352",
+   "short": "Ordin agricultura nr. 352/2020",
+   "title": "Ordinul nr. 352/2020 pentru modificarea anexei nr. 3 la Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, nr. 946/2014 privind aprobarea Listei și a atribuțiilor specialiștilor care își desfășoară activitatea în cadrul direcțiilor pentru agricultură județene și a municipiului București, care fac parte din Oficiul de reglementare a organizațiilor de îmbunătățiri funciare, și a Listei specialiștilor împuterniciți să constate contravențiile și să aplice sancțiunile prevăzute la art. 83 din Legea îmbunătățirilor funciare nr. 138/2004, precum și pentru aprobarea modelului și conținutului legitimației speciale de identificare a acestora și a modelului procesului-verbal de constatare a contravențiilor și de aplicare a sancțiunilor în domeniul îmbunătățirilor funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235583",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235583",
+     "sha256": "49f3c75af2a4cc14bcbcf9c147b7cb54e24cca98d34224699ec3d218b61d4bf1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-358-2020",
    "path": "ordin/agricultura/2020/358",
    "short": "Ordin agricultura nr. 358/2020",
@@ -1023,6 +1173,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-4-2020",
+   "path": "ordin/agricultura/2020/4",
+   "short": "Ordin agricultura nr. 4/2020",
+   "title": "Ordinul nr. 4/2020 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare, în proprietatea Organizației utilizatorilor de apă pentru irigații Dragalina IV din județul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222004",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222004",
+     "sha256": "0df402c04fdfa92cd217a254a675d12c6878ea4fdeb9e95010a3dd2455bbd5ac"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-42-2020",
    "path": "ordin/agricultura/2020/42",
    "short": "Ordin agricultura nr. 42/2020",
@@ -1094,6 +1259,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223219",
      "sha256": "d20df14ff5ecb0a5d0c7991ffa36b4d277476d74ec867e673f85f4a17a29e5c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-54-2020",
+   "path": "ordin/agricultura/2020/54",
+   "short": "Ordin agricultura nr. 54/2020",
+   "title": "Ordinul nr. 54/2020 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Bordușani și al Organizației utilizatorilor de apă pentru irigații Grivița din județul Ialomița, în proprietatea acestor organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223239",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223239",
+     "sha256": "30ec5cf42aad73550eef3879a4adb9bbf75c99ccf227648a8e1e74c24160ca44"
     }
    ]
   },
@@ -4668,6 +4848,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-290-2020",
+   "path": "ordin/anrm/2020/290",
+   "short": "Ordin anrm nr. 290/2020",
+   "title": "Ordinul nr. 290/2020 privind aprobarea licenței de concesionare pentru explorare acordate în urma concursului public de oferte - Runda 94/2017, perimetrul Băltăgari Cătun, județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231157",
+   "versions": [
+    {
+     "from": "2020-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231157",
+     "sha256": "8461fcd5ec92f64761f21ed63157b600cb9820345c58c10d9482d1e6c8217ae3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-302-2020",
    "path": "ordin/anrm/2020/302",
    "short": "Ordin anrm nr. 302/2020",
@@ -4709,6 +4904,21 @@
      "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233274",
      "sha256": "d6cef26d6c86942ce87d15cdd5f0f48d2f46d988a25e2a7e86ec16a28cb6aa78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-400-2020",
+   "path": "ordin/anrm/2020/400",
+   "short": "Ordin anrm nr. 400/2020",
+   "title": "Ordinul nr. 400/2020 privind aprobarea transferului drepturilor și al obligațiilor prevăzute în Licența de concesiune nr. 3.285/2000 a activității de exploatare a nisipului și pietrișului din perimetrul Cristești-Drăgușeni, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236072",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236072",
+     "sha256": "8d4d44b047048da620ab91f4198559918f73acec20a0b7fcbab37783dc6a358f"
     }
    ]
   },
@@ -5489,6 +5699,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233626",
      "sha256": "720e543b86720268cee023840f77e873ca9c5dd322e58a582e267e76e9480c8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-207-2020",
+   "path": "ordin/aparare/2020/207",
+   "short": "Ordin aparare nr. 207/2020",
+   "title": "Ordinul nr. 207/2020 privind declasificarea și publicarea în Monitorul Oficial al României, Partea I, a unui ordin al ministrului apărării naționale emis în anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235578",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235578",
+     "sha256": "ffe563a7f7333963f7e6856ce60bc206e1fc8c23cdc57cb731127c4777688684"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-219-2020",
+   "path": "ordin/aparare/2020/219",
+   "short": "Ordin aparare nr. 219/2020",
+   "title": "Ordinul nr. 219/2020 privind declasificarea și publicarea în Monitorul Oficial al României, Partea I, a unui ordin al ministrului apărării naționale emis în anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236038",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236038",
+     "sha256": "f0f62f8679079bf5906cf7e8a29a0e993817636e344ce13784fb64f77f582824"
     }
    ]
   },
@@ -6963,6 +7203,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2589-2020",
+   "path": "ordin/cultura/2020/2589",
+   "short": "Ordin cultura nr. 2589/2020",
+   "title": "Ordinul nr. 2.589/2020 pentru reacreditarea Muzeului Național Cotroceni din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223163",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223163",
+     "sha256": "c26a6257543336adc779483346ae75384fd30f6d086f4b0ec9c4579f8921ba16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2595-2020",
+   "path": "ordin/cultura/2020/2595",
+   "short": "Ordin cultura nr. 2595/2020",
+   "title": "Ordinul nr. 2.595/2020 privind clasarea ca monument istoric a imobilului situat la adresa poștală Str. Primăriei nr. 25, municipiul Oradea, județul Bihor, în Lista monumentelor istorice, cu denumirea Sinagoga Ortodoxă Aachvas Rein, în categoria II - arhitectură, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226992",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20211202063806id_/https://legislatie.just.ro/Public/DetaliiDocument/226992",
+     "sha256": "09866579d359715cde5d3a8a0ba54d2de47d0d955b9df8a155a1de1a4eb9f51f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2621-2020",
    "path": "ordin/cultura/2020/2621",
    "short": "Ordin cultura nr. 2621/2020",
@@ -6993,6 +7263,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2731-2020",
+   "path": "ordin/cultura/2020/2731",
+   "short": "Ordin cultura nr. 2731/2020",
+   "title": "Ordinul nr. 2.731/2020 privind clasarea ca monument istoric a imobilului situat în localitatea Cerneteaz, comuna Giarmata, județul Timiș, în Lista monumentelor istorice, cu denumirea Pod de cărămidă, în categoria II - arhitectură, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226993",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20211201150145id_/https://legislatie.just.ro/Public/DetaliiDocument/226993",
+     "sha256": "ca8df92aca8ee29abbcffa1f80d5d607dbfd9268546b81bea51165b67eb5634e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2738-2020",
    "path": "ordin/cultura/2020/2738",
    "short": "Ordin cultura nr. 2738/2020",
@@ -7004,6 +7289,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223854",
      "sha256": "1f25661723f98a89f64b0a1f4fa166db465e262234ee7941e1e0fa54293f64a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2765-2020",
+   "path": "ordin/cultura/2020/2765",
+   "short": "Ordin cultura nr. 2765/2020",
+   "title": "Ordinul nr. 2.765/2020 privind clasarea ca monumente istorice a imobilelor situate la adresa poștală str. Calea București nr. 113 (au figurat succesiv și la nr. 117 și 173), municipiul Craiova, județul Dolj, în Lista monumentelor istorice, cu denumirea Moara Drugă ca a - ansamblu, respectiv cu denumirile Moara Barbu Drugă și Depozit - Rizerie în categoria m - monument, toate în categoria II - arhitectură, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292198",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292198",
+     "sha256": "d69d6125fa2a61341e40f7b09523f692aa67724fb30d3ef220ae1cbd33ddc86b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2779-2020",
+   "path": "ordin/cultura/2020/2779",
+   "short": "Ordin cultura nr. 2779/2020",
+   "title": "Ordinul nr. 2.779/2020 privind declasarea parțială din Lista monumentelor istorice a monumentului istoric cu denumirea Casă, situat la adresa poștală Calea Griviței nr. 28, sectorul 1, București, având codul LMI B-II-m-B-18845, respectiv declasarea anexelor C1, C2, C8, C9",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226994",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20211202063757id_/https://legislatie.just.ro/Public/DetaliiDocument/226994",
+     "sha256": "05e047835a355ee4d11d0a7087c571cd4282eb6e5d792c4ac83f5e5ab709c108"
     }
    ]
   },
@@ -7034,6 +7349,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225314",
      "sha256": "8f406d56374fa39a87e17c8386b42afc6e1ea295736fe485e6f6d7ee51ca117b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2827-2020",
+   "path": "ordin/cultura/2020/2827",
+   "short": "Ordin cultura nr. 2827/2020",
+   "title": "Ordinul nr. 2.827/2020 privind clasarea imobilului situat la adresa poștală str. Ion Codru Drăgușanu nr. 5, municipiul Sibiu, județul Sibiu, în Lista monumentelor istorice, cu denumirea Casa Lucian Blaga, fosta casă Caius Brediceanu, în categoria IV - monumente memoriale/funerare, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227015",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227015",
+     "sha256": "46da4fcbdd32d5714583a499cfb5313e95fc058bd450c240b1e5988d3ff6493f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2828-2020",
+   "path": "ordin/cultura/2020/2828",
+   "short": "Ordin cultura nr. 2828/2020",
+   "title": "Ordinul nr. 2.828/2020 privind declasarea parțială din Lista monumentelor istorice a imobilului monument istoric clasat cu denumirea Casa Irimia, azi Căminul de bătrâni, situat la adresa poștală Str. Polonă nr. 22, municipiul Brăila, județul Brăila, având cod LMI BR-II-m-B-02122",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234514",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20211202063819id_/https://legislatie.just.ro/Public/DetaliiDocument/234514",
+     "sha256": "dae9a8a18589fd59dcab41f20696f68994203177cb6952680b7c76989152aead"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2830-2020",
+   "path": "ordin/cultura/2020/2830",
+   "short": "Ordin cultura nr. 2830/2020",
+   "title": "Ordinul nr. 2.830/2020 privind declasarea din Lista monumentelor istorice a monumentului istoric clasat cu denumirea Casa Sofia Cavaleru, având cod LMI B-II-m-B-19265, situat la adresa poștală str. Munții Tatra 21, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232974",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232974",
+     "sha256": "46c2b6643659f297d43edb891d1933ce86d4f5ffa494ead73562513a72f42bb2"
     }
    ]
   },
@@ -7083,6 +7443,51 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2918-2020",
+   "path": "ordin/cultura/2020/2918",
+   "short": "Ordin cultura nr. 2918/2020",
+   "title": "Ordinul nr. 2.918/2020 privind declasarea monumentului istoric clasat cu denumirea Casa Mihuțescu, având codul LMI GJ-II-m-B-09212, situat la adresa poștală satul Baia de Fier, comuna Baia de Fier, județul Gorj, din Lista monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230859",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230859",
+     "sha256": "976629817f9a2307570f1b1bef2bf40d0a5202f280ad80b291e88fc74ec16c52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2926-2020",
+   "path": "ordin/cultura/2020/2926",
+   "short": "Ordin cultura nr. 2926/2020",
+   "title": "Ordinul nr. 2.926/2020 pentru reacreditarea Muzeului de Artă Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226988",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226988",
+     "sha256": "367347f419da5b6b6b81f7d84ce7cb50728fbb77f5d7793c4d8c856f848f1273"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2927-2020",
+   "path": "ordin/cultura/2020/2927",
+   "short": "Ordin cultura nr. 2927/2020",
+   "title": "Ordinul nr. 2.927/2020 pentru reacreditarea Muzeului Militar Național \"Regele Ferdinand I\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226989",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226989",
+     "sha256": "51733c19716078d5a750fa1f8f40dd6a2cafac4b8a364346b8b3bbad2094e98b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2941-2020",
    "path": "ordin/cultura/2020/2941",
    "short": "Ordin cultura nr. 2941/2020",
@@ -7094,6 +7499,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226915",
      "sha256": "91a530d3aac65974e384f36e0927e85f5780976418f7dc136c1f91ca88d9e56f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3005-2020",
+   "path": "ordin/cultura/2020/3005",
+   "short": "Ordin cultura nr. 3005/2020",
+   "title": "Ordinul nr. 3.005/2020 privind schimbarea de grupă din B în A a monumentului istoric Palatul Băncii Naționale, situat la adresa poștală Bd. Revoluției nr. 72, municipiul Arad, județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229262",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229262",
+     "sha256": "bd4c3aa0d04456bc8d821d387c0ea742a8fed2f4eb5d2471699913bf17ba000d"
     }
    ]
   },
@@ -7113,6 +7533,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3060-2020",
+   "path": "ordin/cultura/2020/3060",
+   "short": "Ordin cultura nr. 3060/2020",
+   "title": "Ordinul nr. 3.060/2020 pentru acreditarea Muzeului de Artă Recentă - MARe din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229132",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229132",
+     "sha256": "217a03605c41d0c8e9e1339e12cdfee72024b13a96c2f7c1cf2763256e7fa121"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3061-2020",
+   "path": "ordin/cultura/2020/3061",
+   "short": "Ordin cultura nr. 3061/2020",
+   "title": "Ordinul nr. 3.061/2020 pentru acreditarea Complexului Național Muzeal \"Curtea Domnească\" din Târgoviște, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229133",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229133",
+     "sha256": "b2ac81b5d101d08011f67b5eba69a17bf551c043a4aad35ee88b14935cc150b7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3146-2020",
    "path": "ordin/cultura/2020/3146",
    "short": "Ordin cultura nr. 3146/2020",
@@ -7124,6 +7574,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229772",
      "sha256": "ced029ea63b3d92925fb39839359706c36de92d477a18d4e2764a52ed7b4ba65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3152-2020",
+   "path": "ordin/cultura/2020/3152",
+   "short": "Ordin cultura nr. 3152/2020",
+   "title": "Ordinul nr. 3.152/2020 privind schimbarea categoriei și a datării monumentului istoric \"Ansamblul conacului Cantacuzino-Pașcanu\", situat în satul Ceplenița, comuna Ceplenița, județul Iași, schimbarea denumirii monumentului istoric \"Zid de incintă\", componentă în cadrul \"Ansamblului conacului Cantacuzino-Pașcanu\", și clasarea ca monumente istorice în categoria m - monument, II - Arhitectură, grupa B, a obiectivelor \"Ruinele conacului Cantacuzino-Pașcanu\" și \"Zidul de incintă al conacului\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231525",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231525",
+     "sha256": "022605cfb8787da5ada9427562240a9df202e931c1f79d2bcad18918700a55c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3166-2020",
+   "path": "ordin/cultura/2020/3166",
+   "short": "Ordin cultura nr. 3166/2020",
+   "title": "Ordinul nr. 3.166/2020 privind clasarea obiectivului \"Depozitul de tutun brut\", situat la adresa poștală Șoseaua Națională nr. 1, municipiul Iași, județul Iași, în Lista monumentelor istorice, precum și schimbarea de categorie a monumentului istoric \"Fosta manufactură de tutun, azi Fabrica de Țigarete\", situat la adresa poștală Șoseaua Națională nr. 1, municipiul Iași, județul Iași, din m - monument în a - ansamblu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232975",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232975",
+     "sha256": "a3a08a3da016c22134af2de7e2f8e25623de6738c99edf6c95c4ea4d9efe9f08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3177-2020",
+   "path": "ordin/cultura/2020/3177",
+   "short": "Ordin cultura nr. 3177/2020",
+   "title": "Ordinul nr. 3.177/2020 privind clasarea ca monument istoric a imobilului situat la adresa poștală Str. Poștei nr. 2, Cluj-Napoca, județul Cluj, în Lista monumentelor istorice, cu denumirea Palatul telefoanelor, în categoria II - arhitectură, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299423",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299423",
+     "sha256": "a76da16bdcc88722e0a6adaa19f4361b3859db66932cc33c8a9e777f322375bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3185-2020",
+   "path": "ordin/cultura/2020/3185",
+   "short": "Ordin cultura nr. 3185/2020",
+   "title": "Ordinul nr. 3.185/2020 privind clasarea ca monument istoric a imobilului situat la adresa poștală str. Călugăreni nr. 1, satul Malcoci, comuna Nufăru, județul Tulcea, cu denumirea Biserica romano-catolică \"Sf. Gheorghe\", în categoria II - arhitectură, m - monument, grupa A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234515",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20211201150128id_/https://legislatie.just.ro/Public/DetaliiDocument/234515",
+     "sha256": "108e879f7a899c9c332d0edfe0d4810a0862d9e34bf726e14205d346edf47fe3"
     }
    ]
   },
@@ -7143,6 +7653,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3241-2020",
+   "path": "ordin/cultura/2020/3241",
+   "short": "Ordin cultura nr. 3241/2020",
+   "title": "Ordinul nr. 3.241/2020 privind clasarea în Lista monumentelor istorice, categoria for public, monument, grupa valorică B, a statuii \"Monumentul Eroilor\" din str. Ana Ipătescu f.n., orașul Răcari, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232976",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232976",
+     "sha256": "b9af1aabb2a4e56e9844d44b48e1cc8eda161c1494c5a5ad15f3951db05e593d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3245-2020",
    "path": "ordin/cultura/2020/3245",
    "short": "Ordin cultura nr. 3245/2020",
@@ -7154,6 +7679,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231714",
      "sha256": "397598a255ccc766655788cf292967bc0a517183169e3401d1de5947875d550c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3251-2020",
+   "path": "ordin/cultura/2020/3251",
+   "short": "Ordin cultura nr. 3251/2020",
+   "title": "Ordinul nr. 3.251/2020 pentru reacreditarea Muzeului Județean Buzău din municipiul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232977",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232977",
+     "sha256": "3d4a9c27e3f953367108a3d3d21df6ec2afaea7553bcac76b8ae292d6d97ad04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3261-2020",
+   "path": "ordin/cultura/2020/3261",
+   "short": "Ordin cultura nr. 3261/2020",
+   "title": "Ordinul nr. 3.261/2020 privind clasarea imobilului situat la adresa poștală Str. Parcului nr. 2, municipiul Câmpina, județul Prahova în Lista monumentelor istorice, cu denumirea Capela Dumitru V. Hernia, grupa A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235166",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235166",
+     "sha256": "da0f0ea23aa6fcb708f5b4b3232ded8f53bd2475baff8e9b60d78a7d83ea32b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3337-2020",
+   "path": "ordin/cultura/2020/3337",
+   "short": "Ordin cultura nr. 3337/2020",
+   "title": "Ordinul nr. 3.337/2020 privind declasarea parțială din Lista monumentelor istorice a monumentului istoric cu denumirea Casa Stoicescu-Mărculescu, având codul LMI IS-II-m-B-03799, respectiv declasarea construcției cu nr. cadastral 131313-C1 situate la adresa poștală str. Sărărie nr. 155A, municipiul Iași, județul Iași, parte a imobilului clasat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241985",
+   "versions": [
+    {
+     "from": "2021-05-04",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20211202063735id_/https://legislatie.just.ro/Public/DetaliiDocument/241985",
+     "sha256": "c9b6610c3ab4d5a7e4fdbb330041307fe83d905eace34d7f4d20f4b9f405bd0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3343-2020",
+   "path": "ordin/cultura/2020/3343",
+   "short": "Ordin cultura nr. 3343/2020",
+   "title": "Ordinul nr. 3.343/2020 privind clasarea ca monument istoric a imobilului situat la adresa poștală cartier Siliștioara, orașul Corabia, județul Olt, în Lista monumentelor istorice, cu denumirea Monumentul Independenței, în categoria III - for public, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238151",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238151",
+     "sha256": "b5ac519945fa1774835ecc4f189799ece6bf0e288bccdf0c4313956d99a0adb9"
     }
    ]
   },
@@ -7188,6 +7773,141 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3469-2020",
+   "path": "ordin/cultura/2020/3469",
+   "short": "Ordin cultura nr. 3469/2020",
+   "title": "Ordinul nr. 3.469/2020 privind clasarea ca monumente istorice a imobilelor situate la adresa poștală Aleea Cimitirului Evreiesc nr. 70, municipiul Iași, județul Iași, în Lista monumentelor istorice, cu denumirile Cimitirul Evreiesc ca a - ansamblu, grupa A, respectiv cu denumirile Capela eroilor evrei și Divizia eroilor evrei ca m - monumente în grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238889",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238889",
+     "sha256": "a01d560585f11f0f300d88613d5ca47da85965ab92b091bdb6f4a3be6b40dadc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3473-2020",
+   "path": "ordin/cultura/2020/3473",
+   "short": "Ordin cultura nr. 3473/2020",
+   "title": "Ordinul nr. 3.473/2020 privind clasarea imobilului situat la adresa poștală Str. Moscovei nr. 8, municipiul Oradea, județul Bihor, în Lista monumentelor istorice, cu denumirea Palatul și Tipografia Sonnenfeld, categoria II - arhitectură, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237657",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237657",
+     "sha256": "b33c152df7b400fb07f93917967c11326ea15e0c73f0d326cff8fd5932f43756"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3474-2020",
+   "path": "ordin/cultura/2020/3474",
+   "short": "Ordin cultura nr. 3474/2020",
+   "title": "Ordinul nr. 3.474/2020 privind clasarea în Lista monumentelor istorice a Chiliilor de pe latura nordică a incintei în cadrul Mănăstirii Sinaia - Ansamblul nou ca monument istoric situat în Str. Mănăstirii nr. 2, orașul Sinaia, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237658",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237658",
+     "sha256": "e13d79b56888cc9edb6e1cc577d76f70848330625eed74772c5189bf558ae69a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3477-2020",
+   "path": "ordin/cultura/2020/3477",
+   "short": "Ordin cultura nr. 3477/2020",
+   "title": "Ordinul nr. 3.477/2020 privind clasarea imobilului situat la adresa poștală str. Caraiman nr. 5, Bușteni, județul Prahova, în Lista monumentelor istorice, cu denumirea Casa Otto Schiel - corp C1, în categoria II - arhitectură, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294719",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294719",
+     "sha256": "66d5b46af2354464931f4e706d399eeb84e68ec71f43c493c4cba094a91f6935"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3478-2020",
+   "path": "ordin/cultura/2020/3478",
+   "short": "Ordin cultura nr. 3478/2020",
+   "title": "Ordinul nr. 3.478/2020 privind clasarea ca monument istoric a imobilului situat la adresa poștală str. Duiliu Zamfirescu nr. 10, municipiul Oradea, județul Bihor, în Lista monumentelor istorice, cu denumirea Casa Dr. Aron Nemeș, în categoria II - arhitectură, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238933",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238933",
+     "sha256": "36225b5aa59024cd9023513bb75593b57b4a58d8b73d0a452857cafce0a71f62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3479-2020",
+   "path": "ordin/cultura/2020/3479",
+   "short": "Ordin cultura nr. 3479/2020",
+   "title": "Ordinul nr. 3.479/2020 privind clasarea imobilului situat la adresa poștală Parcul Traian 1, municipiul Oradea, județul Bihor, în Lista monumentelor istorice, cu denumirea Palatul Rimanóczy Kálmán Sr., categoria II - arhitectură, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238934",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238934",
+     "sha256": "e4115f202076dd1eba170cc016256618c5a9f69c0d022242812fb9368fa852c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3492-2020",
+   "path": "ordin/cultura/2020/3492",
+   "short": "Ordin cultura nr. 3492/2020",
+   "title": "Ordinul nr. 3.492/2020 privind clasarea ca monument istoric a imobilului situat în localitatea satul Negrești, comuna Negrești, județul Neamț, în Lista monumentelor istorice, cu denumirea Casa memorială \"Dumitru Almaș\", în categoria IV - monumente memoriale/funerare, m - monument, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238888",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20211201150225id_/https://legislatie.just.ro/Public/DetaliiDocument/238888",
+     "sha256": "c209fa38424055adba5563190da700033a714b7bd34723dc5ccdfc202049baf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3493-2020",
+   "path": "ordin/cultura/2020/3493",
+   "short": "Ordin cultura nr. 3493/2020",
+   "title": "Ordinul nr. 3.493/2020 privind clasarea imobilelor situate la adresa poștală satul Pribești, comuna Codăești, județul Vaslui, în Lista monumentelor istorice, cu denumirile Fântână, Corp secundar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237659",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237659",
+     "sha256": "6e0b98e9399269e077078acb20b4b4a7bf132391f2fd113f777140d2967e6e90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3494-2020",
+   "path": "ordin/cultura/2020/3494",
+   "short": "Ordin cultura nr. 3494/2020",
+   "title": "Ordinul nr. 3.494/2020 privind clasarea ca monument istoric a imobilului situat la adresa poștală str. Eternitate nr. 121, municipiul Iași, județul Iași, în Lista monumentelor istorice, cu denumirea Ansamblul Cimitirului Eternitatea, în categoria IV - monumente memoriale și funerare, a - ansamblu, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239117",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250219150944id_/https://legislatie.just.ro/Public/DetaliiDocument/239117",
+     "sha256": "14e733092f29c6a302528d6399cba0f8e6e4196794a9d952c1dc3db8918f7fc4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3507-2020",
    "path": "ordin/cultura/2020/3507",
    "short": "Ordin cultura nr. 3507/2020",
@@ -7214,6 +7934,36 @@
      "units": 3,
      "source_url": "https://web.archive.org/web/20250628071137id_/https://legislatie.just.ro/Public/DetaliiDocument/235725",
      "sha256": "6d4e1fea289aecec5c54c25113892d58e550c58b2d7a4a9ec6f468f83057c0b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3518-2020",
+   "path": "ordin/cultura/2020/3518",
+   "short": "Ordin cultura nr. 3518/2020",
+   "title": "Ordinul nr. 3.518/2020 pentru reacreditarea Muzeului Viticulturii și Pomiculturii Golești din Ștefănești, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236505",
+   "versions": [
+    {
+     "from": "2021-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236505",
+     "sha256": "1d28b09f644dec9ec29e3e6538678975ae13f323449e5526146f9b7d2b4b2518"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3519-2020",
+   "path": "ordin/cultura/2020/3519",
+   "short": "Ordin cultura nr. 3519/2020",
+   "title": "Ordinul nr. 3.519/2020 pentru reacreditarea Muzeului \"Casa Mureșenilor\" din Brașov, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236506",
+   "versions": [
+    {
+     "from": "2021-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236506",
+     "sha256": "ee90144cf22355bfd426f93be0ab52acebf7c82f3f2a346202928c2b53f73016"
     }
    ]
   },
@@ -7863,6 +8613,1716 @@
    ]
   },
   {
+   "slug": "ordin-dsu-4659201-2020",
+   "path": "ordin/dsu/2020/4659201",
+   "short": "Ordin dsu nr. 4659201/2020",
+   "title": "Ordinul nr. 4.659.201/2020 privind instituirea carantinei zonale în localitatea Cartojani, comuna Roata de Jos, județul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228018",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228018",
+     "sha256": "6c376a1c2ef2cb32ee9825a84326a0e2f34a8019ed5758603fa81d93b31587f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659202-2020",
+   "path": "ordin/dsu/2020/4659202",
+   "short": "Ordin dsu nr. 4659202/2020",
+   "title": "Ordinul nr. 4.659.202/2020 privind instituirea carantinei zonale în localitatea Gornet, comuna Gornet, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228041",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228041",
+     "sha256": "9d4bef8e315e269d79f6720761fef6208817e85471d69b14a8067864b0f85e47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659206-2020",
+   "path": "ordin/dsu/2020/4659206",
+   "short": "Ordin dsu nr. 4659206/2020",
+   "title": "Ordinul nr. 4.659.206/2020 privind instituirea carantinei zonale în orașul Făget și satele aparținătoare Bichigi, Temerești și Colonia Mică din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228392",
+   "versions": [
+    {
+     "from": "2020-07-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228392",
+     "sha256": "c338ccffd54124be9f4c8c25a9a9175e81da2149eba8862d62f898aa21407801"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659263-2020",
+   "path": "ordin/dsu/2020/4659263",
+   "short": "Ordin dsu nr. 4659263/2020",
+   "title": "Ordinul nr. 4.659.263/2020 privind instituirea carantinei zonale în satele Seleuș și Moroda din comuna Seleuș, județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228587",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228587",
+     "sha256": "5508faa710a838cf9deac38b4738f60149188bd72a6f1821bbf76a4396ff4bca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659264-2020",
+   "path": "ordin/dsu/2020/4659264",
+   "short": "Ordin dsu nr. 4659264/2020",
+   "title": "Ordinul nr. 4.659.264/2020 privind instituirea carantinei zonale în satele Gurahonț și Bonțești din comuna Gurahonț, județul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228588",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20200929120028id_/https://legislatie.just.ro/Public/DetaliiDocument/228588",
+     "sha256": "3eea83a8b727fa4a103468f9d809db6453b9303ef30befa676e0e74f1091ee09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659265-2020",
+   "path": "ordin/dsu/2020/4659265",
+   "short": "Ordin dsu nr. 4659265/2020",
+   "title": "Ordinul nr. 4.659.265/2020 privind instituirea carantinei zonale în comuna Bălilești, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228589",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20200929104439id_/https://legislatie.just.ro/Public/DetaliiDocument/228589",
+     "sha256": "3a5ead9526ad51cd33f31b1d624b4988f345a3d92cc577a84211c80405d50583"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659266-2020",
+   "path": "ordin/dsu/2020/4659266",
+   "short": "Ordin dsu nr. 4659266/2020",
+   "title": "Ordinul nr. 4.659.266/2020 privind instituirea carantinei zonale în comuna Dârmănești, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228590",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228590",
+     "sha256": "573112212d4d7c60ef33bf870ffdd97ea266efbbf1699e525336edcb2250538d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659267-2020",
+   "path": "ordin/dsu/2020/4659267",
+   "short": "Ordin dsu nr. 4659267/2020",
+   "title": "Ordinul nr. 4.659.267/2020 privind încetarea carantinei zonale instituite la nivelul satului Cartojani, comuna Roata de Jos, județul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228591",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228591",
+     "sha256": "f978e88802702b08d8feeabd3657faf287ca5e5d118f9a4b53d845e51fce5b01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659570-2020",
+   "path": "ordin/dsu/2020/4659570",
+   "short": "Ordin dsu nr. 4659570/2020",
+   "title": "Ordinul nr. 4.659.570/2020 privind instituirea carantinei zonale în comuna Cuca, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230849",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230849",
+     "sha256": "3e1c45baf59f428f9f2a4ac4bfda09276bce2ef23d740ba6bc07f0931d4fd529"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659587-2020",
+   "path": "ordin/dsu/2020/4659587",
+   "short": "Ordin dsu nr. 4659587/2020",
+   "title": "Ordinul nr. 4.659.587/2020 privind instituirea carantinei zonale în satul Dobra, comuna Dobra, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230954",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230954",
+     "sha256": "eb0376cba82257dda25dd73fa5fb0a8d0a1e73c645761685350890655c68aa07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659705-2020",
+   "path": "ordin/dsu/2020/4659705",
+   "short": "Ordin dsu nr. 4659705/2020",
+   "title": "Ordinul nr. 4.659.705/2020 privind instituirea carantinei zonale în comuna Fântânele din județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231607",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231607",
+     "sha256": "3b2f245a74ea336ed1f9cc34fbcdd73a05e9ff9e914c7f6833e12855e2a2af4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659708-2020",
+   "path": "ordin/dsu/2020/4659708",
+   "short": "Ordin dsu nr. 4659708/2020",
+   "title": "Ordinul nr. 4.659.708/2020 privind instituirea carantinei zonale în localitatea Sic din comuna Sic, din județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231643",
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231643",
+     "sha256": "54e2ecf78bb2458596f8a7e4c9ee9295601d4dd18f27c76638aef9221964d5c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659709-2020",
+   "path": "ordin/dsu/2020/4659709",
+   "short": "Ordin dsu nr. 4659709/2020",
+   "title": "Ordinul nr. 4.659.709/2020 privind instituirea carantinei zonale în localitatea Săvădisla din comuna Săvădisla, din județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231644",
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231644",
+     "sha256": "131801547889dbca8007c7f3867caa111dc3d4e586a19a62390c1e04035992d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659720-2020",
+   "path": "ordin/dsu/2020/4659720",
+   "short": "Ordin dsu nr. 4659720/2020",
+   "title": "Ordinul nr. 4.659.720/2020 privind instituirea carantinei zonale în localitatea Petrova, din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231691",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231691",
+     "sha256": "955ef55e4bbc7aa20bd55a63c32dede8492ad08b3398b964864ebb185499deb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659722-2020",
+   "path": "ordin/dsu/2020/4659722",
+   "short": "Ordin dsu nr. 4659722/2020",
+   "title": "Ordinul nr. 4.659.722/2020 privind instituirea carantinei zonale în localitatea Vișeu de Jos, din județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231692",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231692",
+     "sha256": "eadff0b5ed4c72d6557517cbc3cc629e01a61573b648913ffe735eddacffe544"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659732-2020",
+   "path": "ordin/dsu/2020/4659732",
+   "short": "Ordin dsu nr. 4659732/2020",
+   "title": "Ordinul nr. 4.659.732/2020 privind prelungirea măsurii de carantină zonală instituită pentru comuna Ivești din județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231741",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231741",
+     "sha256": "4918e817d3e8eb974f6eaa5a82e287a63f0430eb9f6d8da0830db9b947878672"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659738-2020",
+   "path": "ordin/dsu/2020/4659738",
+   "short": "Ordin dsu nr. 4659738/2020",
+   "title": "Ordinul nr. 4.659.738/2020 privind instituirea carantinei zonale în comuna Recea, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231826",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231826",
+     "sha256": "804661ef6558440cfca265778ed83ea80b712a5ebcb38656160a5f2dc3da8511"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659815-2020",
+   "path": "ordin/dsu/2020/4659815",
+   "short": "Ordin dsu nr. 4659815/2020",
+   "title": "Ordinul nr. 4.659.815/2020 privind instituirea carantinei zonale pentru municipiul Zalău, județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232590",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232590",
+     "sha256": "d582f0aee68631eb2ce6b50b1904f22470a6487e1a3b09a8b5f757c640711751"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659816-2020",
+   "path": "ordin/dsu/2020/4659816",
+   "short": "Ordin dsu nr. 4659816/2020",
+   "title": "Ordinul nr. 4.659.816/2020 privind instituirea carantinei zonale pentru orașul Jibou, județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232591",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232591",
+     "sha256": "c496b38e2fc322f22f8a6cae7db754e0592d37c7977afb255df6c4a7a9ddf63e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659817-2020",
+   "path": "ordin/dsu/2020/4659817",
+   "short": "Ordin dsu nr. 4659817/2020",
+   "title": "Ordinul nr. 4.659.817/2020 privind instituirea carantinei zonale pentru orașul Cehu Silvaniei, județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232592",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232592",
+     "sha256": "ff6437f2fb802743de392294c2bd0313c7b940aa7743814051328d2a8c75261a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659818-2020",
+   "path": "ordin/dsu/2020/4659818",
+   "short": "Ordin dsu nr. 4659818/2020",
+   "title": "Ordinul nr. 4.659.818/2020 privind instituirea carantinei zonale pentru municipiul Gherla, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232593",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232593",
+     "sha256": "ccacda904d8aff6af29a4b407e91ee1394cfd168c2c875130fd37da8b7c80f02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659824-2020",
+   "path": "ordin/dsu/2020/4659824",
+   "short": "Ordin dsu nr. 4659824/2020",
+   "title": "Ordinul nr. 4.659.824/2020 privind instituirea carantinei zonale pentru localitatea Dudeștii Noi, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232650",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232650",
+     "sha256": "bb4a21c17993ab10ac270d2404a748c70f49d6a00ea8674e84f396e00506d57e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659825-2020",
+   "path": "ordin/dsu/2020/4659825",
+   "short": "Ordin dsu nr. 4659825/2020",
+   "title": "Ordinul nr. 4.659.825/2020 privind instituirea carantinei zonale pentru localitatea Giroc, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232651",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232651",
+     "sha256": "5bbf83712ac05fe5c811ceb0e45a158f32336d5fc051ddd9e22fda3527fad728"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659826-2020",
+   "path": "ordin/dsu/2020/4659826",
+   "short": "Ordin dsu nr. 4659826/2020",
+   "title": "Ordinul nr. 4.659.826/2020 privind instituirea carantinei zonale pentru localitatea Pesac, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232652",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232652",
+     "sha256": "3a7c71c621c1ca7946540201e8f262f2a99805b9f30e395a3ab116e4d17ac1cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659827-2020",
+   "path": "ordin/dsu/2020/4659827",
+   "short": "Ordin dsu nr. 4659827/2020",
+   "title": "Ordinul nr. 4.659.827/2020 privind instituirea carantinei zonale pentru localitatea Dumbrăvița, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232653",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232653",
+     "sha256": "4dfb5a63413dc8b011660c945b50aaa49d6b793d669a24adf0bc77ad76f62fb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659828-2020",
+   "path": "ordin/dsu/2020/4659828",
+   "short": "Ordin dsu nr. 4659828/2020",
+   "title": "Ordinul nr. 4.659.828/2020 privind instituirea carantinei zonale pentru localitatea Becicherecu Mic, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232654",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232654",
+     "sha256": "0016594c0a2dba30eca618a3732baee52920fcbf86dfaa7aa39b4fc5a1a873bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659829-2020",
+   "path": "ordin/dsu/2020/4659829",
+   "short": "Ordin dsu nr. 4659829/2020",
+   "title": "Ordinul nr. 4.659.829/2020 privind instituirea carantinei zonale pentru localitatea Fibiș, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232655",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232655",
+     "sha256": "ba86b65d0e38404a2d58cba1755c054793e158257fb80495c9c918b2b896f324"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659830-2020",
+   "path": "ordin/dsu/2020/4659830",
+   "short": "Ordin dsu nr. 4659830/2020",
+   "title": "Ordinul nr. 4.659.830/2020 privind instituirea carantinei zonale pentru localitatea Ghiroda, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232656",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232656",
+     "sha256": "48a320a668504ea62e31277eba25cde53db55ba24936bebd74ef35b32f2d5200"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659831-2020",
+   "path": "ordin/dsu/2020/4659831",
+   "short": "Ordin dsu nr. 4659831/2020",
+   "title": "Ordinul nr. 4.659.831/2020 privind instituirea carantinei zonale pentru localitatea Moșnița Nouă, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232657",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232657",
+     "sha256": "4c15484146a6c480865fc481d1ba653d67466fc8583d3783539f17a7ddcbe837"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659851-2020",
+   "path": "ordin/dsu/2020/4659851",
+   "short": "Ordin dsu nr. 4659851/2020",
+   "title": "Ordinul nr. 4.659.851/2020 privind prelungirea măsurii de carantină zonală pentru localitatea Petrova, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232737",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232737",
+     "sha256": "704e4eda3194428b33480a8e1be394079a0cd1b47b751d8ae1d6086dfcdb928d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659852-2020",
+   "path": "ordin/dsu/2020/4659852",
+   "short": "Ordin dsu nr. 4659852/2020",
+   "title": "Ordinul nr. 4.659.852/2020 privind instituirea carantinei zonale pentru localitățile Ciacova, Cebza, Macedonia și Petroman din orașul Ciacova, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232738",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232738",
+     "sha256": "4e40741c1d9f9eda06361b76a0f44f94684565d67b5ee74770d6bb0b4a83325e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659853-2020",
+   "path": "ordin/dsu/2020/4659853",
+   "short": "Ordin dsu nr. 4659853/2020",
+   "title": "Ordinul nr. 4.659.853/2020 privind instituirea carantinei zonale pentru localitatea Sânnicolau Mare, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232739",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232739",
+     "sha256": "70634a70406c6a07b8563d98d91221e4b0346241abbfec9e22c5ac3dd3bd1801"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659857-2020",
+   "path": "ordin/dsu/2020/4659857",
+   "short": "Ordin dsu nr. 4659857/2020",
+   "title": "Ordinul nr. 4.659.857/2020 privind prelungirea măsurii de carantină zonală pentru localitatea Vișeu de Jos, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232740",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232740",
+     "sha256": "a3a1697b5795aa489f868e25211e1fb57e0339b312f54f45e95616950e8a802a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659859-2020",
+   "path": "ordin/dsu/2020/4659859",
+   "short": "Ordin dsu nr. 4659859/2020",
+   "title": "Ordinul nr. 4.659.859/2020 privind instituirea carantinei zonale pentru localitatea Ovidiu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232741",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232741",
+     "sha256": "6fd293e53743dd109c1f180d910f2117231cf8a5043bf0a5c91c358224572b43"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659860-2020",
+   "path": "ordin/dsu/2020/4659860",
+   "short": "Ordin dsu nr. 4659860/2020",
+   "title": "Ordinul nr. 4.659.860/2020 privind instituirea carantinei zonale pentru comuna Moțăieni, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232742",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232742",
+     "sha256": "43e5c37e5bc2ee7b13ff1d1897d7e190e7f5bc0c92f6da743f3ea545c0a45e0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659862-2020",
+   "path": "ordin/dsu/2020/4659862",
+   "short": "Ordin dsu nr. 4659862/2020",
+   "title": "Ordinul nr. 4.659.862/2020 privind instituirea carantinei zonale pentru localitatea Mintiu Gherlei, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232766",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232766",
+     "sha256": "5c942db11fd79a8bfe037a7977b9d75c5dadce6eb7f8a11f6abae56e543d965e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659877-2020",
+   "path": "ordin/dsu/2020/4659877",
+   "short": "Ordin dsu nr. 4659877/2020",
+   "title": "Ordinul nr. 4.659.877/2020 privind instituirea măsurii de carantină zonală pentru localitatea Săcălășeni, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232858",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232858",
+     "sha256": "018111341bdc26b9744104486f1c2cd5cd7c6d9d73cb4b442253faf7408a1bb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659878-2020",
+   "path": "ordin/dsu/2020/4659878",
+   "short": "Ordin dsu nr. 4659878/2020",
+   "title": "Ordinul nr. 4.659.878/2020 privind instituirea carantinei zonale pentru localitatea Tăuții-Măgherăuș, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232859",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232859",
+     "sha256": "ab1b01fdd822ab7a0501c4b5916abb4b7a795230bd54b4f742ba90c9f4a3d8f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659886-2020",
+   "path": "ordin/dsu/2020/4659886",
+   "short": "Ordin dsu nr. 4659886/2020",
+   "title": "Ordinul nr. 4.659.886/2020 privind prelungirea măsurii de carantină zonală instituită pentru comuna Recea, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232933",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232933",
+     "sha256": "d4763bfcc41edf8cf36cca7bbb987359aa821332ab91457bcc1b3334b0e10f92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659887-2020",
+   "path": "ordin/dsu/2020/4659887",
+   "short": "Ordin dsu nr. 4659887/2020",
+   "title": "Ordinul nr. 4.659.887/2020 privind instituirea carantinei zonale pentru localitatea Baia Mare, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232967",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232967",
+     "sha256": "26631d8112e752ab46696e08ffc500e3d215558925329dbee5cc795e3bb595ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659901-2020",
+   "path": "ordin/dsu/2020/4659901",
+   "short": "Ordin dsu nr. 4659901/2020",
+   "title": "Ordinul nr. 4.659.901/2020 privind instituirea carantinei zonale pentru localitatea Slobozia, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233039",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233039",
+     "sha256": "f9e41c8c22b2ab1f45579f0b859d3acf4891bdbe430f77b42bba0b1975f67087"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659911-2020",
+   "path": "ordin/dsu/2020/4659911",
+   "short": "Ordin dsu nr. 4659911/2020",
+   "title": "Ordinul nr. 4.659.911/2020 privind instituirea carantinei zonale pentru comuna Ciorogârla, cu satele aparținătoare, respectiv Ciorogârla și Dârvari, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233131",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233131",
+     "sha256": "f50406237e4ae1dda4233a5c815d0f5a0c548d5de9eb5450ba84ec6c8a6fdd38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659928-2020",
+   "path": "ordin/dsu/2020/4659928",
+   "short": "Ordin dsu nr. 4659928/2020",
+   "title": "Ordinul nr. 4.659.928/2020 privind instituirea carantinei zonale pentru municipiul Sibiu, localitatea Șelimbăr și Cartierul Arhitecților din cadrul localității Cisnădie, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233161",
+   "versions": [
+    {
+     "from": "2020-11-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233161",
+     "sha256": "76539b39ecbc174f944351675ce626898dc8a11c28923dfe147be753dfbed8ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659929-2020",
+   "path": "ordin/dsu/2020/4659929",
+   "short": "Ordin dsu nr. 4659929/2020",
+   "title": "Ordinul nr. 4.659.929/2020 privind instituirea carantinei zonale pentru orașul Tălmaciu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233162",
+   "versions": [
+    {
+     "from": "2020-11-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233162",
+     "sha256": "d29501c2dfeb2ba4eb608625d1d5ffb514d6d3444a1bc2ff553d981b366ef174"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659941-2020",
+   "path": "ordin/dsu/2020/4659941",
+   "short": "Ordin dsu nr. 4659941/2020",
+   "title": "Ordinul nr. 4.659.941/2020 privind instituirea carantinei zonale în satele Valea Mare, Valea Caselor și Gârleni din comuna Valea Mare, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233197",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233197",
+     "sha256": "a32cfe4cfbedf71e20b6bda6ebc093743a37739eb53f820b66afc7364e9af4ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659943-2020",
+   "path": "ordin/dsu/2020/4659943",
+   "short": "Ordin dsu nr. 4659943/2020",
+   "title": "Ordinul nr. 4.659.943/2020 privind instituirea carantinei zonale în localitatea Crișeni, județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233199",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233199",
+     "sha256": "ee32c21803433c6c0b162580f7027fc93928348d07d4e297ed13f5597ccd2b4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659947-2020",
+   "path": "ordin/dsu/2020/4659947",
+   "short": "Ordin dsu nr. 4659947/2020",
+   "title": "Ordinul nr. 4.659.947/2020 privind instituirea carantinei în comuna Ciugud, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233194",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233194",
+     "sha256": "827b06c77981b0827483500377ec9c9928528f3e3bf5c905788766877261a38e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659948-2020",
+   "path": "ordin/dsu/2020/4659948",
+   "short": "Ordin dsu nr. 4659948/2020",
+   "title": "Ordinul nr. 4.659.948/2020 privind instituirea carantinei zonale în municipiul Blaj, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233195",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233195",
+     "sha256": "7d38cc57580dd1d37d6243ef3152095a009f5c5da6bb31888d1b54b0076508ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659949-2020",
+   "path": "ordin/dsu/2020/4659949",
+   "short": "Ordin dsu nr. 4659949/2020",
+   "title": "Ordinul nr. 4.659.949/2020 privind instituirea carantinei zonale pentru municipiului Alba Iulia, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233196",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233196",
+     "sha256": "d1a435a9c607a63b0cb482d776c5bb11741f92f507fa0032357bb8bb57f04e56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659950-2020",
+   "path": "ordin/dsu/2020/4659950",
+   "short": "Ordin dsu nr. 4659950/2020",
+   "title": "Ordinul nr. 4.659.950/2020 privind instituirea carantinei zonale în localitatea Sâmbăta de Sus, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233207",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233207",
+     "sha256": "6fc256e604da7ef6bf21ad618a064d5e1b5d1c2558f37f62a0c5d673a7239517"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659969-2020",
+   "path": "ordin/dsu/2020/4659969",
+   "short": "Ordin dsu nr. 4659969/2020",
+   "title": "Ordinul nr. 4.659.969/2020 privind instituirea carantinei zonale la nivelul localității Braniștea, comuna Braniștea, județul Mehedinți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233271",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233271",
+     "sha256": "19e130f89181db291d5dee47a3e3dcff77810c51bf39b74ab2c40adecdab29f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659973-2020",
+   "path": "ordin/dsu/2020/4659973",
+   "short": "Ordin dsu nr. 4659973/2020",
+   "title": "Ordinul nr. 4.659.973/2020 privind carantina zonală la nivelul localităților Fânațe și Câmpani din comuna Câmpani, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233368",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233368",
+     "sha256": "193ba0a3f03dfc5df4b94f9705935355a4dd1b62e8a2f9ae05928cddde3b347a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659974-2020",
+   "path": "ordin/dsu/2020/4659974",
+   "short": "Ordin dsu nr. 4659974/2020",
+   "title": "Ordinul nr. 4.659.974/2020 privind carantina zonală la nivelul municipiului Satu Mare, județul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233369",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233369",
+     "sha256": "dff95aa8dd35dfb880be057fda113ba7c6cdff67e3570058aff701856ac028d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659975-2020",
+   "path": "ordin/dsu/2020/4659975",
+   "short": "Ordin dsu nr. 4659975/2020",
+   "title": "Ordinul nr. 4.659.975/2020 privind instituirea carantinei zonale pentru municipiul Bistrița, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233370",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233370",
+     "sha256": "a1bc11c27161cf3667163d4fd51685bd55d500980a8b8033499106d7298634cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659987-2020",
+   "path": "ordin/dsu/2020/4659987",
+   "short": "Ordin dsu nr. 4659987/2020",
+   "title": "Ordinul nr. 4.659.987/2020 privind prelungirea măsurii carantinei la nivelul municipiului Zalău, județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233389",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233389",
+     "sha256": "f7e5429cfc1c797dc1adccdd0f2f4837104fc1391a9e6651479c4a20a6c07424"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4659988-2020",
+   "path": "ordin/dsu/2020/4659988",
+   "short": "Ordin dsu nr. 4659988/2020",
+   "title": "Ordinul nr. 4.659.988/2020 privind prelungirea măsurii carantinei la nivelul orașului Jibou din județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233390",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233390",
+     "sha256": "b1fec597bfc4d5a5e045a6a022ecf7ce0bb7a652512b6c16d7e6b97d7a686ce4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660006-2020",
+   "path": "ordin/dsu/2020/4660006",
+   "short": "Ordin dsu nr. 4660006/2020",
+   "title": "Ordinul nr. 4.660.006/2020 privind prelungirea măsurii carantinei zonale pentru localitatea Dudeștii Noi, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233443",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233443",
+     "sha256": "08ba812d778a9363816c271de8ab9462486e05f5f705935c837bf6b82d3903a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660007-2020",
+   "path": "ordin/dsu/2020/4660007",
+   "short": "Ordin dsu nr. 4660007/2020",
+   "title": "Ordinul nr. 4.660.007/2020 privind prelungirea măsurii carantinei zonale pentru localitatea Dumbrăvița, din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233444",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233444",
+     "sha256": "916b6a8506fa888424dfff9f85a4fa60a93325b072d30079af5e415fad6b1d92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660008-2020",
+   "path": "ordin/dsu/2020/4660008",
+   "short": "Ordin dsu nr. 4660008/2020",
+   "title": "Ordinul nr. 4.660.008/2020 privind prelungirea măsurii carantinei zonale pentru localitatea Ghiroda, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233445",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233445",
+     "sha256": "00984d256c5d6b92d3808417f17c4507dc996e2da91e9decb29efc182abb0854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660009-2020",
+   "path": "ordin/dsu/2020/4660009",
+   "short": "Ordin dsu nr. 4660009/2020",
+   "title": "Ordinul nr. 4.660.009/2020 privind prelungirea măsurii de carantinare a localității Giroc, din județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233446",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233446",
+     "sha256": "ad096cd4b77be68a86b7f6bb6c099115ab6811c890ad9fc2f241ea7802573eb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660010-2020",
+   "path": "ordin/dsu/2020/4660010",
+   "short": "Ordin dsu nr. 4660010/2020",
+   "title": "Ordinul nr. 4.660.010/2020 privind prelungirea măsurii de carantinare pentru localitatea Moșnița Nouă, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233447",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233447",
+     "sha256": "b22bf5a1d2d5694d474a9d285de999680201081f1dd812e7d9cd8cb5a235a908"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660011-2020",
+   "path": "ordin/dsu/2020/4660011",
+   "short": "Ordin dsu nr. 4660011/2020",
+   "title": "Ordinul nr. 4.660.011/2020 privind prelungirea măsurii carantinei pentru municipiul Gherla, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233448",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233448",
+     "sha256": "5e7d5f08478e62f3f0bb7cf21e81c5cdda74272e1501ce02852494637fc7e7c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660030-2020",
+   "path": "ordin/dsu/2020/4660030",
+   "short": "Ordin dsu nr. 4660030/2020",
+   "title": "Ordinul nr. 4.660.030/2020 privind instituirea carantinei zonale pentru municipiul Constanța, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233505",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233505",
+     "sha256": "ee84300e50928325e5fef8d3ea38be4bff05b50bd1605f240e1b460ac214ca61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660034-2020",
+   "path": "ordin/dsu/2020/4660034",
+   "short": "Ordin dsu nr. 4660034/2020",
+   "title": "Ordinul nr. 4.660.034/2020 privind instituirea măsurii de carantinare zonală pentru comuna Chiajna, cu satele aparținătoare Chiajna, Dudu și Roșu, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233506",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233506",
+     "sha256": "c636c35615b9257507fe6f1be50c23f55f0c320449c5543b4c1ec3b069d98943"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660035-2020",
+   "path": "ordin/dsu/2020/4660035",
+   "short": "Ordin dsu nr. 4660035/2020",
+   "title": "Ordinul nr. 4.660.035/2020 privind instituirea măsurii de carantinare zonală pentru orașul Bragadiru, cu satul aparținător Bragadiru, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233507",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233507",
+     "sha256": "9ba48225146ce9b5fe1aa5cbdf2b6be1dce8a1b7f3afdaf4cd866924d246a9d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660048-2020",
+   "path": "ordin/dsu/2020/4660048",
+   "short": "Ordin dsu nr. 4660048/2020",
+   "title": "Ordinul nr. 4.660.048/2020 privind instituirea carantinei zonale pentru comuna Dobroești, cu satele aparținătoare Dobroești și Fundeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233524",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233524",
+     "sha256": "57840163dcb20e5fa1eb6096ecbe71097d6d49d63d8fbb1cab0ecd9a12425e87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660049-2020",
+   "path": "ordin/dsu/2020/4660049",
+   "short": "Ordin dsu nr. 4660049/2020",
+   "title": "Ordinul nr. 4.660.049/2020 privind instituirea carantinei zonale pentru orașul Măgurele, cu localitățile componente Alunișu, Dumitrana, Măgurele, Pruni și Vârteju, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233525",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233525",
+     "sha256": "4a169ab498eaf9ff47de3cbb85704eec46ba6ec219b6f44e083417e019e94551"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660050-2020",
+   "path": "ordin/dsu/2020/4660050",
+   "short": "Ordin dsu nr. 4660050/2020",
+   "title": "Ordinul nr. 4.660.050/2020 privind instituirea carantinei zonale pentru orașul Otopeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233526",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233526",
+     "sha256": "4050d80456b8455d516169f6555c0c25a7ad23b5bb79d6ca79c12004bc5bba28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660051-2020",
+   "path": "ordin/dsu/2020/4660051",
+   "short": "Ordin dsu nr. 4660051/2020",
+   "title": "Ordinul nr. 4.660.051/2020 privind instituirea carantinei zonale pentru comuna Mogoșoaia, cu satul aparținător Mogoșoaia, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233527",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233527",
+     "sha256": "9ae187f8162b8a63c46452f2b38813b0d2153ec8ac3074dd43bc4051bca880bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660052-2020",
+   "path": "ordin/dsu/2020/4660052",
+   "short": "Ordin dsu nr. 4660052/2020",
+   "title": "Ordinul nr. 4.660.052/2020 privind instituirea carantinei zonale pentru comuna Corbeanca, cu satele aparținătoare Corbeanca, Ostratu, Petrești și Tamaș, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233522",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233522",
+     "sha256": "2506dbbe0b7d00e12a323100311290c3e0e88b7f189c59c6ec2e0a3235c31fc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660053-2020",
+   "path": "ordin/dsu/2020/4660053",
+   "short": "Ordin dsu nr. 4660053/2020",
+   "title": "Ordinul nr. 4.660.053/2020 privind instituirea carantinei zonale pentru localitatea Agigea, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233513",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233513",
+     "sha256": "5fa5b48826f20ed5a080ca3ec41a018a1676675066550c3b8fb19a8164475c56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660054-2020",
+   "path": "ordin/dsu/2020/4660054",
+   "short": "Ordin dsu nr. 4660054/2020",
+   "title": "Ordinul nr. 4.660.054/2020 privind instituirea carantinei zonale pentru comuna Costinești, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233514",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233514",
+     "sha256": "345e61f94aa2d8eb27b04e50702ef0f82c24af7c2a764e42ead854087c84e149"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660055-2020",
+   "path": "ordin/dsu/2020/4660055",
+   "short": "Ordin dsu nr. 4660055/2020",
+   "title": "Ordinul nr. 4.660.055/2020 privind instituirea carantinei zonale pentru localitatea Lumina, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233515",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233515",
+     "sha256": "04d20231d8971a7f4ab38d2a6edc22c9d34272f5e9bac8eba75aeacd6a768d2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660056-2020",
+   "path": "ordin/dsu/2020/4660056",
+   "short": "Ordin dsu nr. 4660056/2020",
+   "title": "Ordinul nr. 4.660.056/2020 privind instituirea carantinei zonale pentru localitatea Mihail Kogălniceanu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233516",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233516",
+     "sha256": "5e7222082e18e3fb81e46712b267603f6dfa8b8864874b98242073dd81efb518"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660057-2020",
+   "path": "ordin/dsu/2020/4660057",
+   "short": "Ordin dsu nr. 4660057/2020",
+   "title": "Ordinul nr. 4.660.057/2020 privind instituirea carantinei zonale pentru localitatea Techirghiol, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233517",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233517",
+     "sha256": "bd654c0121c5215b080808e11b3cd71ab07e31bb388ff89edbcda17ee6b38f2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660058-2020",
+   "path": "ordin/dsu/2020/4660058",
+   "short": "Ordin dsu nr. 4660058/2020",
+   "title": "Ordinul nr. 4.660.058/2020 privind instituirea carantinei zonale pentru localitatea Valu lui Traian, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233518",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20210119155919id_/https://legislatie.just.ro/Public/DetaliiDocument/233518",
+     "sha256": "b3206aa40301ed0aecc1927d6b89a45640b594532bee0de8c4268758bbcbbaa2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660059-2020",
+   "path": "ordin/dsu/2020/4660059",
+   "short": "Ordin dsu nr. 4660059/2020",
+   "title": "Ordinul nr. 4.660.059/2020 privind instituirea carantinei zonale pentru municipiul Medgidia, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233519",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233519",
+     "sha256": "58b796abedf8451c64f84c466b4e0e0b2cd566d1a9b532463517a1b8d78555f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660061-2020",
+   "path": "ordin/dsu/2020/4660061",
+   "short": "Ordin dsu nr. 4660061/2020",
+   "title": "Ordinul nr. 4.660.061/2020 privind instituirea carantinei zonale pentru orașul Popești-Leordeni, cu localitatea componentă Popești-Leordeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233528",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233528",
+     "sha256": "1685d83c94151030e7657d4d2f2c580bb9c49d01030a53ffd81080fda09b26cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660062-2020",
+   "path": "ordin/dsu/2020/4660062",
+   "short": "Ordin dsu nr. 4660062/2020",
+   "title": "Ordinul nr. 4.660.062/2020 privind prelungirea măsurii de carantină zonală instituite pentru orașul Ovidiu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233523",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233523",
+     "sha256": "90713b0c8544f52192d0fdb7c4c4de52ae875efabcac74f47655cb79e839cd2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660063-2020",
+   "path": "ordin/dsu/2020/4660063",
+   "short": "Ordin dsu nr. 4660063/2020",
+   "title": "Ordinul nr. 4.660.063/2020 privind instituirea carantinei zonale pentru orașul Avrig, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233529",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233529",
+     "sha256": "29d0aff3892fdf9f14b3a36653c3bd44c673e6d560a7d98142ac50669b3789aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660064-2020",
+   "path": "ordin/dsu/2020/4660064",
+   "short": "Ordin dsu nr. 4660064/2020",
+   "title": "Ordinul nr. 4.660.064/2020 privind instituirea carantinei zonale pentru municipiul Mediaș, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233530",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233530",
+     "sha256": "1d8af4616ffae217b73862a7f38adc27e261f5a2515528a9fc70a049ee5f41be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660065-2020",
+   "path": "ordin/dsu/2020/4660065",
+   "short": "Ordin dsu nr. 4660065/2020",
+   "title": "Ordinul nr. 4.660.065/2020 privind instituirea carantinei zonale pentru localitatea Orlat, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233531",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233531",
+     "sha256": "8c530191400b16637eae4d98e3de9eaea59765c4ddd7a1156ab2da6165048abb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660066-2020",
+   "path": "ordin/dsu/2020/4660066",
+   "short": "Ordin dsu nr. 4660066/2020",
+   "title": "Ordinul nr. 4.660.066/2020 privind instituirea carantinei zonale pentru orașul Năvodari, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233532",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233532",
+     "sha256": "3d8b57fc40b02388c5095f24b1b84900c6889187c3b61fa2daa3906544e8fbf3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660067-2020",
+   "path": "ordin/dsu/2020/4660067",
+   "short": "Ordin dsu nr. 4660067/2020",
+   "title": "Ordinul nr. 4.660.067/2020 privind prelungirea măsurii de carantină zonală pentru localitatea Vișeu de Jos, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233533",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233533",
+     "sha256": "df67e578064c23a083f9477e07c8d51044e987914e8d4c431967100d8e801ce6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660115-2020",
+   "path": "ordin/dsu/2020/4660115",
+   "short": "Ordin dsu nr. 4660115/2020",
+   "title": "Ordinul nr. 4.660.115/2020 privind prelungirea măsurii carantinei pentru municipiul Gherla, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233744",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233744",
+     "sha256": "ef752bdd6e8f90562f1861583f93e0239ce6d9880e9138c152c31a58a37ad2f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660125-2020",
+   "path": "ordin/dsu/2020/4660125",
+   "short": "Ordin dsu nr. 4660125/2020",
+   "title": "Ordinul nr. 4.660.125/2020 privind prelungirea măsurii carantinei pentru municipiul Slobozia, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233805",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233805",
+     "sha256": "7259ca45d60946f081124ec00b42a071fcd2f8501a69238063d90d5f9a824448"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660144-2020",
+   "path": "ordin/dsu/2020/4660144",
+   "short": "Ordin dsu nr. 4660144/2020",
+   "title": "Ordinul nr. 4.660.144/2020 privind instituirea carantinei zonale pentru localitatea Vințu de Jos, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233940",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233940",
+     "sha256": "d86350eab4062161e76ea20afb8fccaa53207380f3387921bc63bba4dbc4302b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660145-2020",
+   "path": "ordin/dsu/2020/4660145",
+   "short": "Ordin dsu nr. 4660145/2020",
+   "title": "Ordinul nr. 4.660.145/2020 privind instituirea carantinei zonale pentru U.A.T. Cernavodă, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233953",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233953",
+     "sha256": "bbf89382946d2f262d70d56886e2a89264ea4882fa32ceb04eae7ce525545943"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660146-2020",
+   "path": "ordin/dsu/2020/4660146",
+   "short": "Ordin dsu nr. 4660146/2020",
+   "title": "Ordinul nr. 4.660.146/2020 privind instituirea carantinei zonale pentru U.A.T. Cumpăna, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233954",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233954",
+     "sha256": "aea7e2ac3ff989e4b20efa5a5a6d434e5d7a3ac475d527d034e1e45636c07e66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660147-2020",
+   "path": "ordin/dsu/2020/4660147",
+   "short": "Ordin dsu nr. 4660147/2020",
+   "title": "Ordinul nr. 4.660.147/2020 privind instituirea carantinei zonale pentru U.A.T. Târgușor, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233955",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233955",
+     "sha256": "7b57bdb497b1eec81443ae2ffa8367cc222ea21b7c5c8e0f512afc6eba954fde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660149-2020",
+   "path": "ordin/dsu/2020/4660149",
+   "short": "Ordin dsu nr. 4660149/2020",
+   "title": "Ordinul nr. 4.660.149/2020 privind prelungirea măsurii carantinei zonale pentru orașul Cisnădie, cu excepția Cartierului Arhitecților, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233957",
+   "versions": [
+    {
+     "from": "2020-11-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233957",
+     "sha256": "4a682e613eab158335e437109387fd7ab076ee5d325ba97417fe7aa15b682acd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660150-2020",
+   "path": "ordin/dsu/2020/4660150",
+   "short": "Ordin dsu nr. 4660150/2020",
+   "title": "Ordinul nr. 4.660.150/2020 privind prelungirea măsurii carantinei zonale pentru municipiul Sibiu, localitatea Șelimbăr și Cartierul Arhitecților din cadrul localității Cisnădie, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233958",
+   "versions": [
+    {
+     "from": "2020-11-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233958",
+     "sha256": "3169889a43a13084f7ceafd7f40b4e1b88b94100f6487cd7586edaa205f5a81f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660151-2020",
+   "path": "ordin/dsu/2020/4660151",
+   "short": "Ordin dsu nr. 4660151/2020",
+   "title": "Ordinul nr. 4.660.151/2020 privind prelungirea măsurii carantinei zonale pentru orașul Tălmaciu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233959",
+   "versions": [
+    {
+     "from": "2020-11-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233959",
+     "sha256": "f0ba4e50138143d5035cb2b76209becf2f4e8f7333aab086da0f6b56bc7ccfe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660152-2020",
+   "path": "ordin/dsu/2020/4660152",
+   "short": "Ordin dsu nr. 4660152/2020",
+   "title": "Ordinul nr. 4.660.152/2020 privind ridicarea carantinei zonale instituite pentru localitatea Braniștea, comuna Braniștea, județul Mehedinți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233960",
+   "versions": [
+    {
+     "from": "2020-11-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233960",
+     "sha256": "f591ec1b218269841c09df7080c5bf0f7b8219dd01595ab83e19b4349d7d47f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660153-2020",
+   "path": "ordin/dsu/2020/4660153",
+   "short": "Ordin dsu nr. 4660153/2020",
+   "title": "Ordinul nr. 4.660.153/2020 privind instituirea carantinei zonale pentru localitatea Mârșa, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233961",
+   "versions": [
+    {
+     "from": "2020-11-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233961",
+     "sha256": "35305043b49245428f43b18d6c7fb4ee68e48bbaef5b5f1906474b8d7fe9c119"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660154-2020",
+   "path": "ordin/dsu/2020/4660154",
+   "short": "Ordin dsu nr. 4660154/2020",
+   "title": "Ordinul nr. 4.660.154/2020 privind instituirea carantinei zonale pentru UAT comuna Ciurea - satele Ciurea și Lunca Cetățuii (zona Zanea), județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233962",
+   "versions": [
+    {
+     "from": "2020-11-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233962",
+     "sha256": "d0c748ea34a72fada5db40167a62fc8071fe844cadc3998686ebcbeac23b12ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660197-2020",
+   "path": "ordin/dsu/2020/4660197",
+   "short": "Ordin dsu nr. 4660197/2020",
+   "title": "Ordinul nr. 4.660.197/2020 pentru modificarea unor ordine privind prelungirea măsurii carantinei zonale în județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233964",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233964",
+     "sha256": "58f76971ec43a48837cd623b3d85e4f53000b25c87936ef91cb93bfa5f4e51b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660198-2020",
+   "path": "ordin/dsu/2020/4660198",
+   "short": "Ordin dsu nr. 4660198/2020",
+   "title": "Ordinul nr. 4.660.198/2020 privind ridicarea carantinei zonale instituite pentru localitatea Dudeștii Noi, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233965",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233965",
+     "sha256": "520f5089608521e73ef679bb2081784f75966f354a4c56f8541d8e8c4638dd16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660199-2020",
+   "path": "ordin/dsu/2020/4660199",
+   "short": "Ordin dsu nr. 4660199/2020",
+   "title": "Ordinul nr. 4.660.199/2020 privind instituirea carantinei zonale pentru U.A.T. Tuzla, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233970",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233970",
+     "sha256": "0b7957fd22bf45f11aec6e7b743c19104d41839d7489d195a8afcad9c6cf487d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660200-2020",
+   "path": "ordin/dsu/2020/4660200",
+   "short": "Ordin dsu nr. 4660200/2020",
+   "title": "Ordinul nr. 4.660.200/2020 privind instituirea carantinei zonale pentru U.A.T. Rasova, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233971",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233971",
+     "sha256": "2c20acb7fe2a8c293aaaab5950f1c60b6d008663dfd5f017d8db5b8deaeb4919"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660201-2020",
+   "path": "ordin/dsu/2020/4660201",
+   "short": "Ordin dsu nr. 4660201/2020",
+   "title": "Ordinul nr. 4.660.201/2020 privind instituirea carantinei zonale pentru U.A.T. Aliman, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233972",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233972",
+     "sha256": "b25b38f9396d7f768d33b8f1838a580f00ebb2a89f1d6832002211a97d672a9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660202-2020",
+   "path": "ordin/dsu/2020/4660202",
+   "short": "Ordin dsu nr. 4660202/2020",
+   "title": "Ordinul nr. 4.660.202/2020 privind instituirea carantinei zonale la nivelul localității Sighiștel din comuna Câmpani, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233973",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233973",
+     "sha256": "fac6b8fc30631839623709756384faed7959e17ff6fc08d8354e2be809972fe7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660203-2020",
+   "path": "ordin/dsu/2020/4660203",
+   "short": "Ordin dsu nr. 4660203/2020",
+   "title": "Ordinul nr. 4.660.203/2020 privind prelungirea măsurii carantinei zonale pentru orașul Cugir, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233974",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233974",
+     "sha256": "bef79e0877db7d05421f05aa8c9efcb8ddc44171e99886d4874b3918ca25068c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660204-2020",
+   "path": "ordin/dsu/2020/4660204",
+   "short": "Ordin dsu nr. 4660204/2020",
+   "title": "Ordinul nr. 4.660.204/2020 privind instituirea carantinei zonale la nivelul orașului Nucet, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233975",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233975",
+     "sha256": "6233ac6d9c61e7b65b0f7ab3e6a716db9d6fbb03b12716daf7807b1b6ecd0c8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660205-2020",
+   "path": "ordin/dsu/2020/4660205",
+   "short": "Ordin dsu nr. 4660205/2020",
+   "title": "Ordinul nr. 4.660.205/2020 privind prelungirea măsurii carantinei zonale la nivelul localităților Fânațe și Câmpani din comuna Câmpani, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233982",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233982",
+     "sha256": "fb04524f59c4a212418cbeae45cbed128fac35da7cdf0014bfc8544d1a8af9f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660211-2020",
+   "path": "ordin/dsu/2020/4660211",
+   "short": "Ordin dsu nr. 4660211/2020",
+   "title": "Ordinul nr. 4.660.211/2020 privind prelungirea măsurii carantinei zonale pentru municipiul Alba Iulia, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233983",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233983",
+     "sha256": "c93d46aaa439090ad126b0fd2e06d2ed2ffdbaf28385dbe644bf8d3589560888"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660212-2020",
+   "path": "ordin/dsu/2020/4660212",
+   "short": "Ordin dsu nr. 4660212/2020",
+   "title": "Ordinul nr. 4.660.212/2020 privind prelungirea măsurii carantinei zonale în municipiul Blaj, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233984",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233984",
+     "sha256": "908a62583cb663c2064141865ccbe5d6dba698ebef671ca50cd280b84883dc7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660213-2020",
+   "path": "ordin/dsu/2020/4660213",
+   "short": "Ordin dsu nr. 4660213/2020",
+   "title": "Ordinul nr. 4.660.213/2020 privind prelungirea măsurii carantinei zonale în comuna Ciugud, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233985",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233985",
+     "sha256": "8936978f2d6750a63be28bc856ec7ff1ce4136804197ab3d005687e72c09692e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660242-2020",
+   "path": "ordin/dsu/2020/4660242",
+   "short": "Ordin dsu nr. 4660242/2020",
+   "title": "Ordinul nr. 4.660.242/2020 privind prelungirea măsurii carantinei pentru municipiul Slobozia, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234100",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234100",
+     "sha256": "9acd2637e63ac5143c3b11941b07d6cace6b6726eaa873bbc23a8c216e56426a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660253-2020",
+   "path": "ordin/dsu/2020/4660253",
+   "short": "Ordin dsu nr. 4660253/2020",
+   "title": "Ordinul nr. 4.660.253/2020 privind instituirea măsurii de carantinare zonală pentru comuna Clinceni, cu satele aparținătoare Clinceni, Olteni și Ordoreanu, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234183",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234183",
+     "sha256": "86b08af99eb6af732a26ecb77fba2b9a7cacff00e507bf13df09bb45a6e316f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660254-2020",
+   "path": "ordin/dsu/2020/4660254",
+   "short": "Ordin dsu nr. 4660254/2020",
+   "title": "Ordinul nr. 4.660.254/2020 privind instituirea măsurii de carantinare zonală pentru comuna Berceni, cu satul aparținător Berceni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234184",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234184",
+     "sha256": "de2bc42a3b5522be25bd451cbf32fafda624121fbe705c8f21f1627c7d6b3ee4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660268-2020",
+   "path": "ordin/dsu/2020/4660268",
+   "short": "Ordin dsu nr. 4660268/2020",
+   "title": "Ordinul nr. 4.660.268/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Bragadiru, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234221",
+   "versions": [
+    {
+     "from": "2020-12-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234221",
+     "sha256": "cb48965cb9d1ab440709c19533581c1d316bb2ec42241162c4c68e6b8d943a63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660269-2020",
+   "path": "ordin/dsu/2020/4660269",
+   "short": "Ordin dsu nr. 4660269/2020",
+   "title": "Ordinul nr. 4.660.269/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Chiajna, cu satele aparținătoare Chiajna, Dudu și Roșu, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234222",
+   "versions": [
+    {
+     "from": "2020-12-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234222",
+     "sha256": "a93b1b092b29fd57dff21a60d08c3b7e3a7133649005990fd890e0a7dcfcce92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660270-2020",
+   "path": "ordin/dsu/2020/4660270",
+   "short": "Ordin dsu nr. 4660270/2020",
+   "title": "Ordinul nr. 4.660.270/2020 privind prelungirea măsurii carantinei zonale pentru U.A.T. Constanța, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234223",
+   "versions": [
+    {
+     "from": "2020-12-05",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234223",
+     "sha256": "656b9467f199d1371fe85aa5188b112ff17545fce3a32d1c29f6fccb65a55684"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dsu-4660271-2020",
    "path": "ordin/dsu/2020/4660271",
    "short": "Ordin dsu nr. 4660271/2020",
@@ -7874,6 +10334,621 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234224",
      "sha256": "853dcef6c24ea6aca466296c409ecd51e3867427655d0336f466d6ced3b9a89a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660274-2020",
+   "path": "ordin/dsu/2020/4660274",
+   "short": "Ordin dsu nr. 4660274/2020",
+   "title": "Ordinul nr. 4.660.274/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Măgurele cu localitățile componente Alunișu, Dumitrana, Măgurele, Pruni și Vârteju, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234253",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234253",
+     "sha256": "4b8051c9ad9b763eefb791a3d132d44b99ec92b75975f11cd28be0d0d42541ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660275-2020",
+   "path": "ordin/dsu/2020/4660275",
+   "short": "Ordin dsu nr. 4660275/2020",
+   "title": "Ordinul nr. 4.660.275/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Corbeanca, cu satele aparținătoare Corbeanca, Ostratu, Petrești și Tamași, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234258",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234258",
+     "sha256": "bde2fdce5f8648f00db77b36ab244c784965cb7110bb17d54761ddfab993bae1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660276-2020",
+   "path": "ordin/dsu/2020/4660276",
+   "short": "Ordin dsu nr. 4660276/2020",
+   "title": "Ordinul nr. 4.660.276/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Popești-Leordeni, cu satul aparținător Popești-Leordeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234259",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234259",
+     "sha256": "0a3fbc7f60f4676711c4aa7cef2c2fd47528f9db93c422e09810c61242bbfe51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660277-2020",
+   "path": "ordin/dsu/2020/4660277",
+   "short": "Ordin dsu nr. 4660277/2020",
+   "title": "Ordinul nr. 4.660.277/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Mogoșoaia, cu satul aparținător Mogoșoaia, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234260",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234260",
+     "sha256": "01a51c641f44b2d46871b34440bdfd6886e27c5a34a5970a735e8ed0905efcdb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660278-2020",
+   "path": "ordin/dsu/2020/4660278",
+   "short": "Ordin dsu nr. 4660278/2020",
+   "title": "Ordinul nr. 4.660.278/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Otopeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234261",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234261",
+     "sha256": "942edca29beb60e388e763e584109306e4dac6ed906819f32b6a9f49af5ce585"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660279-2020",
+   "path": "ordin/dsu/2020/4660279",
+   "short": "Ordin dsu nr. 4660279/2020",
+   "title": "Ordinul nr. 4.660.279/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Dobroești, cu satele aparținătoare Dobroești și Fundeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234262",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234262",
+     "sha256": "16e97934737e1e80856ed6f12d65b02d720a99c0f63b24e118a30d774281a1eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660280-2020",
+   "path": "ordin/dsu/2020/4660280",
+   "short": "Ordin dsu nr. 4660280/2020",
+   "title": "Ordinul nr. 4.660.280/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Techirghiol, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234251",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234251",
+     "sha256": "748043f1ae4268620df8f39531ebd3d0a09d6afc34136ad993753a629304d380"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660281-2020",
+   "path": "ordin/dsu/2020/4660281",
+   "short": "Ordin dsu nr. 4660281/2020",
+   "title": "Ordinul nr. 4.660.281/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Mihail Kogălniceanu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234252",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234252",
+     "sha256": "fbb9dd7bf17781ce1d2ab398b5280b41d401c5d7416fdde7d1707d88c77ea272"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660282-2020",
+   "path": "ordin/dsu/2020/4660282",
+   "short": "Ordin dsu nr. 4660282/2020",
+   "title": "Ordinul nr. 4.660.282/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Lumina, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234254",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234254",
+     "sha256": "a51084474bb14edf91b0fb04a5e23b50b4a0c47e564f1efd7ea9ed70b3599a91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660283-2020",
+   "path": "ordin/dsu/2020/4660283",
+   "short": "Ordin dsu nr. 4660283/2020",
+   "title": "Ordinul nr. 4.660.283/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Năvodari, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234255",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234255",
+     "sha256": "3a6d37fde3a04ce745ea9c4823348ffc22171ae4891a6af1d4de519e3bdc6327"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660284-2020",
+   "path": "ordin/dsu/2020/4660284",
+   "short": "Ordin dsu nr. 4660284/2020",
+   "title": "Ordinul nr. 4.660.284/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Ovidiu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234256",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234256",
+     "sha256": "6b2ff5d8d47ac3f504c36c5285bf499653b32a6046d8511dc008d96ec33253b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660285-2020",
+   "path": "ordin/dsu/2020/4660285",
+   "short": "Ordin dsu nr. 4660285/2020",
+   "title": "Ordinul nr. 4.660.285/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Valu lui Traian, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234257",
+   "versions": [
+    {
+     "from": "2020-12-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234257",
+     "sha256": "d8629d41af4f84bfcec22bcc75126fc0096e602e5626f09d559200b290f181e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660288-2020",
+   "path": "ordin/dsu/2020/4660288",
+   "short": "Ordin dsu nr. 4660288/2020",
+   "title": "Ordinul nr. 4.660.288/2020 privind prelungirea carantinei zonale pentru orașul Cisnădie, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234281",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234281",
+     "sha256": "83213d342a049cfbe133f14f49742e5f7480930db4a21ea77bf1a954749be8bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660289-2020",
+   "path": "ordin/dsu/2020/4660289",
+   "short": "Ordin dsu nr. 4660289/2020",
+   "title": "Ordinul nr. 4.660.289/2020 privind prelungirea carantinei zonale pentru orașul Tălmaciu, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234282",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234282",
+     "sha256": "908f5a185d5c178fa0e7b814bc6d00af77e5e881391e092b873d80771d2eaff6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660290-2020",
+   "path": "ordin/dsu/2020/4660290",
+   "short": "Ordin dsu nr. 4660290/2020",
+   "title": "Ordinul nr. 4.660.290/2020 privind prelungirea carantinei zonale pentru municipiul Mediaș, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234283",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234283",
+     "sha256": "110c217d494e2fa79c9b0a3d81cb40d1ee6d8f1b558dcd81cd9c79b07a27aff2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660291-2020",
+   "path": "ordin/dsu/2020/4660291",
+   "short": "Ordin dsu nr. 4660291/2020",
+   "title": "Ordinul nr. 4.660.291/2020 privind prelungirea carantinei zonale pentru orașul Avrig, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234284",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234284",
+     "sha256": "1390608794213482491e013757691839f88bb7936b16e9e8a9a38e81d37a83c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660337-2020",
+   "path": "ordin/dsu/2020/4660337",
+   "short": "Ordin dsu nr. 4660337/2020",
+   "title": "Ordinul nr. 4.660.337/2020 privind prelungirea carantinei zonale pentru municipiul Slobozia, județul Ialomița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234539",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234539",
+     "sha256": "46544a81b2e19e563468feb0f6a725addb3870c4701197a1f7e6921c6fa5fd48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660338-2020",
+   "path": "ordin/dsu/2020/4660338",
+   "short": "Ordin dsu nr. 4660338/2020",
+   "title": "Ordinul nr. 4.660.338/2020 privind prelungirea carantinei zonale pentru U.A.T. Eforie, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234540",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234540",
+     "sha256": "71852726e20f8d96a71aff9fdf45ab501137ec9f2d753e2a8b5c4df4ec4d126e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660349-2020",
+   "path": "ordin/dsu/2020/4660349",
+   "short": "Ordin dsu nr. 4660349/2020",
+   "title": "Ordinul nr. 4.660.349/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Chiajna, cu satele aparținătoare Chiajna, Dudu și Roșu, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235094",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235094",
+     "sha256": "6036c77084817190b57003b98c6253a33ab40de6c34463665e5fc2cf0b14e30a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660350-2020",
+   "path": "ordin/dsu/2020/4660350",
+   "short": "Ordin dsu nr. 4660350/2020",
+   "title": "Ordinul nr. 4.660.350/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Bragadiru, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235095",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235095",
+     "sha256": "43f6e1fb66be839e026ee962bd8ee40e305612b6299e25abef3b1822cb36b876"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660351-2020",
+   "path": "ordin/dsu/2020/4660351",
+   "short": "Ordin dsu nr. 4660351/2020",
+   "title": "Ordinul nr. 4.660.351/2020 privind prelungirea măsurii de carantinare zonală pentru UAT comuna Ciurea - satele Ciurea și Lunca Cetățuii (zona Zanea), județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235096",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235096",
+     "sha256": "3ec765e8460afb1d11cd9ce165e0b3654e595367e064ca9bf90635ad56fc94d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660364-2020",
+   "path": "ordin/dsu/2020/4660364",
+   "short": "Ordin dsu nr. 4660364/2020",
+   "title": "Ordinul nr. 4.660.364/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Dobroești, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235097",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235097",
+     "sha256": "d9e99f02368bb0a07312e28885415ff5b6a44422c84186054b50336c044b475b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660365-2020",
+   "path": "ordin/dsu/2020/4660365",
+   "short": "Ordin dsu nr. 4660365/2020",
+   "title": "Ordinul nr. 4.660.365/2020 privind prelungirea măsurii de carantinare zonală pentru Mogoșoaia, cu satul aparținător Mogoșoaia, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235098",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235098",
+     "sha256": "a0931ef5477483d53880d6e31ca67f898d1fc05761c47f3f94e095662ada80b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660366-2020",
+   "path": "ordin/dsu/2020/4660366",
+   "short": "Ordin dsu nr. 4660366/2020",
+   "title": "Ordinul nr. 4.660.366/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Otopeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235099",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235099",
+     "sha256": "18a30f33f3a7fc01f99183f7bbc504f9cfe802ebcb5ced95fbb91ed4e6e9f60f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660367-2020",
+   "path": "ordin/dsu/2020/4660367",
+   "short": "Ordin dsu nr. 4660367/2020",
+   "title": "Ordinul nr. 4.660.367/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Popești-Leordeni, cu satul aparținător Popești-Leordeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235100",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235100",
+     "sha256": "19d3ec06732f28dcd9dd1f75653054b401112803be08e7e4d86e529f1d01881c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660368-2020",
+   "path": "ordin/dsu/2020/4660368",
+   "short": "Ordin dsu nr. 4660368/2020",
+   "title": "Ordinul nr. 4.660.368/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Corbeanca, cu satele aparținătoare Corbeanca, Ostratu, Petrești și Tamași, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235101",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235101",
+     "sha256": "4650643bbc1db13846138f0806c8127cff831287a561f8890ff4ab9d7b5bf476"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660369-2020",
+   "path": "ordin/dsu/2020/4660369",
+   "short": "Ordin dsu nr. 4660369/2020",
+   "title": "Ordinul nr. 4.660.369/2020 privind prelungirea măsurii de carantinare zonală pentru U.A.T. Târgușor, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235102",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235102",
+     "sha256": "d806c294e73b2914600dd4adcec8e99dec7a2706d4d3b8faa89076a83b0b54d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660370-2020",
+   "path": "ordin/dsu/2020/4660370",
+   "short": "Ordin dsu nr. 4660370/2020",
+   "title": "Ordinul nr. 4.660.370/2020 privind prelungirea măsurii de carantinare zonală pentru U.A.T. Techirghiol, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235103",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235103",
+     "sha256": "3bc85a4eb73d1b19c51657d504f6195ad360bd83d1e65890e386ef0736478cfc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660371-2020",
+   "path": "ordin/dsu/2020/4660371",
+   "short": "Ordin dsu nr. 4660371/2020",
+   "title": "Ordinul nr. 4.660.371/2020 privind prelungirea măsurii de carantinare zonală pentru U.A.T. Cernavodă, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235104",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235104",
+     "sha256": "f3dbffe9bc1e8ac7a3b9f90fbb562876afee7bc00e2c5741aa36b13014090562"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660372-2020",
+   "path": "ordin/dsu/2020/4660372",
+   "short": "Ordin dsu nr. 4660372/2020",
+   "title": "Ordinul nr. 4.660.372/2020 privind prelungirea măsurii de carantinare zonală pentru U.A.T. Cumpăna, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235105",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235105",
+     "sha256": "1e23ec4b2471115192482b8c38ed77bf825636eb0a44922517a2b431989ea20b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660426-2020",
+   "path": "ordin/dsu/2020/4660426",
+   "short": "Ordin dsu nr. 4660426/2020",
+   "title": "Ordinul nr. 4.660.426/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Berceni, cu satul aparținător Berceni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235437",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235437",
+     "sha256": "1d17aa7a8d48c9e4f47b0e7d07e34268fd2f3671c93c1dc51367cccd2e78e344"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660427-2020",
+   "path": "ordin/dsu/2020/4660427",
+   "short": "Ordin dsu nr. 4660427/2020",
+   "title": "Ordinul nr. 4.660.427/2020 privind prelungirea măsurii carantinei zonale pentru U.A.T. Constanța, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235438",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235438",
+     "sha256": "385045bf79f44e67de8af07f145a3f022c3d5b4a146f8c3c1547c8c29c858eb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660500-2020",
+   "path": "ordin/dsu/2020/4660500",
+   "short": "Ordin dsu nr. 4660500/2020",
+   "title": "Ordinul nr. 4.660.500/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Berceni, cu satul aparținător Berceni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235634",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235634",
+     "sha256": "4c59876ef6f0c7b04b7f04efac645d5bb654c1717453f9b81bfc05e0270ac417"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660524-2020",
+   "path": "ordin/dsu/2020/4660524",
+   "short": "Ordin dsu nr. 4660524/2020",
+   "title": "Ordinul nr. 4.660.524/2020 privind ridicarea carantinei zonale instituite pentru comuna Grădina, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235754",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235754",
+     "sha256": "a43fe569562438118803c9c5e3a6557fa85ace0f014633ce94f4c920fc566057"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660525-2020",
+   "path": "ordin/dsu/2020/4660525",
+   "short": "Ordin dsu nr. 4660525/2020",
+   "title": "Ordinul nr. 4.660.525/2020 privind ridicarea carantinei zonale instituite pentru localitatea Ovidiu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235755",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235755",
+     "sha256": "def711afe077727073483a82aa2b2af15b206020b98e2d609a597239ec5b513c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660563-2020",
+   "path": "ordin/dsu/2020/4660563",
+   "short": "Ordin dsu nr. 4660563/2020",
+   "title": "Ordinul nr. 4.660.563/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Chiajna, cu satele aparținătoare Chiajna, Dudu și Roșu, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235886",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235886",
+     "sha256": "2bb86a3cd7ed97bb4276ff9ba3d0d304322193056b04df68b39a1a6ae5bb6172"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660564-2020",
+   "path": "ordin/dsu/2020/4660564",
+   "short": "Ordin dsu nr. 4660564/2020",
+   "title": "Ordinul nr. 4.660.564/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Bragadiru, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235887",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235887",
+     "sha256": "e5d81d4eb7f10a9e06d827cd869cabf09e604a0decc7807a53a9c928d4c66835"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660565-2020",
+   "path": "ordin/dsu/2020/4660565",
+   "short": "Ordin dsu nr. 4660565/2020",
+   "title": "Ordinul nr. 4.660.565/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Corbeanca, cu satele aparținătoare Corbeanca, Ostratu, Petrești și Tamași, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235888",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235888",
+     "sha256": "a13d98dc60450a867ee95de7c549b0676f1641f39e82cf827b1605718ea5410c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660566-2020",
+   "path": "ordin/dsu/2020/4660566",
+   "short": "Ordin dsu nr. 4660566/2020",
+   "title": "Ordinul nr. 4.660.566/2020 privind prelungirea măsurii de carantinare zonală pentru comuna Dobroești, cu satele aparținătoare Dobroești și Fundeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235889",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235889",
+     "sha256": "14013caf0715a59ceff6d0d40fe5fdf92776d456cc985c8b0192ff186f4f5fb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660567-2020",
+   "path": "ordin/dsu/2020/4660567",
+   "short": "Ordin dsu nr. 4660567/2020",
+   "title": "Ordinul nr. 4.660.567/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Popești-Leordeni, cu satul aparținător Popești-Leordeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235890",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235890",
+     "sha256": "690cdcfa6e4d19e889efabc9940ae4ae67fd1b8d41eae45bc3b7d9611f7ebbbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dsu-4660568-2020",
+   "path": "ordin/dsu/2020/4660568",
+   "short": "Ordin dsu nr. 4660568/2020",
+   "title": "Ordinul nr. 4.660.568/2020 privind prelungirea măsurii de carantinare zonală pentru orașul Otopeni, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235891",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235891",
+     "sha256": "0880c9cc8ac65d3b2557cead005fadc640f77f941cee2d54b388720bb3ff86de"
     }
    ]
   },
@@ -8928,6 +12003,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3019-2020",
+   "path": "ordin/educatie/2020/3019",
+   "short": "Ordin educatie nr. 3019/2020",
+   "title": "Ordinul nr. 3.019/2020 pentru constituirea grupului de lucru privind elaborarea Normelor metodologice de aplicare a art. III din Legea nr. 221/2019 de modificare și completare a Legii educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222437",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222437",
+     "sha256": "502e1d7a45b1455e0497861edb93acd5d0b0ed0b47dfe760ca0767b66cffa3e2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3063-2020",
    "path": "ordin/educatie/2020/3063",
    "short": "Ordin educatie nr. 3063/2020",
@@ -9108,6 +12198,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3261-2020",
+   "path": "ordin/educatie/2020/3261",
+   "short": "Ordin educatie nr. 3261/2020",
+   "title": "Ordinul nr. 3.261/2020 privind aprobarea componenței Comisiei de elaborare și a Comisiei de validare a planurilor-cadru pentru învățământul primar, gimnazial, liceal și profesional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223309",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223309",
+     "sha256": "6a44e3943e044f1069447112c95e3cd2eb1d5a2ac98423b8655974756f75a520"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3277-2020",
    "path": "ordin/educatie/2020/3277",
    "short": "Ordin educatie nr. 3277/2020",
@@ -9168,6 +12273,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3344-2020",
+   "path": "ordin/educatie/2020/3344",
+   "short": "Ordin educatie nr. 3344/2020",
+   "title": "Ordinul nr. 3.344/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Tehnologic \"Henri Coandă\" din municipiul Dej",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223724",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223724",
+     "sha256": "b7820f88f245d4f296b390375b08adc080ab495d6cc60f7c7a6fbb1e00ef13a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3345-2020",
+   "path": "ordin/educatie/2020/3345",
+   "short": "Ordin educatie nr. 3345/2020",
+   "title": "Ordinul nr. 3.345/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița Creștină cu Program Prelungit \"Seventh Heaven\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223517",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223517",
+     "sha256": "ee5c2a31c47ecb43309eb21a2f237c24e626c7ae61171e469433a3caab14a0e0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3371-2020",
    "path": "ordin/educatie/2020/3371",
    "short": "Ordin educatie nr. 3371/2020",
@@ -9213,6 +12348,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3453-2020",
+   "path": "ordin/educatie/2020/3453",
+   "short": "Ordin educatie nr. 3453/2020",
+   "title": "Ordinul nr. 3.453/2020 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului educației și cercetării nr. 3.261/2020 privind aprobarea componenței Comisiei de elaborare și a Comisiei de validare a planurilor-cadru pentru învățământul primar, gimnazial, liceal și profesional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223829",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223829",
+     "sha256": "971501c9472d052ed2108d73e69193f43237e723f2daa89d773d2a9b20d69255"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3463-2020",
    "path": "ordin/educatie/2020/3463",
    "short": "Ordin educatie nr. 3463/2020",
@@ -9239,6 +12389,141 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223905",
      "sha256": "e8df1956f28576e662172425c629119a1e00e62d51df8ed2d5f92c0af10e464e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3856-2020",
+   "path": "ordin/educatie/2020/3856",
+   "short": "Ordin educatie nr. 3856/2020",
+   "title": "Ordinul nr. 3.856/2020 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Gimnazială Metropolitană \"ARC\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225386",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225386",
+     "sha256": "4f2fd54ac13e7d882f6fe4a8462d4dccf6b1773a47d593e84a1901efb9f39b71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3857-2020",
+   "path": "ordin/educatie/2020/3857",
+   "short": "Ordin educatie nr. 3857/2020",
+   "title": "Ordinul nr. 3.857/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială \"Domino Servite\" din comuna Voiteg",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225387",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225387",
+     "sha256": "0555fb5bcfce8e69f6b2531e54ef65ead4a6cd7410a5439d92510016b7cac125"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3861-2020",
+   "path": "ordin/educatie/2020/3861",
+   "short": "Ordin educatie nr. 3861/2020",
+   "title": "Ordinul nr. 3.861/2020 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Gimnazială \"Ioanid\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228659",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228659",
+     "sha256": "6a1cc48b3236733ef38ebce9980428e061c78f927d1f84a387c00d25c1896e39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3974-2020",
+   "path": "ordin/educatie/2020/3974",
+   "short": "Ordin educatie nr. 3974/2020",
+   "title": "Ordinul nr. 3.974/2020 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 24 octombrie-6 decembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225388",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225388",
+     "sha256": "29174bc971fd1512fc7473cf1f4287507e9f554314821ca9ebaa95e2aff80963"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3975-2020",
+   "path": "ordin/educatie/2020/3975",
+   "short": "Ordin educatie nr. 3975/2020",
+   "title": "Ordinul nr. 3.975/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic \"Henri Coandă\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228660",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228660",
+     "sha256": "2f6715637d78c9dfed936111d500ac6739bb77c2691ae8b7367ff05d2115abc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3976-2020",
+   "path": "ordin/educatie/2020/3976",
+   "short": "Ordin educatie nr. 3976/2020",
+   "title": "Ordinul nr. 3.976/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Sano Vita Active Kids\" din municipiul Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225404",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225404",
+     "sha256": "e4ad685765bb029e8a731d76a09465d343bee358afbda508876449e5440b551a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3985-2020",
+   "path": "ordin/educatie/2020/3985",
+   "short": "Ordin educatie nr. 3985/2020",
+   "title": "Ordinul nr. 3.985/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Piticul Curajos\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225417",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225417",
+     "sha256": "f9877fa2a5646ee1e3bca8bb322af78edc1c0390945ac20b070976175b7e14ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3986-2020",
+   "path": "ordin/educatie/2020/3986",
+   "short": "Ordin educatie nr. 3986/2020",
+   "title": "Ordinul nr. 3.986/2020 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical de laborator\", \"asistent medical de radiologie\", \"asistent medical balneofiziokinetoterapie și recuperare\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală FEG din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225418",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225418",
+     "sha256": "977df18c524c023e05f12a25dddcb2807cc2b8e8de216c536d134a709bea7df5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3988-2020",
+   "path": "ordin/educatie/2020/3988",
+   "short": "Ordin educatie nr. 3988/2020",
+   "title": "Ordinul nr. 3.988/2020 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical de radiologie\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Domnița Ruxandra\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225451",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225451",
+     "sha256": "10d46b7dc3f2ae97028c5880450a56065d92ea3a375354e894a6ecb77c96c5ca"
     }
    ]
   },
@@ -9449,6 +12734,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225529",
      "sha256": "ebb6554d7a26afa224afb80a2f31faddbe4bb3be8e89452241e055418ef934ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4231-2020",
+   "path": "ordin/educatie/2020/4231",
+   "short": "Ordin educatie nr. 4231/2020",
+   "title": "Ordinul nr. 4.231/2020 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Specială \"Rază de Soare\" din municipiul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225903",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225903",
+     "sha256": "8897da3343b6653f49fba3748b0ffd19835a9c3af6038bbc45180d926901741b"
     }
    ]
   },
@@ -9678,6 +12978,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4311-2020",
+   "path": "ordin/educatie/2020/4311",
+   "short": "Ordin educatie nr. 4311/2020",
+   "title": "Ordinul nr. 4.311/2020 privind extinderea unității de învățământ preuniversitar de stat Școala Gimnazială din comuna Ocnița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226707",
+   "versions": [
+    {
+     "from": "2020-06-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226707",
+     "sha256": "5b193ac49869a37678eade5a6ded0e3daee03d3a5d2a888e69afb9a93f0bf5b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4312-2020",
+   "path": "ordin/educatie/2020/4312",
+   "short": "Ordin educatie nr. 4312/2020",
+   "title": "Ordinul nr. 4.312/2020 privind extinderea unității de învățământ preuniversitar de stat Grădinița cu program prelungit nr. 1 din municipiul Carei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226708",
+   "versions": [
+    {
+     "from": "2020-06-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226708",
+     "sha256": "6404dc4c81402825226a02bc2f2eabdcf99938777720a5d9abfc44d12ef23bd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4313-2020",
+   "path": "ordin/educatie/2020/4313",
+   "short": "Ordin educatie nr. 4313/2020",
+   "title": "Ordinul nr. 4.313/2020 privind extinderea unității de învățământ preuniversitar de stat Școala Gimnazială nr. 1 din comuna Izvoarele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226709",
+   "versions": [
+    {
+     "from": "2020-06-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226709",
+     "sha256": "8441b3b1eba5d6b702486999a22ef55b263c9574f5f19c068972023960e36ec9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4316-2020",
    "path": "ordin/educatie/2020/4316",
    "short": "Ordin educatie nr. 4316/2020",
@@ -9828,6 +13173,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4405-2020",
+   "path": "ordin/educatie/2020/4405",
+   "short": "Ordin educatie nr. 4405/2020",
+   "title": "Ordinul nr. 4.405/2020 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 23 noiembrie 2017-13 decembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226990",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226990",
+     "sha256": "35e710c5722fec1a67195c49b1b23e0933c67900698484bd7711b00b3b27fcc5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4408-2020",
    "path": "ordin/educatie/2020/4408",
    "short": "Ordin educatie nr. 4408/2020",
@@ -9918,6 +13278,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4459-2020",
+   "path": "ordin/educatie/2020/4459",
+   "short": "Ordin educatie nr. 4459/2020",
+   "title": "Ordinul nr. 4.459/2020 pentru modificarea Ordinului ministrului educației naționale nr. 4.668/2019 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Orhideea Kids\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226813",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226813",
+     "sha256": "f07ea1fb2c3ab46547de9a3e200afce1091a4777a0f15d0632e9eed1f0b8d66e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4461-2020",
    "path": "ordin/educatie/2020/4461",
    "short": "Ordin educatie nr. 4461/2020",
@@ -9929,6 +13304,141 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226665",
      "sha256": "e3d419ebf9f68a48f0a86d6ff34751930559a01df2c23c01293160ecf0b76ec3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4471-2020",
+   "path": "ordin/educatie/2020/4471",
+   "short": "Ordin educatie nr. 4471/2020",
+   "title": "Ordinul nr. 4.471/2020 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical de farmacie\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Carol Davila\" din municipiul Târgu Jiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226985",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226985",
+     "sha256": "2ebe901de34698193f6c6e3b504e42e48ba70fc0909edb43b7a6084001eb9733"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4472-2020",
+   "path": "ordin/educatie/2020/4472",
+   "short": "Ordin educatie nr. 4472/2020",
+   "title": "Ordinul nr. 4.472/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Montessori School of Iași\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226995",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226995",
+     "sha256": "e42cbdae266aca7f7091d241b45f47b6d7d090146352eb67ebb6777c958f3425"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4473-2020",
+   "path": "ordin/educatie/2020/4473",
+   "short": "Ordin educatie nr. 4473/2020",
+   "title": "Ordinul nr. 4.473/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Sebeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227018",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227018",
+     "sha256": "a41f8fab0165d480f138b259d705c0948fb5869e24bcd635432059503effeb04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4474-2020",
+   "path": "ordin/educatie/2020/4474",
+   "short": "Ordin educatie nr. 4474/2020",
+   "title": "Ordinul nr. 4.474/2020 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical generalist\" și \"asistent medical balneofiziokinetoterapie și recuperare\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală FEG din municipiul Slobozia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227093",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227093",
+     "sha256": "95ba975cadfd73a5f9616491540b287e8c29ecf6076b25b71ef8f449ff4f75fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4475-2020",
+   "path": "ordin/educatie/2020/4475",
+   "short": "Ordin educatie nr. 4475/2020",
+   "title": "Ordinul nr. 4.475/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Prelungit \"Happy Junior\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227026",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227026",
+     "sha256": "5cdd491fc96b23949b05b3c7d61617c25b33278d585e78ca21a9d78619472014"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4476-2020",
+   "path": "ordin/educatie/2020/4476",
+   "short": "Ordin educatie nr. 4476/2020",
+   "title": "Ordinul nr. 4.476/2020 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 14 noiembrie 2019-6 martie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226960",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226960",
+     "sha256": "098c168cde6b731a45ef9c7015bcf26499fa13f46e076ae29bb5af3b9387a079"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4477-2020",
+   "path": "ordin/educatie/2020/4477",
+   "short": "Ordin educatie nr. 4477/2020",
+   "title": "Ordinul nr. 4.477/2020 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 16 noiembrie 2017-6 decembrie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226980",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226980",
+     "sha256": "c0d13e275c06a7ca33d5b6b6a59610aa86f32424e96b35f1b67e638db6ed7bcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4478-2020",
+   "path": "ordin/educatie/2020/4478",
+   "short": "Ordin educatie nr. 4478/2020",
+   "title": "Ordinul nr. 4.478/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Auxila\" din municipiul Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226976",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226976",
+     "sha256": "a2e86e0a9924a98dea3b3be5d8bdacccd1610ca9cafc613d3122dbc3bf89e4e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4479-2020",
+   "path": "ordin/educatie/2020/4479",
+   "short": "Ordin educatie nr. 4479/2020",
+   "title": "Ordinul nr. 4.479/2020 privind acordarea acreditării pentru nivelul de învățământ \"preșcolar\" din cadrul unității de învățământ preuniversitar particular Școala Gimnazială \"Dr. Luca\" din municipiul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227027",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227027",
+     "sha256": "947d1375186da2b6a728d5f3e6dc43dcbf33286506a9090b7df2474fedf0009e"
     }
    ]
   },
@@ -9959,6 +13469,51 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226713",
      "sha256": "ef99c672bc30e5a4e77fb5de0bd2ad3e4e767bade7da7f4bbbf27ef9316506d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4495-2020",
+   "path": "ordin/educatie/2020/4495",
+   "short": "Ordin educatie nr. 4495/2020",
+   "title": "Ordinul nr. 4.495/2020 pentru aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226866",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226866",
+     "sha256": "2c31d4949846bab0d55f46cf10e06b5046439d08d7d582b858e08741c98de05b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4510-2020",
+   "path": "ordin/educatie/2020/4510",
+   "short": "Ordin educatie nr. 4510/2020",
+   "title": "Ordinul nr. 4.510/2020 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", filieră \"vocațională\", profilul \"sportiv\", specializarea \"instructor sportiv (disciplina sportivă rugby)\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic Mecanic \"Grivița\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227095",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227095",
+     "sha256": "7325957e77e1d5e9962efebd1e42ca161bdb1e1f250f2666c245197dcb9cb9ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4511-2020",
+   "path": "ordin/educatie/2020/4511",
+   "short": "Ordin educatie nr. 4511/2020",
+   "title": "Ordinul nr. 4.511/2020 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", filieră \"vocațională\", profilul \"sportiv\", specializările \"instructor sportiv (disciplina sportivă fotbal)\" și \"instructor sportiv (disciplina sportivă handbal)\" din cadrul unității de învățământ preuniversitar de stat Liceul Tehnologic Construcții de Mașini din orașul Mioveni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227096",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227096",
+     "sha256": "bb4c9e3c93be5765205f4b5afa4b845a528abf56246d4bbd4f7d09e5eec0382b"
     }
    ]
   },
@@ -10004,6 +13559,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226867",
      "sha256": "743183c6ba83df41325adc4eaca0bae4c0cd7d6cdb68f99339dec1467430cc7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4540-2020",
+   "path": "ordin/educatie/2020/4540",
+   "short": "Ordin educatie nr. 4540/2020",
+   "title": "Ordinul nr. 4.540/2020 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", filieră \"vocațională\", profilul \"sportiv\", specializarea \"instructor sportiv\" (disciplinele sportive \"fotbal\", \"handbal\", \"baschet\", \"volei\", \"tenis de masă\") din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Iuliu Maniu\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227094",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227094",
+     "sha256": "debfed9a7e2e8b1aed6bc1e99f90e0ae8435eb97cb950f836a37fb92e555fda7"
     }
    ]
   },
@@ -10113,6 +13683,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4657-2020",
+   "path": "ordin/educatie/2020/4657",
+   "short": "Ordin educatie nr. 4657/2020",
+   "title": "Ordinul nr. 4.657/2020 pentru modificarea Ordinului ministrului educației naționale nr. 5.552/2017 privind componența Consiliului de etică și management universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227636",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227636",
+     "sha256": "df90e84a7610edc1e9541d616e229fd6b9798faf7d4eaa86e833067e0dc11cce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4660-2020",
+   "path": "ordin/educatie/2020/4660",
+   "short": "Ordin educatie nr. 4660/2020",
+   "title": "Ordinul nr. 4.660/2020 privind modificarea și completarea Ordinului ministrului educației și cercetării nr. 4.495/2020 pentru aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227633",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227633",
+     "sha256": "357f19fb78f9c622c14c26e3d5d36aef7a108b85d6110cb447ebd9e350b04b47"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4667-2020",
    "path": "ordin/educatie/2020/4667",
    "short": "Ordin educatie nr. 4667/2020",
@@ -10124,6 +13724,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227649",
      "sha256": "46016af433d996dd927bcf408601d942b87d2e18a1ddc70e5ed6a7504bb13d5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4676-2020",
+   "path": "ordin/educatie/2020/4676",
+   "short": "Ordin educatie nr. 4676/2020",
+   "title": "Ordinul nr. 4.676/2020 privind componența nominală a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare pentru mandatul 2020-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227755",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227755",
+     "sha256": "f45fdedbaf9ff545da286d127fab4ca3d07b46a9b9a0c4af843f75ec06a31380"
     }
    ]
   },
@@ -10158,6 +13773,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4685-2020",
+   "path": "ordin/educatie/2020/4685",
+   "short": "Ordin educatie nr. 4685/2020",
+   "title": "Ordinul nr. 4.685/2020 privind schimbarea sediului Școlii Primare din satul Floru, structură a unității de învățământ preuniversitar de stat Școala Gimnazială din comuna Icoana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228636",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228636",
+     "sha256": "58933fd31bd2d79d1fc728c3aed91cc423e4a7e8af8ff84e89f7fc1f61b17383"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4686-2020",
+   "path": "ordin/educatie/2020/4686",
+   "short": "Ordin educatie nr. 4686/2020",
+   "title": "Ordinul nr. 4.686/2020 privind extinderea unității de învățământ preuniversitar de stat Liceul Tehnologic \"Liviu Rebreanu\" din orașul Bălan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228637",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228637",
+     "sha256": "a68ae3bb7ceafa3041527b3e6c6fe4a4103ddf6aa366740c2600ec12df104ac2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4711-2020",
+   "path": "ordin/educatie/2020/4711",
+   "short": "Ordin educatie nr. 4711/2020",
+   "title": "Ordinul nr. 4.711/2020 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\", respectiv pentru nivelul \"liceal\", profilul \"real\", specializarea \"științe ale naturii\" din cadrul unității de învățământ preuniversitar de stat Colegiul Național \"Cantemir Vodă\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228594",
+   "versions": [
+    {
+     "from": "2020-08-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228594",
+     "sha256": "7219f25f918d97a846915f6efca64da2cc0e764ca034e5ac253053edd203bef2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4714-2020",
    "path": "ordin/educatie/2020/4714",
    "short": "Ordin educatie nr. 4714/2020",
@@ -10169,6 +13829,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228493",
      "sha256": "ac2cf1022950c4ab8878846e91729e08ffc0491ff232862c21569e398b27ab58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4725-2020",
+   "path": "ordin/educatie/2020/4725",
+   "short": "Ordin educatie nr. 4725/2020",
+   "title": "Ordinul nr. 4.725/2020 privind extinderea unității de învățământ preuniversitar de stat Școala Gimnazială \"Köllő Miklós\" din orașul Ciumani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228638",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228638",
+     "sha256": "351a12c23306f0b50e3800d1fcd54b33447a9b9aaf7d4b1f33fe2723dbb0feac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4726-2020",
+   "path": "ordin/educatie/2020/4726",
+   "short": "Ordin educatie nr. 4726/2020",
+   "title": "Ordinul nr. 4.726/2020 pentru completarea art. 1 din Ordinul ministrului educației naționale și cercetării științifice nr. 3.788/2016 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Adeona Kindergarten\" din municipiul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228661",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228661",
+     "sha256": "7675813ddc39dba4b262f4db12b6ee0894518ec3764ac63afa2bc1013c6c4193"
     }
    ]
   },
@@ -10308,6 +13998,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5400-2020",
+   "path": "ordin/educatie/2020/5400",
+   "short": "Ordin educatie nr. 5400/2020",
+   "title": "Ordinul nr. 5.400/2020 pentru completarea Ordinului ministrului educației naționale și cercetării științifice nr. 5.858/2016 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Ana Lugojana\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230950",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230950",
+     "sha256": "06c93fbf8af8a389ba275445083ba7ce2d398ce04c1512805bea8f850f477424"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5419-2020",
+   "path": "ordin/educatie/2020/5419",
+   "short": "Ordin educatie nr. 5419/2020",
+   "title": "Ordinul nr. 5.419/2020 privind schimbarea sediului nivelului de învățământ \"preșcolar\" din cadrul Școlii Gimnaziale \"Tudor Vladimirescu\" din municipiul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230591",
+   "versions": [
+    {
+     "from": "2020-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230591",
+     "sha256": "c021e45871574cee35a85d863f92447846a0a3e379765319aeec5bbcb34f0835"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5427-2020",
+   "path": "ordin/educatie/2020/5427",
+   "short": "Ordin educatie nr. 5427/2020",
+   "title": "Ordinul nr. 5.427/2020 privind schimbarea sediului Grădiniței cu program prelungit din satul Zetea, structură a unității de învățământ preuniversitar de stat Liceul Teoretic \"Dr. P. Boros Fortunat\" din satul Zetea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230516",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230516",
+     "sha256": "92c3c89f37542e78fe46a69732b98c7e5643d0319d1164acf55cca68a4288d21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5428-2020",
+   "path": "ordin/educatie/2020/5428",
+   "short": "Ordin educatie nr. 5428/2020",
+   "title": "Ordinul nr. 5.428/2020 privind schimbarea sediului Grădiniței cu program prelungit nr. 3 din orașul Segarcea, structură a unității de învățământ preuniversitar de stat Școala Gimnazială din orașul Segarcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230517",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230517",
+     "sha256": "691c198f5c331ba9b1abb589d11d2ffa42cf36dedcc0e52d36471dbbc80a07bc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5434-2020",
    "path": "ordin/educatie/2020/5434",
    "short": "Ordin educatie nr. 5434/2020",
@@ -10319,6 +14069,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230301",
      "sha256": "7ec2907cd0a37a6cdb56fa1528c8f634aee82058e8df6f9ff553b387e10c503e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5442-2020",
+   "path": "ordin/educatie/2020/5442",
+   "short": "Ordin educatie nr. 5442/2020",
+   "title": "Ordinul nr. 5.442/2020 privind extinderea unității de învățământ preuniversitar particular Liceul Teoretic \"Sfinții Trei Ierarhi\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230640",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230640",
+     "sha256": "5f2cae244878967da12d63af0170dce8c7c7760d6912c52e4577c80f416e0e23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5443-2020",
+   "path": "ordin/educatie/2020/5443",
+   "short": "Ordin educatie nr. 5443/2020",
+   "title": "Ordinul nr. 5.443/2020 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Echilibria - Montessori Education\" din orașul Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230641",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230641",
+     "sha256": "4fa0b118e2b2e46b5c08a6df033c80047727f7eb3ee351eac39b399e06b6c127"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5446-2020",
+   "path": "ordin/educatie/2020/5446",
+   "short": "Ordin educatie nr. 5446/2020",
+   "title": "Ordinul nr. 5.446/2020 pentru modificarea Ordinului ministrului educației naționale nr. 5.490/2013 privind acordarea autorizării de funcționare provizorie pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Gimnazială \"Step by Step\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230614",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230614",
+     "sha256": "feb0eb923ae15090aa92e6944a3ee9a16b09d41591a9cbf39c99a16419b62bfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5448-2020",
+   "path": "ordin/educatie/2020/5448",
+   "short": "Ordin educatie nr. 5448/2020",
+   "title": "Ordinul nr. 5.448/2020 pentru completarea Ordinului ministrului educației naționale nr. 3.618/2014 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială \"Anastasia Popescu\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230642",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230642",
+     "sha256": "e1f8855fc317cd2c7877ba51e3e8c80d50e32ec60245c5666e8ea26759feaf3b"
     }
    ]
   },
@@ -10698,6 +14508,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5708-2020",
+   "path": "ordin/educatie/2020/5708",
+   "short": "Ordin educatie nr. 5708/2020",
+   "title": "Ordinul nr. 5.708/2020 privind desemnarea membrilor Consiliului Național pentru Finanțarea Învățământului Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232419",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/232419",
+     "sha256": "5eae1994f0ff8160a3973db2605a358da13da0b847a5ec1e2c4c41f4c36b3b4c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5736-2020",
    "path": "ordin/educatie/2020/5736",
    "short": "Ordin educatie nr. 5736/2020",
@@ -10728,6 +14553,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5767-2020",
+   "path": "ordin/educatie/2020/5767",
+   "short": "Ordin educatie nr. 5767/2020",
+   "title": "Ordinul nr. 5.767/2020 privind acreditarea, organizarea și desfășurarea programelor de formare continuă destinate personalului didactic din învățământul preuniversitar în anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231656",
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250406172716id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/231656",
+     "sha256": "ce55e6abf31c6e757dd664aaf71c5b04797fd078b649749267aa3462c24b8a37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5863-2020",
+   "path": "ordin/educatie/2020/5863",
+   "short": "Ordin educatie nr. 5863/2020",
+   "title": "Ordinul nr. 5.863/2020 pentru retragerea acreditării Școlii doctorale Drept din cadrul Academiei de Poliție \"Alexandru Ioan Cuza\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232688",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232688",
+     "sha256": "842b27aad94e0cd123fb343519f27bca86fe66c34b650a49e2c0affcd0aaaf46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5864-2020",
+   "path": "ordin/educatie/2020/5864",
+   "short": "Ordin educatie nr. 5864/2020",
+   "title": "Ordinul nr. 5.864/2020 pentru retragerea acreditării Școlii doctorale Ordine publică și siguranță națională din cadrul Academiei de Poliție \"Alexandru Ioan Cuza\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232689",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232689",
+     "sha256": "5cd1bd4b10ca01d077ccf1846bd2043c8b3ae3c68df21ed03650025dc15cc8b6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5867-2020",
    "path": "ordin/educatie/2020/5867",
    "short": "Ordin educatie nr. 5867/2020",
@@ -10754,6 +14624,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232727",
      "sha256": "403562ef61622386edc15cf6e3cf0d47b696966440ad0cbb9694e54e270efa37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5927-2020",
+   "path": "ordin/educatie/2020/5927",
+   "short": "Ordin educatie nr. 5927/2020",
+   "title": "Ordinul nr. 5.927/2020 privind modificarea și completarea Ordinului ministrului educației și cercetării nr. 4.488/2020 pentru aprobarea Procedurii privind modalitatea de derulare online a activităților de evaluare externă în vederea acordării autorizației de funcționare provizorie și a acreditării pentru unitățile de învățământ preuniversitar de stat și particular, pe perioada stării de alertă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233083",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233083",
+     "sha256": "3887f7917320c27294e03ccf324e9a2f95a1a2a1db9734db751059556fbf0649"
     }
    ]
   },
@@ -10893,6 +14778,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6091-2020",
+   "path": "ordin/educatie/2020/6091",
+   "short": "Ordin educatie nr. 6091/2020",
+   "title": "Ordinul nr. 6.091/2020 pentru modificarea Ordinului ministrului educației și cercetării nr. 5.708/2020 privind desemnarea membrilor Consiliului Național pentru Finanțarea Învățământului Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234220",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234220",
+     "sha256": "808e5d890861929e44e2c53d9de2b2181123a7f4c71c3e307830fe18af9d6e4d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6100-2020",
    "path": "ordin/educatie/2020/6100",
    "short": "Ordin educatie nr. 6100/2020",
@@ -10919,6 +14819,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235577",
      "sha256": "9fa34ccdd4ebb97267f779923d3862123b8277cd51e21c883ee465102710635d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6107-2020",
+   "path": "ordin/educatie/2020/6107",
+   "short": "Ordin educatie nr. 6107/2020",
+   "title": "Ordinul nr. 6.107/2020 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2020 ale institutelor naționale de cercetare-dezvoltare care funcționează în coordonarea Ministerului Educației și Cercetării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235958",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235958",
+     "sha256": "09b803518fb5a29a0b939bdb5654c14fdc9bfdbf292b31377e7eeb2f1d987f9c"
     }
    ]
   },
@@ -11054,6 +14969,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232917",
      "sha256": "0da8bb6ea0791be24f8d694ad9a1e61f0b64e69ddff32da6a813187f9de668be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-205-2020",
+   "path": "ordin/externe/2020/205",
+   "short": "Ordin externe nr. 205/2020",
+   "title": "Ordinul nr. 205/2020 privind numirea doamnei Oana-Florentina Ezer în funcția de Agent guvernamental pentru Curtea Europeană a Drepturilor Omului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223271",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223271",
+     "sha256": "6697ecd54f8238ba799d5afab403bc90200928efb0d4b4aad85bb1aa7125dac9"
     }
    ]
   },
@@ -12734,6 +16664,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/230018",
      "sha256": "0984d13c35c5efabba516f274a190007eacc251c29610a65db0cca25f5e564be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1144-2020",
+   "path": "ordin/fonduri/2020/1144",
+   "short": "Ordin fonduri nr. 1144/2020",
+   "title": "Ordinul nr. 1.144/2020 pentru modificarea articolului 11 din Schema de ajutor de stat pentru sprijinirea dezvoltării de produse și servicii TIC inovative create de IMM-uri, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", apelul 3, din Programul operațional Competitivitate 2014-2020, aprobată prin Ordinul ministrului fondurilor europene și al președintelui Autorității pentru Digitalizarea României nr. 1.093/2.082/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230827",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230827",
+     "sha256": "6c56dcf942de97365ae496ebad9ee667ae962586638d4b9426a8669240bb25c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1145-2020",
+   "path": "ordin/fonduri/2020/1145",
+   "short": "Ordin fonduri nr. 1145/2020",
+   "title": "Ordinul nr. 1.145/2020 privind modificarea art. 11 din Schema de ajutor de minimis pentru creșterea contribuției sectorului TIC pentru competitivitatea economică, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", din cadrul Programului operațional Competitivitate 2014-2020, aprobată prin Ordinul ministrului fondurilor europene și al președintelui Autorității pentru Digitalizarea României nr. 1.092/2.083/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230839",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230839",
+     "sha256": "1b5e46887b5515eecd7faba45302896d13d4dc00c7ad4e4839990b6c88e6f618"
     }
    ]
   },

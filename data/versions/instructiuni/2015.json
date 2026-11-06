@@ -91,6 +91,21 @@
      "sha256": "a1b8e8e863d1067f31dd4cd6e542739568db2bc9e57cd18b6502177ca02f23af"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-munca-zi0114-2015",
+   "path": "instructiuni/munca/2015/01-14",
+   "short": "Instrucțiuni munca din 14 ianuarie 2015",
+   "title": "Instrucțiuni din 14 ianuarie 2015 privind completarea fișelor de autoevaluare pentru serviciile destinate prevenirii separării copilului de părinții săi, precum și pentru realizarea protecției speciale a copilului separat, temporar sau definitiv, de părinții săi*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165656",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165656",
+     "sha256": "d4356339630f875c5521b917ea9f6d74ead8a399aadb32292dbc8f2d4822c52c"
+    }
+   ]
   }
  ]
 }

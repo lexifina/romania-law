@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "ghid/2003",
+ "acts": [
+  {
+   "slug": "ghid-copii-zi0226-2003",
+   "path": "ghid/copii/2003/02-26",
+   "short": "Ghid copii din 26 februarie 2003",
+   "title": "Ghid din 26 februarie 2003 pentru evaluarea copilului cu dizabilități și încadrarea într-un grad de handicap*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46964",
+   "versions": [
+    {
+     "from": "2003-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46964",
+     "sha256": "4cc1ab237041347da3204d1eb2901024e4b2af0778afc6859cfc2b50ff8a0d66"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-copii-zi0515-2003",
+   "path": "ghid/copii/2003/05-15",
+   "short": "Ghid copii din 15 mai 2003",
+   "title": "Ghid metodologic din 15 mai 2003 de implementare a standardelor minime obligatorii pentru asigurarea protecției copilului la asistentul maternal profesionist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43959",
+   "versions": [
+    {
+     "from": "2003-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43959",
+     "sha256": "bc662f14d1a6f42750c153de1ef1b158d27445293489533dad1a7458ff24c2e1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2015",
+ "acts": [
+  {
+   "slug": "metodologie-cnas-zi0410-2015",
+   "path": "metodologie/cnas/2015/04-10",
+   "short": "Metodologie cnas din 10 aprilie 2015",
+   "title": "Metodologie din 10 aprilie 2015 de raportare a Listei actualizate a medicamentelor pentru care se datorează contribuție trimestrială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168400",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168400",
+     "sha256": "25c4058e83172e1e0e45a0e9255e9162790bc4a82c08c5275acdccf45b80ee37"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-interne-zi1106-2015",
+   "path": "metodologie/interne/2015/11-06",
+   "short": "Metodologie interne din 6 noiembrie 2015",
+   "title": "Metodologie din 6 noiembrie 2015 elaborării Planului de relații internaționale și afaceri europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173105",
+   "versions": [
+    {
+     "from": "2015-12-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173105",
+     "sha256": "e98a68e1d7d83017e18b29c3d51db1d2aadcf387dc35a5cc1f00573cd8563d3f"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0922-2015",
+   "path": "metodologie/orda/2015/09-22",
+   "short": "Metodologie orda din 22 septembrie 2015",
+   "title": "Metodologia din 22 septembrie 2015 privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru comunicarea publică a fonogramelor de comerț/fonogramelor publicate în scop comercial sau a reproducerilor acestora, precum și/sau a prestațiilor artistice din domeniul audiovizual, în scop ambiental și lucrativ, și tabelele cuprinzând drepturile patrimoniale ale artiștilor interpreți sau executanți pentru fonograme și pentru audiovizual și ale producătorilor de fonograme, prin gestiune colectivă obligatorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172175",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172175",
+     "sha256": "9ef2355bcb5f9516e07c6c47a3be01dbc61afd7ffb735eadd4e0309b578fcc6a"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0203-2015",
+   "path": "metodologie/sanatate/2015/02-03",
+   "short": "Metodologie sanatate din 3 februarie 2015",
+   "title": "Metodologie-cadru din 3 februarie 2015 de evaluare a furnizorilor de servicii medicale, de dispozitive medicale, de medicamente și materiale sanitare (Anexa nr. 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165808",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165808",
+     "sha256": "87037967a02bf7af4feff03d19b5e4456ea1605059accce7d1ffa924d5e9c2ba"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sport-zi0112-2015",
+   "path": "metodologie/sport/2015/01-12",
+   "short": "Metodologie sport din 12 ianuarie 2015",
+   "title": "Metodologie cadru din 12 ianuarie 2015 referitoare la finanțarea programelor sportive de utilitate publică ale structurilor sportive de drept privat din fonduri de la bugetul de stat și din venituri proprii Ministerului Tineretului și Sportului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165579",
+   "versions": [
+    {
+     "from": "2015-01-23",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165579",
+     "sha256": "300a12e6c223dfeeeb2b3460bc09679798a55716a740fbfc608fd224705b92b0"
+    }
+   ]
+  }
+ ]
+}

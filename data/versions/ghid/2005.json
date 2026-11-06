@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "ghid/2005",
+ "acts": [
+  {
+   "slug": "ghid-cncan-zi1213-2005",
+   "path": "ghid/cncan/2005/12-13",
+   "short": "Ghid cncan din 13 decembrie 2005",
+   "title": "Ghid din 13 decembrie 2005 privind conținutul-cadru și formatul evaluării de securitate la depozitarea de suprafață a deșeurilor radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70869",
+   "versions": [
+    {
+     "from": "2006-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70869",
+     "sha256": "de7e7fedeae9a4651d2d9bc40ecd67ef65d5ace2f8065b4c07853d7716a28963"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0419-1-2005",
+   "path": "ghid/sanatate/2005/04-19-1",
+   "short": "Ghid sanatate din 19 aprilie 2005",
+   "title": "Ghid din 19 aprilie 2005 privind gestionarea datelor de siguranța clinica și Raportul periodic actualizat referitor la siguranța medicamentelor aflate pe piața",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63103",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63103",
+     "sha256": "44ab7281a47a87b154730964e824fa6f94364d0f04095783c75b09741c9f1c78"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0419-2-2005",
+   "path": "ghid/sanatate/2005/04-19-2",
+   "short": "Ghid sanatate din 19 aprilie 2005",
+   "title": "Ghid din 19 aprilie 2005 privind procedura care trebuie urmata de deținătorii autorizatiei de punere pe piața în desfășurarea activităților de farmacovigilență*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63107",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63107",
+     "sha256": "84f44db738926c2e43b694c5e779296dadf8f2148bb4c9298516f1913b43ca99"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi0419-3-2005",
+   "path": "ghid/sanatate/2005/04-19-3",
+   "short": "Ghid sanatate din 19 aprilie 2005",
+   "title": "Ghid din 19 aprilie 2005 privind procedura care trebuie urmata de autoritățile competente în desfășurarea activității de farmacovigilență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63108",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63108",
+     "sha256": "d3d96a3d4d6d8a03d56c58c62690bb235248d70ff62755f0fe967cca8b97df80"
+    }
+   ]
+  }
+ ]
+}

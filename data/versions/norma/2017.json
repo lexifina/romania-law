@@ -468,6 +468,36 @@
    ]
   },
   {
+   "slug": "norma-aparare-zi0331-1-2017",
+   "path": "norma/aparare/2017/03-31-1",
+   "short": "Norma aparare din 31 martie 2017",
+   "title": "Norme metodologice din 31 martie 2017 de aplicare în Ministerul Apărării Naționale a prevederilor Legii nr. 270/2015 privind Statutul rezerviștilor voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188304",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188304",
+     "sha256": "a533d2cc5d870f73639c4373211f0449edd5a232d7c028c9e912f4933d49e19a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aparare-zi0331-2-2017",
+   "path": "norma/aparare/2017/03-31-2",
+   "short": "Norma aparare din 31 martie 2017",
+   "title": "Norme metodologice din 31 martie 2017 de aplicare în Ministerul Apărării Naționale a prevederilor Legii nr. 270/2015 privind Statutul rezerviștilor voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292043",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292043",
+     "sha256": "a9d0ff27e0d03c9e2ca0c084567deb92f6fc6be85175c272929cacbd316ac221"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-1-2017",
    "path": "norma/bnr/2017/1",
    "short": "Norma bnr nr. 1/2017",
@@ -479,6 +509,126 @@
      "units": 1,
      "source_url": "https://www.bnr.ro/20424-norma-metodologica-1-2017",
      "sha256": "960e018b2aba261bc64729125a951ecabd9793391682dcece9ca6f69048ec2ad"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-zi0413-2017",
+   "path": "norma/cifga/2017/04-13",
+   "short": "Norma cifga din 13 aprilie 2017",
+   "title": "Normă din 13 aprilie 2017 „Asigurarea creditelor la export pe termen mediu și lung și a investițiilor românești de capital în străinătate, în numele și în contul statului“ (NI-ASR-05-IV/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188610",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188610",
+     "sha256": "17c1e1a72be489041cb3113de800acb8b0034b34b59e78c97cf4ca797bde58b3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-zi1006-2017",
+   "path": "norma/cifga/2017/10-06",
+   "short": "Norma cifga din 6 octombrie 2017",
+   "title": "Normă din 6 octombrie 2017 privind \"Asigurarea creditelor la export pe termen mediu și lung și a investițiilor românești de capital în străinătate, în numele și în contul statului\" (NI-ASR-05-V/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193972",
+   "versions": [
+    {
+     "from": "2017-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193972",
+     "sha256": "fe26e2bb04424d4cdfd36ed21d855b17988cdcfd458ad3d4fd0a4828997ccbb3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnas-zi0227-2017",
+   "path": "norma/cnas/2017/02-27",
+   "short": "Norma cnas din 27 februarie 2017",
+   "title": "Norme metodologice din 27 februarie 2017 de aplicare în anul 2017 a Hotărârii Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187090",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187090",
+     "sha256": "33c2e9fdd8197df25094d14df7ab70f1c920ff10d90e1b2ea27af8ec1762c0a2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-educatie-zi0803-2017",
+   "path": "norma/educatie/2017/08-03",
+   "short": "Norma educatie din 3 august 2017",
+   "title": "Norme metodologice din 3 august 2017 privind procurarea, păstrarea, folosirea, scoaterea din uz și casarea sigiliilor și a timbrului sec cu stema României de către inspectoratele școlare, casele corpului didactic și unitățile de învățământ preuniversitar de stat și particular acreditate/autorizate, care fac parte din sistemul național de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192320",
+   "versions": [
+    {
+     "from": "2017-08-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192320",
+     "sha256": "cbc2a566b65bb3e01fba3849c8bcd9c9c1420623e27f78277beb1431c2a7390d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-educatie-zi1116-2017",
+   "path": "norma/educatie/2017/11-16",
+   "short": "Norma educatie din 16 noiembrie 2017",
+   "title": "Norme metodologice din 16 noiembrie 2017 privind organizarea și exercitarea activității de audit public intern la nivelul Ministerului Educației Naționale și în entitățile publice aflate în subordinea, coordonarea sau sub autoritatea Ministerului Educației Naționale la nivelul cărora nu există norme specifice de audit public intern întocmite conform prevederilor Hotărârii Guvernului nr. 1.086/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196605",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196605",
+     "sha256": "3e1bc32f1f579210cf57918a185f6ae1ebe9a4959bb4489245a2639121f05cec"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0130-2017",
+   "path": "norma/finante/2017/01-30",
+   "short": "Norma finante din 30 ianuarie 2017",
+   "title": "Norme metodologice din 30 ianuarie 2017 privind întocmirea și depunerea situațiilor financiare ale instituțiilor publice la 31 decembrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186408",
+   "versions": [
+    {
+     "from": "2017-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186408",
+     "sha256": "7a5c68f9d73e4846b819370b4310fe440dd09254085bf2d8c446e5768ffd6111"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1031-2017",
+   "path": "norma/finante/2017/10-31",
+   "short": "Norma finante din 31 octombrie 2017",
+   "title": "Norme metodologice din 31 octombrie 2017 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 34/2017 privind gestionarea financiară a fondurilor externe nerambursabile aferente Mecanismului financiar al Spațiului Economic European 2014-2021 și Mecanismului financiar norvegian 2014-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194921",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194921",
+     "sha256": "f7e6011aacb7b8d4bacbed74619dc16202b9088d8f6cddcc4675aba32493c8fa"
+    }
+   ]
+  },
+  {
+   "slug": "norma-mediu-zi1229-2017",
+   "path": "norma/mediu/2017/12-29",
+   "short": "Norma mediu din 29 decembrie 2017",
+   "title": "Norme metodologice din 29 decembrie 2017 de aplicare a Ordonanței de urgență a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196282",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196282",
+     "sha256": "ffed7649b78fb33f3186b0fe6c7bc2829cf1d2f2dd4c36409f5873646cf7a79d"
     }
    ]
   }

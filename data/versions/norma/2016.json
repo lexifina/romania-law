@@ -558,6 +558,21 @@
    ]
   },
   {
+   "slug": "norma-agricultura-zi0513-2016",
+   "path": "norma/agricultura/2016/05-13",
+   "short": "Norma agricultura din 13 mai 2016",
+   "title": "Norme din 13 mai 2016 privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179407",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179407",
+     "sha256": "69edfdb1067745f942e861037b513980866baf47cbeca4a1a520da5d6561226e"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-41-2016",
    "path": "norma/asf/2016/41",
    "short": "Norma asf nr. 41/2016",
@@ -569,6 +584,141 @@
      "units": 1,
      "source_url": "https://asfromania.ro/files/regl-integrate/Norma%2041%202016.pdf",
      "sha256": "c54e7540db934f401ea41266e2ac6dc39d82ea76a0f2159a09f968a1e2e6b2a2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-camera-zi0215-2016",
+   "path": "norma/camera/2016/02-15",
+   "short": "Norma camera din 15 februarie 2016",
+   "title": "Norme metodologice din 15 februarie 2016 privind acordarea indemnizației pentru limită de vârstă prevăzute de Legea nr. 96/2006 privind Statutul deputaților și al senatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280053",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280053",
+     "sha256": "82e68b5e5fd88e4e0aa734e6d5e2d5049f430cf3557e1545ff26d6ac0b0b9546"
+    }
+   ]
+  },
+  {
+   "slug": "norma-curteadeconturi-zi0412-2016",
+   "path": "norma/curteadeconturi/2016/04-12",
+   "short": "Norma curteadeconturi din 12 aprilie 2016",
+   "title": "Norme din 12 aprilie 2016 cu privire la stabilirea pensiei de serviciu conform prevederilor Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, astfel cum a fost modificată și completată prin Legea nr. 7/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177625",
+   "versions": [
+    {
+     "from": "2016-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177625",
+     "sha256": "628dbf2a4bcf482947ae36bf7d96c0e5afb73107f9936e3a37dea22399b89ce1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0913-1-2016",
+   "path": "norma/finante/2016/09-13-1",
+   "short": "Norma finante din 13 septembrie 2016",
+   "title": "Norme metodologice din 13 septembrie 2016 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale unităților/subdiviziunilor administrativ-teritoriale și instituțiilor publice finanțate integral din bugetul local pe destinațiile prevăzute la art. 55 alin. (4) din Ordonanța Guvernului nr. 14/2016 cu privire la rectificarea bugetului de stat pe anul 2016 (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181729",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181729",
+     "sha256": "cece2c5a97fe85bef0b6349a62668839d3cf66aece8e91181137329682625d8a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0913-2-2016",
+   "path": "norma/finante/2016/09-13-2",
+   "short": "Norma finante din 13 septembrie 2016",
+   "title": "Norme metodologice din 13 septembrie 2016 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale instituțiilor publice finanțate parțial din bugetul local și spitalelor publice din rețeaua autorităților administrației publice locale, raportate potrivit legii, pentru destinațiile prevăzute la art. 55 alin. (4) din Ordonanța Guvernului nr. 14/2016 cu privire la rectificarea bugetului de stat pe anul 2016 (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181730",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181730",
+     "sha256": "59485dea5e7c5dcfb06694fbf6c02862308ac4aae2d8c8e390e0ca0b3f550193"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0913-3-2016",
+   "path": "norma/finante/2016/09-13-3",
+   "short": "Norma finante din 13 septembrie 2016",
+   "title": "Norme metodologice din 13 septembrie 2016 de repartizare a sumelor potrivit prevederilor art. 55 alin. (6)-(10) din Ordonanța Guvernului nr. 14/2016 cu privire la rectificarea bugetului de stat pe anul 2016 (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181731",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181731",
+     "sha256": "ca820f5d6077f1e240ae6a3c7a4888c048a07a50accb85269e01b05dd50545a0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0727-2016",
+   "path": "norma/guvern/2016/07-27",
+   "short": "Norma guvern din 27 iulie 2016",
+   "title": "Norme metodologice din 27 iulie 2016 privind cheltuielile cu organizarea și desfășurarea competițiilor școlare, extrașcolare și extracurriculare, cuantumul stimulentelor financiare acordate elevilor premiați și unităților școlare de proveniență a premianților*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180797",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180797",
+     "sha256": "ee876e87b3bb8d5fb773ce16ec7d89d9d45eb8b0bca5ff303fe76c3db12d0d12"
+    }
+   ]
+  },
+  {
+   "slug": "norma-onjn-zi0613-1-2016",
+   "path": "norma/onjn/2016/06-13-1",
+   "short": "Norma onjn din 13 iunie 2016",
+   "title": "Norme generale din 13 iunie 2016 de întocmire și utilizare a registrelor și formularelor obligatorii specifice în domeniul jocurilor de noroc (Anexa nr. 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179520",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179520",
+     "sha256": "84bb96c45f370623be2e7defc7f6d363c30c48dc19753c93cdcd3920a0cbffdb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-onjn-zi0613-2-2016",
+   "path": "norma/onjn/2016/06-13-2",
+   "short": "Norma onjn din 13 iunie 2016",
+   "title": "Norme specifice din 13 iunie 2016 de completare și utilizare a registrelor și formularelor obligatorii specifice în domeniul jocurilor de noroc (Anexa nr. 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179521",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179521",
+     "sha256": "7b068068950336e3d70ca926828b60dd41ea74400bb5a980946575e51efbe517"
+    }
+   ]
+  },
+  {
+   "slug": "norma-penitenciare-zi1213-2016",
+   "path": "norma/penitenciare/2016/12-13",
+   "short": "Norma penitenciare din 13 decembrie 2016",
+   "title": "Norme metodologice din 13 decembrie 2016 privind sistemul de control intern managerial în Administrația Națională a Penitenciarelor și unitățile subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186406",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 81,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186406",
+     "sha256": "7d726c07ada56c70d48f49f09006a4b8f621ab817b56e71cf747f8f296f3ef9f"
     }
    ]
   }

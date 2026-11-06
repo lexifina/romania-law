@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "instructiuni-aparare-zi1207-2012",
+   "path": "instructiuni/aparare/2012/12-07",
+   "short": "Instrucțiuni aparare din 7 decembrie 2012",
+   "title": "Instrucțiuni din 7 decembrie 2012 privind activitatea de informare și relații publice în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143904",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 129,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143904",
+     "sha256": "baebacbea42fe7f1113f6d61e6c470f5bf95f313cef05b87892f9c60def5e3b2"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-cnvm-3-2012",
    "path": "instructiuni/cnvm/2012/3",
    "short": "Instrucțiuni cnvm nr. 3/2012",
@@ -74,6 +89,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139374",
      "sha256": "56f754026d528de557c176751b848ff593dbafa0bcde0020c71761adb2783c91"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi1128-2012",
+   "path": "instructiuni/concurenta/2012/11-28",
+   "short": "Instrucțiuni concurenta din 28 noiembrie 2012",
+   "title": "Instrucțiuni din 28 noiembrie 2012 pentru modificarea și completarea Instrucțiunilor privind condițiile, termenele și procedura pentru acceptarea și evaluarea angajamentelor, în cazul practicilor anticoncurențiale, puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 724/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143936",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143936",
+     "sha256": "71b80260b22107ddc735e7a9f616ab6d2b40ec3c31ce734952cba1387fab24b5"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-penitenciare-zi0228-2012",
+   "path": "instructiuni/penitenciare/2012/02-28",
+   "short": "Instrucțiuni penitenciare din 28 februarie 2012",
+   "title": "Instrucțiuni din 28 februarie 2012 privind organizarea, coordonarea și controlul activității de protecție a mediului în sistemul administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136161",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136161",
+     "sha256": "040a034bfee571a58abce0653d86e51c967fc6db363aacb1a91f95b46d18d11f"
     }
    ]
   }

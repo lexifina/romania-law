@@ -229,6 +229,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/152786",
 "issuer": "interne",
 "joint": []
+},
+{
+"slug": "instructiuni-justitie-zi0909-2013",
+"path": "instructiuni/justitie/2013/09-09",
+"kind": "instructiuni",
+"year": "2013",
+"number": "09-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni din 2013 pentru scăderea din evidența contabilă a valorii pagubelor produse în gospodăriile agrozootehnice din sistemul administrației penitenciare prin calamități naturale și boli transmisibile ale animalelor",
+"short": "Instrucțiuni justitie din 9 septembrie 2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-09-09",
+"latest": "2013-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151304",
+"issuer": "justitie",
+"joint": []
 }
 ]
 }

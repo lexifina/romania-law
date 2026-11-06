@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2012",
+ "acts": [
+  {
+   "slug": "criterii-guvern-zi0125-2012",
+   "path": "criterii/guvern/2012/01-25",
+   "short": "Criterii guvern din 25 ianuarie 2012",
+   "title": "Criterii și norme din 25 ianuarie 2012 de diagnostic clinic, diagnostic funcțional și de evaluare a capacității de muncă pe baza cărora se stabilește aptitudinea și încadrarea în grade de invaliditate pentru cadrele militare, soldații și gradații voluntari, polițiștii și funcționarii publici cu statut special din sistemul administrației penitenciare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136174",
+   "versions": [
+    {
+     "from": "2012-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136174",
+     "sha256": "c8338798cb468474e83c015a2c49ab77ee9060135c5a1f8c5c75caadaadc8cef"
+    }
+   ]
+  }
+ ]
+}

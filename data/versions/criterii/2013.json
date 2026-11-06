@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "criterii/2013",
+ "acts": [
+  {
+   "slug": "criterii-sanatate-zi0402-1-2013",
+   "path": "criterii/sanatate/2013/04-02-1",
+   "short": "Criterii sanatate din 2 aprilie 2013",
+   "title": "Criterii din 2 aprilie 2013 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 23 alin. (3) și (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013 - 2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală primară (Anexa nr. 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146727",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146727",
+     "sha256": "07fed8ca05279987af66a5a7265b14e18f62aa3a51ab0763a5a90200f843fd25"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0402-2-2013",
+   "path": "criterii/sanatate/2013/04-02-2",
+   "short": "Criterii sanatate din 2 aprilie 2013",
+   "title": "Criterii din 2 aprilie 2013 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 44 alin. (4) și (6) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013 - 2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice (Anexa nr. 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146728",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146728",
+     "sha256": "b1704a002d0901ed70971392f5f8e9fca003e22f4d4ef3a2b5f4398ee9f1226a"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0402-3-2013",
+   "path": "criterii/sanatate/2013/04-02-3",
+   "short": "Criterii sanatate din 2 aprilie 2013",
+   "title": "Criterii din 2 aprilie 2013 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 44 alin. (4) și (6) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013 - 2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală ambulatorie de specialitate pentru medicina dentară (Anexa nr. 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146729",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146729",
+     "sha256": "e8c0934d1fb6aec300c41f57135d1de5f1074b1de8e86438840c3400dc6c1513"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0402-4-2013",
+   "path": "criterii/sanatate/2013/04-02-4",
+   "short": "Criterii sanatate din 2 aprilie 2013",
+   "title": "Criterii din 2 aprilie 2013 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 44 alin. (5) și (6) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013 - 2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală ambulatorie de specialitate pentru specialitățile paraclinice (Anexa nr. 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146730",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146730",
+     "sha256": "5392a2fd62528da85129ddd47eeb455ab8742556f88bf1716821548c99e4d960"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0402-5-2013",
+   "path": "criterii/sanatate/2013/04-02-5",
+   "short": "Criterii sanatate din 2 aprilie 2013",
+   "title": "Criterii din 2 aprilie 2013 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 62 alin. (3) și (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013 - 2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală spitalicească (Anexa nr. 5)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146731",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146731",
+     "sha256": "987fc7f05e685d4b0dfe0751cc08e37ef9f565f563fd0b6b2fe51ad9468af471"
+    }
+   ]
+  }
+ ]
+}

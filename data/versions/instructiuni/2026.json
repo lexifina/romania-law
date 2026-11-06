@@ -16,6 +16,51 @@
      "sha256": "03ebc724819ba09fefe70dc1691d234f74e8cfc157488791fd06c2ea1524de31"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0330-2026",
+   "path": "instructiuni/concurenta/2026/03-30",
+   "short": "Instrucțiuni concurenta din 30 martie 2026",
+   "title": "Instrucțiuni din 30 martie 2026 pentru modificarea pct. 9 din Instrucțiunile privind individualizarea sancțiunilor pentru contravențiile prevăzute la art. 55 din Legea concurenței nr. 21/1996 , puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 1.037/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309069",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309069",
+     "sha256": "35169a89312eb6fef7ef95f7a760a746240384c95eb759b780887da2f719b37c"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-offshore-zi0831-1-2026",
+   "path": "instructiuni/offshore/2026/08-31-1",
+   "short": "Instrucțiuni offshore din 31 august 2026",
+   "title": "Instrucțiuni din 31 august 2026 privind siguranța operațională în etapa de construcție a proiectelor de centrale electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314436",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314436",
+     "sha256": "f3c27113cf9907082bd52ca28d2827a1e047c49600f8385bab24124769ba568f"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-offshore-zi0831-2-2026",
+   "path": "instructiuni/offshore/2026/08-31-2",
+   "short": "Instrucțiuni offshore din 31 august 2026",
+   "title": "Instrucțiuni din 31 august 2026 privind siguranța operațională în etapa de exploatare a proiectelor de centrale electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314437",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314437",
+     "sha256": "06994fd1e6fa23a19ab7d15f8e972904d57c7e2bfcb25d2f1d5daa26ac2fb93a"
+    }
+   ]
   }
  ]
 }

@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-142-2001",
+   "path": "ordin/agricultura/2001/142",
+   "short": "Ordin agricultura nr. 142/2001",
+   "title": "Ordinul nr. 142/2001 pentru constituirea Comisiei Naționale de Evaluare a Trofeelor de Vânat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28736",
+   "versions": [
+    {
+     "from": "2001-06-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28736",
+     "sha256": "6ef006c6a69cece824225330755298f43fcc8aa79130ed0b368bac057a6e5040"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-143-2001",
    "path": "ordin/agricultura/2001/143",
    "short": "Ordin agricultura nr. 143/2001",
@@ -678,6 +693,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-279-2001",
+   "path": "ordin/agricultura/2001/279",
+   "short": "Ordin agricultura nr. 279/2001",
+   "title": "Ordinul nr. 279/2001 privind împuternicirea inspectoratelor teritoriale de regim silvic și cinegetic de a elibera autorizația pentru confecționarea și folosirea dispozitivelor de marcat material lemnos de lucru care se exploatează și se transporta din pădure",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30157",
+   "versions": [
+    {
+     "from": "2001-08-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30157",
+     "sha256": "cf453232fb442d6a0616bbc9c92d95b6ac11c7d17f99f27f116531ef36c02a97"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-280-2001",
    "path": "ordin/agricultura/2001/280",
    "short": "Ordin agricultura nr. 280/2001",
@@ -843,6 +873,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-326-2001",
+   "path": "ordin/agricultura/2001/326",
+   "short": "Ordin agricultura nr. 326/2001",
+   "title": "Ordinul nr. 326/2001 privind abilitarea oficiilor de studii pedologice și agrochimice județene și a direcțiilor generale pentru agricultura și industrie alimentară județene, respectiv a municipiului București, sa îndeplinească atribuțiile prevăzute la art. 74-103 din Legea nr. 18/1991, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31227",
+   "versions": [
+    {
+     "from": "2001-10-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31227",
+     "sha256": "d72319c8a7d04421c563f18e40594df09efb0892ac9ae75fecb41c55e26d0a50"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-350-2001",
    "path": "ordin/agricultura/2001/350",
    "short": "Ordin agricultura nr. 350/2001",
@@ -944,6 +989,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32025",
      "sha256": "c83b8487b6b2563f3e5d57c9581005655ff6d3c75b0e05f8a1e69625fc3cad32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-374-2001",
+   "path": "ordin/agricultura/2001/374",
+   "short": "Ordin agricultura nr. 374/2001",
+   "title": "Ordinul nr. 374/2001 pentru aprobarea componentei Comitetului tehnic și a subcomitetelor pentru omologarea metodelor și metodologiilor de diagnostic paraclinic medical veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33933",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33933",
+     "sha256": "3a719fa70d776d3999660cf72c09684cee31d1b723252158fdcce6141a8f3912"
     }
    ]
   },
@@ -1139,6 +1199,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32457",
      "sha256": "7cc723642abf708f87283378c80eb931d7efbf8254f04d500aaa4dce4f110e6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-43-2001",
+   "path": "ordin/agricultura/2001/43",
+   "short": "Ordin agricultura nr. 43/2001",
+   "title": "Ordinul nr. 43/2001 pentru împuternicirea inspectoratelor teritoriale de regim silvic și cinegetic de a încheia contractele de gestionare a fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27301",
+   "versions": [
+    {
+     "from": "2001-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27301",
+     "sha256": "e93600792679ce7f66087fd2d900cb2677af2dd60919ca214e118f62ec779987"
     }
    ]
   },
@@ -2253,6 +2328,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-103-2001",
+   "path": "ordin/anrm/2001/103",
+   "short": "Ordin anrm nr. 103/2001",
+   "title": "Ordinul nr. 103/2001 privind suspendarea aplicării dispozițiilor pct. II din anexa nr. 1 la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 98/1998 privind aprobarea metodologiilor de stabilire a prețului de referința pentru petrolul (țiței și gaze naturale) extras în România și modificarea și completarea unor instrucțiuni tehnice privind activitatea titularilor de acorduri petroliere, începând cu luna mai 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29830",
+   "versions": [
+    {
+     "from": "2001-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29830",
+     "sha256": "b62b58a229f2446c6c4045fae7c798e2a379d5fd7af099453ebb84641db81021"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-107-2001",
    "path": "ordin/anrm/2001/107",
    "short": "Ordin anrm nr. 107/2001",
@@ -2369,6 +2459,66 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32282",
      "sha256": "30e55bbdc72175eac37d8dcb71c30f26b9d3649b51abf738ea0bfbb087d45712"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-19-2001",
+   "path": "ordin/anrm/2001/19",
+   "short": "Ordin anrm nr. 19/2001",
+   "title": "Ordinul nr. 19/2001 privind suspendarea aplicării dispozițiilor pct. II din anexa nr. 1 la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 98/1998 privind aprobarea metodologiilor de stabilire a prețului de referința pentru petrolul extras în România și modificarea și completarea unor instrucțiuni tehnice privind activitatea titularilor de acorduri petroliere pentru perioada trimestrului I al anului 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26484",
+   "versions": [
+    {
+     "from": "2001-02-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26484",
+     "sha256": "8fd845e2a8b77919c7605934aedd49c99090d5b7bd6fd216433ef293e5e9d864"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-192-2001",
+   "path": "ordin/anrm/2001/192",
+   "short": "Ordin anrm nr. 192/2001",
+   "title": "Ordinul nr. 192/2001 privind transferul licenței de concesiune pentru exploatarea minereurilor auro-argentifere și polimetalice din perimetrul \"Certej\", încheiată între Agenția Națională pentru Resurse Minerale și Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32859",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32859",
+     "sha256": "8800c2062626be92dad6ca934d0bed04f224452e1f7529102f724ee3f68c74bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-193-2001",
+   "path": "ordin/anrm/2001/193",
+   "short": "Ordin anrm nr. 193/2001",
+   "title": "Ordinul nr. 193/2001 privind transferul licenței de concesiune pentru exploatarea minereurilor auro-argentifere și polimetalice din perimetrul \"Zlatna\", încheiată între Agenția Naționala pentru Resurse Minerale și Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32860",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32860",
+     "sha256": "656eeef4d16d847309a60ab3fe02f7d8edc712580fd004deded67a17ad44c4e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-194-2001",
+   "path": "ordin/anrm/2001/194",
+   "short": "Ordin anrm nr. 194/2001",
+   "title": "Ordinul nr. 194/2001 privind transferul licenței de concesiune pentru exploatarea minereurilor auro-argentifere și polimetalice din perimetrul \"Bolcana\", încheiată între Agenția Naționala pentru Resurse Minerale și Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32861",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32861",
+     "sha256": "070efddf49740f43e56d1dfd6c32d0f11a379acf40e0e17ae825bf463f089134"
     }
    ]
   },
@@ -3479,6 +3629,21 @@
      "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28593",
      "sha256": "5ca79868c67d239985bf2f8665cc121c861abf5aeae6ea60c4b09198a71dc9a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2081-2001",
+   "path": "ordin/cultura/2001/2081",
+   "short": "Ordin cultura nr. 2081/2001",
+   "title": "Ordinul nr. 2.081/2001 privind modificarea Ordinului ministrului culturii nr. 2.032/1999 pentru înființarea Comisiei de Atestare în Domeniul Monumentelor Istorice și aprobarea normelor și criteriilor de atestare a experților în domeniul protejării monumentelor istorice și a specialiștilor în domeniul conservării și restaurării monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30564",
+   "versions": [
+    {
+     "from": "2001-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30564",
+     "sha256": "2a67037ea649fb4d52bbba2b87e1f5d2cdb39f8f80908409138c0d2c9a2d6c7b"
     }
    ]
   },
@@ -6974,6 +7139,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30271",
      "sha256": "09e7dd4c24a408a196cca59f44132475def2adaf2bcd51b7c48fd27e3ec76dc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-319-2001",
+   "path": "ordin/imm/2001/319",
+   "short": "Ordin imm nr. 319/2001",
+   "title": "Ordinul nr. 319/2001 pentru aprobarea Actului constitutiv al Fondului Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33156",
+   "versions": [
+    {
+     "from": "2002-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33156",
+     "sha256": "a257bd649316c4677fc393ee1f0fc07cdb25ab74610be5e9ecc5651c14f4083b"
     }
    ]
   },

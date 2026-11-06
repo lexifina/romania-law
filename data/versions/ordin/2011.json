@@ -723,6 +723,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-236-2011",
+   "path": "ordin/agricultura/2011/236",
+   "short": "Ordin agricultura nr. 236/2011",
+   "title": "Ordinul nr. 236/2011 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2011 ale institutelor naționale de cercetare-dezvoltare din subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133674",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133674",
+     "sha256": "fc97d394ad5867a9850fa63565942f89c789e91ccda6ffb2c29e076162fa209d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-24-2011",
    "path": "ordin/agricultura/2011/24",
    "short": "Ordin agricultura nr. 24/2011",
@@ -749,6 +764,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132988",
      "sha256": "027b39f3a70bda8c24ee4b3c154452283a8e173f2fa70f8157190a305492d892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-258-2011",
+   "path": "ordin/agricultura/2011/258",
+   "short": "Ordin agricultura nr. 258/2011",
+   "title": "Ordinul nr. 258/2011 pentru modificarea anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 480/2009 privind constituirea Comisiei pentru acordarea licențelor de depozit pentru semințele de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132782",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132782",
+     "sha256": "264caee73bcc66c4dab077dfa69d2a026e1423cd3d5652b9dcf3085e42fa73c4"
     }
    ]
   },
@@ -3003,6 +3033,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-120-2011",
+   "path": "ordin/anrm/2011/120",
+   "short": "Ordin anrm nr. 120/2011",
+   "title": "Ordinul nr. 120/2011 privind aprobarea unei licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126117",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126117",
+     "sha256": "4da0c680ce8ab8ed5977e7af6836e20e2976ac945fbc2aca562bd16f004d7e40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-124-2011",
+   "path": "ordin/anrm/2011/124",
+   "short": "Ordin anrm nr. 124/2011",
+   "title": "Ordinul nr. 124/2011 pentru aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126267",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126267",
+     "sha256": "aee5b03b9d0f20ee84dcf874e8a4b887726fe212047d670047ff56cf4b850400"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-125-2011",
    "path": "ordin/anrm/2011/125",
    "short": "Ordin anrm nr. 125/2011",
@@ -3093,6 +3153,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-162-2011",
+   "path": "ordin/anrm/2011/162",
+   "short": "Ordin anrm nr. 162/2011",
+   "title": "Ordinul nr. 162/2011 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129639",
+   "versions": [
+    {
+     "from": "2011-06-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129639",
+     "sha256": "e207f50efaee451ed9e3b7038d4a9a64c9db140637550fe9825f87f91e4640fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-168-2011",
    "path": "ordin/anrm/2011/168",
    "short": "Ordin anrm nr. 168/2011",
@@ -3138,6 +3213,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-209-2011",
+   "path": "ordin/anrm/2011/209",
+   "short": "Ordin anrm nr. 209/2011",
+   "title": "Ordinul nr. 209/2011 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131960",
+   "versions": [
+    {
+     "from": "2011-10-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131960",
+     "sha256": "143f47c4ddc0df4c19713053c033d2bf89073f64813e30adbe142dc0a9234908"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-221-2011",
    "path": "ordin/anrm/2011/221",
    "short": "Ordin anrm nr. 221/2011",
@@ -3179,6 +3269,21 @@
      "units": 46,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133969",
      "sha256": "8b758969159e612f2adf305192038a59f452deb5eb469fd2524493262c69c1d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-5-2011",
+   "path": "ordin/anrm/2011/5",
+   "short": "Ordin anrm nr. 5/2011",
+   "title": "Ordinul nr. 5/2011 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125191",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125191",
+     "sha256": "f4c81cdf030e20eed89c44d5533aa89dcb528f2ab1144ee4b14fa602c7fd2397"
     }
    ]
   },
@@ -5073,6 +5178,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-439-2011",
+   "path": "ordin/comunicatii/2011/439",
+   "short": "Ordin comunicatii nr. 439/2011",
+   "title": "Ordinul nr. 439/2011 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2011 al Institutului Național de Studii și Cercetări pentru Comunicații - I.N.S.C.C. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127046",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127046",
+     "sha256": "508eae6a271682b29ce5afdc8f52f1bfefe82c2f8df003694918c5250ad9c014"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-518-2011",
+   "path": "ordin/comunicatii/2011/518",
+   "short": "Ordin comunicatii nr. 518/2011",
+   "title": "Ordinul nr. 518/2011 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2011 al Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127898",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127898",
+     "sha256": "475cd1877987d22824043103f6d19204d60e261f3088ade76e4c402b425303c2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-585-2011",
    "path": "ordin/comunicatii/2011/585",
    "short": "Ordin comunicatii nr. 585/2011",
@@ -5553,6 +5688,66 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2012-2011",
+   "path": "ordin/cultura/2011/2012",
+   "short": "Ordin cultura nr. 2012/2011",
+   "title": "Ordinul nr. 2.012/2011 pentru acreditarea Muzeului Județean Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125651",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125651",
+     "sha256": "f1a96f4621cfd9b9707b669eb0af7a6277a03e3c5b43998afb471899a71c3667"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2023-2011",
+   "path": "ordin/cultura/2011/2023",
+   "short": "Ordin cultura nr. 2023/2011",
+   "title": "Ordinul nr. 2.023/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Biserica \"Nașterea Maicii Domnului\", situat în satul Telița, comuna Frecăței, județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126792",
+   "versions": [
+    {
+     "from": "2011-03-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126792",
+     "sha256": "fac6d11278b6909182ca8118158f1afd0f0abcd683cb3562b9331049b088ba8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2057-2011",
+   "path": "ordin/cultura/2011/2057",
+   "short": "Ordin cultura nr. 2057/2011",
+   "title": "Ordinul nr. 2.057/2011 privind declasarea din Lista monumentelor istorice a imobilului \"Casa Iosif Diaconescu, azi Augustin Iosifescu\", situat în comuna Malu cu Flori, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126793",
+   "versions": [
+    {
+     "from": "2011-03-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126793",
+     "sha256": "af34bdb7ff33298cf454bc0a946f0560667f2ad41e538b31a55e27085d18c89e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2058-2011",
+   "path": "ordin/cultura/2011/2058",
+   "short": "Ordin cultura nr. 2058/2011",
+   "title": "Ordinul nr. 2.058/2011 privind declasarea din Lista monumentelor istorice a imobilului \"Casă\", situat în municipiul București, Str. Colței nr. 40, sectorul 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126794",
+   "versions": [
+    {
+     "from": "2011-03-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126794",
+     "sha256": "44756786983ca4c564651ed3a720ca7a9bca6ad893c056078e52eb7061e95d03"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2066-2011",
    "path": "ordin/cultura/2011/2066",
    "short": "Ordin cultura nr. 2066/2011",
@@ -5564,6 +5759,21 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126778",
      "sha256": "2e605ae026068362812a9575e8a0f1e1087301943f13ad09c0f74e16c0fd6f76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2116-2011",
+   "path": "ordin/cultura/2011/2116",
+   "short": "Ordin cultura nr. 2116/2011",
+   "title": "Ordinul nr. 2.116/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Clădire primărie, din Str. Principală nr. 206, satul/comuna Aita Mare, județul Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127871",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127871",
+     "sha256": "0fd89fc0b7ab4a03334016fd4eb0a3cfd4e08ca06f69ab882355fa268da99868"
     }
    ]
   },
@@ -5613,6 +5823,96 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2352-2011",
+   "path": "ordin/cultura/2011/2352",
+   "short": "Ordin cultura nr. 2352/2011",
+   "title": "Ordinul nr. 2.352/2011 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\" din str. Baldovin Pârcălabul nr. 18, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129842",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129842",
+     "sha256": "4b298be00529c4961712f124f5ee2f77025cbdfe5b90d4be730d22e966f24e02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2353-2011",
+   "path": "ordin/cultura/2011/2353",
+   "short": "Ordin cultura nr. 2353/2011",
+   "title": "Ordinul nr. 2.353/2011 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\" din str. Baldovin Pârcălabul nr. 16, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129844",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129844",
+     "sha256": "e64de3ba29cf2e08732fb8f4757f2f1b4d0511ea85fe0f5050ade33ce2ff3844"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2362-2011",
+   "path": "ordin/cultura/2011/2362",
+   "short": "Ordin cultura nr. 2362/2011",
+   "title": "Ordinul nr. 2.362/2011 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\" din Str. Cameliei nr. 24, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129846",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129846",
+     "sha256": "a1bac33ccc428d15732a7829683339991b7e052c55cf696a402ea047442e6a41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2370-2011",
+   "path": "ordin/cultura/2011/2370",
+   "short": "Ordin cultura nr. 2370/2011",
+   "title": "Ordinul nr. 2.370/2011 privind declasarea din Lista monumentelor istorice a imobilului \"Casa\" din str. Baldovin Pârcălabul nr. 20, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129847",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129847",
+     "sha256": "5b1f9c8391b7f80e59540961c4e833ef137faad55cd87be5bd374dec30dfcf39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2391-2011",
+   "path": "ordin/cultura/2011/2391",
+   "short": "Ordin cultura nr. 2391/2011",
+   "title": "Ordinul nr. 2.391/2011 privind clasarea în Lista monumentelor istorice, categoria ansamblu, grupa valorică \"A\", a imobilului Crematoriul \"Cenușa\" din calea Șerban Vodă nr. 183, sectorul 4, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130356",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130356",
+     "sha256": "12e928d5e851888ed1cecffafffb15b8e4fdde60359a7b3f426ddfe0e748b441"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2392-2011",
+   "path": "ordin/cultura/2011/2392",
+   "short": "Ordin cultura nr. 2392/2011",
+   "title": "Ordinul nr. 2.392/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului Corpul C4-chilii, din cadrul Ansamblului Mânăstirea Radu Vodă, din str. Radu Vodă nr. 24 A, sectorul 4, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130604",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130604",
+     "sha256": "55a6faaac44f4c374a71db1c805f8a230b583432d71fd963883ad7aadaf791db"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2408-2011",
    "path": "ordin/cultura/2011/2408",
    "short": "Ordin cultura nr. 2408/2011",
@@ -5624,6 +5924,81 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130546",
      "sha256": "b5d4fd0b11836fb7b2475111bcc3ec5bf0bf55519d478320f73250ed93d58e75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2409-2011",
+   "path": "ordin/cultura/2011/2409",
+   "short": "Ordin cultura nr. 2409/2011",
+   "title": "Ordinul nr. 2.409/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului \"Biserica ortodoxă &lt;&lt;Sf. Arhangheli Mihail și Gavril&gt;&gt;\" din satul/comuna Chilia Veche, județul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130468",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130468",
+     "sha256": "a8b9fbaeaf1b45203e291010be0abd2d3d1240757886053229c07843d808fda3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2435-2011",
+   "path": "ordin/cultura/2011/2435",
+   "short": "Ordin cultura nr. 2435/2011",
+   "title": "Ordinul nr. 2.435/2011 pentru acreditarea Muzeului \"Vasile Pârvan\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130456",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130456",
+     "sha256": "ee5a033dd7747f21d4c4a36e9deacc685b9e3537828908e49ebfd06232cc0619"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2454-2011",
+   "path": "ordin/cultura/2011/2454",
+   "short": "Ordin cultura nr. 2454/2011",
+   "title": "Ordinul nr. 2.454/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a unor imobile din Piața Libertății și Str. Republicii, municipiul Salonta, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130463",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130463",
+     "sha256": "49a203263b8c835e6f0f0324956fba302ef8550c3c57729efb84311bac2e0a15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2455-2011",
+   "path": "ordin/cultura/2011/2455",
+   "short": "Ordin cultura nr. 2455/2011",
+   "title": "Ordinul nr. 2.455/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Terminal pasageri - Aeroportul Internațional București Băneasa - Aurel Vlaicu\", șos. București-Ploiești nr. 40, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130467",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130467",
+     "sha256": "1345056e9286312859cf8fafab668232a0badc49bd803083d09499377d2594a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2456-2011",
+   "path": "ordin/cultura/2011/2456",
+   "short": "Ordin cultura nr. 2456/2011",
+   "title": "Ordinul nr. 2.456/2011 privind declasarea parțială din Lista monumentelor istorice a imobilului \"Cinema Doina (Terra)\" din Str. Doamnei nr. 9, sectorul 3, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130464",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130464",
+     "sha256": "1ba8755c1ea2c3449d7b1616697209675bb9cd4e55613651796034c42d024674"
     }
    ]
   },
@@ -5643,6 +6018,96 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2647-2011",
+   "path": "ordin/cultura/2011/2647",
+   "short": "Ordin cultura nr. 2647/2011",
+   "title": "Ordinul nr. 2.647/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului din Bd. Aviatorilor nr. 106, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133152",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133152",
+     "sha256": "f264f84569ae44c702f7d77ca9df9fef7d55c1b1c276d4c785456371c6fcbbbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2662-2011",
+   "path": "ordin/cultura/2011/2662",
+   "short": "Ordin cultura nr. 2662/2011",
+   "title": "Ordinul nr. 2.662/2011 pentru acreditarea Muzeului de Artă Vizuală Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133154",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133154",
+     "sha256": "a2a2dbb471337f4fa1c0e89c680a10357ef59fb71ac14f32dd661edbc13f021e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2663-2011",
+   "path": "ordin/cultura/2011/2663",
+   "short": "Ordin cultura nr. 2663/2011",
+   "title": "Ordinul nr. 2.663/2011 pentru acreditarea Colecției publice obiecte și fond documentar din cadrul Centrului de Documentare și Informare Gaze Naturale Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133155",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133155",
+     "sha256": "74e56b4cc2adc30a27d5c3fbb690ef3b4985c7c1929b01cdd657e2cfc436fc76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2709-2011",
+   "path": "ordin/cultura/2011/2709",
+   "short": "Ordin cultura nr. 2709/2011",
+   "title": "Ordinul nr. 2.709/2011 privind clasarea în Lista monumentelor istorice, categoria Ansamblu, grupa valorică \"B\", a imobilului Muzeul Aviației, din str. Fabrica de Glucoză nr. 2-4, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134276",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134276",
+     "sha256": "b69a1868dafb6b3e60f44eeec4cca7096a128fd869d638c6a8a17e9ccf0d5e54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2710-2011",
+   "path": "ordin/cultura/2011/2710",
+   "short": "Ordin cultura nr. 2710/2011",
+   "title": "Ordinul nr. 2.710/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Capela Hașaș, din Cimitirul Municipal, din Oradea, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134277",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134277",
+     "sha256": "708d4b68430bb6469f3747a238a1efadd2740cb547f5e36dcb95498e457312b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2729-2011",
+   "path": "ordin/cultura/2011/2729",
+   "short": "Ordin cultura nr. 2729/2011",
+   "title": "Ordinul nr. 2.729/2011 privind declasarea din Lista monumentelor istorice a imobilului \"Casa Maria Teodorescu\", din Calea Câmpulung nr. 6, municipiul Târgoviște, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134201",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134201",
+     "sha256": "8572199df77661a53223988c6c1cc6f68a1c9621d190948d1685a6af329f3959"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2734-2011",
    "path": "ordin/cultura/2011/2734",
    "short": "Ordin cultura nr. 2734/2011",
@@ -5654,6 +6119,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134202",
      "sha256": "06fce70363e59145de5cfb15a1b5aba1b68e4eae1cb0655e52b94066e8ccc45f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2771-2011",
+   "path": "ordin/cultura/2011/2771",
+   "short": "Ordin cultura nr. 2771/2011",
+   "title": "Ordinul nr. 2.771/2011 privind clasarea în Lista monumentelor istorice, grupa valorică B, a imobilului \"Casa Boambă-Rahtivanu\", din Str. Batiștei nr. 27 - 27A, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136690",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136690",
+     "sha256": "65a985764af005aa2ddbd98305f587fcf8455d2e29272c14d9ea41bfa106a49c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2773-2011",
+   "path": "ordin/cultura/2011/2773",
+   "short": "Ordin cultura nr. 2773/2011",
+   "title": "Ordinul nr. 2.773/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Corp C2 - chilii, fără extinderea de pe latura de vest, partea de nord, din cadrul Ansamblului Mânăstirii Radu Vodă, situat în str. Radu Vodă nr. 24 A, sectorul 4, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135365",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135365",
+     "sha256": "900d8c0675ccd3b7f088b33a4a7d00cdf9bfed56a3f670a4a5698105e1a17079"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2787-2011",
+   "path": "ordin/cultura/2011/2787",
+   "short": "Ordin cultura nr. 2787/2011",
+   "title": "Ordinul nr. 2.787/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului Biserica \"Sf. Ilie Tesviteanul\", situat în str. Decebal nr. 15, orașul Borșa, județul Maramureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135370",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135370",
+     "sha256": "7417f421086678bdfbf772830e6c86e9864aff3db7d533b84410d667eeb72451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2788-2011",
+   "path": "ordin/cultura/2011/2788",
+   "short": "Ordin cultura nr. 2788/2011",
+   "title": "Ordinul nr. 2.788/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului Palatul Bibliotecii Sfântului Sinod, din cadrul Ansamblului Mânăstirii Antim, situat în str. Mitropolit Antim Ivireanul nr. 29, sectorul 5, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135371",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135371",
+     "sha256": "ada518b71d55050af89ee23cfe0e897124af79c4ee1baa2519f031c165d386ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2798-2011",
+   "path": "ordin/cultura/2011/2798",
+   "short": "Ordin cultura nr. 2798/2011",
+   "title": "Ordinul nr. 2.798/2011 privind declasarea din Lista monumentelor istorice a imobilului Biserica de lemn \"Sf. Trei Ierarhi\", situat în satul Poiana Largului, comuna Poiana Teiului, județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135372",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135372",
+     "sha256": "a7722e7001dff7972ca3f6a51ddcbda1d31e06b8a457f4a5f6574a1fa5b6fdc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2801-2011",
+   "path": "ordin/cultura/2011/2801",
+   "short": "Ordin cultura nr. 2801/2011",
+   "title": "Ordinul nr. 2.801/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului \"Casa ing. Panait Pascalis și Vlada Vasiliadis\", situat în str. Dimitrie Onciu nr. 31, sectorul 2, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135367",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135367",
+     "sha256": "c845286d5034e6a412d8b25cefa47a512b1ee811fa5364f48ae74c791b6a06e9"
     }
    ]
   },
@@ -6843,6 +7398,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3760-2011",
+   "path": "ordin/educatie/2011/3760",
+   "short": "Ordin educatie nr. 3760/2011",
+   "title": "Ordinul nr. 3.760/2011 privind aprobarea componenței nominale a Consiliului general al Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126360",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126360",
+     "sha256": "4e1c9e789dcf8ae495a3df34f912ba8947fc2de038d0908bcea96865066f9c28"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3761-2011",
    "path": "ordin/educatie/2011/3761",
    "short": "Ordin educatie nr. 3761/2011",
@@ -6873,6 +7443,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3795-2011",
+   "path": "ordin/educatie/2011/3795",
+   "short": "Ordin educatie nr. 3795/2011",
+   "title": "Ordinul nr. 3.795/2011 pentru aprobarea componenței nominale a Consiliului Național al Cercetării Științifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126497",
+   "versions": [
+    {
+     "from": "2011-03-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126497",
+     "sha256": "d7bccd3e4da7121153477c633f08b57f3740cfcf63f80c8e3d43fea644de70cf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3888-2011",
    "path": "ordin/educatie/2011/3888",
    "short": "Ordin educatie nr. 3888/2011",
@@ -6899,6 +7484,66 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127236",
      "sha256": "5baddb4aa999530389e4a926a919bcb43fc9f57cf0794064e2051aed6e0653dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3931-2011",
+   "path": "ordin/educatie/2011/3931",
+   "short": "Ordin educatie nr. 3931/2011",
+   "title": "Ordinul nr. 3.931/2011 privind aprobarea componenței nominale a comisiilor de specialitate ale panelului 5 - Arte și științe umaniste din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126929",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126929",
+     "sha256": "1b9eac9ad10d1b62abaf1a7d2054270b16f922c370c22f1418318efb08e70061"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3980-2011",
+   "path": "ordin/educatie/2011/3980",
+   "short": "Ordin educatie nr. 3980/2011",
+   "title": "Ordinul nr. 3.980/2011 privind aprobarea componenței nominale a comisiilor de specialitate ale panelului 1 - Matematică și științe ale naturii din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127188",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127188",
+     "sha256": "fc49865ae3c679ab4373f5ad7b1b7855e09e9d4b7fb10816814f406f08690503"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3982-2011",
+   "path": "ordin/educatie/2011/3982",
+   "short": "Ordin educatie nr. 3982/2011",
+   "title": "Ordinul nr. 3.982/2011 privind aprobarea componenței nominale a comisiilor de specialitate ale panelului 2 - Științe inginerești din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127462",
+   "versions": [
+    {
+     "from": "2011-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127462",
+     "sha256": "a33513f399a0a813db201601f43867bff8e40664ba9ff0a94fa6ae41bd8e352d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3983-2011",
+   "path": "ordin/educatie/2011/3983",
+   "short": "Ordin educatie nr. 3983/2011",
+   "title": "Ordinul nr. 3.983/2011 privind aprobarea componenței nominale a comisiilor de specialitate ale panelului 3 - Științe biomedicale din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127425",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127425",
+     "sha256": "0a3f5ca284d1cd641c31e0f91d2d039307eee441d4cf2473049e0f3578e718cf"
     }
    ]
   },
@@ -7008,6 +7653,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4088-2011",
+   "path": "ordin/educatie/2011/4088",
+   "short": "Ordin educatie nr. 4088/2011",
+   "title": "Ordinul nr. 4.088/2011 privind aprobarea componenței nominale a Consiliului Național pentru Dezvoltare și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128166",
+   "versions": [
+    {
+     "from": "2011-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128166",
+     "sha256": "4c4d5aa7678cc74a8172998b6c8c514676d2c51f6ab7d8c82593b7d930ec3790"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4089-2011",
+   "path": "ordin/educatie/2011/4089",
+   "short": "Ordin educatie nr. 4089/2011",
+   "title": "Ordinul nr. 4.089/2011 privind aprobarea componenței nominale a comisiilor de specialitate ale panelului 4 - Științe sociale din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128036",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128036",
+     "sha256": "e5f456d5b292f1a2ab98028dff9a630a51f185c19fd2a1e12931043dec8fd800"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4285-2011",
    "path": "ordin/educatie/2011/4285",
    "short": "Ordin educatie nr. 4285/2011",
@@ -7049,6 +7724,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129101",
      "sha256": "96290ef93356fa1133abb906d831a4ae07831b3433cf2e8255223431cf0b79ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4390-2011",
+   "path": "ordin/educatie/2011/4390",
+   "short": "Ordin educatie nr. 4390/2011",
+   "title": "Ordinul nr. 4.390/2011 privind constituirea Consiliului Național pentru Finanțarea Învățământului Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129328",
+   "versions": [
+    {
+     "from": "2011-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129328",
+     "sha256": "a4f29b6fb2840c95a18fc3cc220981049bc680140eaa7f2a1183c6544e3d9ccf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4433-2011",
+   "path": "ordin/educatie/2011/4433",
+   "short": "Ordin educatie nr. 4433/2011",
+   "title": "Ordinul nr. 4.433/2011 privind aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129814",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129814",
+     "sha256": "a7781ef31c6cb617bdc6e7fd37097ef4abe60fd4379fd32a5b38f10d22e76270"
     }
    ]
   },
@@ -7158,6 +7863,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4677-2011",
+   "path": "ordin/educatie/2011/4677",
+   "short": "Ordin educatie nr. 4677/2011",
+   "title": "Ordinul nr. 4.677/2011 pentru modificarea și completarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.433/2011 privind aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130721",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130721",
+     "sha256": "e9e4dd8745216a985a297d271fc76e8b9b1d74fbc7570d2989cf30c8504cdd61"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4691-2011",
    "path": "ordin/educatie/2011/4691",
    "short": "Ordin educatie nr. 4691/2011",
@@ -7199,6 +7919,126 @@
      "units": 51,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130739",
      "sha256": "fb96e19a6004a1c2cdf9e2d46447c5f7072a562972dc45acb85e9cb25d30c32a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4811-2011",
+   "path": "ordin/educatie/2011/4811",
+   "short": "Ordin educatie nr. 4811/2011",
+   "title": "Ordinul nr. 4.811/2011 pentru modificarea art. 1 din Ordinul ministrului educației, cercetării, tineretului și sportului nr. 4.590/2010 privind acordarea acreditării pentru unitatea de învățământ preuniversitar de stat Grup Școlar \"Puskas Tivadar\" din municipiul Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131316",
+   "versions": [
+    {
+     "from": "2011-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131316",
+     "sha256": "d75ea35e8b98865debf27b9f3b836e74705a2fb28f4cba466bb4581a88d6d18e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4813-2011",
+   "path": "ordin/educatie/2011/4813",
+   "short": "Ordin educatie nr. 4813/2011",
+   "title": "Ordinul nr. 4.813/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"informatică\", calificarea profesională \"administrator rețele locale și de telecomunicații\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic de Poștă și Telecomunicații \"Gheorghe Airinei\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130981",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130981",
+     "sha256": "f81fdff1bccbeb0bcd4a6a31fae00a96609f96c90e12310ae170aacef5015fd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4814-2011",
+   "path": "ordin/educatie/2011/4814",
+   "short": "Ordin educatie nr. 4814/2011",
+   "title": "Ordinul nr. 4.814/2011 privind acordarea acreditării pentru nivelul de învățământ \"primar\" din cadrul unității de învățământ preuniversitar particular Școala Primară \"Olga Gudynn\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130982",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130982",
+     "sha256": "641659e2d15ad7542aaa4a4bdc5145131b518ad248bae90d1714188ef77869f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4815-2011",
+   "path": "ordin/educatie/2011/4815",
+   "short": "Ordin educatie nr. 4815/2011",
+   "title": "Ordinul nr. 4.815/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Disney\" din municipiul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130983",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130983",
+     "sha256": "288214bfb4d18302b629d3912dbcbe4e42ead07092b58976da7fa04291a08242"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4816-2011",
+   "path": "ordin/educatie/2011/4816",
+   "short": "Ordin educatie nr. 4816/2011",
+   "title": "Ordinul nr. 4.816/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"electronică automatizări\", calificarea profesională \"tehnician electronist electronică industrială\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"George Barițiu\" din municipiul Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130984",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130984",
+     "sha256": "7e3ffeeb936ccdde9a1704fe640c1fef946d0952cf421c54d278afc9ee3cc327"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4817-2011",
+   "path": "ordin/educatie/2011/4817",
+   "short": "Ordin educatie nr. 4817/2011",
+   "title": "Ordinul nr. 4.817/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician controlul calității produselor agroalimentare\", domeniul \"estetica și igiena corpului omenesc\", calificările profesionale \"stilist\", \"cosmetician\" și domeniul \"servicii\", calificarea profesională \"tehnician în activități de secretariat\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Constantin Brâncuși\" din municipiul Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130985",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130985",
+     "sha256": "90a61d2020c3c7a99bc709089532fd80fdef7a7e7160500de3efa3bd35b5efde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4818-2011",
+   "path": "ordin/educatie/2011/4818",
+   "short": "Ordin educatie nr. 4818/2011",
+   "title": "Ordinul nr. 4.818/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grupul Școlar de Management Economic și Drept Administrativ \"Virgil Madgearu\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130986",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130986",
+     "sha256": "2f40d317564962878d27871f40f3e75647ee6d9ec0c2abc072c3fd2c8c20be7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4819-2011",
+   "path": "ordin/educatie/2011/4819",
+   "short": "Ordin educatie nr. 4819/2011",
+   "title": "Ordinul nr. 4.819/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Anna Maria\" din localitatea Târgu Ocna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130922",
+   "versions": [
+    {
+     "from": "2011-08-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130922",
+     "sha256": "3667b8ee58bfe75d75588ed07b940ea4d733bd4a301e01eb7211df0a059c2e67"
     }
    ]
   },
@@ -7323,6 +8163,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5234-2011",
+   "path": "ordin/educatie/2011/5234",
+   "short": "Ordin educatie nr. 5234/2011",
+   "title": "Ordinul nr. 5.234/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal (ciclul inferior)\", domeniul \"mecanică\", calificarea profesională \"mecanic agricol\", respectiv pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician mecanic pentru întreținere și reparații\", profilul \"resurse naturale și protecția mediului\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician în industria alimentară\", domeniul \"agricultură\", calificarea profesională \"tehnician în agricultură\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Agricol și Industrie Alimentară \"Gaman Janos\" din municipiul Sfântu Gheorghe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133627",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133627",
+     "sha256": "2dd8c372729122cc8fe00e82ec7bb0240bd7facf20ed04dd86d2e064fc101bec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5239-2011",
+   "path": "ordin/educatie/2011/5239",
+   "short": "Ordin educatie nr. 5239/2011",
+   "title": "Ordinul nr. 5.239/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Bambi\" din municipiul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131303",
+   "versions": [
+    {
+     "from": "2011-09-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131303",
+     "sha256": "b8083c0d04dac22a871665c7c56d6babacb00138a0b7910ff8cf62c2b392acb7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5248-2011",
    "path": "ordin/educatie/2011/5248",
    "short": "Ordin educatie nr. 5248/2011",
@@ -7413,6 +8283,96 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5336-2011",
+   "path": "ordin/educatie/2011/5336",
+   "short": "Ordin educatie nr. 5336/2011",
+   "title": "Ordinul nr. 5.336/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"real\", specializarea \"matematică-informatică\", profilul \"umanist\", specializarea \"științe sociale\", limba de predare \"română\", forma de învățământ \"zi\" din cadrul unității de învățământ preuniversitar particular Complexul Educațional \"Lauder Reut\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131841",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131841",
+     "sha256": "db620f11b1b49ae7c1d00f367daef49551485a39238a64a1df75cd20c917b9d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5337-2011",
+   "path": "ordin/educatie/2011/5337",
+   "short": "Ordin educatie nr. 5337/2011",
+   "title": "Ordinul nr. 5.337/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Vasile Goldiș\" din municipiul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131842",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131842",
+     "sha256": "165ccf7041ed6993b267c6f60ec6b7ccccfaee26efbba436e4f2a3086d7240de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5338-2011",
+   "path": "ordin/educatie/2011/5338",
+   "short": "Ordin educatie nr. 5338/2011",
+   "title": "Ordinul nr. 5.338/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Micul Prinț\" din municipiul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131806",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131806",
+     "sha256": "4a90c41c04b3d866db2fb29cec6aa2ed8a385bf9dd359ded55016b46761213c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5340-2011",
+   "path": "ordin/educatie/2011/5340",
+   "short": "Ordin educatie nr. 5340/2011",
+   "title": "Ordinul nr. 5.340/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician mecanic pentru întreținere și reparații\", limba de predare \"română\", forma de învățământ \"zi\" din cadrul unității de învățământ preuniversitar de stat Grup Școlar \"Brătianu\" din municipiul Drăgășani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132629",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132629",
+     "sha256": "036b685cdffe399fd9e1aa9542508612d4c73a04f4c4584b03515f7ab40fdd05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5341-2011",
+   "path": "ordin/educatie/2011/5341",
+   "short": "Ordin educatie nr. 5341/2011",
+   "title": "Ordinul nr. 5.341/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu program normal \"Prichindeii\" de pe lângă UM 01788 din localitatea Lunca de Sus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131807",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131807",
+     "sha256": "7cf4b421f13ce8b9642f56c7dcd5da1f0df09f86e365d0b78709d25c281eb406"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5342-2011",
+   "path": "ordin/educatie/2011/5342",
+   "short": "Ordin educatie nr. 5342/2011",
+   "title": "Ordinul nr. 5.342/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"La Nouvelle Generation\" din municipiul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131808",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131808",
+     "sha256": "d32c3e905ddb03610b9e306519dd0f1c5fbab2358d671139e9c9e712b27f43a5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5344-2011",
    "path": "ordin/educatie/2011/5344",
    "short": "Ordin educatie nr. 5344/2011",
@@ -7454,6 +8414,51 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132317",
      "sha256": "b7205b04e5c19a23933e4f7b748a5f72da8ed811329e09771b871a9def26806a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5392-2011",
+   "path": "ordin/educatie/2011/5392",
+   "short": "Ordin educatie nr. 5392/2011",
+   "title": "Ordinul nr. 5.392/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Mica Academie de Arte\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131809",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131809",
+     "sha256": "1291218d030fa838b07d25e021275ee37b39f403e68d6dfce67f69c49b326d28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5393-2011",
+   "path": "ordin/educatie/2011/5393",
+   "short": "Ordin educatie nr. 5393/2011",
+   "title": "Ordinul nr. 5.393/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița de copii de pe lângă Unitatea Militară 01165 din municipiul Odorheiu Secuiesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131866",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131866",
+     "sha256": "3380b1fb6d0ee45821398da03026a1566d93f579eac3e8183ce6898eee8876df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5410-2011",
+   "path": "ordin/educatie/2011/5410",
+   "short": "Ordin educatie nr. 5410/2011",
+   "title": "Ordinul nr. 5.410/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician transporturi\", nivelul \"postliceal\", domeniul \"construcții, instalații și lucrări publice\", calificările profesionale \"maistru construcții civile, industriale și agricole\", \"tehnician proiectant urbanism și amenajarea teritoriului\", domeniul \"transporturi\", calificarea profesională \"tehnician diagnostic auto\", limba de predare \"română\", forma de învățământ \"zi\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Gheorghe Asachi\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131843",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131843",
+     "sha256": "3c7cea93e3c5d4b7532c5b8224fa444a8189c41addb7d41bcb116311d5797a8a"
     }
    ]
   },
@@ -8028,6 +9033,381 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5606-2011",
+   "path": "ordin/educatie/2011/5606",
+   "short": "Ordin educatie nr. 5606/2011",
+   "title": "Ordinul nr. 5.606/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Crinul\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133596",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133596",
+     "sha256": "ec54c1cb7d456cdc50079d19a7109bd7ca48c9d8bf321512ff2d0299aa4c9cc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5607-2011",
+   "path": "ordin/educatie/2011/5607",
+   "short": "Ordin educatie nr. 5607/2011",
+   "title": "Ordinul nr. 5.607/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Samuel\" din localitatea Tinăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133652",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133652",
+     "sha256": "a18957525a98828f7884ae9d85e7f6c244017b3af5566734e805c8c9ddc5080a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5608-2011",
+   "path": "ordin/educatie/2011/5608",
+   "short": "Ordin educatie nr. 5608/2011",
+   "title": "Ordinul nr. 5.608/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Elim\" din localitatea Hotar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133597",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133597",
+     "sha256": "f658defcd36f3d767ab53ee01e305d22c46b08b8f6efabd7a79d5dc7e34c08fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5609-2011",
+   "path": "ordin/educatie/2011/5609",
+   "short": "Ordin educatie nr. 5609/2011",
+   "title": "Ordinul nr. 5.609/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Little London\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133598",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133598",
+     "sha256": "94bb2ad769e760e964c615a1d25cde2bd4045f4ee4676bb11363c322646ae4ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5610-2011",
+   "path": "ordin/educatie/2011/5610",
+   "short": "Ordin educatie nr. 5610/2011",
+   "title": "Ordinul nr. 5.610/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Olga Gudynn International School\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133599",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133599",
+     "sha256": "09618476381d8b650adb451d52e2992c6a5698df5ef307c26d8681ec8db68bbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5611-2011",
+   "path": "ordin/educatie/2011/5611",
+   "short": "Ordin educatie nr. 5611/2011",
+   "title": "Ordinul nr. 5.611/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala \"Mihai Ionescu\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133600",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133600",
+     "sha256": "3ce0098115a3d4514f4548c8dd6b99df8c00b65340d0a7608747d07544051c79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5612-2011",
+   "path": "ordin/educatie/2011/5612",
+   "short": "Ordin educatie nr. 5612/2011",
+   "title": "Ordinul nr. 5.612/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Prelungit \"Castelul Piraților\" din municipiul Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133704",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133704",
+     "sha256": "d5734b22cfcd233c768c522e5ac7c0c5e301a2c7113ecf7fa89a8c011cb7d41a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5613-2011",
+   "path": "ordin/educatie/2011/5613",
+   "short": "Ordin educatie nr. 5613/2011",
+   "title": "Ordinul nr. 5.613/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Zori de zi\" din localitatea Mogoșoaia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133601",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133601",
+     "sha256": "bc9a8d50156faf9d352c5b6ef3c01832887124e4148effd9a7e621abc5ede4f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5616-2011",
+   "path": "ordin/educatie/2011/5616",
+   "short": "Ordin educatie nr. 5616/2011",
+   "title": "Ordinul nr. 5.616/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Prelungit \"Piticot\" din municipiul Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133602",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133602",
+     "sha256": "aa2c88bcd37137badb1819768f3d7c5b080972084529e540c23de2132f2cdb2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5617-2011",
+   "path": "ordin/educatie/2011/5617",
+   "short": "Ordin educatie nr. 5617/2011",
+   "title": "Ordinul nr. 5.617/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Goldilocks\" din municipiul Miercurea-Ciuc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133653",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133653",
+     "sha256": "7865ce6c4c23d0164215f2cc773c45c4bfbf6c7d62d00b1eda6edc18f7d09b6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5618-2011",
+   "path": "ordin/educatie/2011/5618",
+   "short": "Ordin educatie nr. 5618/2011",
+   "title": "Ordinul nr. 5.618/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Albă ca Zăpada\" din localitatea Năvodari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133603",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133603",
+     "sha256": "0e2b98a574de30494404d0755b2545a50e255d2d6bff41a97cd32f4fdde7cc5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5619-2011",
+   "path": "ordin/educatie/2011/5619",
+   "short": "Ordin educatie nr. 5619/2011",
+   "title": "Ordinul nr. 5.619/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical de farmacie\", \"asistent medical generalist\" din cadrul unității de învățământ preuniversitar particular Grupul Școlar \"Dimitrie Cantemir\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133782",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133782",
+     "sha256": "7c5c51a050a6293cf54c5818451a2ca860a5b5f8068ed024b807e634c00ad14d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5623-2011",
+   "path": "ordin/educatie/2011/5623",
+   "short": "Ordin educatie nr. 5623/2011",
+   "title": "Ordinul nr. 5.623/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"comerț\", calificarea profesională \"tehnician în activități de comerț\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Dimitrie Cantemir\" din localitatea Babadag",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133783",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133783",
+     "sha256": "0dd551cb175a37fd92a7a7ab180e1ec40ed07b8475a1f07a2b81e033a7da7dd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5624-2011",
+   "path": "ordin/educatie/2011/5624",
+   "short": "Ordin educatie nr. 5624/2011",
+   "title": "Ordinul nr. 5.624/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"construcții, instalații și lucrări\", calificarea profesională \"tehnician instalator pentru construcții\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar din localitatea Măcin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133628",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133628",
+     "sha256": "d7b7771801a298c76a3de082ba1fd06b0179fa88feb465be98975f451236049e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5625-2011",
+   "path": "ordin/educatie/2011/5625",
+   "short": "Ordin educatie nr. 5625/2011",
+   "title": "Ordinul nr. 5.625/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"construcții și instalații publice\", calificările profesionale \"maistru construcții civile, industriale și agricole\", \"maistru instalator în construcții\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Industrial \"Toma N. Socolescu\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133790",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133790",
+     "sha256": "b5f492a35f779a0630ee4a39506e1cec64b92ac5aad04f6e06290a9105952c02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5626-2011",
+   "path": "ordin/educatie/2011/5626",
+   "short": "Ordin educatie nr. 5626/2011",
+   "title": "Ordinul nr. 5.626/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"protecția mediului\", calificarea profesională \"tehnician laborant pentru protecția calității mediului\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician în prelucrarea cărnii și a laptelui\" din cadrul unității de învățământ preuniversitar de stat Colegiul \"Brad Segal\" din municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133629",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133629",
+     "sha256": "4dfda7e190ab2857cba379407a62fb7c09c2eab23e91a09a4ddc851b049c3181"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5627-2011",
+   "path": "ordin/educatie/2011/5627",
+   "short": "Ordin educatie nr. 5627/2011",
+   "title": "Ordinul nr. 5.627/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"informatică\", calificarea profesională \"tehnician echipamente periferice și birotică\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Henri Coandă\" din municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133791",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133791",
+     "sha256": "2ea5bfb77ec3837fbe875896cc2a5c7fa84585c0fe37c27a6c704fc097fa99e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5629-2011",
+   "path": "ordin/educatie/2011/5629",
+   "short": "Ordin educatie nr. 5629/2011",
+   "title": "Ordinul nr. 5.629/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"transporturi\", calificarea profesională \"tehnician transporturi auto interne și internaționale\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic de Transporturi și Telecomunicații \"Ion I. C. Brătianu\" din municipiul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133792",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133792",
+     "sha256": "311c65856722105302079f2cad6c519d9af1b1e680b83957f6da6bf475879d29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5630-2011",
+   "path": "ordin/educatie/2011/5630",
+   "short": "Ordin educatie nr. 5630/2011",
+   "title": "Ordinul nr. 5.630/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"transporturi\", calificarea profesională \"asistent de gestiune în transporturi\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Tehnic din municipiul Reșița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133631",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133631",
+     "sha256": "64012a4c33992fd9b9b26a4166ef0bea364ba174e6f7009c8b1d5c3c155d6360"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5631-2011",
+   "path": "ordin/educatie/2011/5631",
+   "short": "Ordin educatie nr. 5631/2011",
+   "title": "Ordinul nr. 5.631/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"mecanică\", calificarea profesională \"tehnician mecanic pentru întreținere și reparații\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Agricol din localitatea Topolog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133632",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133632",
+     "sha256": "c23764a2eaa81470a2853393fe2b69202f7daa46d02ad822c5766089606eb2b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5634-2011",
+   "path": "ordin/educatie/2011/5634",
+   "short": "Ordin educatie nr. 5634/2011",
+   "title": "Ordinul nr. 5.634/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"producție media\", calificarea profesională \"tehnician operator procesare text/imagine\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Forestier Rucăr din localitatea Rucăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133793",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133793",
+     "sha256": "3c2ea65d2e719d53212df9dae06af816b59ebcd057ab1f13340685ad446c99c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5635-2011",
+   "path": "ordin/educatie/2011/5635",
+   "short": "Ordin educatie nr. 5635/2011",
+   "title": "Ordinul nr. 5.635/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"agricultură\", calificarea profesională \"tehnician activități de agroturism montan\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic Agricol \"Alexandru Borza\" din localitatea Geoagiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133633",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133633",
+     "sha256": "c21670069d1f0aeb5f044710c4857b30da9859873e35c1cfaa3b36af1efc4677"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5636-2011",
+   "path": "ordin/educatie/2011/5636",
+   "short": "Ordin educatie nr. 5636/2011",
+   "title": "Ordinul nr. 5.636/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"turism și alimentație\", calificarea profesională \"tehnician în gastronomie\", nivelul de învățământ \"postliceal\", domeniul \"agricultură\", calificarea profesională \"tehnician activități de agroturism montan\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Agromontan \"Romeo Constantinescu\" din localitatea Vălenii de Munte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133634",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133634",
+     "sha256": "42cb512a31ed4233e1fe8c2cb19911e1b09e3c0efb401fac6ae3e51cd27a7a6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5637-2011",
+   "path": "ordin/educatie/2011/5637",
+   "short": "Ordin educatie nr. 5637/2011",
+   "title": "Ordinul nr. 5.637/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"minier, petrol și gaze\", calificarea profesională \"maistru la extracția, transportul, tratarea și distribuția gazelor\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Astra\" din municipiul Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133794",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133794",
+     "sha256": "87e7ed7592ce15b36089c8988c96aa02c3ea047cf99dd4605db12abb312fc89c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5644-2011",
+   "path": "ordin/educatie/2011/5644",
+   "short": "Ordin educatie nr. 5644/2011",
+   "title": "Ordinul nr. 5.644/2011 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Liceul Teoretic \"Omega\" din municipiul Târgu Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133604",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133604",
+     "sha256": "273299792100a1ed976d95af4fc2550e3c2d33c46921e677c895ff67fcefe4fe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5689-2011",
    "path": "ordin/educatie/2011/5689",
    "short": "Ordin educatie nr. 5689/2011",
@@ -8088,6 +9468,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5720-2011",
+   "path": "ordin/educatie/2011/5720",
+   "short": "Ordin educatie nr. 5720/2011",
+   "title": "Ordinul nr. 5.720/2011 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.433/2011 privind aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132554",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132554",
+     "sha256": "97704f43d8751e8afe7ed68af449fbfdabf20640f7ecc8d1c75c6d99bfa68414"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5735-2011",
+   "path": "ordin/educatie/2011/5735",
+   "short": "Ordin educatie nr. 5735/2011",
+   "title": "Ordinul nr. 5.735/2011 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Etică a Cercetării Științifice, Dezvoltării Tehnologice și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132688",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132688",
+     "sha256": "4cafb299d0551ad4a5a36382960355071c87569fa81a0b06834cc5b27fb3dca1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6141-2011",
    "path": "ordin/educatie/2011/6141",
    "short": "Ordin educatie nr. 6141/2011",
@@ -8103,6 +9513,81 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6179-2011",
+   "path": "ordin/educatie/2011/6179",
+   "short": "Ordin educatie nr. 6179/2011",
+   "title": "Ordinul nr. 6.179/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"resurse naturale și protecția mediului\", domeniul \"agricultură\", calificarea profesională \"tehnician în agroturism\" din cadrul unității de învățământ preuniversitar de stat Colegiul Agricol \"Nicolae Cornățeanu\" din municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132977",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132977",
+     "sha256": "7e160ffd29080d861674024485a1e8774866aa433a13bd85d9555bafff3c0197"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6180-2011",
+   "path": "ordin/educatie/2011/6180",
+   "short": "Ordin educatie nr. 6180/2011",
+   "title": "Ordinul nr. 6.180/2011 pentru modificarea art. 1 din Ordinul ministrului educației, cercetării, tineretului și sportului nr. 4.818/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grupul Școlar de Management Economic și Drept Administrativ \"Virgil Madgearu\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132942",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132942",
+     "sha256": "5d884fbebf3d2b7e901ed22c495e0164a4d45bcd49dcf481a3c3ef64e4cdf626"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6181-2011",
+   "path": "ordin/educatie/2011/6181",
+   "short": "Ordin educatie nr. 6181/2011",
+   "title": "Ordinul nr. 6.181/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"fabricarea produselor din lemn\", calificarea profesională \"tehnician în prelucrarea lemnului\", respectiv pentru nivelul \"postliceal\", domeniul \"fabricarea produselor din lemn\", calificarea profesională \"tehnician exploatări forestiere\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Mihail Sadoveanu\" din localitatea Borca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132943",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132943",
+     "sha256": "2756f604cd90d6cf7528e39264f455ce941e92e4e4d230d9575f67335622fdf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6182-2011",
+   "path": "ordin/educatie/2011/6182",
+   "short": "Ordin educatie nr. 6182/2011",
+   "title": "Ordinul nr. 6.182/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"transporturi\", calificarea profesională \"tehnician electromecanic auto\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Tehnic de Transporturi Căi Ferate din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132944",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132944",
+     "sha256": "0328dd791c395c4224c04f177ed8da9003aa7d35e63d87ad8f56d33753502daa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6183-2011",
+   "path": "ordin/educatie/2011/6183",
+   "short": "Ordin educatie nr. 6183/2011",
+   "title": "Ordinul nr. 6.183/2011 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"resurse naturale și protecția mediului\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician în industria alimentară\", profilul \"tehnic\", domeniul \"construcții, instalații și lucrări\", calificarea profesională \"tehnician în construcții și lucrări publice\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar \"Ovid Caledoniu\" din municipiul Tecuci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132945",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132945",
+     "sha256": "418ee5ecf3ab0245307fdbc3da120b764cf1ecd88080360f08b23cf399b8e443"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6276-2011",
    "path": "ordin/educatie/2011/6276",
    "short": "Ordin educatie nr. 6276/2011",
@@ -8114,6 +9599,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133112",
      "sha256": "d3de5bbcc1df30aba36a9fb96c8c030d9943010504ec26539418579c9afa3460"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6281-2011",
+   "path": "ordin/educatie/2011/6281",
+   "short": "Ordin educatie nr. 6281/2011",
+   "title": "Ordinul nr. 6.281/2011 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician controlul produselor agroalimentare\" și domeniul \"agricultură\", calificarea profesională \"tehnician cadastru funciar - topograf\", limba de predare \"română\", forma de învățământ \"zi\" din cadrul unității de învățământ preuniversitar de stat Colegiul Agricol și de Industrie Alimentară \"Vasile Adamachi\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133158",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133158",
+     "sha256": "4241b3599cf17cb5428498fc37e52aec84c934f488c6aa692e80080e287b3e9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6368-2011",
+   "path": "ordin/educatie/2011/6368",
+   "short": "Ordin educatie nr. 6368/2011",
+   "title": "Ordinul nr. 6.368/2011 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița SOS din localitatea Cisnădie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133654",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133654",
+     "sha256": "b5a1cc0494484d291e30edf0e22e38a6627f5aaf06ab9bcd6516ebaa5eadceaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6422-2011",
+   "path": "ordin/educatie/2011/6422",
+   "short": "Ordin educatie nr. 6422/2011",
+   "title": "Ordinul nr. 6.422/2011 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.795/2011 pentru aprobarea componenței nominale a Consiliului Național al Cercetării Științifice și pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.527/2011 privind aprobarea componenței nominale a Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare și a conducerii grupurilor de lucru permanente ale acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133618",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133618",
+     "sha256": "6c60f586ca230655436b34687f2e5783db8ea345b60f342c78ffbb43677a0d8b"
     }
    ]
   },
@@ -8193,6 +9723,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-7437-2011",
+   "path": "ordin/educatie/2011/7437",
+   "short": "Ordin educatie nr. 7437/2011",
+   "title": "Ordinul nr. 7.437/2011 privind aprobarea bugetelor de venituri și cheltuieli rectificate pe anul 2011 ale institutelor naționale de cercetare-dezvoltare din coordonarea Autorității Naționale pentru Cercetare Științifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135630",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135630",
+     "sha256": "2912c05c1d584e939e48fbda1aff749f04892f90a3fa3b67d1c86864fc09cd39"
+    }
+   ]
+  },
+  {
    "slug": "ordin-europene-166-2011",
    "path": "ordin/europene/2011/166",
    "short": "Ordin europene nr. 166/2011",
@@ -8264,6 +9809,21 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20251210183819id_/https://legislatie.just.ro/Public/DetaliiDocument/131586",
      "sha256": "7e7f3d8274bae2d8c9a63c175e2459fbf3b747b7d2839457e0d964da89279ac3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1164-2011",
+   "path": "ordin/externe/2011/1164",
+   "short": "Ordin externe nr. 1164/2011",
+   "title": "Ordinul nr. 1.164/2011 privind supunerea regimului de control prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare a operațiunii de export al unei mașini de alezat și frezat orizontală tip BMK 130 CNC către firma Bharat Heavy Electricals Ltd., Ramachandrapuram, Hyderabad, 502032, INDIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131710",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131710",
+     "sha256": "801144d14fa71092828c546882d6d965f1c0ae645f813d03d043a379e7f1494a"
     }
    ]
   },

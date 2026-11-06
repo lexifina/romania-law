@@ -241,6 +241,66 @@
      "sha256": "c0bc794a89a7c332f249b4bd130f2dc5887ab56771e36a3d9dcedfeb6f2419c6"
     }
    ]
+  },
+  {
+   "slug": "norma-guvern-zi0224-2026",
+   "path": "norma/guvern/2026/02-24",
+   "short": "Norma guvern din 24 februarie 2026",
+   "title": "Norme din 24 februarie 2026 privind mobilitatea prin rotație a înalților funcționari publici și a funcționarilor publici de conducere care ocupă funcții sensibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307576",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307576",
+     "sha256": "72c7d6bbf7496e075928873b9aac12fac6f2a350cf67e37f67ec1040bd3f7f69"
+    }
+   ]
+  },
+  {
+   "slug": "norma-offshore-zi0828-1-2026",
+   "path": "norma/offshore/2026/08-28-1",
+   "short": "Norma offshore din 28 august 2026",
+   "title": "Norme din 28 august 2026 privind procedura de obținere a Aprobării de dezvoltare a centralelor electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314433",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314433",
+     "sha256": "f181b0987294da6a1ef4e5214a3b878b1e465468a88376a11498ada57ddc8e4d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-offshore-zi0828-2-2026",
+   "path": "norma/offshore/2026/08-28-2",
+   "short": "Norma offshore din 28 august 2026",
+   "title": "Norme din 28 august 2026 privind procedura de obținere a Aprobării de desființare a centralelor electrice eoliene offshore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314434",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314434",
+     "sha256": "375849d6316a552994e737ed58fac1e81da5228c693b097def649f3bb4000e1d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-onpcsb-zi0209-2026",
+   "path": "norma/onpcsb/2026/02-09",
+   "short": "Norma onpcsb din 9 februarie 2026",
+   "title": "Norme metodologice din 9 februarie 2026 de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor transferuri de fonduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307372",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307372",
+     "sha256": "e480af2352449f966e1a7b7d710fcf35758787ed32060f743438a5e305b008f8"
+    }
+   ]
   }
  ]
 }

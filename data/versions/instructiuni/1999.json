@@ -183,6 +183,51 @@
    ]
   },
   {
+   "slug": "instructiuni-agricultura-zi0302-1-1999",
+   "path": "instructiuni/agricultura/1999/03-02-1",
+   "short": "Instrucțiuni agricultura din 2 martie 1999",
+   "title": "Instrucțiuni din 2 martie 1999 privind depistarea nematozilor cu chiști ai cartofului (Globodera spp.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76617",
+   "versions": [
+    {
+     "from": "1999-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76617",
+     "sha256": "8e200a52b33915ff2fb3626f43feb8025b1fdf4258e4e2fdb36f8c554e4379e0"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-agricultura-zi0302-2-1999",
+   "path": "instructiuni/agricultura/1999/03-02-2",
+   "short": "Instrucțiuni agricultura din 2 martie 1999",
+   "title": "Instrucțiuni din 2 martie 1999 privind depistarea râiei negre a cartofului (Synchytrium endobioticum)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76618",
+   "versions": [
+    {
+     "from": "1999-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76618",
+     "sha256": "4cde3a4522be0cc14cde41001c7c9240e6cb4ab2102580529234db87101bbdd6"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-economie-zi1109-1999",
+   "path": "instructiuni/economie/1999/11-09",
+   "short": "Instrucțiuni economie din 9 noiembrie 1999",
+   "title": "Instrucțiuni din 9 noiembrie 1999 privind eliberarea licențelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20271",
+   "versions": [
+    {
+     "from": "1999-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20271",
+     "sha256": "410be5f03537e7f27a12b044273f9d974561367edf788ac75bb8f8c4dd15a4bf"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-finante-2728-1999",
    "path": "instructiuni/finante/1999/2728",
    "short": "Instrucțiuni finante nr. 2728/1999",

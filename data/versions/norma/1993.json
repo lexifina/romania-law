@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "norma-cncan-zi0414-1993",
+   "path": "norma/cncan/1993/04-14",
+   "short": "Norma cncan din 14 aprilie 1993",
+   "title": "Norme republicane de securitate nucleara din 14 aprilie 1993 privind planificarea, pregătirea și intervenția la accidente nucleare și urgente radiologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54673",
+   "versions": [
+    {
+     "from": "1993-08-13",
+     "units": 131,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54673",
+     "sha256": "c7ebea8ac832655973228839ad3149f2fe7948df8defffd0cebfe701d191763a"
+    }
+   ]
+  },
+  {
    "slug": "norma-finante-4175-1993",
    "path": "norma/finante/1993/4175",
    "short": "Norma finante nr. 4175/1993",
@@ -194,6 +209,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3755",
      "sha256": "f7677f3bbc4e0ffb1439f7eff6764988e309b83aa19eae4d3afbd7a76f3edf8e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0805-1993",
+   "path": "norma/guvern/1993/08-05",
+   "short": "Norma guvern din 5 august 1993",
+   "title": "Norme metodologice din 5 august 1993 cu privire la constituirea și utilizarea fondurilor necesare terminării locuințelor și celorlalte spatii cu alta destinație din cadrul blocurilor aflate în diferite stadii de execuție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72526",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72526",
+     "sha256": "c9018fbf02cdcf19ff71ebee447c23dd2a50ea6e0e604168c6dccebe69b086a4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0817-1993",
+   "path": "norma/guvern/1993/08-17",
+   "short": "Norma guvern din 17 august 1993",
+   "title": "Norme metodologice din 17 august 1993 privind distribuirea și utilizarea, de către agenții economici, a aparatelor de marcat electronice și a balantelor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55250",
+   "versions": [
+    {
+     "from": "1993-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55250",
+     "sha256": "24932e1447a6f44535dce9dec2763d16607e6f960fb88319d5dd51d6c5e2707b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-mediu-zi0701-1993",
+   "path": "norma/mediu/1993/07-01",
+   "short": "Norma mediu din 1 iulie 1993",
+   "title": "Norme metodologice din 1 iulie 1993 privind determinarea emisiilor de poluanți atmosferici produși de surse staționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64045",
+   "versions": [
+    {
+     "from": "1993-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64045",
+     "sha256": "ddc459b44deb692a04db5bc81e04440106be3bb05ad58d9aa0b465f57ba04141"
     }
    ]
   },

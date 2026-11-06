@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "metodologie/2000",
+"acts": [
+{
+"slug": "metodologie-educatie-zi0928-2000",
+"path": "metodologie/educatie/2000/09-28",
+"kind": "metodologie",
+"year": "2000",
+"number": "09-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologia din 28 septembrie 2000 de echivalare a examenului de capacitate pentru promoțiile anterioare anului 1999",
+"short": "Metodologie educatie din 28 septembrie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-01-22",
+"latest": "2001-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26275",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "metodologie-sanatate-zi0301-2000",
+"path": "metodologie/sanatate/2000/03-01",
+"kind": "metodologie",
+"year": "2000",
+"number": "03-01",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologia din 1 martie 2000 examinărilor medicale periodice de bilanț al stării de sănătate pentru preșcolari, elevi și studenți",
+"short": "Metodologie sanatate din 1 martie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-08-17",
+"latest": "2000-08-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23815",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "metodologie-transporturi-zi0426-2000",
+"path": "metodologie/transporturi/2000/04-26",
+"kind": "metodologie",
+"year": "2000",
+"number": "04-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologie din 26 aprilie 2000 pentru executarea lucrărilor de cadastru al rețelei de metrou București",
+"short": "Metodologie transporturi din 26 aprilie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-09-19",
+"latest": "2000-09-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24331",
+"issuer": "transporturi",
+"joint": []
+}
+]
+}

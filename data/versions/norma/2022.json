@@ -423,6 +423,21 @@
    ]
   },
   {
+   "slug": "norma-ansvsa-zi0718-2022",
+   "path": "norma/ansvsa/2022/07-18",
+   "short": "Norma ansvsa din 18 iulie 2022",
+   "title": "Normă din 18 iulie 2022 pentru siguranța alimentelor de origine nonanimală care stabilește condițiile în care se derulează operațiunile de import, export și comerț intraunional de produse și alte ingrediente alimentare de origine nonanimală supuse controlului oficial pentru siguranța alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258262",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258262",
+     "sha256": "f6ac7b8b8d21c55b9bb1786726130591aabf589e4b8588edb4d932824c76c166"
+    }
+   ]
+  },
+  {
    "slug": "norma-cifga-14-2022",
    "path": "norma/cifga/2022/14",
    "short": "Norma cifga nr. 14/2022",
@@ -464,6 +479,81 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254440",
      "sha256": "984f853f50aa24f8a51308dfde8c6e9214fd209e3e31b9136b6243c6a1a86489"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi0224-2022",
+   "path": "norma/dezvoltare/2022/02-24",
+   "short": "Norma dezvoltare din 24 februarie 2022",
+   "title": "Norme metodologice din 24 februarie 2022 pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 95/2021 pentru aprobarea Programului național de investiții \"Anghel Saligny\", pentru categoria de investiții prevăzută la art. 4 alin. (1) lit. e) din Ordonanța de urgență a Guvernului nr. 95/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252412",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252412",
+     "sha256": "0ed276f56e517aa3b6db58bab711be6c6b800d0e622cfab5230c55db736e3dca"
+    }
+   ]
+  },
+  {
+   "slug": "norma-familie-zi1122-2022",
+   "path": "norma/familie/2022/11-22",
+   "short": "Norma familie din 22 noiembrie 2022",
+   "title": "Norme metodologice din 22 noiembrie 2022 de aplicare a Programului social de interes național de susținere a cuplurilor și a persoanelor singure, pentru creșterea natalității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261733",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261733",
+     "sha256": "7408825aa1d0f8810aae2ecdb7a873d40ef9a566aa3ff3316359679726bc4374"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1228-2022",
+   "path": "norma/guvern/2022/12-28",
+   "short": "Norma guvern din 28 decembrie 2022",
+   "title": "Norme din 28 decembrie 2022 privind cadrele de competențe generale și specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263387",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263387",
+     "sha256": "6ede8113c154ae3e37ae31a4c39e11173cf290982a3846fb8816701bde0002c4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-mediu-zi0928-2022",
+   "path": "norma/mediu/2022/09-28",
+   "short": "Norma mediu din 28 septembrie 2022",
+   "title": "Norme tehnice din 28 septembrie 2022 privind îngrijirea și conducerea arboretelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260340",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260340",
+     "sha256": "0577ef7a78991edc5c0c2714d2eca7376512d2ee1523c757fafc748485c87780"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi1122-2022",
+   "path": "norma/munca/2022/11-22",
+   "short": "Norma munca din 22 noiembrie 2022",
+   "title": "Norme metodologice din 22 noiembrie 2022 de aplicare a Programului social de interes național de susținere a cuplurilor și a persoanelor singure, pentru creșterea natalității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261732",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261732",
+     "sha256": "e38c931fcf7bcc95caf517bf94a79b10d4e99acf6052e8f40a51147eef9d558a"
     }
    ]
   }

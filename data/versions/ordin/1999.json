@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-92-1999",
+   "path": "ordin/agricultura/1999/92",
+   "short": "Ordin agricultura nr. 92/1999",
+   "title": "Ordinul nr. 92/1999 pentru aprobarea Programului de restructurare a Societății Comerciale de Cercetare-Dezvoltare Rurală \"Ceder\" - S.A. Cristian, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18816",
+   "versions": [
+    {
+     "from": "1999-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18816",
+     "sha256": "106099cd8c9da3f6cd061ecb91f340380d432decfea09feb0e94c8d4cf9ff000"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anci-104-1999",
    "path": "ordin/anci/1999/104",
    "short": "Ordin anci nr. 104/1999",
@@ -453,6 +468,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-111-1999",
+   "path": "ordin/anrm/1999/111",
+   "short": "Ordin anrm nr. 111/1999",
+   "title": "Ordinul nr. 111/1999 privind aprobarea licenței de concesiune a activităților miniere de explorare, încheiată între Agenția Naționala pentru Resurse Minerale și BHP World Exploration Inc. Canada, Sucursala București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18887",
+   "versions": [
+    {
+     "from": "1999-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18887",
+     "sha256": "eed17a1c8f9d49b7175ff3844ecad94957dadea37bb37af5209b6fa71d4d17b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-112-1999",
+   "path": "ordin/anrm/1999/112",
+   "short": "Ordin anrm nr. 112/1999",
+   "title": "Ordinul nr. 112/1999 privind aprobarea licenței de concesiune a activităților miniere de explorare, încheiată între Agenția Naționala pentru Resurse Minerale și Ministerul Industriei și Comerțului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18888",
+   "versions": [
+    {
+     "from": "1999-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18888",
+     "sha256": "e5efc8acfd5ceedede37787f1e5133f006e3b936f65481ffe8df672d4b3d0ccf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-114-1999",
    "path": "ordin/anrm/1999/114",
    "short": "Ordin anrm nr. 114/1999",
@@ -464,6 +509,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18889",
      "sha256": "78914acd5c705feecdc5613d67858340401dcdd5cb3c400dcb4471957cd442bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-12-1999",
+   "path": "ordin/anrm/1999/12",
+   "short": "Ordin anrm nr. 12/1999",
+   "title": "Ordinul nr. 12/1999 privind aprobarea licenței de concesiune a activităților miniere de explorare în perimetrul Racsa, negociata și încheiată între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Explorer\" - S.A. Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17002",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17002",
+     "sha256": "979be092d5aa9f5644a1b37894998b5ff5b5e8bd96a93a7a75fb701f310debad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-121-1999",
+   "path": "ordin/anrm/1999/121",
+   "short": "Ordin anrm nr. 121/1999",
+   "title": "Ordinul nr. 121/1999 privind transferul licenței de concesiune a activităților de dezvoltare-exploatare din perimetrul \"Cheia\", județul Cluj, încheiată între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Cimentul\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18890",
+   "versions": [
+    {
+     "from": "1999-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18890",
+     "sha256": "c5732161ccca33c1f8cb75f2f693a3a7be9cc25dfead24028f04c7fe6e220683"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-123-1999",
+   "path": "ordin/anrm/1999/123",
+   "short": "Ordin anrm nr. 123/1999",
+   "title": "Ordinul nr. 123/1999 privind transferul licenței de concesiune pentru explorarea perimetrului Bucium, încheiată cu Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18986",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18986",
+     "sha256": "2dc1597429cb5238cb9b53ca0b3bb4c476f2cda896e0f1f90b73bee8bc3ea760"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-13-1999",
+   "path": "ordin/anrm/1999/13",
+   "short": "Ordin anrm nr. 13/1999",
+   "title": "Ordinul nr. 13/1999 privind aprobarea licenței de concesiune a activităților miniere de explorare în perimetrul Iardaștița Mică - Topleț, negociată și încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Iago Imex\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17003",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17003",
+     "sha256": "50a659f2df55f13f2dccc152e490d26ad6bcf5e47cd114522fec03b9099935c9"
     }
    ]
   },
@@ -483,6 +588,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-15-1999",
+   "path": "ordin/anrm/1999/15",
+   "short": "Ordin anrm nr. 15/1999",
+   "title": "Ordinul nr. 15/1999 privind aprobarea licenței de concesiune a activităților miniere de explorare în perimetrul Bixad, negociata și încheiată între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Explorer\" - S.A. Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17004",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17004",
+     "sha256": "4dcb9591474bebc6f7b9ee3176215ae2621b0cbdf545170b9fbcba39986316b5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-158-1999",
    "path": "ordin/anrm/1999/158",
    "short": "Ordin anrm nr. 158/1999",
@@ -494,6 +614,171 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19915",
      "sha256": "764ce6468268a98fe28c08970d07936cae13a1fe3ba47916e39c762193179388"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-167-1999",
+   "path": "ordin/anrm/1999/167",
+   "short": "Ordin anrm nr. 167/1999",
+   "title": "Ordinul nr. 167/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Remus Opreanu\", situat în județul Constanța, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Lafarge-Romcim\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19671",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19671",
+     "sha256": "ea79be66975c484fbd379fcf7f61eedca04d20bcd9fd02d2592db4aa11909ae7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-168-1999",
+   "path": "ordin/anrm/1999/168",
+   "short": "Ordin anrm nr. 168/1999",
+   "title": "Ordinul nr. 168/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Padeș\", situat în județul Alba, încheiată între Agenția Naționala pentru Resurse Minerale și Internațional Mining and Finance Group Limited",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19672",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19672",
+     "sha256": "f75ddeb6ba57017fca119226d2f53383364bf200aaf782a33ec34895e5c7158d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-169-1999",
+   "path": "ordin/anrm/1999/169",
+   "short": "Ordin anrm nr. 169/1999",
+   "title": "Ordinul nr. 169/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Racsa Sud-Est\", situat în județul Maramureș, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Explorer\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19673",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19673",
+     "sha256": "37bc37857e6ba21e9ea5c2b8723813d27c10253bb4966fee3cc6cfe59a69b5ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-170-1999",
+   "path": "ordin/anrm/1999/170",
+   "short": "Ordin anrm nr. 170/1999",
+   "title": "Ordinul nr. 170/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Vârful Custurilor\", situat în județul Bihor, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"European Drinks\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19674",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19674",
+     "sha256": "cc9218baa9a92437b5d9f4fb1b7e5821d2ce43ffe160b3c215767ffb2377d2ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-171-1999",
+   "path": "ordin/anrm/1999/171",
+   "short": "Ordin anrm nr. 171/1999",
+   "title": "Ordinul nr. 171/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Băița Nord\", situat în județul Maramureș, încheiată între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Cora Inter\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19675",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19675",
+     "sha256": "4b18c9a477447c32e213e38f3a8bae5ebdeedc4fce683f615b25b84f75f26548"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-172-1999",
+   "path": "ordin/anrm/1999/172",
+   "short": "Ordin anrm nr. 172/1999",
+   "title": "Ordinul nr. 172/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Izvorul Pârâul Rece\", situat în județul Brașov, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Bergman Drinks\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19676",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19676",
+     "sha256": "7b556f8d74e01ea9c99e4c7590dc70acdc85a7047ce7ea7a13c1b1ee0fe49df7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-173-1999",
+   "path": "ordin/anrm/1999/173",
+   "short": "Ordin anrm nr. 173/1999",
+   "title": "Ordinul nr. 173/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Pietroasa-Dealul Iancului\", situat în județul Cluj, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Rigips România\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19677",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19677",
+     "sha256": "0018b28fd712a524ee13406589a112afff57345e25edd2804af52afbd4522ddb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-174-1999",
+   "path": "ordin/anrm/1999/174",
+   "short": "Ordin anrm nr. 174/1999",
+   "title": "Ordinul nr. 174/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Lupșa\", situat în județul Brașov, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Lafarge-Romcim\" - S.A. - Sucursala Hoghiz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19678",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19678",
+     "sha256": "446f1c5cf15edb7ff5cd94a246db8a466769f81a660c51d70605c933234e5894"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-175-1999",
+   "path": "ordin/anrm/1999/175",
+   "short": "Ordin anrm nr. 175/1999",
+   "title": "Ordinul nr. 175/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Turulung\", situat în județul Satu Mare, încheiată între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Bechinger\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19679",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19679",
+     "sha256": "49404a4849f566fcc39314f3a911346dddaa0e333259b67cad45d2c2ab5c7e6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-180-1999",
+   "path": "ordin/anrm/1999/180",
+   "short": "Ordin anrm nr. 180/1999",
+   "title": "Ordinul nr. 180/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Scropoasa\", situat în județul Dâmbovița, încheiată între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Itancar Trading Co '97\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19692",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19692",
+     "sha256": "c6b84321f1f7bef7a3f688e980131b5086753a148064a0c17458eb644ce652a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-181-1999",
+   "path": "ordin/anrm/1999/181",
+   "short": "Ordin anrm nr. 181/1999",
+   "title": "Ordinul nr. 181/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Buziaș Nord-Vest\", situat în județul Timiș, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Agromec\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19693",
+   "versions": [
+    {
+     "from": "1999-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19693",
+     "sha256": "63cce2ed929f14b6cb78b7689cd74c1e6f48a02dafdddd2e0612aee28cb0bd64"
     }
    ]
   },
@@ -513,6 +798,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-188-1999",
+   "path": "ordin/anrm/1999/188",
+   "short": "Ordin anrm nr. 188/1999",
+   "title": "Ordinul nr. 188/1999 privind transferul licenței de concesiune pentru explorarea perimetrului \"Băița-Crăciunești\", încheiată între Agenția Naționala pentru Resurse Minerale și Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20201",
+   "versions": [
+    {
+     "from": "1999-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20201",
+     "sha256": "a6dcefa84a3ca5a54208b42e45e5ad1782f5bb044c6213722e98461636e412a3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-193-1999",
    "path": "ordin/anrm/1999/193",
    "short": "Ordin anrm nr. 193/1999",
@@ -524,6 +824,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20303",
      "sha256": "d8e3c0e07dde2d22c50c85b49d5a64f92f39471ff013c3d144a643f0b6ca8efc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-213-1999",
+   "path": "ordin/anrm/1999/213",
+   "short": "Ordin anrm nr. 213/1999",
+   "title": "Ordinul nr. 213/1999 pentru anularea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 167/1999 privind aprobarea unei licențe de concesionare pentru explorarea perimetrului \"Remus Opreanu\", situat în județul Constanța, încheiată între Agenția Națională pentru Resurse Minerale și Societatea Comercială \"Lafarge-Romcim\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20304",
+   "versions": [
+    {
+     "from": "1999-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20304",
+     "sha256": "5d2b71fca3750c8251092157b8559dd45eb88ff66af21328bd6ee142580c8590"
     }
    ]
   },
@@ -543,6 +858,96 @@
    ]
   },
   {
+   "slug": "ordin-anrm-31-1999",
+   "path": "ordin/anrm/1999/31",
+   "short": "Ordin anrm nr. 31/1999",
+   "title": "Ordinul nr. 31/1999 privind aprobarea licenței de concesiune a activităților miniere de explorare, negociata și încheiată între Agenția Naționala pentru Resurse Minerale și Minera Andes Inc.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17283",
+   "versions": [
+    {
+     "from": "1999-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17283",
+     "sha256": "826f55b221f6697943595945d6d5360ce792d336cb00a7091819d35e7609a34f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-34-1999",
+   "path": "ordin/anrm/1999/34",
+   "short": "Ordin anrm nr. 34/1999",
+   "title": "Ordinul nr. 34/1999 privind aprobarea licențelor de concesiune a activităților miniere de explorare, negociate și încheiate între Agenția Naționala pentru Resurse Minerale și Compania Națională \"Remin\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17635",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17635",
+     "sha256": "56d8e9b4d70a28bb2076645e0d9c76a5900d443b764ea778e9bd7a0294e6c8cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-35-1999",
+   "path": "ordin/anrm/1999/35",
+   "short": "Ordin anrm nr. 35/1999",
+   "title": "Ordinul nr. 35/1999 privind aprobarea licențelor de concesiune a activităților miniere de explorare, negociate și încheiate între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Votranss\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17636",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17636",
+     "sha256": "fbb4f4d07deee2593c289c2a4918a743a36e149e50e80e95207b42183dabeb0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-38-1999",
+   "path": "ordin/anrm/1999/38",
+   "short": "Ordin anrm nr. 38/1999",
+   "title": "Ordinul nr. 38/1999 privind aprobarea licențelor de concesiune a activităților miniere de explorare, negociate și încheiate între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Ambiente Suolo Acqua\" - S.R.L. Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17610",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17610",
+     "sha256": "94b0a5df01451f24c43ccf6934cffd99da56355141a9998725e3071625af5f07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-39-1999",
+   "path": "ordin/anrm/1999/39",
+   "short": "Ordin anrm nr. 39/1999",
+   "title": "Ordinul nr. 39/1999 privind aprobarea licențelor de concesiune a activităților miniere de explorare, negociate și încheiate între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Marsim Internațional\" - S.R.L. București Președintele Agenției Naționale pentru Resurse Minerale,",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17777",
+   "versions": [
+    {
+     "from": "1999-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17777",
+     "sha256": "2220971f4472685907c1a8051c0d8ad6c1e517c52e365c89d7c4ccff31824c91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-47-1999",
+   "path": "ordin/anrm/1999/47",
+   "short": "Ordin anrm nr. 47/1999",
+   "title": "Ordinul nr. 47/1999 ORDIN nr. 47 bis din 8 aprilie 1999 privind aprobarea licențelor de concesiune a activităților miniere de explorare, negociate și încheiate între Agenția Naționala pentru Resurse Minerale și Societatea Comercială \"Transgex\" - S.A. Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17950",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17950",
+     "sha256": "8de37aeee07afaae2947f9c9551e3a4c908a6cb30c7029fe14f35351de7309b4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-6-1999",
    "path": "ordin/anrm/1999/6",
    "short": "Ordin anrm nr. 6/1999",
@@ -554,6 +959,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16972",
      "sha256": "2fc3aeaf20764b7b7d936867efeb35a350031f798c6dd2a69241d52bdda5f994"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-60-1999",
+   "path": "ordin/anrm/1999/60",
+   "short": "Ordin anrm nr. 60/1999",
+   "title": "Ordinul nr. 60/1999 privind aprobarea licenței de concesiune pentru explorarea perimetrului Bucium, încheiată între Agenția Naționala pentru Resurse Minerale și Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18213",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18213",
+     "sha256": "d7da01b9ccda5ff15831db13dd5d2121effccd0d4a162949031c97aba54307ac"
     }
    ]
   },
@@ -1004,6 +1424,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18796",
      "sha256": "50b1380a47fd0bc8b7c0f14e0fc4cf52ae9e3c53bbf4128b93207057fe78e87b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2032-1999",
+   "path": "ordin/cultura/1999/2032",
+   "short": "Ordin cultura nr. 2032/1999",
+   "title": "Ordinul nr. 2.032/1999 pentru înființarea Comisiei de Atestare în Domeniul Monumentelor Istorice și aprobarea normelor și criteriilor de atestare a experților în domeniul protejării monumentelor istorice și a specialiștilor în domeniul conservării și restaurării monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20191",
+   "versions": [
+    {
+     "from": "1999-12-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20191",
+     "sha256": "529df9b147dd24f10f2b39108904fe84ca8f7cb184abdc449c79f4f1ac3ff3e2"
     }
    ]
   },

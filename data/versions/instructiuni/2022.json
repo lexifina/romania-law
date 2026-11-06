@@ -61,6 +61,36 @@
      "sha256": "03ab0fea586794889301ffafa4c80ac306f88a7e4ca0592c80772b1c08dea195"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-aparare-zi0128-2022",
+   "path": "instructiuni/aparare/2022/01-28",
+   "short": "Instrucțiuni aparare din 28 ianuarie 2022",
+   "title": "Instrucțiuni din 28 ianuarie 2022 privind modul de raportare și investigare a evenimentelor de aviație produse cu aeronave de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251501",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251501",
+     "sha256": "a939fe4686e73098622060f68380a5c33692472962190261e66df47e2670bb22"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-sanatate-zi1121-2022",
+   "path": "instructiuni/sanatate/2022/11-21",
+   "short": "Instrucțiuni sanatate din 21 noiembrie 2022",
+   "title": "Instrucțiuni din 21 noiembrie 2022 privind vaccinarea cu ROR în cadrul asistenței medicale primare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261697",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261697",
+     "sha256": "d0af124b8e970a5f8ff002d2b743ce88690d48e5250a8a81944a9b45beebd3ca"
+    }
+   ]
   }
  ]
 }

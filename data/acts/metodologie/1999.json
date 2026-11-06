@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "metodologie/1999",
+"acts": [
+{
+"slug": "metodologie-dezvoltare-zi0819-1999",
+"path": "metodologie/dezvoltare/1999/08-19",
+"kind": "metodologie",
+"year": "1999",
+"number": "08-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologie din 19 august 1999 privind actualizarea trimestriala a băncii de date cuprinzând lucrările publice și construcțiile",
+"short": "Metodologie dezvoltare din 19 august 1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-09-28",
+"latest": "1999-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/92226",
+"issuer": "dezvoltare",
+"joint": []
+}
+]
+}

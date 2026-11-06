@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2010",
+ "acts": [
+  {
+   "slug": "criterii-guvern-zi0830-2010",
+   "path": "criterii/guvern/2010/08-30",
+   "short": "Criterii guvern din 30 august 2010",
+   "title": "Criterii din 30 august 2010 aferente schemelor de certificare a instalatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121880",
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121880",
+     "sha256": "458def1c2ac7370cd5a4e9f61fb164a460e0f50f3b5cbd7e0ecd212c1b8f4bbd"
+    }
+   ]
+  }
+ ]
+}

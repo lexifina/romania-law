@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "criterii/2003",
+ "acts": [
+  {
+   "slug": "criterii-guvern-zi0521-2003",
+   "path": "criterii/guvern/2003/05-21",
+   "short": "Criterii guvern din 21 mai 2003",
+   "title": "Criteriile din 21 mai 2003 de evaluare și acreditare a unităților componente ale sistemului de cercetare-dezvoltare de interes național, precum și de atestare a capacității de a desfășura activități de cercetare-dezvoltare de către unități sau instituții, altele decât instituțiile de învățământ superior acreditate și unitățile din subordinea acestora și unitățile și instituțiile aflate în subordinea sau coordonarea Academiei Române și academiilor de ramura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44180",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44180",
+     "sha256": "5c705e2d87f0c9f5b9a4ace210aa17fced3af39f679c595d348f456378c2a53a"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi1211-2003",
+   "path": "criterii/guvern/2003/12-11",
+   "short": "Criterii guvern din 11 decembrie 2003",
+   "title": "Criterii minime obligatorii din 11 decembrie 2003 de autorizare și acreditare pentru instituțiile de învățământ superior din domeniul arhitecturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48942",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48942",
+     "sha256": "4a6b34a3055db9ebdf61edb52216c4cd277c4753582c7e06e7826034e784a856"
+    }
+   ]
+  }
+ ]
+}

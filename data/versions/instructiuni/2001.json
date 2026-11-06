@@ -31,6 +31,21 @@
      "sha256": "bd0d8f14d98b4bb5a11d2ac2418cfea67439d8da53c96b3198ad8246e2ae9300"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-finante-zi0403-2001",
+   "path": "instructiuni/finante/2001/04-03",
+   "short": "Instrucțiuni finante din 3 aprilie 2001",
+   "title": "Instrucțiuni din 3 aprilie 2001 de completare a formularului \"Declarație privind obligațiile de plată la bugetul de stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28123",
+   "versions": [
+    {
+     "from": "2001-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28123",
+     "sha256": "78a5c17e8e9733cdf868f3d52f5bb56f724aba5ccbded25b1deb0b919c797812"
+    }
+   ]
   }
  ]
 }

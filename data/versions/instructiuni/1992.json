@@ -31,6 +31,21 @@
      "sha256": "ab6196aa74c36d242d231b0b16da322d0ed746376c741afdfcbc59a979bc9a9e"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-finante-zi0602-1992",
+   "path": "instructiuni/finante/1992/06-02",
+   "short": "Instrucțiuni finante din 2 iunie 1992",
+   "title": "Instrucțiuni privind constituirea și utilizarea fondului special pentru asigurările sociale ale țărănimii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2067",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2067",
+     "sha256": "162894a77fd996b8452d6517b9367d3297365b34547c7ad518394da3ed2d7756"
+    }
+   ]
   }
  ]
 }

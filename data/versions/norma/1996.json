@@ -423,6 +423,36 @@
    ]
   },
   {
+   "slug": "norma-finante-zi1129-1-1996",
+   "path": "norma/finante/1996/11-29-1",
+   "short": "Norma finante din 29 noiembrie 1996",
+   "title": "Norme metodologice din 29 noiembrie 1996 privind finanțarea investițiilor instituțiilor publice prin trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90156",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90156",
+     "sha256": "8903dd10fac76a84330b0b8b615866e0c068253776f8c8c193f7f88cbc334e15"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1129-2-1996",
+   "path": "norma/finante/1996/11-29-2",
+   "short": "Norma finante din 29 noiembrie 1996",
+   "title": "Norme metodologice din 29 noiembrie 1996 privind aplicarea de către trezoreriile statului a mecanismului de finanțare a investițiilor instituțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90157",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90157",
+     "sha256": "903d7b5b5e8bd34fd484334201d1d63106cc126eaffc409b12396abc93e0c4aa"
+    }
+   ]
+  },
+  {
    "slug": "norma-guvern-20-1996",
    "path": "norma/guvern/1996/20",
    "short": "Norma guvern nr. 20/1996",
@@ -434,6 +464,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8004",
      "sha256": "283deb9a4935f12a3eb200a7ec11440452c31d19b835e1cb10ad76b647ca7ed3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0627-1996",
+   "path": "norma/guvern/1996/06-27",
+   "short": "Norma guvern din 27 iunie 1996",
+   "title": "Norme metodologice din 27 iunie 1996 privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40189",
+   "versions": [
+    {
+     "from": "2002-11-27",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40189",
+     "sha256": "29d254815af3537e61a924342dc895d9a9b302f10749f08307f432616fef2b5d"
     }
    ]
   },
@@ -464,6 +509,126 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10705",
      "sha256": "51b3ff1ac654491af3a0c344ac7ec7b1476398cb899b20e2fa18bba18d99a6d7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-1-1996",
+   "path": "norma/munca/1996/09-10-1",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 privind autorizarea funcționarii persoanelor juridice și fizice din punct de vedere al protecției muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49209",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49209",
+     "sha256": "bd936b77605e5418b2d59fca158a4f6e751f7b63490bc90f0315ca29e22fbb64"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-2-1996",
+   "path": "norma/munca/1996/09-10-2",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 privind certificarea calității de protecție a prototipurilor sortimentelor de echipament individual de protecție și de lucru și avizarea introducerii lor în fabricație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49210",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49210",
+     "sha256": "dba2ca6edd48fa7236bbd70b3d0dc031d7f75d96a97ba1c97bdb0fd43174d910"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-3-1996",
+   "path": "norma/munca/1996/09-10-3",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 referitoare la certificarea calității din punct de vedere al securității muncii a echipamentelor tehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49211",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49211",
+     "sha256": "849f8fa614b9f4bc841b2a12ffcaa6b28dbd685b0ca80f106f8465b72354c5e4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-4-1996",
+   "path": "norma/munca/1996/09-10-4",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 privind avizarea documentațiilor cu caracter tehnic de informare și de instruire în domeniul protecției muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49212",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49212",
+     "sha256": "291978fab76bec0dd7534e1be3d3e35581b9ab02e9fff9380739995ce4a8003f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-5-1996",
+   "path": "norma/munca/1996/09-10-5",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 privind clasificarea minelor din punct de vedere al emanațiilor de gaze",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49213",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49213",
+     "sha256": "ac7f4ac40bb099c6a3deb8f15aaf5ef05793d1f66a027a958844a15bf89b448b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-6-1996",
+   "path": "norma/munca/1996/09-10-6",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 privind comunicarea, cercetarea, înregistrarea, raportarea, evidenta accidentelor de muncă și declararea, confirmarea, înregistrarea, raportarea, evidenta bolilor profesionale, precum și a celorlalți indicatori care definesc morbiditatea profesionala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49214",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49214",
+     "sha256": "0581d5b174ae1be383e27b2f220c09f74bae8b6efc1a97049b87b543a51caca2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-7-1996",
+   "path": "norma/munca/1996/09-10-7",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 privind finanțarea cheltuielilor pentru realizarea măsurilor de protecție a muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49215",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49215",
+     "sha256": "28ef2a6aa6f7ab690e63d84f09bdb3b7c373c5074d8ebfb4853be391da2641bc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-zi0910-8-1996",
+   "path": "norma/munca/1996/09-10-8",
+   "short": "Norma munca din 10 septembrie 1996",
+   "title": "Norme metodologice din 10 septembrie 1996 privind locul de muncă cu pericol deosebit și pericol iminent de accidentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49216",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49216",
+     "sha256": "4e42c53c750eaff9fe7448d20f3a0c154d4c237c7fafc0143277de378459a2ff"
     }
    ]
   }

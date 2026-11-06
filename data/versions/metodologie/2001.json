@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2001",
+ "acts": [
+  {
+   "slug": "metodologie-dezvoltare-zi0710-2001",
+   "path": "metodologie/dezvoltare/2001/07-10",
+   "short": "Metodologie dezvoltare din 10 iulie 2001",
+   "title": "Metodologia și condițiile tehnice*) din 10 iulie 2001 privind certificarea și/sau omologarea echipamentelor, pieselor de schimb și materialelor utilizate la vehicule rutiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59132",
+   "versions": [
+    {
+     "from": "2001-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59132",
+     "sha256": "c5cde77f00c3c84b404c97ba839c75443a1b0e9cf5104ed78df215cc3c0c1b59"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-economie-zi1023-2001",
+   "path": "metodologie/economie/2001/10-23",
+   "short": "Metodologie economie din 23 octombrie 2001",
+   "title": "Metodologie din 23 octombrie 2001 de evaluare a organismelor de inspecție în vederea recunoașterii și desemnării acestora pentru a efectua inspecțiile tehnice ale instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la statiile de benzina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52797",
+   "versions": [
+    {
+     "from": "2002-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52797",
+     "sha256": "8380cc33702a36b0ca275e5bec426f6a1f3cf327362a9b2633744becfe622554"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0829-2001",
+   "path": "metodologie/educatie/2001/08-29",
+   "short": "Metodologie educatie din 29 august 2001",
+   "title": "Metodologie din 29 august 2001 privind organizarea și desfășurarea examenului de bacalaureat 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34386",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34386",
+     "sha256": "f0d52cd2fe096e3d3b97a3141dc983d4e8b86a783fad7f264ddaf2b1d7eccf90"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-finante-zi0801-2001",
+   "path": "metodologie/finante/2001/08-01",
+   "short": "Metodologie finante din 1 august 2001",
+   "title": "Metodologie din 1 august 2001 de înregistrare în contabilitate a operațiunilor legate de primirea și utilizarea fondurilor din contribuția financiară a Comunității Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30202",
+   "versions": [
+    {
+     "from": "2001-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30202",
+     "sha256": "598546624661b6996788db5d8a3f0ef70b429ad5adfdff6fed784cdc662117c1"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-functiepublica-zi0409-2001",
+   "path": "metodologie/functiepublica/2001/04-09",
+   "short": "Metodologie functiepublica din 9 aprilie 2001",
+   "title": "Metodologie din 9 aprilie 2001 de înregistrare în contabilitate a operațiunilor legate de primirea și utilizarea fondurilor din contribuția financiară a Comunității Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28092",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28092",
+     "sha256": "7a0603f0088bdff646d4906df6dec574217a625aabbfc5811f8c6f50f08a7965"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi1108-2001",
+   "path": "metodologie/sanatate/2001/11-08",
+   "short": "Metodologie sanatate din 8 noiembrie 2001",
+   "title": "Metodologie din 8 noiembrie 2001 privind funcționarea comisiilor de expertiza medicală a persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52799",
+   "versions": [
+    {
+     "from": "2001-11-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52799",
+     "sha256": "e9c56a83069c3f47b7139bbf82edc87e913bbc8291330cb798e6ed2024a52561"
+    }
+   ]
+  }
+ ]
+}

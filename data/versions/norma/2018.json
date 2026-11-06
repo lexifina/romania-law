@@ -301,6 +301,66 @@
      "sha256": "c14b98b4ec550fd81ab82fcda8d9d9ccf8c2ffef5653aa5168de82e6ceb7a27a"
     }
    ]
+  },
+  {
+   "slug": "norma-cnas-zi0327-2018",
+   "path": "norma/cnas/2018/03-27",
+   "short": "Norma cnas din 27 martie 2018",
+   "title": "Norme metodologice din 27 martie 2018 de aplicare în anul 2018 a Hotărârii Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199237",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199237",
+     "sha256": "62b2e2b3fe4fd5a64a3c51c0dd4664c6a5abb226e2e33d6e135e3f12849f2cfd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0126-2018",
+   "path": "norma/finante/2018/01-26",
+   "short": "Norma finante din 26 ianuarie 2018",
+   "title": "Norme metodologice din 26 ianuarie 2018 privind întocmirea și depunerea situațiilor financiare ale instituțiilor publice la 31 decembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197264",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197264",
+     "sha256": "f6412f2c1eaa43abb971e7cc936065edf32b17086a07b18b27a78b2cc4edf60c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0918-1-2018",
+   "path": "norma/finante/2018/09-18-1",
+   "short": "Norma finante din 18 septembrie 2018",
+   "title": "Norme metodologice din 18 septembrie 2018 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale unităților/subdiviziunilor administrativ-teritoriale și instituțiilor publice finanțate integral din bugetul local pe destinațiile prevăzute la art. 28 alin. (4) din Ordonanța de urgență a Guvernului nr. 78/2018 cu privire la rectificarea bugetului de stat pe anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205067",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205067",
+     "sha256": "cb87af46c2297dd6bfa5d19fbd9fda4ace7d7cd53c893aaa2bedb6f8d6407512"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0918-2-2018",
+   "path": "norma/finante/2018/09-18-2",
+   "short": "Norma finante din 18 septembrie 2018",
+   "title": "Norme metodologice din 18 septembrie 2018 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale instituțiilor publice finanțate parțial din bugetul local și spitalelor publice din rețeaua autorităților administrației publice locale, raportate potrivit legii, pentru destinațiile prevăzute la art. 28 alin. (4) din Ordonanța de urgență a Guvernului nr. 78/2018 cu privire la rectificarea bugetului de stat pe anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205068",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205068",
+     "sha256": "35e4162c4c12b7e58f018e2f6a744fa37ce0da63c5df6c99053440dee77a7fee"
+    }
+   ]
   }
  ]
 }

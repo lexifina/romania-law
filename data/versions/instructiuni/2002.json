@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "instructiuni-anrm-zi0520-2002",
+   "path": "instructiuni/anrm/2002/05-20",
+   "short": "Instrucțiuni anrm din 20 mai 2002",
+   "title": "Instrucțiuni tehnice din 20 mai 2002 privind conținutul-cadru și modul de întocmire a Cărții miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37510",
+   "versions": [
+    {
+     "from": "2002-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37510",
+     "sha256": "363eef397cd5c01e1b5bb980da0d7b961f5072e0c9416093baaeaf7a56c785e1"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-cnvm-1-2002",
    "path": "instructiuni/cnvm/2002/1",
    "short": "Instrucțiuni cnvm nr. 1/2002",
@@ -164,6 +179,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40357",
      "sha256": "900f8d8310c09681f38377ddabcdc283fa80aadd394d109c127aa9bdd7c830f6"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-economie-zi0520-2002",
+   "path": "instructiuni/economie/2002/05-20",
+   "short": "Instrucțiuni economie din 20 mai 2002",
+   "title": "Instrucțiuni tehnice din 20 mai 2002 privind conținutul-cadru și modul de întocmire a Cărții miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37512",
+   "versions": [
+    {
+     "from": "2002-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37512",
+     "sha256": "1e4b07b4d6a4dfc0929c984c4e63514a2a67b4d9cdee8a9dd673dc8625c015c2"
     }
    ]
   },

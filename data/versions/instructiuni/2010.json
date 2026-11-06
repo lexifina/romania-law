@@ -121,6 +121,66 @@
      "sha256": "9f7d8df0cc7045257332c6716725c564eef013c51861e10432c9ad870406de46"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0805-2010",
+   "path": "instructiuni/concurenta/2010/08-05",
+   "short": "Instrucțiuni concurenta din 5 august 2010",
+   "title": "Instrucțiuni din 5 august 2010 privind conceptele de concentrare economică, întreprindere implicată, funcționare deplină și cifră de afaceri*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122168",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122168",
+     "sha256": "d231ec2bf0c1995a52cf6848870061387011448ee845e72595a6b30868ce1375"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0902-1-2010",
+   "path": "instructiuni/concurenta/2010/09-02-1",
+   "short": "Instrucțiuni concurenta din 2 septembrie 2010",
+   "title": "Instrucțiuni din 2 septembrie 2010 privind individualizarea sancțiunilor pentru contravențiile prevăzute la art. 50 și 50^1 din Legea concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122122",
+   "versions": [
+    {
+     "from": "2010-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122122",
+     "sha256": "9e01944fadf7d63985526beb77c414f77d0b84663709be5e4ddaa66b58b73de8"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi0902-2-2010",
+   "path": "instructiuni/concurenta/2010/09-02-2",
+   "short": "Instrucțiuni concurenta din 2 septembrie 2010",
+   "title": "Instrucțiuni din 2 septembrie 2010 privind individualizarea sancțiunilor pentru contravențiile prevăzute la art. 51 din Legea concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122124",
+   "versions": [
+    {
+     "from": "2010-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122124",
+     "sha256": "99258492e12310ada0487417363edde4b486b58b4140b74b2a59b7ab4097ce01"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-justitie-zi0205-2010",
+   "path": "instructiuni/justitie/2010/02-05",
+   "short": "Instrucțiuni justitie din 5 februarie 2010",
+   "title": "Instrucțiuni din 5 februarie 2010 privind evidența nominală și statistică a persoanelor private de libertate aflate în unitățile subordonate Administrației Naționale a Penitenciarelor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118457",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118457",
+     "sha256": "90323332d211346287ec43d23c1f9026ce1d6ded79f1e48a1b7bb2f5c50421cf"
+    }
+   ]
   }
  ]
 }

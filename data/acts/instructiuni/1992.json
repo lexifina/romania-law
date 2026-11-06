@@ -3,6 +3,25 @@
 "shard": "instructiuni/1992",
 "acts": [
 {
+"slug": "instructiuni-finante-zi0602-1992",
+"path": "instructiuni/finante/1992/06-02",
+"kind": "instructiuni",
+"year": "1992",
+"number": "06-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni privind constituirea și utilizarea fondului special pentru asigurările sociale ale țărănimii",
+"short": "Instrucțiuni finante din 2 iunie 1992",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1992-06-02",
+"latest": "1992-06-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2067",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "instructiuni-finante-1409-1992",
 "path": "instructiuni/finante/1992/1409",
 "kind": "instructiuni",

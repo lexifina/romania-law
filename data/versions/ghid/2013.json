@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "ghid/2013",
+ "acts": [
+  {
+   "slug": "ghid-imm-zi1212-2013",
+   "path": "ghid/imm/2013/12-12",
+   "short": "Ghid imm din 12 decembrie 2013",
+   "title": "Ghidul solicitantului din 12 decembrie 2013 privind \"Schema de ajutor de minimis pentru investițiile realizate de întreprinderile mici și mijlocii\" instituită prin Hotărârea Guvernului nr. 274/2013 , cu modificările și completările ulterioare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154878",
+   "versions": [
+    {
+     "from": "2014-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154878",
+     "sha256": "54a33323010d39390714eff5e8da9bd7041f6fb0fefffe7e1f02d0ba65799949"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-munca-zi0604-2013",
+   "path": "ghid/munca/2013/06-04",
+   "short": "Ghid munca din 4 iunie 2013",
+   "title": "Ghid solicitantului din 4 iunie 2013 Condiții specifice pentru cererea de propuneri de proiecte de tip strategic nr. 126 pentru implementarea Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150173",
+   "versions": [
+    {
+     "from": "2013-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150173",
+     "sha256": "c2cc9728dcbaadb0a20a245c5b6eb907ad03ebbd09810be9beda541880c349e3"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1111-1-2013",
+   "path": "ghid/sanatate/2013/11-11-1",
+   "short": "Ghid sanatate din 11 noiembrie 2013",
+   "title": "Ghid clinic din 11 noiembrie 2013 privind Inversiunea uterină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260615",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260615",
+     "sha256": "a4b60bd0ffe693e3cabd26609b0f2ed9e73059ccc4fc0aa0dd8f63cb5148abe0"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1111-2-2013",
+   "path": "ghid/sanatate/2013/11-11-2",
+   "short": "Ghid sanatate din 11 noiembrie 2013",
+   "title": "Ghid clinic din 11 noiembrie 2013 privind distocia umerală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260616",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260616",
+     "sha256": "42f8e1e96da28baa5246b48d231580600b20b8ebef9750349d7f4570d0238c6f"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1111-3-2013",
+   "path": "ghid/sanatate/2013/11-11-3",
+   "short": "Ghid sanatate din 11 noiembrie 2013",
+   "title": "Ghid clinic din 11 noiembrie 2013 privind Prolabarea de cordon ombilical",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260617",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260617",
+     "sha256": "78ed92705afb97c355967eb0c50dd9dc3e7887a33cfdef2f43c0b8c54dd17069"
+    }
+   ]
+  }
+ ]
+}

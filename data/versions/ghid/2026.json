@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "ghid/2026",
+ "acts": [
+  {
+   "slug": "ghid-agricultura-zi0325-2026",
+   "path": "ghid/agricultura/2026/03-25",
+   "short": "Ghid agricultura din 25 martie 2026",
+   "title": "Ghid informativ din 25 martie 2026 privind Sistemul de identificare a parcelelor agricole - LPIS, ediția a II-a, 2026, cod: GI-DIT-LPIS-SLPIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311290",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311290",
+     "sha256": "478227734bb08d4396d22ef6d1bfe26165014ff0933bf0f2e39025f3990090e2"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-economie-zi0908-1-2026",
+   "path": "ghid/economie/2026/09-08-1",
+   "short": "Ghid economie din 8 septembrie 2026",
+   "title": "Ghidul solicitantului din 8 septembrie 2026 Condiții specifice de accesare a finanțării din Fondul pentru modernizare - Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produse din surse regenerabile de energie pentru entități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314480",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314480",
+     "sha256": "c236741c9de33cd1259329c8c8e65da1fabfdbe90d45a78598484585a48adf53"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-economie-zi0908-2-2026",
+   "path": "ghid/economie/2026/09-08-2",
+   "short": "Ghid economie din 8 septembrie 2026",
+   "title": "Ghidul solicitantului din 8 septembrie 2026 Condiții specifice de accesare a finanțării din Fondul pentru modernizare - Sprijinirea investițiilor în noi capacități de producere a energiei electrice produse din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314481",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314481",
+     "sha256": "c9eb9a5144cf1aa9210b0a119d960c6c154c488b0ebb15ef0ce3de48c9d58fee"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-finante-zi0721-2026",
+   "path": "ghid/finante/2026/07-21",
+   "short": "Ghid finante din 21 iulie 2026",
+   "title": "Ghidul solicitantului din 21 iulie 2026 elaborat în baza Hotărârii Guvernului nr. 486/2026 privind stimularea investițiilor în vederea realizării de produse cu deficit comercial din industria prelucrătoare - Revizia 0",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313310",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313310",
+     "sha256": "781a7b70a5cadbe08782398cc45832a7987959326ba105e7b0c503ca6b7f7aac"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-mediu-zi0623-2026",
+   "path": "ghid/mediu/2026/06-23",
+   "short": "Ghid mediu din 23 iunie 2026",
+   "title": "Ghid din 23 iunie 2026 pentru promovarea, selecția, evaluarea și integrarea soluțiilor bazate pe natură și a infrastructurii verzi în proiectele de gestionare a riscului la inundații, adaptat situației din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312053",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312053",
+     "sha256": "b8ceffd440d9d3934f97869c17227470df8ebc989710de24001b32d035a1ddf2"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-transporturi-zi0611-1-2026",
+   "path": "ghid/transporturi/2026/06-11-1",
+   "short": "Ghid transporturi din 11 iunie 2026",
+   "title": "Ghid tehnic din 11 iunie 2026 privind echipamente pentru dotarea tunelurilor rutiere - Indicativ AND 623-2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312169",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312169",
+     "sha256": "b26290b14434de5e06ef4d38c865011dcdf7bc2c97bd41ea579455fb5410a1d1"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-transporturi-zi0611-2-2026",
+   "path": "ghid/transporturi/2026/06-11-2",
+   "short": "Ghid transporturi din 11 iunie 2026",
+   "title": "Ghid tehnic din 11 iunie 2026 privind iluminatul tunelurilor rutiere - indicativ AND 625-2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312332",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312332",
+     "sha256": "048ede363696060e41c239d764b64d7a8c478b102ff92be80eb795112706351b"
+    }
+   ]
+  }
+ ]
+}

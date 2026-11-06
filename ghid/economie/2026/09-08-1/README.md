@@ -1,0 +1,28 @@
+# Ghidul solicitantului din 8 septembrie 2026 Condiții specifice de accesare a finanțării din Fondul pentru modernizare - Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produse din surse regenerabile de energie pentru entități publice
+
+Ghid economie din 8 septembrie 2026 · 1 versions, from 2026-09-11 (latest in force: 2026-09-11) · <https://legislatie.just.ro/Public/DetaliiDocument/314480>
+
+**Status:** Published as it appeared in the Monitorul Oficial, as a document of its own: approving act not identified (it will be linked to the act that approves it); later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul 1 | [art-001.md](art-001.md) | 0 |  |
+| Articolul 3 | [art-003.md](art-003.md) | 0 |  |
+| Articolul 4 | [art-004.md](art-004.md) | 0 |  |
+| Articolul 5 | [art-005.md](art-005.md) | 0 |  |
+| Articolul 6 | [art-006.md](art-006.md) | 0 |  |
+| Articolul 7 | [art-007.md](art-007.md) | 0 |  |
+| Articolul 8 | [art-008.md](art-008.md) | 0 |  |
+| Articolul 9 | [art-009.md](art-009.md) | 0 |  |
+| Articolul 10 | [art-010.md](art-010.md) | 0 |  |
+| Articolul 11 | [art-011.md](art-011.md) | 0 |  |
+| Articolul 12 | [art-012.md](art-012.md) | 0 |  |
+
+Act id: `ghid-economie-zi0908-1-2026` (tags `ghid-economie-zi0908-1-2026/<day>`; `python tools/on.py <day> ghid-economie-zi0908-1-2026`).
+
+## Decisions made by hand
+
+- Ghid economie din 8 septembrie 2026: added from the official web service of the Portalul legislativ (FreeWebService) as the guide published in Monitorul Oficial nr. 774 of 11 September 2026 as a document of its own, with no number of its own (document 314480, retrieved 2026-11-03, held on disk; the service was not requested again). Whether later acts amended it has not yet been checked; amendments, if any, are not applied here.
+- Ghid economie din 8 septembrie 2026: approving act not identified. The guide was published without a number, as a document of its own; more than one act of the same Monitorul Oficial issue could be the one approving it, or its annex number there is not settled, so it is published on its own, its folder named by its day (the number it lacks), and will be linked to its approving act later.
+- Ghid economie din 8 septembrie 2026: candidate approving acts (same Monitorul Oficial issue, read from the held copy of the service): ORDIN nr. 1065 (document 314456); ORDIN nr. 1066 (document 314457).
+- Ghid economie din 8 septembrie 2026: the first version is the guide as published in Monitorul Oficial nr. 774 of 11 September 2026, in force from its publication in the Monitorul Oficial.

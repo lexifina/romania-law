@@ -1833,6 +1833,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-136-2002",
+   "path": "ordin/agricultura/2002/136",
+   "short": "Ordin agricultura nr. 136/2002",
+   "title": "Ordinul nr. 136/2002 privind constituirea Comisiei de licențiere a depozitelor de cereale și semințe oleaginoase și înființarea serviciului tehnic de specialitate în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35372",
+   "versions": [
+    {
+     "from": "2002-04-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35372",
+     "sha256": "a736f7cccdc0ae379ca8acda25efb3cc4b6aaabefe4ec7b15ae2dbb36085260e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-140-2002",
    "path": "ordin/agricultura/2002/140",
    "short": "Ordin agricultura nr. 140/2002",
@@ -2973,6 +2988,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-305-2002",
+   "path": "ordin/agricultura/2002/305",
+   "short": "Ordin agricultura nr. 305/2002",
+   "title": "Ordinul nr. 305/2002 cu privire la interzicerea folosirii la vânătoare a armelor semiautomate de tip AKM și SKS, calibrul 7,62 x 39 mm, derivate din pistolul-mitraliera Kalasnikov, fabricate de societățile comerciale \"Sadu\" - S.A. și \"Cugir\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37866",
+   "versions": [
+    {
+     "from": "2002-08-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37866",
+     "sha256": "a42b6e0a7f9ddb177d378d05bc446b80756e65426cc6bf71dc752dda994bf3f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-309-2002",
    "path": "ordin/agricultura/2002/309",
    "short": "Ordin agricultura nr. 309/2002",
@@ -3168,6 +3198,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-337-2002",
+   "path": "ordin/agricultura/2002/337",
+   "short": "Ordin agricultura nr. 337/2002",
+   "title": "Ordinul nr. 337/2002 privind constituirea Comisiei de lucru pentru introducerea sistemului de plată a porcilor în corelație cu calitatea carcaselor și în conformitate cu legislația Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38031",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38031",
+     "sha256": "5eb52a3501a54aa0302880a951d487f50633b6cc257bc3392c0ce1979f216056"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-341-2002",
    "path": "ordin/agricultura/2002/341",
    "short": "Ordin agricultura nr. 341/2002",
@@ -3284,6 +3329,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38037",
      "sha256": "80a906e41a680ee4e3d53702f00c7a089d3be92d77b38a8e26d5acf68e783c45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-352-2002",
+   "path": "ordin/agricultura/2002/352",
+   "short": "Ordin agricultura nr. 352/2002",
+   "title": "Ordinul nr. 352/2002 pentru modificarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 136/2002 privind constituirea Comisiei de licențiere a depozitelor de cereale și semințe oleaginoase și înființarea serviciului tehnic de specialitate în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38033",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38033",
+     "sha256": "72743099785a6453896079485208bb74f9ff9b983c7676b33c61ea1b1229f5de"
     }
    ]
   },
@@ -4529,6 +4589,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40870",
      "sha256": "0c940abc9f16831eb99a596bebdd8b757c29c485e0bbf9dd7000641a30c1ce56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-598-2002",
+   "path": "ordin/agricultura/2002/598",
+   "short": "Ordin agricultura nr. 598/2002",
+   "title": "Ordinul nr. 598/2002 pentru constituirea Comisiei de lucru în vederea stabilirii grilei de clasificare a carcaselor de bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40977",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40977",
+     "sha256": "df24db3afb1f91aa8a85b9d0a13849717296075cf01ac246cfac72c9e5b1756a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-599-2002",
+   "path": "ordin/agricultura/2002/599",
+   "short": "Ordin agricultura nr. 599/2002",
+   "title": "Ordinul nr. 599/2002 pentru constituirea Comisiei de lucru în vederea stabilirii grilei de clasificare a carcaselor de ovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40978",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40978",
+     "sha256": "1b780712e58e1e5836c0542d20023448e95efd98e69fd1004a07e9c776384533"
     }
    ]
   },
@@ -6659,6 +6749,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40411",
      "sha256": "b4f9f5cbfcbeae91b4111ec3ccdb29f1d25291bb5df0f823802625a3f8102fd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2019-2002",
+   "path": "ordin/cultura/2002/2019",
+   "short": "Ordin cultura nr. 2019/2002",
+   "title": "Ordinul nr. 2.019/2002 privind modificarea Ordinului ministrului culturii nr. 2.032/1999 pentru înființarea Comisiei de Atestare în Domeniul Monumentelor Istorice și aprobarea normelor și criteriilor de atestare a experților în domeniul protejării monumentelor istorice și a specialiștilor în domeniul conservării și restaurării monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34765",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34765",
+     "sha256": "e0c7ff89ca79963815beac8a9eb141c6725e927bc514efce42fd24da4687909d"
     }
    ]
   },
@@ -9288,6 +9393,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-7149-2002",
+   "path": "ordin/educatie/2002/7149",
+   "short": "Ordin educatie nr. 7149/2002",
+   "title": "Ordinul nr. 7.149/2002 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2002 ale institutelor naționale de cercetare-dezvoltare aflate în coordonarea Ministerului Educației și Cercetării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38935",
+   "versions": [
+    {
+     "from": "2002-10-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38935",
+     "sha256": "7e54c66e2fa227ef268a5ebaa0a7fe7ca19046163ee03cd0f10b91ecfe2c0a9e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-7207-2002",
    "path": "ordin/educatie/2002/7207",
    "short": "Ordin educatie nr. 7207/2002",
@@ -9299,6 +9419,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40386",
      "sha256": "205bdc17dccec5fd31f11c1786ceee4fbbc928b1f70200889a3c297ce014d58a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7208-2002",
+   "path": "ordin/educatie/2002/7208",
+   "short": "Ordin educatie nr. 7208/2002",
+   "title": "Ordinul nr. 7.208/2002 privind acordarea autorizației de funcționare Parcului științific și tehnologic \"Parc de soft\" Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40689",
+   "versions": [
+    {
+     "from": "2002-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40689",
+     "sha256": "5de2874363c08cce91139a352092a43cb2ccf7700c7c89747fe619d8f4ef2b38"
     }
    ]
   },
@@ -9329,6 +9464,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40591",
      "sha256": "dc7cbf6f8f2dd26fd6badb49a02d196051cf11d7a509d93633b6b3f05088d9c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7256-2002",
+   "path": "ordin/educatie/2002/7256",
+   "short": "Ordin educatie nr. 7256/2002",
+   "title": "Ordinul nr. 7.256/2002 pentru aprobarea bugetelor de venituri și cheltuieli rectificate ale Institutului Național de Cercetare-Dezvoltare pentru Geologie și Geoecologie Marină - GEOECOMAR și Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Criogenice și Izotopice - ICSI Râmnicu Vâlcea pe anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41803",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41803",
+     "sha256": "6e5aed1692953c74d27e3e417b564586c6872180809c2174208f6f1d7ce1b30c"
     }
    ]
   },

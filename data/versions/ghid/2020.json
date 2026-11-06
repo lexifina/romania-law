@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "ghid/2020",
+ "acts": [
+  {
+   "slug": "ghid-guvern-zi0305-2020",
+   "path": "ghid/guvern/2020/03-05",
+   "short": "Ghid guvern din 5 martie 2020",
+   "title": "Ghid de securitate nucleară din 5 martie 2020 privind analizele care utilizează ipoteze legate de timp relevante pentru managementul îmbătrânirii instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223916",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223916",
+     "sha256": "04c87901d58f4f3054b12e252ac60ba2cbcca9a6eeb3269e8d4e00cc00be38f6"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-guvern-zi0311-2020",
+   "path": "ghid/guvern/2020/03-11",
+   "short": "Ghid guvern din 11 martie 2020",
+   "title": "Ghid din 11 martie 2020 de finanțare nerambursabilă 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226111",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226111",
+     "sha256": "57ff36d38e8fb9bbeffd4154e4ac4429384ba41264653a73a1bd591d23e83750"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1207-1-2020",
+   "path": "ghid/sanatate/2020/12-07-1",
+   "short": "Ghid sanatate din 7 decembrie 2020",
+   "title": "Ghid din 7 decembrie 2020 privind avortul medicamentos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235704",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235704",
+     "sha256": "eaa0b5b725b03d06bccce089940d29d7c3145a9319d954986a93e21213fbbe9b"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-sanatate-zi1207-2-2020",
+   "path": "ghid/sanatate/2020/12-07-2",
+   "short": "Ghid sanatate din 7 decembrie 2020",
+   "title": "Ghid din 7 decembrie 2020 de examinare ecografică de screening pentru anomalii de sarcină în trimestrul 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235705",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235705",
+     "sha256": "4ba2b60783d85f561413eb20f163911c1ef4a071d40db073e9b93137195c48b0"
+    }
+   ]
+  }
+ ]
+}

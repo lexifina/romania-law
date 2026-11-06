@@ -16,6 +16,81 @@
      "sha256": "0b28ce8f015d9dcb4b36ea1abfd217a4b6be50a937d073652d18429dd5f9fb91"
     }
    ]
+  },
+  {
+   "slug": "criterii-finante-zi0627-2008",
+   "path": "criterii/finante/2008/06-27",
+   "short": "Criterii finante din 27 iunie 2008",
+   "title": "Criterii din 27 iunie 2008 referitoare la autorizarea funcționării unităților emitente de tichete de masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95434",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95434",
+     "sha256": "88d944a22f93764c4b42765dc4af1a7a166f85ee55978ee96537b70eade03e83"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi0716-2008",
+   "path": "criterii/guvern/2008/07-16",
+   "short": "Criterii guvern din 16 iulie 2008",
+   "title": "Criteriile din 16 iulie 2008 de acordare a ajutorului de stat conform schemei de ajutor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97133",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97133",
+     "sha256": "8bc90297b9bb9860793445bf76918274ac5ee5a475d3e9a9928c2da8e01d6c0a"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-guvern-zi1210-2008",
+   "path": "criterii/guvern/2008/12-10",
+   "short": "Criterii guvern din 10 decembrie 2008",
+   "title": "Criterii din 10 decembrie 2008 de acordare a ajutorului de stat conform prezentei scheme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100982",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100982",
+     "sha256": "17c812c26a49864285ab8ed98c83fcf94c95289c1348b0072c4065233e029db6"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0723-2008",
+   "path": "criterii/sanatate/2008/07-23",
+   "short": "Criterii sanatate din 23 iulie 2008",
+   "title": "Criterii din 23 iulie 2008 de stabilire a ordinii de prioritate în soluționarea cererilor de repartizare a locuințelor construite de Agenția Națională pentru Locuințe pentru medicii rezidenți și alți tineri specialiști din sistemul de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96110",
+   "versions": [
+    {
+     "from": "2008-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96110",
+     "sha256": "2f673e87dca7c9990cdf3738e70f2dc3f752ce20d909801be2bd8d038a8bbf53"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0804-2008",
+   "path": "criterii/sanatate/2008/08-04",
+   "short": "Criterii sanatate din 4 august 2008",
+   "title": "Criteriile și metodologia din 4 august 2008 de autorizare a centrelor de furnizare de servicii pentru consumatorii de droguri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100149",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100149",
+     "sha256": "989e20e7d5fb2eca304ecab0dd4e4b09d76c1f21e6602729728b01ece304f736"
+    }
+   ]
   }
  ]
 }

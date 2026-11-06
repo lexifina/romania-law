@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "ghid/2025",
+"acts": [
+{
+"slug": "ghid-mediu-zi0911-2025",
+"path": "ghid/mediu/2025/09-11",
+"kind": "ghid",
+"year": "2025",
+"number": "09-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid de finanțare din 11 septembrie 2025 a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, dedicat persoanelor fizice",
+"short": "Ghid mediu din 11 septembrie 2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-11",
+"latest": "2025-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302008",
+"issuer": "mediu",
+"joint": []
+},
+{
+"slug": "ghid-mediu-zi1203-2025",
+"path": "ghid/mediu/2025/12-03",
+"kind": "ghid",
+"year": "2025",
+"number": "12-03",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid specific din 3 decembrie 2025 privind condițiile de accesare a fondurilor europene aferente PNRR",
+"short": "Ghid mediu din 3 decembrie 2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305237",
+"issuer": "mediu",
+"joint": []
+},
+{
+"slug": "ghid-transporturi-zi0505-2025",
+"path": "ghid/transporturi/2025/05-05",
+"kind": "ghid",
+"year": "2025",
+"number": "05-05",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid tehnic din 5 mai 2025 privind stabilirea unor soluții constructive pentru prevenirea căderilor accidentale în golul tehnologic al structurilor paralele (gemene) - indicativ AND 620-2024",
+"short": "Ghid transporturi din 5 mai 2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299161",
+"issuer": "transporturi",
+"joint": []
+}
+]
+}

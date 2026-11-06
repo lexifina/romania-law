@@ -573,6 +573,21 @@
    ]
   },
   {
+   "slug": "norma-adr-zi1027-2020",
+   "path": "norma/adr/2020/10-27",
+   "short": "Norma adr din 27 octombrie 2020",
+   "title": "Norme din 27 octombrie 2020 privind procedura de acordare/retragere a avizului tehnic pentru platformele digitale de transport alternativ cu autoturism și conducător auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232013",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232013",
+     "sha256": "5f20999df3ef1396dd5acf99de52a3dee60d7140b6e09d7fc76649d0a0fb8f75"
+    }
+   ]
+  },
+  {
    "slug": "norma-aep-25-2020",
    "path": "norma/aep/2020/25",
    "short": "Norma aep nr. 25/2020",
@@ -584,6 +599,21 @@
      "units": 45,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233393",
      "sha256": "561699ef866332304e41dfda3c1b4c1a2e342459518f4e1efa4bab9f33c2c8ab"
+    }
+   ]
+  },
+  {
+   "slug": "norma-agricultura-zi0729-2020",
+   "path": "norma/agricultura/2020/07-29",
+   "short": "Norma agricultura din 29 iulie 2020",
+   "title": "Norme tehnice din 29 iulie 2020 privind organizarea și desfășurarea montei naturale autorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228620",
+   "versions": [
+    {
+     "from": "2020-08-03",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228620",
+     "sha256": "3817857632c5a4be37309de52f2ceb084835af7d6983ee01182d08b0b87ffb54"
     }
    ]
   },
@@ -614,6 +644,171 @@
      "units": 28,
      "source_url": "https://asfromania.ro/uploads/articole/attachments/6448e2a2ab028099193399.pdf",
      "sha256": "0df34ca628f8c7486d0f19e6db249b2dfcaffe54ee26a2b129c4c215ff990a9d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cifga-zi0930-2020",
+   "path": "norma/cifga/2020/09-30",
+   "short": "Norma cifga din 30 septembrie 2020",
+   "title": "Normă din 30 septembrie 2020 \"Finanțări EximBank în cadrul Schemei de ajutor de stat COVID-19\" (NI-FIN-08-I/0)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230815",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230815",
+     "sha256": "748348bb43aaa2cf8cf8e58b00067b1dd5f62bd1913fb6f14ca34814b0a1a6b8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0828-1-2020",
+   "path": "norma/finante/2020/08-28-1",
+   "short": "Norma finante din 28 august 2020",
+   "title": "Norme metodologice din 28 august 2020 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale unităților/subdiviziunilor administrativ-teritoriale și instituțiilor publice finanțate integral din bugetul local pe destinațiile prevăzute la art. 25 alin. (4) din Ordonanța de urgență a Guvernului nr. 135/2020 cu privire la rectificarea bugetului de stat pe anul 2020, modificarea unor acte normative și stabilirea unor măsuri bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229670",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229670",
+     "sha256": "3a019e32bb36201122cc608b382b0f82f351712e82de27cab8b4e1bdfe662249"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0828-2-2020",
+   "path": "norma/finante/2020/08-28-2",
+   "short": "Norma finante din 28 august 2020",
+   "title": "Norme metodologice din 28 august 2020 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale instituțiilor publice finanțate parțial din bugetul local și spitalelor publice din rețeaua autorităților administrației publice locale, raportate potrivit legii, pentru destinațiile prevăzute la art. 25 alin. (4) din Ordonanța de urgență a Guvernului nr. 135/2020 cu privire la rectificarea bugetului de stat pe anul 2020, modificarea unor acte normative și stabilirea unor măsuri bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229671",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229671",
+     "sha256": "36adeff51d4a26924e1586ef142fbe403c04924630af2fa45653dd8e951820bf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0828-3-2020",
+   "path": "norma/finante/2020/08-28-3",
+   "short": "Norma finante din 28 august 2020",
+   "title": "Norme metodologice din 28 august 2020 de repartizare a sumelor potrivit prevederilor art. 25 alin. (6)-(10) din Ordonanța de urgență a Guvernului nr. 135/2020 cu privire la rectificarea bugetului de stat pe anul 2020, modificarea unor acte normative și stabilirea unor măsuri bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229672",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229672",
+     "sha256": "f878fcb7f1d6cd52e0c04ca032318713db8aab0e3c00a05569521475dc5dae6f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1125-1-2020",
+   "path": "norma/finante/2020/11-25-1",
+   "short": "Norma finante din 25 noiembrie 2020",
+   "title": "Norme metodologice din 25 noiembrie 2020 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante și datoriilor prevăzute la art. 26 alin. (1) lit. a)-c) din Ordonanța de urgență a Guvernului nr. 201/2020 cu privire la rectificarea bugetului de stat pe anul 2020 ale unităților/subdiviziunilor administrativ-teritoriale și instituțiilor publice finanțate integral din bugetul local pe destinațiile prevăzute la art. 26 alin. (4) din Ordonanța de urgență a Guvernului nr. 201/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233888",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233888",
+     "sha256": "75cd187d54d9edbfe72d89bd487f642a1abf2fefa0730446ef6e9e0267fa318b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1125-2-2020",
+   "path": "norma/finante/2020/11-25-2",
+   "short": "Norma finante din 25 noiembrie 2020",
+   "title": "Norme metodologice din 25 noiembrie 2020 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante și datoriilor prevăzute la art. 26 alin. (1) lit. a) și c) din Ordonanța de urgență a Guvernului nr. 201/2020 cu privire la rectificarea bugetului de stat pe anul 2020 ale instituțiilor publice finanțate parțial din bugetul local și spitalelor publice din rețeaua autorităților administrației publice locale, raportate potrivit legii, pentru destinațiile prevăzute la art. 26 alin. (4) din Ordonanța de urgență a Guvernului nr. 201/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233889",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233889",
+     "sha256": "e3b9d7c9697be440fa9d113efc19a0196c58eda1e59770fcd4016d6be3c24919"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1215-2020",
+   "path": "norma/finante/2020/12-15",
+   "short": "Norma finante din 15 decembrie 2020",
+   "title": "Norme metodologice din 15 decembrie 2020 privind încheierea exercițiului bugetar al anului 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235371",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235371",
+     "sha256": "90fd94744d8149f9947cb65b0bdc71697974d31f4e55760b479037601f12efa7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0402-2020",
+   "path": "norma/guvern/2020/04-02",
+   "short": "Norma guvern din 2 aprilie 2020",
+   "title": "Norme din 2 aprilie 2020 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 37/2020 privind acordarea unor facilități pentru creditele acordate de instituții de credit și instituții financiare nebancare anumitor categorii de debitori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224665",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224665",
+     "sha256": "c1b310b877501dd3f7f1a8162653329cec86e1b24ccbbd9a6c2c8fe4b681581b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0430-2020",
+   "path": "norma/guvern/2020/04-30",
+   "short": "Norma guvern din 30 aprilie 2020",
+   "title": "Norme din 30 aprilie 2020 de aplicare a Programului național apicol pentru perioada 2020-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225432",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225432",
+     "sha256": "9d5d72665e328084a42a9ec8feebdc87fe0581e0228cc350542e23c0f5d2b915"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0514-2020",
+   "path": "norma/guvern/2020/05-14",
+   "short": "Norma guvern din 14 mai 2020",
+   "title": "Norme tehnice din 14 mai 2020 pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public și privat al comunelor, al orașelor, al municipiilor și al județelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226015",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226015",
+     "sha256": "4cdc46a41d9f0c302e7a5306870e9870d66f09069a82d9f4b9ba6dcac93107a3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0910-2020",
+   "path": "norma/guvern/2020/09-10",
+   "short": "Norma guvern din 10 septembrie 2020",
+   "title": "Norme metodologice din 10 septembrie 2020 de aplicare a Ordonanței de urgență a Guvernului nr. 118/2020 privind aprobarea Programului de susținere a întreprinderilor mici și mijlocii \"IMM LEASING DE ECHIPAMENTE ȘI UTILAJE\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230007",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230007",
+     "sha256": "48bc1ea61898dd9416d89b95d8096325d30dd99deafce9fd9d3f08dbc4f9670b"
     }
    ]
   }

@@ -391,6 +391,81 @@
      "sha256": "1107b3afb4e5faf7e086337983447d67da0505921d8fa9395f2c8055bd44f0cf"
     }
    ]
+  },
+  {
+   "slug": "norma-cnas-zi0504-2021",
+   "path": "norma/cnas/2021/05-04",
+   "short": "Norma cnas din 4 mai 2021",
+   "title": "Norme metodologice din 4 mai 2021 privind implementarea Protocoalelor terapeutice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242309",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242309",
+     "sha256": "daedaa0204f24df95583083df6769647a95cc3b6f4f732a384927aa89e5db778"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi0921-2021",
+   "path": "norma/finante/2021/09-21",
+   "short": "Norma finante din 21 septembrie 2021",
+   "title": "Norme metodologice din 21 septembrie 2021 de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante și datoriilor prevăzute la art. 20 alin. (1) lit. a) și c) din Ordonanța de urgență a Guvernului nr. 97/2021 cu privire la rectificarea bugetului de stat pe anul 2021 ale instituțiilor publice finanțate parțial din bugetul local și spitalelor publice din rețeaua autorităților administrației publice locale, raportate potrivit legii, pentru destinațiile prevăzute la art. 20 alin. (4) din Ordonanța de urgență a Guvernului nr. 97/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246636",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246636",
+     "sha256": "d7ef4f4384812512533e58818826e46256711890132726e36c0a5a8f0525a83b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0719-2021",
+   "path": "norma/guvern/2021/07-19",
+   "short": "Norma guvern din 19 iulie 2021",
+   "title": "Norme din 19 iulie 2021 privind organizarea, coordonarea și controlul activității de protecție a mediului în Administrația Națională a Rezervelor de Stat și Probleme Speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245182",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245182",
+     "sha256": "fa72673436c4c9df7515a69904fd7735758a54bce3f31d5c4c004325f725143d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-interne-zi0324-2021",
+   "path": "norma/interne/2021/03-24",
+   "short": "Norma interne din 24 martie 2021",
+   "title": "Norme de aplicare din 24 martie 2021 în Ministerul Afacerilor Interne a Legii nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240320",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240320",
+     "sha256": "18e275bbaaba514467309849953ccdd7fd7c09d183f1f666b3057b1252ac98cf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-penitenciare-zi1123-2021",
+   "path": "norma/penitenciare/2021/11-23",
+   "short": "Norma penitenciare din 23 noiembrie 2021",
+   "title": "Norme din 23 noiembrie 2021 privind dotarea camerelor de infirmerie, a camerelor de separare ori a camerelor de tranzit, precum și amenajarea și dotarea camerelor de protecție destinate cazării individuale a persoanelor private de libertate vulnerabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249015",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249015",
+     "sha256": "d3de407697073da8a5735dc2fe3bdd88a743d5ba9c069c68d3282b8862301412"
+    }
+   ]
   }
  ]
 }

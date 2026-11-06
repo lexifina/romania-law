@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "criterii/2023",
+ "acts": [
+  {
+   "slug": "criterii-sanatate-zi0607-1-2023",
+   "path": "criterii/sanatate/2023/06-07-1",
+   "short": "Criterii sanatate din 7 iunie 2023",
+   "title": "Criterii din 7 iunie 2023 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 2 din anexa nr. 2 la Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate - pentru asistența medicală primară -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271109",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271109",
+     "sha256": "2a1d34e85d08bff0eaf1798628181aab93c235044cb9d8f2bd3d4d1c2064405b"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0607-2-2023",
+   "path": "criterii/sanatate/2023/06-07-2",
+   "short": "Criterii sanatate din 7 iunie 2023",
+   "title": "Criterii din 7 iunie 2023 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 24 alin. (4) și (5) din anexa nr. 2 la Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate - pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice, inclusiv pentru îngrijiri paliative în ambulatoriu -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271110",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271110",
+     "sha256": "5db77467ae86077dae03405b3fcc5bd4027712248dfdc88513a698806a16519d"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-sanatate-zi0607-3-2023",
+   "path": "criterii/sanatate/2023/06-07-3",
+   "short": "Criterii sanatate din 7 iunie 2023",
+   "title": "Criterii din 7 iunie 2023 ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 87 alin. (3) și (4) din anexa nr. 2 la Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate - pentru asistența medicală spitalicească -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271111",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271111",
+     "sha256": "ad4d658150ec225f3fbdb33445fa7f259bf69a6396483a6bb4cb7d261e37052c"
+    }
+   ]
+  },
+  {
+   "slug": "criterii-turism-zi0504-2023",
+   "path": "criterii/turism/2023/05-04",
+   "short": "Criterii turism din 4 mai 2023",
+   "title": "Criterii de înscriere din 4 mai 2023 pentru participarea întreprinderilor cu activitate de turism, a asociațiilor profesionale, patronale și a organizațiilor neguvernamentale cu activitate în domeniul turismului și a altor entități a căror activitate are impact în domeniul turismului la manifestările expoziționale, în pavilioanele naționale, standurile specializate ori miniexpozițiile la care participă Ministerul Antreprenoriatului și Turismului în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270468",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270468",
+     "sha256": "1f3c0649d19681b0d8e834d226d3006bb47d1094b9b3ac610f4ebd2fe90ad531"
+    }
+   ]
+  }
+ ]
+}

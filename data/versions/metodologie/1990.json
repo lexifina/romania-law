@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "metodologie/1990",
+ "acts": [
+  {
+   "slug": "metodologie-guvern-zi1121-1990",
+   "path": "metodologie/guvern/1990/11-21",
+   "short": "Metodologie guvern din 21 noiembrie 1990",
+   "title": "Metodologie din 21 noiembrie 1990 privind concesionarea, închirierea și locația gestiunii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110607",
+   "versions": [
+    {
+     "from": "1990-12-12",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110607",
+     "sha256": "85d4e0911e47ad2023a2a0a90e7a5e320fffdfd6070c253248e8c880c4f34865"
+    }
+   ]
+  }
+ ]
+}

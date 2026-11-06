@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-103-2023",
+   "path": "ordin/agricultura/2023/103",
+   "short": "Ordin agricultura nr. 103/2023",
+   "title": "Ordinul nr. 103/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Sava Grup RDN din județul Constanța, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266616",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266616",
+     "sha256": "b1cb933aef214da5157e413811102e865500ba232a0bdf608cb972731f864b53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-105-2023",
    "path": "ordin/agricultura/2023/105",
    "short": "Ordin agricultura nr. 105/2023",
@@ -119,6 +134,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267425",
      "sha256": "b67598e4791cd2f0e94f3b298c7ba763fc492e8f0179aa202a726dc0b84b49a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-129-2023",
+   "path": "ordin/agricultura/2023/129",
+   "short": "Ordin agricultura nr. 129/2023",
+   "title": "Ordinul nr. 129/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Măcin Baltă din județul Tulcea, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267202",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267202",
+     "sha256": "4556125f3516f71a20bad5bbb5b67ee0e8be5d49713e9afa022d7670eef90082"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-132-2023",
+   "path": "ordin/agricultura/2023/132",
+   "short": "Ordin agricultura nr. 132/2023",
+   "title": "Ordinul nr. 132/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Miorița Grup RDN din județul Constanța, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266755",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266755",
+     "sha256": "47f9b560eab2fcde23848853b21195f771e05f0f7c6ac62e288c42e9e1bef681"
     }
    ]
   },
@@ -168,6 +213,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-164-2023",
+   "path": "ordin/agricultura/2023/164",
+   "short": "Ordin agricultura nr. 164/2023",
+   "title": "Ordinul nr. 164/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 30 din județul Teleorman, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270105",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270105",
+     "sha256": "f162de189dbd6c0f746cc631f621f583236fb94b0a24c9bedb218b3fc215caaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-166-2023",
+   "path": "ordin/agricultura/2023/166",
+   "short": "Ordin agricultura nr. 166/2023",
+   "title": "Ordinul nr. 166/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Sistem Miorița din județul Constanța, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270082",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270082",
+     "sha256": "562fc1f467ced0a19c23f362b5091902c05514d989f5c5fdc7736a560bc11762"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-172-2023",
+   "path": "ordin/agricultura/2023/172",
+   "short": "Ordin agricultura nr. 172/2023",
+   "title": "Ordinul nr. 172/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Combra din județul Tulcea, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270017",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270017",
+     "sha256": "806770d94a0858615e2052a4d7169cee4a02fa875476b0904ae65041f6842cbf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-175-2023",
    "path": "ordin/agricultura/2023/175",
    "short": "Ordin agricultura nr. 175/2023",
@@ -194,6 +284,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267595",
      "sha256": "7bd61d1bffdcf48b46bd499161fcdecc78096cebd169e97b18224ef67ac4f98b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-18-2023",
+   "path": "ordin/agricultura/2023/18",
+   "short": "Ordin agricultura nr. 18/2023",
+   "title": "Ordinul nr. 18/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Rovine SPP 78 din județul Ialomița, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264332",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264332",
+     "sha256": "58f21c07447a4fb4ea0450b4e30ebbe1ad5386ce0aab4f22db49443ea72108ff"
     }
    ]
   },
@@ -333,6 +438,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-232-2023",
+   "path": "ordin/agricultura/2023/232",
+   "short": "Ordin agricultura nr. 232/2023",
+   "title": "Ordinul nr. 232/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Dârvari TM20 + TM21 din județul Dolj, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271507",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271507",
+     "sha256": "3e0b3af3388840f8ac2bbc023641af8cbc43952e9f7842cbc675e93a1bfea437"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-243-2023",
    "path": "ordin/agricultura/2023/243",
    "short": "Ordin agricultura nr. 243/2023",
@@ -378,6 +498,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-275-2023",
+   "path": "ordin/agricultura/2023/275",
+   "short": "Ordin agricultura nr. 275/2023",
+   "title": "Ordinul nr. 275/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații D1 Termo Chiscani din județul Brăila, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271938",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271938",
+     "sha256": "c43ace4db1b4c2144a974ce62f6d0a972c35a3fc3bfce979b1649dadfd134032"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-278-2023",
+   "path": "ordin/agricultura/2023/278",
+   "short": "Ordin agricultura nr. 278/2023",
+   "title": "Ordinul nr. 278/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Tufești Țibănești din județul Brăila, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271892",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271892",
+     "sha256": "b7a4dc0ba751c5a1a9752beaf3e866aee62a783b94c645f0e95fa84c492eb176"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-279-2023",
    "path": "ordin/agricultura/2023/279",
    "short": "Ordin agricultura nr. 279/2023",
@@ -419,6 +569,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271968",
      "sha256": "1343c43703baa65d144fb76d221506e82bec70f087763b8c479936870aa7cab2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-297-2023",
+   "path": "ordin/agricultura/2023/297",
+   "short": "Ordin agricultura nr. 297/2023",
+   "title": "Ordinul nr. 297/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Nucet Valea Nucarilor din județul Tulcea, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272163",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272163",
+     "sha256": "685aeebd2af3dabb16c0a7cd201b63841f02d6671f17bfaa8a10292f31a398e8"
     }
    ]
   },
@@ -494,6 +659,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264550",
      "sha256": "dbc34b36843470cc7c2d168cc36763cd7a44c3f3d4cd56f3374dcba75ba8bdb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-337-2023",
+   "path": "ordin/agricultura/2023/337",
+   "short": "Ordin agricultura nr. 337/2023",
+   "title": "Ordinul nr. 337/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 4 Brateșu Vechi din județul Brăila, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273876",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273876",
+     "sha256": "20befa7d268a395e11f5e1d790ba4cda516d69afb52ece739a1b328ff3b877fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-342-2023",
+   "path": "ordin/agricultura/2023/342",
+   "short": "Ordin agricultura nr. 342/2023",
+   "title": "Ordinul nr. 342/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Plot 42A din județul Galați, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273983",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273983",
+     "sha256": "0c949298e0e6985009fda91a11cf501c6866db5515dfd9bb39ee6c808369d64d"
     }
    ]
   },
@@ -603,6 +798,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-361-2023",
+   "path": "ordin/agricultura/2023/361",
+   "short": "Ordin agricultura nr. 361/2023",
+   "title": "Ordinul nr. 361/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 12 BH Zăvoaia din județul Brăila, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274436",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274436",
+     "sha256": "cf776ed91e078477bbaaf780404d1568e918e9e74130ece3673c511cd58598e2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-380-2023",
    "path": "ordin/agricultura/2023/380",
    "short": "Ordin agricultura nr. 380/2023",
@@ -678,6 +888,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-408-2023",
+   "path": "ordin/agricultura/2023/408",
+   "short": "Ordin agricultura nr. 408/2023",
+   "title": "Ordinul nr. 408/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Naipu din județul Giurgiu, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275268",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275268",
+     "sha256": "257541c6ba7564455964965d9099f048a0caa214af2e773de75d76f9095e2788"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-437-2023",
    "path": "ordin/agricultura/2023/437",
    "short": "Ordin agricultura nr. 437/2023",
@@ -689,6 +914,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275515",
      "sha256": "5258ea42b1b3a065ae063d5f4f7c4f1475bedb2263139d36f785ae5b64e7f3f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-44-2023",
+   "path": "ordin/agricultura/2023/44",
+   "short": "Ordin agricultura nr. 44/2023",
+   "title": "Ordinul nr. 44/2023 privind modificarea anexei nr. 1 la anexa Ordinului ministrului agriculturii și dezvoltării rurale nr. 354/2021 pentru nominalizarea și împuternicirea persoanelor cu atribuții în Inspecția clasificare carcase din cadrul direcțiilor pentru agricultură județene în vederea realizării activității de inspecție în Sistemul național de clasificare a carcaselor, pentru stabilirea zonelor de control, cu județele arondate fiecărui inspector zonal, în care aceștia își desfășoară activitatea, precum și pentru aprobarea modului de îndeplinire a atribuțiilor de către inspectorii zonali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264588",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264588",
+     "sha256": "5d44de1f30ddd823984fef2b51274ed2a550b3599c7fd8fff986da1c0c03218a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-445-2023",
+   "path": "ordin/agricultura/2023/445",
+   "short": "Ordin agricultura nr. 445/2023",
+   "title": "Ordinul nr. 445/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPPD 20-11 Traian din județul Brăila, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275935",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275935",
+     "sha256": "f17b39592dda0de35854f0bbfb8f3ba65344e73233f81eba5dcce543ba9e3920"
     }
    ]
   },
@@ -738,6 +993,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-478-2023",
+   "path": "ordin/agricultura/2023/478",
+   "short": "Ordin agricultura nr. 478/2023",
+   "title": "Ordinul nr. 478/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 1 Săpoca din județul Buzău, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276349",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276349",
+     "sha256": "7867b5ebecccd2c2223b384829e89ba41313002c5d9b53f1cf659eb15f77b6b6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-481-2023",
    "path": "ordin/agricultura/2023/481",
    "short": "Ordin agricultura nr. 481/2023",
@@ -764,6 +1034,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276251",
      "sha256": "6fa1c4d478191d45df8a12405ea8c6499239b21b965e755ccb829c33b61498b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-490-2023",
+   "path": "ordin/agricultura/2023/490",
+   "short": "Ordin agricultura nr. 490/2023",
+   "title": "Ordinul nr. 490/2023 privind modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 443/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Gura Padinii 2023 din județul Olt, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276559",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276559",
+     "sha256": "ba59ec0dade4e0a071e4b60bfda99f2c5bb09eff4b608da3568a4243aac4b136"
     }
    ]
   },
@@ -884,6 +1169,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266302",
      "sha256": "dc0c4dfd0bf4cd18b316e3c28941d055bb821d90e2217fe15f51b524324e7680"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-526-2023",
+   "path": "ordin/agricultura/2023/526",
+   "short": "Ordin agricultura nr. 526/2023",
+   "title": "Ordinul nr. 526/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 8 BH Butuc Batogu din județul Brăila, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277535",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277535",
+     "sha256": "1352f275a23512c26a6af132ec551033ca767b51978e116f5f8c5648f6455646"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-527-2023",
+   "path": "ordin/agricultura/2023/527",
+   "short": "Ordin agricultura nr. 527/2023",
+   "title": "Ordinul nr. 527/2023 pentru aprobarea transmiterii unui teren din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații Spanțov din județul Călărași, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277536",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277536",
+     "sha256": "da5e193f7824d7598f787475de78476820ad5bf15403cef1f9697039054eb675"
     }
    ]
   },
@@ -1079,6 +1394,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267302",
      "sha256": "713428344f87c52e1d202b231b33922c3fd1da675b9aa88a544518f4014987b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-66-2023",
+   "path": "ordin/agricultura/2023/66",
+   "short": "Ordin agricultura nr. 66/2023",
+   "title": "Ordinul nr. 66/2023 pentru aprobarea transmiterii unor bunuri din infrastructura secundară de irigații aparținând domeniului privat al statului, aflată în administrarea Agenției Naționale de Îmbunătățiri Funciare și situată pe teritoriul Organizației utilizatorilor de apă pentru irigații SPP 17 Stâlpu din județul Buzău, în proprietatea acestei organizații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267402",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267402",
+     "sha256": "d82d5433db022c441b60128085f723d4b324df1c5d7fead9b609ac9a6066076d"
     }
    ]
   },
@@ -3618,6 +3948,51 @@
    ]
   },
   {
+   "slug": "ordin-anrm-126-2023",
+   "path": "ordin/anrm/2023/126",
+   "short": "Ordin anrm nr. 126/2023",
+   "title": "Ordinul nr. 126/2023 privind aprobarea unei licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265247",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265247",
+     "sha256": "db435a48dd1bd68eb99d064a232ac0986e5e88c4ae2361ea99854b3988869b85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-127-2023",
+   "path": "ordin/anrm/2023/127",
+   "short": "Ordin anrm nr. 127/2023",
+   "title": "Ordinul nr. 127/2023 privind transferul drepturilor dobândite și al obligațiilor asumate stabilite prin Licența de concesiune nr. 2.530/2001 a activității miniere de exploatare a argilei comune în perimetrul Braniștea Vest, județul Galați, aprobată prin Hotărârea Guvernului nr. 290/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265248",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265248",
+     "sha256": "32740d4c6dbca751b06ef9fbc1855c954e7134df0eef8ed20c874cbd995dd040"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-144-2023",
+   "path": "ordin/anrm/2023/144",
+   "short": "Ordin anrm nr. 144/2023",
+   "title": "Ordinul nr. 144/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265533",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265533",
+     "sha256": "8dcd5038ae28773ce711c6f0c0e7a570dc2deabbcffb21a6cb7dacf11cf99c6c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-153-2023",
    "path": "ordin/anrm/2023/153",
    "short": "Ordin anrm nr. 153/2023",
@@ -3633,6 +4008,51 @@
    ]
   },
   {
+   "slug": "ordin-anrm-154-2023",
+   "path": "ordin/anrm/2023/154",
+   "short": "Ordin anrm nr. 154/2023",
+   "title": "Ordinul nr. 154/2023 privind transferul drepturilor dobândite și al obligațiilor asumate stabilite prin Licența de concesiune nr. 3.258/2002 a activității miniere de exploatare a apei geotermale din perimetrul București-Băneasa, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266225",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266225",
+     "sha256": "8bc342c949b5286388dd4e42a38fa7d778f4f14f1ebcf88918bc5499a93fbcf6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-170-2023",
+   "path": "ordin/anrm/2023/170",
+   "short": "Ordin anrm nr. 170/2023",
+   "title": "Ordinul nr. 170/2023 privind transferul drepturilor dobândite și al obligațiilor asumate stabilite prin Licența de concesiune nr. 17.731/2014 a activității miniere de exploatare a huilei din perimetrul Șopot, județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266661",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266661",
+     "sha256": "ee4c42489eb98044b29731fad6752af4383dab239e0e5d7a109d167fec5cbd4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-173-2023",
+   "path": "ordin/anrm/2023/173",
+   "short": "Ordin anrm nr. 173/2023",
+   "title": "Ordinul nr. 173/2023 privind aprobarea unei licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266662",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266662",
+     "sha256": "772aa69dd7666f6f1b87ab70cc9427455c2c3d2c90b4cb43de67818c8c1ad449"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-187-2023",
    "path": "ordin/anrm/2023/187",
    "short": "Ordin anrm nr. 187/2023",
@@ -3644,6 +4064,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267588",
      "sha256": "4f15975f56b85d4e501624d3543311fb16a88a83f2fc4590048f97958b8d6f9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-193-2023",
+   "path": "ordin/anrm/2023/193",
+   "short": "Ordin anrm nr. 193/2023",
+   "title": "Ordinul nr. 193/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270003",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270003",
+     "sha256": "cb4a14845a5eb4ff25fdbd425b200d46afd97faf752f2fa565dec0b953574e54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-198-2023",
+   "path": "ordin/anrm/2023/198",
+   "short": "Ordin anrm nr. 198/2023",
+   "title": "Ordinul nr. 198/2023 privind aprobarea transferului drepturilor dobândite și al obligațiilor asumate stabilite prin Licența de concesiune pentru exploatare nr. 19.579/2016 privind exploatarea resurselor de gips din perimetrul Bertea, județul Prahova, aprobată prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 183/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270139",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270139",
+     "sha256": "0bd1ffa6818119d7319c3039e87dfdd10a1d7c43cfa8164f58ff658e62d069dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-2-2023",
+   "path": "ordin/anrm/2023/2",
+   "short": "Ordin anrm nr. 2/2023",
+   "title": "Ordinul nr. 2/2023 privind transferul drepturilor dobândite și al obligațiilor asumate stabilite prin Licența de concesiune nr. 4.077/2003 a activității miniere de exploatare a nisipului și pietrișului din perimetrul Santău-Valea Trandafirilor, județul Bihor, aprobată prin Hotărârea Guvernului nr. 2.182/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264546",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264546",
+     "sha256": "3e23f4f8b7860ac732ac8d8c2bd21c35f6508a40aeb22e3df3336cf66ae75cfa"
     }
    ]
   },
@@ -3678,6 +4143,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-215-2023",
+   "path": "ordin/anrm/2023/215",
+   "short": "Ordin anrm nr. 215/2023",
+   "title": "Ordinul nr. 215/2023 privind aprobarea unei licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270993",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270993",
+     "sha256": "2a75d1cdbccb1fb3e046c105b4992e6a823c458ecc1331bf8fdc063a459911f2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-223-2023",
    "path": "ordin/anrm/2023/223",
    "short": "Ordin anrm nr. 223/2023",
@@ -3689,6 +4169,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271350",
      "sha256": "1c19bf7b71f81e284f128ebe1a32bb310a93cbe7902090c3c042ba5ecc6a8b4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-264-2023",
+   "path": "ordin/anrm/2023/264",
+   "short": "Ordin anrm nr. 264/2023",
+   "title": "Ordinul nr. 264/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273850",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273850",
+     "sha256": "ea99347f83dec99d3238ef4b1ffc6ed5a63a0279b9a143f53b5c6f4575e0abf4"
     }
    ]
   },
@@ -3723,6 +4218,51 @@
    ]
   },
   {
+   "slug": "ordin-anrm-272-2023",
+   "path": "ordin/anrm/2023/272",
+   "short": "Ordin anrm nr. 272/2023",
+   "title": "Ordinul nr. 272/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274387",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274387",
+     "sha256": "7d226fb6975a076322928653204090717ce2259a9049338b953e1a0576b2b0c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-295-2023",
+   "path": "ordin/anrm/2023/295",
+   "short": "Ordin anrm nr. 295/2023",
+   "title": "Ordinul nr. 295/2023 privind aprobarea unei licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275226",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275226",
+     "sha256": "fe82ec9bc7b86e39ee4f37c5b57f0f67aef956bcac12a6b278da106a182aeb1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-297-2023",
+   "path": "ordin/anrm/2023/297",
+   "short": "Ordin anrm nr. 297/2023",
+   "title": "Ordinul nr. 297/2023 privind aprobarea unei licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275637",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275637",
+     "sha256": "6a0862d8603a7889b58073e9f39118735edbef9b20293e01b69b808751f8a848"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-302-2023",
    "path": "ordin/anrm/2023/302",
    "short": "Ordin anrm nr. 302/2023",
@@ -3734,6 +4274,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276126",
      "sha256": "afa01edf5b6af63e3c4f73478dc328a4705c107e12ce34de1239254c2fcacad6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-305-2023",
+   "path": "ordin/anrm/2023/305",
+   "short": "Ordin anrm nr. 305/2023",
+   "title": "Ordinul nr. 305/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275762",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275762",
+     "sha256": "56ceff3376f6fb66fa682f484003581778231c2e3ba4752f11dad0089a882739"
     }
    ]
   },
@@ -3768,6 +4323,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-326-2023",
+   "path": "ordin/anrm/2023/326",
+   "short": "Ordin anrm nr. 326/2023",
+   "title": "Ordinul nr. 326/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276572",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276572",
+     "sha256": "b32b43a28349f197fa28f2a34da106fbb91ab4e309887ad5d31284a893173a7f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-327-2023",
    "path": "ordin/anrm/2023/327",
    "short": "Ordin anrm nr. 327/2023",
@@ -3779,6 +4349,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276573",
      "sha256": "fdd7c4978d984c41c305b771cef9a1d140aae087d343a4f23d0ee52accd651ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-328-2023",
+   "path": "ordin/anrm/2023/328",
+   "short": "Ordin anrm nr. 328/2023",
+   "title": "Ordinul nr. 328/2023 privind transferul drepturilor dobândite și al obligațiilor asumate stabilite prin licențele de concesiune nr. 1.571/2000, nr. 1.573/2000, nr. 1.575/2000 și nr. 1.577/2000 a activității miniere de exploatare a huilei din perimetrele Lonea, Livezeni, Vulcan și Lupeni Nord, județul Hunedoara, aprobate prin Hotărârea Guvernului nr. 318/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276629",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276629",
+     "sha256": "89443a7fd25f1d9eafb2c082c2819357228c28edb251137fe8a9fbe4551597b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-329-2023",
+   "path": "ordin/anrm/2023/329",
+   "short": "Ordin anrm nr. 329/2023",
+   "title": "Ordinul nr. 329/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276606",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276606",
+     "sha256": "774b706725316d660854bf5d707b79324eae4f94e9743793aef8f4b6ced9692c"
     }
    ]
   },
@@ -3813,6 +4413,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-341-2023",
+   "path": "ordin/anrm/2023/341",
+   "short": "Ordin anrm nr. 341/2023",
+   "title": "Ordinul nr. 341/2023 privind aprobarea unei licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277935",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277935",
+     "sha256": "1eaaef03418920f04e00740b7ac3e261a3839852d08fd839e3573c2cfb715fe5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-343-2023",
    "path": "ordin/anrm/2023/343",
    "short": "Ordin anrm nr. 343/2023",
@@ -3824,6 +4439,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277599",
      "sha256": "d42df10c624712b141a43dc053805f17335d3aa5a5f244a289658ba5c757ea09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-355-2023",
+   "path": "ordin/anrm/2023/355",
+   "short": "Ordin anrm nr. 355/2023",
+   "title": "Ordinul nr. 355/2023 privind aprobarea unor licențe de concesiune pentru exploatare și a unor licențe de dare în administrare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277892",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277892",
+     "sha256": "51feaed45ddb66053b256f137fd9f2d5804127acf039255827e186f3fca1d3b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-4-2023",
+   "path": "ordin/anrm/2023/4",
+   "short": "Ordin anrm nr. 4/2023",
+   "title": "Ordinul nr. 4/2023 privind aprobarea unor licențe de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264397",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264397",
+     "sha256": "8ba9d87e6300b5806aa86419a92da19b6a4228277f51fadedde15939fde0761c"
     }
    ]
   },
@@ -6213,6 +6858,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-20563-2023",
+   "path": "ordin/comunicatii/2023/20563",
+   "short": "Ordin comunicatii nr. 20563/2023",
+   "title": "Ordinul nr. 20.563/2023 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2023 ale institutelor naționale de cercetare-dezvoltare care funcționează în coordonarea Ministerului Cercetării, Inovării și Digitalizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271545",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271545",
+     "sha256": "52a483c94522964e75f0b0dad7d3ecf69a761f87707d99a58201c2a38504a10a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-20593-2023",
+   "path": "ordin/comunicatii/2023/20593",
+   "short": "Ordin comunicatii nr. 20593/2023",
+   "title": "Ordinul nr. 20.593/2023 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2023 ale institutelor naționale de cercetare-dezvoltare care funcționează în coordonarea Ministerului Cercetării, Inovării și Digitalizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271543",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271543",
+     "sha256": "990b0f7376b018b8d95463a6b88262780066634c68a368aa71ed25a50f105f86"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-20608-2023",
    "path": "ordin/comunicatii/2023/20608",
    "short": "Ordin comunicatii nr. 20608/2023",
@@ -6348,6 +7023,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-21166-2023",
+   "path": "ordin/comunicatii/2023/21166",
+   "short": "Ordin comunicatii nr. 21166/2023",
+   "title": "Ordinul nr. 21.166/2023 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2023 pentru Institutul Național de Cercetare-Dezvoltare în Domeniul Geologiei, Geofizicii, Geochimiei și Teledetecției - IGR București și pentru Institutul Național de Cercetare-Dezvoltare în Sudură și Încercări de Materiale - ISIM Timișoara, care funcționează în coordonarea Ministerului Cercetării, Inovării și Digitalizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276061",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276061",
+     "sha256": "a6dce7f9bb2ef0a74c1e32175db551484328ee79092713533d18ce072fec8e2d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-21207-2023",
    "path": "ordin/comunicatii/2023/21207",
    "short": "Ordin comunicatii nr. 21207/2023",
@@ -6468,6 +7158,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-21392-2023",
+   "path": "ordin/comunicatii/2023/21392",
+   "short": "Ordin comunicatii nr. 21392/2023",
+   "title": "Ordinul nr. 21.392/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 pentru Institutul Național de Cercetare-Dezvoltare pentru Protecția Mediului - INCDPM București, care funcționează în coordonarea Ministerului Cercetării, Inovării și Digitalizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277692",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277692",
+     "sha256": "de385dcb8fd671247e951cd00bab3cf1bbd9f83b82a901c5f6cf2f79970b6654"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-21555-2023",
    "path": "ordin/comunicatii/2023/21555",
    "short": "Ordin comunicatii nr. 21555/2023",
@@ -6494,6 +7199,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277424",
      "sha256": "39e3dc5dfc33bd3a67ba8e5660c9a9a218a69f1221ab063040163fc10600a3f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-21605-2023",
+   "path": "ordin/comunicatii/2023/21605",
+   "short": "Ordin comunicatii nr. 21605/2023",
+   "title": "Ordinul nr. 21.605/2023 privind aprobarea bugetelor de venituri și cheltuieli rectificate pe anul 2023 ale institutelor naționale de cercetare-dezvoltare care funcționează în coordonarea Ministerului Cercetării, Inovării și Digitalizării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278176",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250512145353id_/https://legislatie.just.ro/Public/DetaliiDocument/278176",
+     "sha256": "ccbfd4be0c0c5505a21d56b4e06def7f01637d7ca30e7e0928bc610b06119040"
     }
    ]
   },
@@ -6618,6 +7338,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2506-2023",
+   "path": "ordin/cultura/2023/2506",
+   "short": "Ordin cultura nr. 2506/2023",
+   "title": "Ordinul nr. 2.506/2023 privind clasarea în cadrul ansamblului Castelului Károlyi a cinci componente în Lista monumentelor istorice în categoria m - monument, II - arhitectură, toate în grupa B: Grajdul și manejul, Anexa sudică - corpul vestic (L1), Anexa sudică - corpul estic (L2), Turnul de apă, Casa porții sudice, situate în orașul Carei, județul Satu Mare, modificarea codului monumentului istoric Parc dendrologic, componentă din cadrul Ansamblului castelului Károlyi, și identificarea construcțiilor din cadrul acestuia care beneficiază de regimul juridic de monument istoric, precum și actualizarea adreselor poștale ale ansamblului Castelului Károlyi și ale componentelor acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264672",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264672",
+     "sha256": "e9f0f83c19841cfd98e123582de026e6109aaaeb70ac28acaf71ff5148ac400c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2515-2023",
    "path": "ordin/cultura/2023/2515",
    "short": "Ordin cultura nr. 2515/2023",
@@ -6629,6 +7364,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264049",
      "sha256": "18fe8c74f0725fd67de7a8568611adcfd41311d9568e221058c5265a9bc0ec18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2564-2023",
+   "path": "ordin/cultura/2023/2564",
+   "short": "Ordin cultura nr. 2564/2023",
+   "title": "Ordinul nr. 2.564/2023 privind clasarea în Lista monumentelor istorice a Ansamblului Bisericii Adormirea Maicii Domnului Pitar Moșu, cu patru subcomponente, în categoria monument: Biserica Adormirea Maicii Domnului Pitar Moșu, Casa parohială, Crucea de piatră, Împrejmuirile la str. Pitar Moș și la str. Dionisie Lupu, toate situate la adresa poștală str. Dionisie Lupu nr. 45, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264756",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264756",
+     "sha256": "55b15f051b89bdd43410e8f83cde822ea69cf80ca964add745d169e91cef3612"
     }
    ]
   },
@@ -6708,6 +7458,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2707-2023",
+   "path": "ordin/cultura/2023/2707",
+   "short": "Ordin cultura nr. 2707/2023",
+   "title": "Ordinul nr. 2.707/2023 pentru acreditarea Muzeului de Arheologie \"Callatis\" din municipiul Mangalia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266380",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266380",
+     "sha256": "0c529b6f190fad5f22e09e3253b3c3f9d771d330633467f83e5bd43ced85e020"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2708-2023",
+   "path": "ordin/cultura/2023/2708",
+   "short": "Ordin cultura nr. 2708/2023",
+   "title": "Ordinul nr. 2.708/2023 pentru acreditarea Muzeului Banatului Montan din municipiul Reșița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266381",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266381",
+     "sha256": "fde17c09bfe13e120d1f28218a9fedb42d015d8e2f29f52d28cb103730eea24e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2718-2023",
    "path": "ordin/cultura/2023/2718",
    "short": "Ordin cultura nr. 2718/2023",
@@ -6753,6 +7533,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2783-2023",
+   "path": "ordin/cultura/2023/2783",
+   "short": "Ordin cultura nr. 2783/2023",
+   "title": "Ordinul nr. 2.783/2023 pentru reacreditarea Muzeului Județean de Științele Naturii Prahova din Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266636",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266636",
+     "sha256": "984b193de2bd1e513d3f5253c04b32aa23ba60c333b9e6f9170eb079fe5097ad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2858-2023",
    "path": "ordin/cultura/2023/2858",
    "short": "Ordin cultura nr. 2858/2023",
@@ -6764,6 +7559,21 @@
      "units": 41,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267535",
      "sha256": "48093d0e3b98888bd30e8f2560c2040f29eca87e672bddea19b23f3ca2045f9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2887-2023",
+   "path": "ordin/cultura/2023/2887",
+   "short": "Ordin cultura nr. 2887/2023",
+   "title": "Ordinul nr. 2.887/2023 privind clasarea imobilului Cinematograful \"Bulevard\" (corp C1), Bd. Republicii nr. 35, municipiul Bistrița, județul Bistrița-Năsăud, cu codul LMI BN-II-m-B-21205",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275055",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260303070110id_/https://legislatie.just.ro/Public/DetaliiDocument/275055",
+     "sha256": "f0ba61a0d2fe92afc81e814add4d3a9ca2ffc8889a5ee6d5603f192e86b572f4"
     }
    ]
   },
@@ -6828,6 +7638,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3087-2023",
+   "path": "ordin/cultura/2023/3087",
+   "short": "Ordin cultura nr. 3087/2023",
+   "title": "Ordinul nr. 3.087/2023 privind declasarea parțială a monumentului istoric clasat în Lista monumentelor istorice cu denumirea Casa \"cu geamuri bombate\", situat în str. Calomfirescu Radu nr. 15, sectorul 3, București, având cod LMI B-II-m-B-18286, respectiv declasarea corpului identificat cu numărul cadastral 224657-C3 - garaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274754",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274754",
+     "sha256": "73513d469362c9b73da64435e81f155860374b9f8969e3190179febf01e5f7fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3089-2023",
+   "path": "ordin/cultura/2023/3089",
+   "short": "Ordin cultura nr. 3089/2023",
+   "title": "Ordinul nr. 3.089/2023 privind declasarea parțială din Lista monumentelor istorice a monumentului istoric - Situl arheologic subacvatic cod LMI CT-I-s-A-02561, pentru terenul subacvatic care va fi afectat de lucrările proiectului \"Neptun Deep - Infrastructura Domino și Pelican Sud\", amplasat în Platforma continentală a Mării Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279605",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279605",
+     "sha256": "19396348419ce0c4955348f592824a42d52ecea072ba653cf2adb0f79015504e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3094-2023",
    "path": "ordin/cultura/2023/3094",
    "short": "Ordin cultura nr. 3094/2023",
@@ -6839,6 +7679,81 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271445",
      "sha256": "9d85694fcaadd7b0871f29574a111007459fd14e68a53e0f5916c9b5903281b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3108-2023",
+   "path": "ordin/cultura/2023/3108",
+   "short": "Ordin cultura nr. 3108/2023",
+   "title": "Ordinul nr. 3.108/2023 privind declasarea parțială a corpurilor C2, C3, C4, C6, C7 ale monumentului istoric având codul LMI DB-II-m-A-17249 cu denumirea Casa Nicolae Brătescu, Calea Domnească nr. 210, municipiul Târgoviște, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274051",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274051",
+     "sha256": "49e1477ee1393c8f4ca519db74e2ada313a5c5f410050d16fa4b801fae1ec627"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3109-2023",
+   "path": "ordin/cultura/2023/3109",
+   "short": "Ordin cultura nr. 3109/2023",
+   "title": "Ordinul nr. 3.109/2023 privind clasarea Casei Friedmann, situată la adresa poștală Str. Libertății nr. 44, municipiul Oradea, județul Bihor, în Lista monumentelor istorice, în categoria m - monument, II - arhitectură, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295252",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295252",
+     "sha256": "a310d1738d455c9e1caa8acd1fbceb1bb96c3c1c49d0fd3b905a1bb7c02ade83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3110-2023",
+   "path": "ordin/cultura/2023/3110",
+   "short": "Ordin cultura nr. 3110/2023",
+   "title": "Ordinul nr. 3.110/2023 privind clasarea Casei Markovits-Matheser, situată la adresa poștală str. Aurel Lazăr nr. 19-21, municipiul Oradea, județul Bihor, în Lista monumentelor istorice, în categoria m - monument, II - arhitectură, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295253",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295253",
+     "sha256": "264c511659812d41369fa46b315aacd26c910c5f7ce678890f39839e105ab6c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3124-2023",
+   "path": "ordin/cultura/2023/3124",
+   "short": "Ordin cultura nr. 3124/2023",
+   "title": "Ordinul nr. 3.124/2023 pentru reacreditarea Colecției publice de obiecte și fond documentar din cadrul Centrului de Documentare și Informare Gaze Naturale Mediaș/Societatea Națională de Gaze Naturale \"ROMGAZ\" - S.A. Mediaș, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271823",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271823",
+     "sha256": "69fa79d0c47bb7a04157dc8c754706256979676defa1543ba10f90ae411353e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3125-2023",
+   "path": "ordin/cultura/2023/3125",
+   "short": "Ordin cultura nr. 3125/2023",
+   "title": "Ordinul nr. 3.125/2023 pentru acreditarea Muzeului Universității Politehnica din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271824",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271824",
+     "sha256": "ea5c82d3a8cea03669da62e9d5305b7bbb15cf537b9b5dccad8c046238978791"
     }
    ]
   },
@@ -6873,6 +7788,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3158-2023",
+   "path": "ordin/cultura/2023/3158",
+   "short": "Ordin cultura nr. 3158/2023",
+   "title": "Ordinul nr. 3.158/2023 privind clasarea mai multor corpuri în cadrul ansamblului cod LMI B-II-a-A-18157, denumire Mănăstirea Mărcuța, situată în strada Biserica Mărcuța nr. 8, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274942",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274942",
+     "sha256": "c3c197d6240db658706a74b09101167c0980f96c9c9116c8e3df1074c83d5dbe"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3195-2023",
    "path": "ordin/cultura/2023/3195",
    "short": "Ordin cultura nr. 3195/2023",
@@ -6884,6 +7814,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273591",
      "sha256": "915b516c8dfd02d9e5be3ffb83483586b46ef34be2575079a8ea03e9e2c7fe68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3347-2023",
+   "path": "ordin/cultura/2023/3347",
+   "short": "Ordin cultura nr. 3347/2023",
+   "title": "Ordinul nr. 3.347/2023 pentru acreditarea Muzeului Mitropolitan Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274623",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250721234306id_/https://legislatie.just.ro/Public/DetaliiDocument/274623",
+     "sha256": "2b91de598f9ed274611479c29ec8d906488ab7ee8a5b23dfd828cf801fb323b5"
     }
    ]
   },
@@ -6914,6 +7859,96 @@
      "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275100",
      "sha256": "a8fab3dc705e69ef734b1df4d899f6cba477041a67d23c7c18c07b337afa9523"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3426-2023",
+   "path": "ordin/cultura/2023/3426",
+   "short": "Ordin cultura nr. 3426/2023",
+   "title": "Ordinul nr. 3.426/2023 privind declasarea parțială a monumentului istoric având codul LMI VN-II-m-B-06416, cu denumirea Casa Macridescu, amplasat în str. Cuza Vodă nr. 6, municipiul Focșani, județul Vrancea, pentru corpurile C6 și C5B(2), și păstrarea regimului de protecție pentru corpul C5A(1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277720",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277720",
+     "sha256": "a405213a8fc60c35292bb65f0874539416885b346c9cce56c40e784b4aa57d0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3430-2023",
+   "path": "ordin/cultura/2023/3430",
+   "short": "Ordin cultura nr. 3430/2023",
+   "title": "Ordinul nr. 3.430/2023 privind clasarea imobilului situat în str. Georges Clemenceau nr. 7, sectorul 1, municipiul București, în Lista monumentelor istorice, în categoria m - monumente, II - arhitectură, grupa valorică B, cu denumirea Casa arhitectului Paul Gottereau",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275838",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275838",
+     "sha256": "9ccfac530d96b4d61660ea92cde9821512679edee83550ebafe2fc1d65b1be4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3485-2023",
+   "path": "ordin/cultura/2023/3485",
+   "short": "Ordin cultura nr. 3485/2023",
+   "title": "Ordinul nr. 3.485/2023 pentru reacreditarea Muzeului Național Brukenthal din Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275850",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275850",
+     "sha256": "5a4b09871489a51a04d7938b08068973bb6e47c9c507e66a7fec4ddf419a68cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3500-2023",
+   "path": "ordin/cultura/2023/3500",
+   "short": "Ordin cultura nr. 3500/2023",
+   "title": "Ordinul nr. 3.500/2023 privind schimbarea categoriei de clasare din m - monument în a - ansamblu, pentru imobilul monument istoric Biserica \"Buna Vestire\", cu schimbarea denumirii din Biserica \"Buna Vestire\" în Ansamblul fostei Mănăstiri Banu, și clasarea în Lista monumentelor istorice a monumentelor: Ansamblul fostei Mănăstiri Banu \"Buna Vestire\", Biserica \"Buna Vestire\" a fostei Mănăstiri Banu, Fragment din împrejmuirea de zidărie a fostei Mănăstiri Banu pe latura de nord a bisericii, Împrejmuire din gard metalic pe soclu de piatră pe latura de vest și sud a bisericii, Monument funerar dedicat lui Kostache Kanella, amplasate în Str. Bistriței nr. 53, municipiul Buzău, județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278848",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278848",
+     "sha256": "9bcf9ae7f82065f8e6de6469de87d99944e8154ea47bf44df319e4599edfc7f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3501-2023",
+   "path": "ordin/cultura/2023/3501",
+   "short": "Ordin cultura nr. 3501/2023",
+   "title": "Ordinul nr. 3.501/2023 privind clasarea imobilului Corp C1 și a terenului aferent sub denumirea Casa Ligia și Pompiliu Macovei, situate la adresa poștală Str. 11 Iunie nr. 36-38, sectorul 4, București, în Lista monumentelor istorice, în categoria m - monument, II - arhitectură, grupa B",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277936",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277936",
+     "sha256": "ace6a8d22e0857b22cecaf9ec2023318154008a71bde7aad5267e66678c3ccde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3505-2023",
+   "path": "ordin/cultura/2023/3505",
+   "short": "Ordin cultura nr. 3505/2023",
+   "title": "Ordinul nr. 3.505/2023 privind clasarea imobilului aflat la adresa poștală Str. Principală nr. 43, satul Cornățel, comuna Roșia, județul Sibiu, în Lista monumentelor istorice, în categoria m - monumente, II - arhitectură, grupa valorică A, cu denumirea Biserica cu hramul \"Intrarea în biserică a Maicii Domnului\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281904",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281904",
+     "sha256": "7422f4b4173bf9733fedde76b2e96e1d94b7bf65970bd1aff3fbbf8585e3841b"
     }
    ]
   },
@@ -6978,6 +8013,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3557-2023",
+   "path": "ordin/cultura/2023/3557",
+   "short": "Ordin cultura nr. 3557/2023",
+   "title": "Ordinul nr. 3.557/2023 privind schimbarea de grupă valorică, din B în A, și a categoriei după natura obiectivului, din II în IV, a monumentului istoric Biserica \"Sfinții Arhangheli\", Str. Bisericii nr. 1, satul Horea, comuna Horea, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277381",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277381",
+     "sha256": "523064968ce1758158ab242c8f0cad84a3b017ebace9bba0b66a34741d2a19e4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3570-2023",
    "path": "ordin/cultura/2023/3570",
    "short": "Ordin cultura nr. 3570/2023",
@@ -6989,6 +8039,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276455",
      "sha256": "b0764d4eb0076db55d8d7003ac577cbc6f6e4b20c09dad4d85393c180f95528a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3587-2023",
+   "path": "ordin/cultura/2023/3587",
+   "short": "Ordin cultura nr. 3587/2023",
+   "title": "Ordinul nr. 3.587/2023 privind declasarea parțială din Lista monumentelor istorice a monumentului istoric clasat cu denumirea Fostul garaj regal, situat la adresa poștală Bd. Aviatorilor nr. 16, sectorul 1, București, având codul LMI B-II-m-B-18036, respectiv declasarea corpurilor C3, C4, C6, C7",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276954",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276954",
+     "sha256": "3c5c111116b9c227637d5a016a41e3bc755f41b762ca997bc88646baeb8d5b42"
     }
    ]
   },
@@ -7049,6 +8114,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277758",
      "sha256": "03e1ec99172f2b947b4696b4ee22a6c6e97532fe23296f867664bf07ed42c7ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3683-2023",
+   "path": "ordin/cultura/2023/3683",
+   "short": "Ordin cultura nr. 3683/2023",
+   "title": "Ordinul nr. 3.683/2023 privind clasarea imobilului Cișmeaua lui Mirza Beq de la Mireasa (Gelengiq), satul Mireasa, comuna Târgușor, județul Constanța, în Lista monumentelor istorice, în categoria m - monument, II - arhitectură, A - monument de importanță națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298119",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298119",
+     "sha256": "f80ec7739eaf23a6a10f76be082bd7f513548065e9f57cec223867bcdf0bcf2b"
     }
    ]
   },
@@ -9588,6 +10668,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3796-2023",
+   "path": "ordin/educatie/2023/3796",
+   "short": "Ordin educatie nr. 3796/2023",
+   "title": "Ordinul nr. 3.796/2023 pentru modificarea art. 1 din Ordinul ministrului educației nr. 5.585/2021 privind componența Consiliului de etică și management universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266272",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266272",
+     "sha256": "f5450d9b290b49c928072faa44ac01a61f705872c14a8510e0873dd516da7afb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3797-2023",
    "path": "ordin/educatie/2023/3797",
    "short": "Ordin educatie nr. 3797/2023",
@@ -9888,6 +10983,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3940-2023",
+   "path": "ordin/educatie/2023/3940",
+   "short": "Ordin educatie nr. 3940/2023",
+   "title": "Ordinul nr. 3.940/2023 pentru modificarea art. 1 din Ordinul ministrului educației nr. 3.789/2023 privind aprobarea numărului total al lunilor de bursă, tipurilor de burse, duratei stagiului unei burse, domeniilor de interes ale României pentru care se acordă bursele și a cuantumului burselor lunare în valută, pe țări, în anul 2023, pentru bursele instituite prin Hotărârea Guvernului nr. 118/2023 privind acordarea burselor în străinătate pentru stagii de studii universitare de masterat și de doctorat, pentru stagii postdoctorale și de cercetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267207",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267207",
+     "sha256": "0e64affae68727d96977ca69517901ce2852a3e39eea32f170989e0920bd7fe9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3941-2023",
    "path": "ordin/educatie/2023/3941",
    "short": "Ordin educatie nr. 3941/2023",
@@ -10068,6 +11178,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4101-2023",
+   "path": "ordin/educatie/2023/4101",
+   "short": "Ordin educatie nr. 4101/2023",
+   "title": "Ordinul nr. 4.101/2023 pentru modificarea Ordinului ministrului educației nr. 4.890/2022 privind schimbarea sediului unității de învățământ preuniversitar particular Școala Postliceală \"FEG\" din municipiul Brașov, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270790",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270790",
+     "sha256": "6647f42a03b03f1987725113d70026bc6377f54ad29d01b98ae99b99fa772402"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4107-2023",
+   "path": "ordin/educatie/2023/4107",
+   "short": "Ordin educatie nr. 4107/2023",
+   "title": "Ordinul nr. 4.107/2023 pentru modificarea Ordinului ministrului educației nr. 5.952/2021 privind menținerea acreditării Academiei Tehnice Militare \"Ferdinand I\" din București în vederea organizării programelor de studii universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270554",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270554",
+     "sha256": "05cd7bc1aab32cbac7bef6b6f1694206b7ddb24ead669adda4b0552c4084c5be"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4111-2023",
    "path": "ordin/educatie/2023/4111",
    "short": "Ordin educatie nr. 4111/2023",
@@ -10169,6 +11309,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271238",
      "sha256": "801041da5b9393af5d2d4814d4de325f40d323db74f805ad08b95e3845e2acb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4149-2023",
+   "path": "ordin/educatie/2023/4149",
+   "short": "Ordin educatie nr. 4149/2023",
+   "title": "Ordinul nr. 4.149/2023 pentru modificarea Ordinului ministrului educației nr. 5.948/2021 privind menținerea acreditării Universității \"Babeș-Bolyai\" din Cluj-Napoca în vederea organizării programelor de studii universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271239",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271239",
+     "sha256": "6959483d906d1ef5a9c78bae8ca6f7c76313ea292b450ed2cb23f4b0e0a4429f"
     }
    ]
   },
@@ -11133,6 +12288,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4922-2023",
+   "path": "ordin/educatie/2023/4922",
+   "short": "Ordin educatie nr. 4922/2023",
+   "title": "Ordinul nr. 4.922/2023 pentru completarea Ordinului ministrului educației naționale nr. 4.275/2019 privind aprobarea componenței Consiliului Național pentru Finanțarea Învățământului Superior în mandatul 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272139",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406144153id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/272139",
+     "sha256": "a9d0ec97de32ae28dd698a323e7a020bae5882c78d0b606dea66d1b3a4cf88af"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4924-2023",
    "path": "ordin/educatie/2023/4924",
    "short": "Ordin educatie nr. 4924/2023",
@@ -11219,6 +12389,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271878",
      "sha256": "add76958901eaf3be012d3a4288ef9c221bd70888ee8b52b983b4686db482354"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4967-2023",
+   "path": "ordin/educatie/2023/4967",
+   "short": "Ordin educatie nr. 4967/2023",
+   "title": "Ordinul nr. 4.967/2023 pentru modificarea Ordinului ministrului educației nr. 5.067/2022 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Tehnologic UCECOM \"Spiru Haret\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272418",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272418",
+     "sha256": "daa379126a5a99c66f1ddca35eedec934d37389ee530a026245245ba2d044ff1"
     }
    ]
   },
@@ -11583,6 +12768,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5062-2023",
+   "path": "ordin/educatie/2023/5062",
+   "short": "Ordin educatie nr. 5062/2023",
+   "title": "Ordinul nr. 5.062/2023 pentru modificarea Ordinului ministrului educației nr. 4.955/2022 privind acordarea autorizației de funcționare provizorie pentru unitatea de învățământ preuniversitar particular Școala Primară \"FRAM\" din municipiul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274715",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274715",
+     "sha256": "cfaff30a35a2b89a0f260fe1ffbd9eea2c7f82384851e442bd54f976e9e9f00f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5063-2023",
    "path": "ordin/educatie/2023/5063",
    "short": "Ordin educatie nr. 5063/2023",
@@ -11639,6 +12839,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274278",
      "sha256": "456903d1725865e00dbc69f5c338bad7abd9dfd568bdfe4a3ff1ed7835b29b08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5073-2023",
+   "path": "ordin/educatie/2023/5073",
+   "short": "Ordin educatie nr. 5073/2023",
+   "title": "Ordinul nr. 5.073/2023 pentru modificarea Ordinului ministrului educației nr. 5.835/2021 privind menținerea acreditării Universității din Craiova în vederea organizării programelor de studii universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273489",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273489",
+     "sha256": "194aa6a411d0b102f1fed666b33aa6c89256d1d6acfbc4118e55b79e6eac7fca"
     }
    ]
   },
@@ -11973,6 +13188,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5181-2023",
+   "path": "ordin/educatie/2023/5181",
+   "short": "Ordin educatie nr. 5181/2023",
+   "title": "Ordinul nr. 5.181/2023 privind modificarea și completarea Ordinului ministrului educației nr. 4.966/2023 pentru aprobarea Listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare și stabilirea venitului maxim brut lunar pe membru de familie pentru care se acordă ajutorul financiar, pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273531",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273531",
+     "sha256": "84bd3f133ffefaa9a64e7366bd2e98017421cfb55144b725211761d8eb8d872b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5224-2023",
    "path": "ordin/educatie/2023/5224",
    "short": "Ordin educatie nr. 5224/2023",
@@ -12198,6 +13428,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5397-2023",
+   "path": "ordin/educatie/2023/5397",
+   "short": "Ordin educatie nr. 5397/2023",
+   "title": "Ordinul nr. 5.397/2023 pentru modificarea art. 1 din Ordinul ministrului educației naționale nr. 4.636/2017 privind acordarea autorizării de funcționare provizorie S.C. Bright Bees Montessori - S.R.L. din orașul Voluntari pentru unitatea de învățământ preuniversitar particular Grădinița \"Harmony Tree Montessori Education\" din orașul Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274425",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274425",
+     "sha256": "8c27563c15ecc0928169a98ec06bf62ac3c0deb87eb29a380ce325f821ac3949"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5407-2023",
    "path": "ordin/educatie/2023/5407",
    "short": "Ordin educatie nr. 5407/2023",
@@ -12404,6 +13649,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274427",
      "sha256": "8fe811ae077e790c96be9efd1f47dd3b17cdfa421f96b70d8a78a50d8281c62b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5534-2023",
+   "path": "ordin/educatie/2023/5534",
+   "short": "Ordin educatie nr. 5534/2023",
+   "title": "Ordinul nr. 5.534/2023 privind modificarea Ordinului ministrului educației nr. 5.194/2022 pentru extinderea activității de învățământ a unității de învățământ preuniversitar de stat Liceul Teoretic \"Onisifor Ghibu\" din municipiul Cluj-Napoca, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274492",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274492",
+     "sha256": "4ce3f25450128b81ec09ab33e014ebaabdc07a2e53e3bdebe785507ddfa53506"
     }
    ]
   },
@@ -12794,6 +14054,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274493",
      "sha256": "d7f7a80e886f77b4862c9b109b5042d00cc11aeb729462ac47187fcf54bcbae6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5689-2023",
+   "path": "ordin/educatie/2023/5689",
+   "short": "Ordin educatie nr. 5689/2023",
+   "title": "Ordinul nr. 5.689/2023 pentru completarea art. 2 din Ordinul ministrului educației nr. 5.990/2021 privind menținerea acreditării Universității din București în vederea organizării programelor de studii universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274252",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274252",
+     "sha256": "75c5bdd26695a806d060bbff1619cd21ab184eeb449752dd117ef4ce423ada9b"
     }
    ]
   },
@@ -15513,6 +16788,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6213-2023",
+   "path": "ordin/educatie/2023/6213",
+   "short": "Ordin educatie nr. 6213/2023",
+   "title": "Ordinul nr. 6.213/2023 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 4.676/2020 privind componența nominală a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare pentru mandatul 2020-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274648",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274648",
+     "sha256": "2c32d15675145f88ea0ec9dcb70f2dcff96df07645aa343e935683d893659073"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6223-2023",
    "path": "ordin/educatie/2023/6223",
    "short": "Ordin educatie nr. 6223/2023",
@@ -16319,6 +17609,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278070",
      "sha256": "720588e6a39c76ba95be3e64ec5682f0f2ede69ce84ad38efd3c1d4610d6ce3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6914-2023",
+   "path": "ordin/educatie/2023/6914",
+   "short": "Ordin educatie nr. 6914/2023",
+   "title": "Ordinul nr. 6.914/2023 pentru completarea art. 2 din Ordinul ministrului educației nr. 5.990/2021 privind menținerea acreditării Universității din București în vederea organizării programelor de studii universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278071",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278071",
+     "sha256": "ff916911192b080bc57fc2152e597147e94f7efec8c3d6f062d60bcfdfd10c4c"
     }
    ]
   },

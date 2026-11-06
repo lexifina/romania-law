@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "metodologie/1996",
+ "acts": [
+  {
+   "slug": "metodologie-fps-zi0607-1996",
+   "path": "metodologie/fps/1996/06-07",
+   "short": "Metodologie fps din 7 iunie 1996",
+   "title": "Metodologia de organizare și desfășurare a licitațiilor pentru vânzarea de acțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7671",
+   "versions": [
+    {
+     "from": "1996-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7671",
+     "sha256": "20df3e6ea5ac992d1be7760ab93ddfde18e44c7b860a9659d9a1c1872a646b9f"
+    }
+   ]
+  }
+ ]
+}

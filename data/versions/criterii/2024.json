@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/2024",
+ "acts": [
+  {
+   "slug": "criterii-educatie-zi0115-2024",
+   "path": "criterii/educatie/2024/01-15",
+   "short": "Criterii educatie din 15 ianuarie 2024",
+   "title": "Criterii din 15 ianuarie 2024 pentru includerea unităților de învățământ în Programul național \"Masă sănătoasă\" (PNMS) pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278221",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278221",
+     "sha256": "83e6866e582bf6ebd227e962f4bca69b8a75ef88ede0081904be312178255020"
+    }
+   ]
+  }
+ ]
+}

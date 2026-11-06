@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "ghid/2003",
+"acts": [
+{
+"slug": "ghid-copii-zi0226-2003",
+"path": "ghid/copii/2003/02-26",
+"kind": "ghid",
+"year": "2003",
+"number": "02-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid din 26 februarie 2003 pentru evaluarea copilului cu dizabilități și încadrarea într-un grad de handicap*)",
+"short": "Ghid copii din 26 februarie 2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-07-25",
+"latest": "2003-07-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/46964",
+"issuer": "copii",
+"joint": []
+},
+{
+"slug": "ghid-copii-zi0515-2003",
+"path": "ghid/copii/2003/05-15",
+"kind": "ghid",
+"year": "2003",
+"number": "05-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid metodologic din 15 mai 2003 de implementare a standardelor minime obligatorii pentru asigurarea protecției copilului la asistentul maternal profesionist",
+"short": "Ghid copii din 15 mai 2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-05-27",
+"latest": "2003-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/43959",
+"issuer": "copii",
+"joint": []
+}
+]
+}

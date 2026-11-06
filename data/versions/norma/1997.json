@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "norma-economie-zi1202-1997",
+   "path": "norma/economie/1997/12-02",
+   "short": "Norma economie din 2 decembrie 1997",
+   "title": "Norme din 2 decembrie 1997 privind criteriile și condițiile de eliberare a licențelor de export pentru produsele lemnoase contingentate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74236",
+   "versions": [
+    {
+     "from": "1997-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74236",
+     "sha256": "af01abd4d220af2e642202852b02a33b0eaa88149ec6f65bb1ea57763427a0f9"
+    }
+   ]
+  },
+  {
    "slug": "norma-externe-1-1997",
    "path": "norma/externe/1997/1",
    "short": "Norma externe nr. 1/1997",
@@ -284,6 +299,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13898",
      "sha256": "715ca2e7d0dabe7f596454ab117f0b2e6672c745939afd18a5ec9d565a9e698c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0311-1997",
+   "path": "norma/guvern/1997/03-11",
+   "short": "Norma guvern din 11 martie 1997",
+   "title": "Norme metodologice din 11 martie 1997 privind obținerea autorizatiei în vederea desfășurării activității de transport maritim internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83479",
+   "versions": [
+    {
+     "from": "1997-11-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83479",
+     "sha256": "ae5084e1c77b0bfef0dd72d460d3312eaf48b9867b753e605b256f7f13e63ac0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0821-1997",
+   "path": "norma/guvern/1997/08-21",
+   "short": "Norma guvern din 21 august 1997",
+   "title": "Norme metodologice în 12 august 1997 pentru punerea în aplicare a prevederilor Legii locuinței nr. 114/1996 , cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60241",
+   "versions": [
+    {
+     "from": "1997-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60241",
+     "sha256": "5e29bc9467d5d8bdf9ee559d94b6e1b014e24b0545c307be4a63fca10304168a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0912-1-1997",
+   "path": "norma/guvern/1997/09-12-1",
+   "short": "Norma guvern din 12 septembrie 1997",
+   "title": "Norme metodologice din 12 septembrie 1997 privind efectuarea auditului în conformitate cu prevederile Codului internațional de management al siguranței - Codul I.S.M. pentru exploatarea în siguranța a navelor și pentru prevenirea poluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62696",
+   "versions": [
+    {
+     "from": "1997-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62696",
+     "sha256": "272765da07f9817a3e85f3ae0b2f28f0b59b69c959adcf7efd2ba29871187adf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0912-2-1997",
+   "path": "norma/guvern/1997/09-12-2",
+   "short": "Norma guvern din 12 septembrie 1997",
+   "title": "Norme metodologice din 12 septembrie 1997 pentru eliberarea de licențe și autorizații persoanelor fizice și juridice, române sau străine, care efectuează auditul privind operarea în siguranță a navelor și prevenirea poluării sau verificarea tehnică și certificarea navelor conform convențiilor internaționale, pe bază de contract de reprezentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62697",
+   "versions": [
+    {
+     "from": "1997-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62697",
+     "sha256": "24291f0a3bbeb34694f8928ee51c1ff597677e016e3dd73d98aa9a6049a3e1d5"
     }
    ]
   },

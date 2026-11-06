@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2016",
+ "acts": [
+  {
+   "slug": "metodologie-aparare-zi0215-2016",
+   "path": "metodologie/aparare/2016/02-15",
+   "short": "Metodologie aparare din 15 februarie 2016",
+   "title": "Metodologie din 15 februarie 2016 de întocmire a dosarului de pensionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175984",
+   "versions": [
+    {
+     "from": "2016-02-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175984",
+     "sha256": "f3d2215bc5b0e41168e09a5f471880d9a67638afc0412702894e3436b3a20f06"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi0831-2016",
+   "path": "metodologie/educatie/2016/08-31",
+   "short": "Metodologie educatie din 31 august 2016",
+   "title": "Metodologie-cadru din 31 august 2016 privind școlarizarea la domiciliu, respectiv înființarea de grupe/clase în spitale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183766",
+   "versions": [
+    {
+     "from": "2016-11-21",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183766",
+     "sha256": "687e432a2f4aa221b71753832884bffaa455497e156b0bcfbd3f486bcb3efbbc"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1123-1-2016",
+   "path": "metodologie/educatie/2016/11-23-1",
+   "short": "Metodologie educatie din 23 noiembrie 2016",
+   "title": "Metodologie din 23 noiembrie 2016 de monitorizare specială a Universității Ecologice din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184388",
+   "versions": [
+    {
+     "from": "2016-12-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184388",
+     "sha256": "b2ceedcedb3e86f78dfb3e435948603294f70edcb7606eb9bd10ed03f5adec66"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1123-2-2016",
+   "path": "metodologie/educatie/2016/11-23-2",
+   "short": "Metodologie educatie din 23 noiembrie 2016",
+   "title": "Metodologie din 23 noiembrie 2016 de monitorizare specială a Universității \"Athenaeum\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184391",
+   "versions": [
+    {
+     "from": "2016-12-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184391",
+     "sha256": "0dab4700c4d09a28e1ee68a2cce0cff4ab8230c43d6246302a8c8aa63d2b4667"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1206-2016",
+   "path": "metodologie/educatie/2016/12-06",
+   "short": "Metodologie educatie din 6 decembrie 2016",
+   "title": "Metodologie din 6 decembrie 2016 privind recunoașterea diplomei de doctor și a titlului de doctor în științe sau într-un domeniu profesional, obținute în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184819",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184819",
+     "sha256": "812499def377ceabcd8e3d9d1881eeec5e7a9f9f249db9a1c9f7efcc5b3808fb"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-finante-zi0301-2016",
+   "path": "metodologie/finante/2016/03-01",
+   "short": "Metodologie finante din 1 martie 2016",
+   "title": "Metodologie din 1 martie 2016 privind transferul investițiilor realizate din sursele de finanțare publice, în cadrul proiectelor de investiții aprobate prin contractele de finanțare aferente Programului operațional sectorial Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176612",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176612",
+     "sha256": "bb416b5188d6790d1e31f5bc5d742481747fab2fdca0bbd1c0d45aa9c9cd1c3a"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-mediu-zi0512-2016",
+   "path": "metodologie/mediu/2016/05-12",
+   "short": "Metodologie mediu din 12 mai 2016",
+   "title": "Metodologie din 12 mai 2016 de aprobare a depășirii posibilității anuale cu volumul masei lemnoase din arborete afectate de factori biotici și/sau abiotici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178895",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178895",
+     "sha256": "8841e37c6d10f9fb652a5eacee1f61f033b480f3ba73ea64afaea89c09c0f6de"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0215-2016",
+   "path": "metodologie/orda/2016/02-15",
+   "short": "Metodologie orda din 15 februarie 2016",
+   "title": "Metodologia din 15 februarie 2016 privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru comunicarea publică a fonogramelor de comerț/fonogramelor publicate în scop comercial sau a reproducerilor acestora, precum și/sau a prestațiilor artistice din domeniul audiovizual, în scop ambiental și lucrativ, și tabelele cuprinzând drepturile patrimoniale ale artiștilor interpreți sau executanți pentru fonograme și pentru audiovizual și ale producătorilor de fonograme, prin gestiune colectivă obligatorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176132",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176132",
+     "sha256": "ec079df0137908ca8bf671ab526fbc08625e80ea2a655ad637fd65d0892babb6"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0927-2016",
+   "path": "metodologie/orda/2016/09-27",
+   "short": "Metodologie orda din 27 septembrie 2016",
+   "title": "Metodologie din 27 septembrie 2016 privind utilizarea prin radiodifuzare a operelor muzicale de către organismele de radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182331",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182331",
+     "sha256": "6a074df88852be9f6575ddbb235a010896f638c3762989104dfa2f824b174499"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0428-2016",
+   "path": "metodologie/sanatate/2016/04-28",
+   "short": "Metodologie sanatate din 28 aprilie 2016",
+   "title": "Metodologia din 28 aprilie 2016 de certificare a centrelor de expertiză pentru boli rare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178055",
+   "versions": [
+    {
+     "from": "2016-04-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178055",
+     "sha256": "200af78edcfad237c08ad39d0ad14186e05add2e4a6c700157140c14407cf8c2"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi1010-2016",
+   "path": "metodologie/sanatate/2016/10-10",
+   "short": "Metodologie sanatate din 10 octombrie 2016",
+   "title": "Metodologie din 10 octombrie 2016 pentru desfășurarea concursului de rezidențiat pe loc și pe post în medicină, medicină dentară și farmacie, sesiunea 20 noiembrie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182587",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182587",
+     "sha256": "e10637761970cdf4387536cb99e3e890c33fd0a355b76ee0acc496af49886b5f"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-transporturi-zi0126-2016",
+   "path": "metodologie/transporturi/2016/01-26",
+   "short": "Metodologie transporturi din 26 ianuarie 2016",
+   "title": "Metodologie din 26 ianuarie 2016 de organizare a cursurilor de formare, instruire și perfecționare profesională a auditorilor/inspectorilor de siguranță rutieră, precum și de atestare a acestora (anexa 2)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176045",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176045",
+     "sha256": "d60264d94dc4a418faa63598253435b9b2a850c03efbd1b7c2d19965caf1a93e"
+    }
+   ]
+  }
+ ]
+}

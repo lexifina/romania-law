@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2023",
+ "acts": [
+  {
+   "slug": "metodologie-educatie-zi0526-2023",
+   "path": "metodologie/educatie/2023/05-26",
+   "short": "Metodologie educatie din 26 mai 2023",
+   "title": "Metodologie-cadru din 26 mai 2023 de înscriere a copiilor în unități de învățământ preuniversitar cu personalitate juridică cu grupe de nivel preșcolar și/sau antepreșcolar și în servicii de educație timpurie complementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270896",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270896",
+     "sha256": "1f7064f99e53ff96bdecbaa03fd66c2f861274ca20207e0d5920940e14dff78a"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1222-2023",
+   "path": "metodologie/educatie/2023/12-22",
+   "short": "Metodologie educatie din 22 decembrie 2023",
+   "title": "Metodologia-cadru din 22 decembrie 2023 privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2024 - 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278018",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278018",
+     "sha256": "53bfec3569331e1248b992be440cfaa5c8ffde32eaaa7490b081b3b1b72a5376"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-educatie-zi1228-2023",
+   "path": "metodologie/educatie/2023/12-28",
+   "short": "Metodologie educatie din 28 decembrie 2023",
+   "title": "Metodologie din 28 decembrie 2023 de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278328",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278328",
+     "sha256": "80d97867b6302f15b0c4d5247ec37b8339284e2e7f91f9d3badac12eaa443712"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-familie-zi0803-1-2023",
+   "path": "metodologie/familie/2023/08-03-1",
+   "short": "Metodologie familie din 3 august 2023",
+   "title": "Metodologie din 3 august 2023 pentru Concursul național de proiecte de tineret și studenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273724",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273724",
+     "sha256": "2e3d7e51cca4228c019df10a66deb11e671022c78d72f9ea2e52c5b676428cfc"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-familie-zi0803-2-2023",
+   "path": "metodologie/familie/2023/08-03-2",
+   "short": "Metodologie familie din 3 august 2023",
+   "title": "Metodologie din 3 august 2023 pentru organizarea de proiecte de tineret proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273725",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273725",
+     "sha256": "4cc8702626de50ea181832bed28e5e932ebbadb947264be4c528db5653452f10"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0126-1-2023",
+   "path": "metodologie/sanatate/2023/01-26-1",
+   "short": "Metodologie sanatate din 26 ianuarie 2023",
+   "title": "Metodologie din 26 ianuarie 2023 privind organizarea concursurilor de ocupare a posturilor vacante și temporar vacante de medic, medic stomatolog, farmacist, biolog, biochimist și chimist din unitățile sanitare publice sau din direcțiile de sănătate publică, a funcțiilor de șef de secție, șef de laborator și șef de compartiment din unitățile sanitare publice fără paturi sau din direcțiile de sănătate publică, respectiv a funcției de farmacist-șef în unitățile sanitare publice cu paturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264381",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264381",
+     "sha256": "4dd3da4c13006bfb78eabe14423bc2459bc40e768c0573fc09c11fb38ab92eff"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0126-2-2023",
+   "path": "metodologie/sanatate/2023/01-26-2",
+   "short": "Metodologie sanatate din 26 ianuarie 2023",
+   "title": "Metodologie din 26 ianuarie 2023 privind desfășurarea concursurilor de ocupare a posturilor vacante și temporar vacante de medic, medic stomatolog, farmacist, biolog, biochimist, chimist din unitățile sanitare publice sau din direcțiile de sănătate publică și a funcțiilor de șef de secție, șef de laborator și șef de compartiment din unitățile sanitare fără paturi sau din direcțiile de sănătate publică, respectiv a funcției de farmacist-șef în unitățile sanitare publice cu paturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264382",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264382",
+     "sha256": "122dd765c33b54bc62c8b8f7eb9f0bc037f2b9e6aebcdcbf7188f332f91d680c"
+    }
+   ]
+  }
+ ]
+}

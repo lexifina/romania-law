@@ -183,6 +183,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-141-1998",
+   "path": "ordin/anrm/1998/141",
+   "short": "Ordin anrm nr. 141/1998",
+   "title": "Ordinul nr. 141/1998 privind concursul de oferta publică pentru licența de concesiune pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16065",
+   "versions": [
+    {
+     "from": "1998-11-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16065",
+     "sha256": "910c38456a95d85ca89640d53a6e80cd68a0a327e00d73aa49a74c84e1030965"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-142-1998",
+   "path": "ordin/anrm/1998/142",
+   "short": "Ordin anrm nr. 142/1998",
+   "title": "Ordinul nr. 142/1998 privind concursul de oferta publică pentru licența de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16107",
+   "versions": [
+    {
+     "from": "1998-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16107",
+     "sha256": "ef300d50a01c5d562db0d6b0c91acad2da5398a97e45c54e6075fba5fd824c5b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-145-1998",
    "path": "ordin/anrm/1998/145",
    "short": "Ordin anrm nr. 145/1998",

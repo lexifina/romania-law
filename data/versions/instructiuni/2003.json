@@ -213,6 +213,36 @@
    ]
   },
   {
+   "slug": "instructiuni-concurenta-zi0708-2003",
+   "path": "instructiuni/concurenta/2003/07-08",
+   "short": "Instrucțiuni concurenta din 8 iulie 2003",
+   "title": "Instrucțiuni din 8 iulie 2003 privind vânzările de terenuri și/sau clădiri de către autoritățile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45271",
+   "versions": [
+    {
+     "from": "2003-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45271",
+     "sha256": "4b1ea82bc89afcb05888d6aaa174363cdb85b3b13a9f912abe15475bf972a39f"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi1212-2003",
+   "path": "instructiuni/concurenta/2003/12-12",
+   "short": "Instrucțiuni concurenta din 12 decembrie 2003",
+   "title": "Instrucțiuni din 12 decembrie 2003 privind ajutorul de stat în domeniul asigurării creditelor pentru export pe termen scurt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49185",
+   "versions": [
+    {
+     "from": "2004-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49185",
+     "sha256": "4f05da1b4d4c7127caf5aa61ef7951fcb1c20b6acc7899c902d83a301426e2eb"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-sanatate-337-2003",
    "path": "instructiuni/sanatate/2003/337",
    "short": "Instrucțiuni sanatate nr. 337/2003",

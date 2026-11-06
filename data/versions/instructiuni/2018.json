@@ -91,6 +91,36 @@
      "sha256": "3ce9f16cdcb6addf7db1f4f5ebec6b3fafcbc7ffc8a052bf0c6452dd939afd99"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi1003-2018",
+   "path": "instructiuni/concurenta/2018/10-03",
+   "short": "Instrucțiuni concurenta din 3 octombrie 2018",
+   "title": "Instrucțiuni din 3 octombrie 2018 pentru modificarea și completarea Instrucțiunilor privind individualizarea sancțiunilor pentru contravențiile prevăzute la art. 55 din Legea concurenței nr. 21/1996 , puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 694/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206105",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206105",
+     "sha256": "d3ce27fc2f0a48710b3180207d362949a491a886f9902e07dd00d02b77ffdb43"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-concurenta-zi1116-2018",
+   "path": "instructiuni/concurenta/2018/11-16",
+   "short": "Instrucțiuni concurenta din 16 noiembrie 2018",
+   "title": "Instrucțiuni din 16 noiembrie 2018 pentru modificarea Instrucțiunilor privind condițiile, termenele și procedura pentru acceptarea și evaluarea angajamentelor, în cazul practicilor anticoncurențiale, puse în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 724/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208514",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208514",
+     "sha256": "1e0732ac41a3a6cd0937bb4bde56d9ced5fd3a15d782022e7285d9120118ce9f"
+    }
+   ]
   }
  ]
 }

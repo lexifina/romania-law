@@ -136,6 +136,36 @@
      "sha256": "39f0ea41b6a140548aa094944eace9ac0248306a2cb36322d5fad6f86ed4b728"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi1017-1-1995",
+   "path": "instructiuni/guvern/1995/10-17-1",
+   "short": "Instrucțiuni guvern din 17 octombrie 1995",
+   "title": "Instrucțiuni de metrologie legală din 17 octombrie 1995 I.M.L. 1-95 - transmiterea unităților de măsură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93038",
+   "versions": [
+    {
+     "from": "1995-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93038",
+     "sha256": "6af591fa07cb596fbc19a79f9a79a2556e3a2048429b3fe3a7902e207e0573dc"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-guvern-zi1017-2-1995",
+   "path": "instructiuni/guvern/1995/10-17-2",
+   "short": "Instrucțiuni guvern din 17 octombrie 1995",
+   "title": "Instrucțiuni de metrologie legală din 17 octombrie 1995 I.M.L. 2-95 - aprobarea de model",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93039",
+   "versions": [
+    {
+     "from": "1995-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93039",
+     "sha256": "edfbb0eed15fdb27338fb09c728ec031d97bef922301766e2bc64a825c365e91"
+    }
+   ]
   }
  ]
 }

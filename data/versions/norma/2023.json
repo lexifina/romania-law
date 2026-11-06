@@ -588,6 +588,21 @@
    ]
   },
   {
+   "slug": "norma-aparare-zi0110-2023",
+   "path": "norma/aparare/2023/01-10",
+   "short": "Norma aparare din 10 ianuarie 2023",
+   "title": "Norme metodologice din 10 ianuarie 2023 privind aplicarea în Ministerul Apărării Naționale a prevederilor Hotărârii Guvernului nr. 1.198/2022 privind drepturile de transport, pe teritoriul național, ale personalului din instituțiile de apărare, ordine publică și securitate națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263937",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263937",
+     "sha256": "3f1df52668112aaa85b30ae26b9c749227559b0825d1b1c0c1a64f0224175d9d"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-27-2023",
    "path": "norma/asf/2023/27",
    "short": "Norma asf nr. 27/2023",
@@ -599,6 +614,81 @@
      "units": 2,
      "source_url": "https://asfromania.ro/uploads/articole/attachments/64f6e621be6c1850470561.pdf",
      "sha256": "2f1a643038f34c45d310bd2d87eee550a38e11e9255c3fbf14bb1cbf79f86ea0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-comunicatii-zi0516-2023",
+   "path": "norma/comunicatii/2023/05-16",
+   "short": "Norma comunicatii din 16 mai 2023",
+   "title": "Norme metodologice din 16 mai 2023 referitoare la conținutul planului de dezvoltare a parcului de specializare inteligentă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270493",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270493",
+     "sha256": "bab8f5f8b8af30273ed20a07ce5a552a238d403f82d9aedeb718526424c5adce"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi0515-1-2023",
+   "path": "norma/dezvoltare/2023/05-15-1",
+   "short": "Norma dezvoltare din 15 mai 2023",
+   "title": "Norme tehnice din 15 mai 2023 privind seturile de date spațiale aferente documentațiilor de urbanism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270782",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270782",
+     "sha256": "7dcbefddc63a3804bbfa54dfba5869fadabca416d9112500e9cee15c9a79b437"
+    }
+   ]
+  },
+  {
+   "slug": "norma-dezvoltare-zi0515-2-2023",
+   "path": "norma/dezvoltare/2023/05-15-2",
+   "short": "Norma dezvoltare din 15 mai 2023",
+   "title": "Norme tehnice din 15 mai 2023 pentru realizarea seturilor de date spațiale aferente planurilor de amenajare a teritoriului județean",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270783",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270783",
+     "sha256": "fe74fee4a0b75cb755f33c9a188dc89bff4c7fbbdc53d4e868530e6bc4597930"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1221-2023",
+   "path": "norma/guvern/2023/12-21",
+   "short": "Norma guvern din 21 decembrie 2023",
+   "title": "Norme din 21 decembrie 2023 privind organizarea și dezvoltarea carierei funcționarilor publici din cadrul autorităților și instituțiilor publice în cadrul cărora sunt stabilite funcțiile publice prevăzute la art. 385 alin. (1) și (2) din prezentul cod , cu excepția celor care beneficiază de statute speciale în condițiile legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277791",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277791",
+     "sha256": "b4a48b737586e79160e27c97d0330ac166fc03e6d04b7ca54bc71b9a4aba0214"
+    }
+   ]
+  },
+  {
+   "slug": "norma-mediu-zi0330-2023",
+   "path": "norma/mediu/2023/03-30",
+   "short": "Norma mediu din 30 martie 2023",
+   "title": "Norme metodologice din 30 martie 2023 de aplicare a Ordonanței de urgență a Guvernului nr. 93/2022 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267327",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267327",
+     "sha256": "ccedcbca44601e9f05182c14ddbcab0f1c4977983e8bf036adf233f16543f066"
     }
    ]
   }

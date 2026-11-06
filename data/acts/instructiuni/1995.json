@@ -172,6 +172,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/7655",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "instructiuni-guvern-zi1017-1-1995",
+"path": "instructiuni/guvern/1995/10-17-1",
+"kind": "instructiuni",
+"year": "1995",
+"number": "10-17-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni de metrologie legală din 17 octombrie 1995 I.M.L. 1-95 - transmiterea unităților de măsură",
+"short": "Instrucțiuni guvern din 17 octombrie 1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-11-29",
+"latest": "1995-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/93038",
+"issuer": "guvern",
+"joint": []
+},
+{
+"slug": "instructiuni-guvern-zi1017-2-1995",
+"path": "instructiuni/guvern/1995/10-17-2",
+"kind": "instructiuni",
+"year": "1995",
+"number": "10-17-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni de metrologie legală din 17 octombrie 1995 I.M.L. 2-95 - aprobarea de model",
+"short": "Instrucțiuni guvern din 17 octombrie 1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-11-29",
+"latest": "1995-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/93039",
+"issuer": "guvern",
+"joint": []
 }
 ]
 }

@@ -3,6 +3,25 @@
 "shard": "instructiuni/2014",
 "acts": [
 {
+"slug": "instructiuni-aparare-zi0115-2014",
+"path": "instructiuni/aparare/2014/01-15",
+"kind": "instructiuni",
+"year": "2014",
+"number": "01-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiuni din 15 ianuarie 2014 privind operațiunile de mișcare și transport ale marilor unități și unităților militare",
+"short": "Instrucțiuni aparare din 15 ianuarie 2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-03-27",
+"latest": "2014-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/178900",
+"issuer": "aparare",
+"joint": []
+},
+{
 "slug": "instructiuni-asf-1-2014",
 "path": "instructiuni/asf/2014/1",
 "kind": "instructiuni",

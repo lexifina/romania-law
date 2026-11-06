@@ -633,6 +633,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-315-2013",
+   "path": "ordin/agricultura/2013/315",
+   "short": "Ordin agricultura nr. 315/2013",
+   "title": "Ordinul nr. 315/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Institutului Național de Cercetare-Dezvoltare pentru Îmbunătățiri Funciare - I.N.C.D.I.F. - \"ISPIF\" București din coordonarea Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151705",
+   "versions": [
+    {
+     "from": "2013-10-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151705",
+     "sha256": "a0cb0050cc094cb7970882d84cf2fbe2db99a42f27e38e6acb0e2b7612b220b2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-318-2013",
    "path": "ordin/agricultura/2013/318",
    "short": "Ordin agricultura nr. 318/2013",
@@ -3948,6 +3963,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-107-2013",
+   "path": "ordin/anrm/2013/107",
+   "short": "Ordin anrm nr. 107/2013",
+   "title": "Ordinul nr. 107/2013 privind aprobarea unor licențe de concesiune pentru explorare și pentru modificarea anexei la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 32/2013 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, privind concursul public de ofertă - Runda nr. 81/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150108",
+   "versions": [
+    {
+     "from": "2013-07-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150108",
+     "sha256": "c3292de91cf6bdfd88761a3465661e0dcc4b879c995ad0916bdf2bf2b57dfaff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-121-2013",
+   "path": "ordin/anrm/2013/121",
+   "short": "Ordin anrm nr. 121/2013",
+   "title": "Ordinul nr. 121/2013 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150867",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150867",
+     "sha256": "4208551a6df31ac7550c3e8f4120d94c4618cae7b1e56d8c9030e41cdc4c8e5f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-140-2013",
    "path": "ordin/anrm/2013/140",
    "short": "Ordin anrm nr. 140/2013",
@@ -3959,6 +4004,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151546",
      "sha256": "e0fae5f30fe80593e193c26f6b7d88c363e77fcbd23a4823342f64975735db91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-15-2013",
+   "path": "ordin/anrm/2013/15",
+   "short": "Ordin anrm nr. 15/2013",
+   "title": "Ordinul nr. 15/2013 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145173",
+   "versions": [
+    {
+     "from": "2013-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145173",
+     "sha256": "7abaad0e606da3ed143d7bbd1c52310d5f7ec730de1f506da7832cf5c1da51da"
     }
    ]
   },
@@ -4053,6 +4113,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-29-2013",
+   "path": "ordin/anrm/2013/29",
+   "short": "Ordin anrm nr. 29/2013",
+   "title": "Ordinul nr. 29/2013 privind aprobarea unei licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146062",
+   "versions": [
+    {
+     "from": "2013-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146062",
+     "sha256": "5f40c25aacfcaa741e5b9a2bd1b89e34eef8ed5382d872a5c2f6b4a4de358c96"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-32-2013",
    "path": "ordin/anrm/2013/32",
    "short": "Ordin anrm nr. 32/2013",
@@ -4079,6 +4154,66 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147002",
      "sha256": "219606060a5e4ca6d3802dd40655f338c77ff1fe64239ada2d24e58c30790e80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-5-2013",
+   "path": "ordin/anrm/2013/5",
+   "short": "Ordin anrm nr. 5/2013",
+   "title": "Ordinul nr. 5/2013 privind aprobarea unor licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144853",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144853",
+     "sha256": "7f618eb746b968839ad33b0063b70cdb5244b113ee3dafc48620f1e6883401d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-69-2013",
+   "path": "ordin/anrm/2013/69",
+   "short": "Ordin anrm nr. 69/2013",
+   "title": "Ordinul nr. 69/2013 privind aprobarea unei licențe de concesiune pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148434",
+   "versions": [
+    {
+     "from": "2013-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148434",
+     "sha256": "4d7160aced0534f17a8bb5323fd0cbb97b9b27ed5498ba7f95cac66a0f222980"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-7-2013",
+   "path": "ordin/anrm/2013/7",
+   "short": "Ordin anrm nr. 7/2013",
+   "title": "Ordinul nr. 7/2013 pentru aprobarea unei licențe de dare în administrare și pentru modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 431/2012 privind aprobarea unor licențe de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145061",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145061",
+     "sha256": "4f14fc3bd87cd0de1b35dbc33e0297c301a992f7c063ca5d75bfb46136c8d00d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-75-2013",
+   "path": "ordin/anrm/2013/75",
+   "short": "Ordin anrm nr. 75/2013",
+   "title": "Ordinul nr. 75/2013 privind aprobarea unei licențe de concesiune pentru explorare și pentru modificarea Listei perimetrelor pentru concesionarea de activități de explorare privind concursul public de ofertă - Runda nr. 82/2013, aprobată prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 41/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148851",
+   "versions": [
+    {
+     "from": "2013-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148851",
+     "sha256": "be1555893c739b1fa8f43dbfe8c0ca1bae5e1bea4c38bb7e14ade5fd0f365fdf"
     }
    ]
   },
@@ -5583,6 +5718,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-244-2013",
+   "path": "ordin/comunicatii/2013/244",
+   "short": "Ordin comunicatii nr. 244/2013",
+   "title": "Ordinul nr. 244/2013 privind desemnarea reprezentanților Ministerului pentru Societatea Informațională ca membri în cadrul Consiliului Infrastructurii naționale pentru informații spațiale în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147238",
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147238",
+     "sha256": "577147205845cb1fedc8ac5f2d93611f7e18556c3fda37db4aaea7622f5e4d25"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-261-2013",
    "path": "ordin/comunicatii/2013/261",
    "short": "Ordin comunicatii nr. 261/2013",
@@ -5594,6 +5744,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147633",
      "sha256": "ed77cdfcea99999cab0467e55e9c841c7efd9f15f44c5914f9af97c053c21108"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-269-2013",
+   "path": "ordin/comunicatii/2013/269",
+   "short": "Ordin comunicatii nr. 269/2013",
+   "title": "Ordinul nr. 269/2013 privind aprobarea bugetului de venituri și cheltuieli pe anul 2013 al Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București din coordonarea Ministerului pentru Societatea Informațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147718",
+   "versions": [
+    {
+     "from": "2013-05-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147718",
+     "sha256": "c8247fd3cb98d4ffb6ae2413e266e92d4110d3d3aa0fc2b610284d1494509411"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-450-2013",
+   "path": "ordin/comunicatii/2013/450",
+   "short": "Ordin comunicatii nr. 450/2013",
+   "title": "Ordinul nr. 450/2013 privind retragerea de pe piață, interzicerea comercializării și utilizării echipamentelor radio neconforme, model DR-435 T și DR-135 T, producător Alinco, introduse pe piața din România de către Societatea \"Mondo Plast\" - S.R.L.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150008",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150008",
+     "sha256": "b028e349f74435a7ce88ee38bb742346afa5b459d578258528abfba33342e6f6"
     }
    ]
   },
@@ -5838,6 +6018,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2092-2013",
+   "path": "ordin/cultura/2013/2092",
+   "short": "Ordin cultura nr. 2092/2013",
+   "title": "Ordinul nr. 2.092/2013 pentru modificarea anexei la Ordinul ministrului culturii și patrimoniului național nr. 2.455/2011 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Terminal pasageri - Aeroportul Internațional București Băneasa - Aurel Vlaicu\", șos. București-Ploiești nr. 40, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146137",
+   "versions": [
+    {
+     "from": "2013-03-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146137",
+     "sha256": "e8a91b35326cc14f8f77f2c459a8d68f6909906989b85ba682ede1567ac3057c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2096-2013",
+   "path": "ordin/cultura/2013/2096",
+   "short": "Ordin cultura nr. 2096/2013",
+   "title": "Ordinul nr. 2.096/2013 pentru acreditarea Complexului Muzeal Județean Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145764",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145764",
+     "sha256": "3b892fc7530683949fccf8ee2a34045735f67bcb53bff64f77550af3c5e454e7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2109-2013",
    "path": "ordin/cultura/2013/2109",
    "short": "Ordin cultura nr. 2109/2013",
@@ -5853,6 +6063,111 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2118-2013",
+   "path": "ordin/cultura/2013/2118",
+   "short": "Ordin cultura nr. 2118/2013",
+   "title": "Ordinul nr. 2.118/2013 privind clasarea în Lista monumentelor istorice, grupa valorică A, a imobilului din str. J.L. Calderon nr. 48, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146682",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146682",
+     "sha256": "373e03da5481a1efca9802dadcad1369ed0151cc898ee8e086aa6049db7bdf85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2119-2013",
+   "path": "ordin/cultura/2013/2119",
+   "short": "Ordin cultura nr. 2119/2013",
+   "title": "Ordinul nr. 2.119/2013 privind clasarea în Lista monumentelor istorice, grupa valorică A, a imobilului din str. J.L. Calderon nr. 50, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146684",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146684",
+     "sha256": "fae7f0007a0a932995a3b0772005b137a5d75040d02c4c222de96a3c4b84b306"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2120-2013",
+   "path": "ordin/cultura/2013/2120",
+   "short": "Ordin cultura nr. 2120/2013",
+   "title": "Ordinul nr. 2.120/2013 privind clasarea în Lista monumentelor istorice, grupa valorică B, a imobilului din str. Popa Rusu nr. 24, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146683",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146683",
+     "sha256": "6eebe384b56b50a692396bdde7b2e5a74eeb73d2e341ee298ac7fac0acef8ae4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2132-2013",
+   "path": "ordin/cultura/2013/2132",
+   "short": "Ordin cultura nr. 2132/2013",
+   "title": "Ordinul nr. 2.132/2013 pentru acreditarea Muzeului Maramureșan din Sighetu Marmației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146455",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146455",
+     "sha256": "67ed4c5b24635983b79421bc27c08fa0f9f46bf50b4afc59f620e0731f96b083"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2139-2013",
+   "path": "ordin/cultura/2013/2139",
+   "short": "Ordin cultura nr. 2139/2013",
+   "title": "Ordinul nr. 2.139/2013 privind declasarea din Lista monumentelor istorice a imobilului \"Casa Nicolae Popescu\", din Calea Domnească nr. 317, Târgoviște, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147178",
+   "versions": [
+    {
+     "from": "2013-04-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147178",
+     "sha256": "cbc59627cc2aec5b2162b2b5fa4a0788bf6456269a61b6febff278bbf3819f99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2140-2013",
+   "path": "ordin/cultura/2013/2140",
+   "short": "Ordin cultura nr. 2140/2013",
+   "title": "Ordinul nr. 2.140/2013 privind declasarea parțială din Lista monumentelor istorice a imobilului \"Casă\", din str. Olteni nr. 1 (Clucerul Udricani nr. 12), sectorul 3, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147179",
+   "versions": [
+    {
+     "from": "2013-04-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147179",
+     "sha256": "080fe59eb8c996b75fab508c6f3074c0d2127b24fbafb52ae91a2b7b489d7e73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2171-2013",
+   "path": "ordin/cultura/2013/2171",
+   "short": "Ordin cultura nr. 2171/2013",
+   "title": "Ordinul nr. 2.171/2013 privind declasarea din Lista monumentelor istorice a imobilului \"Locuință cu atelier\", din str. Hagi Moscu Maria nr. 16, sectorul 1, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147713",
+   "versions": [
+    {
+     "from": "2013-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147713",
+     "sha256": "25a8cc13c6ccddc9b323f9be67ce42b5110bf8fc97818d5199a678040883f1fb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2173-2013",
    "path": "ordin/cultura/2013/2173",
    "short": "Ordin cultura nr. 2173/2013",
@@ -5864,6 +6179,66 @@
      "units": 48,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146963",
      "sha256": "03fc8c403f2769164d7e41e6d9b4fb354bbdbaf0fdc3a2dca8124ff626fa9662"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2188-2013",
+   "path": "ordin/cultura/2013/2188",
+   "short": "Ordin cultura nr. 2188/2013",
+   "title": "Ordinul nr. 2.188/2013 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Muzeul Curții Domnești\", situat în cadrul Ansamblului Curții Domnești din str. Ștefan cel Mare nr. 6-8, Piatra-Neamț, județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148691",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148691",
+     "sha256": "c9412654f806173a847bf1318e6a99ae7b0768536e20e815c387314791a5c544"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2192-2013",
+   "path": "ordin/cultura/2013/2192",
+   "short": "Ordin cultura nr. 2192/2013",
+   "title": "Ordinul nr. 2.192/2013 privind clasarea în Lista monumentelor istorice, grupa valorică \"A\", a imobilului \"Parc\", situat în cadrul Ansamblului conacului Petre P. Carp din comuna Țibănești, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148655",
+   "versions": [
+    {
+     "from": "2013-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148655",
+     "sha256": "4f69154f0c1d8bc546f6b2e3a770b56053512a6c6d5cfc553bc06cb163d20405"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2295-2013",
+   "path": "ordin/cultura/2013/2295",
+   "short": "Ordin cultura nr. 2295/2013",
+   "title": "Ordinul nr. 2.295/2013 pentru modificarea Ordinului ministrului culturii și patrimoniului național nr. 2.298/2012 privind clasarea în Lista monumentelor istorice, grupa valorică \"B\", a imobilului \"Casă de locuit\" din str. Mihai Viteazul nr. 44, Târgu Mureș, județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149618",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149618",
+     "sha256": "b9427d734b7ed2709f4c2cc07c0b56bdad660ef15786c338a5c9d95f9b80ce79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2331-2013",
+   "path": "ordin/cultura/2013/2331",
+   "short": "Ordin cultura nr. 2331/2013",
+   "title": "Ordinul nr. 2.331/2013 pentru acreditarea Complexului Muzeal de Științe ale Naturii, Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149754",
+   "versions": [
+    {
+     "from": "2013-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149754",
+     "sha256": "ed65334761426fe022217619c71c9b72ba2d504fb40d6c54f71eab938fda3d82"
     }
    ]
   },
@@ -5898,6 +6273,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2407-2013",
+   "path": "ordin/cultura/2013/2407",
+   "short": "Ordin cultura nr. 2407/2013",
+   "title": "Ordinul nr. 2.407/2013 pentru acreditarea Muzeului Civilizației Dacice și Române, Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151399",
+   "versions": [
+    {
+     "from": "2013-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151399",
+     "sha256": "843a94713f52df02948b9a329d3377400b96dc2cf58dd8e9403679d40c7da3fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2428-2013",
    "path": "ordin/cultura/2013/2428",
    "short": "Ordin cultura nr. 2428/2013",
@@ -5909,6 +6299,396 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151501",
      "sha256": "28465837928c54532e803ab8e7bb9157094c9b70a4408d2bdfdf1e13e89fe913"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2478-2013",
+   "path": "ordin/cultura/2013/2478",
+   "short": "Ordin cultura nr. 2478/2013",
+   "title": "Ordinul nr. 2.478/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică \"B\", a imobilului din intr. I.L. Caragiale nr. 1, sectorul 2, București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153138",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153138",
+     "sha256": "9a5f73689c04d5070fd779b74dfe94add92ac9b0e2da4cfd637eb8073b859a4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2479-2013",
+   "path": "ordin/cultura/2013/2479",
+   "short": "Ordin cultura nr. 2479/2013",
+   "title": "Ordinul nr. 2.479/2013 privind clasarea în Lista monumentelor istorice, categoria monumente memoriale, grupa valorică \"B\", a imobilului \"Casa părintească a mamei compozitorului George Enescu\" din comuna Mihăileni, județul Botoșani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153139",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153139",
+     "sha256": "0df02b1c6231a91f728bd0745fc27c9e249ee43f88e53c6efbd23f3685a87924"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2560-2013",
+   "path": "ordin/cultura/2013/2560",
+   "short": "Ordin cultura nr. 2560/2013",
+   "title": "Ordinul nr. 2.560/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică A, a Bibliotecii Județene Astra din Sibiu, str. Barițiu nr. 5, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154552",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154552",
+     "sha256": "574010b1d3be57b85735a2a3d48f1320521320eca08a5ed206e7af4f8d0d6de1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2562-2013",
+   "path": "ordin/cultura/2013/2562",
+   "short": "Ordin cultura nr. 2562/2013",
+   "title": "Ordinul nr. 2.562/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de for public, grupa valorică B, a Monumentului Eroului intitulat \"Tatăl și Fiul\" din satul Cricova, comuna Valea Lungă, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154697",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154697",
+     "sha256": "c60c0f5941acdb209069e2cfe8cfd5b66c340cee5a099ffe90269bddb8e5d4c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2563-2013",
+   "path": "ordin/cultura/2013/2563",
+   "short": "Ordin cultura nr. 2563/2013",
+   "title": "Ordinul nr. 2.563/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de for public, grupa valorică B, a Monumentului Eroului intitulat \"Jertfa\" din satul Răzvadul de Sus, comuna Răzvad, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154667",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154667",
+     "sha256": "569b4f3d12917df68aeedcfe28825f23b2bfa1518029bff573a996185a613cc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2566-2013",
+   "path": "ordin/cultura/2013/2566",
+   "short": "Ordin cultura nr. 2566/2013",
+   "title": "Ordinul nr. 2.566/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică B, a Bateriei intermediare 4-5 Tunari, comuna Tunari, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154630",
+   "versions": [
+    {
+     "from": "2014-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154630",
+     "sha256": "3485ab53e3fa1c748e1dae8233e3caab22e330e46aec8d1bed5b2e77ec6f1590"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2567-2013",
+   "path": "ordin/cultura/2013/2567",
+   "short": "Ordin cultura nr. 2567/2013",
+   "title": "Ordinul nr. 2.567/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică B, a imobilului \"Reședință barocă\" din Oradea, Str. Republicii nr. 81, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154673",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154673",
+     "sha256": "836de22980db86525ee80cbf07ae994cd3406f259595e3d2282633c229c4865f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2568-2013",
+   "path": "ordin/cultura/2013/2568",
+   "short": "Ordin cultura nr. 2568/2013",
+   "title": "Ordinul nr. 2.568/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de for public, grupa valorică B, a Monumentului Eroului intitulat \"Paza Țării\" din satul Ocnița, comuna Ocnița, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154720",
+   "versions": [
+    {
+     "from": "2014-01-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154720",
+     "sha256": "ff5dc2814c4a8f07478f92fd0331fc198316b4769d17fedf864b28edfcb62e88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2570-2013",
+   "path": "ordin/cultura/2013/2570",
+   "short": "Ordin cultura nr. 2570/2013",
+   "title": "Ordinul nr. 2.570/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică B, a imobilului \"Casa Slătineanu\" din Calea Dorobanți nr. 60, sectorul 1, municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154631",
+   "versions": [
+    {
+     "from": "2014-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154631",
+     "sha256": "8ff4a8e7113a44c7f38cf0f9f7422f56f325076aebd88f6fe875350eec094aa4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2571-2013",
+   "path": "ordin/cultura/2013/2571",
+   "short": "Ordin cultura nr. 2571/2013",
+   "title": "Ordinul nr. 2.571/2013 privind clasarea în Lista monumentelor istorice a Curții Johannes Honterus și schimbarea din categoria \"monument\" a Bisericii evanghelice \"Biserica Neagră\" din municipiul Brașov, cod BV-II-m-A-11412, în categoria \"ansamblu\", cu denumirea Ansamblul \"Biserica Neagră\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154674",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154674",
+     "sha256": "a5e267ffc22fbad1e9c60917140ef060e3089c8c11369a2b410398d6507e7d8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2576-2013",
+   "path": "ordin/cultura/2013/2576",
+   "short": "Ordin cultura nr. 2576/2013",
+   "title": "Ordinul nr. 2.576/2013 privind declasarea parțială a monumentului de arhitectură Școala 80, cu păstrarea fațadelor principală și laterale, din Calea Dudești nr. 191, sectorul 3, București, înscris în Lista monumentelor istorice cu cod B-II-m-B-18622",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153404",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153404",
+     "sha256": "497439479066576ea6957fba337a05d2b1a3228e7e4de5b025608adf9efaefc0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2577-2013",
+   "path": "ordin/cultura/2013/2577",
+   "short": "Ordin cultura nr. 2577/2013",
+   "title": "Ordinul nr. 2.577/2013 privind schimbarea grupei de clasare a monumentului de arhitectură Biserica Sf. Nicolae din satul Hagiești, comuna Sinești, județul Ialomița, înscris în Lista monumentelor istorice cu cod IL-II-m-A-14132, în grupa valorică \"B\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153405",
+   "versions": [
+    {
+     "from": "2013-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153405",
+     "sha256": "c106dd14f6029dc5d1632e6364b39898984b789f3aeee002731e62585d196ae8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2604-2013",
+   "path": "ordin/cultura/2013/2604",
+   "short": "Ordin cultura nr. 2604/2013",
+   "title": "Ordinul nr. 2.604/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică B, a Fortului 4 Tunari, comuna Tunari, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154901",
+   "versions": [
+    {
+     "from": "2014-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154901",
+     "sha256": "773b5d5e7d3978e84f4db25161f57b2d39e4e62b1fc1c5cd4b4929c2d05bb599"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2646-2013",
+   "path": "ordin/cultura/2013/2646",
+   "short": "Ordin cultura nr. 2646/2013",
+   "title": "Ordinul nr. 2.646/2013 privind declasarea parțială din Lista monumentelor istorice a imobilului \"Casa Nițulescu\" din Pitești, Bd. Victoriei nr. 52-52A, județul Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153675",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153675",
+     "sha256": "f4505ad46af757bf829e40232e81995e9c25bb5c70b2ea15f79f635e56b87897"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2658-2013",
+   "path": "ordin/cultura/2013/2658",
+   "short": "Ordin cultura nr. 2658/2013",
+   "title": "Ordinul nr. 2.658/2013 privind declasarea din Lista monumentelor istorice a imobilului \"Băile Societății Petroșani\" din str. Grivița Roșie nr. 36, municipiul Petroșani, cod HD-II-m-B-03411, județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154698",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154698",
+     "sha256": "9054722086d95e4bbd0bd2a7ec0f157d50280fd6c5e6369b456a45dd76f852ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2690-2013",
+   "path": "ordin/cultura/2013/2690",
+   "short": "Ordin cultura nr. 2690/2013",
+   "title": "Ordinul nr. 2.690/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică B, a Bisericii Sf. Arh. Mihail și Gavril din Săcueni, str. Irinyi Janos nr. 19, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154675",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154675",
+     "sha256": "252333093864c9659cfe7e7c8cce0be1615f18ac69057cc89ed32261fc6f9179"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2691-2013",
+   "path": "ordin/cultura/2013/2691",
+   "short": "Ordin cultura nr. 2691/2013",
+   "title": "Ordinul nr. 2.691/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică B, a imobilului \"Fostul Hotel Viktor\" din Băile Felix, comuna Sânmartin, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154701",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154701",
+     "sha256": "84e008b270bd9d91a13c1f36f822f177c8711e4e6dddb47c30720a0263c34ccf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2692-2013",
+   "path": "ordin/cultura/2013/2692",
+   "short": "Ordin cultura nr. 2692/2013",
+   "title": "Ordinul nr. 2.692/2013 privind clasarea în Lista monumentelor istorice, categoria monumente de arhitectură, grupa valorică B, a imobilului \"Fostul Hotel Melchior\" din Băile Felix, comuna Sânmartin, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154692",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154692",
+     "sha256": "e4f2eb0076848f8a749de6e424037ad9ef3987eb192029da928779499caf519d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2732-2013",
+   "path": "ordin/cultura/2013/2732",
+   "short": "Ordin cultura nr. 2732/2013",
+   "title": "Ordinul nr. 2.732/2013 pentru acreditarea Muzeului Național \"Peleș\" - Sinaia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154553",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154553",
+     "sha256": "29bccdef70aece3c7b187fb9ca209444e6b8e2c1318e21ec52f79d0a8cfa2fd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2733-2013",
+   "path": "ordin/cultura/2013/2733",
+   "short": "Ordin cultura nr. 2733/2013",
+   "title": "Ordinul nr. 2.733/2013 pentru acreditarea Muzeului Național al Țăranului Român din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154554",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154554",
+     "sha256": "a0db6a0eb3fce47ffb9010190ff7f89a646982bd3797e7318a48dfce7afcbe28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2734-2013",
+   "path": "ordin/cultura/2013/2734",
+   "short": "Ordin cultura nr. 2734/2013",
+   "title": "Ordinul nr. 2.734/2013 pentru acreditarea Muzeului Național Brukenthal din Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154555",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154555",
+     "sha256": "7431cf65d385d52c4581063b7a5d7aa4cb15b01f489a887e11da921fbacf4aae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2735-2013",
+   "path": "ordin/cultura/2013/2735",
+   "short": "Ordin cultura nr. 2735/2013",
+   "title": "Ordinul nr. 2.735/2013 pentru acreditarea Muzeului Național de Istorie a Transilvaniei din Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154556",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154556",
+     "sha256": "ffa8945285c8cab6be3297775d14eb9ebc4a96fb6c94eced59dee1b154e48e69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2736-2013",
+   "path": "ordin/cultura/2013/2736",
+   "short": "Ordin cultura nr. 2736/2013",
+   "title": "Ordinul nr. 2.736/2013 pentru acreditarea Muzeului Național al Hărților și Cărții Vechi din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154557",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154557",
+     "sha256": "570dcf721afbdd414fc5780e4af88d569a3a1b3676502a5db96f039885c47511"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2737-2013",
+   "path": "ordin/cultura/2013/2737",
+   "short": "Ordin cultura nr. 2737/2013",
+   "title": "Ordinul nr. 2.737/2013 pentru acreditarea Muzeului de Artă \"Vasile Grigore\" - Pictor și Colecționar din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154558",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154558",
+     "sha256": "cb5885edf971860e9380d279d3d1440aeb2bead5a0e7b76883e6b2aaf860a9e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2738-2013",
+   "path": "ordin/cultura/2013/2738",
+   "short": "Ordin cultura nr. 2738/2013",
+   "title": "Ordinul nr. 2.738/2013 pentru acreditarea Muzeului Național de Istorie Naturală \"Grigore Antipa\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154559",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154559",
+     "sha256": "81d68b899454fcf720138f82ecd5a33472dbe10024410094e19e2e17aeae0b01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2739-2013",
+   "path": "ordin/cultura/2013/2739",
+   "short": "Ordin cultura nr. 2739/2013",
+   "title": "Ordinul nr. 2.739/2013 privind declasarea din Lista monumentelor istorice a imobilului \"Baia Publică\" din Giurgiu, Str. Parcului nr. 2, județul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154696",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154696",
+     "sha256": "f6af5d6643f220e0f4a432fae8fde1f2fc3520be83eb93ebdb6a2fb8710eb4d9"
     }
    ]
   },
@@ -8193,6 +8973,141 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3201-2013",
+   "path": "ordin/educatie/2013/3201",
+   "short": "Ordin educatie nr. 3201/2013",
+   "title": "Ordinul nr. 3.201/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Harul\" din municipiul Lugoj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145695",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145695",
+     "sha256": "4de917f3b92f3baa8fa77a24322ac68e896fb88b5a66f5bd23f5d2c3f96abf87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3204-2013",
+   "path": "ordin/educatie/2013/3204",
+   "short": "Ordin educatie nr. 3204/2013",
+   "title": "Ordinul nr. 3.204/2013 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"electronică automatizări\", calificările profesionale \"tehnician aparate electromedicale\", \"tehnician în echipamente biomedicale\", domeniul \"construcții, instalații și lucrări publice\", calificările profesionale \"topograf în construcții\", \"tehnician proiectant urbanism și amenajarea teritoriului\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic de Arte și Meserii \"Constantin Brâncuși\" din municipiul Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145689",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145689",
+     "sha256": "ec0c2640d6de8ae2bf5cfdabc741161fc9faac16e461f30033ffc17bde95cb34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3210-2013",
+   "path": "ordin/educatie/2013/3210",
+   "short": "Ordin educatie nr. 3210/2013",
+   "title": "Ordinul nr. 3.210/2013 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"umanist\", specializarea \"filologie\" din cadrul unității de învățământ preuniversitar particular Colegiul Particular \"Vasile Goldiș\" din municipiul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145696",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145696",
+     "sha256": "ab276b95fbb3a640ee5150de51e382f655d0f009ad104effaa136f808d1c11ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3211-2013",
+   "path": "ordin/educatie/2013/3211",
+   "short": "Ordin educatie nr. 3211/2013",
+   "title": "Ordinul nr. 3.211/2013 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"protecția mediului\", calificarea profesională \"tehnician laborant pentru protecția calității mediului\" din cadrul unității de învățământ preuniversitar de stat Colegiul \"Emil Racoviță\" din municipiul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145688",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145688",
+     "sha256": "6897516a26754a44e8b0d4512c26abcabde043ab8449f39fe073ecc91ceb374e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3212-2013",
+   "path": "ordin/educatie/2013/3212",
+   "short": "Ordin educatie nr. 3212/2013",
+   "title": "Ordinul nr. 3.212/2013 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical generalist\" și \"asistent medical de farmacie\" din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Dr. Bălin Alexandru\" din municipiul Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145701",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145701",
+     "sha256": "229f31afd1eab90d8761c1d9d296702984992435561c39637e9e7e3800b41477"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3230-2013",
+   "path": "ordin/educatie/2013/3230",
+   "short": "Ordin educatie nr. 3230/2013",
+   "title": "Ordinul nr. 3.230/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Planeta Copiilor\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145690",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145690",
+     "sha256": "5323c7130c77f944cb99cffbc27ca391c241b2564d38da578bb9f7475fcbfbb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3231-2013",
+   "path": "ordin/educatie/2013/3231",
+   "short": "Ordin educatie nr. 3231/2013",
+   "title": "Ordinul nr. 3.231/2013 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"electric\", calificarea profesională \"tehnician metrolog\", domeniul \"electronică automatizări\", calificarea profesională \"tehnician operator telematică\" din cadrul unității de învățământ preuniversitar de stat Grupul Școlar Energetic nr. 1 din municipiul Târgu Jiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145703",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145703",
+     "sha256": "ac5b3a50fb385a14bd4d1a1ce31c7ae06d99fffa96aa189b62afe7441acb98b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3232-2013",
+   "path": "ordin/educatie/2013/3232",
+   "short": "Ordin educatie nr. 3232/2013",
+   "title": "Ordinul nr. 3.232/2013 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"turism și alimentație\", calificarea profesională \"agent de turism - ghid\" din cadrul unității de învățământ preuniversitar de stat Colegiul Economic \"Emanuel Gojdu\" din municipiul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145704",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145704",
+     "sha256": "06ce656ff50df8afa25ea5ce1f3d66d2c6c43cf02ab39dafc2d92740d1846ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3233-2013",
+   "path": "ordin/educatie/2013/3233",
+   "short": "Ordin educatie nr. 3233/2013",
+   "title": "Ordinul nr. 3.233/2013 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"electronică automatizări\", calificarea profesională \"tehnician operator tehnică de calcul\" din cadrul unității de învățământ preuniversitar de stat Colegiul Tehnic \"Domnul Tudor\" din municipiul Drobeta-Turnu Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145705",
+   "versions": [
+    {
+     "from": "2013-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145705",
+     "sha256": "ec3f60256997a44cda0e6240bf274911895c17c320cbd699dd49e21dc0d8dd6c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3235-2013",
    "path": "ordin/educatie/2013/3235",
    "short": "Ordin educatie nr. 3235/2013",
@@ -8234,6 +9149,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145830",
      "sha256": "405dba70a26638c5c2cde90d5617ba41798bbf0c2dbf64592aa658c68d2b01da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3306-2013",
+   "path": "ordin/educatie/2013/3306",
+   "short": "Ordin educatie nr. 3306/2013",
+   "title": "Ordinul nr. 3.306/2013 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"tehnic\", domeniul \"construcții, instalații și lucrări\", calificarea profesională \"tehnician în construcții și lucrări publice\", domeniul \"mecanică\", calificarea profesională \"tehnician \"mecatronist\", domeniul \"fabricarea produselor din lemn\", calificarea profesională \"tehnician designer mobilă și amenajări interioare\", domeniul \"electric\", calificarea profesională \"tehnician electrotehnist\", profilul \"resurse naturale și protecția mediului\", domeniul \"agricultură\", calificarea profesională \"tehnician în agricultură\" din cadrul unității de învățământ preuniversitar de stat Liceul Tehnologic \"Nicolae Bălcescu\" din localitatea Întorsura Buzăului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146049",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146049",
+     "sha256": "8a19aecb01df16799fd1019166ae131c2240eb8a4804085bbbb09d1d6ddb43e3"
     }
    ]
   },
@@ -8448,6 +9378,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3652-2013",
+   "path": "ordin/educatie/2013/3652",
+   "short": "Ordin educatie nr. 3652/2013",
+   "title": "Ordinul nr. 3.652/2013 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada februarie-martie 2013, începând cu anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147860",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147860",
+     "sha256": "0c158f298a7f752dacc13341c09b5176133ca6b8aad8dd76a7929a7e432d19bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3653-2013",
+   "path": "ordin/educatie/2013/3653",
+   "short": "Ordin educatie nr. 3653/2013",
+   "title": "Ordinul nr. 3.653/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială Metropolitană \"Academia Română pentru Copii\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147912",
+   "versions": [
+    {
+     "from": "2013-05-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147912",
+     "sha256": "e09b7aeeb9fcb55edd78eb084ececc35e6bb345f46ad777ecdb5bbde8ec92e68"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3674-2013",
    "path": "ordin/educatie/2013/3674",
    "short": "Ordin educatie nr. 3674/2013",
@@ -8493,6 +9453,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3746-2013",
+   "path": "ordin/educatie/2013/3746",
+   "short": "Ordin educatie nr. 3746/2013",
+   "title": "Ordinul nr. 3.746/2013 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada februarie-martie 2013, începând cu anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148699",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148699",
+     "sha256": "051c2d49a839b7e3a1e496abe730bac8477d8901f7719df00020df436e14d9b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3750-2013",
+   "path": "ordin/educatie/2013/3750",
+   "short": "Ordin educatie nr. 3750/2013",
+   "title": "Ordinul nr. 3.750/2013 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificarea profesională \"asistent medical generalist\", din cadrul unității de învățământ preuniversitar particular Școala Postliceală Sanitară \"Carol Davila\" din municipiul Târgu Jiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148692",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148692",
+     "sha256": "aba285aadce199a5bdacd934112003f638a8d94ee516f34214d79eda7ab72c48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3751-2013",
+   "path": "ordin/educatie/2013/3751",
+   "short": "Ordin educatie nr. 3751/2013",
+   "title": "Ordinul nr. 3.751/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Normal \"Lumina\" din municipiul Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148694",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148694",
+     "sha256": "d018d98a2da1ebb9b6b5be65b36d85d7248e01258bb844106ffee5f2ab5192ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3752-2013",
+   "path": "ordin/educatie/2013/3752",
+   "short": "Ordin educatie nr. 3752/2013",
+   "title": "Ordinul nr. 3.752/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Normal \"Casa Speranței\" din municipiul Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148698",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148698",
+     "sha256": "be59d5a8c360f7b7383f7deab26a64d4054030184c88f2cf986cfa2ccc537134"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3805-2013",
    "path": "ordin/educatie/2013/3805",
    "short": "Ordin educatie nr. 3805/2013",
@@ -8504,6 +9524,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148586",
      "sha256": "25ca3d3b066e2822d750d1ea88fdb3b3e99063dccc9f64ad4e9a1e4e44f5e775"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3813-2013",
+   "path": "ordin/educatie/2013/3813",
+   "short": "Ordin educatie nr. 3813/2013",
+   "title": "Ordinul nr. 3.813/2013 pentru aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149043",
+   "versions": [
+    {
+     "from": "2013-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149043",
+     "sha256": "9482abfc4f437736abcfbaf261514ba2be99e6043006fffb8d46b36661e18c1f"
     }
    ]
   },
@@ -8553,6 +9588,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3847-2013",
+   "path": "ordin/educatie/2013/3847",
+   "short": "Ordin educatie nr. 3847/2013",
+   "title": "Ordinul nr. 3.847/2013 privind aprobarea bugetelor de venituri și cheltuieli pe anul 2013 ale institutelor naționale de cercetare-dezvoltare din coordonarea Ministerului Educației Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150746",
+   "versions": [
+    {
+     "from": "2013-08-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150746",
+     "sha256": "89c5f9ce1eb1b42789056709500517b588267cd176d2e2c825bd6d6bf9afbea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3867-2013",
+   "path": "ordin/educatie/2013/3867",
+   "short": "Ordin educatie nr. 3867/2013",
+   "title": "Ordinul nr. 3.867/2013 pentru modificarea Ordinului ministrului educației naționale nr. 3.653/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială Metropolitană \"Academia Română pentru Copii\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149081",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149081",
+     "sha256": "04e6a3c828d05b3ee65b8f89465e57c17102da23e8ac7ba8a7b47f38052ad30a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3894-2013",
    "path": "ordin/educatie/2013/3894",
    "short": "Ordin educatie nr. 3894/2013",
@@ -8583,6 +9648,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3943-2013",
+   "path": "ordin/educatie/2013/3943",
+   "short": "Ordin educatie nr. 3943/2013",
+   "title": "Ordinul nr. 3.943/2013 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 3.813/2013 privind aprobarea listei nominale a beneficiarilor Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziționării de calculatoare, pentru anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149736",
+   "versions": [
+    {
+     "from": "2013-07-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149736",
+     "sha256": "5f9e1c085a356ea4a9db86fb14ce4e1a67df9afdc877614c12b374794aacdfd2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3974-2013",
    "path": "ordin/educatie/2013/3974",
    "short": "Ordin educatie nr. 3974/2013",
@@ -8594,6 +9674,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149323",
      "sha256": "03c7df23566d6b4b2a2ee3428c24b147866e1985439a5de0951378628e293bd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3980-2013",
+   "path": "ordin/educatie/2013/3980",
+   "short": "Ordin educatie nr. 3980/2013",
+   "title": "Ordinul nr. 3.980/2013 pentru modificarea art. 1 din Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.389/2012 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Butterfly\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149553",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149553",
+     "sha256": "e8ed15af2233a1d8c10c4ae7b8470dd803b62934323852368b26b419dbbda215"
     }
    ]
   },
@@ -8628,6 +9723,141 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4014-2013",
+   "path": "ordin/educatie/2013/4014",
+   "short": "Ordin educatie nr. 4014/2013",
+   "title": "Ordinul nr. 4.014/2013 pentru modificarea și completarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.410/2012 privind acordarea acreditării pentru nivelul de învățământ \"gimnazial\" din cadrul unității de învățământ preuniversitar particular Școala Mea din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149584",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149584",
+     "sha256": "ca47f039f0676d39206ac13f5f235dc541fbfdd02d71b352c5fa3a72a37450b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4015-2013",
+   "path": "ordin/educatie/2013/4015",
+   "short": "Ordin educatie nr. 4015/2013",
+   "title": "Ordinul nr. 4.015/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița Creștină \"David\" din municipiul Zalău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149527",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149527",
+     "sha256": "c917030aa0e63cd30d056c5decb907227b9908e72594019065c77bfed36f706f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4016-2013",
+   "path": "ordin/educatie/2013/4016",
+   "short": "Ordin educatie nr. 4016/2013",
+   "title": "Ordinul nr. 4.016/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Panda\" din localitatea Buftea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149528",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149528",
+     "sha256": "066ae1fa9bf87bf9df81e6818cda32e1977b849902acc7466efaf185cb258b33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4017-2013",
+   "path": "ordin/educatie/2013/4017",
+   "short": "Ordin educatie nr. 4017/2013",
+   "title": "Ordinul nr. 4.017/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Henri Coandă\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149529",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149529",
+     "sha256": "18177205860c692d2f2669c890499718c2b2a87b1c9280e3190ed6297c07537b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4018-2013",
+   "path": "ordin/educatie/2013/4018",
+   "short": "Ordin educatie nr. 4018/2013",
+   "title": "Ordinul nr. 4.018/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Șapte ani\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149530",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149530",
+     "sha256": "948341e3542657426e75163fa614900e5a2e3e56f54b62845a65745fa01e6984"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4019-2013",
+   "path": "ordin/educatie/2013/4019",
+   "short": "Ordin educatie nr. 4019/2013",
+   "title": "Ordinul nr. 4.019/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Gimnazială \"Cornerstone\" - Filiala Asociației \"Hope for the Children International\" din municipiul Dorohoi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149531",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149531",
+     "sha256": "f5406b2a07de6e6291f45876acb6069986a8d0a58aa83c999aff1570616b4715"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4020-2013",
+   "path": "ordin/educatie/2013/4020",
+   "short": "Ordin educatie nr. 4020/2013",
+   "title": "Ordinul nr. 4.020/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Primară \"Paradis\" din municipiul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149532",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149532",
+     "sha256": "905382e5faaa3f725a282c689b9e7249f06e4a9a5a8165a5469d8555a43131ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4037-2013",
+   "path": "ordin/educatie/2013/4037",
+   "short": "Ordin educatie nr. 4037/2013",
+   "title": "Ordinul nr. 4.037/2013 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Grădinița Creștină \"Copiii Harului\" din municipiul Lugoj de către unitatea de învățământ preuniversitar particular Școala Primară \"Harul\" din municipiul Lugoj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149683",
+   "versions": [
+    {
+     "from": "2013-07-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149683",
+     "sha256": "c3d6fd2dc8dfa1a7b1ddc6b88a61d86165d2f91de1ce89d39c906c98a7c359c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4038-2013",
+   "path": "ordin/educatie/2013/4038",
+   "short": "Ordin educatie nr. 4038/2013",
+   "title": "Ordinul nr. 4.038/2013 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada martie-mai 2013, începând cu anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149565",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149565",
+     "sha256": "e77b5be3b19f205e70188fa8e877f9224df1757f7e15f4e8102df6d589b52cce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4184-2013",
    "path": "ordin/educatie/2013/4184",
    "short": "Ordin educatie nr. 4184/2013",
@@ -8643,6 +9873,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4204-2013",
+   "path": "ordin/educatie/2013/4204",
+   "short": "Ordin educatie nr. 4204/2013",
+   "title": "Ordinul nr. 4.204/2013 pentru modificarea anexelor nr. 3, 5, 9, 18, 19, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34 și 35 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 6.560/2012 privind aprobarea standardelor minimale necesare și obligatorii pentru conferirea titlurilor didactice din învățământul superior și a gradelor profesionale de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149934",
+   "versions": [
+    {
+     "from": "2013-07-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149934",
+     "sha256": "53af7b404f115785a002b562010504b1cf7b3a4324a8b50325d100dfc18d1477"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4205-2013",
    "path": "ordin/educatie/2013/4205",
    "short": "Ordin educatie nr. 4205/2013",
@@ -8654,6 +9899,141 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149956",
      "sha256": "fe68a0e02a4bfe71d162860bc9e20a97710f787188d4de5dc20db97893505d91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4215-2013",
+   "path": "ordin/educatie/2013/4215",
+   "short": "Ordin educatie nr. 4215/2013",
+   "title": "Ordinul nr. 4.215/2013 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada februarie-iunie 2013, începând cu anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150175",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150175",
+     "sha256": "763acf1a456c6de31fd4041f7675909688719d10c9d129f6d6c9879502e7f8a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4229-2013",
+   "path": "ordin/educatie/2013/4229",
+   "short": "Ordin educatie nr. 4229/2013",
+   "title": "Ordinul nr. 4.229/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală \"Sf. Theodor\" din municipiul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150381",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150381",
+     "sha256": "967a9e6ade96017bb9d3b68ffa68e072b2d64a395b681ab3ddc8b51c57cab05d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4230-2013",
+   "path": "ordin/educatie/2013/4230",
+   "short": "Ordin educatie nr. 4230/2013",
+   "title": "Ordinul nr. 4.230/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Școala Postliceală F.E.G. din municipiul Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150380",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150380",
+     "sha256": "c6160937fd2f740bdad37912259b6775b194290d34da08055fc1c7eb60ec4768"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4231-2013",
+   "path": "ordin/educatie/2013/4231",
+   "short": "Ordin educatie nr. 4231/2013",
+   "title": "Ordinul nr. 4.231/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Tic - Pitic\" din municipiul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150353",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150353",
+     "sha256": "98e322c859b1abba50b268e51a2baf91194936acef904d0e6288c414546cd766"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4232-2013",
+   "path": "ordin/educatie/2013/4232",
+   "short": "Ordin educatie nr. 4232/2013",
+   "title": "Ordinul nr. 4.232/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Prelungit \"Paradisul Prichindeilor\" din municipiul Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150354",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150354",
+     "sha256": "3ad4f0e1910afe17d4d30c9dd2fde65798f229a32b0b823b98ad4906d571064c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4233-2013",
+   "path": "ordin/educatie/2013/4233",
+   "short": "Ordin educatie nr. 4233/2013",
+   "title": "Ordinul nr. 4.233/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița nr. 20 \"Samariteanul\" din municipiul Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150194",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150194",
+     "sha256": "66d1ca630f5c8d1c4413825dadbc6227bc563943145e29e4a8873c296ce678bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4234-2013",
+   "path": "ordin/educatie/2013/4234",
+   "short": "Ordin educatie nr. 4234/2013",
+   "title": "Ordinul nr. 4.234/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Colegiul Ecologic \"Prof. Univ. Dr. Alexandru Ionescu\" din municipiul Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150196",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150196",
+     "sha256": "687cfb32d9b793ba4d88f07c85721abedc16c0fcb091b0544f13b779f00471e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4235-2013",
+   "path": "ordin/educatie/2013/4235",
+   "short": "Ordin educatie nr. 4235/2013",
+   "title": "Ordinul nr. 4.235/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Ariel\" din municipiul Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150197",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150197",
+     "sha256": "cd8ffcbe001243a0501f1482061f851bab403b75c9a53be20cea36e9b3e6d0b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4236-2013",
+   "path": "ordin/educatie/2013/4236",
+   "short": "Ordin educatie nr. 4236/2013",
+   "title": "Ordinul nr. 4.236/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Normal \"Axia\" din municipiul Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150198",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150198",
+     "sha256": "becc29584d13a2a278d7f0229d72b209259bf7526d8692fd7d821be1d89cfc87"
     }
    ]
   },
@@ -8688,6 +10068,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4479-2013",
+   "path": "ordin/educatie/2013/4479",
+   "short": "Ordin educatie nr. 4479/2013",
+   "title": "Ordinul nr. 4.479/2013 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în luna iunie 2013, începând cu anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150958",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150958",
+     "sha256": "04248f277910a2a95f7e633fd619275a2cac1df4aa94676eca8c55914258b8e8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4813-2013",
    "path": "ordin/educatie/2013/4813",
    "short": "Ordin educatie nr. 4813/2013",
@@ -8714,6 +10109,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151686",
      "sha256": "66df26044c352ab11ed4174f02b747aefffa9b9fd81df774ab352f067eec5ce8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4892-2013",
+   "path": "ordin/educatie/2013/4892",
+   "short": "Ordin educatie nr. 4892/2013",
+   "title": "Ordinul nr. 4.892/2013 pentru modificarea anexei la Ordinul ministrului educației naționale nr. 4.038/2013 privind acordarea acreditării pentru nivelurile de învățământ, specializările și calificările profesionale din cadrul unităților de învățământ preuniversitar de stat evaluate în perioada martie-mai 2013, începând cu anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151305",
+   "versions": [
+    {
+     "from": "2013-09-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151305",
+     "sha256": "6801e71a7ad6d72bbe4ac11ccd54686f6b6c456904ba48eb32dc2c3da61c91d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4893-2013",
+   "path": "ordin/educatie/2013/4893",
+   "short": "Ordin educatie nr. 4893/2013",
+   "title": "Ordinul nr. 4.893/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Liceul Teoretic \"Educațional Center\" din municipiul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151273",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151273",
+     "sha256": "05768abd0e845b7beff7cbd6e3146cb7256dd56aa98e3531e97d8301ee9190f9"
     }
    ]
   },
@@ -8868,6 +10293,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5076-2013",
+   "path": "ordin/educatie/2013/5076",
+   "short": "Ordin educatie nr. 5076/2013",
+   "title": "Ordinul nr. 5.076/2013 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"resurse naturale și protecția mediului\", domeniul \"industrie alimentară\", calificarea profesională \"tehnician în industria alimentară\" din cadrul unității de învățământ preuniversitar de stat Liceul Tehnologic din localitatea Țăndărei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151638",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151638",
+     "sha256": "9d61ed9df12b3ec27cf00a37c0c534364d9103e6c7f4c1e7d618fb3b4317ae95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5077-2013",
+   "path": "ordin/educatie/2013/5077",
+   "short": "Ordin educatie nr. 5077/2013",
+   "title": "Ordinul nr. 5.077/2013 privind acordarea acreditării pentru nivelul de învățământ \"liceal\", profilul \"servicii\", domeniul \"turism și alimentație\", calificarea profesională \"tehnician în turism\" din cadrul unității de învățământ preuniversitar de stat Liceul Tehnologic \"Victor Slăvescu\" din localitatea Rucăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151639",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151639",
+     "sha256": "5fadcccfac79eb402c125c446ab44a76876bca411e1d62833320f8ea69537597"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5078-2013",
+   "path": "ordin/educatie/2013/5078",
+   "short": "Ordin educatie nr. 5078/2013",
+   "title": "Ordinul nr. 5.078/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița cu Program Normal \"Iosif\" din municipiul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151640",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151640",
+     "sha256": "f35de3e0e2b646a875ef2cf939238ce103a746fc8d4130ce3c50d8cdbdad9868"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5100-2013",
+   "path": "ordin/educatie/2013/5100",
+   "short": "Ordin educatie nr. 5100/2013",
+   "title": "Ordinul nr. 5.100/2013 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2013 ale institutelor naționale de cercetare-dezvoltare din coordonarea Ministerului Educației Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153006",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153006",
+     "sha256": "5235ce44a9a6da19df27307926334c0c476e234ad825010d323101e457383e2a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5144-2013",
    "path": "ordin/educatie/2013/5144",
    "short": "Ordin educatie nr. 5144/2013",
@@ -8894,6 +10379,21 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153310",
      "sha256": "f6e703039280905af89219e36729e2e4e5118ab78bd218dbbcd7829ced13f9f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5200-2013",
+   "path": "ordin/educatie/2013/5200",
+   "short": "Ordin educatie nr. 5200/2013",
+   "title": "Ordinul nr. 5.200/2013 privind acordarea acreditării pentru nivelul de învățământ \"postliceal\", domeniul \"sănătate și asistență pedagogică\", calificările profesionale \"asistent medical de radiologie\" și \"asistent medical de laborator\" din cadrul unității de învățământ preuniversitar de stat Școala Postliceală Sanitară \"Fundeni\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151855",
+   "versions": [
+    {
+     "from": "2013-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151855",
+     "sha256": "21bfe343c9dab923f76e0b53b3778caf7e9613158b368b472783bed8922685c4"
     }
    ]
   },
@@ -8988,6 +10488,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5471-2013",
+   "path": "ordin/educatie/2013/5471",
+   "short": "Ordin educatie nr. 5471/2013",
+   "title": "Ordinul nr. 5.471/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Licurici\" din satul Slobozia, comuna Voinești, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152829",
+   "versions": [
+    {
+     "from": "2013-11-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152829",
+     "sha256": "b20f1e99770a1e6c0772e4102229236754138e4934d3ca63325c7eab566d1857"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5473-2013",
+   "path": "ordin/educatie/2013/5473",
+   "short": "Ordin educatie nr. 5473/2013",
+   "title": "Ordinul nr. 5.473/2013 privind acordarea acreditării pentru nivelul de învățământ \"preșcolar\" din cadrul unității de învățământ preuniversitar particular Școala Primară \"Dreamland\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152871",
+   "versions": [
+    {
+     "from": "2013-11-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152871",
+     "sha256": "48e282c7d79eadd918ae78f245fac6b1923aa05d4833b8f4ad327bef75877e3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5474-2013",
+   "path": "ordin/educatie/2013/5474",
+   "short": "Ordin educatie nr. 5474/2013",
+   "title": "Ordinul nr. 5.474/2013 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Grădinița \"Tom și Jerry\" din municipiul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152974",
+   "versions": [
+    {
+     "from": "2013-11-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152974",
+     "sha256": "13a610609b5e77abf8673246663502929cbe944effbfaa0ef6c9ae6d77a7346f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5533-2013",
    "path": "ordin/educatie/2013/5533",
    "short": "Ordin educatie nr. 5533/2013",
@@ -9033,6 +10578,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5601-2013",
+   "path": "ordin/educatie/2013/5601",
+   "short": "Ordin educatie nr. 5601/2013",
+   "title": "Ordinul nr. 5.601/2013 privind schimbarea denumirii unității de învățământ preuniversitar particular Școala Gimnazială \"Little London\" din municipiul București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153521",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153521",
+     "sha256": "63b056fc8b59aca20011300ec7f9592f6800fc4b820b79cdf0f5366a7ead63de"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5641-2013",
    "path": "ordin/educatie/2013/5641",
    "short": "Ordin educatie nr. 5641/2013",
@@ -9048,6 +10608,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5646-2013",
+   "path": "ordin/educatie/2013/5646",
+   "short": "Ordin educatie nr. 5646/2013",
+   "title": "Ordinul nr. 5.646/2013 privind aprobarea bugetelor de venituri și cheltuieli rectificate pe anul 2013 ale institutelor naționale de cercetare-dezvoltare din coordonarea Ministerului Educației Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154477",
+   "versions": [
+    {
+     "from": "2014-01-13",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154477",
+     "sha256": "272aff88c30b058feace76fc24cfc353cc19321a79150ea6ba9ac9423e40d3b2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5648-2013",
    "path": "ordin/educatie/2013/5648",
    "short": "Ordin educatie nr. 5648/2013",
@@ -9059,6 +10634,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153873",
      "sha256": "a902a83e9a0a91e9052d1448c385d8318a948c01bb6fb7252f679b624d785737"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5717-2013",
+   "path": "ordin/educatie/2013/5717",
+   "short": "Ordin educatie nr. 5717/2013",
+   "title": "Ordinul nr. 5.717/2013 pentru aprobarea bugetelor de venituri și cheltuieli pe anul 2013 ale institutelor de cercetare-dezvoltare din coordonarea Ministerului Educației Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154269",
+   "versions": [
+    {
+     "from": "2014-01-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154269",
+     "sha256": "00c5a422096958865bad62e307ae7036399859e15c65ea00e6e94cb3e7a0dcf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5760-2013",
+   "path": "ordin/educatie/2013/5760",
+   "short": "Ordin educatie nr. 5760/2013",
+   "title": "Ordinul nr. 5.760/2013 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Sfânta Ana\" din municipiul Câmpulung Moldovenesc de către unitatea de învățământ preuniversitar particular Grădinița \"Sfânta Maria\" din municipiul Rădăuți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154593",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154593",
+     "sha256": "a60b6b3e455b37e97335c3000a42bfdf225ae64f1a357b56e5234d3af46d0095"
     }
    ]
   },
@@ -11414,6 +13019,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153655",
      "sha256": "30931c94248514256076ebd50cbbdda3b190f3f8e8ac1db63e0f016080100548"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-functiepublica-559-2013",
+   "path": "ordin/functiepublica/2013/559",
+   "short": "Ordin functiepublica nr. 559/2013",
+   "title": "Ordinul nr. 559/2013 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147590",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147590",
+     "sha256": "8a7e98b43c8d62d777c7aa1c86e4144158bec2f68ef660b310502b35f50d2fb7"
     }
    ]
   },

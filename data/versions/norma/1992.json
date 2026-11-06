@@ -226,6 +226,81 @@
      "sha256": "acfb57048e2fabbe305a2c91698b8ee4db1046e6cddbea41544dcc8da6f6a99e"
     }
    ]
+  },
+  {
+   "slug": "norma-guvern-zi0327-1992",
+   "path": "norma/guvern/1992/03-27",
+   "short": "Norma guvern din 27 martie 1992",
+   "title": "Norme din 27 martie 1992 privind reglementarea unor probleme financiare în activitatea sportiva pe anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52731",
+   "versions": [
+    {
+     "from": "1992-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52731",
+     "sha256": "261811833dfc8d102e8ed2b974327bb807ebffe3bc688b2310e982175bc7c9d1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0516-1992",
+   "path": "norma/guvern/1992/05-16",
+   "short": "Norma guvern din 16 mai 1992",
+   "title": "Norme metodologice din 16 mai 1992 privind vînzarea acțiunilor societăților comerciale care se privatizează înainte de organizarea Fondurilor Proprietății Private și a Fondului Proprietății de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55146",
+   "versions": [
+    {
+     "from": "1992-06-05",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55146",
+     "sha256": "27a74dfe768e6eb99a7f80f3d3c55773d929216b15122af1ce2c78a3baf26659"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0611-1992",
+   "path": "norma/guvern/1992/06-11",
+   "short": "Norma guvern din 11 iunie 1992",
+   "title": "Norme metodologice din 11 iunie 1992 privind fabricatia, importul și utilizarea de către agenții economici a balantelor cu afisaj electronic și a aparatelor de marcat electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55252",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55252",
+     "sha256": "005dc93b2d0f2b4b4b940b1eea8af94e501c7df60fb6aa510f00e2dcc79faf3a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0620-1992",
+   "path": "norma/guvern/1992/06-20",
+   "short": "Norma guvern din 20 iunie 1992",
+   "title": "Norme metodologice din 20 iunie 1992 privind regimul de import al deșeurilor și reziduurilor de orice natura, precum și al altor mărfuri periculoase pentru sănătatea populației și pentru mediul înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74667",
+   "versions": [
+    {
+     "from": "1992-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74667",
+     "sha256": "e06b15a7816cf26acc9cb5fe5d9157e193410b27762a788530a290727fcbd836"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi0727-1992",
+   "path": "norma/guvern/1992/07-27",
+   "short": "Norma guvern din 27 iulie 1992",
+   "title": "Norme din 27 iulie 1992 pentru aplicarea Ordonanței nr. 3/1992 referitoare la taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54680",
+   "versions": [
+    {
+     "from": "1992-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54680",
+     "sha256": "47743c72f63ed351a0b9d50cf1637b4bd4ca7d40c3c2370571360fef1b623670"
+    }
+   ]
   }
  ]
 }

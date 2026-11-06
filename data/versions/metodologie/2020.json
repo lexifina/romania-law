@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "metodologie/2020",
+ "acts": [
+  {
+   "slug": "metodologie-anre-zi0923-2020",
+   "path": "metodologie/anre/2020/09-23",
+   "short": "Metodologie anre din 23 septembrie 2020",
+   "title": "Metodologie din 23 septembrie 2020 de stabilire a prețului de vânzare a energiei electrice livrate clienților racordați într-un sistem electroenergetic izolat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230449",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230449",
+     "sha256": "e01c4321d1f48026eee03ce104f266a43232db384cc2484b384d75fa70b3f8c7"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-cnas-zi0311-2020",
+   "path": "metodologie/cnas/2020/03-11",
+   "short": "Metodologie cnas din 11 martie 2020",
+   "title": "Metodologie din 11 martie 2020 privind criteriile de selecție a personalului în vederea ocupării funcțiilor de specialiști în tehnologia informației și comunicațiilor în cadrul Casei Naționale de Asigurări de Sănătate, organizarea și desfășurarea selecției, precum și condițiile în care această categorie de personal își desfășoară activitatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224440",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224440",
+     "sha256": "b1a83589a1d7a86920b449c849d973263e0cfe2124cafa9b11dfb6da4329d5b1"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-justitie-zi0908-2020",
+   "path": "metodologie/justitie/2020/09-08",
+   "short": "Metodologie justitie din 8 septembrie 2020",
+   "title": "Metodologie din 8 septembrie 2020 de organizare și desfășurare a pregătirii profesionale a polițiștilor de penitenciare, precum și a criteriilor de evaluare a rezultatelor acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230410",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 119,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230410",
+     "sha256": "63e366550a151c35ae60d72127be284b3dc7577f76501c8a670895f18f249a9e"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-orda-zi0211-2020",
+   "path": "metodologie/orda/2020/02-11",
+   "short": "Metodologie orda din 11 februarie 2020",
+   "title": "Metodologie din 11 februarie 2020 privind comunicarea publică a operelor în spectacole și festivaluri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224744",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224744",
+     "sha256": "3f6735c3ab7742143d03a3ac904f10c2bd983f50d13a2d24fb19f6a3d1e03513"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-penitenciare-zi0817-2020",
+   "path": "metodologie/penitenciare/2020/08-17",
+   "short": "Metodologie penitenciare din 17 august 2020",
+   "title": "Metodologie din 17 august 2020 pentru desfășurarea probei practice de verificare a forței motrice, a abilităților în tehnici de autoapărare și imobilizare, necesare îndeplinirii atribuțiunilor de serviciu specifice grupelor de intervenție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229797",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229797",
+     "sha256": "024beeec4fae38474c75b25915a55f6168c226874d7bac30bf9c72335ce4f7bc"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sanatate-zi0526-2020",
+   "path": "metodologie/sanatate/2020/05-26",
+   "short": "Metodologie sanatate din 26 mai 2020",
+   "title": "Metodologie din 26 mai 2020 privind ocuparea, fără concurs, a posturilor vacante sau temporar vacante din cadrul Ministerului Sănătății și unităților aflate în subordinea, coordonarea și sub autoritatea Ministerului Sănătății, inclusiv funcțiile publice de execuție și conducere, pe perioadă determinată, în contextul instituirii stării de alertă pe teritoriul României, conform art. 11 din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226514",
+   "versions": [
+    {
+     "from": "2020-06-02",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226514",
+     "sha256": "a22f200e96fad81ede4adaf168b9b8dd2c24e1935d92164926a19d9efd3a2221"
+    }
+   ]
+  },
+  {
+   "slug": "metodologie-sport-zi1218-2020",
+   "path": "metodologie/sport/2020/12-18",
+   "short": "Metodologie sport din 18 decembrie 2020",
+   "title": "Metodologie din 18 decembrie 2020 privind finanțarea federațiilor sportive naționale de către Ministerul Tineretului și Sportului, în anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236014",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 96,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236014",
+     "sha256": "bda4b2d2d5d222285c7c359d470d4ca3a2341889180a3ebd4d1c76d309ce2045"
+    }
+   ]
+  }
+ ]
+}

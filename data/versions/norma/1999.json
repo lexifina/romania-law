@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "norma-cnas-zi0813-1999",
+   "path": "norma/cnas/1999/08-13",
+   "short": "Norma cnas din 13 august 1999",
+   "title": "Normă din 13 august 1999 de aplicare a Contractului-cadru privind condițiile acordării asistentei medicale în cadrul sistemului asigurărilor sociale de sănătate pe anul 1999, aprobat prin Hotărârea Guvernului nr. 312/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83487",
+   "versions": [
+    {
+     "from": "1999-09-07",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83487",
+     "sha256": "4c713193a6aec9e7115df2d0853206751df516528d0e85385c6f22f53c1e7cbb"
+    }
+   ]
+  },
+  {
    "slug": "norma-dezvoltare-12076-1999",
    "path": "norma/dezvoltare/1999/12076",
    "short": "Norma dezvoltare nr. 12076/1999",
@@ -404,6 +419,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17031",
      "sha256": "8e19980f87371d7f73809463113bbb34dd6503b29065e008f31d681992f78454"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-zi1210-1999",
+   "path": "norma/finante/1999/12-10",
+   "short": "Norma finante din 10 decembrie 1999",
+   "title": "Norme metodologice din 10 decembrie 1999 privind încheierea exercițiului bugetar al anului 1999 Operațiunile de încasări și plăti aferente exercițiului bugetar al anului 1999 se efectuează prin contul general al trezoreriei statului până la data de 30 decembrie 1999 inclusiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20307",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20307",
+     "sha256": "a0dea26f820bfd4f833ffe5c84f704984b1a5a78c4c7b81aa484e858afdd980b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1014-1999",
+   "path": "norma/guvern/1999/10-14",
+   "short": "Norma guvern din 14 octombrie 1999",
+   "title": "Norme metodologice*) din 14 octombrie 1999 de aplicare a Ordonanței Guvernului nr. 20/1994 *) privind măsuri pentru reducerea riscului seismic al construcțiilor existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19982",
+   "versions": [
+    {
+     "from": "1999-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19982",
+     "sha256": "d0fb36743ddf8653bb966e14ebbf19cd518faed86c38d7a6da6da502b47eec6c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1118-1999",
+   "path": "norma/guvern/1999/11-18",
+   "short": "Norma guvern din 18 noiembrie 1999",
+   "title": "Norme metodologice din 18 noiembrie 1999 privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19970",
+   "versions": [
+    {
+     "from": "1999-11-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19970",
+     "sha256": "31f6ef8a78616d0f869f83b5129b5bac97adcce2ae8fb58642aa9a7b3042b55d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-guvern-zi1228-1999",
+   "path": "norma/guvern/1999/12-28",
+   "short": "Norma guvern din 28 decembrie 1999",
+   "title": "Norme din 28 decembrie 1999 cu privire la aplicarea asigurării obligatorii de răspundere civilă pentru pagube produse terților prin accidente de autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20389",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20389",
+     "sha256": "c9f6dbcfefffd844d90635398b86549401fc6d4ec7b91fb5a8276cba5ef84e14"
     }
    ]
   },
