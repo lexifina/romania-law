@@ -69,6 +69,72 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-83-2024",
+"path": "local/constanta/crucea/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 83/2024 privind alegerea președintelui de ședință al Consiliului local al comunei Crucea, județul Constanța, pentru perioada octombrie 2024- decembrie 2024",
+"short": "HCL Crucea nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/176285",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--crucea-84-2024",
+"path": "local/constanta/crucea/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 84/2024 privind aprobarea organizării și componenței nominale a comisiilor de specialitate ale Consiliului Local al Comunei Crucea",
+"short": "HCL Crucea nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/176286",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--crucea-85-2024",
+"path": "local/constanta/crucea/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 85/2024 privind alegerea viceprimarului Comunei Crucea, Județul Constanța",
+"short": "HCL Crucea nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/176287",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-86-2024",
 "path": "local/constanta/crucea/2024/86",
 "kind": "local",
@@ -198,6 +264,29 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-92-2024",
+"path": "local/constanta/crucea/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 92/2024",
+"short": "HCL Crucea nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/180087",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

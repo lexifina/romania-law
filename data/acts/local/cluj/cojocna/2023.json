@@ -3,6 +3,72 @@
 "shard": "local/cluj/cojocna/2023",
 "acts": [
 {
+"slug": "hcl-cluj--cojocna-65-2023",
+"path": "local/cluj/cojocna/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 65/2023 privind rectificarea bugetului de venituri și cheltuieli și a programului de investiții al Comunei Cojocna pentru anul 2023",
+"short": "HCL Cojocna nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/125404",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-66-2023",
+"path": "local/cluj/cojocna/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 66/2023 privind aprobarea execuției bugetare pe cele două secțiuni (funcționare și dezvoltare) trimestrul III an 2023",
+"short": "HCL Cojocna nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/125405",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-67-2023",
+"path": "local/cluj/cojocna/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 67/2023 privind decontarea transportului interjudețean al asistenților personali ai elevilor care urmează o formă de învățământ special",
+"short": "HCL Cojocna nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/125406",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--cojocna-68-2023",
 "path": "local/cluj/cojocna/2023/68",
 "kind": "local",
@@ -22,6 +88,138 @@
 "council_name": "Consiliul Local al Comunei Cojocna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-69-2023",
+"path": "local/cluj/cojocna/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 69/2023 privind constituirea Consiliului Comunitar Consultativ la nivelul UAT Comuna Cojocna",
+"short": "HCL Cojocna nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/125408",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-70-2023",
+"path": "local/cluj/cojocna/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 70/2023 privind aprobarea documentației tehnico-economice (faza P.T.), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”Reabilitare energetică moderată a clădirii Primăriei Cojocna, jud. Cluj”",
+"short": "HCL Cojocna nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/127067",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-71-2023",
+"path": "local/cluj/cojocna/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 71/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Cojocna, judeţul Cluj, începând cu 1 ianuarie 2024",
+"short": "HCL Cojocna nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/129329",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-72-2023",
+"path": "local/cluj/cojocna/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 72/2023 privind rectificarea bugetului de venituri și cheltuieli al Comunei Cojocna pentru anul 2023",
+"short": "HCL Cojocna nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/130162",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-73-2023",
+"path": "local/cluj/cojocna/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 73/2023 privind modificarea statului de funcții, organigrama și a statul nominal de funcții ale aparatului de specialitate al primarului comunei Cojocna",
+"short": "HCL Cojocna nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/130163",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-74-2023",
+"path": "local/cluj/cojocna/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 74/2023 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2023 al SC Bai Cojocna SRL",
+"short": "HCL Cojocna nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/130164",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-cluj--cojocna-76-2023",
+"path": "local/cluj/cojocna/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 76/2023 privind implementarea proiectului „Achiziționare utilaje gospodărire comunală în comuna Cojocna, județul Cluj”",
+"short": "HCL Cojocna nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/133920",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-77-2023",
+"path": "local/cluj/cojocna/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 77/2023 privind rectificarea bugetului de venituri și cheltuieli și a programului de investiții al Comunei Cojocna pentru anul 2023",
+"short": "HCL Cojocna nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/133921",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--cojocna-78-2023",
 "path": "local/cluj/cojocna/2023/78",
 "kind": "local",
@@ -69,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-cluj--cojocna-79-2023",
+"path": "local/cluj/cojocna/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 79/2023 privind alegerea președintelui de ședință pentru o perioadă de cel mult 3 luni calendaristice, începând cu luna decembrie 2023",
+"short": "HCL Cojocna nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/135731",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--cojocna-80-2023",
 "path": "local/cluj/cojocna/2023/80",
 "kind": "local",
@@ -88,6 +352,96 @@
 "council_name": "Consiliul Local al Comunei Cojocna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-81-2023",
+"path": "local/cluj/cojocna/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 81/2023 privind inițierea demersurilor în vederea demarării proiectului ”CONSTRUIRE CENTRU DE COMUNITATE PENTRU ACTIVITĂȚI CULTURALE ÎN LOCALITATEA COJOCNA, JUDEȚUL CLUJ”",
+"short": "HCL Cojocna nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/135733",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-82-2023",
+"path": "local/cluj/cojocna/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 82/2023 privind aprobarea studiului de oportunitate întocmit de administratorul SC Bai Cojocna SRL în vederea încheierii actului adițional la contractul de închiriere privind imobilul constructie în suprafaţă de 878 mp. și terasă de 500 mp., din incinta Băilor Cojocna, înscrise în CF nr. 53479 Cojocna",
+"short": "HCL Cojocna nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/135734",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-83-2023",
+"path": "local/cluj/cojocna/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 83/2023",
+"short": "HCL Cojocna nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/135735",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-84-2023",
+"path": "local/cluj/cojocna/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 84/2023",
+"short": "HCL Cojocna nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/135736",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -3,6 +3,66 @@
  "shard": "local/cluj/viisoara/2020",
  "acts": [
   {
+   "slug": "hcl-cluj--viisoara-18-2020",
+   "path": "local/cluj/viisoara/2020/18",
+   "short": "HCL Viișoara nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2020 privind aprobarea preluării în proprietatea publică a comunei Viișoara a unor bunuri de natura activelor fixe",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21361",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-19-2020",
+   "path": "local/cluj/viisoara/2020/19",
+   "short": "HCL Viișoara nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 19/2020 privind aprobarea Regulamentului de Organizare și funcționare ,,Târg expozițional de animale și piață expozițională,, comuna Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21362",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-20-2020",
+   "path": "local/cluj/viisoara/2020/20",
+   "short": "HCL Viișoara nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 20/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21363",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-21-2020",
+   "path": "local/cluj/viisoara/2020/21",
+   "short": "HCL Viișoara nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 21/2020 privind aprobarea vânzării prin negociere direct către SDEE Transilvania Nord a echipamentelor energetice din lucrarea de investiție ,,Extindere rețea de distribuție în localitatea Urca, comuna Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21405",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21405",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-22-2020",
    "path": "local/cluj/viisoara/2020/22",
    "short": "HCL Viișoara nr. 22/2020",
@@ -78,6 +138,51 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-27-2020",
+   "path": "local/cluj/viisoara/2020/27",
+   "short": "HCL Viișoara nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 27/2020 privind alegerea comisiei de validare și numărare a voturilor",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23350",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-28-2020",
+   "path": "local/cluj/viisoara/2020/28",
+   "short": "HCL Viișoara nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 28/2020 privind organizarea comisiilor de specialitate a Consiliului Local al comunei Viișoara în principalele domenii de activitate",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23351",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-29-2020",
+   "path": "local/cluj/viisoara/2020/29",
+   "short": "HCL Viișoara nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2020 privind alegerea viceprimarului comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23352",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23352",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-30-2020",
    "path": "local/cluj/viisoara/2020/30",
    "short": "HCL Viișoara nr. 30/2020",
@@ -103,6 +208,21 @@
      "from": "2020-12-11",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-32-2020",
+   "path": "local/cluj/viisoara/2020/32",
+   "short": "HCL Viișoara nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 32/2020 privind neacordarea de finanțare nerambursabilă, de la bugetul local al comunei Viișoara, Asociației Aranyosegerbegy Magyar Kozossegi Haz Kulturalis Egyesulet",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23360",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23360",
      "sha256": null
     }
    ]
@@ -148,6 +268,36 @@
      "from": "2020-12-11",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-36-2020",
+   "path": "local/cluj/viisoara/2020/36",
+   "short": "HCL Viișoara nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 36/2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23364",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-37-2020",
+   "path": "local/cluj/viisoara/2020/37",
+   "short": "HCL Viișoara nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 37/2020 privind aprobarea contractului de delegare prin concesiune a gestiunii activităților de colectare și transport a deșeurilor în județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23365",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23365",
      "sha256": null
     }
    ]

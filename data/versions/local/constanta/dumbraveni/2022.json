@@ -3,6 +3,21 @@
  "shard": "local/constanta/dumbraveni/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--dumbraveni-46-2022",
+   "path": "local/constanta/dumbraveni/2022/46",
+   "short": "HCL Dumbrăveni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 46/2022 privind desemnarea reprezentantului Consiliului Local Dumbrăveni în cadrul Consiliului de Administraţie al Şcolii Gimnaziale nr. 1 Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/74788",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/74788",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-47-2022",
    "path": "local/constanta/dumbraveni/2022/47",
    "short": "HCL Dumbrăveni nr. 47/2022",
@@ -73,6 +88,21 @@
      "from": "2022-10-31",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/75573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-52-2022",
+   "path": "local/constanta/dumbraveni/2022/52",
+   "short": "HCL Dumbrăveni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 52/2022 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/79734",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/79734",
      "sha256": null
     }
    ]
@@ -253,6 +283,21 @@
      "from": "2023-01-09",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/83299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-65-2022",
+   "path": "local/constanta/dumbraveni/2022/65",
+   "short": "HCL Dumbrăveni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 65/2022",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/83300",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/83300",
      "sha256": null
     }
    ]

@@ -16,6 +16,21 @@
      "sha256": "00b41ec8adddac8bae84e66ed399c762ef522df2c4b81bc310968b56398a9ecf"
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--dobromir-17-2024",
+   "path": "local/constanta/dobromir/2024/17",
+   "short": "HCL Dobromir nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobromir nr. 17/2024 privind aprobarea numărului total de posturi pentru asistenţii personali – însoţitori ai persoanelor cu handicap, pentru anul 2024",
+   "url": "https://primariadobromir.ro/wp-content/uploads/2024/05/hcl-17.pdf",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://primariadobromir.ro/wp-content/uploads/2024/05/hcl-17.pdf",
+     "sha256": "5a1ddee292bb710d1df8bbb0ce3d127e7706e0db7e9e65db24c1023a9983a8d3"
+    }
+   ]
   }
  ]
 }

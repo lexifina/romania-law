@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--adamclisi-82-2022",
+   "path": "local/constanta/adamclisi/2022/82",
+   "short": "HCL Adamclisi nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 82/2022",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/81024",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/81024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-83-2022",
    "path": "local/constanta/adamclisi/2022/83",
    "short": "HCL Adamclisi nr. 83/2022",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--adamclisi-88-2022",
+   "path": "local/constanta/adamclisi/2022/88",
+   "short": "HCL Adamclisi nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 88/2022",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/81030",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/81030",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-89-2022",
    "path": "local/constanta/adamclisi/2022/89",
    "short": "HCL Adamclisi nr. 89/2022",
@@ -208,6 +238,21 @@
      "from": "2023-01-17",
      "units": 1,
      "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/83529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-94-2022",
+   "path": "local/constanta/adamclisi/2022/94",
+   "short": "HCL Adamclisi nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 94/2022",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/83530",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/83530",
      "sha256": null
     }
    ]

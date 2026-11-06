@@ -3,6 +3,21 @@
  "shard": "local/constanta/castelu/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--castelu-106-2022",
+   "path": "local/constanta/castelu/2022/106",
+   "short": "HCL Castelu nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 106/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--castelu-110-2022",
    "path": "local/constanta/castelu/2022/110",
    "short": "HCL Castelu nr. 110/2022",
@@ -56,6 +71,51 @@
    "versions": [
     {
      "from": "2022-11-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-120-2022",
+   "path": "local/constanta/castelu/2022/120",
+   "short": "HCL Castelu nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 120/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-121-2022",
+   "path": "local/constanta/castelu/2022/121",
+   "short": "HCL Castelu nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 121/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-131-2022",
+   "path": "local/constanta/castelu/2022/131",
+   "short": "HCL Castelu nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 131/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-13",
      "units": 1,
      "source_url": null,
      "sha256": null

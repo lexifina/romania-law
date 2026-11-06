@@ -3,6 +3,21 @@
  "shard": "local/constanta/adamclisi/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--adamclisi-16-2026",
+   "path": "local/constanta/adamclisi/2026/16",
+   "short": "HCL Adamclisi nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 16/2026 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/275256",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/275256",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-17-2026",
    "path": "local/constanta/adamclisi/2026/17",
    "short": "HCL Adamclisi nr. 17/2026",
@@ -183,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--adamclisi-29-2026",
+   "path": "local/constanta/adamclisi/2026/29",
+   "short": "HCL Adamclisi nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 29/2026 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/290250",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/290250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-30-2026",
    "path": "local/constanta/adamclisi/2026/30",
    "short": "HCL Adamclisi nr. 30/2026",
@@ -223,6 +253,21 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/294793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-33-2026",
+   "path": "local/constanta/adamclisi/2026/33",
+   "short": "HCL Adamclisi nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 33/2026 privind desemnarea a doi membri suplimentari din Consiliul Local pentru Conisliul de Administratie al Liceului Tehnologic \" Jean Dinu”",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/294794",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/294794",
      "sha256": null
     }
    ]

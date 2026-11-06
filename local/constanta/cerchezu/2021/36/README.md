@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cerchezu nr. 36/2021 privind alegerea unui nou preşedinte de şedinţă a Consiliului Local Cerchezu
+
+HCL Cerchezu nr. 36/2021 · 1 versions, from 2021-10-11 (latest in force: 2021-10-11) · <https://emol.ro/cerchezu-ct/registru-hcl/37533>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-constanta--cerchezu-36-2021` (tags `hcl-constanta--cerchezu-36-2021/<day>`; `python tools/on.py <day> hcl-constanta--cerchezu-36-2021`).
+
+## Decisions made by hand
+
+- HCL Cerchezu nr. 36/2021: listed from Consiliul Local al Comunei Cerchezu (emol.ro); an individual decision: metadata only.
+- HCL Cerchezu nr. 36/2021: dated from 11 October 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Cerchezu nr. 36/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

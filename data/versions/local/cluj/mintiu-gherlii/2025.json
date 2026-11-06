@@ -3,6 +3,81 @@
  "shard": "local/cluj/mintiu-gherlii/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--mintiu-gherlii-30-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/30",
+   "short": "HCL Mintiu Gherlii nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 30/2025 privind privind aprobarea Planului de actiuni sau de interes local pe anul 2025 al Primariei Comunei Mintiu Gherlii, ce se vor efectua de catre beneficiarii Legii nr. 196/2016 privind Venitul minim de incluziune",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/229651",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/229651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-31-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/31",
+   "short": "HCL Mintiu Gherlii nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 31/2025 privind privind acceptarea unei oferte de donație pentru terenul în suprafață de 340 mp. situat în comuna Mintiu Gherlii, sat Nima, județul Cluj, înscris în CF nr.53341 Mintiu Gherlii,cu nr. cadastral 53341",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/229652",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/229652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-32-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/32",
+   "short": "HCL Mintiu Gherlii nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 32/2025 privind aprobarea inchirierii prin licitatie publica a unui imobil apartinand domeniului public al comunei Mintiu Gherlii",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/229653",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/229653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-33-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/33",
+   "short": "HCL Mintiu Gherlii nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 33/2025 privind aprobarea sprijinului financiar pentru unităţile de cult aparţinând cultelor religioase recunoscute din România pentru anul 2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/231325",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/231325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-34-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/34",
+   "short": "HCL Mintiu Gherlii nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 34/2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/231326",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/231326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mintiu-gherlii-35-2025",
    "path": "local/cluj/mintiu-gherlii/2025/35",
    "short": "HCL Mintiu Gherlii nr. 35/2025",
@@ -18,6 +93,171 @@
    ]
   },
   {
+   "slug": "hcl-cluj--mintiu-gherlii-36-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/36",
+   "short": "HCL Mintiu Gherlii nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 36/2025 privind rectificarea bugetului general de venituri si cheltuieli al UAT COMUNA MINTIU GHERLII PE ANUL 2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233438",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-37-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/37",
+   "short": "HCL Mintiu Gherlii nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 37/2025 privind respingerea executarii de lucrari pe domeniul public pentru „ REALIZARE RACORD ELECTRIC SUBTERAN(LES 110KV) SI FIBRA OPTICA LA SISTEMUL ENERGETIC NATIONAL A LOCULUI DE PRODUCERE SI DE CONSUM CENTRALA ELECTRICA FOTOVOLTAICA-CEF BUNESTI”",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233439",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-38-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/38",
+   "short": "HCL Mintiu Gherlii nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 38/2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233440",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-39-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/39",
+   "short": "HCL Mintiu Gherlii nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 39/2025 privind aprobarea PROGRAMULUI DE ACTIUNI COMUNITARE PENTRU COMBATEREA SĂRĂCIEI ȘI MARGINALIZARII SOCIALE ÎN COMUNA MINTIU GHERLII, JUDETUL CLUJ",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233441",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-40-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/40",
+   "short": "HCL Mintiu Gherlii nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 40/2025 privind desemnarea reprezentantului Consiliului local Mintiu Gherlii în Consiliul de administraţie al Şcolii Gimnaziale Mintiu Gherlii pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233442",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-41-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/41",
+   "short": "HCL Mintiu Gherlii nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 41/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233443",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/233443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-42-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/42",
+   "short": "HCL Mintiu Gherlii nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 42/2025 pentru implementarea proiectului „ACHIZITII DOTĂRI PENTRU SERVICIUL PUBLIC LOCAL DE GOSPODĂRIRE COMUNALĂ LA NIVELUL COMUNEI MINTIU GHERLII”",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/236605",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/236605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-43-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/43",
+   "short": "HCL Mintiu Gherlii nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 43/2025 privind constatarea stingerii dreptului de proprietate publica asupra unui imobil",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/237782",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/237782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-44-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/44",
+   "short": "HCL Mintiu Gherlii nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 44/2025 privind aprobarea retelei unitatilor de invatamant care vor functiona in anul scolar 2026-2027 de pe raza comunei Mintiu-Gherlii",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/237783",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/237783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-45-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/45",
+   "short": "HCL Mintiu Gherlii nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 45/2025 privind rectificarea bugetului general de venituri si cheltuieli al UAT Comuna Mintiu Gherlii pe anul 2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/237784",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/237784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-46-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/46",
+   "short": "HCL Mintiu Gherlii nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 46/2025 privind actualizarea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică pe raza comunei Mintiu Gherlii",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/243178",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/243178",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mintiu-gherlii-47-2025",
    "path": "local/cluj/mintiu-gherlii/2025/47",
    "short": "HCL Mintiu Gherlii nr. 47/2025",
@@ -28,6 +268,36 @@
      "from": "2025-12-31",
      "units": 1,
      "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/243179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-48-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/48",
+   "short": "HCL Mintiu Gherlii nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 48/2025 privind aprobarea suplimentarii indicatorilor economici, conform devizului general actualizat cu cota de TVA pentru obiectivul de investiție “MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC IN COMUNA MINTIU-GHERLII , JUDETUL CLUJ”",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/243180",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/243180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-49-2025",
+   "path": "local/cluj/mintiu-gherlii/2025/49",
+   "short": "HCL Mintiu Gherlii nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 49/2025 privind rectificarea bugetului general de venituri si cheltuieli al UAT Comuna Mintiu Gherlii pe anul 2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/243181",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/243181",
      "sha256": null
     }
    ]

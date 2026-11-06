@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-77-2025",
+"path": "local/constanta/dumbraveni/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 77/2025 privind alegerea presedintelui de şedinţă al Consiliului local Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/233370",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-78-2025",
 "path": "local/constanta/dumbraveni/2025/78",
 "kind": "local",
@@ -114,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-81-2025",
+"path": "local/constanta/dumbraveni/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 81/2025 privind revocarea HCL nr. 65/25.09.2025 privind aprobarea studiului de oportunitate în vederea concesionării terenului în suprafață de 7,6 ha, situat în extravilanul localității Dumbrăveni, în scopul exploatării carierei de piatră existente pe teren",
+"short": "HCL Dumbrăveni nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/236912",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-82-2025",
 "path": "local/constanta/dumbraveni/2025/82",
 "kind": "local",
@@ -177,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-85-2025",
+"path": "local/constanta/dumbraveni/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 85/2025 privind aprobarea concesionării prin licitaţie publică a unui imobil teren în suprafaţă totală de 7,6 ha, aparţinând domeniului privat al Comunei Dumbrăveni, având număr cadastral 101786",
+"short": "HCL Dumbrăveni nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/236916",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -331,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-93-2025",
+"path": "local/constanta/dumbraveni/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 93/2025 privind modificarea HCL nr. 85 din 26.11.2025 privind aprobarea concesionării prin licitaţie publică a unui imobil teren în suprafaţă totală de 7,6 ha, aparţinând domeniului privat al Comunei Dumbrăveni, având număr cadastral 101786",
+"short": "HCL Dumbrăveni nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-03",
+"latest": "2026-02-03",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/241203",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

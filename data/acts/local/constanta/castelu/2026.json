@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/constanta/castelu/2026",
+"acts": [
+{
+"slug": "hcl-constanta--castelu-79-2026",
+"path": "local/constanta/castelu/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castelu nr. 79/2026",
+"short": "HCL Castelu nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": null,
+"council": "constanta/castelu",
+"council_name": "Consiliul Local al Comunei Castelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

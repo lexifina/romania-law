@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/cobadin/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--cobadin-26-2024",
+   "path": "local/constanta/cobadin/2024/26",
+   "short": "HCL Cobadin nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 26/2024 privind aprobarea rectificării nr. 2 a bugetului de venituri și cheltuieli al Comunei Cobadin, judetul Constanța, aferent anului 2024 Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 30.04.2024, Având în vedere: ✓ Proiectul de Hotărâre privind aprobarea rectificării nr. 2 a bugetului de venituri și cheltuieli al Comunei Coba",
+   "url": "https://primariacobadin.ro/wp-content/uploads/2018/02/hcl-rectif-2-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primariacobadin.ro/wp-content/uploads/2018/02/hcl-rectif-2-2024.pdf",
+     "sha256": "97a13bc0064ce38dce2354d9251cf396926ee75e0f226791bc8299fa2fce08ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-45-2024",
+   "path": "local/constanta/cobadin/2024/45",
+   "short": "HCL Cobadin nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 45/2024 privind aprobarea execuliei bugetului local de venituri gi cheltuieli al Comunei l)oLtadin, jud. Constanla, aferent trimestrului ll al anului 202,4 Consiliut Locat al Comunei Cobadin, jud. Constanla, intrunit in gedinla OnOWenA - convocatd in data de 04.09.12024, Avind in vedere: r' Proiectul de Hotdrdre privind aprobarea execuliei bugetului local de venituri gi cheltuielii al C<>munei Cobaclin, j",
+   "url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL-PRIVIND-APROBAREA-EXECUTIEI-BUGETARE-TRIMESTRUL-II-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL-PRIVIND-APROBAREA-EXECUTIEI-BUGETARE-TRIMESTRUL-II-2024.pdf",
+     "sha256": "ae3c6160016fcfc547538bca7b8dc0848bd916e973ada439b92ed3c0e5b6641a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-46-2024",
+   "path": "local/constanta/cobadin/2024/46",
+   "short": "HCL Cobadin nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 46/2024 privind aprobarea execuliei bugetului local de venituri gi cheltuieli al Comunei Cobadin, iud. Constanfa, aferent trimestrului I al anului 2024 Consiliul Local at Comunei Cobadin, iud. Constanta, intrunit in Sedinla ORDTNARA - convocate in data de 04.(R.2O24, AvAnd in vedere: r' Proiectul de Hotdrdre privind aprobarea execufiei bugetului tocal de venituri gi cheltuieli al C<tmunei Cobadin, jud. Co",
+   "url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL-PRIVIND-APROBARE-A-EXECUTIEI-BUGETARE-TRIMESTRUL-I-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL-PRIVIND-APROBARE-A-EXECUTIEI-BUGETARE-TRIMESTRUL-I-2024.pdf",
+     "sha256": "258aa8c760d1b04f126a8bea4497d2ef3737be9859bf34bd181fdc2e5e39a1ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-57-2024",
+   "path": "local/constanta/cobadin/2024/57",
+   "short": "HCL Cobadin nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 57/2024 privind modificarea art. 3 al HCL nr. 54 / 12.11.2024 privind constituirea comisiilor de specialitate pe domenii de activitate ale Consiliului Local al Comunei Cobadin, judetul Constanța Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința ORDINARĂ – convocată în data de 05.12.2024 Având în vedere: ✓ Proiectul de Hotărâre privind modificarea art. 3 al HCL nr. 54 / 12.11.2024",
+   "url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL_05-12-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL_05-12-2024.pdf",
+     "sha256": "d5a12868c7f542160210a1fd43a63087b7258ea7f96bd9fd98f6c956db96289b"
+    }
+   ]
+  }
+ ]
+}

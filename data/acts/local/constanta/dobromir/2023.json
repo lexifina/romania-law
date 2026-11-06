@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/dobromir/2023",
+"acts": [
+{
+"slug": "hcl-constanta--dobromir-2-2023",
+"path": "local/constanta/dobromir/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobromir nr. 2/2023",
+"short": "HCL Dobromir nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://primariadobromir.ro/wp-content/uploads/2023/01/HCL-EXCEDENT-NR-2-DIN-9.01.2023.pdf",
+"council": "constanta/dobromir",
+"council_name": "Consiliul Local al Comunei Dobromir",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

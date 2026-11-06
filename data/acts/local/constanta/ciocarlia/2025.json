@@ -3,6 +3,117 @@
 "shard": "local/constanta/ciocarlia/2025",
 "acts": [
 {
+"slug": "hcl-constanta--ciocarlia-49-2025",
+"path": "local/constanta/ciocarlia/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 49/2025 privind aprobarea modificării Organigramei și a Ștatului de funcții al aparatului de specialitate al primarului Comunei Ciocârlia, județ Constanța",
+"short": "HCL Ciocârlia nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/230308",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-50-2025",
+"path": "local/constanta/ciocarlia/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 50/2025 privind aprobarea întocmirii și actualizării inventarului bunurilor care alcătuiesc domeniul public și privat al comunei Ciocârlia, județul Constanța",
+"short": "HCL Ciocârlia nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/230309",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-51-2025",
+"path": "local/constanta/ciocarlia/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 51/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+"short": "HCL Ciocârlia nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/235110",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-52-2025",
+"path": "local/constanta/ciocarlia/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 52/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții „REABILITARE ȘCOALA GIMNAZIALĂ NR.1 CIOCÂRLIA, JUDEȚUL CONSTANȚA ȘI EXTINDERE CU HOL ȘI BIBLIOTECĂ”, aprobat pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat-Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+"short": "HCL Ciocârlia nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/235111",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-53-2025",
+"path": "local/constanta/ciocarlia/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 53/2025",
+"short": "HCL Ciocârlia nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/235112",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--ciocarlia-54-2025",
 "path": "local/constanta/ciocarlia/2025/54",
 "kind": "local",
@@ -22,6 +133,160 @@
 "council_name": "Consiliul Local al Comunei Ciocârlia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-55-2025",
+"path": "local/constanta/ciocarlia/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 55/2025 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli pe trimestrul III al anului 2025",
+"short": "HCL Ciocârlia nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/240585",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-56-2025",
+"path": "local/constanta/ciocarlia/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 56/2025 privind aprobarea scoaterii la vânzare prin negociere directă a unei suprafețe de teren ce face parte din domeniul privat al comunei Ciocârlia",
+"short": "HCL Ciocârlia nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/240586",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-57-2025",
+"path": "local/constanta/ciocarlia/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 57/2025 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat și particular, pe teritoriul administrativ al comunei Ciocârlia, județul Constanța, în anul școlar 2026-2027",
+"short": "HCL Ciocârlia nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/240587",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-58-2025",
+"path": "local/constanta/ciocarlia/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 58/2025 privind stadiul de înscriere a datelor în registrul agricol pentru semestrul I din anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Ciocârlia nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/240588",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-59-2025",
+"path": "local/constanta/ciocarlia/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 59/2025 privind aprobarea dobândirii dreptului de proprietate a terenului în suprafață de 23.569 mp, LOT 1/1 identificat prin nr. cadastral 104968, din comuna Ciocârlia, județul Constanța",
+"short": "HCL Ciocârlia nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/240589",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-60-2025",
+"path": "local/constanta/ciocarlia/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 60/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru anul 2025 și a listei de investiții pe anul 2025",
+"short": "HCL Ciocârlia nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/240590",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-61-2025",
+"path": "local/constanta/ciocarlia/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 61/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru anul 2025 și a listei de investiții pe anul 2025",
+"short": "HCL Ciocârlia nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/245746",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Ciocârlia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-66-2025",
+"path": "local/constanta/ciocarlia/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 66/2025 privind însușirea raporturilor de evaluare în vederea vânzării terenurilor prin negociere directă care fac parte din domeniul privat al U.A.T Comuna Ciocârlia, județ Constanța",
+"short": "HCL Ciocârlia nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/246813",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

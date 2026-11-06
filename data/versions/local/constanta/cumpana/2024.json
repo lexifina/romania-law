@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cumpana-160-2024",
+   "path": "local/constanta/cumpana/2024/160",
+   "short": "HCL Cumpăna nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 160/2024",
+   "url": "https://emol.ro/cumpana-ct/registru-hcl/182693",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cumpana-ct/registru-hcl/182693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cumpana-161-2024",
+   "path": "local/constanta/cumpana/2024/161",
+   "short": "HCL Cumpăna nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 161/2024",
+   "url": "https://emol.ro/cumpana-ct/registru-hcl/182694",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cumpana-ct/registru-hcl/182694",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cumpana-162-2024",
    "path": "local/constanta/cumpana/2024/162",
    "short": "HCL Cumpăna nr. 162/2024",
@@ -88,6 +118,21 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/cumpana-ct/registru-hcl/182696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cumpana-164-2024",
+   "path": "local/constanta/cumpana/2024/164",
+   "short": "HCL Cumpăna nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 164/2024",
+   "url": "https://emol.ro/cumpana-ct/registru-hcl/182697",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cumpana-ct/registru-hcl/182697",
      "sha256": null
     }
    ]
@@ -208,6 +253,51 @@
      "from": "2024-12-30",
      "units": 1,
      "source_url": "https://emol.ro/cumpana-ct/registru-hcl/184676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cumpana-173-2024",
+   "path": "local/constanta/cumpana/2024/173",
+   "short": "HCL Cumpăna nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 173/2024 privind aprobarea Rapoartelor de evaluare pentru terenurile situate in intravilanul comunei Cumpana, Depozit de Pamant C+D, ( 26 loturi )",
+   "url": "https://emol.ro/cumpana-ct/registru-hcl/184677",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cumpana-ct/registru-hcl/184677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cumpana-174-2024",
+   "path": "local/constanta/cumpana/2024/174",
+   "short": "HCL Cumpăna nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 174/2024",
+   "url": "https://emol.ro/cumpana-ct/registru-hcl/184678",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cumpana-ct/registru-hcl/184678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cumpana-175-2024",
+   "path": "local/constanta/cumpana/2024/175",
+   "short": "HCL Cumpăna nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 175/2024",
+   "url": "https://emol.ro/cumpana-ct/registru-hcl/184679",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cumpana-ct/registru-hcl/184679",
      "sha256": null
     }
    ]

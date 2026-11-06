@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-90-2025",
+"path": "local/constanta/crucea/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 90/2025 privind aprobarea modificării organigramei, statului de funcții și de personal și a salariilor de încadrare pentru angajațiiangajat societății Crucea Multiservice S.R.L",
+"short": "HCL Crucea nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/239023",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-91-2025",
 "path": "local/constanta/crucea/2025/91",
 "kind": "local",
@@ -330,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-100-2025",
+"path": "local/constanta/crucea/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 100/2025 privind atestarea apartenenței la domeniul privat al comunei Crucea a unor terenuri situate în intravilanul satului Crucea, comuna Crucea, județul Constanța",
+"short": "HCL Crucea nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/244043",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

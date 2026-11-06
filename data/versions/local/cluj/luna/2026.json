@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/luna/2026",
+ "acts": [
+  {
+   "slug": "hcl-cluj--luna-31-2026",
+   "path": "local/cluj/luna/2026/31",
+   "short": "HCL Luna nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 31/2026 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiții „Modernizare drumuri de interes local în Comuna Luna, Județul Cluj”, finanțat prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/luna-cj/registru-hcl/284811",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/284811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-32-2026",
+   "path": "local/cluj/luna/2026/32",
+   "short": "HCL Luna nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 32/2026 privind rectificarea bugetului local al Comunei Luna pe anul 2026",
+   "url": "https://emol.ro/luna-cj/registru-hcl/287937",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/287937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-33-2026",
+   "path": "local/cluj/luna/2026/33",
+   "short": "HCL Luna nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 33/2026 privind aprobarea Acordului de cooperare încheiat pentru realizarea proiectului ”CLUJ SMART COUNTY – Ecosistem digital integrat”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/287938",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/287938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-34-2026",
+   "path": "local/cluj/luna/2026/34",
+   "short": "HCL Luna nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 34/2026",
+   "url": "https://emol.ro/luna-cj/registru-hcl/287939",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/287939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-35-2026",
+   "path": "local/cluj/luna/2026/35",
+   "short": "HCL Luna nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 35/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 561 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Primăverii – Lot 3, identificat prin nr. cadastral 57535",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296636",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-36-2026",
+   "path": "local/cluj/luna/2026/36",
+   "short": "HCL Luna nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 36/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 626 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Primăverii – Lot 19, identificat prin nr. cadastral 57524",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296637",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-37-2026",
+   "path": "local/cluj/luna/2026/37",
+   "short": "HCL Luna nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 37/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 507 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Primăverii – Lot 21, identificat prin nr. cadastral 59272",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296638",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-38-2026",
+   "path": "local/cluj/luna/2026/38",
+   "short": "HCL Luna nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 38/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 491 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Primăverii – Lot 25, identificat prin nr. cadastral 59270",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296639",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-39-2026",
+   "path": "local/cluj/luna/2026/39",
+   "short": "HCL Luna nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 39/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 471 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Primăverii – Lot 29, identificat prin nr. cadastral 59267",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296640",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-40-2026",
+   "path": "local/cluj/luna/2026/40",
+   "short": "HCL Luna nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 40/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 350 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Nou – Lot 3, identificat prin nr. cadastral 57439",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296641",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-41-2026",
+   "path": "local/cluj/luna/2026/41",
+   "short": "HCL Luna nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 41/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 350 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Nou – Lot 4, identificat prin nr. cadastral 57433",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296642",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-42-2026",
+   "path": "local/cluj/luna/2026/42",
+   "short": "HCL Luna nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 42/2026 privind retragerea dreptului de folosință gratuită asupra terenului în suprafață de 400 mp, atribuit în temeiul Legii nr. 15/2003, situat în satul Luncani, Cartierul Nou – Lot 7, identificat prin nr. cadastral 57436",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296643",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-43-2026",
+   "path": "local/cluj/luna/2026/43",
+   "short": "HCL Luna nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 43/2026 privind atribuirea în folosință gratuită a unui teren în suprafață de 561 mp, situat în Satul Luncani, Cartierul Primăverii - Lot 3, pentru construcție locuință în baza Legii nr. 15/2003",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296644",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-44-2026",
+   "path": "local/cluj/luna/2026/44",
+   "short": "HCL Luna nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 44/2026 privind atribuirea în folosință gratuită a unui teren în suprafață de 626 mp, situat în Satul Luncani, Cartierul Primăverii - Lot 19, pentru construcție locuință în baza Legii nr. 15/2003",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296645",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-45-2026",
+   "path": "local/cluj/luna/2026/45",
+   "short": "HCL Luna nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 45/2026 privind atribuirea în folosință gratuită a unui teren în suprafață de 350 mp, situat în Satul Luncani, Cartierul Nou - Lot 3, pentru construcție locuință în baza Legii nr. 15/2003",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296646",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-46-2026",
+   "path": "local/cluj/luna/2026/46",
+   "short": "HCL Luna nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 46/2026 privind atribuirea în folosință gratuită a unui teren în suprafață de 350 mp, situat în Satul Luncani, Cartierul Nou - Lot 4, pentru construcție locuință în baza Legii nr. 15/2003",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296647",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-47-2026",
+   "path": "local/cluj/luna/2026/47",
+   "short": "HCL Luna nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 47/2026 privind atribuirea în folosință gratuită a unui teren în suprafață de 400 mp, situat în Satul Luncani, Cartierul Nou - Lot 7, pentru construcție locuință în baza Legii nr. 15/2003",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296648",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-48-2026",
+   "path": "local/cluj/luna/2026/48",
+   "short": "HCL Luna nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 48/2026 privind modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296649",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-49-2026",
+   "path": "local/cluj/luna/2026/49",
+   "short": "HCL Luna nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 49/2026",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296650",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-50-2026",
+   "path": "local/cluj/luna/2026/50",
+   "short": "HCL Luna nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 50/2026 privind rectificarea bugetului local al Comunei Luna pe anul 2026 și majorarea sumei aprobate pentru utilizarea excedentului bugetar în vederea finanțării cheltuielilor secțiunii de dezvoltare a bugetului Comunei Luna în anul 2026",
+   "url": "https://emol.ro/luna-cj/registru-hcl/296651",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/296651",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

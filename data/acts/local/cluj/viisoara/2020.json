@@ -3,6 +3,94 @@
 "shard": "local/cluj/viisoara/2020",
 "acts": [
 {
+"slug": "hcl-cluj--viisoara-18-2020",
+"path": "local/cluj/viisoara/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2020 privind aprobarea preluării în proprietatea publică a comunei Viișoara a unor bunuri de natura activelor fixe",
+"short": "HCL Viișoara nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/21361",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-19-2020",
+"path": "local/cluj/viisoara/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 19/2020 privind aprobarea Regulamentului de Organizare și funcționare ,,Târg expozițional de animale și piață expozițională,, comuna Viișoara, județul Cluj",
+"short": "HCL Viișoara nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/21362",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-20-2020",
+"path": "local/cluj/viisoara/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 20/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+"short": "HCL Viișoara nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-10",
+"latest": "2020-07-10",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/21363",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-21-2020",
+"path": "local/cluj/viisoara/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 21/2020 privind aprobarea vânzării prin negociere direct către SDEE Transilvania Nord a echipamentelor energetice din lucrarea de investiție ,,Extindere rețea de distribuție în localitatea Urca, comuna Viișoara, județul Cluj",
+"short": "HCL Viișoara nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/21405",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-22-2020",
 "path": "local/cluj/viisoara/2020/22",
 "kind": "local",
@@ -113,6 +201,72 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-27-2020",
+"path": "local/cluj/viisoara/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 27/2020 privind alegerea comisiei de validare și numărare a voturilor",
+"short": "HCL Viișoara nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/23350",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-28-2020",
+"path": "local/cluj/viisoara/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 28/2020 privind organizarea comisiilor de specialitate a Consiliului Local al comunei Viișoara în principalele domenii de activitate",
+"short": "HCL Viișoara nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/23351",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-29-2020",
+"path": "local/cluj/viisoara/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2020 privind alegerea viceprimarului comunei Viișoara, județul Cluj",
+"short": "HCL Viișoara nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/23352",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-30-2020",
 "path": "local/cluj/viisoara/2020/30",
 "kind": "local",
@@ -154,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-32-2020",
+"path": "local/cluj/viisoara/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 32/2020 privind neacordarea de finanțare nerambursabilă, de la bugetul local al comunei Viișoara, Asociației Aranyosegerbegy Magyar Kozossegi Haz Kulturalis Egyesulet",
+"short": "HCL Viișoara nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/23360",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +396,51 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-36-2020",
+"path": "local/cluj/viisoara/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 36/2020",
+"short": "HCL Viișoara nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/23364",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-37-2020",
+"path": "local/cluj/viisoara/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 37/2020 privind aprobarea contractului de delegare prin concesiune a gestiunii activităților de colectare și transport a deșeurilor în județul Cluj",
+"short": "HCL Viișoara nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/23365",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

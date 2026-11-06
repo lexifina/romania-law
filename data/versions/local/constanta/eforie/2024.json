@@ -3,6 +3,306 @@
  "shard": "local/constanta/eforie/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--eforie-1-2024",
+   "path": "local/constanta/eforie/2024/1",
+   "short": "HCL Eforie nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 1/2024 privind completarea bunurilor care alcatuiesc domeniul privat al orasului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146779",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-10-2024",
+   "path": "local/constanta/eforie/2024/10",
+   "short": "HCL Eforie nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 10/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146829",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-100-2024",
+   "path": "local/constanta/eforie/2024/100",
+   "short": "HCL Eforie nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 100/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156308",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-101-2024",
+   "path": "local/constanta/eforie/2024/101",
+   "short": "HCL Eforie nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 101/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156309",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-102-2024",
+   "path": "local/constanta/eforie/2024/102",
+   "short": "HCL Eforie nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 102/2024 privind instituirea unui drept de servitute de trecere asupra imobilului aflat in domeniul privat al orasului identificat cu nr. de inventar 4886 pentru efectuarea de lucrari de construire",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156310",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-103-2024",
+   "path": "local/constanta/eforie/2024/103",
+   "short": "HCL Eforie nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 103/2024 privind declararea unui imobil - teren ca bun de uz si interes public local",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156311",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-104-2024",
+   "path": "local/constanta/eforie/2024/104",
+   "short": "HCL Eforie nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 104/2024 privind actualizarea suprafetei a 2 imobile care apartin domeniului public al orasului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156312",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-105-2024",
+   "path": "local/constanta/eforie/2024/105",
+   "short": "HCL Eforie nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 105/2024 privind completarea domeniului public al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156313",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-106-2024",
+   "path": "local/constanta/eforie/2024/106",
+   "short": "HCL Eforie nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 106/2024 privind aprobarea parteriatului propus de către Asociația „ HARLEQUIN DIVERSITATE” în vederea desfășurării realizării proiectului cultural ,,IMAGINARIUM’’",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156314",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-107-2024",
+   "path": "local/constanta/eforie/2024/107",
+   "short": "HCL Eforie nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 107/2024 privind îndreptarea erorii materiale din HCL nr. 327 / 17.12.2021",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156315",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-108-2024",
+   "path": "local/constanta/eforie/2024/108",
+   "short": "HCL Eforie nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 108/2024 privind completarea bunurilor care alcătuiesc domeniul privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156316",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-109-2024",
+   "path": "local/constanta/eforie/2024/109",
+   "short": "HCL Eforie nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 109/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156317",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-11-2024",
+   "path": "local/constanta/eforie/2024/11",
+   "short": "HCL Eforie nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 11/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146830",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-110-2024",
+   "path": "local/constanta/eforie/2024/110",
+   "short": "HCL Eforie nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 110/2024 privind aprobarea unui parteneriat pentru Teatrul de Vară Eforie Nord pentru durata sezonului estival 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156318",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-111-2024",
+   "path": "local/constanta/eforie/2024/111",
+   "short": "HCL Eforie nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 111/2024 privind aprobarea unui parteneriat referitor la Grădina de Vară „PERLA” Eforie Nord",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156319",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-112-2024",
+   "path": "local/constanta/eforie/2024/112",
+   "short": "HCL Eforie nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 112/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156320",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-113-2024",
+   "path": "local/constanta/eforie/2024/113",
+   "short": "HCL Eforie nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 113/2024 privind aprobarea oportunitatii vanzarii prin licitatie a imobilului teren situat in Orasul Eforie, localitatea Eforie Nord, strada Cocorului, in suprafata de 40 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156321",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-114-2024",
+   "path": "local/constanta/eforie/2024/114",
+   "short": "HCL Eforie nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 114/2024 privind aprobarea oportunitatii vanzarii prin licitatie a imobilului teren situat in Orasul Eforie, localitatea Eforie Nord, strada Cocorului, in suprafata de 30 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156322",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-115-2024",
+   "path": "local/constanta/eforie/2024/115",
+   "short": "HCL Eforie nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 115/2024 privind aprobarea oportunitatii vanzarii prin licitatie a imobilului teren situat in Orasul Eforie, localitatea Eforie Sud, strada Nicolae Filipescu, in suprafata de 130 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156323",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-116-2024",
+   "path": "local/constanta/eforie/2024/116",
+   "short": "HCL Eforie nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 116/2024 privind aprobarea listei de priorități in soluționarea cererilor de locuințe pentru tineri (ANL)",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156324",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156324",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-117-2024",
    "path": "local/constanta/eforie/2024/117",
    "short": "HCL Eforie nr. 117/2024",
@@ -13,6 +313,861 @@
      "from": "2024-05-17",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/156626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-118-2024",
+   "path": "local/constanta/eforie/2024/118",
+   "short": "HCL Eforie nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 118/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156627",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-119-2024",
+   "path": "local/constanta/eforie/2024/119",
+   "short": "HCL Eforie nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 119/2024 privind aprobarea documentatiei tehnico-economice, faza SF, a principalilor indicatori tehnico-economici pentru proiect cu titlul: „PASAJ RUTIER DENIVELAT în ZONA SENSULUI GIRATORIU de pe DN 39 KM 14+280 ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156628",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-12-2024",
+   "path": "local/constanta/eforie/2024/12",
+   "short": "HCL Eforie nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 12/2024 privind indreptarea erorii materiale din HCL 321/29.11.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146831",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-120-2024",
+   "path": "local/constanta/eforie/2024/120",
+   "short": "HCL Eforie nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 120/2024 privind aprobarea organizarii Festivalului Creativ Eforie 2024 #Crestem Frumos Editia IV",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156629",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-121-2024",
+   "path": "local/constanta/eforie/2024/121",
+   "short": "HCL Eforie nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 121/2024 aprobarea organizării Festivalului “Cânt și joc pe plai Dobrogean”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159506",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-122-2024",
+   "path": "local/constanta/eforie/2024/122",
+   "short": "HCL Eforie nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 122/2024 privind aprobarea parteriatului propus de către Asociația Forumul Artelor Vizuale",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159507",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-123-2024",
+   "path": "local/constanta/eforie/2024/123",
+   "short": "HCL Eforie nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 123/2024 privind transmiterea temporara a dreptului de administrare asupra unor terenuri catre administratorul DN 39 pe perioada realizarii obiectivului \"Amenajare sens giratoriu la intersectia DN39 (E87) km 16+665 cu strada Dr. Climescu\"",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159508",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-124-2024",
+   "path": "local/constanta/eforie/2024/124",
+   "short": "HCL Eforie nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 124/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159509",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-125-2024",
+   "path": "local/constanta/eforie/2024/125",
+   "short": "HCL Eforie nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 125/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159510",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-126-2024",
+   "path": "local/constanta/eforie/2024/126",
+   "short": "HCL Eforie nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 126/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159511",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-127-2024",
+   "path": "local/constanta/eforie/2024/127",
+   "short": "HCL Eforie nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 127/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159512",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-128-2024",
+   "path": "local/constanta/eforie/2024/128",
+   "short": "HCL Eforie nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 128/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159513",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-129-2024",
+   "path": "local/constanta/eforie/2024/129",
+   "short": "HCL Eforie nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 129/2024 privind aditionarea contractului de concesiune nr. 2/27.01.2014",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159514",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-13-2024",
+   "path": "local/constanta/eforie/2024/13",
+   "short": "HCL Eforie nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 13/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146832",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-130-2024",
+   "path": "local/constanta/eforie/2024/130",
+   "short": "HCL Eforie nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 130/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159515",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-131-2024",
+   "path": "local/constanta/eforie/2024/131",
+   "short": "HCL Eforie nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 131/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159516",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-132-2024",
+   "path": "local/constanta/eforie/2024/132",
+   "short": "HCL Eforie nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 132/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159517",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-133-2024",
+   "path": "local/constanta/eforie/2024/133",
+   "short": "HCL Eforie nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 133/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159518",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-134-2024",
+   "path": "local/constanta/eforie/2024/134",
+   "short": "HCL Eforie nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 134/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159519",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-135-2024",
+   "path": "local/constanta/eforie/2024/135",
+   "short": "HCL Eforie nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 135/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159520",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-136-2024",
+   "path": "local/constanta/eforie/2024/136",
+   "short": "HCL Eforie nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 136/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159521",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-137-2024",
+   "path": "local/constanta/eforie/2024/137",
+   "short": "HCL Eforie nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 137/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159522",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-138-2024",
+   "path": "local/constanta/eforie/2024/138",
+   "short": "HCL Eforie nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 138/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159523",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-139-2024",
+   "path": "local/constanta/eforie/2024/139",
+   "short": "HCL Eforie nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 139/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159524",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-14-2024",
+   "path": "local/constanta/eforie/2024/14",
+   "short": "HCL Eforie nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 14/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146833",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-140-2024",
+   "path": "local/constanta/eforie/2024/140",
+   "short": "HCL Eforie nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 140/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159525",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-141-2024",
+   "path": "local/constanta/eforie/2024/141",
+   "short": "HCL Eforie nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 141/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159526",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-142-2024",
+   "path": "local/constanta/eforie/2024/142",
+   "short": "HCL Eforie nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 142/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159527",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-143-2024",
+   "path": "local/constanta/eforie/2024/143",
+   "short": "HCL Eforie nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 143/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159528",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-144-2024",
+   "path": "local/constanta/eforie/2024/144",
+   "short": "HCL Eforie nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 144/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159529",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-145-2024",
+   "path": "local/constanta/eforie/2024/145",
+   "short": "HCL Eforie nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 145/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159530",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-146-2024",
+   "path": "local/constanta/eforie/2024/146",
+   "short": "HCL Eforie nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 146/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159531",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-147-2024",
+   "path": "local/constanta/eforie/2024/147",
+   "short": "HCL Eforie nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 147/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159532",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-148-2024",
+   "path": "local/constanta/eforie/2024/148",
+   "short": "HCL Eforie nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 148/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159533",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-149-2024",
+   "path": "local/constanta/eforie/2024/149",
+   "short": "HCL Eforie nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 149/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159534",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-15-2024",
+   "path": "local/constanta/eforie/2024/15",
+   "short": "HCL Eforie nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 15/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146834",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-150-2024",
+   "path": "local/constanta/eforie/2024/150",
+   "short": "HCL Eforie nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 150/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159535",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-151-2024",
+   "path": "local/constanta/eforie/2024/151",
+   "short": "HCL Eforie nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 151/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159536",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-152-2024",
+   "path": "local/constanta/eforie/2024/152",
+   "short": "HCL Eforie nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 152/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159537",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-153-2024",
+   "path": "local/constanta/eforie/2024/153",
+   "short": "HCL Eforie nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 153/2024 privind aprobarea inchirierii prin licitatie publica a imobilului situat in Orasul Eforie, localitatea Eforie Nord, str. Republicii, format din teren in suprafata de 4 mp identificat in planul de situatie intocmit de MDM EXPRESSIVE BUILDING",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159538",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-154-2024",
+   "path": "local/constanta/eforie/2024/154",
+   "short": "HCL Eforie nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 154/2024 privind exprimarea unui acord prin inscris autentic",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159539",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-155-2024",
+   "path": "local/constanta/eforie/2024/155",
+   "short": "HCL Eforie nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 155/2024 privind actualizarea suprafetei unui imobil care apartine domeniului privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159540",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-156-2024",
+   "path": "local/constanta/eforie/2024/156",
+   "short": "HCL Eforie nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 156/2024 privind modificarea Anexei nr. 1 la HCL nr. 76 / 28.03.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159541",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-157-2024",
+   "path": "local/constanta/eforie/2024/157",
+   "short": "HCL Eforie nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 157/2024 privind completarea bunurilor care alcatuiesc domeniul privat al orasului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159542",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-158-2024",
+   "path": "local/constanta/eforie/2024/158",
+   "short": "HCL Eforie nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 158/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159543",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-159-2024",
+   "path": "local/constanta/eforie/2024/159",
+   "short": "HCL Eforie nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 159/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159544",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-16-2024",
+   "path": "local/constanta/eforie/2024/16",
+   "short": "HCL Eforie nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 16/2024 privind îndreptarea erorii materiale din HCL nr. 212 / 31.08.2023 și din HCL nr. 346 / 21.12.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146835",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-160-2024",
+   "path": "local/constanta/eforie/2024/160",
+   "short": "HCL Eforie nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 160/2024 privind exprimarea unui acord prin inscris autentic",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159545",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-161-2024",
+   "path": "local/constanta/eforie/2024/161",
+   "short": "HCL Eforie nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 161/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159546",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-162-2024",
+   "path": "local/constanta/eforie/2024/162",
+   "short": "HCL Eforie nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 162/2024 privind aprobarea unui parteneriat pentru organizarea de evenimente spectacole de circ si spectacole artistice in Eforie Nord pentru sezonul estival 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159547",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-163-2024",
+   "path": "local/constanta/eforie/2024/163",
+   "short": "HCL Eforie nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 163/2024 privind modificarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 17 / 12.02.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159548",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-164-2024",
+   "path": "local/constanta/eforie/2024/164",
+   "short": "HCL Eforie nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 164/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159549",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-165-2024",
+   "path": "local/constanta/eforie/2024/165",
+   "short": "HCL Eforie nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 165/2024 privind stabilirea nivelului salariilor din Administraţia publică locală oraș Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159550",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-166-2024",
+   "path": "local/constanta/eforie/2024/166",
+   "short": "HCL Eforie nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 166/2024 privind aprobarea modificării tarifelor din Contractul nr. 86002 / 01.02.2023 încheiat cu Iridex Group Salubrizare SRL",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/159551",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/159551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-167-2024",
+   "path": "local/constanta/eforie/2024/167",
+   "short": "HCL Eforie nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 167/2024 privind alegerea pentru o perioadă de 3 luni președintele de ședință al Consiliul Local al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/161802",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/161802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-168-2024",
+   "path": "local/constanta/eforie/2024/168",
+   "short": "HCL Eforie nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 168/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/161803",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/161803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-169-2024",
+   "path": "local/constanta/eforie/2024/169",
+   "short": "HCL Eforie nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 169/2024 privind actualizarea suprafetei unui imobil teren care apartine domeniului privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/161804",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/161804",
      "sha256": null
     }
    ]
@@ -33,6 +1188,486 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-170-2024",
+   "path": "local/constanta/eforie/2024/170",
+   "short": "HCL Eforie nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 170/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/161805",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/161805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-171-2024",
+   "path": "local/constanta/eforie/2024/171",
+   "short": "HCL Eforie nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 171/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/161806",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/161806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-172-2024",
+   "path": "local/constanta/eforie/2024/172",
+   "short": "HCL Eforie nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 172/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/161807",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/161807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-173-2024",
+   "path": "local/constanta/eforie/2024/173",
+   "short": "HCL Eforie nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 173/2024 privind aprobarea documentatiei tehnico-economice, faza PT, a principalilor indicatori tehnico-economici pentru proiect cu titlul: „ Dezvoltarea infrastructurii de agrement in statiunea Eforie Sud/Nord ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/163124",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/163124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-174-2024",
+   "path": "local/constanta/eforie/2024/174",
+   "short": "HCL Eforie nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 174/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/163125",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/163125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-175-2024",
+   "path": "local/constanta/eforie/2024/175",
+   "short": "HCL Eforie nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 175/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/163126",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/163126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-176-2024",
+   "path": "local/constanta/eforie/2024/176",
+   "short": "HCL Eforie nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 176/2024 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul II al anului 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164118",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-177-2024",
+   "path": "local/constanta/eforie/2024/177",
+   "short": "HCL Eforie nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 177/2024 privind aprobarea parteneriatului propus de către Uniunea Democrată a Tătarilor Turco-Musulmani din România în vederea desfășurării evenimentului sportiv-cultural de lupte tătărești – Kureș",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164119",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-178-2024",
+   "path": "local/constanta/eforie/2024/178",
+   "short": "HCL Eforie nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 178/2024 privind aprobarea modificării tarifelor din Contractul nr. 86054 / 17.05.2019 încheiat cu Iridex Group Salubrizare SRL",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164120",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-179-2024",
+   "path": "local/constanta/eforie/2024/179",
+   "short": "HCL Eforie nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 179/2024 privind aprobarea prelungirii duratei Contractului nr. 86002 / 01.02.2023 încheiat cu Iridex Group Salubrizare SRL",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164121",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-18-2024",
+   "path": "local/constanta/eforie/2024/18",
+   "short": "HCL Eforie nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 18/2024 privind modificarea HCL Eforie nr. 343 / 21.12.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146905",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-180-2024",
+   "path": "local/constanta/eforie/2024/180",
+   "short": "HCL Eforie nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 180/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164122",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-181-2024",
+   "path": "local/constanta/eforie/2024/181",
+   "short": "HCL Eforie nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 181/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164123",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-182-2024",
+   "path": "local/constanta/eforie/2024/182",
+   "short": "HCL Eforie nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 182/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164124",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-183-2024",
+   "path": "local/constanta/eforie/2024/183",
+   "short": "HCL Eforie nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 183/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164125",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-184-2024",
+   "path": "local/constanta/eforie/2024/184",
+   "short": "HCL Eforie nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 184/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata indiviza de 57 mp situat in Orasul Eforie, localitatea Eforie Nord, str. Crisului, nr. 2",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164126",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-185-2024",
+   "path": "local/constanta/eforie/2024/185",
+   "short": "HCL Eforie nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 185/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164127",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-186-2024",
+   "path": "local/constanta/eforie/2024/186",
+   "short": "HCL Eforie nr. 186/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 186/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164128",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-187-2024",
+   "path": "local/constanta/eforie/2024/187",
+   "short": "HCL Eforie nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 187/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164129",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-188-2024",
+   "path": "local/constanta/eforie/2024/188",
+   "short": "HCL Eforie nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 188/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164130",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-189-2024",
+   "path": "local/constanta/eforie/2024/189",
+   "short": "HCL Eforie nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 189/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164131",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-19-2024",
+   "path": "local/constanta/eforie/2024/19",
+   "short": "HCL Eforie nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 19/2024 privind preluarea personalului medical de specialitate din cadrul Creşei nr. 1 “Alice în Ţara Minunilor”, instituţie de învăţământ cu personalitate juridică din subordinea Consiliului Local al Oraşului Eforie în structura de personal a Primăriei Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146906",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-190-2024",
+   "path": "local/constanta/eforie/2024/190",
+   "short": "HCL Eforie nr. 190/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 190/2024 privind actualizarea suprafețelor unor imobile care aparțin domeniului privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164132",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-191-2024",
+   "path": "local/constanta/eforie/2024/191",
+   "short": "HCL Eforie nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 191/2024 privind acordarea gratuită a unor locuri de veci",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164133",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-192-2024",
+   "path": "local/constanta/eforie/2024/192",
+   "short": "HCL Eforie nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 192/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164134",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-193-2024",
+   "path": "local/constanta/eforie/2024/193",
+   "short": "HCL Eforie nr. 193/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 193/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164135",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-194-2024",
+   "path": "local/constanta/eforie/2024/194",
+   "short": "HCL Eforie nr. 194/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 194/2024 privind aprobarea Raportului de evaluare ce stabileste valoarea redeventei si a constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata indiviza de 123,64mp situat in Orasul Eforie, localitatea Eforie Sud, str. Faleza, Platforma Orizont, inscris in CF 100086",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164136",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-195-2024",
+   "path": "local/constanta/eforie/2024/195",
+   "short": "HCL Eforie nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 195/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164137",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-196-2024",
+   "path": "local/constanta/eforie/2024/196",
+   "short": "HCL Eforie nr. 196/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 196/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164138",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-197-2024",
+   "path": "local/constanta/eforie/2024/197",
+   "short": "HCL Eforie nr. 197/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 197/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164139",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-198-2024",
+   "path": "local/constanta/eforie/2024/198",
+   "short": "HCL Eforie nr. 198/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 198/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164140",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-199-2024",
+   "path": "local/constanta/eforie/2024/199",
+   "short": "HCL Eforie nr. 199/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 199/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164141",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164141",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-2-2024",
    "path": "local/constanta/eforie/2024/2",
    "short": "HCL Eforie nr. 2/2024",
@@ -48,6 +1683,171 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-20-2024",
+   "path": "local/constanta/eforie/2024/20",
+   "short": "HCL Eforie nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 20/2024 privind completarea bunurilor care alcatuiesc domeniul privat al orasului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146907",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-200-2024",
+   "path": "local/constanta/eforie/2024/200",
+   "short": "HCL Eforie nr. 200/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 200/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164142",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-201-2024",
+   "path": "local/constanta/eforie/2024/201",
+   "short": "HCL Eforie nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 201/2024 privind aprobarea prelungirii valabilitatii Contractului de concesiune nr. 25 / 09.06.1997",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164143",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-202-2024",
+   "path": "local/constanta/eforie/2024/202",
+   "short": "HCL Eforie nr. 202/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 202/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164144",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-203-2024",
+   "path": "local/constanta/eforie/2024/203",
+   "short": "HCL Eforie nr. 203/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 203/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164145",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-204-2024",
+   "path": "local/constanta/eforie/2024/204",
+   "short": "HCL Eforie nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 204/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164146",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-205-2024",
+   "path": "local/constanta/eforie/2024/205",
+   "short": "HCL Eforie nr. 205/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 205/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164147",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-206-2024",
+   "path": "local/constanta/eforie/2024/206",
+   "short": "HCL Eforie nr. 206/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 206/2024 privind aprobarea oportunitatii vanzarii prin licitatie a imobilului teren situat in Orasul Eforie, localitatea Eforie Nord, strada Marii, nr. 17B, in suprafata de 106mp identificat cu IE 108198",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164148",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-207-2024",
+   "path": "local/constanta/eforie/2024/207",
+   "short": "HCL Eforie nr. 207/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 207/2024 privind aprobarea oportunitatii inchirierii prin licitatie a imobilului teren situat in Orasul Eforie, localitatea Eforie Nord, alee Belona Vraja Marii, in suprafata de 2250 mp cu destinatia de parcare",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164149",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-208-2024",
+   "path": "local/constanta/eforie/2024/208",
+   "short": "HCL Eforie nr. 208/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 208/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164150",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-209-2024",
+   "path": "local/constanta/eforie/2024/209",
+   "short": "HCL Eforie nr. 209/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 209/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164151",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164151",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-21-2024",
    "path": "local/constanta/eforie/2024/21",
    "short": "HCL Eforie nr. 21/2024",
@@ -58,6 +1858,141 @@
      "from": "2024-02-12",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/146908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-210-2024",
+   "path": "local/constanta/eforie/2024/210",
+   "short": "HCL Eforie nr. 210/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 210/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164152",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-211-2024",
+   "path": "local/constanta/eforie/2024/211",
+   "short": "HCL Eforie nr. 211/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 211/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164153",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-212-2024",
+   "path": "local/constanta/eforie/2024/212",
+   "short": "HCL Eforie nr. 212/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 212/2024 privind aprobarea prelungirii valabilitatii/modificarii unor contracte de inchiriere pentru locuinte sociale",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164154",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-213-2024",
+   "path": "local/constanta/eforie/2024/213",
+   "short": "HCL Eforie nr. 213/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 213/2024 privind aprobarea listei de prioritati cu persoanele indreptatite sa beneficiaze de o locuinta sociala",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164155",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-214-2024",
+   "path": "local/constanta/eforie/2024/214",
+   "short": "HCL Eforie nr. 214/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 214/2024 privind actualizarea listei de prioritati in solutionarea cererilor de locuinte pentru tineri (ANL) aprobata prin H.C.L nr. 116 din 30.04.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164156",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-215-2024",
+   "path": "local/constanta/eforie/2024/215",
+   "short": "HCL Eforie nr. 215/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 215/2024 privind completarea bunurilor care alcatuiesc domeniul privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164157",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-216-2024",
+   "path": "local/constanta/eforie/2024/216",
+   "short": "HCL Eforie nr. 216/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 216/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164158",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-217-2024",
+   "path": "local/constanta/eforie/2024/217",
+   "short": "HCL Eforie nr. 217/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 217/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/164159",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/164159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-218-2024",
+   "path": "local/constanta/eforie/2024/218",
+   "short": "HCL Eforie nr. 218/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 218/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169298",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169298",
      "sha256": null
     }
    ]
@@ -123,6 +2058,126 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-222-2024",
+   "path": "local/constanta/eforie/2024/222",
+   "short": "HCL Eforie nr. 222/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 222/2024 privind actualizarea suprafeței unui imobil care aparține domeniului public al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169302",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-223-2024",
+   "path": "local/constanta/eforie/2024/223",
+   "short": "HCL Eforie nr. 223/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 223/2024 privind darea in administrare in favoarea Scolii Gimnaziale nr. 1 Eforie Nord a unor imobile",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169303",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-224-2024",
+   "path": "local/constanta/eforie/2024/224",
+   "short": "HCL Eforie nr. 224/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 224/2024 privind darea in administrare in favoarea Cresei nr.1 - Alice in Tara minunilor a unor imobile",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169304",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-225-2024",
+   "path": "local/constanta/eforie/2024/225",
+   "short": "HCL Eforie nr. 225/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 225/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169305",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-226-2024",
+   "path": "local/constanta/eforie/2024/226",
+   "short": "HCL Eforie nr. 226/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 226/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169306",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-227-2024",
+   "path": "local/constanta/eforie/2024/227",
+   "short": "HCL Eforie nr. 227/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 227/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169307",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-228-2024",
+   "path": "local/constanta/eforie/2024/228",
+   "short": "HCL Eforie nr. 228/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 228/2024 privind exprimarea unui acord prin inscris autentic",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169308",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-229-2024",
+   "path": "local/constanta/eforie/2024/229",
+   "short": "HCL Eforie nr. 229/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 229/2024 privind actualizarea suprafeței unui imobil care aparține domeniului privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169309",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169309",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-23-2024",
    "path": "local/constanta/eforie/2024/23",
    "short": "HCL Eforie nr. 23/2024",
@@ -133,6 +2188,1116 @@
      "from": "2024-02-29",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/153495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-230-2024",
+   "path": "local/constanta/eforie/2024/230",
+   "short": "HCL Eforie nr. 230/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 230/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169310",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-231-2024",
+   "path": "local/constanta/eforie/2024/231",
+   "short": "HCL Eforie nr. 231/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 231/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169311",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-232-2024",
+   "path": "local/constanta/eforie/2024/232",
+   "short": "HCL Eforie nr. 232/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 232/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169312",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-233-2024",
+   "path": "local/constanta/eforie/2024/233",
+   "short": "HCL Eforie nr. 233/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 233/2024 privind completarea bunurilor care alcatuiesc domeniul privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169313",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-234-2024",
+   "path": "local/constanta/eforie/2024/234",
+   "short": "HCL Eforie nr. 234/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 234/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169314",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-235-2024",
+   "path": "local/constanta/eforie/2024/235",
+   "short": "HCL Eforie nr. 235/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 235/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169315",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-236-2024",
+   "path": "local/constanta/eforie/2024/236",
+   "short": "HCL Eforie nr. 236/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 236/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169316",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-237-2024",
+   "path": "local/constanta/eforie/2024/237",
+   "short": "HCL Eforie nr. 237/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 237/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169317",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-238-2024",
+   "path": "local/constanta/eforie/2024/238",
+   "short": "HCL Eforie nr. 238/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 238/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169318",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-239-2024",
+   "path": "local/constanta/eforie/2024/239",
+   "short": "HCL Eforie nr. 239/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 239/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169319",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-24-2024",
+   "path": "local/constanta/eforie/2024/24",
+   "short": "HCL Eforie nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 24/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153496",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-240-2024",
+   "path": "local/constanta/eforie/2024/240",
+   "short": "HCL Eforie nr. 240/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 240/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169320",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-241-2024",
+   "path": "local/constanta/eforie/2024/241",
+   "short": "HCL Eforie nr. 241/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 241/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169321",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-242-2024",
+   "path": "local/constanta/eforie/2024/242",
+   "short": "HCL Eforie nr. 242/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 242/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169322",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-243-2024",
+   "path": "local/constanta/eforie/2024/243",
+   "short": "HCL Eforie nr. 243/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 243/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169323",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-244-2024",
+   "path": "local/constanta/eforie/2024/244",
+   "short": "HCL Eforie nr. 244/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 244/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169324",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-245-2024",
+   "path": "local/constanta/eforie/2024/245",
+   "short": "HCL Eforie nr. 245/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 245/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169325",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-246-2024",
+   "path": "local/constanta/eforie/2024/246",
+   "short": "HCL Eforie nr. 246/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 246/2024 privind îndreptarea unei erori materiale din cuprinsul HCL nr. 185 / 30.07.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169326",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-247-2024",
+   "path": "local/constanta/eforie/2024/247",
+   "short": "HCL Eforie nr. 247/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 247/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169327",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-248-2024",
+   "path": "local/constanta/eforie/2024/248",
+   "short": "HCL Eforie nr. 248/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 248/2024 privind aprobarea listei de repartizare a locuințelor pentru tineri destinate închirierii (ANL) conform Procesului verbal înregistrat sub nr. 24878 / 27.08.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169328",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-249-2024",
+   "path": "local/constanta/eforie/2024/249",
+   "short": "HCL Eforie nr. 249/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 249/2024 privind aprobarea listei de repartiție a locuințelor sociale conform Procesului verbal înregistrat sub nr. 24887 / 27.08.2024 al Comisiei Sociale",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169329",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-25-2024",
+   "path": "local/constanta/eforie/2024/25",
+   "short": "HCL Eforie nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 25/2024 privind aprobarea Programului de acțiuni comunitare pentru anul 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153497",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-250-2024",
+   "path": "local/constanta/eforie/2024/250",
+   "short": "HCL Eforie nr. 250/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 250/2024 privind aprobarea prelungirii valabilității/modificării unor contracte de închiriere pentru locuințele sociale și locuințele preluate din fondul locativ de stat",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169330",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-251-2024",
+   "path": "local/constanta/eforie/2024/251",
+   "short": "HCL Eforie nr. 251/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 251/2024 privind aprobarea repartizării a 2 (două) locuințe sociale conform Procesului verbal înregistrat sub nr. 24980 / 27.08.2024 al Comisiei Sociale",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169331",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-252-2024",
+   "path": "local/constanta/eforie/2024/252",
+   "short": "HCL Eforie nr. 252/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 252/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169356",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-253-2024",
+   "path": "local/constanta/eforie/2024/253",
+   "short": "HCL Eforie nr. 253/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 253/2024 privind desemnarea reprezentanților Consiliului Local Eforie în consiliile de administrație ale instituțiilor de învățământ de stat și privat din Orasul Eforie în anul școlar 2024-2025",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169357",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-254-2024",
+   "path": "local/constanta/eforie/2024/254",
+   "short": "HCL Eforie nr. 254/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 254/2024 privind aprobarea acordării unei subvenții de la bugetul local al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169358",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-255-2024",
+   "path": "local/constanta/eforie/2024/255",
+   "short": "HCL Eforie nr. 255/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 255/2024 privind numirea provizorie a unui administrator al SC EFO URBAN SRL",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/169359",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/169359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-256-2024",
+   "path": "local/constanta/eforie/2024/256",
+   "short": "HCL Eforie nr. 256/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 256/2024 privind alegerea, pentru o perioadă de cel mult 3 luni, a unui președinte de ședință al Consiliul Local al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172231",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-257-2024",
+   "path": "local/constanta/eforie/2024/257",
+   "short": "HCL Eforie nr. 257/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 257/2024 privind modificarea componenței nominale a Comisiei Tehnice de Amenajare a Teritoriului și Urbanism a orașului Eforie și a Regulamentului de Organizare și Funcționare a acesteia",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172232",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-258-2024",
+   "path": "local/constanta/eforie/2024/258",
+   "short": "HCL Eforie nr. 258/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 258/2024 privind aprobarea Raportului informării și consultării publicului referitor la actualizarea PUG oraș Eforie în etapa de elaborare a propunerilor ce vor fi supuse procesului de avizare",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172233",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-259-2024",
+   "path": "local/constanta/eforie/2024/259",
+   "short": "HCL Eforie nr. 259/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 259/2024 privind actualizarea suprafetei unui imobil care apartine domeniului privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172234",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-26-2024",
+   "path": "local/constanta/eforie/2024/26",
+   "short": "HCL Eforie nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 26/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153498",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-260-2024",
+   "path": "local/constanta/eforie/2024/260",
+   "short": "HCL Eforie nr. 260/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 260/2024 privind radierea unor imobile care aparține domeniului privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172235",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-261-2024",
+   "path": "local/constanta/eforie/2024/261",
+   "short": "HCL Eforie nr. 261/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 261/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172236",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-262-2024",
+   "path": "local/constanta/eforie/2024/262",
+   "short": "HCL Eforie nr. 262/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 262/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172237",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-263-2024",
+   "path": "local/constanta/eforie/2024/263",
+   "short": "HCL Eforie nr. 263/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 263/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172238",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-264-2024",
+   "path": "local/constanta/eforie/2024/264",
+   "short": "HCL Eforie nr. 264/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 264/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172239",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-265-2024",
+   "path": "local/constanta/eforie/2024/265",
+   "short": "HCL Eforie nr. 265/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 265/2024 privind aprobarea alipirii a 5 imobile conform planului intocmit de Geocad Limits S.R.L",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172240",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-266-2024",
+   "path": "local/constanta/eforie/2024/266",
+   "short": "HCL Eforie nr. 266/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 266/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172241",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-267-2024",
+   "path": "local/constanta/eforie/2024/267",
+   "short": "HCL Eforie nr. 267/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 267/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172242",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-268-2024",
+   "path": "local/constanta/eforie/2024/268",
+   "short": "HCL Eforie nr. 268/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 268/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172243",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-269-2024",
+   "path": "local/constanta/eforie/2024/269",
+   "short": "HCL Eforie nr. 269/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 269/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172244",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-27-2024",
+   "path": "local/constanta/eforie/2024/27",
+   "short": "HCL Eforie nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 27/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153499",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-270-2024",
+   "path": "local/constanta/eforie/2024/270",
+   "short": "HCL Eforie nr. 270/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 270/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172245",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-271-2024",
+   "path": "local/constanta/eforie/2024/271",
+   "short": "HCL Eforie nr. 271/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 271/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172246",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-272-2024",
+   "path": "local/constanta/eforie/2024/272",
+   "short": "HCL Eforie nr. 272/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 272/2024 privind aprobarea raportului de evaluare in vederea punerii in aplicare a HCL 201/30.07.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172247",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-273-2024",
+   "path": "local/constanta/eforie/2024/273",
+   "short": "HCL Eforie nr. 273/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 273/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172248",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-274-2024",
+   "path": "local/constanta/eforie/2024/274",
+   "short": "HCL Eforie nr. 274/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 274/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172249",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-275-2024",
+   "path": "local/constanta/eforie/2024/275",
+   "short": "HCL Eforie nr. 275/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 275/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172250",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-276-2024",
+   "path": "local/constanta/eforie/2024/276",
+   "short": "HCL Eforie nr. 276/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 276/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172251",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-277-2024",
+   "path": "local/constanta/eforie/2024/277",
+   "short": "HCL Eforie nr. 277/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 277/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172252",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-278-2024",
+   "path": "local/constanta/eforie/2024/278",
+   "short": "HCL Eforie nr. 278/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 278/2024 privind aprobarea valorii despagubirii juste conform HCL 271/29.11.2022",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172253",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-279-2024",
+   "path": "local/constanta/eforie/2024/279",
+   "short": "HCL Eforie nr. 279/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 279/2024 privind modificarea și completarea HCL nr. 250 / 29.08.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172254",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-28-2024",
+   "path": "local/constanta/eforie/2024/28",
+   "short": "HCL Eforie nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 28/2024 privind achiziționarea unor servicii de asistenta si reprezentare juridica a UAT Oras Eforie in litigiul care face obiectul dosarului civil nr. 6855/2/2020",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153500",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-280-2024",
+   "path": "local/constanta/eforie/2024/280",
+   "short": "HCL Eforie nr. 280/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 280/2024 privind aprobarea modificării Contractului de Concesiune nr. 115 din 24 februarie 1995",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172255",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-281-2024",
+   "path": "local/constanta/eforie/2024/281",
+   "short": "HCL Eforie nr. 281/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 281/2024 privind privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172256",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-282-2024",
+   "path": "local/constanta/eforie/2024/282",
+   "short": "HCL Eforie nr. 282/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 282/2024 privind anularea accesoriilor în cazul obligațiilor bugetare restante la 31 august 2024 datorate bugetului local al orașului EFORIE",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172257",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-283-2024",
+   "path": "local/constanta/eforie/2024/283",
+   "short": "HCL Eforie nr. 283/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 283/2024 privind aprobarea prelungirii valabilității/modificării unor contracte de închiriere pentru locuințele sociale și locuințele preluate din fondul locativ de stat",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172258",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-284-2024",
+   "path": "local/constanta/eforie/2024/284",
+   "short": "HCL Eforie nr. 284/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 284/2024 privind aprobarea inventarului anual al patrimoniului UAT Eforie pentru anul 2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172259",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-285-2024",
+   "path": "local/constanta/eforie/2024/285",
+   "short": "HCL Eforie nr. 285/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 285/2024 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate a primarului oraș Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172260",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-286-2024",
+   "path": "local/constanta/eforie/2024/286",
+   "short": "HCL Eforie nr. 286/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 286/2024 privind modificarea Anexei nr. 1 la HCL Eforie nr. 49 / 29.02.2024, și aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL ORAȘULUI EFORIE”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172261",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-287-2024",
+   "path": "local/constanta/eforie/2024/287",
+   "short": "HCL Eforie nr. 287/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 287/2024 privind modificarea Anexei nr. 1 la HCL Eforie nr. 48 / 29.02.2024, cu modificările și completarile ulterioare si aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL LOCALITATII EFORIE NORD”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172262",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-288-2024",
+   "path": "local/constanta/eforie/2024/288",
+   "short": "HCL Eforie nr. 288/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 288/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172263",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-289-2024",
+   "path": "local/constanta/eforie/2024/289",
+   "short": "HCL Eforie nr. 289/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 289/2024 privind privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172264",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-29-2024",
+   "path": "local/constanta/eforie/2024/29",
+   "short": "HCL Eforie nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 29/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153501",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-290-2024",
+   "path": "local/constanta/eforie/2024/290",
+   "short": "HCL Eforie nr. 290/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 290/2024 PROIECT DE HOTĂRÂRE PRIVIND APROBAREA PROIECTULUI CU TITLUL „ÎNFIINŢAREA SISTEMULUI DE TRANSPORT PUBLIC DE CÃLÃTORI CU MATERIAL RULANT ECOLOGIC, INCLUSIV INFRASTRUCTURA DE PARCARE ŞI FACILITÃŢI PENTRU BICICLISTI ȊN CADRUL CORIDORULUI DE MOBILITATE URBANÃ CREAT” ȘI A CHELTUIELILOR LEGATE DE PROIECT",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/172265",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/172265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-291-2024",
+   "path": "local/constanta/eforie/2024/291",
+   "short": "HCL Eforie nr. 291/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 291/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/174600",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/174600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-292-2024",
+   "path": "local/constanta/eforie/2024/292",
+   "short": "HCL Eforie nr. 292/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 292/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/174601",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/174601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-293-2024",
+   "path": "local/constanta/eforie/2024/293",
+   "short": "HCL Eforie nr. 293/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 293/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/174602",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/174602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-294-2024",
+   "path": "local/constanta/eforie/2024/294",
+   "short": "HCL Eforie nr. 294/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 294/2024 privind alegerea, pentru o perioadă de 3 luni, a unui președinte de ședință al Consiliul Local al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/177545",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/177545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-295-2024",
+   "path": "local/constanta/eforie/2024/295",
+   "short": "HCL Eforie nr. 295/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 295/2024 privind constituirea comisiilor de specialitate ale Consiliul Local al orașului Eforie în mandatul 2024 – 2028",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/177546",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/177546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-296-2024",
+   "path": "local/constanta/eforie/2024/296",
+   "short": "HCL Eforie nr. 296/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 296/2024 privind validarea Dispoziției Primarului orașului Eforie nr. 442 / 15.11.2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie pentru anul 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/177704",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/177704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-297-2024",
+   "path": "local/constanta/eforie/2024/297",
+   "short": "HCL Eforie nr. 297/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 297/2024 privind desemnarea reprezentanților Consiliul Local al orașului Eforie în comisia pentru evaluarea ofertelor pentru închirierea și / sau vânzarea bunurilor aflate în patrimoniul UAT oraș Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/177705",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/177705",
      "sha256": null
     }
    ]
@@ -183,6 +3348,381 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-30-2024",
+   "path": "local/constanta/eforie/2024/30",
+   "short": "HCL Eforie nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 30/2024 privind acordarea gratuită a unor locuri de veci",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153502",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-300-2024",
+   "path": "local/constanta/eforie/2024/300",
+   "short": "HCL Eforie nr. 300/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 300/2024 privind organizarea rețelei școlare a unitatilor de învatamant preuniversitar de stat și particular din Orasul Eforie pentru anul școlar 2025–2026",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181067",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-301-2024",
+   "path": "local/constanta/eforie/2024/301",
+   "short": "HCL Eforie nr. 301/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 301/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181068",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-302-2024",
+   "path": "local/constanta/eforie/2024/302",
+   "short": "HCL Eforie nr. 302/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 302/2024 modificarea H.C.L.nr. 283/30.09.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181069",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-303-2024",
+   "path": "local/constanta/eforie/2024/303",
+   "short": "HCL Eforie nr. 303/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 303/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 874 mp situat in Orasul Eforie, loc. Eforie Sud, Complex Briza Marii II",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181070",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-304-2024",
+   "path": "local/constanta/eforie/2024/304",
+   "short": "HCL Eforie nr. 304/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 304/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 72 mp situat in Orasul Eforie, loc. Eforie Nord, Al. Belona",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181071",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-305-2024",
+   "path": "local/constanta/eforie/2024/305",
+   "short": "HCL Eforie nr. 305/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 305/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 220 mp situat in Orasul Eforie, loc. Eforie Sud, str. Progresului, nr. 49",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181072",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-306-2024",
+   "path": "local/constanta/eforie/2024/306",
+   "short": "HCL Eforie nr. 306/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 306/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 824 mp, situat in Orasul Eforie, loc. Eforie Nord, str. Decebal",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181073",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-307-2024",
+   "path": "local/constanta/eforie/2024/307",
+   "short": "HCL Eforie nr. 307/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 307/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 385 mp, situat in Orasul Eforie, loc. Eforie Nord, str. Decebal",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181074",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-308-2024",
+   "path": "local/constanta/eforie/2024/308",
+   "short": "HCL Eforie nr. 308/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 308/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 2.059 mp, situat in Orasul Eforie, loc. Eforie Nord, str. Decebal",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181075",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-309-2024",
+   "path": "local/constanta/eforie/2024/309",
+   "short": "HCL Eforie nr. 309/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 309/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 2.811 mp, situat in Orasul Eforie, loc. Eforie Nord, str. Decebal",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181076",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-31-2024",
+   "path": "local/constanta/eforie/2024/31",
+   "short": "HCL Eforie nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 31/2024 privind aprobarea Raportului de evaluare ce stabilește valoarea redevenței și a constituirii dreptului de superficie cu titlu oneros asupra terenului aferent locuinței reprezentând apt. 1 din cadrul imobilului situat in orașul Eforie, localitatea Eforie Sud, bd. N. Titulescu, nr. 21",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153503",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-310-2024",
+   "path": "local/constanta/eforie/2024/310",
+   "short": "HCL Eforie nr. 310/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 310/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 3.620 mp situat in Orasul Eforie, loc. Eforie Nord, str. Decebal",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181077",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-311-2024",
+   "path": "local/constanta/eforie/2024/311",
+   "short": "HCL Eforie nr. 311/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 311/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 4.359 mp situat in Orasul Eforie, loc. Eforie Nord, str. Decebal",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181078",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-312-2024",
+   "path": "local/constanta/eforie/2024/312",
+   "short": "HCL Eforie nr. 312/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 312/2024 privind aprobarea oportunitatii constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 8.594 mp situat in Orasul Eforie, loc. Eforie Sud, str. Dr. Cantacuzino, nr. 76",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181079",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-313-2024",
+   "path": "local/constanta/eforie/2024/313",
+   "short": "HCL Eforie nr. 313/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 313/2024 privind modificarea H.C.L.nr. 249/29.08.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181080",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-314-2024",
+   "path": "local/constanta/eforie/2024/314",
+   "short": "HCL Eforie nr. 314/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 314/2024 privind acordarea gratuita a unui loc de veci",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181081",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-315-2024",
+   "path": "local/constanta/eforie/2024/315",
+   "short": "HCL Eforie nr. 315/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 315/2024 privind actualizarea elementelor de identificare pentru un numar de 8 imobile care apartin domeniului public al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181082",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-316-2024",
+   "path": "local/constanta/eforie/2024/316",
+   "short": "HCL Eforie nr. 316/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 316/2024 privind constituirea comisiei pentru evaluarea ofertelor pentru concesionarea bunurilor aflate în patrimoniul UAT oraș Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181083",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-317-2024",
+   "path": "local/constanta/eforie/2024/317",
+   "short": "HCL Eforie nr. 317/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 317/2024 privind actualizarea suprafetelor unor imobile care apartin domeniului privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181084",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-318-2024",
+   "path": "local/constanta/eforie/2024/318",
+   "short": "HCL Eforie nr. 318/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 318/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181085",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-319-2024",
+   "path": "local/constanta/eforie/2024/319",
+   "short": "HCL Eforie nr. 319/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 319/2024 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul III al anului 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181086",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-32-2024",
+   "path": "local/constanta/eforie/2024/32",
+   "short": "HCL Eforie nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 32/2024 privind aprobarea Raportului de evaluare ce stabilește valoarea redevenței și a constituirii dreptului de superficie cu titlu oneros asupra terenului în suprafață de 71 mp situat in orașul Eforie, localitatea Eforie Sud, str. Faleză, identificat cu IE 104113",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153504",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-320-2024",
+   "path": "local/constanta/eforie/2024/320",
+   "short": "HCL Eforie nr. 320/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 320/2024 privind încetarea valabilității Contractului de Concesiune nr. 223 / 29.09.1999",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181087",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-321-2024",
+   "path": "local/constanta/eforie/2024/321",
+   "short": "HCL Eforie nr. 321/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 321/2024 privind actualizarea Devizului general (anexa nr. 2) la HCL Eforie nr. 286 / 30.09.2024, cu modificările și completarile ulterioare si aprobarea devizului general actualizat pentru obiectivul de investiții ” REABILITARE DRUMURI PUBLICE ÎN INTERIORUL LOCALITATII EFORIE NORD”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181088",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-322-2024",
    "path": "local/constanta/eforie/2024/322",
    "short": "HCL Eforie nr. 322/2024",
@@ -198,6 +3738,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-323-2024",
+   "path": "local/constanta/eforie/2024/323",
+   "short": "HCL Eforie nr. 323/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 323/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181090",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181090",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-324-2024",
    "path": "local/constanta/eforie/2024/324",
    "short": "HCL Eforie nr. 324/2024",
@@ -208,6 +3763,21 @@
      "from": "2025-01-17",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/181091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-325-2024",
+   "path": "local/constanta/eforie/2024/325",
+   "short": "HCL Eforie nr. 325/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 325/2024 privind actualizarea documentatiei tehnico-economice, faza PT, a principalilor indicatori tehnico-economici pentru proiect cu titlul: „ Dezvoltarea infrastructurii de agrement in statiunea Eforie Sud/Nord ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/181092",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/181092",
      "sha256": null
     }
    ]
@@ -243,6 +3813,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-328-2024",
+   "path": "local/constanta/eforie/2024/328",
+   "short": "HCL Eforie nr. 328/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 328/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186228",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186228",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-329-2024",
    "path": "local/constanta/eforie/2024/329",
    "short": "HCL Eforie nr. 329/2024",
@@ -258,6 +3843,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-33-2024",
+   "path": "local/constanta/eforie/2024/33",
+   "short": "HCL Eforie nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 33/2024 privind aprobarea Raportului de evaluare întocmit de SC GECO MEC 2003 SRL pentru terenul aferent locuinței situată în orașul Eforie, localitatea Eforie Sud, str. Negru Vodă, nr. 16 și a vânzării acestuia",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153505",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153505",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-330-2024",
    "path": "local/constanta/eforie/2024/330",
    "short": "HCL Eforie nr. 330/2024",
@@ -268,6 +3868,366 @@
      "from": "2025-01-21",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/186230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-331-2024",
+   "path": "local/constanta/eforie/2024/331",
+   "short": "HCL Eforie nr. 331/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 331/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186231",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-332-2024",
+   "path": "local/constanta/eforie/2024/332",
+   "short": "HCL Eforie nr. 332/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 332/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186232",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-333-2024",
+   "path": "local/constanta/eforie/2024/333",
+   "short": "HCL Eforie nr. 333/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 333/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186233",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-334-2024",
+   "path": "local/constanta/eforie/2024/334",
+   "short": "HCL Eforie nr. 334/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 334/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186234",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-335-2024",
+   "path": "local/constanta/eforie/2024/335",
+   "short": "HCL Eforie nr. 335/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 335/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186235",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-336-2024",
+   "path": "local/constanta/eforie/2024/336",
+   "short": "HCL Eforie nr. 336/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 336/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186236",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-337-2024",
+   "path": "local/constanta/eforie/2024/337",
+   "short": "HCL Eforie nr. 337/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 337/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186237",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-338-2024",
+   "path": "local/constanta/eforie/2024/338",
+   "short": "HCL Eforie nr. 338/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 338/2024 privind corectarea unei erori materiale",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186238",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-339-2024",
+   "path": "local/constanta/eforie/2024/339",
+   "short": "HCL Eforie nr. 339/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 339/2024 privind aprobarea valorii despagubirii juste conform HCL nr. 114 / 30.05.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186239",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-34-2024",
+   "path": "local/constanta/eforie/2024/34",
+   "short": "HCL Eforie nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 34/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153506",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-340-2024",
+   "path": "local/constanta/eforie/2024/340",
+   "short": "HCL Eforie nr. 340/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 340/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186240",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-341-2024",
+   "path": "local/constanta/eforie/2024/341",
+   "short": "HCL Eforie nr. 341/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 341/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186241",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-342-2024",
+   "path": "local/constanta/eforie/2024/342",
+   "short": "HCL Eforie nr. 342/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 342/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186242",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-343-2024",
+   "path": "local/constanta/eforie/2024/343",
+   "short": "HCL Eforie nr. 343/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 343/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186243",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-344-2024",
+   "path": "local/constanta/eforie/2024/344",
+   "short": "HCL Eforie nr. 344/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 344/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186244",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-345-2024",
+   "path": "local/constanta/eforie/2024/345",
+   "short": "HCL Eforie nr. 345/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 345/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186245",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-346-2024",
+   "path": "local/constanta/eforie/2024/346",
+   "short": "HCL Eforie nr. 346/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 346/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186246",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-347-2024",
+   "path": "local/constanta/eforie/2024/347",
+   "short": "HCL Eforie nr. 347/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 347/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186247",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-348-2024",
+   "path": "local/constanta/eforie/2024/348",
+   "short": "HCL Eforie nr. 348/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 348/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186248",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-349-2024",
+   "path": "local/constanta/eforie/2024/349",
+   "short": "HCL Eforie nr. 349/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 349/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186249",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-35-2024",
+   "path": "local/constanta/eforie/2024/35",
+   "short": "HCL Eforie nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 35/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153507",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-350-2024",
+   "path": "local/constanta/eforie/2024/350",
+   "short": "HCL Eforie nr. 350/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 350/2024 privind vanzarea terenului proprietatea orasului Eforie situat in Orasul Eforie, localitatea Eforie Sud, str. Dezrobirii, nr. FN in suprafata de 150 mp (147 mp din masuratori) inscris in cartea funciara 104362",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186250",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-351-2024",
+   "path": "local/constanta/eforie/2024/351",
+   "short": "HCL Eforie nr. 351/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 351/2024 privind vanzarea terenului proprietatea orasului Eforie situat in Orasul Eforie, localitatea Eforie Sud, str. Dezrobirii, nr. FN in suprafata de 127 mp inscris in cartea funciara 103910",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186251",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-352-2024",
+   "path": "local/constanta/eforie/2024/352",
+   "short": "HCL Eforie nr. 352/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 352/2024 privind aprobarea oportunitatii concesionarii prin licitatie a imobilului teren situat in Orasul Eforie, localitatea Eforie Sud, str. Marii, nr. 8 in suprafata de 3.594 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186252",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186252",
      "sha256": null
     }
    ]
@@ -303,6 +4263,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-355-2024",
+   "path": "local/constanta/eforie/2024/355",
+   "short": "HCL Eforie nr. 355/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 355/2024 privind actualizarea suprafețelor unor imobile care aparțin domeniului privat al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186255",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-356-2024",
+   "path": "local/constanta/eforie/2024/356",
+   "short": "HCL Eforie nr. 356/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 356/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186256",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-357-2024",
+   "path": "local/constanta/eforie/2024/357",
+   "short": "HCL Eforie nr. 357/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 357/2024 privind aprobarea oportunității vânzării terenului situat in Orasul Eforie, localitatea Eforie Sud, zona blocuri Flamingo pozitia 10, in suprafata de 18 mp identificat cu nr. cadastral 11898 inscris in cartea funciara 15164",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186257",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186257",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-358-2024",
    "path": "local/constanta/eforie/2024/358",
    "short": "HCL Eforie nr. 358/2024",
@@ -313,6 +4318,231 @@
      "from": "2025-01-21",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/186258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-359-2024",
+   "path": "local/constanta/eforie/2024/359",
+   "short": "HCL Eforie nr. 359/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 359/2024 privind completarea bunurilor care alcatuiesc domeniul privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186259",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-36-2024",
+   "path": "local/constanta/eforie/2024/36",
+   "short": "HCL Eforie nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 36/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153508",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-360-2024",
+   "path": "local/constanta/eforie/2024/360",
+   "short": "HCL Eforie nr. 360/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 360/2024 privind aprobarea contului de execuție al bugetului orașului Eforie pentru trimestrul IV al anului 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/186260",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/186260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-37-2024",
+   "path": "local/constanta/eforie/2024/37",
+   "short": "HCL Eforie nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 37/2024 privind actualizarea suprafetei unor imobile care apartin domeniului privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153509",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-38-2024",
+   "path": "local/constanta/eforie/2024/38",
+   "short": "HCL Eforie nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 38/2024 privind actualizarea valorii de piata pentru 2 imobile teren",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153510",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-39-2024",
+   "path": "local/constanta/eforie/2024/39",
+   "short": "HCL Eforie nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 39/2024 privind modificarea și completarea HCL 355/21.12.2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153511",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-4-2024",
+   "path": "local/constanta/eforie/2024/4",
+   "short": "HCL Eforie nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 4/2024 privind aprobarea Planului de acțiuni sau lucrări de interes local, întocmit în conformitate cu prevederile art.61 din Legea 196/2016 privind venitul minim de incluziune, pentru anul 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146823",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-40-2024",
+   "path": "local/constanta/eforie/2024/40",
+   "short": "HCL Eforie nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 40/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153512",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-41-2024",
+   "path": "local/constanta/eforie/2024/41",
+   "short": "HCL Eforie nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 41/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153513",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-42-2024",
+   "path": "local/constanta/eforie/2024/42",
+   "short": "HCL Eforie nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 42/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153514",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-43-2024",
+   "path": "local/constanta/eforie/2024/43",
+   "short": "HCL Eforie nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 43/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153515",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-44-2024",
+   "path": "local/constanta/eforie/2024/44",
+   "short": "HCL Eforie nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 44/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153516",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-45-2024",
+   "path": "local/constanta/eforie/2024/45",
+   "short": "HCL Eforie nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 45/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153517",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-46-2024",
+   "path": "local/constanta/eforie/2024/46",
+   "short": "HCL Eforie nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 46/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153518",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-47-2024",
+   "path": "local/constanta/eforie/2024/47",
+   "short": "HCL Eforie nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 47/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153519",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153519",
      "sha256": null
     }
    ]
@@ -348,6 +4578,696 @@
    ]
   },
   {
+   "slug": "hcl-constanta--eforie-5-2024",
+   "path": "local/constanta/eforie/2024/5",
+   "short": "HCL Eforie nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 5/2024 privind achizitionarea unor servicii de asistenta si reprezentare juridica a UAT Oras Eforie in litigiul care face obiectul dosarului civil având ca obiect contestația UAT Eforie împotriva Deciziei nr. 5 / 04.01.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146824",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-50-2024",
+   "path": "local/constanta/eforie/2024/50",
+   "short": "HCL Eforie nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 50/2024 privind alegerea pentru o perioadă de 3 luni președintele de ședință al Consiliul Local al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153549",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-51-2024",
+   "path": "local/constanta/eforie/2024/51",
+   "short": "HCL Eforie nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 51/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153550",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-52-2024",
+   "path": "local/constanta/eforie/2024/52",
+   "short": "HCL Eforie nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 52/2024 privind aprobarea indicatorilor si devizul general privind cheltuielile necesare realizarii documentatiei de urbanism “Actualizare Plan Urbanistic General al Orasului Eforie”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153551",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-53-2024",
+   "path": "local/constanta/eforie/2024/53",
+   "short": "HCL Eforie nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 53/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153552",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-54-2024",
+   "path": "local/constanta/eforie/2024/54",
+   "short": "HCL Eforie nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 54/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153553",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-55-2024",
+   "path": "local/constanta/eforie/2024/55",
+   "short": "HCL Eforie nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 55/2024 privind aditionarea contractului de folosinta nr. 21/18.07.2013 asupra terenului situat in Orasul Eforie, localitatea Eforie Nord, lot 43 partial in suprafata de 425 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153554",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-56-2024",
+   "path": "local/constanta/eforie/2024/56",
+   "short": "HCL Eforie nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 56/2024 privind aditionarea contractului de folosinta nr. 9/22.02.2013 asupra terenului situat in Orasul Eforie, localitatea Eforie Nord, lot 44 partial in suprafata de 400 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153555",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-57-2024",
+   "path": "local/constanta/eforie/2024/57",
+   "short": "HCL Eforie nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 57/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153556",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-58-2024",
+   "path": "local/constanta/eforie/2024/58",
+   "short": "HCL Eforie nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 58/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153557",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-59-2024",
+   "path": "local/constanta/eforie/2024/59",
+   "short": "HCL Eforie nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 59/2024 privind aditionarea contractului de concesiune nr. 64/02.02.1999 asupra terenului situat in Orasul Eforie, localitatea Eforie Nord, str. Republicii, lot 947 partial, in suprafata de 245 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153558",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-6-2024",
+   "path": "local/constanta/eforie/2024/6",
+   "short": "HCL Eforie nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 6/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146825",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-60-2024",
+   "path": "local/constanta/eforie/2024/60",
+   "short": "HCL Eforie nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 60/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153559",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-61-2024",
+   "path": "local/constanta/eforie/2024/61",
+   "short": "HCL Eforie nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 61/2024 privind aprobarea prelungirii valabilitatii Contractelor de concesiune nr. 37/28.07.1997 si nr. 181/23.06.1999",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153560",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-62-2024",
+   "path": "local/constanta/eforie/2024/62",
+   "short": "HCL Eforie nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 62/2024 privind aprobarea prelungirii valabilitatii Contractului de concesiune nr. 4/07.10.2009",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153561",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-63-2024",
+   "path": "local/constanta/eforie/2024/63",
+   "short": "HCL Eforie nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 63/2024 privind aprobarea prelungirii valabilitatii Contractelor de concesiune nr. 7/04.01.1999 si nr. 2/14.02.2002",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153562",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-64-2024",
+   "path": "local/constanta/eforie/2024/64",
+   "short": "HCL Eforie nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 64/2024 privind aprobarea prelungirii valabilitatii Contractelor de concesiune nr. 218/14.09.1999 si nr. 2/01.03.2016",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153563",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-65-2024",
+   "path": "local/constanta/eforie/2024/65",
+   "short": "HCL Eforie nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 65/2024 privind aprobarea prelungirii valabilitatii Contractelor de concesiune nr. 220/14.09.1999 si nr. 1/25.02.2008",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153564",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-66-2024",
+   "path": "local/constanta/eforie/2024/66",
+   "short": "HCL Eforie nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 66/2024 privind aprobarea prelungirii valabilitatii Contractului de concesiune nr. 205/12.08.1999",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153565",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-67-2024",
+   "path": "local/constanta/eforie/2024/67",
+   "short": "HCL Eforie nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 67/2024 privind aprobarea prelungirii valabilitatii Contractului de concesiune nr. 5/19.03.2015",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153566",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-68-2024",
+   "path": "local/constanta/eforie/2024/68",
+   "short": "HCL Eforie nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 68/2024 privind aprobarea Raportului de evaluare ce stabileste valoarea redeventei si a constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 91mp situat in Eforie Sud, str. Faleza, inscris in CF 105195 Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153567",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-69-2024",
+   "path": "local/constanta/eforie/2024/69",
+   "short": "HCL Eforie nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 69/2024 privind aprobarea Raportului de evaluare ce stabileste valoarea redeventei si a constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 617mp situat in Eforie Sud, str. Dr. Cantacuzino, inscris in CF 106304 Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153568",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-7-2024",
+   "path": "local/constanta/eforie/2024/7",
+   "short": "HCL Eforie nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 7/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146826",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-70-2024",
+   "path": "local/constanta/eforie/2024/70",
+   "short": "HCL Eforie nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 70/2024 privind aprobarea Raportului de evaluare ce stabileste valoarea redeventei si a constituirii dreptului de superficie cu titlu oneros asupra terenului in suprafata de 637mp situat in Eforie Sud, str. Dr. Cantacuzino, nr. 59, inscris in CF 107846 Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153569",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-71-2024",
+   "path": "local/constanta/eforie/2024/71",
+   "short": "HCL Eforie nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 71/2024 privind exprimarea unui acord prin inscris autentic",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153570",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-72-2024",
+   "path": "local/constanta/eforie/2024/72",
+   "short": "HCL Eforie nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 72/2024 privind actualizarea suprafetei unui imobil teren care apartin domeniului privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153571",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-73-2024",
+   "path": "local/constanta/eforie/2024/73",
+   "short": "HCL Eforie nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 73/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153572",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-74-2024",
+   "path": "local/constanta/eforie/2024/74",
+   "short": "HCL Eforie nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 74/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153573",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-75-2024",
+   "path": "local/constanta/eforie/2024/75",
+   "short": "HCL Eforie nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 75/2024 privind oportunitatea cumpararii unui teren",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153574",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-76-2024",
+   "path": "local/constanta/eforie/2024/76",
+   "short": "HCL Eforie nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 76/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153575",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-77-2024",
+   "path": "local/constanta/eforie/2024/77",
+   "short": "HCL Eforie nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 77/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153576",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-78-2024",
+   "path": "local/constanta/eforie/2024/78",
+   "short": "HCL Eforie nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 78/2024 privind aprobarea oportunitatii inchirierii prin licitatie a imobilului teren situat in Orasul Eforie, localitatea Eforie Nord, strada Mihal Kogalniceanu, in suprafata de 56 mp",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153577",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-79-2024",
+   "path": "local/constanta/eforie/2024/79",
+   "short": "HCL Eforie nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 79/2024 privind modificarea Anexei nr. 2 H.C.L Eforie nr. 18 / 12.02.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153578",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-8-2024",
+   "path": "local/constanta/eforie/2024/8",
+   "short": "HCL Eforie nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 8/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146827",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-80-2024",
+   "path": "local/constanta/eforie/2024/80",
+   "short": "HCL Eforie nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 80/2024 privind aprobarea închirierii unui spațiu cu destinația de cabinet medical, beneficiar SC Denymar Medical SRL",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153579",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-81-2024",
+   "path": "local/constanta/eforie/2024/81",
+   "short": "HCL Eforie nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 81/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153580",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-82-2024",
+   "path": "local/constanta/eforie/2024/82",
+   "short": "HCL Eforie nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 82/2024 privind aprobarea cererii nr. 3979 / 13.02.2024 - Oprea Măndița în baza Legii nr. 550/2002",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153581",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-83-2024",
+   "path": "local/constanta/eforie/2024/83",
+   "short": "HCL Eforie nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 83/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153582",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-84-2024",
+   "path": "local/constanta/eforie/2024/84",
+   "short": "HCL Eforie nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 84/2024 privind aprobare prelungire termen de amplasare panou publicitar în loc. Eforie Nord, str. Republicii-beneficiar SC Alexandra 2000 SRL",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153583",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-85-2024",
+   "path": "local/constanta/eforie/2024/85",
+   "short": "HCL Eforie nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 85/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153584",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-86-2024",
+   "path": "local/constanta/eforie/2024/86",
+   "short": "HCL Eforie nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 86/2024 privind completarea bunurilor care alcatuiesc domeniul privat al orasului",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153585",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-87-2024",
+   "path": "local/constanta/eforie/2024/87",
+   "short": "HCL Eforie nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 87/2024 privind modificarea și completarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 17 / 12.02.2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/153586",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/153586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-88-2024",
+   "path": "local/constanta/eforie/2024/88",
+   "short": "HCL Eforie nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 88/2024 privind rectificarea bugetului de venituri și cheltuieli al orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156296",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-89-2024",
+   "path": "local/constanta/eforie/2024/89",
+   "short": "HCL Eforie nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 89/2024 privind aprobarea contului de execuție al bugetului local al orașului Eforie pentru exercițiul financiar al anului 2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156297",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-9-2024",
+   "path": "local/constanta/eforie/2024/9",
+   "short": "HCL Eforie nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 9/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/146828",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/146828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-90-2024",
+   "path": "local/constanta/eforie/2024/90",
+   "short": "HCL Eforie nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 90/2024 privind aprobarea contului de execuție al bugetului local al orașului Eforie pentru trimestrul I al anului 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156298",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156298",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--eforie-91-2024",
    "path": "local/constanta/eforie/2024/91",
    "short": "HCL Eforie nr. 91/2024",
@@ -358,6 +5278,126 @@
      "from": "2024-04-30",
      "units": 1,
      "source_url": "https://emol.ro/eforie-ct/registru-hcl/156299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-92-2024",
+   "path": "local/constanta/eforie/2024/92",
+   "short": "HCL Eforie nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 92/2024 privind aprobarea acordului de cooperare între orașul Eforie, județul Constanța, România și comuna Puhoi, raionul Ialoveni, Republica Moldova",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156300",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-93-2024",
+   "path": "local/constanta/eforie/2024/93",
+   "short": "HCL Eforie nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 93/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156301",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-94-2024",
+   "path": "local/constanta/eforie/2024/94",
+   "short": "HCL Eforie nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 94/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156302",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-95-2024",
+   "path": "local/constanta/eforie/2024/95",
+   "short": "HCL Eforie nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 95/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156303",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-96-2024",
+   "path": "local/constanta/eforie/2024/96",
+   "short": "HCL Eforie nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 96/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156304",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-97-2024",
+   "path": "local/constanta/eforie/2024/97",
+   "short": "HCL Eforie nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 97/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156305",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-98-2024",
+   "path": "local/constanta/eforie/2024/98",
+   "short": "HCL Eforie nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 98/2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156306",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-99-2024",
+   "path": "local/constanta/eforie/2024/99",
+   "short": "HCL Eforie nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 99/2024 privind actualizarea suprafetei a 2 imobile teren care apartin domeniului privat al orasului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/156307",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/156307",
      "sha256": null
     }
    ]

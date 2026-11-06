@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-55-2020",
+"path": "local/cluj/mihai-viteazu/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 55/2020 privind alegerea viceprimarului Comunei Mihai Viteazu",
+"short": "HCL Mihai Viteazu nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/10856",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-56-2020",
 "path": "local/cluj/mihai-viteazu/2020/56",
 "kind": "local",
@@ -220,6 +242,29 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-57-2020",
+"path": "local/cluj/mihai-viteazu/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 57/2020",
+"short": "HCL Mihai Viteazu nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/11986",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,96 @@
  "shard": "local/cluj/tureni/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--tureni-100-2024",
+   "path": "local/cluj/tureni/2024/100",
+   "short": "HCL Tureni nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 100/2024 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193264",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-101-2024",
+   "path": "local/cluj/tureni/2024/101",
+   "short": "HCL Tureni nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 101/2024 privind aprobarea rectificării Listei de Investiții a comunei Tureni pentru anul 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193265",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-102-2024",
+   "path": "local/cluj/tureni/2024/102",
+   "short": "HCL Tureni nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 102/2024 privind aprobarea Regulamentului de bună gospodăărire a comunei Tureni, județul Cluj",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193266",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-103-2024",
+   "path": "local/cluj/tureni/2024/103",
+   "short": "HCL Tureni nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 103/2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193289",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-104-2024",
+   "path": "local/cluj/tureni/2024/104",
+   "short": "HCL Tureni nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 104/2024 privind emiterea unui aviz al Consiliului Local Tureni județul Cluj pentru amplasarea unui panou publicitar pe terenul situat în intravilanul localității Tureni zona DN1-E60, nr. top. 51473, imobil proprietate privată",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193290",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-105-2024",
+   "path": "local/cluj/tureni/2024/105",
+   "short": "HCL Tureni nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 105/2024 privind emiterea unui aviz al Consiliului Local Tureni județul Cluj pentru executarea unor lucrări de construire a obiectivului CONSTRUIRE PARC FOTOVOLTAIC TURENI",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193292",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193292",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-106-2024",
    "path": "local/cluj/tureni/2024/106",
    "short": "HCL Tureni nr. 106/2024",
@@ -28,6 +118,186 @@
      "from": "2025-02-24",
      "units": 1,
      "source_url": "https://emol.ro/tureni-cj/registru-hcl/193297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-88-2024",
+   "path": "local/cluj/tureni/2024/88",
+   "short": "HCL Tureni nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 88/2024 privind stabilirea impozitelor și taxelor locale, pentru anul 2025",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193200",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-89-2024",
+   "path": "local/cluj/tureni/2024/89",
+   "short": "HCL Tureni nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 89/2024 privind aprobarea Procedurii de acordare a anulării accesorilor aferente obligațiilor bugetare principale, precum și a anulării unor procente din obligațiile bugetare principale, datorate bugetului local al comunei Tureni, restante la 31 august 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193201",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-90-2024",
+   "path": "local/cluj/tureni/2024/90",
+   "short": "HCL Tureni nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 90/2024 privind aprobarea contului de execuție al bugetului local al comunei Tureni la 30 septembrie 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193202",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-91-2024",
+   "path": "local/cluj/tureni/2024/91",
+   "short": "HCL Tureni nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 91/2024 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193240",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-92-2024",
+   "path": "local/cluj/tureni/2024/92",
+   "short": "HCL Tureni nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 92/2024 privind aprobarea rectificării Listei de Investiții a comunei Tureni pentru anul 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193251",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-93-2024",
+   "path": "local/cluj/tureni/2024/93",
+   "short": "HCL Tureni nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 93/2024 privind achiziționarea de servicii juridice, pentru apărarea intereselor comunei Tureni și ale Consiliului Local al comunei Tureni în dosarul aflat pe rolul Judecătoriei Turda cu nr. 5716/328/2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193252",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-94-2024",
+   "path": "local/cluj/tureni/2024/94",
+   "short": "HCL Tureni nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 94/2024 privind participarea Comunei Tureni la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” și pentru aprobarea proiectului, a documentației tehnice de tip (DALI), a devizului general (DG) și a indicatorilor tehnico-economici pentru proiectul „Modernizare iluminat public stradal în comuna Tureni, satul Micești, județul Cluj prin programul AFM privind creșterea eficienței energetice a infrastructurii de iluminat public”",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193258",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-95-2024",
+   "path": "local/cluj/tureni/2024/95",
+   "short": "HCL Tureni nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 95/2024 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193259",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-96-2024",
+   "path": "local/cluj/tureni/2024/96",
+   "short": "HCL Tureni nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 96/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de pe raza comunei Tureni, județul Cluj, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193260",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-97-2024",
+   "path": "local/cluj/tureni/2024/97",
+   "short": "HCL Tureni nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 97/2024 privind modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193261",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-98-2024",
+   "path": "local/cluj/tureni/2024/98",
+   "short": "HCL Tureni nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 98/2024 privind aprobarea Regulamentului pentru activitatea de întreținere a drumurilor comunale în anotimpul rece, iarna 2024-2025",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193262",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-99-2024",
+   "path": "local/cluj/tureni/2024/99",
+   "short": "HCL Tureni nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 99/2024 privind aprobarea rectificării Listei de Investiții a comunei Tureni pentru anul 2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/193263",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/193263",
      "sha256": null
     }
    ]

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/fantanele/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--fantanele-72-2025",
+   "path": "local/constanta/fantanele/2025/72",
+   "short": "HCL Fântânele nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 72/2025",
+   "url": "https://emol.ro/fantanele-ct/registru-hcl/235864",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-ct/registru-hcl/235864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--fantanele-73-2025",
+   "path": "local/constanta/fantanele/2025/73",
+   "short": "HCL Fântânele nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 73/2025 privind concesionarea fără licitație publică, a terenului extravilan-categoria neproductiv, în suprafață de 327 mp, cu număr cadastral 106212 aparținând domeniului privat al comunei Fântânele către Organizația Utilizatorilor de Apă pentru Irigații-„ERAVO”, în vederea extinderii construcției existente",
+   "url": "https://emol.ro/fantanele-ct/registru-hcl/235865",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-ct/registru-hcl/235865",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

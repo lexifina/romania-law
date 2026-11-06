@@ -91,6 +91,75 @@
 }
 },
 {
+"slug": "hcl-constanta--aliman-67-2020",
+"path": "local/constanta/aliman/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 67/2020",
+"short": "HCL Aliman nr. 67/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34494",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--aliman-68-2020",
+"path": "local/constanta/aliman/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 68/2020",
+"short": "HCL Aliman nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34496",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--aliman-69-2020",
+"path": "local/constanta/aliman/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 69/2020",
+"short": "HCL Aliman nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34495",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--aliman-70-2020",
 "path": "local/constanta/aliman/2020/70",
 "kind": "local",
@@ -221,6 +290,75 @@
 "council_name": "Consiliul Local al Comunei Aliman",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--aliman-76-2020",
+"path": "local/constanta/aliman/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 76/2020",
+"short": "HCL Aliman nr. 76/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34503",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--aliman-77-2020",
+"path": "local/constanta/aliman/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 77/2020",
+"short": "HCL Aliman nr. 77/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34504",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--aliman-78-2020",
+"path": "local/constanta/aliman/2020/78",
+"kind": "local",
+"year": "2020",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 78/2020",
+"short": "HCL Aliman nr. 78/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/34505",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

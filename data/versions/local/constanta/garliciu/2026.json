@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/garliciu/2026",
+ "acts": [
+  {
+   "slug": "hcl-constanta--garliciu-10-2026",
+   "path": "local/constanta/garliciu/2026/10",
+   "short": "HCL Gârliciu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 10/2026 privind asumarea în anul 2026 a unei cofinanțări de 20% pentru solicitate prin cererile de transfer depuse la MDLPA, în temeiul Ordonanței nr. 87/2025 privind stabilirea unor măsuri bugetare pentru implementarea programelor naționale din domeniul lucrărilor publice",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/256716",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/256716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-11-2026",
+   "path": "local/constanta/garliciu/2026/11",
+   "short": "HCL Gârliciu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 11/2026 privind stabilirea criteriilor de identificare a clădirilor, terenurilor neîngrijite situate în intravilanul UAT Gârliciu, a cotelor de majorare a impozitului aferent acesotora, aprobarea Regulamentului pentru punerea în aplicare a prevederilor articolului 489 din Codul Fiscal",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269102",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-12-2026",
+   "path": "local/constanta/garliciu/2026/12",
+   "short": "HCL Gârliciu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 12/2026 privind aprobarea serviciilor de alaborare a expertizei tehnice calitative pentru obiectivul \"Înființare sistem de canalizare și stație de epurare în comuna Gârliciu\" în vederea recepției finale",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269103",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-13-2026",
+   "path": "local/constanta/garliciu/2026/13",
+   "short": "HCL Gârliciu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 13/2026 privind desemnarea a doi consilieri locali care să facă parte din comisia de evaluare a secretarului general al comunei",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269104",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-14-2026",
+   "path": "local/constanta/garliciu/2026/14",
+   "short": "HCL Gârliciu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 14/2026",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269105",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-15-2026",
+   "path": "local/constanta/garliciu/2026/15",
+   "short": "HCL Gârliciu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 15/2026 privind implementarea proiectului \"Achizitie buldoexcavator în comuna Gârliciu, judetul Constanta",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269106",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-16-2026",
+   "path": "local/constanta/garliciu/2026/16",
+   "short": "HCL Gârliciu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 16/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Garliciu",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269107",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-17-2026",
+   "path": "local/constanta/garliciu/2026/17",
+   "short": "HCL Gârliciu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 17/2026 privind aprobarea mentinerii obiectivelor de investitii înscrise in lista de sinteza a Companiei Nationale de Investitii - CNI",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269108",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-18-2026",
+   "path": "local/constanta/garliciu/2026/18",
+   "short": "HCL Gârliciu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 18/2026 privind aprobarea Planului de asistență medicală comunitară pentru anul 2026 la nivelul comunei Gârliciu, județul Constanța",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269109",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-19-2026",
+   "path": "local/constanta/garliciu/2026/19",
+   "short": "HCL Gârliciu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 19/2026 privind aprobarea sentintei civile 502/05.09.2024 pronuntata de judecatoria Harsova in dosarul nr.2154/842/2023 si a sentintei civil 761/02.12.2024 pronuntata de judecatoria Harsova in dosarul nr.2155/842/2023",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269110",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-20-2026",
+   "path": "local/constanta/garliciu/2026/20",
+   "short": "HCL Gârliciu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 20/2026 privind aprobarea indicatorilor a devizului general actualizat privind cheltuielile pentru „Elaborare Plan Urbanistic General si Regulament Local de Urbanism\", comuna Gârliciu, judetul Constanta",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269111",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-21-2026",
+   "path": "local/constanta/garliciu/2026/21",
+   "short": "HCL Gârliciu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 21/2026 privind alegerea presedintelui de sedinta pentru lunile mai, iunie si iulie 2026",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269112",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-22-2026",
+   "path": "local/constanta/garliciu/2026/22",
+   "short": "HCL Gârliciu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 22/2026",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269113",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-23-2026",
+   "path": "local/constanta/garliciu/2026/23",
+   "short": "HCL Gârliciu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 23/2026 privind aprobarea Proiectului Tehnic (PT), a Documentației Tehnice pentru Autorizarea executării lucrărilor de Construire (DTAC) şi a Devizului General, aferente obiectivului de investiții: „Modernizarea sistemului de iluminat public stradal în comuna Gârliciu, Județul Constanța” finanțat de Administrația Fondului pentru Mediu (AFM) prin „Programul privind creşterea eficienței energetice a infrastructurii de iluminat public”;",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269114",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-24-2026",
+   "path": "local/constanta/garliciu/2026/24",
+   "short": "HCL Gârliciu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 24/2026 privind aprobarea Proiectului Tehnic (PT), a Documentației Tehnice pentru Autorizarea executării lucrărilor de Construire (DTAC) şi a Devizului General, aferente obiectivului de investiții: „Modernizarea sistemului de iluminat public stradal în comuna Gârliciu, Județul Constanța” – Etapa II, finanțat de Administrația Fondului pentru Mediu (AFM) prin „Programul privind creşterea eficienței energetice a infrastructurii de iluminat public”;",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/269115",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/269115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-5-2026",
+   "path": "local/constanta/garliciu/2026/5",
+   "short": "HCL Gârliciu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 5/2026 privind aprobarea metodologiei de acordare a ajutoarelor de urgentă a situatiilor deosebite pentru care se acordă ajutoarele de urgentă din bugetul local al comunei Gârliciu pentru anul 2026",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/256711",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/256711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-6-2026",
+   "path": "local/constanta/garliciu/2026/6",
+   "short": "HCL Gârliciu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 6/2026 privind aprobarea execuției bugetului de venituri si cheltuieli al comunei Garliciu ăe trimestrul IV 2025",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/256712",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/256712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-7-2026",
+   "path": "local/constanta/garliciu/2026/7",
+   "short": "HCL Gârliciu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 7/2026 privind aprobarea consumului mediu de carburant pentru vehiculele si utilajele care deservesc Unitatea Administrativ-Teritoriala Gârliciu",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/256713",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/256713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-8-2026",
+   "path": "local/constanta/garliciu/2026/8",
+   "short": "HCL Gârliciu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 8/2026 privind aprobarea Regulamentului de organizare si desfasurare a activitatilor pe domeniul public si privat al comunei Gârliciu",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/256714",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/256714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-9-2026",
+   "path": "local/constanta/garliciu/2026/9",
+   "short": "HCL Gârliciu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 9/2026 privind aprobarea utilizarii excedentului bugetar al anului 2025 pentru acoperirea golurilor de casa aferent sectiunii de functionre a bugetului local al comunei Gârliciu pe anul 2026",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/256715",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/256715",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

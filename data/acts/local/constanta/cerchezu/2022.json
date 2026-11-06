@@ -3,6 +3,28 @@
 "shard": "local/constanta/cerchezu/2022",
 "acts": [
 {
+"slug": "hcl-constanta--cerchezu-46-2022",
+"path": "local/constanta/cerchezu/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 46/2022 privind validarea Dispozițiilor nr. 129/14.09.2022 si nr. 139/22.09.2022 privind rectificarea bugetului local al comunei Cerchezu, pe anul 2022, în bugetul local de venituri și cheltuieli al Comunei Cerchezu pentru anul 2022",
+"short": "HCL Cerchezu nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/74743",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-47-2022",
 "path": "local/constanta/cerchezu/2022/47",
 "kind": "local",
@@ -45,6 +67,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-49-2022",
+"path": "local/constanta/cerchezu/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 49/2022 privind validarea Dispoziției nr. 140/23.09.2022 privind rectificarea bugetului local al comunei Cerchezu, pe anul 2022, în bugetul local de venituri și cheltuieli al Comunei Cerchezu pentru anul 2022",
+"short": "HCL Cerchezu nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/74746",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -111,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-53-2022",
+"path": "local/constanta/cerchezu/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 53/2022 privind alegerea unui nou preşedinte de şedinţă a Consiliului Local Cerchezu",
+"short": "HCL Cerchezu nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/81255",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -266,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-61-2022",
+"path": "local/constanta/cerchezu/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 61/2022 privind alocarea de la bugetul local a unei sprijin financiar Parohiei Cerchezu, pentru obiectivul de investitii “Praznicar Biserica Parohia Cerchezu”",
+"short": "HCL Cerchezu nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/81263",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

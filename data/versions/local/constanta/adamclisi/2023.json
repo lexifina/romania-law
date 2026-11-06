@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--adamclisi-73-2023",
+   "path": "local/constanta/adamclisi/2023/73",
+   "short": "HCL Adamclisi nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 73/2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/123881",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/123881",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-74-2023",
    "path": "local/constanta/adamclisi/2023/74",
    "short": "HCL Adamclisi nr. 74/2023",
@@ -208,6 +223,21 @@
      "from": "2023-11-20",
      "units": 1,
      "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/128429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-84-2023",
+   "path": "local/constanta/adamclisi/2023/84",
+   "short": "HCL Adamclisi nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 84/2023 privind alegerea presedintelui de sedinta , pentru o perioada de trei luni",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/128430",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/128430",
      "sha256": null
     }
    ]

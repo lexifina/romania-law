@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/chinteni/2017",
+ "acts": [
+  {
+   "slug": "hcl-cluj--chinteni-1-2017",
+   "path": "local/cluj/chinteni/2017/1",
+   "short": "HCL Chinteni nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 1/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-1-din-9-ianuarie-2017-privind-aprobarea-execu%C5%A3iei-bugetului-local-al-comunei-Chinteni-jude%C5%A3ul-Cluj-pe-anul-2016.pdf",
+     "sha256": "977756e0c36772edb461745da45d6caa90ebec894d681feef8ab154c4abfe380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-2-2017",
+   "path": "local/cluj/chinteni/2017/2",
+   "short": "HCL Chinteni nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 2/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-2-din-9-ianuarie-2017-privind-aprobarea-programului-anual-al-achizi%C5%A3iilor-publice-pe-anul-2017.pdf",
+     "sha256": "c72238e4664c8a29b3abf5def52e2a2a82ce8e50d1cbae6f3d6e750c52273f2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-3-2017",
+   "path": "local/cluj/chinteni/2017/3",
+   "short": "HCL Chinteni nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 3/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-3-din-9-ianuarie-2017-privind-revocarea-Hot%C4%83r%C3%A2rii-Consiliului-Local-Chinteni-nr.-224-din-11-noiembrie-2016.pdf",
+     "sha256": "af5b01caa2492c89e9759468019093313f36d1a160970360b775f3ed976d871b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-4-2017",
+   "path": "local/cluj/chinteni/2017/4",
+   "short": "HCL Chinteni nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 4/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-4-din-9-ianuarie-2017-privind-aprobarea-acoperirii-definitive-a-deficitului-bgugetar-pe-anul-2016-din-excedentul-anilor-preceden%C5%A3i.pdf",
+     "sha256": "82b92497682393618904dd45879f7e07f25be82c1ec2efac97ad2f8504ddb3c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-5-2017",
+   "path": "local/cluj/chinteni/2017/5",
+   "short": "HCL Chinteni nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 5/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-5-din-9-ianuarie-2017-privind-%C3%AEnscrierea-%C3%AEn-domeniul-public-al-Comunei-Chinteni.pdf",
+     "sha256": "f44d343da42c1fc5a2a3e3b7cee3d56c95cb59c3c29bb3f221ed08f127c6dff4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-6-2017",
+   "path": "local/cluj/chinteni/2017/6",
+   "short": "HCL Chinteni nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 6/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-6-din-9-ianuarie-2017-privind-aprobarea-re%C5%A3elei-%C5%9Fcolare-a-comunei-Chinteni-pentru-anul-%C5%9Fcolar-2017-2018.pdf",
+     "sha256": "eddc3d5502d347dce7efdd80cc3249a640c527b30d6d872dcb69003e487c9f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-7-2017",
+   "path": "local/cluj/chinteni/2017/7",
+   "short": "HCL Chinteni nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 7/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-20",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-7-din-20-ianuarie-2017-privind-aprobarea-transferului-sumei-de-122.00134-lei-din-anul-2016-%C3%AEn-anul-2017.pdf",
+     "sha256": "c329add3d37f62e1a54074d46972c2f4345d74ec213aa5b1944df99e0e9d4d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-8-2017",
+   "path": "local/cluj/chinteni/2017/8",
+   "short": "HCL Chinteni nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 8/2017",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2017-01-20",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2017/03/HCL-nr.-8-din-20-ianuarie-2017-privind-aprobarea-prelungirii-valabilit%C4%83%C5%A3ii-Planului-Urbanistic-General-al-comunei-Chinteni.pdf",
+     "sha256": "4289034e0aca01fe5be29b57e903c8ff563dbb8832433c34ca191e705efdd13f"
+    }
+   ]
+  }
+ ]
+}

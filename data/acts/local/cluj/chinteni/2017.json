@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/cluj/chinteni/2017",
+"acts": [
+{
+"slug": "hcl-cluj--chinteni-1-2017",
+"path": "local/cluj/chinteni/2017/1",
+"kind": "local",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 1/2017",
+"short": "HCL Chinteni nr. 1/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-2-2017",
+"path": "local/cluj/chinteni/2017/2",
+"kind": "local",
+"year": "2017",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 2/2017",
+"short": "HCL Chinteni nr. 2/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-3-2017",
+"path": "local/cluj/chinteni/2017/3",
+"kind": "local",
+"year": "2017",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 3/2017",
+"short": "HCL Chinteni nr. 3/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-4-2017",
+"path": "local/cluj/chinteni/2017/4",
+"kind": "local",
+"year": "2017",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 4/2017",
+"short": "HCL Chinteni nr. 4/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-5-2017",
+"path": "local/cluj/chinteni/2017/5",
+"kind": "local",
+"year": "2017",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 5/2017",
+"short": "HCL Chinteni nr. 5/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-6-2017",
+"path": "local/cluj/chinteni/2017/6",
+"kind": "local",
+"year": "2017",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 6/2017",
+"short": "HCL Chinteni nr. 6/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-7-2017",
+"path": "local/cluj/chinteni/2017/7",
+"kind": "local",
+"year": "2017",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 7/2017",
+"short": "HCL Chinteni nr. 7/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-20",
+"latest": "2017-01-20",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-8-2017",
+"path": "local/cluj/chinteni/2017/8",
+"kind": "local",
+"year": "2017",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 8/2017",
+"short": "HCL Chinteni nr. 8/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-20",
+"latest": "2017-01-20",
+"portal": "https://www.primariachinteni.ro/hotarari-de-consiliu-local/",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

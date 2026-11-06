@@ -3,6 +3,81 @@
  "shard": "local/cluj/ploscos/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--ploscos-59-2024",
+   "path": "local/cluj/ploscos/2024/59",
+   "short": "HCL Ploscoș nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 59/2024 privind modificarea Organigramei și a Statului de funcții al personalului din cadrul aparatului de specialitate al Primarului comunei Ploscoș, județul Cluj",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/181780",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/181780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-60-2024",
+   "path": "local/cluj/ploscos/2024/60",
+   "short": "HCL Ploscoș nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 60/2024",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/181781",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/181781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-61-2024",
+   "path": "local/cluj/ploscos/2024/61",
+   "short": "HCL Ploscoș nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 61/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Ploscoș, pentru anul 2024",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/181782",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/181782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-62-2024",
+   "path": "local/cluj/ploscos/2024/62",
+   "short": "HCL Ploscoș nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 62/2024 privind actualizarea taxei de închiriere a utilajului buldoexcavator aflat în proprietatea comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/181783",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/181783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-63-2024",
+   "path": "local/cluj/ploscos/2024/63",
+   "short": "HCL Ploscoș nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 63/2024 privind desemnarea reprezentantului Comunei Ploscoș în Adunarea Generală a Asociației de Dezvoltare Intercomunitară, Apa Văii Arieșului",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/181784",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/181784",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-64-2024",
    "path": "local/cluj/ploscos/2024/64",
    "short": "HCL Ploscoș nr. 64/2024",
@@ -178,6 +253,21 @@
      "from": "2024-12-16",
      "units": 1,
      "source_url": "https://emol.ro/ploscos-cj/registru-hcl/182049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-76-2024",
+   "path": "local/cluj/ploscos/2024/76",
+   "short": "HCL Ploscoș nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 76/2024 privind stabilirea indemnizației lunare pentru consilierii locali membrii ai consiliului Local al comunei Ploscoș, pentru participarea la ședințele Consiliului local și ale Comisiilor de specialitate",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/182050",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/182050",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/constanta/cuza-voda/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--cuza-voda-80-2023",
+   "path": "local/constanta/cuza-voda/2023/80",
+   "short": "HCL Cuza Vodă nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 80/2023 privind desemnarea președintelui de ședință pentru lunile: octombrie, noiembrie, decembrie 2023",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/124669",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/124669",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-81-2023",
    "path": "local/constanta/cuza-voda/2023/81",
    "short": "HCL Cuza Vodă nr. 81/2023",
@@ -28,6 +43,21 @@
      "from": "2023-10-24",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/124671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-83-2023",
+   "path": "local/constanta/cuza-voda/2023/83",
+   "short": "HCL Cuza Vodă nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 83/2023 privind desemnare reprezentanți ai Consiliului Local în Consiliul de administrație al Școlii Gimnaziale nr. 1 Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/124672",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/124672",
      "sha256": null
     }
    ]

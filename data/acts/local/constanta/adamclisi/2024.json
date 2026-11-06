@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-constanta--adamclisi-39-2024",
+"path": "local/constanta/adamclisi/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 39/2024 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+"short": "HCL Adamclisi nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/172858",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--adamclisi-40-2024",
 "path": "local/constanta/adamclisi/2024/40",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-44-2024",
+"path": "local/constanta/adamclisi/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 44/2024 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+"short": "HCL Adamclisi nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/175842",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Adamclisi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--adamclisi-50-2024",
+"path": "local/constanta/adamclisi/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 50/2024 privind desemnarea a doi membri suplimentari din Consiliul Local pentru Conisliul de Administratie al Scolii Profesionale \" Jean Dinu”",
+"short": "HCL Adamclisi nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/adamclisi-ct/registru-hcl/176749",
+"council": "constanta/adamclisi",
+"council_name": "Consiliul Local al Comunei Adamclisi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

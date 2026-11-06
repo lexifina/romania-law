@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/ciocarlia/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--ciocarlia-121-2023",
+   "path": "local/constanta/ciocarlia/2023/121",
+   "short": "HCL Ciocârlia nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 121/2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139822",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-122-2023",
+   "path": "local/constanta/ciocarlia/2023/122",
+   "short": "HCL Ciocârlia nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 122/2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139823",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-123-2023",
+   "path": "local/constanta/ciocarlia/2023/123",
+   "short": "HCL Ciocârlia nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 123/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia de Sus, str. Venus FN, înscris în CF nr. 104461 nr. cadastral 104461, proprietate privată a comunei Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139824",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-124-2023",
+   "path": "local/constanta/ciocarlia/2023/124",
+   "short": "HCL Ciocârlia nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 124/2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139825",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-125-2023",
+   "path": "local/constanta/ciocarlia/2023/125",
+   "short": "HCL Ciocârlia nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 125/2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139826",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-126-2023",
+   "path": "local/constanta/ciocarlia/2023/126",
+   "short": "HCL Ciocârlia nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 126/2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139827",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-127-2023",
+   "path": "local/constanta/ciocarlia/2023/127",
+   "short": "HCL Ciocârlia nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 127/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia de Sus, str. Venus Nr. Cc 340 lot 1, înscris în CF nr. 104728 nr. cadastral 104728, proprietate privată a comunei Ciocârlia, cu destinația pentru înființare fermă agricolă și/sau zootehnică",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139828",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-128-2023",
+   "path": "local/constanta/ciocarlia/2023/128",
+   "short": "HCL Ciocârlia nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 128/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia de Sus, str. Venus Nr. Cc 340 lot 2, înscris în CF nr. 104729 nr. cadastral 104729, proprietate privată a comunei Ciocârlia, cu destinația pentru înființare fermă agricolă și/sau zootehnică",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139829",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-129-2023",
+   "path": "local/constanta/ciocarlia/2023/129",
+   "short": "HCL Ciocârlia nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 129/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia de Sus, str. Venus Nr. Cc 340 lot 3, înscris în CF nr. 104730 nr. cadastral 104730, proprietate privată a comunei Ciocârlia, cu destinația pentru înființare fermă agricolă și/sau zootehnică",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139830",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-130-2023",
+   "path": "local/constanta/ciocarlia/2023/130",
+   "short": "HCL Ciocârlia nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 130/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia de Sus, str. Venus Nr. Cc 340 lot 5, înscris în CF nr. 104732 nr. cadastral 104732, proprietate privată a comunei Ciocârlia, cu destinația pentru înființare fermă agricolă și/sau zootehnică",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139831",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-131-2023",
+   "path": "local/constanta/ciocarlia/2023/131",
+   "short": "HCL Ciocârlia nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 131/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia de Sus, str. Venus Nr. Cc 340 lot 4, înscris în CF nr. 104731 nr. cadastral 104731, proprietate privată a comunei Ciocârlia, cu destinația pentru înființare fermă agricolă și/sau zootehnică",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139832",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-132-2023",
+   "path": "local/constanta/ciocarlia/2023/132",
+   "short": "HCL Ciocârlia nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 132/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia de Sus, str. Venus Nr. Cc 340 lot 7, înscris în CF nr. 104734 nr. cadastral 104734, proprietate privată a comunei Ciocârlia, cu destinația pentru înființare fermă agricolă și/sau zootehnică",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139833",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-133-2023",
+   "path": "local/constanta/ciocarlia/2023/133",
+   "short": "HCL Ciocârlia nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 133/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia, str. Veteranilor nr. N, cu acces din strada Răsăritului lot 17-lotizare E2, înscris în CF nr. 102165 nr. cadastral 102165, proprietate privată a comunei Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139834",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-134-2023",
+   "path": "local/constanta/ciocarlia/2023/134",
+   "short": "HCL Ciocârlia nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 134/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia, str. Veteranilor nr. FN, lot 18/1-lotizare E2, înscris în CF nr. 104506 nr. cadastral 104506, proprietate privată a comunei Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139835",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-135-2023",
+   "path": "local/constanta/ciocarlia/2023/135",
+   "short": "HCL Ciocârlia nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 135/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia, str. Veteranilor nr. FN, lot 18/2-lotizare E2, înscris în CF nr. 104507 nr. cadastral 104507, proprietate privată a comunei Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139836",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-136-2023",
+   "path": "local/constanta/ciocarlia/2023/136",
+   "short": "HCL Ciocârlia nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 136/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia, str. Veteranilor nr. FN, lot 19/1-lotizare E2, înscris în CF nr. 10443 nr. cadastral 104453, proprietate privată a comunei Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139837",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-137-2023",
+   "path": "local/constanta/ciocarlia/2023/137",
+   "short": "HCL Ciocârlia nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 137/2023 privind aprobarea vânzării prin licitație publică a unui imobil-teren, situat în localitatea Ciocârlia, str. Veteranilor nr. FN, lot 22 înscris în CF nr. 104662 nr. cadastral 104662, proprietate privată a comunei Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139838",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-138-2023",
+   "path": "local/constanta/ciocarlia/2023/138",
+   "short": "HCL Ciocârlia nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 138/2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139839",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-139-2023",
+   "path": "local/constanta/ciocarlia/2023/139",
+   "short": "HCL Ciocârlia nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 139/2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139840",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-140-2023",
+   "path": "local/constanta/ciocarlia/2023/140",
+   "short": "HCL Ciocârlia nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 140/2023 privind rectificarea bugetului de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/139844",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/139844",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

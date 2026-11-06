@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/garliciu/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--garliciu-63-2025",
+   "path": "local/constanta/garliciu/2025/63",
+   "short": "HCL Gârliciu nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 63/2025 privind efectuarea lucrarilor de toaletare si intretinere a arborilor aflati pe domeniul public si privat a comunei Garliciu",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/236563",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/236563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-64-2025",
+   "path": "local/constanta/garliciu/2025/64",
+   "short": "HCL Gârliciu nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 64/2025 privind aprobarea Regulamentului de toaletare, întreținere și îngrijire a arborilor și arbuștilor de pe domeniul public și privat al Comunei Garliciu, județul Constanța",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/236564",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/236564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-65-2025",
+   "path": "local/constanta/garliciu/2025/65",
+   "short": "HCL Gârliciu nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 65/2025 privind modificarea și completarea organigramei și a statului de funcții din cadrul aparatului de specialitate al Primarului comunei Gârliciu, județul Constanța",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/236565",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/236565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-67-2025",
+   "path": "local/constanta/garliciu/2025/67",
+   "short": "HCL Gârliciu nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 67/2025 privind aprobarea rectificării bugetului detaliat de venituri și cheltuieli pe anul 2025 și actualizarea listei de investiții, comuna Gârliciu, județul Constanța",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/236566",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/236566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-68-2025",
+   "path": "local/constanta/garliciu/2025/68",
+   "short": "HCL Gârliciu nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 68/2025 privind desemnarea presedintelui de sedintä pentru lunile noiembrie,decembrie 2025 si ianuarie 2026",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252731",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-69-2025",
+   "path": "local/constanta/garliciu/2025/69",
+   "short": "HCL Gârliciu nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 69/2025 privind aprobarea retelei școlare din comuna Gârliciu, judetul Constanta pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252732",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-70-2025",
+   "path": "local/constanta/garliciu/2025/70",
+   "short": "HCL Gârliciu nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 70/2025 privind acordarea unui mandat special reprezentatului comunei Gârliciu în cadrul Adunärii Generale a Asociației de Dezvoltare Intercomunitarä Dobrogea",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252733",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-71-2025",
+   "path": "local/constanta/garliciu/2025/71",
+   "short": "HCL Gârliciu nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 71/2025 privind aprobarea cheltuielilor pentru lucräri de reparatii curente din incinta căminului pentru spatiile care nu au fost incluse în obiectul de investitie aprobat prin proiectul: „RENOVARE INTEGRATĂ A CĂMINULUI CULTURAL GÂRLICIU, JUDETUL CONSTANȚA\", finantat din bugetul Planului National de Redresare Reziliență (PNRR), Componenta C5: Valul Renovării",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252734",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-72-2025",
+   "path": "local/constanta/garliciu/2025/72",
+   "short": "HCL Gârliciu nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 72/2025 privind aprobarea Contractului de închiriere si a taxelor pentru utilizarea Căminului Cultural din comuna Garliciu precum si a obiectelor de inventar din incinta acestuia",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252735",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-73-2025",
+   "path": "local/constanta/garliciu/2025/73",
+   "short": "HCL Gârliciu nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 73/2025 privind aprobarea închiderii exercițiului financiar, la nivelul trimestrului III comuna Garliciu, judetul Constanța",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252736",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-74-2025",
+   "path": "local/constanta/garliciu/2025/74",
+   "short": "HCL Gârliciu nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 74/2025",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252737",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-75-2025",
+   "path": "local/constanta/garliciu/2025/75",
+   "short": "HCL Gârliciu nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 75/2025 privind aprobarea rectificarii bugetului detaliat de venituri si cheltuieli pe anul 2025 si actualizarea listei de investitii, comuna Gârliciu, judetul Constanta",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252738",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-76-2025",
+   "path": "local/constanta/garliciu/2025/76",
+   "short": "HCL Gârliciu nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 76/2025 privind infiintarea unui centru fix de colectare a deseurilor periculoase si a deseurilor textile pe raza UAT Comuna Gârliciu, judetul Constanta",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252739",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-77-2025",
+   "path": "local/constanta/garliciu/2025/77",
+   "short": "HCL Gârliciu nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 77/2025 privind aprobarea actualizarii Devizului General, pentru efectuarea procedurilor legale pentru realizarea proiectului: Modernizarea sistemului de iluminat public stradal in comuna Garliciu, Judetul Constanta ”, finantat de AFM prin \"Programul privind creșerea eficientei energetice a infrastructurii de iluminat public\"",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252742",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-78-2025",
+   "path": "local/constanta/garliciu/2025/78",
+   "short": "HCL Gârliciu nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 78/2025",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252743",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-79-2025",
+   "path": "local/constanta/garliciu/2025/79",
+   "short": "HCL Gârliciu nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 79/2025 privind înregistrarea comunei Gârliciu, judetul Constanta, in Sistemul National Electronic de Platä (SNEP) on line a impozitelor taxelor locale („Ghișeul.ro\") utilizând cardul bancar, instalarea unui terminal de platä( POS)",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252744",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-80-2025",
+   "path": "local/constanta/garliciu/2025/80",
+   "short": "HCL Gârliciu nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 80/2025 privind aprobarea rectificarii bugetului detaliat de venituri si cheltuieli pe anul 2025 si actualizarea listei de investitii, comuna Gârliciu, judetul Constanta",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252751",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-81-2025",
+   "path": "local/constanta/garliciu/2025/81",
+   "short": "HCL Gârliciu nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 81/2025 privind stabilirea impozitelor și taxelor pentru anul fiscal 2026",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252752",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-82-2025",
+   "path": "local/constanta/garliciu/2025/82",
+   "short": "HCL Gârliciu nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 82/2025 privind constituirea, pe langa Consiliul Local al Comunei Gârliciu, a Consiliului Consultativ pe Probleme de Tineret al Comunei Gârliciu și aprobarea Regulamentului de Organizare și Functionare a acestuia",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252753",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--garliciu-83-2025",
+   "path": "local/constanta/garliciu/2025/83",
+   "short": "HCL Gârliciu nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gârliciu nr. 83/2025 privind aprobarea Regulamentului de stabilire și încasare a taxei de salubrizare",
+   "url": "https://emol.ro/garliciu-ct/registru-hcl/252754",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/garliciu-ct/registru-hcl/252754",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

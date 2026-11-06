@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--mihai-viteazu-129-2023",
+   "path": "local/cluj/mihai-viteazu/2023/129",
+   "short": "HCL Mihai Viteazu nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 129/2023",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134367",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-130-2023",
+   "path": "local/cluj/mihai-viteazu/2023/130",
+   "short": "HCL Mihai Viteazu nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 130/2023",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134368",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134368",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-131-2023",
    "path": "local/cluj/mihai-viteazu/2023/131",
    "short": "HCL Mihai Viteazu nr. 131/2023",
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--mihai-viteazu-135-2023",
+   "path": "local/cluj/mihai-viteazu/2023/135",
+   "short": "HCL Mihai Viteazu nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 135/2023 privind aprobarea pentru investiția “ Centru de tabere pentru copii - Dezvoltare durabilă și incluziune socială în Comuna Mihai Viteazu, județul Cluj”, faza DALI",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134373",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134373",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-136-2023",
    "path": "local/cluj/mihai-viteazu/2023/136",
    "short": "HCL Mihai Viteazu nr. 136/2023",
@@ -208,6 +253,21 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-139-2023",
+   "path": "local/cluj/mihai-viteazu/2023/139",
+   "short": "HCL Mihai Viteazu nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 139/2023 privind trecerea din domeniul public în domeniul privat al bunurilor care aparțin domeniului public al comunei Mihai Viteazu, județul Cluj",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134377",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/134377",
      "sha256": null
     }
    ]

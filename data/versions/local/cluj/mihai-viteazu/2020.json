@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--mihai-viteazu-55-2020",
+   "path": "local/cluj/mihai-viteazu/2020/55",
+   "short": "HCL Mihai Viteazu nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 55/2020 privind alegerea viceprimarului Comunei Mihai Viteazu",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/10856",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/10856",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-56-2020",
    "path": "local/cluj/mihai-viteazu/2020/56",
    "short": "HCL Mihai Viteazu nr. 56/2020",
@@ -148,6 +163,21 @@
      "from": "2020-11-05",
      "units": 1,
      "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/10857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-57-2020",
+   "path": "local/cluj/mihai-viteazu/2020/57",
+   "short": "HCL Mihai Viteazu nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 57/2020",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/11986",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/11986",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/deleni/2024",
+"acts": [
+{
+"slug": "hcl-constanta--deleni-38-2024",
+"path": "local/constanta/deleni/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 38/2024 privind aprobarea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Deleni nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-24",
+"latest": "2024-12-24",
+"portal": "https://emol.ro/deleni-ct/registru-hcl/286878",
+"council": "constanta/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

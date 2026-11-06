@@ -3,6 +3,95 @@
 "shard": "local/constanta/baraganu/2025",
 "acts": [
 {
+"slug": "hcl-constanta--baraganu-31-2025",
+"path": "local/constanta/baraganu/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 31/2025 privind transmiterea dreptului de concesiune asupra unui teren, conform contractului de concesionare nr. 633/16.03.1998",
+"short": "HCL Bărăganu nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273419",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-32-2025",
+"path": "local/constanta/baraganu/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 32/2025 privind aprobarea transferului dreptului de proprietate cu titlu gratuit a bunului mobil – activ fix - 1 microbuz electric școlar achiziționat prin proiectul „Dotarea cu microbuze electrice pentru elevi ai unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța”, finanțat prin Planul Național de Redresare și Reziliență - Componenta 15 – Educație",
+"short": "HCL Bărăganu nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273420",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-33-2025",
+"path": "local/constanta/baraganu/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 33/2025",
+"short": "HCL Bărăganu nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273421",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-34-2025",
+"path": "local/constanta/baraganu/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 34/2025 privind aprobarea măsurilor pentru gospodărirea Comunei Bărăganu, județul Constanța",
+"short": "HCL Bărăganu nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273422",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--baraganu-35-2025",
 "path": "local/constanta/baraganu/2025/35",
 "kind": "local",
@@ -92,6 +181,29 @@
 }
 },
 {
+"slug": "hcl-constanta--baraganu-39-2025",
+"path": "local/constanta/baraganu/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 39/2025",
+"short": "HCL Bărăganu nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273433",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--baraganu-40-2025",
 "path": "local/constanta/baraganu/2025/40",
 "kind": "local",
@@ -155,6 +267,28 @@
 "council_name": "Consiliul Local al Comunei Bărăganu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-43-2025",
+"path": "local/constanta/baraganu/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 43/2025 privind rezilierea contractului de concesionare nr.2070/09.08.2010",
+"short": "HCL Bărăganu nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273437",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

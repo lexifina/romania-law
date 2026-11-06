@@ -3,6 +3,21 @@
  "shard": "local/constanta/cerchezu/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--cerchezu-36-2021",
+   "path": "local/constanta/cerchezu/2021/36",
+   "short": "HCL Cerchezu nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 36/2021 privind alegerea unui nou preşedinte de şedinţă a Consiliului Local Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/37533",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/37533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-37-2021",
    "path": "local/constanta/cerchezu/2021/37",
    "short": "HCL Cerchezu nr. 37/2021",
@@ -33,6 +48,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cerchezu-39-2021",
+   "path": "local/constanta/cerchezu/2021/39",
+   "short": "HCL Cerchezu nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 39/2021 privind utilizarea excedentului anual rezultat la încheierea exercțiului financiar pe anul 2020 in vederea finanțarii cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40164",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-40-2021",
+   "path": "local/constanta/cerchezu/2021/40",
+   "short": "HCL Cerchezu nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 40/2021 privind validarea Dispoziţiei nr. 125/08.10.2021 privind rectificarea bugetului local al Comunei Cerchezu pe anul 2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40165",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-41-2021",
+   "path": "local/constanta/cerchezu/2021/41",
+   "short": "HCL Cerchezu nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 41/2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40166",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-42-2021",
+   "path": "local/constanta/cerchezu/2021/42",
+   "short": "HCL Cerchezu nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 42/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiţii “Modernizare infrastructură rutieră în comuna Cerchezu, localitatea Viroaga, Căscioarele şi Cerchezu, judeţul Constanţa”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40167",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-43-2021",
+   "path": "local/constanta/cerchezu/2021/43",
+   "short": "HCL Cerchezu nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 43/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiţii “ Asfaltare drum comunal DC 19 şi străzi în localitatea Măgura, comuna Cerchezu, judeţul Constanţa”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40168",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40168",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-44-2021",
    "path": "local/constanta/cerchezu/2021/44",
    "short": "HCL Cerchezu nr. 44/2021",
@@ -48,6 +138,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cerchezu-45-2021",
+   "path": "local/constanta/cerchezu/2021/45",
+   "short": "HCL Cerchezu nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 45/2021 privind alocarea din bugetul local a sumei de 15 000 lei, necesară pentru acordarea unor cadouri, elevilor şi preşcolarilor din cadrul unităţilor de învăţământ de pe raza comunei Cerchezu, jud. Constanţa, cu ocazia sarbătorilor de iarnă",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40170",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-46-2021",
+   "path": "local/constanta/cerchezu/2021/46",
+   "short": "HCL Cerchezu nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 46/2021 privind aprobarea Planului de acţiuni si lucrări de interes local , ce vor fi executate de către beneficiarii de ajutor social in anul 2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40171",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-47-2021",
+   "path": "local/constanta/cerchezu/2021/47",
+   "short": "HCL Cerchezu nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 47/2021 privind aprobarea Regulamentului de organizare și funcționare a compartimentului de Asistență socială al comunei Cerchezu, județul Constanța",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/44354",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/44354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-48-2021",
+   "path": "local/constanta/cerchezu/2021/48",
+   "short": "HCL Cerchezu nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 48/2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/44355",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/44355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-49-2021",
+   "path": "local/constanta/cerchezu/2021/49",
+   "short": "HCL Cerchezu nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 49/2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/44356",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/44356",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-50-2021",
    "path": "local/constanta/cerchezu/2021/50",
    "short": "HCL Cerchezu nr. 50/2021",
@@ -58,6 +223,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/44357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-51-2021",
+   "path": "local/constanta/cerchezu/2021/51",
+   "short": "HCL Cerchezu nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 51/2021 privind aprobarea Acordului de Parteneriat / asociere în vederea accesarii de fonduri nerambursabile si implementarii obiectivului de investitii “Infiintare sistem de distributie gaze naturale in comunele „INFIINTAREA REȚELEI DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNELE INDEPENDENTA , CHERCHEZU , CHIRNOGENI, DUMBRAVENI JUDEȚUL CONSTANTA”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/44358",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/44358",
      "sha256": null
     }
    ]
@@ -103,6 +283,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/48106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-55-2021",
+   "path": "local/constanta/cerchezu/2021/55",
+   "short": "HCL Cerchezu nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 55/2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/48107",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/48107",
      "sha256": null
     }
    ]

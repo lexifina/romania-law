@@ -3,6 +3,51 @@
 "shard": "local/constanta/cerchezu/2026",
 "acts": [
 {
+"slug": "hcl-constanta--cerchezu-39-2026",
+"path": "local/constanta/cerchezu/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 39/2026 privind valorificarea prin vânzare a unui bun (microbuz) scos din funcțiune aparținând patrimoniului privat al comnunei Cerchezu",
+"short": "HCL Cerchezu nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/289436",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-40-2026",
+"path": "local/constanta/cerchezu/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 40/2026",
+"short": "HCL Cerchezu nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/289437",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-41-2026",
 "path": "local/constanta/cerchezu/2026/41",
 "kind": "local",
@@ -25,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-constanta--cerchezu-42-2026",
+"path": "local/constanta/cerchezu/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 42/2026 privind modificarea și completarea structurii organizatorice și a statului de funcții ale comunei Cerchezu, județul Constanța",
+"short": "HCL Cerchezu nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/289504",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-43-2026",
 "path": "local/constanta/cerchezu/2026/43",
 "kind": "local",
@@ -44,6 +111,187 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-44-2026",
+"path": "local/constanta/cerchezu/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 44/2026 privind modificarea și completarea structurii organizatorice și a statului de funcții ale comunei Cerchezu, județul Constanța",
+"short": "HCL Cerchezu nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293056",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-45-2026",
+"path": "local/constanta/cerchezu/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 45/2026 privind atestarea apartenentei la domeniul privat al comunei Cerchezu a 14(PAISPREZECE) loturi",
+"short": "HCL Cerchezu nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293057",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-46-2026",
+"path": "local/constanta/cerchezu/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 46/2026",
+"short": "HCL Cerchezu nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293058",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-47-2026",
+"path": "local/constanta/cerchezu/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 47/2026",
+"short": "HCL Cerchezu nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293059",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-48-2026",
+"path": "local/constanta/cerchezu/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 48/2026",
+"short": "HCL Cerchezu nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293060",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-49-2026",
+"path": "local/constanta/cerchezu/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 49/2026 desemnarea reprezentantului Consiliului Local al comunei Cerchezu și a unui membru supleant în comisia de evaluare a probei de interviu pentru ocuparea funcției de director/director adjunct din unitatea de învățământ preuniversitar de stat",
+"short": "HCL Cerchezu nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293061",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-50-2026",
+"path": "local/constanta/cerchezu/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 50/2026",
+"short": "HCL Cerchezu nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293062",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-51-2026",
+"path": "local/constanta/cerchezu/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 51/2026",
+"short": "HCL Cerchezu nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293063",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -110,6 +358,96 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-55-2026",
+"path": "local/constanta/cerchezu/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 55/2026 privind aprobarea închirierii prin licitație publică a unui spațiu în suprafață de 17 mp, situat în imobilul – clădire aflat în proprietatea privată a Comunei Cerchezu, în vederea desfășurării activității punct de lucru farmacie, precum și aprobarea documentației de atribuire",
+"short": "HCL Cerchezu nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/294962",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-56-2026",
+"path": "local/constanta/cerchezu/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 56/2026",
+"short": "HCL Cerchezu nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/294963",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-57-2026",
+"path": "local/constanta/cerchezu/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 57/2026 privind aprobarea încheierii Contractului de cesiune patrimoniala a drepturilor de autor asupra lucrării „Cerchezu o comună la marginea țării”",
+"short": "HCL Cerchezu nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/294964",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-58-2026",
+"path": "local/constanta/cerchezu/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 58/2026",
+"short": "HCL Cerchezu nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/294965",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

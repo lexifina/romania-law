@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-73-2022",
+"path": "local/cluj/tureni/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 73/2022 privind aprobarea acordării de sprijin financiar Parohiei Romano-Catolice Tureni",
+"short": "HCL Tureni nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/101115",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--tureni-74-2022",
 "path": "local/cluj/tureni/2022/74",
 "kind": "local",
@@ -176,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-79-2022",
+"path": "local/cluj/tureni/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 79/2022 privind aprobarea acordării de sprijin financiar Parohiei Ortodoxe Comșești",
+"short": "HCL Tureni nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/101127",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +396,29 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-88-2022",
+"path": "local/cluj/tureni/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 88/2022",
+"short": "HCL Tureni nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/101243",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

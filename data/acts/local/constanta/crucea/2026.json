@@ -181,6 +181,72 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-83-2026",
+"path": "local/constanta/crucea/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 83/2026 privind circulația vehiculelor corelată cu infrastructura de transport verde, pistă de biciclete, pe Strada Lungă, sat Crucea, comuna Crucea",
+"short": "HCL Crucea nr. 83/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/288344",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--crucea-84-2026",
+"path": "local/constanta/crucea/2026/84",
+"kind": "local",
+"year": "2026",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 84/2026 privind atribuirea unui teren pentru construirea de locuință proprietate personală, în condițiile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, republicată, cu modificările și completările ulterioare",
+"short": "HCL Crucea nr. 84/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/288345",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--crucea-85-2026",
+"path": "local/constanta/crucea/2026/85",
+"kind": "local",
+"year": "2026",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 85/2026 privind desemnarea a doi reprezentanți ai Consiliului local în Consiliul de Administrație al Liceului Tehnologic Crucea pentru anul scolar 2026-2027",
+"short": "HCL Crucea nr. 85/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/288346",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-86-2026",
 "path": "local/constanta/crucea/2026/86",
 "kind": "local",

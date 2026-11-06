@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-73-2022",
+   "path": "local/cluj/tureni/2022/73",
+   "short": "HCL Tureni nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 73/2022 privind aprobarea acordării de sprijin financiar Parohiei Romano-Catolice Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/101115",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/101115",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-74-2022",
    "path": "local/cluj/tureni/2022/74",
    "short": "HCL Tureni nr. 74/2022",
@@ -118,6 +133,21 @@
      "from": "2022-12-08",
      "units": 1,
      "source_url": "https://emol.ro/tureni-cj/registru-hcl/101126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-79-2022",
+   "path": "local/cluj/tureni/2022/79",
+   "short": "HCL Tureni nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 79/2022 privind aprobarea acordării de sprijin financiar Parohiei Ortodoxe Comșești",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/101127",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/101127",
      "sha256": null
     }
    ]
@@ -238,6 +268,21 @@
      "from": "2022-12-22",
      "units": 1,
      "source_url": "https://emol.ro/tureni-cj/registru-hcl/101242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-88-2022",
+   "path": "local/cluj/tureni/2022/88",
+   "short": "HCL Tureni nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 88/2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/101243",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/101243",
      "sha256": null
     }
    ]

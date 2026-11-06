@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-90-2024",
+"path": "local/cluj/mihai-viteazu/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 90/2024 privind desemnarea reprezentantului comunei Mihai Viteazu în Adunările Generale ale Asociațiilor de Dezvoltare Intercomunitară în care comuna Mihai Viteazu este membră, pentru mandatul 2024-2028",
+"short": "HCL Mihai Viteazu nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/176189",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-91-2024",
+"path": "local/cluj/mihai-viteazu/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 91/2024 privind aprobarea modificării reprezentantului legal pentru implementarea proiectului „Amenajare spațiu de joacă pentru copii în localitatea Mihai Viteazu, comuna Mihai Viteazu, județul Cluj”",
+"short": "HCL Mihai Viteazu nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/176190",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-92-2024",
+"path": "local/cluj/mihai-viteazu/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 92/2024 privind prelungirea Contractului de Delegare a serviciului de apă și apă uzată cǎtre societatea Compania de Apă Arieș S.A",
+"short": "HCL Mihai Viteazu nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/176191",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-93-2024",
 "path": "local/cluj/mihai-viteazu/2024/93",
 "kind": "local",
@@ -113,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-97-2024",
+"path": "local/cluj/mihai-viteazu/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 97/2024",
+"short": "HCL Mihai Viteazu nr. 97/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/178933",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-98-2024",
 "path": "local/cluj/mihai-viteazu/2024/98",
 "kind": "local",
@@ -179,6 +268,52 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-101-2024",
+"path": "local/cluj/mihai-viteazu/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 101/2024",
+"short": "HCL Mihai Viteazu nr. 101/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/183579",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-102-2024",
+"path": "local/cluj/mihai-viteazu/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 102/2024",
+"short": "HCL Mihai Viteazu nr. 102/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/183580",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-103-2024",
 "path": "local/cluj/mihai-viteazu/2024/103",
 "kind": "local",
@@ -242,6 +377,51 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-106-2024",
+"path": "local/cluj/mihai-viteazu/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 106/2024 privind însușirea Raportului de evaluare a redevenței pentru spatiile având destinația de cabinete medicale din contractele de concesiune nr.8956, 8957, 8958, 8959, 8960, 8961 din data de 30.10.2015 si a actelor adiționale aferente contractelor, stabilit ca fiind de 2 euro/mp/an precum și întocmirea actelor adiționale privind nivelul redevenței şi termenele de plata începând cu anul 2025",
+"short": "HCL Mihai Viteazu nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/183584",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-107-2024",
+"path": "local/cluj/mihai-viteazu/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 107/2024",
+"short": "HCL Mihai Viteazu nr. 107/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/183585",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

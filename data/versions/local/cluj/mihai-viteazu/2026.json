@@ -3,6 +3,141 @@
  "shard": "local/cluj/mihai-viteazu/2026",
  "acts": [
   {
+   "slug": "hcl-cluj--mihai-viteazu-100-2026",
+   "path": "local/cluj/mihai-viteazu/2026/100",
+   "short": "HCL Mihai Viteazu nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 100/2026 privind aprobarea documentației tehnico-economice – faza Studiu de Fezabilitate al obiectivului de investiții ”Capacitati de stocare a energiei electrice produse din surse regenerabile de energie pentru Comuna Mihai Viteazu, judetul Cluj”, precum și a cheltuielilor legate de proiect, în vederea depunerii cererii de finanțare prin Fondul pentru Modernizare",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288592",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-101-2026",
+   "path": "local/cluj/mihai-viteazu/2026/101",
+   "short": "HCL Mihai Viteazu nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 101/2026 privind aprobarea documentației tehnico-economice – faza Studiu de Fezabilitate al obiectivului de investiții „Capacități de producere a energiei electrice produsă din surse regenerabile de energie solara, cu capacitati de stocare integrate, pentru autoconsum, la nivelul Comunei Mihai Viteazu, Jud. Cluj” și indicatorilor tehnico-economici pentru proiectul „Capacități de producere a energiei electrice produsă din surse regenerabile de energie solara, cu capacitati de stocare integrate, pentru autoconsum, la nivelul Comunei Mihai Viteazu, Jud. Cluj”, precum și a cheltuielilor legate de proiect, în vederea depunerii cererii de finanțare prin Fondul pentru Modernizare",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288593",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-102-2026",
+   "path": "local/cluj/mihai-viteazu/2026/102",
+   "short": "HCL Mihai Viteazu nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 102/2026 privind modificarea unor poziții cu nr. 68 și 69 din inventarul bunurilor care aparțin domeniului privat al comunei Mihai Viteazu, județul Cluj",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293278",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-103-2026",
+   "path": "local/cluj/mihai-viteazu/2026/103",
+   "short": "HCL Mihai Viteazu nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 103/2026 privind modificarea unor poziții din inventarul bunurilor care aparțin domeniului public al comunei Mihai Viteazu, județul Cluj",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293279",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-104-2026",
+   "path": "local/cluj/mihai-viteazu/2026/104",
+   "short": "HCL Mihai Viteazu nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 104/2026 privind modificarea unei poziții din inventarul bunurilor care aparțin domeniului privat al comunei Mihai Viteazu, județul Cluj, completarea unei poziții in inventarul bunurilor care aparțin domeniului public al Comunei Mihai Viteazu, Județul Cluj",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293280",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-105-2026",
+   "path": "local/cluj/mihai-viteazu/2026/105",
+   "short": "HCL Mihai Viteazu nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 105/2026",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293281",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-106-2026",
+   "path": "local/cluj/mihai-viteazu/2026/106",
+   "short": "HCL Mihai Viteazu nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 106/2026 privind completarea cu o poziție nouă, nr. 140 din inventarul bunurilor care aparțin domeniului public al Comunei Mihai Viteazu, Județul Cluj",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293282",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-107-2026",
+   "path": "local/cluj/mihai-viteazu/2026/107",
+   "short": "HCL Mihai Viteazu nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 107/2026",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293283",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-108-2026",
+   "path": "local/cluj/mihai-viteazu/2026/108",
+   "short": "HCL Mihai Viteazu nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 108/2026 privind desemnarea a doi consilieri locali pentru reprezentarea Consiliului Local Mihai Viteazu în Consiliul de administrație al Școlii Gimnaziale ,,Mihai Vodă\" și un consilier local care să facă parte din Comisia de Evaluare și Asigurare a Calității în școlii, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293284",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293284",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-109-2026",
    "path": "local/cluj/mihai-viteazu/2026/109",
    "short": "HCL Mihai Viteazu nr. 109/2026",
@@ -48,6 +183,66 @@
    ]
   },
   {
+   "slug": "hcl-cluj--mihai-viteazu-112-2026",
+   "path": "local/cluj/mihai-viteazu/2026/112",
+   "short": "HCL Mihai Viteazu nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 112/2026 privind aprobarea transmiterii dreptului de concesiune ce face obiectul Contractului de concesionare nr. 51 din 10.02.2003, ca urmare a decesului titularului",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293288",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-113-2026",
+   "path": "local/cluj/mihai-viteazu/2026/113",
+   "short": "HCL Mihai Viteazu nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 113/2026",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293289",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-114-2026",
+   "path": "local/cluj/mihai-viteazu/2026/114",
+   "short": "HCL Mihai Viteazu nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 114/2026",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293290",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/293290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-115-2026",
+   "path": "local/cluj/mihai-viteazu/2026/115",
+   "short": "HCL Mihai Viteazu nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 115/2026 privind modificarea art. 6 din Hotărârea Consiliului Local nr. 28/26.03.2025, referitor la schimbarea sediului de funcționare a Echipei Comunitare Integrate din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate” – SCI2000, cod SMIS 339395",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/295449",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/295449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-116-2026",
    "path": "local/cluj/mihai-viteazu/2026/116",
    "short": "HCL Mihai Viteazu nr. 116/2026",
@@ -58,6 +253,51 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/295450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-97-2026",
+   "path": "local/cluj/mihai-viteazu/2026/97",
+   "short": "HCL Mihai Viteazu nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 97/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat aferenți obiectivului de investiții: „Centru de tabere pentru copii – dezvoltare durabilă și incluziune socială în comuna Mihai Viteazu, județul Cluj” (faza Proiect Tehnic - P.T.)",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288589",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-98-2026",
+   "path": "local/cluj/mihai-viteazu/2026/98",
+   "short": "HCL Mihai Viteazu nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 98/2026 privind aprobarea deplasării unei delegații în Sárrétudvari, Ungaria ,comună înfrățită cu comuna Mihai Viteazu , în perioada 9-11.10.2026",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288590",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-99-2026",
+   "path": "local/cluj/mihai-viteazu/2026/99",
+   "short": "HCL Mihai Viteazu nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 99/2026",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288591",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/288591",
      "sha256": null
     }
    ]

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-38-2025",
+   "path": "local/cluj/viisoara/2025/38",
+   "short": "HCL Viișoara nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 38/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru 2025",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/237118",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/237118",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-39-2025",
    "path": "local/cluj/viisoara/2025/39",
    "short": "HCL Viișoara nr. 39/2025",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-42-2025",
+   "path": "local/cluj/viisoara/2025/42",
+   "short": "HCL Viișoara nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 42/2025 privind aprobarea rețelei școlare pentru anul școlar 2026-2027 pe raza comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/246837",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246837",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-43-2025",
    "path": "local/cluj/viisoara/2025/43",
    "short": "HCL Viișoara nr. 43/2025",
@@ -103,6 +133,36 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-45-2025",
+   "path": "local/cluj/viisoara/2025/45",
+   "short": "HCL Viișoara nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 45/2025 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 30.09.2025",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/246840",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-46-2025",
+   "path": "local/cluj/viisoara/2025/46",
+   "short": "HCL Viișoara nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 46/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru 2025",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/246841",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246841",
      "sha256": null
     }
    ]
@@ -138,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-49-2025",
+   "path": "local/cluj/viisoara/2025/49",
+   "short": "HCL Viișoara nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 49/2025 privind aprobarea Planului Urbanistic de Detaliu-CONSTRUIRE LOCUINȚĂ UNIFAMILIALĂ, ÎMPREJMUIRE ȘI AMENAJĂRI EXTERIOARE",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/246844",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-50-2025",
+   "path": "local/cluj/viisoara/2025/50",
+   "short": "HCL Viișoara nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 50/2025 privind aprobarea Planului Urbanistic de Detaliu-CONSTRUIRE CASĂ INDIVIDUALĂ UNIFAMILIALĂ, ÎMPREJMUIRE TEREN ȘI AMENAJĂRI EXTERIOARE",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/246845",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246845",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-51-2025",
    "path": "local/cluj/viisoara/2025/51",
    "short": "HCL Viișoara nr. 51/2025",
@@ -148,6 +238,21 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-52-2025",
+   "path": "local/cluj/viisoara/2025/52",
+   "short": "HCL Viișoara nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 52/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru 2025",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/246853",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246853",
      "sha256": null
     }
    ]
@@ -178,6 +283,21 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-55-2025",
+   "path": "local/cluj/viisoara/2025/55",
+   "short": "HCL Viișoara nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 55/2025 privind preluarea excedentului din venituri proprii a Școlii Gimnaziale Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/246863",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/246863",
      "sha256": null
     }
    ]

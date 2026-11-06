@@ -3,6 +3,28 @@
 "shard": "local/constanta/baneasa/2020",
 "acts": [
 {
+"slug": "hcl-constanta--baneasa-65-2020",
+"path": "local/constanta/baneasa/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 65/2020 privind alocarea din bugetul local a unei sume pentru acordarea unui ajutor de urgenţă, familiei Iusein Amet",
+"short": "HCL Băneasa nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/8978",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--baneasa-66-2020",
 "path": "local/constanta/baneasa/2020/66",
 "kind": "local",
@@ -116,6 +138,117 @@
 }
 },
 {
+"slug": "hcl-constanta--baneasa-71-2020",
+"path": "local/constanta/baneasa/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 71/2020 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Noiembrie 2020",
+"short": "HCL Băneasa nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/11492",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-72-2020",
+"path": "local/constanta/baneasa/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 72/2020 Privind organizarea comisiilor de specialitate ale Consiliului Local al Comunei Băneasa",
+"short": "HCL Băneasa nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/11493",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-73-2020",
+"path": "local/constanta/baneasa/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 73/2020 Privind alegerea Comisiei de validare și de numărare a voturilor a Consiliului Local al Comunei Băneasa",
+"short": "HCL Băneasa nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/11494",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-74-2020",
+"path": "local/constanta/baneasa/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 74/2020 Privind alegerea viceprimarului",
+"short": "HCL Băneasa nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/11495",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-75-2020",
+"path": "local/constanta/baneasa/2020/75",
+"kind": "local",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 75/2020",
+"short": "HCL Băneasa nr. 75/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13157",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--baneasa-76-2020",
 "path": "local/constanta/baneasa/2020/76",
 "kind": "local",
@@ -135,6 +268,74 @@
 "council_name": "Consiliul Local al Comunei Băneasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-77-2020",
+"path": "local/constanta/baneasa/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 77/2020",
+"short": "HCL Băneasa nr. 77/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13159",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-78-2020",
+"path": "local/constanta/baneasa/2020/78",
+"kind": "local",
+"year": "2020",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 78/2020",
+"short": "HCL Băneasa nr. 78/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13160",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-79-2020",
+"path": "local/constanta/baneasa/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 79/2020 Privind aprobarea inchirierii prin licitaţie publică a unui spațiu, pentru desfașurarea de activități medicale în cadrul clădirii Bloc Alimentar aparținând fostului Centru de Sănătate Băneasa",
+"short": "HCL Băneasa nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13161",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -182,6 +383,28 @@
 }
 },
 {
+"slug": "hcl-constanta--baneasa-82-2020",
+"path": "local/constanta/baneasa/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 82/2020 privind aprobarea contribuției financiare a comunei Baneasa, în calitate de Promotor de Proiect, în proiectul CERS “Clean Energy for Rural Schools” finanțat prin Mecanismul Financiar Norvegian 2014-2021 si Mecanismul Financiar al Spatiului Economic European 2014-2021, Apelul “Imbunatatirea Eficientei Energetice”, în urma revizuirii bugetuluI",
+"short": "HCL Băneasa nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13164",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--baneasa-83-2020",
 "path": "local/constanta/baneasa/2020/83",
 "kind": "local",
@@ -201,6 +424,28 @@
 "council_name": "Consiliul Local al Comunei Băneasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-84-2020",
+"path": "local/constanta/baneasa/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 84/2020 privind alocarea unei sume în vederea organizării evenimentului local ”Pomul de Craciun 2020” pentru copiii din invățământul preuniversitar din comuna Băneasa",
+"short": "HCL Băneasa nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13166",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

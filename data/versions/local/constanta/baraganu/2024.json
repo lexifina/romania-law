@@ -3,6 +3,66 @@
  "shard": "local/constanta/baraganu/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--baraganu-14-2024",
+   "path": "local/constanta/baraganu/2024/14",
+   "short": "HCL Bărăganu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 14/2024 privind alegerea președintelui de ședință al Consiliului local al comunei Bărăganu",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207545",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-15-2024",
+   "path": "local/constanta/baraganu/2024/15",
+   "short": "HCL Bărăganu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 15/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Bărăganu, județul Constanța",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207546",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-16-2024",
+   "path": "local/constanta/baraganu/2024/16",
+   "short": "HCL Bărăganu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 16/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli și a listei de investiții pe anul 2024",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207571",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-17-2024",
+   "path": "local/constanta/baraganu/2024/17",
+   "short": "HCL Bărăganu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 17/2024 privind stabilirea impozitelor si taxelor pentru anul 2025",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207572",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207572",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baraganu-18-2024",
    "path": "local/constanta/baraganu/2024/18",
    "short": "HCL Bărăganu nr. 18/2024",
@@ -13,6 +73,66 @@
      "from": "2025-05-15",
      "units": 1,
      "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-19-2024",
+   "path": "local/constanta/baraganu/2024/19",
+   "short": "HCL Bărăganu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 19/2024 privind aprobarea numărului total de asistenţi personali ai persoanelor cu handicap grav, pentru anul 2024 -2025",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207574",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-20-2024",
+   "path": "local/constanta/baraganu/2024/20",
+   "short": "HCL Bărăganu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 20/2024 privind organizarea rețelei unităților de învățământ, de pe raza Comunei Bărăganu pentru anul școlar 2025 - 2026",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207575",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-21-2024",
+   "path": "local/constanta/baraganu/2024/21",
+   "short": "HCL Bărăganu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 21/2024",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207576",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-22-2024",
+   "path": "local/constanta/baraganu/2024/22",
+   "short": "HCL Bărăganu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 22/2024 privind alegerea viceprimarului comunei Bărăganu, județul Constanța",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207577",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207577",
      "sha256": null
     }
    ]

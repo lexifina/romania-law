@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--adamclisi-39-2024",
+   "path": "local/constanta/adamclisi/2024/39",
+   "short": "HCL Adamclisi nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 39/2024 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/172858",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/172858",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-40-2024",
    "path": "local/constanta/adamclisi/2024/40",
    "short": "HCL Adamclisi nr. 40/2024",
@@ -88,6 +103,21 @@
      "from": "2025-01-13",
      "units": 1,
      "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/175841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-44-2024",
+   "path": "local/constanta/adamclisi/2024/44",
+   "short": "HCL Adamclisi nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 44/2024 privind alegerea presedintelui de sedinta, pentru o perioada de trei luni",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/175842",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/175842",
      "sha256": null
     }
    ]
@@ -163,6 +193,21 @@
      "from": "2025-01-13",
      "units": 1,
      "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/176748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-50-2024",
+   "path": "local/constanta/adamclisi/2024/50",
+   "short": "HCL Adamclisi nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 50/2024 privind desemnarea a doi membri suplimentari din Consiliul Local pentru Conisliul de Administratie al Scolii Profesionale \" Jean Dinu”",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/176749",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/176749",
      "sha256": null
     }
    ]

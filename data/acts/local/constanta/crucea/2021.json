@@ -293,6 +293,50 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-131-2021",
+"path": "local/constanta/crucea/2021/131",
+"kind": "local",
+"year": "2021",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 131/2021 privind atribuirea de numere administrative unor imobile din comuna Crucea",
+"short": "HCL Crucea nr. 131/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/44389",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--crucea-132-2021",
+"path": "local/constanta/crucea/2021/132",
+"kind": "local",
+"year": "2021",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 132/2021 privind acordarea unui sprijin finaciar Asociației sportive FLACARA CRUCEA",
+"short": "HCL Crucea nr. 132/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/44390",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-133-2021",
 "path": "local/constanta/crucea/2021/133",
 "kind": "local",

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-71-2020",
+"path": "local/cluj/tureni/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 71/2020 privind aprobarea cuantumului și numărului unor burse acordate elevilor din învățământul preuniversitar de stat, la nivelul Comunei Tureni, în anul școlar 2020-2021, SEMESTRUL I",
+"short": "HCL Tureni nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-15",
+"latest": "2020-10-15",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/14793",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--tureni-72-2020",
 "path": "local/cluj/tureni/2020/72",
 "kind": "local",
@@ -223,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-80-2020",
+"path": "local/cluj/tureni/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 80/2020 privind constituirea Comisiei de validare și de numărare a voturilor",
+"short": "HCL Tureni nr. 80/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/15795",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--tureni-81-2020",
 "path": "local/cluj/tureni/2020/81",
 "kind": "local",
@@ -242,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-82-2020",
+"path": "local/cluj/tureni/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 82/2020 privind desemnarea reprezentantului Consiliului Local al comunei Tureni, în Consiliul de administrație al Școlii gimnaziale Tureni, județul Cluj",
+"short": "HCL Tureni nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/15797",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

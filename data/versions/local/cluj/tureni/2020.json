@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-71-2020",
+   "path": "local/cluj/tureni/2020/71",
+   "short": "HCL Tureni nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 71/2020 privind aprobarea cuantumului și numărului unor burse acordate elevilor din învățământul preuniversitar de stat, la nivelul Comunei Tureni, în anul școlar 2020-2021, SEMESTRUL I",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/14793",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/14793",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-72-2020",
    "path": "local/cluj/tureni/2020/72",
    "short": "HCL Tureni nr. 72/2020",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-80-2020",
+   "path": "local/cluj/tureni/2020/80",
+   "short": "HCL Tureni nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 80/2020 privind constituirea Comisiei de validare și de numărare a voturilor",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/15795",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/15795",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-81-2020",
    "path": "local/cluj/tureni/2020/81",
    "short": "HCL Tureni nr. 81/2020",
@@ -163,6 +193,21 @@
      "from": "2020-11-09",
      "units": 1,
      "source_url": "https://emol.ro/tureni-cj/registru-hcl/15796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-82-2020",
+   "path": "local/cluj/tureni/2020/82",
+   "short": "HCL Tureni nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 82/2020 privind desemnarea reprezentantului Consiliului Local al comunei Tureni, în Consiliul de administrație al Școlii gimnaziale Tureni, județul Cluj",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/15797",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/15797",
      "sha256": null
     }
    ]

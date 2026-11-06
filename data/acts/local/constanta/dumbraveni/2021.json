@@ -3,6 +3,29 @@
 "shard": "local/constanta/dumbraveni/2021",
 "acts": [
 {
+"slug": "hcl-constanta--dumbraveni-59-2021",
+"path": "local/constanta/dumbraveni/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 59/2021",
+"short": "HCL Dumbrăveni nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/38752",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-60-2021",
 "path": "local/constanta/dumbraveni/2021/60",
 "kind": "local",
@@ -115,6 +138,28 @@
 }
 },
 {
+"slug": "hcl-constanta--dumbraveni-65-2021",
+"path": "local/constanta/dumbraveni/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 65/2021 privind alegerea presedintelui de şedinţă a Consiliului local Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/42940",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--dumbraveni-66-2021",
 "path": "local/constanta/dumbraveni/2021/66",
 "kind": "local",
@@ -156,6 +201,51 @@
 "council_name": "Consiliul Local al Comunei Dumbrăveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-68-2021",
+"path": "local/constanta/dumbraveni/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 68/2021 privind desemnarea a doi consilieri locali în calitate de membrii în cadrul comisiei de evaluare a performanțelor profesionale ale Secretarului General al Comunei Dumbrăveni",
+"short": "HCL Dumbrăveni nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/42943",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--dumbraveni-69-2021",
+"path": "local/constanta/dumbraveni/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 69/2021",
+"short": "HCL Dumbrăveni nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/dumbraveni-ct/registru-hcl/42944",
+"council": "constanta/dumbraveni",
+"council_name": "Consiliul Local al Comunei Dumbrăveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

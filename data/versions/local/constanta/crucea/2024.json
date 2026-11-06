@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--crucea-83-2024",
+   "path": "local/constanta/crucea/2024/83",
+   "short": "HCL Crucea nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 83/2024 privind alegerea președintelui de ședință al Consiliului local al comunei Crucea, județul Constanța, pentru perioada octombrie 2024- decembrie 2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/176285",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/176285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-84-2024",
+   "path": "local/constanta/crucea/2024/84",
+   "short": "HCL Crucea nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 84/2024 privind aprobarea organizării și componenței nominale a comisiilor de specialitate ale Consiliului Local al Comunei Crucea",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/176286",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/176286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-85-2024",
+   "path": "local/constanta/crucea/2024/85",
+   "short": "HCL Crucea nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 85/2024 privind alegerea viceprimarului Comunei Crucea, Județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/176287",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/176287",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-86-2024",
    "path": "local/constanta/crucea/2024/86",
    "short": "HCL Crucea nr. 86/2024",
@@ -133,6 +178,21 @@
      "from": "2024-12-13",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/180086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-92-2024",
+   "path": "local/constanta/crucea/2024/92",
+   "short": "HCL Crucea nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 92/2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/180087",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/180087",
      "sha256": null
     }
    ]

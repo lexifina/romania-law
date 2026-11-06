@@ -3,6 +3,185 @@
 "shard": "local/constanta/cerchezu/2023",
 "acts": [
 {
+"slug": "hcl-constanta--cerchezu-38-2023",
+"path": "local/constanta/cerchezu/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 38/2023 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2023",
+"short": "HCL Cerchezu nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/121776",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-39-2023",
+"path": "local/constanta/cerchezu/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 39/2023 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2023",
+"short": "HCL Cerchezu nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/128284",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-40-2023",
+"path": "local/constanta/cerchezu/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 40/2023",
+"short": "HCL Cerchezu nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/128285",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-41-2023",
+"path": "local/constanta/cerchezu/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 41/2023",
+"short": "HCL Cerchezu nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/128286",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-42-2023",
+"path": "local/constanta/cerchezu/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 42/2023",
+"short": "HCL Cerchezu nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/128287",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-43-2023",
+"path": "local/constanta/cerchezu/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 43/2023 privind modificarea și completarea structurii organizatorice și a statului de funcții ale comunei Cerchezu, județul Constanța",
+"short": "HCL Cerchezu nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/128288",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-44-2023",
+"path": "local/constanta/cerchezu/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 44/2023 privind trecerea din domeniul public în domeniul privat al Comunei Cerchezu a loturilor numărul 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, situate în intravilanul localității Cerchezu, comuna Cerchezu, județul Constanța",
+"short": "HCL Cerchezu nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/128289",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-45-2023",
+"path": "local/constanta/cerchezu/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 45/2023 privind aprobarea Planului de acţiuni și lucrări de interes local , Comuna Cerchezu, ce vor fi executate de către beneficiarii de ajutor social în anul 2023",
+"short": "HCL Cerchezu nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/128290",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cerchezu-46-2023",
 "path": "local/constanta/cerchezu/2023/46",
 "kind": "local",
@@ -22,6 +201,28 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-47-2023",
+"path": "local/constanta/cerchezu/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 47/2023 privind alegerea unui nou presedinte de sedinta a Consiliului Local Cerchezu",
+"short": "HCL Cerchezu nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-21",
+"latest": "2023-11-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/129788",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -66,6 +267,182 @@
 "council_name": "Consiliul Local al Comunei Cerchezu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-50-2023",
+"path": "local/constanta/cerchezu/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 50/2023 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2023",
+"short": "HCL Cerchezu nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/135419",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-51-2023",
+"path": "local/constanta/cerchezu/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 51/2023 privind modificarea și completarea structurii organizatorice și a statului de funcții ale comunei Cerchezu, județul Constanța",
+"short": "HCL Cerchezu nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/135420",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-52-2023",
+"path": "local/constanta/cerchezu/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 52/2023 privind indexarea nivelurilor impozitului pe mijloacele de transport cu masa totala maxima autorizata mai mare sau egala cu 12 tone pentru anul 2024",
+"short": "HCL Cerchezu nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/135421",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-53-2023",
+"path": "local/constanta/cerchezu/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 53/2023 pentru îndreptare eroare materială din cadrul Hotărârii Consiliului Local Cerchezu nr. 27/22.06.2023 privind atestarea apartenenței la domeniul privat al comunei Cerchezu a unor imobile terenuri",
+"short": "HCL Cerchezu nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/135422",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-54-2023",
+"path": "local/constanta/cerchezu/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 54/2023 privind alocarea de la bugetul local a unei sprijin financiar Parohiei Viroaga, pentru obiectivul de investitii “Reparatii acoperis biserica din localitatea Viroaga”",
+"short": "HCL Cerchezu nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/135423",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-55-2023",
+"path": "local/constanta/cerchezu/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 55/2023 privind scăderea din evidențele fiscale ale Comunei Cerchezu a unor debite înregistrate eronat",
+"short": "HCL Cerchezu nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/135424",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-56-2023",
+"path": "local/constanta/cerchezu/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 56/2023 privind alocarea de la bugetul local a unei sprijin financiar Parohiei Cerchezu, pentru obiectivul de investitii “Reparatii acoperis biserica din localitatea Magura”",
+"short": "HCL Cerchezu nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/135425",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-57-2023",
+"path": "local/constanta/cerchezu/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 57/2023 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2023",
+"short": "HCL Cerchezu nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/138441",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

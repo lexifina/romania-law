@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/deleni/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--deleni-14-2025",
+   "path": "local/constanta/deleni/2025/14",
+   "short": "HCL Deleni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Deleni nr. 14/2025 privind aprobarea bugetului local al comunei Deleni, județul Constanța pe anul 2025 precum și estimările pentru anii 2026, 2027, 2028",
+   "url": "https://emol.ro/deleni-ct/registru-hcl/286879",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/deleni-ct/registru-hcl/286879",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

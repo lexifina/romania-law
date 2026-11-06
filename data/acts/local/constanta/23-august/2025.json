@@ -137,6 +137,51 @@
 }
 },
 {
+"slug": "hcl-constanta--23-august-63-2025",
+"path": "local/constanta/23-august/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei 23 August nr. 63/2025",
+"short": "HCL 23 August nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/23august-ct/registru-hcl/235463",
+"council": "constanta/23-august",
+"council_name": "Consiliul Local al Comunei 23 August",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--23-august-64-2025",
+"path": "local/constanta/23-august/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei 23 August nr. 64/2025 privind aprobarea listei de repartizare a locuintelor pentru tineri, destinate inchirierii, construite prin A.N.L în comuna 23 August",
+"short": "HCL 23 August nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/23august-ct/registru-hcl/235464",
+"council": "constanta/23-august",
+"council_name": "Consiliul Local al Comunei 23 August",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--23-august-65-2025",
 "path": "local/constanta/23-august/2025/65",
 "kind": "local",
@@ -357,6 +402,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--23-august-75-2025",
+"path": "local/constanta/23-august/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei 23 August nr. 75/2025 privind ”Alegerea președintelui de ședință”",
+"short": "HCL 23 August nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/23august-ct/registru-hcl/247217",
+"council": "constanta/23-august",
+"council_name": "Consiliul Local al Comunei 23 August",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

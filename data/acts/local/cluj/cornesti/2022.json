@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/cornesti/2022",
+"acts": [
+{
+"slug": "hcl-cluj--cornesti-3-2022",
+"path": "local/cluj/cornesti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornești nr. 3/2022",
+"short": "HCL Cornești nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-07",
+"latest": "2022-01-07",
+"portal": "https://primariacornesti.ro/hotararea-nr-3-din-2022-a-comitetului-judetean-pentru-situatii-de-urgenta-cluj/",
+"council": "cluj/cornesti",
+"council_name": "Consiliul Local al Comunei Cornești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cornesti-114-2022",
+"path": "local/cluj/cornesti/2022/114",
+"kind": "local",
+"year": "2022",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornești nr. 114/2022",
+"short": "HCL Cornești nr. 114/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-24",
+"latest": "2022-10-24",
+"portal": "https://primariacornesti.ro/hcl-114-24-10-2022-privind-aprobarea-contului-de-executie-al-bugetului-local-si-buget-credite-interne-pe-trimestrul-iii-anul-2022/",
+"council": "cluj/cornesti",
+"council_name": "Consiliul Local al Comunei Cornești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

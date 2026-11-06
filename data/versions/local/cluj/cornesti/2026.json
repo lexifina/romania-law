@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/cornesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-cluj--cornesti-17-2026",
+   "path": "local/cluj/cornesti/2026/17",
+   "short": "HCL Cornești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cornești nr. 17/2026 privind aprobarea organigramei și a statului de personal, în urma reorganizării structurii funcționale din cadrul aparatului de specialitate al primarului comunei Cornești, jud.Cluj",
+   "url": "https://primariacornesti.ro/wp-content/uploads/2026/05/HCL-ORGANIGRAMA-SI-STAT-DE-PERSONAL_compressed.pdf",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://primariacornesti.ro/wp-content/uploads/2026/05/HCL-ORGANIGRAMA-SI-STAT-DE-PERSONAL_compressed.pdf",
+     "sha256": "60d5134a3014ee5f34982407648a69c35fba504419bf6f733aed516eefe63e85"
+    }
+   ]
+  }
+ ]
+}

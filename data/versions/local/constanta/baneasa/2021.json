@@ -3,6 +3,186 @@
  "shard": "local/constanta/baneasa/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--baneasa-70-2021",
+   "path": "local/constanta/baneasa/2021/70",
+   "short": "HCL Băneasa nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 70/2021 privind aprobarea vânzării cu drept de preempțiune a unui teren proprietate privată a Comunei Băneasa, aferent imobilului casă de locuit, situat în Comuna Băneasa, strada Florilor, nr. 3",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39565",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-71-2021",
+   "path": "local/constanta/baneasa/2021/71",
+   "short": "HCL Băneasa nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 71/2021 privind aprobarea vânzării cu drept de preempțiune a unui teren proprietate privată a Comunei Băneasa, aferent imobilului casă de locuit, situat în Comuna Băneasa, strada Florilor, nr. 45",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39566",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-72-2021",
+   "path": "local/constanta/baneasa/2021/72",
+   "short": "HCL Băneasa nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 72/2021 Privind aprobarea închirierii prin licitaţie publică a unui spațiu, situat în Comuna Băneasa str. Trandafirilor, nr. 11, jud. Constanța, în suprafață de 110,51mp., având destinația de sediu administrativ birou",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39567",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-73-2021",
+   "path": "local/constanta/baneasa/2021/73",
+   "short": "HCL Băneasa nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 73/2021 Privind aprobarea închirierii prin licitaţie publică a unui spațiu apartinand domeniului public de interes local al comunei Băneasa, situat in strada Trandafirilor, nr. 97, Clădire Cămin cultural, având destinația de sediu administrativ birou",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39568",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-74-2021",
+   "path": "local/constanta/baneasa/2021/74",
+   "short": "HCL Băneasa nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 74/2021 privind alocarea din bugetul local a unei sume pentru acordarea unui ajutor de urgenţă, familiei Mevlit Samedin",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39569",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-75-2021",
+   "path": "local/constanta/baneasa/2021/75",
+   "short": "HCL Băneasa nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 75/2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39570",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-76-2021",
+   "path": "local/constanta/baneasa/2021/76",
+   "short": "HCL Băneasa nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 76/2021 privind rectificarea bugetului local şi modificarea listei de investiţii pe anul 2021, luna Octombrie 2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39571",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-77-2021",
+   "path": "local/constanta/baneasa/2021/77",
+   "short": "HCL Băneasa nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 77/2021 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv „GLORIA BĂNEASA” persoană juridică de drept public în subordinea Consiliului Local al Comunei Băneasa, pentru anul 2021, luna Octombrie 2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39572",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-78-2021",
+   "path": "local/constanta/baneasa/2021/78",
+   "short": "HCL Băneasa nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 78/2021 Privind aprobarea cererii de finanțare precum și a Documentaţiei de Avizare a Lucrărilor de Intervenţie (D.A.L.I) și a devizului general estimativ pentru Proiectul „REABILITARE DRUM COMUNAL DCL 475 IN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” în vederea depunerii în cadrul Programului Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/39952",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/39952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-79-2021",
+   "path": "local/constanta/baneasa/2021/79",
+   "short": "HCL Băneasa nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 79/2021 Privind aprobarea cererii de finanțare precum și a Documentaţiei de Avizare a Lucrărilor de Intervenţie (D.A.L.I) și a devizului general estimativ pentru Proiectul „REABILITARE TROTUARE STR. TRANDAFIRILOR ȘI STR. FLORILOR IN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA” în vederea depunerii în cadrul Programului Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/40537",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/40537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-80-2021",
+   "path": "local/constanta/baneasa/2021/80",
+   "short": "HCL Băneasa nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 80/2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/42823",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/42823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-81-2021",
+   "path": "local/constanta/baneasa/2021/81",
+   "short": "HCL Băneasa nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 81/2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/42824",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/42824",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-82-2021",
    "path": "local/constanta/baneasa/2021/82",
    "short": "HCL Băneasa nr. 82/2021",
@@ -18,6 +198,66 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-83-2021",
+   "path": "local/constanta/baneasa/2021/83",
+   "short": "HCL Băneasa nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 83/2021 Privind participarea Comunei Băneasa la Program și aprobarea cheltuielilor legate de proiect precum și aprobarea indicatorilor tehnico-economici şi a documentaţiei tehnico-economice a obiectivului de investiţie pentru proiectul „EFICIENTA ENERGETICA SI GESTIONAREA INTELIGENTA A ENERGIEI IN INFRASTRUCTURA DE ILUMINAT PUBLIC DIN COMUNA BANEASA, JUDETUL CONSTANTA” pentru care se va depune Cerere de finanţare prin Programul privind sprijinirea eficienţei energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/44136",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/44136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-84-2021",
+   "path": "local/constanta/baneasa/2021/84",
+   "short": "HCL Băneasa nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 84/2021 privind rectificarea bugetului local pe anul 2021, luna Decembrie 2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/44137",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/44137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-85-2021",
+   "path": "local/constanta/baneasa/2021/85",
+   "short": "HCL Băneasa nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 85/2021 privind aprobarea încheierii unui Acord de Parteneriat între institutiile culturale din județul Constanța",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/45773",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/45773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-86-2021",
+   "path": "local/constanta/baneasa/2021/86",
+   "short": "HCL Băneasa nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 86/2021 privind aprobarea achiziţionării de servicii de consultanţă juridică şi de reprezentare a intereselor Comunei Băneasa, a Consiliului Local al Comunei Băneasa a Primarului Comunei Băneasa, precum şi a Comisiei Locale de Fond Funciar Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/45774",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/45774",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-87-2021",
    "path": "local/constanta/baneasa/2021/87",
    "short": "HCL Băneasa nr. 87/2021",
@@ -28,6 +268,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/45775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-88-2021",
+   "path": "local/constanta/baneasa/2021/88",
+   "short": "HCL Băneasa nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 88/2021 privind aprobarea cuantumului şi a numărului de burse acordate elevilor din învăţământul preuniversitar de stat din comuna Băneasa, semestrul I al anului școlar 2021-2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/45776",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/45776",
      "sha256": null
     }
    ]

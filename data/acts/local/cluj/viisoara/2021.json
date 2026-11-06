@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-44-2021",
+"path": "local/cluj/viisoara/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 44/2021 Privind acordarea unui ajutor financiar de la bugetul local al comunei Viișoara către Biserica Baptistă Viișoara",
+"short": "HCL Viișoara nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-22",
+"latest": "2021-10-22",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/44522",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-45-2021",
 "path": "local/cluj/viisoara/2021/45",
 "kind": "local",
@@ -308,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-55-2021",
+"path": "local/cluj/viisoara/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 55/2021 Privind aprobarea planului urbanistic de detaliu - construire casă de locuit unifamilală",
+"short": "HCL Viișoara nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/44533",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-44-2021",
+   "path": "local/cluj/viisoara/2021/44",
+   "short": "HCL Viișoara nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 44/2021 Privind acordarea unui ajutor financiar de la bugetul local al comunei Viișoara către Biserica Baptistă Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/44522",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/44522",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-45-2021",
    "path": "local/cluj/viisoara/2021/45",
    "short": "HCL Viișoara nr. 45/2021",
@@ -208,6 +223,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/44532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-55-2021",
+   "path": "local/cluj/viisoara/2021/55",
+   "short": "HCL Viișoara nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 55/2021 Privind aprobarea planului urbanistic de detaliu - construire casă de locuit unifamilală",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/44533",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/44533",
      "sha256": null
     }
    ]

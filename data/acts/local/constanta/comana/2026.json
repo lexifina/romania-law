@@ -47,6 +47,72 @@
 }
 },
 {
+"slug": "hcl-constanta--comana-48-2026",
+"path": "local/constanta/comana/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 48/2026 privind însușirea Raportului de evaluare având ca obiect stabilirea sumei individuale aferente despăgubirii pentru imobilul (clădire) proprietate privată situat pe amplasamentul obiectivului de utilitate publică de interes local al UAT Comana",
+"short": "HCL Comana nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/comana-ct/registru-hcl/285733",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--comana-49-2026",
+"path": "local/constanta/comana/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 49/2026 privind transmiterea cu titlu gratuit a dreptului de proprietate asupra terenului situat în localitatea Pelinu, strada Valea Seacă, nr.10, înscris în CF nr. 104260 Comana, către Parohia Tătaru cu Filia Pelin",
+"short": "HCL Comana nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/comana-ct/registru-hcl/285734",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--comana-50-2026",
+"path": "local/constanta/comana/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 50/2026 privind aprobarea participării Comunei Comana în calitate de membru fondator al Grupării Europene de Cooperare Teritorială „EAST GATE”",
+"short": "HCL Comana nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/comana-ct/registru-hcl/285735",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--comana-51-2026",
 "path": "local/constanta/comana/2026/51",
 "kind": "local",
@@ -136,6 +202,72 @@
 }
 },
 {
+"slug": "hcl-constanta--comana-55-2026",
+"path": "local/constanta/comana/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 55/2026 privind desemnarea unui reprezentant al Consiliului Local al comunei Comana în Consiliul de administrație al Școlii Gimnaziale nr. 1 Comana, în anul școlar 2026-2027",
+"short": "HCL Comana nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/comana-ct/registru-hcl/287841",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--comana-56-2026",
+"path": "local/constanta/comana/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 56/2026 privind desemnarea reprezentantului Consiliului Local al comunei Comana în Comisia de Evaluare și Asigurarea Calității din cadrul Școlii Gimnaziale nr.1 Comana în anul școlar 2026-2027",
+"short": "HCL Comana nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/comana-ct/registru-hcl/287842",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--comana-57-2026",
+"path": "local/constanta/comana/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 57/2026 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție (DALI), a devizului general, a indicatorilor tehnico-economici și a cheltuielilor de expropriere pentru obiectivul de investiții „Consolidare și eficientizare energetică sediu primărie, clădire cu grad seismic ridicat, în comuna Comana, județul Constanța”, în vederea depunerii spre finanțare",
+"short": "HCL Comana nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/comana-ct/registru-hcl/287843",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--comana-58-2026",
 "path": "local/constanta/comana/2026/58",
 "kind": "local",
@@ -180,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-constanta--comana-60-2026",
+"path": "local/constanta/comana/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 60/2026 privind retragerea dreptului de folosință gratuita asupra unui teren atribuit pentru construirea unei locuințe proprietate personală conform Legii 15/2003",
+"short": "HCL Comana nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/comana-ct/registru-hcl/293816",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--comana-61-2026",
 "path": "local/constanta/comana/2026/61",
 "kind": "local",
@@ -202,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-constanta--comana-62-2026",
+"path": "local/constanta/comana/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 62/2026 privind însușirea rezultatelor cadastrului sistematic, actualizarea inventarului domeniului privat al comunei Comana și aprobarea încheierii unui act adițional la contractul de concesiune nr. 2635 /20.06.2007",
+"short": "HCL Comana nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/comana-ct/registru-hcl/293818",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--comana-63-2026",
 "path": "local/constanta/comana/2026/63",
 "kind": "local",
@@ -221,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Comana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--comana-64-2026",
+"path": "local/constanta/comana/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comana nr. 64/2026 privind atribuirea în folosință gratuită a unui teren, tinerilor căsătoriți pentru construirea unei locuințe, conform prevederilor Legii nr. 15/2003 cu modificările și completările ulterioare",
+"short": "HCL Comana nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/comana-ct/registru-hcl/293820",
+"council": "constanta/comana",
+"council_name": "Consiliul Local al Comunei Comana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--mihai-viteazu-81-2021",
+   "path": "local/cluj/mihai-viteazu/2021/81",
+   "short": "HCL Mihai Viteazu nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 81/2021",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/43446",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/43446",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-82-2021",
    "path": "local/cluj/mihai-viteazu/2021/82",
    "short": "HCL Mihai Viteazu nr. 82/2021",
@@ -118,6 +133,21 @@
      "from": "2021-12-14",
      "units": 1,
      "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/44245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-86-2021",
+   "path": "local/cluj/mihai-viteazu/2021/86",
+   "short": "HCL Mihai Viteazu nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 86/2021",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/44246",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/44246",
      "sha256": null
     }
    ]

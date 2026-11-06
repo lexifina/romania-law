@@ -3,6 +3,21 @@
  "shard": "local/constanta/23-august/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--23-august-45-2026",
+   "path": "local/constanta/23-august/2026/45",
+   "short": "HCL 23 August nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 45/2026",
+   "url": "https://emol.ro/23august-ct/registru-hcl/283900",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/283900",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--23-august-46-2026",
    "path": "local/constanta/23-august/2026/46",
    "short": "HCL 23 August nr. 46/2026",
@@ -13,6 +28,51 @@
      "from": "2026-09-08",
      "units": 1,
      "source_url": "https://emol.ro/23august-ct/registru-hcl/286065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-47-2026",
+   "path": "local/constanta/23-august/2026/47",
+   "short": "HCL 23 August nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 47/2026",
+   "url": "https://emol.ro/23august-ct/registru-hcl/286066",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/286066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-48-2026",
+   "path": "local/constanta/23-august/2026/48",
+   "short": "HCL 23 August nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 48/2026",
+   "url": "https://emol.ro/23august-ct/registru-hcl/286067",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/286067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-49-2026",
+   "path": "local/constanta/23-august/2026/49",
+   "short": "HCL 23 August nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 49/2026 „Aprobarea aderării UAT Comuna 23 August, județul Constanța la Asociația de Dezvoltare Intercomunitară „Dobrogea””",
+   "url": "https://emol.ro/23august-ct/registru-hcl/286068",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/286068",
      "sha256": null
     }
    ]
@@ -48,6 +108,111 @@
    ]
   },
   {
+   "slug": "hcl-constanta--23-august-52-2026",
+   "path": "local/constanta/23-august/2026/52",
+   "short": "HCL 23 August nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 52/2026 „Numirea persoanei responsabile pentru gestionarea Registrului de evidență a datoriei publice locale și a Registrului de evidență a garanțiilor locale ale Unității Administrativ-Teritoriale Comuna 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/290616",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/290616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-53-2026",
+   "path": "local/constanta/23-august/2026/53",
+   "short": "HCL 23 August nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 53/2026 „Desemnarea reprezentantului Consiliului Local al Comunei 23 August în Comisia de evaluare a probei interviu pentru ocuparea funcției de director la Școala Gimnazială George Coșbuc 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/290617",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/290617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-54-2026",
+   "path": "local/constanta/23-august/2026/54",
+   "short": "HCL 23 August nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 54/2026 „Rectificarea bugetului de venituri si cheltuieli al Comunei 23 August pe anul 2026, luna septembrie, virarea de credite bugetare în cadrul aceluiași capitol bugetar și de la un capitol la alt capitol al clasificaţiei bugetare”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/290618",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/290618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-55-2026",
+   "path": "local/constanta/23-august/2026/55",
+   "short": "HCL 23 August nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 55/2026 „Desemnarea reprezentanților autorității deliberative în Consiliul de administrație al Școlii Gimnaziale „George Coșbuc” din localitatea 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/290619",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/290619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-56-2026",
+   "path": "local/constanta/23-august/2026/56",
+   "short": "HCL 23 August nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 56/2026 ”Aprobarea vânzării prin licitație publică a unui număr de 2 imobile - teren aparţinând domeniului privat de interes local al Comunei 23 August, identificate cu numerele cadastrale 115291, 109434 situate în intravilanul localităților Dulcești și Moșneni",
+   "url": "https://emol.ro/23august-ct/registru-hcl/290620",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/290620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-57-2026",
+   "path": "local/constanta/23-august/2026/57",
+   "short": "HCL 23 August nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 57/2026",
+   "url": "https://emol.ro/23august-ct/registru-hcl/290621",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/290621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-58-2026",
+   "path": "local/constanta/23-august/2026/58",
+   "short": "HCL 23 August nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 58/2026 „Clasificarea și atribuirea de denumiri de drumuri de interes public local în categoria drumuri vicinale situate pe teritoriul Unității Administrativ Teritoriale – Comuna 23 August, județul Constanța”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/290622",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/290622",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--23-august-59-2026",
    "path": "local/constanta/23-august/2026/59",
    "short": "HCL 23 August nr. 59/2026",
@@ -58,6 +223,81 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/23august-ct/registru-hcl/294730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-60-2026",
+   "path": "local/constanta/23-august/2026/60",
+   "short": "HCL 23 August nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 60/2026 ”Execuția bugetului consolidat al Comunei 23 August la trimestrul III, anul 2026”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/294731",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/294731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-61-2026",
+   "path": "local/constanta/23-august/2026/61",
+   "short": "HCL 23 August nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 61/2026 „Exprimarea acordului Consiliului Local al Comunei 23 August cu privire la realizarea obiectivului de investiții „Modernizare DJ 393, tronson Techirghiol–Arsa”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/294732",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/294732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-62-2026",
+   "path": "local/constanta/23-august/2026/62",
+   "short": "HCL 23 August nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 62/2026 „Virarea de credite bugetare în cadrul aceluiași capitol bugetar și de la un capitol la alt capitol al clasificaţiei bugetare a bugetului Comunei 23 August, aferente lunii octombrie 2026”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/294733",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/294733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-63-2026",
+   "path": "local/constanta/23-august/2026/63",
+   "short": "HCL 23 August nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 63/2026 Alegerea președintelui de ședință”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/297746",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/297746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-64-2026",
+   "path": "local/constanta/23-august/2026/64",
+   "short": "HCL 23 August nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 64/2026",
+   "url": "https://emol.ro/23august-ct/registru-hcl/297747",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/297747",
      "sha256": null
     }
    ]

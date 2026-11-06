@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-136-2025",
+"path": "local/cluj/mihai-viteazu/2025/136",
+"kind": "local",
+"year": "2025",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 136/2025",
+"short": "HCL Mihai Viteazu nr. 136/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/237803",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-137-2025",
 "path": "local/cluj/mihai-viteazu/2025/137",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-138-2025",
+"path": "local/cluj/mihai-viteazu/2025/138",
+"kind": "local",
+"year": "2025",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 138/2025 privind aprobarea Documentației tehnico-economice, faza Documentație de Avizare a Lucrărilor de Intervenție, proiect nr. 17/2025, a indicatorilor tehnico – economici, a devizului general pentru obiectivul de investiție ”Amenajare trotuare și dispozitive de scurgere a apelor pluviale adiacente DN75 (Strada Transilvaniei), în Comuna Mihai Viteazu, județul Cluj„",
+"short": "HCL Mihai Viteazu nr. 138/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242400",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +180,95 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-142-2025",
+"path": "local/cluj/mihai-viteazu/2025/142",
+"kind": "local",
+"year": "2025",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 142/2025",
+"short": "HCL Mihai Viteazu nr. 142/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242404",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-143-2025",
+"path": "local/cluj/mihai-viteazu/2025/143",
+"kind": "local",
+"year": "2025",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 143/2025 privind însușirea documentației cadastrale de dezlipire a imobilului cu Nr. cad. 59199 în suprafață de 1346 mp, rezultând Nr. cad. 59260 în suprafață de 740 mp, Nr. cad. 59261 în suprafață de 606 mp, situate în Loc. Mihai Viteazu, Com. Mihai Viteazu, Jud. Cluj. Conform Referatului de admitere înregistrat sub nr. 57828 din 04.12.2025",
+"short": "HCL Mihai Viteazu nr. 143/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242405",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-144-2025",
+"path": "local/cluj/mihai-viteazu/2025/144",
+"kind": "local",
+"year": "2025",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 144/2025 privind Însușirea documentației cadastrale de alipire a imobilelor cu Nr. cad. 58095 în suprafață de 2858 mp, Nr.cad. 58119 în suprafață de 1123 mp, situate în Str. Panseluțelor, Loc. Mihai Viteazu, Com. Mihai Viteazu, Jud. Cluj",
+"short": "HCL Mihai Viteazu nr. 144/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242406",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-145-2025",
+"path": "local/cluj/mihai-viteazu/2025/145",
+"kind": "local",
+"year": "2025",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 145/2025 Privind APROBAREA LUCRĂRILOR CARE AFECTEAZĂ DOMENIUL PUBLIC ȘI/SAU DOMENIU PRIVAT AL COMUNEI MIHAI VITEAZU privind REALIZAREA RACORDURILOR / BRANȘAMENTELOR la REȚELELE de UTILITĂȚI EXISTENTE în ZONĂ pentru obiectivul „CONSTRUIRE LOCUINȚĂ UNIFAMILIALĂ, GARAJ, ANEXĂ GOSPODAREASCĂ, IMPREJMUIRE TEREN, RACORDURI și BRANȘAMENTE LA UTILITĂȚI”, Com. Mihai Viteazu, sat.Mihai Viteazu, str. Căprioarei, nr.48, jud.Cluj. Având ca beneficiar pe BOCA CĂTĂLIN-ADRIAN, pe teren aparținând intravilanului satului Mihai Viteazu, Com. Mihai Viteazu jud. Cluj",
+"short": "HCL Mihai Viteazu nr. 145/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242407",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-146-2025",
 "path": "local/cluj/mihai-viteazu/2025/146",
 "kind": "local",
@@ -154,6 +288,72 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-147-2025",
+"path": "local/cluj/mihai-viteazu/2025/147",
+"kind": "local",
+"year": "2025",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 147/2025 privind alegerea președintelui de ședința al Consiliului Local al Comunei Mihai-Viteazu pe o perioadă de 3 luni",
+"short": "HCL Mihai Viteazu nr. 147/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242409",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-148-2025",
+"path": "local/cluj/mihai-viteazu/2025/148",
+"kind": "local",
+"year": "2025",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 148/2025 privind modificarea Contractului de concesiune nr. 3525/30.07.2003, ca urmare a renunțării voluntare la o parte din suprafața concesionată",
+"short": "HCL Mihai Viteazu nr. 148/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242410",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-149-2025",
+"path": "local/cluj/mihai-viteazu/2025/149",
+"kind": "local",
+"year": "2025",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 149/2025 privind modificarea Statului de funcții și a Organigramei aparatului de specialitate al Primarului Comunei Mihai Viteazu, județul Cluj",
+"short": "HCL Mihai Viteazu nr. 149/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/242411",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +398,29 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-152-2025",
+"path": "local/cluj/mihai-viteazu/2025/152",
+"kind": "local",
+"year": "2025",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 152/2025",
+"short": "HCL Mihai Viteazu nr. 152/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/244874",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

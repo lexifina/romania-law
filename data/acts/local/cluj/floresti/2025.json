@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/floresti/2025",
+"acts": [
+{
+"slug": "hcl-cluj--floresti-63-2025",
+"path": "local/cluj/floresti/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 63/2025",
+"short": "HCL Florești nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+"council": "cluj/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--floresti-116-2025",
+"path": "local/cluj/floresti/2025/116",
+"kind": "local",
+"year": "2025",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 116/2025",
+"short": "HCL Florești nr. 116/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+"council": "cluj/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

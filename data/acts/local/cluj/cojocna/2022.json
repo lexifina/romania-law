@@ -3,6 +3,72 @@
 "shard": "local/cluj/cojocna/2022",
 "acts": [
 {
+"slug": "hcl-cluj--cojocna-81-2022",
+"path": "local/cluj/cojocna/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 81/2022 privind aprobarea Documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ASFALTARE STRAZI COJOCNA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Cojocna nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/76504",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-82-2022",
+"path": "local/cluj/cojocna/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 82/2022 privind aprobarea Documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „ASFALTARE STRAZI COJOCNA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Cojocna nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/76505",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-83-2022",
+"path": "local/cluj/cojocna/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 83/2022 privind rectificarea bugetului de venituri și cheltuieli al Comunei Cojocna pe anul 2022",
+"short": "HCL Cojocna nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/77034",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--cojocna-84-2022",
 "path": "local/cluj/cojocna/2022/84",
 "kind": "local",
@@ -22,6 +88,29 @@
 "council_name": "Consiliul Local al Comunei Cojocna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-85-2022",
+"path": "local/cluj/cojocna/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 85/2022",
+"short": "HCL Cojocna nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/78628",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -69,6 +158,50 @@
 }
 },
 {
+"slug": "hcl-cluj--cojocna-88-2022",
+"path": "local/cluj/cojocna/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 88/2022 privind aprobarea încheierii protocolului de colaborare între Ministerul Muncii și Solidarității sociale și UAT Comuna COJOCNA, în vederea implementării proiectului ”HUB de servicii MMSS-SII MMSS” (cod MySmis 130963)",
+"short": "HCL Cojocna nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/80760",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-89-2022",
+"path": "local/cluj/cojocna/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 89/2022 privind rectificarea bugetului de venituri și cheltuieli și a programului de investiții al Comunei Cojocna pentru anul 2022",
+"short": "HCL Cojocna nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/80761",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--cojocna-90-2022",
 "path": "local/cluj/cojocna/2022/90",
 "kind": "local",
@@ -91,6 +224,117 @@
 }
 },
 {
+"slug": "hcl-cluj--cojocna-91-2022",
+"path": "local/cluj/cojocna/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 91/2022 privind abrobarea încheierii unui contract de sponsorizare între SC Bai Cojocna SRL și Universitatea Babeș-Bolyai Cluj-Napoca, Facultatea de Fizică Cluj-Napoca",
+"short": "HCL Cojocna nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/80763",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-92-2022",
+"path": "local/cluj/cojocna/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 92/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022, al SC Bai Cojocna SRL",
+"short": "HCL Cojocna nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/80764",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-93-2022",
+"path": "local/cluj/cojocna/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 93/2022 privind aprobarea Strategiei Naționale Anticorupție 2021-2025, a UAT Comuna Cojocna",
+"short": "HCL Cojocna nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/83056",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-94-2022",
+"path": "local/cluj/cojocna/2022/94",
+"kind": "local",
+"year": "2022",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 94/2022",
+"short": "HCL Cojocna nr. 94/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/83057",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-95-2022",
+"path": "local/cluj/cojocna/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 95/2022 privind rectificarea bugetului de venituri și cheltuieli și a programului de investiții al Comunei Cojocna pentru anul 2022",
+"short": "HCL Cojocna nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/83058",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--cojocna-96-2022",
 "path": "local/cluj/cojocna/2022/96",
 "kind": "local",
@@ -110,6 +354,94 @@
 "council_name": "Consiliul Local al Comunei Cojocna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-97-2022",
+"path": "local/cluj/cojocna/2022/97",
+"kind": "local",
+"year": "2022",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 97/2022 privind modificarea HCL nr.39/06.11.2020 privind constituirea comisiilor de specialitate ale Consiliului Local Cojocna, urmare Sentinței civile nr.13142/2022 pronunțată de Judecătoria Cluj-Napoca",
+"short": "HCL Cojocna nr. 97/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/84314",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-98-2022",
+"path": "local/cluj/cojocna/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 98/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022 al Comunei Cojocna",
+"short": "HCL Cojocna nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/84315",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-99-2022",
+"path": "local/cluj/cojocna/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 99/2022 privind indexarea impozitelor și taxelor locale cu rata de schimb a monedei euro potrivit Directivei 1999/62/CE privind vehiculele de transport marfă",
+"short": "HCL Cojocna nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/84316",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-100-2022",
+"path": "local/cluj/cojocna/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 100/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022 al Comunei Cojocna",
+"short": "HCL Cojocna nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/84722",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

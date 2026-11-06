@@ -3,6 +3,21 @@
  "shard": "local/constanta/cuza-voda/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--cuza-voda-67-2025",
+   "path": "local/constanta/cuza-voda/2025/67",
+   "short": "HCL Cuza Vodă nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 67/2025 privind desemnarea reprezentanților Consiliului Local Cuza Vodă în Consiliul de Administrație al Scolii gimnaziale nr. 1 Cuza Vodă pentru anul 2025-2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/226945",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/226945",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-68-2025",
    "path": "local/constanta/cuza-voda/2025/68",
    "short": "HCL Cuza Vodă nr. 68/2025",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-77-2025",
+   "path": "local/constanta/cuza-voda/2025/77",
+   "short": "HCL Cuza Vodă nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 77/2025",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/237808",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/237808",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-78-2025",
    "path": "local/constanta/cuza-voda/2025/78",
    "short": "HCL Cuza Vodă nr. 78/2025",
@@ -148,6 +178,21 @@
      "from": "2025-12-10",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/237809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-79-2025",
+   "path": "local/constanta/cuza-voda/2025/79",
+   "short": "HCL Cuza Vodă nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 79/2025 privind desemnarea președintelui de ședință pentru lunile: decembrie 2025, ianuarie, februarie 2026",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/237810",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/237810",
      "sha256": null
     }
    ]

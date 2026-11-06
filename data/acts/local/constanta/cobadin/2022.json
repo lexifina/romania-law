@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/cobadin/2022",
+"acts": [
+{
+"slug": "hcl-constanta--cobadin-13-2022",
+"path": "local/constanta/cobadin/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 13/2022 privind aprobarea execu(iei bugetului local de venituri gi cheltuieli al Comunei Cobadin, jud. Constanfa, aferent sfir;itul anului bugetar 2021 Consiliul Local al Comunei Cobadin, jud.Constanla, intrunit in gedinla ORDTNARA in data de 10.02.2022, AvAnd in vedere: / Proiectul de Hotdrdre privind aprobarea execuliei bugetului local de venituri qi cheltuieli al Comunei Cobadin, jud. Constanla, aferen",
+"short": "HCL Cobadin nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://primariacobadin.ro/wp-content/uploads/2018/02/HCL-DE-APROBARE-A-EXECUTIEI-BUGETARE-PENTRU-ANUL-2021.pdf",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

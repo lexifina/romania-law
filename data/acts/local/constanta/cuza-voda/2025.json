@@ -3,6 +3,28 @@
 "shard": "local/constanta/cuza-voda/2025",
 "acts": [
 {
+"slug": "hcl-constanta--cuza-voda-67-2025",
+"path": "local/constanta/cuza-voda/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 67/2025 privind desemnarea reprezentanților Consiliului Local Cuza Vodă în Consiliul de Administrație al Scolii gimnaziale nr. 1 Cuza Vodă pentru anul 2025-2026",
+"short": "HCL Cuza Vodă nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/226945",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--cuza-voda-68-2025",
 "path": "local/constanta/cuza-voda/2025/68",
 "kind": "local",
@@ -201,6 +223,29 @@
 }
 },
 {
+"slug": "hcl-constanta--cuza-voda-77-2025",
+"path": "local/constanta/cuza-voda/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 77/2025",
+"short": "HCL Cuza Vodă nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/237808",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cuza-voda-78-2025",
 "path": "local/constanta/cuza-voda/2025/78",
 "kind": "local",
@@ -220,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Cuza Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-79-2025",
+"path": "local/constanta/cuza-voda/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 79/2025 privind desemnarea președintelui de ședință pentru lunile: decembrie 2025, ianuarie, februarie 2026",
+"short": "HCL Cuza Vodă nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/237810",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

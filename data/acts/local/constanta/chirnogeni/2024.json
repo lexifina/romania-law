@@ -3,6 +3,139 @@
 "shard": "local/constanta/chirnogeni/2024",
 "acts": [
 {
+"slug": "hcl-constanta--chirnogeni-46-2024",
+"path": "local/constanta/chirnogeni/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 46/2024 privind acordarea unui mandat special reprezentantului comunei Chirnogeni în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”",
+"short": "HCL Chirnogeni nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188044",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-47-2024",
+"path": "local/constanta/chirnogeni/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 47/2024 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare pentru trimestrul III al anului 2024",
+"short": "HCL Chirnogeni nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188045",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-48-2024",
+"path": "local/constanta/chirnogeni/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 48/2024",
+"short": "HCL Chirnogeni nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188046",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-49-2024",
+"path": "local/constanta/chirnogeni/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 49/2024 privind alegerea președintelui de ședință pentru perioada noiembrie 2024 – ianuarie 2025 inclusiv",
+"short": "HCL Chirnogeni nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188070",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-50-2024",
+"path": "local/constanta/chirnogeni/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 50/2024 privind aprobarea numărului și denumirii comisiilor de specialitate ale Consiliului Local al Comunei Chirnogeni precum și componența nominală a acestora",
+"short": "HCL Chirnogeni nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188071",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-51-2024",
+"path": "local/constanta/chirnogeni/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 51/2024 privind alegerea viceprimarului comunei Chirnogeni",
+"short": "HCL Chirnogeni nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188074",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--chirnogeni-52-2024",
 "path": "local/constanta/chirnogeni/2024/52",
 "kind": "local",
@@ -22,6 +155,50 @@
 "council_name": "Consiliul Local al Comunei Chirnogeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-53-2024",
+"path": "local/constanta/chirnogeni/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 53/2024 privind aprobarea rapoartelor de evaluare și vânzarea prin licitație publică a unor terenuri intravilane de interes local aparținând domeniului privat al comunei Chirnogeni",
+"short": "HCL Chirnogeni nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188079",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-54-2024",
+"path": "local/constanta/chirnogeni/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 54/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli la data de 28.11.2024",
+"short": "HCL Chirnogeni nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188080",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +224,50 @@
 }
 },
 {
+"slug": "hcl-constanta--chirnogeni-56-2024",
+"path": "local/constanta/chirnogeni/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 56/2024 privind aprobarea înfiinţării sistemului de distribuţie a gazelor naturale şi a iniţierii procedurii de concesionare a serviciului de utilitate publică de distribuţie a gazelor naturale in cadrul obiectivului de investitii „ ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CHIRNOGENI, JUDEȚUL CONSTANȚA”",
+"short": "HCL Chirnogeni nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188082",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-57-2024",
+"path": "local/constanta/chirnogeni/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 57/2024 privind punerea la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivelor aferente sistemelor de distribuție a gazelor naturale pe toată durata concesiunii, precum și a terenurilor necesare organizării de șantier pe durata realizării investiției în cadrul obiectivului de investiții „ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CHIRNOGENI, JUDEȚUL CONSTANȚA”",
+"short": "HCL Chirnogeni nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188083",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--chirnogeni-58-2024",
 "path": "local/constanta/chirnogeni/2024/58",
 "kind": "local",
@@ -66,6 +287,162 @@
 "council_name": "Consiliul Local al Comunei Chirnogeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-59-2024",
+"path": "local/constanta/chirnogeni/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 59/2024",
+"short": "HCL Chirnogeni nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188085",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-60-2024",
+"path": "local/constanta/chirnogeni/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 60/2024",
+"short": "HCL Chirnogeni nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188109",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-61-2024",
+"path": "local/constanta/chirnogeni/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 61/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli la data de 16.12.2024",
+"short": "HCL Chirnogeni nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188110",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-62-2024",
+"path": "local/constanta/chirnogeni/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 62/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Chirnogeni, în conformitate cu Legea nr. 153/2017",
+"short": "HCL Chirnogeni nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188111",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-63-2024",
+"path": "local/constanta/chirnogeni/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 63/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Chirnogeni care vor funcționa în anul școlar 2025-2026",
+"short": "HCL Chirnogeni nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188112",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-64-2024",
+"path": "local/constanta/chirnogeni/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 64/2024 privind aprobarea traseelor și locurilor de îmbarcare/debarcare pentru autovehiculele școlare destinate transportului elevilor din învățământul preuniversitar de stat din comuna Chirnogeni în anul școlar 2025-2026",
+"short": "HCL Chirnogeni nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188113",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--chirnogeni-65-2024",
+"path": "local/constanta/chirnogeni/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 65/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli la data de 20 decembrie 2024",
+"short": "HCL Chirnogeni nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/chirnogeni-ct/registru-hcl/188115",
+"council": "constanta/chirnogeni",
+"council_name": "Consiliul Local al Comunei Chirnogeni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

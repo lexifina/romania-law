@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-constanta--aliman-39-2025",
+"path": "local/constanta/aliman/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 39/2025 privind alegerea viceprimarului Comunei Aliman, Judeţul Constanţa",
+"short": "HCL Aliman nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/257635",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--aliman-40-2025",
 "path": "local/constanta/aliman/2025/40",
 "kind": "local",
@@ -136,6 +158,29 @@
 }
 },
 {
+"slug": "hcl-constanta--aliman-45-2025",
+"path": "local/constanta/aliman/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 45/2025",
+"short": "HCL Aliman nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/257657",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--aliman-46-2025",
 "path": "local/constanta/aliman/2025/46",
 "kind": "local",
@@ -155,6 +200,28 @@
 "council_name": "Consiliul Local al Comunei Aliman",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--aliman-47-2025",
+"path": "local/constanta/aliman/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 47/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Aliman pentru o perioadă de 3 luni (noiembrie 2025 – ianuarie 2026)",
+"short": "HCL Aliman nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/257667",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +291,28 @@
 }
 },
 {
+"slug": "hcl-constanta--aliman-51-2025",
+"path": "local/constanta/aliman/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 51/2025 privind aprobarea repartizării sumelor necesare acordării drepturilor băneşti aferente personalului didactic din cadrul unităţilor de învăţământ de pe raza comunei Aliman care solicită cheltuieli de deplasare în anul şcolar 2025-2026",
+"short": "HCL Aliman nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/257677",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--aliman-52-2025",
 "path": "local/constanta/aliman/2025/52",
 "kind": "local",
@@ -290,6 +379,28 @@
 }
 },
 {
+"slug": "hcl-constanta--aliman-55-2025",
+"path": "local/constanta/aliman/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 55/2025 privind organizarea reţelei şcolare pe raza comunei Aliman, judeţul Constanţa, în anul şcolar 2026-2027",
+"short": "HCL Aliman nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/257681",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--aliman-56-2025",
 "path": "local/constanta/aliman/2025/56",
 "kind": "local",
@@ -309,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Aliman",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--aliman-57-2025",
+"path": "local/constanta/aliman/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aliman nr. 57/2025 privind acordarea unor ajutoare financiare familiilor din comuna Aliman, județul Constanța, care au împlinit 50 de ani de la căsătorie în anul 2025",
+"short": "HCL Aliman nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/aliman-ct/registru-hcl/257683",
+"council": "constanta/aliman",
+"council_name": "Consiliul Local al Comunei Aliman",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

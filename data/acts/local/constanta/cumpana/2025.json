@@ -25,6 +25,52 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-142-2025",
+"path": "local/constanta/cumpana/2025/142",
+"kind": "local",
+"year": "2025",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 142/2025",
+"short": "HCL Cumpăna nr. 142/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/234805",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-143-2025",
+"path": "local/constanta/cumpana/2025/143",
+"kind": "local",
+"year": "2025",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 143/2025",
+"short": "HCL Cumpăna nr. 143/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/234806",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-144-2025",
 "path": "local/constanta/cumpana/2025/144",
 "kind": "local",
@@ -69,6 +115,121 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-146-2025",
+"path": "local/constanta/cumpana/2025/146",
+"kind": "local",
+"year": "2025",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 146/2025",
+"short": "HCL Cumpăna nr. 146/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/237094",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-147-2025",
+"path": "local/constanta/cumpana/2025/147",
+"kind": "local",
+"year": "2025",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 147/2025",
+"short": "HCL Cumpăna nr. 147/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/237095",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-148-2025",
+"path": "local/constanta/cumpana/2025/148",
+"kind": "local",
+"year": "2025",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 148/2025",
+"short": "HCL Cumpăna nr. 148/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/237096",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-149-2025",
+"path": "local/constanta/cumpana/2025/149",
+"kind": "local",
+"year": "2025",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 149/2025",
+"short": "HCL Cumpăna nr. 149/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/237097",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-150-2025",
+"path": "local/constanta/cumpana/2025/150",
+"kind": "local",
+"year": "2025",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 150/2025",
+"short": "HCL Cumpăna nr. 150/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/237098",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-151-2025",
 "path": "local/constanta/cumpana/2025/151",
 "kind": "local",
@@ -91,6 +252,118 @@
 }
 },
 {
+"slug": "hcl-constanta--cumpana-152-2025",
+"path": "local/constanta/cumpana/2025/152",
+"kind": "local",
+"year": "2025",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 152/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Cumpana pe anul 2025",
+"short": "HCL Cumpăna nr. 152/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/242111",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-153-2025",
+"path": "local/constanta/cumpana/2025/153",
+"kind": "local",
+"year": "2025",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 153/2025",
+"short": "HCL Cumpăna nr. 153/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/242112",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-154-2025",
+"path": "local/constanta/cumpana/2025/154",
+"kind": "local",
+"year": "2025",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 154/2025 privind alegerea presedintelui de sedinta al Consiliului Local Cumpana",
+"short": "HCL Cumpăna nr. 154/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/242113",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-155-2025",
+"path": "local/constanta/cumpana/2025/155",
+"kind": "local",
+"year": "2025",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 155/2025 privind aprobarea Calendarului Evenimentelor Sociale, Educative si al Manifestărilor Cultural - Sportive de la nivelul Comunei Cumpăna în anul 2026",
+"short": "HCL Cumpăna nr. 155/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/242114",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-156-2025",
+"path": "local/constanta/cumpana/2025/156",
+"kind": "local",
+"year": "2025",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 156/2025",
+"short": "HCL Cumpăna nr. 156/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/242115",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--cumpana-157-2025",
 "path": "local/constanta/cumpana/2025/157",
 "kind": "local",
@@ -110,6 +383,52 @@
 "council_name": "Consiliul Local al Comunei Cumpăna",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-158-2025",
+"path": "local/constanta/cumpana/2025/158",
+"kind": "local",
+"year": "2025",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 158/2025",
+"short": "HCL Cumpăna nr. 158/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/242117",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cumpana-159-2025",
+"path": "local/constanta/cumpana/2025/159",
+"kind": "local",
+"year": "2025",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 159/2025",
+"short": "HCL Cumpăna nr. 159/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/242118",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

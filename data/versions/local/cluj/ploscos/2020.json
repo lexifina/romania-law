@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/ploscos/2020",
+ "acts": [
+  {
+   "slug": "hcl-cluj--ploscos-31-2020",
+   "path": "local/cluj/ploscos/2020/31",
+   "short": "HCL Ploscoș nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 31/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13599",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-32-2020",
+   "path": "local/cluj/ploscos/2020/32",
+   "short": "HCL Ploscoș nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 32/2020 privind atribuirea în folosință gratuită, a unui teren în suprafață de 500mp, în vederea construirii unei locuințe proprietate personală",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13600",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-33-2020",
+   "path": "local/cluj/ploscos/2020/33",
+   "short": "HCL Ploscoș nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 33/2020 privind alegerea președintele de ședință",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13619",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-34-2020",
+   "path": "local/cluj/ploscos/2020/34",
+   "short": "HCL Ploscoș nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 34/2020 privind numirea membrilor comisiei de numărare și validare a voturilor",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13620",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-35-2020",
+   "path": "local/cluj/ploscos/2020/35",
+   "short": "HCL Ploscoș nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 35/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Ploscoș, județul Cluj",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13621",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-36-2020",
+   "path": "local/cluj/ploscos/2020/36",
+   "short": "HCL Ploscoș nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 36/2020",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13622",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-37-2020",
+   "path": "local/cluj/ploscos/2020/37",
+   "short": "HCL Ploscoș nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 37/2020",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13623",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-38-2020",
+   "path": "local/cluj/ploscos/2020/38",
+   "short": "HCL Ploscoș nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 38/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13624",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-39-2020",
+   "path": "local/cluj/ploscos/2020/39",
+   "short": "HCL Ploscoș nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 39/2020 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13625",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-40-2020",
+   "path": "local/cluj/ploscos/2020/40",
+   "short": "HCL Ploscoș nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 40/2020 privind alegerea viceprimarului comunei Ploscoș, județul Cluj",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/13626",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/13626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-41-2020",
+   "path": "local/cluj/ploscos/2020/41",
+   "short": "HCL Ploscoș nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 41/2020 privind aprobarea contului de execuție al bugetului local la 30.09.2020",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18355",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-42-2020",
+   "path": "local/cluj/ploscos/2020/42",
+   "short": "HCL Ploscoș nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 42/2020 privind stabilirea impozitelor și taxelor locale pe anul 2021",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18356",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-43-2020",
+   "path": "local/cluj/ploscos/2020/43",
+   "short": "HCL Ploscoș nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 43/2020 privind aprobarea casării manuale școlare de la Școala Gimnazială Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18357",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-44-2020",
+   "path": "local/cluj/ploscos/2020/44",
+   "short": "HCL Ploscoș nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 44/2020 privind aprobarea lucrărilor de interes local care vor fi executate în anul 2021 de persoanele beneficiare de venit minim garantat",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18358",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-45-2020",
+   "path": "local/cluj/ploscos/2020/45",
+   "short": "HCL Ploscoș nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 45/2020",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18359",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-46-2020",
+   "path": "local/cluj/ploscos/2020/46",
+   "short": "HCL Ploscoș nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 46/2020 privind aprobarea amenajării accesului și realizarea de branșamente/racorduri la rețelele edilitare a obiectivului Construire capelă mortuară, împrejmuire, racorduri și branșamente amplasată în localitatea Crairât, comuna Ploscoș, județul Cluj, CF 50725 Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18360",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-47-2020",
+   "path": "local/cluj/ploscos/2020/47",
+   "short": "HCL Ploscoș nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 47/2020 privind aprobarea împrumutului din excedentul anului 2020 pentru acoperirea golurilor temporare de disponibilități pentru anul 2021",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18361",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-48-2020",
+   "path": "local/cluj/ploscos/2020/48",
+   "short": "HCL Ploscoș nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 48/2020 privind rectificarea bugetului de venituri și cheltuieli al Comunei Ploscoș pentru anul 2020",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18362",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-49-2020",
+   "path": "local/cluj/ploscos/2020/49",
+   "short": "HCL Ploscoș nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 49/2020 privind rețeaua unității de învățământ care va funcționa în Comuna Ploscoș anul școlar 2021-2022",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18363",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-50-2020",
+   "path": "local/cluj/ploscos/2020/50",
+   "short": "HCL Ploscoș nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 50/2020 privind aprobarea casării mijloacelor fixe și a obiectelor de inventar aflate în inventarul aparținând Consiliului Local al comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/18364",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/18364",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

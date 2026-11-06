@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/ciucea/2024",
+ "acts": [
+  {
+   "slug": "hcl-cluj--ciucea-48-2024",
+   "path": "local/cluj/ciucea/2024/48",
+   "short": "HCL Ciucea nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 48/2024",
+   "url": "https://primariaciucea.ro/documente/hcl-nr-48-din-06-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2025/01/HCL-nr.48-din-06.12.2024.pdf",
+     "sha256": "fe97ec3261f07a1be0a9e125d659649a5fced7fb892dbabfb39044e953758325"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-49-2024",
+   "path": "local/cluj/ciucea/2024/49",
+   "short": "HCL Ciucea nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 49/2024",
+   "url": "https://primariaciucea.ro/documente/hcl-nr-49-din-06-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2025/01/HCL-nr.49-din-06.12.2024.pdf",
+     "sha256": "4d20bddc3d75b5fe2b5ec55f600e3c8418d840e5c4151ee44b51bd1ea453dcc9"
+    }
+   ]
+  }
+ ]
+}

@@ -179,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-29-2026",
+"path": "local/cluj/viisoara/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2026",
+"short": "HCL Viișoara nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/287769",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-30-2026",
 "path": "local/cluj/viisoara/2026/30",
 "kind": "local",
@@ -198,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-31-2026",
+"path": "local/cluj/viisoara/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 31/2026 privind aprobarea sprijinului financiar de la bugetul local al comunei Viișoara, pentru unitățile de cult aparținând cultelor religioase recunoscute din România, pe anul 2026",
+"short": "HCL Viișoara nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/287771",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +312,73 @@
 }
 },
 {
+"slug": "hcl-cluj--viisoara-35-2026",
+"path": "local/cluj/viisoara/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 35/2026",
+"short": "HCL Viișoara nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/292563",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-36-2026",
+"path": "local/cluj/viisoara/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 36/2026 privind aprobarea consionării contractului de concesiune nr. 7788/11.09.2023 încheiat între Comuna Viișoara și AINHOAMED S.R.L",
+"short": "HCL Viișoara nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/292564",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-37-2026",
+"path": "local/cluj/viisoara/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 37/2026 privind numirea reprezentanților Consiliului Local al comunei Viișoara în Consiliul de Administrație al Școlii Gimnaziale Viișoara pentru anul școlar 2026-2027",
+"short": "HCL Viișoara nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/292570",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-38-2026",
 "path": "local/cluj/viisoara/2026/38",
 "kind": "local",
@@ -308,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-40-2026",
+"path": "local/cluj/viisoara/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 40/2026 privind aprobarea Acordului de cooperare încheiat pentru realizarea proiectului „CLUJ SMART COUNTY-Ecosistem digital integrat”",
+"short": "HCL Viișoara nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/292573",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

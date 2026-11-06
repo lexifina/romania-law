@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-78-2021",
+   "path": "local/constanta/cuza-voda/2021/78",
+   "short": "HCL Cuza Vodă nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 78/2021 privind desemnarea președintelui de ședință pentru lunile decembrie 2021, ianuarie, februarie 2022",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/44419",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/44419",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-79-2021",
    "path": "local/constanta/cuza-voda/2021/79",
    "short": "HCL Cuza Vodă nr. 79/2021",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cuza-voda-86-2021",
+   "path": "local/constanta/cuza-voda/2021/86",
+   "short": "HCL Cuza Vodă nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 86/2021",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/44427",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/44427",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-87-2021",
    "path": "local/constanta/cuza-voda/2021/87",
    "short": "HCL Cuza Vodă nr. 87/2021",
@@ -253,6 +283,21 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/44428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-88-2021",
+   "path": "local/constanta/cuza-voda/2021/88",
+   "short": "HCL Cuza Vodă nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 88/2021",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/44429",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/44429",
      "sha256": null
     }
    ]

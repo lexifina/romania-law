@@ -222,6 +222,229 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-constanta--cuza-voda-105-2022",
+"path": "local/constanta/cuza-voda/2022/105",
+"kind": "local",
+"year": "2022",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 105/2022 privind modificarea anexei la HCL nr. 67/28.07.2022 privind aprobarea Caietului de sarcini privind vânzarea de loturi de teren ,,Construcție de locuințe” - zona D, E, F, G, H",
+"short": "HCL Cuza Vodă nr. 105/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-12",
+"latest": "2022-12-12",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/80790",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-106-2022",
+"path": "local/constanta/cuza-voda/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 106/2022",
+"short": "HCL Cuza Vodă nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-12",
+"latest": "2022-12-12",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/80791",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-107-2022",
+"path": "local/constanta/cuza-voda/2022/107",
+"kind": "local",
+"year": "2022",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 107/2022",
+"short": "HCL Cuza Vodă nr. 107/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-12",
+"latest": "2022-12-12",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/80792",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-108-2022",
+"path": "local/constanta/cuza-voda/2022/108",
+"kind": "local",
+"year": "2022",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 108/2022 privind rectificarea bugetului local pe anul 2022 al comunei Cuza Vodă, județul Constanța",
+"short": "HCL Cuza Vodă nr. 108/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/82086",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-109-2022",
+"path": "local/constanta/cuza-voda/2022/109",
+"kind": "local",
+"year": "2022",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 109/2022 privind validarea Dispozițiilor primarului comunei Cuza Vodă nr. 407/2022, 412/2022 și 416/2022 privind rectificarea bugetului local al comunei Cuza Vodă",
+"short": "HCL Cuza Vodă nr. 109/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/84930",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-110-2022",
+"path": "local/constanta/cuza-voda/2022/110",
+"kind": "local",
+"year": "2022",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 110/2022 privind aprobarea Protocolului de colaborare cu comuna Mircea Vodă în vederea depunerii unui proiect ,,Reabilitare, modernizare centru comunitar integrat în comuna Mircea Vodă, județul Constanța”",
+"short": "HCL Cuza Vodă nr. 110/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/84931",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-111-2022",
+"path": "local/constanta/cuza-voda/2022/111",
+"kind": "local",
+"year": "2022",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 111/2022 privind avizarea Documentației de atribuire a contractului de delegaree a gestiunii, prin achiziție publică de servicii, a serviciului de salubrizare, pentru activitățile de sortare, tratare mecanico-biologică și depozitare a deșeurilor municipale din u.a.t. Cuza Vodă, fără punerea la dispoziție a infrastructurii",
+"short": "HCL Cuza Vodă nr. 111/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/84932",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-112-2022",
+"path": "local/constanta/cuza-voda/2022/112",
+"kind": "local",
+"year": "2022",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 112/2022 privind modificarea tarifelor pentru activitatea de colectare separată și transportul separat al deșeurilor municipale, din contractul de delegare a gestiunii prin concesionare a serviciului de salubrizare, nr. 29/02.06.2021",
+"short": "HCL Cuza Vodă nr. 112/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/84933",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-113-2022",
+"path": "local/constanta/cuza-voda/2022/113",
+"kind": "local",
+"year": "2022",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 113/2022",
+"short": "HCL Cuza Vodă nr. 113/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/84934",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--cuza-voda-114-2022",
+"path": "local/constanta/cuza-voda/2022/114",
+"kind": "local",
+"year": "2022",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 114/2022 privind participarea comunei Cuza Vodă la “Programul privind cresterea eficienței energetice a infrastructurii de iluminat public” și aprobarea indicatorilor tehnico-economici ai proiectului “ Eficientizarea si modernizarea sistemului de iluminat public din comuna Cuza Vodă, judetul Constanța“",
+"short": "HCL Cuza Vodă nr. 114/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/cuzavoda-ct/registru-hcl/84935",
+"council": "constanta/cuza-voda",
+"council_name": "Consiliul Local al Comunei Cuza Vodă",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-constanta--crucea-105-2023",
+"path": "local/constanta/crucea/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 105/2023 privind modificarea Caietului de sarcini pentru vânzarea prin licitație publică a imobilelor terenuri intravilane, aparținând domeniului privat al comunei Crucea, județul Constanța, aprobată prin Hotărârea Consiliului Local nr.57/28.06.2023,",
+"short": "HCL Crucea nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/128737",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--crucea-106-2023",
 "path": "local/constanta/crucea/2023/106",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Crucea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--crucea-114-2023",
+"path": "local/constanta/crucea/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crucea nr. 114/2023 privind aprobarea condițiilor în care se realizează accesul furnizorilor de rețele de comunicații electronice pe proprietatea publică (sau privată) a U.A.T.COMUNA CRUCEA în vederea construirii, instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+"short": "HCL Crucea nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/crucea-ct/registru-hcl/134522",
+"council": "constanta/crucea",
+"council_name": "Consiliul Local al Comunei Crucea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

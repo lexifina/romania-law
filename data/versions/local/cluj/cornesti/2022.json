@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/cornesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-cluj--cornesti-114-2022",
+   "path": "local/cluj/cornesti/2022/114",
+   "short": "HCL Cornești nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornești nr. 114/2022",
+   "url": "https://primariacornesti.ro/hcl-114-24-10-2022-privind-aprobarea-contului-de-executie-al-bugetului-local-si-buget-credite-interne-pe-trimestrul-iii-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://primariacornesti.ro/wp-content/uploads/2022/10/Hotarare-nr.-114-din-24.10.2022.pdf",
+     "sha256": "d5baa1a3601f54390ba4686d408213c4f3ed06c73c1b241b9a4f50f1e6f11e64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cornesti-3-2022",
+   "path": "local/cluj/cornesti/2022/3",
+   "short": "HCL Cornești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornești nr. 3/2022",
+   "url": "https://primariacornesti.ro/hotararea-nr-3-din-2022-a-comitetului-judetean-pentru-situatii-de-urgenta-cluj/",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://primariacornesti.ro/wp-content/uploads/2022/08/HCJSU-Nr-3-din-07.01.2022.pdf",
+     "sha256": "7383b82495fea24cea7f77df475540bc52526a5c53a1f7bf151ce3cdea3f7220"
+    }
+   ]
+  }
+ ]
+}

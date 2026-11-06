@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/feleacu/2026",
+ "acts": [
+  {
+   "slug": "hcl-cluj--feleacu-83-2026",
+   "path": "local/cluj/feleacu/2026/83",
+   "short": "HCL Feleacu nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 83/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2083%20din%2029.09.2026_2026_1187310.pdf",
+     "sha256": "3e2db2a89ee329edfe39f2035ea2b1f6be753efa19951e48e82faa2b26eb3df5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-84-2026",
+   "path": "local/cluj/feleacu/2026/84",
+   "short": "HCL Feleacu nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 84/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2084%20din%2029.09.2026_2026_7138027.pdf",
+     "sha256": "49ab68926abe39ec4b22c145cf51cc119704b892b038e4c2bca0bdaa4906fc73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-85-2026",
+   "path": "local/cluj/feleacu/2026/85",
+   "short": "HCL Feleacu nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 85/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2085%20din%2029.09.2026_2026_9593661.pdf",
+     "sha256": "ea12f4af32bd9a3eb2f870d9cb08f21ca0a749a60aff371fb60f0d8a688ffa82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-86-2026",
+   "path": "local/cluj/feleacu/2026/86",
+   "short": "HCL Feleacu nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 86/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2086%20din%2029.09.2026_2010_9539700.pdf",
+     "sha256": "cbce7dd3b83a1e2b84729cb37ff29aed9f7592e334290a91a95ec80192add7a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-87-2026",
+   "path": "local/cluj/feleacu/2026/87",
+   "short": "HCL Feleacu nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 87/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2087%20din%2029.09.2026_2026_2332684.pdf",
+     "sha256": "617ff8490b54a2d39795e99145155ac72f654de303482f44b8cd26ef7c0360da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-88-2026",
+   "path": "local/cluj/feleacu/2026/88",
+   "short": "HCL Feleacu nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 88/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2088%20din%2029.09.2026_2026_4882066.pdf",
+     "sha256": "5d88936b8be6b7ad8fc996cd2df5536a883fa66f33bc251f700d802e2dd00b70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-89-2026",
+   "path": "local/cluj/feleacu/2026/89",
+   "short": "HCL Feleacu nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 89/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2089%20din%2029.09.2026_2026_1940363.pdf",
+     "sha256": "974aa78ae4bdc42a2add848ac016a9d0553a207b3801cfd8ee2e2c8a1b682a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-90-2026",
+   "path": "local/cluj/feleacu/2026/90",
+   "short": "HCL Feleacu nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 90/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2090%20din%2029.09.2026_2026_5301690.pdf",
+     "sha256": "6bea2c8886cf414184c16c13f088dad7196c3a7d6138990eebcdedce0929b368"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-91-2026",
+   "path": "local/cluj/feleacu/2026/91",
+   "short": "HCL Feleacu nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 91/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2091%20din%2029.09.2026_2026_1153364.pdf",
+     "sha256": "7e8c32066b4bba082ff81b88e3d0cb7d018beb354c226eb3643c444b0f88ac6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--feleacu-92-2026",
+   "path": "local/cluj/feleacu/2026/92",
+   "short": "HCL Feleacu nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Feleacu nr. 92/2026",
+   "url": "https://www.comunafeleacu.ro/documente/categoria/hotarari-consiliu-local-si-procese-verbale",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunafeleacu.ro/storage/documents/HCL%20nr.%2092%20din%2029.09.2026_2026_8663875.pdf",
+     "sha256": "9f5566ee9bde06996746f0581314bd337a3906686a09e533f691e96e7199042d"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,28 @@
 "shard": "local/cluj/luna/2023",
 "acts": [
 {
+"slug": "hcl-cluj--luna-43-2023",
+"path": "local/cluj/luna/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 43/2023 privind neasumarea de către Comuna Luna a responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, aferente Programului pentru școli al României în perioada 2023 – 2029",
+"short": "HCL Luna nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://emol.ro/luna-cj/registru-hcl/119054",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--luna-44-2023",
 "path": "local/cluj/luna/2023/44",
 "kind": "local",
@@ -26,6 +48,204 @@
 }
 },
 {
+"slug": "hcl-cluj--luna-45-2023",
+"path": "local/cluj/luna/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 45/2023 privind constituirea Comisiei locale de ordine publică a Comunei Luna",
+"short": "HCL Luna nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-01",
+"latest": "2023-10-01",
+"portal": "https://emol.ro/luna-cj/registru-hcl/122825",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-46-2023",
+"path": "local/cluj/luna/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 46/2023 privind aprobarea rezilierii Contractului de administrare nr. 2391 din 30.12.2014 încheiat între Comuna Luna și Ocolul Silvic Valea Ierii SRL",
+"short": "HCL Luna nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-01",
+"latest": "2023-10-01",
+"portal": "https://emol.ro/luna-cj/registru-hcl/122826",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-47-2023",
+"path": "local/cluj/luna/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 47/2023 privind aprobarea concesionării prin licitație publică a unui teren în suprafață de 30 ha situat în intravilanul localității Luna, proprietate privată a Comunei Luna",
+"short": "HCL Luna nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-01",
+"latest": "2023-10-01",
+"portal": "https://emol.ro/luna-cj/registru-hcl/122827",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-48-2023",
+"path": "local/cluj/luna/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 48/2023 privind rectificarea bugetului local al Comunei Luna pe anul 2023",
+"short": "HCL Luna nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-21",
+"latest": "2023-10-21",
+"portal": "https://emol.ro/luna-cj/registru-hcl/125427",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-49-2023",
+"path": "local/cluj/luna/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 49/2023 privind aprobarea indicatorilor de performanță ai serviciului de alimentare cu apă și de canalizare pentru aria de operare Turda-Câmpia Turzii și comunele arondate",
+"short": "HCL Luna nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-29",
+"latest": "2023-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/126466",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-50-2023",
+"path": "local/cluj/luna/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 50/2023 privind aprobarea execuției bugetului local al Comunei Luna la trimestrul III al anului 2023",
+"short": "HCL Luna nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-29",
+"latest": "2023-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/126467",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-51-2023",
+"path": "local/cluj/luna/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 51/2023 privind aprobarea Contractului de administrare în regim silvic a fondului forestier în suprafață de 130,6 ha, proprietatea publică a Comunei Luna, dintre Ocolul Silvic Șoimul Arieș R.A și Comuna Luna",
+"short": "HCL Luna nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-29",
+"latest": "2023-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/126468",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-52-2023",
+"path": "local/cluj/luna/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 52/2023 privind însușirea documentației cadastrale de dezmembrare în 12 loturi a imobilului teren în suprafață de 115,1789 ha, înscris în CF nr. 56634 Luna, nr. cad. 56634, proprietate privată a Comunei Luna",
+"short": "HCL Luna nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-29",
+"latest": "2023-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/126469",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-53-2023",
+"path": "local/cluj/luna/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 53/2023 privind însușirea documentației cadastrale de alipire pentru imobilele situate în Comuna Luna - Cartier Avram Iancu, identificate cu numerele cadastrale 56410, 56412, 56414, 56415, 56416, 56418, 56420, 56421, 56422, 56423 ale Comunei Luna",
+"short": "HCL Luna nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-29",
+"latest": "2023-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/126470",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--luna-54-2023",
 "path": "local/cluj/luna/2023/54",
 "kind": "local",
@@ -45,6 +265,183 @@
 "council_name": "Consiliul Local al Comunei Luna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-55-2023",
+"path": "local/cluj/luna/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 55/2023",
+"short": "HCL Luna nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-26",
+"latest": "2023-11-26",
+"portal": "https://emol.ro/luna-cj/registru-hcl/130234",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--luna-56-2023",
+"path": "local/cluj/luna/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 56/2023 privind rectificarea bugetului local al Comunei Luna pe anul 2023",
+"short": "HCL Luna nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-26",
+"latest": "2023-11-26",
+"portal": "https://emol.ro/luna-cj/registru-hcl/130235",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-57-2023",
+"path": "local/cluj/luna/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 57/2023 privind aprobarea concesionării prin licitație publică a două terenuri în suprafață totală de 13.208 mp situate în extravilanul satului Luncani, proprietate privată a Comunei Luna",
+"short": "HCL Luna nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-26",
+"latest": "2023-11-26",
+"portal": "https://emol.ro/luna-cj/registru-hcl/130236",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-58-2023",
+"path": "local/cluj/luna/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 58/2023 privind acordul Consiliului Local al Comunei Luna, în calitate de administrator al domeniului public și privat al Comunei Luna, pentru efectuarea lucrărilor pe domeniul public și privat al Comunei Luna aferente obiectivului de investitii „Amenajarea Râului Arieș și afluenți pentru apărare împotriva inundațiilor a localităților: Câmpeni, Baia de Arieș, Lunca Arieșului și aval Acumularea Mihoiești, Jud. Alba și Cluj”",
+"short": "HCL Luna nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-26",
+"latest": "2023-11-26",
+"portal": "https://emol.ro/luna-cj/registru-hcl/130237",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-59-2023",
+"path": "local/cluj/luna/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 59/2023 privind aprobarea unor măsuri de funcționare a ASOCIAŢIEI “POLUL AGRO-ZOOTEHNIC-INDUSTRIAL ARIEŞ-PAZIA”",
+"short": "HCL Luna nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/luna-cj/registru-hcl/133682",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-60-2023",
+"path": "local/cluj/luna/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 60/2023 privind rectificarea bugetului local al Comunei Luna pe anul 2023",
+"short": "HCL Luna nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/luna-cj/registru-hcl/133683",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-61-2023",
+"path": "local/cluj/luna/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 61/2023 privind retragerea dreptului de folosință asupra terenurilor al unor beneficiari ai Legii nr. 15/2003 și aprobarea listei persoanelor beneficiare de terenuri pentru construirea de locuințe proprietate personală în baza Legii nr. 15/2003",
+"short": "HCL Luna nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/luna-cj/registru-hcl/133684",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--luna-62-2023",
+"path": "local/cluj/luna/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 62/2023 privind aprobarea solicitării prelungirii Scrisorii de garanție de la FGCR IFN SA nr. IG173301066/13.10.2017 în sumă de 1.440.211,00 lei în vederea garantării în procent de 100% a obligațiilor de plată a avansului de 1.440.211,00 lei din fondurile nerambursabile pentru implementarea proiectului “ Reabilitare rețea stradală” Com. Luna, Jud.Cluj, în baza contractului de finanțare nerambursabilă nr. C0720RN00011661300089/22.06.2017, cu modificările și completările ulterioare, în favoarea Agenției pentru Finanțarea Investițiilor Rurale",
+"short": "HCL Luna nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/luna-cj/registru-hcl/133685",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

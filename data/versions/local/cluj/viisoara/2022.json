@@ -3,6 +3,96 @@
  "shard": "local/cluj/viisoara/2022",
  "acts": [
   {
+   "slug": "hcl-cluj--viisoara-15-2022",
+   "path": "local/cluj/viisoara/2022/15",
+   "short": "HCL Viișoara nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 15/2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73806",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-16-2022",
+   "path": "local/cluj/viisoara/2022/16",
+   "short": "HCL Viișoara nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 16/2022 privind aprobarea documentației cadastrale întocmită pentru dezmembrarea imobilului înscris în nr. CF 50927, nr. cad. 50927 în suprafață de 4.698 mp",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73807",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-17-2022",
+   "path": "local/cluj/viisoara/2022/17",
+   "short": "HCL Viișoara nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73821",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-18-2022",
+   "path": "local/cluj/viisoara/2022/18",
+   "short": "HCL Viișoara nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2022 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 31.03.2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73822",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-19-2022",
+   "path": "local/cluj/viisoara/2022/19",
+   "short": "HCL Viișoara nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 19/2022 privind stabilirea impozitelor și taxelor locale pe anul 2023 la nivelul comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73823",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-20-2022",
+   "path": "local/cluj/viisoara/2022/20",
+   "short": "HCL Viișoara nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 20/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73824",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73824",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-21-2022",
    "path": "local/cluj/viisoara/2022/21",
    "short": "HCL Viișoara nr. 21/2022",
@@ -33,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-23-2022",
+   "path": "local/cluj/viisoara/2022/23",
+   "short": "HCL Viișoara nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 23/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru anul 2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73963",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73963",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-24-2022",
    "path": "local/cluj/viisoara/2022/24",
    "short": "HCL Viișoara nr. 24/2022",
@@ -43,6 +148,21 @@
      "from": "2022-09-30",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-25-2022",
+   "path": "local/cluj/viisoara/2022/25",
+   "short": "HCL Viișoara nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 25/2022 privind aprobarea organigramei pe 2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73965",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73965",
      "sha256": null
     }
    ]
@@ -63,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-27-2022",
+   "path": "local/cluj/viisoara/2022/27",
+   "short": "HCL Viișoara nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 27/2022 privind acordarea de sumei de 15.300 lei de la bugetul local al comunei Viișoara, Asociației Corul Mixt ”Arvalanyhaj”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73977",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-28-2022",
+   "path": "local/cluj/viisoara/2022/28",
+   "short": "HCL Viișoara nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 28/2022 privind acordarea de sumei de 5.400 lei de la bugetul local al comunei Viișoara, Parohiei ortodoxe Viișoara II",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73978",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73978",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-29-2022",
    "path": "local/cluj/viisoara/2022/29",
    "short": "HCL Viișoara nr. 29/2022",
@@ -73,6 +223,81 @@
      "from": "2022-09-30",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-30-2022",
+   "path": "local/cluj/viisoara/2022/30",
+   "short": "HCL Viișoara nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 30/2022 privind aprobarea încheierii unui act adițional la Documentul de Poziție încheiat la data de 28.07.2010 de către membrii Asociației de Dezvoltare Intercomunitară Eco-Metropolitan Cluj pentru stabilirea modului de implementare a Proiectului Sistem de Management Integrat al Deșeurilor în Județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73980",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-31-2022",
+   "path": "local/cluj/viisoara/2022/31",
+   "short": "HCL Viișoara nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 31/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/74016",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/74016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-32-2022",
+   "path": "local/cluj/viisoara/2022/32",
+   "short": "HCL Viișoara nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 32/2022 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 30.06.2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/74017",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/74017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-33-2022",
+   "path": "local/cluj/viisoara/2022/33",
+   "short": "HCL Viișoara nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 33/2022 privind aprobarea cuantumului cotizației lunare pentru susținerea activităților ASOCIAȚIEI ”POLUL AGRO-ZOOTEHNIC-INDUSTRIAL ARIEȘ-PAZIA”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/74018",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/74018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-34-2022",
+   "path": "local/cluj/viisoara/2022/34",
+   "short": "HCL Viișoara nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 34/2022 privind modificarea inventarului bunurilor care aparțin domeniul public și privat al comunei Viișoara, județul Cluj, înscris în Monitorul Oficial, Anexa nr.79 privind inventarul bunurilor care apațin domeniului public al Comunei Viișoara cu modificările și completările ulterioare",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/74019",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/74019",
      "sha256": null
     }
    ]

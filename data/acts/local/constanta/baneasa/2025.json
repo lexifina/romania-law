@@ -3,6 +3,185 @@
 "shard": "local/constanta/baneasa/2025",
 "acts": [
 {
+"slug": "hcl-constanta--baneasa-66-2025",
+"path": "local/constanta/baneasa/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 66/2025",
+"short": "HCL Băneasa nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/231022",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-67-2025",
+"path": "local/constanta/baneasa/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 67/2025 Privind desemnarea unor reprezentanți ai Consiliului local al Comunei Băneasa în Consiliul de administrație al Liceului Teoretic Băneasa",
+"short": "HCL Băneasa nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/231023",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-68-2025",
+"path": "local/constanta/baneasa/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 68/2025 privind aprobarea vânzării și încheierii contractului de vânzare-cumpărare pentru locuința din fondul locativ de stat, aflată în domeniul privat al comunei Băneasa, situată în str. Trandafirilor, nr. FN, ap.2, parter, comuna Băneasa",
+"short": "HCL Băneasa nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/231024",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-69-2025",
+"path": "local/constanta/baneasa/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 69/2025 Pentru rectificarea bugetului local privind virarea de vărsăminte din secţiunea de funcţionare pentru finanţarea secţiunii de dezvoltare a bugetului local pe anul 2025, luna Octombrie 2025 rectificare IV",
+"short": "HCL Băneasa nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/231025",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-70-2025",
+"path": "local/constanta/baneasa/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 70/2025 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Noiembrie 2025, respectiv: Noiembrie 2025 – Ianuarie 2026",
+"short": "HCL Băneasa nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/233385",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-71-2025",
+"path": "local/constanta/baneasa/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 71/2025",
+"short": "HCL Băneasa nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/233386",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-72-2025",
+"path": "local/constanta/baneasa/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 72/2025 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv „GLORIA BĂNEASA” persoană juridică de drept public în subordinea Consiliului Local al Comunei Băneasa, pentru anul 2025",
+"short": "HCL Băneasa nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/233387",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-73-2025",
+"path": "local/constanta/baneasa/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 73/2025",
+"short": "HCL Băneasa nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/233388",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--baneasa-74-2025",
 "path": "local/constanta/baneasa/2025/74",
 "kind": "local",
@@ -25,6 +204,206 @@
 }
 },
 {
+"slug": "hcl-constanta--baneasa-75-2025",
+"path": "local/constanta/baneasa/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 75/2025 privind acordarea unui mandat special reprezentantului comunei Băneasa în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară „Dobrogea”, pentru a vota în numele și pe seama comunei Băneasa, aprobarea modificării Caietului de sarcini aferent Contractului nr. 12/31.07.2024, a modificării tarifelor aferente Contractului nr. 12/31.07.2024 și a ajustării tarifelor aferente Contractului nr. 10/19.06.2024, pentru anul 2026",
+"short": "HCL Băneasa nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240114",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-76-2025",
+"path": "local/constanta/baneasa/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 76/2025 privind aprobarea înfiinţării unui post aferent personalului contractual de inspector casier, gradul profesional IA în cadrul Compartimentului Impozite și taxe din aparatul de specialitate al primarului",
+"short": "HCL Băneasa nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240115",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-77-2025",
+"path": "local/constanta/baneasa/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 77/2025 Privind aprobarea Regulamentului pentru acordarea și menținerea in plată a beneficiilor sociale la nivelul Comunei Băneasa",
+"short": "HCL Băneasa nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240116",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-78-2025",
+"path": "local/constanta/baneasa/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 78/2025",
+"short": "HCL Băneasa nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240117",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-79-2025",
+"path": "local/constanta/baneasa/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 79/2025 privind aprobarea asocierii în participatiune între Comuna Băneasa, prin Consiliul Local Băneasa și SC VERTATEL INTERNAȚIONAL SRL, în vederea realizării ,,Parc solar agrofotovoltaic’’ și o unitate de stocare cu o putere instalată de aproximativ 50 MW",
+"short": "HCL Băneasa nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240118",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-80-2025",
+"path": "local/constanta/baneasa/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 80/2025 Pentru rectificarea bugetului local privind virarea de vărsăminte din secţiunea de funcţionare pentru finanţarea secţiunii de dezvoltare a bugetului local pe anul 2025, luna Decembrie 2025 rectificare V",
+"short": "HCL Băneasa nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240119",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-81-2025",
+"path": "local/constanta/baneasa/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 81/2025",
+"short": "HCL Băneasa nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240120",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-82-2025",
+"path": "local/constanta/baneasa/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 82/2025 Privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din raza teritorială a comunei Băneasa, judeţul Constanţa, pentru anul școlar 2026-2027",
+"short": "HCL Băneasa nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240935",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-83-2025",
+"path": "local/constanta/baneasa/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 83/2025 Pentru rectificarea bugetului local cu sumele alocate din alocarea cotelor și sumelor defalcate din unele venituri ale bugetului de stat pentru echilibrarea bugetelor locale, pe anul 2025, luna Decembrie 2025 rectificare VI",
+"short": "HCL Băneasa nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/240936",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--baneasa-84-2025",
 "path": "local/constanta/baneasa/2025/84",
 "kind": "local",
@@ -44,6 +423,28 @@
 "council_name": "Consiliul Local al Comunei Băneasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-85-2025",
+"path": "local/constanta/baneasa/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 85/2025 Pentru rectificarea bugetului local privind virarea de vărsăminte din secţiunea de funcţionare pentru finanţarea secţiunii de dezvoltare a bugetului local pe anul 2025, luna Decembrie 2025 rectificare VII",
+"short": "HCL Băneasa nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/244636",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

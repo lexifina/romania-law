@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-55-2025",
+"path": "local/cluj/tureni/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 55/2025 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară „Apa Văii Arieșului”",
+"short": "HCL Tureni nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258239",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--tureni-56-2025",
+"path": "local/cluj/tureni/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 56/2025 privind alegerea președintelui de ședință, pentru ședințele Consiliului Local Tureni",
+"short": "HCL Tureni nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258240",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--tureni-57-2025",
 "path": "local/cluj/tureni/2025/57",
 "kind": "local",
@@ -134,6 +178,28 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-62-2025",
+"path": "local/cluj/tureni/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 62/2025 privind declanșarea procedurii de selecție pentru trei membri în Consiliul de administrație la societatea Transport Urban Public SRL",
+"short": "HCL Tureni nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258326",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -248,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-cluj--tureni-68-2025",
+"path": "local/cluj/tureni/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 68/2025 privind aprobarea executării lucrărilor de racorduri/branșamente electrice de la Stația de bază până la infrastructura edilitară existentă în zonă, pe domeniul public al comunei Tureni în vederea realizării lucrării Construire stație de bază pentru servicii de comunicații electronice-în satul Tureni, comuna Tureni, județul Cluj pe terenul identificat cu CF nr. 55513",
+"short": "HCL Tureni nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258335",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--tureni-69-2025",
 "path": "local/cluj/tureni/2025/69",
 "kind": "local",
@@ -267,6 +355,72 @@
 "council_name": "Consiliul Local al Comunei Tureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-70-2025",
+"path": "local/cluj/tureni/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 70/2025 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de pe raza comunei Tureni, județul Cluj, pentru anul școlar 2026-2027",
+"short": "HCL Tureni nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258348",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--tureni-71-2025",
+"path": "local/cluj/tureni/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 71/2025 privind acordarea unui mandat special reprezentantului Comunei Tureni în Adunarea Generală a Asociaților societății Transport Urban Public SRL",
+"short": "HCL Tureni nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258349",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--tureni-72-2025",
+"path": "local/cluj/tureni/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 72/2025 privind aprobarea Regulamentului de acordare a ajutoarelor comunitare",
+"short": "HCL Tureni nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258350",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
