@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/branesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--branesti-199-2025",
+   "path": "local/ilfov/branesti/2025/199",
+   "short": "HCL Brănești nr. 199/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 199/2025 privind stabilirea valorilor impozabile, impozitele, taxele locale si amenzile, in sume fixe sau cote procentuale, pentru anul fiscal 2026",
+   "url": "https://emol.ro/branesti-if/registru-hcl/243933",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/243933",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

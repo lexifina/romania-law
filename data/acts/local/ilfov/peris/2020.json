@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/ilfov/peris/2020",
+"acts": [
+{
+"slug": "hcl-ilfov--peris-34-2020",
+"path": "local/ilfov/peris/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 34/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Periș , județul Ilfov",
+"short": "HCL Periș nr. 34/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/peris-if/registru-hcl/13111",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-36-2020",
+"path": "local/ilfov/peris/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 36/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului local al comunei Periș",
+"short": "HCL Periș nr. 36/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/peris-if/registru-hcl/13113",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-37-2020",
+"path": "local/ilfov/peris/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 37/2020 privind anularea creanțelor fiscale restante mai mici de 40 de lei existente în sold la 31.12.2020",
+"short": "HCL Periș nr. 37/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/peris-if/registru-hcl/13114",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-38-2020",
+"path": "local/ilfov/peris/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 38/2020 privind înregistrarea Primăriei Comunei Periș în Sistemul Național Electronic de Plată on-line a taxelor și impozitelor utilizând cardul bancar (SNEP) și modul de suportare a comisionului bancar la tranzacțiile on-line , prin modificarea HCL nr.33/2016",
+"short": "HCL Periș nr. 38/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/peris-if/registru-hcl/13115",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-39-2020",
+"path": "local/ilfov/peris/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 39/2020 privind rectificarea bugetului local pentru trimestrul al IV-lea din anul 2020, prin suplimentări de credite bugetare în cadrul secțiuni de dezvoltare , pentru finanțarea obiectivului : ”Modernizare drumuri comunale în comuna Periș”",
+"short": "HCL Periș nr. 39/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/peris-if/registru-hcl/13116",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-40-2020",
+"path": "local/ilfov/peris/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 40/2020 privind rectificarea bugetului local in trimestrul al IV-lea din anul 2020 , prin suplimentari si virări de credite bugetare la capitolele deficitare in cadrul sectiuni de functionare-cheltuieli de perosnal",
+"short": "HCL Periș nr. 40/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/peris-if/registru-hcl/13689",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-41-2020",
+"path": "local/ilfov/peris/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 41/2020 privind acordarea buselor sociale , burse de studiu, burse de merit și performanță pentru elevii din unitățile de învățământ preuniversitar de stat ( primar și gimnazial) din comuna Periș județul Ilfov",
+"short": "HCL Periș nr. 41/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/peris-if/registru-hcl/13690",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-43-2020",
+"path": "local/ilfov/peris/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 43/2020 privind revocarea HCL nr.17/04.05.2020 privind acordarea de sprinjin financiar , pentru anul 2020, unităților locale de cult aparținând unor culte religioase , Parohia Bratulesti",
+"short": "HCL Periș nr. 43/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/peris-if/registru-hcl/13692",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-45-2020",
+"path": "local/ilfov/peris/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 45/2020 privind recticarea bugetului local in trimestrul al IV-lea din anul 2020 , prin suplimentari și virari de credinte bugetare , la capitolele deficitare in cadrul sectiuni de functionare - cheltuileli cu bunuri și servicii",
+"short": "HCL Periș nr. 45/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/peris-if/registru-hcl/16937",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-46-2020",
+"path": "local/ilfov/peris/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 46/2020 privind insituirea unor măsuri fiscale și aprobarea procedurii de anulare a accesorilor aferente obligațiilor bugetare principale restante la data de 31.03.2021 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ tertitorială a comunei Periș",
+"short": "HCL Periș nr. 46/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/peris-if/registru-hcl/16938",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

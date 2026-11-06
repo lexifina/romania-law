@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/breznita-motru/2021",
+"acts": [
+{
+"slug": "hcl-mehedinti--breznita-motru-31-2021",
+"path": "local/mehedinti/breznita-motru/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 31/2021 privind aprobarea proiectului de hotărâre referitor la reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2022-2023",
+"short": "HCL Breznița-Motru nr. 31/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-30",
+"latest": "2021-11-30",
+"portal": "https://emol.ro/breznita-motru-mh/registru-hcl/42958",
+"council": "mehedinti/breznita-motru",
+"council_name": "Consiliul Local al Comunei Breznița-Motru",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

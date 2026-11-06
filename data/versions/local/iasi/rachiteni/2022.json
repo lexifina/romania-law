@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/rachiteni/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--rachiteni-23-2022",
+   "path": "local/iasi/rachiteni/2022/23",
+   "short": "HCL Răchiteni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 23/2022 privind adoptarea unor măsuri fiscale cf. OUG nr. 69/2020 pentru modificarea și completarea Legii nr. 27/2015 privind Codul fiscal, precum și pentru instituirea unor măsuri fiscale, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/64832",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/64832",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

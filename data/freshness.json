@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 254407,
+  "acts": 257457,
   "by_status": {
-   "current": 188404,
-   "pending-change": 28279,
+   "current": 191403,
+   "pending-change": 28280,
    "stale": 4468,
-   "unverified": 33256,
+   "unverified": 33306,
    "source-unavailable": 0
   },
-  "verified_7d": 201817,
-  "verified_30d": 201857,
-  "pct_verified_7d": 79.3,
-  "pct_verified_30d": 79.3,
-  "pct_current": 74.1,
+  "verified_7d": 204817,
+  "verified_30d": 204857,
+  "pct_verified_7d": 79.6,
+  "pct_verified_30d": 79.6,
+  "pct_current": 74.3,
   "newest_verified": "2026-11-06",
   "oldest_verified": "2018-07-23"
  },
@@ -142,27 +142,27 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 108296,
+   "acts": 111296,
    "by_status": {
-    "current": 103908,
+    "current": 106908,
     "pending-change": 0,
     "stale": 2429,
     "unverified": 1959,
     "source-unavailable": 0
    },
-   "verified_7d": 103869,
-   "verified_30d": 103908,
-   "pct_verified_7d": 95.9,
-   "pct_verified_30d": 95.9,
-   "pct_current": 95.9,
+   "verified_7d": 106869,
+   "verified_30d": 106908,
+   "pct_verified_7d": 96.0,
+   "pct_verified_30d": 96.1,
+   "pct_current": 96.1,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
   "national": {
    "acts": 65194,
    "by_status": {
-    "current": 42555,
-    "pending-change": 13579,
+    "current": 42554,
+    "pending-change": 13580,
     "stale": 2039,
     "unverified": 7021,
     "source-unavailable": 0
@@ -176,19 +176,19 @@
    "oldest_verified": "2018-07-23"
   },
   "orders": {
-   "acts": 56763,
+   "acts": 56813,
    "by_status": {
     "current": 25530,
     "pending-change": 12314,
     "stale": 0,
-    "unverified": 18919,
+    "unverified": 18969,
     "source-unavailable": 0
    },
    "verified_7d": 25530,
    "verified_30d": 25530,
-   "pct_verified_7d": 45.0,
-   "pct_verified_30d": 45.0,
-   "pct_current": 45.0,
+   "pct_verified_7d": 44.9,
+   "pct_verified_30d": 44.9,
+   "pct_current": 44.9,
    "newest_verified": "2026-11-05",
    "oldest_verified": "2026-11-03"
   }
@@ -280,12 +280,12 @@
    "oldest_verified": "2026-11-05"
   },
   "cnsc": {
-   "acts": 716,
+   "acts": 766,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 716,
+    "unverified": 766,
     "source-unavailable": 0
    },
    "verified_7d": 0,
@@ -452,8 +452,8 @@
   "hg": {
    "acts": 41983,
    "by_status": {
-    "current": 35226,
-    "pending-change": 5738,
+    "current": 35225,
+    "pending-change": 5739,
     "stale": 443,
     "unverified": 576,
     "source-unavailable": 0
@@ -569,19 +569,19 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 108296,
+   "acts": 111296,
    "by_status": {
-    "current": 103908,
+    "current": 106908,
     "pending-change": 0,
     "stale": 2429,
     "unverified": 1959,
     "source-unavailable": 0
    },
-   "verified_7d": 103869,
-   "verified_30d": 103908,
-   "pct_verified_7d": 95.9,
-   "pct_verified_30d": 95.9,
-   "pct_current": 95.9,
+   "verified_7d": 106869,
+   "verified_30d": 106908,
+   "pct_verified_7d": 96.0,
+   "pct_verified_30d": 96.1,
+   "pct_current": 96.1,
    "newest_verified": "2026-11-06",
    "oldest_verified": "2023-03-20"
   },
@@ -864,7 +864,7 @@
    ],
    "acts": 123857,
    "last_successful_check": "2026-11-06",
-   "unavailable_since": "2026-11-06",
+   "unavailable_since": null,
    "sites": null,
    "sites_unavailable": null,
    "pct_verified_7d": 66.1,
@@ -904,13 +904,13 @@
    "kinds": [
     "local"
    ],
-   "acts": 106957,
+   "acts": 109957,
    "last_successful_check": "2026-11-06",
    "unavailable_since": null,
-   "sites": 311,
+   "sites": 316,
    "sites_unavailable": 6,
-   "pct_verified_7d": 97.1,
-   "pct_verified_30d": 97.1
+   "pct_verified_7d": 97.2,
+   "pct_verified_30d": 97.2
   },
   {
    "source": "Court decisions (Portalul legislativ)",
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 3247
+ "shards": 3482
 }

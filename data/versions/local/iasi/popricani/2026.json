@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/popricani/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--popricani-100-2026",
+   "path": "local/iasi/popricani/2026/100",
+   "short": "HCL Popricani nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 100/2026 privind trecerea în domeniul privat al com. Popricani, jud.lași a suprafeței de 2155 mp teren (sector caastral 174, parcela CC 129/3 )",
+   "url": "https://emol.ro/popricani-is/registru-hcl/288253",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/288253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-102-2026",
+   "path": "local/iasi/popricani/2026/102",
+   "short": "HCL Popricani nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 102/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293916",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-103-2026",
+   "path": "local/iasi/popricani/2026/103",
+   "short": "HCL Popricani nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 103/2026 privind modificarea elementelor de identificare a poziției nr.108, din Hotărârea Consiliului Local Popricani, județul Iași nr.115/23.12.2015, privnd domeniul privat al comunei Popricani, județul Iași, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293917",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-104-2026",
+   "path": "local/iasi/popricani/2026/104",
+   "short": "HCL Popricani nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 104/2026 privind dezlipirea imobilului teren - 1000 mp intravilan loc. Popricani, comuna Popricani, județul Iași, nr.cadastral 60611 tarla 93; parcela 1557/615 A, aparținând domeniului privat al comunei Popricani, județul Iași, în două loturi: - lot 1- 409mp; lot 2 - 591 mp",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293918",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-105-2026",
+   "path": "local/iasi/popricani/2026/105",
+   "short": "HCL Popricani nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 105/2026 privind dezlipirea imobilului teren - 3833 mp intravilan în loc. Cârlig, comuna Popricani, județul Iași, nr. cadastral 68809 tarla 157; parcela 2563/12, aparținând domeniului privat al comunei Popricani, județul Iași, în două loturi : lot. 1-3593 mp; lot 2 - 240 mp",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293919",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-110-2026",
+   "path": "local/iasi/popricani/2026/110",
+   "short": "HCL Popricani nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 110/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași -2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293924",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-112-2026",
+   "path": "local/iasi/popricani/2026/112",
+   "short": "HCL Popricani nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 112/2026 privind implementarea proiectului „ÎNFIINȚARE PARC FOTOVOLTAIC ÎN COMUNA POPRICANI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293926",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-114-2026",
+   "path": "local/iasi/popricani/2026/114",
+   "short": "HCL Popricani nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 114/2026 privind aprobarea indicatorilor tehnici-economici și a devizului general pentru obiectivul de investiții „Înființare sistem de distribuție gaze naturale în comunele Probota și Țigănași, județul Iași”, aprobat pentru finanțare din Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293928",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-115-2026",
+   "path": "local/iasi/popricani/2026/115",
+   "short": "HCL Popricani nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 115/2026 privind însușirea Hotărârii nr.4/27.08.2026, a Asociației de Dezvoltare Intercomunitară (ADI) PPT privind, aprobarea actualizării Programului anual al acizițiilor publice pentru anul 2026 și aprobarea demarării achizițiilor pentru realizarea obiectivului de investiții „Înființare sistem de distribuție gaze naturale în comunele Probota și Țigănași, județul Iași”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293929",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-116-2026",
+   "path": "local/iasi/popricani/2026/116",
+   "short": "HCL Popricani nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 116/2026 privind modificarea art.1 al Hotărârii Consiliului Local Popricani, județul Iași nr. 73/25.06.2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293930",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-117-2026",
+   "path": "local/iasi/popricani/2026/117",
+   "short": "HCL Popricani nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 117/2026 privind modificarea elementelor de identificare a poziției nr. 775 din Hotărârea Consiliului Local Popricani, județul Iași, nr. 115/23.12.2015, privind domeniul privat al comunei Popricani, județul Iași cu modificările și completările ulterioare",
+   "url": "https://emol.ro/popricani-is/registru-hcl/293931",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/293931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-118-2026",
+   "path": "local/iasi/popricani/2026/118",
+   "short": "HCL Popricani nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 118/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/294386",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/294386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-119-2026",
+   "path": "local/iasi/popricani/2026/119",
+   "short": "HCL Popricani nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 119/2026 privind aprobarea implementării proiectului \" Cresterea eficientei energetice și gestionarea inteligentă a energiei în clădirile publice, comuna Popricani, județul Iași\" a cheltuielilor legale de proiect și a indicatorilor tehnico-economici actualizați-faza DTAC",
+   "url": "https://emol.ro/popricani-is/registru-hcl/294387",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/294387",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

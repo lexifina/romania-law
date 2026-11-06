@@ -1,0 +1,250 @@
+{
+"country": "RO",
+"shard": "local/iasi/popesti/2022",
+"acts": [
+{
+"slug": "hcl-iasi--popesti-1-2022",
+"path": "local/iasi/popesti/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 1/2022 privind ...Aprobarea acoperirii definitive din excedentul bugetului local al anilor precedenți, a deficitului sectiunii de dezvoltare in suma de 2.674.496,43 lei",
+"short": "HCL Popești nr. 1/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51238",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-2-2022",
+"path": "local/iasi/popesti/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 2/2022 privind ...Aprobarea sumei de 26.620 lei reprezentând ajutor de încălzire a locuinței conform Dispozitiei Primarului nr. 645/21.12.2021, care va fi solicitată și suportată de la bugetul de stat",
+"short": "HCL Popești nr. 2/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51239",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-3-2022",
+"path": "local/iasi/popesti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 3/2022 privind ...Aprobarea utilizării excedentului bugetar, al comunei Popesti, Jud. Iasi din anii anteriori si anul 2021, în anul 2022 în suma de 3.667.698,82 lei",
+"short": "HCL Popești nr. 3/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51240",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-4-2022",
+"path": "local/iasi/popesti/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 4/2022",
+"short": "HCL Popești nr. 4/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51254",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popesti-5-2022",
+"path": "local/iasi/popesti/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 5/2022 privind ..Aprobarea organizării rețelei de învățământ preuniversitar de stat pentru anul școlar 2022–2023, a școlilor din comuna Popești, Jud. Iași, conform Anexei nr. 1 emisă de Inspectoratul Scolar Judetean Iasi",
+"short": "HCL Popești nr. 5/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51255",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-6-2022",
+"path": "local/iasi/popesti/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 6/2022 privind aprobarea Programului de activități culturale ale comunei Popești, Jud. Iași pentru anul 2022",
+"short": "HCL Popești nr. 6/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51256",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-7-2022",
+"path": "local/iasi/popesti/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 7/2022 privind aprobarea Planului de Acțiuni și Lucrări de Interes Local, întocmit în conformitate cu prevederile art.29, alin.(1) si (2) lit. a) și alin. (3) din Legea nr. 416/2001, al comunei Popești, Jud. Iași pentru anul 2022",
+"short": "HCL Popești nr. 7/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51257",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-9-2022",
+"path": "local/iasi/popesti/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 9/2022 privind ...Aprobarea Contului de Execuție bugetara , conform art.49, alin. (12) și (13) din Legea nr. 273/2006 a finanțelor publice locale pe cele doua secțiuni din trim. IV, an 2021",
+"short": "HCL Popești nr. 9/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51259",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-10-2022",
+"path": "local/iasi/popesti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 10/2022 privind .Aprobarea rezultatului inventarierii elementelor de natura activelor, datoriilor și capitalurilor proprii din cadrul primăriei comunei Popești, Jud. Iași – Rezultate obținute în urma inventarierii încheiate la 31.12.2021",
+"short": "HCL Popești nr. 10/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-20",
+"latest": "2022-01-20",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51260",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-11-2022",
+"path": "local/iasi/popesti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 11/2022 privind ..Aprobarea sumei de 100.072 lei reprezentând ajutor de încălzire a locuinței conform Dispozitiei Primarului nr. 47/01.02.2022, care va fi solicitată și suportată de la bugetul de stat",
+"short": "HCL Popești nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-08",
+"latest": "2022-02-08",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51261",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-12-2022",
+"path": "local/iasi/popesti/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 12/2022",
+"short": "HCL Popești nr. 12/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/popesti-is/registru-hcl/51266",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

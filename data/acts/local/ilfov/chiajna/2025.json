@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/chiajna/2025",
+"acts": [
+{
+"slug": "hcl-ilfov--chiajna-89-2025",
+"path": "local/ilfov/chiajna/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 89/2025 privind aprobarea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și amenzile aplicabile în anul fiscal 2026, în comuna Chiajna",
+"short": "HCL Chiajna nr. 89/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/243692",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

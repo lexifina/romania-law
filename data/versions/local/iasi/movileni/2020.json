@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/movileni/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--movileni-100-2020",
+   "path": "local/iasi/movileni/2020/100",
+   "short": "HCL Movileni nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 100/2020 privind aprobarea Planului de perfectionare profesionala a functionarilor publici si personalul contractual al Primariei comunei Movileni in anul 2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15089",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-101-2020",
+   "path": "local/iasi/movileni/2020/101",
+   "short": "HCL Movileni nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 101/2020 privind înființarea functiei publice de executie de inspector superior din cadrul Compartimentului administratie publică locala si secretariat administrativ",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15090",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-102-2020",
+   "path": "local/iasi/movileni/2020/102",
+   "short": "HCL Movileni nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 102/2020 privind privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 40",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15091",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-103-2020",
+   "path": "local/iasi/movileni/2020/103",
+   "short": "HCL Movileni nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 103/2020 privind .privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15092",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-104-2020",
+   "path": "local/iasi/movileni/2020/104",
+   "short": "HCL Movileni nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 104/2020 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15093",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-105-2020",
+   "path": "local/iasi/movileni/2020/105",
+   "short": "HCL Movileni nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 105/2020 privind privind rectificarea bugetului de venituri și cheltuieli aferentă anului 2020 -al comunei Movileni, jud. Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15094",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-106-2020",
+   "path": "local/iasi/movileni/2020/106",
+   "short": "HCL Movileni nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 106/2020 privind revocarea Hotărârilor Consiliului local Movileni nr.71/24.09.2020 și 72/24.09.2020",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15095",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-107-2020",
+   "path": "local/iasi/movileni/2020/107",
+   "short": "HCL Movileni nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 107/2020 privind aprobarea realizării obiectivului de investiții ,,Reabilitare drumuri de interes local în comuna Movileni ,județul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15096",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-108-2020",
+   "path": "local/iasi/movileni/2020/108",
+   "short": "HCL Movileni nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 108/2020 privind aprobarea înscrierii în Cartea funciară a drumurilor din Inventarul domeniului public al UAT Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15097",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-109-2020",
+   "path": "local/iasi/movileni/2020/109",
+   "short": "HCL Movileni nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 109/2020 privind aprobarea Planului de achizitii publice pentru anul 2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15098",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-110-2020",
+   "path": "local/iasi/movileni/2020/110",
+   "short": "HCL Movileni nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 110/2020 privind Graficul de ședințe al Consiliului local Movileni pe trim. I– 2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15099",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-112-2020",
+   "path": "local/iasi/movileni/2020/112",
+   "short": "HCL Movileni nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 112/2020 privind împuternicirea reprezentantului legal al comunei Movileni,primarul comunei,de a efectua operatiuni bancare în contul bancar la banca comerciala « UniCredit Bank »",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15101",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-94-2020",
+   "path": "local/iasi/movileni/2020/94",
+   "short": "HCL Movileni nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 94/2020 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Septembrie și Octombrie 2020",
+   "url": "https://emol.ro/movileni-is/registru-hcl/12554",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/12554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-95-2020",
+   "path": "local/iasi/movileni/2020/95",
+   "short": "HCL Movileni nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 95/2020 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/12555",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/12555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-96-2020",
+   "path": "local/iasi/movileni/2020/96",
+   "short": "HCL Movileni nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 96/2020 privind rectificarea bugetului de venituri și cheltuieli aferentă trim. IV al anului 2020 -al comunei Movileni, jud. Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/12556",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/12556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-97-2020",
+   "path": "local/iasi/movileni/2020/97",
+   "short": "HCL Movileni nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 97/2020 privind aprobarea Planului de actiuni sau de lucrari de interes local care urmeaza a fi prestate de catre beneficiarii de ajutor social in anul 2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15086",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-99-2020",
+   "path": "local/iasi/movileni/2020/99",
+   "short": "HCL Movileni nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 99/2020 privind aprobarea listei de taxe locale ,impozite și a altor sume care fac venit al bugetului local pentru anul 2021 în Comuna Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/15088",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/15088",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

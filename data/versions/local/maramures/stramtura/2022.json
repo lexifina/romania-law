@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/stramtura/2022",
+ "acts": [
+  {
+   "slug": "hcl-maramures--stramtura-1-2022",
+   "path": "local/maramures/stramtura/2022/1",
+   "short": "HCL Strâmtura nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 1/2022 privind utilizarea excedentului bugetar din anul 2021 ca sursă de finanțare a cheltuielilor la secțiunea de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/80987",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/80987",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

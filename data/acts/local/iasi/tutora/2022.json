@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/iasi/tutora/2022",
+"acts": [
+{
+"slug": "hcl-iasi--tutora-166-2022",
+"path": "local/iasi/tutora/2022/166",
+"kind": "local",
+"year": "2022",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 166/2022 privind rectificarea bugetului local pe trimestrul IV al anului 2022",
+"short": "HCL Țuțora nr. 166/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/86812",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-171-2022",
+"path": "local/iasi/tutora/2022/171",
+"kind": "local",
+"year": "2022",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 171/2022 privind aprobarea regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Țuțora, județul Iași",
+"short": "HCL Țuțora nr. 171/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/86817",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-177-2022",
+"path": "local/iasi/tutora/2022/177",
+"kind": "local",
+"year": "2022",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 177/2022 privind revocarea Hotărârii Consiliului Local Țuțora nr.152 din 10 noiembrie 2022 și aprobarea finanțării investiției de către DelGaz Grid SA pentru obiectivul: ”Realizare și dezvoltare rețea de distribuție gaze naturale în localitățile Chiperești și Oprișeni, aparținătoare comunei Țuțora, județul Iași”",
+"short": "HCL Țuțora nr. 177/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/86823",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-178-2022",
+"path": "local/iasi/tutora/2022/178",
+"kind": "local",
+"year": "2022",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 178/2022 privind aprobarea solicitării privind trecerea din domeniul public al Județului Iași și în administrarea DJADP Iași în domeniul public al UAT Comuna Țuțora a unui tronson din DJ 249D, identificat cu nr. cadastral 60470, al Județului Iași",
+"short": "HCL Țuțora nr. 178/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/86824",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-180-2022",
+"path": "local/iasi/tutora/2022/180",
+"kind": "local",
+"year": "2022",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 180/2022 privind alocarea de fonduri bănești din bugetul local pentru organizarea zilei dedicată ” Ziua Unirii Principatelor Române” din 24 ianuarie 2023",
+"short": "HCL Țuțora nr. 180/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/86826",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tutora-182-2022",
+"path": "local/iasi/tutora/2022/182",
+"kind": "local",
+"year": "2022",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 182/2022 privind delegarea serviciului de transport public către SOCIETATEA COMPANIA DE TRANSPORT PUBLIC IAȘI S.A și atribuirea directă a Contractului de delegare a gestiunii serviciului de transport public local",
+"short": "HCL Țuțora nr. 182/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/tutora-is/registru-hcl/86828",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

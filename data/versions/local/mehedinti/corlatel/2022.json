@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/corlatel/2022",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--corlatel-25-2022",
+   "path": "local/mehedinti/corlatel/2022/25",
+   "short": "HCL Corlățel nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 25/2022 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/82637",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/82637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-26-2022",
+   "path": "local/mehedinti/corlatel/2022/26",
+   "short": "HCL Corlățel nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 26/2022 privind alocarea unei sume de 10.900 RON din bugetul consiliului local al comunei Corlățel pentru cadourile de sărbătorile de iarnă ale anului 2022 la preşcolari și şcolarii Școlii Profesionale Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/82638",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/82638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-27-2022",
+   "path": "local/mehedinti/corlatel/2022/27",
+   "short": "HCL Corlățel nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 27/2022 privind completarea Nomenclatorului stradal al comunei Corlățel, județul Mehedinți",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/83790",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/83790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-28-2022",
+   "path": "local/mehedinti/corlatel/2022/28",
+   "short": "HCL Corlățel nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 28/2022 privind mandatarea reprezentantului Consiliului Local Corlățel în Adunarea Generală a Asociației pentru Managementul Serviciilor de Apă și de Canalizare Mehedinți pentru a vota aprobarea modificării Actului Constitutiv și Statutului Asociației",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/83791",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/83791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-29-2022",
+   "path": "local/mehedinti/corlatel/2022/29",
+   "short": "HCL Corlățel nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 29/2022 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Corlățel pe anul 2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/84465",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/84465",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/plugari/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--plugari-82-2022",
+   "path": "local/iasi/plugari/2022/82",
+   "short": "HCL Plugari nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 82/2022 privind alocarea sumelor necesare organizarii ,,Pomului de Craciun” si a festivitatilor ,,Datini si obiceiuri de iarna” din luna decembrie 2022",
+   "url": "https://emol.ro/plugari-is/registru-hcl/89272",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/89272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-85-2022",
+   "path": "local/iasi/plugari/2022/85",
+   "short": "HCL Plugari nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 85/2022 privind înființarea “Serviciului pentru gestionarea câinilor fără stăpân ”al comunei Plugari, judeţul Iași",
+   "url": "https://emol.ro/plugari-is/registru-hcl/89275",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/89275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-88-2022",
+   "path": "local/iasi/plugari/2022/88",
+   "short": "HCL Plugari nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 88/2022 privind modificare a HCL nr.92 din 13 decembrie 2021 privind reactualizarea Serviciului Voluntar pentru Situatii de Urgenta al comunei Plugari, judetul IASI",
+   "url": "https://emol.ro/plugari-is/registru-hcl/89288",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/89288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-92-2022",
+   "path": "local/iasi/plugari/2022/92",
+   "short": "HCL Plugari nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 92/2022 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+   "url": "https://emol.ro/plugari-is/registru-hcl/89292",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/89292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-97-2022",
+   "path": "local/iasi/plugari/2022/97",
+   "short": "HCL Plugari nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 97/2022 privind participarea la Programul de cresterea eficientei energetice a infrastructurii de iluminat public, pentru proiectul ,,Cresterea eficientei energetice a infrastructurii de iluminat public din comuna Plugari,judetul Iasi”si aprobarea devizului general-actualizat",
+   "url": "https://emol.ro/plugari-is/registru-hcl/89300",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/89300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-98-2022",
+   "path": "local/iasi/plugari/2022/98",
+   "short": "HCL Plugari nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 98/2022 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici, pentru proiectul ,,Cresterea eficientei energetice a infrastructurii de iluminat public din comuna Plugari,judetul Iasi”si aprobarea devizului general-actualizat",
+   "url": "https://emol.ro/plugari-is/registru-hcl/89301",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/89301",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/breznita-motru/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--breznita-motru-28-2025",
+"path": "local/mehedinti/breznita-motru/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 28/2025 privind aprobarea Devizului General Actualizat cu TVA 21% Rest de executat pentru obiectivul de investiții \"PROIECT TIP - CONSTRUIRE CENTRU DE COLECTARE DEȘEURI PRIN APORT VOLUNTAR - COMUNA BREZNIȚA-MOTRU, JUDEȚUL MEHEDINȚI\", prevăzută în cadrul componentei C3: MANAGEMENTUL DEȘEURILOR, SUBINVESTIȚIA I1.A.-ÎNFIINȚAREA DE CENTRE DE COLECTARE PRIN APORT VOLUNTAR din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în CADRUL APELULUI DE PROIECTE PNRR/2022/C3/S/I.1.A",
+"short": "HCL Breznița-Motru nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/breznita-motru-mh/registru-hcl/233239",
+"council": "mehedinti/breznita-motru",
+"council_name": "Consiliul Local al Comunei Breznița-Motru",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

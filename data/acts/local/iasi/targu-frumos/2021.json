@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/iasi/targu-frumos/2021",
+"acts": [
+{
+"slug": "hcl-iasi--targu-frumos-83-2021",
+"path": "local/iasi/targu-frumos/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 83/2021 privind alegerea președintelui de ședință pentru lunile octombrie, noiembrie și decembrie 2021",
+"short": "HCL Târgu Frumos nr. 83/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#9294",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-113-2021",
+"path": "local/iasi/targu-frumos/2021/113",
+"kind": "local",
+"year": "2021",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 113/2021 privind aprobarea contribuției Orașului Târgu Frumos, prin Consiliul local al orașului Târgu Frumos, la elaborarea Strategiei de Dezvoltare Locală a “Asociației de Dezvoltare Intercomunitară – Dezvoltare Sustenabilă și Integrată în Țara de Sus”",
+"short": "HCL Târgu Frumos nr. 113/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15358",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-128-2021",
+"path": "local/iasi/targu-frumos/2021/128",
+"kind": "local",
+"year": "2021",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 128/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+"short": "HCL Târgu Frumos nr. 128/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15374",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-130-2021",
+"path": "local/iasi/targu-frumos/2021/130",
+"kind": "local",
+"year": "2021",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 130/2021",
+"short": "HCL Târgu Frumos nr. 130/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

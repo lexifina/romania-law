@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/maramures/farcasa/2021",
+"acts": [
+{
+"slug": "hcl-maramures--farcasa-53-2021",
+"path": "local/maramures/farcasa/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 53/2021 privind deschiderea unei căi publice și atribuirea unei denumiri de stradă",
+"short": "HCL Fărcașa nr. 53/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40528",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-54-2021",
+"path": "local/maramures/farcasa/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 54/2021 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr. 25 din 28 mai 2020 privind atribuirea unor denumiri de străzi și pentru modificarea și completarea Hotărârii Consiliului local al comunei Fărcașa 76 din 28 noiembrie 2019 privind identificarea străzilor din comuna Fărcașa",
+"short": "HCL Fărcașa nr. 54/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40529",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-56-2021",
+"path": "local/maramures/farcasa/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 56/2021 privind declanșarea procedurii de trecere din domeniul public al comunei Fărcașa în domeniul public al județului Maramureș a imobilului—teren fără construcții, în suprafață de 204.145 m²",
+"short": "HCL Fărcașa nr. 56/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/40531",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-57-2021",
+"path": "local/maramures/farcasa/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 57/2021 privind aprobarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2022",
+"short": "HCL Fărcașa nr. 57/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-19",
+"latest": "2021-11-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/42986",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-61-2021",
+"path": "local/maramures/farcasa/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 61/2021 privind modificarea anexei la Hotărârea Consiliului local al comunei Fărcașa nr. 56 din 19 octombrie 2021 privind declanșarea procedurii de trecere din domeniul public al comunei Fărcașa în domeniul public al județului Maramureș a imobilului—teren fără construcții, în suprafață de 204.145 m²",
+"short": "HCL Fărcașa nr. 61/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-19",
+"latest": "2021-11-19",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/42990",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

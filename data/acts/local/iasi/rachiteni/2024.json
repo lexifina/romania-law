@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/iasi/rachiteni/2024",
+"acts": [
+{
+"slug": "hcl-iasi--rachiteni-21-2024",
+"path": "local/iasi/rachiteni/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 21/2024",
+"short": "HCL Răchiteni nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/166435",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-36-2024",
+"path": "local/iasi/rachiteni/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 36/2024 privind aprobarea participării Comunei Răchiteni în cadrul Programului privind creșterea eficienței energetică a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Eficientizarea sistemului de iluminat public din comuna Răchiteni, județul Iași”",
+"short": "HCL Răchiteni nr. 36/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/191030",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

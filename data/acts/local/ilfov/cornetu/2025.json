@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/ilfov/cornetu/2025",
+"acts": [
+{
+"slug": "hcl-ilfov--cornetu-51-2025",
+"path": "local/ilfov/cornetu/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 51/2025 privind aprobarea modificării cuantumului taxei speciale de salubrizare în comuna Cornetu, județul Ilfov, instituite prin Hotărârea Consiliului Local Cornetu nr. 28/09.07.2015",
+"short": "HCL Cornetu nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/218896",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-52-2025",
+"path": "local/ilfov/cornetu/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 52/2025 privind aprobarea Actului adițional nr.1 la Contractul de delegare a gestiunii serviciului de salubrizare în comuna Cornetu, județul Ilfov, aprobat prin HCL nr.17 din 24.03.2025",
+"short": "HCL Cornetu nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/223000",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-55-2025",
+"path": "local/ilfov/cornetu/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 55/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cornetu, județul Ilfov, pe anul 2025",
+"short": "HCL Cornetu nr. 55/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/227638",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-58-2025",
+"path": "local/ilfov/cornetu/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 58/2025 privind aprobarea Planului de acțiune pentru gestionarea cainilor fără stăpân din Comuna Cornetu, județul Ilfov",
+"short": "HCL Cornetu nr. 58/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/233288",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-60-2025",
+"path": "local/ilfov/cornetu/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 60/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cornetu, județul Ilfov, pe anul 2025",
+"short": "HCL Cornetu nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/233290",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-61-2025",
+"path": "local/ilfov/cornetu/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 61/2025",
+"short": "HCL Cornetu nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/233291",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-63-2025",
+"path": "local/ilfov/cornetu/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 63/2025 privind aprobarea execuției bugetului local de venituri și cheltuieli al Comunei Cornetu, județul Ilfov pentru trimestrul III al anului 2025",
+"short": "HCL Cornetu nr. 63/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/241429",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-64-2025",
+"path": "local/ilfov/cornetu/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 64/2025 privind aprobarea Planului Urbanistic Zonal pentru „Construcție Hangare - județul Ilfov, comuna Cornetu, Tarla 10, parcela 28/6, nr. cad. 57958, cu suprafața de 3808mp''",
+"short": "HCL Cornetu nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/241430",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-65-2025",
+"path": "local/ilfov/cornetu/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 65/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cornetu, județul Ilfov, pe anul 2025",
+"short": "HCL Cornetu nr. 65/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/241561",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-66-2025",
+"path": "local/ilfov/cornetu/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 66/2025 privind aprobarea rețelei școlare a unităților de învăţământ preuniversitar de stat de pe raza comunei Cornetu, judeţul Ilfov, cu structurile aferente, pentru anul școlar 2026-2027",
+"short": "HCL Cornetu nr. 66/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/244369",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-67-2025",
+"path": "local/ilfov/cornetu/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 67/2025 privind aprobarea Planului Urbanistic Zonal pentru „Ansamblu locuințe P+1E+M, funcțiuni complementare, amenajare circulații și utilități”",
+"short": "HCL Cornetu nr. 67/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/244370",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-69-2025",
+"path": "local/ilfov/cornetu/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 69/2025 privind stabilirea impozitelor, taxelor si tarifelor locale pentru anul 2026",
+"short": "HCL Cornetu nr. 69/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/244372",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

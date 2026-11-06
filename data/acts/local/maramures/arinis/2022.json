@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/maramures/arinis/2022",
+"acts": [
+{
+"slug": "hcl-maramures--arinis-3-2022",
+"path": "local/maramures/arinis/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 3/2022 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2021",
+"short": "HCL Ariniș nr. 3/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/54980",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-4-2022",
+"path": "local/maramures/arinis/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 4/2022 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru repartizarea orelor de muncă a beneficiarilor de ajutor social în condițiile Legii nr. 416/2001 privind venitul minim garantat",
+"short": "HCL Ariniș nr. 4/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/54981",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-5-2022",
+"path": "local/maramures/arinis/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 5/2022 privind aprobarea Planului de analiză și acoperire a riscurilor identificate la nivelul comunei Ariniș, județul Maramureș, pentru anul 2022",
+"short": "HCL Ariniș nr. 5/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/54982",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-7-2022",
+"path": "local/maramures/arinis/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 7/2022 privind organizarea Rețelei Școlare a unităților de învățământ preuniversitar de stat și particular de pe raza UA.T. Ariniș pentru anul școlar 2022-2023",
+"short": "HCL Ariniș nr. 7/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/54984",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-8-2022",
+"path": "local/maramures/arinis/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 8/2022 privind aprobarea denumirii unor străzi în Comuna Ariniș, Județul Maramureș",
+"short": "HCL Ariniș nr. 8/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/54977",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

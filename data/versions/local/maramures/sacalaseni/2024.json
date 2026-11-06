@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/sacalaseni/2024",
+ "acts": [
+  {
+   "slug": "hcl-maramures--sacalaseni-100-2024",
+   "path": "local/maramures/sacalaseni/2024/100",
+   "short": "HCL Săcălășeni nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 100/2024 privind prelungirea termenului de depunere a cererilor de anulare a obligatiilor fiscale accesorii restante la 31 august 2024",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/180375",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/180375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-104-2024",
+   "path": "local/maramures/sacalaseni/2024/104",
+   "short": "HCL Săcălășeni nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 104/2024 privind aprobarea achiziționării unor pachete de cadouri cu ocazia sărbătorii de iarnă „Nașterea Domnului-Crăciunul”, din anul 2024, pentru preșcolarii și elevii de la școlile din Comuna Săcălășeni și beneficiarii obiectivului social „Centrul de Îngrijire Bătrâni din satul Coruia”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/184433",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/184433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-107-2024",
+   "path": "local/maramures/sacalaseni/2024/107",
+   "short": "HCL Săcălășeni nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 107/2024 privind aprobarea participarii la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public si aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Creșterea eficienței energetice a infrastructurii de iluminat public în Comuna Săcălășeni, Județul Maramureș”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/184436",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/184436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-89-2024",
+   "path": "local/maramures/sacalaseni/2024/89",
+   "short": "HCL Săcălășeni nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 89/2024",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/177465",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/177465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-96-2024",
+   "path": "local/maramures/sacalaseni/2024/96",
+   "short": "HCL Săcălășeni nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 96/2024 privind aprobarea modificării, caracteristicilor unor posturi din cadrul obiectivului social „Centrul de Îngrijire Bătrâni din satul Coruia”, Comuna Săcălășeni, judeţul Maramureș, ”Regulamentului de organizare si funcționare a serviciului social”, „Organigramei” și „Statului de Funcții”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/180371",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/180371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-98-2024",
+   "path": "local/maramures/sacalaseni/2024/98",
+   "short": "HCL Săcălășeni nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 98/2024",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/180373",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/180373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-99-2024",
+   "path": "local/maramures/sacalaseni/2024/99",
+   "short": "HCL Săcălășeni nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 99/2024 privind participarea Comunei SĂCĂLĂȘENI la cofinanţarea proiectului „Proiectul regional de dezvoltare a infrastructurii de apă şi apă uzată din Judeţul Maramureș\"",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/180374",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/180374",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

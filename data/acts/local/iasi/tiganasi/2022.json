@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/tiganasi/2022",
+"acts": [
+{
+"slug": "hcl-iasi--tiganasi-111-2022",
+"path": "local/iasi/tiganasi/2022/111",
+"kind": "local",
+"year": "2022",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 111/2022 privind stabilirea nivelului unor taxe la nivelul comunei Țigănași aplicabile începând cu data de 01.01.2023",
+"short": "HCL Țigănași nr. 111/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/83001",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-113-2022",
+"path": "local/iasi/tiganasi/2022/113",
+"kind": "local",
+"year": "2022",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 113/2022 privind aprobarea Regulamentului privind concesionarea, închirierea și vânzarea bunurilor imobile ce aparțin comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 113/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/83003",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

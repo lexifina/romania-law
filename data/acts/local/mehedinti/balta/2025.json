@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/balta/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--balta-52-2025",
+"path": "local/mehedinti/balta/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 52/2025 privind aprobarea proiectului și a cheltuielilor legate de proiect Creșterea eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie a Școlii din satul Balta, comuna Balta",
+"short": "HCL Balta nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/balta-mh/registru-hcl/254159",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-53-2025",
+"path": "local/mehedinti/balta/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 53/2025 privind probarea proiectului și a cheltuielilor legate de proiect Creșterea eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie a Spitalului din satul Balta, comuna Balta",
+"short": "HCL Balta nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/balta-mh/registru-hcl/254160",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

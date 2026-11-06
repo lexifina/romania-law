@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/popesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--popesti-91-2023",
+   "path": "local/iasi/popesti/2023/91",
+   "short": "HCL Popești nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 91/2023 privind aprobarea modificărilor tehnice efectuate prin dispoziția de șantier nr. 1/2023 și a Devizului general reactualizat pentru Obiectivul de investiție MODERNIZARE SECTOR DRUM DC 36 PE O LUNGIME DE 150 DE METRI, ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI",
+   "url": "https://emol.ro/popesti-is/registru-hcl/145289",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/145289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-92-2023",
+   "path": "local/iasi/popesti/2023/92",
+   "short": "HCL Popești nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 92/2023 privind aprobarea modificărilor tehnice efectuate prin dispoziția de șantier nr. 1/2023 și a Devizului general reactualizat pentru Obiectivul de investiție REFACERE SISTEM RUTIER PE STRADA BISERICII ÎN SAT DOROȘCANI, COMUNA POPEȘTI, JUDEȚUL IAȘI",
+   "url": "https://emol.ro/popesti-is/registru-hcl/145290",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/145290",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

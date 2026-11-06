@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/ilfov/peris/2025",
+"acts": [
+{
+"slug": "hcl-ilfov--peris-47-2025",
+"path": "local/ilfov/peris/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 47/2025",
+"short": "HCL Periș nr. 47/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/peris-if/registru-hcl/230209",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--peris-49-2025",
+"path": "local/ilfov/peris/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 49/2025 privind aprobarea rețelei școlare de învătământ preuniversitar de stat din comuna Periș, reorganizată urmare a fuzionării prin absorbție",
+"short": "HCL Periș nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-19",
+"latest": "2025-09-19",
+"portal": "https://emol.ro/peris-if/registru-hcl/231250",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-50-2025",
+"path": "local/ilfov/peris/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 50/2025 privind aprobarea contului de execuție a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe trim.III/2025",
+"short": "HCL Periș nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/peris-if/registru-hcl/235733",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-51-2025",
+"path": "local/ilfov/peris/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 51/2025 privind aprobarea situației patrimoniului aflat în administrarea UAT Periș, județul Ilfov, la data de 30.09.2025",
+"short": "HCL Periș nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://emol.ro/peris-if/registru-hcl/235734",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

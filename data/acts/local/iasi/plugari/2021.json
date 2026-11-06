@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/iasi/plugari/2021",
+"acts": [
+{
+"slug": "hcl-iasi--plugari-80-2021",
+"path": "local/iasi/plugari/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 80/2021 privind aprobarea cererii de finantare si a devizului general estimativ pentru depunerea la Ministerul Dezvoltarii,Lucrarilor Publice si Administratiei a proiectului privind obiectivul ,,Reabilitare drumuri de interes local in comuna Plugari”",
+"short": "HCL Plugari nr. 80/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-22",
+"latest": "2021-10-22",
+"portal": "https://emol.ro/plugari-is/registru-hcl/41974",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-81-2021",
+"path": "local/iasi/plugari/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 81/2021 privind aprobarea ajustarii prin actualizare a preturilor aferente materialelor pentru obiectivul de investiție: ,,Demolare si construire gradinita cu program normal din sat Borosoaia, comuna Plugari,judetul Iasi”",
+"short": "HCL Plugari nr. 81/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-22",
+"latest": "2021-10-22",
+"portal": "https://emol.ro/plugari-is/registru-hcl/41975",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-82-2021",
+"path": "local/iasi/plugari/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 82/2021 privind aprobarea ajustarii prin actualizare a preturilor aferente materialelor pentru obiectivul de investiție: ,,Demolare si construire scoala gimnaziala in comuna Plugari, sat Borosoaia,judetul Iasi”",
+"short": "HCL Plugari nr. 82/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-22",
+"latest": "2021-10-22",
+"portal": "https://emol.ro/plugari-is/registru-hcl/41976",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-83-2021",
+"path": "local/iasi/plugari/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 83/2021 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale,pentru anul fiscal 2022",
+"short": "HCL Plugari nr. 83/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/plugari-is/registru-hcl/44742",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-87-2021",
+"path": "local/iasi/plugari/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 87/2021 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli in trim.IV, anul 2021",
+"short": "HCL Plugari nr. 87/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/plugari-is/registru-hcl/44746",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-88-2021",
+"path": "local/iasi/plugari/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 88/2021 privind modificarea si completarea Listei de investitii in trim.IV,anul 2021, cu finantare partiala sau integrala de la buget",
+"short": "HCL Plugari nr. 88/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/plugari-is/registru-hcl/44747",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-89-2021",
+"path": "local/iasi/plugari/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 89/2021 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli in trim.IV, anul 2021",
+"short": "HCL Plugari nr. 89/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/plugari-is/registru-hcl/47278",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-90-2021",
+"path": "local/iasi/plugari/2021/90",
+"kind": "local",
+"year": "2021",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 90/2021 privind modificarea si completarea Listei de investitii in trim.IV,anul 2021,cu finantare partiala sau integrala de la buget",
+"short": "HCL Plugari nr. 90/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/plugari-is/registru-hcl/47279",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-95-2021",
+"path": "local/iasi/plugari/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 95/2021 privind participarea la Programul de crestere a eficientei energetice a infrastructurii de iluminat public,aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul ”Cresterea eficientei energetice a infrastructurii de iluminat public in comuna Plugari”",
+"short": "HCL Plugari nr. 95/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/plugari-is/registru-hcl/47284",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-96-2021",
+"path": "local/iasi/plugari/2021/96",
+"kind": "local",
+"year": "2021",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 96/2021 privind participarea la ,,Programul de reducere a emisiilor de gaze cu effect de sera in transporturi,prin promovarea infrastucturii pentru vehicule de transport rutier nepoluant din punct de vedere energetic:statii de reancarcare pentru vehicule electrice in COMUNA PLUGARI”",
+"short": "HCL Plugari nr. 96/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/plugari-is/registru-hcl/47285",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-98-2021",
+"path": "local/iasi/plugari/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 98/2021 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli in trim.IV,anul 2021",
+"short": "HCL Plugari nr. 98/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/plugari-is/registru-hcl/47287",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-99-2021",
+"path": "local/iasi/plugari/2021/99",
+"kind": "local",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 99/2021 privind modificarea si completarea Listei de investitii in trim.IV,anul 2021, cu finantare partiala sau integrala de la buget",
+"short": "HCL Plugari nr. 99/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/plugari-is/registru-hcl/47288",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

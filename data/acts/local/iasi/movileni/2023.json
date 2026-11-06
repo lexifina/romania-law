@@ -89,6 +89,358 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-iasi--movileni-152-2023",
+"path": "local/iasi/movileni/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 152/2023 privind modificarea bugetului general de venituri și cheltuieli al comunei Movileni aferent trimestrului IV al anului 2023",
+"short": "HCL Movileni nr. 152/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/movileni-is/registru-hcl/132444",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-153-2023",
+"path": "local/iasi/movileni/2023/153",
+"kind": "local",
+"year": "2023",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 153/2023 privind aprobarea listei de taxe locale ,impozite și a altor sume care fac venit al bugetului local pentru anul 2024 în Comuna Movileni",
+"short": "HCL Movileni nr. 153/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133626",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-154-2023",
+"path": "local/iasi/movileni/2023/154",
+"kind": "local",
+"year": "2023",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 154/2023 privind Planului de ocupare a funcțiilor publice din cadrul aparatului de specialitate al primarului comunei Movileni ,județul Iași, în anul 2024",
+"short": "HCL Movileni nr. 154/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133627",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-155-2023",
+"path": "local/iasi/movileni/2023/155",
+"kind": "local",
+"year": "2023",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 155/2023 privind aprobarea Planului de perfectionare profesionala a functionarilor publici si personalul contractual al Primariei comunei Movileni in anul 2024",
+"short": "HCL Movileni nr. 155/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133628",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-156-2023",
+"path": "local/iasi/movileni/2023/156",
+"kind": "local",
+"year": "2023",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 156/2023 privind aprobarea Planului de acțiuni sau de lucrari de interes local care urmeaza a fi prestate de catre beneficiarii de ajutor social și de persoanele obligate la executarea/prestarea muncii neremunerate in folosul comunității in anul 2024",
+"short": "HCL Movileni nr. 156/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133629",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-157-2023",
+"path": "local/iasi/movileni/2023/157",
+"kind": "local",
+"year": "2023",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 157/2023 privind aprobarea Planului de acțiuni sau de lucrări de interes local care urmeaza a fi prestate de catre Compartimentul gospodărire comunală în anul 2024”",
+"short": "HCL Movileni nr. 157/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133630",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-158-2023",
+"path": "local/iasi/movileni/2023/158",
+"kind": "local",
+"year": "2023",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 158/2023 privind aprobarea Strategiei anuale de achiziții publice pe anul 2024 a Primăriei comunei Movileni și a Planului de achizitii publice pentru anul 2024",
+"short": "HCL Movileni nr. 158/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133631",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-159-2023",
+"path": "local/iasi/movileni/2023/159",
+"kind": "local",
+"year": "2023",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 159/2023 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada ianuarie,februarie și martie 2024",
+"short": "HCL Movileni nr. 159/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133632",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-160-2023",
+"path": "local/iasi/movileni/2023/160",
+"kind": "local",
+"year": "2023",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 160/2023 privind Graficul de sedințe al Consiliului local Movileni pe trim. I– 2024",
+"short": "HCL Movileni nr. 160/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133633",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-161-2023",
+"path": "local/iasi/movileni/2023/161",
+"kind": "local",
+"year": "2023",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 161/2023 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Noiembrie 2023",
+"short": "HCL Movileni nr. 161/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133634",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-162-2023",
+"path": "local/iasi/movileni/2023/162",
+"kind": "local",
+"year": "2023",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 162/2023 privind aprobarea Normelor procedurale interne pentru contractarea și garantarea de finanțări rambursabile pentru Unitatea administrativ-teritorială comuna Movileni",
+"short": "HCL Movileni nr. 162/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133635",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-163-2023",
+"path": "local/iasi/movileni/2023/163",
+"kind": "local",
+"year": "2023",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 163/2023 privind aprobarea documentației tehnico-economică privind investitia „ Modernizare infrastructura rutiera in comuna Movileni, judetul Iasi”",
+"short": "HCL Movileni nr. 163/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133636",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-164-2023",
+"path": "local/iasi/movileni/2023/164",
+"kind": "local",
+"year": "2023",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 164/2023 privind implementarea proiectului „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ IN COMUNA MOVILENI, JUDETUL IAȘI”",
+"short": "HCL Movileni nr. 164/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133637",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-165-2023",
+"path": "local/iasi/movileni/2023/165",
+"kind": "local",
+"year": "2023",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 165/2023 privind modificarea bugetului general de venituri și cheltuieli al comunei Movileni aferent trimestrului IV al anului 2023",
+"short": "HCL Movileni nr. 165/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133638",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-166-2023",
+"path": "local/iasi/movileni/2023/166",
+"kind": "local",
+"year": "2023",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 166/2023 privind alocarea din bugetul local a sumei de 32.000 lei pentru organizarea evenimentului ,,Datini si obiceiuri de iarna 2023 si Moș Crăciun pentru copiii din comuna Movileni,,",
+"short": "HCL Movileni nr. 166/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/movileni-is/registru-hcl/133639",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-167-2023",
+"path": "local/iasi/movileni/2023/167",
+"kind": "local",
+"year": "2023",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 167/2023 privind aprobarea contractării și garantării unei finanțări rambursabile interne in valoare de 5.582.611 lei",
+"short": "HCL Movileni nr. 167/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/134049",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "source"
+}
 }
 ]
 }

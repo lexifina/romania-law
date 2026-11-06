@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/iasi/popesti/2025",
+"acts": [
+{
+"slug": "hcl-iasi--popesti-97-2025",
+"path": "local/iasi/popesti/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 97/2025 privind aprobarea Regulamentului privind activitățile de tăiere,toaletare, depozitare și valorificare a lemnului rezultat din spațiile verzi și alte terenuri cu vegetație forestieră situate în intravilanul comunei Popești, județul Iași",
+"short": "HCL Popești nr. 97/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/237191",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-103-2025",
+"path": "local/iasi/popesti/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 103/2025 privind instituirea taxei speciale pentru prestarea serviciului de iluminat public începând cu anul 2026 în comuna Popești, județul Iași",
+"short": "HCL Popești nr. 103/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/popesti-is/registru-hcl/242524",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-106-2025",
+"path": "local/iasi/popesti/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 106/2025 privind stabilirea impozitelor şi taxelor locale pentru anul 2026",
+"short": "HCL Popești nr. 106/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/popesti-is/registru-hcl/242527",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

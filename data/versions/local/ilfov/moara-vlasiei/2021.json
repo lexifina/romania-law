@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/moara-vlasiei/2021",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-1-2021",
+   "path": "local/ilfov/moara-vlasiei/2021/1",
+   "short": "HCL Moara Vlăsiei nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 1/2021",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/40317",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/40317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-2-2021",
+   "path": "local/ilfov/moara-vlasiei/2021/2",
+   "short": "HCL Moara Vlăsiei nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 2/2021 privind organizarea rețelei școlare la nivelul comunei Moara Vlăsiei pentru anul școla 2020-2021",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/40318",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/40318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-3-2021",
+   "path": "local/ilfov/moara-vlasiei/2021/3",
+   "short": "HCL Moara Vlăsiei nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 3/2021 privind trecerea din domeniul public al comunei Moara Vlăsiei în domeniul privat al comunei a unui număr de 70 loturi dezmembrate, situate în comuna Moara Vlăsiei, identificate prin numerele cadastrale NC 58616 - NC 58685",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/40319",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/40319",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

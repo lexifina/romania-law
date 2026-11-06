@@ -3,6 +3,366 @@
  "shard": "local/mehedinti/baia-de-arama/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--baia-de-arama-1-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/1",
+   "short": "HCL Baia de Aramă nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 1/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar pentru anul școlar 2024/2025",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/137014",
+   "versions": [
+    {
+     "from": "2024-01-24",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/137014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-11-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/11",
+   "short": "HCL Baia de Aramă nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 11/2024 privind aprobarea studiului de fezabilitate / indicatorilor tehnico - economici actualizați și a devizului general actualizat pentru obiectivul de investiții „REABILITARE DRUMURI ȘI CONSTRUIRE PODURI, UAT BAIA DE ARAMĂ, JUDEȚUL MEHEDINȚI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141549",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-12-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/12",
+   "short": "HCL Baia de Aramă nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 12/2024 privind aprobarea indicatorilor tehnico - economici aferenți obiectivului de investiție ,,ACTUALIZARE PLAN URBANISTIC GENERAL ȘI REGULAMENT LOCAL DE URBANISM, ORAȘ BAIA DE ARAMĂ, JUDEȚUL MEHEDINȚI\"",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/143660",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/143660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-13-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/13",
+   "short": "HCL Baia de Aramă nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 13/2024 privind aprobarea organigramei, statului de funcții și normarea personalului Spitalului Orășenesc Baia de Aramă",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/143661",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/143661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-14-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/14",
+   "short": "HCL Baia de Aramă nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 14/2024 privind aprobarea bugetului orașului Baia de Aramă pentru anul 2024",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/143662",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/143662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-15-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/15",
+   "short": "HCL Baia de Aramă nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 15/2024 pentru modificarea HCL nr. 48/31.08.2023 privind aprobarea proiectului ,, Investiții în sisteme informatice și în infrastructura digitală a Spitalului Orășenesc Baia de Aramă”, a cheltuielilor legate de proiect și a parteneriatului aferent proiectului, în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/144989",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/144989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-18-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/18",
+   "short": "HCL Baia de Aramă nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 18/2024 pentru modificarea HCL nr. 76/27.12.2023 privind indexarea impozitelor și taxelor locale, respectiv actualizarea limitelor amenzilor prevăzute la alin. (3) și (4) ale art. 493 din Legea nr. 227/2015 privind Codul fiscal, pentru anul 2024, cu rata inflației",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/147080",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/147080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-20-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/20",
+   "short": "HCL Baia de Aramă nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 20/2024 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2024, care urmează să le presteze persoanele apte de muncă din familiile beneficiare de venit minim de incluziune, conform Legii nr. 196/2016, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/147082",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/147082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-22-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/22",
+   "short": "HCL Baia de Aramă nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 22/2024 privind aprobarea studiului de fezabilitate / indicatorilor tehnico - economici actualizați și a devizului general actualizat pentru obiectivul de investiții „REABILITARE DRUMURI ȘI CONSTRUIRE PODURI, UAT BAIA DE ARAMĂ, JUDEȚUL MEHEDINȚI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/148076",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/148076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-23-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/23",
+   "short": "HCL Baia de Aramă nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 23/2024 privind aprobarea documentației tehnico - economice (faza PT), a indicatorilor tehnico - economici și a devizului general pentru proiectul ,,RENOVARE ENERGETICĂ A SPITALULUI ORĂȘENESC BAIA DE ARAMĂ\"",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/148077",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/148077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-24-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/24",
+   "short": "HCL Baia de Aramă nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 24/2024 privind aprobarea documentației tehnico - economice (faza PT), a indicatorilor tehnico - economici și a devizului general pentru proiectul ,,RENOVARE ENERGETICĂ SPITALUL ORĂȘENESC BAIA DE ARAMĂ - CORP C11\"",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/148078",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/148078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-25-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/25",
+   "short": "HCL Baia de Aramă nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 25/2024 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Baia de Aramă a imobilelor C2 - anexă, C3 - anexă, C4 - anexă, construcții înscrise în CF nr. 50244 Baia de Aramă și aprobarea demolării acestora",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/148079",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/148079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-27-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/27",
+   "short": "HCL Baia de Aramă nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 27/2024 privind rectificarea bugetului de venituri proprii și subvenții al Spitalului Orășenesc Baia de Aramă",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/150660",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/150660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-28-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/28",
+   "short": "HCL Baia de Aramă nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 28/2024 privind utilizarea excedentului bugetar înregistrat la 31.12.2023 de către Spitalul Orășenesc Baia de Aramă",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/150661",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/150661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-3-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/3",
+   "short": "HCL Baia de Aramă nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 3/2024 privind mandatarea reprezentantului Consiliului Local al orașului Baia de Aramă în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141160",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-30-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/30",
+   "short": "HCL Baia de Aramă nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 30/2024 privind aprobarea încheierii unui acord de asociere între UAT oraș Baia de Aramă, județul Mehedinți și UAT județul Mehedinți în vederea realizării obiectivului de interes public ,,Amenajare Interioară și Dotare Piață Agroalimentară Deschisă în orașul Baia de Aramă\"",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/151476",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/151476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-31-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/31",
+   "short": "HCL Baia de Aramă nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 31/2024 privind rectificarea bugetului local al orașului Baia de Aramă pentru anul 2024",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/151477",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/151477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-32-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/32",
+   "short": "HCL Baia de Aramă nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 32/2024 privind rectificarea bugetului local al orașului Baia de Aramă pentru anul 2024",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/154653",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/154653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-35-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/35",
+   "short": "HCL Baia de Aramă nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 35/2024 privind aprobarea studiului de fezabilitate pentru obiectivul de investiție „ÎNFIINȚARE SISTEM DE DISTRIBUȚIE GAZE NATURALE ÎN UAT BAIA DE ARAMĂ, JUDEȚU MEHEDINȚI, CU SATELE APARȚINĂTOARE: BAIA DE ARAMĂ, (reședință), STĂNEȘTI, MĂRĂȘEȘTI, BRATILOVU, TITERLEȘTI, BREBINA, NEGOIEȘTI, PISTRIȚA, DEALU MARE”",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/158228",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/158228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-36-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/36",
+   "short": "HCL Baia de Aramă nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 36/2024 privind aprobarea calendarului de programe/activități culturale la nivelul orașului Baia de Aramă, județul Mehedinți, aferente anului 2024",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/159852",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/159852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-39-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/39",
+   "short": "HCL Baia de Aramă nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 39/2024 privind modificarea și aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului orașului Baia de Aramă și a serviciilor publice subordonate fără personalitate juridică",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/161403",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/161403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-4-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/4",
+   "short": "HCL Baia de Aramă nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 4/2024 privind mandatarea reprezentantului Consiliului Local al orașului Baia de Aramă în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Statutului Asociaţiei",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141161",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-42-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/42",
+   "short": "HCL Baia de Aramă nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 42/2024 pentru completarea HCL nr. 39/30.06.2024 privind modificarea și aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului orașului Baia de Aramă și a serviciilor publice subordonate fără personalitate juridică",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/162346",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/162346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-43-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/43",
+   "short": "HCL Baia de Aramă nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 43/2024 privind modificarea și completarea Listei de investiții aferentă bugetului local al orașului Baia de Aramă, pentru anul 2024",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/162347",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/162347",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--baia-de-arama-46-2024",
    "path": "local/mehedinti/baia-de-arama/2024/46",
    "short": "HCL Baia de Aramă nr. 46/2024",
@@ -43,6 +403,21 @@
      "from": "2024-09-13",
      "units": 1,
      "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/164593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-5-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/5",
+   "short": "HCL Baia de Aramă nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 5/2024 privind aprobarea ajustării tarifului aferent activităților specifice serviciului de iluminat public, practicat de Serviciul Local de Salubrizare și Iluminat Public Baia de Aramă",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141162",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141162",
      "sha256": null
     }
    ]
@@ -108,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--baia-de-arama-6-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/6",
+   "short": "HCL Baia de Aramă nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 6/2024 privind aprobarea ajustării tarifului aferent activității de măturat manual, practicat de Serviciul Local de Salubrizare și Iluminat Public Baia de Aramă",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141163",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141163",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--baia-de-arama-60-2024",
    "path": "local/mehedinti/baia-de-arama/2024/60",
    "short": "HCL Baia de Aramă nr. 60/2024",
@@ -163,6 +553,21 @@
      "from": "2025-02-04",
      "units": 1,
      "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/176706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-7-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/7",
+   "short": "HCL Baia de Aramă nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 7/2024 privind constituirea Consiliului Comunitar Consultativ al orașului Baia de Aramă și aprobarea Regulamentului de organizare și funcționare al Consiliului Consultativ al orașului Baia de Aramă",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141164",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141164",
      "sha256": null
     }
    ]
@@ -243,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--baia-de-arama-8-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/8",
+   "short": "HCL Baia de Aramă nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 8/2024 privind aprobarea tarifului distinct pentru gestionarea deșeurilor reziduale, respectiv a tarifului distinct pentru gestionarea deșeurilor reciclabile",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141165",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141165",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--baia-de-arama-80-2024",
    "path": "local/mehedinti/baia-de-arama/2024/80",
    "short": "HCL Baia de Aramă nr. 80/2024",
@@ -298,6 +718,21 @@
      "from": "2025-02-04",
      "units": 1,
      "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/185320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-9-2024",
+   "path": "local/mehedinti/baia-de-arama/2024/9",
+   "short": "HCL Baia de Aramă nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 9/2024 privind darea în folosință gratuită a unui spațiu din cadrul clădirii Școala Generală Titerlești, situată în oraș Baia de Aramă, sat Titerlești, județul Mehedinți, în favoarea Palatului Copiilor Drobeta Turnu Severin",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/141166",
+   "versions": [
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/141166",
      "sha256": null
     }
    ]

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/maramures/farcasa/2024",
+"acts": [
+{
+"slug": "hcl-maramures--farcasa-47-2024",
+"path": "local/maramures/farcasa/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 47/2024 privind modificarea și completarea unor hotărâri ale Consiliului local al comunei Fărcașa",
+"short": "HCL Fărcașa nr. 47/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/186652",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-48-2024",
+"path": "local/maramures/farcasa/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 48/2024 privind organizarea şi funcţionarea serviciului de utilităţi publice - serviciul public de alimentare cu apă şi de canalizare - al comunei Fărcașa, judeţul Maramureș",
+"short": "HCL Fărcașa nr. 48/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/186653",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-49-2024",
+"path": "local/maramures/farcasa/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 49/2024 privind aprobarea cotei corepunzătoare pierderilor de apă din sistemul de alimentare cu apă al comunei Fărcașa, judeţul Maramureș",
+"short": "HCL Fărcașa nr. 49/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/186654",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-50-2024",
+"path": "local/maramures/farcasa/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 50/2024 privind cantitatea de apã uzatã evacuatã de utilizatorii serviciului public de alimentare cu apă şi de canalizare în comuna Fărcașa, judeţul Maramureș",
+"short": "HCL Fărcașa nr. 50/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/186655",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-56-2024",
+"path": "local/maramures/farcasa/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 56/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2025",
+"short": "HCL Fărcașa nr. 56/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-27",
+"latest": "2025-01-27",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/186834",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

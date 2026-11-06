@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/maramures/stramtura/2024",
+"acts": [
+{
+"slug": "hcl-maramures--stramtura-35-2024",
+"path": "local/maramures/stramtura/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 35/2024 privind rectificarea bugetului comunei Strâmtura pe anul 2024",
+"short": "HCL Strâmtura nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/stramtura-mm/registru-hcl/211529",
+"council": "maramures/stramtura",
+"council_name": "Consiliul Local al Comunei Strâmtura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--stramtura-36-2024",
+"path": "local/maramures/stramtura/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 36/2024 privind aprobarea participării Comunei Strâmtura, Județul Maramureș, în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Modernizarea sistemului de iluminat public stradal, în comuna Strâmtura - Județu l Maramureș”",
+"short": "HCL Strâmtura nr. 36/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/stramtura-mm/registru-hcl/211535",
+"council": "maramures/stramtura",
+"council_name": "Consiliul Local al Comunei Strâmtura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--stramtura-37-2024",
+"path": "local/maramures/stramtura/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 37/2024 privind rectificarea bugetului comunei Strâmtura pe anul 2024",
+"short": "HCL Strâmtura nr. 37/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/stramtura-mm/registru-hcl/211531",
+"council": "maramures/stramtura",
+"council_name": "Consiliul Local al Comunei Strâmtura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--stramtura-38-2024",
+"path": "local/maramures/stramtura/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 38/2024 privind constituirea Comisiilor de specialitate a Consiliului local al Comunei Strâmtura",
+"short": "HCL Strâmtura nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/stramtura-mm/registru-hcl/211546",
+"council": "maramures/stramtura",
+"council_name": "Consiliul Local al Comunei Strâmtura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--stramtura-40-2024",
+"path": "local/maramures/stramtura/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 40/2024 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Strâmtura pentru unităţile de învăţământ de stat în anul şcolar 2025-2026",
+"short": "HCL Strâmtura nr. 40/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/stramtura-mm/registru-hcl/211533",
+"council": "maramures/stramtura",
+"council_name": "Consiliul Local al Comunei Strâmtura",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--stramtura-41-2024",
+"path": "local/maramures/stramtura/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 41/2024",
+"short": "HCL Strâmtura nr. 41/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/stramtura-mm/registru-hcl/211534",
+"council": "maramures/stramtura",
+"council_name": "Consiliul Local al Comunei Strâmtura",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

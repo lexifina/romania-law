@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/ardusat/2020",
+ "acts": [
+  {
+   "slug": "hcl-maramures--ardusat-10-2020",
+   "path": "local/maramures/ardusat/2020/10",
+   "short": "HCL Ardusat nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 10/2020 privind alegerea președintelui de ședință pe o perioadă de trei luni",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2019",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-11-2020",
+   "path": "local/maramures/ardusat/2020/11",
+   "short": "HCL Ardusat nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 11/2020 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții,, Înființare distribuție gaz metan în localitățile Ardusat,Arieșul de Câmp, Colțirea",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2020",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-12-2020",
+   "path": "local/maramures/ardusat/2020/12",
+   "short": "HCL Ardusat nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 12/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2021",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-13-2020",
+   "path": "local/maramures/ardusat/2020/13",
+   "short": "HCL Ardusat nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 13/2020 privind modificarea și completarea Regulamentului de organizare și funcționare al Consiliului local Ardusat",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2022",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-14-2020",
+   "path": "local/maramures/ardusat/2020/14",
+   "short": "HCL Ardusat nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 14/2020 privind aprobarea actualizarii devizului general si a principalilor indicatori tehnico-economici pentru obiectivul de investitii”MODERNIZAREA RETELEI DE DRUMURI DE INTERES LOCAL IN COMUNA ARDUSAT,JUDETUL MARAMURES”",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/10615",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/10615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-15-2020",
+   "path": "local/maramures/ardusat/2020/15",
+   "short": "HCL Ardusat nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 15/2020 privind aprobarea indicatorilor tehnico economici si a documentatiei faza proiect tehnic-detalii de exeutie aferenta obiectivului de investitii” REABILITARE SI MODERNIZARE STRAZI IN LOCALITATEA COLTIREA, COMUNA ARDUSAT, JUDETUL MARAMURES",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/10616",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/10616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-16-2020",
+   "path": "local/maramures/ardusat/2020/16",
+   "short": "HCL Ardusat nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 16/2020 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei ARDUSAT, Trimestrul II, pe anul 2020;",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11139",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-17-2020",
+   "path": "local/maramures/ardusat/2020/17",
+   "short": "HCL Ardusat nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 17/2020 privind alegerea președintelului de ședință pe o perioadă de trei luni pentru şedinţele Consiliului local al Comunei Ardusat, jud.Maramureș",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11140",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-18-2020",
+   "path": "local/maramures/ardusat/2020/18",
+   "short": "HCL Ardusat nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 18/2020 privind rectificarea Bugetului local de Venituri și Cheltuieli al comunei ARDUSAT, anul 2020",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11145",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-19-2020",
+   "path": "local/maramures/ardusat/2020/19",
+   "short": "HCL Ardusat nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 19/2020 privind aprobarea pretului de pornire la licitatie pentru materialul lemnos din partida 1638456 IG",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11146",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-20-2020",
+   "path": "local/maramures/ardusat/2020/20",
+   "short": "HCL Ardusat nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 20/2020 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei ARDUSAT, pe anul 2020;",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11147",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-21-2020",
+   "path": "local/maramures/ardusat/2020/21",
+   "short": "HCL Ardusat nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 21/2020 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei ARDUSAT, Trimestrul III pe anul 2020;",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11207",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-22-2020",
+   "path": "local/maramures/ardusat/2020/22",
+   "short": "HCL Ardusat nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 22/2020 privind aprobarea notei conceptuale si a temei de proiectare pentru obiectivul de investitii „ Grupuri Sanitare Interioare Noi la Scoala Gimnaziala Ardusat, jud. Maramures",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11208",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-23-2020",
+   "path": "local/maramures/ardusat/2020/23",
+   "short": "HCL Ardusat nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 23/2020 privind aprobarea preţului de referinţă pe specii/grupe de specii, pe grade de accesibilitate, sortimente și natura produsului, pentru masa lemnoasă provenită din fondul forestier proprietate publică a comunei Ardusat pentru anul 2021",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11209",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-24-2020",
+   "path": "local/maramures/ardusat/2020/24",
+   "short": "HCL Ardusat nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 24/2020 privind punerea la dispozitia proiectului „Sistem informational pentru managementul integrat al apelor-etapa II” dezvoltat de catre Administratia Nationala „ Apele Romane” a terenului pentru constructia/extinderea/reabilitarea noilor investitii aferente acestuia",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/11210",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/11210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-6-2020",
+   "path": "local/maramures/ardusat/2020/6",
+   "short": "HCL Ardusat nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 6/2020 privind aprobarea implementarii proiectului Dezvoltarea sistemului de asistenta sociala si combaterea saraciei si a excluziunii sociale cad SMIS 126924",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2015",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-7-2020",
+   "path": "local/maramures/ardusat/2020/7",
+   "short": "HCL Ardusat nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 7/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2016",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-8-2020",
+   "path": "local/maramures/ardusat/2020/8",
+   "short": "HCL Ardusat nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 8/2020 privind alocarea unei sume din fondul de rezerva bugetara la dispozitia autoritatilor locale pentru spijinirea persoanelor izolate la domiciliu, ca urmare a masurilor de limitare a raspandirii COVID-19",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2017",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-9-2020",
+   "path": "local/maramures/ardusat/2020/9",
+   "short": "HCL Ardusat nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 9/2020 privind aprobarea modificării organigramei şi statului de funcţii pentru aparatul de specialitate al primarului comunei ARDUSAT, actualizare anexă hotărâre privind stabilirea coeficienților de salarizare personal contractual",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/2018",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/2018",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

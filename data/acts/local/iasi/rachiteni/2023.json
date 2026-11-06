@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/rachiteni/2023",
+"acts": [
+{
+"slug": "hcl-iasi--rachiteni-36-2023",
+"path": "local/iasi/rachiteni/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 36/2023 privind rectificarea bugetului de venituri și cheltuieli a Consiliului Local Răchiteni pentru luna iulie 2023, precum și modificarea listei investițiilor",
+"short": "HCL Răchiteni nr. 36/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-08",
+"latest": "2023-09-08",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/119754",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-38-2023",
+"path": "local/iasi/rachiteni/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 38/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziționarea produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative pentru anul școlar 2023-2024",
+"short": "HCL Răchiteni nr. 38/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-25",
+"latest": "2023-08-25",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/119769",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

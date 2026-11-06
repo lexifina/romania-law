@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/ilfov/chiajna/2021",
+"acts": [
+{
+"slug": "hcl-ilfov--chiajna-69-2021",
+"path": "local/ilfov/chiajna/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 69/2021 privind aprobarea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și amenzile aplicabile în anul fiscal 2022, în comuna Chiajna",
+"short": "HCL Chiajna nr. 69/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/45067",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-71-2021",
+"path": "local/ilfov/chiajna/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 71/2021 privind aprobarea și stabilirea numărului și cuantumului burselor aferente semestrului I al anului școlar 2021 – 2022 pentru elevii din învățământul preuniversitar de stat de pe raza comunei Chiajna, județul Ilfov",
+"short": "HCL Chiajna nr. 71/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/45069",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

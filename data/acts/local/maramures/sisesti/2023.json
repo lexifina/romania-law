@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/maramures/sisesti/2023",
+"acts": [
+{
+"slug": "hcl-maramures--sisesti-1-2023",
+"path": "local/maramures/sisesti/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 1/2023 privind predarea către Ministerul Dezvoltării Lucrărilor Publice și Administrației prin Compania NaționaIă de Investiții a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiții proiect „Construire sala sport școlară din sat Șisești, comuna Șisești, județul Maramureș”",
+"short": "HCL Șișești nr. 1/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-12",
+"latest": "2023-01-12",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/104003",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-2-2023",
+"path": "local/maramures/sisesti/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 2/2023 privind aprobarea Regulamentului și stabilirea unei taxe speciale în vederea punerii în aplicare a prevederilor Legii nr. 17/2014",
+"short": "HCL Șișești nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-12",
+"latest": "2023-01-12",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/104004",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

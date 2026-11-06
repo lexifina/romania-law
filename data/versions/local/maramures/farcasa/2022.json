@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/farcasa/2022",
+ "acts": [
+  {
+   "slug": "hcl-maramures--farcasa-88-2022",
+   "path": "local/maramures/farcasa/2022/88",
+   "short": "HCL Fărcașa nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 88/2022 privind aprobarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/85913",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/85913",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

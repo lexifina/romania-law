@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/popesti/2024",
+"acts": [
+{
+"slug": "hcl-iasi--popesti-67-2024",
+"path": "local/iasi/popesti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 67/2024 privind stabilirea impozitelor şi taxelor locale pentru anul 2025",
+"short": "HCL Popești nr. 67/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-06",
+"latest": "2025-01-06",
+"portal": "https://emol.ro/popesti-is/registru-hcl/184047",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

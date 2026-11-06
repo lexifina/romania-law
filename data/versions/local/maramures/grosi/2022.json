@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/grosi/2022",
+ "acts": [
+  {
+   "slug": "hcl-maramures--grosi-66-2022",
+   "path": "local/maramures/grosi/2022/66",
+   "short": "HCL Groși nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 66/2022",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/77538",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/77538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-68-2022",
+   "path": "local/maramures/grosi/2022/68",
+   "short": "HCL Groși nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 68/2022 privind participarea la “Programul de realizare a pistelor pentru biciclete” pentru proiectul: ,,Înființare piste de biciclete - tronson II, în Comuna Groși, Județul Maramureș”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/77540",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/77540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-71-2022",
+   "path": "local/maramures/grosi/2022/71",
+   "short": "HCL Groși nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 71/2022 privind aprobarea rectificării bugetului local al Comunei Groşi pe anul 2022",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/79007",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/79007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-72-2022",
+   "path": "local/maramures/grosi/2022/72",
+   "short": "HCL Groși nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 72/2022 privind aprobarea achiziționării serviciilor juridice de consultanță, de asistență și/sau de reprezentare a comunei Groși, a instituției Primarului comunei Groși și a Consiliului Local al comunei Groși",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/79008",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/79008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-73-2022",
+   "path": "local/maramures/grosi/2022/73",
+   "short": "HCL Groși nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 73/2022",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/81328",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/81328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-74-2022",
+   "path": "local/maramures/grosi/2022/74",
+   "short": "HCL Groși nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 74/2022 privind aprobarea alocării sumei de 30.000 lei pentru organizarea evenimentului „Un secol de dor - 1 Decembrie 2022”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/81329",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/81329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-75-2022",
+   "path": "local/maramures/grosi/2022/75",
+   "short": "HCL Groși nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 75/2022 privind punerea la dispozitia Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată în judeţul Maramures a terenului pentru constructia/extinderea/reabilitarea investitiilor aferente Comunei Groși",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/82738",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/82738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-76-2022",
+   "path": "local/maramures/grosi/2022/76",
+   "short": "HCL Groși nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 76/2022 privind aprobarea proiectului organizării Reţelei Școlare a unităților de învăţământ preuniversitar din comuna Groși pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/82739",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/82739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-77-2022",
+   "path": "local/maramures/grosi/2022/77",
+   "short": "HCL Groși nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 77/2022 privind aprobarea folosirii autoturismului marca DACIA, model „Logan”, având numărul de identificare UU1LSDABH35061247, în activitatea Serviciului Public Comunitar Local de Evidență a Persoanelor al Comunei Groși",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/82740",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/82740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-78-2022",
+   "path": "local/maramures/grosi/2022/78",
+   "short": "HCL Groși nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 78/2022 privind aprobarea protocoalelor de colaborare interinstituționale MMSS cu Comuna Groși, județul Maramureș, în cadrul proiectului „HUB de Servicii MMSS-SII MMSS, cod MySmis 130963”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/82741",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/82741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-79-2022",
+   "path": "local/maramures/grosi/2022/79",
+   "short": "HCL Groși nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 79/2022 privind aprobarea alocării sumei de 3.500 lei în vederea participării Comunei Groși, în calitate de gazde la evenimentul „Crăciun în Maramureș”, ediția a XIV -a, ce va avea loc în data de 17 decembrie 2022, la Muzeul Satului din Baia Mare",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/82742",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/82742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-80-2022",
+   "path": "local/maramures/grosi/2022/80",
+   "short": "HCL Groși nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 80/2022 privind inițierea procedurii de predare în exploatare a obiectivului de investiție „Extindere rețea de canalizare menajeră în Satu Nou de Jos, comuna Groși, județul Maramureș”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/82743",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/82743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-81-2022",
+   "path": "local/maramures/grosi/2022/81",
+   "short": "HCL Groși nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 81/2022 privind aprobarea rectificării bugetului local al Comunei Groşi pe anul 2022",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/82744",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/82744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-82-2022",
+   "path": "local/maramures/grosi/2022/82",
+   "short": "HCL Groși nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 82/2022 pentru aprobarea analizei situației la nivel local având în vedere proiectul cu denumirea: „EXTINDERE REȚEA DE CANALIZARE MENAJERĂ ÎN SATU NOU DE JOS, COMUNA GROȘI, JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/83014",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/83014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-83-2022",
+   "path": "local/maramures/grosi/2022/83",
+   "short": "HCL Groși nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 83/2022 pentru implementarea proiectului cu denumirea: „EXTINDERE REȚEA DE CANALIZARE MENAJERĂ ÎN SATU NOU DE JOS, COMUNA GROȘI, JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/83015",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/83015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-84-2022",
+   "path": "local/maramures/grosi/2022/84",
+   "short": "HCL Groși nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 84/2022 privind aprobarea indicatorilor tehnico-economici ai proiectului cu denumirea: „EXTINDERE REȚEA DE CANALIZARE MENAJERĂ ÎN SATU NOU DE JOS, COMUNA GROȘI, JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/83016",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/83016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-85-2022",
+   "path": "local/maramures/grosi/2022/85",
+   "short": "HCL Groși nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 85/2022 privind aprobarea rectificării bugetului local al Comunei Groşi pe anul 2022",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/83985",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/83985",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

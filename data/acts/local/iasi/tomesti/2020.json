@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/iasi/tomesti/2020",
+"acts": [
+{
+"slug": "hcl-iasi--tomesti-134-2020",
+"path": "local/iasi/tomesti/2020/134",
+"kind": "local",
+"year": "2020",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tomești nr. 134/2020 privind aprobarea „organigramei și a statelor de funcții pentru aparatul de specialitate al primarului comunei Tomești, județul Iași, având în vedere adresa nr. 30394/2020”",
+"short": "HCL Tomești nr. 134/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/tomesti-is/registru-hcl/15878",
+"council": "iasi/tomesti",
+"council_name": "Consiliul Local al Comunei Tomești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tomesti-139-2020",
+"path": "local/iasi/tomesti/2020/139",
+"kind": "local",
+"year": "2020",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tomești nr. 139/2020 privind aprobarea „impozitelor şi taxelor locale, în Comuna Tomești, pentru anul 2021”",
+"short": "HCL Tomești nr. 139/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/tomesti-is/registru-hcl/15883",
+"council": "iasi/tomesti",
+"council_name": "Consiliul Local al Comunei Tomești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tomesti-142-2020",
+"path": "local/iasi/tomesti/2020/142",
+"kind": "local",
+"year": "2020",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tomești nr. 142/2020 privind aprobarea schimbării denumirii străzii Bahlui, în strada Primăverii, situată în sat Tomești, comuna Tomeşti, judeţul Iaşi",
+"short": "HCL Tomești nr. 142/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/tomesti-is/registru-hcl/15886",
+"council": "iasi/tomesti",
+"council_name": "Consiliul Local al Comunei Tomești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tomesti-144-2020",
+"path": "local/iasi/tomesti/2020/144",
+"kind": "local",
+"year": "2020",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tomești nr. 144/2020 privind aprobarea „Planului de acțiuni și de lucrări de interes local pentru realizarea unor activități pe anul 2021 (lucrări, servicii, etc.) de interes comunitar, de către personalul beneficiar al Legii nr. 416/2001”",
+"short": "HCL Tomești nr. 144/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/tomesti-is/registru-hcl/15888",
+"council": "iasi/tomesti",
+"council_name": "Consiliul Local al Comunei Tomești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

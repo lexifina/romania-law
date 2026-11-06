@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/breznita-motru/2022",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--breznita-motru-55-2022",
+   "path": "local/mehedinti/breznita-motru/2022/55",
+   "short": "HCL Breznița-Motru nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 55/2022 privind stabilirea unor spații pentru depozitarea provizorie a deșeurilor colectate de la locuitorii comunei Breznița-Motru, județul Mehedinți",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/81206",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/81206",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

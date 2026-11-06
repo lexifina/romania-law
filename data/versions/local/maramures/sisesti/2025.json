@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/sisesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-maramures--sisesti-43-2025",
+   "path": "local/maramures/sisesti/2025/43",
+   "short": "HCL Șișești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șișești nr. 43/2025 privind aprobarea Procedurii operationale , procedura proprie pentru atribuirea contractelor de achizitie publica ce au ca obiect servicii sociale si alte servicii specifice prevazute in Anexa 2 la Legea 98/2016",
+   "url": "https://emol.ro/sisesti-mm/registru-hcl/231400",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sisesti-mm/registru-hcl/231400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sisesti-45-2025",
+   "path": "local/maramures/sisesti/2025/45",
+   "short": "HCL Șișești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șișești nr. 45/2025",
+   "url": "https://emol.ro/sisesti-mm/registru-hcl/231402",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sisesti-mm/registru-hcl/231402",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

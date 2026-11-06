@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/iasi/tiganasi/2024",
+"acts": [
+{
+"slug": "hcl-iasi--tiganasi-84-2024",
+"path": "local/iasi/tiganasi/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 84/2024 privind aprobarea contractului de finanțate nr. 36727/07.10.2024- Consiliul Județean Iași, nr.7710 din 07.10.2024 - Comuna Țigănași, încheiat pentru obiectivul de investiții ”Construire teren multisport în incinta școlii gimnaziale ,,Costache Antoniu\" Țigănași, comuna Țigănași, județul Iași”",
+"short": "HCL Țigănași nr. 84/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/172910",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-99-2024",
+"path": "local/iasi/tiganasi/2024/99",
+"kind": "local",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 99/2024 privind actualizarea taxei de salubritate începând cu 01.01.2025 la nivelul comunei Ţigănaşi, judeţul Iaşi",
+"short": "HCL Țigănași nr. 99/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/182787",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-103-2024",
+"path": "local/iasi/tiganasi/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 103/2024 privind actualizarea devizului general rezultat în urma procedurilor de achiziții pentru obiectivul de investiții ”Construire teren multisport în incinta școlii gimnaziale ,,Costache Antoniu\" Țigănași, comuna Țigănași, județul Iași”",
+"short": "HCL Țigănași nr. 103/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/182791",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

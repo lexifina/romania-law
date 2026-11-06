@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/iasi/popricani/2022",
+"acts": [
+{
+"slug": "hcl-iasi--popricani-140-2022",
+"path": "local/iasi/popricani/2022/140",
+"kind": "local",
+"year": "2022",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 140/2022",
+"short": "HCL Popricani nr. 140/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/popricani-is/registru-hcl/85563",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-146-2022",
+"path": "local/iasi/popricani/2022/146",
+"kind": "local",
+"year": "2022",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 146/2022 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operarea a APAVITAL S.A",
+"short": "HCL Popricani nr. 146/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/popricani-is/registru-hcl/90454",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-150-2022",
+"path": "local/iasi/popricani/2022/150",
+"kind": "local",
+"year": "2022",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 150/2022 privind aprobarea Planului de măsuri privind gestionarea deșeurilor provenite din construcții și sau demolări sau din alte activități/procese tehnologice, de la nivelul comunei Popricani, județul Iași",
+"short": "HCL Popricani nr. 150/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/popricani-is/registru-hcl/90458",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

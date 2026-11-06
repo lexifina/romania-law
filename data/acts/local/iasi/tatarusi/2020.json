@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/iasi/tatarusi/2020",
+"acts": [
+{
+"slug": "hcl-iasi--tatarusi-121-2020",
+"path": "local/iasi/tatarusi/2020/121",
+"kind": "local",
+"year": "2020",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 121/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului local al comunei Tătăruși, județul Iași",
+"short": "HCL Tătăruși nr. 121/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/17052",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-125-2020",
+"path": "local/iasi/tatarusi/2020/125",
+"kind": "local",
+"year": "2020",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 125/2020 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local Tătăruși din data de 08.12.2020",
+"short": "HCL Tătăruși nr. 125/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/17056",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-127-2020",
+"path": "local/iasi/tatarusi/2020/127",
+"kind": "local",
+"year": "2020",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 127/2020 privind rectificarea bugetului local al comunei Tătăruși, județul Iași",
+"short": "HCL Tătăruși nr. 127/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/17058",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-130-2020",
+"path": "local/iasi/tatarusi/2020/130",
+"kind": "local",
+"year": "2020",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 130/2020 privind stabilirea impozitelor și taxelor locale aplicabile în comuna Tătăruși începând cu anul 2021, precum și a unor tarife",
+"short": "HCL Tătăruși nr. 130/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-08",
+"latest": "2020-12-08",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/17061",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-136-2020",
+"path": "local/iasi/tatarusi/2020/136",
+"kind": "local",
+"year": "2020",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 136/2020 privind aprobarea Planului Anual de Achiziții Publice al comunei Tătăruși, județul Iași pentru anul 2021",
+"short": "HCL Tătăruși nr. 136/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/17067",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-137-2020",
+"path": "local/iasi/tatarusi/2020/137",
+"kind": "local",
+"year": "2020",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 137/2020 privind inițierea procedurilor necesare pentru modificarea și completarea inventarului domeniului public al comunei Tătăruși prin introducerea în inventarul domeniului public al comunei Tătăruși a investiției '' Sistem de alimentare cu apă în comuna Tătăruși, județul Iași și punerea la dispoziția operatorului regional APAVITAL SA a investiției ''Sistem de alimentare cu apă, comuna Tătăruși, județul Iași'' în vederea operării, administrării și exploatării, în baza Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+"short": "HCL Tătăruși nr. 137/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/17068",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tatarusi-138-2020",
+"path": "local/iasi/tatarusi/2020/138",
+"kind": "local",
+"year": "2020",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătăruși nr. 138/2020 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului comunei Tătăruși, județul Iași",
+"short": "HCL Tătăruși nr. 138/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/tatarusi-is/registru-hcl/17069",
+"council": "iasi/tatarusi",
+"council_name": "Consiliul Local al Comunei Tătăruși",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

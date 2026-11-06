@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/maramures/grosi/2024",
+"acts": [
+{
+"slug": "hcl-maramures--grosi-71-2024",
+"path": "local/maramures/grosi/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 71/2024",
+"short": "HCL Groși nr. 71/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/179110",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--grosi-72-2024",
+"path": "local/maramures/grosi/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 72/2024 privind aprobarea înscrierii suprafeței de 2183 mp conform planului de amplasament și delimitare aferent străzii Murelor din localitatea Groși, aparținând domeniului public al Comunei Groși",
+"short": "HCL Groși nr. 72/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/181031",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-77-2024",
+"path": "local/maramures/grosi/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 77/2024 privind aprobarea înscrierii suprafeței de 165 mp, din localitatea Groși, comuna Groși, în domeniul privat, conform planului de amplasament și delimitare",
+"short": "HCL Groși nr. 77/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/182236",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-79-2024",
+"path": "local/maramures/grosi/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 79/2024 privind aprobarea dezmembrării în două loturi a imobilului identificat în Cartea Funciară cu numărul 52335 Groși, având numărul cadastral 52335, conform documentației cadastrale avizate de către OCPI Maramureș cu numărul 72929/07.11.2024",
+"short": "HCL Groși nr. 79/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/182238",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

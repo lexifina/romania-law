@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/ilfov/chiajna/2023",
+"acts": [
+{
+"slug": "hcl-ilfov--chiajna-89-2023",
+"path": "local/ilfov/chiajna/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 89/2023 privind scăderea din evidențele fiscale a obligațiilor fiscale datorate de unii debitori, persoane juridice, radiate din Registrul Comerțului",
+"short": "HCL Chiajna nr. 89/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/131017",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-91-2023",
+"path": "local/ilfov/chiajna/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 91/2023 privind aprobarea măsurilor pentru gospodărirea Comunei Chiajna",
+"short": "HCL Chiajna nr. 91/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/131019",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-94-2023",
+"path": "local/ilfov/chiajna/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 94/2023 privind aprobarea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și amenzile aplicabile în anul fiscal 2024, în comuna Chiajna",
+"short": "HCL Chiajna nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/133579",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

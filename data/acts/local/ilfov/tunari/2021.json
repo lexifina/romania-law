@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/ilfov/tunari/2021",
+"acts": [
+{
+"slug": "hcl-ilfov--tunari-119-2021",
+"path": "local/ilfov/tunari/2021/119",
+"kind": "local",
+"year": "2021",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 119/2021 privind aprobarea regulamentului de organizare și desfășurare a licitațiilor publice pentru închirierea imobilelor (terenuri, clădiri) aflate în proprietatea publică și privată a comunei Tunari",
+"short": "HCL Tunari nr. 119/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tunari-if/registru-hcl/42506",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--tunari-120-2021",
+"path": "local/ilfov/tunari/2021/120",
+"kind": "local",
+"year": "2021",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 120/2021 privind aprobarea Regulamentului de organizare și desfășurare a licitațiilor publice pentru concesionarea bunurilor imobilele (terenuri, clădiri) aflate în proprietatea publică și privată a comunei Tunari",
+"short": "HCL Tunari nr. 120/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tunari-if/registru-hcl/42507",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--tunari-133-2021",
+"path": "local/ilfov/tunari/2021/133",
+"kind": "local",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 133/2021 privind aprobarea propunerii Programului Anual al Achizitii Publice la nivelul anului 2022",
+"short": "HCL Tunari nr. 133/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/tunari-if/registru-hcl/45015",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

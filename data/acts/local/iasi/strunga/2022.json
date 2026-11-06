@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/strunga/2022",
+"acts": [
+{
+"slug": "hcl-iasi--strunga-26-2022",
+"path": "local/iasi/strunga/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 26/2022 privind indexarea impozitelor și taxelor locale pentru anul fiscal 2023 cu rata inflației în procent de 5,05 %",
+"short": "HCL Strunga nr. 26/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://emol.ro/strunga-is/registru-hcl/72419",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

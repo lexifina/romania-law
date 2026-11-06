@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/peris/2020",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--peris-34-2020",
+   "path": "local/ilfov/peris/2020/34",
+   "short": "HCL Periș nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 34/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Periș , județul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/13111",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-36-2020",
+   "path": "local/ilfov/peris/2020/36",
+   "short": "HCL Periș nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 36/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului local al comunei Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/13113",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-37-2020",
+   "path": "local/ilfov/peris/2020/37",
+   "short": "HCL Periș nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 37/2020 privind anularea creanțelor fiscale restante mai mici de 40 de lei existente în sold la 31.12.2020",
+   "url": "https://emol.ro/peris-if/registru-hcl/13114",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-38-2020",
+   "path": "local/ilfov/peris/2020/38",
+   "short": "HCL Periș nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 38/2020 privind înregistrarea Primăriei Comunei Periș în Sistemul Național Electronic de Plată on-line a taxelor și impozitelor utilizând cardul bancar (SNEP) și modul de suportare a comisionului bancar la tranzacțiile on-line , prin modificarea HCL nr.33/2016",
+   "url": "https://emol.ro/peris-if/registru-hcl/13115",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-39-2020",
+   "path": "local/ilfov/peris/2020/39",
+   "short": "HCL Periș nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 39/2020 privind rectificarea bugetului local pentru trimestrul al IV-lea din anul 2020, prin suplimentări de credite bugetare în cadrul secțiuni de dezvoltare , pentru finanțarea obiectivului : ”Modernizare drumuri comunale în comuna Periș”",
+   "url": "https://emol.ro/peris-if/registru-hcl/13116",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-40-2020",
+   "path": "local/ilfov/peris/2020/40",
+   "short": "HCL Periș nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 40/2020 privind rectificarea bugetului local in trimestrul al IV-lea din anul 2020 , prin suplimentari si virări de credite bugetare la capitolele deficitare in cadrul sectiuni de functionare-cheltuieli de perosnal",
+   "url": "https://emol.ro/peris-if/registru-hcl/13689",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-41-2020",
+   "path": "local/ilfov/peris/2020/41",
+   "short": "HCL Periș nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 41/2020 privind acordarea buselor sociale , burse de studiu, burse de merit și performanță pentru elevii din unitățile de învățământ preuniversitar de stat ( primar și gimnazial) din comuna Periș județul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/13690",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-43-2020",
+   "path": "local/ilfov/peris/2020/43",
+   "short": "HCL Periș nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 43/2020 privind revocarea HCL nr.17/04.05.2020 privind acordarea de sprinjin financiar , pentru anul 2020, unităților locale de cult aparținând unor culte religioase , Parohia Bratulesti",
+   "url": "https://emol.ro/peris-if/registru-hcl/13692",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/13692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-45-2020",
+   "path": "local/ilfov/peris/2020/45",
+   "short": "HCL Periș nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 45/2020 privind recticarea bugetului local in trimestrul al IV-lea din anul 2020 , prin suplimentari și virari de credinte bugetare , la capitolele deficitare in cadrul sectiuni de functionare - cheltuileli cu bunuri și servicii",
+   "url": "https://emol.ro/peris-if/registru-hcl/16937",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/16937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-46-2020",
+   "path": "local/ilfov/peris/2020/46",
+   "short": "HCL Periș nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 46/2020 privind insituirea unor măsuri fiscale și aprobarea procedurii de anulare a accesorilor aferente obligațiilor bugetare principale restante la data de 31.03.2021 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ tertitorială a comunei Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/16938",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/16938",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

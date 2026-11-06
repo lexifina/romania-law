@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/sacalaseni/2022",
+ "acts": [
+  {
+   "slug": "hcl-maramures--sacalaseni-103-2022",
+   "path": "local/maramures/sacalaseni/2022/103",
+   "short": "HCL Săcălășeni nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 103/2022 privind stabilirea numărului și cuantumului burselor școlare pentru elevii din instituţiile de învăţământ preuniversitar de stat din Comuna Săcălășeni, în anul școlar 2022-2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82093",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-104-2022",
+   "path": "local/maramures/sacalaseni/2022/104",
+   "short": "HCL Săcălășeni nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 104/2022 privind aprobarea protocoalelor de colaborare interinstituționale MMSS cu Comuna Săcălășeni, județul Maramureș, în cadrul proiectului „HUB de Servicii MMSS-SII MMSS, cod MySmis 130963”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82094",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-105-2022",
+   "path": "local/maramures/sacalaseni/2022/105",
+   "short": "HCL Săcălășeni nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 105/2022 privind aprobarea modificării „Organigramei” și „Statului de Funcții” al Comunei Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82095",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-106-2022",
+   "path": "local/maramures/sacalaseni/2022/106",
+   "short": "HCL Săcălășeni nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 106/2022 privind aprobarea documentației ”Plan de amplasament și delimitare a imobilului cu propunerea de alipire”, privind imobilele identificate prin numerele cadastrale 53566, 53187 și 53572 din Cărțile Funciare ale localității Săcălășeni, nr. 53566, 53187 și 53572",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82096",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-107-2022",
+   "path": "local/maramures/sacalaseni/2022/107",
+   "short": "HCL Săcălășeni nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 107/2022 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” având ca obiect imobilul în suprafață de 9770 m2 și trecerea acestuia în domeniul public al comunei Săcălășeni ca „Drum comunal 78A”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82097",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-108-2022",
+   "path": "local/maramures/sacalaseni/2022/108",
+   "short": "HCL Săcălășeni nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 108/2022 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru proiectul \"Proiectul Regional de dezvoltare a infrastructurii de apa si apa uzata in judetul Maramureș\"",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82098",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-109-2022",
+   "path": "local/maramures/sacalaseni/2022/109",
+   "short": "HCL Săcălășeni nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 109/2022 privind aprobarea planului anual de evolutie a tarifelor serviciilor de apa si canalizare (Strategia de tarifare) conform rezultatelor analizei Cost-Beneficiu pentru proiectul \"Proiectul Regional de dezvoltare a infrastructurii de apa si apa uzata in judetul Maramureș\"",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82099",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-110-2022",
+   "path": "local/maramures/sacalaseni/2022/110",
+   "short": "HCL Săcălășeni nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 110/2022 privind participarea Comunei SACALASENI la cofinanţarea proiectului „Proiectul regional de dezvoltare a infrastructurii de apă şi apă uzată din Judeţul Maramures\"",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82100",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-111-2022",
+   "path": "local/maramures/sacalaseni/2022/111",
+   "short": "HCL Săcălășeni nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 111/2022 privind punerea la dispozitia proiectului „Proiectul Regional de Dezvoltare a Infrastructurii de apă și apă uzată în județul Maramureș” a terenului pentru constructia/extinderea/reabilitarea noilor investitii aferente comunei Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82101",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-112-2022",
+   "path": "local/maramures/sacalaseni/2022/112",
+   "short": "HCL Săcălășeni nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 112/2022 privind aprobarea documentului „ACORD DE COOPERARE PRIVIND PRESTAREA UNOR ACTIVITĂŢI ECONOMICE, ÎN INTERES COMUNITAR”- prestări servicii, încheiat cu Filiala Județeană Maramureș a Asociației Comunelor din România",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82102",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-113-2022",
+   "path": "local/maramures/sacalaseni/2022/113",
+   "short": "HCL Săcălășeni nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 113/2022 privind aprobarea celei de-a zecea rectificări a bugetului local al Comunei Săcălășeni pe anul 2022",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/82103",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/82103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-114-2022",
+   "path": "local/maramures/sacalaseni/2022/114",
+   "short": "HCL Săcălășeni nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 114/2022 privind alegerea președintelui de ședință pentru luna Ianuarie 2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83515",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-115-2022",
+   "path": "local/maramures/sacalaseni/2022/115",
+   "short": "HCL Săcălășeni nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 115/2022 privind aprobarea documentului „Regulament de Organizare și Funcționare al Terenurilor Sintetice de Sport din Comuna Săcălășeni”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83516",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-116-2022",
+   "path": "local/maramures/sacalaseni/2022/116",
+   "short": "HCL Săcălășeni nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 116/2022 privind implementarea în Comuna Săcălășeni a proiectului „Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83517",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-117-2022",
+   "path": "local/maramures/sacalaseni/2022/117",
+   "short": "HCL Săcălășeni nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 117/2022 privind stabilirea salariilor de bază pentru funcțiile publice și funcțiile contractuale din cadrul comunei Săcălășeni, începând cu data de 1 ianuarie 2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83518",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-118-2022",
+   "path": "local/maramures/sacalaseni/2022/118",
+   "short": "HCL Săcălășeni nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 118/2022 privind stabilirea salariilor de bază pentru funcțiile din cadrul obiectivului „Centrul de Ingrijire Bătrani” din localitatea Coruia, Comuna Săcălășeni», începând cu data de 1 ianuarie 2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83519",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-119-2022",
+   "path": "local/maramures/sacalaseni/2022/119",
+   "short": "HCL Săcălășeni nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 119/2022 privind aprobarea celei de-a unsprezecea rectificări a bugetului local al Comunei Săcălășeni pe anul 2022",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83520",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-120-2022",
+   "path": "local/maramures/sacalaseni/2022/120",
+   "short": "HCL Săcălășeni nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 120/2022 privind implementarea proiectului \"Realizarea capacităților noi de producere energie electrică din surse regenerabile solare, în vederea reducerii consumului de energie convențională în Comuna Săcălășeni, județul Maramureș\"",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83521",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-121-2022",
+   "path": "local/maramures/sacalaseni/2022/121",
+   "short": "HCL Săcălășeni nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 121/2022 privind susţinerea financiară a Asociației Sportive „Gloria Culcea” pentru activitatea sportivă desfăşurată de către echipa de fotbal, în anul competiţional 2022-2023-faza tur",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83522",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-122-2022",
+   "path": "local/maramures/sacalaseni/2022/122",
+   "short": "HCL Săcălășeni nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 122/2022 privind implementarea în Comuna Săcălășeni a proiectului „Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural” prin „Asociația Culturală Florile Chioarului”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/83523",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/83523",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

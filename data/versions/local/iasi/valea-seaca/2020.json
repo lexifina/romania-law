@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/valea-seaca/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--valea-seaca-39-2020",
+   "path": "local/iasi/valea-seaca/2020/39",
+   "short": "HCL Valea Seacă nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 39/2020 privind aprobarea achiziționării a 482 echipamente IT (tablete), pentru elevii Școlii Gimnaziale Valea-Seacă, în vederea desfășurării învățământului on-line",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/8074",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/8074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-40-2020",
+   "path": "local/iasi/valea-seaca/2020/40",
+   "short": "HCL Valea Seacă nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 40/2020 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2020",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/8075",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/8075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-41-2020",
+   "path": "local/iasi/valea-seaca/2020/41",
+   "short": "HCL Valea Seacă nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 41/2020 privind aprobarea rectificării bugetului și redistribuirii fondurilor între proiectele înscrise pe lista obiectivelor de investiții pe anul 2020-trimestrul III",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/9829",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/9829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-42-2020",
+   "path": "local/iasi/valea-seaca/2020/42",
+   "short": "HCL Valea Seacă nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 42/2020 privind alegerea viceprimarului",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/12133",
+   "versions": [
+    {
+     "from": "2020-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/12133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-43-2020",
+   "path": "local/iasi/valea-seaca/2020/43",
+   "short": "HCL Valea Seacă nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 43/2020 privind aprobarea înregistrării comunei Valea-Seacă, județul Iași, în Sistemul Național Electronic de plăți a Taxelor și Impozitelor utilizând cardul bancar (nr. 6881/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14159",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-44-2020",
+   "path": "local/iasi/valea-seaca/2020/44",
+   "short": "HCL Valea Seacă nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 44/2020 privind stabilirea impozitelor și taxelor locale la nivelul comunei Valea-Seacă pentru anul 2021 (nr. 6868/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14160",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-45-2020",
+   "path": "local/iasi/valea-seaca/2020/45",
+   "short": "HCL Valea Seacă nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 45/2020 privind aprobarea construcției a două poduri peste pârâul Conțeasca din satul Conțești, comuna Valea-Seacă, județul Iași (nr. 6887/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14161",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-49-2020",
+   "path": "local/iasi/valea-seaca/2020/49",
+   "short": "HCL Valea Seacă nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 49/2020 privind alegerea președintelui de ședință pentru trimestrul I-2021, lunile Ianuarie, Februarie și Martie (6880/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14165",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-50-2020",
+   "path": "local/iasi/valea-seaca/2020/50",
+   "short": "HCL Valea Seacă nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 50/2020 privind aprobarea construcției unui pod peste pârâul Bisericii din satul Valea-Seacă, jud. Iași (nr. 7088/09.12.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14166",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-52-2020",
+   "path": "local/iasi/valea-seaca/2020/52",
+   "short": "HCL Valea Seacă nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 52/2020 privind aprobarea finanțării Reabilitare Clădire Punct Sanitar din satul Conțești, com. Valea-Seacă, jud. Iași (6882/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14168",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-53-2020",
+   "path": "local/iasi/valea-seaca/2020/53",
+   "short": "HCL Valea Seacă nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 53/2020 privind înființarea ghișeului unic la primăria Valea-Seacă, jud. Iași (nr. 6889/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14169",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-54-2020",
+   "path": "local/iasi/valea-seaca/2020/54",
+   "short": "HCL Valea Seacă nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 54/2020 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul adițional nr. 40 (nr. 6877/25.11.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14170",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-57-2020",
+   "path": "local/iasi/valea-seaca/2020/57",
+   "short": "HCL Valea Seacă nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 57/2020 privind procedura de desfășurare a ședințelor Consiliului Local Valea-Seacă prin utilizarea mijloacelor electronice de comunicare (nr. 7084/09.12.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14173",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-seaca-58-2020",
+   "path": "local/iasi/valea-seaca/2020/58",
+   "short": "HCL Valea Seacă nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Seacă nr. 58/2020 privind înrolarea comunei Valea-Seacă în portalul PCUe (Punctul de Contact Unic electronic) în vederea emiterii actelor din domeniul cadastrului, urbanismului, amenajării teritoriului și autorizării executării lucrărilor de construcții din aria de competență a compartimentului de urbanism în format electronic ( nr. 7087/09.12.2020)",
+   "url": "https://emol.ro/valeaseaca-is/registru-hcl/14174",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaseaca-is/registru-hcl/14174",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

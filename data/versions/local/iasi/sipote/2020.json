@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/sipote/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--sipote-102-2020",
+   "path": "local/iasi/sipote/2020/102",
+   "short": "HCL Șipote nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 102/2020 privind modificarea și completarea inventarului bunurilor din domeniul privat al comunei Șipote , județul Iași",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19440",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-103-2020",
+   "path": "local/iasi/sipote/2020/103",
+   "short": "HCL Șipote nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 103/2020 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor /acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului pentru anul școlar 2020-2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19441",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-104-2020",
+   "path": "local/iasi/sipote/2020/104",
+   "short": "HCL Șipote nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 104/2020 privind rectificarea nr 5 a bugetului de venituri si cheltuieli pe anul 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19442",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-108-2020",
+   "path": "local/iasi/sipote/2020/108",
+   "short": "HCL Șipote nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 108/2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19458",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-109-2020",
+   "path": "local/iasi/sipote/2020/109",
+   "short": "HCL Șipote nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 109/2020 privind aprobarea achiziției directe de servicii de consultanță în managementul de proiect finanţare nerambursabilă pentru proiecte aferente Axei Prioritare 2 “Tehnologia Informației și Comunicațiilor (TIC) pentru o economie digitală competitivă”, Obiectivului Specific 2.4 - Creşterea gradului de utilizare a Internetului",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19457",
+   "versions": [
+    {
+     "from": "2020-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-111-2020",
+   "path": "local/iasi/sipote/2020/111",
+   "short": "HCL Șipote nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 111/2020 privind stabilire comisii de specialitate și stabilirea componentei acestora",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19462",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-93-2020",
+   "path": "local/iasi/sipote/2020/93",
+   "short": "HCL Șipote nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 93/2020 privind modificarea și completarea art. 3 din Hotărârea Consiliului Local Șipote numărul 35 din 05.03.2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: \" Refacerea și reabilitarea drumurilor pentru eliminarea efectelor inundațiilor în Comuna Șipote , județul Iași \"",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19404",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-94-2020",
+   "path": "local/iasi/sipote/2020/94",
+   "short": "HCL Șipote nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 94/2020 privind rectificarea nr 4 a bugetului de venituri si cheltuieli pe anul 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19405",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-97-2020",
+   "path": "local/iasi/sipote/2020/97",
+   "short": "HCL Șipote nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 97/2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19416",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-98-2020",
+   "path": "local/iasi/sipote/2020/98",
+   "short": "HCL Șipote nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 98/2020 privind modificarea și completarea art. 3 din Hotărârea Consiliului Local Șipote numărul 35 din 05.03.2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: \" Refacerea și reabilitarea drumurilor pentru eliminarea efectelor inundațiilor în Comuna Șipote , județul Iași \"",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19417",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19417",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

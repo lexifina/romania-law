@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/popricani/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--popricani-140-2022",
+   "path": "local/iasi/popricani/2022/140",
+   "short": "HCL Popricani nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 140/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85563",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-146-2022",
+   "path": "local/iasi/popricani/2022/146",
+   "short": "HCL Popricani nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 146/2022 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operarea a APAVITAL S.A",
+   "url": "https://emol.ro/popricani-is/registru-hcl/90454",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/90454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-150-2022",
+   "path": "local/iasi/popricani/2022/150",
+   "short": "HCL Popricani nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 150/2022 privind aprobarea Planului de măsuri privind gestionarea deșeurilor provenite din construcții și sau demolări sau din alte activități/procese tehnologice, de la nivelul comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/90458",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/90458",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

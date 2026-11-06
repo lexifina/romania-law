@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/sipote/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--sipote-117-2021",
+   "path": "local/iasi/sipote/2021/117",
+   "short": "HCL Șipote nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 117/2021 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 26.11.2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/42777",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/42777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-118-2021",
+   "path": "local/iasi/sipote/2021/118",
+   "short": "HCL Șipote nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 118/2021 privind aprobarea procesului verbal al ședinței ” extraordinare ”din data 15.11.2021 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/42778",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/42778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-119-2021",
+   "path": "local/iasi/sipote/2021/119",
+   "short": "HCL Șipote nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 119/2021 privind aprobarea ”Strategiei de dezvoltare a serviciilor sociale acordate la nivelul Comunei Șipote , județul Iași , pentru perioada 2021-2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/42779",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/42779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-122-2021",
+   "path": "local/iasi/sipote/2021/122",
+   "short": "HCL Șipote nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 122/2021 privind acordul de principiu privind aprobarea asocierii Comunei ȘIPOTE ca membru fondator la înființarea Asociației de Dezvoltare Intercomunitară a comunelor„ Gropnița – Șipote ”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/42782",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/42782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-123-2021",
+   "path": "local/iasi/sipote/2021/123",
+   "short": "HCL Șipote nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 123/2021 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 16.12.2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44367",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-124-2021",
+   "path": "local/iasi/sipote/2021/124",
+   "short": "HCL Șipote nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 124/2021 privind aprobarea procesului verbal al ședinței ” ordinare ”din data 26.11.2021 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44368",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-125-2021",
+   "path": "local/iasi/sipote/2021/125",
+   "short": "HCL Șipote nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 125/2021 privind alegerea preşedintelui de şedinţă pentru lunile ianuarie 2022, februarie 2022, martie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44369",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-126-2021",
+   "path": "local/iasi/sipote/2021/126",
+   "short": "HCL Șipote nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 126/2021 privind aprobarea Graficului de ședințe pe trimestrul I 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44370",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-128-2021",
+   "path": "local/iasi/sipote/2021/128",
+   "short": "HCL Șipote nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 128/2021 privind aprobarea Strategiei anuale de achizitii publice a comunei Sipote , judetul Iasi pe anul 2022 si a Anexelor la Strategia anuala a achizitiilor publice a comunei Sipote (Programul Anual al Achizițiilor Publice) pentru anul 2022 într-o primă formă , estimativ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44372",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-129-2021",
+   "path": "local/iasi/sipote/2021/129",
+   "short": "HCL Șipote nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 129/2021 privind aprobarea cuantumului și numărului de burse care se acordă elevilor din învățământul preuniversitar de stat din comuna Șipote pentru semestrul I al anului școlar 2021-2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44373",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-130-2021",
+   "path": "local/iasi/sipote/2021/130",
+   "short": "HCL Șipote nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 130/2021 privind dizolvarea și lichidarea Societății SC LOCAL SERVICII ȘIPOTE SRL ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44374",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-131-2021",
+   "path": "local/iasi/sipote/2021/131",
+   "short": "HCL Șipote nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 131/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44375",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-132-2021",
+   "path": "local/iasi/sipote/2021/132",
+   "short": "HCL Șipote nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 132/2021 privind rectificarea numărul 5 a bugetului de venituri și cheltuieli pe anul 2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/44376",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/44376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-133-2021",
+   "path": "local/iasi/sipote/2021/133",
+   "short": "HCL Șipote nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 133/2021 privind aprobarea ordinii de zi a ședinței „extraordinară ”din data de 23 decembrie 2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/45381",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/45381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-134-2021",
+   "path": "local/iasi/sipote/2021/134",
+   "short": "HCL Șipote nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 134/2021 privind aprobarea procesului verbal al ședinței ” ordinare ”din data 16.12.2021 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/45382",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/45382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-135-2021",
+   "path": "local/iasi/sipote/2021/135",
+   "short": "HCL Șipote nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 135/2021 privind rectificarea numărul 6 a bugetului de venituri și cheltuieli pe anul 2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/45383",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/45383",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

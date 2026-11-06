@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/cornetu/2024",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--cornetu-100-2024",
+   "path": "local/ilfov/cornetu/2024/100",
+   "short": "HCL Cornetu nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 100/2024 privind completarea Hotărârii Consiliului Local al comunei Cornetu nr.95 din 20.12.2024 privind stabilirea impozitelor, taxelor și tarifelor locale pentru anul 2025",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184993",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-101-2024",
+   "path": "local/ilfov/cornetu/2024/101",
+   "short": "HCL Cornetu nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 101/2024 privind aprobarea Expertizei tehnice, cerința A1 - rezistență și stabilitate și a devizului general pentru obiectivul de investiții ”Refacere acoperiș Casa de cultură in comuna Cornetu, judetul Ilfov”",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184994",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-102-2024",
+   "path": "local/ilfov/cornetu/2024/102",
+   "short": "HCL Cornetu nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 102/2024 privind aprobarea continuării derulării protocolului de cooperare între Comuna Cornetu - Consiliul Local Cornetu, Onix Optim Centru Medical SRL și Județul Ilfov- Consiliul Județean Ilfov, în vederea realizării proiectului de interes public pentru prevenția bolilor cronice \"Investigăm salvăm\"",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184995",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-87-2024",
+   "path": "local/ilfov/cornetu/2024/87",
+   "short": "HCL Cornetu nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 87/2024 privind rectificarea bugetului local al comunei Cornetu, județul Ilfov pe anul 2024",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/179522",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/179522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-88-2024",
+   "path": "local/ilfov/cornetu/2024/88",
+   "short": "HCL Cornetu nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 88/2024 privind aprobarea rețelei școlare a unităților de învăţământ preuniversitar de stat de pe raza comunei Cornetu, judeţul Ilfov, cu structurile aferente, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/180156",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/180156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-92-2024",
+   "path": "local/ilfov/cornetu/2024/92",
+   "short": "HCL Cornetu nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 92/2024 privind rectificarea bugetului local al comunei Cornetu, județul Ilfov pe anul 2024",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/180160",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/180160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-94-2024",
+   "path": "local/ilfov/cornetu/2024/94",
+   "short": "HCL Cornetu nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 94/2024 privind rectificarea bugetului local al comunei Cornetu, județul Ilfov pe anul 2024",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/181731",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/181731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-95-2024",
+   "path": "local/ilfov/cornetu/2024/95",
+   "short": "HCL Cornetu nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 95/2024 privind stabilirea impozitelor, taxelor si tarifelor locale pentru anul 2025",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184022",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-96-2024",
+   "path": "local/ilfov/cornetu/2024/96",
+   "short": "HCL Cornetu nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 96/2024 privind aprobarea documentației tehnico-economice - faza Proiect tehnic, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”Retea de canalizare pluviala strada Garoafei in comuna Cornetu, judetul Ilfov”, finanțat prin Programul național de investiții \"Anghel Saligny",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184023",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-97-2024",
+   "path": "local/ilfov/cornetu/2024/97",
+   "short": "HCL Cornetu nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 97/2024 privind aprobarea documentației tehnico-economice - faza Proiect tehnic, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”Retea de canalizare pluviala strada Salciei Tronson I și strada Castanilor - Tronson I (DE 28/4) in comuna Cornetu, judetul Ilfov”",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-98-2024",
+   "path": "local/ilfov/cornetu/2024/98",
+   "short": "HCL Cornetu nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 98/2024 privind aprobarea unui acord de cooperare în domeniul gestionării deșeurilor de echipamente electrice și electronice",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/184025",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/184025",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

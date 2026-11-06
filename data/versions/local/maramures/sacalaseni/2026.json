@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/sacalaseni/2026",
+ "acts": [
+  {
+   "slug": "hcl-maramures--sacalaseni-60-2026",
+   "path": "local/maramures/sacalaseni/2026/60",
+   "short": "HCL Săcălășeni nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 60/2026 privind aderarea UAT Comuna Săcălășeni la sistemul de cooperare privind organizarea şi exercitarea activității de urbanism și amenajarea teritoriului și însușirea Acordului de cooperare încheiat cu Filiala Județeană Maramureș a Asociației Comunelor din România, împreună cu celelalte unități administrativ-teritoriale participante",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/285781",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/285781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-62-2026",
+   "path": "local/maramures/sacalaseni/2026/62",
+   "short": "HCL Săcălășeni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 62/2026 privind încheierea unui acord de colaborare între Comuna Săcălășeni și Școala Gimnazială „Mihai Eminescu” Săcălășeni pentru punerea în aplicare a activităților aferente proiectului „Construire Centru Multifuncțional cu dotări sportive și culturale pentru copii în Comuna Săcălășeni, județul Maramureș”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/285783",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/285783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-74-2026",
+   "path": "local/maramures/sacalaseni/2026/74",
+   "short": "HCL Săcălășeni nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 74/2026 privind aprobarea celei de-a cincea rectificări a bugetului local al Comunei Săcălăşeni pe anul 2026",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/294495",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/294495",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

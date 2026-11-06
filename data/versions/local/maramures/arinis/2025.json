@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/arinis/2025",
+ "acts": [
+  {
+   "slug": "hcl-maramures--arinis-46-2025",
+   "path": "local/maramures/arinis/2025/46",
+   "short": "HCL Ariniș nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 46/2025",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/227036",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/227036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-57-2025",
+   "path": "local/maramures/arinis/2025/57",
+   "short": "HCL Ariniș nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 57/2025 privind aprobarea întocmirii documentației pentru atestare unitară ca Zonă Turistică de Interes Local - Codru Maramureș a celor șapte localități și depunerea acesteia la Ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului în vederea inițierii unei Hotărâri a Guvernului României pentru atestarea stațiunii turistice",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/237795",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/237795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-60-2025",
+   "path": "local/maramures/arinis/2025/60",
+   "short": "HCL Ariniș nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 60/2025 privind organizarea Rețelei Școlare a unităților de învățământ preuniversitar de stat și particular de pe raza UA.T. Comuna Ariniș pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/240746",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/240746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-61-2025",
+   "path": "local/maramures/arinis/2025/61",
+   "short": "HCL Ariniș nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 61/2025",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/240747",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/240747",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

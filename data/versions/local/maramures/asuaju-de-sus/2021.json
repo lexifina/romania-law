@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/asuaju-de-sus/2021",
+ "acts": [
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-20-2021",
+   "path": "local/maramures/asuaju-de-sus/2021/20",
+   "short": "HCL Asuaju de Sus nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 20/2021 privind aprobarea pretului de referinta la materialul lemnos pe anul 2021 si valorificarea masei lemnoase din padurea comunei Asuaju de Sus judetul Maramures",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/60709",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-21-2021",
+   "path": "local/maramures/asuaju-de-sus/2021/21",
+   "short": "HCL Asuaju de Sus nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 21/2021 privind completarea comisiei pentru administratie publica locala, apararea ordinii si linistii publice si a drepturilor cetatenilor din cadrul consiliului local Asuaju de Sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/60710",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60710",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

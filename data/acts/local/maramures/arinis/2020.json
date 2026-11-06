@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/maramures/arinis/2020",
+"acts": [
+{
+"slug": "hcl-maramures--arinis-48-2020",
+"path": "local/maramures/arinis/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 48/2020 privind aprobarea achiziționării unei autoutilitare pentru deservirea Serviciului de Gospodărire Comunală Ariniș al Primăriei Comuna Ariniș",
+"short": "HCL Ariniș nr. 48/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-12",
+"latest": "2020-10-12",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/10670",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-50-2020",
+"path": "local/maramures/arinis/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 50/2020 privind aprobarea revizuirii Regulamentului de Organizare si Functionare a Consiliului Local al Comunei Ariniș, Maramureș",
+"short": "HCL Ariniș nr. 50/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-18",
+"latest": "2020-10-18",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/10672",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-53-2020",
+"path": "local/maramures/arinis/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 53/2020 privind constituirea comisiilor de specialitate pe domenii de activitate ale Consiliului local al Comunei Ariniș",
+"short": "HCL Ariniș nr. 53/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/13363",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-55-2020",
+"path": "local/maramures/arinis/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 55/2020 privind încetarea activități de servicii a Centrului de Informare Turistică Ariniș",
+"short": "HCL Ariniș nr. 55/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/13365",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-58-2020",
+"path": "local/maramures/arinis/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 58/2020 privind aprobarea susținerii din bugetul local al Comunei Ariniș a comisioanelor pentru plățile efectuate prin Ghișeul.ro, pentru taxe și impozite, conform H.G.1070/2013",
+"short": "HCL Ariniș nr. 58/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/13387",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-62-2020",
+"path": "local/maramures/arinis/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 62/2020 privind rectificarea bugetului local al comunei Ariniş, luna decembrie 2020",
+"short": "HCL Ariniș nr. 62/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-09",
+"latest": "2020-12-09",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/14348",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-64-2020",
+"path": "local/maramures/arinis/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 64/2020 privind organizarea Rețelei Școlare a unităților de învățământ preuniversitar de stat și particular de pe raza UA.T. Ariniș pentru anul școlar 2021-2022",
+"short": "HCL Ariniș nr. 64/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/14349",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-65-2020",
+"path": "local/maramures/arinis/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 65/2020 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2021, precum și a taxelor speciale în Comuna Ariniș, Județul Maramureș",
+"short": "HCL Ariniș nr. 65/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/14351",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-66-2020",
+"path": "local/maramures/arinis/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 66/2020 privind aderarea Comunei Ariniș, Județul Maramureș la Asociaţia Comunelor din România",
+"short": "HCL Ariniș nr. 66/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/14352",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-67-2020",
+"path": "local/maramures/arinis/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 67/2020 privind rectificarea bugetului local al comunei Ariniş, luna decembrie 2020",
+"short": "HCL Ariniș nr. 67/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/14353",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

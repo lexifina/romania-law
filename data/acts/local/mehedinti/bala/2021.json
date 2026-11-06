@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/bala/2021",
+"acts": [
+{
+"slug": "hcl-mehedinti--bala-83-2021",
+"path": "local/mehedinti/bala/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bala nr. 83/2021 Proiect de hotarire privind reorganizarea retelei scolare pe raza comunei Bala, in anul scolar 2022/2023",
+"short": "HCL Bala nr. 83/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/bala-mh/registru-hcl/45400",
+"council": "mehedinti/bala",
+"council_name": "Consiliul Local al Comunei Bala",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

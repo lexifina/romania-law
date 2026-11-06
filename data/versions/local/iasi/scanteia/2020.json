@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/scanteia/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--scanteia-75-2020",
+   "path": "local/iasi/scanteia/2020/75",
+   "short": "HCL Scânteia nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 75/2020 privind validarea Dispoziției primarului comunei nr. 167 din 25 septembrie 2020 și Dispoziției primarului comunei nr. 196 din 27 octombrie 2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11871",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-78-2020",
+   "path": "local/iasi/scanteia/2020/78",
+   "short": "HCL Scânteia nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 78/2020 privind aprobarea desfășurării ședințelor Consiliului Local al Comunei Scânteia, județul Iași prin utilizarea mijloacelor electronice de comunicare",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11874",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-79-2020",
+   "path": "local/iasi/scanteia/2020/79",
+   "short": "HCL Scânteia nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 79/2020 privind aprobarea execuţiei bugetelor întocmite pe cele două secţiuni pe trimestrul III din anul 2020",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11875",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-80-2020",
+   "path": "local/iasi/scanteia/2020/80",
+   "short": "HCL Scânteia nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 80/2020 privind rectificarea bugetului local din anul 2020",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11876",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-81-2020",
+   "path": "local/iasi/scanteia/2020/81",
+   "short": "HCL Scânteia nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 81/2020 privind însușirea raportului de evaluare al activelor fixe, construcții și terenuri aflate în patrimoniul public și privat al UAT comuna Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11877",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-82-2020",
+   "path": "local/iasi/scanteia/2020/82",
+   "short": "HCL Scânteia nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 82/2020 privind alocarea sumei de 7.000 lei pentru acordarea de cadouri preşcolarilor şi elevilor din comuna Scânteia, cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11878",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-83-2020",
+   "path": "local/iasi/scanteia/2020/83",
+   "short": "HCL Scânteia nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 83/2020 privind stabilirea impozitelor şi taxelor locale şi altor taxe asimilate acestora pentru anul fiscal 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11879",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-86-2020",
+   "path": "local/iasi/scanteia/2020/86",
+   "short": "HCL Scânteia nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 86/2020 privind reactualizarea Planului de acțiuni sau lucrări de interes local ce vor fi executate de beneficiarii ajutorului social apţi de muncă potrivit Legii nr. 416/2001 în anul 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11882",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-87-2020",
+   "path": "local/iasi/scanteia/2020/87",
+   "short": "HCL Scânteia nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 87/2020 privind aprobarea numărului posturilor de asistenți personali pentru anul 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/11883",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/11883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-89-2020",
+   "path": "local/iasi/scanteia/2020/89",
+   "short": "HCL Scânteia nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 89/2020 privind rectificarea bugetului local din anul 2020",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/13049",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/13049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-90-2020",
+   "path": "local/iasi/scanteia/2020/90",
+   "short": "HCL Scânteia nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 90/2020 privind aprobarea Programului actualizat al achiziţiilor publice pe anul 2020 al comunei Scânteia, judeţul Iaşi",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/13601",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/13601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-91-2020",
+   "path": "local/iasi/scanteia/2020/91",
+   "short": "HCL Scânteia nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 91/2020 privind aprobarea strategiei anuale de achiziții publice și a Programului anual al achiziţiilor publice în forma iniţială pe anul 2021 al comunei Scânteia, judeţul Iaşi",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/13602",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/13602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-92-2020",
+   "path": "local/iasi/scanteia/2020/92",
+   "short": "HCL Scânteia nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 92/2020 privind validarea dispoziției primarului nr. 276 din 22 decembrie 2020 privind rectificarea bugetului local din trimestrul IV anul 2020",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/13603",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/13603",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

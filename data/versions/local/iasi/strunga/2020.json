@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/strunga/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--strunga-44-2020",
+   "path": "local/iasi/strunga/2020/44",
+   "short": "HCL Strunga nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 44/2020 privind aprobarea modificării bugetului propriu al Consiliului local al comunei Strunga, județul Iași, pe trimestrul IV, anul 2020",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23511",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-47-2020",
+   "path": "local/iasi/strunga/2020/47",
+   "short": "HCL Strunga nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 47/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului local al comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23514",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-48-2020",
+   "path": "local/iasi/strunga/2020/48",
+   "short": "HCL Strunga nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 48/2020 privind organizarea Comisiilor de specialitate ale Consiliului local al comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23515",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-52-2020",
+   "path": "local/iasi/strunga/2020/52",
+   "short": "HCL Strunga nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 52/2020 privind aprobarea modificării bugetului propriu al Consiliului local al comunei Strunga, județul Iași, pe trimestrul IV, anul 2020",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23519",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-56-2020",
+   "path": "local/iasi/strunga/2020/56",
+   "short": "HCL Strunga nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 56/2020 privind constituirea Comisiei locale pentru organizarea, administrarea și exploatarea pajiștilor permanente ale comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23523",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-58-2020",
+   "path": "local/iasi/strunga/2020/58",
+   "short": "HCL Strunga nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 58/2020 privind aprobarea impozitelor și taxelor locale pentru anul fiscal 2021",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23525",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-63-2020",
+   "path": "local/iasi/strunga/2020/63",
+   "short": "HCL Strunga nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 63/2020 privind aprobarea inventarierii materiei impozabile la nivelul UAT Strunga, județul Iași, pentru anul 2021",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23530",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23530",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

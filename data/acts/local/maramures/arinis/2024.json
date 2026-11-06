@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/arinis/2024",
+"acts": [
+{
+"slug": "hcl-maramures--arinis-55-2024",
+"path": "local/maramures/arinis/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 55/2024 privind organizarea Rețelei Școlare a unităților de învățământ preuniversitar de stat și particular de pe raza UA.T. Comuna Ariniș pentru anul școlar 2025-2026",
+"short": "HCL Ariniș nr. 55/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-22",
+"latest": "2024-11-22",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/195344",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

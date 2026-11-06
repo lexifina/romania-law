@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/ungheni/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--ungheni-79-2025",
+   "path": "local/iasi/ungheni/2025/79",
+   "short": "HCL Ungheni nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 79/2025 privind aprobarea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/ungheni-is/registru-hcl/243087",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ungheni-is/registru-hcl/243087",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

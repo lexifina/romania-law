@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/ilfov/tunari/2023",
+"acts": [
+{
+"slug": "hcl-ilfov--tunari-135-2023",
+"path": "local/ilfov/tunari/2023/135",
+"kind": "local",
+"year": "2023",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 135/2023 privind aprobarea Regulamentului local privind amplasarea și autorizarea mijloacelor de publicitate pe raza comunei Tunari",
+"short": "HCL Tunari nr. 135/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/tunari-if/registru-hcl/129914",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--tunari-141-2023",
+"path": "local/ilfov/tunari/2023/141",
+"kind": "local",
+"year": "2023",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 141/2023 privind stabilirea Impozitelor și Taxelor Locale, precum și a taxelor speciale la nivelul comunei Tunari, județul Ilfov pe anul 2024",
+"short": "HCL Tunari nr. 141/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/tunari-if/registru-hcl/129920",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

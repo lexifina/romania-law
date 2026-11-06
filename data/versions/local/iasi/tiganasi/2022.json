@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/tiganasi/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--tiganasi-111-2022",
+   "path": "local/iasi/tiganasi/2022/111",
+   "short": "HCL Țigănași nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 111/2022 privind stabilirea nivelului unor taxe la nivelul comunei Țigănași aplicabile începând cu data de 01.01.2023",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/83001",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/83001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-113-2022",
+   "path": "local/iasi/tiganasi/2022/113",
+   "short": "HCL Țigănași nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 113/2022 privind aprobarea Regulamentului privind concesionarea, închirierea și vânzarea bunurilor imobile ce aparțin comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/83003",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/83003",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

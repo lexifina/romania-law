@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/tibanesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--tibanesti-178-2022",
+   "path": "local/iasi/tibanesti/2022/178",
+   "short": "HCL Țibănești nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 178/2022 privind aprobarea graficului de ședință al Consiliului Local Țibănești pentru trimestrul I 2023",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84393",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-179-2022",
+   "path": "local/iasi/tibanesti/2022/179",
+   "short": "HCL Țibănești nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 179/2022 privind prelungirea termenului de valabilitate a Planului Urbanistic General al comunei Țibănești, județul Iași",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84394",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-180-2022",
+   "path": "local/iasi/tibanesti/2022/180",
+   "short": "HCL Țibănești nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 180/2022 privind completarea Programului anual de achiziții publice al comunei Țibănești pe anul 2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84395",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-181-2022",
+   "path": "local/iasi/tibanesti/2022/181",
+   "short": "HCL Țibănești nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 181/2022 privind ajustarea prețului pentru apa industială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84396",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-182-2022",
+   "path": "local/iasi/tibanesti/2022/182",
+   "short": "HCL Țibănești nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 182/2022 privind activitatea desfăşurată de comisiile de specialitate ale consiliului local al comunei Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84397",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-185-2022",
+   "path": "local/iasi/tibanesti/2022/185",
+   "short": "HCL Țibănești nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 185/2022 privind aprobarea Programului anual de achiziții publice al comunei Țibănești pe anul 2023",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84400",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-186-2022",
+   "path": "local/iasi/tibanesti/2022/186",
+   "short": "HCL Țibănești nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 186/2022 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar Liceul Tehnologic ,,Petre P. Carp,, Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84401",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-187-2022",
+   "path": "local/iasi/tibanesti/2022/187",
+   "short": "HCL Țibănești nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 187/2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84402",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-188-2022",
+   "path": "local/iasi/tibanesti/2022/188",
+   "short": "HCL Țibănești nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 188/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84403",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-190-2022",
+   "path": "local/iasi/tibanesti/2022/190",
+   "short": "HCL Țibănești nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 190/2022 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar Școala Gimnazială Glodenii Gândului",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84405",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-191-2022",
+   "path": "local/iasi/tibanesti/2022/191",
+   "short": "HCL Țibănești nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 191/2022 privind alocarea din bugetul local a sumei de 50.000 lei repartizată pentru susținerea unităților de cult de pe raza comunei Ţibăneşti pentru completarea fondurilor proprii",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84406",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-192-2022",
+   "path": "local/iasi/tibanesti/2022/192",
+   "short": "HCL Țibănești nr. 192/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 192/2022 privind suplimentarea cu suma de 8500 lei din bugetul local pentru anul 2022 de la capitolul ,,Cultură,, pentru organizarea ,,Serbării - Pomul de Crăciun,,",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84407",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-193-2022",
+   "path": "local/iasi/tibanesti/2022/193",
+   "short": "HCL Țibănești nr. 193/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 193/2022 privind implementarea proiectului ,,Extindere rețea de apă și canalizare în comuna Țibănești, județul Iași,,în cadrul Programului național de Redresare și Reziliență al României, COMPONENTA 1 – Managementul apei",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/84408",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/84408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-194-2022",
+   "path": "local/iasi/tibanesti/2022/194",
+   "short": "HCL Țibănești nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 194/2022 privind aprobarea rețelei școlare a unităților de învățământ de stat și particular preuniversitar care va funcționa în anul școlar 2023 - 2024 pe raza administrativ teritorială a comunei Țibănești, județul Iași",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/85244",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/85244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-195-2022",
+   "path": "local/iasi/tibanesti/2022/195",
+   "short": "HCL Țibănești nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 195/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/85245",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/85245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-196-2022",
+   "path": "local/iasi/tibanesti/2022/196",
+   "short": "HCL Țibănești nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 196/2022 privind aprobarea contului de execuţie al bugetului de venituri și cheltuieli al Comunei Țibănești pentru TRIM IV – 2022 - preliminat",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/85246",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/85246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tibanesti-197-2022",
+   "path": "local/iasi/tibanesti/2022/197",
+   "short": "HCL Țibănești nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țibănești nr. 197/2022 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar Liceul Tehnologic ,,Petre P. Carp,, Țibănești",
+   "url": "https://emol.ro/tibanesti-is/registru-hcl/85247",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tibanesti-is/registru-hcl/85247",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

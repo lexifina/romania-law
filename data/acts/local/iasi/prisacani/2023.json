@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/iasi/prisacani/2023",
+"acts": [
+{
+"slug": "hcl-iasi--prisacani-95-2023",
+"path": "local/iasi/prisacani/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 95/2023 privind indexarea impozitului pe mijloace de transport prevăzut la art. 470 alin. (5) și alin. (6) Cod fiscal prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2023, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2024",
+"short": "HCL Prisăcani nr. 95/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/144022",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-99-2023",
+"path": "local/iasi/prisacani/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 99/2023 privind rectificarea Bugetului local de venituri și cheltuieli la nivelul trimestrului IV, anul 2023, sursa 2A, (biget local) și actualizarea listei de investiții a Comunei Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 99/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/144750",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-105-2023",
+"path": "local/iasi/prisacani/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 105/2023 privind stabilirea obligațiilor financiare suportate din bugetul local al comunei Prisăcani, județul Iași sub formă de contribuție lunară, rezultate din Acordul de cooperare pentru asigurarea funcției administrative semnat cu Asociația de Dezvoltare Intercomunitară Moldova, începând cu 01.01.2024",
+"short": "HCL Prisăcani nr. 105/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/144756",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-106-2023",
+"path": "local/iasi/prisacani/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 106/2023 privind modificarea Hotărârii nr. 77 din data de 05.10.2023 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a Devizului general actualizat pentru obiectivul de investiții „Extindere rețea de canalizare în comuna Prisăcani, județul Iași” în cadrul Programului național de investiții „Anghel Saligny”",
+"short": "HCL Prisăcani nr. 106/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/144757",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-107-2023",
+"path": "local/iasi/prisacani/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 107/2023 privind aprobarea Bugetului și al Devizului General estimativ al Obiectivului de Investiții MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA PRISĂCANI, JUDEȚUL IAȘI în lungime totală de 2305 ml",
+"short": "HCL Prisăcani nr. 107/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/144771",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

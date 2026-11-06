@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/peris/2021",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--peris-67-2021",
+   "path": "local/ilfov/peris/2021/67",
+   "short": "HCL Periș nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 67/2021 privind dreptul de folosință a suprafeței de 680 mp,reprezentând acostament De 1008,De 752, De 739 și aprobare draft contract în favoarea societăților FRADUSTRA SRL și LITEGOSA SRL",
+   "url": "https://emol.ro/peris-if/registru-hcl/45734",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-69-2021",
+   "path": "local/ilfov/peris/2021/69",
+   "short": "HCL Periș nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 69/2021 privind aprobarea organigramei, a statului de functii si a numarului de personal pentru Aparatul de specialitate al Primarului comunei Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/45736",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-70-2021",
+   "path": "local/ilfov/peris/2021/70",
+   "short": "HCL Periș nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 70/2021 privind revocarea hotãrârii de consiliu nr. 46/27.07.2021 privind aprobarea Procedurii-cadru privind vânzarea prin licitaţie publică sau negociere directa a bunurilor imobile (terenuri şi/sau clădiri) aflate în domeniul privat al Comunei Peris",
+   "url": "https://emol.ro/peris-if/registru-hcl/45737",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-73-2021",
+   "path": "local/ilfov/peris/2021/73",
+   "short": "HCL Periș nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 73/2021 privind rectificare buget trim.IV",
+   "url": "https://emol.ro/peris-if/registru-hcl/45743",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-74-2021",
+   "path": "local/ilfov/peris/2021/74",
+   "short": "HCL Periș nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 74/2021 privind aprobarea Regulamentului privind reglementarea și organizarea vânzarea prin licitaţie publică sau vănzare directa a bunurilor imobile (terenuri şi/sau clădiri) aflate în domeniul privat al Comunei Peris",
+   "url": "https://emol.ro/peris-if/registru-hcl/45744",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-77-2021",
+   "path": "local/ilfov/peris/2021/77",
+   "short": "HCL Periș nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 77/2021 privind aprobarea achiziționării de servicii juridice de consultanţă, de asistentă si/sau de reprezentare a Unităţii Administrativ-Teritoriale Comuna Periș, pentru anul 2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/45747",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-78-2021",
+   "path": "local/ilfov/peris/2021/78",
+   "short": "HCL Periș nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 78/2021 privind rectificare buget trim IV",
+   "url": "https://emol.ro/peris-if/registru-hcl/45764",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-79-2021",
+   "path": "local/ilfov/peris/2021/79",
+   "short": "HCL Periș nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 79/2021 privind aprobarea indicatorilor tehnico-economici aferenţi obiectivului: „Construire și dotare dispensar medical în comuna Periș\"",
+   "url": "https://emol.ro/peris-if/registru-hcl/45765",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-80-2021",
+   "path": "local/ilfov/peris/2021/80",
+   "short": "HCL Periș nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 80/2021 privind aprobarea indicatorilor tehnico-economici aferenţi obiectivului: „Modernizare drumuri în comuna Periș,județul Ilfov\"",
+   "url": "https://emol.ro/peris-if/registru-hcl/45766",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-81-2021",
+   "path": "local/ilfov/peris/2021/81",
+   "short": "HCL Periș nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 81/2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/45767",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-82-2021",
+   "path": "local/ilfov/peris/2021/82",
+   "short": "HCL Periș nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 82/2021 privind acordarea de mandate speciale Asociației de Dezvoltare Intercomunitară pentru Transport Public București – Ilfov în vederea aprobării proiectului de contract de delegare a gestiunii serviciului public de transport local de călători pe o perioadă de 10 ani, ce urmează a fi încheiat cu operatorul SC Regio Serv Transport SRL",
+   "url": "https://emol.ro/peris-if/registru-hcl/45768",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-84-2021",
+   "path": "local/ilfov/peris/2021/84",
+   "short": "HCL Periș nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 84/2021 privind necesitatea și oportunitatea aprobării extinderii rețelei electrice de distribuție cât și a planului cadastral cu lotizarea terenurilor",
+   "url": "https://emol.ro/peris-if/registru-hcl/45770",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-85-2021",
+   "path": "local/ilfov/peris/2021/85",
+   "short": "HCL Periș nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 85/2021 privind rectificare buget trim IV",
+   "url": "https://emol.ro/peris-if/registru-hcl/45771",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-86-2021",
+   "path": "local/ilfov/peris/2021/86",
+   "short": "HCL Periș nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 86/2021 privind indexarea impozitul pentru mijloacele de transport marfa pentru anul 2022, conform Legii nr.296/2020 si a Directive 1999/62/CE a Parlamentului European si a Consiliului",
+   "url": "https://emol.ro/peris-if/registru-hcl/45772",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/45772",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

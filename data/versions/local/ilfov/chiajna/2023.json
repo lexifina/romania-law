@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/chiajna/2023",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--chiajna-89-2023",
+   "path": "local/ilfov/chiajna/2023/89",
+   "short": "HCL Chiajna nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 89/2023 privind scăderea din evidențele fiscale a obligațiilor fiscale datorate de unii debitori, persoane juridice, radiate din Registrul Comerțului",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/131017",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/131017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-91-2023",
+   "path": "local/ilfov/chiajna/2023/91",
+   "short": "HCL Chiajna nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 91/2023 privind aprobarea măsurilor pentru gospodărirea Comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/131019",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/131019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-94-2023",
+   "path": "local/ilfov/chiajna/2023/94",
+   "short": "HCL Chiajna nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 94/2023 privind aprobarea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și amenzile aplicabile în anul fiscal 2024, în comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/133579",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/133579",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/maramures/bogdan-voda/2025",
+"acts": [
+{
+"slug": "hcl-maramures--bogdan-voda-28-2025",
+"path": "local/maramures/bogdan-voda/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 28/2025 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2025",
+"short": "HCL Bogdan Vodă nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/219434",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-29-2025",
+"path": "local/maramures/bogdan-voda/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 29/2025 privind aprobarea și delimitarea de zone turistice pe raza U.A.T Bogdan Vodă",
+"short": "HCL Bogdan Vodă nr. 29/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/222768",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-31-2025",
+"path": "local/maramures/bogdan-voda/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 31/2025 privind aprobarea încheierii contractelor de salubrizare cu S.C GLOD-SAL SRL",
+"short": "HCL Bogdan Vodă nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/222770",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

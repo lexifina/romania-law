@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/farcasa/2025",
+ "acts": [
+  {
+   "slug": "hcl-maramures--farcasa-71-2025",
+   "path": "local/maramures/farcasa/2025/71",
+   "short": "HCL Fărcașa nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 71/2025 privind stabilirea impozitelor și taxelor locale pe anul 2026",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/247409",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/247409",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

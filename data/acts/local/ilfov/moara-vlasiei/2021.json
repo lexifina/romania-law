@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/ilfov/moara-vlasiei/2021",
+"acts": [
+{
+"slug": "hcl-ilfov--moara-vlasiei-1-2021",
+"path": "local/ilfov/moara-vlasiei/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 1/2021",
+"short": "HCL Moara Vlăsiei nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/40317",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-2-2021",
+"path": "local/ilfov/moara-vlasiei/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 2/2021 privind organizarea rețelei școlare la nivelul comunei Moara Vlăsiei pentru anul școla 2020-2021",
+"short": "HCL Moara Vlăsiei nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/40318",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-3-2021",
+"path": "local/ilfov/moara-vlasiei/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 3/2021 privind trecerea din domeniul public al comunei Moara Vlăsiei în domeniul privat al comunei a unui număr de 70 loturi dezmembrate, situate în comuna Moara Vlăsiei, identificate prin numerele cadastrale NC 58616 - NC 58685",
+"short": "HCL Moara Vlăsiei nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/40319",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

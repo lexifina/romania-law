@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/schitu-duca/2021",
+"acts": [
+{
+"slug": "hcl-iasi--schitu-duca-10-2021",
+"path": "local/iasi/schitu-duca/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu Duca nr. 10/2021 privind aprobarea listei cu stațiile publice de călători existente pe raza comunei Schitu Duca, jud. Iași",
+"short": "HCL Schitu Duca nr. 10/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-12",
+"latest": "2021-02-12",
+"portal": "https://emol.ro/schituduca-is/registru-hcl/39393",
+"council": "iasi/schitu-duca",
+"council_name": "Consiliul Local al Comunei Schitu Duca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

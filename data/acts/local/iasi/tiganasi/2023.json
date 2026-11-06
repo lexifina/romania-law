@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/iasi/tiganasi/2023",
+"acts": [
+{
+"slug": "hcl-iasi--tiganasi-112-2023",
+"path": "local/iasi/tiganasi/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 112/2023 privind aprobarea înființării, a dării în folosință, a aprobării organigramei și regulamentului de organizare și funcționare a Centrului Comunitar Integrat din sat Stejarii, com Țigănași, jud Iași",
+"short": "HCL Țigănași nr. 112/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/132920",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-119-2023",
+"path": "local/iasi/tiganasi/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 119/2023 privind aprobarea actualizării Statutului comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 119/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/132927",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-120-2023",
+"path": "local/iasi/tiganasi/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 120/2023 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale consiliului local al comunei Țigănași, județul Iași",
+"short": "HCL Țigănași nr. 120/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/132928",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/prisacani/2021",
+ "acts": [
+  {
+   "slug": "hcl-iasi--prisacani-86-2021",
+   "path": "local/iasi/prisacani/2021/86",
+   "short": "HCL Prisăcani nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 86/2021 privind aprobarea taxelor și impozitelor locale și alte taxe asimilate acestora precum și amenzile aplicabile pentru anul fiscal 2022 la nivelul stabilit pentru anul fiscal 2021 în comuna Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/57827",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/57827",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

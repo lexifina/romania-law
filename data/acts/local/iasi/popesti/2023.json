@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/popesti/2023",
+"acts": [
+{
+"slug": "hcl-iasi--popesti-91-2023",
+"path": "local/iasi/popesti/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 91/2023 privind aprobarea modificărilor tehnice efectuate prin dispoziția de șantier nr. 1/2023 și a Devizului general reactualizat pentru Obiectivul de investiție MODERNIZARE SECTOR DRUM DC 36 PE O LUNGIME DE 150 DE METRI, ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI",
+"short": "HCL Popești nr. 91/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/popesti-is/registru-hcl/145289",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-92-2023",
+"path": "local/iasi/popesti/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 92/2023 privind aprobarea modificărilor tehnice efectuate prin dispoziția de șantier nr. 1/2023 și a Devizului general reactualizat pentru Obiectivul de investiție REFACERE SISTEM RUTIER PE STRADA BISERICII ÎN SAT DOROȘCANI, COMUNA POPEȘTI, JUDEȚUL IAȘI",
+"short": "HCL Popești nr. 92/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/popesti-is/registru-hcl/145290",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

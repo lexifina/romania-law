@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/tunari/2022",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--tunari-124-2022",
+   "path": "local/ilfov/tunari/2022/124",
+   "short": "HCL Tunari nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 124/2022 privind aprobarea Regulamentului de organizare şi funcţionare a patinoarului artificial mobil amplasat in comuna Tunari, judeţul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/80228",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/80228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-140-2022",
+   "path": "local/ilfov/tunari/2022/140",
+   "short": "HCL Tunari nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 140/2022 privind stabilirea Impozitelor și Taxelor Locale, precum și a taxelor speciale la nivelul comunei Tunari, județul Ilfov pe anul 2023",
+   "url": "https://emol.ro/tunari-if/registru-hcl/83877",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/83877",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

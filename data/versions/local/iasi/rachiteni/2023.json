@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/rachiteni/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--rachiteni-36-2023",
+   "path": "local/iasi/rachiteni/2023/36",
+   "short": "HCL Răchiteni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 36/2023 privind rectificarea bugetului de venituri și cheltuieli a Consiliului Local Răchiteni pentru luna iulie 2023, precum și modificarea listei investițiilor",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/119754",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/119754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-38-2023",
+   "path": "local/iasi/rachiteni/2023/38",
+   "short": "HCL Răchiteni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 38/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziționarea produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/119769",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/119769",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

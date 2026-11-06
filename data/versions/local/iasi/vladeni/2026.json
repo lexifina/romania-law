@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/vladeni/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--vladeni-102-2026",
+   "path": "local/iasi/vladeni/2026/102",
+   "short": "HCL Vlădeni nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 102/2026 privind aprobarea ordinii de zi a ședinței extraordinare convocate de îndată a Consiliului Local al Comunei Vlădeni din data de 09 octombrie 2026",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/292634",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/292634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-103-2026",
+   "path": "local/iasi/vladeni/2026/103",
+   "short": "HCL Vlădeni nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 103/2026 privind modificarea bugetului creditelor interne al comunei Vlădeni pe anul 2026",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/292635",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/292635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-104-2026",
+   "path": "local/iasi/vladeni/2026/104",
+   "short": "HCL Vlădeni nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 104/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Vlădeni din data de 29 octombrie 2026",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/296064",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/296064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-105-2026",
+   "path": "local/iasi/vladeni/2026/105",
+   "short": "HCL Vlădeni nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 105/2026",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/296065",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/296065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-106-2026",
+   "path": "local/iasi/vladeni/2026/106",
+   "short": "HCL Vlădeni nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 106/2026 privind aprobarea achiziției de material antiderapant pentru sezonul rece 2026-2027 la nivelul Comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/296066",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/296066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-107-2026",
+   "path": "local/iasi/vladeni/2026/107",
+   "short": "HCL Vlădeni nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 107/2026 privind revocarea Hotărârii Consiliului Local al Comunei Vlădeni nr. 69 din 31.07.2026 privind aprobarea apartenenței la domeniul privat al Comunei Vlădeni a unei suprafețe de teren",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/296067",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/296067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-108-2026",
+   "path": "local/iasi/vladeni/2026/108",
+   "short": "HCL Vlădeni nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 108/2026 privind rectificarea bugetului local de venituri și cheltuieli al Comunei Vlădeni, județul Iași, pentru anul 2026, actualizarea listei de investiții și aprobarea raportului privind rezultatele procesului de etichetare a cheltuielilor bugetare aferente programului de investiții publice",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/296068",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/296068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-90-2026",
+   "path": "local/iasi/vladeni/2026/90",
+   "short": "HCL Vlădeni nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 90/2026 privind trecerea în domeniul public al Comunei Vlădeni, județul Iași, a unei suprafețe de teren de pe raza Comunei Vlădeni, județul Iași, în vederea implementării proiectului „CONSTRUIRE PARC DE JOACĂ ȘI DE RECREERE PENTRU COPII ȘI TINERET ÎN SATUL BORȘA, COMUNA VLĂDENI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/288149",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/288149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-91-2026",
+   "path": "local/iasi/vladeni/2026/91",
+   "short": "HCL Vlădeni nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 91/2026 privind depunerea si implementarea proiectului „CAPACITĂŢI DE PRODUCERE ENERGIE DIN SURSE REGENERABILE, CU CAPACITATI DE STOCARE, PENTRU CONSUM PROPRIU ÎN COMUNA VLĂDENI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/288150",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/288150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-92-2026",
+   "path": "local/iasi/vladeni/2026/92",
+   "short": "HCL Vlădeni nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 92/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vlădeni din data de 30.09.2026",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291275",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-93-2026",
+   "path": "local/iasi/vladeni/2026/93",
+   "short": "HCL Vlădeni nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 93/2026 privind însușirea cheltuielilor ocazionate de organizarea și desfășurarea manifestării cultural-artistice „Ziua Comunei Vlădeni” din data de 16 august 2026",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291276",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-94-2026",
+   "path": "local/iasi/vladeni/2026/94",
+   "short": "HCL Vlădeni nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 94/2026 privind aprobarea documentaţiei tehnico-economice - faza Proiect tehnic si a devizului general actualizat aferent obiectivului de investitii \" CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC DIN COMUNA VLADENI, JUDETUL IASI\"",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291277",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-95-2026",
+   "path": "local/iasi/vladeni/2026/95",
+   "short": "HCL Vlădeni nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 95/2026 privind aprobarea valorii finale rezultată din contractele de achiziție aferente obiectivului de investiții „RENOVAREA ENERGETICĂ MODERATĂ A ȘCOLII CU CLASELE I-IV DIN COMUNA VLĂDENI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291278",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-96-2026",
+   "path": "local/iasi/vladeni/2026/96",
+   "short": "HCL Vlădeni nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 96/2026 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Vlădeni , județul Iași , nr.67/31.07.2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat al obiectivului de investitiții ,,Reabilitare clădire Grădiniță sat Vlădeni, comuna Vlădeni, județul Iași, pentru creșterea eficienței energetice’’",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291279",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-99-2026",
+   "path": "local/iasi/vladeni/2026/99",
+   "short": "HCL Vlădeni nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 99/2026 privind anularea planurilor parcelare din tarlaua nr. 65, aflate în intravilanul Comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/291282",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/291282",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

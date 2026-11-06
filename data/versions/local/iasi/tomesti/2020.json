@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/tomesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--tomesti-134-2020",
+   "path": "local/iasi/tomesti/2020/134",
+   "short": "HCL Tomești nr. 134/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 134/2020 privind aprobarea „organigramei și a statelor de funcții pentru aparatul de specialitate al primarului comunei Tomești, județul Iași, având în vedere adresa nr. 30394/2020”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15878",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-139-2020",
+   "path": "local/iasi/tomesti/2020/139",
+   "short": "HCL Tomești nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 139/2020 privind aprobarea „impozitelor şi taxelor locale, în Comuna Tomești, pentru anul 2021”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15883",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-142-2020",
+   "path": "local/iasi/tomesti/2020/142",
+   "short": "HCL Tomești nr. 142/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 142/2020 privind aprobarea schimbării denumirii străzii Bahlui, în strada Primăverii, situată în sat Tomești, comuna Tomeşti, judeţul Iaşi",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15886",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-144-2020",
+   "path": "local/iasi/tomesti/2020/144",
+   "short": "HCL Tomești nr. 144/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 144/2020 privind aprobarea „Planului de acțiuni și de lucrări de interes local pentru realizarea unor activități pe anul 2021 (lucrări, servicii, etc.) de interes comunitar, de către personalul beneficiar al Legii nr. 416/2001”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/15888",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/15888",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

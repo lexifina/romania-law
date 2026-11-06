@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/tunari/2024",
+"acts": [
+{
+"slug": "hcl-ilfov--tunari-152-2024",
+"path": "local/ilfov/tunari/2024/152",
+"kind": "local",
+"year": "2024",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 152/2024 privind stabilirea Impozitelor și Taxelor Locale, precum și a taxelor speciale la nivelul comunei Tunari, județul Ilfov pe anul 2025",
+"short": "HCL Tunari nr. 152/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-20",
+"latest": "2025-01-20",
+"portal": "https://emol.ro/tunari-if/registru-hcl/182510",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

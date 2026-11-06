@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/maramures/grosi/2023",
+"acts": [
+{
+"slug": "hcl-maramures--grosi-97-2023",
+"path": "local/maramures/grosi/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 97/2023 privind aprobarea Proiectului tehnic, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Înființare pistă de biciclete în comuna Groși, județul Maramureș”",
+"short": "HCL Groși nr. 97/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/128085",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-99-2023",
+"path": "local/maramures/grosi/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 99/2023 privind aprobarea dezmembrării în două loturi a imobilului identificat în Cartea Funciară cu numărul 52463 Groși, având numărul cadastral 52463, conform documentației cadastrale avizate de către OCPI Maramureș cu numărul 67592 din 31.10.2023",
+"short": "HCL Groși nr. 99/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/129557",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

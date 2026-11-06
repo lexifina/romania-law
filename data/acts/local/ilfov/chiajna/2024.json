@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/ilfov/chiajna/2024",
+"acts": [
+{
+"slug": "hcl-ilfov--chiajna-80-2024",
+"path": "local/ilfov/chiajna/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 80/2024 privind aprobarea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și amenzile aplicabile în anul fiscal 2025, în comuna Chiajna",
+"short": "HCL Chiajna nr. 80/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/184497",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-88-2024",
+"path": "local/ilfov/chiajna/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 88/2024 privind stabilirea salariilor de bază pentru funcţiile din cadrul aparatului de specialitate al primarului, precum și din cadrul serviciilor publice din subordinea consiliului local Chiajna, [\\n]începând cu data de 01.01.2025",
+"short": "HCL Chiajna nr. 88/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/184505",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

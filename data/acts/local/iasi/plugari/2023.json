@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/iasi/plugari/2023",
+"acts": [
+{
+"slug": "hcl-iasi--plugari-76-2023",
+"path": "local/iasi/plugari/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 76/2023 privind aprobarea alocarii sumelor necesare desfasurarii activitatilor culturale si organizarii ,,Pomului de iarna “ din luna decembrie 2023",
+"short": "HCL Plugari nr. 76/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/plugari-is/registru-hcl/130203",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-84-2023",
+"path": "local/iasi/plugari/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 84/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Plugari, județul Iași pentru o perioadă de trei luni, respectiv lunile ianuarie , februarie , martie 2024",
+"short": "HCL Plugari nr. 84/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139862",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-85-2023",
+"path": "local/iasi/plugari/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 85/2023 privind aprobarea Graficului de sedinte ordinare ale Consiliului Local al comunei Plugari, judetul Iasi, pentru trim .I 2024",
+"short": "HCL Plugari nr. 85/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139863",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-86-2023",
+"path": "local/iasi/plugari/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 86/2023 privind stabilirea si aprobarea impozitelor şi taxelor locale,precum şi a taxelor speciale,pentru anul fiscal 2024,la nivelul comunei Plugari,judetul Iasi",
+"short": "HCL Plugari nr. 86/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139864",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-87-2023",
+"path": "local/iasi/plugari/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 87/2023 privind însusirea Raportului de evaluare imobiliara pentru suprafata de 4.128 mp teren,situat in intravilanul satului Plugari,numar cadastral 60823,aflat in domeniul privat al comunei Plugari",
+"short": "HCL Plugari nr. 87/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139865",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-88-2023",
+"path": "local/iasi/plugari/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 88/2023 privind aprobarea normativului propriu de cheltuieli privind consumul lunar de carburanti,pentru autovehiculele si utilajele aflate în dotarea Primăriei comunei Plugari, judeţul Iaşi",
+"short": "HCL Plugari nr. 88/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139866",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-89-2023",
+"path": "local/iasi/plugari/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 89/2023 privind modificarea si completarea Anexei nr.1 a Hotararii nr.29 din 20 aprilie 2022 privind stabilirea salariilor de bază pentru functiile publice si contractuale din cadrul Primariei comunei Plugari, judeţul Iași",
+"short": "HCL Plugari nr. 89/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139867",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-90-2023",
+"path": "local/iasi/plugari/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 90/2023 privind modificarea si completarea Anexei nr.1 a Hotararii nr.33/09.05.2023 privind stabilirea salariilor de bază pentru functiile publice si contractuale din cadrul Primariei comunei Plugari, judeţul Iași",
+"short": "HCL Plugari nr. 90/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139868",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-92-2023",
+"path": "local/iasi/plugari/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 92/2023 privind aprobarea indicatorilor tehnico-economici actualizaţi la faza PTH și a cheltuielilor legate de proiect pentru obiectivul :„Înființare piste pentru cicliști în comuna Plugari, județul Iași”",
+"short": "HCL Plugari nr. 92/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139870",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-93-2023",
+"path": "local/iasi/plugari/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 93/2023 privind revocarea Hotararii nr.82/09.11.2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul Aparatului de specialitate al Primarului comunei Plugari, judeţul Iasi,începând cu 01 ianuarie 2024",
+"short": "HCL Plugari nr. 93/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139871",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-94-2023",
+"path": "local/iasi/plugari/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 94/2023 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli în trim.IV,luna decembrie,anul 2023",
+"short": "HCL Plugari nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139872",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--plugari-95-2023",
+"path": "local/iasi/plugari/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 95/2023 privind modificarea si completarea Listei de investitii in trim.IV,luna decembrie,anul 2023,cu finantare partiala sau integrala de la buget",
+"short": "HCL Plugari nr. 95/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/139873",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+"country": "RO",
+"shard": "local/maramures/arinis/2025",
+"acts": [
+{
+"slug": "hcl-maramures--arinis-46-2025",
+"path": "local/maramures/arinis/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 46/2025",
+"short": "HCL Ariniș nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-03",
+"latest": "2025-09-03",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/227036",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--arinis-57-2025",
+"path": "local/maramures/arinis/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 57/2025 privind aprobarea întocmirii documentației pentru atestare unitară ca Zonă Turistică de Interes Local - Codru Maramureș a celor șapte localități și depunerea acesteia la Ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului în vederea inițierii unei Hotărâri a Guvernului României pentru atestarea stațiunii turistice",
+"short": "HCL Ariniș nr. 57/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/237795",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-60-2025",
+"path": "local/maramures/arinis/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 60/2025 privind organizarea Rețelei Școlare a unităților de învățământ preuniversitar de stat și particular de pe raza UA.T. Comuna Ariniș pentru anul școlar 2026-2027",
+"short": "HCL Ariniș nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/240746",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-61-2025",
+"path": "local/maramures/arinis/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 61/2025",
+"short": "HCL Ariniș nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/240747",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

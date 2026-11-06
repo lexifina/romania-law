@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/iasi/rachiteni/2021",
+"acts": [
+{
+"slug": "hcl-iasi--rachiteni-2-2021",
+"path": "local/iasi/rachiteni/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 2/2021 privind aprobarea numărului de posturi de asistenți personali pentru persoanele cu handicap grav în anul 2021",
+"short": "HCL Răchiteni nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24541",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-4-2021",
+"path": "local/iasi/rachiteni/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 4/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2021 ce vor fi efectuate de către beneficiarii de venit minim garantat, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+"short": "HCL Răchiteni nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24543",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-5-2021",
+"path": "local/iasi/rachiteni/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 5/2021 privind Planificarea strategică de dezvoltare a serviciilor sociale, a activității compartimentului de asistență socială din cadrul Primăriei Răchiteni, Iași",
+"short": "HCL Răchiteni nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24544",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-7-2021",
+"path": "local/iasi/rachiteni/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 7/2021 privind aprobarea Regulamentului de organizare și funcționare al Aparatului de specialitate al Primarului Comunei Răchiteni, Iași",
+"short": "HCL Răchiteni nr. 7/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24546",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-8-2021",
+"path": "local/iasi/rachiteni/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 8/2021 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Răchiteni, Iași, pentru anul școlar 2021-2022",
+"short": "HCL Răchiteni nr. 8/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24547",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-9-2021",
+"path": "local/iasi/rachiteni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 9/2021 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2021",
+"short": "HCL Răchiteni nr. 9/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24548",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-10-2021",
+"path": "local/iasi/rachiteni/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 10/2021 privind aprobarea planului de achiziții pe anul 2021 al Consiliului Local al Comunei Răchiteni",
+"short": "HCL Răchiteni nr. 10/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24549",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rachiteni-11-2021",
+"path": "local/iasi/rachiteni/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 11/2021 privind alegerea președintelui de ședință a Consiliului Local Răchiteni pentru lunile februarie 2021, martie 2021, aprilie 2021",
+"short": "HCL Răchiteni nr. 11/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/24550",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/plugari/2020",
+ "acts": [
+  {
+   "slug": "hcl-iasi--plugari-77-2020",
+   "path": "local/iasi/plugari/2020/77",
+   "short": "HCL Plugari nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 77/2020 privind aprobarea Regulamentului de Organizare si Functionare a Consiliului local al comunei Plugari,judetul Iasi",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27676",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-79-2020",
+   "path": "local/iasi/plugari/2020/79",
+   "short": "HCL Plugari nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 79/2020 privind aprobarea Graficului de sedinte ordinare ale Consiliului Local al comunei Plugari, judetul Iasi, pentru trim .IV 2020",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27678",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-80-2020",
+   "path": "local/iasi/plugari/2020/80",
+   "short": "HCL Plugari nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 80/2020 privind validarea Dispozitiei nr.98/25.09.2020 emisa de Primarul comunei Plugari,judetul Iasi, privind rectificarea bugetului local de venituri şi cheltuieli anul 2020",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27679",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-81-2020",
+   "path": "local/iasi/plugari/2020/81",
+   "short": "HCL Plugari nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 81/2020 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli in trim.IV 2020",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27680",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-82-2020",
+   "path": "local/iasi/plugari/2020/82",
+   "short": "HCL Plugari nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 82/2020 privind modificarea si completarea Listei de investitii in trim.IV,anul 2020, cu finantare partiala sau integrala de la buget",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27681",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-83-2020",
+   "path": "local/iasi/plugari/2020/83",
+   "short": "HCL Plugari nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 83/2020 privind aprobarea proiectului ,,Achizitei de tablete scolare si alte echipamente necesare desfasurarii activitatii didactice on-line in comuna Plugari,judetul Iasi",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27682",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-85-2020",
+   "path": "local/iasi/plugari/2020/85",
+   "short": "HCL Plugari nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 85/2020 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii ,,Construire ,,SCUAR” in localitatea Plugari,comuna Plugari,judetul Iasi”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27684",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-87-2020",
+   "path": "local/iasi/plugari/2020/87",
+   "short": "HCL Plugari nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 87/2020 privind aprobarea Structurii organizatorice – organigrama si statul de functii al personalului din cadrul Primariei comunei Plugari, judetul Iasi, ca urmare a transformarii unui post contractual",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27686",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-88-2020",
+   "path": "local/iasi/plugari/2020/88",
+   "short": "HCL Plugari nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 88/2020 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii ,, Retea de date wireless UAT Comuna Plugari,judetul Iasi”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27687",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-89-2020",
+   "path": "local/iasi/plugari/2020/89",
+   "short": "HCL Plugari nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 89/2020 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli in trim.IV 2020",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27688",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-91-2020",
+   "path": "local/iasi/plugari/2020/91",
+   "short": "HCL Plugari nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 91/2020 privind aprobarea Graficului de sedinte ordinare ale Consiliului Local al comunei Plugari, judetul Iasi, pentru trim .I 2021",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27691",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-92-2020",
+   "path": "local/iasi/plugari/2020/92",
+   "short": "HCL Plugari nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 92/2020 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale,pentru anul fiscal 2021",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27692",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-93-2020",
+   "path": "local/iasi/plugari/2020/93",
+   "short": "HCL Plugari nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 93/2020 privind alocarea sumelor necesare organizarii ,,Pomului de Craciun” si a festivitatilor ,,Datini si obiceiuri de iarna” din luna decembrie 2020",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27693",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-95-2020",
+   "path": "local/iasi/plugari/2020/95",
+   "short": "HCL Plugari nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 95/2020 privind aprobarea documentatiei si a indicatorilor tehnico-economici ai proiectului de investitie: “Înființare rețea de distribuție gaze naturale în Comuna Plugari din județul Iași si Comuna Prăjeni din județul Botoșani”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27695",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-96-2020",
+   "path": "local/iasi/plugari/2020/96",
+   "short": "HCL Plugari nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 96/2020 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli in trim.IV 2020",
+   "url": "https://emol.ro/plugari-is/registru-hcl/27696",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/27696",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

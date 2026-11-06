@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/popesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--popesti-103-2025",
+   "path": "local/iasi/popesti/2025/103",
+   "short": "HCL Popești nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 103/2025 privind instituirea taxei speciale pentru prestarea serviciului de iluminat public începând cu anul 2026 în comuna Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/242524",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/242524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-106-2025",
+   "path": "local/iasi/popesti/2025/106",
+   "short": "HCL Popești nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 106/2025 privind stabilirea impozitelor şi taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/popesti-is/registru-hcl/242527",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/242527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-97-2025",
+   "path": "local/iasi/popesti/2025/97",
+   "short": "HCL Popești nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 97/2025 privind aprobarea Regulamentului privind activitățile de tăiere,toaletare, depozitare și valorificare a lemnului rezultat din spațiile verzi și alte terenuri cu vegetație forestieră situate în intravilanul comunei Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/237191",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/237191",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

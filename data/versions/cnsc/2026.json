@@ -3,6 +3,21 @@
  "shard": "cnsc/2026",
  "acts": [
   {
+   "slug": "cnsc-decizie-2026-2456",
+   "path": "cnsc/decizie/2026/2456",
+   "short": "Decizia CNSC nr. 2456/C3/1427 din 29.07.2026",
+   "title": "Decizia CNSC nr. 2456/C3/1427 din 29.07.2026: contestația ENTERPRISE SOFTWARE DEVELOPMENT SRL în contradictoriu cu CONSILIUL NATIONAL PENTRU COMBATEREA DISCRIMINARII",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDFlNzNkMmQtNDI1Yi00NTBkLWE0ZmItZDdmY2RjYjk1ZGJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDU2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDFlNzNkMmQtNDI1Yi00NTBkLWE0ZmItZDdmY2RjYjk1ZGJm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDU2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "f7534527a16ae192f50da0e8b24d49a77d77cc2f78a559d6e776ae533ae44ea9"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2026-2458",
    "path": "cnsc/decizie/2026/2458",
    "short": "Decizia CNSC nr. 2458/C9/1913 din 30.07.2026",

@@ -1,0 +1,293 @@
+{
+"country": "RO",
+"shard": "local/iasi/popricani/2023",
+"acts": [
+{
+"slug": "hcl-iasi--popricani-121-2023",
+"path": "local/iasi/popricani/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 121/2023 privind implementarea proiectului: „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA POPRICANI, JUDEȚUL IAȘI”",
+"short": "HCL Popricani nr. 121/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/popricani-is/registru-hcl/133758",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-122-2023",
+"path": "local/iasi/popricani/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 122/2023",
+"short": "HCL Popricani nr. 122/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139429",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-123-2023",
+"path": "local/iasi/popricani/2023/123",
+"kind": "local",
+"year": "2023",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 123/2023 privind aprobarea implementării obiectivului de investiții \" Construirea unui centru de zi pentru persoane vârstnice și furnizarea de servicii sociale de îngrijire la domiciliu în comuna Popricani, județul Iași",
+"short": "HCL Popricani nr. 123/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139430",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-124-2023",
+"path": "local/iasi/popricani/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 124/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Popricani, pentru anul 2023, validarea dispoziției primarului nr. 569/03.11.2023",
+"short": "HCL Popricani nr. 124/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139431",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-125-2023",
+"path": "local/iasi/popricani/2023/125",
+"kind": "local",
+"year": "2023",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 125/2023 privind modificarea organigramei, a statului de funcții și a numărului de personal pentru aparatul de specialitate al primarului comunei Popricani, județul Iași",
+"short": "HCL Popricani nr. 125/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139432",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-127-2023",
+"path": "local/iasi/popricani/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 127/2023 privind actualizarea planului de achiziții publice pe anul 2023",
+"short": "HCL Popricani nr. 127/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139452",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-128-2023",
+"path": "local/iasi/popricani/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 128/2023 privind aprobarea Planului Urbanistic Zonal pentru \" Construire stație mixtă de distribuție carburanțo, instalare skid gpl, totem, amenajare platformă auto neacoperită, branșamente utilități, împrejmuire, amenajare acces la drumul public și as R.L.U aferent acestuia - inițator S.C OCTANO DOWNSTREAM SRL",
+"short": "HCL Popricani nr. 128/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139453",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-129-2023",
+"path": "local/iasi/popricani/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 129/2023 privind aprobarea impozitelor și taxelor locale pe anul 2024",
+"short": "HCL Popricani nr. 129/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139454",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-130-2023",
+"path": "local/iasi/popricani/2023/130",
+"kind": "local",
+"year": "2023",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 130/2023 privind aprobarea planului de lucrări de interes local pentru anul 2024 ( beneficiari Legea nr. 416/2001 privind venitul minim garantat )",
+"short": "HCL Popricani nr. 130/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139455",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-131-2023",
+"path": "local/iasi/popricani/2023/131",
+"kind": "local",
+"year": "2023",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 131/2023 privind validarea dispoziției primarului nr. 1206/19.12.2023 ( rectificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2023 )",
+"short": "HCL Popricani nr. 131/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139456",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-132-2023",
+"path": "local/iasi/popricani/2023/132",
+"kind": "local",
+"year": "2023",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 132/2023 privind aprobarea ajustării prețului pentru apă industrială pentru întreaga arie de operare a APIVITAL S.A",
+"short": "HCL Popricani nr. 132/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139457",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-133-2023",
+"path": "local/iasi/popricani/2023/133",
+"kind": "local",
+"year": "2023",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 133/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009- consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr.5",
+"short": "HCL Popricani nr. 133/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139458",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-134-2023",
+"path": "local/iasi/popricani/2023/134",
+"kind": "local",
+"year": "2023",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 134/2023 privind aprobarea rețelei școlare a unităților de învățământ care vor funcționa în anul școlar 2024-2025 pe raza administrativ teritorială a comunei Popricani, județul Iași",
+"short": "HCL Popricani nr. 134/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://emol.ro/popricani-is/registru-hcl/139459",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

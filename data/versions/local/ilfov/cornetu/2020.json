@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/cornetu/2020",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--cornetu-100-2020",
+   "path": "local/ilfov/cornetu/2020/100",
+   "short": "HCL Cornetu nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 100/2020 privind însușirea Raportului de reevaluare a unor active fixe corporale care aparțin domeniului publical comunei Cornetu",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27605",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-81-2020",
+   "path": "local/ilfov/cornetu/2020/81",
+   "short": "HCL Cornetu nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 81/2020",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27584",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-82-2020",
+   "path": "local/ilfov/cornetu/2020/82",
+   "short": "HCL Cornetu nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 82/2020 privind transferul dreptului de proprietate asupra unor imobile - terenuri, din proprietatea publică a comunei Cornetu, în prorpietatea publică al Statului Roman, reprezentat de Ministerul Transporturilor, Infrastructurii și Comunicațiilor, prin Compania Națiobnala de Administrare a Infrastructurii Rutiere SA, cuprinse în coridorul de expropiere al lucrării de utilitate publică de interes național ”Autostrada de centura București km 0+000 - km 100+900 - sector Centura Sud km 52+770 - km 100+900",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27585",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-83-2020",
+   "path": "local/ilfov/cornetu/2020/83",
+   "short": "HCL Cornetu nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 83/2020 privind acordarea de mandat special Asociației de Dezvoltare Intercomunitară pentru Transport Public București-Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27586",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-84-2020",
+   "path": "local/ilfov/cornetu/2020/84",
+   "short": "HCL Cornetu nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 84/2020 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli al comunei Cornetu pentru trimestrul III al anului 2020",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27587",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-85-2020",
+   "path": "local/ilfov/cornetu/2020/85",
+   "short": "HCL Cornetu nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 85/2020 privind aprobarea cuantumului și a numărului burselor aferente semestrului I al anului școlar 2020-2021 pentru elevii din învățământul preuniversitar de stat",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27588",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-88-2020",
+   "path": "local/ilfov/cornetu/2020/88",
+   "short": "HCL Cornetu nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 88/2020 privind rectificarea bugetului local al comunei Cornetu, județul Ilfov pentru anul 2020",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27591",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-89-2020",
+   "path": "local/ilfov/cornetu/2020/89",
+   "short": "HCL Cornetu nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 89/2020 privind aprobarea planului de deszăpezire pentru iarna 2020-2021",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27592",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-90-2020",
+   "path": "local/ilfov/cornetu/2020/90",
+   "short": "HCL Cornetu nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 90/2020 privind rectificarea bugetului local al comunei Cornetu, județul Ilfov pentru anul 2020",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27595",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-91-2020",
+   "path": "local/ilfov/cornetu/2020/91",
+   "short": "HCL Cornetu nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 91/2020 privind alegerea viceprimarului comunei Cornetu, județul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27596",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-92-2020",
+   "path": "local/ilfov/cornetu/2020/92",
+   "short": "HCL Cornetu nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 92/2020 privind stabilirea impozitelor, taxelor și tarifelor locale pentru anul 2021",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27597",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-93-2020",
+   "path": "local/ilfov/cornetu/2020/93",
+   "short": "HCL Cornetu nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 93/2020 privind aprobarea taxelor de redeventa pentru concesionarea terenurilor din domeniul privat al comunei Cornetu, în condițiile art. 15 lit. e și art. 17 din Legea nr. 50/1991, republicata, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27598",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-94-2020",
+   "path": "local/ilfov/cornetu/2020/94",
+   "short": "HCL Cornetu nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 94/2020 privind rectificarea bugetului de venituri și cheltuieli pe anul 2020 al SC ADP CORNETU SERV SRL",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27599",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-95-2020",
+   "path": "local/ilfov/cornetu/2020/95",
+   "short": "HCL Cornetu nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 95/2020 privind rectificarea bugetului local al comunei Cornetu, județul Ilfov pentru anul 2020",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27600",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-96-2020",
+   "path": "local/ilfov/cornetu/2020/96",
+   "short": "HCL Cornetu nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 96/2020 privind modificarea și completarea inventarului bunurilor care aparțin domeniului public al comunei Cornetu",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27601",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-97-2020",
+   "path": "local/ilfov/cornetu/2020/97",
+   "short": "HCL Cornetu nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 97/2020 privind trecerea unor bunuri imobile din domeniul public în domeniul privat al comunei Cornetu, județul Ilfov",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27602",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-98-2020",
+   "path": "local/ilfov/cornetu/2020/98",
+   "short": "HCL Cornetu nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 98/2020 privind actualizarea componenței Comisiei pentru programe de dezvoltare economico-sociala, buget, finanțe, administrarea domeniului public și privat al comunei, agricultura, gospodărire comunala, amenajarea teritoriului și urbanism, protecția mediului, turism, servicii și comerț",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27603",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-99-2020",
+   "path": "local/ilfov/cornetu/2020/99",
+   "short": "HCL Cornetu nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 99/2020 privind modificarea Hotărârii Consiliului Local nr. 92/21.12.2020 privind stabilirea impozitelor, taxelor și tarifelor locale pentru anul 2021",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/27604",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/27604",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

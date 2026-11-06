@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/farcasa/2021",
+ "acts": [
+  {
+   "slug": "hcl-maramures--farcasa-53-2021",
+   "path": "local/maramures/farcasa/2021/53",
+   "short": "HCL Fărcașa nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 53/2021 privind deschiderea unei căi publice și atribuirea unei denumiri de stradă",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/40528",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/40528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-54-2021",
+   "path": "local/maramures/farcasa/2021/54",
+   "short": "HCL Fărcașa nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 54/2021 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr. 25 din 28 mai 2020 privind atribuirea unor denumiri de străzi și pentru modificarea și completarea Hotărârii Consiliului local al comunei Fărcașa 76 din 28 noiembrie 2019 privind identificarea străzilor din comuna Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/40529",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/40529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-56-2021",
+   "path": "local/maramures/farcasa/2021/56",
+   "short": "HCL Fărcașa nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 56/2021 privind declanșarea procedurii de trecere din domeniul public al comunei Fărcașa în domeniul public al județului Maramureș a imobilului—teren fără construcții, în suprafață de 204.145 m²",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/40531",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/40531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-57-2021",
+   "path": "local/maramures/farcasa/2021/57",
+   "short": "HCL Fărcașa nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 57/2021 privind aprobarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2022",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/42986",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/42986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-61-2021",
+   "path": "local/maramures/farcasa/2021/61",
+   "short": "HCL Fărcașa nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 61/2021 privind modificarea anexei la Hotărârea Consiliului local al comunei Fărcașa nr. 56 din 19 octombrie 2021 privind declanșarea procedurii de trecere din domeniul public al comunei Fărcașa în domeniul public al județului Maramureș a imobilului—teren fără construcții, în suprafață de 204.145 m²",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/42990",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/42990",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

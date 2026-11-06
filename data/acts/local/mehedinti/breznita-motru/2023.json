@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/breznita-motru/2023",
+"acts": [
+{
+"slug": "hcl-mehedinti--breznita-motru-52-2023",
+"path": "local/mehedinti/breznita-motru/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 52/2023 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2024-2025",
+"short": "HCL Breznița-Motru nr. 52/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-29",
+"latest": "2023-12-29",
+"portal": "https://emol.ro/breznita-motru-mh/registru-hcl/135782",
+"council": "mehedinti/breznita-motru",
+"council_name": "Consiliul Local al Comunei Breznița-Motru",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

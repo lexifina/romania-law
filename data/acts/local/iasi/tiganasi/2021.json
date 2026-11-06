@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/iasi/tiganasi/2021",
+"acts": [
+{
+"slug": "hcl-iasi--tiganasi-93-2021",
+"path": "local/iasi/tiganasi/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 93/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+"short": "HCL Țigănași nr. 93/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/44413",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tiganasi-95-2021",
+"path": "local/iasi/tiganasi/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 95/2021 privind stabilirea nivelului unor taxe la nivelul comunei Țigănași aplicabile începând cu data de 01.01.2022",
+"short": "HCL Țigănași nr. 95/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://emol.ro/tiganasi-is/registru-hcl/44415",
+"council": "iasi/tiganasi",
+"council_name": "Consiliul Local al Comunei Țigănași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

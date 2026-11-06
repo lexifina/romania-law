@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/maramures/bicaz/2022",
+"acts": [
+{
+"slug": "hcl-maramures--bicaz-1-2022",
+"path": "local/maramures/bicaz/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 1/2022 privind aprobarea bugetului local al comunei Bicaz pe anul 2022",
+"short": "HCL Bicaz nr. 1/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61450",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-2-2022",
+"path": "local/maramures/bicaz/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 2/2022 privind rectificarea bugetului local al comunei BICAZ , pe anul 2022",
+"short": "HCL Bicaz nr. 2/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61451",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-4-2022",
+"path": "local/maramures/bicaz/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 4/2022 privind aprobarea Planului de actiuni si lucrari de interes local in vederea aplicarii Legii nr.416/2001 privind venitul minim garantat pe anul 2022",
+"short": "HCL Bicaz nr. 4/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61453",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-5-2022",
+"path": "local/maramures/bicaz/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 5/2022",
+"short": "HCL Bicaz nr. 5/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-18",
+"latest": "2022-03-18",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61454",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-6-2022",
+"path": "local/maramures/bicaz/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 6/2022 privind aprobarea solicitării de prelungire a valabilitatii scrisorii de garanție emisă de catre Fondul de Garantare a Creditului Rural – IFN S.A",
+"short": "HCL Bicaz nr. 6/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61455",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-7-2022",
+"path": "local/maramures/bicaz/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 7/2022 privind aprobarea Regulamentului de Ordine Interioară al aparatului de specialitate al Primarului comunei Bicaz, judeţul Maramures",
+"short": "HCL Bicaz nr. 7/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61456",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-8-2022",
+"path": "local/maramures/bicaz/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 8/2022 privind rectificarea bugetului local al comunei BICAZ , pe anul 2022",
+"short": "HCL Bicaz nr. 8/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61457",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-9-2022",
+"path": "local/maramures/bicaz/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 9/2022 privind aprobarea parteneriatului constituit în vederea obținerii finanțării prin Programul National de Investiții „Anghel Saligny”, pentru obiectivul de investiții ” INFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNELE BĂSEȘTI-OARȚA DE JOS-BICAZ”",
+"short": "HCL Bicaz nr. 9/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61458",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-10-2022",
+"path": "local/maramures/bicaz/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 10/2022 privind aprobarea Cererii de Finanțare și a Devizului General Estimativ aferent cofinanțării proprii pentru obținerea finanțării prin Programul National de Investiții „Anghel Saligny” pentru obiectivul de investiții ”INFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNELE BĂSEȘTI-OARȚA DE JOS-BICAZ”",
+"short": "HCL Bicaz nr. 10/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61459",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

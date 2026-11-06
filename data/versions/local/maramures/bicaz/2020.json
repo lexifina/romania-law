@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/bicaz/2020",
+ "acts": [
+  {
+   "slug": "hcl-maramures--bicaz-10-2020",
+   "path": "local/maramures/bicaz/2020/10",
+   "short": "HCL Bicaz nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 10/2020 cu privire la rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/1779",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/1779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-11-2020",
+   "path": "local/maramures/bicaz/2020/11",
+   "short": "HCL Bicaz nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 11/2020 privind actualizarea Planului de analiza si acoperire a riscurilor la nivelul comunei Bicaz,judetul Maramures",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/1780",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/1780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-12-2020",
+   "path": "local/maramures/bicaz/2020/12",
+   "short": "HCL Bicaz nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 12/2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/7308",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/7308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-13-2020",
+   "path": "local/maramures/bicaz/2020/13",
+   "short": "HCL Bicaz nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 13/2020 privind darea în administrarea Școlii gimnaziale Bicaz a unor imobile – clădiri și teren",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/7309",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/7309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-14-2020",
+   "path": "local/maramures/bicaz/2020/14",
+   "short": "HCL Bicaz nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 14/2020 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 2019,al comunei BICAZ",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/7310",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/7310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-15-2020",
+   "path": "local/maramures/bicaz/2020/15",
+   "short": "HCL Bicaz nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 15/2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/7311",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/7311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-16-2020",
+   "path": "local/maramures/bicaz/2020/16",
+   "short": "HCL Bicaz nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 16/2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/7312",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/7312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-17-2020",
+   "path": "local/maramures/bicaz/2020/17",
+   "short": "HCL Bicaz nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 17/2020 privind aprobarea solicitării de prelungire a scrisorii de garanție emisă de catre Fondul de Garantare a Creditului Rural – IFN S.A",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/7313",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/7313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-18-2020",
+   "path": "local/maramures/bicaz/2020/18",
+   "short": "HCL Bicaz nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 18/2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/8821",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/8821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-19-2020",
+   "path": "local/maramures/bicaz/2020/19",
+   "short": "HCL Bicaz nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 19/2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/10675",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/10675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-20-2020",
+   "path": "local/maramures/bicaz/2020/20",
+   "short": "HCL Bicaz nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 20/2020 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local al comunei Bicaz",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16188",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-21-2020",
+   "path": "local/maramures/bicaz/2020/21",
+   "short": "HCL Bicaz nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 21/2020 privind alegerea viceprimarului comunei Bicaz ,Judetul Maramures",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16204",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-22-2020",
+   "path": "local/maramures/bicaz/2020/22",
+   "short": "HCL Bicaz nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 22/2020 privind validarea dispozitiei primarului nr.59/28.10.2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16205",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-23-2020",
+   "path": "local/maramures/bicaz/2020/23",
+   "short": "HCL Bicaz nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 23/2020 privind aprobarea organizarii Retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza comuna Bicaz,judetul Maramures pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16206",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-24-2020",
+   "path": "local/maramures/bicaz/2020/24",
+   "short": "HCL Bicaz nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 24/2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16207",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-26-2020",
+   "path": "local/maramures/bicaz/2020/26",
+   "short": "HCL Bicaz nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 26/2020 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Local al Comunei Bicaz, judetul Maramures",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16211",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-27-2020",
+   "path": "local/maramures/bicaz/2020/27",
+   "short": "HCL Bicaz nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 27/2020 privind validarea dispozitiilor primarului nr.79 si 81/2020 privind rectificarea bugetului local al comunei BICAZ , pe anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16210",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-28-2020",
+   "path": "local/maramures/bicaz/2020/28",
+   "short": "HCL Bicaz nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 28/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2021",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/16209",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/16209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-9-2020",
+   "path": "local/maramures/bicaz/2020/9",
+   "short": "HCL Bicaz nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 9/2020 privind aprobarea tipului de suport alimentar pentru prescolarii si elevii Scolii Gimnaziale Bicaz , in anul 2020",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/1778",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/1778",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

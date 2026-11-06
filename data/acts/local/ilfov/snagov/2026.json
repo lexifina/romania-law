@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/ilfov/snagov/2026",
+"acts": [
+{
+"slug": "hcl-ilfov--snagov-113-2026",
+"path": "local/ilfov/snagov/2026/113",
+"kind": "local",
+"year": "2026",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Snagov nr. 113/2026 privind rectificarea bugetului local al Comunei Snagov pe anul 2026 și actualizarea Listei obiectivelor de investiții",
+"short": "HCL Snagov nr. 113/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/snagov-if/registru-hcl/290195",
+"council": "ilfov/snagov",
+"council_name": "Consiliul Local al Comunei Snagov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--snagov-114-2026",
+"path": "local/ilfov/snagov/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Snagov nr. 114/2026 privind aprobarea decontării contravalorii cheltuielilor de deplasare ale personalului didactic și didactic auxiliar din unitățile de învățământ de pe raza Comunei Snagov",
+"short": "HCL Snagov nr. 114/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/snagov-if/registru-hcl/290196",
+"council": "ilfov/snagov",
+"council_name": "Consiliul Local al Comunei Snagov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--snagov-115-2026",
+"path": "local/ilfov/snagov/2026/115",
+"kind": "local",
+"year": "2026",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Snagov nr. 115/2026",
+"short": "HCL Snagov nr. 115/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/snagov-if/registru-hcl/290197",
+"council": "ilfov/snagov",
+"council_name": "Consiliul Local al Comunei Snagov",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--snagov-119-2026",
+"path": "local/ilfov/snagov/2026/119",
+"kind": "local",
+"year": "2026",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Snagov nr. 119/2026 privind rectificarea bugetului local al Comunei Snagov pe anul 2026 și modificarea listei obiectivelor de investiții",
+"short": "HCL Snagov nr. 119/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/snagov-if/registru-hcl/294085",
+"council": "ilfov/snagov",
+"council_name": "Consiliul Local al Comunei Snagov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--snagov-120-2026",
+"path": "local/ilfov/snagov/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Snagov nr. 120/2026 privind aprobarea decontării contravalorii cheltuielilor de deplasare ale personalului didactic și didactic auxiliar din unitățile de învățământ de pe raza Comunei Snagov, aferente lunilor august și septembrie 2026",
+"short": "HCL Snagov nr. 120/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/snagov-if/registru-hcl/294086",
+"council": "ilfov/snagov",
+"council_name": "Consiliul Local al Comunei Snagov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--snagov-121-2026",
+"path": "local/ilfov/snagov/2026/121",
+"kind": "local",
+"year": "2026",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Snagov nr. 121/2026 privind aprobarea decontării contravalorii cheltuielilor de deplasare ale personalului didactic și didactic auxiliar din cadrul Liceului Teoretic „Mihail Kogălniceanu” Snagov, aferente lunii septembrie 2026",
+"short": "HCL Snagov nr. 121/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/snagov-if/registru-hcl/294087",
+"council": "ilfov/snagov",
+"council_name": "Consiliul Local al Comunei Snagov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--snagov-122-2026",
+"path": "local/ilfov/snagov/2026/122",
+"kind": "local",
+"year": "2026",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Snagov nr. 122/2026 privind aprobarea organizării și desfășurării evenimentului cultural-educativ „Festivalul Toamnei în Lumini Cercetășești”, în data de 23 octombrie 2026 și alocarea sumei de 20.000 lei din bugetul local al Comunei Snagov",
+"short": "HCL Snagov nr. 122/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/snagov-if/registru-hcl/294088",
+"council": "ilfov/snagov",
+"council_name": "Consiliul Local al Comunei Snagov",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}
