@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/dobresti/2024",
+ "acts": [
+  {
+   "slug": "hcl-bihor--dobresti-100-2024",
+   "path": "local/bihor/dobresti/2024/100",
+   "short": "HCL Dobrești nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 100/2024 privind rectificarea bugetului local al comunei Dobresti pe anul 2024",
+   "url": "https://emol.ro/dobresti-bh/registru-hcl/179711",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dobresti-bh/registru-hcl/179711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--dobresti-101-2024",
+   "path": "local/bihor/dobresti/2024/101",
+   "short": "HCL Dobrești nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 101/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/dobresti-bh/registru-hcl/179712",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dobresti-bh/registru-hcl/179712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--dobresti-102-2024",
+   "path": "local/bihor/dobresti/2024/102",
+   "short": "HCL Dobrești nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 102/2024 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al Comunei Dobrești",
+   "url": "https://emol.ro/dobresti-bh/registru-hcl/179713",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dobresti-bh/registru-hcl/179713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--dobresti-103-2024",
+   "path": "local/bihor/dobresti/2024/103",
+   "short": "HCL Dobrești nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 103/2024 privind actualizarea Organigramei, a Statului de funcții, a Statului de personal și a numărului de posturi de la nivelul Comunei Dobrești, județul Bihor",
+   "url": "https://emol.ro/dobresti-bh/registru-hcl/179714",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dobresti-bh/registru-hcl/179714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--dobresti-104-2024",
+   "path": "local/bihor/dobresti/2024/104",
+   "short": "HCL Dobrești nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 104/2024 privind solicitarea de trecere cu titlu gratuit a unor drumuri forestiere din domeniul public al Statului și din administrarea Regiei Naționale a pădurilor-Romsilva în domeniul public al comunei Dobrești și în administrarea Consiliului Local al comunei Dobrești, județul Bihor",
+   "url": "https://emol.ro/dobresti-bh/registru-hcl/179715",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dobresti-bh/registru-hcl/179715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--dobresti-106-2024",
+   "path": "local/bihor/dobresti/2024/106",
+   "short": "HCL Dobrești nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 106/2024 privind aprobarea reţelei şcolare ce va funcţiona la nivelul unităţii noastre administrativ teritoriale în anul școlar 2025-2026",
+   "url": "https://emol.ro/dobresti-bh/registru-hcl/179717",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dobresti-bh/registru-hcl/179717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--dobresti-97-2024",
+   "path": "local/bihor/dobresti/2024/97",
+   "short": "HCL Dobrești nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 97/2024 privind aprobarea participarii la “Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici, precum si pentru asigurarea și susținerea cheltuielilor necesare implementării proiectului care nu sunt finanțate de AFM pentru proiectul ”Extinderea si modernizarea sistemului de iluminat public in Comuna Dobresti, judetul Bihor”",
+   "url": "https://emol.ro/dobresti-bh/registru-hcl/176977",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dobresti-bh/registru-hcl/176977",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

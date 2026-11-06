@@ -91,6 +91,95 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcl-tulcea--sulina-109-2025",
+"path": "local/tulcea/sulina/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 109/2025 privind stabilirea taxelor pentru activitatea autofinantata ,,PIATA” pentru anul 2026",
+"short": "HCL Sulina nr. 109/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-110-2025",
+"path": "local/tulcea/sulina/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 110/2025 privind stabilirea taxelor de autorizare pentru organizarea și desfășurarea unor activități economice, de turism și agrement pe teritoriul Rezervației Biosferei „Delta Dunării”, pe raza de competenta a orasului Sulina pentru anul 2026",
+"short": "HCL Sulina nr. 110/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-113-2025",
+"path": "local/tulcea/sulina/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 113/2025",
+"short": "HCL Sulina nr. 113/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-117-2025",
+"path": "local/tulcea/sulina/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 117/2025 privind aprobarea stabilirii impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Sulina nr. 117/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/gurahont/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--gurahont-101-2023",
+   "path": "local/arad/gurahont/2023/101",
+   "short": "HCL Gurahonț nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 101/2023 privind aprobarea Regulamentului de organizare şi funcţionare al Primăriei comunei Gurahonţ",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137635",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-103-2023",
+   "path": "local/arad/gurahont/2023/103",
+   "short": "HCL Gurahonț nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 103/2023 privind stabilirea numărului și cuantumului burselor acordate în învățământul preuniversitar de stat din Comuna Gurahonț, în anul școlar 2022-2023",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137637",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-107-2023",
+   "path": "local/arad/gurahont/2023/107",
+   "short": "HCL Gurahonț nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 107/2023 privind aprobarea reţelei şcolare în anul şcolar 2024-2025 pe raza Comunei Gurahonţ, judeţul Arad",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137641",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-98-2023",
+   "path": "local/arad/gurahont/2023/98",
+   "short": "HCL Gurahonț nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 98/2023 privind impozitele și taxele locale, precum și taxe speciale, pe anul 2024",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137632",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137632",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

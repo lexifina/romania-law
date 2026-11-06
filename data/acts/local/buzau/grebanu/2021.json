@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/grebanu/2021",
+"acts": [
+{
+"slug": "hcl-buzau--grebanu-51-2021",
+"path": "local/buzau/grebanu/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 51/2021 privind stabilirea impozitelor şi taxelor locale pe anul 2022",
+"short": "HCL Grebănu nr. 51/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#8363",
+"council": "buzau/grebanu",
+"council_name": "Consiliul Local al Comunei Grebănu",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

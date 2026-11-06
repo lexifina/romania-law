@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/corbasca/2020",
+ "acts": [
+  {
+   "slug": "hcl-bacau--corbasca-54-2020",
+   "path": "local/bacau/corbasca/2020/54",
+   "short": "HCL Corbasca nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 54/2020 privind aprobarea referatului de dezmembrare si incheierea actului notarial de dezmembrare,pentru imobilul situat in localitatea Marvila,comuna Corbasca,judetul Bacau,avand numar cadastral 60447 al UAT Corbasca,planul de amplasament si delimitare a imobilului cu propunere de dezlipire in suprafata de 1190 mp",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/8078",
+   "versions": [
+    {
+     "from": "2020-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/8078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-55-2020",
+   "path": "local/bacau/corbasca/2020/55",
+   "short": "HCL Corbasca nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 55/2020 privind aprobarea serviciilor de proiectare si de consultanta a obiectivului de investitii “Infiintare sistem de distribuție gaze naturale în comuna Corbasca, judeul Bacau”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/8079",
+   "versions": [
+    {
+     "from": "2020-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/8079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-56-2020",
+   "path": "local/bacau/corbasca/2020/56",
+   "short": "HCL Corbasca nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 56/2020 privind aprobarea rectificarii bugetului local al comunei Corbasca,judetul Bacau,pentru anul 2020",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/9827",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/9827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-57-2020",
+   "path": "local/bacau/corbasca/2020/57",
+   "short": "HCL Corbasca nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 57/2020 privind ORGANIZAREA COMISIILOR PE DOMENII DE SPECIALITATE , ALE CONSILIULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/11393",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/11393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-58-2020",
+   "path": "local/bacau/corbasca/2020/58",
+   "short": "HCL Corbasca nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 58/2020",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/11394",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/11394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-59-2020",
+   "path": "local/bacau/corbasca/2020/59",
+   "short": "HCL Corbasca nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 59/2020",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/11395",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/11395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-61-2020",
+   "path": "local/bacau/corbasca/2020/61",
+   "short": "HCL Corbasca nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 61/2020 privind aprobarea actualizarii Devizului General si a indicatorilor economici penrtru realizarea obiectivului de invstitii „MODERNIZARE SCOALA GIMNAZIALA SAT.BACIOIU,COMUNA CORBASCA,JUDETUL BACAU”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/11397",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/11397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-62-2020",
+   "path": "local/bacau/corbasca/2020/62",
+   "short": "HCL Corbasca nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 62/2020 privind APROBAREA EXECUTIEI BUGETARE A BUGETULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU PE TRIMESTRUL -III- 2020",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/11398",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/11398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-64-2020",
+   "path": "local/bacau/corbasca/2020/64",
+   "short": "HCL Corbasca nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 64/2020 privind aprobarea achizitionarii de servicii de consultanta,de asistenta si/sau de reprezentare juridica in Dosarul nr.2706/110/2020-in materie de contencios administrativ si fiscal inregistrat pe rolul Tribunalului Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/12319",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/12319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-65-2020",
+   "path": "local/bacau/corbasca/2020/65",
+   "short": "HCL Corbasca nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 65/2020 privind atribuirea denumirii strazilor si numaratoarea caselor din satele comunei Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/12320",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/12320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-66-2020",
+   "path": "local/bacau/corbasca/2020/66",
+   "short": "HCL Corbasca nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 66/2020 privind aprobarea Acordului de Parteneriat al UAT PÂNCESTI, CORBASCA, TĂTĂRĂSTI, Judetul BACAU în vederea accesarii programului de investitii „Dezvoltarea rețelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/12321",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/12321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-67-2020",
+   "path": "local/bacau/corbasca/2020/67",
+   "short": "HCL Corbasca nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 67/2020 privind RECTIFICAREA BUGETULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU, PENTRU ANUL 2020",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/12322",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/12322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-69-2020",
+   "path": "local/bacau/corbasca/2020/69",
+   "short": "HCL Corbasca nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 69/2020 privind aprobarea Devizul General actualizat in anul 2020,dupa inchiderea procedurilor de achizitie publica, pentru realizarea obiectivului de investiţii „MODERNIZARE DRUMURI DE INTERES LOCAL,COMUNA CORBASCA,JUDETUL BACAU”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/13091",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/13091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-70-2020",
+   "path": "local/bacau/corbasca/2020/70",
+   "short": "HCL Corbasca nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 70/2020 privind aprobarea indicatorilor tehnico-economici, pentru realizarea obiectivului de investiţii „REFACERE ZONA AFECTATA DE CALAMITATI DE LA KM 2+435 DE PE DRUMUL AGRICOL SCARISOARA-ROGOAZA,COMUNA CORBASCA,JUDETUL BACAU”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/13092",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/13092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-71-2020",
+   "path": "local/bacau/corbasca/2020/71",
+   "short": "HCL Corbasca nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 71/2020 privind STABILIREA IMPOZITELOR SI TAXELOR LOCALE SI A UNOR ALTE TAXE LOCALE PENTRU ANUL 2021",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/13093",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/13093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-72-2020",
+   "path": "local/bacau/corbasca/2020/72",
+   "short": "HCL Corbasca nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 72/2020 privind APROBAREA DEVIZULUI GENERAL SI A INDICATORILOR TEHNICO-ECONOMICI SI ASIGURARII DE LA BUGETUL LOCAL A CHELTUIELILOR NEELIGIBILE PENTRU REALIZAREA OBIECTIVULUI DE INVESTITII”REABILITARE,MODERNIZARE SI DOTARE PARC,COMUNA CIORBASCA,JUDETUL BACAU”IN CADRUL P.N.D.R",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/13094",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/13094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-73-2020",
+   "path": "local/bacau/corbasca/2020/73",
+   "short": "HCL Corbasca nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 73/2020 privind implementarea proiectului „SISTEM INTELIGENT DISTRIBUTIE GAZE NATURALE , COMUNA CORBASCA, JUD BACAU”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/13095",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/13095",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

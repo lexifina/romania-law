@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/otopeni/2024",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--otopeni-38-2024",
+   "path": "local/ilfov/otopeni/2024/38",
+   "short": "HCL Otopeni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 38/2024 privind aprobarea documentației: PLAN URBANISTIC ZONAL pentru obiectivul “INTRODUCERE TEREN ÎN INTRAVILAN, LOTIZARE PENTRU CONSTRUIRE LOCUINȚE UNIFAMILIALE CU REGIM DE ÎNĂLȚIME DE MAXIM P+1E+M ȘI FUNCȚIUNI COMPLEMENTARE” propus să se realizeze pe terenul în suprafață de 17. HCL 38 din 16.09.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/gpuDX_HCL_38_din_16_09_2024_pdf.pdf",
+     "sha256": "91910e9457971b5de4809c15d0c01a4439e1bee73349c97d1cbdf44ca6753526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-57-2024",
+   "path": "local/ilfov/otopeni/2024/57",
+   "short": "HCL Otopeni nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 57/2024 privind zonificarea localității și stabilirea impozitelor și taxelor locale pentru anul fiscal 2025 HCL nr. 57 din 19.12.2024 privind zonificarea localitatii si stabilirea impozitelor si taxelor locale pentru anul fiscal 2025.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/tFkov_HCL_nr__57_din_19_12_2024_privind_zonificarea_localitatii_si_stabilirea_impozitelor_si_taxelor_locale_pentru_anul_fiscal_2025_pdf.pdf",
+     "sha256": "ec6c531c3e8a9e0883d64fa218370a0f0471248f536aad7e2b096007fcedb97b"
+    }
+   ]
+  }
+ ]
+}

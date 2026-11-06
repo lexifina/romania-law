@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/vaslui/murgeni/2025",
+"acts": [
+{
+"slug": "hcl-vaslui--murgeni-94-2025",
+"path": "local/vaslui/murgeni/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 94/2025 privind aprobarea scoaterii din evidență și trecerea într-o evidență separată a debitorilor aflați în stare de insolvabilitate Având în vedere temeiurile juridice, respectiv:  art. 265, 266 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare;  Ordinul nr. 447/2007 pentru aprobarea Procedurii privind declararea stării de insolvabilitate a debitori",
+"short": "HCL Murgeni nr. 94/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-94-din-2025-12-30-5913c6be52.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--murgeni-95-2025",
+"path": "local/vaslui/murgeni/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 95/2025 privind scoaterea din evidentele fiscale ale Primariei Murgeni a unor procese verbale de contravenție și scăderea sumei de 101449 lei reprezentând amenzi contravenționale, ale unor debitori decedați Având în vedere temeiurile juridice, respectiv:  pct.20 lit „d” si pct 21 din Ordinul Ministerului Economiei și Finanțelor nr.447/2007 pentru aprobarea Procedurii privind declararea stării de insolvab",
+"short": "HCL Murgeni nr. 95/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-95-din-2025-12-30-71bec21e12.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--murgeni-97-2025",
+"path": "local/vaslui/murgeni/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 97/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026 Având în vedere temeiurile juridice, respectiv prevederile: 1. art.56 ,art.120,alin(1),art.121,alin (1) si (2) si art.139,alin (2) din Constituția României ,republicată; 2. articolul 4 si articolul 9, paragraful 3 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr. 199/1997",
+"short": "HCL Murgeni nr. 97/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-97-din-2025-12-30-22958dbf33.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

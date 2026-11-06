@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arges/rucar/2024",
+ "acts": [
+  {
+   "slug": "hcl-arges--rucar-44-2024",
+   "path": "local/arges/rucar/2024/44",
+   "short": "HCL Rucăr nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 44/2024 privind aprobarea programului aferent manifestării ”Expopastoralis 2024 ” Rucăr și a premiilor care vor fi acordate pentru bonitatea animalelor ce vor participa în cadrul concursurilor ce se vor desfășura în cadrul acestei manifestării",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172153",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-51-2024",
+   "path": "local/arges/rucar/2024/51",
+   "short": "HCL Rucăr nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 51/2024 privind aprobarea locației de desfășurare a manifestării ”Expopastoralis 2024 ” Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172165",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172165",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

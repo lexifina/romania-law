@@ -1,0 +1,140 @@
+{
+"country": "RO",
+"shard": "local/bacau/dofteana/2024",
+"acts": [
+{
+"slug": "hcl-bacau--dofteana-160-2024",
+"path": "local/bacau/dofteana/2024/160",
+"kind": "local",
+"year": "2024",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 160/2024",
+"short": "HCL Dofteana nr. 160/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": null,
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--dofteana-161-2024",
+"path": "local/bacau/dofteana/2024/161",
+"kind": "local",
+"year": "2024",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 161/2024 PROIECT DE HOTARARE privind aprobarea structurii organizatorice de functionare pe timp de razboi a comunei Dofteana, potrivit HG nr. 1204/2007 privind aprobarea asigurarii fortei de munca necesare pe timpul starii de asediu, la mobilizare si pe timpul starii de razboi",
+"short": "HCL Dofteana nr. 161/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://dofteana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4223#84364",
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--dofteana-163-2024",
+"path": "local/bacau/dofteana/2024/163",
+"kind": "local",
+"year": "2024",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 163/2024 PROIECT DE HOTARARE privind Rectificarea Bugetului de venituri si cheltuieli pentru anul 2024 si estimarea bugetului de venituri si cheltuieli pentru anii 2025-2027",
+"short": "HCL Dofteana nr. 163/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://dofteana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4223#84730",
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--dofteana-164-2024",
+"path": "local/bacau/dofteana/2024/164",
+"kind": "local",
+"year": "2024",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 164/2024 PROIECT DE HOTARARRE privind aprobarea finanțării de la bugetul local a proiectului de dotare “Achiziție sistem audio pentru evenimentele socio-culturale din Comuna Dofteana”",
+"short": "HCL Dofteana nr. 164/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://dofteana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4223#84754",
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--dofteana-165-2024",
+"path": "local/bacau/dofteana/2024/165",
+"kind": "local",
+"year": "2024",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 165/2024 PROIECT DE HOTARARE privind completarea art. 1 din HCL nr. 187 din 30 noiembrie 2023 și anume: în exprimarea „ Datini și obiceiuri” sunt cuprinse – cete de urși, cete de mascați, colindători, urători, plugușorul, focul de artificii, precum și asigurarea transportului cetelor de urși și colindători pentru participarea la diferite concursuri și evenimente din alte localități",
+"short": "HCL Dofteana nr. 165/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://dofteana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4223#84755",
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--dofteana-170-2024",
+"path": "local/bacau/dofteana/2024/170",
+"kind": "local",
+"year": "2024",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dofteana nr. 170/2024",
+"short": "HCL Dofteana nr. 170/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": null,
+"council": "bacau/dofteana",
+"council_name": "Consiliul Local al Comunei Dofteana",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

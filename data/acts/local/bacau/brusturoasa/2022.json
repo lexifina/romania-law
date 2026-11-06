@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bacau/brusturoasa/2022",
+"acts": [
+{
+"slug": "hcl-bacau--brusturoasa-70-2022",
+"path": "local/bacau/brusturoasa/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 70/2022 privind implementarea proiectului „Dezvoltarea serviciilor publice in Comuna Brusturoasa prin achizitie de utilaje\"",
+"short": "HCL Brusturoasa nr. 70/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/78301",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-80-2022",
+"path": "local/bacau/brusturoasa/2022/80",
+"kind": "local",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 80/2022 Privind rectificarea bugetului de venituri cheltuieli si a listei de investitii pentru anul 2022",
+"short": "HCL Brusturoasa nr. 80/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/86056",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-81-2022",
+"path": "local/bacau/brusturoasa/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 81/2022 Privind aprobarea contului de executie a bugetului local al comunei Brusturoasa pentru trimestrul IV 2022",
+"short": "HCL Brusturoasa nr. 81/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/86057",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-87-2022",
+"path": "local/bacau/brusturoasa/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 87/2022 privind stabilirea cuantumului impozitelor și taxelor locale pentru anul 2023",
+"short": "HCL Brusturoasa nr. 87/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/86063",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -16,6 +16,51 @@
      "sha256": "cf5d424281e8cdccbb4cfe514fd445a529bece8e62a470a34c876ebf8e797cce"
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-48-2023",
+   "path": "local/botosani/mihaileni/2023/48",
+   "short": "HCL Mihăileni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 48/2023 privind stabilirea impozitelor si taxelor locale pe anul 2024 Nr: 48 (Adaugat la data 13.12.2023) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95l-1Pf3V7PaXXm9YkwbXuP2Hi8--wRzn9YhmgG8YtgUV6eD6cSSEKPNdYdJg3sidDEYMfXHwfno0p2Ow2F23_5WWCRAxIh_53_7dw6Y3pteL_fAPqiCgjRgKOy_IUSTPCu_y1oEakyaKWlT4DyfTl6JDTpd8s9RNU_-0xzPUx617Fb58U",
+     "sha256": "33aa824c2a6eeec860ac0bb528663e040b999e4abf716b83651444f60c74c53e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-50-2023",
+   "path": "local/botosani/mihaileni/2023/50",
+   "short": "HCL Mihăileni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 50/2023 privind aprobarea prelungirii Planului Urbanistic General Nr: 50 (Adaugat la data 13.12.2023) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95q1FlV9HaXLf6FFruv6awNQhtsG8Rvjj8dW957QNISO7nGVbv9crdb0tOHd4R_lr2OWKx2mhFodgdZQSPrvU0Pg01UVKMhYaFhs8jk5Y-eSsx2sAmDFj4-_70H81ffGtOn-iKIPfgRaZWqImBWF46TDu6vLmBl_QUQWBcBPJbRiaegq3s",
+     "sha256": "7512b24b0ac737b623bc3df2e1d42a4b6ff4196e1c32ee9974d2e83e3f0f14b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-51-2023",
+   "path": "local/botosani/mihaileni/2023/51",
+   "short": "HCL Mihăileni nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 51/2023 privind aprobarea prelungirii Planului Urbanistic General Nr: 51 (Adaugat la data 13.12.2023) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97KQM5HQxaoxM1Jzsi2rzDk-8gJPCt-1WLiTZp4B2c3MNYA2xXE2FVlsoO0M8P8aXFgpTUpkjj9I6y9ilUZcYGdFJC7fAZKrzg1lKCDECkz62K8PbuhNW2M3IfpoDIVe1ERd2vRemOkhuJLNBS1N2O0XvLgDQ6mmi4oho7ddPTqXeQalfw",
+     "sha256": "8b0659a29766e4e0b74b8a781a3ee91368af50117627d20fbb70f0c93d147de5"
+    }
+   ]
   }
  ]
 }

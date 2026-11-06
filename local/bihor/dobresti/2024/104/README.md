@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Dobrești nr. 104/2024 privind solicitarea de trecere cu titlu gratuit a unor drumuri forestiere din domeniul public al Statului și din administrarea Regiei Naționale a pădurilor-Romsilva în domeniul public al comunei Dobrești și în administrarea Consiliului Local al comunei Dobrești, județul Bihor
+
+HCL Dobrești nr. 104/2024 · 1 versions, from 2024-11-22 (latest in force: 2024-11-22) · <https://emol.ro/dobresti-bh/registru-hcl/179715>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--dobresti-104-2024` (tags `hcl-bihor--dobresti-104-2024/<day>`; `python tools/on.py <day> hcl-bihor--dobresti-104-2024`).
+
+## Decisions made by hand
+
+- HCL Dobrești nr. 104/2024: listed from Consiliul Local al Comunei Dobrești (emol.ro); metadata only for now: no document of it is held.
+- HCL Dobrești nr. 104/2024: dated from 22 November 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Dobrești nr. 104/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

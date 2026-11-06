@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/avram-iancu/2022",
+"acts": [
+{
+"slug": "hcl-bihor--avram-iancu-58-2022",
+"path": "local/bihor/avram-iancu/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 58/2022 privind aprobarea participarii comunei Avram Iancu la programul de interes județean ”ÎMPREUNĂ PENTRU UN JUDEȚ CURAT” și derularea acțiunilor necesare implementării programului",
+"short": "HCL Avram Iancu nr. 58/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/90676",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

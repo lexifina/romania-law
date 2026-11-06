@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/berca/2018",
+"acts": [
+{
+"slug": "hcl-buzau--berca-29-2018",
+"path": "local/buzau/berca/2018/29",
+"kind": "local",
+"year": "2018",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 29/2018 privind aprobarea achizitionarii serviciilor de prindere, transport si gestionare a cainilor fara stapan, de pe domeniul public al comunei Berca",
+"short": "HCL Berca nr. 29/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-03-28",
+"latest": "2018-03-28",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-buzau--berca-33-2018",
+"path": "local/buzau/berca/2018/33",
+"kind": "local",
+"year": "2018",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 33/2018 privind aprobarea modificarii tarifelor pentru serviciile publice de salubrizare din comuna Berca",
+"short": "HCL Berca nr. 33/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-03-28",
+"latest": "2018-03-28",
+"portal": "https://primariaberca.ro/hotarari-ale-consiliului",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/isalnita/2022",
+ "acts": [
+  {
+   "slug": "hcl-dolj--isalnita-62-2022",
+   "path": "local/dolj/isalnita/2022/62",
+   "short": "HCL Ișalnița nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 62/2022 privind mandatarea reprezentantului Consiliului Local al comunei Isalnita sa aprobe si sa voteze in Adunarea Generala a Asociatiei Termis Dolj,modificarea tarifelor pentru distributia si furnizarea energiei termice distribuita in sistem centralizat 29.08.2022 IN VIGOARE PDF HOTARAREA NR. 62 Din 29.08.2022 72,0 Ko",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-62-din-29.08.2022.pdf",
+     "sha256": "46e6c3e16dfe90fc1309f2d17f436f30c4bd071d31aa59ccc7c4c9a8979755b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--isalnita-84-2022",
+   "path": "local/dolj/isalnita/2022/84",
+   "short": "HCL Ișalnița nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ișalnița nr. 84/2022 privind aprobarea impozitelor si taxelor locale pentru anul 2023 28.11.2022 IN VIGOARE PDF HOTARAREA NR. 84 Din 28.11.2022 1,0 Mo",
+   "url": "https://isalnita.ro/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://isalnita.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-84-din-28.11.2022.pdf",
+     "sha256": "b357253c8ab78384b803d30795b0ba639e9343d9cc7645b678ed596ffad3ad87"
+    }
+   ]
+  }
+ ]
+}

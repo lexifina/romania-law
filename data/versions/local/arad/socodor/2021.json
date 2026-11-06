@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/arad/socodor/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--socodor-129-2021",
+   "path": "local/arad/socodor/2021/129",
+   "short": "HCL Socodor nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 129/2021 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 28 octombrie 2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42809",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-130-2021",
+   "path": "local/arad/socodor/2021/130",
+   "short": "HCL Socodor nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 130/2021 privind aprobarea ordinii de zi a ședinței ordinare din data de 26 noiembrie 2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42810",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-131-2021",
+   "path": "local/arad/socodor/2021/131",
+   "short": "HCL Socodor nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 131/2021 privind rectificarea bugetului local în luna noiembrie 2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42811",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-132-2021",
+   "path": "local/arad/socodor/2021/132",
+   "short": "HCL Socodor nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 132/2021 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin. (5) și alin. (6) din Codul fiscal, cu modificările și completările ulterioare, prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2021, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42812",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-133-2021",
+   "path": "local/arad/socodor/2021/133",
+   "short": "HCL Socodor nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 133/2021 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor, la nivelul comunei Socodor, care nu se supun înmatriculării",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42813",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-134-2021",
+   "path": "local/arad/socodor/2021/134",
+   "short": "HCL Socodor nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 134/2021 privind aprobarea participării Comunei Socodor în cadrul proiectului „Dezvoltarea piețelor locale exclusiv prin lanțuri scurte pentru produse alimentare proaspete”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42814",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-135-2021",
+   "path": "local/arad/socodor/2021/135",
+   "short": "HCL Socodor nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 135/2021 privind stabilirea măsurilor de protecția socială pentru consumatorul vulnerabil de energie",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42815",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-136-2021",
+   "path": "local/arad/socodor/2021/136",
+   "short": "HCL Socodor nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 136/2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/42816",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/42816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-137-2021",
+   "path": "local/arad/socodor/2021/137",
+   "short": "HCL Socodor nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 137/2021 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 26 noiembrie 2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45951",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-138-2021",
+   "path": "local/arad/socodor/2021/138",
+   "short": "HCL Socodor nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 138/2021 privind aprobarea ordinii de zi a ședinței ordinare din data de 30 decembrie 2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45952",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-139-2021",
+   "path": "local/arad/socodor/2021/139",
+   "short": "HCL Socodor nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 139/2021 privind aprobarea bugetului local rectificat în luna decembrie, definitiv pentru anul 2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45953",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-140-2021",
+   "path": "local/arad/socodor/2021/140",
+   "short": "HCL Socodor nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 140/2021 privind aprobarea bugetului definitiv pentru anul 2021 al Serviciului Apă - Canal Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45954",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-141-2021",
+   "path": "local/arad/socodor/2021/141",
+   "short": "HCL Socodor nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 141/2021 privind aprobarea bugetului definitiv pentru anul 2021 al Clubului Sportiv Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45955",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-142-2021",
+   "path": "local/arad/socodor/2021/142",
+   "short": "HCL Socodor nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 142/2021 privind aprobarea execuției bugetare la 23 decembrie 2021",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45956",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-144-2021",
+   "path": "local/arad/socodor/2021/144",
+   "short": "HCL Socodor nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 144/2021 privind aprobarea indicatorilor tehnico-economici actualizați ai proiectului „Construire școală cu clasele I-VIII Comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45958",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-145-2021",
+   "path": "local/arad/socodor/2021/145",
+   "short": "HCL Socodor nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 145/2021 privind aprobarea finanțării de la bugetul local a cheltuielilor actualizate care nu se finanțează de la bugetul de stat prin Programul PNDL la obiectivul de investiție ”Construire școală cu clasele I-VIII Comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45959",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-146-2021",
+   "path": "local/arad/socodor/2021/146",
+   "short": "HCL Socodor nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 146/2021 privind aprobarea participării la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități cu proiectul: „Amplasare stații de reîncărcare pentru vehicule electrice în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45960",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-147-2021",
+   "path": "local/arad/socodor/2021/147",
+   "short": "HCL Socodor nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 147/2021 privind aprobarea solicitării prelungirii până la data de 15.07.2022 a Scrisorii de Garantare nr.83/23.05.2017 de la FNGCIMM SA IFN în valoare de 1.809.600,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.809.600,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Modernizare străzi în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/45961",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/45961",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

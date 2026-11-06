@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/armasesti/2017",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--armasesti-18-2017",
+   "path": "local/ialomita/armasesti/2017/18",
+   "short": "HCL Armășești nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 18/2017 privind aprobarea tarifelor in vederea emitere acord prealabil",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotarare%20nr.18%20privind%20tarifelor%20in%20%20vederea%20emiterii%20acordulii%20.pdf",
+     "sha256": "992e4734586983d591e4ec13f62225ab0f1d065e23d0bc2ced60e8501ae9717c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-19-2017",
+   "path": "local/ialomita/armasesti/2017/19",
+   "short": "HCL Armășești nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 19/2017 privind instituire taxa speciala",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%20nr.19%20instituire%20taxa%20speciala.pdf",
+     "sha256": "5701c333eae73e50d3eb8dc55a6dad7f3ebdd9eeda9b559c0f64009d8b93c7d7"
+    }
+   ]
+  }
+ ]
+}

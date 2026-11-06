@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/arad/macea/2020",
+"acts": [
+{
+"slug": "hcl-arad--macea-109-2020",
+"path": "local/arad/macea/2020/109",
+"kind": "local",
+"year": "2020",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 109/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2021",
+"short": "HCL Macea nr. 109/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/macea-ar/registru-hcl/30297",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-110-2020",
+"path": "local/arad/macea/2020/110",
+"kind": "local",
+"year": "2020",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 110/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Macea nr. 110/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/macea-ar/registru-hcl/30298",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-113-2020",
+"path": "local/arad/macea/2020/113",
+"kind": "local",
+"year": "2020",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 113/2020 privind aprobarea trecerii în proprietatea publică a comunei Macea a unor drumuri din extravilan, precum și a documentațiilor cadastrale ale acestora",
+"short": "HCL Macea nr. 113/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/macea-ar/registru-hcl/30301",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-116-2020",
+"path": "local/arad/macea/2020/116",
+"kind": "local",
+"year": "2020",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 116/2020 privind la rectificarea bugetului local pe anul 2020",
+"short": "HCL Macea nr. 116/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/macea-ar/registru-hcl/30304",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--macea-120-2020",
+"path": "local/arad/macea/2020/120",
+"kind": "local",
+"year": "2020",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 120/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Macea nr. 120/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://emol.ro/macea-ar/registru-hcl/30308",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

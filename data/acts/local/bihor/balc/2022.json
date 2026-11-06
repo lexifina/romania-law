@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/bihor/balc/2022",
+"acts": [
+{
+"slug": "hcl-bihor--balc-125-2022",
+"path": "local/bihor/balc/2022/125",
+"kind": "local",
+"year": "2022",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 125/2022",
+"short": "HCL Balc nr. 125/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/balc-bh/registru-hcl/106393",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--balc-130-2022",
+"path": "local/bihor/balc/2022/130",
+"kind": "local",
+"year": "2022",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 130/2022 privind aprobarea impozitelor și taxelor locale pe anul 2023",
+"short": "HCL Balc nr. 130/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/balc-bh/registru-hcl/106399",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--balc-131-2022",
+"path": "local/bihor/balc/2022/131",
+"kind": "local",
+"year": "2022",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 131/2022 privind stabilirea impozitelor pentru autovehiculele de transport marfă cu masă totală autorizată egașă sau mai mare de 12 tone pentru anul 2023",
+"short": "HCL Balc nr. 131/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/balc-bh/registru-hcl/106400",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--balc-134-2022",
+"path": "local/bihor/balc/2022/134",
+"kind": "local",
+"year": "2022",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 134/2022 privind aprobarea obiectivului de investiții ''Reabilitare și eficientizare cămin cultural din localitatea Almașu Mare, Comuna Balc, județul Bihor''",
+"short": "HCL Balc nr. 134/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/balc-bh/registru-hcl/106403",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

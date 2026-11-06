@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/bihor/avram-iancu/2025",
+"acts": [
+{
+"slug": "hcl-bihor--avram-iancu-65-2025",
+"path": "local/bihor/avram-iancu/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 65/2025 privind Alegere Președinte de Ședință",
+"short": "HCL Avram Iancu nr. 65/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238175",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-68-2025",
+"path": "local/bihor/avram-iancu/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 68/2025 privind Aprobare Ordine de Zi",
+"short": "HCL Avram Iancu nr. 68/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238178",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-73-2025",
+"path": "local/bihor/avram-iancu/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 73/2025 privind aprobarea rectificarii nr.5 a bugetului local de venituri și cheltuieli pe trimestrul IV pe anul 2025;",
+"short": "HCL Avram Iancu nr. 73/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/238183",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-76-2025",
+"path": "local/bihor/avram-iancu/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 76/2025 privind Aprobare Ordine de Zi",
+"short": "HCL Avram Iancu nr. 76/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/240943",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-77-2025",
+"path": "local/bihor/avram-iancu/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 77/2025 privind aprobarea rectificarii nr.6 a bugetului local de venituri și cheltuieli pe trimestrul IV pe anul 2025;",
+"short": "HCL Avram Iancu nr. 77/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/240944",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-80-2025",
+"path": "local/bihor/avram-iancu/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 80/2025 privind Aprobare Ordine de Zi",
+"short": "HCL Avram Iancu nr. 80/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/243734",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-81-2025",
+"path": "local/bihor/avram-iancu/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 81/2025 privind stabilirea Impozitelor și Taxelor Locale pentru anul 2026",
+"short": "HCL Avram Iancu nr. 81/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/243735",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

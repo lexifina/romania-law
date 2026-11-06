@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/braila/baraganul/2024",
+"acts": [
+{
+"slug": "hcl-braila--baraganul-56-2024",
+"path": "local/braila/baraganul/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 56/2024",
+"short": "HCL Bărăganul nr. 56/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": null,
+"council": "braila/baraganul",
+"council_name": "Consiliul Local al Comunei Bărăganul",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--baraganul-66-2024",
+"path": "local/braila/baraganul/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 66/2024 privind Ã®nregistrarea comunei Baraganul Ã®n Sistemul NaÈional Electronic de PlatÄ (SNEP) online a taxelor Èi impozitelor utilizÃ¢nd cardul bancar, Èi implicit Ã®nrolarea Ã®n sistemul âGhiÈeul.roâ Èi stabilirea modului Ã®n care este suportat comisionul bancar",
+"short": "HCL Bărăganul nr. 66/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+"council": "braila/baraganul",
+"council_name": "Consiliul Local al Comunei Bărăganul",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--baraganul-77-2024",
+"path": "local/braila/baraganul/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 77/2024 privind aprobarea Regulamentului de eliberare a Acordului/Acordului administratorului drumului pentru efectuarea lucrarilor aferente retelelor tehnico-edilitare realizate pe proprietatile apartinand domeniului public al Comunei BÄrÄganul si care afecteaza structura ca",
+"short": "HCL Bărăganul nr. 77/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+"council": "braila/baraganul",
+"council_name": "Consiliul Local al Comunei Bărăganul",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

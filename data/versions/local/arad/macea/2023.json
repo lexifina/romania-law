@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/macea/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--macea-134-2023",
+   "path": "local/arad/macea/2023/134",
+   "short": "HCL Macea nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 134/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2024",
+   "url": "https://emol.ro/macea-ar/registru-hcl/132241",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/132241",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

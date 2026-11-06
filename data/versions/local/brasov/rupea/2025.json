@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2025",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-81-2025",
+   "path": "local/brasov/rupea/2025/81",
+   "short": "HCL Rupea nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 81/2025 16.12.2025 -privind aprobarea unei scutiri de la plata impozitului",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 3,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/81_Hotararea-nr.81-scutire-taxa-impozit-sala-plugarilor.pdf",
+     "sha256": "17ae0ac2200c2cdd859c30667723aafccbb3a9a73304bf71b6062c6d8e84f252"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-82-2025",
+   "path": "local/brasov/rupea/2025/82",
+   "short": "HCL Rupea nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 82/2025 privind prelungirea termenului de valabilitate a Planului Urbanistic General al Orașului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 4,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/82_Hotararea-nr.82-aprobare-prelungire-PUG.pdf",
+     "sha256": "a843e9d84942739118619cdca113752b5bf6769afe0dce343ed2b0dec6f20beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-83-2025",
+   "path": "local/brasov/rupea/2025/83",
+   "short": "HCL Rupea nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 83/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 6,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/83_Hotararea-nr.83-tarife-salubrizare.pdf",
+     "sha256": "870c5c3df5a93c609d4008ab86fdc82953459f9f5816d68224c842ae94f5e476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-86-2025",
+   "path": "local/brasov/rupea/2025/86",
+   "short": "HCL Rupea nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 86/2025 Privind aprobarea impozitelor și a taxelor speciale pentru anul 2026 la nivelul orașului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-86-IMP-SI-TAXE-2026.pdf",
+     "sha256": "8e9c5fcfe5256dfe7695956d7fedfa1ecd88ac17c23d37a058bf622ed9bb366e"
+    }
+   ]
+  }
+ ]
+}

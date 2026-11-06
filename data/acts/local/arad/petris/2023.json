@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/arad/petris/2023",
+"acts": [
+{
+"slug": "hcl-arad--petris-116-2023",
+"path": "local/arad/petris/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 116/2023 privind depunerea proiectului și aprobarea documentației tehnice și a indicatorilor tehnico-economici, faza Studiu de Fezabilitate, pentru Proiectul ,,Construire centrală electrofotovoltaică (CEF) pentru consumul propriu al UAT Petriș, județul Arad”",
+"short": "HCL Petriș nr. 116/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130332",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--petris-119-2023",
+"path": "local/arad/petris/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 119/2023 privind rectificarea bugetului local al comunei Petriș pe anul 2023",
+"short": "HCL Petriș nr. 119/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130335",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--petris-125-2023",
+"path": "local/arad/petris/2023/125",
+"kind": "local",
+"year": "2023",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 125/2023 privind rectificarea bugetului local al comunei Petriș pe anul 2023",
+"short": "HCL Petriș nr. 125/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/petris-ar/registru-hcl/133421",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--petris-126-2023",
+"path": "local/arad/petris/2023/126",
+"kind": "local",
+"year": "2023",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 126/2023 privind modificarea listei de investiţii pe anul 2023",
+"short": "HCL Petriș nr. 126/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/petris-ar/registru-hcl/133422",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--petris-130-2023",
+"path": "local/arad/petris/2023/130",
+"kind": "local",
+"year": "2023",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 130/2023 privind implementarea proiectului ,,Modernizare infrastructură rutieră în localitățile Petriș, Ilteu și Seliște, comuna Petriș, județul Arad”",
+"short": "HCL Petriș nr. 130/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/petris-ar/registru-hcl/136049",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

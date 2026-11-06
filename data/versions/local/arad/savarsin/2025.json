@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/savarsin/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--savarsin-93-2025",
+   "path": "local/arad/savarsin/2025/93",
+   "short": "HCL Săvârșin nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 93/2025 referitoare la proiectul de hotarare nr, 1825/19.1 1.2025 privind atestarea bunurilor care apartin domeniului publi al comunei Savarsin, jud. Arad, inaintat cu adresa 1826/19.11.2025 din partea Ministerului Dezvoltarii Lucrarilor Publice si Administratiei > Tindnd seama de prevederile art. 41 (4) din Legea nr. 24/2000 privind normele de tehnica legislative pentru claborarea actelor normative, repu",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-93-DIN-28.11.2025.pdf",
+     "sha256": "3071dc3aa57c808289cdab4b0893810f5674cb83c23da9f27a2a6f277d2426ab"
+    }
+   ]
+  }
+ ]
+}

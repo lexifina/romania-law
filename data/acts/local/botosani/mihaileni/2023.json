@@ -23,6 +23,72 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-botosani--mihaileni-48-2023",
+"path": "local/botosani/mihaileni/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 48/2023 privind stabilirea impozitelor si taxelor locale pe anul 2024 Nr: 48 (Adaugat la data 13.12.2023) Vizualizare",
+"short": "HCL Mihăileni nr. 48/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-50-2023",
+"path": "local/botosani/mihaileni/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 50/2023 privind aprobarea prelungirii Planului Urbanistic General Nr: 50 (Adaugat la data 13.12.2023) Vizualizare",
+"short": "HCL Mihăileni nr. 50/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--mihaileni-51-2023",
+"path": "local/botosani/mihaileni/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 51/2023 privind aprobarea prelungirii Planului Urbanistic General Nr: 51 (Adaugat la data 13.12.2023) Vizualizare",
+"short": "HCL Mihăileni nr. 51/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+"council": "botosani/mihaileni",
+"council_name": "Consiliul Local al Comunei Mihăileni",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

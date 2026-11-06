@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-48-2025",
+   "path": "local/arges/stalpeni/2025/48",
+   "short": "HCL Stâlpeni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 48/2025 privind stabilirea impozitelor și taxelor locale Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.48_din_29.05.2025.pdf",
+     "sha256": "ab0733c29873e4228593d275f6b99fb73447ba3399536514fa934770f72dd7df"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-5-2025",
    "path": "local/arges/stalpeni/2025/5",
    "short": "HCL Stâlpeni nr. 5/2025",
@@ -224,6 +239,21 @@
      "units": 1,
      "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.7-din-30.01.2025.pdf",
      "sha256": "e0fd71fb0b0a63d14277e88d32ec269affbad351b39ffc1abd6958ce03bf7f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-71-2025",
+   "path": "local/arges/stalpeni/2025/71",
+   "short": "HCL Stâlpeni nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 71/2025 privind modificare HCL. nr. 11/28.11.2024 privind stabilire impozite și taxe locale – închirire spațiu Târg Săptămânal Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-71-din-28.08.2025.pdf",
+     "sha256": "48c72cd23f1440a21940104b7f10aaa3692ac22f8129d06a099c222dd1421af2"
     }
    ]
   },

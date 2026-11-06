@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/sascut/2025",
+"acts": [
+{
+"slug": "hcl-bacau--sascut-95-2025",
+"path": "local/bacau/sascut/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 95/2025 privind aprobarea taxei speciale de salubritate pentru utilizatorii casnici și pentru agenții economici din Comuna Sascut , pentru anul 2026",
+"short": "HCL Sascut nr. 95/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/246655",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--sascut-98-2025",
+"path": "local/bacau/sascut/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sascut nr. 98/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Sascut nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/sascut-bc/registru-hcl/246658",
+"council": "bacau/sascut",
+"council_name": "Consiliul Local al Comunei Sascut",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

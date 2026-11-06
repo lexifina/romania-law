@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/horia/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--horia-84-2025",
+   "path": "local/constanta/horia/2025/84",
+   "short": "HCL Horia nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horia nr. 84/2025 PRIVIND STABILIREA IMPOZITELOR SI TAXELOR LOCALE PENTRU ANUL 2026",
+   "url": "https://comunahoria.ro/wp-content/uploads/2026/03/HOTARAREA-NR84-18.12.2025-PRIVIND-STABILIREA-IMPOZITELOR-SI-TAXELOR-LOCALE-PENTRU-ANUL-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://comunahoria.ro/wp-content/uploads/2026/03/HOTARAREA-NR84-18.12.2025-PRIVIND-STABILIREA-IMPOZITELOR-SI-TAXELOR-LOCALE-PENTRU-ANUL-2026.pdf",
+     "sha256": "27325ba6ef4ccb69389b894db611e96e80b2e555a8de730a682ff4d702666f0c"
+    }
+   ]
+  }
+ ]
+}

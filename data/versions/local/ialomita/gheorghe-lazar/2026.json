@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/gheorghe-lazar/2026",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--gheorghe-lazar-3-2026",
+   "path": "local/ialomita/gheorghe-lazar/2026/3",
+   "short": "HCL Gheorghe Lazăr nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gheorghe Lazăr nr. 3/2026 de modificare a hotărârii consiliului local nr. 111/30.12.2025 privind modificarea hotărârii consiliului local nr. 42/29.04.2025 privind indexarea impozitelor și taxelor locale pentru anul 2026",
+   "url": "http://www.primariagheorghelazar.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 7,
+     "source_url": "http://www.primariagheorghelazar.ro/z_Consiliul%20Local/Sedinte_CL/2026/HCL%20nr.%2003%20din%2028.01.pdf",
+     "sha256": "1824d509740f5bb038855a280e6cddb4ca90cbab9761a56056c1a8e2b8bfd24f"
+    }
+   ]
+  }
+ ]
+}

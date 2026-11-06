@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dobresti/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dobresti-5-2023",
+   "path": "local/dolj/dobresti/2023/5",
+   "short": "HCL Dobrești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 5/2023 pentru finantarea cheltuielilor descentralizate (rr.02.02).......... ..........................1,027 mii lei; a- / - ume defalcate pentru echilibrarea bugetelor locale ld; ( - ote defalcate din impozitul pe venit (04.02.01)........................ ..........207 mri l€t - core defalcate din impozitul pe venit pentru echilibrarea bugetelor locale {Or-02.0.1).......... .......................814 mii",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2023/h5.pdf",
+     "sha256": "eab2b9bdb92945e49868b455a18ade0c32d41f64b776a0aee803bb579ef97f87"
+    }
+   ]
+  }
+ ]
+}

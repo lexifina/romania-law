@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/balcauti/2022",
+"acts": [
+{
+"slug": "hcl-suceava--balcauti-7-2022",
+"path": "local/suceava/balcauti/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălcăuți nr. 7/2022 Privind aprobarea tarifelor pentru transport gunoi menajer practicat de SC Servicii Siret Comunale SA 08.02.2022 08.02.2022",
+"short": "HCL Bălcăuți nr. 7/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-02-08",
+"latest": "2022-02-08",
+"portal": "https://balcautisv.monitoruloficiallocal.ro/link/5",
+"council": "suceava/balcauti",
+"council_name": "Consiliul Local al Comunei Bălcăuți",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/balc/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--balc-101-2021",
+   "path": "local/bihor/balc/2021/101",
+   "short": "HCL Balc nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 101/2021 privind actualizarea Amenajamentului pastoral pentru pajiștile aflate pe teritoriul comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/51327",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/51327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-83-2021",
+   "path": "local/bihor/balc/2021/83",
+   "short": "HCL Balc nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 83/2021 privind achiziționarea contoarelor de apă și a căminelor apometru pentru familiile defavorizate care locuiesc în colonia de romi din satul Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/44516",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/44516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-84-2021",
+   "path": "local/bihor/balc/2021/84",
+   "short": "HCL Balc nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 84/2021 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 27 octombrie 2021, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul Administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/45907",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/45907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-85-2021",
+   "path": "local/bihor/balc/2021/85",
+   "short": "HCL Balc nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 85/2021 privind aprobarea ordinii de zi a ședinței extraordinare cu convocare de îndată a Consiliului Local al Comunei Balc din data de 01 noiembrie 2021, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul Administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/45908",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/45908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-86-2021",
+   "path": "local/bihor/balc/2021/86",
+   "short": "HCL Balc nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 86/2021 privind aprobarea indicatorilor tehnico-economici, cofinanțarea și participarea (cererea de finanțare) la Programul Național de Investiții ''Anghel Saligny'' pentru obiectivul ''Modernizare drum de legătură Ghida - Almașu Mic și drum de legătură Almașu Mare - Almașu Mic, comuna Balc, județul Bihor'', în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul Administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/45909",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/45909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-87-2021",
+   "path": "local/bihor/balc/2021/87",
+   "short": "HCL Balc nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 87/2021 privind aprobarea indicatorilor tehnico-economici, cofinanțarea și participarea (cererea de finanțare) la Programul Național de Investiții ''Anghel Saligny'' pentru obiectivul ''Extindere rețea de canalizare menajeră în comuna Balc, județul Bihor'', în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/45910",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/45910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-88-2021",
+   "path": "local/bihor/balc/2021/88",
+   "short": "HCL Balc nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 88/2021 privind aprobarea ordinii de zi a ședinței extraordinare cu convocare de îndată a Consiliului Local al Comunei Balc din data de 26 noiembrie 2021, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/45942",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/45942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-89-2021",
+   "path": "local/bihor/balc/2021/89",
+   "short": "HCL Balc nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 89/2021 privind implementarea proiectului ''Dotare cămin cultural în localitatea Almașu Mare și localitatea Săldăbagiu de Barcău'', în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/45943",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/45943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-90-2021",
+   "path": "local/bihor/balc/2021/90",
+   "short": "HCL Balc nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 90/2021 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 01 noiembrie 2021 și al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 26 noiembrie 2021, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/46221",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/46221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-91-2021",
+   "path": "local/bihor/balc/2021/91",
+   "short": "HCL Balc nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 91/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 15 decembrie 2021, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/46222",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/46222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-92-2021",
+   "path": "local/bihor/balc/2021/92",
+   "short": "HCL Balc nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 92/2021 privind rectificarea bugetului local al comunei Balc pe anul 2021, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/46223",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/46223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-93-2021",
+   "path": "local/bihor/balc/2021/93",
+   "short": "HCL Balc nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 93/2021 privind aprobarea Planului de acțiune și lucrări de interes local pe anul 2022, ce vor fi executate de către beneficarii de ajutor social, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/46224",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/46224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-94-2021",
+   "path": "local/bihor/balc/2021/94",
+   "short": "HCL Balc nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 94/2021 privind stabilirea impozitelor pentru autovehiculele de transport marfă cu masa totală autorizată egală sau mai mare de 12 tone pentru anul 2022, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/46225",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/46225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-95-2021",
+   "path": "local/bihor/balc/2021/95",
+   "short": "HCL Balc nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 95/2021 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru perioada iulie-noiembrie 2021, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/46226",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/46226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-96-2021",
+   "path": "local/bihor/balc/2021/96",
+   "short": "HCL Balc nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 96/2021 privind aprobarea participării la ''Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic - stații de reîncărcare pentru vehicule electrice în localități'', a documentației tehnico-economice și a indicatorilor tehnico-economici ai proiectului ''Stații de reîncărcare pentru vehucle electrice în comuna Balc, județul Bihor'' în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/46227",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/46227",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

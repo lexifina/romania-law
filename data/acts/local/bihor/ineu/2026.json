@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/ineu/2026",
+"acts": [
+{
+"slug": "hcl-bihor--ineu-31-2026",
+"path": "local/bihor/ineu/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 31/2026 privind aprobarea bugetului de venituri și cheltuieli rectificat pentru anul 2026",
+"short": "HCL Ineu nr. 31/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/277497",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

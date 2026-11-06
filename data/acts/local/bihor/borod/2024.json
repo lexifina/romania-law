@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/borod/2024",
+"acts": [
+{
+"slug": "hcl-bihor--borod-91-2024",
+"path": "local/bihor/borod/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 91/2024 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat care va funcționa în anul şcolar 2025-2026 la nivelul comunei Borod",
+"short": "HCL Borod nr. 91/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/borod-bh/registru-hcl/206347",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--borod-92-2024",
+"path": "local/bihor/borod/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Borod nr. 92/2024 privind aprobarea impozitelor şi taxelor locale în comuna Borod pentru anul 2025",
+"short": "HCL Borod nr. 92/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/borod-bh/registru-hcl/206348",
+"council": "bihor/borod",
+"council_name": "Consiliul Local al Comunei Borod",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

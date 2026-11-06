@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/zimandu-nou/2022",
+"acts": [
+{
+"slug": "hcl-arad--zimandu-nou-148-2022",
+"path": "local/arad/zimandu-nou/2022/148",
+"kind": "local",
+"year": "2022",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 148/2022 privind aprobarea nivelurilor impozitelor si taxelor locale pe anul 2023",
+"short": "HCL Zimandu Nou nr. 148/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/zimandunou-ar/registru-hcl/94260",
+"council": "arad/zimandu-nou",
+"council_name": "Consiliul Local al Comunei Zimandu Nou",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

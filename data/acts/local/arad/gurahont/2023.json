@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/arad/gurahont/2023",
+"acts": [
+{
+"slug": "hcl-arad--gurahont-98-2023",
+"path": "local/arad/gurahont/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 98/2023 privind impozitele și taxele locale, precum și taxe speciale, pe anul 2024",
+"short": "HCL Gurahonț nr. 98/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/137632",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-101-2023",
+"path": "local/arad/gurahont/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 101/2023 privind aprobarea Regulamentului de organizare şi funcţionare al Primăriei comunei Gurahonţ",
+"short": "HCL Gurahonț nr. 101/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/137635",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-103-2023",
+"path": "local/arad/gurahont/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 103/2023 privind stabilirea numărului și cuantumului burselor acordate în învățământul preuniversitar de stat din Comuna Gurahonț, în anul școlar 2022-2023",
+"short": "HCL Gurahonț nr. 103/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/137637",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-107-2023",
+"path": "local/arad/gurahont/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 107/2023 privind aprobarea reţelei şcolare în anul şcolar 2024-2025 pe raza Comunei Gurahonţ, judeţul Arad",
+"short": "HCL Gurahonț nr. 107/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/137641",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

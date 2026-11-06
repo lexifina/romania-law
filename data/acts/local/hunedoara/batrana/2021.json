@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/batrana/2021",
+"acts": [
+{
+"slug": "hcl-hunedoara--batrana-40-2021",
+"path": "local/hunedoara/batrana/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 40/2021 privind aprobarea analizei stadiului de înscriere a datelor în Registrul Agricol al comunei Batrana ,pentru trimestrul III al anului 2021 și stabilirea măsurilor pentru eficientizarea acestei activități,inclusiv pentru solutionarea situatiilor particulare identificate la nivelul localitatii pe linia completarii registrului agricol si care nu sunt reglementate prin norme Consiliul Local al comunei",
+"short": "HCL Bătrâna nr. 40/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://primaria-batrina.ro/wp-content/uploads/2021/11/HCL-40-din-28-oct-2021.pdf",
+"council": "hunedoara/batrana",
+"council_name": "Consiliul Local al Comunei Bătrâna",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

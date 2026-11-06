@@ -111,6 +111,50 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-ilfov--buftea-78-2024",
+"path": "local/ilfov/buftea/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 78/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „Construire şase locuinţe unifamiliale P+1E+M”, amplasat în oraşul Buftea, judeţul Ilfov, strada Freziei, nr. 11-13, tarla 10, parcela 665",
+"short": "HCL Buftea nr. 78/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2024/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-79-2024",
+"path": "local/ilfov/buftea/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 79/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal “CONSTRUIRE HALĂ DEPOZITARE ŞI SPAŢII ADMINISTRATIVE, CASĂ POARTĂ, BRANŞAMENTE UTILITĂŢI, AMENAJARE INCINTĂ, PUŢ FORAT, ÎMPREJMUIRE ŞI ORGANIZARE DE ŞANTIER” amplasat în oraşul Buftea, judeţul Ilfov",
+"short": "HCL Buftea nr. 79/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2024/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

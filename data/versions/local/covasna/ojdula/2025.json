@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/ojdula/2025",
+ "acts": [
+  {
+   "slug": "hcl-covasna--ojdula-50-2025",
+   "path": "local/covasna/ojdula/2025/50",
+   "short": "HCL Ojdula nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2050%20din%2027.11.2025.PDF",
+     "sha256": "f876149adc1f350d34f9dd7dd3b46e5a0463301b373c3562ee8b0837e5b5f023"
+    }
+   ]
+  }
+ ]
+}

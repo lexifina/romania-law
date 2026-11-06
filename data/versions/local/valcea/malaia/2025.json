@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/malaia/2025",
+ "acts": [
+  {
+   "slug": "hcl-valcea--malaia-57-2025",
+   "path": "local/valcea/malaia/2025/57",
+   "short": "HCL Malaia nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malaia nr. 57/2025 Privind : aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Malaia, județul Vâlcea",
+   "url": "https://primariamalaiavl.ro/wp-content/uploads/2026/04/Hotararea-nr.-57-din-30.09.2025-privind-aprobarea-Regulamentului-de-organizare-si-functionare-al-aparatului-de-specialitate.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 4,
+     "source_url": "https://primariamalaiavl.ro/wp-content/uploads/2026/04/Hotararea-nr.-57-din-30.09.2025-privind-aprobarea-Regulamentului-de-organizare-si-functionare-al-aparatului-de-specialitate.pdf",
+     "sha256": "5528b1068859c646b1b501c9853504795b7370908d672836778943ecaf179cd7"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/halmagel/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--halmagel-103-2023",
+   "path": "local/arad/halmagel/2023/103",
+   "short": "HCL Hălmăgel nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 103/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/139217",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/139217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-92-2023",
+   "path": "local/arad/halmagel/2023/92",
+   "short": "HCL Hălmăgel nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 92/2023 privind realizarea Proiectului rețelei școlare a unităților de învățământ preuniversitar de stat și particular pentru anul școlar 2024 - 2025, în vederea emiterii avizului conform",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/139206",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/139206",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

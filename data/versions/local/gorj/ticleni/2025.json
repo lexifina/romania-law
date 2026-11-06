@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2025",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-64-2025",
+   "path": "local/gorj/ticleni/2025/64",
+   "short": "HCL Țicleni nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 64/2025 privind aprobarea Metodologiei de evaluare a nevoilor comunității în vederea organizării serviciilor sociale pentru persoanele vârstnice din orașul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-64-din-25.09.2025-privind-aprobarea-Metodologiei-pentru-evaluare-a-nevoilor-comunitatii-in-vederea-organizaii-serviciilor-sociale-pt-pers-varstnice-din-orasul-Ticleni.pdf",
+     "sha256": "f84e4451ae2a17feae7ea6f8eec96ff5748e2913dd7b0062b17754be20d2e976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-74-2025",
+   "path": "local/gorj/ticleni/2025/74",
+   "short": "HCL Țicleni nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 74/2025 privind indexarea pe baza ratei de schimb a monedei euro la data de 01.10.2025 a impozitului pe mijloacele de transport prevăzute la art. 470 alin. (5) și (6) din legea nr. 277/2015 privind Codul fiscal, cu modificările și completările ulterioare pentru anul 2026",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+     "sha256": "503c470f76a7aeb688b1a2142a8f90a438161d9440bb71c21b9136d4220d474a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-81-2025",
+   "path": "local/gorj/ticleni/2025/81",
+   "short": "HCL Țicleni nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 81/2025 privind înființarea Serviciului specializat pentru gestionarea câinilor fără stăpân al orașului Țicleni, județul Gorj",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-81-din-30.10.2025-privind-infiintarea-Serviciului-specializat-pt-gestionarea-cainilor-fara-stapan-al-orasului-Ticleni-judetul-Gorj-.pdf",
+     "sha256": "f447f9052959aa48c4ec007fae9e1db6b3e7f95b7bfd805f3e07ec38a61d6eea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-88-2025",
+   "path": "local/gorj/ticleni/2025/88",
+   "short": "HCL Țicleni nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 88/2025 privind aprobarea Regulamentului de Organizare Funcționare al aparatului de specialitate al primarului orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-88-din-27.11.2025-privind-aprobarea-ROF-al-aparatului-de-specialitate-al-primarului-orasului-Ticleni-.pdf",
+     "sha256": "605c8023ab24e79085a4593a18b20cb9f3407b57f740395b143e7a9811b516b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-97-2025",
+   "path": "local/gorj/ticleni/2025/97",
+   "short": "HCL Țicleni nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 97/2025 privind aprobarea impozitelor şi taxelor locale, precum şi a taxelor speciale, pe anul 2026 conform legii 227/2015 Codul fiscal cu modificările Legii 239/15.12.2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-97-din-22.12.2025-privind-aprobarea-impozitelor-si-taxelor-locale-precum-si-a-taxelor-speciale-pen-anul-2026-conform-Legii-227-2015-cu-modificarile-Legii-239-din-15.12.2025-.pdf",
+     "sha256": "c76f73331db8a9884b0f9445ca153870a6f9c338bb1b054cd85beef990beda97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-98-2025",
+   "path": "local/gorj/ticleni/2025/98",
+   "short": "HCL Țicleni nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 98/2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+     "sha256": "c9fad5564c4bbe4422eba316d4ae42e9aa22662e56a3f86ec6d2e1bbae30aeb7"
+    }
+   ]
+  }
+ ]
+}

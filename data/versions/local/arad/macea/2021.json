@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/macea/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--macea-132-2021",
+   "path": "local/arad/macea/2021/132",
+   "short": "HCL Macea nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 132/2021",
+   "url": "https://emol.ro/macea-ar/registru-hcl/44812",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/44812",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

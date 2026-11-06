@@ -3,6 +3,36 @@
  "shard": "local/alba/mihalt/2025",
  "acts": [
   {
+   "slug": "hcl-alba--mihalt-13-2025",
+   "path": "local/alba/mihalt/2025/13",
+   "short": "HCL Mihalț nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 13/2025 privind aprobarea modificării tarifelor de călători, transport public local",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/13.-Hotararea-nr.-13-privind-aprobarea-modificarii-tarifelor-de-calatori-transport-public-local.pdf",
+     "sha256": "45ab37c0bfedc3f39b6bc2eb1bcd23bd91183876e499b280faeae84d938eb60c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-20-2025",
+   "path": "local/alba/mihalt/2025/20",
+   "short": "HCL Mihalț nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 20/2025 privind modif. și completarea Hotărârii Consiliului Local Mihalț nr. 4 din 2021 – Regulament de gospodărire comunală",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/20.-Hotararea-nr.-20-privind-modif.-si-completarea-Hotararii-Consiliului-Local-Mihalt-nr.-4-din-2021-Regulament-de-gospodarire-comunala.pdf",
+     "sha256": "f8d0774656b0416a124779f1a880ff21a70f0909c10b9b797ae5d92577c73ec8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-51-2025",
    "path": "local/alba/mihalt/2025/51",
    "short": "HCL Mihalț nr. 51/2025",

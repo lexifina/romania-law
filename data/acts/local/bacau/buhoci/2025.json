@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/bacau/buhoci/2025",
+"acts": [
+{
+"slug": "hcl-bacau--buhoci-104-2025",
+"path": "local/bacau/buhoci/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 104/2025 privind aprobarea desfășurării de evenimente cultural artistice în luna decembrie 2025, în Comuna Buhoci",
+"short": "HCL Buhoci nr. 104/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/235286",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-110-2025",
+"path": "local/bacau/buhoci/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 110/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+"short": "HCL Buhoci nr. 110/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/246353",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-111-2025",
+"path": "local/bacau/buhoci/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 111/2025 privind aprobarea rețelei școlare pentru anul școlar 2026-2027 în Comuna Buhoci",
+"short": "HCL Buhoci nr. 111/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/246355",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-112-2025",
+"path": "local/bacau/buhoci/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 112/2025 privind aprobarea Planului Operativ de acțiune proprie de intervenții pe drumurile comunale și sătești, pentru prevenirea și combaterea înzăpezirii acestora pentru perioada 2025-2026",
+"short": "HCL Buhoci nr. 112/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/246362",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-120-2025",
+"path": "local/bacau/buhoci/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 120/2025 privind aprobarea efectuării lucrărilor de înlocuire și reparații a conductei principale a Sistemului de Alimentare cu Apă pe tronsonul satul Buhocel - satul Coteni, comuna Buhoci",
+"short": "HCL Buhoci nr. 120/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/246397",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-121-2025",
+"path": "local/bacau/buhoci/2025/121",
+"kind": "local",
+"year": "2025",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 121/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+"short": "HCL Buhoci nr. 121/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/246398",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--buhoci-122-2025",
+"path": "local/bacau/buhoci/2025/122",
+"kind": "local",
+"year": "2025",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 122/2025 privind aprobarea documentației PUZ și RLU ''Desființare C1 și C2, construire spații comerciale produse alimentare, nealimentare și service auto'' beneficiar SC AGROBRIKETT GRUP SRL",
+"short": "HCL Buhoci nr. 122/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/buhoci-bc/registru-hcl/246399",
+"council": "bacau/buhoci",
+"council_name": "Consiliul Local al Comunei Buhoci",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

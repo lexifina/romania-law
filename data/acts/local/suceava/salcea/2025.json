@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/salcea/2025",
+"acts": [
+{
+"slug": "hcl-suceava--salcea-3-2025",
+"path": "local/suceava/salcea/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 3/2025 privind înființarea serviciului și aprobarea Regulamentului de organizare și funcționare al serviciului de asistență socială organizat la nivelul Orașului Salcea.pdf",
+"short": "HCL Salcea nr. 3/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

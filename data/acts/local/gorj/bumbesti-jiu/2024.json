@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/bumbesti-jiu/2024",
+"acts": [
+{
+"slug": "hcl-gorj--bumbesti-jiu-42-2024",
+"path": "local/gorj/bumbesti-jiu/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 42/2024 Privind aprobarea Planului Urbanistic Zonal (P.U.Z) al Oraqului Bumbegti-Jiu, locatitatea Curti$oara, str. Bisericii $i a Regulamentului Local de Urbanism (R.L.U.) aferent, actualizat prin revizuire ConsiliulLocalal Orafului Bumbe$ti Jiu,jud.Corj, Avend in vedere: - HCL Bumbe$ti - Jiu nr. I02l 2023 penrru aprobarea planului-Urbanisric Zonal (p.U.Z.) al fi Oragului Bumbegti-Jiu, localitatea Cu(ifoara, str, Bisericii a Regulamentului Local de Urbanism (R.L.U.) aferent; - Referatul compartimentului investifii din cadrul primdriei orafului Bumbelti - Jiu, inregistrat sub N.3458120.03.2024 ; - Referatul de aprobare al inifiatorului nr. 70 t9/ 22.05,2024i - Proiectul de hotira.e al inifiatorului;",
+"short": "HCL Bumbești-Jiu nr. 42/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-04-08",
+"latest": "2024-04-08",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

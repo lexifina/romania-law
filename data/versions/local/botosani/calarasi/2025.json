@@ -16,6 +16,36 @@
      "sha256": "347d6648ab7f3d82d83d5289b63ccc5e9d8d1048066f2c47f128b1ca37df182f"
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--calarasi-249-2025",
+   "path": "local/botosani/calarasi/2025/249",
+   "short": "HCL Călărași nr. 249/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 249/2025 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2026",
+   "url": "https://primariacalarasibt.ro/wp-content/uploads/2025/12/Hotarare-nr.-249-din-19.12.2025-privind-aprobarea-preturilor-medii-ale-produselor-agricole-pentru-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primariacalarasibt.ro/wp-content/uploads/2025/12/Hotarare-nr.-249-din-19.12.2025-privind-aprobarea-preturilor-medii-ale-produselor-agricole-pentru-anul-2026.pdf",
+     "sha256": "c5a7e19d08f74ef989159cdfae19a07d4e6bd390497a588ecbe9f88db0917471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--calarasi-81-2025",
+   "path": "local/botosani/calarasi/2025/81",
+   "short": "HCL Călărași nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 81/2025 privind stabilirea impozitelor și taxelor locale pe anul 2026",
+   "url": "https://primariacalarasibt.ro/documente/hotarare-nr-81-din-23-12-2025-privind-stabilirea-impozitelor-si-taxelor-locale-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primariacalarasibt.ro/wp-content/uploads/2025/12/Hotarare-nr.-81-din-23.12.2025-privind-stabilirea-impozitelor-si-taxelor-locale-pe-anul-2026.pdf",
+     "sha256": "83f0e01a36ce9d475352fe6a3bd42e0134c5dcfb4af4e3e9a6de1687e20f9f1f"
+    }
+   ]
   }
  ]
 }

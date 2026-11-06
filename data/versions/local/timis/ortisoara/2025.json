@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/ortisoara/2025",
+ "acts": [
+  {
+   "slug": "hcl-timis--ortisoara-90-2025",
+   "path": "local/timis/ortisoara/2025/90",
+   "short": "HCL Orțișoara nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Orțișoara nr. 90/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d72db67fda12bc94792d583262d6d8678cbf0d9caeb5beea44a7c1e30c8742bd"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/cenad/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--cenad-1-2020",
+   "path": "local/timis/cenad/2020/1",
+   "short": "HCL Cenad nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cenad nr. 1/2020 privind unele măsuri de primă urgență care privesc aglomerările de persoane și circulația transfrontalieră a unor bunuri",
+   "url": "https://www.cenad.ro/index.html",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://www.cenad.ro/doc/Alte_documente/Alte_documente_i/OM1.pdf",
+     "sha256": "2f3210d8f865be5021e0942893b3606924aeee21dd9f606a41f54f736c47815c"
+    }
+   ]
+  }
+ ]
+}

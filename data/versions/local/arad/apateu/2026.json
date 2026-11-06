@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/arad/apateu/2026",
+ "acts": [
+  {
+   "slug": "hcl-arad--apateu-1-2026",
+   "path": "local/arad/apateu/2026/1",
+   "short": "HCL Apateu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 1/2026 privind aprobare plată cotizatie a Consiliului Local Apateu aferentă anului 2026 ,la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118288",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-10-2026",
+   "path": "local/arad/apateu/2026/10",
+   "short": "HCL Apateu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 10/2026 privind aprobarea contului anual de execuție a bugetului al comunei Apateu județul Arad pe anul 2025 trimestrul IV",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118297",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-11-2026",
+   "path": "local/arad/apateu/2026/11",
+   "short": "HCL Apateu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 11/2026 privind modificarea hotararii privind stabilirea impozitelor şi taxelor locale aplicabile în cadrul unității administrativ-teritoriale, Comuna Apateu,judetul Arad, aferente anului 2026",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118298",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-13-2026",
+   "path": "local/arad/apateu/2026/13",
+   "short": "HCL Apateu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 13/2026 privind acordarea unui mandat special reprezentantului Comunei Apateu în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2026 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130683",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-14-2026",
+   "path": "local/arad/apateu/2026/14",
+   "short": "HCL Apateu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 14/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Apateu în Adunarea Generală a AsociațilorAsociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130684",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-16-2026",
+   "path": "local/arad/apateu/2026/16",
+   "short": "HCL Apateu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 16/2026 privind Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, Zona 3",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130688",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-17-2026",
+   "path": "local/arad/apateu/2026/17",
+   "short": "HCL Apateu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 17/2026 privind aprobarea indicatorilor tehnico economici pentru mai multe obiective de investiți în anul 2026",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130690",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-18-2026",
+   "path": "local/arad/apateu/2026/18",
+   "short": "HCL Apateu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 18/2026 privind aprobarea bugetului de venituri şi cheltuieli al comunei Apateu judeţul Arad pe anul 2026",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130691",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-19-2026",
+   "path": "local/arad/apateu/2026/19",
+   "short": "HCL Apateu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 19/2026 privind modificarea anexei la HCL nr. 5/30.01.2026 privind completarea anexei la hotarârea Consiliului local al comunei Apateu nr.17/1999 privind inventarul bunurilor aparţinând domeniului public al comunei Apateu,judeţul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130692",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-2-2026",
+   "path": "local/arad/apateu/2026/2",
+   "short": "HCL Apateu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 2/2026 privind aprobarea actualizării Planului de analiză și acoperire a riscurilor din comuna Apateu județul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118289",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-20-2026",
+   "path": "local/arad/apateu/2026/20",
+   "short": "HCL Apateu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 20/2026 privind ajustarea tarifului pentru serviciul de delegare a gestiunii serviciului de eliminare,prin depozitare a deseurilor reziduale, a deseurilor stradale, a deseurilor de pamant si pietre provenite de pe caile publice, a reziduurilor rezultate de la instalatiile de tartare a deseurilor municipal, precum si a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor la depozitele de deseuri nepericuloase in cadrul proiectului ADISIGD Arad, componenta eliminare, prin depozitare precum, a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor si a deseurilor ce nu pot fi valorificate din deseurile voluminoase, deseurile textile si deseurile provenite de la evenimente la depozitul de deseuri nepericuloase din Aria Delegarii, ctr. Nr. 5430/29.12.2023",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130693",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-21-2026",
+   "path": "local/arad/apateu/2026/21",
+   "short": "HCL Apateu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 21/2026 privind aprobarea realizării investitiei și asumarea obligatiei de asigurare a mentenanței investiției realizate prin proiectul ,,Dotarea infrastructurii socio-culturale a comunei Apateu,județul Arad prin achiziția de echipamente pentru activități comunitare,,",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130694",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-22-2026",
+   "path": "local/arad/apateu/2026/22",
+   "short": "HCL Apateu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 22/2026 privind aprobarea achizitionării serviciului de consultanță, asistență și reprezentare juridică pentru Comuna Apateu, Consiliul Local al comunei Apateu și Primarul comunei Apateu",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130695",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-23-2026",
+   "path": "local/arad/apateu/2026/23",
+   "short": "HCL Apateu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 23/2026 privind acordarea unui mandat special reprezentantului Comunei Apateu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad să voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130696",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-24-2026",
+   "path": "local/arad/apateu/2026/24",
+   "short": "HCL Apateu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 24/2026 privind construirea unei platforme comunale de depozityare a molozului din construcții în Comuna Apateu ,județul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130697",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-26-2026",
+   "path": "local/arad/apateu/2026/26",
+   "short": "HCL Apateu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 26/2026 privind aprobarea contului anual de executie bugetului al comunei Apateu judeţul Arad pe anul 2026 trimestrul I",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130701",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-27-2026",
+   "path": "local/arad/apateu/2026/27",
+   "short": "HCL Apateu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 27/2026 privind rectificarea bugetului de venituri şi cheltuieli al comunei Apateu judeţul Arad pe anul 2026",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130702",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-28-2026",
+   "path": "local/arad/apateu/2026/28",
+   "short": "HCL Apateu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 28/2026 aprobarea raportului privind etichetarea cheltuielilor bugetare care vizează investițiile publice cuprinse in bugetul local pentru anul 2026",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130703",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-29-2026",
+   "path": "local/arad/apateu/2026/29",
+   "short": "HCL Apateu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 29/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 35",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130705",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-30-2026",
+   "path": "local/arad/apateu/2026/30",
+   "short": "HCL Apateu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 30/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Apateu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării Actului Adițional nr. 2 la Contractul de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130706",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-31-2026",
+   "path": "local/arad/apateu/2026/31",
+   "short": "HCL Apateu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 31/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Apateu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării Actului Adițional nr. 3 la Contractul de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130707",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-32-2026",
+   "path": "local/arad/apateu/2026/32",
+   "short": "HCL Apateu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 32/2026 privind acordarea unui mandat special reprezentantului Comunei Apateu în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea rectificării cotizației pe anul 2026 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130708",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-33-2026",
+   "path": "local/arad/apateu/2026/33",
+   "short": "HCL Apateu nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 33/2026 privind aprobarea locațiilor temporare pentru depozitarea deșeurilor rezultate din resturi vegetale în Comuna Apateu , județul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130709",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-34-2026",
+   "path": "local/arad/apateu/2026/34",
+   "short": "HCL Apateu nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 34/2026 privind aprobarea integrării în Sistemul de Management Integrat al Deșeurilor Solide din Județul Arad a infrastructurii de colectare a deșeurilor (insule ecologice), proprietate publică a Municipiului Arad, și mandatarea reprezentantului în Adunarea Generală a ADISIGD",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130710",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-35-2026",
+   "path": "local/arad/apateu/2026/35",
+   "short": "HCL Apateu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 35/2026 privind acordarea unui mandat special reprezentantului Comunei Apateu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară de Transport Public Aradsă voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130711",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-36-2026",
+   "path": "local/arad/apateu/2026/36",
+   "short": "HCL Apateu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 36/2026 privind acordarea unui mandat special reprezentantului Comunei Apateu în Adunarea Generală a AsociațilorAsociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării METODOLOGIEI privind aplicarea măsurilor de protecție socială la transportul public local pe raza teritorială a Unităților Administrativ-Teritoriale membre ale Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130712",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-37-2026",
+   "path": "local/arad/apateu/2026/37",
+   "short": "HCL Apateu nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 37/2026 privind aprobarea contului anual de executie bugetului al comunei Apateu judeţul Arad pe anul 2026 trimestrul II",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130713",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-38-2026",
+   "path": "local/arad/apateu/2026/38",
+   "short": "HCL Apateu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 38/2026 privind declararea de interes public local a unor bunuri înregistrate în contabilitatea Companiei de Apă Arad S.A în anul 2025 și intrate pe raza Comunei Apateu,înregistrarea acestora în evidențele contabile ale Comunei Apateu și darea acestora în concesiunea Companiei de Apă Arad S.A",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130714",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-39-2026",
+   "path": "local/arad/apateu/2026/39",
+   "short": "HCL Apateu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 39/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Apateu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130715",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-4-2026",
+   "path": "local/arad/apateu/2026/4",
+   "short": "HCL Apateu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 4/2026 privind atribuirirea contractului de concesiune a imobilului înscris în CF nr.308109 , proprietate privată a Comunei Apateu către SC MEREOAȘU SRL , cu sediul în loc. APATEU ,nr. 146 ,judeţul Arad, CUI 44018778",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118291",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-41-2026",
+   "path": "local/arad/apateu/2026/41",
+   "short": "HCL Apateu nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 41/2026 privind aprobarea achizitionării serviciului de consultanță, asistență și reprezentare juridică pentru Comuna Apateu, Consiliul Local al comunei Apateu și Primarul comunei Apateu",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130717",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-42-2026",
+   "path": "local/arad/apateu/2026/42",
+   "short": "HCL Apateu nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 42/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-43-2026",
+   "path": "local/arad/apateu/2026/43",
+   "short": "HCL Apateu nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 43/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 37",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130719",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-44-2026",
+   "path": "local/arad/apateu/2026/44",
+   "short": "HCL Apateu nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 44/2026 privind aprobarea încheierii și semnării Contractului de delegare prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zonele 2, 3 și 4 ca urmare a procedurii de licitație deschisă și a tarifelor distincte facturate de către Urban Grup Environment S.R.L",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130720",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-45-2026",
+   "path": "local/arad/apateu/2026/45",
+   "short": "HCL Apateu nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 45/2026 privind acordarea unui mandat special reprezentantului Comunei Apateu în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea rectificării cotizației pe anul 2026 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130721",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-46-2026",
+   "path": "local/arad/apateu/2026/46",
+   "short": "HCL Apateu nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 46/2026 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Apateu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130722",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#130722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-5-2026",
+   "path": "local/arad/apateu/2026/5",
+   "short": "HCL Apateu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 5/2026 privind completarea anexei la hotarârea Consiliului local al comunei Apateu nr.17/1999 privind inventarul bunurilor aparţinând domeniului public al comunei Apateu,judeţul Arad,cu modificările şi completările ulterioare",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118292",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-6-2026",
+   "path": "local/arad/apateu/2026/6",
+   "short": "HCL Apateu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 6/2026 privind prelungirea valabilitatii documentatiei PUG si RLU aferent comunei Apateu având termen de valabilitate 15 decembrie 2025, până la intrarea in vigoare a noului Plan Urbanistic General",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118293",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-7-2026",
+   "path": "local/arad/apateu/2026/7",
+   "short": "HCL Apateu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 7/2026 privind acordarea unui mandat special reprezentantului Comunei Apateu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Aradsă voteze aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118294",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-8-2026",
+   "path": "local/arad/apateu/2026/8",
+   "short": "HCL Apateu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 8/2026 privind aprobarea Planului anual de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă conform prevederilor Legii nr. 416/2001 privind venitul minim garantat, la nivelul comunei Apateu, județul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118295",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#118295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-9-2026",
+   "path": "local/arad/apateu/2026/9",
+   "short": "HCL Apateu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 9/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

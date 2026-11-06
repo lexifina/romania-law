@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/covasna/bodoc/2025",
+"acts": [
+{
+"slug": "hcl-covasna--bodoc-108-2025",
+"path": "local/covasna/bodoc/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodoc nr. 108/2025 privind stabilirea impozitelor si taxelor locale ptr anul 2026.pdf",
+"short": "HCL Bodoc nr. 108/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://bodok.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/bodoc",
+"council_name": "Consiliul Local al Comunei Bodoc",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

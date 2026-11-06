@@ -3,6 +3,36 @@
  "shard": "local/bihor/sacueni/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--sacueni-1-2026",
+   "path": "local/bihor/sacueni/2026/1",
+   "short": "HCL Săcueni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 1/2026 privind aprobarea ordinei de zi al şedinţei extraordinare de îndată a consiliului local al orașului Săcueni din data de 23 ianuarie 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/248072",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/248072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-10-2026",
+   "path": "local/bihor/sacueni/2026/10",
+   "short": "HCL Săcueni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 10/2026 privind aprobarea ordinei de zi al şedinţei extraordinare de îndată a consiliului local al orașului Săcueni din data de 03 martie 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/256626",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/256626",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-100-2026",
    "path": "local/bihor/sacueni/2026/100",
    "short": "HCL Săcueni nr. 100/2026",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--sacueni-11-2026",
+   "path": "local/bihor/sacueni/2026/11",
+   "short": "HCL Săcueni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 11/2026 privind modificarea articolului 1 și 2 din HCL 73/ 21.07.2025 privind prelungirea proiectului si asumarea implementării proiectului în etapa a II-a in cadrul Programului Regional Nord-Vest 2021-2027 cu titlul „Revitalizarea fizică, economică și socială a Orașului Săcueni” Cod SMIS 324347",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/256627",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/256627",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--sacueni-110-2026",
    "path": "local/bihor/sacueni/2026/110",
    "short": "HCL Săcueni nr. 110/2026",
@@ -163,6 +208,351 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/sacueni-bh/registru-hcl/296085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-12-2026",
+   "path": "local/bihor/sacueni/2026/12",
+   "short": "HCL Săcueni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 12/2026 privind aprobarea ordinei de zi al şedinţei extraordinare a consiliului local al orașului Săcueni din data de 11 martie 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/257874",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/257874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-13-2026",
+   "path": "local/bihor/sacueni/2026/13",
+   "short": "HCL Săcueni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 13/2026 privind modificarea și completarea HCL nr. 132/23.12.2025 referitoare la stabilirea impozitelor și taxelor locale pentru anul fiscal 2026, în vederea punerii în aplicare a modificărilor aduse Legii nr. 227/2015 privind Codul fiscal prin Ordonanțe de Urgență ale Guvernului",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/257875",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/257875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-14-2026",
+   "path": "local/bihor/sacueni/2026/14",
+   "short": "HCL Săcueni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 14/2026 privind aprobarea devizului general actualizat al proiectului „Construire locuințe nZEB plus pentru tineri/locuințe de serviciu pentru specialiști din sănătate și învățământ în Orașul Săcueni, jud. Bihor”",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/257876",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/257876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-16-2026",
+   "path": "local/bihor/sacueni/2026/16",
+   "short": "HCL Săcueni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 16/2026 privind aprobarea ordinei de zi al şedinţei extraordinare a consiliului local al orașului Săcueni din data de 31 martie 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/261058",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/261058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-17-2026",
+   "path": "local/bihor/sacueni/2026/17",
+   "short": "HCL Săcueni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 17/2026 privind aprobarea devizului general actualizat al proiectului „Construire locuințe nZEB plus pentru tineri/locuințe de serviciu pentru specialiști din sănătate și învățământ în Orașul Săcueni, jud. Bihor”",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/261059",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/261059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-18-2026",
+   "path": "local/bihor/sacueni/2026/18",
+   "short": "HCL Săcueni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 18/2026 privind aprobarea devizului revizuit/actualizat și a indicatorilor tehnico-economici actualizați pentru obiectivul de investiție ” ,CENTRU EDUCAȚIONAL PENTRU TINERET LA NIVEL COMUNITAR ÎN ORAȘUL SĂCUENI, JUDEȚUL BIHOR ” finanțat prin PRNV/2023/714.C/1",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/261060",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/261060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-20-2026",
+   "path": "local/bihor/sacueni/2026/20",
+   "short": "HCL Săcueni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 20/2026 privind asumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi al contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/261062",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/261062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-21-2026",
+   "path": "local/bihor/sacueni/2026/21",
+   "short": "HCL Săcueni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 21/2026 privind aprobarea ordinei de zi al şedinţei extraordinare a consiliului local Săcueni din data de 17 aprilie 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/263696",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/263696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-23-2026",
+   "path": "local/bihor/sacueni/2026/23",
+   "short": "HCL Săcueni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 23/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/265887",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/265887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-24-2026",
+   "path": "local/bihor/sacueni/2026/24",
+   "short": "HCL Săcueni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 24/2026 privind aprobarea proceselor verbale ale ședințelor anterioare a Consiliului Local al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/265888",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/265888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-25-2026",
+   "path": "local/bihor/sacueni/2026/25",
+   "short": "HCL Săcueni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 25/2026 privind aprobarea ordinei de zi al şedinţei ordinare a consiliului local al orașului Săcueni din data de 30 aprilie 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/265889",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/265889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-3-2026",
+   "path": "local/bihor/sacueni/2026/3",
+   "short": "HCL Săcueni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 3/2026 privind aprobarea proceselor verbale ale ședințelor anterioare a Consiliului Local al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/251300",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/251300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-30-2026",
+   "path": "local/bihor/sacueni/2026/30",
+   "short": "HCL Săcueni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 30/2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/265894",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/265894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-31-2026",
+   "path": "local/bihor/sacueni/2026/31",
+   "short": "HCL Săcueni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 31/2026 privind aprobarea Planului de Analiză și acoperire a Riscurilor (PAAR) al orașului Săcueni, actualizat în anul 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/265895",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/265895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-35-2026",
+   "path": "local/bihor/sacueni/2026/35",
+   "short": "HCL Săcueni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 35/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate de la bugetul local pentru anul 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/265899",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/265899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-37-2026",
+   "path": "local/bihor/sacueni/2026/37",
+   "short": "HCL Săcueni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 37/2026 privind aprobarea procesului verbal al ședinței anterioare a Consiliului Local al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/270126",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/270126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-38-2026",
+   "path": "local/bihor/sacueni/2026/38",
+   "short": "HCL Săcueni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 38/2026 privind aprobarea ordinei de zi al şedinţei ordinare a consiliului local al orașului Săcueni din data de 26 mai 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/270127",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/270127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-39-2026",
+   "path": "local/bihor/sacueni/2026/39",
+   "short": "HCL Săcueni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 39/2026 privind aprobarea bugetului consolidat de venituri si cheltuieli al orașului Săcueni pe anul 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/270128",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/270128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-4-2026",
+   "path": "local/bihor/sacueni/2026/4",
+   "short": "HCL Săcueni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 4/2026 privind aprobarea ordinei de zi al şedinţei ordinare a consiliului local al orașului Săcueni din data de 04 februarie 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/251301",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/251301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-40-2026",
+   "path": "local/bihor/sacueni/2026/40",
+   "short": "HCL Săcueni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 40/2026 privind aprobarea execuţiei bugetului orașului Săcueni pe anul 2025",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/270129",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/270129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-46-2026",
+   "path": "local/bihor/sacueni/2026/46",
+   "short": "HCL Săcueni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 46/2026 privind aprobarea dezmembrării imobilului având nr. cad. 56457, înscris în CF nr. 56457 proprietatea publică al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/270135",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/270135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-49-2026",
+   "path": "local/bihor/sacueni/2026/49",
+   "short": "HCL Săcueni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 49/2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/270138",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/270138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-50-2026",
+   "path": "local/bihor/sacueni/2026/50",
+   "short": "HCL Săcueni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 50/2026 privind aprobarea trecerii unor imobile din domeniul privat al orașului Săcueni în domeniul public al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/270139",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/270139",
      "sha256": null
     }
    ]
@@ -598,6 +988,21 @@
      "from": "2026-10-06",
      "units": 1,
      "source_url": "https://emol.ro/sacueni-bh/registru-hcl/288152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-8-2026",
+   "path": "local/bihor/sacueni/2026/8",
+   "short": "HCL Săcueni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 8/2026 privind aprobarea Programului de acțiuni comunitare la nivelul UAT Orașul Săcueni aferent anului 2026",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/251305",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/251305",
      "sha256": null
     }
    ]

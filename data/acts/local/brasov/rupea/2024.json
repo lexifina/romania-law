@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/brasov/rupea/2024",
+"acts": [
+{
+"slug": "hcl-brasov--rupea-14-2024",
+"path": "local/brasov/rupea/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 14/2024",
+"short": "HCL Rupea nr. 14/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

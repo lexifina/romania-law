@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arad/gurahont/2024",
+"acts": [
+{
+"slug": "hcl-arad--gurahont-71-2024",
+"path": "local/arad/gurahont/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 71/2024 privind aprobarea ”Regulamentului de instituire și administrare a taxei speciale de salubrizare în Comuna Gurahonț”",
+"short": "HCL Gurahonț nr. 71/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/185332",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-72-2024",
+"path": "local/arad/gurahont/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 72/2024 privind aprobarea impozitelor și taxelor locale prevăzute de Codul fiscal, respectiv a unor taxe speciale, pentru anul 2025",
+"short": "HCL Gurahonț nr. 72/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/185333",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

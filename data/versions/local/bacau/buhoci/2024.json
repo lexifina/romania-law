@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/buhoci/2024",
+ "acts": [
+  {
+   "slug": "hcl-bacau--buhoci-78-2024",
+   "path": "local/bacau/buhoci/2024/78",
+   "short": "HCL Buhoci nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 78/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2024",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196296",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-81-2024",
+   "path": "local/bacau/buhoci/2024/81",
+   "short": "HCL Buhoci nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 81/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2024",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196303",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-83-2024",
+   "path": "local/bacau/buhoci/2024/83",
+   "short": "HCL Buhoci nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 83/2024 privind aprobarea rețelei școlare pentru anul școlar 2025-2026 în Comuna Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196306",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-86-2024",
+   "path": "local/bacau/buhoci/2024/86",
+   "short": "HCL Buhoci nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 86/2024 privind aprobarea studiului de oportunitate, înființarea serviciului de Iluminat Public, stabilirea modalității de gestiune, aprobarea caietului de sarcini și regulamentului Serviciului de iluminat public al comunei Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196331",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-90-2024",
+   "path": "local/bacau/buhoci/2024/90",
+   "short": "HCL Buhoci nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 90/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2025",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196342",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-92-2024",
+   "path": "local/bacau/buhoci/2024/92",
+   "short": "HCL Buhoci nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 92/2024 privind modificarea și completarea inventarului bunurilor aparținând domeniului public al comunei Buhoci, județul Bacău",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196346",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-94-2024",
+   "path": "local/bacau/buhoci/2024/94",
+   "short": "HCL Buhoci nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 94/2024 privind aprobarea contribuției Consiliului Local Buhoci la finanțarea serviciilor sociale destinate protecției și promovării dreptului copilului și ale persoanei adulte cu handicap pentru anul 2024",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196370",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-96-2024",
+   "path": "local/bacau/buhoci/2024/96",
+   "short": "HCL Buhoci nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 96/2024 privind aprobarea suplimentării susținerii financiare cu suma de 6000 lei, în vederea desfășurării de evenimente cultural artistice în luna decembrie 2024 ''Datini, tradiții și obiceiuri de iarnă în comuna Buhoci''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196400",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196400",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

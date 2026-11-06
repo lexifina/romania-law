@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/berca/2025",
+"acts": [
+{
+"slug": "hcl-buzau--berca-1-2025",
+"path": "local/buzau/berca/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 1/2025 pentru aprobarea normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice, a modificarii sediului social al SC APAPRIMA BERCA SRL",
+"short": "HCL Berca nr. 1/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://primariaberca.ro/wp-content/uploads/2025/02/Hotarare-AGA-SC-APAPRIMA.pdf",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

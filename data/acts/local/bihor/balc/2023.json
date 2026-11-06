@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/balc/2023",
+"acts": [
+{
+"slug": "hcl-bihor--balc-145-2023",
+"path": "local/bihor/balc/2023/145",
+"kind": "local",
+"year": "2023",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 145/2023 privind stabilirea impozitelor pentru autovehiculele de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone pentru anul 2024",
+"short": "HCL Balc nr. 145/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/balc-bh/registru-hcl/141151",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

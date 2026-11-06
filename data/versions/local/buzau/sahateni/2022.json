@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/sahateni/2022",
+ "acts": [
+  {
+   "slug": "hcl-buzau--sahateni-11-2022",
+   "path": "local/buzau/sahateni/2022/11",
+   "short": "HCL Săhăteni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 11/2022 privind aprobarea unui Plan Urbanistic Zonal si Regulamentul local de urbanism aferent acestuia",
+   "url": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "http://www.comunasahateni.ro/images/2022/hcl_sahateni/hcl_11_sahateni.pdf",
+     "sha256": "df4f618fb63ec135e2b4c9d4b3c1a8eee8819493eee9bc49c6c279cb39e7dc0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--sahateni-4-2022",
+   "path": "local/buzau/sahateni/2022/4",
+   "short": "HCL Săhăteni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 4/2022 privind modificarea si completarea Hei nr 77/17-12-2021 pentru stabilirea impozitelor si a taxelor locale in anul 2022",
+   "url": "http://www.comunasahateni.ro/hotarari-ale-consiliului.html",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "http://www.comunasahateni.ro/images/2022/hcl_sahateni/hcl_4_sahateni.pdf",
+     "sha256": "c80887864815a78686f3a93f9760b41f270540b8fb5f2866a67aa1e254445a58"
+    }
+   ]
+  }
+ ]
+}

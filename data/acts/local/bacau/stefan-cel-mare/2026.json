@@ -3,6 +3,94 @@
 "shard": "local/bacau/stefan-cel-mare/2026",
 "acts": [
 {
+"slug": "hcl-bacau--stefan-cel-mare-19-2026",
+"path": "local/bacau/stefan-cel-mare/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 19/2026 privind aprobarea Regulamentului privind normele de gospodarire comunala, intretinere, colectare , transport,depozitare deseuri",
+"short": "HCL Ștefan cel Mare nr. 19/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.19-din-25.03.2026-privind-aprobarea-Regulamentului-privind-normele-de-gospodarire-comunala-intretinere-colectare-transportdepozitare-deseuri.pdf",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-55-2026",
+"path": "local/bacau/stefan-cel-mare/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 55/2026 privind aprobarea documentatiei de urbanism de actualizare a Planului Urbanistic General si a Regulamentului Local de Urbanism Comuna Stefan cel Mare",
+"short": "HCL Ștefan cel Mare nr. 55/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.-55-din-08.07.2026-privind-aprobarea-documentatiei-de-urbanism-de-actualizare-a-Planului-Urbanistic-General-si-a-Regulamentului-Local-de-Urbanism-Comuna-Stefan-cel-Mare.pdf",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-62-2026",
+"path": "local/bacau/stefan-cel-mare/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 62/2026 privind aprobare PUG si RLU la nivelul comunei Stefan cel Mare",
+"short": "HCL Ștefan cel Mare nr. 62/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-08-14",
+"latest": "2026-08-14",
+"portal": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.62-din-14.08.2026-privind-aprobare-PUG-si-RLU-la-nivelul-comunei-Stefan-cel-Mare.pdf",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bacau--stefan-cel-mare-71-2026",
+"path": "local/bacau/stefan-cel-mare/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 71/2026 privind aprobarea transpunerii in format GIS a PUG al comunei Stefan cel Mare",
+"short": "HCL Ștefan cel Mare nr. 71/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://www.comunastefancelmare.ro/wp-content/uploads/2026/01/Hotararea-nr.71-din-28.08.2026-privind-aprobarea-transpunerii-in-format-GIS-a-PUG-al-comunei-Stefan-cel-Mare.pdf",
+"council": "bacau/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-bacau--stefan-cel-mare-80-2026",
 "path": "local/bacau/stefan-cel-mare/2026/80",
 "kind": "local",

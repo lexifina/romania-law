@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/broscauti/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--broscauti-11-2021",
+   "path": "local/botosani/broscauti/2021/11",
+   "short": "HCL Broscăuți nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 11/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primaria-broscauti.ro/wp-content/uploads/2022/05/HCL-11.pdf",
+     "sha256": "5095f8fc52d7015e89618237729537e0549c0ac13f82eab9d23be04951d8783a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--broscauti-14-2021",
+   "path": "local/botosani/broscauti/2021/14",
+   "short": "HCL Broscăuți nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Broscăuți nr. 14/2021 privind aprobarea taxei speciale de salubrizare SIMD,comuna Broscăuți din județul Botoșani,pentru anul 2021",
+   "url": "https://www.primaria-broscauti.ro/categorie-documente/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.primaria-broscauti.ro/wp-content/uploads/2022/05/HCL-14.pdf",
+     "sha256": "2cf9fd13c78fe0e92d9d749dba97bc43cdcc8c0c7005daaf6f602aa33fd947d4"
+    }
+   ]
+  }
+ ]
+}

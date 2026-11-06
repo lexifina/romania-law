@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/dieci/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--dieci-108-2023",
+   "path": "local/arad/dieci/2023/108",
+   "short": "HCL Dieci nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 108/2023 privind rectificare Bugetului Consiliului local al comunei Dieci pe anul 2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/129678",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/129678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-109-2023",
+   "path": "local/arad/dieci/2023/109",
+   "short": "HCL Dieci nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 109/2023 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 22",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/129679",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/129679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-113-2023",
+   "path": "local/arad/dieci/2023/113",
+   "short": "HCL Dieci nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 113/2023 privind rectificare Bugetului Consiliului local al comunei Dieci pe anul 2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132145",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-114-2023",
+   "path": "local/arad/dieci/2023/114",
+   "short": "HCL Dieci nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 114/2023 privind aprobarea încheierii și semnarii Contractului de delegare (operare a stațiilor de transfer) a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad, respectiv transfer al deşeurilor municipale în staţii de transfer",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132146",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-117-2023",
+   "path": "local/arad/dieci/2023/117",
+   "short": "HCL Dieci nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 117/2023 privind rectificare Bugetului Consiliului local al comunei Dieci pe anul 2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132995",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-120-2023",
+   "path": "local/arad/dieci/2023/120",
+   "short": "HCL Dieci nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 120/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2024",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/135394",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/135394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-121-2023",
+   "path": "local/arad/dieci/2023/121",
+   "short": "HCL Dieci nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 121/2023 privind modificare HCL Dieci nr. 45/28.04.2023 privind aprobarea participarii Comunei Dieci , Județul Arad la Parteneriatul LEADER cu denumirea ” Asociatia Grupul de Acțiune Locală Depresiunea Sebiș Gurahont Halmagiu ”",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/135395",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/135395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-122-2023",
+   "path": "local/arad/dieci/2023/122",
+   "short": "HCL Dieci nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 122/2023 privind validarea și însușirea Dispoziţiei Primarului Comunei Dieci nr. 143/20.12.2023 privind modificarea bugetului local al Comunei Dieci pe anul 2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/135396",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/135396",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

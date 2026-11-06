@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/vama-buzaului/2025",
+"acts": [
+{
+"slug": "hcl-brasov--vama-buzaului-161-2025",
+"path": "local/brasov/vama-buzaului/2025/161",
+"kind": "local",
+"year": "2025",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 161/2025 nr. 161 din 23.12.2025 - privind înființarea Serviciului de gestionare a câinilor fără stăpân la nivelul Comunei Vama Buzăului, județul Brașov\"",
+"short": "HCL Vama Buzăului nr. 161/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2025",
+"council": "brasov/vama-buzaului",
+"council_name": "Consiliul Local al Comunei Vama Buzăului",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

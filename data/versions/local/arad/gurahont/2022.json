@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/gurahont/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--gurahont-71-2022",
+   "path": "local/arad/gurahont/2022/71",
+   "short": "HCL Gurahonț nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 71/2022 privind măsuri pentru asigurarea continuității activității de colectare și transport a deșeurilor la nivel de unitate administrativ teritorială luate pe perioada existenței unei situații de urgență",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/84509",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/84509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-73-2022",
+   "path": "local/arad/gurahont/2022/73",
+   "short": "HCL Gurahonț nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 73/2022 privind completarea patrimoniului public al Comunei Gurahonţ cu drumuri agricole vicinale inventariate în urma aplicării PNCCF în comuna Gurahonţ",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/84511",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/84511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-74-2022",
+   "path": "local/arad/gurahont/2022/74",
+   "short": "HCL Gurahonț nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 74/2022 privind aprobarea Regulamentului de valorificare a materialului lemnos din pădurea și pășunea comunală către populație",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/86533",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/86533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-86-2022",
+   "path": "local/arad/gurahont/2022/86",
+   "short": "HCL Gurahonț nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 86/2022 privind modificarea unor impozite și taxele locale prevăzute de Codul fiscal, respectiv a unor taxe speciale, ce au fost stabilite pentru anul 2023",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/86545",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/86545",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vrancea/gologanu/2023",
+"acts": [
+{
+"slug": "hcl-vrancea--gologanu-66-2023",
+"path": "local/vrancea/gologanu/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gologanu nr. 66/2023 Alegerea presedintelui de ședință",
+"short": "HCL Gologanu nr. 66/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://gologanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4977#64321",
+"council": "vrancea/gologanu",
+"council_name": "Consiliul Local al Comunei Gologanu",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

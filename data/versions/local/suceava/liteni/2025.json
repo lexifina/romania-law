@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/liteni/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--liteni-37-2025",
+   "path": "local/suceava/liteni/2025/37",
+   "short": "HCL Liteni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Liteni nr. 37/2025 privind aprobarea Planului de Mobilitate Urbană Durabilă (PMUD) al orașului Liteni 2021-2027",
+   "url": "https://primaria-liteni.ro/monitorul-oficial-local/hotararile-consiliului-local-al-orasului-liteni/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://primaria-liteni.ro/wp-content/uploads/2026/03/Hotararea-nr.-37-din-18-iunie-2025-privind-aprobarea-Planului-de-Mobilitate-Urbana-Durabila-PMUD-al-orasului-Liteni-2021-2027.pdf",
+     "sha256": "8ba15148feedbd1d01d4e3cb4328d276b349130ea456ec4a51be5764be20a51c"
+    }
+   ]
+  }
+ ]
+}

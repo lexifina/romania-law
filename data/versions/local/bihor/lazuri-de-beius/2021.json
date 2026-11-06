@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/lazuri-de-beius/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-53-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/53",
+   "short": "HCL Lazuri de Beiuș nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 53/2021 privind actualizarea indicatorilor economici pentru obiectivul de investiții “Alimentare cu apă- comuna Lazuri de Beiuş\"",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39689",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39689",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

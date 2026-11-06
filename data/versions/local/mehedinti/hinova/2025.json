@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/hinova/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--hinova-38-2025",
+   "path": "local/mehedinti/hinova/2025/38",
+   "short": "HCL Hinova nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 38/2025 privind PUZ-CONSTRUIRE CASE SEZONIERE NR. HCL nr.38/15.07.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._38_din_15.07.2025_privind_PUZ-CONSTRUIRE_CASE_SEZONIERE.pdf",
+     "sha256": "30f62b6a76bc227a659e11894c035235bca79fe850805a802e2dc3d5e79126f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-66-2025",
+   "path": "local/mehedinti/hinova/2025/66",
+   "short": "HCL Hinova nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 66/2025 privind prelungire valabilitate PUG COMUNA HINOVA NR. 66/23.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_66_din_23.12.2025_privind_prelungire_valabilitate_PUG_COMUNA_HINOVA.pdf",
+     "sha256": "fcec09711b38820515c8aa730336a97e35e603be253f84b2ceb270f3a3d63145"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-68-2025",
+   "path": "local/mehedinti/hinova/2025/68",
+   "short": "HCL Hinova nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 68/2025 privind impozitele si taxele pe anul 2026 NR. 68/23.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_68_din_23.12.2025_privind_impozitele_si_taxele_locale_pe_anul_2026.pdf",
+     "sha256": "65329b53fdd71a333dd35c2b1b705f369f9367baf3656b91e58b076d3142b365"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/hinova/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--hinova-38-2025",
+"path": "local/mehedinti/hinova/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hinova nr. 38/2025 privind PUZ-CONSTRUIRE CASE SEZONIERE NR. HCL nr.38/15.07.2025",
+"short": "HCL Hinova nr. 38/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-07-15",
+"latest": "2025-07-15",
+"portal": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+"council": "mehedinti/hinova",
+"council_name": "Consiliul Local al Comunei Hinova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--hinova-66-2025",
+"path": "local/mehedinti/hinova/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hinova nr. 66/2025 privind prelungire valabilitate PUG COMUNA HINOVA NR. 66/23.12.2025",
+"short": "HCL Hinova nr. 66/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+"council": "mehedinti/hinova",
+"council_name": "Consiliul Local al Comunei Hinova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--hinova-68-2025",
+"path": "local/mehedinti/hinova/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hinova nr. 68/2025 privind impozitele si taxele pe anul 2026 NR. 68/23.12.2025",
+"short": "HCL Hinova nr. 68/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+"council": "mehedinti/hinova",
+"council_name": "Consiliul Local al Comunei Hinova",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

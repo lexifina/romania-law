@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/sacadat/2023",
+"acts": [
+{
+"slug": "hcl-bihor--sacadat-16-2023",
+"path": "local/bihor/sacadat/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 16/2023 privind aprobarea încheierii unui Protocolului de colaborare în vederea capturării câinilor fără stapân de pe raza UAT Săcădat de către Serviciul specializat pentru gestionarea câinilor fără stăpân din Orașul Aleșd",
+"short": "HCL Săcădat nr. 16/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/sacadat-bh/registru-hcl/101203",
+"council": "bihor/sacadat",
+"council_name": "Consiliul Local al Comunei Săcădat",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -3,6 +3,72 @@
 "shard": "local/bistrita-nasaud/micestii-de-campie/2025",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--micestii-de-campie-7-2025",
+"path": "local/bistrita-nasaud/micestii-de-campie/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 7/2025 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Miceștii de Câmpie",
+"short": "HCL Miceștii de Câmpie nr. 7/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://micestiidecampie.ro/registru_hcl2025.html",
+"council": "bistrita-nasaud/micestii-de-campie",
+"council_name": "Consiliul Local al Comunei Miceștii de Câmpie",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--micestii-de-campie-28-2025",
+"path": "local/bistrita-nasaud/micestii-de-campie/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 28/2025 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, cu rata inflației în anul 2025 pentru anul 2026",
+"short": "HCL Miceștii de Câmpie nr. 28/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://micestiidecampie.ro/registru_hcl2025.html",
+"council": "bistrita-nasaud/micestii-de-campie",
+"council_name": "Consiliul Local al Comunei Miceștii de Câmpie",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--micestii-de-campie-43-2025",
+"path": "local/bistrita-nasaud/micestii-de-campie/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 43/2025 privind avizarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deșeuri periculoase din deșeuri menajere (...)",
+"short": "HCL Miceștii de Câmpie nr. 43/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://micestiidecampie.ro/registru_hcl2025.html",
+"council": "bistrita-nasaud/micestii-de-campie",
+"council_name": "Consiliul Local al Comunei Miceștii de Câmpie",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--micestii-de-campie-51-2025",
 "path": "local/bistrita-nasaud/micestii-de-campie/2025/51",
 "kind": "local",

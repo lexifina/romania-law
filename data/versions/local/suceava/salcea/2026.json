@@ -3,6 +3,66 @@
  "shard": "local/suceava/salcea/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--salcea-13-2026",
+   "path": "local/suceava/salcea/2026/13",
+   "short": "HCL Salcea nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 13/2026 pentru aprobarea Regulamentului privind acordarea de stimulente financiare în vederea susținerii cetățenilor din orașul Salcea care au obținut premii la olimpiade.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202026/HCL%20nr.%2013%20din%2027.02.2026%20pentru%20aprobarea%20Regulamentului%20privind%20acordarea%20de%20stimulente%20financiare%20%C3%AEn%20vederea%20sus%C8%9Binerii%20cet%C4%83%C8%9Benilor%20din%20ora%C8%99ul%20Salcea%20care%20au%20ob%C8%9Binut%20premii%20la%20olimpiade.pdf",
+     "sha256": "142cfa7dfb038d923df6b490c2d54ba64fe485a2de4a2cea5552cce342466384"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-20-2026",
+   "path": "local/suceava/salcea/2026/20",
+   "short": "HCL Salcea nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 20/2026 privind interzicerea desfășurăriiactivității de jocuri de noroc pe raza orașului Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202026/HCL%20nr.%2020%20din%2027.02.2026%20privind%20interzicerea%20desf%C4%83%C8%99ur%C4%83riiactivit%C4%83%C8%9Bii%20de%20jocuri%20de%20noroc%20pe%20raza%20ora%C8%99ului%20Salcea.pdf",
+     "sha256": "34aabbed992dfcca0b7fef900552f4e8ccd1f99adeebf412f6d942ea55902235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-40-2026",
+   "path": "local/suceava/salcea/2026/40",
+   "short": "HCL Salcea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 40/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "996c21feec31d65f1fd6327057d4800fd5a7a9de0694491ee9efe34b5e703f9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-41-2026",
+   "path": "local/suceava/salcea/2026/41",
+   "short": "HCL Salcea nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 41/2026 privind aprobarea documentației Elaborare documentație PUZ beneficiar Parohia Mereni.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2026",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202026/HCL%20nr.%2041%20din%2030.04.2026%20privind%20aprobarea%20documenta%C8%9Biei%20Elaborare%20documenta%C8%9Bie%20PUZ%20beneficiar%20Parohia%20Mereni.pdf",
+     "sha256": "3de72abc5c34b7643a52208f444ad6614f47d26b4edc5e7273d9a465f48d20a0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-52-2026",
    "path": "local/suceava/salcea/2026/52",
    "short": "HCL Salcea nr. 52/2026",
@@ -33,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--salcea-56-2026",
+   "path": "local/suceava/salcea/2026/56",
+   "short": "HCL Salcea nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 56/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1436c93bf9fa25ffe1756b741fc672281d9fb7081053f8a5664a081b1398319e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-76-2026",
    "path": "local/suceava/salcea/2026/76",
    "short": "HCL Salcea nr. 76/2026",
@@ -44,6 +119,21 @@
      "units": 1,
      "source_url": "http://www.primariasalcea.ro/media/Monitorul%20Local/HCL%20nr.%2076%20din%2023.07.2026%20privind%20aprobarea%20%C3%AEnfiin%C8%9B%C4%83rii%20Comisiei%20Locale%20de%20Ordine%20Public%C4%83%20a%20Ora%C8%99ului%20Salcea.pdf",
      "sha256": "f7895bd7ed24f7f985b7276f864f000fd86fe16d72a1023b28467703e94fdc1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-77-2026",
+   "path": "local/suceava/salcea/2026/77",
+   "short": "HCL Salcea nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 77/2026 privind aprobarea Regulamentului de înregistrare și transmitere live audio-video a ședințelor Consiliului Local al Orașului Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2026",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202026/HCL%20nr.%2077%20din%2023.07.2026%20privind%20aprobarea%20Regulamentului%20de%20%C3%AEnregistrare%20%C8%99i%20transmitere%20live%20audio-video%20a%20%C8%99edin%C8%9Belor%20Consiliului%20Local%20al%20Ora%C8%99ului%20Salcea.pdf",
+     "sha256": "0d25e08597a5233a644a6c76c186a8a12928a93e41e12e7030f56dd9148742e4"
     }
    ]
   },

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/sibiu/bruiu/2025",
+ "acts": [
+  {
+   "slug": "hcl-sibiu--bruiu-49-2025",
+   "path": "local/sibiu/bruiu/2025/49",
+   "short": "HCL Bruiu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bruiu nr. 49/2025 pentru aprobarea modificării și completării Hotărârii Consiliului Local al comunei Bruiu nr. 49 din18.12.2025 privind stabilirea impozitelor și taxelor locale",
+   "url": "https://www.primariabruiu.eu/wp-content/uploads/2026/06/Hotarare-pentru-aprobarea-modificarii-si-completarii-Hotararii-Consiliului-Local-al-comunei-Bruiu-nr.-49-din18.12.2025-privind-stabilirea-impozitelor-si-taxelor-locale.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariabruiu.eu/wp-content/uploads/2026/06/Hotarare-pentru-aprobarea-modificarii-si-completarii-Hotararii-Consiliului-Local-al-comunei-Bruiu-nr.-49-din18.12.2025-privind-stabilirea-impozitelor-si-taxelor-locale.pdf",
+     "sha256": "c1df70800d1060b982849f59ab3ad69cbbb3c90d140d0e7c50c5ed52381b89b7"
+    }
+   ]
+  }
+ ]
+}

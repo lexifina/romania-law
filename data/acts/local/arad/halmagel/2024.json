@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/arad/halmagel/2024",
+"acts": [
+{
+"slug": "hcl-arad--halmagel-81-2024",
+"path": "local/arad/halmagel/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 81/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local al comunei Hălmăgel, judeţul Arad",
+"short": "HCL Hălmăgel nr. 81/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/196885",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagel-85-2024",
+"path": "local/arad/halmagel/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 85/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular pentru anul școlar 2025 - 2026, în comuna Hălmăgel, jud. Arad",
+"short": "HCL Hălmăgel nr. 85/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/196891",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagel-87-2024",
+"path": "local/arad/halmagel/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 87/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Hălmăgel nr. 87/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/196896",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

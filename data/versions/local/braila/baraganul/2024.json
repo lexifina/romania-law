@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/braila/baraganul/2024",
+ "acts": [
+  {
+   "slug": "hcl-braila--baraganul-56-2024",
+   "path": "local/braila/baraganul/2024/56",
+   "short": "HCL Bărăganul nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 56/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e8d88985691acb195e25c922402ba31c9e0d4240900fd4dfaa13afdad29c6b46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-66-2024",
+   "path": "local/braila/baraganul/2024/66",
+   "short": "HCL Bărăganul nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 66/2024 privind Ã®nregistrarea comunei Baraganul Ã®n Sistemul NaÈional Electronic de PlatÄ (SNEP) online a taxelor Èi impozitelor utilizÃ¢nd cardul bancar, Èi implicit Ã®nrolarea Ã®n sistemul âGhiÈeul.roâ Èi stabilirea modului Ã®n care este suportat comisionul bancar",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2066_2024.pdf",
+     "sha256": "ed2b41866ce9195018c133290d1026956867b1d0bee7e7666d7c7ed8824dc5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-77-2024",
+   "path": "local/braila/baraganul/2024/77",
+   "short": "HCL Bărăganul nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 77/2024 privind aprobarea Regulamentului de eliberare a Acordului/Acordului administratorului drumului pentru efectuarea lucrarilor aferente retelelor tehnico-edilitare realizate pe proprietatile apartinand domeniului public al Comunei BÄrÄganul si care afecteaza structura ca",
+   "url": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "http://www.primariabaraganul.ro/pdf/Monitor%20Oficial%20Local/Hotarari/HCL%20nr.%2077_2024.pdf",
+     "sha256": "cc30bd9550fec1bed1f6afeb14f1aeec2457a92e42b0229da42dbbe4f5a64fcc"
+    }
+   ]
+  }
+ ]
+}

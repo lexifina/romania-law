@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/salsig/2021",
+ "acts": [
+  {
+   "slug": "hcl-maramures--salsig-58-2021",
+   "path": "local/maramures/salsig/2021/58",
+   "short": "HCL Sălsig nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 58/2021 privind aprobarea „Regulamentului privind gospodărești, administrarea fondului locativ public și privat și alte măsuri pentru asigurarea ordinii și curățeniei în comuna Salsig, județul Maramureș\" Având in vedere proiectul de hotarare nr.58 din 08.10.2021 initiat de primarul comunei, referatul de aprobare al primarului comunei, înregistrat sub nr. nr.3982 din 08.10.2021 cu privire la aprobarea Regu",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.%2058.pdf",
+     "sha256": "6966cac04063dc2b50d4e7f96c5dde370d86f086854d89d74648eaafadedae82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-63-2021",
+   "path": "local/maramures/salsig/2021/63",
+   "short": "HCL Sălsig nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 63/2021 privind aprobarea impozitelor si taxelor locale pentru anul 2022 Având în vedere proiectul de hotarare nr.63 din 12.11.2021 initiat de primarul comunei si insotit de referatul de aprobare al acestuia nr.4322 din 12.11.2021; raportul compartimentului impozite si taxe înregistrat sub nr.4323 din 12.11.2021 privind aprobarea impozitelor si taxelor locale pentru anul 2021; procesul verbal de afișare a",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%2063.pdf",
+     "sha256": "dc40530b809f49e918a18bbcad8cc15a3fa0e8670a99a6f25ec88fb1cccd3d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-66-2021",
+   "path": "local/maramures/salsig/2021/66",
+   "short": "HCL Sălsig nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 66/2021 privind aprobarea taxelor speciale pentru Serviciul Public Local Salsig, din subordinea Consiliului Local Salsig Având în vedere proiectul de hotarare nr. 68 din 14.12.2021 initiat de primarul comunei si referatul de aprobare al acestuia, înregistrat sub nr. 4554 din 14.12.2021; raportul compartimentului financiar-contabil înregistrat sub nr.4555 din 14.12.2021, privind aprobarea taxelor speciale",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.66.pdf",
+     "sha256": "73d57a166d3e58f9eb809599d9aa4c2fc2369ab255efb52d848f016eab6ff2b5"
+    }
+   ]
+  }
+ ]
+}

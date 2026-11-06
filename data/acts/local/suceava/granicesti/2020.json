@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/granicesti/2020",
+"acts": [
+{
+"slug": "hcl-suceava--granicesti-34-2020",
+"path": "local/suceava/granicesti/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grănicești nr. 34/2020 privind stabilirea impozitelor si taxelor locale pentru anul 2021.pdf Descarcă",
+"short": "HCL Grănicești nr. 34/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://comunagranicesti.ro/hotarari-consiliu-local/",
+"council": "suceava/granicesti",
+"council_name": "Consiliul Local al Comunei Grănicești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

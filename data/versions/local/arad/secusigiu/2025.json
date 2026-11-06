@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/arad/secusigiu/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--secusigiu-100-2025",
+   "path": "local/arad/secusigiu/2025/100",
+   "short": "HCL Secusigiu nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 100/2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/238790",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/238790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-102-2025",
+   "path": "local/arad/secusigiu/2025/102",
+   "short": "HCL Secusigiu nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 102/2025 privind modificarea art. 1 din Hotărârea Consiliului local al comunei Secusigiu nr. 78/16.09.2025 privind însușirea și aprobarea documentaţiei de actualizare informaţii tehnice, pentru imobilul situat în loc. Sînpetru German nr. 297, com. Secusigiu, jud. Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/238792",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/238792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-103-2025",
+   "path": "local/arad/secusigiu/2025/103",
+   "short": "HCL Secusigiu nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 103/2025 privind însușire documentaţia cadastrală de primă înscriere a terenului intravilan – arabil- în suprafață de 21302 mp. și a terenului intrabilan – neproductiv- în suprafață de 32371",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/238793",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/238793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-104-2025",
+   "path": "local/arad/secusigiu/2025/104",
+   "short": "HCL Secusigiu nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 104/2025 privind aprobarea ordinei de zi a ședinței de ordinare din data de 18.12.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242219",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-105-2025",
+   "path": "local/arad/secusigiu/2025/105",
+   "short": "HCL Secusigiu nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 105/2025 privind aprobarea procesului verbal al şedinţei ordinare din data de 27.11.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242220",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-106-2025",
+   "path": "local/arad/secusigiu/2025/106",
+   "short": "HCL Secusigiu nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 106/2025 privind rectificarea bugetului local al comunei Secusigiu pe anul 2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242221",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-107-2025",
+   "path": "local/arad/secusigiu/2025/107",
+   "short": "HCL Secusigiu nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 107/2025 privind aprobarea Raportului de execuție bugetară la 30.11.2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242222",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-108-2025",
+   "path": "local/arad/secusigiu/2025/108",
+   "short": "HCL Secusigiu nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 108/2025 privind solicitarea către Consiliul județean Arad de trecere din domeniul public al județului Arad în domeniul public al Comunei Secusigiu a unui bun mobil – microbuz electric pentru elevii",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242223",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-109-2025",
+   "path": "local/arad/secusigiu/2025/109",
+   "short": "HCL Secusigiu nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 109/2025 privind aprobarea modificării tarifului pentru activitatea de colectare separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad ZONA 1",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242224",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-110-2025",
+   "path": "local/arad/secusigiu/2025/110",
+   "short": "HCL Secusigiu nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 110/2025 privind aprobarea Studiului de oportunitate și a formei de delegare a serviciilor de transport public de călători în cadrul Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242225",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-111-2025",
+   "path": "local/arad/secusigiu/2025/111",
+   "short": "HCL Secusigiu nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 111/2025",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242226",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-112-2025",
+   "path": "local/arad/secusigiu/2025/112",
+   "short": "HCL Secusigiu nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 112/2025 privind aprobarea Rețelei unităţilor de învățământ pentru anul 2026-2027",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242227",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-113-2025",
+   "path": "local/arad/secusigiu/2025/113",
+   "short": "HCL Secusigiu nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 113/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, aplicabile în anul 2026",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/242228",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/242228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-95-2025",
+   "path": "local/arad/secusigiu/2025/95",
+   "short": "HCL Secusigiu nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 95/2025 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 32",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/238785",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/238785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-98-2025",
+   "path": "local/arad/secusigiu/2025/98",
+   "short": "HCL Secusigiu nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 98/2025 privind aprobarea propunerii Rețelei unităţilor de învățământ pentru anul 2026-2027",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/238788",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/238788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--secusigiu-99-2025",
+   "path": "local/arad/secusigiu/2025/99",
+   "short": "HCL Secusigiu nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 99/2025 privind înființarea a 4 posturi in afara organigramei Primăriei Secusigiu, in cadrul Echipei comunitare integrate, pentru implementarea proiectului finanţat din fonduri europene nerambursabile si/sau prin Mecanismul de redresare si rezilienta \" Furnizare de servicii integrate în comunităţile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate\" PIDS/586/P04/339395 finanţat din Fondul Social European Plus, prin Programul Incluziune şi Demnitate Socială 2021-2027, Prioritatea 4: Sprijinirea comunităţilor rurale fără acces sau cu acces limitat la servicii sociale",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/238789",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/238789",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

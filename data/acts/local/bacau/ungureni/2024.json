@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/bacau/ungureni/2024",
+"acts": [
+{
+"slug": "hcl-bacau--ungureni-57-2024",
+"path": "local/bacau/ungureni/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 57/2024 privind aprobarea rectificării nr. 4 a bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Ungureni nr. 57/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/176863",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-58-2024",
+"path": "local/bacau/ungureni/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 58/2024 privind participarea COMUNEI UNGURENI la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public pentru investitia ,,Modernizarea sistemului de iluminat public prin creșterea eficienței energetice a infrastructurii de iluminat public în comuna Ungureni, din județul Bacău”",
+"short": "HCL Ungureni nr. 58/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/176864",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-60-2024",
+"path": "local/bacau/ungureni/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 60/2024 privind aprobarea rectificării nr. 5 a bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Ungureni nr. 60/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/180364",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-61-2024",
+"path": "local/bacau/ungureni/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 61/2024 privind aprobarea rectificării nr. 6 a bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Ungureni nr. 61/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/182196",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-62-2024",
+"path": "local/bacau/ungureni/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 62/2024 privind organizarea rețelei școlare de învățământ din comuna Ungureni pentru anul școlar 2025-2026",
+"short": "HCL Ungureni nr. 62/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/184629",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-75-2024",
+"path": "local/bacau/ungureni/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 75/2024 privind aprobarea impozitelor şi taxelor locale pentru anul 2025",
+"short": "HCL Ungureni nr. 75/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/184642",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

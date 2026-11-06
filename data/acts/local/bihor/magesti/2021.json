@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/magesti/2021",
+"acts": [
+{
+"slug": "hcl-bihor--magesti-2-2021",
+"path": "local/bihor/magesti/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 2/2021 privind aprobarea indicatorilor tehnico-economici și de cofinanțare pentru obiectivul „Modernizare prin asfaltare DC 178 Măgești-Gălășeni, comuna Măgești”",
+"short": "HCL Măgești nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45636",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--magesti-8-2021",
+"path": "local/bihor/magesti/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 8/2021 privind aprobarea Planului de acțiuni și lucrări de interes local întocmit în conformitate cu prevederile Legii nr. 416/2001, modificată prin Legea nr. 276/2010",
+"short": "HCL Măgești nr. 8/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/45648",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

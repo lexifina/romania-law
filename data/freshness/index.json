@@ -1432,15 +1432,28 @@
    }
   },
   {
-   "shard": "cnsc/2026",
+   "shard": "cnsc/2025",
    "kind": "cnsc",
-   "file": "data/freshness/cnsc/2026.csv",
-   "count": 57,
+   "file": "data/freshness/cnsc/2025.csv",
+   "count": 1,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 57,
+    "unverified": 1,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "cnsc/2026",
+   "kind": "cnsc",
+   "file": "data/freshness/cnsc/2026.csv",
+   "count": 254,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 254,
     "source-unavailable": 0
    }
   },

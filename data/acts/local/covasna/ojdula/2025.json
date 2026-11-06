@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/covasna/ojdula/2025",
+"acts": [
+{
+"slug": "hcl-covasna--ojdula-50-2025",
+"path": "local/covasna/ojdula/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 50/2025",
+"short": "HCL Ojdula nr. 50/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": null,
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

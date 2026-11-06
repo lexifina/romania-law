@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/rovinari/2026",
+ "acts": [
+  {
+   "slug": "hcl-gorj--rovinari-12-2026",
+   "path": "local/gorj/rovinari/2026/12",
+   "short": "HCL Rovinari nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 12/2026 privind actualizarea Regulamentului de organizare și funcționare a serviciului de zi „Centrul de zi de socializare și petrecere a timpului liber (tip club)- Clubul Seniorilor” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2026-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea_Nr.12_din_29.01.2026.pdf",
+     "sha256": "28df21a28b822283052a40bf01e25e04c2590bba32b770ed6306af4d555cd375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-7-2026",
+   "path": "local/gorj/rovinari/2026/7",
+   "short": "HCL Rovinari nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 7/2026 privind modificarea și completarea Anexei 1 din Hotărârea Consiliului Local nr.248/29.12.2025 privind stabilirea impozitelor și taxelor locale, stabilirea nivelurilor impozitului pe mijloacele de transport în cazul unui autovehicul de transport marfă cu masa autorizată egală sau mai mare de 12 tone, precum și în cazul unei combinații de autovehicul articulat sau tren rutier de transport marfă, cu",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2026-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea_Nr.7_din_29.01.2026.pdf",
+     "sha256": "3bf2cfa11776e17c604f3a2f1552ba0d3494d060d9dfef068a3220967ddfda1f"
+    }
+   ]
+  }
+ ]
+}

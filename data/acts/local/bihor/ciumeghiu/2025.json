@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/ciumeghiu/2025",
+"acts": [
+{
+"slug": "hcl-bihor--ciumeghiu-69-2025",
+"path": "local/bihor/ciumeghiu/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 69/2025 privind aprobarea nivelului impozitelor și taxelor locale pe anul 2026",
+"short": "HCL Ciumeghiu nr. 69/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/245127",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-72-2025",
+"path": "local/bihor/ciumeghiu/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 72/2025 privind aprobarea nivelului impozitelor și taxelor locale pe anul 2026",
+"short": "HCL Ciumeghiu nr. 72/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/245258",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

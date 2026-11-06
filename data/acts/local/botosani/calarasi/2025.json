@@ -23,6 +23,50 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-botosani--calarasi-81-2025",
+"path": "local/botosani/calarasi/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 81/2025 privind stabilirea impozitelor și taxelor locale pe anul 2026",
+"short": "HCL Călărași nr. 81/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primariacalarasibt.ro/documente/hotarare-nr-81-din-23-12-2025-privind-stabilirea-impozitelor-si-taxelor-locale-pe-anul-2026/",
+"council": "botosani/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--calarasi-249-2025",
+"path": "local/botosani/calarasi/2025/249",
+"kind": "local",
+"year": "2025",
+"number": "249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 249/2025 privind aprobarea prețurilor medii ale produselor agricole pentru anul 2026",
+"short": "HCL Călărași nr. 249/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://primariacalarasibt.ro/wp-content/uploads/2025/12/Hotarare-nr.-249-din-19.12.2025-privind-aprobarea-preturilor-medii-ale-produselor-agricole-pentru-anul-2026.pdf",
+"council": "botosani/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

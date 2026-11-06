@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/valcea/babeni/2024",
+"acts": [
+{
+"slug": "hcl-valcea--babeni-109-2024",
+"path": "local/valcea/babeni/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 109/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+"short": "HCL Băbeni nr. 109/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#88729",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-valcea--babeni-111-2024",
+"path": "local/valcea/babeni/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 111/2024 aprobarea proiectului tehnic, a devizului general și a indicatorilor tehnico – economici aferenți obiectivului de investiții „Extindere retea canalizare pe Calea lui Traian DN64, orasul Babeni, judetul Valcea”",
+"short": "HCL Băbeni nr. 111/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#89689",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-valcea--babeni-117-2024",
+"path": "local/valcea/babeni/2024/117",
+"kind": "local",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 117/2024 stabilirea nivelului impozitelor, taxelor si a altor sume cuvenite bugetului local pentru anul 2025",
+"short": "HCL Băbeni nr. 117/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#86189",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

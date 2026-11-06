@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/dobromir/2024",
+"acts": [
+{
+"slug": "hcl-constanta--dobromir-16-2024",
+"path": "local/constanta/dobromir/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobromir nr. 16/2024 pentru aprobarea Regulamentului privind normele de gospodărire comunala, pe teritoriul comunei Dobromir, judetul Constanta",
+"short": "HCL Dobromir nr. 16/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://primariadobromir.ro/wp-content/uploads/2024/05/hcl-16.pdf",
+"council": "constanta/dobromir",
+"council_name": "Consiliul Local al Comunei Dobromir",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

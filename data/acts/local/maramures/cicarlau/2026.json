@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/maramures/cicarlau/2026",
+"acts": [
+{
+"slug": "hcl-maramures--cicarlau-73-2026",
+"path": "local/maramures/cicarlau/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 73/2026 privind mandatarea primarului comunei Cicârlău de a participa si vota în AGA ADIGIDM MM modificarea tarifului pentru activitatea de transfer a deșeurilor municipale zona de colectare 1 – Sârbi, UAT Cernești și UAT Coroieni",
+"short": "HCL Cicârlău nr. 73/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+"council": "maramures/cicarlau",
+"council_name": "Consiliul Local al Comunei Cicârlău",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--cicarlau-76-2026",
+"path": "local/maramures/cicarlau/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 76/2026 privind aprobarea Planului Urbanistic General și Regulamentului Local de Urbanism al comunei Cicârlău, județul Maramureș",
+"short": "HCL Cicârlău nr. 76/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+"council": "maramures/cicarlau",
+"council_name": "Consiliul Local al Comunei Cicârlău",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--cicarlau-78-2026",
+"path": "local/maramures/cicarlau/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cicârlău nr. 78/2026 privind mandatarea primarului comunei Cicârlău de a participa si vota în AGA ADIGIDM MM modificarea tarifelor pentru activitatea de de colectare si transport a deșeurilor municipale zona de colectare 1 – Sârbi",
+"short": "HCL Cicârlău nr. 78/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacicarlau.ro/monitor-oficial-local/hotararile-consiliului-local-al-comunei-cicarlau/hotarari-consiliului-local-2026/",
+"council": "maramures/cicarlau",
+"council_name": "Consiliul Local al Comunei Cicârlău",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

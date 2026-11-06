@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/lehliu-gara/2025",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--lehliu-gara-79-2025",
+   "path": "local/calarasi/lehliu-gara/2025/79",
+   "short": "HCL Lehliu Gară nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 79/2025 privind stabilirea Impozitelor si Taxelor locale in orasul Lehliu &#8211; Gara pentru anul 2026",
+   "url": "https://www.primarialehliugara.ro/wp-content/uploads/2026/01/HCL-nr.-79-din-23.12.2025-privind-stabilirea-Impozitelor-si-Taxelor-locale-in-orasul-Lehliu-Gara-pentru-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2026/01/HCL-nr.-79-din-23.12.2025-privind-stabilirea-Impozitelor-si-Taxelor-locale-in-orasul-Lehliu-Gara-pentru-anul-2026.pdf",
+     "sha256": "282b785f1df4433f46bf0682669df0d8f75eed4fe9d18c06567dd66d7681200c"
+    }
+   ]
+  }
+ ]
+}

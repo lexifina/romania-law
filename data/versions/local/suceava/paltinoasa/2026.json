@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/paltinoasa/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--paltinoasa-47-2026",
+   "path": "local/suceava/paltinoasa/2026/47",
+   "short": "HCL Păltinoasa nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Păltinoasa nr. 47/2026 privind aprobarea Planului de investitii de dezvoltare si a Planului de investitii de inlocuire pentru SERVICIUL PUBLIC DE ALIMENTARE CU APA SI CANALIZARE PALTINOASA, pe perioada reglementata a Strategiei tarifare 2027-2031",
+   "url": "https://primariapaltinoasa.ro/index.php/monitorul-oficial-local/hotarari-c-l",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://primariapaltinoasa.ro/images/Mol2026/P%C4%83ltinoasa%20HCL%20nr.%2047%20din%2006.07.2026.pdf",
+     "sha256": "bd03bd322eeff6432bdf2b1edc97ca47ad7b94f04d21cadef25b5d2c89170f5f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/alba/blandiana/2023",
+"acts": [
+{
+"slug": "hcl-alba--blandiana-63-2023",
+"path": "local/alba/blandiana/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 63/2023 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al comunei Blandiana",
+"short": "HCL Blandiana nr. 63/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-alba--blandiana-64-2023",
+"path": "local/alba/blandiana/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 64/2023 privind înființarea Serviciului specializat pentru gestionarea câinilor fără stăpân al comunei Blandiana, județul Alba.",
+"short": "HCL Blandiana nr. 64/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-alba--blandiana-70-2023",
+"path": "local/alba/blandiana/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 70/2023 privind aprobarea Regulamentului de acordarea a ”Diplomei de Onoare” și a unui premiu familiilor care aniversează 50 de ani de căsătorie neîntrerupți precum și a persoanelor care au împlinit vârsta de 100 de ani de viață.",
+"short": "HCL Blandiana nr. 70/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-alba--blandiana-78-2023",
+"path": "local/alba/blandiana/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 78/2023",
+"short": "HCL Blandiana nr. 78/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--blandiana-79-2023",
+"path": "local/alba/blandiana/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 79/2023 privind acordare mandat modificare TARIFE",
+"short": "HCL Blandiana nr. 79/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

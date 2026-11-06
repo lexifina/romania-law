@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/galatii-bistritei/2023",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-62-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 62/2023 privind stabilirea impozitelor și taxelor locale ale comunei Galații-Bistriței pe anul 2024",
+"short": "HCL Galații Bistriței nr. 62/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--galatii-bistritei-65-2023",
+"path": "local/bistrita-nasaud/galatii-bistritei/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 65/2023 privind stabilirea cuantumului taxei speciale de salubrizare în comuna Galații-Bistriței pe anul 2024",
+"short": "HCL Galații Bistriței nr. 65/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "http://galatiibistritei.ro/registru_hcl2023.html",
+"council": "bistrita-nasaud/galatii-bistritei",
+"council_name": "Consiliul Local al Comunei Galații Bistriței",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

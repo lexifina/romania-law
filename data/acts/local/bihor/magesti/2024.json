@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bihor/magesti/2024",
+"acts": [
+{
+"slug": "hcl-bihor--magesti-47-2024",
+"path": "local/bihor/magesti/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 47/2024 privind aprobarea participării apelului de proiecte ''Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice'' finanțat din Fondul pentru Modernizare - Programul cheie 1, a Studiului de Fezabilitate, a indicatorilor tehnico-economici, a cheltuielilor aferente proiectului, asigurarea cofinanțării proiectului, asigurarea fluxului financiar și acoperirea contravalorii cheltuielilor neeligibile aferente proiectului Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsumul comunei Măgești",
+"short": "HCL Măgești nr. 47/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/190623",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--magesti-51-2024",
+"path": "local/bihor/magesti/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 51/2024 privind declararea de utilitate publică și de interes local a terenului necesar pentru realizarea obiectivului de investiții ''Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabila pentru autoconsumul Comunei Măgești'' și emiterea acordului pentru propunerea de scoatere din circuitul agricol al terenului aferent obiectivului de investiții",
+"short": "HCL Măgești nr. 51/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/190641",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--magesti-58-2024",
+"path": "local/bihor/magesti/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 58/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Măgești nr. 58/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/190670",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--magesti-62-2024",
+"path": "local/bihor/magesti/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgești nr. 62/2024 privind aprobarea rețelei școlare pentru anul școlar 2025-2026",
+"short": "HCL Măgești nr. 62/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/magesti-bh/registru-hcl/190679",
+"council": "bihor/magesti",
+"council_name": "Consiliul Local al Comunei Măgești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

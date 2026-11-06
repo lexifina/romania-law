@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/ciumeghiu/2024",
+"acts": [
+{
+"slug": "hcl-bihor--ciumeghiu-109-2024",
+"path": "local/bihor/ciumeghiu/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 109/2024 privind aprobarea anulării obligațiilor bugetare principale, dobânzilor, penalităților și tuturor accesoriilor aferente obligațiilor bugetare principale restante la 31.08.2024 datorate bugetului local al comunei Ciumeghiu și aprobarea procedurii de acordare",
+"short": "HCL Ciumeghiu nr. 109/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/181241",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-116-2024",
+"path": "local/bihor/ciumeghiu/2024/116",
+"kind": "local",
+"year": "2024",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 116/2024 privind aprobarea nivelului impozitelor și taxelor locale pe anul 2025",
+"short": "HCL Ciumeghiu nr. 116/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-17",
+"latest": "2025-01-17",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/184602",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

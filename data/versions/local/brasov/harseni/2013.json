@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/harseni/2013",
+ "acts": [
+  {
+   "slug": "hcl-brasov--harseni-4-2013",
+   "path": "local/brasov/harseni/2013/4",
+   "short": "HCL Hârseni nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Hârseni nr. 4/2013 Privind prelungirea perioadei de valabilitate a Planului urbanistic General al comunei Harseni ( PUG ) (click pentru download)",
+   "url": "https://www.primariaharseni.ro/hotarari_2013.php",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 1,
+     "source_url": "https://www.primariaharseni.ro/pdf/hot4din15_02_2013.pdf",
+     "sha256": "0fe6ed12996b6a35bec83da4ce05dbed3137cb7d7c80905328f18d38166711b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--harseni-7-2013",
+   "path": "local/brasov/harseni/2013/7",
+   "short": "HCL Hârseni nr. 7/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Hârseni nr. 7/2013",
+   "url": "https://www.primariaharseni.ro/hotarari_2013.php",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 1,
+     "source_url": "https://www.primariaharseni.ro/pdf/hot7din15_02_2013.pdf",
+     "sha256": "38ee8cda989187a95a3a1ab60072e8d9424c1aab6b36e128b0dbacc3227eb50c"
+    }
+   ]
+  }
+ ]
+}

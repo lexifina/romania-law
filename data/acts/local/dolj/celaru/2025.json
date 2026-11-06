@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/celaru/2025",
+"acts": [
+{
+"slug": "hcl-dolj--celaru-35-2025",
+"path": "local/dolj/celaru/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Celaru nr. 35/2025 privind aprobarea Regulamentului de acordare a ajutoarelor de urgen{i familiilor qi persoanelor singure care se aflI in situa{ii de necesitate cauzate de calamitl{i naturale, incendii, accidente precum qi pentru alte situafii deosebite, conform anexei nr.I qi II care face parte integrantd din prezenta hotIrflre",
+"short": "HCL Celaru nr. 35/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://www.primariacelarudolj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-c-l/",
+"council": "dolj/celaru",
+"council_name": "Consiliul Local al Comunei Celaru",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

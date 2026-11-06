@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/parava/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--parava-43-2026",
+   "path": "local/bacau/parava/2026/43",
+   "short": "HCL Parava nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Parava nr. 43/2026 privind aprobarea Regulamentului privind gestionarea deșeurilor din construcții și demolări în localitatea Parava, județul Bacău Descarcă",
+   "url": "https://primariaparava.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariaparava.ro/pp-content/atasamente/2026/10/HCL-nr.-43-din-30.09.2026.pdf",
+     "sha256": "57f6f874410d4fa77b67f1b1336e532b29220f8900f5df32ef033647558f12e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--parava-44-2026",
+   "path": "local/bacau/parava/2026/44",
+   "short": "HCL Parava nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Parava nr. 44/2026 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Parava, județul Bacău Descarcă Descarcă",
+   "url": "https://primariaparava.ro/administratie/consiliul-local/hotarari-ale-consiliului/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariaparava.ro/pp-content/atasamente/2026/10/HCL-nr.-44-din-30.09.2026.pdf",
+     "sha256": "08d92566114255b63365798360fd44c391073c85dfe60c63396c2cff772f6a10"
+    }
+   ]
+  }
+ ]
+}

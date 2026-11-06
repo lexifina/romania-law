@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/bratca/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--bratca-189-2023",
+   "path": "local/bihor/bratca/2023/189",
+   "short": "HCL Bratca nr. 189/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 189/2023 privind rectificarea Bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145226",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-202-2023",
+   "path": "local/bihor/bratca/2023/202",
+   "short": "HCL Bratca nr. 202/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 202/2023 privind rectificarea Bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145244",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145244",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

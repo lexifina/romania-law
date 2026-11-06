@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/daia/2001",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--daia-2-2001",
+   "path": "local/giurgiu/daia/2001/2",
+   "short": "HCL Daia nr. 2/2001",
+   "title": "Hotărârea Consiliului Local al Comunei Daia nr. 2/2001 privind regimul juridic al contravenţiilor",
+   "url": "https://primaria-daia.ro/",
+   "versions": [
+    {
+     "from": "2001-07-12",
+     "units": 1,
+     "source_url": "http://primaria-daia.ro/wp-content/uploads/OG2_2001-privind-regimul-juridic-al-contraven%C5%A3iilor.pdf",
+     "sha256": "193adf9f5b60a62b16af7c375b11da60008319e5051d4e6814295c3f187fc0be"
+    }
+   ]
+  }
+ ]
+}

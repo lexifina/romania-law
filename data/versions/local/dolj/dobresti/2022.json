@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dobresti/2022",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dobresti-36-2022",
+   "path": "local/dolj/dobresti/2022/36",
+   "short": "HCL Dobrești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 36/2022 privind Codul Fiscal, consiliile locale aproba indexarea oricarui impozit sau oricarei taxe locale, care consta intr-o anumita gJma in lei sau care g stabilita pe baza unei anumite sume in lei, tinard cont de rata inflatiei pentru anul fiscal anterior, comunicata pe site-urile oficiale ale Ministerului Finantelor Publice si Ministerulu Dezvoltarii, Lucrarilor Publice si Administratiei",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2022/h36.pdf",
+     "sha256": "23f5c4f8c1690bb4c4382c1000c91a5a24b8d78ea3697d359db90eae45c17a7f"
+    }
+   ]
+  }
+ ]
+}

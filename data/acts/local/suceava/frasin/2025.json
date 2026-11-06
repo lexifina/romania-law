@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/suceava/frasin/2025",
+"acts": [
+{
+"slug": "hcl-suceava--frasin-151-2025",
+"path": "local/suceava/frasin/2025/151",
+"kind": "local",
+"year": "2025",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Frasin nr. 151/2025 privind completarea art.1 din HCL nr. 140 din 17.12.2025 privind aprobarea impozitelor și taxelor locale pentru anul 2026S",
+"short": "HCL Frasin nr. 151/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariaorasuluifrasin.ro/hcl-impozite-si-taxe-locale/",
+"council": "suceava/frasin",
+"council_name": "Consiliul Local al Orașului Frasin",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--frasin-153-2025",
+"path": "local/suceava/frasin/2025/153",
+"kind": "local",
+"year": "2025",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Frasin nr. 153/2025 privind instituirea si aprobarea unei taxei speciale de salubrizare pentru utilizatorii NON-CASNICI de pe raza UAT Frasin care nu încheie contract cu operatorul de salubrizare",
+"short": "HCL Frasin nr. 153/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariaorasuluifrasin.ro/hcl-impozite-si-taxe-locale/",
+"council": "suceava/frasin",
+"council_name": "Consiliul Local al Orașului Frasin",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

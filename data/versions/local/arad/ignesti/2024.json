@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ignesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--ignesti-80-2024",
+   "path": "local/arad/ignesti/2024/80",
+   "short": "HCL Ignești nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 80/2024 Privind aprobarea ”Regulamentului de instituire și administrare a taxei de salubrizare în comuna Ignești, județul Arad.” Hotararea nr. 80 Regulament taxa salubritate 2025",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2024/11/Hotararea-nr.-80.pdf",
+     "sha256": "b9392be7943ab0b02f1dbc335b4c29af63cf8e13d88324e226cfe577aad2d5e7"
+    }
+   ]
+  }
+ ]
+}

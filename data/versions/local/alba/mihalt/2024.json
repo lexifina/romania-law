@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/alba/mihalt/2024",
+ "acts": [
+  {
+   "slug": "hcl-alba--mihalt-29-2024",
+   "path": "local/alba/mihalt/2024/29",
+   "short": "HCL Mihalț nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 29/2024 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/29.-Hotararea-nr.-29-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-aparatului-de-specialitate-al-primarului-comunei-Mihalt-1.pdf",
+     "sha256": "642fd8582a691fdd2b5c2736f2b922a752f5e5f277be3e80552e2f1c4f3e117e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-39-2024",
+   "path": "local/alba/mihalt/2024/39",
+   "short": "HCL Mihalț nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 39/2024 privind acordarea unui mandat special pentru modificarea tarifelor de operare SALUBRIS",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/01/39.-Hotarare-nr.-39-privind-acordarea-unui-mandat-special-pentru-modificarea-tarifelor-de-operare-SAUBRIS.pdf",
+     "sha256": "08036520e5615b64d422c415b1362a1684f1ae72723c746845a259cc266b32cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-45-2024",
+   "path": "local/alba/mihalt/2024/45",
+   "short": "HCL Mihalț nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 45/2024 privind aprobarea procedurii de anulare a accesoriilor aferente obligațiilor",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/01/45.-Hotararea-nr.-45-privind-aprobarea-procedurii-de-anulare-a-accesoriilor-aferente-obligatiilor.pdf",
+     "sha256": "ae889a9db61e6f002413e0ec48a8a704c6d2998bc6f494f50589c4e8a5bc6598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-66-2024",
+   "path": "local/alba/mihalt/2024/66",
+   "short": "HCL Mihalț nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 66/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/01/66.-Hotararea-nr.-66-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2025.pdf",
+     "sha256": "49e57ad18060c8d8f6a486ecd6cb9a34bbc18d6841db2c550e27899939b7db7a"
+    }
+   ]
+  }
+ ]
+}

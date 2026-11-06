@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/magesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--magesti-12-2025",
+   "path": "local/bihor/magesti/2025/12",
+   "short": "HCL Măgești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 12/2025 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare pentru gestionare situațiilor de urgență pe anul 2025 al comunei Măgești",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216380",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-13-2025",
+   "path": "local/bihor/magesti/2025/13",
+   "short": "HCL Măgești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 13/2025 privind formarea unui imobil cadastral, având categoria de folosință - drum aparținând localității Gălășeni, UAT Măgești",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216381",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-16-2025",
+   "path": "local/bihor/magesti/2025/16",
+   "short": "HCL Măgești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 16/2025 privind participarea la ”Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană”, și aprobarea depunerii dosarului de finanțare",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216396",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-18-2025",
+   "path": "local/bihor/magesti/2025/18",
+   "short": "HCL Măgești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 18/2025 privind aprobarea situațiilor financiare și a conturilor anuale de execuție al bugetului Comunei Măgești la data de 31.12.2024",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216401",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-19-2025",
+   "path": "local/bihor/magesti/2025/19",
+   "short": "HCL Măgești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 19/2025 privind aprobarea actualizării indicatorilor tehnico-economici și de cofinanțare pentru obiectivul ”Reabilitare dispensar uman Măgești, Comuna Măgești, Județul Bihor” ca efect al prevederilor Ordonanței de urgență 47/2022",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216405",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-20-2025",
+   "path": "local/bihor/magesti/2025/20",
+   "short": "HCL Măgești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 20/2025 privind aprobarea actualizării indicatorilor tehnico-economici și de cofinanțare pentru obiectivul ”Reabilitare dispensar uman Măgești, Comuna Măgești, județul Bihor ca efect al prevederilor Ordonanței de urgență 105/2023",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216406",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-22-2025",
+   "path": "local/bihor/magesti/2025/22",
+   "short": "HCL Măgești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 22/2025 privind adoptarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216409",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-26-2025",
+   "path": "local/bihor/magesti/2025/26",
+   "short": "HCL Măgești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 26/2025 privind aprobarea participării unității administrativ teritoriale MĂGEȘTI în cadrul proiectul ”Îmbunătățirea condițiilor de transport pentru elevii din Județul Bihor pentru furnizarea de microbuze școlare electrice” și aprobarea acordului de parteneriat în vederea depunerii cererii de finanțare în cadrul Apelului de proiecte „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planul Național de Redresare și Reziliență - Componenta C15: Educație",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224980",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-27-2025",
+   "path": "local/bihor/magesti/2025/27",
+   "short": "HCL Măgești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 27/2025 privind actualizarea organigramei Serviciului Voluntar pentru Situații de Urgență al comunei Măgești",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224981",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-29-2025",
+   "path": "local/bihor/magesti/2025/29",
+   "short": "HCL Măgești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 29/2025 privind aprobarea documentației în vederea încheierii, prin licitație publică, a unui spațiu comercial aparținând domeniului public al Comunei Măgești, situat în clădirea căminului cultural din localitatea Cacuciu Nou, nr. 39, înscris în CF nr. 52689",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224986",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-31-2025",
+   "path": "local/bihor/magesti/2025/31",
+   "short": "HCL Măgești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 31/2025 privind aprobarea documentației necesare pentru demararea procedurii de concesiune prin licitație deschisă conform prevederilor HG nr. 2019/2019 în scopul realizării obiectivului de investiții „Înființare rețea de distribuție a gazelor naturale în comuna Măgești, județul Bihor”",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/224988",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/224988",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

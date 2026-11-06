@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/podgoria/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--podgoria-35-2025",
+   "path": "local/buzau/podgoria/2025/35",
+   "short": "HCL Podgoria nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 35/2025 privind aprobarea prețurilor/tarifelor pentru unele servicii publice de alimentare cu apă și de canalizare ce se vor practica de catre serviciul “CONSILIUL LOCAL PODGORIA - SERVICIUL APĂ CANALIZARE SALUBRIZARE”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei PODGORIA, județul Buzău Consiliul local al comunei Podgoria",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL-nr.35-16.09.2025-preturi-bransare-racordare-si-alte-servicii.pdf",
+     "sha256": "fc8655ac48c859b8b72942d214eb6cfe6467b050e85a84b099052f031a5c2ff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-45-2025",
+   "path": "local/buzau/podgoria/2025/45",
+   "short": "HCL Podgoria nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 45/2025 privind stabilirea nivelurilor impozabile, impozitelor si taxelor locale si altor taxe asimilate acestora, ce se vor aplica in anul fiscal 2026",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL-nr.-45-30.12.2025-privind-stabilirea-nivelurilor-impozabile-impozitelor-si-taxelor-locale-si-altor-taxe-asimilate-acestora-ce-se-vor-aplica-in-anul-fiscal-2026.pdf",
+     "sha256": "eefd1bd137dc795304f07374864087a45b5de122c532bef06c96e1d1f4a3fdf4"
+    }
+   ]
+  }
+ ]
+}

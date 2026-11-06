@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/cocorastii-colt/2025",
+"acts": [
+{
+"slug": "hcl-prahova--cocorastii-colt-107-2025",
+"path": "local/prahova/cocorastii-colt/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 107/2025 privind aprobarea Studiului de fezabilitate ,devizului general și a indicatorilor tehnico economici ai obiectivului „ Execuție trotuare în satele Ghioldum,Cheșnoiu și Satu de Sus ’’",
+"short": "HCL Cocorăștii Colț nr. 107/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#112811",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

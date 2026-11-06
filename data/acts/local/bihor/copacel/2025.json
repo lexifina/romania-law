@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/bihor/copacel/2025",
+"acts": [
+{
+"slug": "hcl-bihor--copacel-1-2025",
+"path": "local/bihor/copacel/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 1/2025 HCL privind aprobarea Ordinei de zi a ședinței ordinare a Consiliului Local Copăcel din data de 31.01.2025",
+"short": "HCL Copăcel nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#109678",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--copacel-2-2025",
+"path": "local/bihor/copacel/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 2/2025 HCL - privind aprobarea Procesului – Verbal al ședinței anterioare, extraordinare a Consiliului Local Copăcel, județul Bihor, convocate de îndată pentru data de 19.12.2024",
+"short": "HCL Copăcel nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#109681",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--copacel-3-2025",
+"path": "local/bihor/copacel/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 3/2025 HCL privind stadiul de înscriere a datelor în Registrul agricol al comunei Copăcel, pentru trimestrul III și IV al anului 2024",
+"short": "HCL Copăcel nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#109684",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--copacel-4-2025",
+"path": "local/bihor/copacel/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 4/2025 HCL - Privind însuşirea Raportului privind activitatea asistenţilor personali ai persoanelor cu handicap grav pe semestrul II al anului 2024",
+"short": "HCL Copăcel nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#109685",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--copacel-5-2025",
+"path": "local/bihor/copacel/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 5/2025 HCL - Privind aprobarea indicatorilor economici actualizați, a devizului general actualizat și asigurarea finanțării de la bugetul local sau alte surse legale constituite pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin PNDL pentru obiectivul de investiții „Reabilitare Școală și Grădiniță în loc. Bucuroaia, com. Copăcel”",
+"short": "HCL Copăcel nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#109686",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--copacel-9-2025",
+"path": "local/bihor/copacel/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 9/2025 PH privind aprobarea angajării unui apărător ales și încheierii unui contract de asistență juridică în materia dreptului penal în vederea asigurării serviciilor de redactare, consultanţă, asistenţă juridică şi reprezentare în faţa instanţelor de judecată a intereselor Comunei Copăcel, județul Bihor și ale autorităților administrației publice locale, pentru ducerea la îndeplinire a măsurilor Curții de Conturi în vederea reparării prejudiciului creeat în perioada 2016 – 2017",
+"short": "HCL Copăcel nr. 9/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-11",
+"latest": "2025-02-11",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#109806",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

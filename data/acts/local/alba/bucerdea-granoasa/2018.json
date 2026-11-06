@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/bucerdea-granoasa/2018",
+"acts": [
+{
+"slug": "hcl-alba--bucerdea-granoasa-4-2018",
+"path": "local/alba/bucerdea-granoasa/2018/4",
+"kind": "local",
+"year": "2018",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucerdea Grânoasă nr. 4/2018 privind aprobarea Regulamentului privind buna gospodarire a Comunei Bucerdea Grânoasă, județul Alba",
+"short": "HCL Bucerdea Grânoasă nr. 4/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.bucerdea-granoasa.ro/informatii-publice/hotarari-c-l/",
+"council": "alba/bucerdea-granoasa",
+"council_name": "Consiliul Local al Comunei Bucerdea Grânoasă",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

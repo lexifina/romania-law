@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/platonesti/2017",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--platonesti-1-2017",
+   "path": "local/ialomita/platonesti/2017/1",
+   "short": "HCL Platonești nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 1/2017 privind aprobarea taxelor si impozitelor locale pentru anul 2017",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%201.pdf",
+     "sha256": "3d4b58a625a41844df254efd0bd96073067e21be5fda9658d7dc7ab996b94faa"
+    }
+   ]
+  }
+ ]
+}

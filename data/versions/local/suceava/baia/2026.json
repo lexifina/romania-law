@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/baia/2026",
+ "acts": [
+  {
+   "slug": "hcl-suceava--baia-37-2026",
+   "path": "local/suceava/baia/2026/37",
+   "short": "HCL Baia nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Baia nr. 37/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.comunabaia.ro/wp-content/uploads/2026/07/hcl-37-mai-2026.pdf",
+     "sha256": "1e3ebee49adac8ce75246175594bf6fd90cc1f06ed2c4e021560ddc4d866cd13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--baia-38-2026",
+   "path": "local/suceava/baia/2026/38",
+   "short": "HCL Baia nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Baia nr. 38/2026",
+   "url": "https://www.comunabaia.ro/wp-content/uploads/2026/07/hcl-38-mai-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.comunabaia.ro/wp-content/uploads/2026/07/hcl-38-mai-2026.pdf",
+     "sha256": "2cf07adda367f04232ec106aa0c103de85d5ee32582f15d2cb2c9943af3e7e65"
+    }
+   ]
+  }
+ ]
+}

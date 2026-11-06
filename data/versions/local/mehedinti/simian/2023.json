@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/simian/2023",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--simian-183-2023",
+   "path": "local/mehedinti/simian/2023/183",
+   "short": "HCL Șimian nr. 183/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 183/2023 PRIVIND APROBAREA PRELUNGIRII VALABILITATII PUG AL COM.SIMIAN",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.183-21.12.2023-PRIVIND-APROBAREA-PRELUNGIRII-VALABILITATII-PUG-AL-COM.SIMIAN-1.pdf",
+     "sha256": "e3509348bb9968dedfbd16673340411f1f219ad4558f8743aae9f77cf37a52a4"
+    }
+   ]
+  }
+ ]
+}

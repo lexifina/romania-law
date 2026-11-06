@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/arges/babana/2016",
+"acts": [
+{
+"slug": "hcl-arges--babana-14-2016",
+"path": "local/arges/babana/2016/14",
+"kind": "local",
+"year": "2016",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 14/2016",
+"short": "HCL Băbana nr. 14/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-08-11",
+"latest": "2016-08-11",
+"portal": null,
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--babana-29-2016",
+"path": "local/arges/babana/2016/29",
+"kind": "local",
+"year": "2016",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 29/2016 Privind stabilirea taxelor si impozitelor locale pentru anul fiscal 2017. in Comuna Baba_la-iudetul Arees",
+"short": "HCL Băbana nr. 29/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-01-29",
+"latest": "2016-01-29",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/bihor/abram/2024",
+"acts": [
+{
+"slug": "hcl-bihor--abram-75-2024",
+"path": "local/bihor/abram/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 75/2024 privind organizarea Comisiilor de specialitate ale Consiliului comunei Abram",
+"short": "HCL Abram nr. 75/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186205",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-77-2024",
+"path": "local/bihor/abram/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 77/2024",
+"short": "HCL Abram nr. 77/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186207",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-83-2024",
+"path": "local/bihor/abram/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 83/2024 privind aprobarea retelei scolare a unitatilor de invatamint preuniversitar din comuna ABRAM pentru anul scolar 2025– 2026",
+"short": "HCL Abram nr. 83/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186213",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-90-2024",
+"path": "local/bihor/abram/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 90/2024 privind aprobarea propunerii de indexare cu rata inflației, 10,4 % a impozitelor și taxelor locale, pentru anul 2025 și aprobarea indexării sumelor prevăzute în tabelul prevăzut la art.470 alin.(5) și (6) din Legea nr. 227/2015 actualizată, în funcție de rata de schimb a monedei euro de 4,9753 lei în vigoare în prima zi lucrătoare a lunii octombrie 2024 și publicată în Jurnalul Uniunii Europene și de nivelurile minime prevăzute în Directiva 1999/62/CE de aplicare la vehiculele grele de marfă pentru utilizarea anumitor infrastructuri",
+"short": "HCL Abram nr. 90/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186220",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-91-2024",
+"path": "local/bihor/abram/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 91/2024 privind asigurarea cofinanțării proiectului “Sprijin pentru pregătirea aplicației de finanţare şi a documentațiilor de atribuire pentru proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din zona de nord vest a judeţului Bihor, în perioada 2014-2020 – etapa II”",
+"short": "HCL Abram nr. 91/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186221",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

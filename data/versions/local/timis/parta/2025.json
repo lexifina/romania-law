@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/parta/2025",
+ "acts": [
+  {
+   "slug": "hcl-timis--parta-116-2025",
+   "path": "local/timis/parta/2025/116",
+   "short": "HCL Parța nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Parța nr. 116/2025 pentru aprobare tarife colectare separata",
+   "url": "https://primariaparta.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primariaparta.ro/wp-content/uploads/2026/01/HCL-nr.116-din-30.12.2025-pentru-aprobare-tarife-colectare-separata.pdf",
+     "sha256": "81d907bbd1598982d7fffc55ff2bff1ebc3ca7cf6aaa1a559bc15b17f47298c5"
+    }
+   ]
+  }
+ ]
+}

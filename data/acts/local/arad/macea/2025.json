@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/macea/2025",
+"acts": [
+{
+"slug": "hcl-arad--macea-100-2025",
+"path": "local/arad/macea/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Macea nr. 100/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2026",
+"short": "HCL Macea nr. 100/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/macea-ar/registru-hcl/247417",
+"council": "arad/macea",
+"council_name": "Consiliul Local al Comunei Macea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

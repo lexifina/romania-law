@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/borod/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--borod-95-2022",
+   "path": "local/bihor/borod/2022/95",
+   "short": "HCL Borod nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 95/2022 privind aprobarea impozitelor şi taxelor locale în comuna Borod pentru anul 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/84643",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/84643",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

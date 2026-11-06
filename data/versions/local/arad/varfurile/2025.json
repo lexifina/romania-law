@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/arad/varfurile/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--varfurile-70-2025",
+   "path": "local/arad/varfurile/2025/70",
+   "short": "HCL Vârfurile nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 70/2025 privind stabilirea plafonului creanțelor fiscale",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/235591",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/235591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-73-2025",
+   "path": "local/arad/varfurile/2025/73",
+   "short": "HCL Vârfurile nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 73/2025 privind solicitare către Consiliul Județean Arad a trecerii unui bun mobil - microbuz electric pentru elevi în domeniul public a Comunei Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/239965",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/239965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-75-2025",
+   "path": "local/arad/varfurile/2025/75",
+   "short": "HCL Vârfurile nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 75/2025 privind rectificarea bugetului local al comunei Vârfurile, pe anul 2025",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/239967",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/239967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-79-2025",
+   "path": "local/arad/varfurile/2025/79",
+   "short": "HCL Vârfurile nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 79/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/245399",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/245399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-81-2025",
+   "path": "local/arad/varfurile/2025/81",
+   "short": "HCL Vârfurile nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 81/2025 privind aprobarea cuantumului cotizației aferent anului 2026 la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/245401",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/245401",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

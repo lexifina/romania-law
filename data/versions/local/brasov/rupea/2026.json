@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2026",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-10-2026",
+   "path": "local/brasov/rupea/2026/10",
+   "short": "HCL Rupea nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 10/2026 privind modul de valorificare al masei lemnoase Avand in vedere: - prevederile art. 33, art. 110, si art. 113 alin. 1, 2, 4 , 5 lit. a si 6 din Legea nr. 331/2024 – Codul Silvic - prevederile art. 13 si art. 20 alin. (5) ale Regulamentului din 05.10.2017 de valorificare a masei lemnoase din fondul forestier proprietate publica aprobat prin HG 715/2017, Consiliul Local are obligatia sa ia hotararea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/10_Hotararea-nr.-10-valorificare-masa-lemnoasa-licitatii.pdf",
+     "sha256": "161e7c818f24a91bb6f3c09a13dfa56687122480048fd96f7b664850490abdfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-35-2026",
+   "path": "local/brasov/rupea/2026/35",
+   "short": "HCL Rupea nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 35/2026 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului orasului Rupea şi al serviciilor publice de interes local fără personalitate juridică",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 5,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/35_hotararea-nr.-35-aprobarea-ROF-Rupea.pdf",
+     "sha256": "232dfc69258a722f1fa45c4f825ba45bafdf32ecf267cb99ecd0e0017667e736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-36-2026",
+   "path": "local/brasov/rupea/2026/36",
+   "short": "HCL Rupea nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 36/2026 privind interzicerea organizării și desfășurării activităților de jocuri de noroc în locații fizice pe raza Orașului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 10,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/36_hotararea-nr.-36-interzicerea-jocurilor-de-noroc.pdf",
+     "sha256": "8369ba014dbd886bf5bdb484c23ea56a09ebe989b540db6cdc144c1a02001fd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-37-2026",
+   "path": "local/brasov/rupea/2026/37",
+   "short": "HCL Rupea nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 37/2026 Privind aprobarea Procedurii de publicare a listei debitorilor persoane juridice care nu înregistrează obligații fiscale restante",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2026",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 5,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/37_hotararea-nr.-37-procedura-buni-platnici.pdf",
+     "sha256": "dbe6bcf6b935aab9f66db38c7b5f04f81cd3029e3302aeafe45c6d9a891adb76"
+    }
+   ]
+  }
+ ]
+}

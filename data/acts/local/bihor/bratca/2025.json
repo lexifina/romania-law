@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/bihor/bratca/2025",
+"acts": [
+{
+"slug": "hcl-bihor--bratca-161-2025",
+"path": "local/bihor/bratca/2025/161",
+"kind": "local",
+"year": "2025",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 161/2025 privind aprobarea Organigramei și a Statului de funcții pentru funcțiile publice și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Bratca",
+"short": "HCL Bratca nr. 161/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244463",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-164-2025",
+"path": "local/bihor/bratca/2025/164",
+"kind": "local",
+"year": "2025",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 164/2025 privind rectificarea Bugetului local de venituri și cheltuieli pe anul 2025",
+"short": "HCL Bratca nr. 164/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244480",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-165-2025",
+"path": "local/bihor/bratca/2025/165",
+"kind": "local",
+"year": "2025",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 165/2025 privind aprobarea organizării și desfășurării evenimentului ''Seară de colinde'' în data de 19.12.2025 la Căminul cultural Bratca",
+"short": "HCL Bratca nr. 165/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244482",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-166-2025",
+"path": "local/bihor/bratca/2025/166",
+"kind": "local",
+"year": "2025",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 166/2025 privind aprobarea numărului de posturi de asistenți personali ai persoanelor cu handicap grav începând cu 01.01.2026",
+"short": "HCL Bratca nr. 166/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244483",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-167-2025",
+"path": "local/bihor/bratca/2025/167",
+"kind": "local",
+"year": "2025",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 167/2025 privind stabilirea prețurilor de referință pe specii, grade de accesibilitate și sortimente dimensionale ce se vor aplica de Ocolul Silvic Brătcuța R.A Bratca în anul 2026, pentru materialul lemnos din pădurea proprietate a comunei Bratca",
+"short": "HCL Bratca nr. 167/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244539",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-168-2025",
+"path": "local/bihor/bratca/2025/168",
+"kind": "local",
+"year": "2025",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 168/2025",
+"short": "HCL Bratca nr. 168/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244540",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-169-2025",
+"path": "local/bihor/bratca/2025/169",
+"kind": "local",
+"year": "2025",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 169/2025 privind stabilirea prețurilor pentru prestarea serviciilor de furnizare a apei potabile și canlizare, la nivelul Comunei Bratca",
+"short": "HCL Bratca nr. 169/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244541",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-170-2025",
+"path": "local/bihor/bratca/2025/170",
+"kind": "local",
+"year": "2025",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 170/2025 privind aprobarea devizului general final pentru obiectivul de investiții ''Alimentare cu apă potabilă a localității Lorău, comuna Bratca, județul Bihor''",
+"short": "HCL Bratca nr. 170/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244542",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-174-2025",
+"path": "local/bihor/bratca/2025/174",
+"kind": "local",
+"year": "2025",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 174/2025 privind organizarea rețelei școlare a unităților de învățământ ce vor funcționa la nivelul Comunei Bratca în anul școlar 2026/2027",
+"short": "HCL Bratca nr. 174/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244551",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-177-2025",
+"path": "local/bihor/bratca/2025/177",
+"kind": "local",
+"year": "2025",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 177/2025 privind rectificarea Bugetului local de venituri și cheltuieli pe anul 2025",
+"short": "HCL Bratca nr. 177/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244621",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-178-2025",
+"path": "local/bihor/bratca/2025/178",
+"kind": "local",
+"year": "2025",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 178/2025 privind indexarea și stabilirea imozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Bratca nr. 178/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/244624",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

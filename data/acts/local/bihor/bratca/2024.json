@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bihor/bratca/2024",
+"acts": [
+{
+"slug": "hcl-bihor--bratca-162-2024",
+"path": "local/bihor/bratca/2024/162",
+"kind": "local",
+"year": "2024",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 162/2024 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2024",
+"short": "HCL Bratca nr. 162/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/191937",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-172-2024",
+"path": "local/bihor/bratca/2024/172",
+"kind": "local",
+"year": "2024",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 172/2024 privind actualizarea contractului de comodat nr.535/21.02.2017, încheiat între Comuna Brtaca și Asociația Filantropia Oradea, cu sediul în localitatea Oradea, str. Roman Ciorogariu, nr.3, județul Bihor, CUI 25661911 pentru - Clădirea proprietate publică a Comunei Brtaca, situată în localitatea Ponoară nr.196A cu destinația „Cămin pentru persoane vârstnice Ponoară”",
+"short": "HCL Bratca nr. 172/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/191999",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-175-2024",
+"path": "local/bihor/bratca/2024/175",
+"kind": "local",
+"year": "2024",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 175/2024 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Bratca nr. 175/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/192002",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-179-2024",
+"path": "local/bihor/bratca/2024/179",
+"kind": "local",
+"year": "2024",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 179/2024 privind aprobarea participării și contractării finanțării pentru Comuna Bratca la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” în cadrul proiectului intitulat ”Extinderea și modernizarea sistemului de iluminat prin eficientizarea infrastructurii de iluminat public în localitățile Lorău, Damiș, Ponoară, Comuna Bratca, județul Bihor - Zona 2”",
+"short": "HCL Bratca nr. 179/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/192006",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-180-2024",
+"path": "local/bihor/bratca/2024/180",
+"kind": "local",
+"year": "2024",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 180/2024 privind rectificarea programului anual de achiziții și a programului de investiții pe grupe de investiții și surse de finanțare al UAT comuna Bratca pe anul 2024",
+"short": "HCL Bratca nr. 180/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/192007",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

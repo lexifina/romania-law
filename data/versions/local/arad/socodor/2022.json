@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/arad/socodor/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--socodor-126-2022",
+   "path": "local/arad/socodor/2022/126",
+   "short": "HCL Socodor nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 126/2022 privind aprobarea introducerii în circuitul funciar a unor terenuri neagricole",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/77655",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/77655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-127-2022",
+   "path": "local/arad/socodor/2022/127",
+   "short": "HCL Socodor nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 127/2022 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/77656",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/77656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-128-2022",
+   "path": "local/arad/socodor/2022/128",
+   "short": "HCL Socodor nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 128/2022 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 octombrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81242",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-129-2022",
+   "path": "local/arad/socodor/2022/129",
+   "short": "HCL Socodor nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 129/2022 privind aprobarea ordinii de zi a ședinței ordinare din data de 29 noiembrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81243",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-131-2022",
+   "path": "local/arad/socodor/2022/131",
+   "short": "HCL Socodor nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 131/2022 privind aprobarea cuantumului burselor de performanță, de merit, de studiu și de ajutor social pentru elevii din cadrul Școlii Gimnaziale „Iustin Marșieu” Socodor, cu frecvență, care se acorda în semestrul I al anului școlar 2022-2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81245",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-133-2022",
+   "path": "local/arad/socodor/2022/133",
+   "short": "HCL Socodor nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 133/2022 privind aprobarea prelungirii până la data de 15.10.2023 a Scrisorii de Garantare nr.137/14.06.2017 de la FNGCIMM SA IFN în valoare de 450.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 450.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Renovare și dotare cămin cultural din comuna Socodor, jud. Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81247",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-134-2022",
+   "path": "local/arad/socodor/2022/134",
+   "short": "HCL Socodor nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 134/2022 privind aprobarea bugetului local rectificat în luna noiembrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81248",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-136-2022",
+   "path": "local/arad/socodor/2022/136",
+   "short": "HCL Socodor nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 136/2022 privind aprobarea prelungirii până la data de 23.08.2023 a Scrisorii de Garantare nr.495/29.08.2017 de la FNGCIMM SA IFN în valoare de 1.200.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.200.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: „Reabilitare și extindere sistem de alimentare cu apă și extindere canalizare menajeră în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81250",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-137-2022",
+   "path": "local/arad/socodor/2022/137",
+   "short": "HCL Socodor nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 137/2022 privind aprobarea proiectului „Înființare parc fotovoltaic în vederea producerii energiei electrice din surse regenerabile de energie tip solar, pentru comercializare, Comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81251",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-138-2022",
+   "path": "local/arad/socodor/2022/138",
+   "short": "HCL Socodor nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 138/2022 privind aprobarea bugetului rectificat în luna noiembrie 2022 al Clubului Sportiv Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/81252",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/81252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-139-2022",
+   "path": "local/arad/socodor/2022/139",
+   "short": "HCL Socodor nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 139/2022 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 29 noiembrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/84789",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/84789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-140-2022",
+   "path": "local/arad/socodor/2022/140",
+   "short": "HCL Socodor nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 140/2022 privind aprobarea ordinii de zi a ședinței ordinare din data de 29 decembrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/84790",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/84790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-142-2022",
+   "path": "local/arad/socodor/2022/142",
+   "short": "HCL Socodor nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 142/2022 privind aprobarea indicatorilor tehnico-economici actualizați ai proiectului „Construire școală cu clasele I-VIII Comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/84792",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/84792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-143-2022",
+   "path": "local/arad/socodor/2022/143",
+   "short": "HCL Socodor nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 143/2022 privind aprobarea finanțării de la bugetul local a cheltuielilor actualizate care nu se finanțează de la bugetul de stat prin Programul PNDL la obiectivul de investiție ”Construire școală cu clasele I-VIII Comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/84793",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/84793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-144-2022",
+   "path": "local/arad/socodor/2022/144",
+   "short": "HCL Socodor nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 144/2022 privind aprobarea bugetului local rectificat în luna decembrie 2022",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/84794",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/84794",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

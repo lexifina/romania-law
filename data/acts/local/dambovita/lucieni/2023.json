@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/lucieni/2023",
+"acts": [
+{
+"slug": "hcl-dambovita--lucieni-105-2023",
+"path": "local/dambovita/lucieni/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 105/2023 privind aprobarea rețelei școlare de pe raza UAT Lucieni, județul Dâmbovița, pentru anul școlar 2024-2025",
+"short": "HCL Lucieni nr. 105/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#63790",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

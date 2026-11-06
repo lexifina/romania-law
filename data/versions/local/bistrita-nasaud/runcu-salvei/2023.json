@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/runcu-salvei/2023",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-30-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/30",
+   "short": "HCL Runcu Salvei nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 30/2023 privind modificarea și completarea Hotărârii Consiliului local Runcu Salvei nr. 36 din 20.12.2021 privind stabilirea ”prețurilor de referință a masei lemnoase pe picior” aferente comunei Runcu Salvei",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.30_29.08.2023_modificare_completare_hcl.pdf",
+     "sha256": "9b998400f8c7f60e1a560092349d5ebe53a4c14ddaea82c4c47d4893471b4a54"
+    }
+   ]
+  }
+ ]
+}

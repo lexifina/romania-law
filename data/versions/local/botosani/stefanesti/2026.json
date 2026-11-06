@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/stefanesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--stefanesti-89-2026",
+   "path": "local/botosani/stefanesti/2026/89",
+   "short": "HCL Ștefănești nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ștefănești nr. 89/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5ee26e8832a4d2f2888611b52fedcff7af6844fa8877107d3d5af25fa157c406"
+    }
+   ]
+  }
+ ]
+}

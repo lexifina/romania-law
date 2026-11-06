@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/bratca/2024",
+ "acts": [
+  {
+   "slug": "hcl-bihor--bratca-162-2024",
+   "path": "local/bihor/bratca/2024/162",
+   "short": "HCL Bratca nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 162/2024 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/191937",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/191937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-172-2024",
+   "path": "local/bihor/bratca/2024/172",
+   "short": "HCL Bratca nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 172/2024 privind actualizarea contractului de comodat nr.535/21.02.2017, încheiat între Comuna Brtaca și Asociația Filantropia Oradea, cu sediul în localitatea Oradea, str. Roman Ciorogariu, nr.3, județul Bihor, CUI 25661911 pentru - Clădirea proprietate publică a Comunei Brtaca, situată în localitatea Ponoară nr.196A cu destinația „Cămin pentru persoane vârstnice Ponoară”",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/191999",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/191999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-175-2024",
+   "path": "local/bihor/bratca/2024/175",
+   "short": "HCL Bratca nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 175/2024 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/192002",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/192002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-179-2024",
+   "path": "local/bihor/bratca/2024/179",
+   "short": "HCL Bratca nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 179/2024 privind aprobarea participării și contractării finanțării pentru Comuna Bratca la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” în cadrul proiectului intitulat ”Extinderea și modernizarea sistemului de iluminat prin eficientizarea infrastructurii de iluminat public în localitățile Lorău, Damiș, Ponoară, Comuna Bratca, județul Bihor - Zona 2”",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/192006",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/192006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-180-2024",
+   "path": "local/bihor/bratca/2024/180",
+   "short": "HCL Bratca nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 180/2024 privind rectificarea programului anual de achiziții și a programului de investiții pe grupe de investiții și surse de finanțare al UAT comuna Bratca pe anul 2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/192007",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/192007",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

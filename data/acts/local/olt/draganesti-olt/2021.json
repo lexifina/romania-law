@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/olt/draganesti-olt/2021",
+"acts": [
+{
+"slug": "hcl-olt--draganesti-olt-67-2021",
+"path": "local/olt/draganesti-olt/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 67/2021 privind modificarea componentelor Comisiei pentru amenajarea teritoriului si urbanism, protectia mediului si agricultura si Comisiei pentru activitati stiintifice, social-culturale, invatament, sanatate, activitati sportive, de familie, agrement si asistenta sociala di",
+"short": "HCL Drăgănești-Olt nr. 67/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-08-13",
+"latest": "2021-08-13",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arges/boteni/2023",
+ "acts": [
+  {
+   "slug": "hcl-arges--boteni-6-2023",
+   "path": "local/arges/boteni/2023/6",
+   "short": "HCL Boteni nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 6/2023 privind aprobarea analizei situației la nivel local cu privire la stabilirea zonelor în care vor fi autorizate sistemele individuale adecvate Consiliul Local al Comunei Boteni, județul Argeș: Având în vedere: - prevederile Hotărârii Guvernului nr. 209/2022 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de Urgență a Guvernului nr. 124/2021 privind stabilirea cadrului i",
+   "url": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.6-7-FEBRUARIE-2023.pdf",
+     "sha256": "705a86434458307b3804823a53a4b4932ab7be40b867deef366f519262705d5a"
+    }
+   ]
+  }
+ ]
+}

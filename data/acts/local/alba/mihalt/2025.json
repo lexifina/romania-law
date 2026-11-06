@@ -3,6 +3,50 @@
 "shard": "local/alba/mihalt/2025",
 "acts": [
 {
+"slug": "hcl-alba--mihalt-13-2025",
+"path": "local/alba/mihalt/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 13/2025 privind aprobarea modificării tarifelor de călători, transport public local",
+"short": "HCL Mihalț nr. 13/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--mihalt-20-2025",
+"path": "local/alba/mihalt/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 20/2025 privind modif. și completarea Hotărârii Consiliului Local Mihalț nr. 4 din 2021 – Regulament de gospodărire comunală",
+"short": "HCL Mihalț nr. 20/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--mihalt-51-2025",
 "path": "local/alba/mihalt/2025/51",
 "kind": "local",

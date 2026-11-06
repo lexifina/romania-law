@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mures/bagaciu/2020",
+"acts": [
+{
+"slug": "hcl-mures--bagaciu-52-2020",
+"path": "local/mures/bagaciu/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băgaciu nr. 52/2020 privind aprobarea Regulamentului de organizare Åi funcÅ£ionare a Consiliului Local BÄgaciu",
+"short": "HCL Băgaciu nr. 52/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://www.primaria-bagaciu.ro/pagini-consiliul-local.php?p=47",
+"council": "mures/bagaciu",
+"council_name": "Consiliul Local al Comunei Băgaciu",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

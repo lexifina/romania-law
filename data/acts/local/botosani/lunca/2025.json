@@ -3,6 +3,28 @@
 "shard": "local/botosani/lunca/2025",
 "acts": [
 {
+"slug": "hcl-botosani--lunca-72-2025",
+"path": "local/botosani/lunca/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 72/2025 privind modificarea HCL nr. 63 din 15.12.2025 pentru stabilirea taxelor și impozitelor locale",
+"short": "HCL Lunca nr. 72/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primarialunca.ro/documente/hotarare-nr-72-din-23-12-2025-privind-modificarea-hcl-nr-63-din-15-12-2025-pentru-stabilirea-taxelor-si-impozitelor-locale/",
+"council": "botosani/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-botosani--lunca-73-2025",
 "path": "local/botosani/lunca/2025/73",
 "kind": "local",

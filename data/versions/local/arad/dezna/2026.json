@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/dezna/2026",
+ "acts": [
+  {
+   "slug": "hcl-arad--dezna-61-2026",
+   "path": "local/arad/dezna/2026/61",
+   "short": "HCL Dezna nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dezna nr. 61/2026 Privind aprobarea încheierii și semnării Contractului de delegare prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zonele 2, 3 și 4 ca urmare a procedurii de licitație deschisă și a tarifelor distincte facturate de către Urban Grup Environment S.R",
+   "url": "https://emol.ro/dezna-ar/registru-hcl/288794",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dezna-ar/registru-hcl/288794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dezna-74-2026",
+   "path": "local/arad/dezna/2026/74",
+   "short": "HCL Dezna nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dezna nr. 74/2026 privind aprobarea proiectului de Rețea Școlara a Școlii Gimnaziale Dezna",
+   "url": "https://emol.ro/dezna-ar/registru-hcl/296099",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dezna-ar/registru-hcl/296099",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

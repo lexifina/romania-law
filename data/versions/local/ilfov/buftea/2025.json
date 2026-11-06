@@ -31,6 +31,21 @@
      "sha256": "74d20fed5cfb79ee1fad74ca071d055b9630120795d207d61020b551bf17e9db"
     }
    ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-44-2025",
+   "path": "local/ilfov/buftea/2025/44",
+   "short": "HCL Buftea nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 44/2025 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „Lotizare şi construire ansamblu de locuinţe P+2E”, amplasat în oraşul Buftea, judeţul Ilfov, Tarla 38, Parcelele 351, 351/3 şi 351/3/2, Loturile 1 şi 2",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://primariabuftea.ro/hcl/2025/44.pdf",
+     "sha256": "681488fd34034065f924836a7d787e1959c8043c738c8382db663aec16f6c74c"
+    }
+   ]
   }
  ]
 }

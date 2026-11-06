@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/bagaciu/2020",
+ "acts": [
+  {
+   "slug": "hcl-mures--bagaciu-52-2020",
+   "path": "local/mures/bagaciu/2020/52",
+   "short": "HCL Băgaciu nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băgaciu nr. 52/2020 privind aprobarea Regulamentului de organizare Åi funcÅ£ionare a Consiliului Local BÄgaciu",
+   "url": "https://www.primaria-bagaciu.ro/pagini-consiliul-local.php?p=47",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.primaria-bagaciu.ro/webadmin/uploads/file/rof-cl/hcl-52-2020.pdf",
+     "sha256": "c48bfa565eac8b31d149f137b42c0dbdc5fb8112c8cae4a966337d5722e01cbf"
+    }
+   ]
+  }
+ ]
+}

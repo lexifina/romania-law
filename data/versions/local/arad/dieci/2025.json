@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/arad/dieci/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--dieci-66-2025",
+   "path": "local/arad/dieci/2025/66",
+   "short": "HCL Dieci nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 66/2025 privind respingere a ajustării tarifelor aferente Contractului nr. 5430/29.12.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/234035",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/234035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-67-2025",
+   "path": "local/arad/dieci/2025/67",
+   "short": "HCL Dieci nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 67/2025",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/234036",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/234036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-70-2025",
+   "path": "local/arad/dieci/2025/70",
+   "short": "HCL Dieci nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 70/2025 privind rectificarea bugetului local al Comunei Dieci pe anul 2025",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/234039",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/234039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-75-2025",
+   "path": "local/arad/dieci/2025/75",
+   "short": "HCL Dieci nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 75/2025 privind rectificarea bugetului local al Comunei Dieci pe anul 2025",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/240130",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/240130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-79-2025",
+   "path": "local/arad/dieci/2025/79",
+   "short": "HCL Dieci nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 79/2025 privind aprobarea organizarii retelei şcolare a unităţilor de învăţământ preuniversitar de stat şi particular pentru anul şcolar 2026-2027 din raza comunei Dieci",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/245216",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/245216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-81-2025",
+   "path": "local/arad/dieci/2025/81",
+   "short": "HCL Dieci nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 81/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/245218",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/245218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-83-2025",
+   "path": "local/arad/dieci/2025/83",
+   "short": "HCL Dieci nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 83/2025 privind aprobarea cuantumului cotizației aferent anului 2026 la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/245220",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/245220",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

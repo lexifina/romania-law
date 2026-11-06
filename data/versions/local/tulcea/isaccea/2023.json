@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/isaccea/2023",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--isaccea-188-2023",
+   "path": "local/tulcea/isaccea/2023/188",
+   "short": "HCL Isaccea nr. 188/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 188/2023 privind modificarea H.C.L. nr. 54/28.04.2023 privind aprobarea valorilor impozabile, impozitelor, taxelor locale și amenzilor aplicabile în anul 2024 în orașul Isaccea",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2023/hcl/HCL_188.pdf",
+     "sha256": "d4b034e5ea0ba8e10d38cedeede782deb9bdcd4c51b93e1605bcc9071ab17b40"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/avram-iancu/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--avram-iancu-44-2021",
+   "path": "local/bihor/avram-iancu/2021/44",
+   "short": "HCL Avram Iancu nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 44/2021 privind aprobarea statului de personal şi statului de funcţii pentru aparatul de specialitate al Primarului Comunei Avram Iancu",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/30227",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-48-2021",
+   "path": "local/bihor/avram-iancu/2021/48",
+   "short": "HCL Avram Iancu nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 48/2021 privind responsabilitatea organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitia produselor aferente programului pentru derularea masurilor educative la nivel local",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/30231",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/30231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-53-2021",
+   "path": "local/bihor/avram-iancu/2021/53",
+   "short": "HCL Avram Iancu nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 53/2021 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri care se înaintează Consiliului Local Avram Iancu, spre adoptare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49428",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-55-2021",
+   "path": "local/bihor/avram-iancu/2021/55",
+   "short": "HCL Avram Iancu nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 55/2021 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local al comunei Avram Iancu",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49430",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-59-2021",
+   "path": "local/bihor/avram-iancu/2021/59",
+   "short": "HCL Avram Iancu nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 59/2021 privind circulatia carutelor pe drumurile publice intr-un anumit interval orar",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49434",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-61-2021",
+   "path": "local/bihor/avram-iancu/2021/61",
+   "short": "HCL Avram Iancu nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 61/2021 privind aprobarea rectificarii bugetului local de venituri și cheltuieli pe trimestrul II pe anul 2021",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/49436",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/49436",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/filipeni/2021",
+ "acts": [
+  {
+   "slug": "hcl-bacau--filipeni-27-2021",
+   "path": "local/bacau/filipeni/2021/27",
+   "short": "HCL Filipeni nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 27/2021 privind aprobarea documentației tehnice proiect Reabilitare infrastructură rutieră în satul marginalizat Brad",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42656",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-28-2021",
+   "path": "local/bacau/filipeni/2021/28",
+   "short": "HCL Filipeni nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 28/2021 privind stabilire mandat reprezentant ADIB",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42667",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-29-2021",
+   "path": "local/bacau/filipeni/2021/29",
+   "short": "HCL Filipeni nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 29/2021 privind neasumare atribuire achiziționare corn și lapte",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42668",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-30-2021",
+   "path": "local/bacau/filipeni/2021/30",
+   "short": "HCL Filipeni nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 30/2021 privind aprobarea ”Acordului de asociere/Parteneriat” între COMUNA FILIPENI, ASOCIAȚIA PATMOS” Onești și Parohia „Adormirea Maicii Domnului” Mărăști, pentru finanțarea programelor educaționale de tip excursii, tabere cu caracter educativ, religios, social-cultural și artistic",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42669",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-31-2021",
+   "path": "local/bacau/filipeni/2021/31",
+   "short": "HCL Filipeni nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 31/2021 privind asocierea cu județul Bacău pentru finanțarea activității de protecție de tip rezidențial a persoanelor cu handicap",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42670",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-32-2021",
+   "path": "local/bacau/filipeni/2021/32",
+   "short": "HCL Filipeni nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 32/2021 privind rectificarea bugetului de venituri și cheltuieli și actualizarea Listei de investiții pe anul 2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42671",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-33-2021",
+   "path": "local/bacau/filipeni/2021/33",
+   "short": "HCL Filipeni nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 33/2021 privind primirea UAT Berești Bistrița în calitate de membru la Asociația de Dezvoltare Intercomunitară Bacău - ADIB și modificarea Actului Constitutiv și a Statutului acesteia",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42675",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-34-2021",
+   "path": "local/bacau/filipeni/2021/34",
+   "short": "HCL Filipeni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 34/2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42676",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-35-2021",
+   "path": "local/bacau/filipeni/2021/35",
+   "short": "HCL Filipeni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 35/2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42686",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-36-2021",
+   "path": "local/bacau/filipeni/2021/36",
+   "short": "HCL Filipeni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 36/2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42687",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-37-2021",
+   "path": "local/bacau/filipeni/2021/37",
+   "short": "HCL Filipeni nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 37/2021 privind rectificarea bugetului de venituri și cheltuieli și actualizarea Listei de investiții pe anul 2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42688",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-38-2021",
+   "path": "local/bacau/filipeni/2021/38",
+   "short": "HCL Filipeni nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 38/2021 privind majorarea valorii lucrărilor reprezentând rest de executat pentru proiectul: ”Construire Școala coordonatoare în sat Filipeni, comuna Filipeni, județul Bacău”, finanțat în cadrul Programului Operaționl Regional 2014-2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42689",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-40-2021",
+   "path": "local/bacau/filipeni/2021/40",
+   "short": "HCL Filipeni nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 40/2021 privind ajustarea valorii aferente cheltuielilor cu materialele pentru restul rămas de executat pentru proiectul: ”Construire poduri și podețe pe raza comunei Filipeni, județul Bacău” conform Ordonanței Guvernului nr. 15 din 30 august",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42691",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-41-2021",
+   "path": "local/bacau/filipeni/2021/41",
+   "short": "HCL Filipeni nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 41/2021 privind rectificarea bugetului de venituri și cheltuieli și actualizarea Listei de investiții pe anul 2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42692",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-42-2021",
+   "path": "local/bacau/filipeni/2021/42",
+   "short": "HCL Filipeni nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 42/2021 privind ajustarea valorii aferente cheltuielilor cu materialele pentru restul rămas de executat pentru proiectul: ”Modernizare drumuri comunale în satul Filipeni, comuna Filipeni, județul Bacău” conform Ordonanței Guvernului nr. 15 din 30 august 2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/42693",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/42693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-43-2021",
+   "path": "local/bacau/filipeni/2021/43",
+   "short": "HCL Filipeni nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 43/2021 privind ajustarea valorii aferente cheltuielilor cu materialele pentru restul rămas de execuat pentru proiectul: ”Modernizarea sistemului de iluminat public prin creșterea eficienței energetice a corpului de iluminat și prin gestionarea inteligentă a energiei electrice în infrastructura de iluminat public din comuna Filipeni, județul Bacău” conform Ordonanței Guvernului nr. 15 din 30 august 2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/43046",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/43046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-44-2021",
+   "path": "local/bacau/filipeni/2021/44",
+   "short": "HCL Filipeni nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 44/2021 privind aprobarea indicatorilor pentru proiectul ”REABILITATEA INFRASTRUCTURII RUTIERE ÎN SATUL MARGINALIZAT BRAD, DIN COMUNA FILIPENI, JUDEȚUL BACĂU”",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/43047",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/43047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-45-2021",
+   "path": "local/bacau/filipeni/2021/45",
+   "short": "HCL Filipeni nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 45/2021 privind rectificarea bugetului de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/43048",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/43048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-46-2021",
+   "path": "local/bacau/filipeni/2021/46",
+   "short": "HCL Filipeni nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 46/2021 privind rectificarea bugetului de venituri și cheltuieli și modificarea Listei de investiții pe anul 2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/43049",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/43049",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

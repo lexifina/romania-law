@@ -16,6 +16,21 @@
      "sha256": "4836a146989ed5cd27e868dd928d41eb03219671ed77fc58fbde56297faac394"
     }
    ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--galatii-bistritei-7-2024",
+   "path": "local/bistrita-nasaud/galatii-bistritei/2024/7",
+   "short": "HCL Galații Bistriței nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Galații Bistriței nr. 7/2024 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare, depozitare a deșeurilor municipale, inclusiv deșeuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul și Operarea Centrului de Ma",
+   "url": "http://galatiibistritei.ro/registru_hcl2024.html",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "http://galatiibistritei.ro/documente/hcl/uat_galatii_hcl.nr.07_01.03.2024.pdf",
+     "sha256": "85420e64be0cbfa8dbe3b14b1f7f749aed82d487535af615d53ecab7a29e66cd"
+    }
+   ]
   }
  ]
 }

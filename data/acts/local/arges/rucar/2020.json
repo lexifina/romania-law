@@ -1,0 +1,206 @@
+{
+"country": "RO",
+"shard": "local/arges/rucar/2020",
+"acts": [
+{
+"slug": "hcl-arges--rucar-45-2020",
+"path": "local/arges/rucar/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 45/2020",
+"short": "HCL Rucăr nr. 45/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-16",
+"latest": "2020-06-16",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/5008",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--rucar-50-2020",
+"path": "local/arges/rucar/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 50/2020 privind scutirea de la plata majorărilor de întârziere a plăților de obligații fiscale datorate la 31.12.2019, bugetului local al comunei Rucăr",
+"short": "HCL Rucăr nr. 50/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-16",
+"latest": "2020-06-16",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/5013",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-57-2020",
+"path": "local/arges/rucar/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 57/2020 privind suspendarea târgului săptămânal de duminică, în zilele de 16.08.2020 și 23.08.2020",
+"short": "HCL Rucăr nr. 57/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/22394",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-58-2020",
+"path": "local/arges/rucar/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 58/2020 privind suspendarea târgului săptămânal de duminica, în data de 30.08.2020",
+"short": "HCL Rucăr nr. 58/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/22646",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-59-2020",
+"path": "local/arges/rucar/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 59/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+"short": "HCL Rucăr nr. 59/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/22647",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-61-2020",
+"path": "local/arges/rucar/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 61/2020",
+"short": "HCL Rucăr nr. 61/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-09",
+"latest": "2020-09-09",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/22649",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--rucar-62-2020",
+"path": "local/arges/rucar/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 62/2020 privind aprobarea devizului general actualizat privind cheltuielile necesare realizării investiției ,,Rețea nouă de canalizare și stație de epurare, în comuna Rucăr''",
+"short": "HCL Rucăr nr. 62/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/22653",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-63-2020",
+"path": "local/arges/rucar/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 63/2020 privind acceptarea ofertei de donație a unui teren în punctul ,,Câmpul Mic''",
+"short": "HCL Rucăr nr. 63/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/22654",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-64-2020",
+"path": "local/arges/rucar/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 64/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+"short": "HCL Rucăr nr. 64/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/22655",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

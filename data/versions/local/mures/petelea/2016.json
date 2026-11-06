@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/petelea/2016",
+ "acts": [
+  {
+   "slug": "hcl-mures--petelea-5-2016",
+   "path": "local/mures/petelea/2016/5",
+   "short": "HCL Petelea nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 5/2016 Privind mandatul dat reprezentantului Comunei Petelea pentru a vota in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “AQUA INVEST MURES” ajustarea preturilor si tarifelor aferente Serviciului de apa si de canalizare)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%205%20din%2028.01.2016.pdf",
+     "sha256": "8f7937f7774e1253c56294d2786023b0209cb801bb7732f7e028841aa9578005"
+    }
+   ]
+  }
+ ]
+}

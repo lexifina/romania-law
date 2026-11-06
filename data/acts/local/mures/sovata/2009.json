@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/mures/sovata/2009",
+"acts": [
+{
+"slug": "hcl-mures--sovata-69-2009",
+"path": "local/mures/sovata/2009/69",
+"kind": "local",
+"year": "2009",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sovata nr. 69/2009",
+"short": "HCL Sovata nr. 69/2009",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://primariasovata.ro/wp-content/uploads/hcl-69-2009.pdf",
+"council": "mures/sovata",
+"council_name": "Consiliul Local al Orașului Sovata",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

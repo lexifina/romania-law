@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/arges/rucar/2026",
+ "acts": [
+  {
+   "slug": "hcl-arges--rucar-10-2026",
+   "path": "local/arges/rucar/2026/10",
+   "short": "HCL Rucăr nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 10/2026",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259145",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-11-2026",
+   "path": "local/arges/rucar/2026/11",
+   "short": "HCL Rucăr nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 11/2026 privind aprobarea statutului Organizației de Management al Destinației Județene ”Regatul Argeșului”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259146",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-12-2026",
+   "path": "local/arges/rucar/2026/12",
+   "short": "HCL Rucăr nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 12/2026 privind aprobarea planului de analiză și acoperire a riscurilor la nivelul comunei Rucăr pe anul 2026",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259147",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-13-2026",
+   "path": "local/arges/rucar/2026/13",
+   "short": "HCL Rucăr nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 13/2026 privind aprobarea planului local de acțiune privind incluziunea cetățenilor români aparținând minorității rome din comuna Rucăr, pe anul 2026",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259148",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-16-2026",
+   "path": "local/arges/rucar/2026/16",
+   "short": "HCL Rucăr nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 16/2026 privind aprobarea Devizului general actualizat cu cota de TVA 21% aferentă obiectivului de investiție ”Extinderea rețea de apă potabilă și canalizare, comuna Rucăr, județul Argeș”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259151",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-17-2026",
+   "path": "local/arges/rucar/2026/17",
+   "short": "HCL Rucăr nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 17/2026 privind aprobarea Devizului general actualizat aferent obiectivului de investiție ”Extinderea rețea de canalizare menajeră în comuna Rucăr, județul Argeș”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/261765",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/261765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-18-2026",
+   "path": "local/arges/rucar/2026/18",
+   "short": "HCL Rucăr nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 18/2026 privind aprobarea organigramei și a statului de funcții din cadrul Primăriei comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/263806",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/263806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-19-2026",
+   "path": "local/arges/rucar/2026/19",
+   "short": "HCL Rucăr nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 19/2026 privind interzicerea organizării și exploatării jocurilor de noroc pe raza comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/263807",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/263807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-21-2026",
+   "path": "local/arges/rucar/2026/21",
+   "short": "HCL Rucăr nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 21/2026 privind asigurarea din bugetul local a unei contribuții proprii reprezentând 20% din valoarea contribuției de la bugetul de stat pentru fiecare solicitare de transfer depusă prin platforma digitală în cadrul Programului Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/263809",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/263809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-22-2026",
+   "path": "local/arges/rucar/2026/22",
+   "short": "HCL Rucăr nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 22/2026 privind aprobarea Actului adițional nr. 1 / 02.04.2026 la statutul Organizației de Management al Destinației Județene ”Regatul Argeșului”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/263810",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/263810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-3-2026",
+   "path": "local/arges/rucar/2026/3",
+   "short": "HCL Rucăr nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 3/2026 privind aprobarea Devizului general actualizat cu cota de TVA 21% aferentă obiectivului de investiție ”Extinderea rețea de canalizare menajeră în comuna Rucăr, județul Argeș”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259128",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-4-2026",
+   "path": "local/arges/rucar/2026/4",
+   "short": "HCL Rucăr nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 4/2026 privind ”Extindere rețea de alimentare cu energie electrică în punctul D.AF. Măra, comuna Rucăr, județul Argeș, până la numărul cadastral 97634”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259129",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-5-2026",
+   "path": "local/arges/rucar/2026/5",
+   "short": "HCL Rucăr nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 5/2026 privind aprobarea unui contract de cesiune",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259136",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-6-2026",
+   "path": "local/arges/rucar/2026/6",
+   "short": "HCL Rucăr nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 6/2026",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259138",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-7-2026",
+   "path": "local/arges/rucar/2026/7",
+   "short": "HCL Rucăr nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 7/2026",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259141",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-8-2026",
+   "path": "local/arges/rucar/2026/8",
+   "short": "HCL Rucăr nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 8/2026 privind aprobarea Programului de acțiuni comunitare pentru prevenirea, combaterea sărăciei și excluziunii sociale la nivelul comunei Rucăr, pe anul 2026",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259143",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-9-2026",
+   "path": "local/arges/rucar/2026/9",
+   "short": "HCL Rucăr nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 9/2026",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/259144",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/259144",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

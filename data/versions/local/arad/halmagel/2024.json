@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/arad/halmagel/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--halmagel-81-2024",
+   "path": "local/arad/halmagel/2024/81",
+   "short": "HCL Hălmăgel nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 81/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local al comunei Hălmăgel, judeţul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/196885",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-85-2024",
+   "path": "local/arad/halmagel/2024/85",
+   "short": "HCL Hălmăgel nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 85/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular pentru anul școlar 2025 - 2026, în comuna Hălmăgel, jud. Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/196891",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-87-2024",
+   "path": "local/arad/halmagel/2024/87",
+   "short": "HCL Hălmăgel nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 87/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/196896",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196896",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

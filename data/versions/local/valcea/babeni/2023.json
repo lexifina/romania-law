@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/babeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-valcea--babeni-105-2023",
+   "path": "local/valcea/babeni/2023/105",
+   "short": "HCL Băbeni nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 105/2023 rectificarea bugetului local al orașului Băbeni pentru anul 2023",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#66473",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24j0leHhDX60gDvMeF.yTxFuNeSUPIli1W1RatB8Nt5BDXZy785/JMW/4247",
+     "sha256": "26c06f9a449ec5b3285121f75fe77ae8086157cfd8ea050b392f3b060adcdcfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-96-2023",
+   "path": "local/valcea/babeni/2023/96",
+   "short": "HCL Băbeni nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 96/2023 rectificarea bugetului local al orașului Băbeni pentru anul 2023",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#62431",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24/9uAexMBWB3MHvtbDNseNeaIzZ/BhrZxNOouIWfJO7O7kFtLMpy9q/4247",
+     "sha256": "a40c13ccd5151854c1db64658c0a3c9702543c22b82099ef5233df49577fb06d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-97-2023",
+   "path": "local/valcea/babeni/2023/97",
+   "short": "HCL Băbeni nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 97/2023 validarea rectificării bugetului local al oraşului Băbeni pentru anul 2023, aprobată prin dispoziţia primarului oraşului Băbeni nr.537/07 decembrie 2023",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#65058",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24VvqB8liX4nIgKvu2.6XAOuwyzxyU/DIk7sbzcFYYcX5fxIrS9K8yC/4247",
+     "sha256": "fecfbd24c439b08c38e2f14ba9346cf04475c2d14ec71b781182d40c26a3182d"
+    }
+   ]
+  }
+ ]
+}

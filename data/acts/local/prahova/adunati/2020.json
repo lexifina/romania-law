@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/adunati/2020",
+"acts": [
+{
+"slug": "hcl-prahova--adunati-50-2020",
+"path": "local/prahova/adunati/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Adunați nr. 50/2020 privind scoaterea din evidentele fiscale ale comunei Adunați a unor procese verbale de contravenție și scăderea sumei de 900 lei reprezentând amenzi contravenționale, ale debitorilor decedați",
+"short": "HCL Adunați nr. 50/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://comunaadunati.ro/hotarari-arhiva/",
+"council": "prahova/adunati",
+"council_name": "Consiliul Local al Comunei Adunați",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

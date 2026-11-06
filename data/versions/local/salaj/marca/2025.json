@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/marca/2025",
+ "acts": [
+  {
+   "slug": "hcl-salaj--marca-30-2025",
+   "path": "local/salaj/marca/2025/30",
+   "short": "HCL Marca nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Marca nr. 30/2025 privind stabilirea și aprobarea impozitelor și taxelor locale și a altor taxe asimilate acestora aplicabile în anul fiscal 2026 Consiliul local al comunei Marca, județul Sălaj, întrunit în ședință ordinară; Având în vedere: - Referatul de aprobare al primarului comunei Marca nr. 6224 din 16.12.2025; - Raportul de specialitate al compartimentului buget, finanțe, contabilitate, impozite și taxe loca",
+   "url": "https://marcasj.ro/wp-content/uploads/2026/03/HCL-nr.-30-din-22.12.2025-stabilirea-si-aprobarea-impozitelor-si-taxelor-locale-aplicabile-in-2026-.pdf",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 23,
+     "source_url": "https://marcasj.ro/wp-content/uploads/2026/03/HCL-nr.-30-din-22.12.2025-stabilirea-si-aprobarea-impozitelor-si-taxelor-locale-aplicabile-in-2026-.pdf",
+     "sha256": "7ce0820887e1feafad2dd781c653a249d85893f7abbbd7c0f8595c03d1c00f48"
+    }
+   ]
+  }
+ ]
+}

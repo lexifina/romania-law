@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/corbasca/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--corbasca-100-2025",
+   "path": "local/bacau/corbasca/2025/100",
+   "short": "HCL Corbasca nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 100/2025 privind STABILIREA IMPOZITELOR SI TAXELOR LOCALE SI A UNOR ALTE TAXE LOCALE PENTRU ANUL 2026",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/243322",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/243322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-101-2025",
+   "path": "local/bacau/corbasca/2025/101",
+   "short": "HCL Corbasca nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 101/2025 privind aprobarea rectificarii bugetului local al comunei Corbasca,judetul Bacau pentru anul 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/243323",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/243323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-102-2025",
+   "path": "local/bacau/corbasca/2025/102",
+   "short": "HCL Corbasca nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 102/2025 privind APROBAREA EXECUTIEI BUGETARE A BUGETULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU PE TRIMESTRUL -IV- 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/243324",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/243324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-84-2025",
+   "path": "local/bacau/corbasca/2025/84",
+   "short": "HCL Corbasca nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 84/2025 privind aprobarea rectificarii bugetului local al comunei Corbasca,judetul Bacau pentru anul 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/231647",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/231647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-85-2025",
+   "path": "local/bacau/corbasca/2025/85",
+   "short": "HCL Corbasca nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 85/2025 privind APROBAREA EXECUTIEI BUGETARE A BUGETULUI LOCAL AL COMUNEI CORBASCA,JUDETUL BACAU PE TRIMESTRUL -III- 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/231648",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/231648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-86-2025",
+   "path": "local/bacau/corbasca/2025/86",
+   "short": "HCL Corbasca nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 86/2025 privind aprobarea rectificarii bugetului local al comunei Corbasca,judetul Bacau pentru anul 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/236190",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/236190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-87-2025",
+   "path": "local/bacau/corbasca/2025/87",
+   "short": "HCL Corbasca nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 87/2025 privind aproabarea solicitarii prelungirii scrisorii de garantie de la FNGCIMM S.A.-IFN in vederea garantarii obligatiilor de plata a avansului din fondurtile nerambursabile,pentru realizarea investitiei\"Modernizarea,renovarea si dotarea Caminului Cultural din localitatea Corbasca,comuna Corbasca,judetul Bacau\"",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/236191",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/236191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-88-2025",
+   "path": "local/bacau/corbasca/2025/88",
+   "short": "HCL Corbasca nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 88/2025 privind aprobarea Devizului General reactualizat pentru anul 2025 si indicatorii tehnico-economici pentru realizarea obiectivului de investiţii „SISTEM SUPRAVEGHERE VIDEO”",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/236192",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/236192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-89-2025",
+   "path": "local/bacau/corbasca/2025/89",
+   "short": "HCL Corbasca nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 89/2025 privind APROBAREA ORGANIZARII RETELEI SCOLARE DIN COMUNA CORBASCA,JUDETUL BACAU,PENTRU ANUL SCOLAR 2026-2027",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240963",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-90-2025",
+   "path": "local/bacau/corbasca/2025/90",
+   "short": "HCL Corbasca nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 90/2025 privind STABILIREA NIVELULUI COSTURILOR ANUALE PENTRU SUSTINEREA PERSOANEI CU HANDICAP -PENTRU ANUL 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240964",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-94-2025",
+   "path": "local/bacau/corbasca/2025/94",
+   "short": "HCL Corbasca nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 94/2025 privind aprobarea rectificarii bugetului local al comunei Corbasca,judetul Bacau pentru anul 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240968",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-95-2025",
+   "path": "local/bacau/corbasca/2025/95",
+   "short": "HCL Corbasca nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 95/2025 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului local al comunei Corbasca,judetul Bacau",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240969",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-96-2025",
+   "path": "local/bacau/corbasca/2025/96",
+   "short": "HCL Corbasca nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 96/2025 privind aprobarea cotizaţiei anuale a comunei CORBASCA la patrimoniul „Asociaţiei G.A.L.CETATEA TAMASIDAVA ,pentru anul 2025",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240970",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-97-2025",
+   "path": "local/bacau/corbasca/2025/97",
+   "short": "HCL Corbasca nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 97/2025 privind PRELUNGIREA TERMENULUI DE VALABILITATE A DOCUMENTATIEI DE URBANISM ”PLAN URBANISTIC GENERAL AL COMUNEI CORBASCA”CU REGULAMENTUL LOCAL DE URBANISM AFERENT",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240971",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--corbasca-98-2025",
+   "path": "local/bacau/corbasca/2025/98",
+   "short": "HCL Corbasca nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbasca nr. 98/2025 privind aproabarea solicitarii prelungirii scrisorii de garantie de la FNGCIMM S.A.-IFN in vederea garantarii obligatiilor de plata a avansului din fondurtile nerambursabile,pentru realizarea investitiei\"Modernizarea,renovarea si dotarea Caminului Cultural din localitatea Corbasca,comuna Corbasca,judetul Bacau\"",
+   "url": "https://emol.ro/corbasca-bc/registru-hcl/240972",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corbasca-bc/registru-hcl/240972",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

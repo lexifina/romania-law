@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/racova/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--racova-70-2025",
+   "path": "local/bacau/racova/2025/70",
+   "short": "HCL Racova nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Racova nr. 70/2025 nr. 70 din 30.12.2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+   "url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-nr-70-din-30.12.2025-Taxe-si-impozite-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 12,
+     "source_url": "https://primariaracova.ro/wp-content/uploads/2026/01/HCL-nr-70-din-30.12.2025-Taxe-si-impozite-2026.pdf",
+     "sha256": "204e14ee0eefb34aecfc882c24951949a1f35ad7f0fea90fa344fd9ff0c29a76"
+    }
+   ]
+  }
+ ]
+}

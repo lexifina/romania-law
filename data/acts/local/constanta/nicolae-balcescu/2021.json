@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/nicolae-balcescu/2021",
+"acts": [
+{
+"slug": "hcl-constanta--nicolae-balcescu-52-2021",
+"path": "local/constanta/nicolae-balcescu/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 52/2021 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA PE TREI LUNI",
+"short": "HCL Nicolae Bălcescu nr. 52/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://balcescu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21862#909",
+"council": "constanta/nicolae-balcescu",
+"council_name": "Consiliul Local al Comunei Nicolae Bălcescu",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

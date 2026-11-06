@@ -3,6 +3,74 @@
 "shard": "local/gorj/rovinari/2025",
 "acts": [
 {
+"slug": "hcl-gorj--rovinari-163-2025",
+"path": "local/gorj/rovinari/2025/163",
+"kind": "local",
+"year": "2025",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 163/2025 privind aprobarea Regulamentului privind gestionarea deșeurilor din construcții și demolări în orașul Rovinari, județul Gorj Vizualizare",
+"short": "HCL Rovinari nr. 163/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+"council": "gorj/rovinari",
+"council_name": "Consiliul Local al Orașului Rovinari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--rovinari-188-2025",
+"path": "local/gorj/rovinari/2025/188",
+"kind": "local",
+"year": "2025",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 188/2025",
+"short": "HCL Rovinari nr. 188/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": null,
+"council": "gorj/rovinari",
+"council_name": "Consiliul Local al Orașului Rovinari",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--rovinari-213-2025",
+"path": "local/gorj/rovinari/2025/213",
+"kind": "local",
+"year": "2025",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 213/2025",
+"short": "HCL Rovinari nr. 213/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": null,
+"council": "gorj/rovinari",
+"council_name": "Consiliul Local al Orașului Rovinari",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--rovinari-240-2025",
 "path": "local/gorj/rovinari/2025/240",
 "kind": "local",

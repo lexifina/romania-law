@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/copacel/2024",
+"acts": [
+{
+"slug": "hcl-bihor--copacel-1-2024",
+"path": "local/bihor/copacel/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Copăcel nr. 1/2024 privind aprobarea Ordinei de zi a ședinței extraordinare a Consiliului Local Copăcel",
+"short": "HCL Copăcel nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://copacel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29728#73565",
+"council": "bihor/copacel",
+"council_name": "Consiliul Local al Comunei Copăcel",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

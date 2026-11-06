@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/tatarani/2023",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--tatarani-20-2023",
+   "path": "local/vaslui/tatarani/2023/20",
+   "short": "HCL Tătărăni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 20/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3622a08e923d671e87c6408710e1e1fcc203e3e558fe718838f411b2e25bf30f"
+    }
+   ]
+  }
+ ]
+}

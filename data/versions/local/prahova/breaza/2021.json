@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/breaza/2021",
+ "acts": [
+  {
+   "slug": "hcl-prahova--breaza-56-2021",
+   "path": "local/prahova/breaza/2021/56",
+   "short": "HCL Breaza nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 56/2021 pentru completarea HCL nr. 2/2020 privind instituii'ea taxei speciale de salubrizare în cazul prestațiilor de care beneficiază utilizatorii fără contract de prestări servicii din orașul Breaza și aprobarea „Regulamentului dte stabilire și aplicare a taxei speciale de salubrizare�', modificată",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2021/06/hotarari-c-l-10-40-43-06-21-hcl-5.pdf",
+     "sha256": "ebae1a5609348df547cd68e3c057303655b75f11248b3c7d1ab8f7b0efbe7ec8"
+    }
+   ]
+  }
+ ]
+}

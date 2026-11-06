@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/valcea/babeni/2022",
+"acts": [
+{
+"slug": "hcl-valcea--babeni-102-2022",
+"path": "local/valcea/babeni/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 102/2022 rectificarea bugetului local al orașului Băbeni și a listei de investiții finanțate din acesta pentru anul 2022",
+"short": "HCL Băbeni nr. 102/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-11-01",
+"latest": "2022-11-01",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#32276",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-valcea--babeni-112-2022",
+"path": "local/valcea/babeni/2022/112",
+"kind": "local",
+"year": "2022",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 112/2022 rectificarea bugetului local al orașului Băbeni si a listei de investitii finantate din acesta pentru anul 2022",
+"short": "HCL Băbeni nr. 112/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-05",
+"latest": "2022-12-05",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#36309",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

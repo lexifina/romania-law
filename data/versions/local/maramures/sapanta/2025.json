@@ -16,6 +16,36 @@
      "sha256": "e58d313c36e90748cc5993ccc597f07f56339ccdce7b332d291370ecdc84bfdf"
     }
    ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-81-2025",
+   "path": "local/maramures/sapanta/2025/81",
+   "short": "HCL Săpânța nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 81/2025 privind stabilirea și sancționarea unor contravenții pe raza administrativ teritorială a comunei Săpânța",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-81-din-data-de-03.10.2025-privind-stabilirea-si-sanctionarea-unor-contraventii-pe-raza-administrativ-teritoriala-a-comunei-Sapanta.pdf",
+     "sha256": "b48546ac77c56f59e1f107c0e3b883507d3552d15e3c90047bbdb4924d8c745b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-94-2025",
+   "path": "local/maramures/sapanta/2025/94",
+   "short": "HCL Săpânța nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 94/2025 privind stabilirea impozitelor și taxelor locale,precum și a taxelor speciale, pe anul 2026",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-94-din-data-de-22.12.2025-privind-stabilirea-impozitelor-si-taxelor-localeprecum-si-a-taxelor-speciale-pe-anul-2026.pdf",
+     "sha256": "34a839fdacbd9090ae6625d447726b8255533dfe23cb830089495a1b2b935f3e"
+    }
+   ]
   }
  ]
 }

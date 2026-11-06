@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/ojdula/2026",
+ "acts": [
+  {
+   "slug": "hcl-covasna--ojdula-16-2026",
+   "path": "local/covasna/ojdula/2026/16",
+   "short": "HCL Ojdula nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 16/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202026/HCL%20nr.%2016%20din%2014.04.2026.PDF",
+     "sha256": "b09d90658f880a262fa2c05fc7f4b9d68ba44b0b7c181c32e97a61e9ee6e3d17"
+    }
+   ]
+  }
+ ]
+}

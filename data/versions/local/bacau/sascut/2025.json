@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/sascut/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--sascut-95-2025",
+   "path": "local/bacau/sascut/2025/95",
+   "short": "HCL Sascut nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 95/2025 privind aprobarea taxei speciale de salubritate pentru utilizatorii casnici și pentru agenții economici din Comuna Sascut , pentru anul 2026",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/246655",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/246655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--sascut-98-2025",
+   "path": "local/bacau/sascut/2025/98",
+   "short": "HCL Sascut nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sascut nr. 98/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/sascut-bc/registru-hcl/246658",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sascut-bc/registru-hcl/246658",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

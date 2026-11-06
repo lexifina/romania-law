@@ -3,6 +3,21 @@
  "shard": "local/arges/babana/2013",
  "acts": [
   {
+   "slug": "hcl-arges--babana-44-2013",
+   "path": "local/arges/babana/2013/44",
+   "short": "HCL Băbana nr. 44/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 44/2013 Privind aprobarea detinerii animalelor de companie(caini) pe raza comunei Babana.",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2013-07-16",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hotarari/hotarare_nr44.pdf",
+     "sha256": "19fd2b65b6b4f1b26a85136308eee68b12fb076f27d9877128e787f179d065bb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--babana-75-2013",
    "path": "local/arges/babana/2013/75",
    "short": "HCL Băbana nr. 75/2013",

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dambovita/ulmi/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--ulmi-173-2024",
+"path": "local/dambovita/ulmi/2024/173",
+"kind": "local",
+"year": "2024",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 173/2024 privind aprobarea proiectului: PUZ\"Infiintarea si amenajarea unei zone de recreere si agrement în comuna Ulmi ”, beneficiar U.A.T comuna Ulmi",
+"short": "HCL Ulmi nr. 173/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#84515",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-177-2024",
+"path": "local/dambovita/ulmi/2024/177",
+"kind": "local",
+"year": "2024",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 177/2024 privind aprobarea retelei scolare de pe raza Unităţii Administrativ Teritoriale Ulmi, judetul Dâmbovita, pentru anul scolar 2025-2026",
+"short": "HCL Ulmi nr. 177/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#85634",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-184-2024",
+"path": "local/dambovita/ulmi/2024/184",
+"kind": "local",
+"year": "2024",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 184/2024 privind aprobarea completării Strategiei de dezvoltare locală pentru perioada 2021 – 2027 a comunei Ulmi, judeţul Dâmbovita",
+"short": "HCL Ulmi nr. 184/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#87298",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

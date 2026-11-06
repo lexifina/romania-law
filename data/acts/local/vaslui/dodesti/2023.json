@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/vaslui/dodesti/2023",
+"acts": [
+{
+"slug": "hcl-vaslui--dodesti-81-2023",
+"path": "local/vaslui/dodesti/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 81/2023 Privind rectificarea a-XII –a, a bugetului local al comunei Dodesti pe anul 2023",
+"short": "HCL Dodești nr. 81/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#65368",
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vaslui--dodesti-82-2023",
+"path": "local/vaslui/dodesti/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dodești nr. 82/2023",
+"short": "HCL Dodești nr. 82/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": null,
+"council": "vaslui/dodesti",
+"council_name": "Consiliul Local al Comunei Dodești",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

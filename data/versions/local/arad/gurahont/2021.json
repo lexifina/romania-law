@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/arad/gurahont/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--gurahont-77-2021",
+   "path": "local/arad/gurahont/2021/77",
+   "short": "HCL Gurahonț nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 77/2021 privind aprobarea execuţiei bugetului local al comunei Gurahonţ pe trimestrul III al anului 2021",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/40494",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/40494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-78-2021",
+   "path": "local/arad/gurahont/2021/78",
+   "short": "HCL Gurahonț nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 78/2021 privind rectificarea din luna octombrie a bugetului local al comunei Gurahonţ pe anul 2021 și a listei de investiții anexe",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/40495",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/40495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-83-2021",
+   "path": "local/arad/gurahont/2021/83",
+   "short": "HCL Gurahonț nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 83/2021 privind rectificarea din luna noiembrie a bugetului local al comunei Gurahonţ pe anul 2021 și a listei de investiții anexe",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/42795",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/42795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-85-2021",
+   "path": "local/arad/gurahont/2021/85",
+   "short": "HCL Gurahonț nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 85/2021 privind rectificarea din luna decembrie a bugetului local al comunei Gurahonţ pe anul 2021 și a listei de investiții anexe",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47571",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-86-2021",
+   "path": "local/arad/gurahont/2021/86",
+   "short": "HCL Gurahonț nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 86/2021 privind rectificarea 2 din luna decembrie a bugetului local al comunei Gurahonţ pe anul 2021 și a listei de investiții anexe",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47589",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-87-2021",
+   "path": "local/arad/gurahont/2021/87",
+   "short": "HCL Gurahonț nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 87/2021 privind impozitele și taxele locale, precum și taxe speciale, pe anul 2022",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47599",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-88-2021",
+   "path": "local/arad/gurahont/2021/88",
+   "short": "HCL Gurahonț nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 88/2021 privind aprobarea documentaţiei tehnico-economice pentru investiția: „PIETRUIRE DRUM COMUNAL DC 34 (DJ 708 – FENIȘ), COMUNA GURAHONȚ”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47600",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-89-2021",
+   "path": "local/arad/gurahont/2021/89",
+   "short": "HCL Gurahonț nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 89/2021 privind aprobarea documentaţiei tehnico-economice pentru investiția „ MODERNIZARE PARCARE ȘI TROTUAR PARTEA STÂNGĂ STRADA IOSĂȘEL”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47601",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-90-2021",
+   "path": "local/arad/gurahont/2021/90",
+   "short": "HCL Gurahonț nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 90/2021 privind aprobarea documentaţiei tehnico-economice pentru investiția: „PIETRUIRE STRADA 8 ÎN LOCALITATEA BONȚEȘTI, COMUNA GURAHONȚ, 1,1 km”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47602",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-92-2021",
+   "path": "local/arad/gurahont/2021/92",
+   "short": "HCL Gurahonț nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 92/2021 privind aprobarea planului anual de acţiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce trebuie prestate de persoanele care beneficiază de prevederile Legii nr.416/2001",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47604",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-95-2021",
+   "path": "local/arad/gurahont/2021/95",
+   "short": "HCL Gurahonț nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 95/2021 privind rectificarea 3 din luna decembrie a bugetului local al comunei Gurahonţ pe anul 2021 și a listei de investiții anexe",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47607",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47607",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

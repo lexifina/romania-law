@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/comanesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-bacau--comanesti-17-2026",
+   "path": "local/bacau/comanesti/2026/17",
+   "short": "HCL Comănești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 17/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_017_13.03.2026.pdf",
+     "sha256": "ce1ecbf95dbb3c56580e22dafe35cf7608e46c8f04c874bb83bd062871ae71f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-60-2026",
+   "path": "local/bacau/comanesti/2026/60",
+   "short": "HCL Comănești nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 60/2026 privind interzicerea organizării exploatării activităților de jocuri de noroc pe raza orașului Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_060_25.06.2026.pdf",
+     "sha256": "407d6b406f5042a8ce83bb50c5ee9f151735b4dc082c8d51c07000e0c15fe2f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-73-2026",
+   "path": "local/bacau/comanesti/2026/73",
+   "short": "HCL Comănești nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 73/2026 pentru stabilirea prețului și tarifului pentru serviciile de alimentare cu apă și de canalizare, pentru SC APA SERV TROTUȘ SRL, județul Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/4204-anul-2026.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2026/hcl_073_20.07.2026.pdf",
+     "sha256": "9933a15aefddef6698cc5cf3a2e9d159e403a8f7d7d143892ce781f904ffaad0"
+    }
+   ]
+  }
+ ]
+}

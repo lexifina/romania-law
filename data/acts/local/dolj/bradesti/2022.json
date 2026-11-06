@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/bradesti/2022",
+"acts": [
+{
+"slug": "hcl-dolj--bradesti-20-2022",
+"path": "local/dolj/bradesti/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brădești nr. 20/2022 privind aprobarea Procedurii de anulare sau diminuare…) [ ... ]",
+"short": "HCL Brădești nr. 20/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "http://www.primariabradesti.ro/",
+"council": "dolj/bradesti",
+"council_name": "Consiliul Local al Comunei Brădești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

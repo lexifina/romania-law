@@ -69,6 +69,28 @@
 "flags": {
 "text_source": "pdf_text_layer"
 }
+},
+{
+"slug": "hcl-covasna--covasna-86-2026",
+"path": "local/covasna/covasna/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 86/2026 privind aprobarea regulamentului de funcționare și exploatare a stațiilor de reîncărcare a vehiculelor electrice și hybrid plug-in în Orașul Covasna, Județul Covasna, inclusiv a documentației în vederea delegării operării acestora pe baza unui contract de prestări servicii",
+"short": "HCL Covasna nr. 86/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

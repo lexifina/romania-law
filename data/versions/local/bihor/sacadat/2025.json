@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/sacadat/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--sacadat-66-2025",
+   "path": "local/bihor/sacadat/2025/66",
+   "short": "HCL Săcădat nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 66/2025 privind aprobarea participării la proiectul \"Tabere pentru elevi și preșcolari\" și aprobarea cheltuielilor legate de implementarea acestui proiect de către Comuna Săcădat",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/234031",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/234031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-67-2025",
+   "path": "local/bihor/sacadat/2025/67",
+   "short": "HCL Săcădat nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 67/2025 privind aprobarea procesului verbal al sedintei ordinare, anterioare, din data de 31.10.2025",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238709",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-68-2025",
+   "path": "local/bihor/sacadat/2025/68",
+   "short": "HCL Săcădat nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 68/2025 privind aprobarea ordinei de zi a sedintei ordinare din data de 28.11.2025",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238710",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-70-2025",
+   "path": "local/bihor/sacadat/2025/70",
+   "short": "HCL Săcădat nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 70/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliul Local al Primăriei Săcădat, pentru anul 2026",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238712",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-72-2025",
+   "path": "local/bihor/sacadat/2025/72",
+   "short": "HCL Săcădat nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 72/2025 privind aprobarea Planului Anual de acțiuni și lucrări de interes local la nivelul comunei Sacadat, care va fi executat cu beneficiarii Legii nr.196/2016, în anul 2026",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238714",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-73-2025",
+   "path": "local/bihor/sacadat/2025/73",
+   "short": "HCL Săcădat nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 73/2025 privind aprobarea Actului adițional la Statutul „Asociației Grup de Acțiune Locală ZMO DEALUL ȘOMLEU”",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238715",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-74-2025",
+   "path": "local/bihor/sacadat/2025/74",
+   "short": "HCL Săcădat nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 74/2025 privind completarea Programului Anual al Achizițiilor Publice al Comunei Săcădat, pe anul 2025",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238716",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-75-2025",
+   "path": "local/bihor/sacadat/2025/75",
+   "short": "HCL Săcădat nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 75/2025 privind aprobarea indicatorilor tehnico-economici și a Proiectului tehnic a obiectivului „ Modernizare stradă in localitatea Săbolciu, comuna Săcădat”",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238717",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-76-2025",
+   "path": "local/bihor/sacadat/2025/76",
+   "short": "HCL Săcădat nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 76/2025 privind rectificarea bugetului de venituri și cheltuieli al Comunei Săcădat, pe anul 2025",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/238718",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/238718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-79-2025",
+   "path": "local/bihor/sacadat/2025/79",
+   "short": "HCL Săcădat nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 79/2025 privind aprobarea procesului verbal al sedintei ordinare, anterioare, din data de 28.11.2025",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/244397",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/244397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-80-2025",
+   "path": "local/bihor/sacadat/2025/80",
+   "short": "HCL Săcădat nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 80/2025 privind aprobarea ordinei de zi a sedintei ordinare din data de 29.12.2025",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/244398",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/244398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-81-2025",
+   "path": "local/bihor/sacadat/2025/81",
+   "short": "HCL Săcădat nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 81/2025 privind stabilirea și aprobarea impozitelor, taxelor și tarifelor locale pentru anul 2026",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/244399",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/244399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-82-2025",
+   "path": "local/bihor/sacadat/2025/82",
+   "short": "HCL Săcădat nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 82/2025 privind privind acceptarea ofertei de donație imobiliară și înscrierea în domeniul public al comunei Săcădat, cu destinația de drum public, a terenului în suprafață de 5036 mp, situat în localitatea Săbolciu",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/244400",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/244400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-83-2025",
+   "path": "local/bihor/sacadat/2025/83",
+   "short": "HCL Săcădat nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 83/2025 privind organizarea Reţelei şcolare a unităților învăţământului preuniversitar de stat de pe raza comunei Săcădat, pe anul școlar 2026-2027",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/244401",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/244401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacadat-84-2025",
+   "path": "local/bihor/sacadat/2025/84",
+   "short": "HCL Săcădat nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcădat nr. 84/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV 2025 şi stabilirea masurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/sacadat-bh/registru-hcl/244402",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacadat-bh/registru-hcl/244402",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/vama-buzaului/2026",
+"acts": [
+{
+"slug": "hcl-brasov--vama-buzaului-64-2026",
+"path": "local/brasov/vama-buzaului/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 64/2026 nr. 64 din 19.06.2026 - privind aprobarea modificării Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Comunei Vama Buzăului",
+"short": "HCL Vama Buzăului nr. 64/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-19",
+"latest": "2026-06-19",
+"portal": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local",
+"council": "brasov/vama-buzaului",
+"council_name": "Consiliul Local al Comunei Vama Buzăului",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

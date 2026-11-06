@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/izvoarele/2025",
+"acts": [
+{
+"slug": "hcl-prahova--izvoarele-44-2025",
+"path": "local/prahova/izvoarele/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoarele nr. 44/2025 privind stabilire taxe și impozite locale pentru anul 2025",
+"short": "HCL Izvoarele nr. 44/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "http://izvoarele-ph.ro/index.php/consiliul-local/hotarari-cl/151-hotarari-consiliu-local-2025",
+"council": "prahova/izvoarele",
+"council_name": "Consiliul Local al Comunei Izvoarele",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/arges/nucsoara/2026",
+ "acts": [
+  {
+   "slug": "hcl-arges--nucsoara-58-2026",
+   "path": "local/arges/nucsoara/2026/58",
+   "short": "HCL Nucșoara nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 58/2026 privind aprobarea STRATEGIEI DE TARIFARE pentru serviciul de apă",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/280264",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/280264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-62-2026",
+   "path": "local/arges/nucsoara/2026/62",
+   "short": "HCL Nucșoara nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 62/2026 privind aprobarea rezultatelor etichetării cheltuielilor bugetare aferente obiectivului de investiții ,, CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC ÎN UAT NUCȘOARA, JUDEȚUL ARGEȘ”",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/284834",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/284834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-63-2026",
+   "path": "local/arges/nucsoara/2026/63",
+   "short": "HCL Nucșoara nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 63/2026 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/284835",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/284835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-64-2026",
+   "path": "local/arges/nucsoara/2026/64",
+   "short": "HCL Nucșoara nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 64/2026 privind aprobarea documentației și inițierea demersurilor pentru atestarea Comunei Nucșoara, județul Argeș, ca stațiune turistică de interes local",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/284836",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/284836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-66-2026",
+   "path": "local/arges/nucsoara/2026/66",
+   "short": "HCL Nucșoara nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 66/2026 privind aprobarea rezultatelor etichetării cheltuielilor bugetare aferente unor obiective de investiții",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/287560",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/287560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-67-2026",
+   "path": "local/arges/nucsoara/2026/67",
+   "short": "HCL Nucșoara nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 67/2026 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/287561",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/287561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-68-2026",
+   "path": "local/arges/nucsoara/2026/68",
+   "short": "HCL Nucșoara nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 68/2026 privind aprobarea prelungirii duratei Contractului de servicii de proiectare nr. 2/10.03.2016",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/287562",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/287562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-72-2026",
+   "path": "local/arges/nucsoara/2026/72",
+   "short": "HCL Nucșoara nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 72/2026 privind aprobarea rezultatelor etichetării cheltuielilor bugetare",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/293545",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/293545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-73-2026",
+   "path": "local/arges/nucsoara/2026/73",
+   "short": "HCL Nucșoara nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 73/2026 privind RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/293546",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/293546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-74-2026",
+   "path": "local/arges/nucsoara/2026/74",
+   "short": "HCL Nucșoara nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 74/2026 privind aprobarea documentatiei de avizare a lucrarilor de interventii , a indicatorilor tehnico- economici si a devizului general pentru obiectivul de investitii „REABILITARE INTEGRATĂ ȘCOALA CU CLASE I-VIII «TOMA ARNĂUȚOIU» ÎN LOCALITATEA NUCȘOARA, JUDEȚUL ARGEȘ”, aprobat pentru finanțare prin Programul Național de Consolidare a Clădirilor cu Risc Seismic Ridicat- Subprogramul Proiectarea şi execuţia lucrărilor de intervenţii pentru clădirile de interes şi utilitate publică și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/293547",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/293547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-75-2026",
+   "path": "local/arges/nucsoara/2026/75",
+   "short": "HCL Nucșoara nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 75/2026",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/293548",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/293548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-77-2026",
+   "path": "local/arges/nucsoara/2026/77",
+   "short": "HCL Nucșoara nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 77/2026 privind modificarea art.1 din Hotărârea nr. 55/20.07.2026 a Consiliului Local al comunei Nucșoara, județul Argeș",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/297344",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/297344",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

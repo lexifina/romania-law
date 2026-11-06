@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/ciumeghiu/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--ciumeghiu-110-2023",
+   "path": "local/bihor/ciumeghiu/2023/110",
+   "short": "HCL Ciumeghiu nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 110/2023 privind însușirea documentației cadastrale pentru 3( trei) imobile în vederea întabulării și trecerii în domeniul public al comunei",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/129838",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/129838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-111-2023",
+   "path": "local/bihor/ciumeghiu/2023/111",
+   "short": "HCL Ciumeghiu nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 111/2023 privind acordul de constituire a unui drept de servitute în favoarea comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/129839",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/129839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-119-2023",
+   "path": "local/bihor/ciumeghiu/2023/119",
+   "short": "HCL Ciumeghiu nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 119/2023 privind aprobarea rectificării bugetului local",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/132974",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/132974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-123-2023",
+   "path": "local/bihor/ciumeghiu/2023/123",
+   "short": "HCL Ciumeghiu nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 123/2023 privind aprobarea nivelului impozitelor și taxelor locale pe anul 2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/134480",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/134480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-124-2023",
+   "path": "local/bihor/ciumeghiu/2023/124",
+   "short": "HCL Ciumeghiu nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 124/2023 privind aprobarea tarifelor aferente protocolului de colaborare pentru gestionarea în comun a câinilor fără stapân cu UAT Salonta",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/134481",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/134481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-127-2023",
+   "path": "local/bihor/ciumeghiu/2023/127",
+   "short": "HCL Ciumeghiu nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 127/2023 privind aprobarea rectificării bugetului local",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/134484",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/134484",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

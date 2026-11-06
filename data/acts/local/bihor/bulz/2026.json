@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bihor/bulz/2026",
+"acts": [
+{
+"slug": "hcl-bihor--bulz-73-2026",
+"path": "local/bihor/bulz/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bulz nr. 73/2026 privind aprobarea proceselor verbale anteriore, din data de 23.09.2026 și 08.10.2026",
+"short": "HCL Bulz nr. 73/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/bulz-bh/registru-hcl/297683",
+"council": "bihor/bulz",
+"council_name": "Consiliul Local al Comunei Bulz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bulz-74-2026",
+"path": "local/bihor/bulz/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bulz nr. 74/2026 privind aprobarea ordinii de zi pentru ședința ordinară din data de 03.11.2026",
+"short": "HCL Bulz nr. 74/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/bulz-bh/registru-hcl/297684",
+"council": "bihor/bulz",
+"council_name": "Consiliul Local al Comunei Bulz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bulz-75-2026",
+"path": "local/bihor/bulz/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bulz nr. 75/2026 privind revocarea Hotărârii Consiliului Local nr.60/10.08.2026, având ca obiect trecerea unui sector de drum spre Coada Lacului – Baraj Leșu, din domeniul public, proprietatea publică și administrarea Comunei Bulz în domeniul public și proprietatea publică a Județului Bihor, în vederea realizării obiectivului de investiții ”Reabilitare și modernizare tronson de drum județean DJ 108 J, Km 7+552 – Km 16+295, L=8,743 Km”",
+"short": "HCL Bulz nr. 75/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/bulz-bh/registru-hcl/297685",
+"council": "bihor/bulz",
+"council_name": "Consiliul Local al Comunei Bulz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bulz-80-2026",
+"path": "local/bihor/bulz/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bulz nr. 80/2026 privind aprobarea utilizării excedentului bugetului local al anului 2025 pentru finanțarea cheltuielilor secțiunii de dezvoltare în anul 2026 şi aprobarea bugetului local rectificat pe anul 2026",
+"short": "HCL Bulz nr. 80/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/bulz-bh/registru-hcl/297690",
+"council": "bihor/bulz",
+"council_name": "Consiliul Local al Comunei Bulz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bulz-83-2026",
+"path": "local/bihor/bulz/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bulz nr. 83/2026 privind trecerea unui sector de drum spre Coada Lacului – Baraj Leșu, din domeniul public, proprietatea publică și administrarea Comunei Bulz în domeniul public și proprietatea publică a Județului Bihor, în vederea realizării obiectivului de investiții ”Reabilitare și modernizare tronson de drum județean DJ 108 J, Km 7+552 – Km 16+295, L=8,743 Km”",
+"short": "HCL Bulz nr. 83/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/bulz-bh/registru-hcl/297693",
+"council": "bihor/bulz",
+"council_name": "Consiliul Local al Comunei Bulz",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

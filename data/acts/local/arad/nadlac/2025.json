@@ -1171,6 +1171,118 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-arad--nadlac-60-2025",
+"path": "local/arad/nadlac/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2025 privind reorganizarea comisiei pentru amenajarea teritoriului şi urbanism, protecţie mediu şi turism, administraţie publică locală, pe lângă Consiliul Local al orașului Nădlac",
+"short": "HCL Nădlac nr. 60/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-75-2025",
+"path": "local/arad/nadlac/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2025",
+"short": "HCL Nădlac nr. 75/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-107-2025",
+"path": "local/arad/nadlac/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2025 privind aprobarea Regulamentului propriu de organizare și funcţionare pentru activitățile de colectare și transport al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad",
+"short": "HCL Nădlac nr. 107/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-122-2025",
+"path": "local/arad/nadlac/2025/122",
+"kind": "local",
+"year": "2025",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2025 privind aprobarea tarifului pentru zona 1 mediu urban pentru activitatea de sortare a deşeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la de",
+"short": "HCL Nădlac nr. 122/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-155-2025",
+"path": "local/arad/nadlac/2025/155",
+"kind": "local",
+"year": "2025",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 155/2025",
+"short": "HCL Nădlac nr. 155/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

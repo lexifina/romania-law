@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/arad/halmagiu/2026",
+ "acts": [
+  {
+   "slug": "hcl-arad--halmagiu-37-2026",
+   "path": "local/arad/halmagiu/2026/37",
+   "short": "HCL Hălmagiu nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 37/2026 privind modificarea și completarea anexei nr.2 la Hotărârea Consiliului Local Hălmagiu nr. 93. din 31.12.2025, privind arobarea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/280243",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/280243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-40-2026",
+   "path": "local/arad/halmagiu/2026/40",
+   "short": "HCL Hălmagiu nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 40/2026 privind rectificarea bugetului local de venituri și cheltuieli al Comunei Hălmagiu, sursa A pe anul 2026, conform anexelor 1 și 2",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/286637",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/286637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-42-2026",
+   "path": "local/arad/halmagiu/2026/42",
+   "short": "HCL Hălmagiu nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 42/2026 privind aprobarea participării Unității Administrativ-Teritoriale comuna Hălmagiu, Județul Arad la constituirea Asociației ,,Organizația de Management al Destinației Județul Arad\"",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/286640",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/286640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-47-2026",
+   "path": "local/arad/halmagiu/2026/47",
+   "short": "HCL Hălmagiu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 47/2026 privind aprobarea execuției bugetare la finele trimestrului II al anului 2026, pe cele două secțiuni de funcționare, respectiv de dezvoltare, sursele A, E, G, conform anexelor 1-7, care fac parte din prezenta",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/291756",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/291756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-49-2026",
+   "path": "local/arad/halmagiu/2026/49",
+   "short": "HCL Hălmagiu nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 49/2026 privind declararea de interes public local aa unor bunuri înregistrate în contabilitatea Companiei de Apă Arad SA în anul 2025 și intrate pe raza UAT Hălmagiu, înregistrarea acestora în concesiunea Companiei de Apă Arad SA",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/291758",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/291758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-54-2026",
+   "path": "local/arad/halmagiu/2026/54",
+   "short": "HCL Hălmagiu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 54/2026 privind aprobarea proiectului ''Realizarea unei capacități de producere a energiei electrice din surse regenerabile cu sistem de stocare, pentru consumul propriu al Comunei Hălmagiu, județul Arad'', a Studiului de fezabilitate și a indicatorilor tehnico-economici aferenți, precum și a cheltuielilor legate de proiect, în vederea depunerii cererii de finanțare în cadrul Fondului pentru modernizare, Programul-cheie 1 ''Surse regenerabile de energie și stocarea energiei''",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/291763",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/291763",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

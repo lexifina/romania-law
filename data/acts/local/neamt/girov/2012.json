@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/girov/2012",
+"acts": [
+{
+"slug": "hcl-neamt--girov-12-2012",
+"path": "local/neamt/girov/2012/12",
+"kind": "local",
+"year": "2012",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Girov nr. 12/2012 privind aprobarea Planului Urbanistic in Detaliu pentru construire Pensiune Turistica Consiliul Local al comunei Girov, judetul Neamt",
+"short": "HCL Girov nr. 12/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-03-02",
+"latest": "2012-03-02",
+"portal": "https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html",
+"council": "neamt/girov",
+"council_name": "Consiliul Local al Comunei Girov",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/beresti/2013",
+ "acts": [
+  {
+   "slug": "hcl-galati--beresti-45-2013",
+   "path": "local/galati/beresti/2013/45",
+   "short": "HCL Berești nr. 45/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Berești nr. 45/2013 privind impozite si taxe locale 2014",
+   "url": "https://www.orasulberesti.ro/primaria/consiliul-local/",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 1,
+     "source_url": "https://www.orasulberesti.ro/arhiva/HCL_Nr_45_din_23_12_2013_privind_impozite_si_taxe_locale_2014.pdf",
+     "sha256": "a6099498202f23c2409aff8721bace59a04b7d5e5894cd45a0d854cdf91cef83"
+    }
+   ]
+  }
+ ]
+}

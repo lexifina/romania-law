@@ -3,6 +3,36 @@
  "shard": "local/maramures/tautii-magheraus/2026",
  "acts": [
   {
+   "slug": "hcl-maramures--tautii-magheraus-119-2026",
+   "path": "local/maramures/tautii-magheraus/2026/119",
+   "short": "HCL Tăuții-Măgherăuș nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 119/2026 privind mandatarea reprezentantului UAT Tăuții Măgherăuș de a vota în AGA ADIGIDM MM modificarea tarifelor pentru activitățile de sortare si transfer a deșeurilor municipale zona de colectare 1 – Sârbi, UAT Cernești și UAT Coroieni",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2026/07/HCL-119-modificare-tarife-sortare-si-transfer-2026-ABC.pdf",
+     "sha256": "8fcf7da640beb20021f76a976331d3e581d3410e55634e044cea61a9cab40645"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-120-2026",
+   "path": "local/maramures/tautii-magheraus/2026/120",
+   "short": "HCL Tăuții-Măgherăuș nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 120/2026 privind mandatarea reprezentantului UAT Tăuții Măgherăuș de a vota în AGA ADIGIDM MM modificarea tarifelor de colectare și transport a deșeurilor municipale din cadrul Contractului pentru delegarea gestiunii serviciului de salubrizare în zona de colectare 1 – Sârbi nr. 116/2019",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2026/07/HCL-120-modfificare-tarife-2026-Drusal.pdf",
+     "sha256": "fe846f3b06d870b2512a8b2f06dbbd136ddcd3b0343febf403fc63efbc15b696"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-168-2026",
    "path": "local/maramures/tautii-magheraus/2026/168",
    "short": "HCL Tăuții-Măgherăuș nr. 168/2026",
@@ -29,6 +59,21 @@
      "units": 1,
      "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2026/11/HCL-186-actualizare-PUG.pdf",
      "sha256": "52337cab8fe1083a21178978047182caa65f4831775d98fbbb5b9e94ab013cc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-44-2026",
+   "path": "local/maramures/tautii-magheraus/2026/44",
+   "short": "HCL Tăuții-Măgherăuș nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 44/2026 Nr. 44 din 31.03.2026 privind interzicerea desfășurării activităților de jocuri de noroc pe teritoriul U.A.T. Tăuții Măgherăuș.",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 5,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2026/04/HCL-44-privind-interzicerea-desfasurarii-activitatilor-de-jocuri-de-noroc.pdf",
+     "sha256": "22082312e94e66de0a9443147a6543967bf6d5c336e9f1ba0279f0b5264a1cfa"
     }
    ]
   }

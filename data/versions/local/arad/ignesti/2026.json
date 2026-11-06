@@ -3,6 +3,51 @@
  "shard": "local/arad/ignesti/2026",
  "acts": [
   {
+   "slug": "hcl-arad--ignesti-22-2026",
+   "path": "local/arad/ignesti/2026/22",
+   "short": "HCL Ignești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 22/2026 Privind aprobarea Regulamentului de stabilire a procedurii de adoptare a taxelor speciale și domeniile în care se aplică HCL 22",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-22.pdf",
+     "sha256": "3c4f0223d2951213fe7582976418222eb90bfa124b61147b0679121e5a2c80fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-29-2026",
+   "path": "local/arad/ignesti/2026/29",
+   "short": "HCL Ignești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 29/2026 Privind înregistrarea Comunei Ignești județul Arad, în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul.ro” și stabilirea modului în care este suportat comisionul bancar HCL 29",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-29.pdf",
+     "sha256": "ca67f30104c216f720377723348bf90480b2439f1d94850d74cd01ad7b43428a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-30-2026",
+   "path": "local/arad/ignesti/2026/30",
+   "short": "HCL Ignești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 30/2026 Privind ajustarea tarifului pentru serviciul de delegare a gestiunii serviciului de eliminare,prin depozitare a deseurilor reziduale, a deseurilor stradale, a deseurilor de pamant si pietre provenite de pe caile publice, a reziduurilor rezultate de la instalatiile de tartare a deseurilor municipal, precum si a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabil",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-30.pdf",
+     "sha256": "568afb60b8aa7bfc0d67ca5c8073c233b27992f657d41d55e46923316d04654c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-56-2026",
    "path": "local/arad/ignesti/2026/56",
    "short": "HCL Ignești nr. 56/2026",

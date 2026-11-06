@@ -211,6 +211,51 @@
      "sha256": "c391073b6d0aa9fbb5e3e597e93b504ca3b08abfe75ac5e2723a8634e4af15a4"
     }
    ]
+  },
+  {
+   "slug": "hcl-arad--lipova-40-2026",
+   "path": "local/arad/lipova/2026/40",
+   "short": "HCL Lipova nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 40/2026 privind ajustarea tarifului pentru serviciul de delegare a gestiunii serviciului de eliminare, prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaț",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.40.pdf",
+     "sha256": "674cafa395ae4b88899bc6b9711d7e63a81d4bc7f350502654bf5e209992191f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-48-2026",
+   "path": "local/arad/lipova/2026/48",
+   "short": "HCL Lipova nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 48/2026 pentru aprobarea Regulamentului privind acordarea titlului de \"Cetățean de onoare al Orașului Lipova\", respectiv a \"Certificatului de Fiu/Fiică al/a Orașului Lipova\"",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.48.pdf",
+     "sha256": "0ca0e1a615f7b73eb5ceddefa92a6f844aee29bc981bcd83f67a48d0977825bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-78-2026",
+   "path": "local/arad/lipova/2026/78",
+   "short": "HCL Lipova nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 78/2026 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Orașului Lipova, serviciilor publice de interes local și a structurilor funcționale subordonate Consiliului local Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.78.pdf",
+     "sha256": "3ebe0d40b90f9630f4a078f3a4c557ead8a616b9beac4df210b1bf36fb27cfb3"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/pocola/2025",
+ "acts": [
+  {
+   "slug": "hcl-bihor--pocola-54-2025",
+   "path": "local/bihor/pocola/2025/54",
+   "short": "HCL Pocola nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 54/2025 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/237789",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/237789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-55-2025",
+   "path": "local/bihor/pocola/2025/55",
+   "short": "HCL Pocola nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 55/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/237790",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/237790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-56-2025",
+   "path": "local/bihor/pocola/2025/56",
+   "short": "HCL Pocola nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 56/2025 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/237791",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/237791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-57-2025",
+   "path": "local/bihor/pocola/2025/57",
+   "short": "HCL Pocola nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 57/2025",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/237792",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/237792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-58-2025",
+   "path": "local/bihor/pocola/2025/58",
+   "short": "HCL Pocola nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 58/2025 privind aprobarea Contractului de furnizare/prestare a serviciului de alimentare cu apă și de canalizare încheiat între „ SERVICIUL APĂ – CANAL Pocola” și utilizatorii serviciului",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/237793",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/237793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-59-2025",
+   "path": "local/bihor/pocola/2025/59",
+   "short": "HCL Pocola nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 59/2025 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/240840",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/240840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-60-2025",
+   "path": "local/bihor/pocola/2025/60",
+   "short": "HCL Pocola nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 60/2025 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/240841",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/240841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-62-2025",
+   "path": "local/bihor/pocola/2025/62",
+   "short": "HCL Pocola nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 62/2025 privind aprobarea rectificarii bugetului pe anul 2025",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/240843",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/240843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-63-2025",
+   "path": "local/bihor/pocola/2025/63",
+   "short": "HCL Pocola nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 63/2025 privind implementarea proiectului „Achiziție de utilaje în comuna Pocola, județul Bihor”",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/240844",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/240844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-64-2025",
+   "path": "local/bihor/pocola/2025/64",
+   "short": "HCL Pocola nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 64/2025 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/243168",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/243168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-65-2025",
+   "path": "local/bihor/pocola/2025/65",
+   "short": "HCL Pocola nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 65/2025 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/243169",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/243169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-68-2025",
+   "path": "local/bihor/pocola/2025/68",
+   "short": "HCL Pocola nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 68/2025 privind aprobarea taxelor și impozitelor locale pe anul 2026",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/243172",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/243172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-69-2025",
+   "path": "local/bihor/pocola/2025/69",
+   "short": "HCL Pocola nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 69/2025 privind aprobarea preţului şi tarifului pentru serviciile/activităţile de alimentare cu apă la nivelul comunei Pocola , județul Bihor",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/243173",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/243173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-70-2025",
+   "path": "local/bihor/pocola/2025/70",
+   "short": "HCL Pocola nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 70/2025 privind aprobarea reţelei școlare a unităţilor de învăţământ preuniversitar de stat și particular de pe raza unităţii administrativ teritoriale Pocola pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/243174",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/243174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-71-2025",
+   "path": "local/bihor/pocola/2025/71",
+   "short": "HCL Pocola nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 71/2025 privind modificarea HCL nr. 52 din 30.10.2025 privind acceptarea donației reprezentând teren în suprafață de 605 mp, cu nr cad 51712 înscris în coala CF 51712 Pocola",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/243175",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/243175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-73-2025",
+   "path": "local/bihor/pocola/2025/73",
+   "short": "HCL Pocola nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 73/2025 privind aprobarea rectificarii bugetului pe anul 2025",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/243177",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/243177",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

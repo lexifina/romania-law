@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-19-2018",
+   "path": "local/alba/ocna-mures/2018/19",
+   "short": "HCL Ocna Mureș nr. 19/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2018 privind aprobarea Regulamentului de stabilire a criteriilor în faza de identificare a clădirilor neîngrijite situate în intravilanul orașului Ocna Mureș | 25.04.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/019.pdf",
+     "sha256": "4b7f7cce85ed4098770674f6f285ecc8d60b8fbf5d4aeafd414229514393da47"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-2-2018",
    "path": "local/alba/ocna-mures/2018/2",
    "short": "HCL Ocna Mureș nr. 2/2018",
@@ -78,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-28-2018",
+   "path": "local/alba/ocna-mures/2018/28",
+   "short": "HCL Ocna Mureș nr. 28/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 28/2018 privind completarea Regulamentului de organizare și executare a serviciului public de transport persoane în regim taxi în orașul Ocna Mureș, aprobat prin HCLOM nr. 103/2008 | 25.04.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/028.pdf",
+     "sha256": "a03ebd035a5f194ce93572e5d1d2d4d4e4968f7772f9ec4c552808f7ef2b15bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-29-2018",
+   "path": "local/alba/ocna-mures/2018/29",
+   "short": "HCL Ocna Mureș nr. 29/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 29/2018 Privind aprobarea Programului pentru acordarea finanțărilor nerambursabile aferent anului 2018 care se vor acorda în baza Regulamentului privind regimul finanțărilor nerambursabile de la bugetul orașului Ocna Mureș, alocate pentru activități nonprofit de interes local, aprobat prin HCLOM nr. 226/19.12.2013, actualizată | 25.04.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/029.pdf",
+     "sha256": "270faf2cea0a21036abe1c5d2b0bd1d4f133f2f8205431a0223801d1f889af0c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-3-2018",
    "path": "local/alba/ocna-mures/2018/3",
    "short": "HCL Ocna Mureș nr. 3/2018",
@@ -89,6 +134,21 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/003.pdf",
      "sha256": "85a06a4eab5e991cdda6a72dd65993ee80c4c08cfc914c9c6edbd8fc5061cb0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-30-2018",
+   "path": "local/alba/ocna-mures/2018/30",
+   "short": "HCL Ocna Mureș nr. 30/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 30/2018 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public Administrația Pieței Orașului Ocna Mureș | 25.04.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/030.pdf",
+     "sha256": "aecb1f8dd6107a5ddf1c91557194892fae94a5adc16bf667a4e3ceb426cb58d3"
     }
    ]
   },
@@ -138,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-67-2018",
+   "path": "local/alba/ocna-mures/2018/67",
+   "short": "HCL Ocna Mureș nr. 67/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 67/2018 privind prelungirea termenului de valabilitate a documentațiilor de urbanism PUG, PAT și RLU | 26.04.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/067.pdf",
+     "sha256": "6819ac7fa74a15d3d1b06a5161e1307b8626cf93e720f69a4067857ee627c01b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-7-2018",
    "path": "local/alba/ocna-mures/2018/7",
    "short": "HCL Ocna Mureș nr. 7/2018",
@@ -149,6 +224,21 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/007.pdf",
      "sha256": "7d3901ae80e47898026d3e43d9af5921f14cc6f56dec610fa819e7ce35c14d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-73-2018",
+   "path": "local/alba/ocna-mures/2018/73",
+   "short": "HCL Ocna Mureș nr. 73/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 73/2018 privind încheierea contractului de prestare de servicii de salubrizare și modificarea cuantumului taxei speciale de salubrizare | 26.04.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/073.pdf",
+     "sha256": "c8c3235684e091bdc44b852e2c05b8c66ab9077e3136b0ea92e2509cf7216bed"
     }
    ]
   },

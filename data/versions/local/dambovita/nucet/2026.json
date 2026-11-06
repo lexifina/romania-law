@@ -16,6 +16,21 @@
      "sha256": "4a4da1d90a1a688907611a4c2de06fe2f72331d9bfe90beea248bc6470cbcef9"
     }
    ]
+  },
+  {
+   "slug": "hcl-dambovita--nucet-7-2026",
+   "path": "local/dambovita/nucet/2026/7",
+   "short": "HCL Nucet nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucet nr. 7/2026 privind modificare HCL nr. 41 din 23.12.2025 privind Indexarea la nivelul comunei Nucet a impozitelor și taxelor locale",
+   "url": "https://www.comunanucet.ro/monitorul-oficial-local/hotararile-autoritatii-deliberativehcl/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.comunanucet.ro/wp-content/uploads/2026/02/HCL-7-modifica-re-HCL-nr-41.pdf",
+     "sha256": "69c873b92a4956344420e681c6e1f050b12e1121462d434559beb2bafc18390a"
+    }
+   ]
   }
  ]
 }

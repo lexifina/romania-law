@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/bihor/dobresti/2025",
+"acts": [
+{
+"slug": "hcl-bihor--dobresti-90-2025",
+"path": "local/bihor/dobresti/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 90/2025 privind aprobarea documentatiei tehnico-economica pentru investitia „CONSTRUIRE CAPELĂ MORTUARĂ ÎN LOCALITATEA TOPA DE SUS, COMUNA DOBREȘTI, JUDEȚUL BIHOR”",
+"short": "HCL Dobrești nr. 90/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/239042",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-91-2025",
+"path": "local/bihor/dobresti/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 91/2025 privind aprobarea documentației tehnico-economica pentru investitia implementării unui sistem de alimentare centralizată cu energie termică (SACET) realizat utilizând cogenerarea de înaltă eficiență din biomasă în comuna Dobrești, jud. Bihor",
+"short": "HCL Dobrești nr. 91/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/239043",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-93-2025",
+"path": "local/bihor/dobresti/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 93/2025 privind actualizarea cuantumului redevențelor aferente unor contracte de concesiune pentru spații cu destinație cabinete medicale și centru de permanență, proprietatea privată a comunei Dobrești",
+"short": "HCL Dobrești nr. 93/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/239045",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-96-2025",
+"path": "local/bihor/dobresti/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 96/2025 privind rectificarea bugetului local al Comunei Dobrești pe anul 2025",
+"short": "HCL Dobrești nr. 96/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/240354",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-97-2025",
+"path": "local/bihor/dobresti/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 97/2025 privind modificarea Organigramei, a Statului de funcții, a Statului de personal și a numărului de posturi de la nivelul comunei Dobrești, județul Bihor",
+"short": "HCL Dobrești nr. 97/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/240355",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-98-2025",
+"path": "local/bihor/dobresti/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 98/2025 privind aprobarea reţelei şcolare ce va funcţiona la nivelul unităţii noastre administrativ teritoriale în anul școlar 2026 -2027",
+"short": "HCL Dobrești nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/240356",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-99-2025",
+"path": "local/bihor/dobresti/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 99/2025 privind aprobarea actualizarii indicatorilor tehnico-economici și de cofinanțare pentru obiectivul \"Modernizare 15 km drumuri comunale și străzi în comuna Dobrești\", ca efect al prevederilor Ordonanței de urgență 47/2022",
+"short": "HCL Dobrești nr. 99/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/240357",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-100-2025",
+"path": "local/bihor/dobresti/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 100/2025 privind alegerea președintelui de ședință",
+"short": "HCL Dobrești nr. 100/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/244957",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-103-2025",
+"path": "local/bihor/dobresti/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 103/2025 Privind validarea Dispoziției primarului comunei Dobrești nr. 187 din 22.12.2025 privind rectificarea bugetului local al comunei Dobrești pe anul 2025, precum și validarea Dispoziției nr. 190 din 29 decembrie 2025 privind rectificarea bugetului local al comunei Dobrești pe anul 2025",
+"short": "HCL Dobrești nr. 103/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/244960",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-105-2025",
+"path": "local/bihor/dobresti/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 105/2025 privind aprobarea Consiliului de Administrație provizoriu al regiei autonome Ocolul Silvic Codrii Cămării R.A",
+"short": "HCL Dobrești nr. 105/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/244962",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-106-2025",
+"path": "local/bihor/dobresti/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 106/2025 privind aprobarea procedurii de acordare a unor înlesniri de plata constând în scutiri de majorări de întârziere în procent de 100% aferente obligatiilor fiscale principale cuvenite bugetului local, către personae fizice si juridice care au calitate de contribuabili la bugetul local al comunei Dobrești, până în data de 30.12.2025",
+"short": "HCL Dobrești nr. 106/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/244963",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-109-2025",
+"path": "local/bihor/dobresti/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 109/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Dobrești nr. 109/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/245095",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

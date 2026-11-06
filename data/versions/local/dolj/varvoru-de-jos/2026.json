@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/varvoru-de-jos/2026",
+ "acts": [
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-50-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/50",
+   "short": "HCL Vârvoru de Jos nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 50/2026 privind aprobarea Regulamentului de o",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/10/Hotararea-Consiliului-Local-al-Comunei-Varvoru-de-Jos-judetul-Dolj-nr.-50-din-29.10.2026-privind-aprobarea-Regulamentului-de-o.pdf",
+     "sha256": "90c48200bef9bd37933f9205642c80d6598089826b75139cff4fa20e8abae575"
+    }
+   ]
+  }
+ ]
+}

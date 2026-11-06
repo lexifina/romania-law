@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2025",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-17-2025",
+   "path": "local/covasna/covasna/2025/17",
+   "short": "HCL Covasna nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 17/2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_17.2025.pdf",
+     "sha256": "b5f1c467c3f1e7588ffa1dd25154becc8171c5856fc11945e7306c845d5e7e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-18-2025",
+   "path": "local/covasna/covasna/2025/18",
+   "short": "HCL Covasna nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 18/2025",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_18.2025.pdf",
+     "sha256": "098336bc4da5c554d37a792d4d17c2ab5e35f10d579b9ff1163dbeffd14aac70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-19-2025",
+   "path": "local/covasna/covasna/2025/19",
+   "short": "HCL Covasna nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 19/2025 cu privire la modificarea tarifelor la serviciul public de salubritate „Colectarea și transportul deșeurilor municipale” pe raza orașului Covasna",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2025/HCL_19.2025.pdf",
+     "sha256": "5d4a1d367f1d9dcf6143cd1d0c189687dbf502d03f5dde9d004042d98bd90b0d"
+    }
+   ]
+  }
+ ]
+}

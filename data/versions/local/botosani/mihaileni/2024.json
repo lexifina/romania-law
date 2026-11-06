@@ -61,6 +61,21 @@
      "sha256": "22cec087e1e993ae561b13c1e1db3ec91656f739e9974ab577d5e9c9f5b6b2ac"
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--mihaileni-4-2024",
+   "path": "local/botosani/mihaileni/2024/4",
+   "short": "HCL Mihăileni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 4/2024 privind completarea Hotărârii Consiliului local nr. 49 din 13.12.2023, prin revizuirea Anexei 3, Anexa 2.2.c la norme meteorologice – parte integrantă din hotărâre Nr: 04 (Adaugat la data 12.02.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv95f_Xhm0nfMlqDMNIdZ1GUcOBkJZOUnLQdEViRMSQ6nPw6RfVZraROrCFI8jTZ8jCfjJgugk9jto277A4RCpPtFLGVtqpvE_Z5upn-q-Ya9DZJS6aNAO6egHx8vMUimozoUHY1zcDdp8U2z6cxLGBfswcQxlxprtNOZqxb3Nj7U3f5_V5s",
+     "sha256": "8a093ccfd3a5acec66d780e86ebe3b8e1b5a5ec29b004f01899995f417921635"
+    }
+   ]
   }
  ]
 }

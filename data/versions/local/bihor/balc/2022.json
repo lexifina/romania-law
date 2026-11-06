@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/balc/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--balc-125-2022",
+   "path": "local/bihor/balc/2022/125",
+   "short": "HCL Balc nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 125/2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/106393",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/106393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-130-2022",
+   "path": "local/bihor/balc/2022/130",
+   "short": "HCL Balc nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 130/2022 privind aprobarea impozitelor și taxelor locale pe anul 2023",
+   "url": "https://emol.ro/balc-bh/registru-hcl/106399",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/106399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-131-2022",
+   "path": "local/bihor/balc/2022/131",
+   "short": "HCL Balc nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 131/2022 privind stabilirea impozitelor pentru autovehiculele de transport marfă cu masă totală autorizată egașă sau mai mare de 12 tone pentru anul 2023",
+   "url": "https://emol.ro/balc-bh/registru-hcl/106400",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/106400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-134-2022",
+   "path": "local/bihor/balc/2022/134",
+   "short": "HCL Balc nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 134/2022 privind aprobarea obiectivului de investiții ''Reabilitare și eficientizare cămin cultural din localitatea Almașu Mare, Comuna Balc, județul Bihor''",
+   "url": "https://emol.ro/balc-bh/registru-hcl/106403",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/106403",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

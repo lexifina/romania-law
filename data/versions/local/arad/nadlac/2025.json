@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-107-2025",
+   "path": "local/arad/nadlac/2025/107",
+   "short": "HCL Nădlac nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2025 privind aprobarea Regulamentului propriu de organizare și funcţionare pentru activitățile de colectare și transport al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h107.pdf",
+     "sha256": "964775391cc8ac6c11abc2dd3b59e636f050584aca2a374464a76338f5d0cefa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-11-2025",
    "path": "local/arad/nadlac/2025/11",
    "short": "HCL Nădlac nr. 11/2025",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-122-2025",
+   "path": "local/arad/nadlac/2025/122",
+   "short": "HCL Nădlac nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2025 privind aprobarea tarifului pentru zona 1 mediu urban pentru activitatea de sortare a deşeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la de",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 9,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h122.pdf",
+     "sha256": "8826bd7d3e7b5d88b3d4bc57b50bc556f3cdc6cc8bd98681d168ab48387672fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-14-2025",
    "path": "local/arad/nadlac/2025/14",
    "short": "HCL Nădlac nr. 14/2025",
@@ -74,6 +104,21 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h15.pdf",
      "sha256": "2398e99f4553d7f5115acf3ae355b50da44774d5fd758be7ebcb3683c11e0337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-155-2025",
+   "path": "local/arad/nadlac/2025/155",
+   "short": "HCL Nădlac nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 155/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h155.pdf",
+     "sha256": "f38675fcf28998229e96de810965f9bd9df26c2ea499ccc55b6759f20c01cb9e"
     }
    ]
   },
@@ -768,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-60-2025",
+   "path": "local/arad/nadlac/2025/60",
+   "short": "HCL Nădlac nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2025 privind reorganizarea comisiei pentru amenajarea teritoriului şi urbanism, protecţie mediu şi turism, administraţie publică locală, pe lângă Consiliul Local al orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h60.pdf",
+     "sha256": "92774e633288e97cae464a30e563b488ef42cd3e63cf8062df6b294e47af0dc1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-7-2025",
    "path": "local/arad/nadlac/2025/7",
    "short": "HCL Nădlac nr. 7/2025",
@@ -779,6 +839,21 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h7.pdf",
      "sha256": "6bc756a6e3f9244a8b98bf332305a2bef27d6741626d16c6e672502770e4267a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-75-2025",
+   "path": "local/arad/nadlac/2025/75",
+   "short": "HCL Nădlac nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h75.pdf",
+     "sha256": "b4ab8ed078acd8bcbf1db30697d62cd0da07d525ed3b17cebe0074db744142ed"
     }
    ]
   },

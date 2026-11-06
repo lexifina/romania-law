@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/semlac/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--semlac-17-2025",
+   "path": "local/arad/semlac/2025/17",
+   "short": "HCL Semlac nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Semlac nr. 17/2025",
+   "url": "https://emol.ro/semlac-ar/registru-hcl/230434",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/semlac-ar/registru-hcl/230434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--semlac-18-2025",
+   "path": "local/arad/semlac/2025/18",
+   "short": "HCL Semlac nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Semlac nr. 18/2025",
+   "url": "https://emol.ro/semlac-ar/registru-hcl/230435",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/semlac-ar/registru-hcl/230435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--semlac-19-2025",
+   "path": "local/arad/semlac/2025/19",
+   "short": "HCL Semlac nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Semlac nr. 19/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Semlac în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/semlac-ar/registru-hcl/230436",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/semlac-ar/registru-hcl/230436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--semlac-3-2025",
+   "path": "local/arad/semlac/2025/3",
+   "short": "HCL Semlac nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Semlac nr. 3/2025 privind aprobarea acoperirii definitive a deficitului sectiunii de dezvoltare pe anul 2024 din excedentul bugetar al anilor precedenți",
+   "url": "https://emol.ro/semlac-ar/registru-hcl/193255",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/semlac-ar/registru-hcl/193255",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

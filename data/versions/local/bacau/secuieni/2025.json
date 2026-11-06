@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/secuieni/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--secuieni-28-2025",
+   "path": "local/bacau/secuieni/2025/28",
+   "short": "HCL Secuieni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 28/2025 privind schimbarea denumirii străzii \"drumul Bisericii\" în strada \"Sfântul Visarion Toia\" din comuna Secuieni, sat Secuieni, județul Bacău; privind schimbarea denumirii unității de învățământ \"Grădinița cu program normal\" în \"Grădinița cu program normal Sfântul Visarion Toia\" din comuna Secuieni, sat Secuieni, județul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/228912",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/228912",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

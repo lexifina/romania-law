@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2024",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-14-2024",
+   "path": "local/brasov/rupea/2024/14",
+   "short": "HCL Rupea nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 14/2024",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 6,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/14-hotarare-nr.-14-tarife-salubrizare.pdf",
+     "sha256": "d6f95c93e63bc4701852bf86af1d3702a80bcaba637ce74c2324c025e3340692"
+    }
+   ]
+  }
+ ]
+}

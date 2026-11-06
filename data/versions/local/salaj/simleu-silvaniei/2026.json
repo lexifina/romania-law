@@ -16,6 +16,36 @@
      "sha256": "883bb96030f7739cb97bbc9068de2d452ef295cd6ab2afb612397c25fddb1b09"
     }
    ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-86-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/86",
+   "short": "HCL Șimleu Silvaniei nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 86/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-86-din-17.08.2026-1.pdf",
+     "sha256": "7a189e1f29e19b92de390c3b480f06fb1a368825c5693c144257da49dbc1af80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-87-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/87",
+   "short": "HCL Șimleu Silvaniei nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 87/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-87-din-17.08.2026-1.pdf",
+     "sha256": "4838daf072ea0e0775dea11a24991d365eca18791240223044f64a199416b26e"
+    }
+   ]
   }
  ]
 }

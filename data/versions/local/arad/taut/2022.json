@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/taut/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--taut-74-2022",
+   "path": "local/arad/taut/2022/74",
+   "short": "HCL Tauț nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 74/2022 privind aprobarea impozitelor si taxelor locale pentru anul 2023",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.74-din-23.12.2022-privind-aprobarea-impozitelor-si-taxelor-locale-pentru-anul-2023.pdf",
+     "sha256": "1ebac694b05dca4c933bca57718756fb8f403153d2b846f5df6f09e4b803ed6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-75-2022",
+   "path": "local/arad/taut/2022/75",
+   "short": "HCL Tauț nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 75/2022 privind aprobarea taxei pentru utilizatorii casnici si tarifu pentru utilizatorii non-casnici",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.75-din-23.12.2022-privind-aprobarea-taxei-pentru-utilizatorii-casnici-si-tarifu-pentru-utilizatorii-non-casnici.pdf",
+     "sha256": "84c112242315438521654c2dc4e9df3c33d453442ccd529ad298ee79b27be2a9"
+    }
+   ]
+  }
+ ]
+}

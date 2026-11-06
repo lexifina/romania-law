@@ -1233,12 +1233,12 @@
   {
    "shard": "cnsc/2026",
    "kind": "cnsc",
-   "count": 254,
+   "count": 447,
    "acts": "data/acts/cnsc/2026.json",
    "list": "data/acts/cnsc/2026.md",
    "versions": "data/versions/cnsc/2026.json",
    "laws": "data/laws/cnsc/2026.csv",
-   "laws_count": 254,
+   "laws_count": 447,
    "sources": "data/sources/cnsc/2026.csv"
   },
   {
@@ -4212,6 +4212,17 @@
    "sources": "data/sources/local/alba/bistra/2021.csv"
   },
   {
+   "shard": "local/alba/blandiana/2023",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/alba/blandiana/2023.json",
+   "list": "data/acts/local/alba/blandiana/2023.md",
+   "versions": "data/versions/local/alba/blandiana/2023.json",
+   "laws": "data/laws/local/alba/blandiana/2023.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/alba/blandiana/2023.csv"
+  },
+  {
    "shard": "local/alba/blandiana/2025",
    "kind": "local",
    "count": 3,
@@ -4232,6 +4243,17 @@
    "laws": "data/laws/local/alba/blandiana/2026.csv",
    "laws_count": 2,
    "sources": "data/sources/local/alba/blandiana/2026.csv"
+  },
+  {
+   "shard": "local/alba/bucerdea-granoasa/2018",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/alba/bucerdea-granoasa/2018.json",
+   "list": "data/acts/local/alba/bucerdea-granoasa/2018.md",
+   "versions": "data/versions/local/alba/bucerdea-granoasa/2018.json",
+   "laws": "data/laws/local/alba/bucerdea-granoasa/2018.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/alba/bucerdea-granoasa/2018.csv"
   },
   {
    "shard": "local/alba/bucerdea-granoasa/2022",
@@ -4267,6 +4289,17 @@
    "sources": "data/sources/local/alba/ciuruleasa/2024.csv"
   },
   {
+   "shard": "local/alba/cugir/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/alba/cugir/2026.json",
+   "list": "data/acts/local/alba/cugir/2026.md",
+   "versions": "data/versions/local/alba/cugir/2026.json",
+   "laws": "data/laws/local/alba/cugir/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/alba/cugir/2026.csv"
+  },
+  {
    "shard": "local/alba/farau/2022",
    "kind": "local",
    "count": 1,
@@ -4289,14 +4322,25 @@
    "sources": "data/sources/local/alba/garbova/2026.csv"
   },
   {
+   "shard": "local/alba/mihalt/2024",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/alba/mihalt/2024.json",
+   "list": "data/acts/local/alba/mihalt/2024.md",
+   "versions": "data/versions/local/alba/mihalt/2024.json",
+   "laws": "data/laws/local/alba/mihalt/2024.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/alba/mihalt/2024.csv"
+  },
+  {
    "shard": "local/alba/mihalt/2025",
    "kind": "local",
-   "count": 23,
+   "count": 25,
    "acts": "data/acts/local/alba/mihalt/2025.json",
    "list": "data/acts/local/alba/mihalt/2025.md",
    "versions": "data/versions/local/alba/mihalt/2025.json",
    "laws": "data/laws/local/alba/mihalt/2025.csv",
-   "laws_count": 23,
+   "laws_count": 25,
    "sources": "data/sources/local/alba/mihalt/2025.csv"
   },
   {
@@ -4313,12 +4357,12 @@
   {
    "shard": "local/alba/ocna-mures/2018",
    "kind": "local",
-   "count": 12,
+   "count": 18,
    "acts": "data/acts/local/alba/ocna-mures/2018.json",
    "list": "data/acts/local/alba/ocna-mures/2018.md",
    "versions": "data/versions/local/alba/ocna-mures/2018.json",
    "laws": "data/laws/local/alba/ocna-mures/2018.csv",
-   "laws_count": 12,
+   "laws_count": 18,
    "sources": "data/sources/local/alba/ocna-mures/2018.csv"
   },
   {
@@ -4432,6 +4476,94 @@
    "sources": "data/sources/local/alba/sebes/2026.csv"
   },
   {
+   "shard": "local/arad/apateu/2021",
+   "kind": "local",
+   "count": 89,
+   "acts": "data/acts/local/arad/apateu/2021.json",
+   "list": "data/acts/local/arad/apateu/2021.md",
+   "versions": "data/versions/local/arad/apateu/2021.json",
+   "laws": "data/laws/local/arad/apateu/2021.csv",
+   "laws_count": 89,
+   "sources": "data/sources/local/arad/apateu/2021.csv"
+  },
+  {
+   "shard": "local/arad/apateu/2023",
+   "kind": "local",
+   "count": 104,
+   "acts": "data/acts/local/arad/apateu/2023.json",
+   "list": "data/acts/local/arad/apateu/2023.md",
+   "versions": "data/versions/local/arad/apateu/2023.json",
+   "laws": "data/laws/local/arad/apateu/2023.csv",
+   "laws_count": 104,
+   "sources": "data/sources/local/arad/apateu/2023.csv"
+  },
+  {
+   "shard": "local/arad/apateu/2024",
+   "kind": "local",
+   "count": 98,
+   "acts": "data/acts/local/arad/apateu/2024.json",
+   "list": "data/acts/local/arad/apateu/2024.md",
+   "versions": "data/versions/local/arad/apateu/2024.json",
+   "laws": "data/laws/local/arad/apateu/2024.csv",
+   "laws_count": 98,
+   "sources": "data/sources/local/arad/apateu/2024.csv"
+  },
+  {
+   "shard": "local/arad/apateu/2025",
+   "kind": "local",
+   "count": 56,
+   "acts": "data/acts/local/arad/apateu/2025.json",
+   "list": "data/acts/local/arad/apateu/2025.md",
+   "versions": "data/versions/local/arad/apateu/2025.json",
+   "laws": "data/laws/local/arad/apateu/2025.csv",
+   "laws_count": 56,
+   "sources": "data/sources/local/arad/apateu/2025.csv"
+  },
+  {
+   "shard": "local/arad/apateu/2026",
+   "kind": "local",
+   "count": 41,
+   "acts": "data/acts/local/arad/apateu/2026.json",
+   "list": "data/acts/local/arad/apateu/2026.md",
+   "versions": "data/versions/local/arad/apateu/2026.json",
+   "laws": "data/laws/local/arad/apateu/2026.csv",
+   "laws_count": 41,
+   "sources": "data/sources/local/arad/apateu/2026.csv"
+  },
+  {
+   "shard": "local/arad/barzava/2024",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/arad/barzava/2024.json",
+   "list": "data/acts/local/arad/barzava/2024.md",
+   "versions": "data/versions/local/arad/barzava/2024.json",
+   "laws": "data/laws/local/arad/barzava/2024.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/arad/barzava/2024.csv"
+  },
+  {
+   "shard": "local/arad/barzava/2025",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/arad/barzava/2025.json",
+   "list": "data/acts/local/arad/barzava/2025.md",
+   "versions": "data/versions/local/arad/barzava/2025.json",
+   "laws": "data/laws/local/arad/barzava/2025.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/arad/barzava/2025.csv"
+  },
+  {
+   "shard": "local/arad/barzava/2026",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/arad/barzava/2026.json",
+   "list": "data/acts/local/arad/barzava/2026.md",
+   "versions": "data/versions/local/arad/barzava/2026.json",
+   "laws": "data/laws/local/arad/barzava/2026.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/arad/barzava/2026.csv"
+  },
+  {
    "shard": "local/arad/bata/2020",
    "kind": "local",
    "count": 1,
@@ -4441,6 +4573,17 @@
    "laws": "data/laws/local/arad/bata/2020.csv",
    "laws_count": 1,
    "sources": "data/sources/local/arad/bata/2020.csv"
+  },
+  {
+   "shard": "local/arad/carand/2026",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/arad/carand/2026.json",
+   "list": "data/acts/local/arad/carand/2026.md",
+   "versions": "data/versions/local/arad/carand/2026.json",
+   "laws": "data/laws/local/arad/carand/2026.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/arad/carand/2026.csv"
   },
   {
    "shard": "local/arad/cermei/2026",
@@ -4520,6 +4663,61 @@
    "sources": "data/sources/local/arad/chisindia/2026.csv"
   },
   {
+   "shard": "local/arad/conop/2022",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/arad/conop/2022.json",
+   "list": "data/acts/local/arad/conop/2022.md",
+   "versions": "data/versions/local/arad/conop/2022.json",
+   "laws": "data/laws/local/arad/conop/2022.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/arad/conop/2022.csv"
+  },
+  {
+   "shard": "local/arad/conop/2023",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/arad/conop/2023.json",
+   "list": "data/acts/local/arad/conop/2023.md",
+   "versions": "data/versions/local/arad/conop/2023.json",
+   "laws": "data/laws/local/arad/conop/2023.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/arad/conop/2023.csv"
+  },
+  {
+   "shard": "local/arad/conop/2024",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/arad/conop/2024.json",
+   "list": "data/acts/local/arad/conop/2024.md",
+   "versions": "data/versions/local/arad/conop/2024.json",
+   "laws": "data/laws/local/arad/conop/2024.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/arad/conop/2024.csv"
+  },
+  {
+   "shard": "local/arad/conop/2025",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/arad/conop/2025.json",
+   "list": "data/acts/local/arad/conop/2025.md",
+   "versions": "data/versions/local/arad/conop/2025.json",
+   "laws": "data/laws/local/arad/conop/2025.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/arad/conop/2025.csv"
+  },
+  {
+   "shard": "local/arad/conop/2026",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/arad/conop/2026.json",
+   "list": "data/acts/local/arad/conop/2026.md",
+   "versions": "data/versions/local/arad/conop/2026.json",
+   "laws": "data/laws/local/arad/conop/2026.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/arad/conop/2026.csv"
+  },
+  {
    "shard": "local/arad/craiva/2021",
    "kind": "local",
    "count": 56,
@@ -4575,6 +4773,61 @@
    "sources": "data/sources/local/arad/curtici/2025.csv"
   },
   {
+   "shard": "local/arad/dezna/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arad/dezna/2026.json",
+   "list": "data/acts/local/arad/dezna/2026.md",
+   "versions": "data/versions/local/arad/dezna/2026.json",
+   "laws": "data/laws/local/arad/dezna/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arad/dezna/2026.csv"
+  },
+  {
+   "shard": "local/arad/dieci/2023",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/arad/dieci/2023.json",
+   "list": "data/acts/local/arad/dieci/2023.md",
+   "versions": "data/versions/local/arad/dieci/2023.json",
+   "laws": "data/laws/local/arad/dieci/2023.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/arad/dieci/2023.csv"
+  },
+  {
+   "shard": "local/arad/dieci/2024",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/arad/dieci/2024.json",
+   "list": "data/acts/local/arad/dieci/2024.md",
+   "versions": "data/versions/local/arad/dieci/2024.json",
+   "laws": "data/laws/local/arad/dieci/2024.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/arad/dieci/2024.csv"
+  },
+  {
+   "shard": "local/arad/dieci/2025",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/arad/dieci/2025.json",
+   "list": "data/acts/local/arad/dieci/2025.md",
+   "versions": "data/versions/local/arad/dieci/2025.json",
+   "laws": "data/laws/local/arad/dieci/2025.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/arad/dieci/2025.csv"
+  },
+  {
+   "shard": "local/arad/dieci/2026",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/arad/dieci/2026.json",
+   "list": "data/acts/local/arad/dieci/2026.md",
+   "versions": "data/versions/local/arad/dieci/2026.json",
+   "laws": "data/laws/local/arad/dieci/2026.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/arad/dieci/2026.csv"
+  },
+  {
    "shard": "local/arad/fantanele/2017",
    "kind": "local",
    "count": 1,
@@ -4619,6 +4872,182 @@
    "sources": "data/sources/local/arad/felnac/2024.csv"
   },
   {
+   "shard": "local/arad/gurahont/2020",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/arad/gurahont/2020.json",
+   "list": "data/acts/local/arad/gurahont/2020.md",
+   "versions": "data/versions/local/arad/gurahont/2020.json",
+   "laws": "data/laws/local/arad/gurahont/2020.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/arad/gurahont/2020.csv"
+  },
+  {
+   "shard": "local/arad/gurahont/2021",
+   "kind": "local",
+   "count": 11,
+   "acts": "data/acts/local/arad/gurahont/2021.json",
+   "list": "data/acts/local/arad/gurahont/2021.md",
+   "versions": "data/versions/local/arad/gurahont/2021.json",
+   "laws": "data/laws/local/arad/gurahont/2021.csv",
+   "laws_count": 11,
+   "sources": "data/sources/local/arad/gurahont/2021.csv"
+  },
+  {
+   "shard": "local/arad/gurahont/2022",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/arad/gurahont/2022.json",
+   "list": "data/acts/local/arad/gurahont/2022.md",
+   "versions": "data/versions/local/arad/gurahont/2022.json",
+   "laws": "data/laws/local/arad/gurahont/2022.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/arad/gurahont/2022.csv"
+  },
+  {
+   "shard": "local/arad/gurahont/2023",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/arad/gurahont/2023.json",
+   "list": "data/acts/local/arad/gurahont/2023.md",
+   "versions": "data/versions/local/arad/gurahont/2023.json",
+   "laws": "data/laws/local/arad/gurahont/2023.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/arad/gurahont/2023.csv"
+  },
+  {
+   "shard": "local/arad/gurahont/2024",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arad/gurahont/2024.json",
+   "list": "data/acts/local/arad/gurahont/2024.md",
+   "versions": "data/versions/local/arad/gurahont/2024.json",
+   "laws": "data/laws/local/arad/gurahont/2024.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arad/gurahont/2024.csv"
+  },
+  {
+   "shard": "local/arad/gurahont/2025",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arad/gurahont/2025.json",
+   "list": "data/acts/local/arad/gurahont/2025.md",
+   "versions": "data/versions/local/arad/gurahont/2025.json",
+   "laws": "data/laws/local/arad/gurahont/2025.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arad/gurahont/2025.csv"
+  },
+  {
+   "shard": "local/arad/halmagel/2023",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arad/halmagel/2023.json",
+   "list": "data/acts/local/arad/halmagel/2023.md",
+   "versions": "data/versions/local/arad/halmagel/2023.json",
+   "laws": "data/laws/local/arad/halmagel/2023.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arad/halmagel/2023.csv"
+  },
+  {
+   "shard": "local/arad/halmagel/2024",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/arad/halmagel/2024.json",
+   "list": "data/acts/local/arad/halmagel/2024.md",
+   "versions": "data/versions/local/arad/halmagel/2024.json",
+   "laws": "data/laws/local/arad/halmagel/2024.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/arad/halmagel/2024.csv"
+  },
+  {
+   "shard": "local/arad/halmagel/2025",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/arad/halmagel/2025.json",
+   "list": "data/acts/local/arad/halmagel/2025.md",
+   "versions": "data/versions/local/arad/halmagel/2025.json",
+   "laws": "data/laws/local/arad/halmagel/2025.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/arad/halmagel/2025.csv"
+  },
+  {
+   "shard": "local/arad/halmagel/2026",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/arad/halmagel/2026.json",
+   "list": "data/acts/local/arad/halmagel/2026.md",
+   "versions": "data/versions/local/arad/halmagel/2026.json",
+   "laws": "data/laws/local/arad/halmagel/2026.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/arad/halmagel/2026.csv"
+  },
+  {
+   "shard": "local/arad/halmagiu/2020",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/arad/halmagiu/2020.json",
+   "list": "data/acts/local/arad/halmagiu/2020.md",
+   "versions": "data/versions/local/arad/halmagiu/2020.json",
+   "laws": "data/laws/local/arad/halmagiu/2020.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/arad/halmagiu/2020.csv"
+  },
+  {
+   "shard": "local/arad/halmagiu/2022",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/arad/halmagiu/2022.json",
+   "list": "data/acts/local/arad/halmagiu/2022.md",
+   "versions": "data/versions/local/arad/halmagiu/2022.json",
+   "laws": "data/laws/local/arad/halmagiu/2022.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/arad/halmagiu/2022.csv"
+  },
+  {
+   "shard": "local/arad/halmagiu/2023",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/arad/halmagiu/2023.json",
+   "list": "data/acts/local/arad/halmagiu/2023.md",
+   "versions": "data/versions/local/arad/halmagiu/2023.json",
+   "laws": "data/laws/local/arad/halmagiu/2023.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/arad/halmagiu/2023.csv"
+  },
+  {
+   "shard": "local/arad/halmagiu/2024",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/arad/halmagiu/2024.json",
+   "list": "data/acts/local/arad/halmagiu/2024.md",
+   "versions": "data/versions/local/arad/halmagiu/2024.json",
+   "laws": "data/laws/local/arad/halmagiu/2024.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/arad/halmagiu/2024.csv"
+  },
+  {
+   "shard": "local/arad/halmagiu/2025",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/arad/halmagiu/2025.json",
+   "list": "data/acts/local/arad/halmagiu/2025.md",
+   "versions": "data/versions/local/arad/halmagiu/2025.json",
+   "laws": "data/laws/local/arad/halmagiu/2025.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/arad/halmagiu/2025.csv"
+  },
+  {
+   "shard": "local/arad/halmagiu/2026",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/arad/halmagiu/2026.json",
+   "list": "data/acts/local/arad/halmagiu/2026.md",
+   "versions": "data/versions/local/arad/halmagiu/2026.json",
+   "laws": "data/laws/local/arad/halmagiu/2026.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/arad/halmagiu/2026.csv"
+  },
+  {
    "shard": "local/arad/ignesti/2020",
    "kind": "local",
    "count": 1,
@@ -4630,14 +5059,25 @@
    "sources": "data/sources/local/arad/ignesti/2020.csv"
   },
   {
+   "shard": "local/arad/ignesti/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/ignesti/2024.json",
+   "list": "data/acts/local/arad/ignesti/2024.md",
+   "versions": "data/versions/local/arad/ignesti/2024.json",
+   "laws": "data/laws/local/arad/ignesti/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/ignesti/2024.csv"
+  },
+  {
    "shard": "local/arad/ignesti/2026",
    "kind": "local",
-   "count": 3,
+   "count": 6,
    "acts": "data/acts/local/arad/ignesti/2026.json",
    "list": "data/acts/local/arad/ignesti/2026.md",
    "versions": "data/versions/local/arad/ignesti/2026.json",
    "laws": "data/laws/local/arad/ignesti/2026.csv",
-   "laws_count": 3,
+   "laws_count": 6,
    "sources": "data/sources/local/arad/ignesti/2026.csv"
   },
   {
@@ -4654,23 +5094,78 @@
   {
    "shard": "local/arad/lipova/2026",
    "kind": "local",
-   "count": 14,
+   "count": 17,
    "acts": "data/acts/local/arad/lipova/2026.json",
    "list": "data/acts/local/arad/lipova/2026.md",
    "versions": "data/versions/local/arad/lipova/2026.json",
    "laws": "data/laws/local/arad/lipova/2026.csv",
-   "laws_count": 14,
+   "laws_count": 17,
    "sources": "data/sources/local/arad/lipova/2026.csv"
+  },
+  {
+   "shard": "local/arad/macea/2020",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/arad/macea/2020.json",
+   "list": "data/acts/local/arad/macea/2020.md",
+   "versions": "data/versions/local/arad/macea/2020.json",
+   "laws": "data/laws/local/arad/macea/2020.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/arad/macea/2020.csv"
+  },
+  {
+   "shard": "local/arad/macea/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/macea/2021.json",
+   "list": "data/acts/local/arad/macea/2021.md",
+   "versions": "data/versions/local/arad/macea/2021.json",
+   "laws": "data/laws/local/arad/macea/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/macea/2021.csv"
+  },
+  {
+   "shard": "local/arad/macea/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/macea/2023.json",
+   "list": "data/acts/local/arad/macea/2023.md",
+   "versions": "data/versions/local/arad/macea/2023.json",
+   "laws": "data/laws/local/arad/macea/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/macea/2023.csv"
+  },
+  {
+   "shard": "local/arad/macea/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/macea/2024.json",
+   "list": "data/acts/local/arad/macea/2024.md",
+   "versions": "data/versions/local/arad/macea/2024.json",
+   "laws": "data/laws/local/arad/macea/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/macea/2024.csv"
+  },
+  {
+   "shard": "local/arad/macea/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/macea/2025.json",
+   "list": "data/acts/local/arad/macea/2025.md",
+   "versions": "data/versions/local/arad/macea/2025.json",
+   "laws": "data/laws/local/arad/macea/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/macea/2025.csv"
   },
   {
    "shard": "local/arad/nadlac/2025",
    "kind": "local",
-   "count": 53,
+   "count": 58,
    "acts": "data/acts/local/arad/nadlac/2025.json",
    "list": "data/acts/local/arad/nadlac/2025.md",
    "versions": "data/versions/local/arad/nadlac/2025.json",
    "laws": "data/laws/local/arad/nadlac/2025.csv",
-   "laws_count": 53,
+   "laws_count": 58,
    "sources": "data/sources/local/arad/nadlac/2025.csv"
   },
   {
@@ -4683,6 +5178,61 @@
    "laws": "data/laws/local/arad/nadlac/2026.csv",
    "laws_count": 4,
    "sources": "data/sources/local/arad/nadlac/2026.csv"
+  },
+  {
+   "shard": "local/arad/petris/2023",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/arad/petris/2023.json",
+   "list": "data/acts/local/arad/petris/2023.md",
+   "versions": "data/versions/local/arad/petris/2023.json",
+   "laws": "data/laws/local/arad/petris/2023.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/arad/petris/2023.csv"
+  },
+  {
+   "shard": "local/arad/petris/2024",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/arad/petris/2024.json",
+   "list": "data/acts/local/arad/petris/2024.md",
+   "versions": "data/versions/local/arad/petris/2024.json",
+   "laws": "data/laws/local/arad/petris/2024.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/arad/petris/2024.csv"
+  },
+  {
+   "shard": "local/arad/petris/2025",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/arad/petris/2025.json",
+   "list": "data/acts/local/arad/petris/2025.md",
+   "versions": "data/versions/local/arad/petris/2025.json",
+   "laws": "data/laws/local/arad/petris/2025.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/arad/petris/2025.csv"
+  },
+  {
+   "shard": "local/arad/petris/2026",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/arad/petris/2026.json",
+   "list": "data/acts/local/arad/petris/2026.md",
+   "versions": "data/versions/local/arad/petris/2026.json",
+   "laws": "data/laws/local/arad/petris/2026.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/arad/petris/2026.csv"
+  },
+  {
+   "shard": "local/arad/savarsin/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/savarsin/2025.json",
+   "list": "data/acts/local/arad/savarsin/2025.md",
+   "versions": "data/versions/local/arad/savarsin/2025.json",
+   "laws": "data/laws/local/arad/savarsin/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/savarsin/2025.csv"
   },
   {
    "shard": "local/arad/savarsin/2026",
@@ -4718,6 +5268,127 @@
    "sources": "data/sources/local/arad/sebis/2021.csv"
   },
   {
+   "shard": "local/arad/secusigiu/2025",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/arad/secusigiu/2025.json",
+   "list": "data/acts/local/arad/secusigiu/2025.md",
+   "versions": "data/versions/local/arad/secusigiu/2025.json",
+   "laws": "data/laws/local/arad/secusigiu/2025.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/arad/secusigiu/2025.csv"
+  },
+  {
+   "shard": "local/arad/secusigiu/2026",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/arad/secusigiu/2026.json",
+   "list": "data/acts/local/arad/secusigiu/2026.md",
+   "versions": "data/versions/local/arad/secusigiu/2026.json",
+   "laws": "data/laws/local/arad/secusigiu/2026.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/arad/secusigiu/2026.csv"
+  },
+  {
+   "shard": "local/arad/semlac/2025",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/arad/semlac/2025.json",
+   "list": "data/acts/local/arad/semlac/2025.md",
+   "versions": "data/versions/local/arad/semlac/2025.json",
+   "laws": "data/laws/local/arad/semlac/2025.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/arad/semlac/2025.csv"
+  },
+  {
+   "shard": "local/arad/sistarovat/2025",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/arad/sistarovat/2025.json",
+   "list": "data/acts/local/arad/sistarovat/2025.md",
+   "versions": "data/versions/local/arad/sistarovat/2025.json",
+   "laws": "data/laws/local/arad/sistarovat/2025.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/arad/sistarovat/2025.csv"
+  },
+  {
+   "shard": "local/arad/sistarovat/2026",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/arad/sistarovat/2026.json",
+   "list": "data/acts/local/arad/sistarovat/2026.md",
+   "versions": "data/versions/local/arad/sistarovat/2026.json",
+   "laws": "data/laws/local/arad/sistarovat/2026.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/arad/sistarovat/2026.csv"
+  },
+  {
+   "shard": "local/arad/socodor/2021",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/arad/socodor/2021.json",
+   "list": "data/acts/local/arad/socodor/2021.md",
+   "versions": "data/versions/local/arad/socodor/2021.json",
+   "laws": "data/laws/local/arad/socodor/2021.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/arad/socodor/2021.csv"
+  },
+  {
+   "shard": "local/arad/socodor/2022",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/arad/socodor/2022.json",
+   "list": "data/acts/local/arad/socodor/2022.md",
+   "versions": "data/versions/local/arad/socodor/2022.json",
+   "laws": "data/laws/local/arad/socodor/2022.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/arad/socodor/2022.csv"
+  },
+  {
+   "shard": "local/arad/socodor/2023",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/arad/socodor/2023.json",
+   "list": "data/acts/local/arad/socodor/2023.md",
+   "versions": "data/versions/local/arad/socodor/2023.json",
+   "laws": "data/laws/local/arad/socodor/2023.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/arad/socodor/2023.csv"
+  },
+  {
+   "shard": "local/arad/socodor/2024",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/arad/socodor/2024.json",
+   "list": "data/acts/local/arad/socodor/2024.md",
+   "versions": "data/versions/local/arad/socodor/2024.json",
+   "laws": "data/laws/local/arad/socodor/2024.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/arad/socodor/2024.csv"
+  },
+  {
+   "shard": "local/arad/socodor/2025",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/arad/socodor/2025.json",
+   "list": "data/acts/local/arad/socodor/2025.md",
+   "versions": "data/versions/local/arad/socodor/2025.json",
+   "laws": "data/laws/local/arad/socodor/2025.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/arad/socodor/2025.csv"
+  },
+  {
+   "shard": "local/arad/socodor/2026",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/arad/socodor/2026.json",
+   "list": "data/acts/local/arad/socodor/2026.md",
+   "versions": "data/versions/local/arad/socodor/2026.json",
+   "laws": "data/laws/local/arad/socodor/2026.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/arad/socodor/2026.csv"
+  },
+  {
    "shard": "local/arad/tarnova/2024",
    "kind": "local",
    "count": 1,
@@ -4738,6 +5409,116 @@
    "laws": "data/laws/local/arad/tarnova/2026.csv",
    "laws_count": 1,
    "sources": "data/sources/local/arad/tarnova/2026.csv"
+  },
+  {
+   "shard": "local/arad/taut/2022",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arad/taut/2022.json",
+   "list": "data/acts/local/arad/taut/2022.md",
+   "versions": "data/versions/local/arad/taut/2022.json",
+   "laws": "data/laws/local/arad/taut/2022.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arad/taut/2022.csv"
+  },
+  {
+   "shard": "local/arad/varadia-de-mures/2022",
+   "kind": "local",
+   "count": 20,
+   "acts": "data/acts/local/arad/varadia-de-mures/2022.json",
+   "list": "data/acts/local/arad/varadia-de-mures/2022.md",
+   "versions": "data/versions/local/arad/varadia-de-mures/2022.json",
+   "laws": "data/laws/local/arad/varadia-de-mures/2022.csv",
+   "laws_count": 20,
+   "sources": "data/sources/local/arad/varadia-de-mures/2022.csv"
+  },
+  {
+   "shard": "local/arad/varadia-de-mures/2023",
+   "kind": "local",
+   "count": 20,
+   "acts": "data/acts/local/arad/varadia-de-mures/2023.json",
+   "list": "data/acts/local/arad/varadia-de-mures/2023.md",
+   "versions": "data/versions/local/arad/varadia-de-mures/2023.json",
+   "laws": "data/laws/local/arad/varadia-de-mures/2023.csv",
+   "laws_count": 20,
+   "sources": "data/sources/local/arad/varadia-de-mures/2023.csv"
+  },
+  {
+   "shard": "local/arad/varadia-de-mures/2024",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/arad/varadia-de-mures/2024.json",
+   "list": "data/acts/local/arad/varadia-de-mures/2024.md",
+   "versions": "data/versions/local/arad/varadia-de-mures/2024.json",
+   "laws": "data/laws/local/arad/varadia-de-mures/2024.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/arad/varadia-de-mures/2024.csv"
+  },
+  {
+   "shard": "local/arad/varadia-de-mures/2025",
+   "kind": "local",
+   "count": 20,
+   "acts": "data/acts/local/arad/varadia-de-mures/2025.json",
+   "list": "data/acts/local/arad/varadia-de-mures/2025.md",
+   "versions": "data/versions/local/arad/varadia-de-mures/2025.json",
+   "laws": "data/laws/local/arad/varadia-de-mures/2025.csv",
+   "laws_count": 20,
+   "sources": "data/sources/local/arad/varadia-de-mures/2025.csv"
+  },
+  {
+   "shard": "local/arad/varadia-de-mures/2026",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/arad/varadia-de-mures/2026.json",
+   "list": "data/acts/local/arad/varadia-de-mures/2026.md",
+   "versions": "data/versions/local/arad/varadia-de-mures/2026.json",
+   "laws": "data/laws/local/arad/varadia-de-mures/2026.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/arad/varadia-de-mures/2026.csv"
+  },
+  {
+   "shard": "local/arad/varfurile/2023",
+   "kind": "local",
+   "count": 11,
+   "acts": "data/acts/local/arad/varfurile/2023.json",
+   "list": "data/acts/local/arad/varfurile/2023.md",
+   "versions": "data/versions/local/arad/varfurile/2023.json",
+   "laws": "data/laws/local/arad/varfurile/2023.csv",
+   "laws_count": 11,
+   "sources": "data/sources/local/arad/varfurile/2023.csv"
+  },
+  {
+   "shard": "local/arad/varfurile/2024",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/arad/varfurile/2024.json",
+   "list": "data/acts/local/arad/varfurile/2024.md",
+   "versions": "data/versions/local/arad/varfurile/2024.json",
+   "laws": "data/laws/local/arad/varfurile/2024.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/arad/varfurile/2024.csv"
+  },
+  {
+   "shard": "local/arad/varfurile/2025",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/arad/varfurile/2025.json",
+   "list": "data/acts/local/arad/varfurile/2025.md",
+   "versions": "data/versions/local/arad/varfurile/2025.json",
+   "laws": "data/laws/local/arad/varfurile/2025.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/arad/varfurile/2025.csv"
+  },
+  {
+   "shard": "local/arad/varfurile/2026",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/arad/varfurile/2026.json",
+   "list": "data/acts/local/arad/varfurile/2026.md",
+   "versions": "data/versions/local/arad/varfurile/2026.json",
+   "laws": "data/laws/local/arad/varfurile/2026.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/arad/varfurile/2026.csv"
   },
   {
    "shard": "local/arad/zerind/2020",
@@ -4762,15 +5543,81 @@
    "sources": "data/sources/local/arad/zerind/2024.csv"
   },
   {
+   "shard": "local/arad/zimandu-nou/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/zimandu-nou/2021.json",
+   "list": "data/acts/local/arad/zimandu-nou/2021.md",
+   "versions": "data/versions/local/arad/zimandu-nou/2021.json",
+   "laws": "data/laws/local/arad/zimandu-nou/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/zimandu-nou/2021.csv"
+  },
+  {
+   "shard": "local/arad/zimandu-nou/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arad/zimandu-nou/2022.json",
+   "list": "data/acts/local/arad/zimandu-nou/2022.md",
+   "versions": "data/versions/local/arad/zimandu-nou/2022.json",
+   "laws": "data/laws/local/arad/zimandu-nou/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arad/zimandu-nou/2022.csv"
+  },
+  {
+   "shard": "local/arad/zimandu-nou/2024",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/arad/zimandu-nou/2024.json",
+   "list": "data/acts/local/arad/zimandu-nou/2024.md",
+   "versions": "data/versions/local/arad/zimandu-nou/2024.json",
+   "laws": "data/laws/local/arad/zimandu-nou/2024.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/arad/zimandu-nou/2024.csv"
+  },
+  {
+   "shard": "local/arad/zimandu-nou/2025",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/arad/zimandu-nou/2025.json",
+   "list": "data/acts/local/arad/zimandu-nou/2025.md",
+   "versions": "data/versions/local/arad/zimandu-nou/2025.json",
+   "laws": "data/laws/local/arad/zimandu-nou/2025.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/arad/zimandu-nou/2025.csv"
+  },
+  {
    "shard": "local/arges/babana/2013",
    "kind": "local",
-   "count": 2,
+   "count": 3,
    "acts": "data/acts/local/arges/babana/2013.json",
    "list": "data/acts/local/arges/babana/2013.md",
    "versions": "data/versions/local/arges/babana/2013.json",
    "laws": "data/laws/local/arges/babana/2013.csv",
-   "laws_count": 2,
+   "laws_count": 3,
    "sources": "data/sources/local/arges/babana/2013.csv"
+  },
+  {
+   "shard": "local/arges/babana/2016",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arges/babana/2016.json",
+   "list": "data/acts/local/arges/babana/2016.md",
+   "versions": "data/versions/local/arges/babana/2016.json",
+   "laws": "data/laws/local/arges/babana/2016.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arges/babana/2016.csv"
+  },
+  {
+   "shard": "local/arges/boteni/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arges/boteni/2023.json",
+   "list": "data/acts/local/arges/boteni/2023.md",
+   "versions": "data/versions/local/arges/boteni/2023.json",
+   "laws": "data/laws/local/arges/boteni/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arges/boteni/2023.csv"
   },
   {
    "shard": "local/arges/campulung/2008",
@@ -4982,6 +5829,17 @@
    "sources": "data/sources/local/arges/campulung/2026.csv"
   },
   {
+   "shard": "local/arges/corbi/2026",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/arges/corbi/2026.json",
+   "list": "data/acts/local/arges/corbi/2026.md",
+   "versions": "data/versions/local/arges/corbi/2026.json",
+   "laws": "data/laws/local/arges/corbi/2026.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/arges/corbi/2026.csv"
+  },
+  {
    "shard": "local/arges/curtea-de-arges/2026",
    "kind": "local",
    "count": 2,
@@ -4993,6 +5851,138 @@
    "sources": "data/sources/local/arges/curtea-de-arges/2026.csv"
   },
   {
+   "shard": "local/arges/godeni/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arges/godeni/2026.json",
+   "list": "data/acts/local/arges/godeni/2026.md",
+   "versions": "data/versions/local/arges/godeni/2026.json",
+   "laws": "data/laws/local/arges/godeni/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arges/godeni/2026.csv"
+  },
+  {
+   "shard": "local/arges/maracineni/2020",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/arges/maracineni/2020.json",
+   "list": "data/acts/local/arges/maracineni/2020.md",
+   "versions": "data/versions/local/arges/maracineni/2020.json",
+   "laws": "data/laws/local/arges/maracineni/2020.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/arges/maracineni/2020.csv"
+  },
+  {
+   "shard": "local/arges/maracineni/2021",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/arges/maracineni/2021.json",
+   "list": "data/acts/local/arges/maracineni/2021.md",
+   "versions": "data/versions/local/arges/maracineni/2021.json",
+   "laws": "data/laws/local/arges/maracineni/2021.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/arges/maracineni/2021.csv"
+  },
+  {
+   "shard": "local/arges/maracineni/2022",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/arges/maracineni/2022.json",
+   "list": "data/acts/local/arges/maracineni/2022.md",
+   "versions": "data/versions/local/arges/maracineni/2022.json",
+   "laws": "data/laws/local/arges/maracineni/2022.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/arges/maracineni/2022.csv"
+  },
+  {
+   "shard": "local/arges/maracineni/2023",
+   "kind": "local",
+   "count": 20,
+   "acts": "data/acts/local/arges/maracineni/2023.json",
+   "list": "data/acts/local/arges/maracineni/2023.md",
+   "versions": "data/versions/local/arges/maracineni/2023.json",
+   "laws": "data/laws/local/arges/maracineni/2023.csv",
+   "laws_count": 20,
+   "sources": "data/sources/local/arges/maracineni/2023.csv"
+  },
+  {
+   "shard": "local/arges/maracineni/2024",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/arges/maracineni/2024.json",
+   "list": "data/acts/local/arges/maracineni/2024.md",
+   "versions": "data/versions/local/arges/maracineni/2024.json",
+   "laws": "data/laws/local/arges/maracineni/2024.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/arges/maracineni/2024.csv"
+  },
+  {
+   "shard": "local/arges/maracineni/2025",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/arges/maracineni/2025.json",
+   "list": "data/acts/local/arges/maracineni/2025.md",
+   "versions": "data/versions/local/arges/maracineni/2025.json",
+   "laws": "data/laws/local/arges/maracineni/2025.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/arges/maracineni/2025.csv"
+  },
+  {
+   "shard": "local/arges/maracineni/2026",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/arges/maracineni/2026.json",
+   "list": "data/acts/local/arges/maracineni/2026.md",
+   "versions": "data/versions/local/arges/maracineni/2026.json",
+   "laws": "data/laws/local/arges/maracineni/2026.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/arges/maracineni/2026.csv"
+  },
+  {
+   "shard": "local/arges/nucsoara/2025",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/arges/nucsoara/2025.json",
+   "list": "data/acts/local/arges/nucsoara/2025.md",
+   "versions": "data/versions/local/arges/nucsoara/2025.json",
+   "laws": "data/laws/local/arges/nucsoara/2025.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/arges/nucsoara/2025.csv"
+  },
+  {
+   "shard": "local/arges/nucsoara/2026",
+   "kind": "local",
+   "count": 12,
+   "acts": "data/acts/local/arges/nucsoara/2026.json",
+   "list": "data/acts/local/arges/nucsoara/2026.md",
+   "versions": "data/versions/local/arges/nucsoara/2026.json",
+   "laws": "data/laws/local/arges/nucsoara/2026.csv",
+   "laws_count": 12,
+   "sources": "data/sources/local/arges/nucsoara/2026.csv"
+  },
+  {
+   "shard": "local/arges/pietrosani/2025",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/arges/pietrosani/2025.json",
+   "list": "data/acts/local/arges/pietrosani/2025.md",
+   "versions": "data/versions/local/arges/pietrosani/2025.json",
+   "laws": "data/laws/local/arges/pietrosani/2025.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/arges/pietrosani/2025.csv"
+  },
+  {
+   "shard": "local/arges/pietrosani/2026",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/arges/pietrosani/2026.json",
+   "list": "data/acts/local/arges/pietrosani/2026.md",
+   "versions": "data/versions/local/arges/pietrosani/2026.json",
+   "laws": "data/laws/local/arges/pietrosani/2026.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/arges/pietrosani/2026.csv"
+  },
+  {
    "shard": "local/arges/poiana-lacului/2026",
    "kind": "local",
    "count": 1,
@@ -5002,6 +5992,94 @@
    "laws": "data/laws/local/arges/poiana-lacului/2026.csv",
    "laws_count": 1,
    "sources": "data/sources/local/arges/poiana-lacului/2026.csv"
+  },
+  {
+   "shard": "local/arges/poienarii-de-muscel/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/arges/poienarii-de-muscel/2026.json",
+   "list": "data/acts/local/arges/poienarii-de-muscel/2026.md",
+   "versions": "data/versions/local/arges/poienarii-de-muscel/2026.json",
+   "laws": "data/laws/local/arges/poienarii-de-muscel/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/arges/poienarii-de-muscel/2026.csv"
+  },
+  {
+   "shard": "local/arges/rucar/2020",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/arges/rucar/2020.json",
+   "list": "data/acts/local/arges/rucar/2020.md",
+   "versions": "data/versions/local/arges/rucar/2020.json",
+   "laws": "data/laws/local/arges/rucar/2020.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/arges/rucar/2020.csv"
+  },
+  {
+   "shard": "local/arges/rucar/2021",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/arges/rucar/2021.json",
+   "list": "data/acts/local/arges/rucar/2021.md",
+   "versions": "data/versions/local/arges/rucar/2021.json",
+   "laws": "data/laws/local/arges/rucar/2021.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/arges/rucar/2021.csv"
+  },
+  {
+   "shard": "local/arges/rucar/2022",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/arges/rucar/2022.json",
+   "list": "data/acts/local/arges/rucar/2022.md",
+   "versions": "data/versions/local/arges/rucar/2022.json",
+   "laws": "data/laws/local/arges/rucar/2022.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/arges/rucar/2022.csv"
+  },
+  {
+   "shard": "local/arges/rucar/2023",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/arges/rucar/2023.json",
+   "list": "data/acts/local/arges/rucar/2023.md",
+   "versions": "data/versions/local/arges/rucar/2023.json",
+   "laws": "data/laws/local/arges/rucar/2023.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/arges/rucar/2023.csv"
+  },
+  {
+   "shard": "local/arges/rucar/2024",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/arges/rucar/2024.json",
+   "list": "data/acts/local/arges/rucar/2024.md",
+   "versions": "data/versions/local/arges/rucar/2024.json",
+   "laws": "data/laws/local/arges/rucar/2024.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/arges/rucar/2024.csv"
+  },
+  {
+   "shard": "local/arges/rucar/2025",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/arges/rucar/2025.json",
+   "list": "data/acts/local/arges/rucar/2025.md",
+   "versions": "data/versions/local/arges/rucar/2025.json",
+   "laws": "data/laws/local/arges/rucar/2025.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/arges/rucar/2025.csv"
+  },
+  {
+   "shard": "local/arges/rucar/2026",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/arges/rucar/2026.json",
+   "list": "data/acts/local/arges/rucar/2026.md",
+   "versions": "data/versions/local/arges/rucar/2026.json",
+   "laws": "data/laws/local/arges/rucar/2026.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/arges/rucar/2026.csv"
   },
   {
    "shard": "local/arges/stalpeni/2020",
@@ -5028,12 +6106,12 @@
   {
    "shard": "local/arges/stalpeni/2025",
    "kind": "local",
-   "count": 18,
+   "count": 20,
    "acts": "data/acts/local/arges/stalpeni/2025.json",
    "list": "data/acts/local/arges/stalpeni/2025.md",
    "versions": "data/versions/local/arges/stalpeni/2025.json",
    "laws": "data/laws/local/arges/stalpeni/2025.csv",
-   "laws_count": 18,
+   "laws_count": 20,
    "sources": "data/sources/local/arges/stalpeni/2025.csv"
   },
   {
@@ -5046,6 +6124,28 @@
    "laws": "data/laws/local/arges/stalpeni/2026.csv",
    "laws_count": 39,
    "sources": "data/sources/local/arges/stalpeni/2026.csv"
+  },
+  {
+   "shard": "local/arges/stolnici/2026",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/arges/stolnici/2026.json",
+   "list": "data/acts/local/arges/stolnici/2026.md",
+   "versions": "data/versions/local/arges/stolnici/2026.json",
+   "laws": "data/laws/local/arges/stolnici/2026.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/arges/stolnici/2026.csv"
+  },
+  {
+   "shard": "local/arges/titesti/2026",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/arges/titesti/2026.json",
+   "list": "data/acts/local/arges/titesti/2026.md",
+   "versions": "data/versions/local/arges/titesti/2026.json",
+   "laws": "data/laws/local/arges/titesti/2026.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/arges/titesti/2026.csv"
   },
   {
    "shard": "local/arges/topoloveni/2026",
@@ -5323,6 +6423,116 @@
    "sources": "data/sources/local/bacau/bacau/2026.csv"
   },
   {
+   "shard": "local/bacau/brusturoasa/2020",
+   "kind": "local",
+   "count": 12,
+   "acts": "data/acts/local/bacau/brusturoasa/2020.json",
+   "list": "data/acts/local/bacau/brusturoasa/2020.md",
+   "versions": "data/versions/local/bacau/brusturoasa/2020.json",
+   "laws": "data/laws/local/bacau/brusturoasa/2020.csv",
+   "laws_count": 12,
+   "sources": "data/sources/local/bacau/brusturoasa/2020.csv"
+  },
+  {
+   "shard": "local/bacau/brusturoasa/2021",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/brusturoasa/2021.json",
+   "list": "data/acts/local/bacau/brusturoasa/2021.md",
+   "versions": "data/versions/local/bacau/brusturoasa/2021.json",
+   "laws": "data/laws/local/bacau/brusturoasa/2021.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/brusturoasa/2021.csv"
+  },
+  {
+   "shard": "local/bacau/brusturoasa/2022",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/bacau/brusturoasa/2022.json",
+   "list": "data/acts/local/bacau/brusturoasa/2022.md",
+   "versions": "data/versions/local/bacau/brusturoasa/2022.json",
+   "laws": "data/laws/local/bacau/brusturoasa/2022.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/bacau/brusturoasa/2022.csv"
+  },
+  {
+   "shard": "local/bacau/brusturoasa/2023",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/bacau/brusturoasa/2023.json",
+   "list": "data/acts/local/bacau/brusturoasa/2023.md",
+   "versions": "data/versions/local/bacau/brusturoasa/2023.json",
+   "laws": "data/laws/local/bacau/brusturoasa/2023.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/bacau/brusturoasa/2023.csv"
+  },
+  {
+   "shard": "local/bacau/brusturoasa/2024",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/bacau/brusturoasa/2024.json",
+   "list": "data/acts/local/bacau/brusturoasa/2024.md",
+   "versions": "data/versions/local/bacau/brusturoasa/2024.json",
+   "laws": "data/laws/local/bacau/brusturoasa/2024.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/bacau/brusturoasa/2024.csv"
+  },
+  {
+   "shard": "local/bacau/brusturoasa/2025",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/bacau/brusturoasa/2025.json",
+   "list": "data/acts/local/bacau/brusturoasa/2025.md",
+   "versions": "data/versions/local/bacau/brusturoasa/2025.json",
+   "laws": "data/laws/local/bacau/brusturoasa/2025.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/bacau/brusturoasa/2025.csv"
+  },
+  {
+   "shard": "local/bacau/brusturoasa/2026",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/bacau/brusturoasa/2026.json",
+   "list": "data/acts/local/bacau/brusturoasa/2026.md",
+   "versions": "data/versions/local/bacau/brusturoasa/2026.json",
+   "laws": "data/laws/local/bacau/brusturoasa/2026.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/bacau/brusturoasa/2026.csv"
+  },
+  {
+   "shard": "local/bacau/buhoci/2024",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/bacau/buhoci/2024.json",
+   "list": "data/acts/local/bacau/buhoci/2024.md",
+   "versions": "data/versions/local/bacau/buhoci/2024.json",
+   "laws": "data/laws/local/bacau/buhoci/2024.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/bacau/buhoci/2024.csv"
+  },
+  {
+   "shard": "local/bacau/buhoci/2025",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/bacau/buhoci/2025.json",
+   "list": "data/acts/local/bacau/buhoci/2025.md",
+   "versions": "data/versions/local/bacau/buhoci/2025.json",
+   "laws": "data/laws/local/bacau/buhoci/2025.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/bacau/buhoci/2025.csv"
+  },
+  {
+   "shard": "local/bacau/buhoci/2026",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/bacau/buhoci/2026.json",
+   "list": "data/acts/local/bacau/buhoci/2026.md",
+   "versions": "data/versions/local/bacau/buhoci/2026.json",
+   "laws": "data/laws/local/bacau/buhoci/2026.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/bacau/buhoci/2026.csv"
+  },
+  {
    "shard": "local/bacau/caiuti/2021",
    "kind": "local",
    "count": 1,
@@ -5343,6 +6553,50 @@
    "laws": "data/laws/local/bacau/caiuti/2024.csv",
    "laws_count": 2,
    "sources": "data/sources/local/bacau/caiuti/2024.csv"
+  },
+  {
+   "shard": "local/bacau/cleja/2023",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/bacau/cleja/2023.json",
+   "list": "data/acts/local/bacau/cleja/2023.md",
+   "versions": "data/versions/local/bacau/cleja/2023.json",
+   "laws": "data/laws/local/bacau/cleja/2023.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/bacau/cleja/2023.csv"
+  },
+  {
+   "shard": "local/bacau/cleja/2024",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/bacau/cleja/2024.json",
+   "list": "data/acts/local/bacau/cleja/2024.md",
+   "versions": "data/versions/local/bacau/cleja/2024.json",
+   "laws": "data/laws/local/bacau/cleja/2024.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/bacau/cleja/2024.csv"
+  },
+  {
+   "shard": "local/bacau/cleja/2025",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/bacau/cleja/2025.json",
+   "list": "data/acts/local/bacau/cleja/2025.md",
+   "versions": "data/versions/local/bacau/cleja/2025.json",
+   "laws": "data/laws/local/bacau/cleja/2025.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/bacau/cleja/2025.csv"
+  },
+  {
+   "shard": "local/bacau/cleja/2026",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/bacau/cleja/2026.json",
+   "list": "data/acts/local/bacau/cleja/2026.md",
+   "versions": "data/versions/local/bacau/cleja/2026.json",
+   "laws": "data/laws/local/bacau/cleja/2026.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/bacau/cleja/2026.csv"
   },
   {
    "shard": "local/bacau/comanesti/2016",
@@ -5367,6 +6621,94 @@
    "sources": "data/sources/local/bacau/comanesti/2020.csv"
   },
   {
+   "shard": "local/bacau/comanesti/2026",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/bacau/comanesti/2026.json",
+   "list": "data/acts/local/bacau/comanesti/2026.md",
+   "versions": "data/versions/local/bacau/comanesti/2026.json",
+   "laws": "data/laws/local/bacau/comanesti/2026.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/bacau/comanesti/2026.csv"
+  },
+  {
+   "shard": "local/bacau/corbasca/2020",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bacau/corbasca/2020.json",
+   "list": "data/acts/local/bacau/corbasca/2020.md",
+   "versions": "data/versions/local/bacau/corbasca/2020.json",
+   "laws": "data/laws/local/bacau/corbasca/2020.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bacau/corbasca/2020.csv"
+  },
+  {
+   "shard": "local/bacau/corbasca/2021",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/bacau/corbasca/2021.json",
+   "list": "data/acts/local/bacau/corbasca/2021.md",
+   "versions": "data/versions/local/bacau/corbasca/2021.json",
+   "laws": "data/laws/local/bacau/corbasca/2021.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/bacau/corbasca/2021.csv"
+  },
+  {
+   "shard": "local/bacau/corbasca/2022",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/corbasca/2022.json",
+   "list": "data/acts/local/bacau/corbasca/2022.md",
+   "versions": "data/versions/local/bacau/corbasca/2022.json",
+   "laws": "data/laws/local/bacau/corbasca/2022.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/corbasca/2022.csv"
+  },
+  {
+   "shard": "local/bacau/corbasca/2023",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/corbasca/2023.json",
+   "list": "data/acts/local/bacau/corbasca/2023.md",
+   "versions": "data/versions/local/bacau/corbasca/2023.json",
+   "laws": "data/laws/local/bacau/corbasca/2023.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/corbasca/2023.csv"
+  },
+  {
+   "shard": "local/bacau/corbasca/2024",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/corbasca/2024.json",
+   "list": "data/acts/local/bacau/corbasca/2024.md",
+   "versions": "data/versions/local/bacau/corbasca/2024.json",
+   "laws": "data/laws/local/bacau/corbasca/2024.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/corbasca/2024.csv"
+  },
+  {
+   "shard": "local/bacau/corbasca/2025",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/corbasca/2025.json",
+   "list": "data/acts/local/bacau/corbasca/2025.md",
+   "versions": "data/versions/local/bacau/corbasca/2025.json",
+   "laws": "data/laws/local/bacau/corbasca/2025.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/corbasca/2025.csv"
+  },
+  {
+   "shard": "local/bacau/corbasca/2026",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/bacau/corbasca/2026.json",
+   "list": "data/acts/local/bacau/corbasca/2026.md",
+   "versions": "data/versions/local/bacau/corbasca/2026.json",
+   "laws": "data/laws/local/bacau/corbasca/2026.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/bacau/corbasca/2026.csv"
+  },
+  {
    "shard": "local/bacau/darmanesti/2026",
    "kind": "local",
    "count": 4,
@@ -5376,6 +6718,94 @@
    "laws": "data/laws/local/bacau/darmanesti/2026.csv",
    "laws_count": 4,
    "sources": "data/sources/local/bacau/darmanesti/2026.csv"
+  },
+  {
+   "shard": "local/bacau/dofteana/2024",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/bacau/dofteana/2024.json",
+   "list": "data/acts/local/bacau/dofteana/2024.md",
+   "versions": "data/versions/local/bacau/dofteana/2024.json",
+   "laws": "data/laws/local/bacau/dofteana/2024.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/bacau/dofteana/2024.csv"
+  },
+  {
+   "shard": "local/bacau/filipeni/2020",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bacau/filipeni/2020.json",
+   "list": "data/acts/local/bacau/filipeni/2020.md",
+   "versions": "data/versions/local/bacau/filipeni/2020.json",
+   "laws": "data/laws/local/bacau/filipeni/2020.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bacau/filipeni/2020.csv"
+  },
+  {
+   "shard": "local/bacau/filipeni/2021",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bacau/filipeni/2021.json",
+   "list": "data/acts/local/bacau/filipeni/2021.md",
+   "versions": "data/versions/local/bacau/filipeni/2021.json",
+   "laws": "data/laws/local/bacau/filipeni/2021.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bacau/filipeni/2021.csv"
+  },
+  {
+   "shard": "local/bacau/filipeni/2022",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bacau/filipeni/2022.json",
+   "list": "data/acts/local/bacau/filipeni/2022.md",
+   "versions": "data/versions/local/bacau/filipeni/2022.json",
+   "laws": "data/laws/local/bacau/filipeni/2022.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bacau/filipeni/2022.csv"
+  },
+  {
+   "shard": "local/bacau/filipeni/2023",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/filipeni/2023.json",
+   "list": "data/acts/local/bacau/filipeni/2023.md",
+   "versions": "data/versions/local/bacau/filipeni/2023.json",
+   "laws": "data/laws/local/bacau/filipeni/2023.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/filipeni/2023.csv"
+  },
+  {
+   "shard": "local/bacau/filipeni/2024",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bacau/filipeni/2024.json",
+   "list": "data/acts/local/bacau/filipeni/2024.md",
+   "versions": "data/versions/local/bacau/filipeni/2024.json",
+   "laws": "data/laws/local/bacau/filipeni/2024.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bacau/filipeni/2024.csv"
+  },
+  {
+   "shard": "local/bacau/filipeni/2026",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/bacau/filipeni/2026.json",
+   "list": "data/acts/local/bacau/filipeni/2026.md",
+   "versions": "data/versions/local/bacau/filipeni/2026.json",
+   "laws": "data/laws/local/bacau/filipeni/2026.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/bacau/filipeni/2026.csv"
+  },
+  {
+   "shard": "local/bacau/gura-vaii/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bacau/gura-vaii/2026.json",
+   "list": "data/acts/local/bacau/gura-vaii/2026.md",
+   "versions": "data/versions/local/bacau/gura-vaii/2026.json",
+   "laws": "data/laws/local/bacau/gura-vaii/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bacau/gura-vaii/2026.csv"
   },
   {
    "shard": "local/bacau/helegiu/2026",
@@ -5422,14 +6852,36 @@
    "sources": "data/sources/local/bacau/livezi/2026.csv"
   },
   {
-   "shard": "local/bacau/margineni/2026",
+   "shard": "local/bacau/magiresti/2025",
    "kind": "local",
    "count": 1,
+   "acts": "data/acts/local/bacau/magiresti/2025.json",
+   "list": "data/acts/local/bacau/magiresti/2025.md",
+   "versions": "data/versions/local/bacau/magiresti/2025.json",
+   "laws": "data/laws/local/bacau/magiresti/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bacau/magiresti/2025.csv"
+  },
+  {
+   "shard": "local/bacau/manastirea-casin/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bacau/manastirea-casin/2026.json",
+   "list": "data/acts/local/bacau/manastirea-casin/2026.md",
+   "versions": "data/versions/local/bacau/manastirea-casin/2026.json",
+   "laws": "data/laws/local/bacau/manastirea-casin/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bacau/manastirea-casin/2026.csv"
+  },
+  {
+   "shard": "local/bacau/margineni/2026",
+   "kind": "local",
+   "count": 2,
    "acts": "data/acts/local/bacau/margineni/2026.json",
    "list": "data/acts/local/bacau/margineni/2026.md",
    "versions": "data/versions/local/bacau/margineni/2026.json",
    "laws": "data/laws/local/bacau/margineni/2026.csv",
-   "laws_count": 1,
+   "laws_count": 2,
    "sources": "data/sources/local/bacau/margineni/2026.csv"
   },
   {
@@ -5510,6 +6962,149 @@
    "sources": "data/sources/local/bacau/moinesti/2021.csv"
   },
   {
+   "shard": "local/bacau/motoseni/2023",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/motoseni/2023.json",
+   "list": "data/acts/local/bacau/motoseni/2023.md",
+   "versions": "data/versions/local/bacau/motoseni/2023.json",
+   "laws": "data/laws/local/bacau/motoseni/2023.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/motoseni/2023.csv"
+  },
+  {
+   "shard": "local/bacau/motoseni/2024",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/motoseni/2024.json",
+   "list": "data/acts/local/bacau/motoseni/2024.md",
+   "versions": "data/versions/local/bacau/motoseni/2024.json",
+   "laws": "data/laws/local/bacau/motoseni/2024.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/motoseni/2024.csv"
+  },
+  {
+   "shard": "local/bacau/motoseni/2025",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bacau/motoseni/2025.json",
+   "list": "data/acts/local/bacau/motoseni/2025.md",
+   "versions": "data/versions/local/bacau/motoseni/2025.json",
+   "laws": "data/laws/local/bacau/motoseni/2025.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bacau/motoseni/2025.csv"
+  },
+  {
+   "shard": "local/bacau/motoseni/2026",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/motoseni/2026.json",
+   "list": "data/acts/local/bacau/motoseni/2026.md",
+   "versions": "data/versions/local/bacau/motoseni/2026.json",
+   "laws": "data/laws/local/bacau/motoseni/2026.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/motoseni/2026.csv"
+  },
+  {
+   "shard": "local/bacau/nicolae-balcescu/2020",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/nicolae-balcescu/2020.json",
+   "list": "data/acts/local/bacau/nicolae-balcescu/2020.md",
+   "versions": "data/versions/local/bacau/nicolae-balcescu/2020.json",
+   "laws": "data/laws/local/bacau/nicolae-balcescu/2020.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/nicolae-balcescu/2020.csv"
+  },
+  {
+   "shard": "local/bacau/nicolae-balcescu/2021",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/nicolae-balcescu/2021.json",
+   "list": "data/acts/local/bacau/nicolae-balcescu/2021.md",
+   "versions": "data/versions/local/bacau/nicolae-balcescu/2021.json",
+   "laws": "data/laws/local/bacau/nicolae-balcescu/2021.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/nicolae-balcescu/2021.csv"
+  },
+  {
+   "shard": "local/bacau/nicolae-balcescu/2022",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/nicolae-balcescu/2022.json",
+   "list": "data/acts/local/bacau/nicolae-balcescu/2022.md",
+   "versions": "data/versions/local/bacau/nicolae-balcescu/2022.json",
+   "laws": "data/laws/local/bacau/nicolae-balcescu/2022.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/nicolae-balcescu/2022.csv"
+  },
+  {
+   "shard": "local/bacau/nicolae-balcescu/2023",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/bacau/nicolae-balcescu/2023.json",
+   "list": "data/acts/local/bacau/nicolae-balcescu/2023.md",
+   "versions": "data/versions/local/bacau/nicolae-balcescu/2023.json",
+   "laws": "data/laws/local/bacau/nicolae-balcescu/2023.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/bacau/nicolae-balcescu/2023.csv"
+  },
+  {
+   "shard": "local/bacau/nicolae-balcescu/2024",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/nicolae-balcescu/2024.json",
+   "list": "data/acts/local/bacau/nicolae-balcescu/2024.md",
+   "versions": "data/versions/local/bacau/nicolae-balcescu/2024.json",
+   "laws": "data/laws/local/bacau/nicolae-balcescu/2024.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/nicolae-balcescu/2024.csv"
+  },
+  {
+   "shard": "local/bacau/nicolae-balcescu/2025",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/nicolae-balcescu/2025.json",
+   "list": "data/acts/local/bacau/nicolae-balcescu/2025.md",
+   "versions": "data/versions/local/bacau/nicolae-balcescu/2025.json",
+   "laws": "data/laws/local/bacau/nicolae-balcescu/2025.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/nicolae-balcescu/2025.csv"
+  },
+  {
+   "shard": "local/bacau/nicolae-balcescu/2026",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/nicolae-balcescu/2026.json",
+   "list": "data/acts/local/bacau/nicolae-balcescu/2026.md",
+   "versions": "data/versions/local/bacau/nicolae-balcescu/2026.json",
+   "laws": "data/laws/local/bacau/nicolae-balcescu/2026.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/nicolae-balcescu/2026.csv"
+  },
+  {
+   "shard": "local/bacau/parava/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bacau/parava/2026.json",
+   "list": "data/acts/local/bacau/parava/2026.md",
+   "versions": "data/versions/local/bacau/parava/2026.json",
+   "laws": "data/laws/local/bacau/parava/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bacau/parava/2026.csv"
+  },
+  {
+   "shard": "local/bacau/racaciuni/2020",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bacau/racaciuni/2020.json",
+   "list": "data/acts/local/bacau/racaciuni/2020.md",
+   "versions": "data/versions/local/bacau/racaciuni/2020.json",
+   "laws": "data/laws/local/bacau/racaciuni/2020.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bacau/racaciuni/2020.csv"
+  },
+  {
    "shard": "local/bacau/racaciuni/2023",
    "kind": "local",
    "count": 1,
@@ -5545,24 +7140,211 @@
   {
    "shard": "local/bacau/racaciuni/2026",
    "kind": "local",
-   "count": 10,
+   "count": 13,
    "acts": "data/acts/local/bacau/racaciuni/2026.json",
    "list": "data/acts/local/bacau/racaciuni/2026.md",
    "versions": "data/versions/local/bacau/racaciuni/2026.json",
    "laws": "data/laws/local/bacau/racaciuni/2026.csv",
-   "laws_count": 10,
+   "laws_count": 13,
    "sources": "data/sources/local/bacau/racaciuni/2026.csv"
+  },
+  {
+   "shard": "local/bacau/rachitoasa/2020",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/bacau/rachitoasa/2020.json",
+   "list": "data/acts/local/bacau/rachitoasa/2020.md",
+   "versions": "data/versions/local/bacau/rachitoasa/2020.json",
+   "laws": "data/laws/local/bacau/rachitoasa/2020.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/bacau/rachitoasa/2020.csv"
+  },
+  {
+   "shard": "local/bacau/rachitoasa/2021",
+   "kind": "local",
+   "count": 12,
+   "acts": "data/acts/local/bacau/rachitoasa/2021.json",
+   "list": "data/acts/local/bacau/rachitoasa/2021.md",
+   "versions": "data/versions/local/bacau/rachitoasa/2021.json",
+   "laws": "data/laws/local/bacau/rachitoasa/2021.csv",
+   "laws_count": 12,
+   "sources": "data/sources/local/bacau/rachitoasa/2021.csv"
+  },
+  {
+   "shard": "local/bacau/rachitoasa/2022",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bacau/rachitoasa/2022.json",
+   "list": "data/acts/local/bacau/rachitoasa/2022.md",
+   "versions": "data/versions/local/bacau/rachitoasa/2022.json",
+   "laws": "data/laws/local/bacau/rachitoasa/2022.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bacau/rachitoasa/2022.csv"
+  },
+  {
+   "shard": "local/bacau/rachitoasa/2023",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/rachitoasa/2023.json",
+   "list": "data/acts/local/bacau/rachitoasa/2023.md",
+   "versions": "data/versions/local/bacau/rachitoasa/2023.json",
+   "laws": "data/laws/local/bacau/rachitoasa/2023.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/rachitoasa/2023.csv"
+  },
+  {
+   "shard": "local/bacau/rachitoasa/2024",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/rachitoasa/2024.json",
+   "list": "data/acts/local/bacau/rachitoasa/2024.md",
+   "versions": "data/versions/local/bacau/rachitoasa/2024.json",
+   "laws": "data/laws/local/bacau/rachitoasa/2024.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/rachitoasa/2024.csv"
+  },
+  {
+   "shard": "local/bacau/rachitoasa/2025",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bacau/rachitoasa/2025.json",
+   "list": "data/acts/local/bacau/rachitoasa/2025.md",
+   "versions": "data/versions/local/bacau/rachitoasa/2025.json",
+   "laws": "data/laws/local/bacau/rachitoasa/2025.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bacau/rachitoasa/2025.csv"
+  },
+  {
+   "shard": "local/bacau/rachitoasa/2026",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bacau/rachitoasa/2026.json",
+   "list": "data/acts/local/bacau/rachitoasa/2026.md",
+   "versions": "data/versions/local/bacau/rachitoasa/2026.json",
+   "laws": "data/laws/local/bacau/rachitoasa/2026.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bacau/rachitoasa/2026.csv"
+  },
+  {
+   "shard": "local/bacau/racova/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bacau/racova/2025.json",
+   "list": "data/acts/local/bacau/racova/2025.md",
+   "versions": "data/versions/local/bacau/racova/2025.json",
+   "laws": "data/laws/local/bacau/racova/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bacau/racova/2025.csv"
   },
   {
    "shard": "local/bacau/racova/2026",
    "kind": "local",
-   "count": 10,
+   "count": 13,
    "acts": "data/acts/local/bacau/racova/2026.json",
    "list": "data/acts/local/bacau/racova/2026.md",
    "versions": "data/versions/local/bacau/racova/2026.json",
    "laws": "data/laws/local/bacau/racova/2026.csv",
-   "laws_count": 10,
+   "laws_count": 13,
    "sources": "data/sources/local/bacau/racova/2026.csv"
+  },
+  {
+   "shard": "local/bacau/sascut/2025",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bacau/sascut/2025.json",
+   "list": "data/acts/local/bacau/sascut/2025.md",
+   "versions": "data/versions/local/bacau/sascut/2025.json",
+   "laws": "data/laws/local/bacau/sascut/2025.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bacau/sascut/2025.csv"
+  },
+  {
+   "shard": "local/bacau/sascut/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bacau/sascut/2026.json",
+   "list": "data/acts/local/bacau/sascut/2026.md",
+   "versions": "data/versions/local/bacau/sascut/2026.json",
+   "laws": "data/laws/local/bacau/sascut/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bacau/sascut/2026.csv"
+  },
+  {
+   "shard": "local/bacau/secuieni/2020",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/secuieni/2020.json",
+   "list": "data/acts/local/bacau/secuieni/2020.md",
+   "versions": "data/versions/local/bacau/secuieni/2020.json",
+   "laws": "data/laws/local/bacau/secuieni/2020.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/secuieni/2020.csv"
+  },
+  {
+   "shard": "local/bacau/secuieni/2021",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bacau/secuieni/2021.json",
+   "list": "data/acts/local/bacau/secuieni/2021.md",
+   "versions": "data/versions/local/bacau/secuieni/2021.json",
+   "laws": "data/laws/local/bacau/secuieni/2021.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bacau/secuieni/2021.csv"
+  },
+  {
+   "shard": "local/bacau/secuieni/2022",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bacau/secuieni/2022.json",
+   "list": "data/acts/local/bacau/secuieni/2022.md",
+   "versions": "data/versions/local/bacau/secuieni/2022.json",
+   "laws": "data/laws/local/bacau/secuieni/2022.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bacau/secuieni/2022.csv"
+  },
+  {
+   "shard": "local/bacau/secuieni/2023",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bacau/secuieni/2023.json",
+   "list": "data/acts/local/bacau/secuieni/2023.md",
+   "versions": "data/versions/local/bacau/secuieni/2023.json",
+   "laws": "data/laws/local/bacau/secuieni/2023.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bacau/secuieni/2023.csv"
+  },
+  {
+   "shard": "local/bacau/secuieni/2024",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/bacau/secuieni/2024.json",
+   "list": "data/acts/local/bacau/secuieni/2024.md",
+   "versions": "data/versions/local/bacau/secuieni/2024.json",
+   "laws": "data/laws/local/bacau/secuieni/2024.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/bacau/secuieni/2024.csv"
+  },
+  {
+   "shard": "local/bacau/secuieni/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bacau/secuieni/2025.json",
+   "list": "data/acts/local/bacau/secuieni/2025.md",
+   "versions": "data/versions/local/bacau/secuieni/2025.json",
+   "laws": "data/laws/local/bacau/secuieni/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bacau/secuieni/2025.csv"
+  },
+  {
+   "shard": "local/bacau/secuieni/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bacau/secuieni/2026.json",
+   "list": "data/acts/local/bacau/secuieni/2026.md",
+   "versions": "data/versions/local/bacau/secuieni/2026.json",
+   "laws": "data/laws/local/bacau/secuieni/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bacau/secuieni/2026.csv"
   },
   {
    "shard": "local/bacau/slanic-moldova/2022",
@@ -5589,13 +7371,46 @@
   {
    "shard": "local/bacau/stefan-cel-mare/2026",
    "kind": "local",
-   "count": 9,
+   "count": 13,
    "acts": "data/acts/local/bacau/stefan-cel-mare/2026.json",
    "list": "data/acts/local/bacau/stefan-cel-mare/2026.md",
    "versions": "data/versions/local/bacau/stefan-cel-mare/2026.json",
    "laws": "data/laws/local/bacau/stefan-cel-mare/2026.csv",
-   "laws_count": 9,
+   "laws_count": 13,
    "sources": "data/sources/local/bacau/stefan-cel-mare/2026.csv"
+  },
+  {
+   "shard": "local/bacau/tamasi/2020",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/tamasi/2020.json",
+   "list": "data/acts/local/bacau/tamasi/2020.md",
+   "versions": "data/versions/local/bacau/tamasi/2020.json",
+   "laws": "data/laws/local/bacau/tamasi/2020.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/tamasi/2020.csv"
+  },
+  {
+   "shard": "local/bacau/tamasi/2025",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bacau/tamasi/2025.json",
+   "list": "data/acts/local/bacau/tamasi/2025.md",
+   "versions": "data/versions/local/bacau/tamasi/2025.json",
+   "laws": "data/laws/local/bacau/tamasi/2025.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bacau/tamasi/2025.csv"
+  },
+  {
+   "shard": "local/bacau/tamasi/2026",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/bacau/tamasi/2026.json",
+   "list": "data/acts/local/bacau/tamasi/2026.md",
+   "versions": "data/versions/local/bacau/tamasi/2026.json",
+   "laws": "data/laws/local/bacau/tamasi/2026.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/bacau/tamasi/2026.csv"
   },
   {
    "shard": "local/bacau/targu-ocna/2026",
@@ -5609,6 +7424,72 @@
    "sources": "data/sources/local/bacau/targu-ocna/2026.csv"
   },
   {
+   "shard": "local/bacau/ungureni/2021",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/bacau/ungureni/2021.json",
+   "list": "data/acts/local/bacau/ungureni/2021.md",
+   "versions": "data/versions/local/bacau/ungureni/2021.json",
+   "laws": "data/laws/local/bacau/ungureni/2021.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/bacau/ungureni/2021.csv"
+  },
+  {
+   "shard": "local/bacau/ungureni/2022",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bacau/ungureni/2022.json",
+   "list": "data/acts/local/bacau/ungureni/2022.md",
+   "versions": "data/versions/local/bacau/ungureni/2022.json",
+   "laws": "data/laws/local/bacau/ungureni/2022.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bacau/ungureni/2022.csv"
+  },
+  {
+   "shard": "local/bacau/ungureni/2023",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/bacau/ungureni/2023.json",
+   "list": "data/acts/local/bacau/ungureni/2023.md",
+   "versions": "data/versions/local/bacau/ungureni/2023.json",
+   "laws": "data/laws/local/bacau/ungureni/2023.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/bacau/ungureni/2023.csv"
+  },
+  {
+   "shard": "local/bacau/ungureni/2024",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/bacau/ungureni/2024.json",
+   "list": "data/acts/local/bacau/ungureni/2024.md",
+   "versions": "data/versions/local/bacau/ungureni/2024.json",
+   "laws": "data/laws/local/bacau/ungureni/2024.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/bacau/ungureni/2024.csv"
+  },
+  {
+   "shard": "local/bacau/ungureni/2025",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/bacau/ungureni/2025.json",
+   "list": "data/acts/local/bacau/ungureni/2025.md",
+   "versions": "data/versions/local/bacau/ungureni/2025.json",
+   "laws": "data/laws/local/bacau/ungureni/2025.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/bacau/ungureni/2025.csv"
+  },
+  {
+   "shard": "local/bacau/ungureni/2026",
+   "kind": "local",
+   "count": 13,
+   "acts": "data/acts/local/bacau/ungureni/2026.json",
+   "list": "data/acts/local/bacau/ungureni/2026.md",
+   "versions": "data/versions/local/bacau/ungureni/2026.json",
+   "laws": "data/laws/local/bacau/ungureni/2026.csv",
+   "laws_count": 13,
+   "sources": "data/sources/local/bacau/ungureni/2026.csv"
+  },
+  {
    "shard": "local/bacau/valea-seaca/2024",
    "kind": "local",
    "count": 4,
@@ -5618,6 +7499,171 @@
    "laws": "data/laws/local/bacau/valea-seaca/2024.csv",
    "laws_count": 4,
    "sources": "data/sources/local/bacau/valea-seaca/2024.csv"
+  },
+  {
+   "shard": "local/bihor/abram/2024",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/bihor/abram/2024.json",
+   "list": "data/acts/local/bihor/abram/2024.md",
+   "versions": "data/versions/local/bihor/abram/2024.json",
+   "laws": "data/laws/local/bihor/abram/2024.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/bihor/abram/2024.csv"
+  },
+  {
+   "shard": "local/bihor/abram/2025",
+   "kind": "local",
+   "count": 10,
+   "acts": "data/acts/local/bihor/abram/2025.json",
+   "list": "data/acts/local/bihor/abram/2025.md",
+   "versions": "data/versions/local/bihor/abram/2025.json",
+   "laws": "data/laws/local/bihor/abram/2025.csv",
+   "laws_count": 10,
+   "sources": "data/sources/local/bihor/abram/2025.csv"
+  },
+  {
+   "shard": "local/bihor/abram/2026",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/bihor/abram/2026.json",
+   "list": "data/acts/local/bihor/abram/2026.md",
+   "versions": "data/versions/local/bihor/abram/2026.json",
+   "laws": "data/laws/local/bihor/abram/2026.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/bihor/abram/2026.csv"
+  },
+  {
+   "shard": "local/bihor/avram-iancu/2021",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/bihor/avram-iancu/2021.json",
+   "list": "data/acts/local/bihor/avram-iancu/2021.md",
+   "versions": "data/versions/local/bihor/avram-iancu/2021.json",
+   "laws": "data/laws/local/bihor/avram-iancu/2021.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/bihor/avram-iancu/2021.csv"
+  },
+  {
+   "shard": "local/bihor/avram-iancu/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/avram-iancu/2022.json",
+   "list": "data/acts/local/bihor/avram-iancu/2022.md",
+   "versions": "data/versions/local/bihor/avram-iancu/2022.json",
+   "laws": "data/laws/local/bihor/avram-iancu/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/avram-iancu/2022.csv"
+  },
+  {
+   "shard": "local/bihor/avram-iancu/2023",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/bihor/avram-iancu/2023.json",
+   "list": "data/acts/local/bihor/avram-iancu/2023.md",
+   "versions": "data/versions/local/bihor/avram-iancu/2023.json",
+   "laws": "data/laws/local/bihor/avram-iancu/2023.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/bihor/avram-iancu/2023.csv"
+  },
+  {
+   "shard": "local/bihor/avram-iancu/2024",
+   "kind": "local",
+   "count": 20,
+   "acts": "data/acts/local/bihor/avram-iancu/2024.json",
+   "list": "data/acts/local/bihor/avram-iancu/2024.md",
+   "versions": "data/versions/local/bihor/avram-iancu/2024.json",
+   "laws": "data/laws/local/bihor/avram-iancu/2024.csv",
+   "laws_count": 20,
+   "sources": "data/sources/local/bihor/avram-iancu/2024.csv"
+  },
+  {
+   "shard": "local/bihor/avram-iancu/2025",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/bihor/avram-iancu/2025.json",
+   "list": "data/acts/local/bihor/avram-iancu/2025.md",
+   "versions": "data/versions/local/bihor/avram-iancu/2025.json",
+   "laws": "data/laws/local/bihor/avram-iancu/2025.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/bihor/avram-iancu/2025.csv"
+  },
+  {
+   "shard": "local/bihor/avram-iancu/2026",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/bihor/avram-iancu/2026.json",
+   "list": "data/acts/local/bihor/avram-iancu/2026.md",
+   "versions": "data/versions/local/bihor/avram-iancu/2026.json",
+   "laws": "data/laws/local/bihor/avram-iancu/2026.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/bihor/avram-iancu/2026.csv"
+  },
+  {
+   "shard": "local/bihor/balc/2021",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bihor/balc/2021.json",
+   "list": "data/acts/local/bihor/balc/2021.md",
+   "versions": "data/versions/local/bihor/balc/2021.json",
+   "laws": "data/laws/local/bihor/balc/2021.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bihor/balc/2021.csv"
+  },
+  {
+   "shard": "local/bihor/balc/2022",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/bihor/balc/2022.json",
+   "list": "data/acts/local/bihor/balc/2022.md",
+   "versions": "data/versions/local/bihor/balc/2022.json",
+   "laws": "data/laws/local/bihor/balc/2022.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/bihor/balc/2022.csv"
+  },
+  {
+   "shard": "local/bihor/balc/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/balc/2023.json",
+   "list": "data/acts/local/bihor/balc/2023.md",
+   "versions": "data/versions/local/bihor/balc/2023.json",
+   "laws": "data/laws/local/bihor/balc/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/balc/2023.csv"
+  },
+  {
+   "shard": "local/bihor/balc/2024",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bihor/balc/2024.json",
+   "list": "data/acts/local/bihor/balc/2024.md",
+   "versions": "data/versions/local/bihor/balc/2024.json",
+   "laws": "data/laws/local/bihor/balc/2024.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bihor/balc/2024.csv"
+  },
+  {
+   "shard": "local/bihor/balc/2025",
+   "kind": "local",
+   "count": 20,
+   "acts": "data/acts/local/bihor/balc/2025.json",
+   "list": "data/acts/local/bihor/balc/2025.md",
+   "versions": "data/versions/local/bihor/balc/2025.json",
+   "laws": "data/laws/local/bihor/balc/2025.csv",
+   "laws_count": 20,
+   "sources": "data/sources/local/bihor/balc/2025.csv"
+  },
+  {
+   "shard": "local/bihor/balc/2026",
+   "kind": "local",
+   "count": 18,
+   "acts": "data/acts/local/bihor/balc/2026.json",
+   "list": "data/acts/local/bihor/balc/2026.md",
+   "versions": "data/versions/local/bihor/balc/2026.json",
+   "laws": "data/laws/local/bihor/balc/2026.csv",
+   "laws_count": 18,
+   "sources": "data/sources/local/bihor/balc/2026.csv"
   },
   {
    "shard": "local/bihor/beius/2021",
@@ -5697,6 +7743,127 @@
    "sources": "data/sources/local/bihor/boianu-mare/2026.csv"
   },
   {
+   "shard": "local/bihor/borod/2021",
+   "kind": "local",
+   "count": 11,
+   "acts": "data/acts/local/bihor/borod/2021.json",
+   "list": "data/acts/local/bihor/borod/2021.md",
+   "versions": "data/versions/local/bihor/borod/2021.json",
+   "laws": "data/laws/local/bihor/borod/2021.csv",
+   "laws_count": 11,
+   "sources": "data/sources/local/bihor/borod/2021.csv"
+  },
+  {
+   "shard": "local/bihor/borod/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/borod/2022.json",
+   "list": "data/acts/local/bihor/borod/2022.md",
+   "versions": "data/versions/local/bihor/borod/2022.json",
+   "laws": "data/laws/local/bihor/borod/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/borod/2022.csv"
+  },
+  {
+   "shard": "local/bihor/borod/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/borod/2023.json",
+   "list": "data/acts/local/bihor/borod/2023.md",
+   "versions": "data/versions/local/bihor/borod/2023.json",
+   "laws": "data/laws/local/bihor/borod/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/borod/2023.csv"
+  },
+  {
+   "shard": "local/bihor/borod/2024",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bihor/borod/2024.json",
+   "list": "data/acts/local/bihor/borod/2024.md",
+   "versions": "data/versions/local/bihor/borod/2024.json",
+   "laws": "data/laws/local/bihor/borod/2024.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bihor/borod/2024.csv"
+  },
+  {
+   "shard": "local/bihor/borod/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/borod/2025.json",
+   "list": "data/acts/local/bihor/borod/2025.md",
+   "versions": "data/versions/local/bihor/borod/2025.json",
+   "laws": "data/laws/local/bihor/borod/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/borod/2025.csv"
+  },
+  {
+   "shard": "local/bihor/bratca/2020",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bihor/bratca/2020.json",
+   "list": "data/acts/local/bihor/bratca/2020.md",
+   "versions": "data/versions/local/bihor/bratca/2020.json",
+   "laws": "data/laws/local/bihor/bratca/2020.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bihor/bratca/2020.csv"
+  },
+  {
+   "shard": "local/bihor/bratca/2023",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bihor/bratca/2023.json",
+   "list": "data/acts/local/bihor/bratca/2023.md",
+   "versions": "data/versions/local/bihor/bratca/2023.json",
+   "laws": "data/laws/local/bihor/bratca/2023.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bihor/bratca/2023.csv"
+  },
+  {
+   "shard": "local/bihor/bratca/2024",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/bihor/bratca/2024.json",
+   "list": "data/acts/local/bihor/bratca/2024.md",
+   "versions": "data/versions/local/bihor/bratca/2024.json",
+   "laws": "data/laws/local/bihor/bratca/2024.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/bihor/bratca/2024.csv"
+  },
+  {
+   "shard": "local/bihor/bratca/2025",
+   "kind": "local",
+   "count": 11,
+   "acts": "data/acts/local/bihor/bratca/2025.json",
+   "list": "data/acts/local/bihor/bratca/2025.md",
+   "versions": "data/versions/local/bihor/bratca/2025.json",
+   "laws": "data/laws/local/bihor/bratca/2025.csv",
+   "laws_count": 11,
+   "sources": "data/sources/local/bihor/bratca/2025.csv"
+  },
+  {
+   "shard": "local/bihor/bratca/2026",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/bihor/bratca/2026.json",
+   "list": "data/acts/local/bihor/bratca/2026.md",
+   "versions": "data/versions/local/bihor/bratca/2026.json",
+   "laws": "data/laws/local/bihor/bratca/2026.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/bihor/bratca/2026.csv"
+  },
+  {
+   "shard": "local/bihor/bulz/2026",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/bihor/bulz/2026.json",
+   "list": "data/acts/local/bihor/bulz/2026.md",
+   "versions": "data/versions/local/bihor/bulz/2026.json",
+   "laws": "data/laws/local/bihor/bulz/2026.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/bihor/bulz/2026.csv"
+  },
+  {
    "shard": "local/bihor/carpinet/2019",
    "kind": "local",
    "count": 2,
@@ -5728,6 +7895,270 @@
    "laws": "data/laws/local/bihor/carpinet/2023.csv",
    "laws_count": 1,
    "sources": "data/sources/local/bihor/carpinet/2023.csv"
+  },
+  {
+   "shard": "local/bihor/ciumeghiu/2022",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bihor/ciumeghiu/2022.json",
+   "list": "data/acts/local/bihor/ciumeghiu/2022.md",
+   "versions": "data/versions/local/bihor/ciumeghiu/2022.json",
+   "laws": "data/laws/local/bihor/ciumeghiu/2022.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bihor/ciumeghiu/2022.csv"
+  },
+  {
+   "shard": "local/bihor/ciumeghiu/2023",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/bihor/ciumeghiu/2023.json",
+   "list": "data/acts/local/bihor/ciumeghiu/2023.md",
+   "versions": "data/versions/local/bihor/ciumeghiu/2023.json",
+   "laws": "data/laws/local/bihor/ciumeghiu/2023.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/bihor/ciumeghiu/2023.csv"
+  },
+  {
+   "shard": "local/bihor/ciumeghiu/2024",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bihor/ciumeghiu/2024.json",
+   "list": "data/acts/local/bihor/ciumeghiu/2024.md",
+   "versions": "data/versions/local/bihor/ciumeghiu/2024.json",
+   "laws": "data/laws/local/bihor/ciumeghiu/2024.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bihor/ciumeghiu/2024.csv"
+  },
+  {
+   "shard": "local/bihor/ciumeghiu/2025",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bihor/ciumeghiu/2025.json",
+   "list": "data/acts/local/bihor/ciumeghiu/2025.md",
+   "versions": "data/versions/local/bihor/ciumeghiu/2025.json",
+   "laws": "data/laws/local/bihor/ciumeghiu/2025.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bihor/ciumeghiu/2025.csv"
+  },
+  {
+   "shard": "local/bihor/copacel/2022",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bihor/copacel/2022.json",
+   "list": "data/acts/local/bihor/copacel/2022.md",
+   "versions": "data/versions/local/bihor/copacel/2022.json",
+   "laws": "data/laws/local/bihor/copacel/2022.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bihor/copacel/2022.csv"
+  },
+  {
+   "shard": "local/bihor/copacel/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/copacel/2024.json",
+   "list": "data/acts/local/bihor/copacel/2024.md",
+   "versions": "data/versions/local/bihor/copacel/2024.json",
+   "laws": "data/laws/local/bihor/copacel/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/copacel/2024.csv"
+  },
+  {
+   "shard": "local/bihor/copacel/2025",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/bihor/copacel/2025.json",
+   "list": "data/acts/local/bihor/copacel/2025.md",
+   "versions": "data/versions/local/bihor/copacel/2025.json",
+   "laws": "data/laws/local/bihor/copacel/2025.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/bihor/copacel/2025.csv"
+  },
+  {
+   "shard": "local/bihor/copacel/2026",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/bihor/copacel/2026.json",
+   "list": "data/acts/local/bihor/copacel/2026.md",
+   "versions": "data/versions/local/bihor/copacel/2026.json",
+   "laws": "data/laws/local/bihor/copacel/2026.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/bihor/copacel/2026.csv"
+  },
+  {
+   "shard": "local/bihor/dobresti/2024",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/bihor/dobresti/2024.json",
+   "list": "data/acts/local/bihor/dobresti/2024.md",
+   "versions": "data/versions/local/bihor/dobresti/2024.json",
+   "laws": "data/laws/local/bihor/dobresti/2024.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/bihor/dobresti/2024.csv"
+  },
+  {
+   "shard": "local/bihor/dobresti/2025",
+   "kind": "local",
+   "count": 12,
+   "acts": "data/acts/local/bihor/dobresti/2025.json",
+   "list": "data/acts/local/bihor/dobresti/2025.md",
+   "versions": "data/versions/local/bihor/dobresti/2025.json",
+   "laws": "data/laws/local/bihor/dobresti/2025.csv",
+   "laws_count": 12,
+   "sources": "data/sources/local/bihor/dobresti/2025.csv"
+  },
+  {
+   "shard": "local/bihor/ineu/2021",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/bihor/ineu/2021.json",
+   "list": "data/acts/local/bihor/ineu/2021.md",
+   "versions": "data/versions/local/bihor/ineu/2021.json",
+   "laws": "data/laws/local/bihor/ineu/2021.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/bihor/ineu/2021.csv"
+  },
+  {
+   "shard": "local/bihor/ineu/2022",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/bihor/ineu/2022.json",
+   "list": "data/acts/local/bihor/ineu/2022.md",
+   "versions": "data/versions/local/bihor/ineu/2022.json",
+   "laws": "data/laws/local/bihor/ineu/2022.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/bihor/ineu/2022.csv"
+  },
+  {
+   "shard": "local/bihor/ineu/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/ineu/2026.json",
+   "list": "data/acts/local/bihor/ineu/2026.md",
+   "versions": "data/versions/local/bihor/ineu/2026.json",
+   "laws": "data/laws/local/bihor/ineu/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/ineu/2026.csv"
+  },
+  {
+   "shard": "local/bihor/lazareni/2021",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bihor/lazareni/2021.json",
+   "list": "data/acts/local/bihor/lazareni/2021.md",
+   "versions": "data/versions/local/bihor/lazareni/2021.json",
+   "laws": "data/laws/local/bihor/lazareni/2021.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bihor/lazareni/2021.csv"
+  },
+  {
+   "shard": "local/bihor/lazuri-de-beius/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/lazuri-de-beius/2021.json",
+   "list": "data/acts/local/bihor/lazuri-de-beius/2021.md",
+   "versions": "data/versions/local/bihor/lazuri-de-beius/2021.json",
+   "laws": "data/laws/local/bihor/lazuri-de-beius/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/lazuri-de-beius/2021.csv"
+  },
+  {
+   "shard": "local/bihor/lazuri-de-beius/2022",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bihor/lazuri-de-beius/2022.json",
+   "list": "data/acts/local/bihor/lazuri-de-beius/2022.md",
+   "versions": "data/versions/local/bihor/lazuri-de-beius/2022.json",
+   "laws": "data/laws/local/bihor/lazuri-de-beius/2022.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bihor/lazuri-de-beius/2022.csv"
+  },
+  {
+   "shard": "local/bihor/lazuri-de-beius/2023",
+   "kind": "local",
+   "count": 19,
+   "acts": "data/acts/local/bihor/lazuri-de-beius/2023.json",
+   "list": "data/acts/local/bihor/lazuri-de-beius/2023.md",
+   "versions": "data/versions/local/bihor/lazuri-de-beius/2023.json",
+   "laws": "data/laws/local/bihor/lazuri-de-beius/2023.csv",
+   "laws_count": 19,
+   "sources": "data/sources/local/bihor/lazuri-de-beius/2023.csv"
+  },
+  {
+   "shard": "local/bihor/lazuri-de-beius/2024",
+   "kind": "local",
+   "count": 14,
+   "acts": "data/acts/local/bihor/lazuri-de-beius/2024.json",
+   "list": "data/acts/local/bihor/lazuri-de-beius/2024.md",
+   "versions": "data/versions/local/bihor/lazuri-de-beius/2024.json",
+   "laws": "data/laws/local/bihor/lazuri-de-beius/2024.csv",
+   "laws_count": 14,
+   "sources": "data/sources/local/bihor/lazuri-de-beius/2024.csv"
+  },
+  {
+   "shard": "local/bihor/lazuri-de-beius/2025",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/bihor/lazuri-de-beius/2025.json",
+   "list": "data/acts/local/bihor/lazuri-de-beius/2025.md",
+   "versions": "data/versions/local/bihor/lazuri-de-beius/2025.json",
+   "laws": "data/laws/local/bihor/lazuri-de-beius/2025.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/bihor/lazuri-de-beius/2025.csv"
+  },
+  {
+   "shard": "local/bihor/lazuri-de-beius/2026",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bihor/lazuri-de-beius/2026.json",
+   "list": "data/acts/local/bihor/lazuri-de-beius/2026.md",
+   "versions": "data/versions/local/bihor/lazuri-de-beius/2026.json",
+   "laws": "data/laws/local/bihor/lazuri-de-beius/2026.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bihor/lazuri-de-beius/2026.csv"
+  },
+  {
+   "shard": "local/bihor/magesti/2021",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bihor/magesti/2021.json",
+   "list": "data/acts/local/bihor/magesti/2021.md",
+   "versions": "data/versions/local/bihor/magesti/2021.json",
+   "laws": "data/laws/local/bihor/magesti/2021.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bihor/magesti/2021.csv"
+  },
+  {
+   "shard": "local/bihor/magesti/2024",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/bihor/magesti/2024.json",
+   "list": "data/acts/local/bihor/magesti/2024.md",
+   "versions": "data/versions/local/bihor/magesti/2024.json",
+   "laws": "data/laws/local/bihor/magesti/2024.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/bihor/magesti/2024.csv"
+  },
+  {
+   "shard": "local/bihor/magesti/2025",
+   "kind": "local",
+   "count": 11,
+   "acts": "data/acts/local/bihor/magesti/2025.json",
+   "list": "data/acts/local/bihor/magesti/2025.md",
+   "versions": "data/versions/local/bihor/magesti/2025.json",
+   "laws": "data/laws/local/bihor/magesti/2025.csv",
+   "laws_count": 11,
+   "sources": "data/sources/local/bihor/magesti/2025.csv"
+  },
+  {
+   "shard": "local/bihor/magesti/2026",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/bihor/magesti/2026.json",
+   "list": "data/acts/local/bihor/magesti/2026.md",
+   "versions": "data/versions/local/bihor/magesti/2026.json",
+   "laws": "data/laws/local/bihor/magesti/2026.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/bihor/magesti/2026.csv"
   },
   {
    "shard": "local/bihor/marghita/2015",
@@ -5840,6 +8271,72 @@
    "sources": "data/sources/local/bihor/marghita/2026.csv"
   },
   {
+   "shard": "local/bihor/pocola/2025",
+   "kind": "local",
+   "count": 16,
+   "acts": "data/acts/local/bihor/pocola/2025.json",
+   "list": "data/acts/local/bihor/pocola/2025.md",
+   "versions": "data/versions/local/bihor/pocola/2025.json",
+   "laws": "data/laws/local/bihor/pocola/2025.csv",
+   "laws_count": 16,
+   "sources": "data/sources/local/bihor/pocola/2025.csv"
+  },
+  {
+   "shard": "local/bihor/pocola/2026",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/bihor/pocola/2026.json",
+   "list": "data/acts/local/bihor/pocola/2026.md",
+   "versions": "data/versions/local/bihor/pocola/2026.json",
+   "laws": "data/laws/local/bihor/pocola/2026.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/bihor/pocola/2026.csv"
+  },
+  {
+   "shard": "local/bihor/sacadat/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bihor/sacadat/2023.json",
+   "list": "data/acts/local/bihor/sacadat/2023.md",
+   "versions": "data/versions/local/bihor/sacadat/2023.json",
+   "laws": "data/laws/local/bihor/sacadat/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bihor/sacadat/2023.csv"
+  },
+  {
+   "shard": "local/bihor/sacadat/2024",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/bihor/sacadat/2024.json",
+   "list": "data/acts/local/bihor/sacadat/2024.md",
+   "versions": "data/versions/local/bihor/sacadat/2024.json",
+   "laws": "data/laws/local/bihor/sacadat/2024.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/bihor/sacadat/2024.csv"
+  },
+  {
+   "shard": "local/bihor/sacadat/2025",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/bihor/sacadat/2025.json",
+   "list": "data/acts/local/bihor/sacadat/2025.md",
+   "versions": "data/versions/local/bihor/sacadat/2025.json",
+   "laws": "data/laws/local/bihor/sacadat/2025.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/bihor/sacadat/2025.csv"
+  },
+  {
+   "shard": "local/bihor/sacadat/2026",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/bihor/sacadat/2026.json",
+   "list": "data/acts/local/bihor/sacadat/2026.md",
+   "versions": "data/versions/local/bihor/sacadat/2026.json",
+   "laws": "data/laws/local/bihor/sacadat/2026.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/bihor/sacadat/2026.csv"
+  },
+  {
    "shard": "local/bihor/sacueni/2021",
    "kind": "local",
    "count": 7,
@@ -5886,23 +8383,23 @@
   {
    "shard": "local/bihor/sacueni/2025",
    "kind": "local",
-   "count": 60,
+   "count": 98,
    "acts": "data/acts/local/bihor/sacueni/2025.json",
    "list": "data/acts/local/bihor/sacueni/2025.md",
    "versions": "data/versions/local/bihor/sacueni/2025.json",
    "laws": "data/laws/local/bihor/sacueni/2025.csv",
-   "laws_count": 60,
+   "laws_count": 98,
    "sources": "data/sources/local/bihor/sacueni/2025.csv"
   },
   {
    "shard": "local/bihor/sacueni/2026",
    "kind": "local",
-   "count": 60,
+   "count": 87,
    "acts": "data/acts/local/bihor/sacueni/2026.json",
    "list": "data/acts/local/bihor/sacueni/2026.md",
    "versions": "data/versions/local/bihor/sacueni/2026.json",
    "laws": "data/laws/local/bihor/sacueni/2026.csv",
-   "laws_count": 60,
+   "laws_count": 87,
    "sources": "data/sources/local/bihor/sacueni/2026.csv"
   },
   {
@@ -6040,12 +8537,12 @@
   {
    "shard": "local/bihor/valea-lui-mihai/2026",
    "kind": "local",
-   "count": 35,
+   "count": 40,
    "acts": "data/acts/local/bihor/valea-lui-mihai/2026.json",
    "list": "data/acts/local/bihor/valea-lui-mihai/2026.md",
    "versions": "data/versions/local/bihor/valea-lui-mihai/2026.json",
    "laws": "data/laws/local/bihor/valea-lui-mihai/2026.csv",
-   "laws_count": 35,
+   "laws_count": 40,
    "sources": "data/sources/local/bihor/valea-lui-mihai/2026.csv"
   },
   {
@@ -6258,14 +8755,25 @@
    "sources": "data/sources/local/bistrita-nasaud/galatii-bistritei/2022.csv"
   },
   {
+   "shard": "local/bistrita-nasaud/galatii-bistritei/2023",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/bistrita-nasaud/galatii-bistritei/2023.json",
+   "list": "data/acts/local/bistrita-nasaud/galatii-bistritei/2023.md",
+   "versions": "data/versions/local/bistrita-nasaud/galatii-bistritei/2023.json",
+   "laws": "data/laws/local/bistrita-nasaud/galatii-bistritei/2023.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/bistrita-nasaud/galatii-bistritei/2023.csv"
+  },
+  {
    "shard": "local/bistrita-nasaud/galatii-bistritei/2024",
    "kind": "local",
-   "count": 1,
+   "count": 2,
    "acts": "data/acts/local/bistrita-nasaud/galatii-bistritei/2024.json",
    "list": "data/acts/local/bistrita-nasaud/galatii-bistritei/2024.md",
    "versions": "data/versions/local/bistrita-nasaud/galatii-bistritei/2024.json",
    "laws": "data/laws/local/bistrita-nasaud/galatii-bistritei/2024.csv",
-   "laws_count": 1,
+   "laws_count": 2,
    "sources": "data/sources/local/bistrita-nasaud/galatii-bistritei/2024.csv"
   },
   {
@@ -6282,12 +8790,12 @@
   {
    "shard": "local/bistrita-nasaud/micestii-de-campie/2025",
    "kind": "local",
-   "count": 5,
+   "count": 8,
    "acts": "data/acts/local/bistrita-nasaud/micestii-de-campie/2025.json",
    "list": "data/acts/local/bistrita-nasaud/micestii-de-campie/2025.md",
    "versions": "data/versions/local/bistrita-nasaud/micestii-de-campie/2025.json",
    "laws": "data/laws/local/bistrita-nasaud/micestii-de-campie/2025.csv",
-   "laws_count": 5,
+   "laws_count": 8,
    "sources": "data/sources/local/bistrita-nasaud/micestii-de-campie/2025.csv"
   },
   {
@@ -6337,12 +8845,12 @@
   {
    "shard": "local/bistrita-nasaud/milas/2025",
    "kind": "local",
-   "count": 14,
+   "count": 15,
    "acts": "data/acts/local/bistrita-nasaud/milas/2025.json",
    "list": "data/acts/local/bistrita-nasaud/milas/2025.md",
    "versions": "data/versions/local/bistrita-nasaud/milas/2025.json",
    "laws": "data/laws/local/bistrita-nasaud/milas/2025.csv",
-   "laws_count": 14,
+   "laws_count": 15,
    "sources": "data/sources/local/bistrita-nasaud/milas/2025.csv"
   },
   {
@@ -6366,6 +8874,17 @@
    "laws": "data/laws/local/bistrita-nasaud/rodna/2026.csv",
    "laws_count": 1,
    "sources": "data/sources/local/bistrita-nasaud/rodna/2026.csv"
+  },
+  {
+   "shard": "local/bistrita-nasaud/runcu-salvei/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/bistrita-nasaud/runcu-salvei/2023.json",
+   "list": "data/acts/local/bistrita-nasaud/runcu-salvei/2023.md",
+   "versions": "data/versions/local/bistrita-nasaud/runcu-salvei/2023.json",
+   "laws": "data/laws/local/bistrita-nasaud/runcu-salvei/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/bistrita-nasaud/runcu-salvei/2023.csv"
   },
   {
    "shard": "local/bistrita-nasaud/runcu-salvei/2025",
@@ -6588,6 +9107,17 @@
    "sources": "data/sources/local/botosani/botosani/2026.csv"
   },
   {
+   "shard": "local/botosani/broscauti/2021",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/botosani/broscauti/2021.json",
+   "list": "data/acts/local/botosani/broscauti/2021.md",
+   "versions": "data/versions/local/botosani/broscauti/2021.json",
+   "laws": "data/laws/local/botosani/broscauti/2021.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/botosani/broscauti/2021.csv"
+  },
+  {
    "shard": "local/botosani/bucecea/2023",
    "kind": "local",
    "count": 40,
@@ -6634,12 +9164,12 @@
   {
    "shard": "local/botosani/calarasi/2025",
    "kind": "local",
-   "count": 1,
+   "count": 3,
    "acts": "data/acts/local/botosani/calarasi/2025.json",
    "list": "data/acts/local/botosani/calarasi/2025.md",
    "versions": "data/versions/local/botosani/calarasi/2025.json",
    "laws": "data/laws/local/botosani/calarasi/2025.csv",
-   "laws_count": 1,
+   "laws_count": 3,
    "sources": "data/sources/local/botosani/calarasi/2025.csv"
   },
   {
@@ -6843,12 +9373,12 @@
   {
    "shard": "local/botosani/lunca/2025",
    "kind": "local",
-   "count": 1,
+   "count": 2,
    "acts": "data/acts/local/botosani/lunca/2025.json",
    "list": "data/acts/local/botosani/lunca/2025.md",
    "versions": "data/versions/local/botosani/lunca/2025.json",
    "laws": "data/laws/local/botosani/lunca/2025.csv",
-   "laws_count": 1,
+   "laws_count": 2,
    "sources": "data/sources/local/botosani/lunca/2025.csv"
   },
   {
@@ -6865,23 +9395,23 @@
   {
    "shard": "local/botosani/mihaileni/2023",
    "kind": "local",
-   "count": 1,
+   "count": 4,
    "acts": "data/acts/local/botosani/mihaileni/2023.json",
    "list": "data/acts/local/botosani/mihaileni/2023.md",
    "versions": "data/versions/local/botosani/mihaileni/2023.json",
    "laws": "data/laws/local/botosani/mihaileni/2023.csv",
-   "laws_count": 1,
+   "laws_count": 4,
    "sources": "data/sources/local/botosani/mihaileni/2023.csv"
   },
   {
    "shard": "local/botosani/mihaileni/2024",
    "kind": "local",
-   "count": 4,
+   "count": 5,
    "acts": "data/acts/local/botosani/mihaileni/2024.json",
    "list": "data/acts/local/botosani/mihaileni/2024.md",
    "versions": "data/versions/local/botosani/mihaileni/2024.json",
    "laws": "data/laws/local/botosani/mihaileni/2024.csv",
-   "laws_count": 4,
+   "laws_count": 5,
    "sources": "data/sources/local/botosani/mihaileni/2024.csv"
   },
   {
@@ -6929,6 +9459,17 @@
    "sources": "data/sources/local/botosani/ripiceni/2026.csv"
   },
   {
+   "shard": "local/botosani/stefanesti/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/botosani/stefanesti/2026.json",
+   "list": "data/acts/local/botosani/stefanesti/2026.md",
+   "versions": "data/versions/local/botosani/stefanesti/2026.json",
+   "laws": "data/laws/local/botosani/stefanesti/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/botosani/stefanesti/2026.csv"
+  },
+  {
    "shard": "local/botosani/trusesti/2025",
    "kind": "local",
    "count": 1,
@@ -6938,6 +9479,17 @@
    "laws": "data/laws/local/botosani/trusesti/2025.csv",
    "laws_count": 1,
    "sources": "data/sources/local/botosani/trusesti/2025.csv"
+  },
+  {
+   "shard": "local/braila/baraganul/2024",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/braila/baraganul/2024.json",
+   "list": "data/acts/local/braila/baraganul/2024.md",
+   "versions": "data/versions/local/braila/baraganul/2024.json",
+   "laws": "data/laws/local/braila/baraganul/2024.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/braila/baraganul/2024.csv"
   },
   {
    "shard": "local/braila/braila/2017",
@@ -7085,12 +9637,12 @@
   {
    "shard": "local/brasov/cristian/2026",
    "kind": "local",
-   "count": 1,
+   "count": 2,
    "acts": "data/acts/local/brasov/cristian/2026.json",
    "list": "data/acts/local/brasov/cristian/2026.md",
    "versions": "data/versions/local/brasov/cristian/2026.json",
    "laws": "data/laws/local/brasov/cristian/2026.csv",
-   "laws_count": 1,
+   "laws_count": 2,
    "sources": "data/sources/local/brasov/cristian/2026.csv"
   },
   {
@@ -7127,6 +9679,61 @@
    "sources": "data/sources/local/brasov/fagaras/2019.csv"
   },
   {
+   "shard": "local/brasov/ghimbav/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/brasov/ghimbav/2025.json",
+   "list": "data/acts/local/brasov/ghimbav/2025.md",
+   "versions": "data/versions/local/brasov/ghimbav/2025.json",
+   "laws": "data/laws/local/brasov/ghimbav/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/brasov/ghimbav/2025.csv"
+  },
+  {
+   "shard": "local/brasov/harseni/2013",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/brasov/harseni/2013.json",
+   "list": "data/acts/local/brasov/harseni/2013.md",
+   "versions": "data/versions/local/brasov/harseni/2013.json",
+   "laws": "data/laws/local/brasov/harseni/2013.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/brasov/harseni/2013.csv"
+  },
+  {
+   "shard": "local/brasov/rupea/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/brasov/rupea/2024.json",
+   "list": "data/acts/local/brasov/rupea/2024.md",
+   "versions": "data/versions/local/brasov/rupea/2024.json",
+   "laws": "data/laws/local/brasov/rupea/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/brasov/rupea/2024.csv"
+  },
+  {
+   "shard": "local/brasov/rupea/2025",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/brasov/rupea/2025.json",
+   "list": "data/acts/local/brasov/rupea/2025.md",
+   "versions": "data/versions/local/brasov/rupea/2025.json",
+   "laws": "data/laws/local/brasov/rupea/2025.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/brasov/rupea/2025.csv"
+  },
+  {
+   "shard": "local/brasov/rupea/2026",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/brasov/rupea/2026.json",
+   "list": "data/acts/local/brasov/rupea/2026.md",
+   "versions": "data/versions/local/brasov/rupea/2026.json",
+   "laws": "data/laws/local/brasov/rupea/2026.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/brasov/rupea/2026.csv"
+  },
+  {
    "shard": "local/brasov/tarlungeni/2026",
    "kind": "local",
    "count": 1,
@@ -7136,6 +9743,39 @@
    "laws": "data/laws/local/brasov/tarlungeni/2026.csv",
    "laws_count": 1,
    "sources": "data/sources/local/brasov/tarlungeni/2026.csv"
+  },
+  {
+   "shard": "local/brasov/ungra/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/brasov/ungra/2026.json",
+   "list": "data/acts/local/brasov/ungra/2026.md",
+   "versions": "data/versions/local/brasov/ungra/2026.json",
+   "laws": "data/laws/local/brasov/ungra/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/brasov/ungra/2026.csv"
+  },
+  {
+   "shard": "local/brasov/vama-buzaului/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/brasov/vama-buzaului/2025.json",
+   "list": "data/acts/local/brasov/vama-buzaului/2025.md",
+   "versions": "data/versions/local/brasov/vama-buzaului/2025.json",
+   "laws": "data/laws/local/brasov/vama-buzaului/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/brasov/vama-buzaului/2025.csv"
+  },
+  {
+   "shard": "local/brasov/vama-buzaului/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/brasov/vama-buzaului/2026.json",
+   "list": "data/acts/local/brasov/vama-buzaului/2026.md",
+   "versions": "data/versions/local/brasov/vama-buzaului/2026.json",
+   "laws": "data/laws/local/brasov/vama-buzaului/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/brasov/vama-buzaului/2026.csv"
   },
   {
    "shard": "local/bucuresti/cgmb/1992",
@@ -8304,6 +10944,17 @@
    "sources": "data/sources/local/bucuresti/sector-6/2026.csv"
   },
   {
+   "shard": "local/buzau/berca/2018",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/buzau/berca/2018.json",
+   "list": "data/acts/local/buzau/berca/2018.md",
+   "versions": "data/versions/local/buzau/berca/2018.json",
+   "laws": "data/laws/local/buzau/berca/2018.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/buzau/berca/2018.csv"
+  },
+  {
    "shard": "local/buzau/berca/2020",
    "kind": "local",
    "count": 1,
@@ -8313,6 +10964,17 @@
    "laws": "data/laws/local/buzau/berca/2020.csv",
    "laws_count": 1,
    "sources": "data/sources/local/buzau/berca/2020.csv"
+  },
+  {
+   "shard": "local/buzau/berca/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/buzau/berca/2025.json",
+   "list": "data/acts/local/buzau/berca/2025.md",
+   "versions": "data/versions/local/buzau/berca/2025.json",
+   "laws": "data/laws/local/buzau/berca/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/buzau/berca/2025.csv"
   },
   {
    "shard": "local/buzau/buzau/2017",
@@ -8403,6 +11065,17 @@
    "sources": "data/sources/local/buzau/cernatesti/2021.csv"
   },
   {
+   "shard": "local/buzau/grebanu/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/buzau/grebanu/2021.json",
+   "list": "data/acts/local/buzau/grebanu/2021.md",
+   "versions": "data/versions/local/buzau/grebanu/2021.json",
+   "laws": "data/laws/local/buzau/grebanu/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/buzau/grebanu/2021.csv"
+  },
+  {
    "shard": "local/buzau/nehoiu/2025",
    "kind": "local",
    "count": 1,
@@ -8412,6 +11085,28 @@
    "laws": "data/laws/local/buzau/nehoiu/2025.csv",
    "laws_count": 1,
    "sources": "data/sources/local/buzau/nehoiu/2025.csv"
+  },
+  {
+   "shard": "local/buzau/podgoria/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/buzau/podgoria/2024.json",
+   "list": "data/acts/local/buzau/podgoria/2024.md",
+   "versions": "data/versions/local/buzau/podgoria/2024.json",
+   "laws": "data/laws/local/buzau/podgoria/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/buzau/podgoria/2024.csv"
+  },
+  {
+   "shard": "local/buzau/podgoria/2025",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/buzau/podgoria/2025.json",
+   "list": "data/acts/local/buzau/podgoria/2025.md",
+   "versions": "data/versions/local/buzau/podgoria/2025.json",
+   "laws": "data/laws/local/buzau/podgoria/2025.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/buzau/podgoria/2025.csv"
   },
   {
    "shard": "local/buzau/podgoria/2026",
@@ -8489,6 +11184,28 @@
    "laws": "data/laws/local/buzau/ramnicu-sarat/2026.csv",
    "laws_count": 19,
    "sources": "data/sources/local/buzau/ramnicu-sarat/2026.csv"
+  },
+  {
+   "shard": "local/buzau/sahateni/2022",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/buzau/sahateni/2022.json",
+   "list": "data/acts/local/buzau/sahateni/2022.md",
+   "versions": "data/versions/local/buzau/sahateni/2022.json",
+   "laws": "data/laws/local/buzau/sahateni/2022.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/buzau/sahateni/2022.csv"
+  },
+  {
+   "shard": "local/buzau/scutelnici/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/buzau/scutelnici/2025.json",
+   "list": "data/acts/local/buzau/scutelnici/2025.md",
+   "versions": "data/versions/local/buzau/scutelnici/2025.json",
+   "laws": "data/laws/local/buzau/scutelnici/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/buzau/scutelnici/2025.csv"
   },
   {
    "shard": "local/calarasi/budesti/2021",
@@ -8588,6 +11305,17 @@
    "laws": "data/laws/local/calarasi/calarasi/2026.csv",
    "laws_count": 5,
    "sources": "data/sources/local/calarasi/calarasi/2026.csv"
+  },
+  {
+   "shard": "local/calarasi/lehliu-gara/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/calarasi/lehliu-gara/2025.json",
+   "list": "data/acts/local/calarasi/lehliu-gara/2025.md",
+   "versions": "data/versions/local/calarasi/lehliu-gara/2025.json",
+   "laws": "data/laws/local/calarasi/lehliu-gara/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/calarasi/lehliu-gara/2025.csv"
   },
   {
    "shard": "local/calarasi/lehliu-gara/2026",
@@ -8755,6 +11483,17 @@
    "sources": "data/sources/local/cluj/cluj-napoca/2012.csv"
   },
   {
+   "shard": "local/cluj/izvoru-crisului/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/cluj/izvoru-crisului/2026.json",
+   "list": "data/acts/local/cluj/izvoru-crisului/2026.md",
+   "versions": "data/versions/local/cluj/izvoru-crisului/2026.json",
+   "laws": "data/laws/local/cluj/izvoru-crisului/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/cluj/izvoru-crisului/2026.csv"
+  },
+  {
    "shard": "local/cluj/turda/2018",
    "kind": "local",
    "count": 5,
@@ -8909,6 +11648,17 @@
    "sources": "data/sources/local/constanta/constanta/2026.csv"
   },
   {
+   "shard": "local/constanta/dobromir/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/constanta/dobromir/2024.json",
+   "list": "data/acts/local/constanta/dobromir/2024.md",
+   "versions": "data/versions/local/constanta/dobromir/2024.json",
+   "laws": "data/laws/local/constanta/dobromir/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/constanta/dobromir/2024.csv"
+  },
+  {
    "shard": "local/constanta/eforie/2023",
    "kind": "local",
    "count": 3,
@@ -8951,6 +11701,17 @@
    "laws": "data/laws/local/constanta/eforie/2026.csv",
    "laws_count": 4,
    "sources": "data/sources/local/constanta/eforie/2026.csv"
+  },
+  {
+   "shard": "local/constanta/horia/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/constanta/horia/2025.json",
+   "list": "data/acts/local/constanta/horia/2025.md",
+   "versions": "data/versions/local/constanta/horia/2025.json",
+   "laws": "data/laws/local/constanta/horia/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/constanta/horia/2025.csv"
   },
   {
    "shard": "local/constanta/mangalia/2014",
@@ -9206,6 +11967,17 @@
    "sources": "data/sources/local/constanta/negru-voda/2026.csv"
   },
   {
+   "shard": "local/constanta/nicolae-balcescu/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/constanta/nicolae-balcescu/2021.json",
+   "list": "data/acts/local/constanta/nicolae-balcescu/2021.md",
+   "versions": "data/versions/local/constanta/nicolae-balcescu/2021.json",
+   "laws": "data/laws/local/constanta/nicolae-balcescu/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/constanta/nicolae-balcescu/2021.csv"
+  },
+  {
    "shard": "local/constanta/seimeni/2026",
    "kind": "local",
    "count": 1,
@@ -9272,15 +12044,59 @@
    "sources": "data/sources/local/constanta/techirghiol/2026.csv"
   },
   {
-   "shard": "local/covasna/covasna/2026",
+   "shard": "local/covasna/bodoc/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/covasna/bodoc/2025.json",
+   "list": "data/acts/local/covasna/bodoc/2025.md",
+   "versions": "data/versions/local/covasna/bodoc/2025.json",
+   "laws": "data/laws/local/covasna/bodoc/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/covasna/bodoc/2025.csv"
+  },
+  {
+   "shard": "local/covasna/covasna/2025",
    "kind": "local",
    "count": 3,
+   "acts": "data/acts/local/covasna/covasna/2025.json",
+   "list": "data/acts/local/covasna/covasna/2025.md",
+   "versions": "data/versions/local/covasna/covasna/2025.json",
+   "laws": "data/laws/local/covasna/covasna/2025.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/covasna/covasna/2025.csv"
+  },
+  {
+   "shard": "local/covasna/covasna/2026",
+   "kind": "local",
+   "count": 4,
    "acts": "data/acts/local/covasna/covasna/2026.json",
    "list": "data/acts/local/covasna/covasna/2026.md",
    "versions": "data/versions/local/covasna/covasna/2026.json",
    "laws": "data/laws/local/covasna/covasna/2026.csv",
-   "laws_count": 3,
+   "laws_count": 4,
    "sources": "data/sources/local/covasna/covasna/2026.csv"
+  },
+  {
+   "shard": "local/covasna/ojdula/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/covasna/ojdula/2025.json",
+   "list": "data/acts/local/covasna/ojdula/2025.md",
+   "versions": "data/versions/local/covasna/ojdula/2025.json",
+   "laws": "data/laws/local/covasna/ojdula/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/covasna/ojdula/2025.csv"
+  },
+  {
+   "shard": "local/covasna/ojdula/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/covasna/ojdula/2026.json",
+   "list": "data/acts/local/covasna/ojdula/2026.md",
+   "versions": "data/versions/local/covasna/ojdula/2026.json",
+   "laws": "data/laws/local/covasna/ojdula/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/covasna/ojdula/2026.csv"
   },
   {
    "shard": "local/covasna/targu-secuiesc/2025",
@@ -9393,6 +12209,17 @@
    "sources": "data/sources/local/dambovita/gaesti/2026.csv"
   },
   {
+   "shard": "local/dambovita/lucieni/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/dambovita/lucieni/2023.json",
+   "list": "data/acts/local/dambovita/lucieni/2023.md",
+   "versions": "data/versions/local/dambovita/lucieni/2023.json",
+   "laws": "data/laws/local/dambovita/lucieni/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/dambovita/lucieni/2023.csv"
+  },
+  {
    "shard": "local/dambovita/moreni/2017",
    "kind": "local",
    "count": 3,
@@ -9494,12 +12321,12 @@
   {
    "shard": "local/dambovita/nucet/2026",
    "kind": "local",
-   "count": 1,
+   "count": 2,
    "acts": "data/acts/local/dambovita/nucet/2026.json",
    "list": "data/acts/local/dambovita/nucet/2026.md",
    "versions": "data/versions/local/dambovita/nucet/2026.json",
    "laws": "data/laws/local/dambovita/nucet/2026.csv",
-   "laws_count": 1,
+   "laws_count": 2,
    "sources": "data/sources/local/dambovita/nucet/2026.csv"
   },
   {
@@ -9514,6 +12341,17 @@
    "sources": "data/sources/local/dambovita/razvad/2014.csv"
   },
   {
+   "shard": "local/dambovita/ulmi/2024",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/dambovita/ulmi/2024.json",
+   "list": "data/acts/local/dambovita/ulmi/2024.md",
+   "versions": "data/versions/local/dambovita/ulmi/2024.json",
+   "laws": "data/laws/local/dambovita/ulmi/2024.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/dambovita/ulmi/2024.csv"
+  },
+  {
    "shard": "local/dolj/bailesti/2013",
    "kind": "local",
    "count": 27,
@@ -9523,6 +12361,17 @@
    "laws": "data/laws/local/dolj/bailesti/2013.csv",
    "laws_count": 27,
    "sources": "data/sources/local/dolj/bailesti/2013.csv"
+  },
+  {
+   "shard": "local/dolj/bradesti/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/dolj/bradesti/2022.json",
+   "list": "data/acts/local/dolj/bradesti/2022.md",
+   "versions": "data/versions/local/dolj/bradesti/2022.json",
+   "laws": "data/laws/local/dolj/bradesti/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/dolj/bradesti/2022.csv"
   },
   {
    "shard": "local/dolj/catane/2025",
@@ -9536,6 +12385,39 @@
    "sources": "data/sources/local/dolj/catane/2025.csv"
   },
   {
+   "shard": "local/dolj/celaru/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/dolj/celaru/2025.json",
+   "list": "data/acts/local/dolj/celaru/2025.md",
+   "versions": "data/versions/local/dolj/celaru/2025.json",
+   "laws": "data/laws/local/dolj/celaru/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/dolj/celaru/2025.csv"
+  },
+  {
+   "shard": "local/dolj/dobresti/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/dolj/dobresti/2022.json",
+   "list": "data/acts/local/dolj/dobresti/2022.md",
+   "versions": "data/versions/local/dolj/dobresti/2022.json",
+   "laws": "data/laws/local/dolj/dobresti/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/dolj/dobresti/2022.csv"
+  },
+  {
+   "shard": "local/dolj/dobresti/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/dolj/dobresti/2023.json",
+   "list": "data/acts/local/dolj/dobresti/2023.md",
+   "versions": "data/versions/local/dolj/dobresti/2023.json",
+   "laws": "data/laws/local/dolj/dobresti/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/dolj/dobresti/2023.csv"
+  },
+  {
    "shard": "local/dolj/filiasi/2026",
    "kind": "local",
    "count": 5,
@@ -9547,6 +12429,50 @@
    "sources": "data/sources/local/dolj/filiasi/2026.csv"
   },
   {
+   "shard": "local/dolj/ghidici/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/dolj/ghidici/2026.json",
+   "list": "data/acts/local/dolj/ghidici/2026.md",
+   "versions": "data/versions/local/dolj/ghidici/2026.json",
+   "laws": "data/laws/local/dolj/ghidici/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/dolj/ghidici/2026.csv"
+  },
+  {
+   "shard": "local/dolj/isalnita/2022",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/dolj/isalnita/2022.json",
+   "list": "data/acts/local/dolj/isalnita/2022.md",
+   "versions": "data/versions/local/dolj/isalnita/2022.json",
+   "laws": "data/laws/local/dolj/isalnita/2022.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/dolj/isalnita/2022.csv"
+  },
+  {
+   "shard": "local/dolj/varvoru-de-jos/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/dolj/varvoru-de-jos/2026.json",
+   "list": "data/acts/local/dolj/varvoru-de-jos/2026.md",
+   "versions": "data/versions/local/dolj/varvoru-de-jos/2026.json",
+   "laws": "data/laws/local/dolj/varvoru-de-jos/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/dolj/varvoru-de-jos/2026.csv"
+  },
+  {
+   "shard": "local/galati/beresti/2013",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/galati/beresti/2013.json",
+   "list": "data/acts/local/galati/beresti/2013.md",
+   "versions": "data/versions/local/galati/beresti/2013.json",
+   "laws": "data/laws/local/galati/beresti/2013.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/galati/beresti/2013.csv"
+  },
+  {
    "shard": "local/galati/beresti/2017",
    "kind": "local",
    "count": 2,
@@ -9556,6 +12482,17 @@
    "laws": "data/laws/local/galati/beresti/2017.csv",
    "laws_count": 2,
    "sources": "data/sources/local/galati/beresti/2017.csv"
+  },
+  {
+   "shard": "local/galati/cuca/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/galati/cuca/2026.json",
+   "list": "data/acts/local/galati/cuca/2026.md",
+   "versions": "data/versions/local/galati/cuca/2026.json",
+   "laws": "data/laws/local/galati/cuca/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/galati/cuca/2026.csv"
   },
   {
    "shard": "local/galati/galati/2020",
@@ -9589,6 +12526,17 @@
    "laws": "data/laws/local/galati/galati/2026.csv",
    "laws_count": 2,
    "sources": "data/sources/local/galati/galati/2026.csv"
+  },
+  {
+   "shard": "local/galati/liesti/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/galati/liesti/2026.json",
+   "list": "data/acts/local/galati/liesti/2026.md",
+   "versions": "data/versions/local/galati/liesti/2026.json",
+   "laws": "data/laws/local/galati/liesti/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/galati/liesti/2026.csv"
   },
   {
    "shard": "local/galati/targu-bujor/2023",
@@ -9644,6 +12592,17 @@
    "laws": "data/laws/local/galati/vladesti/2025.csv",
    "laws_count": 1,
    "sources": "data/sources/local/galati/vladesti/2025.csv"
+  },
+  {
+   "shard": "local/giurgiu/daia/2001",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/giurgiu/daia/2001.json",
+   "list": "data/acts/local/giurgiu/daia/2001.md",
+   "versions": "data/versions/local/giurgiu/daia/2001.json",
+   "laws": "data/laws/local/giurgiu/daia/2001.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/giurgiu/daia/2001.csv"
   },
   {
    "shard": "local/giurgiu/giurgiu/2001",
@@ -9833,6 +12792,17 @@
    "sources": "data/sources/local/giurgiu/giurgiu/2026.csv"
   },
   {
+   "shard": "local/gorj/bumbesti-jiu/2024",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/gorj/bumbesti-jiu/2024.json",
+   "list": "data/acts/local/gorj/bumbesti-jiu/2024.md",
+   "versions": "data/versions/local/gorj/bumbesti-jiu/2024.json",
+   "laws": "data/laws/local/gorj/bumbesti-jiu/2024.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/gorj/bumbesti-jiu/2024.csv"
+  },
+  {
    "shard": "local/gorj/bumbesti-jiu/2025",
    "kind": "local",
    "count": 1,
@@ -9923,13 +12893,24 @@
   {
    "shard": "local/gorj/rovinari/2025",
    "kind": "local",
-   "count": 1,
+   "count": 4,
    "acts": "data/acts/local/gorj/rovinari/2025.json",
    "list": "data/acts/local/gorj/rovinari/2025.md",
    "versions": "data/versions/local/gorj/rovinari/2025.json",
    "laws": "data/laws/local/gorj/rovinari/2025.csv",
-   "laws_count": 1,
+   "laws_count": 4,
    "sources": "data/sources/local/gorj/rovinari/2025.csv"
+  },
+  {
+   "shard": "local/gorj/rovinari/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/gorj/rovinari/2026.json",
+   "list": "data/acts/local/gorj/rovinari/2026.md",
+   "versions": "data/versions/local/gorj/rovinari/2026.json",
+   "laws": "data/laws/local/gorj/rovinari/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/gorj/rovinari/2026.csv"
   },
   {
    "shard": "local/gorj/targu-carbunesti/2025",
@@ -9952,6 +12933,17 @@
    "laws": "data/laws/local/gorj/targu-carbunesti/2026.csv",
    "laws_count": 27,
    "sources": "data/sources/local/gorj/targu-carbunesti/2026.csv"
+  },
+  {
+   "shard": "local/gorj/ticleni/2025",
+   "kind": "local",
+   "count": 6,
+   "acts": "data/acts/local/gorj/ticleni/2025.json",
+   "list": "data/acts/local/gorj/ticleni/2025.md",
+   "versions": "data/versions/local/gorj/ticleni/2025.json",
+   "laws": "data/laws/local/gorj/ticleni/2025.csv",
+   "laws_count": 6,
+   "sources": "data/sources/local/gorj/ticleni/2025.csv"
   },
   {
    "shard": "local/gorj/ticleni/2026",
@@ -9985,6 +12977,28 @@
    "laws": "data/laws/local/gorj/turceni/2026.csv",
    "laws_count": 5,
    "sources": "data/sources/local/gorj/turceni/2026.csv"
+  },
+  {
+   "shard": "local/hunedoara/balsa/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/hunedoara/balsa/2026.json",
+   "list": "data/acts/local/hunedoara/balsa/2026.md",
+   "versions": "data/versions/local/hunedoara/balsa/2026.json",
+   "laws": "data/laws/local/hunedoara/balsa/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/hunedoara/balsa/2026.csv"
+  },
+  {
+   "shard": "local/hunedoara/batrana/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/hunedoara/batrana/2021.json",
+   "list": "data/acts/local/hunedoara/batrana/2021.md",
+   "versions": "data/versions/local/hunedoara/batrana/2021.json",
+   "laws": "data/laws/local/hunedoara/batrana/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/hunedoara/batrana/2021.csv"
   },
   {
    "shard": "local/hunedoara/batrana/2022",
@@ -10416,6 +13430,39 @@
    "sources": "data/sources/local/hunedoara/vulcan/2020.csv"
   },
   {
+   "shard": "local/ialomita/albesti/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/ialomita/albesti/2026.json",
+   "list": "data/acts/local/ialomita/albesti/2026.md",
+   "versions": "data/versions/local/ialomita/albesti/2026.json",
+   "laws": "data/laws/local/ialomita/albesti/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/ialomita/albesti/2026.csv"
+  },
+  {
+   "shard": "local/ialomita/armasesti/2017",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/ialomita/armasesti/2017.json",
+   "list": "data/acts/local/ialomita/armasesti/2017.md",
+   "versions": "data/versions/local/ialomita/armasesti/2017.json",
+   "laws": "data/laws/local/ialomita/armasesti/2017.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/ialomita/armasesti/2017.csv"
+  },
+  {
+   "shard": "local/ialomita/cazanesti/2021",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/ialomita/cazanesti/2021.json",
+   "list": "data/acts/local/ialomita/cazanesti/2021.md",
+   "versions": "data/versions/local/ialomita/cazanesti/2021.json",
+   "laws": "data/laws/local/ialomita/cazanesti/2021.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/ialomita/cazanesti/2021.csv"
+  },
+  {
    "shard": "local/ialomita/fetesti/2020",
    "kind": "local",
    "count": 2,
@@ -10493,6 +13540,17 @@
    "sources": "data/sources/local/ialomita/fetesti/2026.csv"
   },
   {
+   "shard": "local/ialomita/gheorghe-lazar/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/ialomita/gheorghe-lazar/2026.json",
+   "list": "data/acts/local/ialomita/gheorghe-lazar/2026.md",
+   "versions": "data/versions/local/ialomita/gheorghe-lazar/2026.json",
+   "laws": "data/laws/local/ialomita/gheorghe-lazar/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/ialomita/gheorghe-lazar/2026.csv"
+  },
+  {
    "shard": "local/ialomita/moldoveni/2026",
    "kind": "local",
    "count": 1,
@@ -10502,6 +13560,17 @@
    "laws": "data/laws/local/ialomita/moldoveni/2026.csv",
    "laws_count": 1,
    "sources": "data/sources/local/ialomita/moldoveni/2026.csv"
+  },
+  {
+   "shard": "local/ialomita/platonesti/2017",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/ialomita/platonesti/2017.json",
+   "list": "data/acts/local/ialomita/platonesti/2017.md",
+   "versions": "data/versions/local/ialomita/platonesti/2017.json",
+   "laws": "data/laws/local/ialomita/platonesti/2017.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/ialomita/platonesti/2017.csv"
   },
   {
    "shard": "local/ialomita/slobozia/2021",
@@ -10524,6 +13593,17 @@
    "laws": "data/laws/local/iasi/draguseni/2025.csv",
    "laws_count": 1,
    "sources": "data/sources/local/iasi/draguseni/2025.csv"
+  },
+  {
+   "shard": "local/iasi/draguseni/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/iasi/draguseni/2026.json",
+   "list": "data/acts/local/iasi/draguseni/2026.md",
+   "versions": "data/versions/local/iasi/draguseni/2026.json",
+   "laws": "data/laws/local/iasi/draguseni/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/iasi/draguseni/2026.csv"
   },
   {
    "shard": "local/iasi/pascani/2023",
@@ -10572,45 +13652,67 @@
   {
    "shard": "local/ilfov/buftea/2024",
    "kind": "local",
-   "count": 5,
+   "count": 7,
    "acts": "data/acts/local/ilfov/buftea/2024.json",
    "list": "data/acts/local/ilfov/buftea/2024.md",
    "versions": "data/versions/local/ilfov/buftea/2024.json",
    "laws": "data/laws/local/ilfov/buftea/2024.csv",
-   "laws_count": 5,
+   "laws_count": 7,
    "sources": "data/sources/local/ilfov/buftea/2024.csv"
   },
   {
    "shard": "local/ilfov/buftea/2025",
    "kind": "local",
-   "count": 2,
+   "count": 3,
    "acts": "data/acts/local/ilfov/buftea/2025.json",
    "list": "data/acts/local/ilfov/buftea/2025.md",
    "versions": "data/versions/local/ilfov/buftea/2025.json",
    "laws": "data/laws/local/ilfov/buftea/2025.csv",
-   "laws_count": 2,
+   "laws_count": 3,
    "sources": "data/sources/local/ilfov/buftea/2025.csv"
   },
   {
    "shard": "local/ilfov/buftea/2026",
    "kind": "local",
-   "count": 10,
+   "count": 11,
    "acts": "data/acts/local/ilfov/buftea/2026.json",
    "list": "data/acts/local/ilfov/buftea/2026.md",
    "versions": "data/versions/local/ilfov/buftea/2026.json",
    "laws": "data/laws/local/ilfov/buftea/2026.csv",
-   "laws_count": 10,
+   "laws_count": 11,
    "sources": "data/sources/local/ilfov/buftea/2026.csv"
+  },
+  {
+   "shard": "local/ilfov/otopeni/2024",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/ilfov/otopeni/2024.json",
+   "list": "data/acts/local/ilfov/otopeni/2024.md",
+   "versions": "data/versions/local/ilfov/otopeni/2024.json",
+   "laws": "data/laws/local/ilfov/otopeni/2024.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/ilfov/otopeni/2024.csv"
+  },
+  {
+   "shard": "local/ilfov/otopeni/2025",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/ilfov/otopeni/2025.json",
+   "list": "data/acts/local/ilfov/otopeni/2025.md",
+   "versions": "data/versions/local/ilfov/otopeni/2025.json",
+   "laws": "data/laws/local/ilfov/otopeni/2025.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/ilfov/otopeni/2025.csv"
   },
   {
    "shard": "local/ilfov/otopeni/2026",
    "kind": "local",
-   "count": 4,
+   "count": 5,
    "acts": "data/acts/local/ilfov/otopeni/2026.json",
    "list": "data/acts/local/ilfov/otopeni/2026.md",
    "versions": "data/versions/local/ilfov/otopeni/2026.json",
    "laws": "data/laws/local/ilfov/otopeni/2026.csv",
-   "laws_count": 4,
+   "laws_count": 5,
    "sources": "data/sources/local/ilfov/otopeni/2026.csv"
   },
   {
@@ -14519,14 +17621,36 @@
    "sources": "data/sources/local/maramures/cavnic/2026.csv"
   },
   {
+   "shard": "local/maramures/cicarlau/2026",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/maramures/cicarlau/2026.json",
+   "list": "data/acts/local/maramures/cicarlau/2026.md",
+   "versions": "data/versions/local/maramures/cicarlau/2026.json",
+   "laws": "data/laws/local/maramures/cicarlau/2026.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/maramures/cicarlau/2026.csv"
+  },
+  {
+   "shard": "local/maramures/salsig/2021",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/maramures/salsig/2021.json",
+   "list": "data/acts/local/maramures/salsig/2021.md",
+   "versions": "data/versions/local/maramures/salsig/2021.json",
+   "laws": "data/laws/local/maramures/salsig/2021.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/maramures/salsig/2021.csv"
+  },
+  {
    "shard": "local/maramures/sapanta/2025",
    "kind": "local",
-   "count": 1,
+   "count": 3,
    "acts": "data/acts/local/maramures/sapanta/2025.json",
    "list": "data/acts/local/maramures/sapanta/2025.md",
    "versions": "data/versions/local/maramures/sapanta/2025.json",
    "laws": "data/laws/local/maramures/sapanta/2025.csv",
-   "laws_count": 1,
+   "laws_count": 3,
    "sources": "data/sources/local/maramures/sapanta/2025.csv"
   },
   {
@@ -14554,12 +17678,12 @@
   {
    "shard": "local/maramures/tautii-magheraus/2026",
    "kind": "local",
-   "count": 2,
+   "count": 5,
    "acts": "data/acts/local/maramures/tautii-magheraus/2026.json",
    "list": "data/acts/local/maramures/tautii-magheraus/2026.md",
    "versions": "data/versions/local/maramures/tautii-magheraus/2026.json",
    "laws": "data/laws/local/maramures/tautii-magheraus/2026.csv",
-   "laws_count": 2,
+   "laws_count": 5,
    "sources": "data/sources/local/maramures/tautii-magheraus/2026.csv"
   },
   {
@@ -14783,6 +17907,17 @@
    "sources": "data/sources/local/mehedinti/drobeta-turnu-severin/2026.csv"
   },
   {
+   "shard": "local/mehedinti/hinova/2025",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/mehedinti/hinova/2025.json",
+   "list": "data/acts/local/mehedinti/hinova/2025.md",
+   "versions": "data/versions/local/mehedinti/hinova/2025.json",
+   "laws": "data/laws/local/mehedinti/hinova/2025.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/mehedinti/hinova/2025.csv"
+  },
+  {
    "shard": "local/mehedinti/hinova/2026",
    "kind": "local",
    "count": 1,
@@ -14825,6 +17960,17 @@
    "laws": "data/laws/local/mehedinti/orsova/2026.csv",
    "laws_count": 6,
    "sources": "data/sources/local/mehedinti/orsova/2026.csv"
+  },
+  {
+   "shard": "local/mehedinti/simian/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/mehedinti/simian/2023.json",
+   "list": "data/acts/local/mehedinti/simian/2023.md",
+   "versions": "data/versions/local/mehedinti/simian/2023.json",
+   "laws": "data/laws/local/mehedinti/simian/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/mehedinti/simian/2023.csv"
   },
   {
    "shard": "local/mehedinti/vanju-mare/2021",
@@ -14893,6 +18039,39 @@
    "sources": "data/sources/local/mehedinti/vanju-mare/2026.csv"
   },
   {
+   "shard": "local/mures/bagaciu/2020",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/mures/bagaciu/2020.json",
+   "list": "data/acts/local/mures/bagaciu/2020.md",
+   "versions": "data/versions/local/mures/bagaciu/2020.json",
+   "laws": "data/laws/local/mures/bagaciu/2020.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/mures/bagaciu/2020.csv"
+  },
+  {
+   "shard": "local/mures/ideciu-de-jos/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/mures/ideciu-de-jos/2025.json",
+   "list": "data/acts/local/mures/ideciu-de-jos/2025.md",
+   "versions": "data/versions/local/mures/ideciu-de-jos/2025.json",
+   "laws": "data/laws/local/mures/ideciu-de-jos/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/mures/ideciu-de-jos/2025.csv"
+  },
+  {
+   "shard": "local/mures/ideciu-de-jos/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/mures/ideciu-de-jos/2026.json",
+   "list": "data/acts/local/mures/ideciu-de-jos/2026.md",
+   "versions": "data/versions/local/mures/ideciu-de-jos/2026.json",
+   "laws": "data/laws/local/mures/ideciu-de-jos/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/mures/ideciu-de-jos/2026.csv"
+  },
+  {
    "shard": "local/mures/iernut/2026",
    "kind": "local",
    "count": 2,
@@ -14904,6 +18083,17 @@
    "sources": "data/sources/local/mures/iernut/2026.csv"
   },
   {
+   "shard": "local/mures/petelea/2016",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/mures/petelea/2016.json",
+   "list": "data/acts/local/mures/petelea/2016.md",
+   "versions": "data/versions/local/mures/petelea/2016.json",
+   "laws": "data/laws/local/mures/petelea/2016.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/mures/petelea/2016.csv"
+  },
+  {
    "shard": "local/mures/reghin/2019",
    "kind": "local",
    "count": 1,
@@ -14913,6 +18103,17 @@
    "laws": "data/laws/local/mures/reghin/2019.csv",
    "laws_count": 1,
    "sources": "data/sources/local/mures/reghin/2019.csv"
+  },
+  {
+   "shard": "local/mures/sangeorgiu-de-padure/2025",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/mures/sangeorgiu-de-padure/2025.json",
+   "list": "data/acts/local/mures/sangeorgiu-de-padure/2025.md",
+   "versions": "data/versions/local/mures/sangeorgiu-de-padure/2025.json",
+   "laws": "data/laws/local/mures/sangeorgiu-de-padure/2025.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/mures/sangeorgiu-de-padure/2025.csv"
   },
   {
    "shard": "local/mures/sangeorgiu-de-padure/2026",
@@ -14948,6 +18149,17 @@
    "sources": "data/sources/local/mures/sighisoara/2024.csv"
   },
   {
+   "shard": "local/mures/sovata/2009",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/mures/sovata/2009.json",
+   "list": "data/acts/local/mures/sovata/2009.md",
+   "versions": "data/versions/local/mures/sovata/2009.json",
+   "laws": "data/laws/local/mures/sovata/2009.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/mures/sovata/2009.csv"
+  },
+  {
    "shard": "local/mures/targu-mures/2026",
    "kind": "local",
    "count": 247,
@@ -14968,6 +18180,28 @@
    "laws": "data/laws/local/neamt/bicaz/2020.csv",
    "laws_count": 1,
    "sources": "data/sources/local/neamt/bicaz/2020.csv"
+  },
+  {
+   "shard": "local/neamt/girov/2012",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/neamt/girov/2012.json",
+   "list": "data/acts/local/neamt/girov/2012.md",
+   "versions": "data/versions/local/neamt/girov/2012.json",
+   "laws": "data/laws/local/neamt/girov/2012.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/neamt/girov/2012.csv"
+  },
+  {
+   "shard": "local/neamt/petricani/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/neamt/petricani/2026.json",
+   "list": "data/acts/local/neamt/petricani/2026.md",
+   "versions": "data/versions/local/neamt/petricani/2026.json",
+   "laws": "data/laws/local/neamt/petricani/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/neamt/petricani/2026.csv"
   },
   {
    "shard": "local/neamt/piatra-neamt/2020",
@@ -15267,6 +18501,17 @@
    "sources": "data/sources/local/neamt/roman/2026.csv"
   },
   {
+   "shard": "local/olt/bobicesti/2023",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/olt/bobicesti/2023.json",
+   "list": "data/acts/local/olt/bobicesti/2023.md",
+   "versions": "data/versions/local/olt/bobicesti/2023.json",
+   "laws": "data/laws/local/olt/bobicesti/2023.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/olt/bobicesti/2023.csv"
+  },
+  {
    "shard": "local/olt/caracal/2002",
    "kind": "local",
    "count": 1,
@@ -15520,6 +18765,17 @@
    "sources": "data/sources/local/olt/draganesti-olt/2019.csv"
   },
   {
+   "shard": "local/olt/draganesti-olt/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/olt/draganesti-olt/2021.json",
+   "list": "data/acts/local/olt/draganesti-olt/2021.md",
+   "versions": "data/versions/local/olt/draganesti-olt/2021.json",
+   "laws": "data/laws/local/olt/draganesti-olt/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/olt/draganesti-olt/2021.csv"
+  },
+  {
    "shard": "local/olt/slatina/2017",
    "kind": "local",
    "count": 7,
@@ -15553,6 +18809,39 @@
    "sources": "data/sources/local/olt/slatina/2025.csv"
   },
   {
+   "shard": "local/prahova/adunati/2020",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/prahova/adunati/2020.json",
+   "list": "data/acts/local/prahova/adunati/2020.md",
+   "versions": "data/versions/local/prahova/adunati/2020.json",
+   "laws": "data/laws/local/prahova/adunati/2020.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/prahova/adunati/2020.csv"
+  },
+  {
+   "shard": "local/prahova/albesti-paleologu/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/prahova/albesti-paleologu/2025.json",
+   "list": "data/acts/local/prahova/albesti-paleologu/2025.md",
+   "versions": "data/versions/local/prahova/albesti-paleologu/2025.json",
+   "laws": "data/laws/local/prahova/albesti-paleologu/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/prahova/albesti-paleologu/2025.csv"
+  },
+  {
+   "shard": "local/prahova/baltesti/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/prahova/baltesti/2026.json",
+   "list": "data/acts/local/prahova/baltesti/2026.md",
+   "versions": "data/versions/local/prahova/baltesti/2026.json",
+   "laws": "data/laws/local/prahova/baltesti/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/prahova/baltesti/2026.csv"
+  },
+  {
    "shard": "local/prahova/breaza/2020",
    "kind": "local",
    "count": 1,
@@ -15562,6 +18851,17 @@
    "laws": "data/laws/local/prahova/breaza/2020.csv",
    "laws_count": 1,
    "sources": "data/sources/local/prahova/breaza/2020.csv"
+  },
+  {
+   "shard": "local/prahova/breaza/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/prahova/breaza/2021.json",
+   "list": "data/acts/local/prahova/breaza/2021.md",
+   "versions": "data/versions/local/prahova/breaza/2021.json",
+   "laws": "data/laws/local/prahova/breaza/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/prahova/breaza/2021.csv"
   },
   {
    "shard": "local/prahova/campina/2008",
@@ -15773,6 +19073,39 @@
    "sources": "data/sources/local/prahova/campina/2026.csv"
   },
   {
+   "shard": "local/prahova/cocorastii-colt/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/prahova/cocorastii-colt/2025.json",
+   "list": "data/acts/local/prahova/cocorastii-colt/2025.md",
+   "versions": "data/versions/local/prahova/cocorastii-colt/2025.json",
+   "laws": "data/laws/local/prahova/cocorastii-colt/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/prahova/cocorastii-colt/2025.csv"
+  },
+  {
+   "shard": "local/prahova/cosminele/2026",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/prahova/cosminele/2026.json",
+   "list": "data/acts/local/prahova/cosminele/2026.md",
+   "versions": "data/versions/local/prahova/cosminele/2026.json",
+   "laws": "data/laws/local/prahova/cosminele/2026.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/prahova/cosminele/2026.csv"
+  },
+  {
+   "shard": "local/prahova/izvoarele/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/prahova/izvoarele/2025.json",
+   "list": "data/acts/local/prahova/izvoarele/2025.md",
+   "versions": "data/versions/local/prahova/izvoarele/2025.json",
+   "laws": "data/laws/local/prahova/izvoarele/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/prahova/izvoarele/2025.csv"
+  },
+  {
    "shard": "local/prahova/ploiesti/2026",
    "kind": "local",
    "count": 3,
@@ -15850,15 +19183,70 @@
    "sources": "data/sources/local/salaj/jibou/2021.csv"
   },
   {
-   "shard": "local/salaj/simleu-silvaniei/2026",
+   "shard": "local/salaj/marca/2025",
    "kind": "local",
    "count": 1,
+   "acts": "data/acts/local/salaj/marca/2025.json",
+   "list": "data/acts/local/salaj/marca/2025.md",
+   "versions": "data/versions/local/salaj/marca/2025.json",
+   "laws": "data/laws/local/salaj/marca/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/salaj/marca/2025.csv"
+  },
+  {
+   "shard": "local/salaj/simleu-silvaniei/2026",
+   "kind": "local",
+   "count": 3,
    "acts": "data/acts/local/salaj/simleu-silvaniei/2026.json",
    "list": "data/acts/local/salaj/simleu-silvaniei/2026.md",
    "versions": "data/versions/local/salaj/simleu-silvaniei/2026.json",
    "laws": "data/laws/local/salaj/simleu-silvaniei/2026.csv",
-   "laws_count": 1,
+   "laws_count": 3,
    "sources": "data/sources/local/salaj/simleu-silvaniei/2026.csv"
+  },
+  {
+   "shard": "local/satu-mare/acas/2020",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/satu-mare/acas/2020.json",
+   "list": "data/acts/local/satu-mare/acas/2020.md",
+   "versions": "data/versions/local/satu-mare/acas/2020.json",
+   "laws": "data/laws/local/satu-mare/acas/2020.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/satu-mare/acas/2020.csv"
+  },
+  {
+   "shard": "local/satu-mare/ciumesti/2025",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/satu-mare/ciumesti/2025.json",
+   "list": "data/acts/local/satu-mare/ciumesti/2025.md",
+   "versions": "data/versions/local/satu-mare/ciumesti/2025.json",
+   "laws": "data/laws/local/satu-mare/ciumesti/2025.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/satu-mare/ciumesti/2025.csv"
+  },
+  {
+   "shard": "local/satu-mare/ciumesti/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/satu-mare/ciumesti/2026.json",
+   "list": "data/acts/local/satu-mare/ciumesti/2026.md",
+   "versions": "data/versions/local/satu-mare/ciumesti/2026.json",
+   "laws": "data/laws/local/satu-mare/ciumesti/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/satu-mare/ciumesti/2026.csv"
+  },
+  {
+   "shard": "local/satu-mare/negresti-oas/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/satu-mare/negresti-oas/2026.json",
+   "list": "data/acts/local/satu-mare/negresti-oas/2026.md",
+   "versions": "data/versions/local/satu-mare/negresti-oas/2026.json",
+   "laws": "data/laws/local/satu-mare/negresti-oas/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/satu-mare/negresti-oas/2026.csv"
   },
   {
    "shard": "local/satu-mare/satu-mare/2008",
@@ -15982,6 +19370,17 @@
    "sources": "data/sources/local/satu-mare/satu-mare/2026.csv"
   },
   {
+   "shard": "local/sibiu/bruiu/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/sibiu/bruiu/2025.json",
+   "list": "data/acts/local/sibiu/bruiu/2025.md",
+   "versions": "data/versions/local/sibiu/bruiu/2025.json",
+   "laws": "data/laws/local/sibiu/bruiu/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/sibiu/bruiu/2025.csv"
+  },
+  {
    "shard": "local/sibiu/cisnadie/2026",
    "kind": "local",
    "count": 3,
@@ -16013,6 +19412,39 @@
    "laws": "data/laws/local/sibiu/medias/2022.csv",
    "laws_count": 22,
    "sources": "data/sources/local/sibiu/medias/2022.csv"
+  },
+  {
+   "shard": "local/suceava/baia/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/suceava/baia/2026.json",
+   "list": "data/acts/local/suceava/baia/2026.md",
+   "versions": "data/versions/local/suceava/baia/2026.json",
+   "laws": "data/laws/local/suceava/baia/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/suceava/baia/2026.csv"
+  },
+  {
+   "shard": "local/suceava/balcauti/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/balcauti/2022.json",
+   "list": "data/acts/local/suceava/balcauti/2022.md",
+   "versions": "data/versions/local/suceava/balcauti/2022.json",
+   "laws": "data/laws/local/suceava/balcauti/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/balcauti/2022.csv"
+  },
+  {
+   "shard": "local/suceava/bosanci/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/bosanci/2026.json",
+   "list": "data/acts/local/suceava/bosanci/2026.md",
+   "versions": "data/versions/local/suceava/bosanci/2026.json",
+   "laws": "data/laws/local/suceava/bosanci/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/bosanci/2026.csv"
   },
   {
    "shard": "local/suceava/brosteni/2023",
@@ -16246,6 +19678,17 @@
    "sources": "data/sources/local/suceava/campulung-moldovenesc/2026.csv"
   },
   {
+   "shard": "local/suceava/dorna-arini/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/dorna-arini/2026.json",
+   "list": "data/acts/local/suceava/dorna-arini/2026.md",
+   "versions": "data/versions/local/suceava/dorna-arini/2026.json",
+   "laws": "data/laws/local/suceava/dorna-arini/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/dorna-arini/2026.csv"
+  },
+  {
    "shard": "local/suceava/falticeni/2010",
    "kind": "local",
    "count": 1,
@@ -16257,6 +19700,28 @@
    "sources": "data/sources/local/suceava/falticeni/2010.csv"
   },
   {
+   "shard": "local/suceava/frasin/2021",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/frasin/2021.json",
+   "list": "data/acts/local/suceava/frasin/2021.md",
+   "versions": "data/versions/local/suceava/frasin/2021.json",
+   "laws": "data/laws/local/suceava/frasin/2021.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/frasin/2021.csv"
+  },
+  {
+   "shard": "local/suceava/frasin/2025",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/suceava/frasin/2025.json",
+   "list": "data/acts/local/suceava/frasin/2025.md",
+   "versions": "data/versions/local/suceava/frasin/2025.json",
+   "laws": "data/laws/local/suceava/frasin/2025.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/suceava/frasin/2025.csv"
+  },
+  {
    "shard": "local/suceava/frasin/2026",
    "kind": "local",
    "count": 1,
@@ -16266,6 +19731,72 @@
    "laws": "data/laws/local/suceava/frasin/2026.csv",
    "laws_count": 1,
    "sources": "data/sources/local/suceava/frasin/2026.csv"
+  },
+  {
+   "shard": "local/suceava/fratautii-noi/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/fratautii-noi/2026.json",
+   "list": "data/acts/local/suceava/fratautii-noi/2026.md",
+   "versions": "data/versions/local/suceava/fratautii-noi/2026.json",
+   "laws": "data/laws/local/suceava/fratautii-noi/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/fratautii-noi/2026.csv"
+  },
+  {
+   "shard": "local/suceava/galanesti/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/galanesti/2026.json",
+   "list": "data/acts/local/suceava/galanesti/2026.md",
+   "versions": "data/versions/local/suceava/galanesti/2026.json",
+   "laws": "data/laws/local/suceava/galanesti/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/galanesti/2026.csv"
+  },
+  {
+   "shard": "local/suceava/granicesti/2020",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/granicesti/2020.json",
+   "list": "data/acts/local/suceava/granicesti/2020.md",
+   "versions": "data/versions/local/suceava/granicesti/2020.json",
+   "laws": "data/laws/local/suceava/granicesti/2020.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/granicesti/2020.csv"
+  },
+  {
+   "shard": "local/suceava/horodniceni/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/horodniceni/2026.json",
+   "list": "data/acts/local/suceava/horodniceni/2026.md",
+   "versions": "data/versions/local/suceava/horodniceni/2026.json",
+   "laws": "data/laws/local/suceava/horodniceni/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/horodniceni/2026.csv"
+  },
+  {
+   "shard": "local/suceava/liteni/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/liteni/2025.json",
+   "list": "data/acts/local/suceava/liteni/2025.md",
+   "versions": "data/versions/local/suceava/liteni/2025.json",
+   "laws": "data/laws/local/suceava/liteni/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/liteni/2025.csv"
+  },
+  {
+   "shard": "local/suceava/paltinoasa/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/paltinoasa/2026.json",
+   "list": "data/acts/local/suceava/paltinoasa/2026.md",
+   "versions": "data/versions/local/suceava/paltinoasa/2026.json",
+   "laws": "data/laws/local/suceava/paltinoasa/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/paltinoasa/2026.csv"
   },
   {
    "shard": "local/suceava/radauti/2018",
@@ -16345,14 +19876,25 @@
    "sources": "data/sources/local/suceava/radauti/2026.csv"
   },
   {
+   "shard": "local/suceava/salcea/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/suceava/salcea/2025.json",
+   "list": "data/acts/local/suceava/salcea/2025.md",
+   "versions": "data/versions/local/suceava/salcea/2025.json",
+   "laws": "data/laws/local/suceava/salcea/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/suceava/salcea/2025.csv"
+  },
+  {
    "shard": "local/suceava/salcea/2026",
    "kind": "local",
-   "count": 4,
+   "count": 10,
    "acts": "data/acts/local/suceava/salcea/2026.json",
    "list": "data/acts/local/suceava/salcea/2026.md",
    "versions": "data/versions/local/suceava/salcea/2026.json",
    "laws": "data/laws/local/suceava/salcea/2026.csv",
-   "laws_count": 4,
+   "laws_count": 10,
    "sources": "data/sources/local/suceava/salcea/2026.csv"
   },
   {
@@ -16642,6 +20184,17 @@
    "sources": "data/sources/local/teleorman/rosiorii-de-vede/2025.csv"
   },
   {
+   "shard": "local/timis/cenad/2020",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/timis/cenad/2020.json",
+   "list": "data/acts/local/timis/cenad/2020.md",
+   "versions": "data/versions/local/timis/cenad/2020.json",
+   "laws": "data/laws/local/timis/cenad/2020.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/timis/cenad/2020.csv"
+  },
+  {
    "shard": "local/timis/deta/2020",
    "kind": "local",
    "count": 16,
@@ -16719,6 +20272,17 @@
    "sources": "data/sources/local/timis/deta/2026.csv"
   },
   {
+   "shard": "local/timis/gavojdia/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/timis/gavojdia/2026.json",
+   "list": "data/acts/local/timis/gavojdia/2026.md",
+   "versions": "data/versions/local/timis/gavojdia/2026.json",
+   "laws": "data/laws/local/timis/gavojdia/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/timis/gavojdia/2026.csv"
+  },
+  {
    "shard": "local/timis/lugoj/2022",
    "kind": "local",
    "count": 1,
@@ -16728,6 +20292,39 @@
    "laws": "data/laws/local/timis/lugoj/2022.csv",
    "laws_count": 1,
    "sources": "data/sources/local/timis/lugoj/2022.csv"
+  },
+  {
+   "shard": "local/timis/ortisoara/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/timis/ortisoara/2025.json",
+   "list": "data/acts/local/timis/ortisoara/2025.md",
+   "versions": "data/versions/local/timis/ortisoara/2025.json",
+   "laws": "data/laws/local/timis/ortisoara/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/timis/ortisoara/2025.csv"
+  },
+  {
+   "shard": "local/timis/ortisoara/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/timis/ortisoara/2026.json",
+   "list": "data/acts/local/timis/ortisoara/2026.md",
+   "versions": "data/versions/local/timis/ortisoara/2026.json",
+   "laws": "data/laws/local/timis/ortisoara/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/timis/ortisoara/2026.csv"
+  },
+  {
+   "shard": "local/timis/parta/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/timis/parta/2025.json",
+   "list": "data/acts/local/timis/parta/2025.md",
+   "versions": "data/versions/local/timis/parta/2025.json",
+   "laws": "data/laws/local/timis/parta/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/timis/parta/2025.csv"
   },
   {
    "shard": "local/timis/timisoara/2023",
@@ -16761,6 +20358,28 @@
    "laws": "data/laws/local/tulcea/babadag/2025.csv",
    "laws_count": 1,
    "sources": "data/sources/local/tulcea/babadag/2025.csv"
+  },
+  {
+   "shard": "local/tulcea/i-c-bratianu/2026",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/tulcea/i-c-bratianu/2026.json",
+   "list": "data/acts/local/tulcea/i-c-bratianu/2026.md",
+   "versions": "data/versions/local/tulcea/i-c-bratianu/2026.json",
+   "laws": "data/laws/local/tulcea/i-c-bratianu/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/tulcea/i-c-bratianu/2026.csv"
+  },
+  {
+   "shard": "local/tulcea/isaccea/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/tulcea/isaccea/2023.json",
+   "list": "data/acts/local/tulcea/isaccea/2023.md",
+   "versions": "data/versions/local/tulcea/isaccea/2023.json",
+   "laws": "data/laws/local/tulcea/isaccea/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/tulcea/isaccea/2023.csv"
   },
   {
    "shard": "local/tulcea/isaccea/2024",
@@ -16820,12 +20439,12 @@
   {
    "shard": "local/tulcea/sulina/2025",
    "kind": "local",
-   "count": 4,
+   "count": 8,
    "acts": "data/acts/local/tulcea/sulina/2025.json",
    "list": "data/acts/local/tulcea/sulina/2025.md",
    "versions": "data/versions/local/tulcea/sulina/2025.json",
    "laws": "data/laws/local/tulcea/sulina/2025.csv",
-   "laws_count": 4,
+   "laws_count": 8,
    "sources": "data/sources/local/tulcea/sulina/2025.csv"
   },
   {
@@ -17025,6 +20644,105 @@
    "laws": "data/laws/local/tulcea/tulcea/2025.csv",
    "laws_count": 6,
    "sources": "data/sources/local/tulcea/tulcea/2025.csv"
+  },
+  {
+   "shard": "local/valcea/babeni/2022",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/valcea/babeni/2022.json",
+   "list": "data/acts/local/valcea/babeni/2022.md",
+   "versions": "data/versions/local/valcea/babeni/2022.json",
+   "laws": "data/laws/local/valcea/babeni/2022.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/valcea/babeni/2022.csv"
+  },
+  {
+   "shard": "local/valcea/babeni/2023",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/valcea/babeni/2023.json",
+   "list": "data/acts/local/valcea/babeni/2023.md",
+   "versions": "data/versions/local/valcea/babeni/2023.json",
+   "laws": "data/laws/local/valcea/babeni/2023.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/valcea/babeni/2023.csv"
+  },
+  {
+   "shard": "local/valcea/babeni/2024",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/valcea/babeni/2024.json",
+   "list": "data/acts/local/valcea/babeni/2024.md",
+   "versions": "data/versions/local/valcea/babeni/2024.json",
+   "laws": "data/laws/local/valcea/babeni/2024.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/valcea/babeni/2024.csv"
+  },
+  {
+   "shard": "local/valcea/babeni/2025",
+   "kind": "local",
+   "count": 7,
+   "acts": "data/acts/local/valcea/babeni/2025.json",
+   "list": "data/acts/local/valcea/babeni/2025.md",
+   "versions": "data/versions/local/valcea/babeni/2025.json",
+   "laws": "data/laws/local/valcea/babeni/2025.csv",
+   "laws_count": 7,
+   "sources": "data/sources/local/valcea/babeni/2025.csv"
+  },
+  {
+   "shard": "local/valcea/babeni/2026",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/valcea/babeni/2026.json",
+   "list": "data/acts/local/valcea/babeni/2026.md",
+   "versions": "data/versions/local/valcea/babeni/2026.json",
+   "laws": "data/laws/local/valcea/babeni/2026.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/valcea/babeni/2026.csv"
+  },
+  {
+   "shard": "local/valcea/malaia/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/valcea/malaia/2025.json",
+   "list": "data/acts/local/valcea/malaia/2025.md",
+   "versions": "data/versions/local/valcea/malaia/2025.json",
+   "laws": "data/laws/local/valcea/malaia/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/valcea/malaia/2025.csv"
+  },
+  {
+   "shard": "local/vaslui/costesti/2026",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/vaslui/costesti/2026.json",
+   "list": "data/acts/local/vaslui/costesti/2026.md",
+   "versions": "data/versions/local/vaslui/costesti/2026.json",
+   "laws": "data/laws/local/vaslui/costesti/2026.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/vaslui/costesti/2026.csv"
+  },
+  {
+   "shard": "local/vaslui/dodesti/2023",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/vaslui/dodesti/2023.json",
+   "list": "data/acts/local/vaslui/dodesti/2023.md",
+   "versions": "data/versions/local/vaslui/dodesti/2023.json",
+   "laws": "data/laws/local/vaslui/dodesti/2023.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/vaslui/dodesti/2023.csv"
+  },
+  {
+   "shard": "local/vaslui/grivita/2023",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/vaslui/grivita/2023.json",
+   "list": "data/acts/local/vaslui/grivita/2023.md",
+   "versions": "data/versions/local/vaslui/grivita/2023.json",
+   "laws": "data/laws/local/vaslui/grivita/2023.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/vaslui/grivita/2023.csv"
   },
   {
    "shard": "local/vaslui/husi/2008",
@@ -17236,6 +20954,17 @@
    "sources": "data/sources/local/vaslui/husi/2026.csv"
   },
   {
+   "shard": "local/vaslui/murgeni/2025",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/vaslui/murgeni/2025.json",
+   "list": "data/acts/local/vaslui/murgeni/2025.md",
+   "versions": "data/versions/local/vaslui/murgeni/2025.json",
+   "laws": "data/laws/local/vaslui/murgeni/2025.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/vaslui/murgeni/2025.csv"
+  },
+  {
    "shard": "local/vaslui/pochidia/2025",
    "kind": "local",
    "count": 1,
@@ -17245,6 +20974,17 @@
    "laws": "data/laws/local/vaslui/pochidia/2025.csv",
    "laws_count": 1,
    "sources": "data/sources/local/vaslui/pochidia/2025.csv"
+  },
+  {
+   "shard": "local/vaslui/tatarani/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/vaslui/tatarani/2023.json",
+   "list": "data/acts/local/vaslui/tatarani/2023.md",
+   "versions": "data/versions/local/vaslui/tatarani/2023.json",
+   "laws": "data/laws/local/vaslui/tatarani/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/vaslui/tatarani/2023.csv"
   },
   {
    "shard": "local/vaslui/vaslui/2020",
@@ -17300,6 +21040,17 @@
    "laws": "data/laws/local/vrancea/adjud/2020.csv",
    "laws_count": 1,
    "sources": "data/sources/local/vrancea/adjud/2020.csv"
+  },
+  {
+   "shard": "local/vrancea/gologanu/2023",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/vrancea/gologanu/2023.json",
+   "list": "data/acts/local/vrancea/gologanu/2023.md",
+   "versions": "data/versions/local/vrancea/gologanu/2023.json",
+   "laws": "data/laws/local/vrancea/gologanu/2023.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/vrancea/gologanu/2023.csv"
   },
   {
    "shard": "metodologie/1990",

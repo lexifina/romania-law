@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/mures/sangeorgiu-de-padure/2025",
+ "acts": [
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-10-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/10",
+   "short": "HCL Sângeorgiu de Pădure nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 10/2025 privind modificarea HCL nr.79/06.12.2024 privind impozitele și taxele locale pe anul 2025",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5674&file=Hotararea-nr.-10.pdf",
+     "sha256": "5d4203ff9cf82859eba089e4f04eafd504e9916850eadbdc6169bd8c9ca434a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-11-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/11",
+   "short": "HCL Sângeorgiu de Pădure nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 11/2025 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public Comunitar Local de Evidența a Persoanelor Sângeorgiu de Pădure, județul Mureș",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5675&file=Hotararea-nr.-11.pdf",
+     "sha256": "7df9f9490264a960a847eda50461be5be09ede1226bba7ccf97317b866f93263"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-12-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/12",
+   "short": "HCL Sângeorgiu de Pădure nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 12/2025 privind REACTUALIZAREA Regulamentului Cadru de organizare și de funcționare al serviciului social „CENTRUL DE ZI DE SOCIALIZARE ȘI PETRECERE A TIMPULUI LIBER -CLUBUL DE ZI PENTRU VÂRSTNICI DIN SÂNGEORGIU DE PĂDURE ”",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5676&file=Hotararea-nr.-12.pdf",
+     "sha256": "ca293ca0f020214f317d764779ec054168e2f8d29ac65e33b2eb7c5d306f68bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-14-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/14",
+   "short": "HCL Sângeorgiu de Pădure nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 14/2025 privind probarea modificării tarifelor pentru serviciul de transport publice de persoane în regim de taxi, autorizații de Primăria orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5678&file=Hotararea-nr.-14.pdf",
+     "sha256": "4c1d42b0294c46d4c4817b9d6762083c59ee66527fd1918739eedf85ca3762eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-26-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/26",
+   "short": "HCL Sângeorgiu de Pădure nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 26/2025 privind aprobarea Regulamentului de organizare și desfășurare a evaluării anuale a activității managerul Spitalului Orășenesc Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5903&file=hot-sgpadure-nr.26-din-2025-000536.pdf",
+     "sha256": "918f132141c1638dcb21bfcd3496e8c01e6a26d4568f3fca66132c892beb61e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-56-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/56",
+   "short": "HCL Sângeorgiu de Pădure nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 56/2025 privind aprobarea Regulamentului de acces, conduită și înregistrare în sediul Primăriei Oraș Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5974&file=hot-sgpadure-nr.56-din-2025-000629.pdf",
+     "sha256": "f9adced5ba68ba0a4e905ff060b7bf799e203b8a57e1d8af23c532a871bab27c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-57-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/57",
+   "short": "HCL Sângeorgiu de Pădure nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 57/2025 privind reactualizarea Regulamentului de înregistrare și radiere a vehiculelor supuse înregistrării aprobat prin HCL nr. 48/2015, la Primăria Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5975&file=hot-sgpadure-nr.57-din-2025-000630.pdf",
+     "sha256": "7bfb85120253e16ede6471e9fbc3960f68724d04a1d54da188fd70cf41a2b526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-6-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/6",
+   "short": "HCL Sângeorgiu de Pădure nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 6/2025",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5670&file=Hotararea-nr.-06.pdf",
+     "sha256": "ff4a73261b52c9542c94701450ccb97b70793baae239b8dac541f515835ad9b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-60-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/60",
+   "short": "HCL Sângeorgiu de Pădure nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 60/2025 privind actualizarea ajustăriii tarifelor pentru activitățile de colectare separate și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusive fracții colectate separat, componente al",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5978&file=hot-sgpadure-nr.60-din-2025-000634.pdf",
+     "sha256": "99d7948515d2474e5902382949e9d27a7645655afafed3182e67b62c60f2c207"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-64-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/64",
+   "short": "HCL Sângeorgiu de Pădure nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 64/2025 privind modificarea prețurilor și tarifelor la Serviciul de Apă și Canalizare Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5982&file=hot-sgpadure-nr.64-din-2025-000638.pdf",
+     "sha256": "24bea51f39cc7f654126288cb71b760b0ff84ffefb6a8498a5cca0cb3abb1ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-83-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/83",
+   "short": "HCL Sângeorgiu de Pădure nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 83/2025 privind modificare planului tarifar la lucrările executat de către personalul S.P.A.A.C",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=6094&file=Sangeorgiu-de-Padure-Hotararea-Nr.-83-din-22.12.2025.pdf",
+     "sha256": "82cd822423f823f2795bf431456563678303d5b126d281b4c1ffa7da9c052541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-84-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/84",
+   "short": "HCL Sângeorgiu de Pădure nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 84/2025 privind aprobarea taxelor de salubrizare distincte începând cu anul 2026, stabilite în conformitate cu prevederile Ordinului ANRSC nr. 640/2022 privind aprobarea Normelor metodologice de stabilire, ajustare sau modificare a tarifelor pentru activităţile de salub",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=6095&file=Sangeorgiu-de-Padure-Hotararea-Nr.-84-din-22.12.2025.pdf",
+     "sha256": "bb546c0b08ab6b97bf044094e04af185d9183e09161c93b2523e1557b2145057"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-85-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/85",
+   "short": "HCL Sângeorgiu de Pădure nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 85/2025 Privind cuantumului unor taxe speciale, percepute prin Serviciul Public Comunitar Local de Evidenţă a Persoanelor, pentru anul fiscal 2026",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=6096&file=Sangeorgiu-de-Padure-Hotararea-Nr.-85-din-22.12.2025.pdf",
+     "sha256": "b7f3aeca32102c9ce35f6149c8cdc5dadcdd5310393ae32edaec2d78dc9596a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-86-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/86",
+   "short": "HCL Sângeorgiu de Pădure nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 86/2025 Privind cuantumului unor taxe speciale, percepute prin Biroul de fond funciar şi Registru agricol, pentru anul fiscal 2026",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=6097&file=Sangeorgiu-de-Padure-Hotararea-Nr.-86-din-22.12.2025.pdf",
+     "sha256": "3af06e1d4cc4b40e48b11001bb4c2ebd5c27f5b73d4853150e9e35d4d48ebc98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-87-2025",
+   "path": "local/mures/sangeorgiu-de-padure/2025/87",
+   "short": "HCL Sângeorgiu de Pădure nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 87/2025 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2026",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=6098&file=Sangeorgiu-de-Padure-Hotararea-Nr.-87-din-22.12.2025.pdf",
+     "sha256": "570e264aa5ee14dd3601bebfb6531d92125314682d77ce755a1ce38259709eb9"
+    }
+   ]
+  }
+ ]
+}

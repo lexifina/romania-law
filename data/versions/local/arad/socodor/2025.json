@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/arad/socodor/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--socodor-100-2025",
+   "path": "local/arad/socodor/2025/100",
+   "short": "HCL Socodor nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 100/2025 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 28 noiembrie 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245050",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-101-2025",
+   "path": "local/arad/socodor/2025/101",
+   "short": "HCL Socodor nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 101/2025 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Socodor pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245051",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-102-2025",
+   "path": "local/arad/socodor/2025/102",
+   "short": "HCL Socodor nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 102/2025 privind aprobarea ordinii de zi a ședinței ordinare din data de 30 decembrie 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245052",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-104-2025",
+   "path": "local/arad/socodor/2025/104",
+   "short": "HCL Socodor nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 104/2025 privind aprobarea bugetului local rectificat în luna decembrie anul 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245054",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-105-2025",
+   "path": "local/arad/socodor/2025/105",
+   "short": "HCL Socodor nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 105/2025 privind aprobarea documentaţiei tehnico-economice (faza SF și PT) şi a indicatorilor tehnico-economici ai proiectului „Modernizare străzi în localitatea Socodor, comuna Socodor, județul Arad - LOT 1”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245055",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-106-2025",
+   "path": "local/arad/socodor/2025/106",
+   "short": "HCL Socodor nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 106/2025 privind aprobarea bugetului rectificat al Clubului Sportiv Socodor în luna decembrie 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245056",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-107-2025",
+   "path": "local/arad/socodor/2025/107",
+   "short": "HCL Socodor nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 107/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245057",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-108-2025",
+   "path": "local/arad/socodor/2025/108",
+   "short": "HCL Socodor nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 108/2025 privind aprobarea documentației proiectului actualizată, a cheltuielilor legate de proiect și a indicatorilor asociați acestuia pentru obiectivul „Realizarea sistemului de producție și distribuție a energiei termice pe baza de energie geotermală, în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245058",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-91-2025",
+   "path": "local/arad/socodor/2025/91",
+   "short": "HCL Socodor nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 91/2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/233038",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/233038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-92-2025",
+   "path": "local/arad/socodor/2025/92",
+   "short": "HCL Socodor nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 92/2025 privind aprobarea „Regulamentului de instituire și administrare a taxei de salubrizare în comuna Socodor”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/233039",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/233039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-93-2025",
+   "path": "local/arad/socodor/2025/93",
+   "short": "HCL Socodor nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 93/2025 privind împuternicirea primarului comunei Socodor în vederea realizării demersurilor pentru obținerea licenței de explorare a apei geotermale, negocierea, semnarea și ridicarea acesteia",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/233040",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/233040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-94-2025",
+   "path": "local/arad/socodor/2025/94",
+   "short": "HCL Socodor nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 94/2025 privind aprobarea conținutului Procesului-verbal al ședinței ordinare din data de 31 octombrie 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/237946",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/237946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-95-2025",
+   "path": "local/arad/socodor/2025/95",
+   "short": "HCL Socodor nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 95/2025 privind aprobarea ordinii de zi a ședinței ordinare din data de 28 noiembrie 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/237947",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/237947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-96-2025",
+   "path": "local/arad/socodor/2025/96",
+   "short": "HCL Socodor nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 96/2025 privind aprobarea cheltuielilor efectuate de la bugetul local pentru proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale „Iustin Marșieu” Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/237948",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/237948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-97-2025",
+   "path": "local/arad/socodor/2025/97",
+   "short": "HCL Socodor nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 97/2025 privind aprobarea contractării unei finanțări rambursabile în valoare de maxim 7.000.000 lei, pentru finanţarea obiectivelor de investiţie de interes local „Construire pod de beton peste Crișul Alb, comuna Socodor, județul Arad” și „Modernizare străzi în comuna Socodor, județul Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/237949",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/237949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-98-2025",
+   "path": "local/arad/socodor/2025/98",
+   "short": "HCL Socodor nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 98/2025 privind aprobarea bugetului local rectificat în luna noiembrie anul 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/237950",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/237950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-99-2025",
+   "path": "local/arad/socodor/2025/99",
+   "short": "HCL Socodor nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 99/2025 privind aprobarea bugetului rectificat al Clubului Sportiv Socodor în luna noiembrie 2025",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/237951",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/237951",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

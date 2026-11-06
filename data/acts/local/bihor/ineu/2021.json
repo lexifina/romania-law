@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/bihor/ineu/2021",
+"acts": [
+{
+"slug": "hcl-bihor--ineu-63-2021",
+"path": "local/bihor/ineu/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 63/2021 privind aprobarea indicatorilor tehnico-economici și participarea la Programului Național de Investiții ''Anghel Saligny'' pentru obiectivul ''EXTINDERE REȚELE DE APĂ ȘI CANALIZARE MENAJERĂ ÎN COMUNA INEU, JUDEȚUL BIHOR''",
+"short": "HCL Ineu nr. 63/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-15",
+"latest": "2021-09-15",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/53595",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ineu-65-2021",
+"path": "local/bihor/ineu/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 65/2021 privind aprobarea studiului de fezabilitate pentru ''Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Bihor în perioada 2014-2020''",
+"short": "HCL Ineu nr. 65/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-20",
+"latest": "2021-09-20",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/53597",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ineu-67-2021",
+"path": "local/bihor/ineu/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 67/2021 privind participarea la ''Programul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public'' pentru proiectul ''Modernizarea sistemului de iluminat prin eficientizarea infrastructurii de iluminat public în comuna Ineu, județul Bihor''",
+"short": "HCL Ineu nr. 67/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/53610",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ineu-82-2021",
+"path": "local/bihor/ineu/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 82/2021 privind aprobarea participării la ''Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic -stații de reîncărcare pentru vehicule electrice în localități'' a documentației tehnico-economice și a indicatorilor tehnico-economici ai proiectului ''Stații de reîncărcare pentru vehicule electrice în comuna Ineu, județul Bihor''",
+"short": "HCL Ineu nr. 82/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/53644",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

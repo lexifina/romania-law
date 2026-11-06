@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/racaciuni/2020",
+"acts": [
+{
+"slug": "hcl-bacau--racaciuni-72-2020",
+"path": "local/bacau/racaciuni/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răcăciuni nr. 72/2020 privind impozitele și taxele locale pentru anul 2021 la comuna Răcăciuni, indexate cu rata inflației de 3,8 la suta Vezi / Descarca",
+"short": "HCL Răcăciuni nr. 72/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-12-07",
+"latest": "2020-12-07",
+"portal": "https://www.comunaracaciuni.ro/monit_oficial/hotariri/hotariri_2020.html",
+"council": "bacau/racaciuni",
+"council_name": "Consiliul Local al Comunei Răcăciuni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

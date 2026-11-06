@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/magiresti/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--magiresti-57-2025",
+   "path": "local/bacau/magiresti/2025/57",
+   "short": "HCL Măgirești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgirești nr. 57/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC SCOMPANIA ROMPREST SERVICE S.A",
+   "url": "https://magiresti.ro/administratie/consiliul-local-magiresti/hotarari-ale-consiliului-local/hotarari-arhiva-2020-2025/hotarari-ale-consiliului-local-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://magiresti.ro/wp-content/uploads/2025/09/HCL-57-MODIFICARE-REGULAMENT-SALUBRIZARE.pdf",
+     "sha256": "750ac1427746719a2f1bdc15296081434747898a295c13321f26672f75c56ba2"
+    }
+   ]
+  }
+ ]
+}

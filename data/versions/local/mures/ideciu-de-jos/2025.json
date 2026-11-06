@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/ideciu-de-jos/2025",
+ "acts": [
+  {
+   "slug": "hcl-mures--ideciu-de-jos-67-2025",
+   "path": "local/mures/ideciu-de-jos/2025/67",
+   "short": "HCL Ideciu de Jos nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 67/2025",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-67-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-67-2025.pdf",
+     "sha256": "c8e3796b34a5dd7d46526e7bfa7458e94736611ccd62d5ff93c045d4edf92e81"
+    }
+   ]
+  }
+ ]
+}

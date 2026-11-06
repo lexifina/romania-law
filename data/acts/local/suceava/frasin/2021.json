@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/frasin/2021",
+"acts": [
+{
+"slug": "hcl-suceava--frasin-27-2021",
+"path": "local/suceava/frasin/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Frasin nr. 27/2021 privind IMPOZITELE SI TAXELE LOCALE pentru anul 2022",
+"short": "HCL Frasin nr. 27/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://www.primariaorasuluifrasin.ro/hcl-impozite-si-taxe-locale/",
+"council": "suceava/frasin",
+"council_name": "Consiliul Local al Orașului Frasin",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

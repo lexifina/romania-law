@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/vaslui/grivita/2023",
+"acts": [
+{
+"slug": "hcl-vaslui--grivita-108-2023",
+"path": "local/vaslui/grivita/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 108/2023 pentru modificarea Anexei la Hotărârea Consiliului local al comunei Griviţa nr. 44/2017 pentru modificarea şi completarea inventarului bunurilor ce aparţin domeniului public al comunei Griviţa, judeţul Vaslui, atestat prin anexa nr. 37 la Hotărârea Guvernului nr. 1361/2001",
+"short": "HCL Grivița nr. 108/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#65223",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-109-2023",
+"path": "local/vaslui/grivita/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 109/2023 privind aprobarea indicatorilor tehnico-economici actualizaţi pentru obiectivul de investiţie “Reabilitarea infrastructurii rutiere afectate de viituri în comuna Griviţa, judeţul Vaslui”",
+"short": "HCL Grivița nr. 109/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#65621",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/ilfov/otopeni/2025",
+"acts": [
+{
+"slug": "hcl-ilfov--otopeni-31-2025",
+"path": "local/ilfov/otopeni/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 31/2025 privind aprobarea documentației: PLAN URBANISTIC ZONAL pentru obiectivul «CONSTRUIRE COMPLEX SPORTIV „ȚIRIAC SPORTS CENTER”, CAMPUS UNIVERSITAR ȘI COMPLEX REZIDENȚIAL» propus să se realizeze pe terenul în suprafață totală de 500.621,513 mp (din care 469.785,00 mp reprezintă HCL NR. 31 DIN 30.07.2025.pdf",
+"short": "HCL Otopeni nr. 31/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-32-2025",
+"path": "local/ilfov/otopeni/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 32/2025 privind aprobarea documentației: PLAN URBANISTIC ZONAL pentru obiectivul „CONSTRUIRE COMPLEX DE LOCUINȚE COLECTIVE P+2E+3Er, AMENAJARE INCINTĂ, DEZMEMBRARE TEREN, ASIGURARE UTILITĂȚI” propus să se realizeze pe terenul în suprafață totală de 8.748,00 mp (conform Proces-verba HCL NR. 32 DIN 30.07.2025.pdf",
+"short": "HCL Otopeni nr. 32/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-42-2025",
+"path": "local/ilfov/otopeni/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 42/2025 privind aprobarea tarifelor pentru activitățile prestate de Serviciul de Administrare a Complexului Sportiv de Natație Otopeni HCL nr. 42 din 27.11.2025.pdf",
+"short": "HCL Otopeni nr. 42/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-43-2025",
+"path": "local/ilfov/otopeni/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 43/2025 privind aprobarea caietului de sarcini al activității de activității de tratare mecano-biologică a deșeurilor reziduale în instalații de tratare mecano-biologică sau, după caz, în instalațiile integrate de tratare, inclusiv transportul deșeurilor stabilizate biologic și al HCL nr. 43 din 27.11.2025.pdf",
+"short": "HCL Otopeni nr. 43/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-44-2025",
+"path": "local/ilfov/otopeni/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 44/2025 privind aprobarea caietului de sarcini al activității de tratare aerobă a biodeșeurilor colectate separat în instalații de compostare, inclusiv transportul reziduurilor rezultate la depozitele de deșeuri – activitate componentă a serviciului de salubrizare a localităților, HCL nr. 44 din 27.11.2025.pdf",
+"short": "HCL Otopeni nr. 44/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-45-2025",
+"path": "local/ilfov/otopeni/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 45/2025 privind aprobarea caietului de sarcini al activității de sortare a deșeurilor de hârtie, metal, plastic și sticlă colectate separat din deșeurile municipale în stații de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deșeuri și/sau la inst HCL nr. 45 din 27.11.2025.pdf",
+"short": "HCL Otopeni nr. 45/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-52-2025",
+"path": "local/ilfov/otopeni/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 52/2025 privind aprobarea documentației: PLAN URBANISTIC ZONAL pentru obiectivul „CONSTRUIRE SHOWROOM, BIROURI P+2E ȘI DEPOZITARE PARTER ÎNALT”, propus să se realizeze pe terenul în suprafață totală de 3.321,00 mp din măsurători (3.631,00 mp conform actelor de proprietate), situat HCL nr. 52 din 27.11.2025 .pdf",
+"short": "HCL Otopeni nr. 52/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-55-2025",
+"path": "local/ilfov/otopeni/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 55/2025 privind zonificarea localității și stabilirea impozitelor și taxelor locale pentru anul fiscal 2026 HCL nr. 55 din 29.12.2025 (2).pdf",
+"short": "HCL Otopeni nr. 55/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}
