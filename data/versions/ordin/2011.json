@@ -2313,6 +2313,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-11-2011",
+   "path": "ordin/anre/2011/11",
+   "short": "Ordin anre nr. 11/2011",
+   "title": "Ordinul nr. 11/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126736",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407164728id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/126736",
+     "sha256": "064760ec2716e3edf6caee19fe6163628fc96463d2856ba3e1f9d5c435557baf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-12-2011",
    "path": "ordin/anre/2011/12",
    "short": "Ordin anre nr. 12/2011",

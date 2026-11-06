@@ -3408,6 +3408,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-727-1999",
+   "path": "ordin/munca/1999/727",
+   "short": "Ordin munca nr. 727/1999",
+   "title": "Ordinul nr. 727/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22405",
+   "versions": [
+    {
+     "from": "2000-05-19",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407125714id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/22405",
+     "sha256": "a52cf6e53e58ebcbae9c6dcc0fd07019b8c77ff61bd95066d864d38c3242b740"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-747-1999",
    "path": "ordin/munca/1999/747",
    "short": "Ordin munca nr. 747/1999",

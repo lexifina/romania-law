@@ -3243,6 +3243,81 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-304-2019",
+   "path": "local/neamt/roman/2019/304",
+   "short": "HCL Roman nr. 304/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 304/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bc80be326036576a2f35e68df11898f6d243a232f07f7df557120c6b9a6c35d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-305-2019",
+   "path": "local/neamt/roman/2019/305",
+   "short": "HCL Roman nr. 305/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 305/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b1811d37cc199636444c886675b66668732c6e89fbf672ff669369c77bc45db5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-306-2019",
+   "path": "local/neamt/roman/2019/306",
+   "short": "HCL Roman nr. 306/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 306/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3d408e9b99e0ceda3a08a5bf8e275e42e0650ee2645de0fd681106e3c42435a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-307-2019",
+   "path": "local/neamt/roman/2019/307",
+   "short": "HCL Roman nr. 307/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 307/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/12/307-HCL-2019-12-modificare-HCL-45_2018.pdf",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/12/307-HCL-2019-12-modificare-HCL-45_2018.pdf",
+     "sha256": "feb4076abf307f8ffea1fb9e3d68dab5768340a55f0ab73a0866a47e86bedc68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-308-2019",
+   "path": "local/neamt/roman/2019/308",
+   "short": "HCL Roman nr. 308/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 308/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "30f714a4c7d6caca93096fd39165dd5a29726f1acf2116539090a85092774b4d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-309-2019",
    "path": "local/neamt/roman/2019/309",
    "short": "HCL Roman nr. 309/2019",
@@ -3254,6 +3329,441 @@
      "units": 1,
      "source_url": null,
      "sha256": "f8d63087c64a504afa1d09a9f83e498f2d73a43ac9d55c53cc841a158ec580ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2019",
+   "path": "local/neamt/roman/2019/31",
+   "short": "HCL Roman nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fb0411192f36be79da640835ae59ba7f2eae675dbad1207594951b3ae12e288a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-310-2019",
+   "path": "local/neamt/roman/2019/310",
+   "short": "HCL Roman nr. 310/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 310/2019 privind aprobarea majorării cu 400 % a impozitului pentru clădirea situată în str",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/12/310-HCL-2019-12-supraimpozitare-imobil-400-.pdf",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/12/310-HCL-2019-12-supraimpozitare-imobil-400-.pdf",
+     "sha256": "8626e095bc6ea3c2c76ade0c2921c3a3400873b5ac330abe07de15e35dc44e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-311-2019",
+   "path": "local/neamt/roman/2019/311",
+   "short": "HCL Roman nr. 311/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 311/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b35d80e7ee08ec0caef9589e246e97013fc01c4749b289b3cf78fe534c1e812d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-312-2019",
+   "path": "local/neamt/roman/2019/312",
+   "short": "HCL Roman nr. 312/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 312/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "08779572789d645f65f4c19cb1af9349e96a16e9f36eef8fbb6f451e2cabc4fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-313-2019",
+   "path": "local/neamt/roman/2019/313",
+   "short": "HCL Roman nr. 313/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 313/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f8b8e13875d7ea46f415495d810a8e9bbe36c8a26160f39b4482a173e3484c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-314-2019",
+   "path": "local/neamt/roman/2019/314",
+   "short": "HCL Roman nr. 314/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 314/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "00932ea3b456dc65c969bf65476dac1d7d361e3527e69efd012c9dd8a37e38c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-315-2019",
+   "path": "local/neamt/roman/2019/315",
+   "short": "HCL Roman nr. 315/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 315/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0901ca11d1c79997dc6538ff14cf80534ca960faaa1936863834f90f6a43cdbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-316-2019",
+   "path": "local/neamt/roman/2019/316",
+   "short": "HCL Roman nr. 316/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 316/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "74b12ebf9096c57383d03a73fdee62cae7d4cf7067651de859d85a04360dc1dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-317-2019",
+   "path": "local/neamt/roman/2019/317",
+   "short": "HCL Roman nr. 317/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 317/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/12/317-HCL-2019-12-modificare-HCL-219_2015-SUPL-1.pdf",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/12/317-HCL-2019-12-modificare-HCL-219_2015-SUPL-1.pdf",
+     "sha256": "b822f58ca9e17bb715a3a545acaf7678d65bb23cbf501fd3d2ce0576a0d046a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-319-2019",
+   "path": "local/neamt/roman/2019/319",
+   "short": "HCL Roman nr. 319/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 319/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4dc2f093d7d36bba4914729b56a74d71c4c3bfb34d97cbc177903c9a1465971c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2019",
+   "path": "local/neamt/roman/2019/32",
+   "short": "HCL Roman nr. 32/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "411b58ed3846991485e253981c7a587a2ed06a6ed0482d98a62ff647c3260ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-320-2019",
+   "path": "local/neamt/roman/2019/320",
+   "short": "HCL Roman nr. 320/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 320/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6468129d96ea3d8f6a227a71d012c8a3a0b3a057ff35e4b5a7aa34d7cff39658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-321-2019",
+   "path": "local/neamt/roman/2019/321",
+   "short": "HCL Roman nr. 321/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 321/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "28d7be5e8b83036942db594235c21fe094614ca3c8316a0a2ac8db22fda3c3df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-324-2019",
+   "path": "local/neamt/roman/2019/324",
+   "short": "HCL Roman nr. 324/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 324/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/12/001-HCL-2019-12-modificare-HCL-187_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/12/001-HCL-2019-12-modificare-HCL-187_2019.pdf",
+     "sha256": "b3d61f1fa0dcdff0038e39d9c5b99c5bfba0bbae1834518b44eefa1468b250d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-325-2019",
+   "path": "local/neamt/roman/2019/325",
+   "short": "HCL Roman nr. 325/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 325/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0d2893f08b6461651d526c57218a16398ac3dc857d6a40da4fd0fd400261cc8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-326-2019",
+   "path": "local/neamt/roman/2019/326",
+   "short": "HCL Roman nr. 326/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 326/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/12/003-HCL-2019-12-modificare-HCL-86_2018.pdf",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/12/003-HCL-2019-12-modificare-HCL-86_2018.pdf",
+     "sha256": "2eb4bafca9ea7ac610d9fb2c0b242962187cd9670d2a15ac915f327471b77136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-327-2019",
+   "path": "local/neamt/roman/2019/327",
+   "short": "HCL Roman nr. 327/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 327/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "530ce2d987ef6e230c356410ebc16d2ceae9df5b6ec52ba10fc2cb0d1e2924cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-328-2019",
+   "path": "local/neamt/roman/2019/328",
+   "short": "HCL Roman nr. 328/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 328/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b1b882307e6ccf9ca7df801a060b606c680bcd89c1c10e85eaaf8e51853c319b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-33-2019",
+   "path": "local/neamt/roman/2019/33",
+   "short": "HCL Roman nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-033-HCL-2019-02-aprobarea-Acordului-de-asociere-Targ-de-Paste_compressed.pdf",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-033-HCL-2019-02-aprobarea-Acordului-de-asociere-Targ-de-Paste_compressed.pdf",
+     "sha256": "28998287d9d255ffcc242ed52e4969c918492911c40d92968832c90357da3477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2019",
+   "path": "local/neamt/roman/2019/34",
+   "short": "HCL Roman nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c9a906a057a9531f042f7bedfbbb317e1affd47363f0f3ead721e6e046b2e269"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-35-2019",
+   "path": "local/neamt/roman/2019/35",
+   "short": "HCL Roman nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "88dbb5b660f9b588a3f872e05435cd5c58bb13130645d370545b05fa1af35bc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2019",
+   "path": "local/neamt/roman/2019/36",
+   "short": "HCL Roman nr. 36/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "747b041cb6f9d0cbb647b8586630a98a76fc7b73b5cf3cab4a5498d5f0e94121"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2019",
+   "path": "local/neamt/roman/2019/37",
+   "short": "HCL Roman nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c9e9a32f1d4382a077b2dcd46a0a001711620d7ab19733fca5473027ec50ddc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2019",
+   "path": "local/neamt/roman/2019/38",
+   "short": "HCL Roman nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-038-HCL-2019-02-modificare-hcl-223-Locato_compressed.pdf",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-038-HCL-2019-02-modificare-hcl-223-Locato_compressed.pdf",
+     "sha256": "249fdcda4dd3683d76974a86e30d8ddfe611f5b25dd5cab462b3d5b49e63c932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-39-2019",
+   "path": "local/neamt/roman/2019/39",
+   "short": "HCL Roman nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 39/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d935cc049f2c0105b428ab102a44660ff512bb7c3c7cbca9854b4aa08fb11d26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-4-2019",
+   "path": "local/neamt/roman/2019/4",
+   "short": "HCL Roman nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2019 privind aprobarea Planului anual de acțiuni pe ntru repartizarea orelor de muncă către beneficiarii de ajutor social CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 310 din 09.01.2019 înaintată de către Primarul Municipiului Roman – Lucian-Ovidiu Micu, precum și raportul de specialitate nr. 312 din 09.01.2019 întocmit de către Direcția de Asistenta Socială a municipiului R",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/02/004-HCL-2019-01-aprobare-Plan-ore-munca-DAS.pdf",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/02/004-HCL-2019-01-aprobare-Plan-ore-munca-DAS.pdf",
+     "sha256": "34144f3a79eff12f27b6b5cd01860bd2afec8630b552ab64a3b78c562c97eb10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2019",
+   "path": "local/neamt/roman/2019/40",
+   "short": "HCL Roman nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "623b59dd195e10cd6b3fb31dfcca62ef16cf334b6e4fe89a36afd5271bd9795c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2019",
+   "path": "local/neamt/roman/2019/41",
+   "short": "HCL Roman nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "947293e4301b08b8c8e93976771e605f22f8fdf38a269864657b5efc215dc362"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2019",
+   "path": "local/neamt/roman/2019/42",
+   "short": "HCL Roman nr. 42/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bc1e197036a02ba0cb05a8243b3f4b20029a17302ccaadc3bfb93ab8cd57361f"
     }
    ]
   },
@@ -3273,6 +3783,111 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-44-2019",
+   "path": "local/neamt/roman/2019/44",
+   "short": "HCL Roman nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c9c3819eb3d27e5713cefa5499946e2d1cd12592d51ec96036b41f2410d83796"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2019",
+   "path": "local/neamt/roman/2019/45",
+   "short": "HCL Roman nr. 45/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c14b6218cb7924b0913ec6f582bba05a96a0af4d94dfdaf40289aec738d16eee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2019",
+   "path": "local/neamt/roman/2019/46",
+   "short": "HCL Roman nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2019 privind aprobarea încheierii unui Acord de parteneriat CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 3613 din 21.02.2019 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 3614 din 21.02.2019 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T.; Văzând avizul favorabil nr. 21 din 27",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-046-HCL-2019-02-acord-salvati-copiii_compressed.pdf",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-046-HCL-2019-02-acord-salvati-copiii_compressed.pdf",
+     "sha256": "bdfc0c37f8bd84a85e929fc95cd6f0ea7ade80c600a5457ff95b91b1f772ba6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2019",
+   "path": "local/neamt/roman/2019/47",
+   "short": "HCL Roman nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-047-HCL-2019-02-modificare-HCL-220_compressed.pdf",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-047-HCL-2019-02-modificare-HCL-220_compressed.pdf",
+     "sha256": "9cdc694f7d1fc61f9c2c6e6dfcdb3000afab3584ba49766703a085bfaf585d79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-48-2019",
+   "path": "local/neamt/roman/2019/48",
+   "short": "HCL Roman nr. 48/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2019 privind aprobarea amenajarii unei parcari publice pe terenul proprietate a municipiului Roman, str",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-048-HCL-2019-02-amenajarea-unui-parcari_compressed.pdf",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-048-HCL-2019-02-amenajarea-unui-parcari_compressed.pdf",
+     "sha256": "4c240dc85e400b002ed4696b771eb609d0a4137b8d5f912fc2bcf764667cb962"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-49-2019",
+   "path": "local/neamt/roman/2019/49",
+   "short": "HCL Roman nr. 49/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7f7875a5ffb81d88a2591966a7c0efb3b8c863f451a5e168906b224c2c08f9d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2019",
+   "path": "local/neamt/roman/2019/5",
+   "short": "HCL Roman nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/02/005-HCL-2019-01-aprobare-plan-de-risc-SVSU-2019.pdf",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/02/005-HCL-2019-01-aprobare-plan-de-risc-SVSU-2019.pdf",
+     "sha256": "458da7fd0813a9075ca7402cb12e6dda6402498863665a8e6543a44c97aa1590"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-50-2019",
    "path": "local/neamt/roman/2019/50",
    "short": "HCL Roman nr. 50/2019",
@@ -3284,6 +3899,126 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-050-HCL-2019-02-modificare-hcl-18_compressed.pdf",
      "sha256": "99b614bd5231732dc4806199b7be324f6ba466ee6020ff079c82e28ac9dafb86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2019",
+   "path": "local/neamt/roman/2019/51",
+   "short": "HCL Roman nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2020/03/051-HCL-2020-03-desemnare-reprezentanti-CL-in-CEAC-scoli.pdf",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2020/03/051-HCL-2020-03-desemnare-reprezentanti-CL-in-CEAC-scoli.pdf",
+     "sha256": "e078e63863cf120543a0b6a48a5e7e34572daabcca373d6fc1a824e3232fd713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-52-2019",
+   "path": "local/neamt/roman/2019/52",
+   "short": "HCL Roman nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 52/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a69a1a1f38277bcc2b0394c8d505c39f643c177b9be4f1d19cf6ec10d0a1ffde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-53-2019",
+   "path": "local/neamt/roman/2019/53",
+   "short": "HCL Roman nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c7a15f474352acedf71246e9e6223b6bb41e6833c2f701a3f9514dbf7ee5ab04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-54-2019",
+   "path": "local/neamt/roman/2019/54",
+   "short": "HCL Roman nr. 54/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "203dbea592514084d556a31a58f98f3957d6a82ae404310cbddfb226bb6fc34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-55-2019",
+   "path": "local/neamt/roman/2019/55",
+   "short": "HCL Roman nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 55/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a25c9f82377c6371ced2ad1c250635494b38b9b5d18c39946cac46189cc4fc68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2019",
+   "path": "local/neamt/roman/2019/56",
+   "short": "HCL Roman nr. 56/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2019 privind aprobarea efectuării unor cheltuieli CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 3982 din 26.02.2019 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 3983 din 26.02.2019 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și IT; Văzând avizul favorabil nr. 23 din 27.02.2019 al Co",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-056-HCL-2019-02-Ziua-Femeii-SUPL-5_compressed.pdf",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-01-056-HCL-2019-02-Ziua-Femeii-SUPL-5_compressed.pdf",
+     "sha256": "8288fe1d51fb85b5562debc10513d370b9bd9c9b11d3a7d3f47b51e313a7dac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-57-2019",
+   "path": "local/neamt/roman/2019/57",
+   "short": "HCL Roman nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 57/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/057-HCL-2019-03-alegerea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/057-HCL-2019-03-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "2b992a3e00216e904edbac7f02145e50906006357f698e91147caf2646d07cec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-58-2019",
+   "path": "local/neamt/roman/2019/58",
+   "short": "HCL Roman nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/058-HCL-2019-03-efectuare-cheltuieli.pdf",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/058-HCL-2019-03-efectuare-cheltuieli.pdf",
+     "sha256": "deee01a4aaff1dce93ac8d697dc785f83933610b9b6788c7513da6bc9e46a14d"
     }
    ]
   },
@@ -3318,6 +4053,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-60-2019",
+   "path": "local/neamt/roman/2019/60",
+   "short": "HCL Roman nr. 60/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2019 privind aprobarea DALI-ului și a Devizului general actualizat pentru obiectivul de investitie: „Reabilitarea, modernizarea și dotarea Centrului Multicultural «UNIREA», Municipiul Roman” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand expunerea de motive nr. 5694/20.03.2019 întocmită și înaintată de către Primarul Municipiului Roman – Lucian-Ovidiu Micu și raportul de specialitate nr. 5694/20.03.2",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/060-HCL-2019-03-aprobare-deviz-Cinema-Unirea.pdf",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/060-HCL-2019-03-aprobare-deviz-Cinema-Unirea.pdf",
+     "sha256": "4d6f48ea5f470fcff9e5149e156e74d900ed6f359511e7eb0f105317729196da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2019",
+   "path": "local/neamt/roman/2019/61",
+   "short": "HCL Roman nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "02965f1c0d31e512fcbfc6882162fc3cedd18e22609c3b72941f27a37d33b8f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-62-2019",
+   "path": "local/neamt/roman/2019/62",
+   "short": "HCL Roman nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-062-HCL-2019-03-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-062-HCL-2019-03-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+     "sha256": "3e55eff0b94277312f04d239517ca2e69cf26232bdd72f96069270cf4fbb27d3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-63-2019",
    "path": "local/neamt/roman/2019/63",
    "short": "HCL Roman nr. 63/2019",
@@ -3333,6 +4113,81 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-64-2019",
+   "path": "local/neamt/roman/2019/64",
+   "short": "HCL Roman nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "96cc4410640c4033d064ce1b0d48bfe30652ac9b7f448c837dc0c4f4154decd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-65-2019",
+   "path": "local/neamt/roman/2019/65",
+   "short": "HCL Roman nr. 65/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 65/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "123762a9fdfe942697ca27c181fd5be40871dff6f76637be5d6c55410b9e3569"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-66-2019",
+   "path": "local/neamt/roman/2019/66",
+   "short": "HCL Roman nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 66/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "688083f0e2d11e561df70297e49e69375ca6bb8c799d6ea2d924172a882a2df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2019",
+   "path": "local/neamt/roman/2019/67",
+   "short": "HCL Roman nr. 67/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1cced7a58bb1b8d0afbb18e4fb14f81d65b2368a3ec26029262a2897caf3f6e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2019",
+   "path": "local/neamt/roman/2019/68",
+   "short": "HCL Roman nr. 68/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3411923a67b79e7cc93675dbf5e76f5f82c7147bbb72c852ee84f232a2c4bbe4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-7-2019",
    "path": "local/neamt/roman/2019/7",
    "short": "HCL Roman nr. 7/2019",
@@ -3344,6 +4199,36 @@
      "units": 1,
      "source_url": null,
      "sha256": "7bba1f58b6a5efcf22b453a7b8b3769a3aecdf7c1d2040ff1546a55007980d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2019",
+   "path": "local/neamt/roman/2019/70",
+   "short": "HCL Roman nr. 70/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-070-HCL-2019-03-modificare-HCL-284_2018-salarii-Locato.pdf",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-070-HCL-2019-03-modificare-HCL-284_2018-salarii-Locato.pdf",
+     "sha256": "26aed7191e4d5b32b0e7967f2feb6bf396fada458fac58a9f9bb2034c4dabdab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2019",
+   "path": "local/neamt/roman/2019/71",
+   "short": "HCL Roman nr. 71/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-071-HCL-2019-03-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-071-HCL-2019-03-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+     "sha256": "bf419f584cf33e1f45de6b907fd9d9282cacba58e6bff73b2ee5cf73ebfda82d"
     }
    ]
   },
@@ -3378,6 +4263,231 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-74-2019",
+   "path": "local/neamt/roman/2019/74",
+   "short": "HCL Roman nr. 74/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6b37b368483e8e8448b2cb2018c0421460b931fd19eb6202e00139dc7b29b7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-75-2019",
+   "path": "local/neamt/roman/2019/75",
+   "short": "HCL Roman nr. 75/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-075-HCL-2019-03-modificare-HCL-124_2014-SUPL-3.pdf",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-075-HCL-2019-03-modificare-HCL-124_2014-SUPL-3.pdf",
+     "sha256": "04a16528820705b9d93c03c47221728899fd145d4d8dc514fcde7045d7d737c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-76-2019",
+   "path": "local/neamt/roman/2019/76",
+   "short": "HCL Roman nr. 76/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 76/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "aadc597e28454c0de9dfdb46e827c96d9ef600729af2a320f12fda0a737f6ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-77-2019",
+   "path": "local/neamt/roman/2019/77",
+   "short": "HCL Roman nr. 77/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 77/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5b045bf0c139bed64138727688f8c13a763d56e7ae1c2f8a2935f768617ce337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-78-2019",
+   "path": "local/neamt/roman/2019/78",
+   "short": "HCL Roman nr. 78/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 78/2019 privind aprobarea DALI-ului si a Devizului general actualizat pentru obiectivul de investitie: „Modernizare străzi cartier Nicolae Bălcescu, municipiul Roman”, jud",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c483d0860f4fbf7c2f7f248f3fa4963ab1f9623bd3f62a65c596e671f82579fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-79-2019",
+   "path": "local/neamt/roman/2019/79",
+   "short": "HCL Roman nr. 79/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 79/2019 privind aprobarea DALI-ului si a Devizului general actualizat pentru obiectivul de investitie: „Reabilitare Grădinița nr. 2 cu program normal, municipiul Roman”, jud",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-079-HCL-2019-03-aprobare-Deviz-Gradinita-nr-2-SUPL-7.pdf",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/03/2019-03-27-079-HCL-2019-03-aprobare-Deviz-Gradinita-nr-2-SUPL-7.pdf",
+     "sha256": "c56e9f195046ce2a5d306ee52c3379b431d05f956dd32678cfd85f7cce726e4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2019",
+   "path": "local/neamt/roman/2019/8",
+   "short": "HCL Roman nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2019 privind aprobarea, pentru anul 2019, a nivelului costului mediu lunar de întreținere și a contribuției lunare de intreținere datorată de persoanele vârstnice îngrijite în Centrul Rezidențial pentru persoane vârstnice Casa Bunicilor din cadrul Direcției de Asistență Socială Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 1125 din 17.01.2019 înaintată de către Primarul",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/02/008-HCL-2019-01-aprobare-cost-lunar-intretinere-varstnici.pdf",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/02/008-HCL-2019-01-aprobare-cost-lunar-intretinere-varstnici.pdf",
+     "sha256": "3e3beaba70af779c6c3c6b542d2daf57cd7a47b66828206504ea0a420778cfc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2019",
+   "path": "local/neamt/roman/2019/80",
+   "short": "HCL Roman nr. 80/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b9c6eb49107658d90451d0a1ce1600ac7f580aabfe26592c59ed9757c067a314"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-81-2019",
+   "path": "local/neamt/roman/2019/81",
+   "short": "HCL Roman nr. 81/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 81/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "79edfd17f009394ac0f6444af8eaa832fcc84408f58816944156024939c1ec6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2019",
+   "path": "local/neamt/roman/2019/82",
+   "short": "HCL Roman nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2b8d24ed924e34bd2f3bf2f73b6855025dc8f8cebf2b94efb841418ce1273934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2019",
+   "path": "local/neamt/roman/2019/83",
+   "short": "HCL Roman nr. 83/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ae311863a777896e7e3f55cee9da77e49c9c90a9f10a8032eb586eec8a40512d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2019",
+   "path": "local/neamt/roman/2019/84",
+   "short": "HCL Roman nr. 84/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/04/084-ANX-2019-04-modificare-HCL-67_2019-lista-ANL.pdf",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/084-ANX-2019-04-modificare-HCL-67_2019-lista-ANL.pdf",
+     "sha256": "08637009fc70c5f1c6698567adc56e468160e4d00220590795f3034607c1c5e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-85-2019",
+   "path": "local/neamt/roman/2019/85",
+   "short": "HCL Roman nr. 85/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 85/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bbd46ed3ac05c8c73e5c161e2429c969ce4f1a63dd48c4f78f02d3228a0ee961"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2019",
+   "path": "local/neamt/roman/2019/86",
+   "short": "HCL Roman nr. 86/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7123c2f19762b390e478605f42246e4bab141c1179c21cfa29de4156a6aca294"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2019",
+   "path": "local/neamt/roman/2019/87",
+   "short": "HCL Roman nr. 87/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2019 privind aprobarea Acordului de colaborare pentru desfășurarea evenimentului FESTIVALUL TRADIȚIONAL AL MEȘTEȘUGARILOR, în cadrul Zilelor municipiului Roman 2019, în perioada 17-19 mai 2019 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 7403 din 10.04.2019 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 7404 din 10.04.201",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/04/087-HCL-2019-04-aprobare-acord-asociere-Viobeti.pdf",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/087-HCL-2019-04-aprobare-acord-asociere-Viobeti.pdf",
+     "sha256": "538c1db83f7b99489cd6b9cf7e5ef7887083ea455627ccf4cc550e527490b233"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-88-2019",
    "path": "local/neamt/roman/2019/88",
    "short": "HCL Roman nr. 88/2019",
@@ -3389,6 +4499,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/088-HCL-2019-04-indexare-imozite-si-taxe-locale-2020.pdf",
      "sha256": "8057041d38a4a565e1cb932f8b757a59363e4cc2f685219d2c9e04c1dfb08a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-89-2019",
+   "path": "local/neamt/roman/2019/89",
+   "short": "HCL Roman nr. 89/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 89/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/04/089-ANX-2-2019-04-completare-HCL_279_2018_compressed.pdf",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/089-ANX-2-2019-04-completare-HCL_279_2018_compressed.pdf",
+     "sha256": "9214e2e8033f2667ba7c63b20e2eebc1ea90e857cbe5e810addcf48d985ab849"
     }
    ]
   },
@@ -3438,6 +4563,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-92-2019",
+   "path": "local/neamt/roman/2019/92",
+   "short": "HCL Roman nr. 92/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/04/092-HCL-2019-04-instituire-uz-si-servitute-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/092-HCL-2019-04-instituire-uz-si-servitute-DELGAZ.pdf",
+     "sha256": "73a26d208b3c02894359e18f267ec982a403d880fefd81770f6bffbb06112daa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-93-2019",
+   "path": "local/neamt/roman/2019/93",
+   "short": "HCL Roman nr. 93/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 93/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a53c9776c4d5274e1c94a07ae46955acac7ca0891ec631c598a20c5e43e08959"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-94-2019",
    "path": "local/neamt/roman/2019/94",
    "short": "HCL Roman nr. 94/2019",
@@ -3449,6 +4604,81 @@
      "units": 5,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/094-HCL-2019-04-aprobare-Regulament-licitatii-DML.pdf",
      "sha256": "883a6876f0b6bafffb14589a6a841d6b91879d1426d98df27ccfc25801738468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2019",
+   "path": "local/neamt/roman/2019/95",
+   "short": "HCL Roman nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2019",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/04/095-HCL-2019-04-utilizare-excedent-2018.pdf",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/095-HCL-2019-04-utilizare-excedent-2018.pdf",
+     "sha256": "5b40b809ad7e1ffa91f431cfeeff34925352bf54cf8febb9d8aa83313777fe08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2019",
+   "path": "local/neamt/roman/2019/96",
+   "short": "HCL Roman nr. 96/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2019 privind aprobarea efectuării unor cheltuieli din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 7469 din 11.04.2019 inițiată de către Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 7470 din 11.04.2019 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și IT; Văzând avizul favorabil nr",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/04/096-HCL-2019-04-efectuare-cheltuieli-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/096-HCL-2019-04-efectuare-cheltuieli-buget-local.pdf",
+     "sha256": "62f2cd6222bc57c9d5028c98f95eb692356654e71801540ad8a4bac0104843a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-97-2019",
+   "path": "local/neamt/roman/2019/97",
+   "short": "HCL Roman nr. 97/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 97/2019 privind neexercitarea dreptului de preemțiune privind cumpărarea unui imobil CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 7508 din 11.04.2019 întocmită și înaintată de către Primarul Municipiului Roman Lucian-Ovidiu Micu; Examinând raportul de specialitate comun nr. 7509/11.04.2019 al Direcției Urbanism și Amenajarea Teritoriului și al Direcței Juridice și Administrație",
+   "url": "https://primariaroman.ro/wp-content/uploads/2019/04/097-HCL-2019-04-neexercitare-drept-preemtiune.pdf",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2019/04/097-HCL-2019-04-neexercitare-drept-preemtiune.pdf",
+     "sha256": "75028f3f219472e5f817247d7a96054c7bc583d9b2ab4e76bbc58963f839526e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2019",
+   "path": "local/neamt/roman/2019/98",
+   "short": "HCL Roman nr. 98/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4bcfc8de8787dd09c30a14e3c47187307f9bf05496ea5088b2adac15174dac7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2019",
+   "path": "local/neamt/roman/2019/99",
+   "short": "HCL Roman nr. 99/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1172914892864bfa6e46d44d9045c1c8262c9a161fd939b58b52bac90360ff16"
     }
    ]
   }

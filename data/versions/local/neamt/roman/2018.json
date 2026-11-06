@@ -3,6 +3,21 @@
  "shard": "local/neamt/roman/2018",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-143-2018",
+   "path": "local/neamt/roman/2018/143",
+   "short": "HCL Roman nr. 143/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 143/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/143_HCL_2018-06_modificare_HCL_183_2016_reprezentanti_CLR_in_CEAC_scoli.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/143_HCL_2018-06_modificare_HCL_183_2016_reprezentanti_CLR_in_CEAC_scoli.pdf",
+     "sha256": "792612e3a87abd69950aaab9222efb38c8e6743018e5584a7857dd2a8c31a55a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-144-2018",
    "path": "local/neamt/roman/2018/144",
    "short": "HCL Roman nr. 144/2018",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/144_HCL_2018-06_modificare_HCL_123_2018.pdf",
      "sha256": "7dfe0e62940d4c54296be74f212f3737b2561ccf613067657c191427ede47e11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-145-2018",
+   "path": "local/neamt/roman/2018/145",
+   "short": "HCL Roman nr. 145/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 145/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9acade21a5f0abe0e147d1cc883b29189ee0cd72efb5f0869b803ca716ea5de9"
     }
    ]
   },
@@ -48,6 +78,171 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-148-2018",
+   "path": "local/neamt/roman/2018/148",
+   "short": "HCL Roman nr. 148/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/148_HCL_2018-06_modificare_HCL_253_2016.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/148_HCL_2018-06_modificare_HCL_253_2016.pdf",
+     "sha256": "30a258528f0355eeb20bcea9e74230b548093c565f865e93ed57f8ad6016f7c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-149-2018",
+   "path": "local/neamt/roman/2018/149",
+   "short": "HCL Roman nr. 149/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/149_HCL_2018-06_modificare_HCL_233_2017.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/149_HCL_2018-06_modificare_HCL_233_2017.pdf",
+     "sha256": "9b03f869cbf0ea3353e8f58d748de4ac7cb28563a00749029d34829bca0555db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-150-2018",
+   "path": "local/neamt/roman/2018/150",
+   "short": "HCL Roman nr. 150/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 150/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/150_HCL_2018-06_modificare_HCL_136_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/150_HCL_2018-06_modificare_HCL_136_2018.pdf",
+     "sha256": "d53dd0cc0b393e5a7470ce7b5f5b0f74f12f8e58a191807f240f7b31f4f029c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-151-2018",
+   "path": "local/neamt/roman/2018/151",
+   "short": "HCL Roman nr. 151/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 151/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/151-HCL-2018-06-aprobare-organigrama.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/151-HCL-2018-06-aprobare-organigrama.pdf",
+     "sha256": "7453f25f3901d9f376dcd8f6bab8cb477f505ebab1dd80a8e63d2f875a0eef35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-152-2018",
+   "path": "local/neamt/roman/2018/152",
+   "short": "HCL Roman nr. 152/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 152/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/152_HCL_2018-06_modificare_contracte.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/152_HCL_2018-06_modificare_contracte.pdf",
+     "sha256": "822a0a925be3b9ba57da2a2abe219305d05fc9024d575b30d3fee4836cf383b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-153-2018",
+   "path": "local/neamt/roman/2018/153",
+   "short": "HCL Roman nr. 153/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 153/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/153_HCL_2018-06_cheltuiala_buget.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/153_HCL_2018-06_cheltuiala_buget.pdf",
+     "sha256": "6c467fe53c28add51fed2c8f2fec3cc7b3305771f129e0c3960caffeec2e4b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-154-2018",
+   "path": "local/neamt/roman/2018/154",
+   "short": "HCL Roman nr. 154/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/07/154_HCL_2018-06_Acord_Zargidava.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/07/154_HCL_2018-06_Acord_Zargidava.pdf",
+     "sha256": "20c55c16739a8aafb6cfbabbff5674489a1f04983356860c2208cec702a0953b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-155-2018",
+   "path": "local/neamt/roman/2018/155",
+   "short": "HCL Roman nr. 155/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 155/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/155_HCL_2018-06_Tuning_Fest.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/155_HCL_2018-06_Tuning_Fest.pdf",
+     "sha256": "8c6e7206b6ebba28726de947392cb1fa87a74be56217d243c76cc06876ca710c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-156-2018",
+   "path": "local/neamt/roman/2018/156",
+   "short": "HCL Roman nr. 156/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/156_HCL_2018-06_organigrama_SMU.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/156_HCL_2018-06_organigrama_SMU.pdf",
+     "sha256": "4cbab3a0a51b52513f80548ddd115c8851a001c4d880f0efd1fe692bef8ebbb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2018",
+   "path": "local/neamt/roman/2018/157",
+   "short": "HCL Roman nr. 157/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/157_HCL_2018-06_sponsorizare_Marsat.pdf",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/157_HCL_2018-06_sponsorizare_Marsat.pdf",
+     "sha256": "af46ccf2f2bd7f808fca05768a8bad3cab09b5a545b27350cfe77df5d6c58324"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-158-2018",
+   "path": "local/neamt/roman/2018/158",
+   "short": "HCL Roman nr. 158/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 158/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e4bd6350fd7bc3b3b1af5be5611d7e33581f09f6dc6bb11835a6dd56d7316370"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-159-2018",
    "path": "local/neamt/roman/2018/159",
    "short": "HCL Roman nr. 159/2018",
@@ -78,6 +273,261 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-161-2018",
+   "path": "local/neamt/roman/2018/161",
+   "short": "HCL Roman nr. 161/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 161/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/161_HCL_2018-06_modificare_HCL_123_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/161_HCL_2018-06_modificare_HCL_123_2018.pdf",
+     "sha256": "2674647a443fc3f0ce3d54468158da4174503bb0eac8be0a00f14080088b57a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-163-2018",
+   "path": "local/neamt/roman/2018/163",
+   "short": "HCL Roman nr. 163/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 163/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6983f5fd66955f9f1ab5a494f2655b89b4627ff322e42e53027b329a59789d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-164-2018",
+   "path": "local/neamt/roman/2018/164",
+   "short": "HCL Roman nr. 164/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 164/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/164_HCL_2018-07_modificare_HCL_153_si_154_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/164_HCL_2018-07_modificare_HCL_153_si_154_2018.pdf",
+     "sha256": "8a41357ea918b275a1d882dc37b87b01d34d8d30f0abf60c1f07d1ae520fc340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-165-2018",
+   "path": "local/neamt/roman/2018/165",
+   "short": "HCL Roman nr. 165/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 165/2018 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico- economici pentru obiectivul de investiții: \"Construire locuințe sociale in Municipiul Roman, Strada Islazului\", jud",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/165_HCL_2018-07_aprobare_deviz_construire_locuinte_sociale.pdf",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/165_HCL_2018-07_aprobare_deviz_construire_locuinte_sociale.pdf",
+     "sha256": "7334bac80169bbdde61e335d5a6f977d99069c8a8d7dc2c8348c986833674f14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2018",
+   "path": "local/neamt/roman/2018/167",
+   "short": "HCL Roman nr. 167/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2018 privind aprobarea indicatorilor tehnico-economici pentru finantarea din bugetul local a obiectivului de investitii: ”Construire locuinte sociale in Municipiul Roman, Strada Islazului”, jud",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/167_HCL_2018-07_aprobare_indicatori_locuinte_sociale.pdf",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/167_HCL_2018-07_aprobare_indicatori_locuinte_sociale.pdf",
+     "sha256": "836b084d07aab7bcd91d8edbd88f3e2f2704c9b1bd36630877b0afcad1aea2ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-168-2018",
+   "path": "local/neamt/roman/2018/168",
+   "short": "HCL Roman nr. 168/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 168/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1c569be0f795d0ffd4966690ada0774a56f970c1dd2f4de2363c2bfc5bffc7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-170-2018",
+   "path": "local/neamt/roman/2018/170",
+   "short": "HCL Roman nr. 170/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 170/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "db0154c2079a2df10731d37861d6d7a70f9948921b74df2c1576e7b91d7ad62f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-171-2018",
+   "path": "local/neamt/roman/2018/171",
+   "short": "HCL Roman nr. 171/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 171/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/171_HCL_2018-07_acceptare_donatie_EN_BUILD_DEVELOPMENT.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/171_HCL_2018-07_acceptare_donatie_EN_BUILD_DEVELOPMENT.pdf",
+     "sha256": "ddad57d9092c33c719e667e1bea3db9925cc719db4992a0db92fc78fc7de8a38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-173-2018",
+   "path": "local/neamt/roman/2018/173",
+   "short": "HCL Roman nr. 173/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 173/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/173_HCL_2018-07_plata_despagubiri_NT_05_ZRF.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/173_HCL_2018-07_plata_despagubiri_NT_05_ZRF.pdf",
+     "sha256": "b9b3cee2abcb0b1fce64c164216ef3068fbc7dfec2ba1f2e03e8ee29ac9b1c54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-174-2018",
+   "path": "local/neamt/roman/2018/174",
+   "short": "HCL Roman nr. 174/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 174/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "094fb58d6e3f3aa70f32509fe2fd3c1c4e240cf9a1d910fc6924e9dc493d02cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-175-2018",
+   "path": "local/neamt/roman/2018/175",
+   "short": "HCL Roman nr. 175/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 175/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "088c23545ab9db5cf2c09c0d4aa420b50cdbb79092fd90dba9d197b4bdd391db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-176-2018",
+   "path": "local/neamt/roman/2018/176",
+   "short": "HCL Roman nr. 176/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 176/2018 privind revocarea unei hotărâri CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand expunerea de motive nr. 13478 din 12.07.2018 inițiată de către Primarul Municipiului Roman – dl",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/176_HCL_2010-07_revocare_HCL_179_2017.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/176_HCL_2010-07_revocare_HCL_179_2017.pdf",
+     "sha256": "de4214081ed06fedd1e02c18d2859330a967cf1d2f75d97fde9ad0545a3e3ab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-177-2018",
+   "path": "local/neamt/roman/2018/177",
+   "short": "HCL Roman nr. 177/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 177/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5f39115ced3e6bb76208561986c7e02d271e46b07b075a0c3971f296230de43e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-178-2018",
+   "path": "local/neamt/roman/2018/178",
+   "short": "HCL Roman nr. 178/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 178/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "11f99a0ea7282de17a9af656676b5079105a24d0bd7534e8261f446f0378c849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-180-2018",
+   "path": "local/neamt/roman/2018/180",
+   "short": "HCL Roman nr. 180/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 180/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "86cbba13188217ba6615fba47ea6bb9964c1dbed1732ac91e14d464112219dad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-181-2018",
+   "path": "local/neamt/roman/2018/181",
+   "short": "HCL Roman nr. 181/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 181/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c9216dd48ce3f6126c257b44aa15a722f7bafd77e6672cd383958acdfc3fb355"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-182-2018",
+   "path": "local/neamt/roman/2018/182",
+   "short": "HCL Roman nr. 182/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 182/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "24f368354426f85c2c9493ffcfb964ff1e82b866b92a36de574074db8182558b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-183-2018",
    "path": "local/neamt/roman/2018/183",
    "short": "HCL Roman nr. 183/2018",
@@ -89,6 +539,126 @@
      "units": 1,
      "source_url": null,
      "sha256": "750b090c331b0ba79836f8b6b862261fb03f1f56101cbf07a6c4c3a1653b4601"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-184-2018",
+   "path": "local/neamt/roman/2018/184",
+   "short": "HCL Roman nr. 184/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 184/2018 privind aprobarea efectuării unor cheltuieli din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 13867 din 19.07.2018 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 13868 din 19.07.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și IT; Văzând avizul favorabil nr. 10",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/08/184-HCL-2018-07-efectuare-cheltuieli-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/08/184-HCL-2018-07-efectuare-cheltuieli-buget-local.pdf",
+     "sha256": "547db9b65ce2ca496b1b65fdf58d49b2c7d4034ad3b48f8dd1fbacd9b4dab948"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-185-2018",
+   "path": "local/neamt/roman/2018/185",
+   "short": "HCL Roman nr. 185/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 185/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b4e56b102d7077862353011c5f9ddd51294774dfe0bb5d37148393c2316baf29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-186-2018",
+   "path": "local/neamt/roman/2018/186",
+   "short": "HCL Roman nr. 186/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 186/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dd5e0340dbd3d3bb5fc1f3ea16d0cfea8d842e835b34bfd75b72b25da0d5223a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-187-2018",
+   "path": "local/neamt/roman/2018/187",
+   "short": "HCL Roman nr. 187/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 187/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c55afbfb8c7ac3726bac831177e07840cccd125f2d8e13fea4eed84cdf037be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-188-2018",
+   "path": "local/neamt/roman/2018/188",
+   "short": "HCL Roman nr. 188/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 188/2018 privind aprobarea efectuării unor cheltuieli din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 15382 din 14.08.2018 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 15383 din 14.08.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și IT; Văzând avizul favorabil nr. 10",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/09/188_HCL_2018-08_aprobare_cheltuieli_buget_local.pdf",
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/09/188_HCL_2018-08_aprobare_cheltuieli_buget_local.pdf",
+     "sha256": "1e042b6d8c45c0791af57aec313e1cf6118aa8d1d01a68a8dfcfe8410e803c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-189-2018",
+   "path": "local/neamt/roman/2018/189",
+   "short": "HCL Roman nr. 189/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 189/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0870cd1f59f657c1480dcd23d385191ae6cdb52e21565e357444b4554e62937c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-190-2018",
+   "path": "local/neamt/roman/2018/190",
+   "short": "HCL Roman nr. 190/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 190/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/09/190_HCL_2018-08_transmitere_teren_PK_INDIGO.pdf",
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/09/190_HCL_2018-08_transmitere_teren_PK_INDIGO.pdf",
+     "sha256": "4dbebdcf7cd853d484a25b5f1adf65e66a6f0967fcba98f66fdcbbcc874c8cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-191-2018",
+   "path": "local/neamt/roman/2018/191",
+   "short": "HCL Roman nr. 191/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 191/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "784196260cd3296af7115ad0828ad1a038a978190aff43ce1eede18aadb0cd35"
     }
    ]
   },
@@ -108,6 +678,201 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-197-2018",
+   "path": "local/neamt/roman/2018/197",
+   "short": "HCL Roman nr. 197/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 197/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c26c0ea290a6d39730838a6f64c1a717c2f8148f01c6dcd6719ccd09aeae4413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-198-2018",
+   "path": "local/neamt/roman/2018/198",
+   "short": "HCL Roman nr. 198/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 198/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/09/198-HCL-2018-09-dare-in-administrare-imobil.pdf",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/09/198-HCL-2018-09-dare-in-administrare-imobil.pdf",
+     "sha256": "36c0cc7aaaeacc4d3f2f10c5be51a9d526034f524c444ffd07c77b69c374f495"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-199-2018",
+   "path": "local/neamt/roman/2018/199",
+   "short": "HCL Roman nr. 199/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 199/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/09/199-HCL-2018-09-transmitere-teren-PK-INDIGO.pdf",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/09/199-HCL-2018-09-transmitere-teren-PK-INDIGO.pdf",
+     "sha256": "065ebfbbf1187d9b26634d480c25f8646e86b5f0ca7fedf2ad58619ef06e1aa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-200-2018",
+   "path": "local/neamt/roman/2018/200",
+   "short": "HCL Roman nr. 200/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 200/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3a71a480401c12915888025da591ccf1a1c11a1da496dd5c44529d8af16de7ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-201-2018",
+   "path": "local/neamt/roman/2018/201",
+   "short": "HCL Roman nr. 201/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 201/2018 privind aprobarea unei cofinanțări pentru S.M.U",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/09/201-HCL-2018-09-aprobare-finantare-SMU-Roman.pdf",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/09/201-HCL-2018-09-aprobare-finantare-SMU-Roman.pdf",
+     "sha256": "7c3f2445c14ee04a7eda39e4c6c84fc127cb1f5df6e1bec2b8627041ac2c7ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-202-2018",
+   "path": "local/neamt/roman/2018/202",
+   "short": "HCL Roman nr. 202/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 202/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": "09806120508da2aa22c82c3c42209253c1803db7ce7ba0f133c9245cb80e9618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-203-2018",
+   "path": "local/neamt/roman/2018/203",
+   "short": "HCL Roman nr. 203/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 203/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/203-HCL-2018-09-alegerea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/203-HCL-2018-09-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "e39e6550cfdf34f5194d2250ef591090364795b1ec18faa3e167ebdd36e3a33b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-204-2018",
+   "path": "local/neamt/roman/2018/204",
+   "short": "HCL Roman nr. 204/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 204/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f769f6b0e7b4cc6f20f3a65831fb161cfb0a67a94f580b1fb5c30d1a5dd54b69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-205-2018",
+   "path": "local/neamt/roman/2018/205",
+   "short": "HCL Roman nr. 205/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 205/2018 privind aprobarea concesionării unor spații cu destinația de cabinete medicale din cadrul Ambulatoriului de Specialitate Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinand expunerea de motive nr. 17175 din 18.09.2018 inițiată de către Lucian-Ovidiu Micu – Primarul Muncipiului Roman, precum și raportul de specialitate nr. 17176 din 18.09.2018 întocmit de către Direcția Tehnică; Văzând avizul fa",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/205-HCL-2018-09-aprobare-concesionare-cabinete-medicale.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/205-HCL-2018-09-aprobare-concesionare-cabinete-medicale.pdf",
+     "sha256": "d836f5ddd6a09a9ef2d73708bb215d5dcb876747bbfcb19c533f8c9af974513f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-206-2018",
+   "path": "local/neamt/roman/2018/206",
+   "short": "HCL Roman nr. 206/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 206/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a9e6880135070db8b586e567338c18865024b2b65e6709d4e6b2c14281b1740d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-207-2018",
+   "path": "local/neamt/roman/2018/207",
+   "short": "HCL Roman nr. 207/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 207/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/207-HCL-2018-09-acord-de-parteneriat.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/207-HCL-2018-09-acord-de-parteneriat.pdf",
+     "sha256": "d8f52ead54a651ff77e6235619829e34895c8eaee476044ea5e1fa2b08a04407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-208-2018",
+   "path": "local/neamt/roman/2018/208",
+   "short": "HCL Roman nr. 208/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 208/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "70c1e86bee58d59a3d3d7550f0b16765f0c51a2c9f38a7dd8d9793795491d9aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-209-2018",
+   "path": "local/neamt/roman/2018/209",
+   "short": "HCL Roman nr. 209/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 209/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0d23084f7cbbce8db8af076ccf1af88191ceb2bb352391deaf3d6ce85a5c22dc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-210-2018",
    "path": "local/neamt/roman/2018/210",
    "short": "HCL Roman nr. 210/2018",
@@ -119,6 +884,156 @@
      "units": 1,
      "source_url": null,
      "sha256": "1a51878f87e35a4cce1b6bb46c3e53fc815d9be420800f0bc5f402f312c7b99b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-211-2018",
+   "path": "local/neamt/roman/2018/211",
+   "short": "HCL Roman nr. 211/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 211/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3935a9581a94f25593891fa5f01d699a9b74a707c66262de742f78d5b46cde6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-212-2018",
+   "path": "local/neamt/roman/2018/212",
+   "short": "HCL Roman nr. 212/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 212/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/212-HCL-2018-09-instituire-uz-comuna-Gadinti.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/212-HCL-2018-09-instituire-uz-comuna-Gadinti.pdf",
+     "sha256": "b3cfdcfa14d236be7c61f248e35acc2d7f5d13a04ee6d1ebbec87f4f26e8b577"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-213-2018",
+   "path": "local/neamt/roman/2018/213",
+   "short": "HCL Roman nr. 213/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 213/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/213-HCL-2018-09-instituire-uz-Delgaz-si-EON.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/213-HCL-2018-09-instituire-uz-Delgaz-si-EON.pdf",
+     "sha256": "ce29fcae1132ab6cbe31d71dc9b6d1a3c9a813a57f4be4a9520594a426350131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-214-2018",
+   "path": "local/neamt/roman/2018/214",
+   "short": "HCL Roman nr. 214/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 214/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a51a4b05fe70462319ce1f7b6edd3c004ac42fc6de5c6f737f9e253af6059380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-215-2018",
+   "path": "local/neamt/roman/2018/215",
+   "short": "HCL Roman nr. 215/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 215/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2f8d02b6f09ff0094712a96370cf2f43884be0c5ba5dee87eaaccd0adbed082f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-216-2018",
+   "path": "local/neamt/roman/2018/216",
+   "short": "HCL Roman nr. 216/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 216/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c37f10b6ebdf919fa7834169c8421268e0bf1e556807cfd2df90fb26a35e6545"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-217-2018",
+   "path": "local/neamt/roman/2018/217",
+   "short": "HCL Roman nr. 217/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 217/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/217-HCL-2018-09-aprobare-concesiuni-si-inchirieri-terenuri.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/217-HCL-2018-09-aprobare-concesiuni-si-inchirieri-terenuri.pdf",
+     "sha256": "5741f12cc184137303009b183055e5d3e8ba578efb6bf5b2802b867995141084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-218-2018",
+   "path": "local/neamt/roman/2018/218",
+   "short": "HCL Roman nr. 218/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 218/2018 privind încheierea unui Acord de parteneriat în vederea organizării Zilei Internaționale a Persoanelor Vârstnice 2018 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 17448 din 21.09.2018 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 17449 din 21.09.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învăț",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/218-HCL-2018-09-aprobare-acord-parteneriat-pensionari-2.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/218-HCL-2018-09-aprobare-acord-parteneriat-pensionari-2.pdf",
+     "sha256": "62ff331ac5495fb2509b2a9e6596b47ce9e8988726dc9d5b0e5f88c6ad864291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-219-2018",
+   "path": "local/neamt/roman/2018/219",
+   "short": "HCL Roman nr. 219/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 219/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e03b5f3f5c9cb9e720f000eeb51b142467486edf59dd544062dbca82d0454894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-221-2018",
+   "path": "local/neamt/roman/2018/221",
+   "short": "HCL Roman nr. 221/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 221/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/221-HCL-2018-09-constituire-GLE.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/221-HCL-2018-09-constituire-GLE.pdf",
+     "sha256": "c9d5d44191708ed04ed6225582851d2453a0eadf81ee37038dc92916244b7f92"
     }
    ]
   },
@@ -138,6 +1053,126 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-224-2018",
+   "path": "local/neamt/roman/2018/224",
+   "short": "HCL Roman nr. 224/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 224/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8563533cf362e498c9aea6343b067e611deb2b2801df8fd58c542cc67816073d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-225-2018",
+   "path": "local/neamt/roman/2018/225",
+   "short": "HCL Roman nr. 225/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 225/2018 privind aprobarea vânzării unui imobil CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 17753 din 26.09.2018 înaintată de Primarul Municipiului Roman, precum și raportul comun nr. 17754 din 26.09.2018 al Direcției de Urbanism și Amenajarea Teritoriului și Direcției Economice; Văzând avizul favorabil nr. 123 din 27.09.2018 al Comisiei pentru buget- finanțe, avizul favorabil",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/225-HCL-2018-09-aprobare-vanzare-CT9.pdf",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/225-HCL-2018-09-aprobare-vanzare-CT9.pdf",
+     "sha256": "01f17639754e9944b8703eabf489dd858a4f686c5fbaff8e4b63100411c62622"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-228-2018",
+   "path": "local/neamt/roman/2018/228",
+   "short": "HCL Roman nr. 228/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 228/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9bbae9129731f9250b7f77ab6bd442bf410c1d195ca344e9ac76ec5dff6d4068"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-229-2018",
+   "path": "local/neamt/roman/2018/229",
+   "short": "HCL Roman nr. 229/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 229/2018 privind aprobarea încheierii unui Acord de asociere CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 18356 din 03.10.2018 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 18357 din 03.10.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T.; Văzând avizul favorabil nr. 49 din 10.1",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/229-HCL-2018-10-aprobare-acord-Targ-Expofashion.pdf",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/229-HCL-2018-10-aprobare-acord-Targ-Expofashion.pdf",
+     "sha256": "7ec35f99e9ace507452d6495d8cf7776e7fc61966afbf9457b8efc4f57164432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-230-2018",
+   "path": "local/neamt/roman/2018/230",
+   "short": "HCL Roman nr. 230/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 230/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/230-HCL-2018-10-completarea-HCL-205.pdf",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/230-HCL-2018-10-completarea-HCL-205.pdf",
+     "sha256": "e4326c4206f17bf4d772fd92b5e5e6563073b8712dc1608ec90e1aba3fe8c815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-231-2018",
+   "path": "local/neamt/roman/2018/231",
+   "short": "HCL Roman nr. 231/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 231/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "78559fdd67e0550c7c2c5c9eca721aa80b00d7005cb5d0e2dc05fe2439ab631f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-232-2018",
+   "path": "local/neamt/roman/2018/232",
+   "short": "HCL Roman nr. 232/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 232/2018 privind aprobarea finanțării de la bugetul local al UAT Roman a utilităților și amenajării terenului pentru realizarea obiectivului de investiții: „Locuințe pentru tineri, destinate închirierii, judetul Neamț municipiul Roman, str. Moldovei, f.n., etapa III-I, specialiști în sănătate” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 18518 din 05.10.2018 înaintată de Primaru",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/10/232-HCL-2018-10-aprobare-finantare-utilitati-teren-ANL.pdf",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/10/232-HCL-2018-10-aprobare-finantare-utilitati-teren-ANL.pdf",
+     "sha256": "34e9cfdae3fa7fd55a35382a2459768af58b757496cff796cb1931abfce1e8a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-233-2018",
+   "path": "local/neamt/roman/2018/233",
+   "short": "HCL Roman nr. 233/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 233/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "13494edde24d2929b6fa2f6a4e8babb2914c4bcdd721fe5b135887686c8a83f5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-234-2018",
    "path": "local/neamt/roman/2018/234",
    "short": "HCL Roman nr. 234/2018",
@@ -149,6 +1184,171 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/234-ANX-2018-11-modificare-HCL-18_2008.pdf",
      "sha256": "b4a7ff2acd9a59a43d39c1a399cfd7ad1567136401dd1a46818e367155635138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-235-2018",
+   "path": "local/neamt/roman/2018/235",
+   "short": "HCL Roman nr. 235/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 235/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9215cf3a6628c42908a1af22f4876e1d4a45336940443f6c764744d623708383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-236-2018",
+   "path": "local/neamt/roman/2018/236",
+   "short": "HCL Roman nr. 236/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 236/2018 privind aprobarea încheierii unui Acord de colaborare CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 19382 din 19.10.2018 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 19383 din 19.10.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T.; Văzând avizul favorabil nr. 31 din 05",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/236-HCL-2018-11-aprobare-acord-concert-Filarmonica.pdf",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/236-HCL-2018-11-aprobare-acord-concert-Filarmonica.pdf",
+     "sha256": "a150ba708abd859c32002e627d4ca72968b4cc958562109c2508376a32a6d08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-237-2018",
+   "path": "local/neamt/roman/2018/237",
+   "short": "HCL Roman nr. 237/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 237/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "741b235f463bc3f4a0435679c1e52b74574fc6a2e2f87fd9006c36b490e38027"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-238-2018",
+   "path": "local/neamt/roman/2018/238",
+   "short": "HCL Roman nr. 238/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 238/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "771d251fffd75dad6f8ff0b57c360737a11192fa77e69c4f60b603bd989eeed6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-239-2018",
+   "path": "local/neamt/roman/2018/239",
+   "short": "HCL Roman nr. 239/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 239/2018 privind mandatarea primarului municipiului Roman pentru a negocia și semna acordul colectiv al funcționarilor publici și contractul colectiv de muncă al personalului contractual din partea angajatorului , precum și actele adiționale ale acordului colectiv, respectiv ale contractului colectiv de muncă CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Având în vedere : - art. 72 din Legea nr.188/1999(r) privin",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/239-HCL-2018-11-mandatare-primar-negociere-salarii.pdf",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/239-HCL-2018-11-mandatare-primar-negociere-salarii.pdf",
+     "sha256": "3d6cc50afbf1aa5b3cc5986b501931d3e3145d0a181a2a91267c960db1dad87d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-241-2018",
+   "path": "local/neamt/roman/2018/241",
+   "short": "HCL Roman nr. 241/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 241/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/241-HCL-2018-11-reducerea-de-la-plata-impozitului.pdf",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/241-HCL-2018-11-reducerea-de-la-plata-impozitului.pdf",
+     "sha256": "7ebe6f4e8c3412aedbb226cc9d5b1b1ba3e261fe8c1df5bca0ba9d991c328262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-242-2018",
+   "path": "local/neamt/roman/2018/242",
+   "short": "HCL Roman nr. 242/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 242/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e0771f560664562f65f681fdc5195aadc020cd60c4fdd37e55e05f06844a282b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-243-2018",
+   "path": "local/neamt/roman/2018/243",
+   "short": "HCL Roman nr. 243/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 243/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "71b628b8662bdff87d77e46fa8f031a1e884c7f9c800a2125287cd09cc6cc732"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-244-2018",
+   "path": "local/neamt/roman/2018/244",
+   "short": "HCL Roman nr. 244/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 244/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b412461bd449e4e8837a8cd276201567f4b055f825d3ab6832f0ed62c2d47487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-245-2018",
+   "path": "local/neamt/roman/2018/245",
+   "short": "HCL Roman nr. 245/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 245/2018 privind aprobarea inventarului parțial al terenurilor aparținând domeniului privat al municipiului Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 20.042 din 30.10.2018 inițiată de către dl",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/245-HCL-2018-11-aprobarea-inventarului-partial.pdf",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/245-HCL-2018-11-aprobarea-inventarului-partial.pdf",
+     "sha256": "1ce79939f177f062a43914b6d62c54daff2157010e16b989a316c743d62e6775"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-246-2018",
+   "path": "local/neamt/roman/2018/246",
+   "short": "HCL Roman nr. 246/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 246/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5a03a1802eceac973a91f0c95d7c91a89b4957a0673e3d6808cb014fe7787159"
     }
    ]
   },
@@ -168,6 +1368,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-248-2018",
+   "path": "local/neamt/roman/2018/248",
+   "short": "HCL Roman nr. 248/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 248/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/248-HCL-2018-11-aprobare-concesiuni-si-inchirieri-terenuri.pdf",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/248-HCL-2018-11-aprobare-concesiuni-si-inchirieri-terenuri.pdf",
+     "sha256": "16bcc5794297a3839d348dc3013c9cd8fdc8c1338f0370ce0f03e8a6174788c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-249-2018",
+   "path": "local/neamt/roman/2018/249",
+   "short": "HCL Roman nr. 249/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 249/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3090da7d27a29e031c2d72d3a54e702a4e4034842c1da614969421c3eb9e39bf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-250-2018",
    "path": "local/neamt/roman/2018/250",
    "short": "HCL Roman nr. 250/2018",
@@ -183,6 +1413,156 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-251-2018",
+   "path": "local/neamt/roman/2018/251",
+   "short": "HCL Roman nr. 251/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 251/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d1d4c4a9dac64ba6f961c2c0a28fdb51a81595c10b2523ca74c17c5abc956b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-252-2018",
+   "path": "local/neamt/roman/2018/252",
+   "short": "HCL Roman nr. 252/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 252/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c0f5ae0f75c29958ada9c329f2325a932001847d403b60451801bc1b41a3ab11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-254-2018",
+   "path": "local/neamt/roman/2018/254",
+   "short": "HCL Roman nr. 254/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 254/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c62720886c16c351b2b05ad1c4c87c07d1edd51c3536db464a3af6a6570f0fd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-255-2018",
+   "path": "local/neamt/roman/2018/255",
+   "short": "HCL Roman nr. 255/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 255/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "887b654a43a3157995857136334d4fee7749a2eb7f34a2fffe7da3b2776ef028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-256-2018",
+   "path": "local/neamt/roman/2018/256",
+   "short": "HCL Roman nr. 256/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 256/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "912be6106bca3126eda67854bc6cae94db5755b49cab087229214b4f1f7a620e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-257-2018",
+   "path": "local/neamt/roman/2018/257",
+   "short": "HCL Roman nr. 257/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 257/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "540d2784eb10bd9b036929e41f671b840e7b38995cb677824028bc78d153d88b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-258-2018",
+   "path": "local/neamt/roman/2018/258",
+   "short": "HCL Roman nr. 258/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 258/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f44d0b5a5b68ec86d87267ded434b238ee7207d0aff6d55e16d08b7429a5e2d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-259-2018",
+   "path": "local/neamt/roman/2018/259",
+   "short": "HCL Roman nr. 259/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 259/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/11/259-HCL-2018-11-transmitere-in-folosinta-retea-PT-22.pdf",
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/11/259-HCL-2018-11-transmitere-in-folosinta-retea-PT-22.pdf",
+     "sha256": "59f3e131f8f25ea159c5752e244898bc9092b2f156aefa6fb5522347b575c48d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-260-2018",
+   "path": "local/neamt/roman/2018/260",
+   "short": "HCL Roman nr. 260/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 260/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b4d9bd6cce21ea891bf4cee583d253493ce949548797266a4b83cb27a709f8d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-261-2018",
+   "path": "local/neamt/roman/2018/261",
+   "short": "HCL Roman nr. 261/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 261/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "18c8820d70812c5730cde452e6874305e6d77953160becf075c41fba5041fb89"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-262-2018",
    "path": "local/neamt/roman/2018/262",
    "short": "HCL Roman nr. 262/2018",
@@ -194,6 +1574,456 @@
      "units": 1,
      "source_url": null,
      "sha256": "f5f4655be6e35b610956c41c31deadca226ec69f5cd73c29bef1ae28771474a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-263-2018",
+   "path": "local/neamt/roman/2018/263",
+   "short": "HCL Roman nr. 263/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 263/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2014b8d3e96cf76c9fb15eeb2b63e19602912a6c0170a4ae3cb64521c50126e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-264-2018",
+   "path": "local/neamt/roman/2018/264",
+   "short": "HCL Roman nr. 264/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 264/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/264-HCL-2018-12-alegerea-presedintelui-de-sedinta-compressed.pdf",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/264-HCL-2018-12-alegerea-presedintelui-de-sedinta-compressed.pdf",
+     "sha256": "28eb7a1bfbffa47ddef609b1e9a12fc02eeaee5df7d59956042a6ee9c84ee373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-265-2018",
+   "path": "local/neamt/roman/2018/265",
+   "short": "HCL Roman nr. 265/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 265/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": "80124427b936af3d0c48b49bd03b0c06c85b421122df5e6a1dfbee6bad1a06c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-267-2018",
+   "path": "local/neamt/roman/2018/267",
+   "short": "HCL Roman nr. 267/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 267/2018 privind rectificarea bugetului local consolidat, a listei de investiții din bugetul local consolidat și a listei de investiții de la Spitalul Municipal de Urgență Roman, pe anul 2018 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 22221 din 05.12.2018 inițiată de către dl",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/267-HCL-2018-12-rectificare-buget-local-compressed.pdf",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/267-HCL-2018-12-rectificare-buget-local-compressed.pdf",
+     "sha256": "3821802c6b16949cfd7a1d2863ad319d147f051b345a59436ab8f8e72e71ccf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-268-2018",
+   "path": "local/neamt/roman/2018/268",
+   "short": "HCL Roman nr. 268/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 268/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/268-HCL-2018-12-modificare-hcl-223-anonimiuzata-compressed.pdf",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/268-HCL-2018-12-modificare-hcl-223-anonimiuzata-compressed.pdf",
+     "sha256": "0b481a5a4cc504a4cc23866d42369c6781ac9d5b30481275600acb9573e478eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-269-2018",
+   "path": "local/neamt/roman/2018/269",
+   "short": "HCL Roman nr. 269/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 269/2018 privind aprobarea efectuării unei cheltuieli din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 22380 din 10.12.2018 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 22381 din 10.12.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T.; Văzând avizul favorabil nr",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/269-HCL-2018-12-efectuare-cheltuieli-bugetul-local.pdf",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/269-HCL-2018-12-efectuare-cheltuieli-bugetul-local.pdf",
+     "sha256": "34eb397c2d2ae17d84021b19fcf44b4ad88fcdcae52f3b8e9f387623ebfced63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-271-2018",
+   "path": "local/neamt/roman/2018/271",
+   "short": "HCL Roman nr. 271/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 271/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2cb063d67fe873b2ab38ece89f9e30af8021b87c712ee2fd39ec875be8866fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-272-2018",
+   "path": "local/neamt/roman/2018/272",
+   "short": "HCL Roman nr. 272/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 272/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "504b86f77a6b34c44697a454bd28042d2a41514e62d5fba2ed6c62c1990a75b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-273-2018",
+   "path": "local/neamt/roman/2018/273",
+   "short": "HCL Roman nr. 273/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 273/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fa7328877c2a7446e01ed0342b4f04227611ed6d207f9783902687680f3bf3d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-274-2018",
+   "path": "local/neamt/roman/2018/274",
+   "short": "HCL Roman nr. 274/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 274/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/274-HCL-2018-12-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/274-HCL-2018-12-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+     "sha256": "769827fcb3a26dadf00b7f1a7aae89147211c0fbca6b2e523843648a4647c1f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-275-2018",
+   "path": "local/neamt/roman/2018/275",
+   "short": "HCL Roman nr. 275/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 275/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fa9054a1e4722937fcbdaadc5f161ae396bd9bd5d025dd2008eda598788fc726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-276-2018",
+   "path": "local/neamt/roman/2018/276",
+   "short": "HCL Roman nr. 276/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 276/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2460235207ca8a12b1261b40d49205916d0274242e94e65fc1c34d2c57f9bad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-277-2018",
+   "path": "local/neamt/roman/2018/277",
+   "short": "HCL Roman nr. 277/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 277/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7fe1d29eb6ed608995584bf5bc71ca2c0b6568637e8dc62c23687049e081c84d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-278-2018",
+   "path": "local/neamt/roman/2018/278",
+   "short": "HCL Roman nr. 278/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 278/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/278-HCL-2018-12-domeniu-privat.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/278-HCL-2018-12-domeniu-privat.pdf",
+     "sha256": "bbdad8581feb04f941ed29f3a92a442d7e12c56f4915aa6db5210c114156b989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-280-2018",
+   "path": "local/neamt/roman/2018/280",
+   "short": "HCL Roman nr. 280/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 280/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "26b0ad663714d8cf4908dda131cfdc24c0cacb626967276f432688dfeb793c3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-281-2018",
+   "path": "local/neamt/roman/2018/281",
+   "short": "HCL Roman nr. 281/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 281/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "63ef4a79d4ed8960d04e9eee3c98d2abcefb1203dce980ca8e56a3de2d20f7a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-282-2018",
+   "path": "local/neamt/roman/2018/282",
+   "short": "HCL Roman nr. 282/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 282/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7195cdedad225f5d2d2cf8f1e26961c6e97ad88974a09b7994a5ba4514b986cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-283-2018",
+   "path": "local/neamt/roman/2018/283",
+   "short": "HCL Roman nr. 283/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 283/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f4a05da3ba8e84a7ff7d36d5c3c07071ff8bb1f88379dedfc00485701604ab07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-284-2018",
+   "path": "local/neamt/roman/2018/284",
+   "short": "HCL Roman nr. 284/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 284/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/284-HCL-2018-12-stabilire-salarii.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/284-HCL-2018-12-stabilire-salarii.pdf",
+     "sha256": "ee8f172ecb6fc9d4218c4c616d01e0d116cf9443504371ba0c9fdfef6efd519e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-285-2018",
+   "path": "local/neamt/roman/2018/285",
+   "short": "HCL Roman nr. 285/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 285/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/285-HCL-2018-12-aprobare-concesiuni-si-inchirieri-terenuri.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/285-HCL-2018-12-aprobare-concesiuni-si-inchirieri-terenuri.pdf",
+     "sha256": "6df787645ea92566e7655cd6b9378710b240bd39eb93601a95f4c9f477296823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-286-2018",
+   "path": "local/neamt/roman/2018/286",
+   "short": "HCL Roman nr. 286/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 286/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/286-HCL-2018-12-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/286-HCL-2018-12-instituire-drept-uz-si-servitute-DELGAZ.pdf",
+     "sha256": "3fc7f7b95f4cf8601c1b383b088e5a62f9c5861d2941447e611e7b168e9c7a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-287-2018",
+   "path": "local/neamt/roman/2018/287",
+   "short": "HCL Roman nr. 287/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 287/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "354192762746f03140bd8697bc75ca23fe3a4ca9ebe8a650c1877558aee93e0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-288-2018",
+   "path": "local/neamt/roman/2018/288",
+   "short": "HCL Roman nr. 288/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 288/2018 privind aprobarea rețelei unităților de învățământ preuniversitar din municipiul Roman pentru anul școlar 2019-2020 CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 22992 din 14.12.2018 inițiată de către Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 22993 din 14.12.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Î",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/288-HCL-2018-12-aprobare-retea-scolara-2019-2020.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/288-HCL-2018-12-aprobare-retea-scolara-2019-2020.pdf",
+     "sha256": "32157180dc0bd60ab014aa92551cabef5abda29f1e2e8319c6efb070e0a3ed6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-289-2018",
+   "path": "local/neamt/roman/2018/289",
+   "short": "HCL Roman nr. 289/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 289/2018 privind alocarea unei sume din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 23069 din 17.12.2018 inițiată de Lucian-Ovidiu Micu - Primarul municipiului Roman, precum și raportul de specialitate nr. 23072 din 17.12.2018 întocmit de Serviciul Organizare Evenimente, Cultură, Culte, Învățământ, Mass Media și I.T.; Văzând avizul favorabil nr. 158 din 19.12.2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/289-HCL-2018-12-alocare-suma-Ziarul-Primariei.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/289-HCL-2018-12-alocare-suma-Ziarul-Primariei.pdf",
+     "sha256": "52b4f3cb03831663e3fb6fdfc9ef6e9a0f5ccea6a59fa3553c48b0f29a5c6da0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-290-2018",
+   "path": "local/neamt/roman/2018/290",
+   "short": "HCL Roman nr. 290/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 290/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "75b1b206db6b483781e5eadb3f5c5d49e65d690ca4cf5ba2f2e47077eedef6f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-291-2018",
+   "path": "local/neamt/roman/2018/291",
+   "short": "HCL Roman nr. 291/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 291/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3fbced510191b64c7776dcacb2a0b0b186eada8933a645512133cc02ecb13800"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-292-2018",
+   "path": "local/neamt/roman/2018/292",
+   "short": "HCL Roman nr. 292/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 292/2018",
+   "url": "https://primariaroman.ro/wp-content/uploads/2018/12/292-HCL-2018-12-modificare-HCL-255_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2018/12/292-HCL-2018-12-modificare-HCL-255_2018.pdf",
+     "sha256": "96a91f667c89b2e9f04ddf557478b07f83dfd5fcb40084ad1724a8ecd7345a9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-294-2018",
+   "path": "local/neamt/roman/2018/294",
+   "short": "HCL Roman nr. 294/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 294/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c184436aec1c26ae0d1d19c738a5951da516e1a3029e79c45902bf381343c45f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-295-2018",
+   "path": "local/neamt/roman/2018/295",
+   "short": "HCL Roman nr. 295/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 295/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4e3b1b06c172bd667da9caf6a42b10666835ee0ee6ba6bd399903d6bbcfc2faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-296-2018",
+   "path": "local/neamt/roman/2018/296",
+   "short": "HCL Roman nr. 296/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 296/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0428277fb1f9c15af1b8e351ca073a16e0931b169e2b4c453f341c2f254d05c1"
     }
    ]
   }

@@ -5738,6 +5738,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-23-2016",
+"path": "ordin/anre/2016/23",
+"kind": "ordin",
+"year": "2016",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 23/2016 pentru aprobarea Regulamentului privind suspendarea funcționării pieței angro de energie electrică și regulile comerciale aplicabile",
+"short": "Ordin anre nr. 23/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-05-17",
+"latest": "2016-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239570",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-24-2016",
 "path": "ordin/anre/2016/24",
 "kind": "ordin",
@@ -19983,6 +20002,25 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-1156-2016",
+"path": "ordin/mediu/2016/1156",
+"kind": "ordin",
+"year": "2016",
+"number": "1156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.156/2016",
+"short": "Ordin mediu nr. 1156/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-23",
+"latest": "2016-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181912",
+"issuer": "mediu",
+"joint": []
+},
+{
 "slug": "ordin-mediu-1157-2016",
 "path": "ordin/mediu/2016/1157",
 "kind": "ordin",
@@ -20815,6 +20853,25 @@
 "from": "2016-12-12",
 "latest": "2016-12-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/184575",
+"issuer": "mediu",
+"joint": []
+},
+{
+"slug": "ordin-mediu-1226-2016",
+"path": "ordin/mediu/2016/1226",
+"kind": "ordin",
+"year": "2016",
+"number": "1226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.226/2016",
+"short": "Ordin mediu nr. 1226/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-10",
+"latest": "2016-11-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183496",
 "issuer": "mediu",
 "joint": []
 },
@@ -26433,6 +26490,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/183272",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1357-2016",
+"path": "ordin/transporturi/2016/1357",
+"kind": "ordin",
+"year": "2016",
+"number": "1357",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.357/2016",
+"short": "Ordin transporturi nr. 1357/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-16",
+"latest": "2016-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183662",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "dezvoltare",
+"nr": "2950",
+"date": "2016-11-14",
+"name": "Ministerul Dezvoltării Regionale și Administrației Publice",
+"alias": "ordin-dezvoltare-2950-2016"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1392-2016",

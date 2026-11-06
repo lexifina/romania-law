@@ -9258,6 +9258,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-118-2010",
+   "path": "ordin/interne/2010/118",
+   "short": "Ordin interne nr. 118/2010",
+   "title": "Ordinul nr. 118/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119934",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20191227143456id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/119934",
+     "sha256": "99db272023c09fa4e532f510f1b95bbba98cce1189aa915b36406bdd9de2dfcd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-120-2010",
    "path": "ordin/interne/2010/120",
    "short": "Ordin interne nr. 120/2010",

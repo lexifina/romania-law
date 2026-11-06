@@ -2928,6 +2928,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-55-2012",
+   "path": "ordin/anre/2012/55",
+   "short": "Ordin anre nr. 55/2012",
+   "title": "Ordinul nr. 55/2012 pentru aprobarea Regulamentului privind cadrul organizat de contractare a energiei electrice pentru clienții finali mari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239564",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407124127id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/239564",
+     "sha256": "4028d6d818f104bdcd2283cc738dc2dff3efda95ec36bf75749ab89c1e10655a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-7-2012",
    "path": "ordin/anre/2012/7",
    "short": "Ordin anre nr. 7/2012",
@@ -6614,6 +6629,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137728",
      "sha256": "432530f4e0b0b42fe7d32a5fa18ca8d5c0eef884510e29a2dc1237299d5707b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4071-2012",
+   "path": "ordin/educatie/2012/4071",
+   "short": "Ordin educatie nr. 4071/2012",
+   "title": "Ordinul nr. 4.071/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138163",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406172725id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/138163",
+     "sha256": "96d806f610be697197ff9404a22569ccde61a164d69c4cc4474578b4c21ab9bc"
     }
    ]
   },
@@ -12209,6 +12239,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135693",
      "sha256": "98a6afbd9bf69216d4502bc4d3b13c02ddcbdff304ff552425f063ac98ad6616"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-183-2012",
+   "path": "ordin/sanatate/2012/183",
+   "short": "Ordin sanatate nr. 183/2012",
+   "title": "Ordinul nr. 183/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135968",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260214203140id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/135968",
+     "sha256": "c6e8ba1a164a057f6cc93e74c7167fabfecbb1dc6663a70b9144c1b0e451d457"
     }
    ]
   },

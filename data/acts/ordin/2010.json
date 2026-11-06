@@ -13198,6 +13198,33 @@
 ]
 },
 {
+"slug": "ordin-interne-118-2010",
+"path": "ordin/interne/2010/118",
+"kind": "ordin",
+"year": "2010",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 118/2010",
+"short": "Ordin interne nr. 118/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-07-29",
+"latest": "2010-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119934",
+"issuer": "interne",
+"joint": [
+{
+"issuer": "dezvoltare",
+"nr": "1709",
+"date": "2010-06-10",
+"name": "Ministerul Dezvoltării Regionale și Turismului",
+"alias": "ordin-dezvoltare-1709-2010"
+}
+]
+},
+{
 "slug": "ordin-interne-120-2010",
 "path": "ordin/interne/2010/120",
 "kind": "ordin",

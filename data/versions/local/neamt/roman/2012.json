@@ -3,6 +3,36 @@
  "shard": "local/neamt/roman/2012",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-1-2012",
+   "path": "local/neamt/roman/2012/1",
+   "short": "HCL Roman nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 1/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "aefab04f2910be1369bcd85dcc4add4e7c8d122867fd0421f8135b9fca61e361"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-10-2012",
+   "path": "local/neamt/roman/2012/10",
+   "short": "HCL Roman nr. 10/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "eed1ee0f7a6e94cfc7dcb4d63f9b66982fcd4ad3f31232f548e912a131bfa307"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-100-2012",
    "path": "local/neamt/roman/2012/100",
    "short": "HCL Roman nr. 100/2012",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/100%20HCL%202012-08%20regulament%20PMR.pdf",
      "sha256": "fe0c5a336dc3e31973b1f339e15dbed2ffefaef11c521af431d44c7867fdfeea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-101-2012",
+   "path": "local/neamt/roman/2012/101",
+   "short": "HCL Roman nr. 101/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 101/2012 privind regimul juridic, întreþinerea ºi exploatarea locurilor de parcare de pe raza Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/101%20HCL%202012-08%20Regulament%20parcari.pdf",
+     "sha256": "981b2f7b32a1bef9d73c38685a0fa345b6aeecad213a92c04e65b6547d1c9b59"
     }
    ]
   },
@@ -33,6 +78,276 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-103-2012",
+   "path": "local/neamt/roman/2012/103",
+   "short": "HCL Roman nr. 103/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 103/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/103%20HCL%202012-08%20organigrama%20Spital.pdf",
+     "sha256": "9925180540dd514a30d736c8c0ab8880c63a41981f31525aeeefdb634be6eb8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-104-2012",
+   "path": "local/neamt/roman/2012/104",
+   "short": "HCL Roman nr. 104/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 104/2012 privind aprobarea efectuãrii unui schimb de terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/104%20HCL%202012-08%20efectuare%20schimb%20terenuri.pdf",
+     "sha256": "c957caa14949cce216240cc148481dc075846c63db685f133c2d40fcb532c9a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-105-2012",
+   "path": "local/neamt/roman/2012/105",
+   "short": "HCL Roman nr. 105/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 105/2012 privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/105%20HCL%202012-08%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "1f0bbc140d40271e92428f207a3c13b79dce18218e5bbd7c026ef01076429d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-106-2012",
+   "path": "local/neamt/roman/2012/106",
+   "short": "HCL Roman nr. 106/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 106/2012 privind constituirea și funcționarea Grupului de lucru local (G.L.L.) Roman pentru asigurarea implementãrii Strategiei Guvernului de incluziune a cetãțenilor aparținând minoritãții rome din Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/106%20HCL%202012-09%20constituire%20Grup%20de%20Lucru%20Local.pdf",
+     "sha256": "aaf3c29acd87d286cf0881e606908dba1f5ebeb2ff64854166c45147922216e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-107-2012",
+   "path": "local/neamt/roman/2012/107",
+   "short": "HCL Roman nr. 107/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2012 privind aprobarea formularului de cerere pentru acordarea ajutorului de urgențã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/107%20HCL%202012-09%20aprobare%20model%20cerere%20ajutor%20de%20urgenta.pdf",
+     "sha256": "0e621783050572a88a4cb6d84f259c30477e06c0afadf1bd2bcb331cec10add5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-108-2012",
+   "path": "local/neamt/roman/2012/108",
+   "short": "HCL Roman nr. 108/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 108/2012 privind Regulamentul de organizare și funcționare al Poliției Locale Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/108%20HCL%202011-09%20infiintare%20Politie%20Locala.pdf",
+     "sha256": "cd8b9e089805dce7ad3f4dc5ae4d979c882feaa65fc6b2e87a6d90776b3b7f5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-109-2012",
+   "path": "local/neamt/roman/2012/109",
+   "short": "HCL Roman nr. 109/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 109/2012 privind mandatarea S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/109%20HCL%202012-09%20mandatare%20Locato%20vanzare%20ANL.pdf",
+     "sha256": "2f5e491b19f9ae5e1f06bc007327decb3f7e7731dbf84a5d0634e4db1874ecb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2012",
+   "path": "local/neamt/roman/2012/11",
+   "short": "HCL Roman nr. 11/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/011%20HCL%202012-01%20modificare%20HCL%20154_2009.pdf",
+     "sha256": "f115f18ba90e988e6d04a7d6a434cafae317c4103b5e1f886d089bedc646140b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-110-2012",
+   "path": "local/neamt/roman/2012/110",
+   "short": "HCL Roman nr. 110/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 110/2012 privind aprobarea dãrii în folosințã a unui autovehicul",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/110%20HCL%202012-09%20dare%20in%20folosinta%20Opel%20Vivaro.pdf",
+     "sha256": "11d7943a5f78f8d1d36097d130a42e937e7ca91f19bca9c21acb342afed85daf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-111-2012",
+   "path": "local/neamt/roman/2012/111",
+   "short": "HCL Roman nr. 111/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 111/2012 privind aprobarea încetãrii contractului de concesiune nr. 240/06.01.2003 privind concesionarea servciului de producere și furnizare a agentului termic și a apei calde în unitãțile de învãțãmânt din Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/111%20HCL%202012-09%20%20incetare%20contract%20Georgala.pdf",
+     "sha256": "f1aecb580e04f4a8ec9bc320beeac5d8a962071009569c27c9e09e2173e08c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-112-2012",
+   "path": "local/neamt/roman/2012/112",
+   "short": "HCL Roman nr. 112/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 112/2012 privind aprobarea inventarului parțial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/112%20HCL%202012-09%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "899b7951f9f3c6d9a30bc5eb8b0c2e66ab18e1c6fa1407ce5589fd932ee920b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-113-2012",
+   "path": "local/neamt/roman/2012/113",
+   "short": "HCL Roman nr. 113/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 113/2012 privind aprobarea dezmembrãrii unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/113%20HCL%202012-09%20dezmembrare%20terenuri.pdf",
+     "sha256": "2a561dbfb93548264afe90343577f02d585971ce82958d85559bb48ae86c0ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-114-2012",
+   "path": "local/neamt/roman/2012/114",
+   "short": "HCL Roman nr. 114/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 114/2012 privind rectificarea bugetului local consolidat pe anul 2012 și modificarea Listei obiectivelor de investiții finanțate din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/114%20HCL%202012-09%20rectificare%20buget%20local.pdf",
+     "sha256": "7118e3d33cc87b9f64ea2f3066aae7ae983e618bf81f694d1ca99f23faadb892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2012",
+   "path": "local/neamt/roman/2012/115",
+   "short": "HCL Roman nr. 115/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2012 privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/115%20HCL%202012-09%20efectuare%20cheltuieli%20din%20bugetul%20local.pdf",
+     "sha256": "b908dd8ad70b6eb01ac645b214798686180cc9fc1f7133a3389b5e984746c269"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-116-2012",
+   "path": "local/neamt/roman/2012/116",
+   "short": "HCL Roman nr. 116/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 116/2012 privind aprobarea concesionãrii unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/116%20HCL%202012-09%20concesionare%20imobil%20(dispensar).pdf",
+     "sha256": "0da4fa763ea67303b74d7d5dcab59f41a4625108db5f5ffd21ec0819a1141605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-117-2012",
+   "path": "local/neamt/roman/2012/117",
+   "short": "HCL Roman nr. 117/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 117/2012 privind aprobarea concesionãrii și închirierii unor terenuri pentru construcții",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/117%20HCL%202012-09%20concesionare%20terenuri.pdf",
+     "sha256": "980b86a90a4f04f26c92623fb70306441ed3f860508f2b2f62a3d528c7656d04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-118-2012",
+   "path": "local/neamt/roman/2012/118",
+   "short": "HCL Roman nr. 118/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 118/2012 privind aprobarea vânzãrii unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/118%20HCL%202012-09%20aprobare%20vanzare%20terenuri.pdf",
+     "sha256": "143677d2858994a8df626f42d25a23fe7cd012c03fe63182c4e6eefb11946e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-119-2012",
+   "path": "local/neamt/roman/2012/119",
+   "short": "HCL Roman nr. 119/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 119/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e9b592274c3042a2d6f7ab547d8a179ac268667d7dacd6fa38cc1d85d60cc720"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-12-2012",
    "path": "local/neamt/roman/2012/12",
    "short": "HCL Roman nr. 12/2012",
@@ -48,6 +363,261 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-120-2012",
+   "path": "local/neamt/roman/2012/120",
+   "short": "HCL Roman nr. 120/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 120/2012 privind aprobarea unor documentații de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/120%20HCL%202012-09%20aprobare%20documentatii%20de%20urbanism.pdf",
+     "sha256": "0e8ace4ceb1f9656eeeb963518b81e8ed126bff8b99a0f07ad6a11a1c3a06242"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-121-2012",
+   "path": "local/neamt/roman/2012/121",
+   "short": "HCL Roman nr. 121/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2012 privind aprobarea Planului de ocupare a func țiilor publice din cadrul aparatului de specialitate al Primarului municipiului Roman și al serviciilor publice de interes local subordonate pentru anul 2013",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/121%20HCL%202012-10%20Plan%20de%20ocupare%20functii%20pe%20anul%202013.pdf",
+     "sha256": "3264e998fdb978958abfcc5256e269b9173f92f4c5f287452b781b4ae1ec07db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-122-2012",
+   "path": "local/neamt/roman/2012/122",
+   "short": "HCL Roman nr. 122/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 122/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/122%20HCL%202012-10%20modificare%20organigrama.pdf",
+     "sha256": "dd421daa99e6b4578da9bdc5f638d51da181d317ccc447b97ffbed3a34d1f62f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-123-2012",
+   "path": "local/neamt/roman/2012/123",
+   "short": "HCL Roman nr. 123/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 123/2012 privind aprobarea listei cuprinzând persoanele care vor beneficia de o locuințã socialã în blocul nr. 11 din Aleea Revoluției",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/123%20HCL%202012-10%20aprobare%20lista%20socuinte%20sociale.pdf",
+     "sha256": "1ed730b2dd86dd0cded750b89fd24bd067efe46e6f300f11253aa825e35f8241"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-124-2012",
+   "path": "local/neamt/roman/2012/124",
+   "short": "HCL Roman nr. 124/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2012 privind aprobarea modului de administrare a locuințelor sociale din Municipiul Roman, Aleea Revoluției",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/124%20HCL%202012-10%20mod%20de%20administrare%20locuinte%20sociale.pdf",
+     "sha256": "faeda98b6c275dbb57e2c5624d0e5e94e656988c71b86ebbe7ba4dc96d7ff31e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2012",
+   "path": "local/neamt/roman/2012/125",
+   "short": "HCL Roman nr. 125/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2012 privind aprobarea concesionãrii unui spațiu cu destinația de cabinet medical din cadrul Ambulatoriului de Specialitate Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/125%20HCL%202012-10%20concesionare%20cabinet%20medical.pdf",
+     "sha256": "4af1a1d60944bd61515847a03f81451aaafe80163f0c7e17300c1da1a2ed408d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-126-2012",
+   "path": "local/neamt/roman/2012/126",
+   "short": "HCL Roman nr. 126/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 126/2012 privind modificarea articolului 3 din H.C.L",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/126%20HCL%202012-10%20modificare%20HCL%2084%20din%202011.pdf",
+     "sha256": "e10715514662210c02c4e7d1c8ab4617666380996c0334b664387f5309bb6a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-128-2012",
+   "path": "local/neamt/roman/2012/128",
+   "short": "HCL Roman nr. 128/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 128/2012 privind aprobarea inventarului par țial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/128%20HCL%202012-10%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "16febef9a9ac78a41e0c7a9ae25bcb4bd7d01d3bcf33039d1c44516848a25cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2012",
+   "path": "local/neamt/roman/2012/129",
+   "short": "HCL Roman nr. 129/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "94c0f0d2c78a69d2dc09fe47eccafe40aa9f15eaae20108e9acc95f25ec5d61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-13-2012",
+   "path": "local/neamt/roman/2012/13",
+   "short": "HCL Roman nr. 13/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 13/2012 privind aprobarea dezmembrãrii ºi alipirii unor imobile",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/013%20HCL%202012-01%20dezmembrare%20si%20alipire%20imobile.pdf",
+     "sha256": "347dde8f27f94c7bf73a670132d8d275d2a4eeff1c13a393120789ad27ff4dd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-130-2012",
+   "path": "local/neamt/roman/2012/130",
+   "short": "HCL Roman nr. 130/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 130/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0e16b57cc3d00f675a7ccac009cf53d541a1b39e239b0bfcf8b1962151e3aaea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-131-2012",
+   "path": "local/neamt/roman/2012/131",
+   "short": "HCL Roman nr. 131/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 131/2012 privind aprobarea concesionãrii și închirierii unor terenuri pentru construcții",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/131%20HCL%202012-10%20concesiuni%20terenuri%20pentru%20constructii.pdf",
+     "sha256": "52752ed734be332ffc33eb70a511a5f3342e77f84272f0dfce1fbb515587d259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-132-2012",
+   "path": "local/neamt/roman/2012/132",
+   "short": "HCL Roman nr. 132/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 132/2012 privind aprobarea Contractului-cadru de comodat a terenurilor atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personalã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/132%20HCL%2020110%20aprobare%20contract%20cadru%20comodat.pdf",
+     "sha256": "578356c416f9208cdff94ffa0ded003644ed66ac4d594f845bc8fd9d904146d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-133-2012",
+   "path": "local/neamt/roman/2012/133",
+   "short": "HCL Roman nr. 133/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 133/2012 privind darea în administrarea S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/133%20HCL%202012-10%20dare%20in%20administrare%20imobil.pdf",
+     "sha256": "595a211a1d9fd18d0dc024cb978b1c519e15e969e4f623a5650d5f74f3901232"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-134-2012",
+   "path": "local/neamt/roman/2012/134",
+   "short": "HCL Roman nr. 134/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 134/2012 privind aprobarea Studiilor de fezabilitate și a indicatorilor tehnico-economici pentru unele obiective de investiții din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/134%20HCL%202012-10%20aprobare%20Studii%20de%20Fezabilitate.pdf",
+     "sha256": "bbc97b269907efe312de8a8c53ccbfa7dc8d708c1e2a933293d46bc8bb2ff8f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-135-2012",
+   "path": "local/neamt/roman/2012/135",
+   "short": "HCL Roman nr. 135/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 135/2012 privind modificarea Hotãrârii Consiliului Local nr. 25 din 21.03.2012 referitor la aprobarea rețelei de învãțãmânt din municipiul Roman pentru anul școlar 2012-2013, prin schimbarea arondãrii unei unitãți de învãțãmânt fãrã personalitate juridicã din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/135%20HCL%202012-10%20modificare%20HCL%2025%20din%202012.pdf",
+     "sha256": "e80493389939bc5d68796288a45bc67fb5b6540f2a7a13730236f279ef10c5d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-136-2012",
+   "path": "local/neamt/roman/2012/136",
+   "short": "HCL Roman nr. 136/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 136/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/136%20HCL%202012-10%20modificare%20HCL%2083_2012.pdf",
+     "sha256": "07638c177484e5ae08dea6bf51b5a2ed01c4c2df2de788d624045f0dbf5a1ab4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-137-2012",
    "path": "local/neamt/roman/2012/137",
    "short": "HCL Roman nr. 137/2012",
@@ -59,6 +629,171 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/137%20HCL%202012-11%20impozite%20si%20taxe%20locale.pdf",
      "sha256": "8235df56f1210d2695dcb1086accdbaa5b44d9ec3893d4fa0996ee13f866afcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-138-2012",
+   "path": "local/neamt/roman/2012/138",
+   "short": "HCL Roman nr. 138/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 138/2012 privind rectificarea bugetului consolidat pe anul 2012 și a listelor de investiții",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/138%20HCL%202012-11%20modificare%20buget%20local%20pe%202012.pdf",
+     "sha256": "43b53db9df4c8a22aa0cb1f424ef34c0f62bff8ac8b8ebdf2895ca572dc41e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-139-2012",
+   "path": "local/neamt/roman/2012/139",
+   "short": "HCL Roman nr. 139/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 139/2012 privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/139%20HCL%202012-11%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "fdd42a94b7a64aeb9c4688c5f11940c050bd0a27e9edcb45862d60055c54303e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-14-2012",
+   "path": "local/neamt/roman/2012/14",
+   "short": "HCL Roman nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 14/2012 privind preluarea în administrare a unui teren ºi trecerea acestuia din domeniul public în domeniul privat al municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/014%20HCL%202012-01%20preluare%20in%20administrare%20teren.pdf",
+     "sha256": "15cf576fa53bb34e2517ec3dac697b4668bff56dbd0d2483a9bfef27d7b97cab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-142-2012",
+   "path": "local/neamt/roman/2012/142",
+   "short": "HCL Roman nr. 142/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 142/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8218034f4747f82d11fab484bc7b5b3ac1b5bb61ba9866f40f3dc74c41b2d2be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-143-2012",
+   "path": "local/neamt/roman/2012/143",
+   "short": "HCL Roman nr. 143/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 143/2012 privind aprobarea inventarului parțial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/143%20HCL%202012-11%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "cd2089359cacede01ef3ea0e717de22d611a831162c92a6b7e2da73716e4d648"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-144-2012",
+   "path": "local/neamt/roman/2012/144",
+   "short": "HCL Roman nr. 144/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 144/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/144%20HCL%202012-11%20completare%20HCL%2081_2009.pdf",
+     "sha256": "019421eaf9add08b22cc5c9e0dcdd523b1aaeccf430d5e3cd38fddaa7e9921cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-145-2012",
+   "path": "local/neamt/roman/2012/145",
+   "short": "HCL Roman nr. 145/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 145/2012 privind aprobarea concesionãrii și închirierii unor terenuri pentru construcții",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/145%20HCL%202012-11%20concesionarea%20unor%20terenuri%20pentru%20constructii.pdf",
+     "sha256": "b46a9d500b2203a3f2dfb7a9b41b0ebef880cdbdb879ff2eb86ea14e5267e354"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-146-2012",
+   "path": "local/neamt/roman/2012/146",
+   "short": "HCL Roman nr. 146/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 146/2012 privind schimbarea destinației unui imobil aflat în proprietatea publicã a Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/146%20HCL%202012-11%20schimbare%20destinatie%20imobil.pdf",
+     "sha256": "547af5a8c55efd5d2ddab076b8c4c01cf6556f00a158033e763947a2a9453641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-147-2012",
+   "path": "local/neamt/roman/2012/147",
+   "short": "HCL Roman nr. 147/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 147/2012 privind aprobarea Regulamentului de organizare și funcționare al \" Bazinului de înot \" din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/147%20HCL%202012-11%20aprobare%20Regulament%20bazin%20de%20inot.pdf",
+     "sha256": "637b74fdfefdedab4e9e13fbfda76d4c5a76456b052bef3c211219129601623f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-148-2012",
+   "path": "local/neamt/roman/2012/148",
+   "short": "HCL Roman nr. 148/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2012 privind aprobarea închirierii unui bun proprietate publicã a Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/148%20HCL%202012-11%20aprobare%20inchiriere%20bun%20proprietate%20publica.pdf",
+     "sha256": "dfbd8c5cbc6b2bbfbb226e29f9ffdbb7611d91c97400c7f8c76daebea211cd07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-15-2012",
+   "path": "local/neamt/roman/2012/15",
+   "short": "HCL Roman nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 15/2012 privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/015%20HCL%202012-01%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "77133705c8662a4f3d46d0960042214cc6fa8a7fffc3c857d2b5f79a39ea7643"
     }
    ]
   },
@@ -93,6 +828,351 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-152-2012",
+   "path": "local/neamt/roman/2012/152",
+   "short": "HCL Roman nr. 152/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 152/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "97f01c930f6f0afe5f56b51c21c4f667bd31b6b8f56d23203ad9229b74e7c891"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-153-2012",
+   "path": "local/neamt/roman/2012/153",
+   "short": "HCL Roman nr. 153/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 153/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/153%20HCL%202012%20modificare%20HCL%20101%20din%202012%20Regulament%20parcari.pdf",
+     "sha256": "4bee68b721c56dabe99e8b23f8c1fbd42104b463e13d447ea36add1f2da63710"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-154-2012",
+   "path": "local/neamt/roman/2012/154",
+   "short": "HCL Roman nr. 154/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2012 privind rectificarea bugetului consolidat pe anul 2012 și a listelor de investiții buget local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/154%20HCL%202012-12%20modificare%20buget%20local.pdf",
+     "sha256": "f54ed646d1a15ad43961b72573b6839ad09a52bcf99a4f352a07ba969174bb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-155-2012",
+   "path": "local/neamt/roman/2012/155",
+   "short": "HCL Roman nr. 155/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 155/2012 privind completarea anexei la Contractul de delegare a Serviciului public de administrare a cimitirelor umane și spațiului locativ",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/155%20HCL%202012-12%20transmitere%20teren%20cimitir.pdf",
+     "sha256": "8e20847b62e8c3816c3b271135e84bbeeb140c1377c47d47bdee58f6b3a32577"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-156-2012",
+   "path": "local/neamt/roman/2012/156",
+   "short": "HCL Roman nr. 156/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "35d1f425ab2df2ea6f9ab7206b4eaf15e7d613610a93ebb192c9d6f818e8cbfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2012",
+   "path": "local/neamt/roman/2012/157",
+   "short": "HCL Roman nr. 157/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "958ed4fc018340b5b15bcb59d2c5cf0d62d03aa1c7c2616b1cd9cc9ca969de2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-158-2012",
+   "path": "local/neamt/roman/2012/158",
+   "short": "HCL Roman nr. 158/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 158/2012 privind aprobarea încetãrii contractului de concesiune nr. 12152 din 25.09.2003 privind concesionarea serviciului de producere și furnizare a agentului termic și a apei calde în Spitalul Municipal Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/158%20HCL%202012-12%20incetare%20contract%20concesiune%20Termax.pdf",
+     "sha256": "c70907211c5e456534ea24af4e07ab8751f7e0e8f898c51ef52e8a6fe61fc46d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-159-2012",
+   "path": "local/neamt/roman/2012/159",
+   "short": "HCL Roman nr. 159/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2012 privind aprobarea efectuãrii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/159%20HCL%202012-12%20efectuare%20cheltuieli%20din%20bugetul%20local.pdf",
+     "sha256": "9b99e80c25716162b5ae709aec309aaaabf6f0f8e86e65487de18bed0195dba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2012",
+   "path": "local/neamt/roman/2012/16",
+   "short": "HCL Roman nr. 16/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2012 privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/016%20HCL%202012-01%20concesiuni%20terenuri%20pentru%20constructii.pdf",
+     "sha256": "29e3225fead931e37cad0d23a7a13a368f2fe396cae144db6e97becff091e13b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2012",
+   "path": "local/neamt/roman/2012/17",
+   "short": "HCL Roman nr. 17/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2012 privind acoperirea deficitului la secþiunea de dezvoltare din excedentul anului 2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/017%20HCL%202012-01%20acoperire%20deficit%202010.pdf",
+     "sha256": "a00c6865f9bb488aaa8d9a2232d5bf226815a1c83eb0566dc7b73665fbcdae98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-18-2012",
+   "path": "local/neamt/roman/2012/18",
+   "short": "HCL Roman nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 18/2012 privind aprobarea concesionãrii unui teren pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/018%20HCL%202012-02%20concesionare%20teren%20pentru%20constructii.pdf",
+     "sha256": "9fbaf627bf627cb0ffa16f3fd5c1d106d85f7fe2f18ea992cd7605b89b34ab44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-2-2012",
+   "path": "local/neamt/roman/2012/2",
+   "short": "HCL Roman nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2012 privind aprobarea redenumirii unor unit ãþi ºcolare din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/002%20HCL%202012-01%20redenumire%20unor%20unitati%20scolare.pdf",
+     "sha256": "a0c509afff2abddfe6303ebc0c43f60bbbe63c61deb8d01fabd936e08430d8ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2012",
+   "path": "local/neamt/roman/2012/21",
+   "short": "HCL Roman nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2012 privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/021%20HCL%202012-02%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "d5fbaa03869b373e05bb50b2812e60de08efee6d50629a0f3821873b21182b31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-22-2012",
+   "path": "local/neamt/roman/2012/22",
+   "short": "HCL Roman nr. 22/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 22/2012 privind utilizarea excedentului anual al bugetului local pe anul 2011",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/022%20HCL%202012-02%20utilizare%20excedent%202011.pdf",
+     "sha256": "ee04494d249d2b7ff52be57a8fc6e0e5c67afa9374327b676be83661a802a85b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-23-2012",
+   "path": "local/neamt/roman/2012/23",
+   "short": "HCL Roman nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 23/2012 privind aprobarea bugetului consolidat pe anul 2012 a listelor de investiþii din bugetul local, bugetul instituþiilor finanþate integral sau parþial din venituri proprii ºi subvenþii ºi din bugetul centralizat al împrumutului intern",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/023%20HCL%202012-02%20aprobare%20buget%20local%202012.pdf",
+     "sha256": "72c62963eb6d6799edaf17958fa2ae0ac8db0a786a732985bc836376bbbc699f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-24-2012",
+   "path": "local/neamt/roman/2012/24",
+   "short": "HCL Roman nr. 24/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 24/2012 privind modificarea actului constitutiv ºi statutului Asociaþiei de Dezvoltare Intercomunitarã \"AQUA NEAMÞ\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+     "sha256": "72200ad9a300e139ae7cd8c2b267744c96ae4150281dce834468df7500d2e15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2012",
+   "path": "local/neamt/roman/2012/25",
+   "short": "HCL Roman nr. 25/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2012 privind aprobarea reþelei unitãþilor de învãþãmânt din municipiul Roman pentru anul ºcolar 2012-2013",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/025%20HCL%202012-03%20reteaua%20de%20invatamant%20scolar%202012.pdf",
+     "sha256": "be5272252693879879969661f57b0c5f8d272087cc281dac88f183c790af9aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-26-2012",
+   "path": "local/neamt/roman/2012/26",
+   "short": "HCL Roman nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "da390efcad4d6fc763286013b6994f2021b431df53fed1382b767c3cccc60741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2012",
+   "path": "local/neamt/roman/2012/27",
+   "short": "HCL Roman nr. 27/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "79afc0d836aab696a153e7f2aa61b564cefe593c5271f971e19390b7d89cfd04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2012",
+   "path": "local/neamt/roman/2012/28",
+   "short": "HCL Roman nr. 28/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2012 privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/028%20HCL%202012-03%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "b0bf20b7518e6967f28c911ade081eabb6a306aeab036a0e02e10b66e7dee94e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2012",
+   "path": "local/neamt/roman/2012/29",
+   "short": "HCL Roman nr. 29/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2012 privind aprobarea organizãrii campionatului municipal de fotbal - ediþia 2012",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/029%20HCL%202012-03%20campionat%20de%20fotbal%202012.pdf",
+     "sha256": "cfe16c3897ee2d6e6487cf70ec95208d8ba776a32688906d197d9484a177ff00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-3-2012",
+   "path": "local/neamt/roman/2012/3",
+   "short": "HCL Roman nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 3/2012 privind aprobarea Planului anual de acþiuni pentru repartizarea orelor de muncã cãtre beneficiarii de ajutor social",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/003%20HCL%202012-01%20Plan%20actiuni%20beneficiari%20L%20416.pdf",
+     "sha256": "9ea89cb11ec209e91b9d6fd22748f452fb0d9f0bd4fb6d98f813ba951dd49d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-30-2012",
+   "path": "local/neamt/roman/2012/30",
+   "short": "HCL Roman nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 30/2012 privind aprobarea listei solicitanþilor care au acces ºi a celor care nu au acces la o locuinþã realizatã prin programul A.N.L",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/030%20HCL%202012-03%20liste%20ANL.pdf",
+     "sha256": "0c7734edbd1faa29268bb50ff2df05776c8becc07335bed1cc237c3b07e0afe1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-31-2012",
    "path": "local/neamt/roman/2012/31",
    "short": "HCL Roman nr. 31/2012",
@@ -104,6 +1184,126 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/031%20HCL%202012-03%20regulament%20acordare%20tichete%20sociale.pdf",
      "sha256": "7c54908eee0e1f6394dc34c5d85c21c99d998564386c4439bdcb4922150fe73a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2012",
+   "path": "local/neamt/roman/2012/32",
+   "short": "HCL Roman nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2012 privind aprobarea cumpãrãrii imobilului denumit \"Casa Celibidache\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/032%20HCL%202012-03%20cumparare%20imobil%20Casa%20Celibidache.pdf",
+     "sha256": "ca3888769e965e26e02458cf77b9fd8b788d5a31a4356a085b6ec45904363ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-33-2012",
+   "path": "local/neamt/roman/2012/33",
+   "short": "HCL Roman nr. 33/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2012 privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/033%20HCL%202012-03%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "a07b9ca26f9a4391bc3bc8b7a48973933dad4c8f7b3a497c47ae74aa5f7aba5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2012",
+   "path": "local/neamt/roman/2012/34",
+   "short": "HCL Roman nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2012 privind aprobarea dezmembrãrii unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/034%20HCL%202012-03%20dezmembrare%20terenuri.pdf",
+     "sha256": "1c5fcf84068230a4a00876012d0d3b646d372166c512e6619b45f02a92d6883e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-35-2012",
+   "path": "local/neamt/roman/2012/35",
+   "short": "HCL Roman nr. 35/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2012 privind aprobarea concesionãrii unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/035%20HCL%202012-03%20concesionare%20imobil%20CT%206.pdf",
+     "sha256": "01dc479fdc183dd0dc28a98f01ef81c059d28f7f741a0f7a79aa1f815703db1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2012",
+   "path": "local/neamt/roman/2012/36",
+   "short": "HCL Roman nr. 36/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2012 privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/036%20HCL%202012-03%20concesionari%20terenuri.pdf",
+     "sha256": "61af3a263fc5ae0ab5768563a9b6e2be92f796d115613ba3e08b39ff7a789826"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2012",
+   "path": "local/neamt/roman/2012/37",
+   "short": "HCL Roman nr. 37/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2012 privind actualizarea Programului Local multianual privind creºterea performanþei energetice la blocurile de locuinþe din municipiul Roman, reactualizat pânã în luna martie 2012",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/037%20HCL%202012-03%20program%20anual%20izolatii%20termice%20blocuri.pdf",
+     "sha256": "4c0aececf89790b54ceefbebefd3ea94d2158d2d44ca5007e607c2fc5972931b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2012",
+   "path": "local/neamt/roman/2012/38",
+   "short": "HCL Roman nr. 38/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2012 pentru aprobarea cererilor ºi repartizarea terenurilor atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea de locuinþe proprietate personalã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/038%20HCL%202012-03%20lista%20terenuri%20tineri.pdf",
+     "sha256": "1311980ec115f20e963269e119c74f13235d3c1a24977731efbbcfabace16fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-39-2012",
+   "path": "local/neamt/roman/2012/39",
+   "short": "HCL Roman nr. 39/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 39/2012 privind aprobarea transmiterii în folosinþã gratuitã a unor terenuri în scopul alimentãrii cu energie electricã a investiþiei \"Cãmin pentru bãtrâni în municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/039%20HCL%202012-03%20transmitere%20teren%20EON.pdf",
+     "sha256": "ab9c7ca10dec85c590d50209448785abbdb65e06e5dcb5f385ee4c77867f0254"
     }
    ]
   },
@@ -123,6 +1323,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-40-2012",
+   "path": "local/neamt/roman/2012/40",
+   "short": "HCL Roman nr. 40/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2012 privind aprobarea Planului de Ordine ºi Siguranþã Publicã pentru anul 2012",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/040%20HCL%202012-03%20aprobare%20Plan%20Ordine%20si%20Siguranta%20Publica.pdf",
+     "sha256": "21f98ff92c34aa9ca691bda5c584195d86f2b8610854c79b6f01682dbdf9567d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-42-2012",
    "path": "local/neamt/roman/2012/42",
    "short": "HCL Roman nr. 42/2012",
@@ -134,6 +1349,186 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/042%20HCL%202012-03%20centru%20persoane%20varsnice.pdf",
      "sha256": "3ad6b476625a60471648fb51b3bda2dd33e9102526779965fabd4671c93f854d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2012",
+   "path": "local/neamt/roman/2012/43",
+   "short": "HCL Roman nr. 43/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2012 privind aprobarea concesionãrii serviciului public de salubritate - componenta \"Precolectarea, colectarea ºi transportul deºeurilor municipale, inclusiv ale deºeurilor toxice periculoase din deºeurile menajere, cu excepþia celor cu regim special\" - în localitatea Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/043%20HCL%202012-03%20aprobarea%20concesiunii%20serviciului%20public%20de%20salubritate.pdf",
+     "sha256": "89d587bddf896d5bc906f0dc6cc24463cd2dd5719a904ef2ca80da6da1d49c98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-44-2012",
+   "path": "local/neamt/roman/2012/44",
+   "short": "HCL Roman nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2012 privind trecerea din domeniul public al Municipiului Roman în domeniul privat al acestuia, precum ºi scoaterea din funcþiune ºi casarea bunurilor de retur din Staþia de epurare Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/044%20HCL%202012-03%20casare%20bunuri%20Apa%20Serv%20Sa.pdf",
+     "sha256": "7b1877537f61547c549b5ed56e8c12590615381afce9b080b51a6e959f25579d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2012",
+   "path": "local/neamt/roman/2012/45",
+   "short": "HCL Roman nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2012 privind casarea unui autovehicul aparþinând Municipiului Roman ºi achiziþionarea unuia nou prin Programul de stimulare a înnoirii Parcului auto naþional",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/045%20HCL%202012-04%20casare%20autovehicul%20Municipiul%20Roman.pdf",
+     "sha256": "82215e9488bedc0753b266db7f758b91f4f2bdfdb5e67b34acebe2a0fd0c90c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2012",
+   "path": "local/neamt/roman/2012/46",
+   "short": "HCL Roman nr. 46/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2012 privind acordarea unor titluri de “Cetãþean de Onoare” al municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/046%20HCL%202012-04%20acordare%20titlu%20Cetatean%20de%20Onoare.pdf",
+     "sha256": "9d3fba7eff46771a301e9ee16439ad64436db92c18e121c73991ec9f8a54f894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2012",
+   "path": "local/neamt/roman/2012/47",
+   "short": "HCL Roman nr. 47/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2012 privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/047%20HCL%202012-04%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "337e9edd4dc14140ae7f5baf92d919b866cdd2a5dbc87959e03e2466a764ab01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-49-2012",
+   "path": "local/neamt/roman/2012/49",
+   "short": "HCL Roman nr. 49/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2012 pentru aprobarea cererilor ºi repartizarea terenurilor atribuite în baza Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinþe proprietate personalã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/049%20HCL%202012-04%20aprobare%20repartizare%20terenuri%20tineri.pdf",
+     "sha256": "d1dcd3fa38babfd9d1fc02f158c6bf3f7fa8c77ea4ed7d13322d8984d2bf6cb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2012",
+   "path": "local/neamt/roman/2012/5",
+   "short": "HCL Roman nr. 5/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "db257ace0ec4d795ce058215568395fa6afa02aa5ca5dee28731cf6590359a2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-50-2012",
+   "path": "local/neamt/roman/2012/50",
+   "short": "HCL Roman nr. 50/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 50/2012 pentru modificarea articolului 3 din H.C.L",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/050%20HCL%202012-04%20modificare%20HCL%2081%20din%202011.pdf",
+     "sha256": "f4c664446c0e2148ba4a51f20a75b0e695c3cbe64e07922aaa868d75c363bc37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2012",
+   "path": "local/neamt/roman/2012/51",
+   "short": "HCL Roman nr. 51/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2012 privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/051%20HCL%202012-04%20concesiuni%20terenuri%20constructii.pdf",
+     "sha256": "993c7499ee63b22948bdf281e84f5fd9ca06a5ea652a1dfaa836cc5b1ed4eb8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-52-2012",
+   "path": "local/neamt/roman/2012/52",
+   "short": "HCL Roman nr. 52/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 52/2012 privind aprobarea vânzãrii unui teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/052%20HCL%202012-04%20aprobare%20vanzare%20terenuri.pdf",
+     "sha256": "40ed6635a456bceab2be31a55a4637b544e961584bbd37d41c92fb9b85b5507e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-53-2012",
+   "path": "local/neamt/roman/2012/53",
+   "short": "HCL Roman nr. 53/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2012 privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/053%20HCL%202012-04%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "0f1edce69fd6c9b9348850eb25c45d97a6ce93ab8985880f32f46f50906ebea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-54-2012",
+   "path": "local/neamt/roman/2012/54",
+   "short": "HCL Roman nr. 54/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/054%20HCL%202012-04%20modificare%20organigrama.pdf",
+     "sha256": "1444234709e2130c1a5ad83fde403d7723a0856bd3f79f07ede6a61ee28ba93c"
     }
    ]
   },
@@ -168,6 +1563,321 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-58-2012",
+   "path": "local/neamt/roman/2012/58",
+   "short": "HCL Roman nr. 58/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dec2c8f983078305496c87dbb731e59ab1e0b27f8c9b6f7316c4b28227bc5cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-59-2012",
+   "path": "local/neamt/roman/2012/59",
+   "short": "HCL Roman nr. 59/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 59/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5d03dd7fd31b5d373cff1c1534ad2393d25356a74bd1d47600c29e2af7aa6496"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2012",
+   "path": "local/neamt/roman/2012/6",
+   "short": "HCL Roman nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2012 privind eliberarea unor licenþe de traseu pentru transport public local de persoane prin curse regulate speciale",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/006%20HCL%202012-01%20Eliberare%20licente%20curse%20speciale.pdf",
+     "sha256": "3e17ea6f386d3ee77c941a3a79b4a87fca22994ec36dbb78ae8e4b2f404174ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2012",
+   "path": "local/neamt/roman/2012/60",
+   "short": "HCL Roman nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2012 privind modificarea bugetului local consolidat pe anul 2012",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/060%20HCL%202012-06%20modificare%20buget%20local%20pe%20anul%202012.pdf",
+     "sha256": "50fd99b3fdd66cbc8b2ec270d92e4760694158b736a0fdf71716aacab8c8c190"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2012",
+   "path": "local/neamt/roman/2012/61",
+   "short": "HCL Roman nr. 61/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2012 privind aprobarea transmiterii unor imobile cu destinaþia de locuinþã aflate în proprietatea publicã a municipiului Roman în administrarea S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/061%20HCL%202012-06%20transmitere%20in%20administrare%20imobile%20Locato.pdf",
+     "sha256": "69eb1eee698a72f2107905e0027fb9daa6b9987956d75f6696ce74e5b9f39c79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-62-2012",
+   "path": "local/neamt/roman/2012/62",
+   "short": "HCL Roman nr. 62/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2012 privind alegerea comisiei de validare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/062%20HCL%202012-06%20alegerea%20comisiei%20de%20validare.pdf",
+     "sha256": "3417b2b30fea8b7abffe6629c3a4afb8430d9983a04c3bf1f519b6c0c8c19c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-63-2012",
+   "path": "local/neamt/roman/2012/63",
+   "short": "HCL Roman nr. 63/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2012 privind validarea alegerii consilierilor locali",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/063%20HCL%202012-06%20validarea%20consilierilor%20locali.pdf",
+     "sha256": "7132196b7d8fb8cd5feff42336f9efcb3de51a9e5ce71d96ee6c787d83c139e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2012",
+   "path": "local/neamt/roman/2012/64",
+   "short": "HCL Roman nr. 64/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2012 privind declararea ca legal constituit a Consiliului Local Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/064%20HCL%202012-06%20declararea%20legal%20constituita%20CLR.pdf",
+     "sha256": "cac32ac6342b716b2a904708b46d6906500442b1b71a63d313b6b757659d3f86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-65-2012",
+   "path": "local/neamt/roman/2012/65",
+   "short": "HCL Roman nr. 65/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 65/2012 privind alegerea preºedintelui de ºedinþã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/065%20HCL%202012-06%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "71de496d983ede8f9a2029f952a542e52c8943ead14c24ec0a09db730442c3ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-66-2012",
+   "path": "local/neamt/roman/2012/66",
+   "short": "HCL Roman nr. 66/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 66/2012 privind alegerea viceprimarului Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/066%20HCL%202012-06%20alegerea%20viceprimarului.pdf",
+     "sha256": "34389840c9d42c77fed44b1a610db25808fb778c12161aa1dd563b91a3b6a5f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2012",
+   "path": "local/neamt/roman/2012/67",
+   "short": "HCL Roman nr. 67/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2012 privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/067%20HCL%202012-06%20organizarea%20comisiilor%20de%20specialitate.pdf",
+     "sha256": "4867e2b2679cca4027f6a0dd328abaa83f7429a9f0dc8e1592dc255ad07a03ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2012",
+   "path": "local/neamt/roman/2012/68",
+   "short": "HCL Roman nr. 68/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2012 privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/068%20HCL%202012-07%20incetare%20mandat%20Damaschin.pdf",
+     "sha256": "602573e811076fe06e1d9afb3bd4e4b82a62467b2f89c1ec91d1daeef80eb68b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-69-2012",
+   "path": "local/neamt/roman/2012/69",
+   "short": "HCL Roman nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2012 privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/069%20HCL%202012-07%20validare%20mandat%20Ouatu.pdf",
+     "sha256": "f4216b228f7498d9bef8acffb457e5b153533322410d720731b80332d34ce239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-7-2012",
+   "path": "local/neamt/roman/2012/7",
+   "short": "HCL Roman nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a3f9e73845b0cf9e4e5dc21191a6db69ed66067b8431fbadf93c281d81f73358"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2012",
+   "path": "local/neamt/roman/2012/70",
+   "short": "HCL Roman nr. 70/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2012 privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/070%20HCL%202012-07%20incetare%20mandat%20Cimpoesu.pdf",
+     "sha256": "161f01bd54d6717be2467c973f4c6534fb18605e43a69c68d0aa583326258259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2012",
+   "path": "local/neamt/roman/2012/71",
+   "short": "HCL Roman nr. 71/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2012 privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/071%20HCL%202012-07%20validare%20mandat%20Fron.pdf",
+     "sha256": "909968bb7f66072d121b60e944ffa4991045b5141dc026ce748344c828c65418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-72-2012",
+   "path": "local/neamt/roman/2012/72",
+   "short": "HCL Roman nr. 72/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 72/2012 privind modificarea bugetului consolidat pe anul 2012",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/072%20HCL%202012-07%20modificarea%20bugetului%20local.pdf",
+     "sha256": "fa97ab750346a265e260290a17f284b213d3c92a313f1024ce446ed8c95dfa2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-73-2012",
+   "path": "local/neamt/roman/2012/73",
+   "short": "HCL Roman nr. 73/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2012 privind aprobarea concesiunii serviciului public de salubritate - componenta \"Precolectarea, colectarea ºi transportul deºeurilor municipale, inclusiv ale deºeurilor toxice periculoase din deºeurile menajere, cu excepþia celor cu regim special\" - în localitatea Roman, j",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/073%20HCL%202012-07%20aprobarea%20concesiunii%20serviciului%20public%20de%20salubritate.pdf",
+     "sha256": "4a8d7b1c71456fe1b99540dee967dc5e00320243295ab48b08c7751cecf7827b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2012",
+   "path": "local/neamt/roman/2012/74",
+   "short": "HCL Roman nr. 74/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2012 privind aprobarea indicatorilor tehnico-econimici ºi a documentaþiei tehnice pentru \"Depozitul temporar de deºeuri municipale Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/074%20HCL%202012-07%20aprobare%20indicatori%20depozit%20temporar.pdf",
+     "sha256": "7acbc10979b620a7947acf598ac71215fd0ad35bcb234fa32057e1ea4b50bb9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-75-2012",
+   "path": "local/neamt/roman/2012/75",
+   "short": "HCL Roman nr. 75/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2012 privind aprobarea extinderii Contractului de concesiune a serviciului public de salubrizare - componenta: \"Depozitarea controlatã a deºeurilor municipale\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/075%20HCL%202012-07%20extindere%20contract%20concesiune.pdf",
+     "sha256": "79f7fd0cb6b138cae5a79bb93323224c58470ce1d2e9cdc6fd167bbeebed7f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-77-2012",
+   "path": "local/neamt/roman/2012/77",
+   "short": "HCL Roman nr. 77/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 77/2012 privind numirea în funcþia publicã de conducere de ºef serviciu al Serviciului Public Comunitar Local de Evidenþã a Persoanelor Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/077%20HCL%202012-07%20numire%20sef%20SPCLEP%20Roman.pdf",
+     "sha256": "cd84389be0eb38417e37b151bc64d8d7381c029a8fb70e430165c6ae2bec6b81"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-78-2012",
    "path": "local/neamt/roman/2012/78",
    "short": "HCL Roman nr. 78/2012",
@@ -179,6 +1889,291 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/078%20HCL%202012-07%20modificare%20HCL%20133_2009.pdf",
      "sha256": "35f766fb03632395ba40e91f3ebdb2831938c1c6275c4e04cb819618c41acd05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-79-2012",
+   "path": "local/neamt/roman/2012/79",
+   "short": "HCL Roman nr. 79/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 79/2012 privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/079%20HCL%202012-08%20incetare%20mandat%20Vatavu.pdf",
+     "sha256": "eec712bea6e0d392d2d36e1699c8dba9aae0b735ead95e115e4a360e36a2997d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2012",
+   "path": "local/neamt/roman/2012/8",
+   "short": "HCL Roman nr. 8/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2012 privind aprobarea preþului energiei termice furnizate de S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/008%20HCL%202011-12%20aprobare%20pret%20Georgala%20F%20Rom.pdf",
+     "sha256": "a7235cb73a7abccf1140607ec2a1112766be7e3f91b712316098e6deecef4e21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2012",
+   "path": "local/neamt/roman/2012/80",
+   "short": "HCL Roman nr. 80/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2012 privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+     "sha256": "b1a8341f57a15b0dc470f90d771e0dee55dad737f24defac1216183f89c09dc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-81-2012",
+   "path": "local/neamt/roman/2012/81",
+   "short": "HCL Roman nr. 81/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 81/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/081%20HCL%202012-08%20modificare%20HCL%2067_2012%20comisii%20specialitate.pdf",
+     "sha256": "f13dae70d8d8c4d5b7b1df27b4d2f704f9e13464b7b87b0d34d899fbafa74d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2012",
+   "path": "local/neamt/roman/2012/82",
+   "short": "HCL Roman nr. 82/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2012 privind modificarea componenþei unor comisii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/082%20HCL%202012-08%20modificarea%20unor%20comisii.pdf",
+     "sha256": "278c4b33c0287bd530aa06b040787034dd5b5a57cfb02ddfa8be517a15b50fb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2012",
+   "path": "local/neamt/roman/2012/83",
+   "short": "HCL Roman nr. 83/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2012 privind desemnarea reprezentanþilor Consiliului Local în Adunarea Generalã a Acþionarilor la societãþile comerciale la care Municipiul Roman este acþionar",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/083%20HCL%202012-08%20reprezentanti%20AGA%20Locato%20si%20Acvaserv.pdf",
+     "sha256": "73853d13d34ee5fff1a26df21cd3c7cb7a25df72a334af974a88e83041e6b626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2012",
+   "path": "local/neamt/roman/2012/84",
+   "short": "HCL Roman nr. 84/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/084%20HCL%202012-08%20reprezentanti%20CLR%20in%20CA%20scoli.pdf",
+     "sha256": "abb107abbdddca8e20f9381a7a4b6ac4ec8707c278d176db3f2037c492a3c53b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-85-2012",
+   "path": "local/neamt/roman/2012/85",
+   "short": "HCL Roman nr. 85/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 85/2012 privind desemnarea membrilor Consiliului de Administraþie din cadrul Spitalului Municipal de Urgenþã Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/085%20HCL%202012-08%20desemnare%20membri%20CA%20spital.pdf",
+     "sha256": "12db44ea5f88576fda0a7149b3274c8e1f5e4186572017c16d044c120003cbed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2012",
+   "path": "local/neamt/roman/2012/86",
+   "short": "HCL Roman nr. 86/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2012 privind desemnarea unui reprezentant în Adunarea Generalã a Asociaþiei de Dezvoltare Intercomunitarã \"ECONEAMÞ\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/086%20HCL%202012-08%20reprezentant%20Econeamt.pdf",
+     "sha256": "974b8a96c8b8659fcce40e1da7159bde49c3de662efe70cb7a91bffee5b32213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2012",
+   "path": "local/neamt/roman/2012/87",
+   "short": "HCL Roman nr. 87/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2012 privind modificarea actului constitutiv ºi statutului Asociaþiei de Dezvoltare Intercomunitarã \"AQUANEAMÞ\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/087%20HCL%202012-08%20modificare%20AQUA%20NEAMT.pdf",
+     "sha256": "5953afc42ec2fd41494784c4fb05788c7b52299aae7f5daaef3a97e2421f8ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2012",
+   "path": "local/neamt/roman/2012/88",
+   "short": "HCL Roman nr. 88/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2012 privind modificarea bugetului local consolidat pe anul 2012 ºi a listei obiectivelor de investiþii finanþate din bugetul de dezvoltare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/088%20HCL%202012-08%20modificare%20buget%20local.pdf",
+     "sha256": "52d3b1c1d27184a569a7e876279ce5f9439e914f9db390beff4db501a7f099f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-89-2012",
+   "path": "local/neamt/roman/2012/89",
+   "short": "HCL Roman nr. 89/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 89/2012 privind aprobarea încetãrii activitãþii bugetare a ordonatorului terþiar \"Cantina de Ajutor Social Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/089%20HCL%202012-08%20incetare%20activitate%20bugetara%20Cantina%20de%20Ajutor%20Social.pdf",
+     "sha256": "b2afe7f07228f8261367ed09e2ab032baa2f656b30a46aaafad19c78f18457cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-9-2012",
+   "path": "local/neamt/roman/2012/9",
+   "short": "HCL Roman nr. 9/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/009%20HCL%202012-01%20Organigrama.pdf",
+     "sha256": "e7563af67a6b0a5597e0723ba4cd160841a40fdfb58325e2baee9cd42776736b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-90-2012",
+   "path": "local/neamt/roman/2012/90",
+   "short": "HCL Roman nr. 90/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 90/2012 privind aprobarea bugetului de funcþionare a Asociaþiei \"Roman 2000\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/090%20HCL%202012-08%20aprobare%20buget%20Roman%202000.pdf",
+     "sha256": "4fd9be18ae5167f3e6947dee2f781990e3369844a116c231d4ef1d78d144e133"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-91-2012",
+   "path": "local/neamt/roman/2012/91",
+   "short": "HCL Roman nr. 91/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 91/2012 privind aprobarea transmiterii unui imobil aflat în proprietatea publicã a municipiului Roman în administrarea S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/091%20HCL%202012-08%20schimbare%20destinatie%20imobil%20Energiei.pdf",
+     "sha256": "b42a794579000c1197e42b88a9f687c9989548aa1e0db29018fc02ce7fe89d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-92-2012",
+   "path": "local/neamt/roman/2012/92",
+   "short": "HCL Roman nr. 92/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2012 privind modificarea acordurilor de parteneriat dintre Municipiul Roman ºi Asociaþia \"Roman 2000\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/092%20HCL%202012-08%20modificare%20parteneriate%20cu%20Roman%202000.pdf",
+     "sha256": "48a34e61805d1d76dc8705cca97fae4ec9ec8067a9a30e913f98a9582ba2d941"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-93-2012",
+   "path": "local/neamt/roman/2012/93",
+   "short": "HCL Roman nr. 93/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 93/2012 privind aprobarea indicatorilor tehnico-economici ai investiþiei \"Consolidare, reabilitare ºi modernizare clãdire\" str",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/093%20HCL%20aprobare%20Studiu%20Fezabilitate%20V%20Micle%20nr%202.pdf",
+     "sha256": "00153e8a24dac6eb9f9aa3ea590b4da3ade7c066791a23b709550dabd7d62e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-94-2012",
+   "path": "local/neamt/roman/2012/94",
+   "short": "HCL Roman nr. 94/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 94/2012 privind aprobarea documentaþiei ºi indicatorilor tehnico-economici pentru obiectivul de investiþii \"Centrala termicã a Colegiului Naþional Roman-Vodã - Corp A\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/094%20HCL%202012-08%20Centrala%20termica%20CNRV.pdf",
+     "sha256": "c0206243b50f31d9eb36be49f79e2c8fe2770191b092bf16e38c0be316607c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2012",
+   "path": "local/neamt/roman/2012/95",
+   "short": "HCL Roman nr. 95/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2012 privind aprobarea documentaþiei ºi indicatorilor tehnico-economici pentru obiectivul de investiþii \"Construire parcare publicã P+1 E, str. Sucedava, Municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/095%20HCL%202012-08%20aprobare%20Studiu%20Fezabilitate%20parcare%20Piata.pdf",
+     "sha256": "bb32b545122867657aab4ba6d50abfbcaa5548d57758c89d7880f9120ddd3edd"
     }
    ]
   },
@@ -198,6 +2193,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-97-2012",
+   "path": "local/neamt/roman/2012/97",
+   "short": "HCL Roman nr. 97/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 97/2012 privind aprobarea concesiunii serviciului public de salubritate - componenta \"Precolectarea, colectarea ºi transportul deºeurilor municipale, inclusiv ale deºeurilor toxice periculoase din deºeurile menajere, cu excepþia celor cu regim special\" - în localitatea Roman, j",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/097%20HCL%202012-08%20concesiune%20salubritate.pdf",
+     "sha256": "58757c5dd61c02de539101262ed74d62107f0f6cb85cd16527f2bb0c68485f6c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-98-2012",
    "path": "local/neamt/roman/2012/98",
    "short": "HCL Roman nr. 98/2012",
@@ -209,6 +2219,21 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/098%20HCL%202012-08%20aprobare%20Regulament%20SPCLEP.pdf",
      "sha256": "41c5a7ab3592d5e7245514e58aa74f6490b240f8cd7c5b637e08e0d57c48432f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2012",
+   "path": "local/neamt/roman/2012/99",
+   "short": "HCL Roman nr. 99/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/099%20HCL%202012-08%20organigrama.pdf",
+     "sha256": "48204347895ad9d572f79cead73bfe3d3665f242c8810d46c51bc32bcd918d1d"
     }
    ]
   }

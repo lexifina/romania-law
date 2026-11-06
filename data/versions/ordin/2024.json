@@ -993,6 +993,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-45-2024",
+   "path": "ordin/agricultura/2024/45",
+   "short": "Ordin agricultura nr. 45/2024",
+   "title": "Ordinul nr. 45/2024 pentru modificarea Ordinului ministrului agriculturii și dezvoltării rurale nr. 312/2021 privind organizarea sistemului de control și certificare, de aprobare a organismelor de control și de supraveghere a activității acestora în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279409",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407162353id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/279409",
+     "sha256": "05f7384ac422740e76d781cf71f652dca50d6f7e5cfbbc4dc8c8ac2a960c9599"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-49-2024",
    "path": "ordin/agricultura/2024/49",
    "short": "Ordin agricultura nr. 49/2024",
@@ -6573,6 +6588,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-833-2024",
+   "path": "ordin/dezvoltare/2024/833",
+   "short": "Ordin dezvoltare nr. 833/2024",
+   "title": "Ordinul nr. 833/2024 privind aprobarea Listei cuprinzând indicativele de referință ale standardelor române care transpun standarde europene armonizate din domeniul produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279694",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260208232915id_/https://legislatie.just.ro/Public/DetaliiDocument/279694",
+     "sha256": "7d50119a65bbe8d6634446d4b4645bb2dfec9d16ec16cdc39b0ecbb3af4a7e04"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-855-2024",
    "path": "ordin/dezvoltare/2024/855",
    "short": "Ordin dezvoltare nr. 855/2024",
@@ -7409,6 +7439,36 @@
      "units": 4,
      "source_url": "https://web.archive.org/web/20250406052325id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/278763",
      "sha256": "91653d4b895d86c8d0596e3b1d2eb55e0fbf897d7be1e820ba753a462f06da80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-614-2024",
+   "path": "ordin/economie/2024/614",
+   "short": "Ordin economie nr. 614/2024",
+   "title": "Ordinul nr. 614/2024 privind modificarea Procedurii de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului național multianual de microindustrializare, aprobată prin Ordinul ministrului economiei, antreprenoriatului și turismului nr. 598/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278766",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20240716225327id_/https://legislatie.just.ro/Public/DetaliiDocument/278766",
+     "sha256": "221ef77916d09d0d1d9a6fc76d2c1a08ca8e3f09406c41d4f61730e2bff513c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-618-2024",
+   "path": "ordin/economie/2024/618",
+   "short": "Ordin economie nr. 618/2024",
+   "title": "Ordinul nr. 618/2024 privind modificarea Procedurii de implementare a Programului pentru stimularea înființării întreprinderilor mici și mijlocii \"Start-up Nation - ROMANIA\", aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.111/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278767",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406052223id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/278767",
+     "sha256": "24b4cb449ee0b53e8f5f8ebb56a3dfd3df9f2866044115cfe99c455951c8bc4b"
     }
    ]
   },
@@ -17463,6 +17523,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-18-2024",
+   "path": "ordin/transporturi/2024/18",
+   "short": "Ordin transporturi nr. 18/2024",
+   "title": "Ordinul nr. 18/2024 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând porturile și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278230",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20251002155818id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/278230",
+     "sha256": "6ea4f95efdce01d63ef2d54b9423b2953f91bcf8a72b7c2c354fb57411ec1b5b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1960-2024",
    "path": "ordin/transporturi/2024/1960",
    "short": "Ordin transporturi nr. 1960/2024",
@@ -18434,6 +18509,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282034",
      "sha256": "592d04d5076bdb2d347461232bc310088c5737f37f2b0f1934552e2465a63d59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-999-2024",
+   "path": "ordin/transporturi/2024/999",
+   "short": "Ordin transporturi nr. 999/2024",
+   "title": "Ordinul nr. 999/2024 pentru modificarea anexei la Ordinul ministrului transporturilor, infrastructurii și comunicațiilor nr. 244/2020 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282534",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250716200548id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/282534",
+     "sha256": "9d63161205c5111e7bf85e94b8ba092d26ea7b260be115b6131a4d20dac06ddb"
     }
    ]
   },

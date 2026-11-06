@@ -9228,6 +9228,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-129-2009",
+   "path": "ordin/interne/2009/129",
+   "short": "Ordin interne nr. 129/2009",
+   "title": "Ordinul nr. 129/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109334",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407134456id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/109334",
+     "sha256": "872165249e171832dad08214280e6f69a902e7674e9a9b0c883df1d242235de6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-130-2009",
    "path": "ordin/interne/2009/130",
    "short": "Ordin interne nr. 130/2009",
@@ -9284,6 +9299,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109698",
      "sha256": "d92b6cdf952c987df4addbffd4df8436a0a842cf3308eb755ddd1a6fd065b37b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-150-2009",
+   "path": "ordin/interne/2009/150",
+   "short": "Ordin interne nr. 150/2009",
+   "title": "Ordinul nr. 150/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109962",
+   "versions": [
+    {
+     "from": "2009-07-28",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250406222753id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/109962",
+     "sha256": "4a10c998f44adedf9b4a46bffb510db03b73e9b0e1f37bc89fb76ad8eae03c0c"
     }
    ]
   },

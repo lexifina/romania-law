@@ -3,6 +3,21 @@
  "shard": "local/neamt/roman/2017",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-1-2017",
+   "path": "local/neamt/roman/2017/1",
+   "short": "HCL Roman nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 1/2017 privind acoperirea definitivă a deficitului secţiunii de dezvoltare pentru exerciţiul bugetar 2016",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/001_HCL_2017-01_acoperire_deficit_2016.pdf",
+     "sha256": "0ae6c3e857aa8a03113f22b04f4753cb6ea5fc76ad66d64d9d74e5fd749f365c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-10-2017",
    "path": "local/neamt/roman/2017/10",
    "short": "HCL Roman nr. 10/2017",
@@ -14,6 +29,126 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/010_HCL_2017-01_SRUS_Regulament_Sporuri.pdf",
      "sha256": "d3be05e53bfe11c34f6869fe57c62bf4ea8f319ca43448e4fb409e0d7ea4fe9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-100-2017",
+   "path": "local/neamt/roman/2017/100",
+   "short": "HCL Roman nr. 100/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 100/2017 privind rectificarea bugetului local și aprobarea listei de investiții la Direcția de Asistenţă Socială Roman pe anul 2017 Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/100%20_HCL_2017-04_rectificare_buget_local.pdf",
+     "sha256": "05444eead3623ae518f166e014c6b6012d64fc7fc63ea7bf4db4c1d86e27990c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-101-2017",
+   "path": "local/neamt/roman/2017/101",
+   "short": "HCL Roman nr. 101/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 101/2017 privind aprobarea dezmembrării unui teren Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/101%20_HCL_2017-04_aprobare_dezmembrare_teren.pdf",
+     "sha256": "1b450615898c5ead2cd46b5545b407879d73cc2f9c370631ea214148c48085d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-102-2017",
+   "path": "local/neamt/roman/2017/102",
+   "short": "HCL Roman nr. 102/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 102/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/102_HCL_2017-05_mandatare_Monac_S_semnare_CCM.pdf",
+     "sha256": "bcf860218eb7921e929e0393ac5f0bc8e66a26edd729c4b2bce1d30d689e3458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-103-2017",
+   "path": "local/neamt/roman/2017/103",
+   "short": "HCL Roman nr. 103/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 103/2017 privind aprobarea Strategiei de Dezvoltare a Serviciilor Sociale a municipiului Roman, pentru perioada 2017-2022 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/103_HCL_2017-05_aprobarea_Strategiei_de_Dezvoltare_Servicii_Sociale.pdf",
+     "sha256": "ec5c77da552876f3ec2790e04164d18d1910a5e97d39af190366e203e665f55a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-104-2017",
+   "path": "local/neamt/roman/2017/104",
+   "short": "HCL Roman nr. 104/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 104/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dd95018337f2c809ec9988b2666340f6e4519080732f0c1cb0d9559e5358ec25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-105-2017",
+   "path": "local/neamt/roman/2017/105",
+   "short": "HCL Roman nr. 105/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 105/2017 privind aprobarea alipirii unor terenuri Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/105_HCL_2017-05_alipire_terenuri.pdf",
+     "sha256": "dddafb738e8328ba140e03e204e344a74291efb63b5c70b9a5ab37907f7fa379"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-106-2017",
+   "path": "local/neamt/roman/2017/106",
+   "short": "HCL Roman nr. 106/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 106/2017 privind aprobarea concesionării unor terenuri Anexa ST OP 1 ST OP 2 ST OP 3 ST OP 4 ST OP 5",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/106_HCL_2017-05_aprobarea_concesonarii_unor_terenuri.pdf",
+     "sha256": "ef2cb519c3afe1dc34e72391a96e0af82ae990e0b14ed2786bd1a947b3844bbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-107-2017",
+   "path": "local/neamt/roman/2017/107",
+   "short": "HCL Roman nr. 107/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/107_HCL_2017-05_aprobare_cheltuieli_buget_local.pdf",
+     "sha256": "7926a7a9814537bb5a4e3bf4850ce966c8e3206aa02a20c8fab3acc86a39515f"
     }
    ]
   },
@@ -33,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-109-2017",
+   "path": "local/neamt/roman/2017/109",
+   "short": "HCL Roman nr. 109/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 109/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "27fbcd23fd918e479f4609d907f995e2a71fa56d47adcd2a5ff81e0cb3887d12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2017",
+   "path": "local/neamt/roman/2017/11",
+   "short": "HCL Roman nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2017 privind aprobarea concesionării şi închirierii unor terenuri Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/011_HCL_2017-01_URB_Concesiuni_Inchirierii.pdf",
+     "sha256": "c8a779bea3e34c3e0c902f1a87a602e00d7d2ab8cb247d9b99d8dcb944651e99"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-110-2017",
    "path": "local/neamt/roman/2017/110",
    "short": "HCL Roman nr. 110/2017",
@@ -44,6 +209,66 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/110%20HCL%202017-05%20modificare%20HCL%20111_2010%20Regulament%20Comert.pdf",
      "sha256": "a6f9af06c89a38eca0eeb052152d7dcac31ce2a268646ccaaba3d79d1d5c04ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-111-2017",
+   "path": "local/neamt/roman/2017/111",
+   "short": "HCL Roman nr. 111/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 111/2017 privind aprobarea inventarului parţial al terenurilor aparţinând domeniului privat al municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/111_HCL_2017-05_aprobare_domeniu_privat.pdf",
+     "sha256": "488549a7d56924963852bd3b5d5d2cc6a2faf24ca82992649a615d46d0c85632"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-112-2017",
+   "path": "local/neamt/roman/2017/112",
+   "short": "HCL Roman nr. 112/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 112/2017 privind rectificarea bugetului local, a listei de investiții finanțate din bugetul de dezvoltare și a listei de studii și proiecte finanțate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/112_HCL_2017-05_rectificare_buget_local.pdf",
+     "sha256": "5da93b1bc56b3dbc282f80218f500b5a0ca87da93ae56266ac4a4898ad437f22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-113-2017",
+   "path": "local/neamt/roman/2017/113",
+   "short": "HCL Roman nr. 113/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 113/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "12f9ced16544bdd7bd819822aee643cbbc5d4816b0127cbd2f8a121ed9054a80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-114-2017",
+   "path": "local/neamt/roman/2017/114",
+   "short": "HCL Roman nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 114/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "22985c0a34298f79ce346ce444d4f308d0f6b8814b47ae2d1f74bc8426695d2d"
     }
    ]
   },
@@ -63,6 +288,156 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-116-2017",
+   "path": "local/neamt/roman/2017/116",
+   "short": "HCL Roman nr. 116/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 116/2017 privind aprobarea concesionării unui teren Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/116_HCL_2017-05_aprobarea_concesionarii_unui_teren.pdf",
+     "sha256": "491a788498c81399eb5198601ef317b5e0e45cbac318b2877ac8cf5614e2d67a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-117-2017",
+   "path": "local/neamt/roman/2017/117",
+   "short": "HCL Roman nr. 117/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 117/2017 privind rectificarea bugetului local și a listei de studii și proiecte finanțate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/117_HCL_2017-05_rectificare_buget_local.pdf",
+     "sha256": "51a82a5e57297957c8a0af77b82e4c5d44cc54e5d137553ef2ab49527d928880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-118-2017",
+   "path": "local/neamt/roman/2017/118",
+   "short": "HCL Roman nr. 118/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 118/2017 privind alegerea preşedintelui de şedinţă",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/118_HCL_2017-06_alegerea_presedintelui_de_sedinta.pdf",
+     "sha256": "a1771da6befac51a79c630b0437cbbab442e8b9b591609a7cbb4158830b27eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-12-2017",
+   "path": "local/neamt/roman/2017/12",
+   "short": "HCL Roman nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 12/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "917b115bf0ef0b60a83813c6f6940431b7f5d9bb3e7f3b5dd0c2c8f69141927a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-121-2017",
+   "path": "local/neamt/roman/2017/121",
+   "short": "HCL Roman nr. 121/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2017 privind rectificarea bugetului local, a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, a listei de investiții finanțate din bugetul de dezvoltare și a listei de studii și proiecte finanțate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2 Anexa 3 Anexa 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/121_HCL_2017-06_rectificare_buget_local.pdf",
+     "sha256": "7e9aa07958ec56b525072179f72b06d38aca9d2c1d3ff088dd40a1f0618ff052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-122-2017",
+   "path": "local/neamt/roman/2017/122",
+   "short": "HCL Roman nr. 122/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 122/2017 privind aprobarea organizării şi desfăşurării „BÂLCIULUI ANUAL - ROMAN 2017”, în perioada 28.07.2017 - 06.08.2017",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/122_HCL_2017-06_aprobare_organizare_balci_2017.pdf",
+     "sha256": "e317a19f4349dd49196cb3d3260e26e8370743be2f83dce63aaf16b19d23fe4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-123-2017",
+   "path": "local/neamt/roman/2017/123",
+   "short": "HCL Roman nr. 123/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 123/2017 privind aprobarea efectuării unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/123_HCL_2017-06_cheltuieli_buget_local.pdf",
+     "sha256": "54491f5dcfc508985c1e00eefb65e8d341a35bd5ca9738f524ccf60f7ce5b944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-124-2017",
+   "path": "local/neamt/roman/2017/124",
+   "short": "HCL Roman nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2017 privind aprobarea Strategiei de dezvoltare a Direcţiei de Asistenţă Socială a municipiului Roman pentru perioada 2017-2027 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/124_HCL_2017-06_aprobare_strategie_DAS.pdf",
+     "sha256": "238ca2c9bf0b47789c406f958f30892840f8cfbc422558f09a973970fc74a93a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2017",
+   "path": "local/neamt/roman/2017/125",
+   "short": "HCL Roman nr. 125/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2017 privind desemnarea reprezentanţilor Consiliului Local în comisiile de concurs pentru ocuparea funcțiilor vacante de director și director adjunct ale unităţilor de învăţământ din Municipiul Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/125_HCL_2017-06_desemnare_reprezentanti_CLR_in_comisii_examinare_scoli.pdf",
+     "sha256": "2a24a24949595d9b6dce02f16f382e7319ab208543d4ac3d4d5a59306b41f0ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-126-2017",
+   "path": "local/neamt/roman/2017/126",
+   "short": "HCL Roman nr. 126/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 126/2017 privind alegerea Viceprimarului Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/126_HCL_2017-06_alegere_viceprimar.pdf",
+     "sha256": "a440803ecfb9845056971d77127891104e45fdd7d06ef3d2aacd1c74c3b8b9dd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-129-2017",
    "path": "local/neamt/roman/2017/129",
    "short": "HCL Roman nr. 129/2017",
@@ -74,6 +449,321 @@
      "units": 1,
      "source_url": null,
      "sha256": "12ec7f4f07a8e5ede742d9ec7dafb754681fd104484b8cc2c96669cc28b5d344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-13-2017",
+   "path": "local/neamt/roman/2017/13",
+   "short": "HCL Roman nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 13/2017 privind reorganizarea Serviciului Voluntar pentru Situaţii de Urgenţă al Municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/013_HCL_2017-01_SVSU_Reorganizare_Organigrama.pdf",
+     "sha256": "61dde9328aaa16f155d08ca70a83d868e19c217603eae85d820cce13608b5268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-130-2017",
+   "path": "local/neamt/roman/2017/130",
+   "short": "HCL Roman nr. 130/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 130/2017 pentru buget- finanțe, avizul favorabil nr. 130 din 07.07.2017 al Comisiei juridice, precum și avizul de legalitate nr. 11790 din 07.07.2017 al Secretarului Municipiului Roman; Având în vedere prevederile art. 19, alin. 2 din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare; În temeiul art. 36, alin. 2, lit. „b”, alin. 4, lit. \"a\", ale art. 45, precum",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/130_HCL_2017-07_rectificare_buget_local.pdf",
+     "sha256": "33dc725e0777a408c3c4bcfaa1a9845e25bd292015f545715018ca8278d3c661"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-133-2017",
+   "path": "local/neamt/roman/2017/133",
+   "short": "HCL Roman nr. 133/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 133/2017 privind constatarea încetării de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/133_HCL_2017-04_Incetare_mandat_consilier_local_L_O_Micu.pdf",
+     "sha256": "ced5f2dcf6016eab0597a4c0d0441d3758ccfc3074857ba0df9a95279cd6a4ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-134-2017",
+   "path": "local/neamt/roman/2017/134",
+   "short": "HCL Roman nr. 134/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 134/2017 privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/134_HCL_2017-07_validare_mandat_consilier_Armanu.pdf",
+     "sha256": "92911afe494abf72b51ac26aa62c16d1cf033586ee0fffec034d5f2685cc1d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-135-2017",
+   "path": "local/neamt/roman/2017/135",
+   "short": "HCL Roman nr. 135/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 135/2017 privind modificarea componenţei unei comisii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/135_HCL_2017-07_modificarea_unor_comisii.pdf",
+     "sha256": "aec372738f7b030b31a1eb82e6e21edc26df6a4c88b26ae903e3fe75482a33e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-136-2017",
+   "path": "local/neamt/roman/2017/136",
+   "short": "HCL Roman nr. 136/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 136/2017 privind aprobarea dezmembrării unor terenuri Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/136_HCL_2017-07_aprobarea_dezmemmbrarii_unor_terenuri.pdf",
+     "sha256": "7631e661bff1dad14efa0f40848ecfc35a9cd458cd0c6464b22ebe08f302bd4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-137-2017",
+   "path": "local/neamt/roman/2017/137",
+   "short": "HCL Roman nr. 137/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 137/2017 privind majorarea tarifelor pentru concesionari si servicii funerare practicate in cimitirul Eternitatea Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/137_HCL_2017-07_majorare_tarif_cimitir.pdf",
+     "sha256": "1c49a031d8be5e6817fb28a1cd5350639a7c0ce6c77c70fe8a29f4175366a737"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-138-2017",
+   "path": "local/neamt/roman/2017/138",
+   "short": "HCL Roman nr. 138/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 138/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/138_HCL_2017-07_modificare_HCL_147_si_148.pdf",
+     "sha256": "cfa635703d5611869f2fbe0b1f2a9ec2dbc437007d2fd90d2c7445a735d098a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-139-2017",
+   "path": "local/neamt/roman/2017/139",
+   "short": "HCL Roman nr. 139/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 139/2017 privind aprobarea inventarului parţial al terenurilor şi clădirilor aparţinând domeniului privat al municipiului Roman Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/139_HCL_2017-07_aprobare_domeniu_privat.pdf",
+     "sha256": "2202dfa923f858ee9e1f125f647830886b27afb42188e5ba13f1d768a937e574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-14-2017",
+   "path": "local/neamt/roman/2017/14",
+   "short": "HCL Roman nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 14/2017 privind numirea ca agent de inundații a Şefului Serviciului Voluntar pentru Situații de Urgență",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/014_HCL_2017-01_SVSU_Agent_Inundatii.pdf",
+     "sha256": "327b8d9eaefa819d016f0954e4d9ed34a7bb281bb22258e806add31520c210fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-140-2017",
+   "path": "local/neamt/roman/2017/140",
+   "short": "HCL Roman nr. 140/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 140/2017 privind eliberarea unor licenţe de traseu pentru transport public local de persoane prin curse regulate speciale Anexa 1 1 Anexa 1 2 Anexa 1 3 Anexa 2 1 Anexa 2 2 Anexa 2 3 Anexa 3 1 Anexa 3 2 Anexa 3 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/140_HCL_2017-07_aprobare_licenta_traseu.pdf",
+     "sha256": "93efbfdeda773837ee4a9431bf268af830e6761f84cbc444301edb599b059f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-141-2017",
+   "path": "local/neamt/roman/2017/141",
+   "short": "HCL Roman nr. 141/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 141/2017 privind aprobarea concesionării şi închirierii unor terenuri Anexa ST OP 1 ST OP 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/141_HCL_2017-07_aprobare_concesiuni_si_inchirieri_terenuri.pdf",
+     "sha256": "3d96337a968f1d953b286209b0fa0bf2fbb672ae71739df8c66f91efa2e96618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-142-2017",
+   "path": "local/neamt/roman/2017/142",
+   "short": "HCL Roman nr. 142/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 142/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/142_HCL_2017-07_modificare_HCL_83_2017.pdf",
+     "sha256": "c78b20bc84a561e8882fe734ee78bffe5889ef3c44d915b072e02277ea1f112d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-143-2017",
+   "path": "local/neamt/roman/2017/143",
+   "short": "HCL Roman nr. 143/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 143/2017 privind aprobarea unor documentaţii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/143_HCL_2017-07_aprobare_PUD-uri.pdf",
+     "sha256": "1390a843a0e575b19bc5023af14a504e8338068e9e168d715d793d35e2dd6a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-144-2017",
+   "path": "local/neamt/roman/2017/144",
+   "short": "HCL Roman nr. 144/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 144/2017 privind aprobarea Programului de aprovizionare a populaţiei cu principalele produse alimentare raţionalizate, în caz de mobilizare sau război Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/144_HCL_2017-07_program_aprovizionare_populatie.pdf",
+     "sha256": "485b79b5004df0b694d0200479a10b26a6e96b9304f3c6475b6ad268338385aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-145-2017",
+   "path": "local/neamt/roman/2017/145",
+   "short": "HCL Roman nr. 145/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 145/2017 privind aprobarea Raportului de evaluare al Comisiei de evaluare şi atribuirea contractului de delegare a gestiunii serviciului de transport public local prin curse regulate unui operator de transport Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/145_HCL_2017-07_aprobare_raport_evaluare_transport.pdf",
+     "sha256": "50fb5dc6c0f7a31cf412e1fdbfb8c797990f5cb5017f2717dc50263ede8a5c54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-146-2017",
+   "path": "local/neamt/roman/2017/146",
+   "short": "HCL Roman nr. 146/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 146/2017 privind aprobarea nomenclatorului stadal al municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/146_HCL_2017-07_aprobare_nomenclator_stradal.pdf",
+     "sha256": "acbbbb9abc608197efe0111e5426143c1c0120cd0b91d916c13af6dfe5890a0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-147-2017",
+   "path": "local/neamt/roman/2017/147",
+   "short": "HCL Roman nr. 147/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 147/2017 privind aprobarea concesiunii unui spațiu medical",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/147_HCL_2017-07_concesionare_cabinet_medical.pdf",
+     "sha256": "75a19f77c2821f952c08d8ab0bc53f062cde7c5721a25fcafe373e8f5d8a823b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-148-2017",
+   "path": "local/neamt/roman/2017/148",
+   "short": "HCL Roman nr. 148/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e62ce5d8df75019d033db49da145afd3d2be94243f00caa51d7599041d636404"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-149-2017",
+   "path": "local/neamt/roman/2017/149",
+   "short": "HCL Roman nr. 149/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2017 privind mandatarea reprezentării Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/149_HCL_2017-07_mandatare_reprezentare_Municipiu_Roman.pdf",
+     "sha256": "04aec430a65796da86145f1bdd374cb688ed9b8c06867e911aadcfcb6c9b5360"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-15-2017",
+   "path": "local/neamt/roman/2017/15",
+   "short": "HCL Roman nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 15/2017 privind aprobarea modificării, prin act adițional, a unui contract de concesiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/015_HCL_2017-01_BJ_modif_contract_SOMACO.pdf",
+     "sha256": "f550c9a3f449b49100a9c8a789304fb7fefc1ddf5575913bef0b8a490ac4737a"
     }
    ]
   },
@@ -93,6 +783,231 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-151-2017",
+   "path": "local/neamt/roman/2017/151",
+   "short": "HCL Roman nr. 151/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 151/2017 privind soluționarea unei contestații",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/151_HCL_2017-07_solutionarea_unei_contestatii.pdf",
+     "sha256": "e4487f8dabdef2c016afef0e7a7cfc872f4d8393156cf366e41bb93f56b0aed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-152-2017",
+   "path": "local/neamt/roman/2017/152",
+   "short": "HCL Roman nr. 152/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 152/2017 privind acordarea unor titluri de „Cetăţean de Onoare” al municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/152_HCL_2017-07_acordare_titlu_Cetateni_de_Onoare.pdf",
+     "sha256": "702b56aae66b86a22ba2ec9fff5828b7859afbdda5f0d03e5834318e16e88c2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-153-2017",
+   "path": "local/neamt/roman/2017/153",
+   "short": "HCL Roman nr. 153/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 153/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/153_HCL_2017-07_aprobare_efectuare_cheltuieli_buget_local.pdf",
+     "sha256": "9e4c573621c76eff5ad0895f33a5f71bd91da2cab4e091a5ed845221e8ded28c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-154-2017",
+   "path": "local/neamt/roman/2017/154",
+   "short": "HCL Roman nr. 154/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2017 privind rectificarea bugetului local, bugetului instituțiilor și activităților finanțate din venituri proprii și subvenții și a listei de investiții finanțate din bugetul de dezvoltare și pe anul 2017 Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/154_HCL_2017-07_rectificare_buget_local.pdf",
+     "sha256": "fc8bd26ed6286ed2b6f568af3f51d1e78d3a93bac42e9bee705456c9006f79ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-155-2017",
+   "path": "local/neamt/roman/2017/155",
+   "short": "HCL Roman nr. 155/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 155/2017 privind aprobarea închirierii unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/155_HCL_2017-07_aprobare_inchiriere_imobil.pdf",
+     "sha256": "e8f817f9b7b182a6dee9972c96f19a50de29d93d2ef8f92ab48f222d8217fd87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-156-2017",
+   "path": "local/neamt/roman/2017/156",
+   "short": "HCL Roman nr. 156/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2017 privind plata unor despăgubiri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/156_HCL_2017-07_plata_unor_despagubiri.pdf",
+     "sha256": "5d83bbd0b42331f3ba833ccbe9364c80f8dc686f3c070e408212eb4effe10351"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2017",
+   "path": "local/neamt/roman/2017/157",
+   "short": "HCL Roman nr. 157/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2017 privind aprobarea devizului general actualizat după încheierea contractului de lucrări pentru obiectivul de investiții: „Canalizare menajera str. N",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/157_HCL_2017-07_aprobare_deviz_canalizare_Balcescu.pdf",
+     "sha256": "1250321772c28532ff0897d519e363f489797a5b4f919d0d7b3a21239ec06ebe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-158-2017",
+   "path": "local/neamt/roman/2017/158",
+   "short": "HCL Roman nr. 158/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 158/2017 privind aprobarea vânzării unor autoturisme",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/158_HCL_2017-07_aprobare_vanzare_autoturisme_PMR.pdf",
+     "sha256": "be3f52895099e5a05c8a0f6fc2bd9c2d1a11ef1a41b34f3cf657db37a2db8457"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-159-2017",
+   "path": "local/neamt/roman/2017/159",
+   "short": "HCL Roman nr. 159/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2017 privind aprobarea unei staţii de transport rutier public de persoane prin curse regulate în trafic judeţean Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/159_HCL_2017-07_aprobare_statie_gara.pdf",
+     "sha256": "f08ab6e58a3887e6207121844d41017eca19462ebee9e04fa88707b79b35ae07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2017",
+   "path": "local/neamt/roman/2017/16",
+   "short": "HCL Roman nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2017 privind aprobarea devizului general actualizat pentru obiectivul de investiţie: „Amenajare sens giratoriu la intersectia DN2(E85) cu strada Plopilor, Municipiul Roman” Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/016_HCL_2017-01_DT_Actualizare_Deviz_Sens_Giratoriu.pdf",
+     "sha256": "670e6ab65448beaa4b0958df7a44325303b23621eb381838f469041d820e77b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-160-2017",
+   "path": "local/neamt/roman/2017/160",
+   "short": "HCL Roman nr. 160/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 160/2017 privind stabilirea salariilor de bază ale funcţiilor publice şi contractuale din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al primarului , serviciile publice din subordinea municipiului Roman şi aparatul de lucru al Consiliului Local Anexa 1 Anexa 2 Anexa 3 Anexa 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/160_HCL_2017-07_stabilire_salarii_PMR.pdf",
+     "sha256": "e46cf88b38ee983ad92978f102c0c7c400db362ddf1d4dde5c16cdb8c7909bec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-161-2017",
+   "path": "local/neamt/roman/2017/161",
+   "short": "HCL Roman nr. 161/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 161/2017 privind aprobarea Raportului pentru procedura de atribuire a contractelor de finanţare nerambursabilă încheiate între Municipiul Roman şi beneficiarii de finanţare nerambursabilă de la bugetul local al Municipiului Roman, pe anul 2017, conform prevederilor Legii nr. 350 / 2005 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități non-profit de interes general An",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/161_HCL_2017-07_atribuire_contracte_finantare.pdf",
+     "sha256": "fc6247f785b2b009096605d05dd362fa6d565075ac5ffd6dcf013a6673769ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2017",
+   "path": "local/neamt/roman/2017/162",
+   "short": "HCL Roman nr. 162/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2017 privind aprobarea cofinanțării din bugetul local al Municipiului Roman la obiectivul de investiții: „Canalizare menajera str. N",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/162_HCL_2017-07_cofinantare_canalizare_N_Balcescu.pdf",
+     "sha256": "19505db540e3f3dde1f196d845c32f0297c857d1c31686c175222783c171070c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-163-2017",
+   "path": "local/neamt/roman/2017/163",
+   "short": "HCL Roman nr. 163/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 163/2017 privind rectificarea bugetului local, a bugetului instituţiilor şi activităţilor finanţate din venituri proprii şi subvenţii, a listei de investiţii finanţate din bugetul de dezvoltare şi a listei de investiţii a D.A.P.B.O",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/163_HCL_2017-08_rectificare_buget_local.pdf",
+     "sha256": "da34d18f1b63fdf08970559f0469d067b9ceb07f1400df435c76bff91efcf2fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-164-2017",
+   "path": "local/neamt/roman/2017/164",
+   "short": "HCL Roman nr. 164/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 164/2017 privind acordarea unor titluri de „Cetăţean de Onoare” al municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/164_HCL_2017-08_acordare_titlu_Cetateni_de_Onoare.pdf",
+     "sha256": "4950582552b51190d1680428a72c50bfb5c5faf433d0f2340055b331bbb9d94b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-166-2017",
    "path": "local/neamt/roman/2017/166",
    "short": "HCL Roman nr. 166/2017",
@@ -104,6 +1019,21 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/166_HCL_2017-08_modificare_HCL174_2015.pdf",
      "sha256": "290f2f976480bd82b8c20115b205fd1212e7205e154148e944e786ae0417c7b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2017",
+   "path": "local/neamt/roman/2017/167",
+   "short": "HCL Roman nr. 167/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "745fec172f56757d8b3423c1f3b974f63597ee1f31109f7cc7a7f4f8fd81b6b4"
     }
    ]
   },
@@ -123,6 +1053,366 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-169-2017",
+   "path": "local/neamt/roman/2017/169",
+   "short": "HCL Roman nr. 169/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 169/2017 privind aprobarea Protocolului de colaborare dintre UAT Municipiul Roman și Asociația Română pentru Reciclare – RoRec Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/169_HCL_2017-08_aprobare_Protocol_colaborare_UAT_Roman-ARR_RoRec.pdf",
+     "sha256": "ac40fc7b074ac1f81f4b58ba397983ac1046b8f4e8be4599c1e6bb864f44aa2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2017",
+   "path": "local/neamt/roman/2017/17",
+   "short": "HCL Roman nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2017 privind aprobarea cofinanţării pentru sumele propuse a fi alocate din Bugetul Ministerului Sănătăţii pentru S.M.U",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/017_HCL_2017-01_DE_BJ_Cofinantare_SMUR.pdf",
+     "sha256": "ab92d8e843133f93a492e805a62fcda79e2314b65830e9fd20832b7325ba10ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-170-2017",
+   "path": "local/neamt/roman/2017/170",
+   "short": "HCL Roman nr. 170/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 170/2017 privind aprobarea concesionării unor terenuri Anexa ST OP 1 ST OP 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/170_HCL_2017-08_aprobare_concesionare_terenuri.pdf",
+     "sha256": "941a8fcc14f4838367caf5ff79117c622eda5825578c154c66b74d0c0da1ab2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-171-2017",
+   "path": "local/neamt/roman/2017/171",
+   "short": "HCL Roman nr. 171/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 171/2017 privind aprobarea dezmembrării unui teren Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/171_HCL_2017-08_aprobarea_dezmembrarii_unui_teren.pdf",
+     "sha256": "0681ed7c10af2ba748dea41b7e81dbf993fe2c88ef002d65b7d8de4116163074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-172-2017",
+   "path": "local/neamt/roman/2017/172",
+   "short": "HCL Roman nr. 172/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 172/2017 privind aprobarea vânzării unor imobile Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/172_HCL_2017-08_aprobare_vanzare_imobile.pdf",
+     "sha256": "b15790986dd2c2855d7f05235bbbe4ad0b29e4e69d3d9726a2737590e24ed867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-173-2017",
+   "path": "local/neamt/roman/2017/173",
+   "short": "HCL Roman nr. 173/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 173/2017 privind aprobarea cererilor şi repartizarea terenurilor atribuite în baza Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/173_HCL_2017-08_repartizare_terenuri_tineri_L15_2003.pdf",
+     "sha256": "bcd08433206af50dd4dc212d33bd54435104feabf4bafd9385a4ead86755abd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-174-2017",
+   "path": "local/neamt/roman/2017/174",
+   "short": "HCL Roman nr. 174/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 174/2017 privind mandatarea reprezentării Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/174_HCL_2017-08_mandatare_reprezentare_Municipiu_Roman.pdf",
+     "sha256": "31b62ef40e5263967af834f2abd00e0959de14c790b93666812b7e756b940aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-175-2017",
+   "path": "local/neamt/roman/2017/175",
+   "short": "HCL Roman nr. 175/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 175/2017 privind plata unor despăgubiri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/175_HCL_2017-08_plata_unor_despagubiri.pdf",
+     "sha256": "2bda0427fe657fc6b4e9efacffc5fd6a68774ee043fa7869c38f16e2bc3bd561"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-176-2017",
+   "path": "local/neamt/roman/2017/176",
+   "short": "HCL Roman nr. 176/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 176/2017 privind aprobarea asigurării unui transport gratuit",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/176_HCL_2017-08_aprobare_transport_gratuit.pdf",
+     "sha256": "75ff30654e20919bd9fcf19f25efc30f1842d52557fa6d325ce0d768a9ada828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-177-2017",
+   "path": "local/neamt/roman/2017/177",
+   "short": "HCL Roman nr. 177/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 177/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/177_HCL_2017-08_efectuare_cheltuieli_buget_local.pdf",
+     "sha256": "4cf81c59fb25c7c898a4b4a8bc7feaf7ca08ab9a0e75bce866129aadb06a137e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-178-2017",
+   "path": "local/neamt/roman/2017/178",
+   "short": "HCL Roman nr. 178/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 178/2017 privind rectificarea bugetului local şi a bugetului instituțiilor și activităților finanțate din venituri proprii și subvenții pe anul 2017 Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/178_HCL_2017-08_rectificare_buget_local.pdf",
+     "sha256": "bc804825e49fec33985d845510a1f9301fadb852d08d0d5be8f55e446d2f8dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-179-2017",
+   "path": "local/neamt/roman/2017/179",
+   "short": "HCL Roman nr. 179/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 179/2017 privind aprobarea concesiunii unui spațiu medical Anexa 1",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/179_HCL_2017-08_concesionare_cabinet_medical.pdf",
+     "sha256": "84d680526ba8f65ed3bfb20030dff22f33d07f1211e5b1d516573d98f325703d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-18-2017",
+   "path": "local/neamt/roman/2017/18",
+   "short": "HCL Roman nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 18/2017 privind aprobarea rețelei unităților de învățământ preuniversitar din Municipiul Roman pentru anul școlar 2017-2018 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/018_HCL_2017-02_retea_scolara_2017-2018.pdf",
+     "sha256": "40a14ec7aabad6ae2bb4435f4686ba2683a7a32f825bfb3ee2d99c0011b60014"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-180-2017",
+   "path": "local/neamt/roman/2017/180",
+   "short": "HCL Roman nr. 180/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 180/2017 privind darea în administrare a bunurilor imobile",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/180_HCL_2017-08_dare_in_administrare_bunuri_imobile%20(scoli).pdf",
+     "sha256": "1ea32b4dcdab15e3b5d8ebad69ace63270002bfb53535217ebc1746aa7fc8ebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-181-2017",
+   "path": "local/neamt/roman/2017/181",
+   "short": "HCL Roman nr. 181/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 181/2017 privind aprobarea inventarului parţial al terenurilor proprietate privată a municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/181_HCL_2017-08_aprobare_domeniu_privat.pdf",
+     "sha256": "eff9d2d48741d6a060611b12aefd4de13d76114f3bd3cd6a6882160d553bebe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-182-2017",
+   "path": "local/neamt/roman/2017/182",
+   "short": "HCL Roman nr. 182/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 182/2017 privind aprobarea nomenclatorului stradal al municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/182_HCL_2017-08_aprobare_nomenclator_stradal.pdf",
+     "sha256": "fbb4a33a654b721eacb2c9228c8ea6de48dc97749198029b00d38bfc46798175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-183-2017",
+   "path": "local/neamt/roman/2017/183",
+   "short": "HCL Roman nr. 183/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 183/2017 privind aprobarea unor documentaţii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/183_HCL_2017-08_aprobarea_unor_documentatii_de_urbanism.pdf",
+     "sha256": "680dae92093ee55339e46b111e16eb29c2f8714df6a8ab48f85471c2912dd3ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-184-2017",
+   "path": "local/neamt/roman/2017/184",
+   "short": "HCL Roman nr. 184/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 184/2017 privind preluarea în concesiune a unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/184_HCL_2017-08_preluare_in_concesiune_terenuri_Cordun.pdf",
+     "sha256": "544768379d8a15bea7172a2c46f825047876e64d5015a26c07ed3ad4de920ea0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-185-2017",
+   "path": "local/neamt/roman/2017/185",
+   "short": "HCL Roman nr. 185/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 185/2017 privind alegerea preşedintelui de şedinţă",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-08",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/185_HCL_2017-09_alegerea_presedintelui_de_sedinta.pdf",
+     "sha256": "c89a6003f49514354128aefa5071341d81f9cf7425012532e1699528de55ab80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-186-2017",
+   "path": "local/neamt/roman/2017/186",
+   "short": "HCL Roman nr. 186/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 186/2017 privind exercitarea dreptului de administrare asupra unor imobile",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-08",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/186_HCL_2017-09_exercitare_drept_administrare_imobile_CNRV.pdf",
+     "sha256": "34d955a2591b27872eec4a0180740a026d9b6d11648491ebc46dda31e6d3eacc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-187-2017",
+   "path": "local/neamt/roman/2017/187",
+   "short": "HCL Roman nr. 187/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 187/2017 privind rectificarea bugetului local și a bugetului instituțiilor și activităților finanțate din venituri proprii și subvenții pe anul 2017 Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-22",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/187_HCL_2017-09_rectificare_buget_local.pdf",
+     "sha256": "492b84cbd2e4e76e0f275a61e501864cf85be0f4bb26b3849f84c292ca8dee93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-188-2017",
+   "path": "local/neamt/roman/2017/188",
+   "short": "HCL Roman nr. 188/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 188/2017 privind aprobarea Regulamentelor de organizare si funcţionare ale serviciilor sociale Centrul de îngrijire de zi pentru copiii aflaţi în situaţii de risc „Casa Copiilor” şi Centrul de zi pentru copii antepreşcolari aflaţi în situaţie de risc „Casa Fluturaşilor” Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/188%20HCL%202017-09%20Regulamente%20Centre%20copii%20DAS.pdf",
+     "sha256": "3295cb4d3441e6e36d02d4481c6e37660a4f5d4ab9dc72dad09342cd36c6453a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-189-2017",
+   "path": "local/neamt/roman/2017/189",
+   "short": "HCL Roman nr. 189/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 189/2017 privind aprobarea Contractului Colectiv de Munca al personalului contractual din cadrul D.A.S Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/189%20HCL%202017-09%20aprobare%20contract%20colectiv%20DAS.pdf",
+     "sha256": "52f79257b3b10a8e0e68633d0c3f13cff5fa8b3ccd7955290fae98ebc8eb4aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2017",
+   "path": "local/neamt/roman/2017/19",
+   "short": "HCL Roman nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1dee3035e4b27ebcc0621a4eb8842c540052a07c3b4afbbcac02f03cf3a08b2c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-190-2017",
    "path": "local/neamt/roman/2017/190",
    "short": "HCL Roman nr. 190/2017",
@@ -134,6 +1424,246 @@
      "units": 1,
      "source_url": null,
      "sha256": "d1faf23ea520bc11ec1f2835138b1c72fb4d55fc4ffef72292b00a69476ccd54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-191-2017",
+   "path": "local/neamt/roman/2017/191",
+   "short": "HCL Roman nr. 191/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 191/2017 privind aprobarea dezmembrării și alipirii unor terenuri Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/191%20HCL%202019-09%20dezmembrare%20si%20alipire%20terenuri.pdf",
+     "sha256": "0bff544ea9cef85e7c7e379d7ced63401ff5c02a695cfe53340b9a043ff3dadf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-192-2017",
+   "path": "local/neamt/roman/2017/192",
+   "short": "HCL Roman nr. 192/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 192/2017 privind aprobarea transmiterii în folosinţă gratuită către Agenția Națională pentru Locuințe a unei suprafeţe de teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/192%20HCL%202017-09%20transmitere%20teren%20ANL.pdf",
+     "sha256": "a574c9c117cd3515ebbc3cd9023266d9269fdb6fedb2173478e404ed624172aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-193-2017",
+   "path": "local/neamt/roman/2017/193",
+   "short": "HCL Roman nr. 193/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 193/2017 privind aprobarea inventarului parţial al terenurilor aparţinând domeniului privat al municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/193%20HCL%202017-09%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "286c947e0e732dd9b6befbb0d1176fe263ba213bf3339e16a4e59f3110bb6f1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-194-2017",
+   "path": "local/neamt/roman/2017/194",
+   "short": "HCL Roman nr. 194/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 194/2017 privind aprobarea concesionării și închirierii unor terenuri Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/194%20HCL%202017-09%20concesiuni%20terenuri.pdf",
+     "sha256": "ded0751fa388108788c87111753770facebdf13d9eb02a210f1b633a21d88caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-195-2017",
+   "path": "local/neamt/roman/2017/195",
+   "short": "HCL Roman nr. 195/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 195/2017 privind aprobarea vânzării unor imobile Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/195%20HCL%202017-09%20vanzari%20terenuri.pdf",
+     "sha256": "02371ddf8e4dc124c801a488f92b4c34e9cf5d65af9da782f4e0710e91cbd0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-196-2017",
+   "path": "local/neamt/roman/2017/196",
+   "short": "HCL Roman nr. 196/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 196/2017 privind aprobarea cumpărării unor imobile",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/196%20HCL%202017-09%20cumparari%20terenuri.pdf",
+     "sha256": "52a6cbd9f5e4efdd9e43741bc37575b6aa78c4be827088ecfa119a35628f6e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-197-2017",
+   "path": "local/neamt/roman/2017/197",
+   "short": "HCL Roman nr. 197/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 197/2017 privind aprobarea efectuării unor schimburi de terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/197%20HCL%202017-09%20aprobare%20schimb%20terenu.pdf",
+     "sha256": "8867a8ab3dc77928130596b79bf611e01b1589bcba07d2ae2ce593744bf99903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-198-2017",
+   "path": "local/neamt/roman/2017/198",
+   "short": "HCL Roman nr. 198/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 198/2017 privind soluționarea unei contestații",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/198%20HCL%202017-09%20solutionare%20contestatie%20Electrogold.pdf",
+     "sha256": "58f4bccc982d6473a9cf47249386ed1718a5b164db541aed43a207c2c330fe7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-199-2017",
+   "path": "local/neamt/roman/2017/199",
+   "short": "HCL Roman nr. 199/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 199/2017 privind aprobarea Protocolului de colaborare dintre UAT Municipiul Roman și Asociația “O șansă pentru fiecare” Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/199%20HCL%202017-09%20aprobare%20Protocol%20UAT%20Roman%20O%20sansa%20pentru%20fiecare.pdf",
+     "sha256": "65e5a7fc17d3f3e8f3d2a83b360882697127343d933ca2f582b185a2df93f865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-2-2017",
+   "path": "local/neamt/roman/2017/2",
+   "short": "HCL Roman nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b0d382480f3c0ffdce0a9c983a097b2c03f4f9d94f9834d82d477e3c3f712777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-20-2017",
+   "path": "local/neamt/roman/2017/20",
+   "short": "HCL Roman nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 20/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ac0b5994f8ee6a1d8a3b88d2c0d42b30699bb40950a0d75d883698da3a4af814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-200-2017",
+   "path": "local/neamt/roman/2017/200",
+   "short": "HCL Roman nr. 200/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 200/2017 privind aprobarea efectuării unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/200%20HCL%202017-09%20aprobare%20cheltuieli%20din%20bugetul%20local.pdf",
+     "sha256": "892f17ec6b9e74144b9892fd965be59ecfa40e79c9653dffa79df99e4c02f9a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-201-2017",
+   "path": "local/neamt/roman/2017/201",
+   "short": "HCL Roman nr. 201/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 201/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4dd274b808509c066d23f988aa12c7062e4b40932ca0ee5963d6408432256ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-202-2017",
+   "path": "local/neamt/roman/2017/202",
+   "short": "HCL Roman nr. 202/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 202/2017 privind vânzarea unui autoturism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/202%20HCL%202017-09%20vanzare%20autoturism.pdf",
+     "sha256": "96cd82c779c1a0df076cecdc6d72062d1fba9b712453ba2ef735ae9cfd276c07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-203-2017",
+   "path": "local/neamt/roman/2017/203",
+   "short": "HCL Roman nr. 203/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 203/2017 privind rectificarea bugetului local, a bugetului instituțiilor și activităților finanțate din venituri proprii și subvenții și a listei de investiții finanțate din bugetul de dezvoltare, pe anul 2017 Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/203%20HCL%202017-09%20rectificare%20buget%20local.pdf",
+     "sha256": "7765be78b59269049abeb8268a8fd081d03f29854e6c7569065d930fbb8b6399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-204-2017",
+   "path": "local/neamt/roman/2017/204",
+   "short": "HCL Roman nr. 204/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 204/2017 privind aprobarea vânzării unor autospeciale",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/204%20HCL%202017-09%20vanzare%20autospeciale.pdf",
+     "sha256": "f864a3a4073779a219f7644306c6c9c9bf33319f81cac6e14e1f1151482e4d59"
     }
    ]
   },
@@ -153,6 +1683,426 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-206-2017",
+   "path": "local/neamt/roman/2017/206",
+   "short": "HCL Roman nr. 206/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 206/2017 privind aprobarea listei cu obiectivele de investiţii ce se vor finanţa din împrumut Anexa (lei) Anexa (euro)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/206%20HCL%202017-09%20aprobare%20lista%20investitii%20imprumut.pdf",
+     "sha256": "b055fe0c8e340a8c1194630884dfabcab8fef87a783305ff95a37ec3da0a32ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-207-2017",
+   "path": "local/neamt/roman/2017/207",
+   "short": "HCL Roman nr. 207/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 207/2017 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 48.300.000 lei pentru realizarea unor investiții publice de interes local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/207%20HCL%202017-09%20aprobare%20imprumut.pdf",
+     "sha256": "27c6f23983ba6c8cc3a61af1755bb748465ddc78a36dae00c74d88bf7ef3f191"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-208-2017",
+   "path": "local/neamt/roman/2017/208",
+   "short": "HCL Roman nr. 208/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 208/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "657c418fb03a57b1de597d3ab37631f3aa53ecfee6b8f03e146d9c416c3df2bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-209-2017",
+   "path": "local/neamt/roman/2017/209",
+   "short": "HCL Roman nr. 209/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 209/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/209%20HCL%202015-09%20modificare%20HCL%20219_2015%20(CSM).pdf",
+     "sha256": "6e42a8f97659ab576079a442728984daf990a7fb49f2f9be4525734a99c4ea6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2017",
+   "path": "local/neamt/roman/2017/21",
+   "short": "HCL Roman nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2017 privind aprobarea efectuării unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/021_HCL_2017-02_cheltuieli_Memorial_Cojocaru.pdf",
+     "sha256": "8f851f8c0e56f8ee2c18229226069d6d3b435a2eb765be699d9dfcfc9634663c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-210-2017",
+   "path": "local/neamt/roman/2017/210",
+   "short": "HCL Roman nr. 210/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 210/2017 privind aprobarea Acordului de colaborare dintre Municipiul Roman şi Club Sportiv Municipal Roman pentru realizarea TÂRGULUI Magia Toamnei, din perioada 12-15 OCTOMBRIE 2017, în Piața Roman-Vodă Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/210%20HCL%202017%2009%20organizare%20Targul%20Magia%20Toamnei.pdf",
+     "sha256": "236a9947241aed4eedbc7326c212172f8cd5e6c561efeb42976825a4b22235e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-211-2017",
+   "path": "local/neamt/roman/2017/211",
+   "short": "HCL Roman nr. 211/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 211/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/211%20HCL%202018-09%20completare%20HCL%2089_2017.pdf",
+     "sha256": "ef1a9342fa2ef381f85521908f29070afc92e1a2c2932daf6366567438e390d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-214-2017",
+   "path": "local/neamt/roman/2017/214",
+   "short": "HCL Roman nr. 214/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 214/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/214_HCL_2017-09_completarea_HCL_81_2009.pdf",
+     "sha256": "316390efe7bf08b1b7fa51bc42c135e4eea1776f78383326cab5ab5afd3aa8c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-215-2017",
+   "path": "local/neamt/roman/2017/215",
+   "short": "HCL Roman nr. 215/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 215/2017 privind aprobarea devizului general actualizat după încheierea contractului de lucrări pentru obiectivul de investiții: „Canalizare menajera str. N",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/215_HCL_2017-10_aprobare_deviz_general_Canalizare_N_Balcescu.pdf",
+     "sha256": "d1cf459879a504b142771d9d32488e49b4ec0cbe8373df23db099e2e16cee32a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-216-2017",
+   "path": "local/neamt/roman/2017/216",
+   "short": "HCL Roman nr. 216/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 216/2017 privind abrogarea unei hotărâri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/216_HCL_2017-10_abrogare_HCL_10_2017.pdf",
+     "sha256": "8e1f2a2f448c852eea5a26537b59e9328c2165f5ce63ba2bb53f8272e893e720"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-217-2017",
+   "path": "local/neamt/roman/2017/217",
+   "short": "HCL Roman nr. 217/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 217/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/217_HCL_2017-10_efectuare_cheltuieli_buget_local.pdf",
+     "sha256": "1d487aff062884f6f614ec2a85b1fa7455585966700bf9d581cb7ec0f1c7d981"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-218-2017",
+   "path": "local/neamt/roman/2017/218",
+   "short": "HCL Roman nr. 218/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 218/2017 privind aprobarea cofinanțării din bugetul local al Municipiului Roman la obiectivul de investiții: „Canalizare menajera str. N",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/218_HCL_2017-10_cofinantare_canalizare_N_Balcescu.pdf",
+     "sha256": "03e7fbfa69ddf004be156dff3e0732dc7ef9c65b8bfb611f4ccf5db0d8b7208c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-219-2017",
+   "path": "local/neamt/roman/2017/219",
+   "short": "HCL Roman nr. 219/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 219/2017 privind rectificarea bugetului local pe anul 2017 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/219_HCL_2017-10_rectificare_buget_local.pdf",
+     "sha256": "f3e4b477d39b63f20faa971fd5f62dc477e83aa06f772cd349ccc33590910071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-22-2017",
+   "path": "local/neamt/roman/2017/22",
+   "short": "HCL Roman nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 22/2017 privind aprobarea cofinanțării de la bugetul local al UAT Roman pentru realizarea obiectivului de investiții: „Amenajare sens giratoriu la intersecția DN2 (E85) cu str. Plopilor, Roman, judeţul Neamț” Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/022_HCL_2017-02_cofinantare_Giratoriu.pdf",
+     "sha256": "567a7919122f9de5e0e18348ea9016b558c6e1e6f3174059ef9c04c9e3c34508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-221-2017",
+   "path": "local/neamt/roman/2017/221",
+   "short": "HCL Roman nr. 221/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 221/2017 privind aprobarea efectuării unei cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/221_HCL_2017-10_efectuare_cheltuieli_buget_local_ISU.pdf",
+     "sha256": "78e0c8d03b5ba2aa247c05b0d9c60216d13945342a241c6a031a813a185c161a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-222-2017",
+   "path": "local/neamt/roman/2017/222",
+   "short": "HCL Roman nr. 222/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 222/2017 privind achiziționarea unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/222_HCL_2017-10_achizitionarea_unui_imobil.pdf",
+     "sha256": "5a4303bdb7b806877eba163b4bcbe03cc61bad76b11e23309e682c439e57aa28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-223-2017",
+   "path": "local/neamt/roman/2017/223",
+   "short": "HCL Roman nr. 223/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 223/2017 privind încheierea unui Acord de asociere Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/223_HCL_2017-10_incheiere_acord_asociere_Expofashion.pdf",
+     "sha256": "dcbbbfbbabc9d899dddbe46b7318acb908289ce1ac19710a8a05326d40113d16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-224-2017",
+   "path": "local/neamt/roman/2017/224",
+   "short": "HCL Roman nr. 224/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 224/2017 privind rectificarea bugetului local, a listei de investiții finanțate din bugetul de dezvoltare și a listei de studii și proiecte finanțate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/224_HCL_2017-10_rectificare_buget_local.pdf",
+     "sha256": "ff0c51be02930bcddc634b761c75d0ae80f231c7ec11adf9afafd0232e1b5f8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-225-2017",
+   "path": "local/neamt/roman/2017/225",
+   "short": "HCL Roman nr. 225/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 225/2017 privind zonarea fiscală a teritoriului municipiului Roman Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/225_HCL_2017-10_zonarea_fiscala_a_Municpiului_Roman.pdf",
+     "sha256": "17a9a41aa00098edae5afd969568c3a128667dd97068b9dc566660210a07a4c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-226-2017",
+   "path": "local/neamt/roman/2017/226",
+   "short": "HCL Roman nr. 226/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 226/2017 privind aprobarea inventarului parţial al terenurilor aparținând domeniului privat al municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/226_HCL_2017-10_aprobare_domeniu_privat.pdf",
+     "sha256": "465f7f9b10f6bcfc3a4f208a9670dcfc085aac7fa7bbd0bc726f12be247c4397"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-227-2017",
+   "path": "local/neamt/roman/2017/227",
+   "short": "HCL Roman nr. 227/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 227/2017 privind aprobarea concesionării unor terenuri Anexa ST OP 1 ST OP 2 ST OP 3 ST OP 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/227_HCL_2017-10_concesiuni_terenuri.pdf",
+     "sha256": "8836758bb871d2cb6e87d21f7a42c71ec07bfcaa843549290cf901b932e7c509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-228-2017",
+   "path": "local/neamt/roman/2017/228",
+   "short": "HCL Roman nr. 228/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 228/2017 privind aprobarea vânzării unor imobile Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/228_HCL_2017-10_aprobare_vanzare_terenuri.pdf",
+     "sha256": "cf655c8e160c636ea49948bf087afb559ab269ae017e53f8c3e8b8863840b18b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-229-2017",
+   "path": "local/neamt/roman/2017/229",
+   "short": "HCL Roman nr. 229/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 229/2017 privind aprobarea dezmembrării unui teren Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/229_HCL_2017-10_aprobare_dezmembrare_teren.pdf",
+     "sha256": "9fa60614c7eee904341f29345ae78027e6249104e620cf58343a37401c4a08ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-23-2017",
+   "path": "local/neamt/roman/2017/23",
+   "short": "HCL Roman nr. 23/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 23/2017 privind aprobarea indicatorilor tehnico-economici şi a documentaţiei tehnice pentru obiectivul: „Modernizare ansamblu de străzi: Mărului, Tinosului, Pescarilor şi Ocniţei, Municipiul Roman, judeţul Neamţ” Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/023_HCL_2017-02_modernizare_Strazi.pdf",
+     "sha256": "4fcba6e1674496ea67cf00d3a60bfc900affc83337d66cb26680f732e17893d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-230-2017",
+   "path": "local/neamt/roman/2017/230",
+   "short": "HCL Roman nr. 230/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 230/2017 privind stabilirea destinaţiei locuinţelor situate în str",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/230_HCL_2017-10_stabilire_destinatie_locuinte_Fabricii.pdf",
+     "sha256": "63ad293b2a03b65c95a3cb542469ca90f19a709700f5aa544594b1211b518253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-231-2017",
+   "path": "local/neamt/roman/2017/231",
+   "short": "HCL Roman nr. 231/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 231/2017 privind aprobarea Planului de ocupare a funcţiilor publice pentru aparatul de specialitate al Primarului municipiului Roman, serviciile publice de interes local subordonate fără personalitate juridică şi Direcţia de Asistenţă Socială a municipiului Roman pentru anul 2018 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/231_HCL_2017-10_Plan_de_ocupare_2018.pdf",
+     "sha256": "83f9184403db4ec44a22089ab444948c4bd14a68bfea4136836136b423c9c054"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-232-2017",
+   "path": "local/neamt/roman/2017/232",
+   "short": "HCL Roman nr. 232/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 232/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bef514082fe141212febf337755a489e371826a6df9868ffcd8b0f16906c4cd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-233-2017",
+   "path": "local/neamt/roman/2017/233",
+   "short": "HCL Roman nr. 233/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 233/2017 privind aprobarea preluării în proprietatea municipiului Roman a unui apartament",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/233_HCL_2017-10_preluare_apartament_Borleanu_Butnariu.pdf",
+     "sha256": "a6930251b34efec7ab90dd9cb1808ece6be356e1edcd0733b355ef56c1871001"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-234-2017",
    "path": "local/neamt/roman/2017/234",
    "short": "HCL Roman nr. 234/2017",
@@ -164,6 +2114,201 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/234_HCL_2018-10_impozite_si_taxe_locale_2018.pdf",
      "sha256": "32b6fbe65e0c3428c40d149cffdda465dfa7c0b5c1db5e73ffc6bac196df05b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-235-2017",
+   "path": "local/neamt/roman/2017/235",
+   "short": "HCL Roman nr. 235/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 235/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9ca284b575d7dc48096a881834b7036b3c0e2663ba9f32b5293a8c38c4223e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-236-2017",
+   "path": "local/neamt/roman/2017/236",
+   "short": "HCL Roman nr. 236/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 236/2017 privind încheierea unui Acord de parteneriat Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/236_HCL_2017-10_aprobare_Acord_parteneriat_Centru_de_Excelenta.pdf",
+     "sha256": "148f604bbefae0896ad8096de43dc93ef0225eea9be1a8d7aebbb1bfeb92cc08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-237-2017",
+   "path": "local/neamt/roman/2017/237",
+   "short": "HCL Roman nr. 237/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 237/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1833604ec701a97106a3365c6bb9663a7a4590ae4e397eebf120a317439d8c99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-238-2017",
+   "path": "local/neamt/roman/2017/238",
+   "short": "HCL Roman nr. 238/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 238/2017 privind rectificarea bugetului local consolidat și a listei obiectivelor de investitii a S.M.U.R",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/238_HCL_2017-10_rectificare_buget_local.pdf",
+     "sha256": "4d2b43b825fed0a681a4336451dd5494f5706bd64391171269c67661c26dcbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-239-2017",
+   "path": "local/neamt/roman/2017/239",
+   "short": "HCL Roman nr. 239/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 239/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/239_HCL_2017-10_modificare_HCL_93_2008.pdf",
+     "sha256": "7f4c9e806fe1320e6661e7ff168bc89eaf9feceb228d280c6a617d489809ddef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-24-2017",
+   "path": "local/neamt/roman/2017/24",
+   "short": "HCL Roman nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 24/2017 privind aprobarea indicatorilor tehnico-economici şi a documentaţiei tehnice pentru obiectivul de investiţie: „Canalizare menajeră str. N",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/024_HCL_2017-02_canalizare_Balcescu.pdf",
+     "sha256": "2e698397a2a00b1c23cf06c00cdd22c5374de9069de3119716a2201d25347c76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-240-2017",
+   "path": "local/neamt/roman/2017/240",
+   "short": "HCL Roman nr. 240/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 240/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/240_HCL_2017-10_modificare_HCL_147_2012.pdf",
+     "sha256": "ef10e9fc504d0d09d153dfda7de7e8868f05af818c975f1bf46c3ac982547d59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-241-2017",
+   "path": "local/neamt/roman/2017/241",
+   "short": "HCL Roman nr. 241/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 241/2017 privind aprobarea încheierii unui contract de comodat",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/241_HCL_2017-10_aprobare_comodat_sala_de_clasa.pdf",
+     "sha256": "3025554c704354c17d7b41d191b63b2de507993fc478d8d4636bd5a305bdac37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-242-2017",
+   "path": "local/neamt/roman/2017/242",
+   "short": "HCL Roman nr. 242/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 242/2017 privind aprobarea consumului total anual de carburant pentru unele autoturisme Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/242_HCL_2017-10_aprobare_carburant_pentru_3_autoturisme.pdf",
+     "sha256": "16023ca93ae88654e911215cfec4545ebcb7477180efd37888343cd70a5babbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-243-2017",
+   "path": "local/neamt/roman/2017/243",
+   "short": "HCL Roman nr. 243/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 243/2017 privind aprobarea efectuării unei cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/243_HCL_2017-11_aprobare_cheltuieli_buget_local.pdf",
+     "sha256": "eb7010efa47a8ac5cfe3bf730948d316b94b96d863e694c10319995f680e228b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-244-2017",
+   "path": "local/neamt/roman/2017/244",
+   "short": "HCL Roman nr. 244/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 244/2017 privind rectificarea bugetului local pe anul 2017 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/244_HCL_2017-11_rectificare_buget_local.pdf",
+     "sha256": "0cefb1e029de950bf05d9677f412d37cd1b2bc8dbfe75c9bfbfd318ab92efd3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-245-2017",
+   "path": "local/neamt/roman/2017/245",
+   "short": "HCL Roman nr. 245/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 245/2017 privind rectificarea bugetului local consolidat, a listei de investiții și a listei de studii și proiecte finanțate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2 Anexa 3 Anexa 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/245_HCL_2017-11_rectificare_buget_local.pdf",
+     "sha256": "c3960196227af2d3e071621693453a19970b73c68a0097b8350e79a2a5cf709e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-246-2017",
+   "path": "local/neamt/roman/2017/246",
+   "short": "HCL Roman nr. 246/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 246/2017 privind aprobarea efectuării unei cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/246_HCL_2017-11_efectuare_cheltuieli_buget_local.pdf",
+     "sha256": "d0dfce4b7ab868b7b8f9bfefb18fb7ce342f15202c3027b2066b8f9e54495f27"
     }
    ]
   },
@@ -183,6 +2328,186 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-248-2017",
+   "path": "local/neamt/roman/2017/248",
+   "short": "HCL Roman nr. 248/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 248/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7cd24951f4262b4cabf979de521bacc492e64c74685803dd906dd3e42f8c7af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-249-2017",
+   "path": "local/neamt/roman/2017/249",
+   "short": "HCL Roman nr. 249/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 249/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/249_HCL_2017-11_efectuare_cheltuieli_buget_local.pdf",
+     "sha256": "64c3aa570de08c65dd1b155ce663a8e6c7c2c472081dbd39ad3f6d131f062337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2017",
+   "path": "local/neamt/roman/2017/25",
+   "short": "HCL Roman nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2017 privind desemnarea reprezentanţilor Consiliului Local în Consiliile de Administraţie ale unităţilor de învăţământ din Municipiul Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/025_HCL_2017-02_BEVS_reprez_CLR_CA_scoli.pdf",
+     "sha256": "c85effb92e54edf2e1aa2d8f5bba33d2c4df7d07a8a01181a77d020190f0d95f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-250-2017",
+   "path": "local/neamt/roman/2017/250",
+   "short": "HCL Roman nr. 250/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 250/2017 privind alocarea din bugetul local a sumei necesare pentru organizarea activităților specifice lunii decembrie",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/250_HCL_2017-11_aprobare_alocare_sume_Revelion.pdf",
+     "sha256": "060dad282139fc2a96553d4538416918f6ddd8de49eaa36e53525715bbfd4766"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-251-2017",
+   "path": "local/neamt/roman/2017/251",
+   "short": "HCL Roman nr. 251/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 251/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3f0f84d8c0407351ebfb27d029c584225d917ab749330f8245196e756cc1af78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-252-2017",
+   "path": "local/neamt/roman/2017/252",
+   "short": "HCL Roman nr. 252/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 252/2017 privind aprobarea dezmembrării unor terenuri Anexa 1 şi 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/252_HCL_2017-11_aprobare_dezmembrare_imobile.pdf",
+     "sha256": "55f41c03493c7b7cc118b2150562177d98e738be9e7ab0e330e3158a256d1822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-253-2017",
+   "path": "local/neamt/roman/2017/253",
+   "short": "HCL Roman nr. 253/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 253/2017 privind aprobarea inventarului parţial al terenurilor și cladirilor aparținând domeniului privat al municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/253_HCL_2017-11_aprobare_domeniu_privat.pdf",
+     "sha256": "b60eba4a3245e387d86190c597a9afe8a5e01f282d8d72487388c36c0833d91f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-254-2017",
+   "path": "local/neamt/roman/2017/254",
+   "short": "HCL Roman nr. 254/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 254/2017 privind valorificarea materialelor lemnoase provenite din vegetația forestieră proprietate publică a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/254_HCL_2017-11_valorificare_masa_lemnoasa_2017.pdf",
+     "sha256": "e76b491122fee670ea3f44a64e773c26cd62073099668313e21f8e5d19fe3df0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-255-2017",
+   "path": "local/neamt/roman/2017/255",
+   "short": "HCL Roman nr. 255/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 255/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cc582a9792bf8f776c2e84208c7aef96e424c3509bbc9d50aaf207f8c096e0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-256-2017",
+   "path": "local/neamt/roman/2017/256",
+   "short": "HCL Roman nr. 256/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 256/2017 pentru anul 2018 Având în vedere: - expunerea de motive nr. 20511/22.11.2017 a Primarului Municipiului Roman; - raportul de specialitate nr. 20512/22.11.2017 al Directiei Economice; - avizul nr. 133 din 28.11.2017 al Comisiei pentru buget-finanțe, avizul nr. 259 din 28.11.2017 al Comisiei juridice; - avizul pentru legalitate nr. 20796 din 28.11.2017 dat de către Secretarul Municipiului Roman; Luân",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/256_HCL_2017-11_aprobare_cuantum_cotizatie_AMR.pdf",
+     "sha256": "a2aad97bb304ee15707a21959c78f89e3a982c73baf250cd4af9ce714feab06a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-257-2017",
+   "path": "local/neamt/roman/2017/257",
+   "short": "HCL Roman nr. 257/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 257/2017 privind respingerea unei cereri de cumpărare a unei locuințe",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/257_HCL_2017-11_respingere_vanzare_locuinta.pdf",
+     "sha256": "b646c11138fae88f9d224b621739e174e066014ee129364b9fb9c6ff16fb37ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-259-2017",
+   "path": "local/neamt/roman/2017/259",
+   "short": "HCL Roman nr. 259/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 259/2017 privind rectificarea bugetului local consolidat , a listelor de investiții și a listei de studii și proiecte finanțate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5 Anexa 6 Anexa 7",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/259_HCL_2017-11_rectificare_buget_local.pdf",
+     "sha256": "606f32b66e8fb4462f4c20f06ecc0baefac8e113418fd2b81aa852cd6e182cbb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-26-2017",
    "path": "local/neamt/roman/2017/26",
    "short": "HCL Roman nr. 26/2017",
@@ -194,6 +2519,216 @@
      "units": 4,
      "source_url": null,
      "sha256": "6477bfa51d6b145083ad50dc0f796caaf64b202f30dd3b84cef01dcdb6e16888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-260-2017",
+   "path": "local/neamt/roman/2017/260",
+   "short": "HCL Roman nr. 260/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 260/2017 privind alegerea preşedintelui de şedinţă",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/260_HCL%202017-12_alegerea_presedintelui_de_sedinta.pdf",
+     "sha256": "d47bbd65c640db05fb05937b5a29a38cd8cfa3e199dbb8f04842435ba90bafbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-262-2017",
+   "path": "local/neamt/roman/2017/262",
+   "short": "HCL Roman nr. 262/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 262/2017 privind aprobarea încheierii unui acord de parteneriat cu Regia Națională a Pădurilor-Romsilva, Direcția Silvică Neamț Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-04",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/262_HCL_2017-11_aprobare_parteneriat_Romsilva.pdf",
+     "sha256": "71ce98eda5926e745c6a7bf7291c34b2ce0ac958833b5297af6b714dd2de7028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-263-2017",
+   "path": "local/neamt/roman/2017/263",
+   "short": "HCL Roman nr. 263/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 263/2017 privind aprobarea efectuării unei cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/263_HCL_2017-12_aprobare_efectuare_cheluieli_buget_local.pdf",
+     "sha256": "13a22101b8fb66e72bbc8b11737c8cb9d0377968fec33b05109a8d63404ef8cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-264-2017",
+   "path": "local/neamt/roman/2017/264",
+   "short": "HCL Roman nr. 264/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 264/2017 privind aprobarea încheierii unui acord de parteneriat cu Direcția Generală de Asistență Socială Neamț și darea în administrare a unor terenuri Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/264_HCL_2017-12_aprobare_acord_parteneriat_DGAS_Neamt.pdf",
+     "sha256": "08482beb634850f60d2030a41fa787324191a5f04d369c6eb88cbec348874f62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-265-2017",
+   "path": "local/neamt/roman/2017/265",
+   "short": "HCL Roman nr. 265/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 265/2017 privind rectificarea bugetului local consolidat, a listelor de investiții și a listei de studii și proiecte finantate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5 Anexa 6",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/265_HCL_2017-12_rectificare_buget_local.pdf",
+     "sha256": "5ad005a2297f03784248a508e012a77c98a5fc48f55d13b408bf13815dd72346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-266-2017",
+   "path": "local/neamt/roman/2017/266",
+   "short": "HCL Roman nr. 266/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 266/2017 privind aprobarea Regulamentului de organizare şi funcţionare a serviciului social Adăpost de Noapte ”Casa Speranței” aflat în subordinea Direcţiei de Asistenţă Socială a Municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/266_HCL_2017-12_aprobare_ROF_Casa_sperantei.pdf",
+     "sha256": "8245e9ad83e185458fe4d95b194094284c2ae6d6a0b85824c6702452f0220b20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-267-2017",
+   "path": "local/neamt/roman/2017/267",
+   "short": "HCL Roman nr. 267/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 267/2017 privind aprobarea organigramei, situaţiei posturilor şi statelor de funcţii şi de personal ale Spitalului Municipal de Urgenţă Roman Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/267_HCL_2017-12_aprobare_organigrama_SMU.pdf",
+     "sha256": "654ffe443dc29e701b1023bc6d3fabfbbf75a0f4ce67f91b704acdea50ddeca9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-268-2017",
+   "path": "local/neamt/roman/2017/268",
+   "short": "HCL Roman nr. 268/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 268/2017 privind aprobarea funcţiilor publice, a organigramei, statelor de funcţii pentru aparatul de specialitate şi serviciile publice subordonate fără personalitate juridică Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5 Anexa 6 Anexa 7 Anexa 8",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/268_HCL_2017-12_modificare_organigrama_PMR.pdf",
+     "sha256": "29d00576bfcd2c9cba7de3e5193f9620bf9f354d1431cc53a2d5fca5027a2f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-269-2017",
+   "path": "local/neamt/roman/2017/269",
+   "short": "HCL Roman nr. 269/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 269/2017 privind aprobarea Regulamentului de organizare şi funcţionare al Direcţiei Locale de Evidenţă a Persoanelor a municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/269_HCL_2017-12_aprobare_ROF_DLEP.pdf",
+     "sha256": "344fafdffed7df332d0cb275f33dcf3b39ff74e23c56c7becd3b937ed1495bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2017",
+   "path": "local/neamt/roman/2017/27",
+   "short": "HCL Roman nr. 27/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2017 privind aprobarea aplicării UAT Municipiul Roman la cererea de proiecte lansată de PROGRAMUL OPERAȚIONAL CAPACITATE ADMINISTRATIVĂ 2014 – 2020 ( POCA) 2.1 CP 4/2017 Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/027_HCL_2017-02_MONIT_aplicare_POCA.pdf",
+     "sha256": "a01cdcb6543d50533e14d3eb90dcdb14576e3eaf1b5703887b98712d4b2f081b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-270-2017",
+   "path": "local/neamt/roman/2017/270",
+   "short": "HCL Roman nr. 270/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 270/2017 privind respingerea unei solicitări",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+     "sha256": "12120e1853ff43814491ec57e951b3fb00f7cbfb0207c746ee931e3a43a4d63d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-271-2017",
+   "path": "local/neamt/roman/2017/271",
+   "short": "HCL Roman nr. 271/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 271/2017 privind aprobarea achiziţionării unor servicii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/271_HCL_2017-12_achizitionare_servicii_SMUR.pdf",
+     "sha256": "3c28c18d0584a99233f3b8c0a14bd1752397ba9e196a25dbf4d3da804dcf3a49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-272-2017",
+   "path": "local/neamt/roman/2017/272",
+   "short": "HCL Roman nr. 272/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 272/2017 privind aprobarea achiziţionării unor servicii la Spitalul Municipal de Urgenţă Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/272_HCL_2017-12_achizitionare_servicii_SMUR.pdf",
+     "sha256": "818effba3759bb811fba40e2df82681be41a0d38d205160c4ed3ec2440681fe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-273-2017",
+   "path": "local/neamt/roman/2017/273",
+   "short": "HCL Roman nr. 273/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 273/2017 privind înfiinţarea comisiei speciale pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public al municipiilui Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/273_HCL_2017-12_infiintare_comisie_inventar.pdf",
+     "sha256": "f54dc7e042f8018066153e94280948214d9bfe25d0fa98435d69411df3abb6e4"
     }
    ]
   },
@@ -213,6 +2748,216 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-275-2017",
+   "path": "local/neamt/roman/2017/275",
+   "short": "HCL Roman nr. 275/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 275/2017 privind aprobarea inventarului parţial al terenurilor si cladirilor aparținând domeniului privat al municipiului Roman Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/275_HCL_2017-12_aprobare_domeniu_privat.pdf",
+     "sha256": "844dc097d7d5f9dbffe46dc97c336f8f013beaa459076840b6d6eaea9e494329"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-276-2017",
+   "path": "local/neamt/roman/2017/276",
+   "short": "HCL Roman nr. 276/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 276/2017 privind aprobarea concesionării și închirierii unor terenuri Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/276_HCL_2017-12_aprobare_concesiuni_terenuri.pdf",
+     "sha256": "06e622c9198feb0dcfd775dade0d3e13b050adde350184fb6136d3fff4f5dda5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-277-2017",
+   "path": "local/neamt/roman/2017/277",
+   "short": "HCL Roman nr. 277/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 277/2017 privind stabilirea salariilor de bază ale funcţiilor publice şi contractuale din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al primarului , serviciile publice din subordinea municipiului Roman şi aparatul de lucru al Consiliului Local pentru anul 2018 Anexa 1 Anexa 2 Anexa 3 Anexa 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/277_HCL_2017-12_stabilire_salarii_PMR.pdf",
+     "sha256": "83c10e1bce1a1bbc92d8f520706e6619535dada51cd64af7ff7c1b40903287f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-278-2017",
+   "path": "local/neamt/roman/2017/278",
+   "short": "HCL Roman nr. 278/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 278/2017 privind aprobarea Actului adiţional nr. 1 la Acordul colectiv de muncă nr. 19750/28.10.2016 al funcţionarilor publici din cadrul aparatului de specialitate al primarului şi serviciile publice de interes local fără personalitate juridică Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/278_HCL_2017-12_aprobare_%20AA_ACM_PMR.pdf",
+     "sha256": "e573c0a8fdc6fa15dcdbc1ce18e01867fd44209d210e8a0fd74e1fc6a07f3026"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-279-2017",
+   "path": "local/neamt/roman/2017/279",
+   "short": "HCL Roman nr. 279/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 279/2017 privind aprobarea Actului adiţional nr. 1 la Contractul Colectiv de muncă nr. 19749/28.10.2016 al personalului contractual din cadrul aparatului de specialitate al primarului, aparatului de lucru al consiliului local şi serviciile publice de interes local fără personalitate juridică Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/279_HCL_2017-12_aprobare_AA_la_CCM_PMR.pdf",
+     "sha256": "dfaf1f8770b9518b177da1b73a7f28bcbb39bacd3ed3f8a684db4423e65e7889"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2017",
+   "path": "local/neamt/roman/2017/28",
+   "short": "HCL Roman nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2017 privind constituirea Grupului Local pentru Energie Durabilă (GLE) Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/028_HCL_2017-02_MONIT_Constituire_GLE.pdf",
+     "sha256": "6d8d056e0767c48524ac2257238cca94ef9813e293a872aabccd073fa2430d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-280-2017",
+   "path": "local/neamt/roman/2017/280",
+   "short": "HCL Roman nr. 280/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 280/2017 privind alocarea unei sume din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/280_HCL_2017-12_alocarea_unei_sume_din_bugetul_local.pdf",
+     "sha256": "e4164da102a84fbd7f50a4b1e27268553a834d21d2349379834e5496333a1161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-281-2017",
+   "path": "local/neamt/roman/2017/281",
+   "short": "HCL Roman nr. 281/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 281/2017 privind aprobarea Actului adiţional nr. 1 la Contractul Colectiv de muncă nr. 818/28.10.2016 al personalului contractual din cadrul Direcţiei Administraţia Pieţelor, Bazar, Obor Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/281_HCL_2017-12_aprobare_AA_la_CCM_DAPBO.pdf",
+     "sha256": "ec65362d9ba635b52a6e4e2453c7816ea67914f456f91add9f4e68af0c4ad876"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-282-2017",
+   "path": "local/neamt/roman/2017/282",
+   "short": "HCL Roman nr. 282/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 282/2017 privind gestiunea „Serviciului de iluminat public în Municipiul Roman” Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/282_HCL_2017-12_gestiune_iluminat_public.pdf",
+     "sha256": "110e16f9eaaa672b9145e0b045abeb31214d7473508335f42a34108c74f302cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-283-2017",
+   "path": "local/neamt/roman/2017/283",
+   "short": "HCL Roman nr. 283/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 283/2017 privind gestiunea Serviciului Public „Reparatia si intretinerea străzilor, aleilor, trotuarelor, sistemului rutier” din Municipiul Roman Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/283_HCL_2017-12_delegare_rep_str.pdf",
+     "sha256": "23ff74df06454f121d5495b88b5a3d58b25ef30ef7094fa911ad00124e2a2cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-284-2017",
+   "path": "local/neamt/roman/2017/284",
+   "short": "HCL Roman nr. 284/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 284/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/284_HCL_2017-12_modificare_HCL_219_2015.pdf",
+     "sha256": "be12838d481b5bca156f00456b0ee430294d781f5fba0f6593cbdf4dcdf33b31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-285-2017",
+   "path": "local/neamt/roman/2017/285",
+   "short": "HCL Roman nr. 285/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 285/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/285_HCL_2017-12_modificare_HCL_264_2017.pdf",
+     "sha256": "bed0605432af1bb8bcc6920a521c527d631815be5ae6ba660592fee71f281406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-286-2017",
+   "path": "local/neamt/roman/2017/286",
+   "short": "HCL Roman nr. 286/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 286/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/286_HCL_2017-12_modificare_HCL_147_2012.pdf",
+     "sha256": "784fb39ca14d272f59d642e6e812758387cc1db0c9122030169ad317686c1867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-287-2017",
+   "path": "local/neamt/roman/2017/287",
+   "short": "HCL Roman nr. 287/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 287/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/287_HCL_2012-12_modificare_HCL_101_2012.pdf",
+     "sha256": "b8a8212cf341b1e0aedb3701c29c0cfb0f69a4a7dc6eacfb2a0b0b70c49b875e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-288-2017",
    "path": "local/neamt/roman/2017/288",
    "short": "HCL Roman nr. 288/2017",
@@ -228,6 +2973,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-289-2017",
+   "path": "local/neamt/roman/2017/289",
+   "short": "HCL Roman nr. 289/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 289/2017 privind rectificarea bugetului local consolidat , a listei de investiții finantate din bugetul de dezvoltare pe anul 2017 Anexa 1 Anexa 2 Anexa 3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/289_HCL_2017-12_rectificare_buget_local.pdf",
+     "sha256": "5aefe015b4616e5896f63c8e3e8eb068aba1e348b93f5834f8a8160ddea5a5ac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-29-2017",
    "path": "local/neamt/roman/2017/29",
    "short": "HCL Roman nr. 29/2017",
@@ -239,6 +2999,201 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/029_HCL_2017-02_DT_modif_177-2015_caini.pdf",
      "sha256": "9247362058577275be7efd3da6bb786750413f1c6852a92c55034661460d60c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-290-2017",
+   "path": "local/neamt/roman/2017/290",
+   "short": "HCL Roman nr. 290/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 290/2017 privind aprobarea vânzării unui teren Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/290_HCL_2017-12_aprobare_vanzare_teren.pdf",
+     "sha256": "cbfacff24efccd9c0a568b01f21da5bd88c42b51adba4942757675a012ac7846"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-3-2017",
+   "path": "local/neamt/roman/2017/3",
+   "short": "HCL Roman nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 3/2017 privind delegarea, cu caracter temporar, a atribuţiilor viceprimarului către un consilier local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/003_HCL_2017-01_BJ_Delegare_Viceprimar.pdf",
+     "sha256": "31d6e7ad632805f02e2caad22202fb18cbe2de872e34c95f6acd1b6e74c8ef42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-30-2017",
+   "path": "local/neamt/roman/2017/30",
+   "short": "HCL Roman nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 30/2017 privind punerea la dispoziție a două spații medicale în vederea funcționării centrelor de permanență",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/030_HCL_2017-02_DT_spatii_medicale.pdf",
+     "sha256": "c6d11ba9edd5915c58545de073e20cb2d97e1c775976e2313d9e073cdb582664"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2017",
+   "path": "local/neamt/roman/2017/31",
+   "short": "HCL Roman nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2017 privind aprobarea inventarului parţial al terenurilor proprietate privată a Municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/031_HCL_2017-02_EP_inventar_terenuri.pdf",
+     "sha256": "1c9df8abfababc7b283220844f7a522c0f93df9a7d477234ca00ef06925e4bd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2017",
+   "path": "local/neamt/roman/2017/32",
+   "short": "HCL Roman nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2017 privind aprobarea alipirii unor terenuri Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/032_HCL_2017-02_URB_Alipiri_Terenuri.pdf",
+     "sha256": "74f103b1b42197c75705029a0de1a9eccf882326e020186b3aa9724534819910"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-33-2017",
+   "path": "local/neamt/roman/2017/33",
+   "short": "HCL Roman nr. 33/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2017 privind aprobarea vânzării unor imobile Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/033_HCL_2017-02_URB_Vanzare.pdf",
+     "sha256": "274af6cd564a9039364a1d99e9c28e75d99c54b7bcb044b417df28b51265bb7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2017",
+   "path": "local/neamt/roman/2017/34",
+   "short": "HCL Roman nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2017 privind aprobarea concesionării şi închirierii unor terenuri Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/034_HCL_2017-02_URB_Concesiuni.pdf",
+     "sha256": "200be66577fc9e55f6ff87ab0bcf75734fe2f3d5a3bc3dd1c91354133b13aefa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-35-2017",
+   "path": "local/neamt/roman/2017/35",
+   "short": "HCL Roman nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2017 privind completarea inventarului terenurilor ce se pun la dispoziţia Comisiei de aplicare a Legii 10/2001 în vederea compensării Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/035_HCL_2017-02_URB_inventar_L10.pdf",
+     "sha256": "35d5eabe57df0b2fc868498039dc8d588f4e19a23d111549ffd2de003115b556"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2017",
+   "path": "local/neamt/roman/2017/36",
+   "short": "HCL Roman nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3091103f495d2fa3d2e7bd91bd3bad2402ed192f6c7bf9f5f802519decc7c3e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2017",
+   "path": "local/neamt/roman/2017/37",
+   "short": "HCL Roman nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/037_HCL_2017-02_BJ_chirii_ANL.pdf",
+     "sha256": "b0d01eb6c4f04cc97e8a01522b75e48038867712a4da2bc54dd3f75c18822d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2017",
+   "path": "local/neamt/roman/2017/38",
+   "short": "HCL Roman nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/038_HCL_2017-02_BJ_criteriii_ANL.pdf",
+     "sha256": "2b8939c2f8083b9f6da3ff0965abc1a81af54d6b9992d44a03d65185bd8b4927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-39-2017",
+   "path": "local/neamt/roman/2017/39",
+   "short": "HCL Roman nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 39/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c4ad8abb256c7668c81b9fad55bb528868fd8c6832323332e3b21e78da784394"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-4-2017",
+   "path": "local/neamt/roman/2017/4",
+   "short": "HCL Roman nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "120d31b43347129c572ce63c092525a5255fdad0f8feb95532d62fe111149afb"
     }
    ]
   },
@@ -273,6 +3228,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-42-2017",
+   "path": "local/neamt/roman/2017/42",
+   "short": "HCL Roman nr. 42/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2017 privind aprobarea efectuării unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/042_HCL_2017-02_EVCM_cheltuieli_8_martie_CARpensionari.pdf",
+     "sha256": "7a74f7c5e27fa6f1ae6960ebac69b79b30b25877e40d416b0037451915e1dd44"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-43-2017",
    "path": "local/neamt/roman/2017/43",
    "short": "HCL Roman nr. 43/2017",
@@ -288,6 +3258,366 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-44-2017",
+   "path": "local/neamt/roman/2017/44",
+   "short": "HCL Roman nr. 44/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ed79fcae878f1d8e5b27695af3d93a2da06f91fb8e484d0e64526ea9947df94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2017",
+   "path": "local/neamt/roman/2017/45",
+   "short": "HCL Roman nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2017 privind alegerea preşedintelui de şedinţă",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/045_HCL_2017-03_alegerea_presedintelui_de_sedinta.pdf",
+     "sha256": "8f57919733fd2af89ba7f601c07da5c7da3911eafbf5980afc6ef520a2acd20b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2017",
+   "path": "local/neamt/roman/2017/46",
+   "short": "HCL Roman nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2017 privind solicitarea înscrierii în programele guvernamentale de construire de locuințe și încheierea unor parteneriate în acest scop",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/046_HCL_2017-03_BJ_Protocol_Locuinte.pdf",
+     "sha256": "1048a99e3c6d73d17b0a718a2f995c64293dbe2ce16bbba79a48758a833e127f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2017",
+   "path": "local/neamt/roman/2017/47",
+   "short": "HCL Roman nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8936589d6936a6ebd3191b25febe94ac3e0d34905e1f675e1ad6a6c8af94bc7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-48-2017",
+   "path": "local/neamt/roman/2017/48",
+   "short": "HCL Roman nr. 48/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2017 privind aprobarea devizului general actualizat pentru obiectivul de investiție «Consolidarea, modernizarea, dezvoltarea și echiparea Liceului Teologic „Episcop Melchisedec” Roman» Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/048_HCL_2017-03_DT_DevGen_Melchisedec.pdf",
+     "sha256": "7a3978e500fb6185da42f06751d4e1e1ce967404543723cbc80b2ed74cddb5a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-49-2017",
+   "path": "local/neamt/roman/2017/49",
+   "short": "HCL Roman nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/049_HCL_2017-03_SEV_cheltuieli_buget_local.pdf",
+     "sha256": "bd24f91f842bf464d9a6d72ff39388658ac297dd5f011c43e336ae9209c11cff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2017",
+   "path": "local/neamt/roman/2017/5",
+   "short": "HCL Roman nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4cbdc2086f825899b74f81bd999f8da26748652c4c92d2dd39fd9eb5b4d9c99b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-50-2017",
+   "path": "local/neamt/roman/2017/50",
+   "short": "HCL Roman nr. 50/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 50/2017 privind mandatarea reprezentării Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/050_HCL_2017-03_SEV_Mandatare_Malta.pdf",
+     "sha256": "6fd648a5f6a7251ab6966e034dc8efb226b9de9043b56e280b4d69e175f8fa5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2017",
+   "path": "local/neamt/roman/2017/51",
+   "short": "HCL Roman nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2017 privind aprobarea participării UAT Municipiul Roman în parteneriat cu Fundația TERRA ”MILENIUL III” la proiectul “Creșterea capacității administrative a Municipiului Roman prin reproiectarea SMC și introducerea CAF”, în vederea accesării fondurilor aferente Programului Operațional Capacitate Administrativă–Cererea de proiecte CP4/2017 „Sprijinirea autorităților și instituțiilor publice locale, atâ",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/051_HCL_2017-03_UAT_Roman_CP4_Parteneri.pdf",
+     "sha256": "1392c2cc7bef24fbb01d516fc574092fb9ddf2c751cd919c4f3e6bbec9753f38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-53-2017",
+   "path": "local/neamt/roman/2017/53",
+   "short": "HCL Roman nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2017 privind aprobarea încheierii unui acord de parteneriat Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/053_HCL_2017-03_Acord_Arhiepiscopie.pdf",
+     "sha256": "71dbaba7178530fcfd8249fbc3028b6da710e7dabadc095217ca30cca3bd4a7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-55-2017",
+   "path": "local/neamt/roman/2017/55",
+   "short": "HCL Roman nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 55/2017 privind aprobarea Acordului de Parteneriat cu S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/055_HCL_2017-03_Acord_parteneriat_LOCATO.pdf",
+     "sha256": "a1a07dda214ce9ce50fe7df5fbcfb3cda100c7f031310cb0e6c12f82977c7626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2017",
+   "path": "local/neamt/roman/2017/56",
+   "short": "HCL Roman nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2017 privind aprobarea Acordului de Parteneriat cu Asociaţia Vânătorilor şi Pescarilor Sportivi Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/056_HCL_2017-03_Acord_parteneriat_AVPS.pdf",
+     "sha256": "2c2144610333d2abaaed8dbd206577fa09d197c5a08f49a1273ce29a7b55cc2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-57-2017",
+   "path": "local/neamt/roman/2017/57",
+   "short": "HCL Roman nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 57/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/057_HCL_2017-03_Servitute_DELGAZ.pdf",
+     "sha256": "4bf9d7399317c6e74838a86233b0b5a9bdf4d563aa9b18dc6976c360b4219496"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-58-2017",
+   "path": "local/neamt/roman/2017/58",
+   "short": "HCL Roman nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/058_HCL_2017-03_organigrama_DAPBO.pdf",
+     "sha256": "35e2b7e3b76236c7d96e5daebe8ab72a3704bf66cf3918f3db969b3e65439503"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-59-2017",
+   "path": "local/neamt/roman/2017/59",
+   "short": "HCL Roman nr. 59/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 59/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/059_HCL_2017-03_modificare_HCL_25_2004.pdf",
+     "sha256": "8574c58b81e1b97154f34338520cb84dfdad14e5b33daf743332e7eef4801ce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2017",
+   "path": "local/neamt/roman/2017/6",
+   "short": "HCL Roman nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2017 privind aprobarea Planului anual de acţiuni pentru repartizarea orelor de muncă către beneficiarii de ajutor social Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/006_HCL_2017-01_DAS_Plan_Actiuni.pdf",
+     "sha256": "831f636cf0e12441ea6f15066230a7b6cec8f582fbe66192e8a038b0caa88ea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2017",
+   "path": "local/neamt/roman/2017/60",
+   "short": "HCL Roman nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a43fe4b645e5a9f3c73726f7e5e719b1b5316d490cf15c11fcaafc380a7fc434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2017",
+   "path": "local/neamt/roman/2017/61",
+   "short": "HCL Roman nr. 61/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2017 privind aprobarea inventarului parţial al terenurilor si cladirilor proprietate privată a Municipiului Roman Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/061_HCL_2017-03_aprobare_domeniu_privat.pdf",
+     "sha256": "753b35fd49af907ee6a8916239be3f8d3a0882178c2b5838bf4dfca15ddb34fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-62-2017",
+   "path": "local/neamt/roman/2017/62",
+   "short": "HCL Roman nr. 62/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2017 privind utilizarea excedentului anual al bugetului local pe anul 2016 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/062_HCL_2017-03_Aprobare_utilizare_excedent.pdf",
+     "sha256": "536d94c7e115ab9e37e7d17847ba9e0ba495e25367042aad07f46e52c9e623ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-63-2017",
+   "path": "local/neamt/roman/2017/63",
+   "short": "HCL Roman nr. 63/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2017 privind aprobarea Bugetului consolidat al Municipiului Roman pe anul 2017 şi a listelor de investiţii finanţate din bugetul local, bugetul instituţiilor finanţate integral sau parţial din venituri proprii şi subvenţii Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5 Anexa 6 Anexa 7 Anexa 8",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/063_HCL_2017-03_modificare_buget_local.pdf",
+     "sha256": "7173f6e8b33305444397aa94dd1482807834ec52ace1cdaa9d9a62eee4510511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2017",
+   "path": "local/neamt/roman/2017/64",
+   "short": "HCL Roman nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/064_HCL_2017-03_cheltuieli_buget_local.pdf",
+     "sha256": "162a80bf18e833712074bd07e0178c4c0cc1926e7b02e242da2508923780a60a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-65-2017",
+   "path": "local/neamt/roman/2017/65",
+   "short": "HCL Roman nr. 65/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 65/2017 privind aprobarea încheierii unui acord de parteneriat cu ASOCIAŢIA CLUBURILOR ALCOOLICILOR ÎN RECUPERARE “Don Orione prin punctul de lucru - CENTRUL REZIDENŢIAL DE RECUPERARE ÎN ALCOOLISM” Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/065_HCL_2017-03_Parteneriat_Alcoolocii_in_recuperare.pdf",
+     "sha256": "c8201725331df86170f8760bc4938325d8a3c324e65309e977c1d6b2025de47b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-66-2017",
+   "path": "local/neamt/roman/2017/66",
+   "short": "HCL Roman nr. 66/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 66/2017 privind aprobarea concesionării unor terenuri Anexa ST OP 1 ST OP 2 ST OP 3 ST OP 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/066_HCL_2017-03_aprobare_concesiuni_teren.pdf",
+     "sha256": "fb80ac167e5184d981b5629e2ffb3922ca6b0743a7e466c0a7f4fec298f784f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2017",
+   "path": "local/neamt/roman/2017/67",
+   "short": "HCL Roman nr. 67/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2017 privind aprobarea unei documentaţii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/067_HCL_2017-03_aprobare_PUD.pdf",
+     "sha256": "fb43e7a66b8ee2cc0d635830c4d31b1024eeedfd686f1e6ee9ad91beb8619f1f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-68-2017",
    "path": "local/neamt/roman/2017/68",
    "short": "HCL Roman nr. 68/2017",
@@ -299,6 +3629,21 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/068_HCL_2017-03_modificare_HCL_111_2010_Regulament_Comert.pdf",
      "sha256": "a5788caa0c25bb6ae95122dc5ceb8509d06aa2da960f8b734769ed91e82070c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-69-2017",
+   "path": "local/neamt/roman/2017/69",
+   "short": "HCL Roman nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2017 privind înfiinţarea Serviciului Public „Grădina Zoologică Roman” şi reglementarea activităţii acestui serviciu Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/069_HCL_2017-03_Infiintare_Zoo.pdf",
+     "sha256": "38bb37057e2739dfa8c29b733fe2d0318ccc04b0ddeb4606039cfc5b72b66dd0"
     }
    ]
   },
@@ -333,6 +3678,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-71-2017",
+   "path": "local/neamt/roman/2017/71",
+   "short": "HCL Roman nr. 71/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2017 privind aprobarea vânzării unui teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/071_HCL_2017-03_vanzare_teren.pdf",
+     "sha256": "705816a6c9027dc6aa576dcc0eb59c2140c73889c8bb7c35c93b1a71c16f4632"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-72-2017",
+   "path": "local/neamt/roman/2017/72",
+   "short": "HCL Roman nr. 72/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 72/2017 privind aprobarea Programului pentru acordarea finanţărilor nerambursabile, de la bugetul local al Municipiului Roman pe anul 2017 pentru activităţi nonprofit de interes local, în baza legii nr. 350/2005 Anexa 1 Anexa 2 Anexa 2A Anexa 3 Anexa 3A Anexa 4 Anexa 4A-4H Anexa 5 Anexa 5A-5I Anexa 6_1 Anexa 6_2 Anexa 6_3",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/072_HCL_2017-03_Ghid_finantare_activitati_nonprofit.pdf",
+     "sha256": "e310384901cb4c6748616159a9a29c0c232872d8d41aa7faa723dbff8c6b6160"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-73-2017",
    "path": "local/neamt/roman/2017/73",
    "short": "HCL Roman nr. 73/2017",
@@ -344,6 +3719,411 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/073_HCL_2017-03_modificare_tarife_salubritate.pdf",
      "sha256": "0dec7249861e4fc90d738a3a980e2a2f90c11ad741ec49f87ba66545fd49c5cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2017",
+   "path": "local/neamt/roman/2017/74",
+   "short": "HCL Roman nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2017 privind modificarea şi completarea actului constitutiv şi statutului Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ” Anexa 1 Anexa 2 Anexa 3 Anexa 4",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/074_HCL_2017-03_modificare_AQUA_NEAMT.pdf",
+     "sha256": "493409994a62aaf685128cb5ba6bee5a77a8df0e0c33c1660187c585a636de3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-75-2017",
+   "path": "local/neamt/roman/2017/75",
+   "short": "HCL Roman nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/075_HCL_2017-03_modificare_HCL_219_2015.pdf",
+     "sha256": "36d753e4b8fd46755088e905470d97f362c79d164227d3689f9dcba4e664fa35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-76-2017",
+   "path": "local/neamt/roman/2017/76",
+   "short": "HCL Roman nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 76/2017 privind aprobarea organizării FESTIVALULUI TRADIȚIONAL AL MEȘTEȘUGARILOR – TÂRGUL DE PAŞTE și încheierea unui Acord de colaborare dintre Municipiul Roman şi Club Sportiv Municipal Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/076_HCL_2017-03_organizare_Targul_de_Paste.pdf",
+     "sha256": "db747379b8ec220e3857f1cc07f54023f3d52637ecc7acaec84abff6aa059844"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-77-2017",
+   "path": "local/neamt/roman/2017/77",
+   "short": "HCL Roman nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 77/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6afc0d16e1307aa11c0e03acbe53ea17c81b771441066b022bb398152f0a7a50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-78-2017",
+   "path": "local/neamt/roman/2017/78",
+   "short": "HCL Roman nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 78/2017 privind aprobarea atribuirii în folosință gratuită a unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/078_HCL_2017-03_atribuire_in_folosinta_terenuri.pdf",
+     "sha256": "661db2770c26ae938862798bbc607973f4210b535820da6ed9f3b3a186f7442e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-79-2017",
+   "path": "local/neamt/roman/2017/79",
+   "short": "HCL Roman nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 79/2017 privind aprobarea Bugetului de Venituri şi Cheltuieli pe anul 2017 al S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/079_HCL_2017-03_aprobare_buget_Municipal_Locato_Serv.pdf",
+     "sha256": "e95acce0d2958186a9d28e4619a26653e2818036665ce58622ba2495fed6e02c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2017",
+   "path": "local/neamt/roman/2017/8",
+   "short": "HCL Roman nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2017 privind înfiinţarea serviciilor sociale acordate şi administrate de către Direcţia de Asistenţă Socială a Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/008_HCL_2017-01_DAS_Infiintare_Servicii.pdf",
+     "sha256": "020587412bb493bbd0a3a114314d1e3da6f1307aad38bb9d06d0818d3cf038cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2017",
+   "path": "local/neamt/roman/2017/80",
+   "short": "HCL Roman nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d43d93dfc387c95ca2bef24f2343c9ac0d02edc7aac5c2abe710cb2a5e7231f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-81-2017",
+   "path": "local/neamt/roman/2017/81",
+   "short": "HCL Roman nr. 81/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 81/2017 privind aprobarea Planului de Ordine şi Siguranţă Publică pentru anul 2017 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/081_HCL_2017-04_aprobare_Plan_de_ordine_publica.pdf",
+     "sha256": "cda9661b012d51a2d2cd008289d5129738715040a93e660bf51fe4afe9d08b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2017",
+   "path": "local/neamt/roman/2017/82",
+   "short": "HCL Roman nr. 82/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2017 privind aprobarea unei documentaţii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/082_HCL_2017-04_aprobare_PUD.pdf",
+     "sha256": "203be5dc730e385c54bdd844b3f9749445e2edbe53d4b4cb909026fa53b0b073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2017",
+   "path": "local/neamt/roman/2017/83",
+   "short": "HCL Roman nr. 83/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2017 privind aprobarea atribuirii în folosință gratuită a unui teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/083_HCL_2017-04_atribuire_teren_Club_Atletic.pdf",
+     "sha256": "666d1d0d50ecd44430994bb5c06d583d514f2dc18846e97459cb69a611ed13e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2017",
+   "path": "local/neamt/roman/2017/84",
+   "short": "HCL Roman nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2017 privind aprobarea închirierii unui teren Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/084_HCL_2017-04_aprobarea_inchirierii_unui_teren.pdf",
+     "sha256": "e198ff919cd5e6907de8d7b88be7fe648a638cdbf9535b2b775d4657e3ad138b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-85-2017",
+   "path": "local/neamt/roman/2017/85",
+   "short": "HCL Roman nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 85/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8a25742a359368fb04ea7f27aead3349b65926176ea32ae0972e9a88c947d604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2017",
+   "path": "local/neamt/roman/2017/86",
+   "short": "HCL Roman nr. 86/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d2cf0b2866bd5612b69c9789ffe4a7c5686115df2a8982a44d50658fb482ab9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2017",
+   "path": "local/neamt/roman/2017/87",
+   "short": "HCL Roman nr. 87/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2017 privind modificarea bugetului local pe anul 2017 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/087_HCL_2017-04_modificare_buget_local.pdf",
+     "sha256": "62eeb2eac76de66d073b084adf659c255ea5ab2c01c653b4935bc7a480510d36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2017",
+   "path": "local/neamt/roman/2017/88",
+   "short": "HCL Roman nr. 88/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2017 privind aprobarea închirieii unor căsuțe cu destinația de spaţiu comercial din incinta Complexului Sportiv şi de Agrement „MOLDOVA” Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/088_HCL_2017-04_aprobare_inchiriere_casute_in_Strand.pdf",
+     "sha256": "a01dfc8f3741b698d373cf0fe6943eddb971aea7e3ec025bbf127f139241f5ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-9-2017",
+   "path": "local/neamt/roman/2017/9",
+   "short": "HCL Roman nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2017 privind aprobarea, pentru anul 2017, a nivelului costului mediu lunar de întreţinere şi a alocaţiei zilnice de hrană pentru persoanele vârstnice cazate în Centrul Rezidenţial pentru persoane vârstnice - Casa Bunicilor din Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/009_HCL_2017-01_DAS_Cost_Lunar_Casa_Bunicilor.pdf",
+     "sha256": "13f3b75ce8a85273656ef8d60f89f2cc577452915f8907527f7e88494fe38166"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-90-2017",
+   "path": "local/neamt/roman/2017/90",
+   "short": "HCL Roman nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 90/2017 privind aprobarea efectuării unei cheltuieli din bugetul local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/090_HCL_2017-04_aprobarea_unei_cheltuieli_buget_local_(Lucky_Dance).pdf",
+     "sha256": "815a894ae6c25ce84b42d516fe0adea3d69fca2b35f492bfa37fdece4a15cc28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-91-2017",
+   "path": "local/neamt/roman/2017/91",
+   "short": "HCL Roman nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 91/2017 privind constatarea încetării de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/091_HCL_2017-04_Incetare_mandat_consilier_local_L_I_Pascariu.pdf",
+     "sha256": "8d9a90e86bb207b02a27ff7922432b8fbc736bc1bd15a7f44bd8a5c1e69044d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-92-2017",
+   "path": "local/neamt/roman/2017/92",
+   "short": "HCL Roman nr. 92/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2017 privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/092_HCL_2017-04_validare_mandat_consilier_Curcudel.pdf",
+     "sha256": "a85389c34ac89055acd1a91ccaca835e16c2ce27eb9ad7fa099b0b4b4b49e870"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-93-2017",
+   "path": "local/neamt/roman/2017/93",
+   "short": "HCL Roman nr. 93/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 93/2017 privind modificarea componenţei unor comisii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/093_HCL_2017-04_modificarea_unor_comisii.pdf",
+     "sha256": "b9fe122d83fc50d969ea111d5e70d4d6ab709baba20edcfd64c3c365fc313e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-94-2017",
+   "path": "local/neamt/roman/2017/94",
+   "short": "HCL Roman nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 94/2017 privind aprobarea rezultatelor inventarierii patrimoniului public și privat al Municipiului Roman pe anul 2016 Anexa 1 Anexa 2",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/094_HCL_2017-04_aprobare_inventariere_domeniu_public_si_privat.pdf",
+     "sha256": "08f46ba9e4283338a57e894d5d82b93876b0fe4266aff02f1db7dd35da9d3a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2017",
+   "path": "local/neamt/roman/2017/95",
+   "short": "HCL Roman nr. 95/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2017 privind aprobarea efectuării unor cheltuieli din bugetul local Anexa 1 Anexa 2 Anexa 3 Anexa 4 Anexa 5 Anexa 6 Anexa 7",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/095_HCL_2017-04_aprobarea_efectuarii_unor_cheltuieli_din_bugetul_local.pdf",
+     "sha256": "ced315e9e692102c4b19818757ee9a901bb6e334178975e00d0f2bd483147927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2017",
+   "path": "local/neamt/roman/2017/96",
+   "short": "HCL Roman nr. 96/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/096_HCL_2017-04_instituirea_drept_uz_si_servitute_SC_DELGAZ_GRID.pdf",
+     "sha256": "155bbf9d6f97828194f96126826fef26e229c5eb02fe60e76d9fbacc7a1f68d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-97-2017",
+   "path": "local/neamt/roman/2017/97",
+   "short": "HCL Roman nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 97/2017 privind aprobarea inventarului parţial al terenurilor proprietate privată a municipiului Roman Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/097_HCL_2017-04_aprobare_domeniu_privat.pdf",
+     "sha256": "01914851bf85db8b1da060a058709fe74d0f08f1e010d20ff5c13de48169e7bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2017",
+   "path": "local/neamt/roman/2017/98",
+   "short": "HCL Roman nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2017 privind aprobarea contului anual de execuție bugetară pe anul 2016 Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/098_HCL_2017-04_aprobare_cont_de_executie.pdf",
+     "sha256": "2ef94f5d813ce86f058b540ab1de57746fe47c3cedbcd41f4bbcb38ad5eb07c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2017",
+   "path": "local/neamt/roman/2017/99",
+   "short": "HCL Roman nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2017 privind încheierea unui acord de asociere Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2017/",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2017/099_HCL_2017-04_aprobare_acord_asociere_CCI_Neamt.pdf",
+     "sha256": "7c13f6d576f2d4a905372cadf1bcb5841647e5fa32f5533826d2fda5ac32136b"
     }
    ]
   }

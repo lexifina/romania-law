@@ -4507,6 +4507,25 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-727-1999",
+"path": "ordin/munca/1999/727",
+"kind": "ordin",
+"year": "1999",
+"number": "727",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 727/1999",
+"short": "Ordin munca nr. 727/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-05-19",
+"latest": "2000-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22405",
+"issuer": "munca",
+"joint": []
+},
+{
 "slug": "ordin-munca-747-1999",
 "path": "ordin/munca/1999/747",
 "kind": "ordin",

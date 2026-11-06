@@ -3229,6 +3229,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-11-2011",
+"path": "ordin/anre/2011/11",
+"kind": "ordin",
+"year": "2011",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 11/2011",
+"short": "Ordin anre nr. 11/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-04-01",
+"latest": "2011-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/126736",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-12-2011",
 "path": "ordin/anre/2011/12",
 "kind": "ordin",
