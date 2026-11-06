@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2009",
+"acts": [
+{
+"slug": "hcj-prahova-63-2009",
+"path": "local/judet/prahova/2009/63",
+"kind": "local",
+"year": "2009",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 63/2009 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2009",
+"short": "HCJ Prahova nr. 63/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-05-15",
+"latest": "2009-05-15",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2009/?dpage=11",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

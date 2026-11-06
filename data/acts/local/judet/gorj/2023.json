@@ -1329,6 +1329,28 @@
 }
 },
 {
+"slug": "hcj-gorj-126-2023",
+"path": "local/judet/gorj/2023/126",
+"kind": "local",
+"year": "2023",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 126/2023",
+"short": "HCJ Gorj nr. 126/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-gorj-128-2023",
 "path": "local/judet/gorj/2023/128",
 "kind": "local",

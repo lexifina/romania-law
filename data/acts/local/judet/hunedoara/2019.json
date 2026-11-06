@@ -2667,6 +2667,50 @@
 }
 },
 {
+"slug": "hcj-hunedoara-125-2019",
+"path": "local/judet/hunedoara/2019/125",
+"kind": "local",
+"year": "2019",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 125/2019 pentru obiectivul de investiții:”Asigurare rezervă de apă – Spitalul Județean de Urgență Deva”",
+"short": "HCJ Hunedoara nr. 125/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-31",
+"latest": "2019-05-31",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-hunedoara-126-2019",
+"path": "local/judet/hunedoara/2019/126",
+"kind": "local",
+"year": "2019",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 126/2019 pentru obiectivul de investiții:”R.K",
+"short": "HCJ Hunedoara nr. 126/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-31",
+"latest": "2019-05-31",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-hunedoara-127-2019",
 "path": "local/judet/hunedoara/2019/127",
 "kind": "local",

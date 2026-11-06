@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/judet/maramures/2020",
+"acts": [
+{
+"slug": "hcj-maramures-5-2020",
+"path": "local/judet/maramures/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 5/2020",
+"short": "HCJ Maramureș nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://www.cjmaramures.ro/component/k2/11356",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-33-2020",
+"path": "local/judet/maramures/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 33/2020",
+"short": "HCJ Maramureș nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://www.cjmaramures.ro/component/k2/11435",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-54-2020",
+"path": "local/judet/maramures/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 54/2020",
+"short": "HCJ Maramureș nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://www.cjmaramures.ro/component/k2/11456",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-72-2020",
+"path": "local/judet/maramures/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 72/2020",
+"short": "HCJ Maramureș nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-02",
+"latest": "2020-04-02",
+"portal": "https://www.cjmaramures.ro/component/k2/11551",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-90-2020",
+"path": "local/judet/maramures/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 90/2020",
+"short": "HCJ Maramureș nr. 90/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-12",
+"latest": "2020-05-12",
+"portal": "https://www.cjmaramures.ro/component/k2/11650",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-98-2020",
+"path": "local/judet/maramures/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 98/2020",
+"short": "HCJ Maramureș nr. 98/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://www.cjmaramures.ro/component/k2/11698",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-114-2020",
+"path": "local/judet/maramures/2020/114",
+"kind": "local",
+"year": "2020",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 114/2020",
+"short": "HCJ Maramureș nr. 114/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://www.cjmaramures.ro/component/k2/11791",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-202-2020",
+"path": "local/judet/maramures/2020/202",
+"kind": "local",
+"year": "2020",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 202/2020",
+"short": "HCJ Maramureș nr. 202/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://www.cjmaramures.ro/component/k2/12106",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2018",
+ "acts": [
+  {
+   "slug": "hcj-maramures-9-2018",
+   "path": "local/judet/maramures/2018/9",
+   "short": "HCJ Maramureș nr. 9/2018",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 9/2018",
+   "url": "https://www.cjmaramures.ro/component/k2/9089",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/2740_6c6d9b2ab077fd610bfbd65a21410c75",
+     "sha256": "87353ae7d342c64ed399a147e659675c2c7eeb8bd4dfe02e810f34c28f14ed7f"
+    }
+   ]
+  }
+ ]
+}

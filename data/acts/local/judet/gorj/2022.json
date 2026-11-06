@@ -1858,6 +1858,28 @@
 }
 },
 {
+"slug": "hcj-gorj-200-2022",
+"path": "local/judet/gorj/2022/200",
+"kind": "local",
+"year": "2022",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 200/2022 privind completarea Hotărârii Consiliului Județean nr.12 din 31.01.2022 privind aprobarea Agendei Culturale a Județului Gorj pe anul 2022",
+"short": "HCJ Gorj nr. 200/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-14",
+"latest": "2022-09-14",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-gorj-201-2022",
 "path": "local/judet/gorj/2022/201",
 "kind": "local",

@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcj-gorj-142-2025",
+   "path": "local/judet/gorj/2025/142",
+   "short": "HCJ Gorj nr. 142/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 142/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.04.2025%20-%20Adoptate/142.%20HCJ%20stabilire%20salarii%20de%20baz%C4%83%20Muzeul%20Jud%20apr%202025.pdf",
+     "sha256": "307c097861d97ec7a9df7b1efe9089a7af82525379f9de571e87a1d520bb6757"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-143-2025",
    "path": "local/judet/gorj/2025/143",
    "short": "HCJ Gorj nr. 143/2025",
@@ -329,6 +344,21 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.05.2025%20-%20Adoptate/147.%20HCJ%20valid.rezult.concurs.sef%20sectiiSJU%20mai2025.pdf",
      "sha256": "6b65ad56a83778510b94b59190677942a11cde4c60786a8ae4c4b1a3e1bb7b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-148-2025",
+   "path": "local/judet/gorj/2025/148",
+   "short": "HCJ Gorj nr. 148/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 148/2025 privind modificarea Hotărârii Consiliului Județean Gorj nr. 106/04.04.2025 pentru constituirea comisiilor de concurs/ examinare și a comisiilor de soluționare a contestațiilor la concursurile/examenele de ocupare a unor funcții de conducere vacante de șef de secție din cadrul Spitalului Județean de Urgență Târgu Jiu",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/19.05.2025%20-%20Adoptate/148.%20HCJ%20desem.reprezCol.medicilor%20comis%20Dermato%20sef%20sec%C8%9Bie%20SJU%20Tg%20jiu%20mai2025.pdf",
+     "sha256": "98e29717e1097130c7ad21bdd52bad2b8e9877e07d06f7bf80613940f5977e13"
     }
    ]
   },
@@ -989,6 +1019,21 @@
      "units": 1,
      "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/18.08.2025%20-%20Adoptate/201.%20HCJ%20aprobare%20sum%C4%83%20forfetar%C4%83%20transport%20public%20august%202025.pdf",
      "sha256": "c29582e3bbb921e2b0c70c6d4adf16a662b0612827e220889a729ad6fea3bc02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-gorj-203-2025",
+   "path": "local/judet/gorj/2025/203",
+   "short": "HCJ Gorj nr. 203/2025",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 203/2025",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/28.08.2025%20-%20Adoptate/203.%20HCJ%20modif.%20component%C4%83%20nominal%C4%83%20a%20Comisiei%20pentru%20Protec%C8%9Bia%20C.pdf",
+     "sha256": "c281dde402c970416a8dbd8fca0640ce67111ccbde631eba9763b392214f5e1b"
     }
    ]
   },

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/harghita/2022",
+ "acts": [
+  {
+   "slug": "hcj-harghita-7-2022",
+   "path": "local/judet/harghita/2022/7",
+   "short": "HCJ Harghita nr. 7/2022",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 7/2022 privind repartizarea pe unităţi administrativ-teritoriale a sumelor orientative a 20% din sumele defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale şi a celor 20% din sumele aferente cotei de 14% din impozitul pe venit pentru echilibrarea bugetelor locale, pe anii 2023 – 2025; Hot 007-2022",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/106/",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2022/02/Hot-007-2022.pdf",
+     "sha256": "3b7904290772e0239c64751e44695bc15ec4ba67835ce48d932059cd004114c7"
+    }
+   ]
+  }
+ ]
+}

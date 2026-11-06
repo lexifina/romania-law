@@ -3,6 +3,981 @@
  "shard": "local/judet/harghita/2024",
  "acts": [
   {
+   "slug": "hcj-harghita-16-2024",
+   "path": "local/judet/harghita/2024/16",
+   "short": "HCJ Harghita nr. 16/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 16/2024 pentru aprobarea „Programului special de finanțare nerambursabilă a porturilor populare și a costumelor tradiționale” pe anul 2024 în județul Harghita; Hot 016 – 2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/55/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/01/Hot-016-2024.pdf",
+     "sha256": "b9ce8de10b6f605d393133739bba25431fcc67b853da70617750feef86174dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-255-2024",
+   "path": "local/judet/harghita/2024/255",
+   "short": "HCJ Harghita nr. 255/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 255/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 384/2022, privind aprobarea Documentația de Avize a Lucrărilor de Intervenții aferente obiectivului de investiții: „Reabilitare acces pietonal și auto Palatul administrativ al Consiliului Județean Harghita (DALI)”, cu modificările și completările ulterioare; Hotărârea nr. 255/28.06.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/43/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/07/Hot-255-2024.pdf",
+     "sha256": "f10404eaa917be7e773a651854481928c8e2cc7e771ed5434e2a5cbcbddd601f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-283-2024",
+   "path": "local/judet/harghita/2024/283",
+   "short": "HCJ Harghita nr. 283/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 283/2024 privind transmiterea în folosinţa gratuită a autoturismului HR 11 FND, aflat în proprietatea privată a Judeţului Harghita şi în administrarea Consiliului Judeţean Harghita, pentru Asociația de Dezvoltare Intercomunitară „S.I.M.D” Harghita pentru o perioadă de 1 an; Hotărârea nr. 283/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/42/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-283-2024.pdf",
+     "sha256": "aaa23b464e57ca815b8e917c4375cada257988c29a1666fd0c59a49236a6825a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-284-2024",
+   "path": "local/judet/harghita/2024/284",
+   "short": "HCJ Harghita nr. 284/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 284/2024 privind aprobarea cotizaţiei Consiliului Judeţean Harghita achitabil către Adunarea Regiunilor Europene pe anul 2024; Hotărârea nr. 284/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/42/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-284-2024.pdf",
+     "sha256": "64da88674e0d6880d0d2ed79cf7bddcb75c348a4e9911a04244abc7bc585fe88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-285-2024",
+   "path": "local/judet/harghita/2024/285",
+   "short": "HCJ Harghita nr. 285/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 285/2024 privind aprobarea cotizaţiei Consiliului Judeţean Harghita achitabil către Asociația Europeană pentru Democrație Locală (ALDA) pe anul 2023; Hotărârea nr. 285/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/42/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-285-2024.pdf",
+     "sha256": "272e54ea0f6e0e082f5532fde1de84cf365bea1b19a2a541170ceae2289148ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-286-2024",
+   "path": "local/judet/harghita/2024/286",
+   "short": "HCJ Harghita nr. 286/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 286/2024 privind modificarea Hotărârii",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/42/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-286-2024.pdf",
+     "sha256": "c4a7d40a651745612f422bdbab0ced73492b1638f25f05f52585c66e7e0cedd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-287-2024",
+   "path": "local/judet/harghita/2024/287",
+   "short": "HCJ Harghita nr. 287/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 287/2024 privind modificarea Hotărârii Consiliului Judeţean Harghita nr 3/2005 privind aprobarea înfiinţării Serviciului Public Comunitar de Evidenţă a Persoanelor al Judeţului Harghita; Hotărârea nr. 287/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-287-2024.pdf",
+     "sha256": "d8071b1323b833a0acd329396a9e6d6c750479998a9b88a830023490e6567b92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-288-2024",
+   "path": "local/judet/harghita/2024/288",
+   "short": "HCJ Harghita nr. 288/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 288/2024 privind aprobarea Strategiei de Sport a Județului Harghita pentru perioada 2024-2038; Hotărârea nr. 288/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-288-2024.pdf",
+     "sha256": "5b6c38f23431ce608bd465810cf60ce45532df370362bb24988a44d54900ecdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-289-2024",
+   "path": "local/judet/harghita/2024/289",
+   "short": "HCJ Harghita nr. 289/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 289/2024 privind aprobarea Listei nominale cu persoanele care sunt propuse de a beneficia de stimulent financiar în luna iulie 2024 din cadrul Spitalului Județean de Urgență Miercurea Ciuc; Hotărârea nr. 289/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-289-2024.pdf",
+     "sha256": "c4a7d40a651745612f422bdbab0ced73492b1638f25f05f52585c66e7e0cedd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-290-2024",
+   "path": "local/judet/harghita/2024/290",
+   "short": "HCJ Harghita nr. 290/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 290/2024 privind aprobarea completării preambulului Hotărârii Consiliului Județean Harghita nr. 233/2024 privind aprobarea modelului Protocol de finanțare între",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-290-2024.pdf",
+     "sha256": "d007bf698919d6ffb5dfda5c9ee501bcd56a0a76bcf3baff509602b4850125fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-291-2024",
+   "path": "local/judet/harghita/2024/291",
+   "short": "HCJ Harghita nr. 291/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 291/2024 privind modificarea Hotărârii",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-291-2024.pdf",
+     "sha256": "9b6988f914e55e0d3747f6b09387d3deffb4de6d2fb900564d0adc909f495cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-292-2024",
+   "path": "local/judet/harghita/2024/292",
+   "short": "HCJ Harghita nr. 292/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 292/2024 privind aprobarea includerii în domeniul public al Județului Harghita a unor construcții situate în orașul Cristuru Secuiesc și transmiterea acestora în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Harghita; Hotărârea nr. 292/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-292-2024.pdf",
+     "sha256": "d76e48f7a87a13c1dfc18a7fede5c65de2499757265db266871d6e1b398bec1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-293-2024",
+   "path": "local/judet/harghita/2024/293",
+   "short": "HCJ Harghita nr. 293/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 293/2024 privind aprobarea participării Agenției de Dezvoltare Județeană Harghita, în calitate de coordonator de proiect, la proiectul „CAPambition2024: Information measures for a sustainable future in agriculture with focus on youth and food safety”, denumirea prescurtată a proiectului: CAPambition2024-RO, apelul de proiect: IMCAP-2024-INFOME, tema proiectului: IMCAP-2024-INFOMEal, număr de referință: 101",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-293-2024.pdf",
+     "sha256": "a96159bdf0b2d564fe38cab8254083077716ea03edffbfa26bff3879ec28a2fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-294-2024",
+   "path": "local/judet/harghita/2024/294",
+   "short": "HCJ Harghita nr. 294/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 294/2024 privind modificarea Hotărârii nr. 303/2022 privind aprobarea „Programului de transport public județean de persoane prin curse regulate, 2023–2033”; Hotărârea nr. 294/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-294-2024.pdf",
+     "sha256": "90bf2a48e1a934fc6432618a4344aba965433efb0ae7e5d79d05e02c0bcf73c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-295-2024",
+   "path": "local/judet/harghita/2024/295",
+   "short": "HCJ Harghita nr. 295/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 295/2024 privind repartizarea Comunei Tomești a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit pe anul 2024; Hotărârea nr. 295/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-295-2024.pdf",
+     "sha256": "dc8d56ed4131cf64846aadee71c465e80300dd22e05c8dfcbd777cb0fe8643b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-296-2024",
+   "path": "local/judet/harghita/2024/296",
+   "short": "HCJ Harghita nr. 296/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 296/2024 privind repartizarea Comunei Ciucsângeorgiu a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 296/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-296-2024.pdf",
+     "sha256": "ece9834fe19b182296d80f5ddde53b86f99fcab2c22e79e39fa1f06254ddfdba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-297-2024",
+   "path": "local/judet/harghita/2024/297",
+   "short": "HCJ Harghita nr. 297/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 297/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 267/2024 privind aprobarea asocierii U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-297-2024.pdf",
+     "sha256": "5e2f8d48aa26153ff59bb72f10c39619ca7578e72772991a2f85a6d28bfcd1e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-298-2024",
+   "path": "local/judet/harghita/2024/298",
+   "short": "HCJ Harghita nr. 298/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 298/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 204/2017 privind aprobarea nivelului salariilor de bază la gradaţia zero corespunzătoare funcției, gradului/treptei profesionale pentru funcțiile publice și funcțiile de natură contractuală utilizate în cadrul aparatului de specialitate al Consiliului Județean Harghita și în cadrul serviciilor publice din subordinea acestuia, cu modif",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-298-2024.pdf",
+     "sha256": "e37ac2791da7ab717125a4e701939e5b07ddfa0721c7d832bbfe9d2a483648a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-299-2024",
+   "path": "local/judet/harghita/2024/299",
+   "short": "HCJ Harghita nr. 299/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 299/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-299-2024.pdf",
+     "sha256": "1f309f1f65065269f78cc211093f8b8c03a003e40285ff52f74bc20be56f75d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-300-2024",
+   "path": "local/judet/harghita/2024/300",
+   "short": "HCJ Harghita nr. 300/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 300/2024 privind aprobarea modului de utilizare a fondului Județului Harghita la Operatorul regional SC Harvíz SA, rezultat din redevență, destinat pentru investiții în domeniul apei potabile și canalizare din localitatea Băile Homorod, orașul Vlăhița; Hotărârea nr. 300/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-300-2024.pdf",
+     "sha256": "50cb6d2ccd1cdeb6d49be8b338b002dd95934726eefd99bf04a495b2831591b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-302-2024",
+   "path": "local/judet/harghita/2024/302",
+   "short": "HCJ Harghita nr. 302/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 302/2024 privind rectificarea bugetului de venituri și cheltuieli al județului Harghita și utilizarea fondului de rezervă bugetară la dispoziția Consiliului Județean Harghita; Hotărârea nr. 302/29.07.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-302-2024.pdf",
+     "sha256": "e3d9f83b8b8cfcf62abcb967019a996b142a9785af4785563f480fda299a0259"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-303-2024",
+   "path": "local/judet/harghita/2024/303",
+   "short": "HCJ Harghita nr. 303/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 303/2024 privind aprobarea modificării Hotărârii Consiliului Județean Harghita nr. 304/2021 privind aprobarea transmiterii imobilului Locuință de serviciu – Garsonieră, situat în Municipiul Miercurea Ciuc, str",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-303-2024.pdf",
+     "sha256": "1e7ac2e628dfaf3ba649cd89049652afa6199472203a5571c143f9a4305f520a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-304-2024",
+   "path": "local/judet/harghita/2024/304",
+   "short": "HCJ Harghita nr. 304/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 304/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 390/2023 privind renunțarea la dreptul de preemțiune al U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-304-2024.pdf",
+     "sha256": "496491d0ce67d3e1132f9bc52f94f107dce10a67fd23475848d7a3f24ec30666"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-305-2024",
+   "path": "local/judet/harghita/2024/305",
+   "short": "HCJ Harghita nr. 305/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 305/2024 privind aprobarea însușirii cotizaţiei județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-305-2024.pdf",
+     "sha256": "5af670aeff576f87263e8bf6daa9cc14efdce49e957a0c438117e0e95abf01f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-306-2024",
+   "path": "local/judet/harghita/2024/306",
+   "short": "HCJ Harghita nr. 306/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 306/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 60/2016 privind asocierea Județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/41/",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-306-2024.pdf",
+     "sha256": "42ab23db54679cd2d4060cbb31cbbe77a0a44eb4fdb43e21547ff08df943afaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-307-2024",
+   "path": "local/judet/harghita/2024/307",
+   "short": "HCJ Harghita nr. 307/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 307/2024 privind acordarea unui ajutor financiar Comunei Ciumani din Fondul de rezervă bugetară la dispoziția Consiliului Județean Harghita pe anul 2024; Hotărârea nr. 307/13.08.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/40/",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/08/Hot-307-2024.pdf",
+     "sha256": "7e6da881bf578d791223f83b1b8833ee402493ce175de9469e19bf437a68c886"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-343-2024",
+   "path": "local/judet/harghita/2024/343",
+   "short": "HCJ Harghita nr. 343/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 343/2024 cu privire la aprobarea numărului de delegați la deplasarea în străinătate în Raionul Beregovo, Ucraina, în perioada 15-17 septembrie 2024; Hotărârea nr. 343/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/39/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-343-2024.pdf",
+     "sha256": "a1bc1433f46ebfcdb2fa2fddaa5470deba877a68b2ee7774f4437bfb3ec5674b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-344-2024",
+   "path": "local/judet/harghita/2024/344",
+   "short": "HCJ Harghita nr. 344/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 344/2024 privind aprobarea Organigramei și a Statului de funcții al Asociaţiei de Dezvoltare Intercomunitară Călimani Giurgeu; Hotărârea nr. 344/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/39/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-344-2024.pdf",
+     "sha256": "b54978f816cfb82e8e43999f5b285827d14a0c78b59a62437629d6868847378a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-345-2024",
+   "path": "local/judet/harghita/2024/345",
+   "short": "HCJ Harghita nr. 345/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 345/2024 privind însușirea cotizației judeţului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/39/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-345-2024.pdf",
+     "sha256": "5b97b7269fa1551e61b8e21562edddacf48949d4ccf3a2d989cc1c5895751174"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-346-2024",
+   "path": "local/judet/harghita/2024/346",
+   "short": "HCJ Harghita nr. 346/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 346/2024 privind revocarea administrării asupra sectorului de drum județean DJ 132A de la poziția km 12+798 până la km 13+080 și asupra podului situat la poziția km 12+798 și modificarea Hotărârii Consiliului Județean Harghita nr. 183/2012 privind darea în administrare Consiliului Local al Comunei Merești, parte din drumul județean DJ 132A poziția km 6+120-16+095 împreună cu terenul aferent al acestuia, dr",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/39/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-346-2024.pdf",
+     "sha256": "d0ac01bc0c9e9eb0bb060a647155980fff83b225b202db374c42314f9847327b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-347-2024",
+   "path": "local/judet/harghita/2024/347",
+   "short": "HCJ Harghita nr. 347/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 347/2024 privind asigurarea cheltuielilor de funcționare ulterioară și păstrare a destinației inițiale sau a destinației sociale a Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități Frumoasa, județul Harghita; Hotărârea nr. 347/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-347-2024.pdf",
+     "sha256": "6efe45e5c02facb43aec3997c158194155e5580e61e4c40c5eb9ce2f5fd1a9eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-348-2024",
+   "path": "local/judet/harghita/2024/348",
+   "short": "HCJ Harghita nr. 348/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 348/2024 privind aprobarea Documentației de avizare a lucrărilor de intervenţii şi indicatorilor tehnico-economici privind investiția „ Reparații la cele 11 grupuri sanitare din cadrul Centrului de Îngrijire și Asistență pentru Persoanele Adulte cu Dizabilități Frumoasa, județul Harghita”; Hotărârea nr. 348/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-348-2024.pdf",
+     "sha256": "c0de3442d6aa8926888493253c26263012ea781b614064488c4c83b90dec28b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-349-2024",
+   "path": "local/judet/harghita/2024/349",
+   "short": "HCJ Harghita nr. 349/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 349/2024 privind repartizarea Comunei Mugeni a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 349/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-349-2024.pdf",
+     "sha256": "43fc89eaef09608f29c14da425384da3a2326e34cbe232e6ef0f41f53ae2b1f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-350-2024",
+   "path": "local/judet/harghita/2024/350",
+   "short": "HCJ Harghita nr. 350/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 350/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 21/2022 privind aprobarea derulării multianuale a programului „Acordarea distincțiilor de excelență pentru dezvoltarea și promovarea valorilor judeţului Harghita”, pe perioada 2022–2024, cu modificările și completările ulterioare; Hotărârea nr. 350/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-350-2024.pdf",
+     "sha256": "061a4721b49be39a212c3ffd247cc2d7f59b6b103a50477ccce6cc7300bc1069"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-351-2024",
+   "path": "local/judet/harghita/2024/351",
+   "short": "HCJ Harghita nr. 351/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 351/2024 privind aprobarea Programului de cooperare al Consiliului Judeţean Harghita în vederea derulării unor activităţi ale cultelor religioase, pe anul 2024, sesiunea August; Hotărârea nr. 351/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-351-2024.pdf",
+     "sha256": "ca3c32ad3557113a7b69a8347e548c9977ae027ee00cf3f952904d744b8132aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-352-2024",
+   "path": "local/judet/harghita/2024/352",
+   "short": "HCJ Harghita nr. 352/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 352/2024 privind însușirea cotizaţiei Județului Harghita plătibil către Asociaţia de Dezvoltare Intercomunitară ”Centru Sportiv Harghita – Gheorgheni – Hargita -Gyergyó Sportközpont Önkormányzati Társulás’’ pe anul 2024; Hotărârea nr. 352/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-352-2024.pdf",
+     "sha256": "a63e29838bcdbc1c2a939a9f6430f731fe3d0cf90caff301237fbad6703dd277"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-353-2024",
+   "path": "local/judet/harghita/2024/353",
+   "short": "HCJ Harghita nr. 353/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 353/2024 privind mandatarea reprezentantului Consiliului Județean Harghita în vederea aprobării majorării nivelului maxim al cotizaţiei județului Harghita plătibil către Asociația „Felcsík”, pe anul 2024; Hotărârea nr. 353/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-353-2024.pdf",
+     "sha256": "c01ad53d2608821fc97c0b34a21fdde11a272a064d90428a376ac7d6377941a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-355-2024",
+   "path": "local/judet/harghita/2024/355",
+   "short": "HCJ Harghita nr. 355/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 355/2024 privind asigurarea cheltuielilor de funcționare ulterioară și păstrare a destinației inițiale sau a destinației sociale a Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități Gheorgheni, a Centrului de Abilitare și Reabilitare pentru Persoane Adulte cu Dizabilități Tulgheș, județul Harghita; Hotărârea nr. 355/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-355-2024.pdf",
+     "sha256": "75d12a7cbd0b3f84944e2fa9bb2effe8d36b09689724a4ce2aa64d0d75899312"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-356-2024",
+   "path": "local/judet/harghita/2024/356",
+   "short": "HCJ Harghita nr. 356/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 356/2024 privind aprobarea Documentației de avizare a lucrărilor de intervenții și a principalilor indicatori tehnico-economici privind proiectul „Reabilitarea, modernizarea și dotarea Centrului de zi pentru persoane adulte cu handicap Feliceni”, finanțat în cadrul Planului Național de Redresare și Reziliență, coordonat de Ministerul Muncii și Solidarității Sociale, Componenta 13/R2/I2; Hotărârea nr. 356/1",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-356-2024.pdf",
+     "sha256": "c86907469667e17e4b24ebdf26c516310634a97a6d94b92c560160891e3216ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-357-2024",
+   "path": "local/judet/harghita/2024/357",
+   "short": "HCJ Harghita nr. 357/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 357/2024 privind repartizarea Orașului Bălan a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 357/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-357-2024.pdf",
+     "sha256": "5082691a496abc3e3a5278fb37f49f57a11351ede3ec7e9210cf90fa27bc6ea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-358-2024",
+   "path": "local/judet/harghita/2024/358",
+   "short": "HCJ Harghita nr. 358/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 358/2024 cu privire la aprobarea numărului de delegați la deplasarea în străinătate în județul Nógrád, Ungaria, în perioada 20-22 septembrie 2024; Hotărârea nr. 358/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-358-2024.pdf",
+     "sha256": "5b459b23cefc2ca47d204008a19f59bd6e78fd4a649eca2169937b2675bce64f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-359-2024",
+   "path": "local/judet/harghita/2024/359",
+   "short": "HCJ Harghita nr. 359/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 359/2024 pentru modificarea Hotărârii nr. 52/2023 a Consiliului Județean Harghita, privind aprobarea documentației de atribuire a Contractelor de delegare a gestiunii serviciilor publice de transport persoane prin curse regulate; Hotărârea nr. 359/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-359-2024.pdf",
+     "sha256": "411215de0e91a4d3cc7e0de5d26e878eadbf9202318e58585c50a76ccb70e93b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-360-2024",
+   "path": "local/judet/harghita/2024/360",
+   "short": "HCJ Harghita nr. 360/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 360/2024 privind modificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2024; Hotărârea nr. 360/13.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-360-2024.pdf",
+     "sha256": "44367497014342ec1394e56fdbb403a9a73840f12e77ef24bbceba8bc470594a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-361-2024",
+   "path": "local/judet/harghita/2024/361",
+   "short": "HCJ Harghita nr. 361/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 361/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-361-2024.pdf",
+     "sha256": "ad7b52d56f1079c6f6e757a89e4262910bbb00cea024f85f2336baed1d74f879"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-362-2024",
+   "path": "local/judet/harghita/2024/362",
+   "short": "HCJ Harghita nr. 362/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 362/2024 privind aprobarea redevenței aferent proiectului Sistem de management integrat al deșeurilor din județul Harghita; Hotărârea nr. 362/24.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-362-2024.pdf",
+     "sha256": "9f003dc8099885902700e6c87d46837f26a786e8a4145db9166b09c86ba5f76e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-363-2024",
+   "path": "local/judet/harghita/2024/363",
+   "short": "HCJ Harghita nr. 363/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 363/2024 privind modificarea Hotărârii nr. 354/2022 a Consiliului Județean Harghita, privind aprobarea devizului general actualizat și ai indicatorilor tehnico – economici actualizați ai obiectivului de investiții: „Reabilitare DJ 137”, cu modificările și completările ulterioare; Hot. nr. 363/24.09.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/09/Hot-363-2024.pdf",
+     "sha256": "9836a7e3dd1db478e7987b5b97b58e7e4bc47832fb42bd98612f90d807b1d2cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-364-2024",
+   "path": "local/judet/harghita/2024/364",
+   "short": "HCJ Harghita nr. 364/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 364/2024 privind aprobarea prețului unitare pentru Întreținerea curentă pe timp de iarnă pe drumurile județene din județul Harghita în perioada 2024-2025 pentru LOT 15, LOT 16 şi LOT 17, ce vor fi aplicate de Societatea Întreținere Drumuri Harghita SRL; Hot. nr. 364/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-364-2024.pdf",
+     "sha256": "4f15d053888297401d58a1aefe36b91a577c027f941eafdb689315562c4a0ea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-366-2024",
+   "path": "local/judet/harghita/2024/366",
+   "short": "HCJ Harghita nr. 366/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 366/2024 privind la aprobarea modificării Hotărârii Consiliului Județean Harghita nr. 176/2022 privind aprobarea „Programului de protecție a monumentelor istorice de pe teritoriul județului Harghita” pe anii 2022-2024, cu modificările și completările ulterioare; Hotărârea nr. 366/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/38/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-366-2024.pdf",
+     "sha256": "229f139a01f06c5b99b71a162be284fec1ca74c01e23352f512b7a0b176cadcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-367-2024",
+   "path": "local/judet/harghita/2024/367",
+   "short": "HCJ Harghita nr. 367/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 367/2024 privind modificarea Anexei nr. 1 al Hotărârii CJHR nr. 150/2024 privind aprobarea listei proiectelor selectate pentru contribuție financiară în cadrul programului de „Protecție a monumentelor istorice de pe teritoriul județului Harghita” pe anii 2022-2024; Hotărârea nr. 367/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-367-2024.pdf",
+     "sha256": "2d802655f88e81b377d5a1747c9ea56f3669046eefb155ad63a66807c758246c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-368-2024",
+   "path": "local/judet/harghita/2024/368",
+   "short": "HCJ Harghita nr. 368/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 368/2024 privind aprobarea completării Hotărârii Consiliului Județean Harghita nr. 322/2015 privind aprobarea înființării Agenției de Dezvoltare Județeană Harghita, respectiv ”Hargita Megye Fejlesztési Űgynőksége” și aprobarea Regulamentului de organizare și funcționare, Statul de funcții și Organigramei acesteia, cu modificările și completările ulterioare; Hot. nr. 368/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-368-2024.pdf",
+     "sha256": "21c5fcc02d6d29a7ba6ab4708d4c454ddbbcd06761603c56b42d29f2de6b605d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-369-2024",
+   "path": "local/judet/harghita/2024/369",
+   "short": "HCJ Harghita nr. 369/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 369/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-369-2024.pdf",
+     "sha256": "d227483178df1ef90b171c59a27ce5729e3ead088337659e4485aeecbb7a56a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-370-2024",
+   "path": "local/judet/harghita/2024/370",
+   "short": "HCJ Harghita nr. 370/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 370/2024 privind aprobarea listei nominale cu persoanele care sunt propuse de a beneficia de stimulent financiar în luna septembrie 2024 din cadrul Spitalului Județean de Urgență Miercurea Ciuc; Hot. nr. 370/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-370-2024.pdf",
+     "sha256": "fd06fa3a75a933f9cca0896dbae5a809aa2d30034a05866f4aeb2159e38cd56d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-371-2024",
+   "path": "local/judet/harghita/2024/371",
+   "short": "HCJ Harghita nr. 371/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 371/2024 privind repartizarea Comunei Cozmeni a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hot. nr. 371/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-371-2024.pdf",
+     "sha256": "a8ab781f2b0ba214f7eb75252bccfaf53084c2bd57cc7c7b40c5a0189e840b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-372-2024",
+   "path": "local/judet/harghita/2024/372",
+   "short": "HCJ Harghita nr. 372/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 372/2024 privind repartizarea Comunei Brădești a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hot. nr. 372/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-372-2024.pdf",
+     "sha256": "f8ac8a2cf92944fb97ad047d27cd9d45c3d730040ffc341bc16cdc200655ebfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-373-2024",
+   "path": "local/judet/harghita/2024/373",
+   "short": "HCJ Harghita nr. 373/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 373/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 28/2024 privind acordarea unui ajutor financiar Comunei Săcel din Fondul de rezervă bugetară la dispoziția Consiliului Județean Harghita pe anul 2024; Hot. nr. 373/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-373-2024.pdf",
+     "sha256": "f6a3cde5f23ad9d2fe3e3e0febfa9595f8a1b305aaeafc3701b5993d38332e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-374-2024",
+   "path": "local/judet/harghita/2024/374",
+   "short": "HCJ Harghita nr. 374/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 374/2024 privind modificarea și completarea Hotărârii Consiliului Judeţean Harghita nr. 160/2004 privind organizarea şi funcţionarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Harghita, cu modificările şi completările ulterioare; Hot. nr. 374/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-374-2024.pdf",
+     "sha256": "09bee9babc461fadca1ffc70a61cef7944c93de7ae3d51679f361349d5967576"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-375-2024",
+   "path": "local/judet/harghita/2024/375",
+   "short": "HCJ Harghita nr. 375/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 375/2024 privind aprobarea modificării Hotărârii Consiliului Județean Harghita cu nr. 109/2021 privind aprobarea indicatorilor tehnico-economici al obiectivului de investiţii „Amenajare Ambulatoriu la parter și etajul 1 al clădirii Policlinică din Miercurea-Ciuc”, și aprobarea colaborării cu Direcția de Sănătate Publică Harghita; Hot. nr. 375/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-375-2024.pdf",
+     "sha256": "3c5eba18c753c8a6d241648be2c78836fd6b90812b3d1192d9a301288dd68dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-376-2024",
+   "path": "local/judet/harghita/2024/376",
+   "short": "HCJ Harghita nr. 376/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 376/2024 privind aprobarea prețului unitar pentru Întreținerea curentă pe timp de iarnă pe drumurile județene din județul Harghita în perioada 2024-2025 pentru LOT 18, ce va fi aplicată de Societatea Întreținere Drumuri Harghita SRL; Hot. nr. 376/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-376-2024.pdf",
+     "sha256": "12e4b3f68b743cf43b016bd9028116503e7c1d0169d0308f7f2a3fdec0ba1ce3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-377-2024",
+   "path": "local/judet/harghita/2024/377",
+   "short": "HCJ Harghita nr. 377/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 377/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 351/2024 privind aprobarea Programului de cooperare al Consiliului Judeţean Harghita în vederea derulării unor activităţi ale cultelor religioase, pe anul 2024, sesiunea august; Hot. nr. 377/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-377-2024.pdf",
+     "sha256": "ea932f878477ec3f7b5ca5c09fc2f3af3a3b522163a5c1a91a738e636785eb46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-378-2024",
+   "path": "local/judet/harghita/2024/378",
+   "short": "HCJ Harghita nr. 378/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 378/2024 privind aprobarea Memorandumului Spitalului Județean de Urgență Miercurea Ciuc; Hot. nr. 378/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-378-2024.pdf",
+     "sha256": "3cb155c0a2b3c32618a4b0f3bc860242d33e876018a2984d58062076eaecf7a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-379-2024",
+   "path": "local/judet/harghita/2024/379",
+   "short": "HCJ Harghita nr. 379/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 379/2024 privind modificarea Hotărârii Consiliului Județean nr. 297/2022 privind aprobarea contractării unei finanțări rambursabile interne în valoare de până la 50.000.000 lei în vederea asigurării finanțării investițiilor publice de interes județean; Hot. nr. 379/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-379-2024.pdf",
+     "sha256": "6c0cbe9ebd14ea667d6534fc297aa810f45298e1794277816e675db77bb012bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-380-2024",
+   "path": "local/judet/harghita/2024/380",
+   "short": "HCJ Harghita nr. 380/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 380/2024 privind aprobarea Documentațiilor tehnice cadastrale aferente drumului județean DJ 132 în vederea înregistrării în sistemul integrat de cadastru și publicitate imobiliară, precum și a actualizării informațiilor tehnice a sectoarelor de drum județean aferente DJ 132; Hot. nr. 380/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-380-2024.pdf",
+     "sha256": "2671cd26da50a473292b5799bd0720aa6f12489ba1d84e1d90c107611f6e0619"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-381-2024",
+   "path": "local/judet/harghita/2024/381",
+   "short": "HCJ Harghita nr. 381/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 381/2024 privind rectificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2024; Hot. nr. 381/04.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-381-2024.pdf",
+     "sha256": "4026617d5aae091c3a8447cf4c7df278285f01c9be24e0b65798cd6c7510fc9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-382-2024",
+   "path": "local/judet/harghita/2024/382",
+   "short": "HCJ Harghita nr. 382/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 382/2024 privind aprobarea implementării etapei a II-a a proiectului etapizat cu titlul: „Modernizare drum județean DJ 174A – Bilbor – km 20+000 – 23+423 – DJ 174C – lim. jud",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-382-2024.pdf",
+     "sha256": "ea1253de5c31ea46f239a16da783acb89be9946ae751811051db97ad1acdcf29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-383-2024",
+   "path": "local/judet/harghita/2024/383",
+   "short": "HCJ Harghita nr. 383/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 383/2024 privind revocarea dreptului de administrare al Spitalului Județean de Urgență Miercurea Ciuc asupra Locuinţei de serviciu – Fortuna Park, situat în mun",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-383-2024.pdf",
+     "sha256": "602773231a52cedf46ea61cfc99c2e671d137d9831ecb59af2824094c2d884e6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-harghita-384-2024",
    "path": "local/judet/harghita/2024/384",
    "short": "HCJ Harghita nr. 384/2024",
@@ -14,6 +989,891 @@
      "units": 1,
      "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-384-2024.pdf",
      "sha256": "370808e20414417c63a375be3192750f1e9f76b4b6de892d2c8d1814fd65e52c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-385-2024",
+   "path": "local/judet/harghita/2024/385",
+   "short": "HCJ Harghita nr. 385/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 385/2024 privind aprobarea cotizaţiei Consiliului Județean Harghita achitabil către Agenția Pentru Dezvoltare Regională “Centru” pe anul 2024; Hotărârea nr. 385/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-385-2024.pdf",
+     "sha256": "324615045a4b9c7bb436e29f2176f1a96a27adef9a420d340cae5a1cb57c110a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-386-2024",
+   "path": "local/judet/harghita/2024/386",
+   "short": "HCJ Harghita nr. 386/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 386/2024 privind transmiterea în folosinţa gratuită a autoturismului HR 08 FXX, aflat în proprietatea privată a judeţului Harghita şi în administrarea Consiliului Judeţean Harghita, pentru Asociația de Dezvoltare Intercomunitară Harghita pe o perioadă de 2 ani; Hotărârea nr. 386/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/37/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-386-2024.pdf",
+     "sha256": "5705453bd3510d2cda0135d504961fff704c07ab05bb6de654e462a9fe66b516"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-387-2024",
+   "path": "local/judet/harghita/2024/387",
+   "short": "HCJ Harghita nr. 387/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 387/2024 privind modificarea Hotărârii Consiliului Judeţean Harghita nr. 28/2013 privind aprobarea organigramei și statului de funcţii ale Spitalului Judeţean de Urgenţă Miercurea Ciuc cu modificări și completări ulterioare; Hotărârea nr. 387/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-387-2024.pdf",
+     "sha256": "e3fd2f692b830ba414ab1b48840d380a7498864a8d5ee977db0c1307cef7d61c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-388-2024",
+   "path": "local/judet/harghita/2024/388",
+   "short": "HCJ Harghita nr. 388/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 388/2024 privind revocarea Hotărârii Consiliului Județean Harghita nr. 56/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 544/2023 privind modificarea Hotărârii Consiliului Județean Harghita nr. 239/2009 privind revocarea Hotărârii Consiliului Județean Harghita nr. 127/2009 și aprobarea luării în administrarea județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-388-2024.pdf",
+     "sha256": "f76666d20da7ae08bc249748406b2fb543c5e171bff44979e769c495da1ebcdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-389-2024",
+   "path": "local/judet/harghita/2024/389",
+   "short": "HCJ Harghita nr. 389/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 389/2024 privind aprobarea atribuirii directe a serviciului de întreținere de iarnă având ca obiect „Întreținerea curentă pe timp de iarnă a drumurilor județene din județul Harghita, Lotul 15” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 389/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-389-2024.pdf",
+     "sha256": "d7abeeb5cfdd3838980a205eead8ccf0f594ff76c91b7736432ea4427a7843c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-390-2024",
+   "path": "local/judet/harghita/2024/390",
+   "short": "HCJ Harghita nr. 390/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 390/2024 privind aprobarea atribuirii directe a serviciului de întreținere de iarnă având ca obiect „Întreținerea curentă pe timp de iarnă a drumurilor județene din județul Harghita, Lotul 16” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 390/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-390-2024.pdf",
+     "sha256": "b32268251399c825a335253a44991c5e5dae258dd43410fabebf3b2085ef7060"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-391-2024",
+   "path": "local/judet/harghita/2024/391",
+   "short": "HCJ Harghita nr. 391/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 391/2024 privind aprobarea atribuirii directe a serviciului de întreținere de iarnă având ca obiect „Întreținerea curentă pe timp de iarnă a drumurilor județene din județul Harghita, Lotul 17” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 391/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-391-2024.pdf",
+     "sha256": "747d5f9d4f3e19b5f7ae93cf16cdf453692906afea1d785016353c9652afb894"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-392-2024",
+   "path": "local/judet/harghita/2024/392",
+   "short": "HCJ Harghita nr. 392/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 392/2024 privind aprobarea atribuirii directe a serviciului de întreținere de iarnă având ca obiect „Întreținerea curentă pe timp de iarnă a drumurilor județene din județul Harghita, Lotul 18” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 392/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-392-2024.pdf",
+     "sha256": "5651a1da740d0269872cc2a9da3dbbe9b9219bd1a1d28aece4c51e574c6c4114"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-393-2024",
+   "path": "local/judet/harghita/2024/393",
+   "short": "HCJ Harghita nr. 393/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 393/2024 privind aprobarea atribuirii directe a lucrării de întreținere având ca obiect „Plombarea cu mixtura stocabilă rece” către societatea ÎNTREȚINERE DRUMURI HARGHITA SRL, în conformitate cu art. 31 din Legea nr. 98/2016; Hotărârea nr. 393/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-393-2024.pdf",
+     "sha256": "81c24df1c5a3715f8f8daeb44c166087d6cc6998536d62294d2c444ea2d1a3a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-394-2024",
+   "path": "local/judet/harghita/2024/394",
+   "short": "HCJ Harghita nr. 394/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 394/2024 privind rectificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2024; Hotărârea nr. 394/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-394-2024.pdf",
+     "sha256": "abeee11c33e8ad52dc1e2523581fd2db511a3bb607890a2516354630b45a6d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-395-2024",
+   "path": "local/judet/harghita/2024/395",
+   "short": "HCJ Harghita nr. 395/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 395/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 21/2022 privind aprobarea derulării multianuale a programului „Acordarea distincțiilor de excelență pentru dezvoltarea și promovarea valorilor judeţului Harghita”, pe perioada 2022–2024, cu modificările și completările ulterioare; Hotărârea nr. 395/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-395-2024.pdf",
+     "sha256": "0289af00a397fe1d41464aaf280ee4adb144f76edeb524564386f348d055be70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-396-2024",
+   "path": "local/judet/harghita/2024/396",
+   "short": "HCJ Harghita nr. 396/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 396/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-396-2024.pdf",
+     "sha256": "1b372a99a13073816a2024131cd7fc0b13c6120bd43c72bf24ab570359fa0d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-397-2024",
+   "path": "local/judet/harghita/2024/397",
+   "short": "HCJ Harghita nr. 397/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 397/2024 privind aprobarea actualizării categoriei de folosință și a rectificării înscrierilor din CF nr. 54332 Sărmaș; Hotărârea nr. 397/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-397-2024.pdf",
+     "sha256": "10091b20405e8bb456066524ed0587f804c79bb9b3f0203a4b4354221b46903e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-398-2024",
+   "path": "local/judet/harghita/2024/398",
+   "short": "HCJ Harghita nr. 398/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 398/2024 privind aprobarea acordării alocației bugetare pentru cofinanţarea competiției sportive de box „Cupa Tatárdomb”; Hotărârea nr. 398/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-398-2024.pdf",
+     "sha256": "ae00fbf1c71b47c5a1e664d1594d8a95f82583ebb3b57289ddba5a7a96ec0f0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-399-2024",
+   "path": "local/judet/harghita/2024/399",
+   "short": "HCJ Harghita nr. 399/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 399/2024 privind aprobarea includerii în inventar al cotei părți de 4,61% din Centrul Balneoclimateric Multifuncțional, situat în orașul Borsec, str",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-399-2024.pdf",
+     "sha256": "86f384ee1f83e763b4b19fbaddde662555e887ced68c5dee3fcf75cf3a390387"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-400-2024",
+   "path": "local/judet/harghita/2024/400",
+   "short": "HCJ Harghita nr. 400/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 400/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-400-2024.pdf",
+     "sha256": "10b5b67717920bbe8456325ee29d289ed376f0884f48018cdae6d349d5c6a2af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-401-2024",
+   "path": "local/judet/harghita/2024/401",
+   "short": "HCJ Harghita nr. 401/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 401/2024 privind aprobarea participării județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-401-2024.pdf",
+     "sha256": "92bedb347cb94dc533b356b72551fd497f0923878657154be568306f489e09ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-402-2024",
+   "path": "local/judet/harghita/2024/402",
+   "short": "HCJ Harghita nr. 402/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 402/2024 privind aprobarea participării județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-402-2024.pdf",
+     "sha256": "5baa6eca55f3c8cdb12c112f933f856953c6660d9fff07a048c19be3feae5cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-403-2024",
+   "path": "local/judet/harghita/2024/403",
+   "short": "HCJ Harghita nr. 403/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 403/2024 privind aprobarea Master Planului pentru Zona Ciomad-Balvanyos; Hotărârea nr. 403/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-403-2024.pdf",
+     "sha256": "8c40e73d4ccf1254ce050f862cbc73b89b15acddfe3688f27714b77394258508"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-404-2024",
+   "path": "local/judet/harghita/2024/404",
+   "short": "HCJ Harghita nr. 404/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 404/2024 privind aprobarea Master Planului pentru Zona Hășmașul Mare; Hotărârea nr. 404/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-404-2024.pdf",
+     "sha256": "4af90aae768536b475c5213d9d1953bc07614cc7e6428b9d1bfc75f5fba24357"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-405-2024",
+   "path": "local/judet/harghita/2024/405",
+   "short": "HCJ Harghita nr. 405/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 405/2024 privind aprobarea Master Planului pentru zona Munții Harghita și a Strategiei de Dezvoltare Harghita Mădăraș; Hotărârea nr. 405/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-405-2024.pdf",
+     "sha256": "4c551ca0224b41e9b6bd091c3e22719c38d0ae7738936f6ba65b63ddcdb04cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-406-2024",
+   "path": "local/judet/harghita/2024/406",
+   "short": "HCJ Harghita nr. 406/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 406/2024 privind transmiterea în folosinţa gratuită a autoturismului cu nr. de înmatriculare HR-10-VLZ, aflat în proprietatea privată a judeţului Harghita şi în administrarea Consiliului Judeţean Harghita, pentru Asociația De Dezvoltare Intercomunitară Hășmașul Mare pe o perioadă de 1 an; Hotărârea nr. 406/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/36/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-406-2024.pdf",
+     "sha256": "af00cdebb703734281fc0219f0afc359d5635b6aa54eba618d9e9eb98d95ac59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-407-2024",
+   "path": "local/judet/harghita/2024/407",
+   "short": "HCJ Harghita nr. 407/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 407/2024 privind aprobarea listei nominale cu persoanele care sunt propuse de a beneficia de stimulent financiar în luna octombrie 2024 din cadrul Spitalului Județean de Urgență Miercurea Ciuc; Hotărârea nr. 407/16.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-407-2024.pdf",
+     "sha256": "92786fd5296ec3850349e0c639c421ef4755d8f2063d29d40f94f493fb1bd101"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-408-2024",
+   "path": "local/judet/harghita/2024/408",
+   "short": "HCJ Harghita nr. 408/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 408/2024 privind aprobarea închirierii unui spațiu adecvat pentru activitățile Centrului Cultural Județean Harghita din cauza lucrărilor de investiții “Reabilitare energetică, modernizare și extindere Policlinica Stomatologică, precum și amenajare parcare auto în curtea imobilului”; Hotărârea nr. 408/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-408-2024.pdf",
+     "sha256": "1fd5d6dd3f2fe402e0973168fd13ad97e39cc2ef60012f0aaadd874d5cb76d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-409-2024",
+   "path": "local/judet/harghita/2024/409",
+   "short": "HCJ Harghita nr. 409/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 409/2024 privind aprobarea Actului adițional nr. 1 la Contractul de administrare, înregistrat la",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-409-2024.pdf",
+     "sha256": "663c019afcf383f20a70ad8a59422212c11ffc9b918f5cc48d8bd5ed90e0be05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-410-2024",
+   "path": "local/judet/harghita/2024/410",
+   "short": "HCJ Harghita nr. 410/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 410/2024 privind aprobarea parteneriatului între U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-410-2024.pdf",
+     "sha256": "9720a12d7dbe9f8de7858c4dfd42c94693cd0ea77faa5f62b2f934217358699f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-411-2024",
+   "path": "local/judet/harghita/2024/411",
+   "short": "HCJ Harghita nr. 411/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 411/2024 privind aprobarea modificării Hotărârii Consiliului Județean Harghita cu nr. 150/2023 privind aprobarea depunerii Cererii de finanțare și implementarea proiectului cu titlul “Harghita biblio digital Hub (HbdH)” de către UAT Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-411-2024.pdf",
+     "sha256": "ffe265a142379801c01ab58565e9df28340d6862ac6203750c6ab8568a54b7ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-412-2024",
+   "path": "local/judet/harghita/2024/412",
+   "short": "HCJ Harghita nr. 412/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 412/2024 privind repartizarea Orașului Vlăhița a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 412/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-412-2024.pdf",
+     "sha256": "2e98556e7e8b3dec801fbe188ac358072a04aac6933b6f64fcc1f4ecd3cedf4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-413-2024",
+   "path": "local/judet/harghita/2024/413",
+   "short": "HCJ Harghita nr. 413/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 413/2024 privind repartizarea Comunei Racu a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 413/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-413-2024.pdf",
+     "sha256": "53ec9c8a6db063e7e1af441e695b9a8dcbd373b58db54d7cae4f731ca6403009"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-414-2024",
+   "path": "local/judet/harghita/2024/414",
+   "short": "HCJ Harghita nr. 414/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 414/2024 privind repartizarea Comunei Siculeni a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 414/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-414-2024.pdf",
+     "sha256": "2d94be659948733c63ee18a3badd2f28919051d533e36c246d50f8910e344f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-415-2024",
+   "path": "local/judet/harghita/2024/415",
+   "short": "HCJ Harghita nr. 415/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 415/2024 privind repartizarea Comunei Ciceu a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 415/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-415-2024.pdf",
+     "sha256": "64394dd1fa2f9c31bd43e03e9850394f4ea686136e1bcc2d2685a7c4cf37d518"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-416-2024",
+   "path": "local/judet/harghita/2024/416",
+   "short": "HCJ Harghita nr. 416/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 416/2024 privind repartizarea Comunei Mihăileni a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 416/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-416-2024.pdf",
+     "sha256": "549fe273e1714d2e3cafb0f9683d285d79bdc245186d8f4dbe86332092855c10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-417-2024",
+   "path": "local/judet/harghita/2024/417",
+   "short": "HCJ Harghita nr. 417/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 417/2024 privind repartizarea Comunei Sântimbru a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 417/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-417-2024.pdf",
+     "sha256": "1c2eee4a4ccfd47df882501accd5ce7a2efd63542bcfc8bf9523197b62e9e171"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-418-2024",
+   "path": "local/judet/harghita/2024/418",
+   "short": "HCJ Harghita nr. 418/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 418/2024 privind repartizarea Comunei Dănești a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 418/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-418-2024.pdf",
+     "sha256": "e6a7dfea6d1d3949c6785405a74ddf3f7f95373a44713761a04ddefaf8d33394"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-419-2024",
+   "path": "local/judet/harghita/2024/419",
+   "short": "HCJ Harghita nr. 419/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 419/2024 privind repartizarea Comunei Lunca de Jos a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 419/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-419-2024.pdf",
+     "sha256": "92ecb2c5cc14ed5d5b63773e39160441eaeef72dfad43bff3c0de37f0ca5ea23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-420-2024",
+   "path": "local/judet/harghita/2024/420",
+   "short": "HCJ Harghita nr. 420/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 420/2024 privind mandatarea reprezentantului Consiliului Județean Harghita în vederea aprobării aderării Municipiului Miercurea Ciuc la Asociaţia pentru județul Harghita –Hargita Megyéért Egyesület; Hotărârea nr. 420/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-420-2024.pdf",
+     "sha256": "46222ef0a43f39e935bec0db2c8cf46878d1c7037e2fe0d401876cdc568e8832"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-421-2024",
+   "path": "local/judet/harghita/2024/421",
+   "short": "HCJ Harghita nr. 421/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 421/2024 privind aprobarea execuţiei bugetului de venituri şi cheltuieli al judeţului Harghita la 30 septembrie 2024; Hotărârea nr. 421/22.10.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-421-2024.pdf",
+     "sha256": "839892bcb15421a9b04ddfa8c89c3634f12f8cfacabc4fc029612516d8d32022"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-422-2024",
+   "path": "local/judet/harghita/2024/422",
+   "short": "HCJ Harghita nr. 422/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 422/2024 cu privire la aprobarea rectificării și republicării Anexei nr. 2 a Hotărârii nr. 166/2024 privind aprobarea modificării Anexelor nr. 1 şi 2 ale Hotărârii nr. 184/2014 a Consiliului Judeţean Harghita, privind stabilirea numărului de posturi, aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al Consiliului Judeţean Harghita, cu modificările și completările ulterioare; H",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/10/Hot-422-2024.pdf",
+     "sha256": "9ef8028fa678a93dbfc7996495cf5365bbea3701bd120d6ecd9c48af9b935629"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-423-2024",
+   "path": "local/judet/harghita/2024/423",
+   "short": "HCJ Harghita nr. 423/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 423/2024 privind stabilirea numărului şi a denumirii, a numărului membrilor, cât și a componenței nominale a comisiilor de specialitate ale Consiliului Judeţean Harghita; Hotărârea nr. 423/08.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-423-2024.pdf",
+     "sha256": "b1f6c1299742584661c1fce1bc8eccf035f3f598a696a17597b58dc89cd97641"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-424-2024",
+   "path": "local/judet/harghita/2024/424",
+   "short": "HCJ Harghita nr. 424/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 424/2024 privind alegerea Comisiei de numărare și de validare a voturilor secrete în cadrul Consiliului Judeţean Harghita; Hotărârea nr. 424/08.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-424-2024.pdf",
+     "sha256": "55b90b2d517590d2a164deaacfb4b659d7f40ec9e96503961ace6a16679b05df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-425-2024",
+   "path": "local/judet/harghita/2024/425",
+   "short": "HCJ Harghita nr. 425/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 425/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 144/2024 privind aprobarea Programului de cooperare al Consiliului Judeţean Harghita în vederea derulării unor activităţi ale cultelor religioase, pe anul 2024, sesiunea februarie; Hotărârea nr. 425/08.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-425-2024.pdf",
+     "sha256": "e3bf380958574f6744e31f530b3255dbb4d76eda2f7502f576d35c5f6d476bdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-426-2024",
+   "path": "local/judet/harghita/2024/426",
+   "short": "HCJ Harghita nr. 426/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 426/2024 privind darea în administrare a unor spații medicale aflate în proprietatea privată a județului Harghita către Spitalul Județean de Urgență Miercurea Ciuc; Hotărârea nr. 426/08.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/35/",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-426-2024.pdf",
+     "sha256": "61be69688e3961bbe6dc973aff144262e7bc0c4ec93f923c9e5a44db9db1af23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-427-2024",
+   "path": "local/judet/harghita/2024/427",
+   "short": "HCJ Harghita nr. 427/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 427/2024 privind repartizarea pe unități administrativ-teritoriale a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 427/08.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-427-2024.pdf",
+     "sha256": "c06dc7f337e8f77c039e366342e97d202ec4e409f2e6feae4ebb817cf3073645"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-428-2024",
+   "path": "local/judet/harghita/2024/428",
+   "short": "HCJ Harghita nr. 428/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 428/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 234/2014 privind aprobarea luării în administrarea județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-428-2024.pdf",
+     "sha256": "454bfa71ce2e3a26e4335ec02cd1fede28461aff1ac3b05a197cc5b0cf35e830"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-429-2024",
+   "path": "local/judet/harghita/2024/429",
+   "short": "HCJ Harghita nr. 429/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 429/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-429-2024.pdf",
+     "sha256": "d0e91e504eb2496eaabfe6638f98ede9123e7470cf832e10ea81fbb11502f528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-430-2024",
+   "path": "local/judet/harghita/2024/430",
+   "short": "HCJ Harghita nr. 430/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 430/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-430-2024.pdf",
+     "sha256": "75b23be0dc9f2bc14deb7cd808a79b84f32b230b80ac075c062d7ea38bd9ac2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-431-2024",
+   "path": "local/judet/harghita/2024/431",
+   "short": "HCJ Harghita nr. 431/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 431/2024 privind rectificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2024; Hotărârea nr. 431/15.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-431-2024.pdf",
+     "sha256": "4b51abb18f1fea1f75221590d8d950649e138a1a4739bb6190896f97505fd4d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-432-2024",
+   "path": "local/judet/harghita/2024/432",
+   "short": "HCJ Harghita nr. 432/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 432/2024 pentru modificarea Hotărârii nr. 337/2024 a Consiliului Județean Harghita, privind aprobarea transmiterii dreptului de administrare asupra sectorului de drum județean DJ 123F, de la km 0+000 până la km 1+350, împreună cu terenul aferent acestuia, proprietate publică a Județului Harghita, din administrarea Consiliului Județean Harghita în administrarea Consiliului Local al Municipiul Miercurea Ciuc",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-432-2024.pdf",
+     "sha256": "63eca780eae2cb5c07f9a613d9b39dfbc65d62827062151832cdec4941675f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-433-2024",
+   "path": "local/judet/harghita/2024/433",
+   "short": "HCJ Harghita nr. 433/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 433/2024 privind modificarea Hotărârii nr. 354/2022 a Consiliului Județean Harghita, privind aprobarea devizului general actualizat și a indicatorilor tehnico – economici actualizați ai obiectivului de investiții: „Reabilitare DJ 137”, cu modificările și completările ulterioare; Hotărârea nr. 433/15.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-433-2024.pdf",
+     "sha256": "c2277eb0bc30961f59c1ac8997846c3b961b5dc869bf4ae690c7c4ebe450f421"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-434-2024",
+   "path": "local/judet/harghita/2024/434",
+   "short": "HCJ Harghita nr. 434/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 434/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 261/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenție (DALI) pentru lucrarea: „Construire trotuar în sat Avrămești”; Hotărârea nr. 434/15.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-434-2024.pdf",
+     "sha256": "d25b9239ec858ec72d40af9412210fdc8e99becb81b87e980f37cb8581fb315f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-435-2024",
+   "path": "local/judet/harghita/2024/435",
+   "short": "HCJ Harghita nr. 435/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 435/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-435-2024.pdf",
+     "sha256": "ad046247f121b066c412696339ace80b020529b421473a43360320ff1b4a2bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-436-2024",
+   "path": "local/judet/harghita/2024/436",
+   "short": "HCJ Harghita nr. 436/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 436/2024 privind încadrarea drumurilor județene pe nivel de viabilitate pentru iarna 2024-2025 și aprobarea planului operativ de acțiune pe perioada iernii 2024-2025; Hotărârea nr. 436/15.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-436-2024.pdf",
+     "sha256": "5482afe4e0a25dbfe2fc3fc14921b6b6f18ac06ad105cc2c2a26334e95cbcf55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-437-2024",
+   "path": "local/judet/harghita/2024/437",
+   "short": "HCJ Harghita nr. 437/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 437/2024 privind aprobarea depunerii Cererii de finanțare și a activităților prin care va fi implicat U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-437-2024.pdf",
+     "sha256": "a2983a478a38848b66a8028ff00c2f3a9912c02caa1a345f0657c5b5b6919c78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-438-2024",
+   "path": "local/judet/harghita/2024/438",
+   "short": "HCJ Harghita nr. 438/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 438/2024 privind aprobarea depunerii Cererii de finanțare și a activităților prin care va fi implicat U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-438-2024.pdf",
+     "sha256": "b7793b7ae4652022c48a70a394f00519f6cbbc5cbfed94e0f1aa38fbb989a6da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-439-2024",
+   "path": "local/judet/harghita/2024/439",
+   "short": "HCJ Harghita nr. 439/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 439/2024 privind aprobarea depunerii Cererii de finanțare și a activităților prin care va fi implicat U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-439-2024.pdf",
+     "sha256": "55715537131d99fad3ffbd397e7c40138c56446c1f908dea4e51d8f44f248677"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-440-2024",
+   "path": "local/judet/harghita/2024/440",
+   "short": "HCJ Harghita nr. 440/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 440/2024 privind repartizarea pe unități administrativ-teritoriale a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 440/15.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-440-2024.pdf",
+     "sha256": "fbc82f15e7f726334eed7e7a92a5f7e6ac9ad8fb12a8d5b3ee2d61b42938c714"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-441-2024",
+   "path": "local/judet/harghita/2024/441",
+   "short": "HCJ Harghita nr. 441/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 441/2024 privind rectificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2024; Hotărârea nr. 441/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-441-2024.pdf",
+     "sha256": "aebed100314b7d58952dbc0e818cc8e66ad9afcac9d6c9c5402b27928bbc5316"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-442-2024",
+   "path": "local/judet/harghita/2024/442",
+   "short": "HCJ Harghita nr. 442/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 442/2024 privind aprobarea modificării Hotărârii Consiliului Județean Harghita nr. 121/2023 privind aprobarea programului „Construire trotuare pe lângă drumurile judeţene din localităţile judeţului Harghita”, pe perioada 2023-2027; Hotărârea nr. 442/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-442-2024.pdf",
+     "sha256": "d44b4ae8de9198bbc29771c430a12429094281dfaaa5b3fcd6663f2800652f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-443-2024",
+   "path": "local/judet/harghita/2024/443",
+   "short": "HCJ Harghita nr. 443/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 443/2024 pentru modificarea Hotărârii Consiliului Județean Harghita nr. 121/2024 privind aprobarea listei lucrărilor pe anul 2024 în cadrul programului privind „Construire trotuare pe lângă drumurile judeţene din localităţile judeţului Harghita”, perioada 2023-2027, conform Hotărârii Consiliului Judeţean Harghita nr. 121/2023; Hotărârea nr. 443/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-443-2024.pdf",
+     "sha256": "f59efdfa79f417cda4afd32d55f3a73a6716ebf49445949903e28b5cd259134d"
     }
    ]
   },
@@ -33,6 +1893,66 @@
    ]
   },
   {
+   "slug": "hcj-harghita-445-2024",
+   "path": "local/judet/harghita/2024/445",
+   "short": "HCJ Harghita nr. 445/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 445/2024 privind aprobarea listei nominale cu persoanele care sunt propuse de a beneficia de stimulent financiar în luna noiembrie 2024 din cadrul Spitalului Județean de Urgență Miercurea Ciuc; Hotărârea nr. 445/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-445-2024.pdf",
+     "sha256": "ef0a32c084ff360c57a03ca375559820479ccecf31c8b96efdcbcc0a27bf3242"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-446-2024",
+   "path": "local/judet/harghita/2024/446",
+   "short": "HCJ Harghita nr. 446/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 446/2024 privind modificarea Hotărârii Consiliului Judeţean Harghita nr. 3/2005 privind aprobarea înființării Serviciului Public Comunitar de Evidență a Persoanelor al Județului Harghita, cu modificările și completările ulterioare; Hotărârea nr. 446/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/34/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-446-2024.pdf",
+     "sha256": "f1bd0274fae719a17fe20a34cb41d210a30384b14d082b2b280095272fb0cebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-447-2024",
+   "path": "local/judet/harghita/2024/447",
+   "short": "HCJ Harghita nr. 447/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 447/2024 privind revocarea dreptului de administrare de la Editura Hargita Népe asupra tuturor spațiilor aflate la etajul II al imobilului Policlinica stomatologică din Miercurea Ciuc, B-dul. Timișoarei, nr. 4, județul Harghita; Hotărârea nr. 447/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-447-2024.pdf",
+     "sha256": "e38eb195784ac943895cd31c6bda33058dac2e76fe8d945532cbf3509d7ce264"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-448-2024",
+   "path": "local/judet/harghita/2024/448",
+   "short": "HCJ Harghita nr. 448/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 448/2024 privind revocarea dreptului de administrare al Centrului Cultural Județean Harghita, asupra unor spații aflate în incinta imobilului în care a funcționat Policlinica stomatologică și asupra terenului aferent al acestora, situat în mun",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-448-2024.pdf",
+     "sha256": "23ddb0dfa45d43093c42f0ed638b398a4153c2eaff2259a65977b34b4d78c81f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-harghita-449-2024",
    "path": "local/judet/harghita/2024/449",
    "short": "HCJ Harghita nr. 449/2024",
@@ -48,6 +1968,36 @@
    ]
   },
   {
+   "slug": "hcj-harghita-450-2024",
+   "path": "local/judet/harghita/2024/450",
+   "short": "HCJ Harghita nr. 450/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 450/2024 pentru modificarea Hotărârii Consiliului Județean Harghita nr. 270/2024 privind aprobarea indicatorilor tehnico – economici al obiectivului de investiții „Amenajări exterioare, racorduri la utilități pentru Extinderea, modernizarea și dotarea Unității de Primiri Urgențe la Spitalul Județean de Urgență Miercurea Ciuc, Județul Harghita (Faza I – Demolări)“; Hotărârea nr. 450/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-450-2024.pdf",
+     "sha256": "366d4d420998349d49e67e96ffe3a4721992061949e58da49129652c237dd97e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-451-2024",
+   "path": "local/judet/harghita/2024/451",
+   "short": "HCJ Harghita nr. 451/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 451/2024 privind aprobarea Studiului de fezabilitate aferent obiectivului de investiții ,,Clădire Extindere a Spitalului Județean Miercurea Ciuc (S+D+P+4E)”; Hotărârea nr. 451/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/11/Hot-451-2024.pdf",
+     "sha256": "62574a5eee3762ce781bf2c9625b4b7310481a38d0294169a6a618ff15919395"
+    }
+   ]
+  },
+  {
    "slug": "hcj-harghita-452-2024",
    "path": "local/judet/harghita/2024/452",
    "short": "HCJ Harghita nr. 452/2024",
@@ -59,6 +2009,216 @@
      "units": 1,
      "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-452-2024.pdf",
      "sha256": "395dda86e17cb11e70eb4a1246ba20d654a67e16d58ece0aadbdcf6490d18bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-453-2024",
+   "path": "local/judet/harghita/2024/453",
+   "short": "HCJ Harghita nr. 453/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 453/2024 privind desemnarea reprezentantului Consiliului Județean Harghita în calitate de membru în Consiliul de administrație din cadrul Școlii Profesionale Speciale „Szent Anna” Miercurea Ciuc; Hotărârea nr. 453/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-453-2024.pdf",
+     "sha256": "54712e7c37470b35965b417ea0af41a72dce8868506a40664c3ec35d899cb637"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-454-2024",
+   "path": "local/judet/harghita/2024/454",
+   "short": "HCJ Harghita nr. 454/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 454/2024 privind desemnarea reprezentantului Consiliului Județean Harghita în calitate de membru în Consiliul de administrație din cadrul Centrului Școlar pentru Educație Incluzivă Ocland; Hotărârea nr. 454/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-454-2024.pdf",
+     "sha256": "5d6dc0732cda2c88610fd66f63afc60d18b28fcbabc429e560184bd79f860287"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-455-2024",
+   "path": "local/judet/harghita/2024/455",
+   "short": "HCJ Harghita nr. 455/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 455/2024 privind desemnarea reprezentantului Consiliului Județean Harghita în calitate de membru în Consiliul de administrație din cadrul Centrului Școlar pentru Educație Incluzivă Bilbor; Hotărârea nr. 455/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-455-2024.pdf",
+     "sha256": "c3ff1d420706b9a0803854dabd41e51287330101ffdf1b8e726659fb64fa4c66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-456-2024",
+   "path": "local/judet/harghita/2024/456",
+   "short": "HCJ Harghita nr. 456/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 456/2024 privind desemnarea reprezentantului Consiliului Judeţean Harghita în calitate de membru în Consiliul de administrație din cadrul Centrului Judeţean de Resurse şi Asistenţă Educaţională Harghita; Hotărârea nr. 456/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-456-2024.pdf",
+     "sha256": "ddad3e61e17d8e1d5ab8a5c9d93e48f1e872fe80bd27db90b39ee94090342465"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-457-2024",
+   "path": "local/judet/harghita/2024/457",
+   "short": "HCJ Harghita nr. 457/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 457/2024 privind desemnarea reprezentanților Consiliului Județean Harghita care să facă parte din comisia de concurs/examen respectiv comisia de soluționare a contestațiilor pentru ocuparea funcției de director medical din cadrul Spitalului Județean de Urgență Miercurea-Ciuc; Hotărârea nr. 457/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-457-2024.pdf",
+     "sha256": "1922060a5ff4cf77233c07a0b3cb0d43979fc18effdcc129f8c4d501c5150ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-458-2024",
+   "path": "local/judet/harghita/2024/458",
+   "short": "HCJ Harghita nr. 458/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 458/2024 privind aprobarea depunerii Cererii de finanțare și a activităților prin care va fi implicat U.A.T",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-458-2024.pdf",
+     "sha256": "7878c7cb95d5a579b10b037be45166fcd24c023cfce6645f760e59adedc00506"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-459-2024",
+   "path": "local/judet/harghita/2024/459",
+   "short": "HCJ Harghita nr. 459/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 459/2024 privind repartizarea pe unități administrativ-teritoriale a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 459/28.11.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-459-2024.pdf",
+     "sha256": "4812f9f6e42ba2881a0ca1eace93211ab779218d1672b8adaab3bd5a7949a13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-460-2024",
+   "path": "local/judet/harghita/2024/460",
+   "short": "HCJ Harghita nr. 460/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 460/2024 privind rectificarea bugetului de venituri și cheltuieli al județului Harghita și utilizarea fondului de rezervă bugetară la dispoziția Consiliului Județean Harghita pe anul 2024; Hotărârea nr. 460/09.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-460-2024.pdf",
+     "sha256": "a1f9271a907733dd13c5a6026e03376589c1ddc0b37c37582d3785c59d39a41d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-461-2024",
+   "path": "local/judet/harghita/2024/461",
+   "short": "HCJ Harghita nr. 461/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 461/2024 privind aprobarea prelungirii termenului de implementare ca proiect nefinalizat cu titlul „Dezvoltarea de noi servicii sociale prin înființarea unui centru de zi și a unei case tip familial în localitatea Bilbor, județul Harghita”, Cod SMIS 146176 în cadrul Programului Regional Centru 2021-2027, după data de 31.12.2024 în scopul realizării integrale a acestora, atingerii indicativelor, rezultatelo",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-461-2024.pdf",
+     "sha256": "17c7746269378886cad74fbf65d232186b19a5728e7c6804a3240248ad5ac0a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-462-2024",
+   "path": "local/judet/harghita/2024/462",
+   "short": "HCJ Harghita nr. 462/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 462/2024 privind aprobarea prelungirii termenului de implementare ca proiect nefinalizat cu titlul „Desfiinţarea Centrului de Plasament Bilbor şi înfiinţarea unei case de tip familial pentru copii în localitatea Bilbor, judeţul Harghita”, cod MySMIS 146177 în cadrul Programului Regional Centru 2021-2027, după data de 31.12.2024 în scopul realizării integrale a acestora, atingerii indicativelor, rezultatelo",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-462-2024.pdf",
+     "sha256": "ab4a878b7cdbd7aadbd52dec17a3a2bd0ce1458cffc9482e31a25bd6739c6de6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-463-2024",
+   "path": "local/judet/harghita/2024/463",
+   "short": "HCJ Harghita nr. 463/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 463/2024 privind modificarea Hotărârii Consiliului Județean Harghita nr. 21/2022 privind aprobarea derulării multianuale a programului „Acordarea distincțiilor de excelență pentru dezvoltarea și promovarea valorilor judeţului Harghita”, pe perioada 2022–2024, cu modificările și completările ulterioare; Hotărârea nr. 463/09.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-463-2024.pdf",
+     "sha256": "83286ef055bf03eab074d6d5f182f50d6b2d0823b410ea28430daa9109a84ea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-464-2024",
+   "path": "local/judet/harghita/2024/464",
+   "short": "HCJ Harghita nr. 464/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 464/2024 privind repartizarea pe unități administrativ-teritoriale a unei sume din Fondul la dispoziția Consiliului Județean Harghita constituit din cota de 6% din impozitul pe venit, pe anul 2024; Hotărârea nr. 464/09.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-464-2024.pdf",
+     "sha256": "a3271c3ba34e928344208c8e873d539c05f7613b87700e93ff2abb90d5a3ba0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-465-2024",
+   "path": "local/judet/harghita/2024/465",
+   "short": "HCJ Harghita nr. 465/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 465/2024 privind aprobarea organizării reţelei şcolare de învăţământ special din judeţul Harghita, pentru anul şcolar 2025-2026; Hotărârea nr. 465/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-465-2024.pdf",
+     "sha256": "d1f7263ae5232dea745a15f86ba68cbe87c25ad30a03e957294408099e5dcb20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-466-2024",
+   "path": "local/judet/harghita/2024/466",
+   "short": "HCJ Harghita nr. 466/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 466/2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/33/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-466-2024.pdf",
+     "sha256": "e0bc409746979be3211fcb51fcbf7e097b0e9ae737e35b69dbac57eaf004d338"
     }
    ]
   },
@@ -104,6 +2264,306 @@
      "units": 1,
      "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-469-2024.pdf",
      "sha256": "8cde9371fd05a1b6e4173bdea9e2909c0e93d040594642c1af8bba79713f3bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-470-2024",
+   "path": "local/judet/harghita/2024/470",
+   "short": "HCJ Harghita nr. 470/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 470/2024 privind aprobarea Contractului model-cadru care va fi încheiat între Judeţul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-470-2024.pdf",
+     "sha256": "35afb1d83bee2bddf75925b3d356d44b95aab8e068f5b7e5bd5569de0fc602db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-471-2024",
+   "path": "local/judet/harghita/2024/471",
+   "short": "HCJ Harghita nr. 471/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 471/2024 privind aprobarea Contractului model-cadru care va fi încheiat între Judeţul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-471-2024.pdf",
+     "sha256": "f53d27f872e1c1cfa42f618ff8471c9225bcc0969f9868fb90d9f106a391266c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-472-2024",
+   "path": "local/judet/harghita/2024/472",
+   "short": "HCJ Harghita nr. 472/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 472/2024 privind aprobarea prelungirii valabilității Contractului de concesiune nr. 24328/2009 încheiat, între",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-472-2024.pdf",
+     "sha256": "0bd5c262259e86bc4ed78fce1d2054af8e90fde5f7fde545bbd674148cbf3b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-473-2024",
+   "path": "local/judet/harghita/2024/473",
+   "short": "HCJ Harghita nr. 473/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 473/2024 privind aprobarea participării județului Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-473-2024.pdf",
+     "sha256": "22d56cf78a33e196ed639f49b31b4654660085a3d8c07d4632157816dba49c71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-474-2024",
+   "path": "local/judet/harghita/2024/474",
+   "short": "HCJ Harghita nr. 474/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 474/2024 privind desemnarea reprezentantului Județului Harghita în Adunarea Generală a Asociațiilor a societății “ Întreținere Drumuri Harghita” S.R.L; Hotărârea nr. 474/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-474-2024.pdf",
+     "sha256": "f318ad6328ccf9af32498192606e29c14ca4b286312b2368e6708ac28b9bb435"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-475-2024",
+   "path": "local/judet/harghita/2024/475",
+   "short": "HCJ Harghita nr. 475/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 475/2024 privind mandatarea reprezentantului asociatului unic Județul Harghita prin",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-475-2024.pdf",
+     "sha256": "a574fbdd283965ac85c9ea4b8115212e13f94bb4a584fc59281394326e1c4d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-476-2024",
+   "path": "local/judet/harghita/2024/476",
+   "short": "HCJ Harghita nr. 476/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 476/2024 privind aprobarea listei nominale cu persoanele care sunt propuse de a beneficia de stimulent financiar în luna decembrie 2024 din cadrul Spitalului Județean de Urgență Miercurea Ciuc; Hotărârea nr. 476/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-476-2024.pdf",
+     "sha256": "3cc2cc475b1f3df23efc8f49c0a40db64c3826e778f3b544d7de175a66385714"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-477-2024",
+   "path": "local/judet/harghita/2024/477",
+   "short": "HCJ Harghita nr. 477/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 477/2024 privind aprobarea execuţiei bugetului de venituri şi cheltuieli al judeţului Harghita la 30 noiembrie 2024; Hotărârea nr. 477/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-477-2024.pdf",
+     "sha256": "b3869c8d2da150f7b9d4fbe73df5e9faccdac7962bc0ce2e365805109b8e5c6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-478-2024",
+   "path": "local/judet/harghita/2024/478",
+   "short": "HCJ Harghita nr. 478/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 478/2024 privind transmiterea unor construcții din domeniul public al județului Harghita în domeniul privat al județului Harghita aflate în administrarea Spitalului Județean de Urgență Miercurea – Ciuc în vederea demolării, scoaterea din funcțiune și casarea acestora; Hotărârea nr. 478/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-478-2024.pdf",
+     "sha256": "717c51b7751bfeba0168fce2d0c7d6067ecf3019a6b7e7c99cc09a2d7f05d131"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-479-2024",
+   "path": "local/judet/harghita/2024/479",
+   "short": "HCJ Harghita nr. 479/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 479/2024 privind modificarea Anexei nr. 1 la Hotărârea Consiliului Județean Harghita nr. 317/2020 privind aprobarea includerii în domeniul privat al Județului Harghita a unor bunuri, respectiv aprobării modificării, completării inventarului actualizat al bunurilor imobile care aparţin domeniului privat al judeţului Harghita; Hotărârea nr. 479/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-479-2024.pdf",
+     "sha256": "80c6cddb72cbbb340f66b056f6d5e954a29f939ec11f9f9a7eeee368190dea00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-480-2024",
+   "path": "local/judet/harghita/2024/480",
+   "short": "HCJ Harghita nr. 480/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 480/2024 privind aprobarea prelungirii valabilității Contractului de concesiune nr. 24324/2009 încheiat, între",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-480-2024.pdf",
+     "sha256": "29d8b247156620bfdea663fa9d709456cf3dd5c6d84c0c037691c898dc399d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-481-2024",
+   "path": "local/judet/harghita/2024/481",
+   "short": "HCJ Harghita nr. 481/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 481/2024 privind aprobarea prelungirii valabilității unor contracte încheiate pentru folosința unor spații din imobilele aflate în patrimoniul județului Harghita; Hotărârea nr. 481/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-481-2024.pdf",
+     "sha256": "bee1fd8567d330a1e7cacebdaa32568ec4182723b625508829a5b7c43bf242bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-482-2024",
+   "path": "local/judet/harghita/2024/482",
+   "short": "HCJ Harghita nr. 482/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 482/2024 privind rectificarea bugetului de venituri și cheltuieli al județului Harghita pe anul 2024; Hotărârea nr. 482/16.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-482-2024.pdf",
+     "sha256": "2f291c3af52d231c932b637cda6c4435db8b375df7ebd0d0e3655840120fa5c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-483-2024",
+   "path": "local/judet/harghita/2024/483",
+   "short": "HCJ Harghita nr. 483/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 483/2024 privind aprobarea modificării Hotărârii Consiliului Județean Harghita cu nr. 471/2023 privind aprobarea prelungirii termenului de implementare ca proiect nefinalizat cu titlul: “Creșterea siguranței pacienților în Spitalul Județean de Urgență Miercurea Ciuc prin investiții în sisteme de detectare, semnalizare, alarmare incendii și a depășirii concentrației maxime admise de oxigen în atmosferă, ext",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-483-2024.pdf",
+     "sha256": "2506f3d5e2a241aac9d5d952e97ea384ece66d12296c221a9ac7808ba3a36b7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-484-2024",
+   "path": "local/judet/harghita/2024/484",
+   "short": "HCJ Harghita nr. 484/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 484/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-484-2024.pdf",
+     "sha256": "60413a489ee5d49c1cc1402c919a1d727e18dbc80d217ddf9efb29575a389a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-485-2024",
+   "path": "local/judet/harghita/2024/485",
+   "short": "HCJ Harghita nr. 485/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 485/2024 privind revocarea Hotărârii Consiliului Județean Harghita nr. 254/2024 privind darea în folosință gratuită unităților administrativ-teritoriale Municipiul Odorheiu Secuiesc, Municipiul Gheorgheni, Orașul Băile Tușnad, Comuna Ciceu, Comuna Corbu, Comuna Corund, Comuna Lăzarea, Comuna Lueta, Comuna Plăieșii de Jos, Comuna Satu Mare, Comuna Subcetate, Comuna Zetea a unor bunuri aflate în domeniul pri",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-485-2024.pdf",
+     "sha256": "683a7e6090cc76723680a932e1c9d078803b4ed5d3f70297e959fb56746827c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-486-2024",
+   "path": "local/judet/harghita/2024/486",
+   "short": "HCJ Harghita nr. 486/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 486/2024 privind aprobarea Studiului de fezabilitate pentru obiectivul de investiţii „Înființarea de centre de colectare prin aport voluntar din cadrul Programului Național de Redresare și Reziliență în comuna Mugeni și comuna Lăzarea din județul Harghita”; Hotărârea nr. 486/23.12.2024",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/32/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-486-2024.pdf",
+     "sha256": "fa6d6e348e36c7b58ea77ec45779953559753e60c5d15a45793a9b88ef605a99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-487-2024",
+   "path": "local/judet/harghita/2024/487",
+   "short": "HCJ Harghita nr. 487/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 487/2024 privind aprobarea prelungirii termenului de implementare ca proiect nefinalizat cu titlul „Creșterea gradului de acoperire a nevoilor de servicii sociale în județul Harghita prin dezinstituționalizarea copiilor aflați în grija statului și dezvoltarea serviciilor alternative de îngrijire a acestora în comunitate”, cod MySMIS 130477 în cadrul Programului Regional Centru 2021-2027, după data de 31.12",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/31/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-487-2024.pdf",
+     "sha256": "458c3b354a6dea349d2db133087336495047c3162459e66d3cd2541894575628"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-488-2024",
+   "path": "local/judet/harghita/2024/488",
+   "short": "HCJ Harghita nr. 488/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 488/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/12/Hot-488-2024.pdf",
+     "sha256": "779052ef58274e141b6757e5fc6d8380061d92ba2c0c2aeb8790a38dcc0b947d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-91-2024",
+   "path": "local/judet/harghita/2024/91",
+   "short": "HCJ Harghita nr. 91/2024",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 91/2024 pentru aprobarea componenţei Comisiei de selecţie şi a Comisiei de soluţionare a contestaţiilor privind: Programul general de finanțare nerambursabilă al proiectelor culturale pe anul 2024, Programul special de finanțare nerambursabilă a porturilor populare și a costumelor tradiționale pe anul 2024, Programul special de finanţare nerambursabilă al proiectelor culturale ale comunităţii româneşti di",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/51/",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://hargitamegye.ro/wp-content/uploads/2024/05/Hot-091-3-2024.pdf",
+     "sha256": "7a457c8c3bbde81d7ffa3ef1903194a94556743fe01aa7c9af916f79aaf37d3a"
     }
    ]
   }

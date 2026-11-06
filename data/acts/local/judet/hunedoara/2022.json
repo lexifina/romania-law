@@ -1106,6 +1106,28 @@
 }
 },
 {
+"slug": "hcj-hunedoara-56-2022",
+"path": "local/judet/hunedoara/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 56/2022 privind utilizarea excedentului anual al bugetului propriu al județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2021, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2022",
+"short": "HCJ Hunedoara nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-21",
+"latest": "2022-03-21",
+"portal": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-hunedoara-57-2022",
 "path": "local/judet/hunedoara/2022/57",
 "kind": "local",

@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/maramures/2021",
+"acts": [
+{
+"slug": "hcj-maramures-2-2021",
+"path": "local/judet/maramures/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 2/2021",
+"short": "HCJ Maramureș nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-15",
+"latest": "2021-01-15",
+"portal": "https://www.cjmaramures.ro/component/k2/12311",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-8-2021",
+"path": "local/judet/maramures/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 8/2021",
+"short": "HCJ Maramureș nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://www.cjmaramures.ro/component/k2/12326",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-21-2021",
+"path": "local/judet/maramures/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 21/2021",
+"short": "HCJ Maramureș nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://www.cjmaramures.ro/component/k2/12383",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-261-2021",
+"path": "local/judet/maramures/2021/261",
+"kind": "local",
+"year": "2021",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 261/2021",
+"short": "HCJ Maramureș nr. 261/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-12",
+"latest": "2021-11-12",
+"portal": "https://www.cjmaramures.ro/component/k2/13048",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

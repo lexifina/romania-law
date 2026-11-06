@@ -1240,6 +1240,28 @@
 }
 },
 {
+"slug": "hcj-gorj-142-2025",
+"path": "local/judet/gorj/2025/142",
+"kind": "local",
+"year": "2025",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 142/2025",
+"short": "HCJ Gorj nr. 142/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-gorj-143-2025",
 "path": "local/judet/gorj/2025/143",
 "kind": "local",
@@ -1293,6 +1315,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Gorj nr. 147/2025 pentru validarea rezultatelor concursurilor organizate în vederea ocupării unor funcții de conducere vacante de șef de secție din cadrul unității sanitare publice – Spitalul Judeţean de Urgență Târgu Jiu",
 "short": "HCJ Gorj nr. 147/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-19",
+"latest": "2025-05-19",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-gorj-148-2025",
+"path": "local/judet/gorj/2025/148",
+"kind": "local",
+"year": "2025",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 148/2025 privind modificarea Hotărârii Consiliului Județean Gorj nr. 106/04.04.2025 pentru constituirea comisiilor de concurs/ examinare și a comisiilor de soluționare a contestațiilor la concursurile/examenele de ocupare a unor funcții de conducere vacante de șef de secție din cadrul Spitalului Județean de Urgență Târgu Jiu",
+"short": "HCJ Gorj nr. 148/2025",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,
@@ -2247,6 +2291,28 @@
 "versions": 1,
 "from": "2025-08-18",
 "latest": "2025-08-18",
+"portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "judet/gorj",
+"council_name": "Consiliul Județean Gorj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-gorj-203-2025",
+"path": "local/judet/gorj/2025/203",
+"kind": "local",
+"year": "2025",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Gorj nr. 203/2025",
+"short": "HCJ Gorj nr. 203/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
 "portal": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
 "council": "judet/gorj",
 "council_name": "Consiliul Județean Gorj",

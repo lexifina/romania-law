@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2020",
+ "acts": [
+  {
+   "slug": "hcj-maramures-114-2020",
+   "path": "local/judet/maramures/2020/114",
+   "short": "HCJ Maramureș nr. 114/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 114/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/11791",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4903_c60a107d3f5b87bd4e61d114b9fd7242",
+     "sha256": "f74727d2904c8ca6dc2d8f6d87e334fbfba661b5e391076dc213983abcd04ece"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-202-2020",
+   "path": "local/judet/maramures/2020/202",
+   "short": "HCJ Maramureș nr. 202/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 202/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/12106",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/5257_4d3ea65e57a5379019bc368f202e47cc",
+     "sha256": "4ccf2263357c8fdff8aada762a657f740ffecd3c8efd44e6f238b3e5a22ab41a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-33-2020",
+   "path": "local/judet/maramures/2020/33",
+   "short": "HCJ Maramureș nr. 33/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 33/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/11435",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4629_9923c52d9e5e33cea5fb646908a20a98",
+     "sha256": "b0018c02b395f21c819ee9e890c8d670008aaef607d7784292a8ca8c5e526f06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-5-2020",
+   "path": "local/judet/maramures/2020/5",
+   "short": "HCJ Maramureș nr. 5/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 5/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/11356",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4544_dc1b5a3b8e44b37210469a3139a41b8d",
+     "sha256": "aa8a4283e37999c2d6863843bff1414a8b061eff64959a612a774a782b6d7223"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-54-2020",
+   "path": "local/judet/maramures/2020/54",
+   "short": "HCJ Maramureș nr. 54/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 54/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/11456",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4648_1d0e5df54c3457e90468c3f88bc5de28",
+     "sha256": "a94d949c82726f426ea425694e33969c9c460b471d7cc0ca58c1a43a4f4f2c76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-72-2020",
+   "path": "local/judet/maramures/2020/72",
+   "short": "HCJ Maramureș nr. 72/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 72/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/11551",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4719_ec9faf3cea6a2cb3887d1d2fc4da4d72",
+     "sha256": "17f00d4c392264b9e71431dfc42a59339d1bc8aa1bb4851b4bbe3501e1a9a2b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-90-2020",
+   "path": "local/judet/maramures/2020/90",
+   "short": "HCJ Maramureș nr. 90/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 90/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/11650",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4786_d88ad6e7c462c90b8b385c91ca2380df",
+     "sha256": "d3b7d59bdaea671389eb2b0c5ce86a7cd3b12a15774f79985985c6d53883bbf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-98-2020",
+   "path": "local/judet/maramures/2020/98",
+   "short": "HCJ Maramureș nr. 98/2020",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 98/2020",
+   "url": "https://www.cjmaramures.ro/component/k2/11698",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4829_2873b98ae31fe28d5dc59661db41bd49",
+     "sha256": "6a4b6d46bc4d335e01d199dc137064167dec053b419ae0c7b61fcd9163c3b57b"
+    }
+   ]
+  }
+ ]
+}

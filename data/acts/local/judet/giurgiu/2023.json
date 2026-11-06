@@ -4663,6 +4663,28 @@
 }
 },
 {
+"slug": "hcj-giurgiu-275-2023",
+"path": "local/judet/giurgiu/2023/275",
+"kind": "local",
+"year": "2023",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 275/2023 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.257 din 22 septembrie 2023 privind exprimarea interesului de inițiere a elaborării/actualizării unei strategii de dezvoltare teritorială integrată pentru ZONA ITI DUNĂREA TELEORMAN-GIURGIU-CĂLĂRAȘI și asocierea Județului Giurgiu cu județele Teleorman și Călărași, precum și cu unități administrativ-teritoriale de pe raza celor trei județe",
+"short": "HCJ Giurgiu nr. 275/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-277-2023",
 "path": "local/judet/giurgiu/2023/277",
 "kind": "local",
@@ -4959,6 +4981,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Giurgiu nr. 293/2023 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții „Inființare trotuare pe strada Teiului (DJ505) în Comuna Putineiu, Județul Giurgiu” la faza Proiect tehnic de execuție întrunit în ședință ordinară,",
 "short": "HCJ Giurgiu nr. 293/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-295-2023",
+"path": "local/judet/giurgiu/2023/295",
+"kind": "local",
+"year": "2023",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 295/2023 privind aprobarea documentației tehnico – economice pentru obiectivul de investiții „Reabilitare și îmbunătățirea eficienței energetice-sediul DGASPC Giurgiu” la faza Proiect tehnic",
+"short": "HCJ Giurgiu nr. 295/2023",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

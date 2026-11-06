@@ -948,6 +948,111 @@
    ]
   },
   {
+   "slug": "hcj-galati-162-2016",
+   "path": "local/judet/galati/2016/162",
+   "short": "HCJ Galați nr. 162/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 162/2016",
+   "url": "https://cjgalati.ro/hotararea-162-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-10",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot162-101016.pdf",
+     "sha256": "a6281f984fef69af07b0f7afd0e5c1a3c51453d99c66fe6829ad48bda247d6e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-163-2016",
+   "path": "local/judet/galati/2016/163",
+   "short": "HCJ Galați nr. 163/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 163/2016 pentru stabilirea stãrii de normalitate în localitãțile afectate de inundațiile din perioada 11-13.10.2016; Având în vedere Hotărârea nr. 12 din data de 19.10.2016 și Hotărârea nr. 13 din data de 21.10.2016 ale Comitetului Județean pentru Situații de Urgențã Galați privind măsurile adoptate în cadrul ședinței extraordinare de lucru a comitetului; Având în vedere studiul de piațã nr. 8201 din 20.10",
+   "url": "https://cjgalati.ro/hotararea-163-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot163-211016.pdf",
+     "sha256": "280c0e2136c3cbc8c6528ba51d3b75bd9d76ed5c257e0a6f377416b09525a0bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-164-2016",
+   "path": "local/judet/galati/2016/164",
+   "short": "HCJ Galați nr. 164/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 164/2016",
+   "url": "https://cjgalati.ro/hotararea-164-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot164-211016.pdf",
+     "sha256": "0c1e35078440a2babb28aaac36a1030add0aa2b4593c54fb84044d57a888cde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-165-2016",
+   "path": "local/judet/galati/2016/165",
+   "short": "HCJ Galați nr. 165/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 165/2016 pentru buget – finanțe, strategii, studii și prognoză economico – socială, al Comisiei de specialitate nr. 2 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectu",
+   "url": "https://cjgalati.ro/hotararea-165-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot165-211016.pdf",
+     "sha256": "11b9f1023d5f7742f47e06364878d22fe9f22ec16d0ba166e1a0d4909a1e1be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-166-2016",
+   "path": "local/judet/galati/2016/166",
+   "short": "HCJ Galați nr. 166/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 166/2016",
+   "url": "https://cjgalati.ro/hotararea-166-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot166-311016.pdf",
+     "sha256": "65465598387df9c39e623416ab0ae04d6c5941b2d0c06cc280b5c0aa99e071e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-167-2016",
+   "path": "local/judet/galati/2016/167",
+   "short": "HCJ Galați nr. 167/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 167/2016",
+   "url": "https://cjgalati.ro/hotararea-167-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot167-311016.pdf",
+     "sha256": "05aa41d41de7bb8ddf1db2961178f8535231bd1977258cde9df9473170f005f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-168-2016",
+   "path": "local/judet/galati/2016/168",
+   "short": "HCJ Galați nr. 168/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 168/2016",
+   "url": "https://cjgalati.ro/hotararea-168-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot168-311016.pdf",
+     "sha256": "7783bcdf77e1a8f84e4e61577a3664165d39c87a770e2ab378cd9d3efa5ba686"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-169-2016",
    "path": "local/judet/galati/2016/169",
    "short": "HCJ Galați nr. 169/2016",
@@ -963,6 +1068,81 @@
    ]
   },
   {
+   "slug": "hcj-galati-170-2016",
+   "path": "local/judet/galati/2016/170",
+   "short": "HCJ Galați nr. 170/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 170/2016",
+   "url": "https://cjgalati.ro/hotararea-170-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot170-311016.pdf",
+     "sha256": "42b03752cf821feda2a539b2181002fdbd14ee239c75f6e02aac50a0cc75150e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-171-2016",
+   "path": "local/judet/galati/2016/171",
+   "short": "HCJ Galați nr. 171/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 171/2016",
+   "url": "https://cjgalati.ro/hotararea-171-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot171-311016.pdf",
+     "sha256": "ab763f7e0d78f0cc13cca5d1283d62ff04d4b633de447e5fa04ec45b0d803e2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-172-2016",
+   "path": "local/judet/galati/2016/172",
+   "short": "HCJ Galați nr. 172/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 172/2016",
+   "url": "https://cjgalati.ro/hotararea-172-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot172-311016.pdf",
+     "sha256": "46739eb55fc9bd85c840bd8b4625da30acdd9b37890bbd5d75dda4e8560f5be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-173-2016",
+   "path": "local/judet/galati/2016/173",
+   "short": "HCJ Galați nr. 173/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 173/2016",
+   "url": "https://cjgalati.ro/hotararea-173-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot173-311016.pdf",
+     "sha256": "2bd379bb6e96bf081cc1159ea6658d13b04a9a2aa1b2e116fe2493c1c1a7da3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-174-2016",
+   "path": "local/judet/galati/2016/174",
+   "short": "HCJ Galați nr. 174/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 174/2016",
+   "url": "https://cjgalati.ro/hotararea-174-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot174-311016.pdf",
+     "sha256": "c6011eb223af5eab6b2b9aef6ce07b94bae8bf4d6073f0d298e52eb45dfc0a40"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-175-2016",
    "path": "local/judet/galati/2016/175",
    "short": "HCJ Galați nr. 175/2016",
@@ -974,6 +1154,21 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot175-311016.pdf",
      "sha256": "9319535bd27bcbd31de3b610580685f49453175d9c982a53778046c768c0aab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-176-2016",
+   "path": "local/judet/galati/2016/176",
+   "short": "HCJ Galați nr. 176/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 176/2016",
+   "url": "https://cjgalati.ro/hotararea-176-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot176-311016.pdf",
+     "sha256": "03876e8d7a62558343f4f72947c2df4805cb3cee81690a33940dd2ed798bd144"
     }
    ]
   },
@@ -1038,6 +1233,21 @@
    ]
   },
   {
+   "slug": "hcj-galati-181-2016",
+   "path": "local/judet/galati/2016/181",
+   "short": "HCJ Galați nr. 181/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 181/2016",
+   "url": "https://cjgalati.ro/hotararea-181-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot181-311016.pdf",
+     "sha256": "b87abe1603cdb9cb71536fde9cf19c7e5df690eeb63f2476714858c693303d58"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-182-2016",
    "path": "local/judet/galati/2016/182",
    "short": "HCJ Galați nr. 182/2016",
@@ -1049,6 +1259,291 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot182-311016.pdf",
      "sha256": "3762cd99d1274a06d6ffa3d825e32d96aed8b9a93aea6c38a68a5dc6531b303c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-183-2016",
+   "path": "local/judet/galati/2016/183",
+   "short": "HCJ Galați nr. 183/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 183/2016 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Ministrului Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice nr. 67/2015 privind aprobarea Standardelor minime de calitate pentru acreditarea serviciilor sociale destinate persoanelor adulte cu dizabilități ; Având în veder",
+   "url": "https://cjgalati.ro/hotararea-183-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot183-311016.pdf",
+     "sha256": "ecfed35bb8052c46d07a37ba1600d75e410fd42bbe0d9bed5587781284d6aeec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-184-2016",
+   "path": "local/judet/galati/2016/184",
+   "short": "HCJ Galați nr. 184/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 184/2016 pentru Spitalul Clinic Județean de Urgență “Sf",
+   "url": "https://cjgalati.ro/hotararea-184-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot184-311016.pdf",
+     "sha256": "65c76e2cde1adf3cbcba3f3ac260b2e19c75a1f5a451fb751d5a308526070138"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-185-2016",
+   "path": "local/judet/galati/2016/185",
+   "short": "HCJ Galați nr. 185/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 185/2016",
+   "url": "https://cjgalati.ro/hotararea-185-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot185-311016.pdf",
+     "sha256": "0d1b5de0dd99f013de4f32d5031aa5b503a3fbc6206bbac732385a77e1964c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-186-2016",
+   "path": "local/judet/galati/2016/186",
+   "short": "HCJ Galați nr. 186/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 186/2016",
+   "url": "https://cjgalati.ro/hotararea-186-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot186-311016.pdf",
+     "sha256": "864cdd3bbf9f695203585c3967a11e6fdea264ab7148b32a58d0b5c14dc42308"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-187-2016",
+   "path": "local/judet/galati/2016/187",
+   "short": "HCJ Galați nr. 187/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 187/2016",
+   "url": "https://cjgalati.ro/hotararea-187-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot187-311016.pdf",
+     "sha256": "5e2e88aea7f81eecd9b4a002723e4c05eedef1682cfd8df6a517491eb96173ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-188-2016",
+   "path": "local/judet/galati/2016/188",
+   "short": "HCJ Galați nr. 188/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 188/2016 pentru anul 2017 Inițiatori: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-188-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot188-311016.pdf",
+     "sha256": "425266f917d8dfde8e4c536835dc11c4b62d378d5eb29d7caacc2b44e40752c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-189-2016",
+   "path": "local/judet/galati/2016/189",
+   "short": "HCJ Galați nr. 189/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 189/2016 privind aprobarea Convenției de asociere între Consiliului Județean Galați, Direcția Generală de Asistență Socială și Protecția Copilului și Fundația SERA România în vederea construirii și amenajării a două case de tip familial; Având în vedere adresa nr. 5246/14.07.2016 a Direcției Generale de Asistență Socială și Protecția Copilului; Având în vedere prevederile art. 91 alin. (1) lit. d), alin. (",
+   "url": "https://cjgalati.ro/hotararea-189-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot189-311016.pdf",
+     "sha256": "d21de73b93ea756a325271ae452f7ca598007eb467eafca9b47082f6ea2bb539"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-190-2016",
+   "path": "local/judet/galati/2016/190",
+   "short": "HCJ Galați nr. 190/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 190/2016 pentru buget - finanțe, strategii, studii și prognoză economico-socială și nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere adresa Agenției Județene pentru Ocuparea Forței de Muncă Galați nr. 17614/30.09.2016, înregistrată la",
+   "url": "https://cjgalati.ro/hotararea-190-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot190-311016.pdf",
+     "sha256": "a4a6d9dc2288d71afef49fa8b1eb0b2b9c16efe5741c31b871b9708ada05e36c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-191-2016",
+   "path": "local/judet/galati/2016/191",
+   "short": "HCJ Galați nr. 191/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 191/2016 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; HOTĂRÂREA Nr. 191 din 31 octombrie 2016 Pag. nr. 2 Având în vedere art. 91 alin. (1) lit. (b), alin. (3) lit. a), art. 104 alin. (1) lit. c) din Legea nr. 215/2001privind administrația publică locală, republicată, cu modificările și completările ulterioare; În baza prevederilor art. 97 alin. (1) din Legea nr",
+   "url": "https://cjgalati.ro/hotararea-191-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot191-311016.pdf",
+     "sha256": "3e54542b229282d83e55678dde7b8d3ccb3064b60152aacc7d450b3316f26fb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-192-2016",
+   "path": "local/judet/galati/2016/192",
+   "short": "HCJ Galați nr. 192/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 192/2016",
+   "url": "https://cjgalati.ro/hotararea-192-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot192-311016.pdf",
+     "sha256": "372ce9c7002867715fa95a453fd31f381dadf044a9b60817a1b37e898c829bd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-193-2016",
+   "path": "local/judet/galati/2016/193",
+   "short": "HCJ Galați nr. 193/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 193/2016 pentru o perioadă de 6 ani, Fundației „Inimă de Copil” a unei părți din imobilul situat în municipiul Galați, str",
+   "url": "https://cjgalati.ro/hotararea-193-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot193-311016.pdf",
+     "sha256": "cab34460b20237ea77b1b75670d1b8e49ab279e3e2ca4053f274200151aa1119"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-194-2016",
+   "path": "local/judet/galati/2016/194",
+   "short": "HCJ Galați nr. 194/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 194/2016",
+   "url": "https://cjgalati.ro/hotararea-194-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot194-311016.pdf",
+     "sha256": "743e86e5b158351693fe9de487e111e8eac7ed47ffe58e35054566b43aeac142"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-195-2016",
+   "path": "local/judet/galati/2016/195",
+   "short": "HCJ Galați nr. 195/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 195/2016",
+   "url": "https://cjgalati.ro/hotararea-195-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot195-311016.pdf",
+     "sha256": "94f72875db8214427e566a1761ac83c9cc49f001a416d721be2a2566e795db3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-196-2016",
+   "path": "local/judet/galati/2016/196",
+   "short": "HCJ Galați nr. 196/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 196/2016 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement ale Consiliului Județean Galați și al Comisiei de specialitate nr. 5, juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională; Având în vedere prevederile art. 17, art. 91 alin. (5), lit. a), punctele 3",
+   "url": "https://cjgalati.ro/hotararea-196-oct2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot196-311016.pdf",
+     "sha256": "63d0b7b0c66dad8290e634495e617479d50068538913835c46baac9633fb3d3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-197-2016",
+   "path": "local/judet/galati/2016/197",
+   "short": "HCJ Galați nr. 197/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 197/2016",
+   "url": "https://cjgalati.ro/hotararea-197-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot197-291116.pdf",
+     "sha256": "43fe8706c2635e0b4c2dfe916a0af60cfca922d1c32aad610569e087c7fe576d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-198-2016",
+   "path": "local/judet/galati/2016/198",
+   "short": "HCJ Galați nr. 198/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 198/2016",
+   "url": "https://cjgalati.ro/hotararea-198-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot198-291116.pdf",
+     "sha256": "a799c8a5fc8da51f7cc3525130c6965a21ed730295d9a1a6fedc18d9fbcb41f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-199-2016",
+   "path": "local/judet/galati/2016/199",
+   "short": "HCJ Galați nr. 199/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 199/2016",
+   "url": "https://cjgalati.ro/hotararea-199-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot199-291116.pdf",
+     "sha256": "c97efe508bb0bc61c443aa073537a54922166540b2d9c568eea158fb90cb9f17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-2-2016",
+   "path": "local/judet/galati/2016/2",
+   "short": "HCJ Galați nr. 2/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 2/2016 pentru inregistrarea modificdriloArctuluiConstitutigvi a StatutuluAi socialiedi e Dezvoltarelntercomunitard ,,ECOSERVG\" alalila RegistruAl socialiilogri Fundaliilodre pe ldngdGrefaJudecdtoriei Galali. Art. 8. Prezentahotdr6rese comunicdtuturormembriloAr socia(iedi e Dezvoltare I n t e r c o m u n i t a r d , , E C O S EGRaVl a\"t i . PRE9EDtNTE, C O R N E LT ' A M Z A",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2016-03-10",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "f66a65b8d000b6e78dad31e001cfc488002c1006c81a91a9a8e2afa19e13e469"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-200-2016",
+   "path": "local/judet/galati/2016/200",
+   "short": "HCJ Galați nr. 200/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 200/2016",
+   "url": "https://cjgalati.ro/hotararea-200-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot200-291116.pdf",
+     "sha256": "b5ceb9c4ba163e6a0b7685543a616e2123b16aa4ff261e8bd7b4d51379790f2f"
     }
    ]
   },
@@ -1083,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcj-galati-203-2016",
+   "path": "local/judet/galati/2016/203",
+   "short": "HCJ Galați nr. 203/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 203/2016 privind avizarea modificării organigramei și a statelor de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Galați; Având în vedere Hotărârea nr. 390/30.09.2013 a Consiliului Județean Galați privind modificarea organigramei și a statelor de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Galați; Având în vedere prevederile art. 107 alin. (1) lit",
+   "url": "https://cjgalati.ro/hotararea-203-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot203-291116.pdf",
+     "sha256": "41cbfaad0f0e7accf0944fe60bcab565ac22804145a4fe484328f54a61dfccd9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-204-2016",
    "path": "local/judet/galati/2016/204",
    "short": "HCJ Galați nr. 204/2016",
@@ -1094,6 +1604,186 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot204-291116.pdf",
      "sha256": "d5e586f1bcdb0c984ab37e9407bf6d3fa254751285f3df77aef411f5b7b3344a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-205-2016",
+   "path": "local/judet/galati/2016/205",
+   "short": "HCJ Galați nr. 205/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 205/2016 privind administrația publică locală, republicată, cu modificările și completările ulterioare; În baza prevederilor art. 97 alin. (1) din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare; H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-205-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot205-291116.pdf",
+     "sha256": "1057799431a581439f7e516f1638d52af5e390b3811e3474eedf6004f11b724d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-206-2016",
+   "path": "local/judet/galati/2016/206",
+   "short": "HCJ Galați nr. 206/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 206/2016 pentru obiectivul de investiție „Reparații capitale la conductele purtătoare de fluide, Spitalul clinic județean de urgență <Sf",
+   "url": "https://cjgalati.ro/hotararea-206-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot206-291116.pdf",
+     "sha256": "ef10a5c46863e4d5d3503a290888820b7d24f96027f294a02a32c147a7136007"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-207-2016",
+   "path": "local/judet/galati/2016/207",
+   "short": "HCJ Galați nr. 207/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 207/2016",
+   "url": "https://cjgalati.ro/hotararea-207-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot207-291116.pdf",
+     "sha256": "2c279febb22a86be99c8bf762430a7bb6966d97254bdacbcfe7e6b5982f1c403"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-208-2016",
+   "path": "local/judet/galati/2016/208",
+   "short": "HCJ Galați nr. 208/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 208/2016 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană și al Comisiei de specialitate nr. 3 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice ale Consiliului Județean Galați; Având în vedere adresa nr. 2425/07.10.2016 a S.C",
+   "url": "https://cjgalati.ro/hotararea-208-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot208-291116.pdf",
+     "sha256": "d4160139ad55cbe8b63703b3f79f299ac2644393bb5f271d505f690228f29ca9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-209-2016",
+   "path": "local/judet/galati/2016/209",
+   "short": "HCJ Galați nr. 209/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 209/2016 privind aprobarea Master Planului revizuit și a Listei prioritare a obiectivelor de investiții ce asigură serviciile de apă și apă uzată în județul Galați Inițiatori: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-209-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot209-291116.pdf",
+     "sha256": "17ef31a9402e50b8b9b540df3e23c604a2e1f88e9498a299255247d74db08f76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-210-2016",
+   "path": "local/judet/galati/2016/210",
+   "short": "HCJ Galați nr. 210/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 210/2016 pentru anul 2016 Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-210-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot210-291116.pdf",
+     "sha256": "200ed7805e5e6ad445501238fb52096e4156033ea8e8edf0ecfe9f48849d01ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-211-2016",
+   "path": "local/judet/galati/2016/211",
+   "short": "HCJ Galați nr. 211/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 211/2016 pentru anul 2016 Inițiator: dl",
+   "url": "https://cjgalati.ro/hotararea-211-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot211-291116.pdf",
+     "sha256": "7a0901133fb2cf7d88021b9232c2640a4ea83518792b432768adf021bec47357"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-212-2016",
+   "path": "local/judet/galati/2016/212",
+   "short": "HCJ Galați nr. 212/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 212/2016 pentru anul 2016 Inițiator: dl",
+   "url": "https://cjgalati.ro/hotararea-212-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot212-291116.pdf",
+     "sha256": "1f5b66019154874cd1f7246c5ae3a46df38194271316ef8d45393e5d3d3bc8e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-213-2016",
+   "path": "local/judet/galati/2016/213",
+   "short": "HCJ Galați nr. 213/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 213/2016",
+   "url": "https://cjgalati.ro/hotararea-213-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot213-291116.pdf",
+     "sha256": "2dd4d59b11e561c4062c71fd22f019064aecfc44c137e14f6064936677cf79c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-214-2016",
+   "path": "local/judet/galati/2016/214",
+   "short": "HCJ Galați nr. 214/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 214/2016",
+   "url": "https://cjgalati.ro/hotararea-214-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot214-291116.pdf",
+     "sha256": "73005f8d1e25719391708170e2478649848a6988147365fe9ba777c292f5de85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-215-2016",
+   "path": "local/judet/galati/2016/215",
+   "short": "HCJ Galați nr. 215/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 215/2016 privind rectificarea bugetului de stat pe anul 2016; Având în vedere adresa nr. A2673/14.11.2016 a Centrului Militar Județean, înregistrată la",
+   "url": "https://cjgalati.ro/hotararea-215-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot215-291116.pdf",
+     "sha256": "4016e339073c24d81aab0bf3c7f90254bbc520a39b0f1479b403dca7b3c36551"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-216-2016",
+   "path": "local/judet/galati/2016/216",
+   "short": "HCJ Galați nr. 216/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 216/2016 pentru stabilirea limitelor minime de cheltuieli aferente drepturilor prevăzute de art.129 alin.(1) din Legea nr.272/2004 privind protecția și promovarea drepturilor copilului; Având în vedere prevederile art.51 alin.(2) din Legea educației Naționale nr.1/2011, cu modificările și completările ulterioare; Având în vedere prevederile Ordonantei de urgenta nr. 86/28.11.2016 cu privire la rectificarea",
+   "url": "https://cjgalati.ro/hotararea-216-nov2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot216-291116.pdf",
+     "sha256": "3687822ac60259e1f1eed3c1b7a420f1a270eec6415bd6ed28a441e0bf7010eb"
     }
    ]
   },
@@ -1233,6 +1923,366 @@
    ]
   },
   {
+   "slug": "hcj-galati-226-2016",
+   "path": "local/judet/galati/2016/226",
+   "short": "HCJ Galați nr. 226/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 226/2016 privind prevenirea și combaterea traficului de persoane, cu modificările și completările ulterioare; Având în vedere prevederile Ordinului Ministerului Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice nr. 2126/2014 privind aprobarea Standardelor minime de calitate pentru acreditarea serviciilor sociale destinate persoanelor vârstnice, persoanelor fără adăpost, tinerilor care au părăsi",
+   "url": "https://cjgalati.ro/hotararea-226-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot226-211216.pdf",
+     "sha256": "135b89277f49f9da5b962cfd6dfdb61a27470a1f25b50b55cae7759bfd9eafc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-227-2016",
+   "path": "local/judet/galati/2016/227",
+   "short": "HCJ Galați nr. 227/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 227/2016 pentru persoane vârstnice „Sf. Nicolae” Tg",
+   "url": "https://cjgalati.ro/hotararea-227-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot227-211216.pdf",
+     "sha256": "6d596d4ffab97abfb37d93fdb9f974c3125c5eb571d1863e52d9b86f2dcbdf03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-228-2016",
+   "path": "local/judet/galati/2016/228",
+   "short": "HCJ Galați nr. 228/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 228/2016 privind prevenirea și combaterea violenței în familie, republicată cu modificările și completările ulterioare; Având în vedere prevederile Ordinul Ministrului Muncii, Solidarității Sociale și familiei nr. 383/2004 privind aprobarea standardelor de calitate pentru serviciile sociale din domeniul protecției victimelor violenței în familie; Având în vedere prevederile Hotărârii Guvernului nr. 867/201",
+   "url": "https://cjgalati.ro/hotararea-228-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot228-211216.pdf",
+     "sha256": "6adf3bd79b06f6912e7e70fb3314f51d422aa36255b8656f80c0f1e4b41d5a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-229-2016",
+   "path": "local/judet/galati/2016/229",
+   "short": "HCJ Galați nr. 229/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 229/2016 privind avizarea Regulamentului de organizare și funcționare al Direcției Generale de Asistență Socială și Protecția Copilului Galați; Având în vedere prevederile art. 4 alin. (2) din Hotărârea Guvernului 1434/2004, privind atribuțiile și Regulamentul – cadru de organizare și funcționare ale Direcției Generale de Asistență Socială și Protecția Copilului, cu modificările și completările ulterioare",
+   "url": "https://cjgalati.ro/hotararea-229-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot229-211216.pdf",
+     "sha256": "388de881904fb2c1e494d4f47a3300df6d7bb111aefd3923988e17d21163d7de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-230-2016",
+   "path": "local/judet/galati/2016/230",
+   "short": "HCJ Galați nr. 230/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 230/2016",
+   "url": "https://cjgalati.ro/hotararea-230-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot230-211216.pdf",
+     "sha256": "2a007c9f18304db619b432384a9aa42ac5efbb7e8a63ccb972b24d2ceb868f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-231-2016",
+   "path": "local/judet/galati/2016/231",
+   "short": "HCJ Galați nr. 231/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 231/2016 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, cu modificările și completările ulterioare; Având în vedere prevederile art. 91 alin. (1) lit. a, d), alin. (2) lit. c) din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare; În baza prevederilor art. 97 alin. (1) din",
+   "url": "https://cjgalati.ro/hotararea-231-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot231-211216.pdf",
+     "sha256": "fed06dd0f181e674f40ffeb51e8584d0a3ab16d90546231a28de9aae16e9c4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-232-2016",
+   "path": "local/judet/galati/2016/232",
+   "short": "HCJ Galați nr. 232/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 232/2016 privind rectificarea bugetului de stat pe anul 2016; Având în vedere adresa Direcției Generale Regionale a Finanțelor Publice – Galați cu nr. GLR_TRZ – 121297/07.12.2016, înregistrată la",
+   "url": "https://cjgalati.ro/hotararea-232-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot232-211216.pdf",
+     "sha256": "039b868e1897ebdeb5034c725df7e1ffd284d2e4146112fc055af535c4677db3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-233-2016",
+   "path": "local/judet/galati/2016/233",
+   "short": "HCJ Galați nr. 233/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 233/2016",
+   "url": "https://cjgalati.ro/hotararea-233-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot233-211216.pdf",
+     "sha256": "3fa2a73c821a173410a749191c2b43f0633c523927e84e652b4be804702b9443"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-234-2016",
+   "path": "local/judet/galati/2016/234",
+   "short": "HCJ Galați nr. 234/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 234/2016 pentru administrație publică locală, de respectare a drepturilor și libertăților cetățenești, de cooperare interinstituțională a Consiliului Județean Galați; Având în vedere Ordinul Prefectului Județului Galați nr. 480 din 24.11.2016 privind constituirea Comitetului de organizare pentru nominalizarea membrilor Autorității Teritoriale de Ordine Publică Galați; Având în vedere adresa nr. 10.342 din",
+   "url": "https://cjgalati.ro/hotararea-234-dec2016/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot234-211216.pdf",
+     "sha256": "d9f300354103ee73cfe7466a7e519032f6401976ba7d6b684147a9079a9e895d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-3-2016",
+   "path": "local/judet/galati/2016/3",
+   "short": "HCJ Galați nr. 3/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 3/2016",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "b1588804435ab3855df3125401ea41d63f4081b6bb43b4b2c64bee8b0121b599"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-32-2016",
+   "path": "local/judet/galati/2016/32",
+   "short": "HCJ Galați nr. 32/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 32/2016 privind statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 91 alin. (2) lit. c) din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea nr. 215/2001, privind administrația publică locală, republicată, cu modificările și complet",
+   "url": "https://cjgalati.ro/hotararea-32-feb2016/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot32-260216.pdf",
+     "sha256": "bd81a6e266e873697c6cda688201da0d512efd7b27fe3f08077d60a51c6f093f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-36-2016",
+   "path": "local/judet/galati/2016/36",
+   "short": "HCJ Galați nr. 36/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 36/2016",
+   "url": "https://cjgalati.ro/hotararea-36-feb2016/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot36-260216.pdf",
+     "sha256": "3039eefe8822527bfcd925a88eb60bc2fe05f1277f3467fa75b62847ba1528f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-37-2016",
+   "path": "local/judet/galati/2016/37",
+   "short": "HCJ Galați nr. 37/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 37/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; Având în vedere prevederile Legii nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali; Având în vedere prevederile art. 104 alin. (1) l",
+   "url": "https://cjgalati.ro/hotararea-37-feb2016/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot37-260216.pdf",
+     "sha256": "a80ae2ad9da1399975bf3dd19526fee3e58cfc2468cd2b7f2760ce5c2aea5c76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-4-2016",
+   "path": "local/judet/galati/2016/4",
+   "short": "HCJ Galați nr. 4/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 4/2016 pentru inregistrareamodificdriloAr ctului Constitutivsi a StatutuluAi socialieide DezvoltareIntercomunitar,e,ECOSERVG\" alatila RegistruAlsocialiilo9riFunda{iildoer pelSngdGrefaJudecdtoriGeialali. Art. 3",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "4324b5558916e434b2eea3cf04c79c158c8039af79d3ccab77e2c106bd6bf3c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-43-2016",
+   "path": "local/judet/galati/2016/43",
+   "short": "HCJ Galați nr. 43/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 43/2016 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională a Consiliului Județean Galați; Având în vedere Legea nr. 107/2015 pentru modificarea și completarea art. 17 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române; Având în vedere adresa nr. 2490/23.03.2016 a Instituției Prefectului Județului Galați, înr",
+   "url": "https://cjgalati.ro/hotararea-43-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot43-310316.pdf",
+     "sha256": "a2049fedaf210624562655c1369ff6e66bcf9fb68f88865a03d8f70b277dac76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-44-2016",
+   "path": "local/judet/galati/2016/44",
+   "short": "HCJ Galați nr. 44/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 44/2016",
+   "url": "https://cjgalati.ro/hotararea-44-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot44-310316.pdf",
+     "sha256": "237cf0558131f981cf74063ca531f8c090cb31ff28242c662ae29c41fff75240"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-45-2016",
+   "path": "local/judet/galati/2016/45",
+   "short": "HCJ Galați nr. 45/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 45/2016 privind statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 91 alin. (2) lit. c) din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea nr. 215/2001, privind administrația publică locală, republicată, cu modificările și complet",
+   "url": "https://cjgalati.ro/hotararea-45-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot45-310316.pdf",
+     "sha256": "6d4b3b44bee85f78123e83c041ad4c61af0333d704612d0dc3e45582a3fa599c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-46-2016",
+   "path": "local/judet/galati/2016/46",
+   "short": "HCJ Galați nr. 46/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 46/2016 privind înființarea, organizarea și funcționarea serviciilor publice comunitare de evidență a persoanelor, cu modificările și completările ulterioare; Având în vedere dispozițiile art. 63, 64 și art. 107 alin. (2) din Legea nr. 188/1999 privind Statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; Având în vedere dispozițiile art. 125 alin. (1) din Hotărârea Guv",
+   "url": "https://cjgalati.ro/hotararea-46-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot46-310316.pdf",
+     "sha256": "c073ba0f68c24ba62185d79677609c20a65cd63857d70ca9485c15af729aea2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-47-2016",
+   "path": "local/judet/galati/2016/47",
+   "short": "HCJ Galați nr. 47/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 47/2016 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, cu modificările și completările ulterioare; Având în vedere prevederile art. 91 alin. (1) lit. a, d), alin. (2) lit. c) din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare; În baza prevederilor art. 97 alin. (1) din",
+   "url": "https://cjgalati.ro/hotararea-47-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot47-310316.pdf",
+     "sha256": "56c04cfa4e4fa5df86cb722dfb2362bd1def5aaea963d4a1f40b5e24fa39c70c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-48-2016",
+   "path": "local/judet/galati/2016/48",
+   "short": "HCJ Galați nr. 48/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 48/2016",
+   "url": "https://cjgalati.ro/hotararea-48-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot48-310316.pdf",
+     "sha256": "a92f2b93c7587efaefd971c579680f13053582a73b451e91389e62787d052e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-49-2016",
+   "path": "local/judet/galati/2016/49",
+   "short": "HCJ Galați nr. 49/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 49/2016 pentru Dezvoltare Regională a Regiunii de Dezvoltare Sud Est pentru anul 2016 Inițiatori: Vicepreședintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-49-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot49-310316.pdf",
+     "sha256": "a92f0c3dc0f7d215adaf802d3d4e60af6d59f210a8fd1c6641c3d4fd92e57f31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-5-2016",
+   "path": "local/judet/galati/2016/5",
+   "short": "HCJ Galați nr. 5/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 5/2016 privind aprobarearaportuluiGomisieide cenzori asupra exerciliuluifinanciarprecedent AdunareaGeneralia Asociatilor Avdndin vedere: PrevederileLegii nr. 5112006a serviciilorcomunitarede utilitati publice.cu modificdrilsei completdriluelterioare; PrevederileH.G. nr. 855/2008pentru aprobareaActului constitutiv-cadrsui a Statutului-cadruale asocialiilorde dezvoltareintercomunitarcdu obiect de activitat",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "d72b4281b0dffc8ea5b940f8f143033d3c3c7bab2a928bc0a2740ecd1fe5e587"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-50-2016",
+   "path": "local/judet/galati/2016/50",
+   "short": "HCJ Galați nr. 50/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 50/2016 privind finanțele publice locale, republicată, cu modificările și completările ulterioare; Având în vedere art. 91 alin. (1) lit. (b), alin. (3) lit. a), art. 104 alin. (1) lit. c) din Legea nr. 215/2001privind administrația publică locală, republicată, cu modificările și completările ulterioare; În baza prevederilor art. 97 alin. (1) din Legea nr. 215/2001 privind administrația publică locală, re",
+   "url": "https://cjgalati.ro/hotararea-50-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot50-310316.pdf",
+     "sha256": "fedb37d4d800b2d881ccda5c6f5f3dc6a32e33128bd561a18733353d57f8b704"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-51-2016",
+   "path": "local/judet/galati/2016/51",
+   "short": "HCJ Galați nr. 51/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 51/2016 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională a Consiliului Județean Galați; Având în vedere Legea nr. 107/2015 pentru modificarea și completarea art. 17 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române; Având în vedere prevederile art. 7 din anexa I la Hotărârea Guvernului nr. 787/2002, privi",
+   "url": "https://cjgalati.ro/hotararea-51-mar2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot51-310316.pdf",
+     "sha256": "9ca6679a6b961e5ee6828943970984b53a1d35991997f5f760c61716489a7c26"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-54-2016",
    "path": "local/judet/galati/2016/54",
    "short": "HCJ Galați nr. 54/2016",
@@ -1248,6 +2298,21 @@
    ]
   },
   {
+   "slug": "hcj-galati-55-2016",
+   "path": "local/judet/galati/2016/55",
+   "short": "HCJ Galați nr. 55/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 55/2016",
+   "url": "https://cjgalati.ro/hotararea-55-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot55-280416.pdf",
+     "sha256": "68575b89161d86d49f5d23249dd8ac4b7ad2954ae44dbeba7901f79b24841629"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-56-2016",
    "path": "local/judet/galati/2016/56",
    "short": "HCJ Galați nr. 56/2016",
@@ -1259,6 +2324,321 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot56-280416.pdf",
      "sha256": "a1738aec92933baf98d2eeedbd107e8f4ebdb313a4361132f4a144eadfd9505f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-57-2016",
+   "path": "local/judet/galati/2016/57",
+   "short": "HCJ Galați nr. 57/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 57/2016",
+   "url": "https://cjgalati.ro/hotararea-57-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot57-280416.pdf",
+     "sha256": "754af1ed0345547bb47bee47a45cf033a711af0f2a1aa654c0cab358a4a81636"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-58-2016",
+   "path": "local/judet/galati/2016/58",
+   "short": "HCJ Galați nr. 58/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 58/2016",
+   "url": "https://cjgalati.ro/hotararea-58-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot58-280416.pdf",
+     "sha256": "c2720214d3ce898c05d59ccb8a958528ceb3617c1af277b3e0df91d3429267e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-59-2016",
+   "path": "local/judet/galati/2016/59",
+   "short": "HCJ Galați nr. 59/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 59/2016",
+   "url": "https://cjgalati.ro/hotararea-59-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot59-280416.pdf",
+     "sha256": "4d512556e40f744862e8e65c541bc4e94446daa73aa7c0a6ce467e29f8458973"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-6-2016",
+   "path": "local/judet/galati/2016/6",
+   "short": "HCJ Galați nr. 6/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 6/2016 pentru bătrânii străzii” Inițiator: Dl",
+   "url": "https://cjgalati.ro/hotarari-ecoserv/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/hotarari-ecoserv/",
+     "sha256": "00c2362fd8ad0432e477ecf05ddd74c2f61eda84b5b92a040d60d5d4e5cd6b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-60-2016",
+   "path": "local/judet/galati/2016/60",
+   "short": "HCJ Galați nr. 60/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 60/2016 pentru Situații de Urgență Inițiator: vicepreședintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-60-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot60-280416.pdf",
+     "sha256": "e06916951404d815aa1d12c2e7baecea08501ead6ba3f09c8da85c2845efae73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-61-2016",
+   "path": "local/judet/galati/2016/61",
+   "short": "HCJ Galați nr. 61/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 61/2016",
+   "url": "https://cjgalati.ro/hotararea-61-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot61-280416.pdf",
+     "sha256": "f8203b095641512ebe5e184396089cab89b6e9251359c7e0406cb9b2c7a0518b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-62-2016",
+   "path": "local/judet/galati/2016/62",
+   "short": "HCJ Galați nr. 62/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 62/2016 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană ale Consiliului Județean Galați; Având în vedere prevederile art. 91 alin. (6) lit. a) din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea nr. 215 /2001 privind administrația publică loc",
+   "url": "https://cjgalati.ro/hotararea-62-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot62-280416.pdf",
+     "sha256": "c85310f163027879adb5c5b3d1616b7249f6fe633617eb2634c0a9b45e4c8a38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-63-2016",
+   "path": "local/judet/galati/2016/63",
+   "short": "HCJ Galați nr. 63/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 63/2016 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană; Având în vedere adresa nr. 3548/22.04.2016 de la Inspectoratul pentru Situații de Urgență ”G-ral Eremia Grigorescu” al județului Galați privind solicitarea de aprobare a Planului de analiză și acoperire a riscurilor de pe teritoriul județului Galați; Având în vedere prevederile art. 6 din",
+   "url": "https://cjgalati.ro/hotararea-63-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot63-280416.pdf",
+     "sha256": "e49f796ea9a86b31ac300c47c32154a4a527b57412f93f1dd0242d2efcf856d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-64-2016",
+   "path": "local/judet/galati/2016/64",
+   "short": "HCJ Galați nr. 64/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 64/2016 privind administrația publică locală, republicată, cu modificările și completările ulterioare; În baza prevederilor art. 97 alin. (1) din Legea nr. 215/2001 privind administrația publică locală, republicată, cu modificările și completările ulterioare; H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-64-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot64-280416.pdf",
+     "sha256": "dbd3a0a5a80ccba10923bb55e14c5bf6c3c432affc07fbc21273153e28f0b59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-65-2016",
+   "path": "local/judet/galati/2016/65",
+   "short": "HCJ Galați nr. 65/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 65/2016 privind aprobarea achiziției de servicii juridice de consultanță, asistență și reprezentare pentru",
+   "url": "https://cjgalati.ro/hotararea-65-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot65-280416.pdf",
+     "sha256": "287982805012a9f09e191d863e535a10e318c700171ad3307bbb4e36aa723992"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-66-2016",
+   "path": "local/judet/galati/2016/66",
+   "short": "HCJ Galați nr. 66/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 66/2016",
+   "url": "https://cjgalati.ro/hotararea-66-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot66-280416.pdf",
+     "sha256": "b6217458137c78a37077abb2d59d81999c844335148ea04c1658780d11891266"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-67-2016",
+   "path": "local/judet/galati/2016/67",
+   "short": "HCJ Galați nr. 67/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 67/2016 privind aprobarea transferului managementului asistenței medicale al Spitalului Orășenesc Târgu Bujor de la Consiliul Local al Orașului Târgu Bujor la",
+   "url": "https://cjgalati.ro/hotararea-67-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot67-280416.pdf",
+     "sha256": "b6cf29d485b7be7afc08d810b29180e713d8b45c195fb38ce48043dc61f934bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-68-2016",
+   "path": "local/judet/galati/2016/68",
+   "short": "HCJ Galați nr. 68/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 68/2016 privind bugetul de stat pe anul 2016; Având în vedere prevederile art. 57 din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare; Având în vedere prevederile Hotărârii nr. 11/12 februarie 2015 a Consiliului Județean Galați privind aprobarea bugetului local al Consiliului Județean Galați pe anul 2015; Având în vedere prevederile art. 91 alin. (1) lit. b)",
+   "url": "https://cjgalati.ro/hotararea-68-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot68-280416.pdf",
+     "sha256": "c9394fb9b8481be736992116d901db056d65c0c79d8699f4adba879f655d4344"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-69-2016",
+   "path": "local/judet/galati/2016/69",
+   "short": "HCJ Galați nr. 69/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 69/2016 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională a Consiliului Județean Galați; Având în vedere Legea nr.107/2015 pentru modificarea și completarea art. 17 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române",
+   "url": "https://cjgalati.ro/hotararea-69-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot69-280416.pdf",
+     "sha256": "acf7495ce6af59907e36ec4f3cd5e6f11cab239fc8e8444151527d73051faba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-70-2016",
+   "path": "local/judet/galati/2016/70",
+   "short": "HCJ Galați nr. 70/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 70/2016",
+   "url": "https://cjgalati.ro/hotararea-70-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot70-280416.pdf",
+     "sha256": "3ad773c9ff12a944fd2fff0ac039e1932e20fb4520f71cd838d939c395da1b37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-71-2016",
+   "path": "local/judet/galati/2016/71",
+   "short": "HCJ Galați nr. 71/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 71/2016 pentru administrație publică locală, de respectare a drepturilor și libertăților cetățenești, de cooperare interinstituțională a Consiliului Județean Galați; Având în vedere regulamentul pentru acordarea „Diplomei de excelență” a Consiliului Județean Galați, prevăzut în Anexa nr. 2 la Hotărârea Consiliului Județean Galați nr. 129 din 19 decembrie 2001 privind aprobarea Regulamentului pentru acorda",
+   "url": "https://cjgalati.ro/hotararea-71-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot71-230516.pdf",
+     "sha256": "87e138ada404cb94fd44f6243e16535dcf1c705faa629e6197bcf91e3716a364"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-72-2016",
+   "path": "local/judet/galati/2016/72",
+   "short": "HCJ Galați nr. 72/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 72/2016",
+   "url": "https://cjgalati.ro/hotararea-72-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot72-230516.pdf",
+     "sha256": "35dc3692d7516f026906da0a4c86655e2304f3586d5f830557b09e31b2f890ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-73-2016",
+   "path": "local/judet/galati/2016/73",
+   "short": "HCJ Galați nr. 73/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 73/2016",
+   "url": "https://cjgalati.ro/hotararea-73-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot73-230516.pdf",
+     "sha256": "901c987de4b67f08bef11485af30dfeaf304dc6a7a693e17b8a706f2661a12ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-74-2016",
+   "path": "local/judet/galati/2016/74",
+   "short": "HCJ Galați nr. 74/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 74/2016",
+   "url": "https://cjgalati.ro/hotararea-74-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot74-230516.pdf",
+     "sha256": "5ef19aa787c5d375fb3fe2735fbb0ba6a90e84a351d379367529c53662bc0457"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-75-2016",
+   "path": "local/judet/galati/2016/75",
+   "short": "HCJ Galați nr. 75/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 75/2016",
+   "url": "https://cjgalati.ro/hotararea-75-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot75-230516.pdf",
+     "sha256": "ee3ea73008e0dacf14b26a4e296f44128e033f2dfb0a39bf57824ca0477f5ffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-76-2016",
+   "path": "local/judet/galati/2016/76",
+   "short": "HCJ Galați nr. 76/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 76/2016 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere adresa nr. 632 GL/09.05.2016 a Administrației Naționale a Rezervelor de Stat și Probleme Speciale – Structura Teritorială pentru Probleme Speciale județul Galați, înregistrată la",
+   "url": "https://cjgalati.ro/hotararea-76-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot76-230516.pdf",
+     "sha256": "228483ecb7d814237af06fc9d83903d023f3fbd9f0c5084dcd02393199d27085"
     }
    ]
   },
@@ -1289,6 +2669,321 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot78-230516.pdf",
      "sha256": "7cc2741d0d221cadd9a5216d6e8ed2d7442f0616940cd020a61af2c88ebae1a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-79-2016",
+   "path": "local/judet/galati/2016/79",
+   "short": "HCJ Galați nr. 79/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 79/2016",
+   "url": "https://cjgalati.ro/hotararea-79-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot79-230516.pdf",
+     "sha256": "0969db89068f2a59e98abdf5c94ce12fc670faf20adb29e56f81c4704418e264"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-80-2016",
+   "path": "local/judet/galati/2016/80",
+   "short": "HCJ Galați nr. 80/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 80/2016 pentru buget – finanțe, strategii, studii și prognoză economico – socială, nr. 3 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice și nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere adresa",
+   "url": "https://cjgalati.ro/hotararea-80-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot80-230516.pdf",
+     "sha256": "2357586e9a6d0e8e723d9439e0e369408e58a7e409d418025260993ace13d54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-81-2016",
+   "path": "local/judet/galati/2016/81",
+   "short": "HCJ Galați nr. 81/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 81/2016 pentru buget – finanțe, strategii, studii și prognoză economico – socială și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere adresa nr. 11490/05.11.2015 a Primăriei comunei Vânători, înregistrată la sediul Consiliului",
+   "url": "https://cjgalati.ro/hotararea-81-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot81-230516.pdf",
+     "sha256": "e985e131bdcbe2f6ef288cb828a01b637c6a1cfd875f1f9fa7168898873c2ee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-82-2016",
+   "path": "local/judet/galati/2016/82",
+   "short": "HCJ Galați nr. 82/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 82/2016",
+   "url": "https://cjgalati.ro/hotararea-82-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot82-230516.pdf",
+     "sha256": "fec87f0d04e21150c6e8f2b3ec298bc9b9d01ef2392efe499dd1e9cfe925522d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-83-2016",
+   "path": "local/judet/galati/2016/83",
+   "short": "HCJ Galați nr. 83/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 83/2016 pentru buget – finanțe, strategii, studii și prognoză economico – socială, nr. 3 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice și nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevede",
+   "url": "https://cjgalati.ro/hotararea-83-mai2016/",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot83-260516.pdf",
+     "sha256": "4d4dec9245e6a003521bfee6d6f1ed7d13cbc38d12535637a1193f48612c7250"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-84-2016",
+   "path": "local/judet/galati/2016/84",
+   "short": "HCJ Galați nr. 84/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 84/2016",
+   "url": "https://cjgalati.ro/hotararea-84-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot84-270616.pdf",
+     "sha256": "9c8af8ebb87581ca646f54c35cd0b65d633394547e0240dec654bab16ff83d31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-85-2016",
+   "path": "local/judet/galati/2016/85",
+   "short": "HCJ Galați nr. 85/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 85/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-85-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot85-270616.pdf",
+     "sha256": "1b7a4abdd65d795ad5373187f0b51b39cf492c111772195d9a5e4ce97ceda1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-86-2016",
+   "path": "local/judet/galati/2016/86",
+   "short": "HCJ Galați nr. 86/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 86/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-86-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot86-270616.pdf",
+     "sha256": "c478a61acd5e824c8508db8fedb6353043b37ed77dc1ef3a7ada5ea834a3679d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-87-2016",
+   "path": "local/judet/galati/2016/87",
+   "short": "HCJ Galați nr. 87/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 87/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-87-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot87-270616.pdf",
+     "sha256": "d70074091981e1e72446d757719236f15da3cdda425e4354d8f91bf6cbd4cf8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-88-2016",
+   "path": "local/judet/galati/2016/88",
+   "short": "HCJ Galați nr. 88/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 88/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-88-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot88-270616.pdf",
+     "sha256": "4ba4860cacdb3c08b18493431afa9708d0e40b1b1a39b6256f3f1aa9cd2115e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-89-2016",
+   "path": "local/judet/galati/2016/89",
+   "short": "HCJ Galați nr. 89/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 89/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-89-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot89-270616.pdf",
+     "sha256": "0c1497d9ff2e95afa4fe581e0ca72587e69877a60324129415ea31e416354612"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-90-2016",
+   "path": "local/judet/galati/2016/90",
+   "short": "HCJ Galați nr. 90/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 90/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-90-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot90-270616.pdf",
+     "sha256": "05ce266dd416eb3773a9a0687949dc8b194659099760dd5faa70dac18a148f1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-91-2016",
+   "path": "local/judet/galati/2016/91",
+   "short": "HCJ Galați nr. 91/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 91/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-91-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot91-270616.pdf",
+     "sha256": "ff81ac521d49ce7f1446bc4bec38477a5cb6851a19320d7a45d984f1ff51439f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-92-2016",
+   "path": "local/judet/galati/2016/92",
+   "short": "HCJ Galați nr. 92/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 92/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-92-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot92-270616.pdf",
+     "sha256": "48355cb03e590d320b647d94796852cca08e4600ca1e8d6eafa192756a938a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-93-2016",
+   "path": "local/judet/galati/2016/93",
+   "short": "HCJ Galați nr. 93/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 93/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-93-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot93-270616.pdf",
+     "sha256": "22d5cccbd697d8d6be8175173f021d8d635de604cc403920b059ea23dcd11705"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-94-2016",
+   "path": "local/judet/galati/2016/94",
+   "short": "HCJ Galați nr. 94/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 94/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-94-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot94-270616.pdf",
+     "sha256": "34730432d36455536d09c7b92012eaa69a29441ec983c7554df29c1e5b5025f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-95-2016",
+   "path": "local/judet/galati/2016/95",
+   "short": "HCJ Galați nr. 95/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 95/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-95-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot95-270616.pdf",
+     "sha256": "3e380458165cf6d88544fd53426612f1be6a8db99261f05ad9df962654da31bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-96-2016",
+   "path": "local/judet/galati/2016/96",
+   "short": "HCJ Galați nr. 96/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 96/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-96-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot96-270616.pdf",
+     "sha256": "2aba2e39bbf9d528e7578a0c15ae00e92fdcb0e9c61f5880d42557fe5633893c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-97-2016",
+   "path": "local/judet/galati/2016/97",
+   "short": "HCJ Galați nr. 97/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 97/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-97-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot97-270616.pdf",
+     "sha256": "28d621ef6bce7d05ba121f8534e0d5a6aa5a49a486950b894d607cb7a5bb088d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-98-2016",
+   "path": "local/judet/galati/2016/98",
+   "short": "HCJ Galați nr. 98/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 98/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-98-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot98-270616.pdf",
+     "sha256": "16119c8ee0e9e941da22f918fcc2b07e84225e706d80406373d272e6be5b90a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-99-2016",
+   "path": "local/judet/galati/2016/99",
+   "short": "HCJ Galați nr. 99/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 99/2016 privind Statutul aleșilor locali, cu modificările și completările ulterioare; În temeiul art. 97 alin. (1) din Legea administrației publice locale nr. 215/2001 republicată, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-99-iunie2016/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot99-270616.pdf",
+     "sha256": "943aa262e29b3d388dd079746588d46d4e9f59b2d9c4aec7f05f6a6336f77719"
     }
    ]
   }

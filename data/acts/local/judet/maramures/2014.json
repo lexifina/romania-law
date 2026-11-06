@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/maramures/2014",
+"acts": [
+{
+"slug": "hcj-maramures-34-2014",
+"path": "local/judet/maramures/2014/34",
+"kind": "local",
+"year": "2014",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 34/2014",
+"short": "HCJ Maramureș nr. 34/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-10",
+"latest": "2014-03-10",
+"portal": "https://www.cjmaramures.ro/component/k2/186",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-maramures-65-2014",
+"path": "local/judet/maramures/2014/65",
+"kind": "local",
+"year": "2014",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 65/2014",
+"short": "HCJ Maramureș nr. 65/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-28",
+"latest": "2014-05-28",
+"portal": "https://www.cjmaramures.ro/component/k2/5682",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

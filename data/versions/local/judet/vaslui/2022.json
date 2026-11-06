@@ -3,6 +3,426 @@
  "shard": "local/judet/vaslui/2022",
  "acts": [
   {
+   "slug": "hcj-vaslui-1-2022",
+   "path": "local/judet/vaslui/2022/1",
+   "short": "HCJ Vaslui nr. 1/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 1/2022 privind repartizarea pe unităţi administrativ-teritoriale ale judeţului Vaslui a unor sume defalcate din unele venituri ale bugetului de stat pentru anul 2022 și estimările sumelor defalcate ce urmează a fi repartizate pentru anii 2023-2025 21 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr1_2022.pdf",
+     "sha256": "3ce510536ccf7e106508d5ea67941f7e483acff0bab7baea2c18a9be34074e65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-10-2022",
+   "path": "local/judet/vaslui/2022/10",
+   "short": "HCJ Vaslui nr. 10/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 10/2022 privind aprobarea contribuției financiare a Județului Vaslui",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr10_2022.pdf",
+     "sha256": "624e22deae7e2bb59b0a90a752354536cd995a77e2367e3db699affe9bbf345a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-100-2022",
+   "path": "local/judet/vaslui/2022/100",
+   "short": "HCJ Vaslui nr. 100/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 100/2022 privind rectificarea a III-a a bugetului local al județului Vaslui, pe anul 2022 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr100_2022.pdf",
+     "sha256": "dd6645b17c56a1c9cb2071aae00e9a3af11377363547b10400b54027d3e61142"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-102-2022",
+   "path": "local/judet/vaslui/2022/102",
+   "short": "HCJ Vaslui nr. 102/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 102/2022 privind repartizarea către 12 unităţi administrativ-teritoriale ale Judeţului Vaslui a unei părți din fondul aflat la dispoziția Consiliului Județean Vaslui din impozitul pe venit, pentru anul 2022 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr102_2022.pdf",
+     "sha256": "d69359234684c0e1dd9f5ac22facf9c7d19bdbb80f6287eda1939b5d0d3da2ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-103-2022",
+   "path": "local/judet/vaslui/2022/103",
+   "short": "HCJ Vaslui nr. 103/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 103/2022 pentru modificarea anexei la Hotărârea Consiliului Județean Vaslui nr. 36/2022 privind stabilirea numărului și a cuantumului burselor școlare aferente semestrului al II-lea al anului școlar 2021-2022 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr103_2022.pdf",
+     "sha256": "0edf0acc7974fbccb47d75f16a7d27c0c5b4fb0225a9ee15385b4a3cb153216c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-104-2022",
+   "path": "local/judet/vaslui/2022/104",
+   "short": "HCJ Vaslui nr. 104/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 104/2022 privind transmiterea fără plată a unor bunuri din domeniul privat al Județului Vaslui, achiziționate în cadrul proiectului ”Reabilitarea, modernizarea și echiparea Spitalului Județean de Urgență Vaslui”, către Spitalul Județean de Urgență Vaslui 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr104_2022.pdf",
+     "sha256": "ba161bfee1f39ffda04b9c8292bc3d3a2d79c3ccc0f12ae3b51a27b5d1a01068"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-106-2022",
+   "path": "local/judet/vaslui/2022/106",
+   "short": "HCJ Vaslui nr. 106/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 106/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Modernizare drum județean DJ 246: DJ 247 (Codăești) – Rediu Galian – Tăcuta –Focșasca - limită Jud. Iași, km 5+499 - 13+635, Județul Vaslui\" 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr106_2022.pdf",
+     "sha256": "b2d01203c90003119f74e6c6035568a216a9b41a6f61e1dd19c3ffb08abe33ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-107-2022",
+   "path": "local/judet/vaslui/2022/107",
+   "short": "HCJ Vaslui nr. 107/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 107/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții ”Reabilitare și modernizare drum județean DJ 244 H: DJ 244 – Viișoara –Urdești – Găgești (DJ 244 B), județul Vaslui\" 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr107_2022.pdf",
+     "sha256": "3af25a12c9b21b00598ab54c59f8b91c25f6f369ac8b8423faf4b6ea462ff248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-108-2022",
+   "path": "local/judet/vaslui/2022/108",
+   "short": "HCJ Vaslui nr. 108/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 108/2022 privind aprobarea actualizării Monografiei economico-militare a judeţului Vaslui, ediția 2022 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr108_2022.pdf",
+     "sha256": "a0ae1a5f80301cdb49bcfa9a58495d06ad03a5e3d1e5206683f8cc701e2f7e33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-109-2022",
+   "path": "local/judet/vaslui/2022/109",
+   "short": "HCJ Vaslui nr. 109/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 109/2022 privind modificarea componenței Autorității Teritoriale de Ordine Publică Vaslui 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr109_2022.pdf",
+     "sha256": "80a615ef979170e41df86dfdad90786aa609539a273a93d87a994a7e7885fbfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-11-2022",
+   "path": "local/judet/vaslui/2022/11",
+   "short": "HCJ Vaslui nr. 11/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 11/2022 privind aprobarea contribuției financiare a Județului Vaslui",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr11_2022.pdf",
+     "sha256": "8768e8e4e7b2a27578ac173b5cc66470b83181b905b1535a7a3404c440a84ca5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-110-2022",
+   "path": "local/judet/vaslui/2022/110",
+   "short": "HCJ Vaslui nr. 110/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 110/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr110_2022.pdf",
+     "sha256": "3bce864c522b62b9282824ca13afd556dcbb5a2f022f5ea3457f82713e5ce046"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-111-2022",
+   "path": "local/judet/vaslui/2022/111",
+   "short": "HCJ Vaslui nr. 111/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 111/2022 pentru proiectul Extinderea sistemului integrat de management al deșeurilor solide în județul Vaslui” și a cheltuielilor legate de proiect 21 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr111_2022.pdf",
+     "sha256": "6f9e322f793db899e78a0255601f2475d9b7312c5f96a5297e4b026b4ca7b581"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-113-2022",
+   "path": "local/judet/vaslui/2022/113",
+   "short": "HCJ Vaslui nr. 113/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 113/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „CONSTRUIREA UNUI CENTRU DE CRIZĂ PENTRU PERSOANELE CU DIZABILITĂȚI BĂLEȘTI, COMUNA COZMEȘTI, JUDEŢUL VASLUI” ÎN CADRUL PROIECTULUI „CENTRUL DE CRIZĂPENTRU PERSOANE CU DIZABILITĂŢI BĂLEŞTI” 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr113_2022.pdf",
+     "sha256": "5d3940bdc55824e6cac03fe25ada361f44f574878f6c97ff742c0f8df026d3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-114-2022",
+   "path": "local/judet/vaslui/2022/114",
+   "short": "HCJ Vaslui nr. 114/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 114/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Construirea unui număr de 3 locuințe protejate pentru persoane adulte cu dizabilități în comuna Hoceni, județul Vaslui și reabilitare, modernizare clădire existentă pentru înființarea unui centru de zi pentru persoane",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr114_2022.pdf",
+     "sha256": "b2b635659d80f9bd3bb9d845b65f8e5431fb822105a0e1f6832c5db563b9e3c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-115-2022",
+   "path": "local/judet/vaslui/2022/115",
+   "short": "HCJ Vaslui nr. 115/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 115/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Înființarea unui Centru Respiro pentru persoane adulte cu dizabilități în comuna Ștefancel Mare, Județul Vaslui, în cadrul proiectului «Centru Respiro pentru persoane adulte cu dizabilități Mărășeni»” 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr115_2022.pdf",
+     "sha256": "1a91f23abaa35c091bf07d0718c393f33f29025179eb152ae2c2f791552a95e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-116-2022",
+   "path": "local/judet/vaslui/2022/116",
+   "short": "HCJ Vaslui nr. 116/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 116/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Construirea a 3 locuințe protejate pentru persoanele adulte cu dizabilități în orașul Murgeni, Județul Vaslui și reabilitare, modernizare clădire existentă pentru înființarea unui centru de zi pentru persoanele adulte",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr116_2022.pdf",
+     "sha256": "5673b0741eaec2cb097e374ec5b8f42c5d51695249b229abac466d8743520ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-117-2022",
+   "path": "local/judet/vaslui/2022/117",
+   "short": "HCJ Vaslui nr. 117/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 117/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „ CONSTRUIREA UNUI CENTRU RESPIRO PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN LOCALITATEA GARA BANCA; COMUNA BANCA; JUDEȚUL VASLUI” ÎN CADRUL PROIECTULUI”CENTRU RESPIRO PENTRU PERSOANE CU DIZABILITĂȚI BANCA” 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr117_2022.pdf",
+     "sha256": "9593d0239daeded11898de4e75e4aeccb4e83da0a05f4a1b7e96224d6193a072"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-118-2022",
+   "path": "local/judet/vaslui/2022/118",
+   "short": "HCJ Vaslui nr. 118/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 118/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Construirea a 3 locuințe protejate pentru persoanele adulte cu dizabilități în comunele Gîrceni, Pungești, Ivănești, Județul Vaslui și reabilitare, modernizare clădire existentă pentru înființarea unui centru de zi pen",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr118_2022.pdf",
+     "sha256": "1ac9ffbf316f501a9ad2af19ed484e69ffc193df09bde5f4e6c61dda5a074ff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-119-2022",
+   "path": "local/judet/vaslui/2022/119",
+   "short": "HCJ Vaslui nr. 119/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 119/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „CONSTRUIREA A 2 LOCUINȚE PROTEJATE PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN LOCALITATEA ZORLENI, COM. ZORLENI, JUDEŢUL VASLUI ȘI REABILITARE, MODERNIZARE CLĂDIRE EXISTENTĂ PENTRU ÎNFIINȚAREA UNUI CENTRU DE ZI PENTRU P",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr119_2022.pdf",
+     "sha256": "0cdf1dc3f72e1b5339824358e73cc584b79977353a207a4c833bf50f8cf238df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-12-2022",
+   "path": "local/judet/vaslui/2022/12",
+   "short": "HCJ Vaslui nr. 12/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 12/2022 privind aprobarea contribuției financiare a Județului Vaslui, în calitate de membru al Adunării Regiunilor Europene, pentru anul 2022 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr12_2022.pdf",
+     "sha256": "64005b8b57f955788a56d218f514a700b502f52d3b2c45956819bc16cb750094"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-120-2022",
+   "path": "local/judet/vaslui/2022/120",
+   "short": "HCJ Vaslui nr. 120/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 120/2022 privind aprobarea reînnoirii mandatelor unor membri în Consiliul de administrație al Societății ”Lucrări Drumuri și Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr120_2022.pdf",
+     "sha256": "b540ea3da78e4f2b26f848039c1eba1b0eab813ca62da8ceb9ccdb926dc22c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-121-2022",
+   "path": "local/judet/vaslui/2022/121",
+   "short": "HCJ Vaslui nr. 121/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 121/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții ”Pod pe DJ 245E, km. 2+705\" 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr121_2022.pdf",
+     "sha256": "aaf7295e8d12389f6cc929d6663a27fd810be378253b367ae638f8012ed036ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-122-2022",
+   "path": "local/judet/vaslui/2022/122",
+   "short": "HCJ Vaslui nr. 122/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 122/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Reabilitare și modernizare drum județean DJ 241C: limită județul Bacău (Stejaru) – Doagele – Poiana-Pietrei – Dragomirești (DN 2F), județul Vaslui\" 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr122_2022.pdf",
+     "sha256": "e9729da62d3212a34529648fbc5bb1a7996414b021962db6053f7fcdb9d25571"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-123-2022",
+   "path": "local/judet/vaslui/2022/123",
+   "short": "HCJ Vaslui nr. 123/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 123/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Reabilitare și modernizare drum județean DJ 159: limită județul Neamț – Băcești – Băbușa – Păltiniș - Slobozia – Racova – Trohan – Pungești – Siliștea – Armășoaia - Bleșca (DN2F), km 64+500 ÷ 77+500 (13,000 km), Județu",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr123_2022.pdf",
+     "sha256": "2186e6fe57b51d790ebdb2d37659b81c6d8059857c3b13e832bba4f447a641f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-124-2022",
+   "path": "local/judet/vaslui/2022/124",
+   "short": "HCJ Vaslui nr. 124/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 124/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Reautorizare – Reparație capitală și extindere la corp administrativ” 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr124_2022.pdf",
+     "sha256": "376f475190d7180e29382fd4b9930f7a5b59af5c2649f367aacb1be968662d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-125-2022",
+   "path": "local/judet/vaslui/2022/125",
+   "short": "HCJ Vaslui nr. 125/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 125/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici reactualizați, rest de executat, ai obiectivului de investiții ”Reabilitare sistem de alimentare cu apă, a sistemului de canalizare și a stațiilor de epurare a apelor uzate din municipiile Vaslui, Bârlad, Huși și orașul Negrești, județul Vaslui\" 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr125_2022.pdf",
+     "sha256": "8f748a604626a4446b00d1ce43c3acf6b7b693dfad424b8f5550289d5fdcb24e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-127-2022",
+   "path": "local/judet/vaslui/2022/127",
+   "short": "HCJ Vaslui nr. 127/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 127/2022 pentru aprobarea modificării anexei la Hotărârea Consiliului Județean Vaslui nr.49/2022 privind aprobarea Programului judeţean pentru finanţarea nerambursabilă a activităţilor nonprofit de interes local pentru anul 2022 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr127_2022.pdf",
+     "sha256": "2857c818c6ea4b51d8cd436ec386bc63e33a584b19137947de746e46b13bc249"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-128-2022",
    "path": "local/judet/vaslui/2022/128",
    "short": "HCJ Vaslui nr. 128/2022",
@@ -14,6 +434,906 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr128_2022.pdf",
      "sha256": "f981e0a0a8c83ced1cb78d46a2fdf981ae9baa5d103b5b0d19905d5b3aef8053"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-129-2022",
+   "path": "local/judet/vaslui/2022/129",
+   "short": "HCJ Vaslui nr. 129/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 129/2022 pentru modificarea și completarea Hotărârii Consiliului Judeţean Vaslui nr. 210/2021 privind aprobarea Studiului de oportunitate, a modalităţii de atribuire a serviciului public de transport judeţean de persoane prin curse regulate și a documentaţiei de atribuire a Contractului de delegare a gestiunii serviciului public de transport judeţean de persoane prin curse regulate pentru perioada 2022-203",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr129_2022.pdf",
+     "sha256": "787050a13ba95ed2c6878b85e6082d3cfcd13f79a29a572e0e0c5e6417a200bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-13-2022",
+   "path": "local/judet/vaslui/2022/13",
+   "short": "HCJ Vaslui nr. 13/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 13/2022 privind aprobarea valorii cotizației Județului Vaslui, în calitate de membru fondator al Asociației de Dezvoltare Intercomunitară EURONEST, pentru anul 2022 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr13_2022.pdf",
+     "sha256": "6ba86738e66df1203faf2d01a3916f6386f84442973b19d20474e36ce1c2e954"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-130-2022",
+   "path": "local/judet/vaslui/2022/130",
+   "short": "HCJ Vaslui nr. 130/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 130/2022 pentru modificarea unor poziții din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui, cu modificările ulterioare 11 iulie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr130_2022.pdf",
+     "sha256": "ed3576134ca6a43778aa6af5af16a88a85efb7ce7b3abe3d208966551b903570"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-131-2022",
+   "path": "local/judet/vaslui/2022/131",
+   "short": "HCJ Vaslui nr. 131/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 131/2022 privind aprobarea achiziționării serviciilor de consultanță juridică, de asistență și reprezentare de către Spitalul Județean de Urgență Vaslui în litigiul ce face obiectul dosarului civil nr. 1170/89/2022, aflat pe rolul Tribunalului Vaslui 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr131_2022.pdf",
+     "sha256": "c2630025155f2e3874ab45252632802b1566f633851e5499fb1234ab0367b9a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-134-2022",
+   "path": "local/judet/vaslui/2022/134",
+   "short": "HCJ Vaslui nr. 134/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 134/2022 privind rectificarea bugetului creditului intern pe anul 2022 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr134_2022.pdf",
+     "sha256": "0666a30b50be503a4b740a94ba89a7d0e5358aef842faa06d95024de6ba6223f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-136-2022",
+   "path": "local/judet/vaslui/2022/136",
+   "short": "HCJ Vaslui nr. 136/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 136/2022 pentru modificarea alineatului 1 al articolului 13 din Actul Constitutiv al Societății „Lucrări Drumuri și Poduri” SA Vaslui 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr136_2022.pdf",
+     "sha256": "327909b4f99a5406464652f64dfb16c731f5c058d31bf2aaf84d348e54bbe7f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-137-2022",
+   "path": "local/judet/vaslui/2022/137",
+   "short": "HCJ Vaslui nr. 137/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 137/2022 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Construire morgă în cadrul Spitalului Județean de Urgență Vaslui” 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr137_2022.pdf",
+     "sha256": "6d4e4457acb5ae5c40b45825945b1254c1a9028fc31debb3a3601e13c23b90d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-138-2022",
+   "path": "local/judet/vaslui/2022/138",
+   "short": "HCJ Vaslui nr. 138/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 138/2022 pentru modificarea Hotărârii Consiliului Județean Vaslui nr. 184/2018 privind aprobarea proiectului „Reabilitare, modernizare și dotare Școala Profesională Specială «Sfânta Ecaterina», Huși” şi a cheltuielilor legate de proiect 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr138_2022.pdf",
+     "sha256": "17961d8ebd43cc51a8ca913bb3ce468272549e7a72a2b26a79de28e7561d46fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-14-2022",
+   "path": "local/judet/vaslui/2022/14",
+   "short": "HCJ Vaslui nr. 14/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 14/2022 privind aprobarea cuantumului cotizației Județului Vaslui, în calitate de membru fondator al Asociației de Dezvoltare Intercomunitară pentru Digitalizare și Dezvoltare Durabilă a Județului Vaslui, pentru anul 2022 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr14_2022.pdf",
+     "sha256": "9d4044f3436a6cfba897817645fba21f9dec1a137d5f54860148e4effa27f8c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-140-2022",
+   "path": "local/judet/vaslui/2022/140",
+   "short": "HCJ Vaslui nr. 140/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 140/2022 pentru modificarea poziției nr. 14 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 224/2016 privind modificarea statului de funcții al Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Vaslui, cu modificările ulterioare 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr140_2022.pdf",
+     "sha256": "2d4d6585e1d85a18a382c6beb25eb6b55501e945e468e1d99033ea9a00ab9e91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-141-2022",
+   "path": "local/judet/vaslui/2022/141",
+   "short": "HCJ Vaslui nr. 141/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 141/2022 privind înființarea și componența Comisiei pentru Protecția Copilului Vaslui 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr141_2022.pdf",
+     "sha256": "c838e5901758d6d631fc12996ecdaba2b2d368904a03dfdc1d0515b44b3818ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-142-2022",
+   "path": "local/judet/vaslui/2022/142",
+   "short": "HCJ Vaslui nr. 142/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 142/2022 pentru modificarea poziției nr. 133 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 93/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 01 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr142_2022.pdf",
+     "sha256": "a53c73d19ba855c8054a40f1f946483087542327dec6b2eb74872567dd74a591"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-143-2022",
+   "path": "local/judet/vaslui/2022/143",
+   "short": "HCJ Vaslui nr. 143/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 143/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr143_2022.pdf",
+     "sha256": "789e43693f4810693ed3e2b9320425664c5de26909f7c672f345c90a079b3146"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-144-2022",
+   "path": "local/judet/vaslui/2022/144",
+   "short": "HCJ Vaslui nr. 144/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 144/2022 pentru aprobarea listei produselor care se vor distribui și a măsurilor educative care se vor implementa în județul Vaslui în cadrul Programului pentru școli al României, în anul școlar 2022-2023 16 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr144_2022.pdf",
+     "sha256": "e2a169da4f613b1c449008e9a76c5a7e4b5d1406b829513fb82884ad1146fa21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-145-2022",
+   "path": "local/judet/vaslui/2022/145",
+   "short": "HCJ Vaslui nr. 145/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 145/2022 privind aprobarea Planului de acțiune la nivelul județului Vaslui pentru implementarea Strategiei naționale în domeniul drogurilor 2022-2026 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr145_2022.pdf",
+     "sha256": "e5784f970917b200d23fa312a65c5af18ae0118a24ae60dfb443695eced25e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-146-2022",
+   "path": "local/judet/vaslui/2022/146",
+   "short": "HCJ Vaslui nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 146/2022 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pe perioada 01.01.2022– 30.06.2022 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr146_2022.pdf",
+     "sha256": "86b90f2ec22688de36648921e3bef32a54f024f5c5e28b4c36432dffd122148c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-147-2022",
+   "path": "local/judet/vaslui/2022/147",
+   "short": "HCJ Vaslui nr. 147/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 147/2022 pentru completarea anexei nr. 8 la Hotărârea Consiliului Județean Vaslui nr. 65/2021 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2022, care constituie venituri la bugetul local al județului și la bugetul instituțiilor subordonate 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr147_2022.pdf",
+     "sha256": "a797bea6a558cc3c5fa48b80bf2c367b36f8bac5101317fe3f30d5e99b639fd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-148-2022",
+   "path": "local/judet/vaslui/2022/148",
+   "short": "HCJ Vaslui nr. 148/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 148/2022 pentru aprobarea încheierii unui act adițional la Contractul de delegare a gestiunii serviciului de salubrizare a județului Vaslui nr. 16452/19.12.2017 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr148_2022.pdf",
+     "sha256": "123dbc49a42613a06e2632d82115b4cdc219286c88989e879aa9bb465adb4730"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-151-2022",
+   "path": "local/judet/vaslui/2022/151",
+   "short": "HCJ Vaslui nr. 151/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 151/2022 pentru modificarea poziției nr.19 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr. 93/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr151_2022.pdf",
+     "sha256": "6cdb2a7b2ca20ffb641e9a2221d22fa0d8efa584618f4c3a63f5e5f4a0ebe704"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-152-2022",
+   "path": "local/judet/vaslui/2022/152",
+   "short": "HCJ Vaslui nr. 152/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 152/2022 privind actualizarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr152_2022.pdf",
+     "sha256": "bd7fd8227034598a17a5c71ee4c4800c7aee327956327d2c4965895e7f274a2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-153-2022",
+   "path": "local/judet/vaslui/2022/153",
+   "short": "HCJ Vaslui nr. 153/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 153/2022 pentru modificarea alineatului (1) al articolului 12 din Hotărârea Consiliului Judeţean Vaslui nr. 210/2021 privind aprobarea Studiului de oportunitate, a modalităţii de atribuire a serviciului public de transport judeţean de persoane prin curse regulate și a documentaţiei de atribuire a Contractului de delegare a gestiunii serviciului public de transport judeţean de persoane prin curse regulate p",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr153_2022.pdf",
+     "sha256": "18793b3f91a256b8c6f3d913c0c920375d584ec0314fc6852879f9d631e39852"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-154-2022",
+   "path": "local/judet/vaslui/2022/154",
+   "short": "HCJ Vaslui nr. 154/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 154/2022 privind repartizarea pe unități administrativ-teritoriale ale Județului Vaslui a unor sume defalcate din taxa pe valoare adăugată destinate finanțării cheltuielilor privind drumurile județene și comunale pe anul 2022 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr154_2022.pdf",
+     "sha256": "e29445b584a01d24d8b4a9479de965067454b1332b661fc3022bed9e3897109e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-155-2022",
+   "path": "local/judet/vaslui/2022/155",
+   "short": "HCJ Vaslui nr. 155/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 155/2022 privind rectificarea a V-a a bugetului local al județului Vaslui, pe anul 2022 29 august",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr155_2022.pdf",
+     "sha256": "80c64857fc72b86ca530e8080a4b187465a997f3f51e52249f820c9b7d42113a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-157-2022",
+   "path": "local/judet/vaslui/2022/157",
+   "short": "HCJ Vaslui nr. 157/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 157/2022 privind aprobarea documentației tehnico-economice (faza PT) și a indicatorilor tehnico-economici aferenți obiectivului de investiții \"Construire secții la Spitalul nr. 2 Vaslui\" ANEXA 1 16 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr157_2022.pdf",
+     "sha256": "a9564b2a54a4b5526c1bbf2ac4c179859b9a15480402e65246c04a88dac64365"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-158-2022",
+   "path": "local/judet/vaslui/2022/158",
+   "short": "HCJ Vaslui nr. 158/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 158/2022 privind aprobarea Studiului de fezabilitate pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014 – 2020”, a indicatorilor tehnico-economici aferenți obiectivului de investiții și a cofinanțării proiectului ANEXA 1 16 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr158_2022.pdf",
+     "sha256": "696fc435696205b8a3d4dfa992f61174c590073ebdd881ab68c70891d4354d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-159-2022",
+   "path": "local/judet/vaslui/2022/159",
+   "short": "HCJ Vaslui nr. 159/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 159/2022 privind aprobarea modificării anexei la Hotărârea Consiliului Județean Vaslui nr. 210/2020 pentru aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 50.000.000 lei în vederea asigurării cofinanțării și prefinanțării proiectelor de interes județean finanțate din fonduri nerambursabile de la Uniunea Europeană 16 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr159_2022.pdf",
+     "sha256": "ea67e9d5d1cb9862999da80c34ea18b324a8fec8e3046e204a86e72736e74c64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-160-2022",
+   "path": "local/judet/vaslui/2022/160",
+   "short": "HCJ Vaslui nr. 160/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 160/2022 privind declararea de interes public județean a unui imobil și transmiterea acestuia în administrarea Școlii Profesionale Speciale „Sfânta Ecaterina” Huși 16 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr160_2022.pdf",
+     "sha256": "9df39453df9d43ce0176c4a0db347244cddd27c02f98d134d83ff3a725a226d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-161-2022",
+   "path": "local/judet/vaslui/2022/161",
+   "short": "HCJ Vaslui nr. 161/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 161/2022 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru obiectivul de investiţii \"Reabilitare și modernizare DJ 245L: DN 24 (Costești) – Puntișeni – Chițcani – Pârvești – Mănăstirea Pârvești\" 16 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr161_2022.pdf",
+     "sha256": "a09781c533312c055f6d6312f8d6d7583392b31131e14ee177811f00d374eedc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-163-2022",
+   "path": "local/judet/vaslui/2022/163",
+   "short": "HCJ Vaslui nr. 163/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 163/2022 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru obiectivul de investiţii \"REABILITARE ȘI MODERNIZARE DJ 244C: HUȘI (DN24B) – PĂDURENI – LEOȘTI – VĂLENI – URLAȚI - DIMITRIE CANTEMIR – DJ 244A (MUȘATA)\" 16 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr163_2022.pdf",
+     "sha256": "bab07a1066b7899608c47d9c25624817434ca84a1a2ba9ae979978bcd7007589"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-164-2022",
+   "path": "local/judet/vaslui/2022/164",
+   "short": "HCJ Vaslui nr. 164/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 164/2022 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Reabilitare și modernizare drum județean DJ 242C: Limită județ Galați (Gara Docăneasa) - Limită județ Galați (Gara Tălășmani)\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanța",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr164_2022.pdf",
+     "sha256": "2bc57bbeb06e5d7705e99f6fa8d6666dabb51d7490e11bc5adb89ce6ae527372"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-165-2022",
+   "path": "local/judet/vaslui/2022/165",
+   "short": "HCJ Vaslui nr. 165/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 165/2022 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Reabilitare și modernizare DJ 242 G: Vinderei (DJ 242C km 0+000) – Brădești\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivu",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr165_2022.pdf",
+     "sha256": "537c09a5d065bc15b681722684fad642398719a027a18ca4fb9a6c605dd62ee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-166-2022",
+   "path": "local/judet/vaslui/2022/166",
+   "short": "HCJ Vaslui nr. 166/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 166/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții ”Pod pe DJ 245E, km. 2+705\" aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiec",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr166_2022.pdf",
+     "sha256": "09c6a24f4793350c21ef7a0c1f7eaa73a9625eded47190e135387d4602631c66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-168-2022",
+   "path": "local/judet/vaslui/2022/168",
+   "short": "HCJ Vaslui nr. 168/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 168/2022 pentru modificarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 30 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr168_2022.pdf",
+     "sha256": "6f139ad283fb8c48ae4f8237acc699379962857c2f98ff90b957b70c0bd3cc08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-169-2022",
+   "path": "local/judet/vaslui/2022/169",
+   "short": "HCJ Vaslui nr. 169/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 169/2022 privind aprobarea capacității Centrelor de servicii de recuperare neuromotorie de tip ambulatoriu din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui 30 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr169_2022.pdf",
+     "sha256": "690a58bf3acc27676e1cf8e6529f7038322db2992d3563c9ed5c153cbf88bd51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-17-2022",
+   "path": "local/judet/vaslui/2022/17",
+   "short": "HCJ Vaslui nr. 17/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 17/2022 privind aprobarea bugetului creditului intern pe anul 2022 și a estimărilor pe anii 2023-2025 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr17_2022.pdf",
+     "sha256": "55b2edd4da212da8803e724da974f2ab972a069c4b1381e1e703a2652213b78f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-173-2022",
+   "path": "local/judet/vaslui/2022/173",
+   "short": "HCJ Vaslui nr. 173/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 173/2022 privind rectificarea a II-a a bugetului creditului intern pe anul 2022 30 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr173_2022.pdf",
+     "sha256": "99a405102c6e44c45de3c22997a4a7e38ae37c99f4595dd204a633ed32826e53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-174-2022",
+   "path": "local/judet/vaslui/2022/174",
+   "short": "HCJ Vaslui nr. 174/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 174/2022 privind acordarea unui sprijin financiar unor unități de cult din județul Vaslui 30 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr174_2022.pdf",
+     "sha256": "e040985bfbc0b899e99416544273dba5ca56f21e87963013e04e756d39169135"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-175-2022",
+   "path": "local/judet/vaslui/2022/175",
+   "short": "HCJ Vaslui nr. 175/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 175/2022 privind aprobarea majorării cuantumului alocației de hrană pentru elevii Școlii Profesionale Speciale „Sfânta Ecaterina” Huși 30 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr175_2022.pdf",
+     "sha256": "bde6eb63510a0576f529651f2a1be09f30e2bb6c4f67fca93958cd2707994b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-176-2022",
+   "path": "local/judet/vaslui/2022/176",
+   "short": "HCJ Vaslui nr. 176/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 176/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr176_2022.pdf",
+     "sha256": "e8cd6db8729b58f4e1fb397ed364a4dcf01714b6658d1f2f412bedc3687e3455"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-177-2022",
+   "path": "local/judet/vaslui/2022/177",
+   "short": "HCJ Vaslui nr. 177/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 177/2022 privind transmiterea fără plată a unor bunuri din domeniul privat al Județului Vaslui, achiziționate în cadrul proiectului \"Centru pentru Educație Incluzivă Negrești” SMIS 4413, către Centrul Școlar de Educație Incluzivă Negrești 30 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr177_2022.pdf",
+     "sha256": "93a0d67a5b341dffa01ef0467182d389d90217d988904dbbb19fabd1e4077615"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-178-2022",
+   "path": "local/judet/vaslui/2022/178",
+   "short": "HCJ Vaslui nr. 178/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 178/2022 privind transmiterea fără plată a unor bunuri din domeniul privat al Județului Vaslui, achiziționate în cadrul proiectului „Reabilitare, modernizare, dezvoltare și echipare Centrul de Asistență Medico-Socială Codăești” SMIS 14113, către Centrul de Asistență Medico-Socială Codăești 30 septembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr178_2022.pdf",
+     "sha256": "0cb3ca4b303dfad4fe484dd94e2e5c30d827cc0abdbcfd7a1bc62aa1c775c9c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-18-2022",
+   "path": "local/judet/vaslui/2022/18",
+   "short": "HCJ Vaslui nr. 18/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 18/2022 privind aprobarea bugetului fondurilor externe nerambursabile pe anul 2022 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr18_2022.pdf",
+     "sha256": "d8c0b11fc9e144ba1f7b2f3e9fc192070d79b11c7b00ee0e89194fcb9f6de915"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-181-2022",
+   "path": "local/judet/vaslui/2022/181",
+   "short": "HCJ Vaslui nr. 181/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 181/2022 pentru modificarea anexei la Hotărârea Consiliului Județean Vaslui nr.169/2015 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Construire clădire nouă în vederea organizării Ambulatoriului integrat și desfășurării activității administrative la Spitalul Județean de Urgență Vaslui” și a contribuției Județului Vaslui la finanțarea investiției, cu modificările ulterioa",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr181_2022.pdf",
+     "sha256": "47ce8822a6448238e8c7ee77e05cc02f7d39d983ce43dc0b35895bcd280c8758"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-183-2022",
+   "path": "local/judet/vaslui/2022/183",
+   "short": "HCJ Vaslui nr. 183/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 183/2022 privind rectificarea a VII-a a bugetului local al județului Vaslui pe anul 2022 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr183_2022.pdf",
+     "sha256": "54f6c9630cea738e835a38451b874b6a6b3e03e417f60758826f696cac368598"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-185-2022",
+   "path": "local/judet/vaslui/2022/185",
+   "short": "HCJ Vaslui nr. 185/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 185/2022 privind aprobarea bugetului de venituri şi cheltuieli al Societăţii \"Lucrări Drumuri şi Poduri\" SA Vaslui pe anul 2022, rectificat și a estimărilor pe anii 2023 - 2024 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr185_2022.pdf",
+     "sha256": "c59b7fae72eeaa6c3cf4e67379ba394b4ef1e01c1d7320f381686b6820685874"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-186-2022",
+   "path": "local/judet/vaslui/2022/186",
+   "short": "HCJ Vaslui nr. 186/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 186/2022 privind stabilirea numărului și a cuantumului burselor școlare aferente anului școlar 2022-2023 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr186_2022.pdf",
+     "sha256": "9e1d4d14e9fc71e6f5fadb1cba84241cc6a1ae71fce55afd93db03956fb4977c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-187-2022",
+   "path": "local/judet/vaslui/2022/187",
+   "short": "HCJ Vaslui nr. 187/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 187/2022 privind aprobarea înregistrării Județului Vaslui în Sistemul Național Electronic de Plată online și înrolarea în sistemul Ghișeul.ro 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr187_2022.pdf",
+     "sha256": "48e82efe5a165b6e6c6b75eec824b8015e898b64cda5ab9d2d7d1dba09b71b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-188-2022",
+   "path": "local/judet/vaslui/2022/188",
+   "short": "HCJ Vaslui nr. 188/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 188/2022 privind însușirea documentației cadastrale a unui imobil aparținând domeniului public al Județului Vaslui 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr188_2022.pdf",
+     "sha256": "cd3612a126090ebd5392a37419206a68e00f38dc54e642a30c311ba61ff2b604"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-189-2022",
+   "path": "local/judet/vaslui/2022/189",
+   "short": "HCJ Vaslui nr. 189/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 189/2022 privind solicitarea trecerii unui imobil din domeniul public al Municipiului Vaslui în domeniul public al Județului Vaslui 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr189_2022.pdf",
+     "sha256": "144dad4428bb0eda0c82994227fdf29c637e90039428c2066ec81d6a82501a4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-19-2022",
+   "path": "local/judet/vaslui/2022/19",
+   "short": "HCJ Vaslui nr. 19/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 19/2022 privind aprobarea bugetului de venituri şi cheltuieli al Societăţii \"Lucrări Drumuri şi Poduri\" S.A",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr19_2022.pdf",
+     "sha256": "4d3816dd687d103081aeb6d79576114099ef94845f2ddf5cb6c55e015e36f0da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-190-2022",
+   "path": "local/judet/vaslui/2022/190",
+   "short": "HCJ Vaslui nr. 190/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 190/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr190_2022.pdf",
+     "sha256": "87d6c2637f51d8cdd52d0db8696d3864ce54899b5bc2ba8d1f0aa52116588e96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-191-2022",
+   "path": "local/judet/vaslui/2022/191",
+   "short": "HCJ Vaslui nr. 191/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 191/2022 privind transmiterea fără plată a unor bunuri din domeniul privat al Județului Vaslui, achiziționate în cadrul proiectului ”Reabilitarea Centrului Cultural Istoric al municipiului Bârlad”, către Muzeul ”Vasile Pârvan” Bârlad 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr191_2022.pdf",
+     "sha256": "66108ada36e952a6f07c7a032b422383aa9b63c2572233fb018f8b3c4b7c21db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-192-2022",
+   "path": "local/judet/vaslui/2022/192",
+   "short": "HCJ Vaslui nr. 192/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 192/2022 privind aprobarea încheierii actului adițional nr.2 la Acordul de parteneriat nr.846/28.01.2021 dintre Agenția pentru Dezvoltare Regională Nord-Est și UAT Județul Vaslui pentru realizarea proiectului „Sprijin la nivelul Regiunii Nord-Est pentru pregătirea de proiecte finanțate din perioada de programare 2021-2027 pe domeniile mobilitate urbană, regenerare urbană, centre de agrement/baze turistice",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr192_2022.pdf",
+     "sha256": "1059da1f8860911cc8b1bbb7ca64498dec72a09586b2cc3e41945f7b05cd8b55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-195-2022",
+   "path": "local/judet/vaslui/2022/195",
+   "short": "HCJ Vaslui nr. 195/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 195/2022 pentru modificarea articolului 1 din Hotărârea Consiliului Județean Vaslui nr.208/2020 privind validarea desemnării nominale a membrilor Autorității Teritoriale de Ordine Publică Vaslui, cu modificările ulterioare 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr195_2022.pdf",
+     "sha256": "6380f45999297dd78c979df215b766c26f3486f9a14e149e6ace1cce1edd43a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-196-2022",
+   "path": "local/judet/vaslui/2022/196",
+   "short": "HCJ Vaslui nr. 196/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 196/2022 pentru modificarea unor poziții din anexa la Hotărârea Consiliului Județean Vaslui nr. 7/2018 privind stabilirea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările ulterioare 26 octombrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr196_2022.pdf",
+     "sha256": "fd7f49c244199f84c8e3e7208168335b47ecc3136315bcb5353b57969f591dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-199-2022",
+   "path": "local/judet/vaslui/2022/199",
+   "short": "HCJ Vaslui nr. 199/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 199/2022 privind aprobarea proiectului „Construire secții la Spitalul nr. 2 Vaslui” în vederea depunerii acestuia în cadrul Planului Național de Redresare și Reziliență Componenta 12 – Sănătate - Investiția I2",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr199_2022.pdf",
+     "sha256": "603fac3c874f4fbba42e7144b972eeb33825120c16bb2ebd6f8fe070331c3fce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-20-2022",
+   "path": "local/judet/vaslui/2022/20",
+   "short": "HCJ Vaslui nr. 20/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 20/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr20_2022.pdf",
+     "sha256": "a0063eac42a874ef9e22ea0a19226ab796fbdfaa3e387a8d8bf5215b78ab424c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-201-2022",
+   "path": "local/judet/vaslui/2022/201",
+   "short": "HCJ Vaslui nr. 201/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 201/2022 privind aprobarea încheierii unui acord de parteneriat, a proiectului “Construire laborator de microbiologie în cadrul Spitalului Județean de Urgență Vaslui, precum și a cheltuielilor legate de proiect 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr201_2022.pdf",
+     "sha256": "a94b4ee421f94883267bd369a87fb1f150ce0ff84bd984dcedf1e0126b9efeef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-202-2022",
+   "path": "local/judet/vaslui/2022/202",
+   "short": "HCJ Vaslui nr. 202/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 202/2022 privind stabilirea costului mediu lunar de întreținere a beneficiarilor de servicii prestate de Centrele de Asistență Medico-Sociale Băcești și Codăești, pe anul 2023 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr202_2022.pdf",
+     "sha256": "8aee0eb14ba54fa79e6aa9dfff7c6c936e4e3c0b5d1172753671b1b4cfc02d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-203-2022",
+   "path": "local/judet/vaslui/2022/203",
+   "short": "HCJ Vaslui nr. 203/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 203/2022 privind stabilirea costului mediu lunar al cheltuielilor pentru îngrijirea şi protejarea persoanelor cu handicap în centrele rezidenţiale din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, pentru perioada noiembrie 2021 – octombrie 2022 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr203_2022.pdf",
+     "sha256": "ba0cabbfb746abfc42bbc55723de046d24731ed620e50f5186032f0effa6bbc7"
     }
    ]
   },
@@ -33,6 +1353,261 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-205-2022",
+   "path": "local/judet/vaslui/2022/205",
+   "short": "HCJ Vaslui nr. 205/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 205/2022 privind desemnarea reprezentantului Consiliului Județean Vaslui în Comisia pentru evaluarea și asigurarea calității de la nivelul Școlii Profesionale Speciale ”Sfânta Ecaterina” Huși 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr205_2022.pdf",
+     "sha256": "56a9bbb253aafc8b1e9bc1bd9d5b721c3833ee2b33590a8aa419248dfc033645"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-206-2022",
+   "path": "local/judet/vaslui/2022/206",
+   "short": "HCJ Vaslui nr. 206/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 206/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr206_2022.pdf",
+     "sha256": "e12931cd8254683093e2f75d229201931b4d1327daa23fec246bfb64a5bbd07a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-207-2022",
+   "path": "local/judet/vaslui/2022/207",
+   "short": "HCJ Vaslui nr. 207/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 207/2022 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pe perioada 01.01.2022 – 30.09.2022 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr207_2022.pdf",
+     "sha256": "6a07073525ab0610d9a7da31fbbaa91669b78d9734ca6dd35584f8d0230accc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-209-2022",
+   "path": "local/judet/vaslui/2022/209",
+   "short": "HCJ Vaslui nr. 209/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 209/2022 privind acordarea unui sprijin financiar unor unități de cult din județul Vaslui 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr209_2022.pdf",
+     "sha256": "0dde5ef9a98aeebb3b8263aaba599c5e78c2a1038d3b387edbaffcfe94d1007d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-21-2022",
+   "path": "local/judet/vaslui/2022/21",
+   "short": "HCJ Vaslui nr. 21/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 21/2022 privind aprobarea preluării în administrarea Consiliului Județean Vaslui a unor sectoare de drum aflate în domeniul public al comunei Gherghești și în administrarea Consiliului Local al Comunei Gherghești 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr21_2022.pdf",
+     "sha256": "c74e44fbdf87be00fa3588934e3d58dc4247e0c8f3fdfc8c2833a3f18c1aee1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-210-2022",
+   "path": "local/judet/vaslui/2022/210",
+   "short": "HCJ Vaslui nr. 210/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 210/2022 privind aprobarea transmiterii în folosință gratuită pe termen limitat a unui bun mobil aflat în proprietatea privată a Județului Vaslui către Centrul Militar Județean Vaslui 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr210_2022.pdf",
+     "sha256": "6e63e3ca440240cb22e09e323cfb9a7e4edaf7be2b2adebbcbdcb239fd410f41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-211-2022",
+   "path": "local/judet/vaslui/2022/211",
+   "short": "HCJ Vaslui nr. 211/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 211/2022 privind însușirea documentației cadastrale având ca obiect prima înscriere a unui tronson a drumului județean DJ 284 A 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr211_2022.pdf",
+     "sha256": "057d5399110f42101ccacfea3c6d66fc9a11a5d4cc7acab0c8b3ef97091a9d3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-213-2022",
+   "path": "local/judet/vaslui/2022/213",
+   "short": "HCJ Vaslui nr. 213/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 213/2022 privind aprobarea depunerii și implementării proiectului „Creșterea calității serviciilor Centrului de Servicii de Recuperare Neuromotorie de tip Ambulatoriu Vaslui”, în cadrul apelului de proiecte necompetitive ”Reabilitarea/Renovarea Infrastructurii Sociale pentru persoanele cu dizabilități” din cadrul Componentei 13 - Reforme sociale din Planul Național de Redresare și Reziliență al României (P",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr213_2022.pdf",
+     "sha256": "002e4d6b73e084407e5f5b2f8b9d7293620d7b8f50f92bb9df5152ac929b57ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-214-2022",
+   "path": "local/judet/vaslui/2022/214",
+   "short": "HCJ Vaslui nr. 214/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 214/2022 privind aprobarea depunerii și implementării proiectului „Creșterea calității serviciilor Centrului de Servicii de Recuperare Neuromotorie de tip Ambulatoriu Bârlad”, în cadrul apelului de proiecte necompetitive ”Reabilitarea/Renovarea Infrastructurii Sociale pentru persoanele cu dizabilități” din cadrul Componentei 13 - Reforme sociale din Planul Național de Redresare și Reziliență al României (P",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr214_2022.pdf",
+     "sha256": "3f6aa81b41d3538c562f3661147637627a68f3c6da53db3986d87708845ed704"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-215-2022",
+   "path": "local/judet/vaslui/2022/215",
+   "short": "HCJ Vaslui nr. 215/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 215/2022 privind aprobarea depunerii și implementării proiectului „Creșterea calității serviciilor Centrului de Servicii de Recuperare Neuromotorie de tip Ambulatoriu Huși”, în cadrul apelului de proiecte necompetitive ”Reabilitarea/Renovarea Infrastructurii Sociale pentru persoanele cu dizabilități” din cadrul Componentei 13 - Reforme sociale din Planul Național de Redresare și Reziliență al României (PNR",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr215_2022.pdf",
+     "sha256": "fcfaef97c52f587df423222bacfe7e3fafe147511c58716d733e6cc3469dc19a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-216-2022",
+   "path": "local/judet/vaslui/2022/216",
+   "short": "HCJ Vaslui nr. 216/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 216/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr216_2022.pdf",
+     "sha256": "28a0d5d98f1cc14d65d72c950b532705a31e511984d6c2f76502dd78936be239"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-217-2022",
+   "path": "local/judet/vaslui/2022/217",
+   "short": "HCJ Vaslui nr. 217/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 217/2022 pentru modificarea pozițiilor nr.75 și nr.138 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.170/2022 privind aprobarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr217_2022.pdf",
+     "sha256": "bb5a6fed58bfed25a9010c73d6cdfbadce0cd6ee2a96709797f4bf5dfa72afe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-218-2022",
+   "path": "local/judet/vaslui/2022/218",
+   "short": "HCJ Vaslui nr. 218/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 218/2022 pentru aprobarea încheierii unui act adițional la Acordul colectiv și la Contractul colectiv de muncă negociate cu salariații din cadrul aparatului de specialitate al Consiliului Județean Vaslui 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr218_2022.pdf",
+     "sha256": "28cf083709235add1af8b418c6f579d1e02891565fea4c60898acde225e77077"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-219-2022",
+   "path": "local/judet/vaslui/2022/219",
+   "short": "HCJ Vaslui nr. 219/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 219/2022 privind rectificarea a VIII-a a bugetului local al județului Vaslui pe anul 2022 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr219_2022.pdf",
+     "sha256": "eba0fccc0482e45da022c98d2fe22ecccdc301e35f1708fcde424e4ee16b6b00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-22-2022",
+   "path": "local/judet/vaslui/2022/22",
+   "short": "HCJ Vaslui nr. 22/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 22/2022 privind aprobarea Programului Județului Vaslui pentru finanțarea nerambursabilă a românilor de pretutindeni, pentru anul 2022 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr22_2022.pdf",
+     "sha256": "df5bb848b17c0166b5f9710618988ee4eaeac64a2a3e9b54584b878cea391d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-221-2022",
+   "path": "local/judet/vaslui/2022/221",
+   "short": "HCJ Vaslui nr. 221/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 221/2022 privind aprobarea unui acord de parteneriat pentru realizarea proiectului ”V.I.B.E – traseu cicloturistic”, finanțat prin Planul Național de Redresare și Reziliență al României, Componenta 11 – Turism și cultură, Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice” 06 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr221_2022.pdf",
+     "sha256": "f8e2cf671d46d5c5404cf23ed932080dc30a00968771cebc0ad5ada9bffc11ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-222-2022",
+   "path": "local/judet/vaslui/2022/222",
+   "short": "HCJ Vaslui nr. 222/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 222/2022 privind aprobarea înființării Complexului de Servicii Comunitare Fălciu prin reorganizarea Centrului de Reabilitare și Recuperare pentru Copiii cu Dizabilități Fălciu din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr222_2022.pdf",
+     "sha256": "d74b53e0c4373df9272369e92428934a970bc0110505335fcaccbb8b7d9b567d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-223-2022",
    "path": "local/judet/vaslui/2022/223",
    "short": "HCJ Vaslui nr. 223/2022",
@@ -44,6 +1619,381 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr223_2022.pdf",
      "sha256": "6ab76f89a75a61c54a7572432c3b2cda1795f32fde3c495f4fa90a107149ffa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-224-2022",
+   "path": "local/judet/vaslui/2022/224",
+   "short": "HCJ Vaslui nr. 224/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 224/2022 privind stabilirea costurilor medii lunare de întreţinere în Centrele de îngrijire şi asistenţă pentru persoane vârstnice Huşi şi Giurcani din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, pentru anul 2023 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr224_2022.pdf",
+     "sha256": "a020299d602de385b403e1eb6d2c5371f8ded52e9ca41e0d78fea5bc6a1633b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-225-2022",
+   "path": "local/judet/vaslui/2022/225",
+   "short": "HCJ Vaslui nr. 225/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 225/2022 pentru completarea anexei nr.1 la Hotărârea Consiliului Județean Vaslui nr. 64/2022 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2023, care constituie venituri la bugetul local al județului și la bugetul instituțiilor subordonate 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr225_2022.pdf",
+     "sha256": "3b3b13a57afad08aa8453e4f3dc66408bd311257346b1ea8491b96f670fff40b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-226-2022",
+   "path": "local/judet/vaslui/2022/226",
+   "short": "HCJ Vaslui nr. 226/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 226/2022 privind propunerea de numire a unui candidat pentru funcția de membru în Consiliul de administrație al Societății ”Lucrări Drumuri și Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr226_2022.pdf",
+     "sha256": "0e8dc364499eecb50ca2539c598f446530e57b896772a1c93570713aefea9918"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-227-2022",
+   "path": "local/judet/vaslui/2022/227",
+   "short": "HCJ Vaslui nr. 227/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 227/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr227_2022.pdf",
+     "sha256": "73713bcde2ccb8bbd1f0f5aff041802e017c4c18760e644d4c603f4d6c9a6764"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-228-2022",
+   "path": "local/judet/vaslui/2022/228",
+   "short": "HCJ Vaslui nr. 228/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 228/2022 pentru modificarea poziției nr. 16 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 40/2022 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Direcției Județene de Evidență a Persoanelor Vaslui, cu modificările ulterioare 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr228_2022.pdf",
+     "sha256": "c36791a6190ccb990b1728e557592202cbd9905e278f428f0a4d21f26529c856"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-23-2022",
+   "path": "local/judet/vaslui/2022/23",
+   "short": "HCJ Vaslui nr. 23/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 23/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr23_2022.pdf",
+     "sha256": "a959e005e886589f48093cd7ae77be9f2095f245dbe6ee3963d8e0ddba906cb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-230-2022",
+   "path": "local/judet/vaslui/2022/230",
+   "short": "HCJ Vaslui nr. 230/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 230/2022 pentru modificarea unor poziții din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui, cu modificările ulterioare 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr230_2022.pdf",
+     "sha256": "35764ac995f006a165ecb54dc412fe24d923fd8e398dbb791192bca339bde3b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-231-2022",
+   "path": "local/judet/vaslui/2022/231",
+   "short": "HCJ Vaslui nr. 231/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 231/2022 privind modificarea componenței nominale a Comisiei de evaluare a persoanelor adulte cu handicap Vaslui 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr231_2022.pdf",
+     "sha256": "a30e6a8e6d242ad6ee1de10994aefd333083199562e079a43ddbabf58fe0c45e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-234-2022",
+   "path": "local/judet/vaslui/2022/234",
+   "short": "HCJ Vaslui nr. 234/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 234/2022 privind aprobarea achiziționării serviciilor de consultanță juridică, de asistență și reprezentare de către Muzeul Județean ”Ștefan cel Mare” Vaslui în litigiile aflate pe rolul instanțelor de judecată 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr234_2022.pdf",
+     "sha256": "386e2947d594cfb9953f337e3ecfe7073e482228f124b5ea2f1a9d0af8888300"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-235-2022",
+   "path": "local/judet/vaslui/2022/235",
+   "short": "HCJ Vaslui nr. 235/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 235/2022 privind repartizarea către 8 (opt) unităţi administrativ-teritoriale ale Judeţului Vaslui a fondului aflat la dispoziția Consiliului Județean Vaslui din impozitul pe venit încasat suplimentar, pentru anul 2022 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr235_2022.pdf",
+     "sha256": "d4126977fd03fe8f55c43794f854a9ee7e6afcefddcc3dbd2414c19176d41ea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-236-2022",
+   "path": "local/judet/vaslui/2022/236",
+   "short": "HCJ Vaslui nr. 236/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 236/2022 pentru modificarea pozițiilor nr. 78, 107, 108 și 109 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 170/2022 privind aprobarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 20 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr236_2022.pdf",
+     "sha256": "a880648a6fe577fda6dd92d674f503c80393a23d83b49754aab259ea4a839b97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-237-2022",
+   "path": "local/judet/vaslui/2022/237",
+   "short": "HCJ Vaslui nr. 237/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 237/2022 privind rectificarea a X-a a bugetului local al județului Vaslui pe anul 2022 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr237_2022.pdf",
+     "sha256": "0fc228928724c380c71bcd22080573eef117b1145988e14f1b44f2fcbb730c60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-238-2022",
+   "path": "local/judet/vaslui/2022/238",
+   "short": "HCJ Vaslui nr. 238/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 238/2022 privind stabilirea unor măsuri pentru asigurarea continuității serviciului de transport public județean de persoane prin curse regulate, în județul Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr238_2022.pdf",
+     "sha256": "03fb4764e605272e7cfd3c74f09fc5a69a908e416789049bc60681fa378243ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-24-2022",
+   "path": "local/judet/vaslui/2022/24",
+   "short": "HCJ Vaslui nr. 24/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 24/2022 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2021, de către persoanele cu funcții de demnitate publică din conducerea Consiliului Județean Vaslui, în cursul anului 2022 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr24_2022.pdf",
+     "sha256": "d99fedc69842d6c953fd4aabd4faa905bc0f12cf61577bac481d09e933ea12f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-25-2022",
+   "path": "local/judet/vaslui/2022/25",
+   "short": "HCJ Vaslui nr. 25/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 25/2022 pentru modificarea Hotărârii Consiliului Județean Vaslui nr. 138/2017 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din familia ocupațională ”Administrație” din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările și completările ulterioare 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr25_2022.pdf",
+     "sha256": "c06ea3aa1361dfab928731620866412851db45f16119ac71e0a3e452b05f25d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-26-2022",
+   "path": "local/judet/vaslui/2022/26",
+   "short": "HCJ Vaslui nr. 26/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 26/2022 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.219/2021 privind aprobarea înființării prin reorganizare a unor centre/complexe rezidențiale pentru persoanele adulte cu dizabilități din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr26_2022.pdf",
+     "sha256": "510b498f2745118784aa8870e29432e043dc74f9432b8cbe74f4aa4665582356"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-28-2022",
+   "path": "local/judet/vaslui/2022/28",
+   "short": "HCJ Vaslui nr. 28/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 28/2022 pentru modificarea unor poziții din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr28_2022.pdf",
+     "sha256": "7b4bdcdb30f00816ce619ac27de729a54777711e34ff3d19de5bca9d6184b88e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-29-2022",
+   "path": "local/judet/vaslui/2022/29",
+   "short": "HCJ Vaslui nr. 29/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 29/2022 privind însușirea unor documentații cadastrale aferente drumurilor județene 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr29_2022.pdf",
+     "sha256": "783205c27a1f9827d0b4d564e221578cb6949dd30cd415491ba6289acda4c687"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-3-2022",
+   "path": "local/judet/vaslui/2022/3",
+   "short": "HCJ Vaslui nr. 3/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 3/2022 privind aprobarea documentației tehnico-economice (faza S.F.) și a indicatorilor tehnicoeconomici aferenți obiectivului de investiție „Amenajare parc Centrul de Asistență Medico-Socială Codăești, sat Codăești, comuna Codăești, județul Vaslui\" 21 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr3_2022.pdf",
+     "sha256": "1481b68d2c45d5668d0bd081e635b09aec8af7b5779893aeaa0f01dab050b91c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-30-2022",
+   "path": "local/judet/vaslui/2022/30",
+   "short": "HCJ Vaslui nr. 30/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 30/2022 pentru modificarea Hotărârii Consiliului Județean Vaslui nr. 121/2018 privind aprobarea proiectului și a cheltuielilor legate de proiect, în vederea aplicării mecanismului de contractare pentru proiectul „Servicii sociale integrate pentru persoane adulte cu dizabilități”, cod SMIS 121848, Apel de proiecte POR/8/8.1/8.3/B/1 – Grup vulnerabil persoane cu dizabilități, cu modificările ulterioare 14 f",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr30_2022.pdf",
+     "sha256": "e1f730b8576c16fc1df9eb35c2f99a700ee7fa4948d1cb5337dc877d3c1f0f81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-32-2022",
+   "path": "local/judet/vaslui/2022/32",
+   "short": "HCJ Vaslui nr. 32/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 32/2022 privind modificarea și completarea temporară a structurii organizatorice a Spitalului Județean de Urgență Vaslui 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr32_2022.pdf",
+     "sha256": "c0dc0b0b5a062392e8ea443138fa552be8a4e2c35bcba108dee9e886846caaab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-33-2022",
+   "path": "local/judet/vaslui/2022/33",
+   "short": "HCJ Vaslui nr. 33/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 33/2022 pentru aprobarea Raportului anual privind stadiul realizării măsurilor din Planul de menținere a calității aerului în județul Vaslui, 2018-2022 14 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr33_2022.pdf",
+     "sha256": "b5260a6b67be0777fa8e7b443098f656e502e49baf7edd55f2cd55a5d9a29e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-34-2022",
+   "path": "local/judet/vaslui/2022/34",
+   "short": "HCJ Vaslui nr. 34/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 34/2022 privind repartizarea pe unităţi administrativ-teritoriale ale Judeţului Vaslui a unei părți din fondul aflat la dispoziția Consiliului Județean Vaslui din impozitul pe venit, pentru anul 2022 04 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr34_2022.pdf",
+     "sha256": "8689003b139c6cb9455d197c669c075351f2bd7e8c047fefdb1dfdcf1412bce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-35-2022",
+   "path": "local/judet/vaslui/2022/35",
+   "short": "HCJ Vaslui nr. 35/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 35/2022 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pe perioada 01.01.2021 – 31.12.2021 04 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr35_2022.pdf",
+     "sha256": "654b1225068b4b0a98139bbe80e84351cf3e04a72e7cee572831407283818b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-36-2022",
+   "path": "local/judet/vaslui/2022/36",
+   "short": "HCJ Vaslui nr. 36/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 36/2022 privind stabilirea numărului și a cuantumului burselor școlare aferente semestrului al II-lea al anului școlar 2021-2022 04 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr36_2022.pdf",
+     "sha256": "a96acaad934946b97d5db17d354c9db0a392d1d62a4c87578374ac7e9061ff9a"
     }
    ]
   },
@@ -63,6 +2013,186 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-39-2022",
+   "path": "local/judet/vaslui/2022/39",
+   "short": "HCJ Vaslui nr. 39/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 39/2022 privind aprobarea depunerii proiectului „Sprijin în pregătirea aplicației de finanțare, precum și a documentațiilor de atribuire pentru proiectul Extindere a sistemului integrat de management al deșeurilor solide în județul Vaslui” și a cheltuielilor legate de proiect 04 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr39_2022.pdf",
+     "sha256": "3c8273396e009c9ac692f5f20ee2adc245c9ccb14dc7c120b11a36ddfdcb2c39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-4-2022",
+   "path": "local/judet/vaslui/2022/4",
+   "short": "HCJ Vaslui nr. 4/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 4/2022 privind aprobarea organizării rețelei școlare de învățământ special din Județul Vaslui pentru anul școlar 2022 - 2023 21 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr4_2022.pdf",
+     "sha256": "6ebd4d21e0889dad58293dbf22eb592d87b0082016925358b77c62ad8d1d5265"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-40-2022",
+   "path": "local/judet/vaslui/2022/40",
+   "short": "HCJ Vaslui nr. 40/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 40/2022 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Direcției Județene de Evidență a Persoanelor Vaslui 04 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr40_2022.pdf",
+     "sha256": "d76f492f8773864ad54b9a464ce57a2b1bc7027e1ae04ea8a8debaa956db96ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-41-2022",
+   "path": "local/judet/vaslui/2022/41",
+   "short": "HCJ Vaslui nr. 41/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 41/2022 privind modificarea componenței Autorității Teritoriale de Ordine Publică Vaslui 04 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr41_2022.pdf",
+     "sha256": "a2663478d41603a4449db03c60fe7f8b81f57726da5f2b381b99c6cddddb2696"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-42-2022",
+   "path": "local/judet/vaslui/2022/42",
+   "short": "HCJ Vaslui nr. 42/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 42/2022 privind punerea în executare a dispozitivului Deciziei civile nr. 111/2022, pronunțată de Curtea de Apel Iași în dosarul civil nr. 905/89/2021 04 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr42_2022.pdf",
+     "sha256": "be99d2e14f1b5e07cf726df3c03620f687fb0cdcd5e25e331dd0a380372732b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-43-2022",
+   "path": "local/judet/vaslui/2022/43",
+   "short": "HCJ Vaslui nr. 43/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 43/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr43_2022.pdf",
+     "sha256": "dccbd077689a5836accafc0425e718e0775536b59a95added2ec8a75cc9aba23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-44-2022",
+   "path": "local/judet/vaslui/2022/44",
+   "short": "HCJ Vaslui nr. 44/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 44/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr44_2022.pdf",
+     "sha256": "fa11c7b425c00fba3a2f1b3a0ced9c7bfd073cf2c914f915da1448b242d8bfdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-45-2022",
+   "path": "local/judet/vaslui/2022/45",
+   "short": "HCJ Vaslui nr. 45/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 45/2022 privind aprobarea Strategiei pentru educație fizică și sport a Județului Vaslui, cu orizontul de timp 2021-2027 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr45_2022.pdf",
+     "sha256": "13a6758c0d85a1cefbdd2a28b60ae78112111e70244a5ae54e27c3d6f32507c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-46-2022",
+   "path": "local/judet/vaslui/2022/46",
+   "short": "HCJ Vaslui nr. 46/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 46/2022 privind rectificarea bugetului local al județului Vaslui, pe anul 2022 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr46_2022.pdf",
+     "sha256": "5820266f49075f3754502ca567146dd8250654ce96ad139fd44862462ce86a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-47-2022",
+   "path": "local/judet/vaslui/2022/47",
+   "short": "HCJ Vaslui nr. 47/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 47/2022 privind acordarea unui sprijin financiar unor unități de cult din județul Vaslui 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr47_2022.pdf",
+     "sha256": "9096c2a129d2930a3acec7ed4e83696be646508844942a3807ae971c78f4c800"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-48-2022",
+   "path": "local/judet/vaslui/2022/48",
+   "short": "HCJ Vaslui nr. 48/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 48/2022 privind retragerea dreptului de administrare al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui asupra unui imobil aparținând domeniului public al Județului Vaslui 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr48_2022.pdf",
+     "sha256": "8c8d752eb0b8d27e045ef6081839a735ae7ffd170250dce98d7c70171e419e4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-49-2022",
+   "path": "local/judet/vaslui/2022/49",
+   "short": "HCJ Vaslui nr. 49/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 49/2022 privind aprobarea Programului judeţean pentru finanţarea nerambursabilă a activităţilor nonprofit de interes public local pentru anul 2022 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr49_2022.pdf",
+     "sha256": "652ed8b49c145031a0595e76e2cf3576fdfdecaa10174c9a47f56aba47487f38"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-50-2022",
    "path": "local/judet/vaslui/2022/50",
    "short": "HCJ Vaslui nr. 50/2022",
@@ -74,6 +2204,171 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr50_2022.pdf",
      "sha256": "f972ebd456d6fd9a4a6c4dd6789c72bcef90ed30dfa44d4c98d6c4ec3eee0d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-51-2022",
+   "path": "local/judet/vaslui/2022/51",
+   "short": "HCJ Vaslui nr. 51/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 51/2022 pentru aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul Județului Vaslui, pentru anul 2022 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr51_2022.pdf",
+     "sha256": "5eef0e6ee02003f224d36d3f2e3792f13bc020dda0c320d95001802d357f2a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-52-2022",
+   "path": "local/judet/vaslui/2022/52",
+   "short": "HCJ Vaslui nr. 52/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 52/2022 privind aprobarea încheierii unui Act adițional de modificare și completare a Acordului de Cooperare între Județul Vaslui din România și Raionul Hîncești din Republica Moldova, semnat la Vaslui, la data de 16 august 2004 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr52_2022.pdf",
+     "sha256": "0066eaa36ceb8773bbe5584258b18d18feeda7a2f561806b73ca320011eb3a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-53-2022",
+   "path": "local/judet/vaslui/2022/53",
+   "short": "HCJ Vaslui nr. 53/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 53/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr53_2022.pdf",
+     "sha256": "12f79a5855fbec98e86d90995ad4e3d713d480553aa2c5da9f6ee79340938d3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-54-2022",
+   "path": "local/judet/vaslui/2022/54",
+   "short": "HCJ Vaslui nr. 54/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 54/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr54_2022.pdf",
+     "sha256": "1d4fed83780ea8e858e730d1231381337f559ca541faf5827ac94e77995c2103"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-56-2022",
+   "path": "local/judet/vaslui/2022/56",
+   "short": "HCJ Vaslui nr. 56/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 56/2022 pentru modificarea poziției nr. 115 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 43/2020 privind modificarea organigramei și a statului de funcții al personalului din cadrul Centrului de Asistenţă Medico – Socială Băceşti, cu modificările și completările ulterioare 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr56_2022.pdf",
+     "sha256": "da9d37a2aff20bc5bd7f28711ce1d6d28dedd39d91db0d8afaee0ed38c84e263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-57-2022",
+   "path": "local/judet/vaslui/2022/57",
+   "short": "HCJ Vaslui nr. 57/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 57/2022 privind valorificarea prin licitație publică în plic închis a 12,89 mc masă lemnoasă pe picior, existentă pe amplasamentul obiectivului de investiții „EXTINDERE UNITATE DE PRIMIRI URGENȚE” 24 martie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr57_2022.pdf",
+     "sha256": "8025375c09639fb0b581e84222be0514da1acea3184a5472c858bd677b679e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-58-2022",
+   "path": "local/judet/vaslui/2022/58",
+   "short": "HCJ Vaslui nr. 58/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 58/2022 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Vaslui nr. 40/2022 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Direcției Județene de Evidență a Persoanelor Vaslui 05 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr58_2022.pdf",
+     "sha256": "fbde93fad18a8a749db1b004031211f0211c145b20ed57f1830fb94a4bcf732d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-6-2022",
+   "path": "local/judet/vaslui/2022/6",
+   "short": "HCJ Vaslui nr. 6/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 6/2022 pentru modificarea poziției nr. 116 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 43/2020 privind modificarea organigramei și a statului de funcții al personalului din cadrul Centrului de Asistenţă Medico – Socială Băceşti, cu modificările și completările ulterioare 21 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr6_2022.pdf",
+     "sha256": "d5187463f8c33e9d10c797eda08d3e389a059b4d1ef49b865a1afb73f97f3e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-60-2022",
+   "path": "local/judet/vaslui/2022/60",
+   "short": "HCJ Vaslui nr. 60/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 60/2022 privind darea în folosinţă gratuită a unui spaţiu din incinta imobilului ”Palat administrativ” către Inspectoratul de Poliție al Județului 05 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr60_2022.pdf",
+     "sha256": "4e43d3015abc2809162aee2f6344d4d82d58ffe261ff38d085dde5fd45735dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-61-2022",
+   "path": "local/judet/vaslui/2022/61",
+   "short": "HCJ Vaslui nr. 61/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 61/2022 privind rectificarea a II-a a bugetului local al județului Vaslui, pe anul 2022 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr61_2022.pdf",
+     "sha256": "54c47f74eb9e94a69ba370789966ba9477accf425df23e25e2cbd42c66cbf4a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-63-2022",
+   "path": "local/judet/vaslui/2022/63",
+   "short": "HCJ Vaslui nr. 63/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 63/2022 privind repartizarea către 45 unităţi administrativ-teritoriale ale Judeţului Vaslui a unei părți din fondul aflat la dispoziția Consiliului Județean Vaslui din impozitul pe venit, pentru anul 2022 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr63_2022.pdf",
+     "sha256": "4a7c54e90f00044388065db3ed41071cafc3f63e6ef7598195184caba74cc8ed"
     }
    ]
   },
@@ -93,6 +2388,186 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-67-2022",
+   "path": "local/judet/vaslui/2022/67",
+   "short": "HCJ Vaslui nr. 67/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 67/2022 privind transferul cheltuielilor înregistrate la obiectivele de investiții realizate în cadrul proiectului „Sistem integrat de management al deșeurilor solide în județul Vaslui” către 3 unități administrativ-teritoriale din județul Vaslui 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr67_2022.pdf",
+     "sha256": "a129979575fe2a10edb6d55b63c539cc406d6218d05f0b2c8b64c8015bbbcd08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-7-2022",
+   "path": "local/judet/vaslui/2022/7",
+   "short": "HCJ Vaslui nr. 7/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 7/2022 privind aprobarea încheierii unui Acord de parteneriat între Județul Vaslui și Muzeul „Vasile Pârvan” Bârlad pentru realizarea proiectului «Elaborarea documentației tehnico-economice pentru obiectivul de investiție ,,Reabilitarea monumentului istoric Podul Doamnei, localizat în satul Chițcani, comuna Costești, județul Vaslui”» 21 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr7_2022.pdf",
+     "sha256": "98aac6849d9c452f78b3b1636a57125fd20baf921209770e2a6c3cd9bf2f66f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-70-2022",
+   "path": "local/judet/vaslui/2022/70",
+   "short": "HCJ Vaslui nr. 70/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 70/2022 privind aprobarea Notei Conceptuale și a Temei de Proiectare pentru obiectivul de investiții “Stații de reîncărcare pentru vehicule electrice la nivelul județului Vaslui” 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr70_2022.pdf",
+     "sha256": "f9bd4f2439a0d44d7a012e05db12b879fe0f9df055a6cadd43fc84860d247468"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-73-2022",
+   "path": "local/judet/vaslui/2022/73",
+   "short": "HCJ Vaslui nr. 73/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 73/2022 privind aprobarea finanțării proiectului “Modernizarea și reconstrucția Centrului de Tineret și Sport, Construcția anexei noi a sălii de haltere” din Raionul Nisporeni, Republica Moldova 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr73_2022.pdf",
+     "sha256": "ef297b25a8d6ecde0cdbb2610132923a48f770d2ea3e4f84646e3d454840082f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-74-2022",
+   "path": "local/judet/vaslui/2022/74",
+   "short": "HCJ Vaslui nr. 74/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 74/2022 privind aprobarea proiectului \"Digitalizarea activității Consiliului Județean Vaslui - soluție pentru creșterea eficienței” cod SIPOCA 1223 /MySMIS 2014+ 153593 și a cheltuielilor legate de proiect 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr74_2022.pdf",
+     "sha256": "156bcffbf50ad6154b912de1909194ed632101cc16f17786c7d08bb9abe6f4b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-75-2022",
+   "path": "local/judet/vaslui/2022/75",
+   "short": "HCJ Vaslui nr. 75/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 75/2022 privind aprobarea structurii organizatorice și a statului de funcții al personalului din cadrul Muzeului “Vasile Pârvan” Bârlad 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr75_2022.pdf",
+     "sha256": "956154780293798b5bca60084a597b2753970bcd56af1848aa9c472941daf372"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-76-2022",
+   "path": "local/judet/vaslui/2022/76",
+   "short": "HCJ Vaslui nr. 76/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 76/2022 pentru modificarea poziției nr. 168 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 93/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr76_2022.pdf",
+     "sha256": "d8840ce2ca1d34f374ac95c0dab7982ee8bdf89d9990f4c198dd9b74277c1c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-77-2022",
+   "path": "local/judet/vaslui/2022/77",
+   "short": "HCJ Vaslui nr. 77/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 77/2022 pentru aprobarea modificării anexei nr. 2 la Hotărârea Consiliului Județean Vaslui nr.27/2020 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico - economici pentru obiectivul de investiții realizat de Județul Vaslui în cadrul proiectului „Ștefan cel Mare - istorie comună, patrimoniu comun, Soroca - Vaslui”,cu modificările ulterioare 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr77_2022.pdf",
+     "sha256": "e75783d7506cc367e57f0b155cc3110bb58159f0b760b1252c407b96be0bf75d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-78-2022",
+   "path": "local/judet/vaslui/2022/78",
+   "short": "HCJ Vaslui nr. 78/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 78/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții “Reparații capitale și refuncționalizare Casa Armatei Vaslui – Centrul Cultural Județean Multifuncțional” (Proiectare de arhitectură, acustică, rezistență și instalații și proiectare mecanică de scenă) 27 aprilie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr78_2022.pdf",
+     "sha256": "04d508b48828a1464960a61f915076581c98408e18f5e56e023fc9cc380831f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-79-2022",
+   "path": "local/judet/vaslui/2022/79",
+   "short": "HCJ Vaslui nr. 79/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 79/2022 privind aprobarea procedurii de evaluare în vederea reînnoirii mandatelor membrilor Consiliului de administrație al Societății ”Lucrări Drumuri și Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr79_2022.pdf",
+     "sha256": "ff790ba2fa0cdf8a4f1a06033ae856c657e6a182441b411e486628f00fcc13b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-8-2022",
+   "path": "local/judet/vaslui/2022/8",
+   "short": "HCJ Vaslui nr. 8/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 8/2022 privind aprobarea proiectului «Elaborarea documentației tehnico-economice pentru obiectivul de investiție ,,Reabilitarea monumentului istoric Podul Doamnei, localizat în satul Chițcani, comuna Costești, județul Vaslui”» și a cheltuielilor legate de proiect 21 ianuarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr8_2022.pdf",
+     "sha256": "db15a454417c0e952674320bf44978ba820bda947135063c0851e42ebaa6cd27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-80-2022",
+   "path": "local/judet/vaslui/2022/80",
+   "short": "HCJ Vaslui nr. 80/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 80/2022 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern peperioada 01.01.2022– 31.03.2022 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr80_2022.pdf",
+     "sha256": "f3d547dc4e64ccd1dc3d01157c20cd1d11d4278c3fd562be749217c515d9d21c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-81-2022",
    "path": "local/judet/vaslui/2022/81",
    "short": "HCJ Vaslui nr. 81/2022",
@@ -104,6 +2579,246 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr81_2022.pdf",
      "sha256": "bd665efbfe93d5e2444f322129d385b182e976116e0263565fb1496681b43b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-82-2022",
+   "path": "local/judet/vaslui/2022/82",
+   "short": "HCJ Vaslui nr. 82/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 82/2022 privind trecerea din domeniul public al județului Vaslui în domeniul privat al acestuia a unor construcții și mijloace fixe aferente imobilului situat în localitatea Ghermănești, județul Vaslui, în vederea scoaterii din funcțiune, casării sau demolării acestora 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr82_2022.pdf",
+     "sha256": "a760c1024d2b522982166a8f28f6fd7924ef32f2ae2e03ab8a8c0cf136983739"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-83-2022",
+   "path": "local/judet/vaslui/2022/83",
+   "short": "HCJ Vaslui nr. 83/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 83/2022 privind aprobarea valorii cotizației Județului Vaslui, în calitate de membru al Asociației pentru Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Alimentare cu Apă și de Canalizare din Municipiile Vaslui, Bârlad, Huși și Orașul Negrești-județul Vaslui (APC VASLUI), pentru anul 2022 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr83_2022.pdf",
+     "sha256": "1e8225cd6332156a2d248fec321b175de8a7d7190ec7414325df555edb4d8b60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-85-2022",
+   "path": "local/judet/vaslui/2022/85",
+   "short": "HCJ Vaslui nr. 85/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 85/2022 pentru modificarea anexei nr. 1 la Hotărârea Consiliului Județean Vaslui nr. 22/2022 privind aprobarea Programului Județului Vaslui pentru finanțarea nerambursabilă a românilor de pretutindeni, pentru anul 2022 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr85_2022.pdf",
+     "sha256": "d71928878a7414d4498f66dc8e565f501b25fa1434fb239c0a3cd39ecec9f6b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-86-2022",
+   "path": "local/judet/vaslui/2022/86",
+   "short": "HCJ Vaslui nr. 86/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 86/2022 privind aprobarea reorganizării unor complexe de servicii comunitare din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui și a regulamentelor de organizare și funcționare a acestora 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr86_2022.pdf",
+     "sha256": "e5111001276a9db32d6c69182ab30e2624521b9b130273c54efc78be8650cb39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-88-2022",
+   "path": "local/judet/vaslui/2022/88",
+   "short": "HCJ Vaslui nr. 88/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 88/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr88_2022.pdf",
+     "sha256": "b989df8bffecce7f20d155e50b4918cac4d2449a4a97686d5c334db31442f22a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-9-2022",
+   "path": "local/judet/vaslui/2022/9",
+   "short": "HCJ Vaslui nr. 9/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 9/2022 privind utilizarea excedentului bugetului local al județului Vaslui rezultat la încheierea exercițiului bugetar 2021 ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare 2 februarie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-02",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr9_2022.pdf",
+     "sha256": "5eebc09f570f1bca3648243f1eda70f881812ee248887bffc9979b11090f95e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-90-2022",
+   "path": "local/judet/vaslui/2022/90",
+   "short": "HCJ Vaslui nr. 90/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 90/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Vaslui nr. 95/2003 privind aprobarea Statutului județului Vaslui 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr90_2022.pdf",
+     "sha256": "dd602f51faebaafecc36eb8ccc094e70d72f9ee4b90dba8c349154239e3d361c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-91-2022",
+   "path": "local/judet/vaslui/2022/91",
+   "short": "HCJ Vaslui nr. 91/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 91/2022 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Reabilitare și modernizare drum județean DJ 244K: DN 24 (Muntenii de Sus) – Tanacu – Bălțați – Crăsnășeni – Leoști – Vinețești – Oltenești – Zgura, L=7,650 km, județul Vaslui\" 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr91_2022.pdf",
+     "sha256": "8a321ba597a98a8b043ad193d8da93c052274177e6e8b001aae265e914e9fd1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-92-2022",
+   "path": "local/judet/vaslui/2022/92",
+   "short": "HCJ Vaslui nr. 92/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 92/2022 pentru modificarea Hotărârii Consiliului Județean Vaslui nr. 130/2019 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările ulterioare 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr92_2022.pdf",
+     "sha256": "78e2f04c051e0127cceac9e557c60d706db81f3ad4d87fa9a2378f86bd3dfd2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-93-2022",
+   "path": "local/judet/vaslui/2022/93",
+   "short": "HCJ Vaslui nr. 93/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 93/2022 pentru modificarea poziției nr. 5 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 75/2022 privind aprobarea structurii organizatorice și a statului de funcții al personalului din cadrul Muzeului “Vasile Pârvan” Bârlad 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr93_2022.pdf",
+     "sha256": "df0d23bfb248a0da6f08b5a25418dc547816d50c3f75515697c7738c7edebcd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-94-2022",
+   "path": "local/judet/vaslui/2022/94",
+   "short": "HCJ Vaslui nr. 94/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 94/2022 privind modificarea poziției nr. 64 din anexa nr. 2 la Hotărârea Consiliului Județean Vaslui nr. 93/2021 privind aprobarea organigramei și a statului de funcţii al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr94_2022.pdf",
+     "sha256": "a766c2115418de56450b8d87090de1ea01bdd9f9b9383a23b24496c3ddaf12f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-95-2022",
+   "path": "local/judet/vaslui/2022/95",
+   "short": "HCJ Vaslui nr. 95/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 95/2022 privind solicitarea trecerii unui imobil din domeniul public al statului în domeniul public al Județului Vaslui 02 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr95_2022.pdf",
+     "sha256": "90d5f61b079a1970ab81741c31356d4c742a702ace361715370602c3be8ae2ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-96-2022",
+   "path": "local/judet/vaslui/2022/96",
+   "short": "HCJ Vaslui nr. 96/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 96/2022 privind aprobarea încheierii unui acord de parteneriat între Județul Vaslui, prin",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr96_2022.pdf",
+     "sha256": "707747f4ee812b9b4980e45bd2ccd74bf34f2bedafec1a5ea66b77d76511e677"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-97-2022",
+   "path": "local/judet/vaslui/2022/97",
+   "short": "HCJ Vaslui nr. 97/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 97/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr97_2022.pdf",
+     "sha256": "b8eb190afee9a4c702375a17a9d8bb6510d85a2dd0d1bb9d651c4cffc468f205"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-98-2022",
+   "path": "local/judet/vaslui/2022/98",
+   "short": "HCJ Vaslui nr. 98/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 98/2022",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr98_2022.pdf",
+     "sha256": "6f53a0a021ae6e27ffa2c0eb3273c5915edd0de1c397f6e4f5a9b22346589bd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-99-2022",
+   "path": "local/judet/vaslui/2022/99",
+   "short": "HCJ Vaslui nr. 99/2022",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 99/2022 pentru modificarea punctului 4 al articolului 2 din Hotărârea Consiliului Județean Vaslui nr.168/2020 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 15 iunie",
+   "url": "https://cjvs.eu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2022/HotarareaNr99_2022.pdf",
+     "sha256": "0f27859a2e8b3929494a754e0040c8993ef6d5dac4bc0e12854952289f992f96"
     }
    ]
   }

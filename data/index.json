@@ -8988,12 +8988,12 @@
   {
    "shard": "local/judet/galati/2016",
    "kind": "local",
-   "count": 86,
+   "count": 199,
    "acts": "data/acts/local/judet/galati/2016.json",
    "list": "data/acts/local/judet/galati/2016.md",
    "versions": "data/versions/local/judet/galati/2016.json",
    "laws": "data/laws/local/judet/galati/2016.csv",
-   "laws_count": 86,
+   "laws_count": 199,
    "sources": "data/sources/local/judet/galati/2016.csv"
   },
   {
@@ -9131,34 +9131,34 @@
   {
    "shard": "local/judet/giurgiu/2021",
    "kind": "local",
-   "count": 291,
+   "count": 292,
    "acts": "data/acts/local/judet/giurgiu/2021.json",
    "list": "data/acts/local/judet/giurgiu/2021.md",
    "versions": "data/versions/local/judet/giurgiu/2021.json",
    "laws": "data/laws/local/judet/giurgiu/2021.csv",
-   "laws_count": 291,
+   "laws_count": 292,
    "sources": "data/sources/local/judet/giurgiu/2021.csv"
   },
   {
    "shard": "local/judet/giurgiu/2022",
    "kind": "local",
-   "count": 266,
+   "count": 274,
    "acts": "data/acts/local/judet/giurgiu/2022.json",
    "list": "data/acts/local/judet/giurgiu/2022.md",
    "versions": "data/versions/local/judet/giurgiu/2022.json",
    "laws": "data/laws/local/judet/giurgiu/2022.csv",
-   "laws_count": 266,
+   "laws_count": 274,
    "sources": "data/sources/local/judet/giurgiu/2022.csv"
   },
   {
    "shard": "local/judet/giurgiu/2023",
    "kind": "local",
-   "count": 303,
+   "count": 305,
    "acts": "data/acts/local/judet/giurgiu/2023.json",
    "list": "data/acts/local/judet/giurgiu/2023.md",
    "versions": "data/versions/local/judet/giurgiu/2023.json",
    "laws": "data/laws/local/judet/giurgiu/2023.csv",
-   "laws_count": 303,
+   "laws_count": 305,
    "sources": "data/sources/local/judet/giurgiu/2023.csv"
   },
   {
@@ -9230,23 +9230,23 @@
   {
    "shard": "local/judet/gorj/2022",
    "kind": "local",
-   "count": 128,
+   "count": 129,
    "acts": "data/acts/local/judet/gorj/2022.json",
    "list": "data/acts/local/judet/gorj/2022.md",
    "versions": "data/versions/local/judet/gorj/2022.json",
    "laws": "data/laws/local/judet/gorj/2022.csv",
-   "laws_count": 128,
+   "laws_count": 129,
    "sources": "data/sources/local/judet/gorj/2022.csv"
   },
   {
    "shard": "local/judet/gorj/2023",
    "kind": "local",
-   "count": 169,
+   "count": 170,
    "acts": "data/acts/local/judet/gorj/2023.json",
    "list": "data/acts/local/judet/gorj/2023.md",
    "versions": "data/versions/local/judet/gorj/2023.json",
    "laws": "data/laws/local/judet/gorj/2023.csv",
-   "laws_count": 169,
+   "laws_count": 170,
    "sources": "data/sources/local/judet/gorj/2023.csv"
   },
   {
@@ -9263,12 +9263,12 @@
   {
    "shard": "local/judet/gorj/2025",
    "kind": "local",
-   "count": 162,
+   "count": 165,
    "acts": "data/acts/local/judet/gorj/2025.json",
    "list": "data/acts/local/judet/gorj/2025.md",
    "versions": "data/versions/local/judet/gorj/2025.json",
    "laws": "data/laws/local/judet/gorj/2025.csv",
-   "laws_count": 162,
+   "laws_count": 165,
    "sources": "data/sources/local/judet/gorj/2025.csv"
   },
   {
@@ -9283,36 +9283,47 @@
    "sources": "data/sources/local/judet/gorj/2026.csv"
   },
   {
+   "shard": "local/judet/harghita/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/harghita/2022.json",
+   "list": "data/acts/local/judet/harghita/2022.md",
+   "versions": "data/versions/local/judet/harghita/2022.json",
+   "laws": "data/laws/local/judet/harghita/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/harghita/2022.csv"
+  },
+  {
    "shard": "local/judet/harghita/2024",
    "kind": "local",
-   "count": 7,
+   "count": 171,
    "acts": "data/acts/local/judet/harghita/2024.json",
    "list": "data/acts/local/judet/harghita/2024.md",
    "versions": "data/versions/local/judet/harghita/2024.json",
    "laws": "data/laws/local/judet/harghita/2024.csv",
-   "laws_count": 7,
+   "laws_count": 171,
    "sources": "data/sources/local/judet/harghita/2024.csv"
   },
   {
    "shard": "local/judet/harghita/2025",
    "kind": "local",
-   "count": 8,
+   "count": 341,
    "acts": "data/acts/local/judet/harghita/2025.json",
    "list": "data/acts/local/judet/harghita/2025.md",
    "versions": "data/versions/local/judet/harghita/2025.json",
    "laws": "data/laws/local/judet/harghita/2025.csv",
-   "laws_count": 8,
+   "laws_count": 341,
    "sources": "data/sources/local/judet/harghita/2025.csv"
   },
   {
    "shard": "local/judet/harghita/2026",
    "kind": "local",
-   "count": 146,
+   "count": 263,
    "acts": "data/acts/local/judet/harghita/2026.json",
    "list": "data/acts/local/judet/harghita/2026.md",
    "versions": "data/versions/local/judet/harghita/2026.json",
    "laws": "data/laws/local/judet/harghita/2026.csv",
-   "laws_count": 146,
+   "laws_count": 263,
    "sources": "data/sources/local/judet/harghita/2026.csv"
   },
   {
@@ -9340,12 +9351,12 @@
   {
    "shard": "local/judet/hunedoara/2019",
    "kind": "local",
-   "count": 287,
+   "count": 289,
    "acts": "data/acts/local/judet/hunedoara/2019.json",
    "list": "data/acts/local/judet/hunedoara/2019.md",
    "versions": "data/versions/local/judet/hunedoara/2019.json",
    "laws": "data/laws/local/judet/hunedoara/2019.csv",
-   "laws_count": 287,
+   "laws_count": 289,
    "sources": "data/sources/local/judet/hunedoara/2019.csv"
   },
   {
@@ -9373,23 +9384,23 @@
   {
    "shard": "local/judet/hunedoara/2022",
    "kind": "local",
-   "count": 303,
+   "count": 304,
    "acts": "data/acts/local/judet/hunedoara/2022.json",
    "list": "data/acts/local/judet/hunedoara/2022.md",
    "versions": "data/versions/local/judet/hunedoara/2022.json",
    "laws": "data/laws/local/judet/hunedoara/2022.csv",
-   "laws_count": 303,
+   "laws_count": 304,
    "sources": "data/sources/local/judet/hunedoara/2022.csv"
   },
   {
    "shard": "local/judet/hunedoara/2023",
    "kind": "local",
-   "count": 257,
+   "count": 259,
    "acts": "data/acts/local/judet/hunedoara/2023.json",
    "list": "data/acts/local/judet/hunedoara/2023.md",
    "versions": "data/versions/local/judet/hunedoara/2023.json",
    "laws": "data/laws/local/judet/hunedoara/2023.csv",
-   "laws_count": 257,
+   "laws_count": 259,
    "sources": "data/sources/local/judet/hunedoara/2023.csv"
   },
   {
@@ -9789,6 +9800,127 @@
    "sources": "data/sources/local/judet/maramures/2008.csv"
   },
   {
+   "shard": "local/judet/maramures/2014",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/judet/maramures/2014.json",
+   "list": "data/acts/local/judet/maramures/2014.md",
+   "versions": "data/versions/local/judet/maramures/2014.json",
+   "laws": "data/laws/local/judet/maramures/2014.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/judet/maramures/2014.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2015",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/judet/maramures/2015.json",
+   "list": "data/acts/local/judet/maramures/2015.md",
+   "versions": "data/versions/local/judet/maramures/2015.json",
+   "laws": "data/laws/local/judet/maramures/2015.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/judet/maramures/2015.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2016",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/judet/maramures/2016.json",
+   "list": "data/acts/local/judet/maramures/2016.md",
+   "versions": "data/versions/local/judet/maramures/2016.json",
+   "laws": "data/laws/local/judet/maramures/2016.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/judet/maramures/2016.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2018",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/maramures/2018.json",
+   "list": "data/acts/local/judet/maramures/2018.md",
+   "versions": "data/versions/local/judet/maramures/2018.json",
+   "laws": "data/laws/local/judet/maramures/2018.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/maramures/2018.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2019",
+   "kind": "local",
+   "count": 3,
+   "acts": "data/acts/local/judet/maramures/2019.json",
+   "list": "data/acts/local/judet/maramures/2019.md",
+   "versions": "data/versions/local/judet/maramures/2019.json",
+   "laws": "data/laws/local/judet/maramures/2019.csv",
+   "laws_count": 3,
+   "sources": "data/sources/local/judet/maramures/2019.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2020",
+   "kind": "local",
+   "count": 8,
+   "acts": "data/acts/local/judet/maramures/2020.json",
+   "list": "data/acts/local/judet/maramures/2020.md",
+   "versions": "data/versions/local/judet/maramures/2020.json",
+   "laws": "data/laws/local/judet/maramures/2020.csv",
+   "laws_count": 8,
+   "sources": "data/sources/local/judet/maramures/2020.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2021",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/judet/maramures/2021.json",
+   "list": "data/acts/local/judet/maramures/2021.md",
+   "versions": "data/versions/local/judet/maramures/2021.json",
+   "laws": "data/laws/local/judet/maramures/2021.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/judet/maramures/2021.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2022",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/maramures/2022.json",
+   "list": "data/acts/local/judet/maramures/2022.md",
+   "versions": "data/versions/local/judet/maramures/2022.json",
+   "laws": "data/laws/local/judet/maramures/2022.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/maramures/2022.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2023",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/judet/maramures/2023.json",
+   "list": "data/acts/local/judet/maramures/2023.md",
+   "versions": "data/versions/local/judet/maramures/2023.json",
+   "laws": "data/laws/local/judet/maramures/2023.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/judet/maramures/2023.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2024",
+   "kind": "local",
+   "count": 5,
+   "acts": "data/acts/local/judet/maramures/2024.json",
+   "list": "data/acts/local/judet/maramures/2024.md",
+   "versions": "data/versions/local/judet/maramures/2024.json",
+   "laws": "data/laws/local/judet/maramures/2024.csv",
+   "laws_count": 5,
+   "sources": "data/sources/local/judet/maramures/2024.csv"
+  },
+  {
+   "shard": "local/judet/maramures/2025",
+   "kind": "local",
+   "count": 4,
+   "acts": "data/acts/local/judet/maramures/2025.json",
+   "list": "data/acts/local/judet/maramures/2025.md",
+   "versions": "data/versions/local/judet/maramures/2025.json",
+   "laws": "data/laws/local/judet/maramures/2025.csv",
+   "laws_count": 4,
+   "sources": "data/sources/local/judet/maramures/2025.csv"
+  },
+  {
    "shard": "local/judet/mures/2026",
    "kind": "local",
    "count": 45,
@@ -9912,23 +10044,23 @@
   {
    "shard": "local/judet/olt/2022",
    "kind": "local",
-   "count": 108,
+   "count": 109,
    "acts": "data/acts/local/judet/olt/2022.json",
    "list": "data/acts/local/judet/olt/2022.md",
    "versions": "data/versions/local/judet/olt/2022.json",
    "laws": "data/laws/local/judet/olt/2022.csv",
-   "laws_count": 108,
+   "laws_count": 109,
    "sources": "data/sources/local/judet/olt/2022.csv"
   },
   {
    "shard": "local/judet/olt/2023",
    "kind": "local",
-   "count": 139,
+   "count": 141,
    "acts": "data/acts/local/judet/olt/2023.json",
    "list": "data/acts/local/judet/olt/2023.md",
    "versions": "data/versions/local/judet/olt/2023.json",
    "laws": "data/laws/local/judet/olt/2023.csv",
-   "laws_count": 139,
+   "laws_count": 141,
    "sources": "data/sources/local/judet/olt/2023.csv"
   },
   {
@@ -9989,12 +10121,12 @@
   {
    "shard": "local/judet/prahova/2005",
    "kind": "local",
-   "count": 43,
+   "count": 76,
    "acts": "data/acts/local/judet/prahova/2005.json",
    "list": "data/acts/local/judet/prahova/2005.md",
    "versions": "data/versions/local/judet/prahova/2005.json",
    "laws": "data/laws/local/judet/prahova/2005.csv",
-   "laws_count": 43,
+   "laws_count": 76,
    "sources": "data/sources/local/judet/prahova/2005.csv"
   },
   {
@@ -10029,6 +10161,17 @@
    "laws": "data/laws/local/judet/prahova/2008.csv",
    "laws_count": 2,
    "sources": "data/sources/local/judet/prahova/2008.csv"
+  },
+  {
+   "shard": "local/judet/prahova/2009",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/prahova/2009.json",
+   "list": "data/acts/local/judet/prahova/2009.md",
+   "versions": "data/versions/local/judet/prahova/2009.json",
+   "laws": "data/laws/local/judet/prahova/2009.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/prahova/2009.csv"
   },
   {
    "shard": "local/judet/prahova/2010",
@@ -10198,23 +10341,23 @@
   {
    "shard": "local/judet/prahova/2025",
    "kind": "local",
-   "count": 125,
+   "count": 277,
    "acts": "data/acts/local/judet/prahova/2025.json",
    "list": "data/acts/local/judet/prahova/2025.md",
    "versions": "data/versions/local/judet/prahova/2025.json",
    "laws": "data/laws/local/judet/prahova/2025.csv",
-   "laws_count": 125,
+   "laws_count": 277,
    "sources": "data/sources/local/judet/prahova/2025.csv"
   },
   {
    "shard": "local/judet/prahova/2026",
    "kind": "local",
-   "count": 142,
+   "count": 202,
    "acts": "data/acts/local/judet/prahova/2026.json",
    "list": "data/acts/local/judet/prahova/2026.md",
    "versions": "data/versions/local/judet/prahova/2026.json",
    "laws": "data/laws/local/judet/prahova/2026.csv",
-   "laws_count": 142,
+   "laws_count": 202,
    "sources": "data/sources/local/judet/prahova/2026.csv"
   },
   {
@@ -10581,6 +10724,17 @@
    "sources": "data/sources/local/judet/teleorman/2015.csv"
   },
   {
+   "shard": "local/judet/teleorman/2016",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/judet/teleorman/2016.json",
+   "list": "data/acts/local/judet/teleorman/2016.md",
+   "versions": "data/versions/local/judet/teleorman/2016.json",
+   "laws": "data/laws/local/judet/teleorman/2016.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/judet/teleorman/2016.csv"
+  },
+  {
    "shard": "local/judet/teleorman/2017",
    "kind": "local",
    "count": 121,
@@ -10770,12 +10924,12 @@
   {
    "shard": "local/judet/valcea/2025",
    "kind": "local",
-   "count": 37,
+   "count": 38,
    "acts": "data/acts/local/judet/valcea/2025.json",
    "list": "data/acts/local/judet/valcea/2025.md",
    "versions": "data/versions/local/judet/valcea/2025.json",
    "laws": "data/laws/local/judet/valcea/2025.csv",
-   "laws_count": 37,
+   "laws_count": 38,
    "sources": "data/sources/local/judet/valcea/2025.csv"
   },
   {
@@ -10792,34 +10946,34 @@
   {
    "shard": "local/judet/vaslui/2021",
    "kind": "local",
-   "count": 36,
+   "count": 179,
    "acts": "data/acts/local/judet/vaslui/2021.json",
    "list": "data/acts/local/judet/vaslui/2021.md",
    "versions": "data/versions/local/judet/vaslui/2021.json",
    "laws": "data/laws/local/judet/vaslui/2021.csv",
-   "laws_count": 36,
+   "laws_count": 179,
    "sources": "data/sources/local/judet/vaslui/2021.csv"
   },
   {
    "shard": "local/judet/vaslui/2022",
    "kind": "local",
-   "count": 7,
+   "count": 188,
    "acts": "data/acts/local/judet/vaslui/2022.json",
    "list": "data/acts/local/judet/vaslui/2022.md",
    "versions": "data/versions/local/judet/vaslui/2022.json",
    "laws": "data/laws/local/judet/vaslui/2022.csv",
-   "laws_count": 7,
+   "laws_count": 188,
    "sources": "data/sources/local/judet/vaslui/2022.csv"
   },
   {
    "shard": "local/judet/vaslui/2023",
    "kind": "local",
-   "count": 89,
+   "count": 225,
    "acts": "data/acts/local/judet/vaslui/2023.json",
    "list": "data/acts/local/judet/vaslui/2023.md",
    "versions": "data/versions/local/judet/vaslui/2023.json",
    "laws": "data/laws/local/judet/vaslui/2023.csv",
-   "laws_count": 89,
+   "laws_count": 225,
    "sources": "data/sources/local/judet/vaslui/2023.csv"
   },
   {

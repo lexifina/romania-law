@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2016",
+ "acts": [
+  {
+   "slug": "hcj-maramures-2-2016",
+   "path": "local/judet/maramures/2016/2",
+   "short": "HCJ Maramureș nr. 2/2016",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 2/2016",
+   "url": "https://www.cjmaramures.ro/component/k2/7058",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/1144_8e427a58bdaf87a2d945ca148178833e",
+     "sha256": "bf689029011aa910aa7c5525db057248026b0d26bd8219ed21baef026cf149df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-4-2016",
+   "path": "local/judet/maramures/2016/4",
+   "short": "HCJ Maramureș nr. 4/2016",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 4/2016",
+   "url": "https://www.cjmaramures.ro/component/k2/7060",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/1145_9c51346407c1e72f4b055eda2ef6d9b6",
+     "sha256": "9ec2eb5af0bcffca600bbcf495f665e187f33224c965839b882cc42f5897a921"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-48-2016",
+   "path": "local/judet/maramures/2016/48",
+   "short": "HCJ Maramureș nr. 48/2016",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 48/2016",
+   "url": "https://www.cjmaramures.ro/component/k2/7268",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/1295_2b4f8dd897f5687cec0d2cb35d48c127",
+     "sha256": "d34654b9e7f2fdbe277d58326e309210e6d405c23e81f11e31d5a9e02e82c742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-5-2016",
+   "path": "local/judet/maramures/2016/5",
+   "short": "HCJ Maramureș nr. 5/2016",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 5/2016",
+   "url": "https://www.cjmaramures.ro/component/k2/7061",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/1146_b2ff5a9990cf28744d309e8f2186db50",
+     "sha256": "8ee07c9150dde3d080e91c03c31f9e793a15b9e261848437f8414877fcc6fdaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-9-2016",
+   "path": "local/judet/maramures/2016/9",
+   "short": "HCJ Maramureș nr. 9/2016",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 9/2016",
+   "url": "https://www.cjmaramures.ro/component/k2/7065",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/1150_bf5ef875f834c80a84c8c84a209969a9",
+     "sha256": "6d433094e49789b682b99f212a36bd1532c58fb6845b3b7e39dcfa94fc794519"
+    }
+   ]
+  }
+ ]
+}

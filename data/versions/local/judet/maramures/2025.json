@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2025",
+ "acts": [
+  {
+   "slug": "hcj-maramures-1-2025",
+   "path": "local/judet/maramures/2025/1",
+   "short": "HCJ Maramureș nr. 1/2025",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 1/2025",
+   "url": "https://www.cjmaramures.ro/component/k2/16831",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/10031_1f2b56485d71debf18336bed5c0f42c8",
+     "sha256": "45e2630fac467df648b92e450e4a095701c4f3d23f584a4147dac1353515a57b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-2-2025",
+   "path": "local/judet/maramures/2025/2",
+   "short": "HCJ Maramureș nr. 2/2025",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 2/2025",
+   "url": "https://www.cjmaramures.ro/component/k2/16832",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/10032_b27231113d9093633c9136e2c7e48f76",
+     "sha256": "27a043b6cbfc8297985baca7c8d14e3debc53ff9665ae8a032fd798c64d9780b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-28-2025",
+   "path": "local/judet/maramures/2025/28",
+   "short": "HCJ Maramureș nr. 28/2025",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 28/2025",
+   "url": "https://www.cjmaramures.ro/component/k2/16866",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/10079_315740417d89bdd28ff3677bc06ebd68",
+     "sha256": "2b4e2845adda52a8bbd18e7b83d69520f9affe5aa65afc894c2f4c2e38aead4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-9-2025",
+   "path": "local/judet/maramures/2025/9",
+   "short": "HCJ Maramureș nr. 9/2025",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 9/2025",
+   "url": "https://www.cjmaramures.ro/component/k2/16839",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/10052_21566de9ea1abbb9fbf856406e3bd429",
+     "sha256": "e24fcd91e13c64325e5b2f74fc51c4ca7df44ac2ed71f7dcbd70ca0a8286d7ac"
+    }
+   ]
+  }
+ ]
+}

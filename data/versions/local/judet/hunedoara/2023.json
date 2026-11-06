@@ -2688,6 +2688,21 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-309-2023",
+   "path": "local/judet/hunedoara/2023/309",
+   "short": "HCJ Hunedoara nr. 309/2023",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 309/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2023/Hotarari/40%20HOTARARI%2024%20NOV%202023%20ORA%2011/HCJ%20309.pdf",
+     "sha256": "05dd26ae36d3e511cf6e821ee7fb82e74d96bd1dcf872da1732f41298fb3b3ca"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-312-2023",
    "path": "local/judet/hunedoara/2023/312",
    "short": "HCJ Hunedoara nr. 312/2023",
@@ -3329,6 +3344,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2023/Hotarari/05%20HOTARARI%209%20FEBRUARIE%202023/HCJH%2047_Redacted.pdf",
      "sha256": "e7b514bdc9e8dacdcb61ab0fad4ad057cd9c3ff9b1024eb531ece9c3534f774d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-48-2023",
+   "path": "local/judet/hunedoara/2023/48",
+   "short": "HCJ Hunedoara nr. 48/2023",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 48/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2023/Hotarari/06%20HOTARARI%2048-61%2024%20FEBRUARIE%202023%20IP/HCJH%2048_Redacted.pdf",
+     "sha256": "74d1555a7ba2537263dbb9ddfe7d82a515352d1768c3fb369d8e62457efd1e96"
     }
    ]
   },

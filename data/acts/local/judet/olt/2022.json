@@ -2142,6 +2142,28 @@
 }
 },
 {
+"slug": "hcj-olt-183-2022",
+"path": "local/judet/olt/2022/183",
+"kind": "local",
+"year": "2022",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 183/2022 pentru anul 2023 Vizualizare",
+"short": "HCJ Olt nr. 183/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-olt-184-2022",
 "path": "local/judet/olt/2022/184",
 "kind": "local",

@@ -888,6 +888,29 @@
 }
 },
 {
+"slug": "hcj-hunedoara-48-2023",
+"path": "local/judet/hunedoara/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 48/2023",
+"short": "HCJ Hunedoara nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-24",
+"latest": "2023-02-24",
+"portal": null,
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-hunedoara-62-2023",
 "path": "local/judet/hunedoara/2023/62",
 "kind": "local",
@@ -5051,6 +5074,29 @@
 "council_name": "Consiliul Județean Hunedoara",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-hunedoara-309-2023",
+"path": "local/judet/hunedoara/2023/309",
+"kind": "local",
+"year": "2023",
+"number": "309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 309/2023",
+"short": "HCJ Hunedoara nr. 309/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": null,
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -6405,6 +6405,28 @@
 }
 },
 {
+"slug": "hcj-giurgiu-338-2021",
+"path": "local/judet/giurgiu/2021/338",
+"kind": "local",
+"year": "2021",
+"number": "338",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 338/2021 privind încheierea unui Acord de parteneriat între Județul Giurgiu, prin",
+"short": "HCJ Giurgiu nr. 338/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2021/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-339-2021",
 "path": "local/judet/giurgiu/2021/339",
 "kind": "local",

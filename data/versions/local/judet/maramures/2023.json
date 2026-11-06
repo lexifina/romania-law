@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2023",
+ "acts": [
+  {
+   "slug": "hcj-maramures-1-2023",
+   "path": "local/judet/maramures/2023/1",
+   "short": "HCJ Maramureș nr. 1/2023",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 1/2023",
+   "url": "https://www.cjmaramures.ro/component/k2/14863",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/7588_43255aa6afe1a312d53d8b9dacd0346b",
+     "sha256": "a5ca95f4631f766815cdcd847e67a39c593fcdf3d456f017ed4134ddb0f009dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-2-2023",
+   "path": "local/judet/maramures/2023/2",
+   "short": "HCJ Maramureș nr. 2/2023",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 2/2023",
+   "url": "https://www.cjmaramures.ro/component/k2/14864",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/7590_dfc02d70dce02fce7ae6878847634588",
+     "sha256": "3d86d5c8e64deb710995f4ec7fe84ea4b73a46dbf2d7725961c130b9aab30073"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-3-2023",
+   "path": "local/judet/maramures/2023/3",
+   "short": "HCJ Maramureș nr. 3/2023",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 3/2023",
+   "url": "https://www.cjmaramures.ro/component/k2/14883",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/7603_19414d470c3cb0ddcc614afeb8952d26",
+     "sha256": "f2dec8925e5c5d9537d4b17b6959658954eff9096e6b28ff924d23bda2b44bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-67-2023",
+   "path": "local/judet/maramures/2023/67",
+   "short": "HCJ Maramureș nr. 67/2023",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 67/2023",
+   "url": "https://www.cjmaramures.ro/component/k2/14992",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/7710_73fe34c9a47ae42c67c28d2aba7e015f",
+     "sha256": "2c1f5e1065ac4db28ca39c3ea4ea14b716481e9ed0a64555d030b8957d847261"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-68-2023",
+   "path": "local/judet/maramures/2023/68",
+   "short": "HCJ Maramureș nr. 68/2023",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 68/2023",
+   "url": "https://www.cjmaramures.ro/component/k2/15001",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/7723_b42bb5b5c0f978e63af68e18072920d3",
+     "sha256": "510f09df36cdd41190bd2467505d6046547c196425744e7e7a9447b0baabb049"
+    }
+   ]
+  }
+ ]
+}

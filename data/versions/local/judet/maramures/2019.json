@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2019",
+ "acts": [
+  {
+   "slug": "hcj-maramures-1-2019",
+   "path": "local/judet/maramures/2019/1",
+   "short": "HCJ Maramureș nr. 1/2019",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 1/2019",
+   "url": "https://www.cjmaramures.ro/component/k2/10288",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/3676_2e0a5f3e1d0382899716c4ec25da8f70",
+     "sha256": "be76866cf9903a44c06e187e30e9365b471b3a7839a6f6cfee66dd7b4d00e8c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-2-2019",
+   "path": "local/judet/maramures/2019/2",
+   "short": "HCJ Maramureș nr. 2/2019",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 2/2019",
+   "url": "https://www.cjmaramures.ro/component/k2/10289",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/3677_cffbbbbe04644e18e2c1431617db4e9e",
+     "sha256": "9bf105b80ba5d5aa9b9d07e1daa17d3427ea478cfc0e21889c4e42465937cd11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-266-2019",
+   "path": "local/judet/maramures/2019/266",
+   "short": "HCJ Maramureș nr. 266/2019",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 266/2019",
+   "url": "https://www.cjmaramures.ro/component/k2/11202",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/4373_db266a99acf88a6b0a925e64b1392b95",
+     "sha256": "aa6a60d81e581e21c85467433654af2567db8f9e6f90ab1db51b861c99554045"
+    }
+   ]
+  }
+ ]
+}

@@ -2418,6 +2418,21 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-275-2023",
+   "path": "local/judet/giurgiu/2023/275",
+   "short": "HCJ Giurgiu nr. 275/2023",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 275/2023 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.257 din 22 septembrie 2023 privind exprimarea interesului de inițiere a elaborării/actualizării unei strategii de dezvoltare teritorială integrată pentru ZONA ITI DUNĂREA TELEORMAN-GIURGIU-CĂLĂRAȘI și asocierea Județului Giurgiu cu județele Teleorman și Călărași, precum și cu unități administrativ-teritoriale de pe raza celor trei județe",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hoararea-nr.275-din-02.10.2023.pdf",
+     "sha256": "6369631608dcbf88c8f07fb15eb8ff4e1f5199f6d47acedfba1578166c578588"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-277-2023",
    "path": "local/judet/giurgiu/2023/277",
    "short": "HCJ Giurgiu nr. 277/2023",
@@ -2654,6 +2669,21 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.293-din-31.10.2023-cu-anexe.pdf",
      "sha256": "b23dc7e09dab8f427902d7114d7ef20af0915c32fbdd0ef10a7ec6df9c8a571e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-295-2023",
+   "path": "local/judet/giurgiu/2023/295",
+   "short": "HCJ Giurgiu nr. 295/2023",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 295/2023 privind aprobarea documentației tehnico – economice pentru obiectivul de investiții „Reabilitare și îmbunătățirea eficienței energetice-sediul DGASPC Giurgiu” la faza Proiect tehnic",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.295-din-31.10.2023-cu-anexe.pdf",
+     "sha256": "95b87927a426f7cc0e2639b17c8dfd3894fa6888b1f604f972da9cb882eeffc9"
     }
    ]
   },

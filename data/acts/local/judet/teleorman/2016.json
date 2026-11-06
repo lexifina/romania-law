@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2016",
+"acts": [
+{
+"slug": "hcj-teleorman-47-2016",
+"path": "local/judet/teleorman/2016/47",
+"kind": "local",
+"year": "2016",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 47/2016 privind: alegerea președintelui Consiliului Județean Teleorman",
+"short": "HCJ Teleorman nr. 47/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-23",
+"latest": "2016-06-23",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

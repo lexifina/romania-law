@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2014",
+ "acts": [
+  {
+   "slug": "hcj-maramures-34-2014",
+   "path": "local/judet/maramures/2014/34",
+   "short": "HCJ Maramureș nr. 34/2014",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 34/2014",
+   "url": "https://www.cjmaramures.ro/component/k2/186",
+   "versions": [
+    {
+     "from": "2014-03-10",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/2827_847a64d19709c079850f8e39ca34ee58",
+     "sha256": "b7c31fe7e2ffc6ad2a47349745874624f4431cfe950f6d1dfa549b5db7a48666"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-65-2014",
+   "path": "local/judet/maramures/2014/65",
+   "short": "HCJ Maramureș nr. 65/2014",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 65/2014",
+   "url": "https://www.cjmaramures.ro/component/k2/5682",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/65_b6584072c7d7290f6359a5b31e345d98",
+     "sha256": "852138cd34e9148aaf1a8e37ccf366cc5f9e3159b88f899b0c559fd9f0fc7b32"
+    }
+   ]
+  }
+ ]
+}

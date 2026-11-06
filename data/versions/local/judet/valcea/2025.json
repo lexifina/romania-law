@@ -3,6 +3,21 @@
  "shard": "local/judet/valcea/2025",
  "acts": [
   {
+   "slug": "hcj-valcea-130-2025",
+   "path": "local/judet/valcea/2025/130",
+   "short": "HCJ Vâlcea nr. 130/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 130/2025 privind aprobarea organigramei și a statului de funcţii ale Școlii Populare de Arte și Meserii Râmnicu Vâlcea. Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/06-30/hotarari/hot130.pdf",
+     "sha256": "d7f27208b14951ae0ed74c0278b631f16e138dada5f73e24bb9c2ccf35eb066b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-138-2025",
    "path": "local/judet/valcea/2025/138",
    "short": "HCJ Vâlcea nr. 138/2025",

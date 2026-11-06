@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcj-gorj-126-2023",
+   "path": "local/judet/gorj/2023/126",
+   "short": "HCJ Gorj nr. 126/2023",
+   "title": "Hotărârea Consiliului Județean Gorj nr. 126/2023",
+   "url": "https://www.cjgorj.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://www.cjgorj.ro/Date%20site/Sedinte%20Consiliu/12.04.2023%20-%20Adoptate/126.%20HCJ%20modificare%20HCJ%20declarare%20Parc%20Industrial%20-utilitate%20public%C4%83%20B%C4%82LE%C8%98TI.pdf",
+     "sha256": "9ff07ebe85cb675e6cbe7a8af2160a33815bdf61514e32937c1bc92eafc633f3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-gorj-128-2023",
    "path": "local/judet/gorj/2023/128",
    "short": "HCJ Gorj nr. 128/2023",

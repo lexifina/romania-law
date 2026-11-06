@@ -1986,6 +1986,29 @@
 }
 },
 {
+"slug": "hcj-olt-154-2023",
+"path": "local/judet/olt/2023/154",
+"kind": "local",
+"year": "2023",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 154/2023",
+"short": "HCJ Olt nr. 154/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": null,
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-olt-155-2023",
 "path": "local/judet/olt/2023/155",
 "kind": "local",
@@ -2724,6 +2747,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Olt nr. 218/2023 cu privire la aprobarea reorganizării Bibliotecii Județene Olt „Ion Minulescu”, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Bibliotecii Județene Olt „Ion Minulescu” Vizualizare",
 "short": "HCJ Olt nr. 218/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-olt-219-2023",
+"path": "local/judet/olt/2023/219",
+"kind": "local",
+"year": "2023",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 219/2023 cu privire la aprobarea reorganizarii Muzeului Județean Olt, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Muzeului Județean Olt Vizualizare",
+"short": "HCJ Olt nr. 219/2023",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

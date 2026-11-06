@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2022",
+ "acts": [
+  {
+   "slug": "hcj-maramures-7-2022",
+   "path": "local/judet/maramures/2022/7",
+   "short": "HCJ Maramureș nr. 7/2022",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 7/2022",
+   "url": "https://www.cjmaramures.ro/component/k2/13401",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/6406_cfb97db4f7e24229edc03c04d55e3e42",
+     "sha256": "3c8b74ba26d1d89f0807e427c230fecad159dd57fa38abd25e5bc285a7387f39"
+    }
+   ]
+  }
+ ]
+}
