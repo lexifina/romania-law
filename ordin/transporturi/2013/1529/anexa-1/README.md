@@ -1,4 +1,4 @@
-# Anexa nr. 1: COMPLETARE la Lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 29. Gîrdea Marius 1771202240014 Compania Națională Aeroporturi București 30. D
+# Anexa nr. 1: COMPLETARE la Lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 29. Gîrdea Marius [CNP omis] Compania Națională Aeroporturi București 30. D
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 

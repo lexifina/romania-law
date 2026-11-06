@@ -8,16 +8,16 @@ Structura din care
 face parte
 29.
 Gîrdea Marius
-1771202240014
+[CNP omis]
 Compania Națională
 Aeroporturi București
 30.
 Dărmănescu Ioan Lucian
-1730106182761
+[CNP omis]
 Ministerul Transporturilor
 31.
 Merticariu Elena
 Veronica
-2760519203131
+[CNP omis]
 Ministerul Transporturilor
 ---------
