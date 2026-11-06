@@ -8,425 +8,425 @@ CNP
 1
 Bugariu
 Cosmina-Mihaela
-2750925020087
+[CNP omis]
 2
 Prisecaru
 Emilian
-1840801270841
+[CNP omis]
 3
 Kerezsi
 Magdolna
-2590313052864
+[CNP omis]
 4
 Gutium
 Daniel
-1760602093401
+[CNP omis]
 5
 Mihu
 Bică
-1610609090035
+[CNP omis]
 6
 Balaban
 Eugenia-Dorina
-2630812093403
+[CNP omis]
 7
 Cioroiu
 Fănel
-1780401093406
+[CNP omis]
 8
 Bălănescu
 Rodica-Delia
-2750302251994
+[CNP omis]
 9
 Stanciu
 Eugenia
-2740805282208
+[CNP omis]
 10
 Șarpe
 Ioana-Nicolița
-2720423282210
+[CNP omis]
 11
 Enache
 George-Viorel
-1780818343234
+[CNP omis]
 12
 Ilie
 Georgeta
-2581101163264
+[CNP omis]
 13
 Năstase
 Elena
-2580714212986
+[CNP omis]
 14
 Niculae
 Irina-Elena
-2771109214607
+[CNP omis]
 15
 Gavriș
 Leontin-Claudiu-Ciprian
-1741026301011
+[CNP omis]
 16
 Petre
 Ion
-1620702292073
+[CNP omis]
 17
 Șindrilaru
 Niculina
-2690518100030
+[CNP omis]
 18
 Lung
 Voichița
-2670324354755
+[CNP omis]
 19
 Negriu
 Maria
-2610601333225
+[CNP omis]
 20
 Necula
 Doinița
-2691001211665
+[CNP omis]
 21
 Petruș
 Aurel
-1600509510038
+[CNP omis]
 22
 Grădeanu
 Ion
-1721223511686
+[CNP omis]
 23
 Mușat
 Petruța
-2671028511689
+[CNP omis]
 24
 Roșioru
 Lidia-Raluca
-2780418511665
+[CNP omis]
 25
 Tănase
 Maria
-2710427511660
+[CNP omis]
 26
 Vasile
 Vasile
-1710122511664
+[CNP omis]
 27
 Băceanu
 Mihaela-Silvia
-2780104514356
+[CNP omis]
 28
 Moldoveanu
 Alexandru
-1840924410057
+[CNP omis]
 29
 Potra
 Georgeta
-2730503134003
+[CNP omis]
 30
 Potra
 Marin
-1610606163238
+[CNP omis]
 31
 Dumitrescu
 Mariana
-2670617135319
+[CNP omis]
 32
 Vacea
 Elena
-2680128135296
+[CNP omis]
 33
 Neamțu
 Florina
-2810811134186
+[CNP omis]
 34
 Datcu
 Daniela-Georgeta
-2620301135294
+[CNP omis]
 35
 Buradel
 Elena
-2670412135297
+[CNP omis]
 36
 Giumali
 Ghiulsever
-2610131134007
+[CNP omis]
 37
 Patriche
 Mironica
-2631011174906
+[CNP omis]
 38
 Țigănuș
 Laura
-2680926170417
+[CNP omis]
 39
 Banu
 Adriana-Mihaela
-2771007204395
+[CNP omis]
 40
 Militaru
 Gheorghe
-1510108214618
+[CNP omis]
 41
 Nică
 Ioana-Lidia
-2861008295326
+[CNP omis]
 42
 Dvornic
 Cornelia
-2620722212959
+[CNP omis]
 43
 Iordache
 Mihaela
-2801027213403
+[CNP omis]
 44
 Neagu
 Elena
-2670801212984
+[CNP omis]
 45
 Strîmbeanu
 Lenuța
-2670511211661
+[CNP omis]
 46
 Vișan
 Mioara
-2621008284364
+[CNP omis]
 47
 Movilă
 Liliana
-2780415211681
+[CNP omis]
 48
 Cruceanu
 Mircea
-1540822211668
+[CNP omis]
 49
 Buimac
 Ioan
-1531219227783
+[CNP omis]
 50
 Picu
 Ilie-Emil
-1600203221191
+[CNP omis]
 51
 Angheluși
 Emilia-Elena
-2740326224502
+[CNP omis]
 52
 Brehuescu
 Sergiu-Eduard
-1770411221221
+[CNP omis]
 53
 Alexandru
 Mihai
-1710812221203
+[CNP omis]
 54
 Antonescu
 Cristina
-2750818390689
+[CNP omis]
 55
 Cojocariu
 Relu
-1650910221136
+[CNP omis]
 56
 Rotaru
 Adriana
-2590307221195
+[CNP omis]
 57
 Brînzilă
 Vasile-Cristian
-1730611221189
+[CNP omis]
 58
 Ciobănică
 Paul
-1640606221138
+[CNP omis]
 59
 Leonte
 Dorin
-1640918221131
+[CNP omis]
 60
 Siriteanu
 Constantin
-1671020221208
+[CNP omis]
 61
 Gheorghe
 Cristian
-1700512292071
+[CNP omis]
 62
 Negoiță
 Sanda
-2690211292085
+[CNP omis]
 63
 Soare
 Liviu
-1790809292088
+[CNP omis]
 64
 Gheorghiță
 Elena
-2580919293119
+[CNP omis]
 65
 Petre
 Fănica
-2680122292091
+[CNP omis]
 66
 Drăghici
 Maria
-2610405293164
+[CNP omis]
 67
 Stoica
 Vasile
-1680219292108
+[CNP omis]
 68
 Băsătă
 Mihăiță-Costel
-1870914340918
+[CNP omis]
 69
 Edinger
 Otmar
-7771030340013
+[CNP omis]
 70
 Nițu
 Adrian
-1740918341696
+[CNP omis]
 71
 Crișan
 Gianina-Loredana
-2751126354797
+[CNP omis]
 72
 Apopei
 Adrian
-1870922350018
+[CNP omis]
 73
 Ghilezan
 Petrica
-2620802354780
+[CNP omis]
 74
 Bilan
 Ioan-Adrian
-1750321354739
+[CNP omis]
 75
 Bilan
 Laura-Ramona
-2740521354799
+[CNP omis]
 76
 Hausler
 Carmen
-2781205354759
+[CNP omis]
 77
 Jupînu
 Florin
-1740319354737
+[CNP omis]
 78
 Jupînu
 Liliana
-2760103354787
+[CNP omis]
 79
 Bogos
 Lenuța
-2690416374063
+[CNP omis]
 80
 Dorobanțu
 Marta
-2540817354835
+[CNP omis]
 81
 Buzatu
 Cornelia-Lucreția
-2600224354721
+[CNP omis]
 82
 Zemora
 Ana-Nicoleta
-2770411354743
+[CNP omis]
 83
 Sarcină
 Laurențiu-Sevastian
-1730531180028
+[CNP omis]
 84
 Cebel
 Claudiu-Constantin
-1800606250592
+[CNP omis]
 85
 Holovate
 Ion
-1571209352358
+[CNP omis]
 86
 Onea
 Anghelica
-2581101350324
+[CNP omis]
 87
 Hodoșan
 Alina-Isabela
-2730129384191
+[CNP omis]
 88
 Spăriosu
 Alina
-2740523354786
+[CNP omis]
 89
 Popovici
 Mariana
-2680808350316
+[CNP omis]
 90
 Raia
 Leliana-Tana
-2570705354827
+[CNP omis]
 91
 Anca
 Valeria
-2640807350310
+[CNP omis]
 92
 Andronache
 Gheorghe
-1561118354723
+[CNP omis]
 93
 Bercovici
 Nicolița
-2561102352359
+[CNP omis]
 94
 Venter
 Mihai
-1871113350076
+[CNP omis]
 95
 Vuici
 Stanislav
-1571202354758
+[CNP omis]
 96
 Răduțiu
 Ana
-2501107354808
+[CNP omis]
 97
 Borșoș
 Emilia
-2680509354796
+[CNP omis]
 98
 Hârțu
 Viorel
-1570304354852
+[CNP omis]
 99
 Gaică
 Violeta
-2650216384204
+[CNP omis]
 100
 Măgureanu
 Mioara
-2590118400324
+[CNP omis]
 101
 Oprea
 Vica
-2610331400594
+[CNP omis]
 102
 Pâlșu
 Ileana
-2630607384189
+[CNP omis]
 103
 Vulpe
 Daniela
-2640728384213
+[CNP omis]
 104
 Balica
 Eugen
-1570331374062
+[CNP omis]
 105
 Nechifor
 Gabriela
-2590531372232
+[CNP omis]
 106
 Nenciu
 Valentina
-2740818511667
+[CNP omis]
 -------
