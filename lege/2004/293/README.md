@@ -1,6 +1,6 @@
 # Legea nr. 293/2004
 
-Legea nr. 293/2004 · 16 versions, from 2004-09-28 (latest in force: 2018-07-28) · <https://legislatie.just.ro/Public/DetaliiDocument/53094>
+Legea nr. 293/2004 · 17 versions, from 2004-09-28 (latest in force: 2019-06-20) · <https://legislatie.just.ro/Public/DetaliiDocument/53094>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -34,7 +34,7 @@ Legea nr. 293/2004 · 16 versions, from 2004-09-28 (latest in force: 2018-07-28)
 | Art. 28 | [art-028.md](art-028.md) | 5 | 2009-09-22 |
 | Art. 29 | [art-029.md](art-029.md) | 6 | 2014-04-10 |
 | Art. 30 | [art-030.md](art-030.md) | 3 | 2014-04-10 |
-| Art. 31 | [art-031.md](art-031.md) | 5 | 2014-04-10 |
+| Art. 31 | [art-031.md](art-031.md) | 6 | 2019-06-20 |
 | Art. 32 | [art-032.md](art-032.md) | 2 | 2009-09-22 |
 | Art. 33 | [art-033.md](art-033.md) | 3 | 2014-04-10 |
 | Art. 34 | [art-034.md](art-034.md) | 5 | 2009-09-22 |
@@ -118,3 +118,9 @@ Act id: `legea-293-2004` (tags `legea-293-2004/<day>`; `python tools/on.py <day>
 - Legea nr. 293/2004: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 11.02.2008 art-056, 11.02.2008 art-058, 11.02.2008 art-068.
 - Legea nr. 293/2004: 26 changed article(s) with no note naming a law, committed as the publisher's: 2009-05-23 art-002, 2009-05-23 art-009, 2009-05-23 art-010, 2009-05-23 art-011, 2009-05-23 art-014, 2009-05-23 art-015, 2009-05-23 art-018, 2009-05-23 art-020, 2009-05-23 art-020-2, 2009-05-23 art-021, 2009-05-23 art-031, 2009-05-23 art-051, 2009-05-23 art-051-1, 2009-05-23 art-052, 2009-05-23 art-057-1, 2009-05-23 art-070, 2009-05-23 art-071, 2009-05-23 art-076, 2009-05-23 art-082, 2009-06-29 art-036, 2014-02-01 art-014, 2014-02-01 art-015, 2014-02-01 art-026, 2014-02-01 art-036, 2018-05-23 art-036, 2018-05-23 art-079.
 - Legea nr. 293/2004: forms with no change after normalisation, so no version: 2016-01-18 (174911), 2019-05-06 (213123).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-065-1.md`, in force from 2018-07-28: Legea nr. 206/2018 (first published as no law named).
