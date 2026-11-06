@@ -3,6 +3,73 @@
 "shard": "local/calarasi/gurbanesti/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--gurbanesti-39-2025",
+"path": "local/calarasi/gurbanesti/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 39/2025 privind aprobarea contului de închiriere a exercițiului bugetar pe trimestrul II-2025",
+"short": "HCL Gurbănești nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/224379",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-40-2025",
+"path": "local/calarasi/gurbanesti/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 40/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Gurbănești nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/224380",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-41-2025",
+"path": "local/calarasi/gurbanesti/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 41/2025",
+"short": "HCL Gurbănești nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/257141",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--gurbanesti-42-2025",
 "path": "local/calarasi/gurbanesti/2025/42",
 "kind": "local",
@@ -69,6 +136,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--gurbanesti-45-2025",
+"path": "local/calarasi/gurbanesti/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 45/2025",
+"short": "HCL Gurbănești nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/257149",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--gurbanesti-46-2025",
 "path": "local/calarasi/gurbanesti/2025/46",
 "kind": "local",
@@ -110,6 +200,51 @@
 "council_name": "Consiliul Local al Comunei Gurbănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-48-2025",
+"path": "local/calarasi/gurbanesti/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 48/2025 privind alegerea președintelui de ședință",
+"short": "HCL Gurbănești nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/257152",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-49-2025",
+"path": "local/calarasi/gurbanesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 49/2025",
+"short": "HCL Gurbănești nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/257153",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -220,6 +355,73 @@
 "council_name": "Consiliul Local al Comunei Gurbănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-55-2025",
+"path": "local/calarasi/gurbanesti/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 55/2025",
+"short": "HCL Gurbănești nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/257159",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-56-2025",
+"path": "local/calarasi/gurbanesti/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 56/2025 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Gurbănești, pentru anul școlar 2026-2027",
+"short": "HCL Gurbănești nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/257160",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-57-2025",
+"path": "local/calarasi/gurbanesti/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 57/2025 privind aprobarea raportului privind activitatea asistenților personali desfășurată în semestrul II al anului 2025",
+"short": "HCL Gurbănești nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/257161",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

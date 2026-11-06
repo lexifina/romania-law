@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/pojejena/2020",
 "acts": [
 {
+"slug": "hcl-caras-severin--pojejena-51-2020",
+"path": "local/caras-severin/pojejena/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 51/2020 privind alegerea preşedintelui de şedinţă al Consiliului Local Pojejena pe perioada de 3 luni (Noiembrie 2020 – Ianuarie 2021)",
+"short": "HCL Pojejena nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/15895",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--pojejena-52-2020",
 "path": "local/caras-severin/pojejena/2020/52",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-53-2020",
+"path": "local/caras-severin/pojejena/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 53/2020 privind alegerea viceprimarului comunei Pojejena",
+"short": "HCL Pojejena nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/15897",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +176,29 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-59-2020",
+"path": "local/caras-severin/pojejena/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 59/2020",
+"short": "HCL Pojejena nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/15903",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

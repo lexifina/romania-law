@@ -3,6 +3,261 @@
  "shard": "local/calarasi/ulmu/2023",
  "acts": [
   {
+   "slug": "hcl-calarasi--ulmu-39-2023",
+   "path": "local/calarasi/ulmu/2023/39",
+   "short": "HCL Ulmu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 39/2023 privind aprobarea inscrierii Comunei Ulmu ca membru fondator in Asociația Club Sportiv Mostistea Ulmu",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/125974",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/125974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-40-2023",
+   "path": "local/calarasi/ulmu/2023/40",
+   "short": "HCL Ulmu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 40/2023 privind modificarea si aprobarea organigramei si a statului de funcţii al aparatului de specialitate a Primarului comunei Ulmu, judetul Calarasi",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/125975",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/125975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-41-2023",
+   "path": "local/calarasi/ulmu/2023/41",
+   "short": "HCL Ulmu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 41/2023 privind aprobarea contului de executie bugetara incheiat la data de 30 septembrie 2023",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/125976",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/125976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-42-2023",
+   "path": "local/calarasi/ulmu/2023/42",
+   "short": "HCL Ulmu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 42/2023 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul I, II si III privind anul 2023 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/125977",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/125977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-43-2023",
+   "path": "local/calarasi/ulmu/2023/43",
+   "short": "HCL Ulmu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 43/2023 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru lunile iulie, august si septembrie 2023",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130319",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-44-2023",
+   "path": "local/calarasi/ulmu/2023/44",
+   "short": "HCL Ulmu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 44/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130320",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-45-2023",
+   "path": "local/calarasi/ulmu/2023/45",
+   "short": "HCL Ulmu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 45/2023 privind aprobarea revizuirii Regulamentului de Organizare si Functionare a Consilului Local Ulmu, judetul Calarasi",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130321",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-46-2023",
+   "path": "local/calarasi/ulmu/2023/46",
+   "short": "HCL Ulmu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 46/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Ulmu, judeţul Calarasi, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130322",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-47-2023",
+   "path": "local/calarasi/ulmu/2023/47",
+   "short": "HCL Ulmu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 47/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Ulmu, judeţul Calarasi, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130323",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-48-2023",
+   "path": "local/calarasi/ulmu/2023/48",
+   "short": "HCL Ulmu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 48/2023 privind completarea si actualizarea ”Inventarului bunurilor care apartin domeniului privat al comunei Ulmu, județul Calarasi”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130324",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-49-2023",
+   "path": "local/calarasi/ulmu/2023/49",
+   "short": "HCL Ulmu nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 49/2023 privind aprobarea documentaţiei tehnico-economice – faza Proiect tehnic – şi a devizului general actualizat pentru obiectivul de investitii “ CRESTEREA EFICIENTEI ENERGETICE LA DISPENSARUL COMUNEI ULMU, JUDETUL CALARASI ”, finantat prin PNRR, Componentei C10 – Fondul Local, Investiția I.3",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130784",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-50-2023",
+   "path": "local/calarasi/ulmu/2023/50",
+   "short": "HCL Ulmu nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 50/2023 privind aprobarea documentaţiei tehnico-economice – faza Proiect tehnic – şi a devizului general actualizat pentru obiectivul de investitii “INFIINTARE CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA ULMU, JUDETUL CALARASI”, finantat prin PNRR, Componenta 3 - Managementul deseurilor, Investitia I.1 - Dezvoltarea, modernizarea si completarea sistemelor de management integrat al deseurilor municipale la nivel de judet sau la nivel de oras/ comune/ Subinvestitia I.1.A - Infiintarea de centre de colectare prin aport voluntar",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/130785",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/130785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-51-2023",
+   "path": "local/calarasi/ulmu/2023/51",
+   "short": "HCL Ulmu nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 51/2023 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru lunile octombrie si noiembrie 2023",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/133698",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/133698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-52-2023",
+   "path": "local/calarasi/ulmu/2023/52",
+   "short": "HCL Ulmu nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 52/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/133699",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/133699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-53-2023",
+   "path": "local/calarasi/ulmu/2023/53",
+   "short": "HCL Ulmu nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 53/2023 privind aprobarea contului de executie bugetara pentru trimestrul IV",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/133700",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/133700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-54-2023",
+   "path": "local/calarasi/ulmu/2023/54",
+   "short": "HCL Ulmu nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 54/2023 privind aprobarea Studiului de fezabilitate, devizul general si indicatori tehnico - economici ai proiectului “Lucrari de instalare sistem de supraveghere video in satele Ulmu, Zimbru, Faurei si Chirnogi, comuna Ulmu, judetul Calarasi “, revizuit",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/133701",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/133701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-55-2023",
+   "path": "local/calarasi/ulmu/2023/55",
+   "short": "HCL Ulmu nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 55/2023 privind implementarea proiectului „Lucrari de instalare sistem de supraveghere video in satele Ulmu, Zimbru, Faurei si Chirnogi, comuna Ulmu, judetul Calarasi”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/133702",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/133702",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--ulmu-56-2023",
    "path": "local/calarasi/ulmu/2023/56",
    "short": "HCL Ulmu nr. 56/2023",
@@ -28,6 +283,21 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/ulmu-cl/registru-hcl/137721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-58-2023",
+   "path": "local/calarasi/ulmu/2023/58",
+   "short": "HCL Ulmu nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 58/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/137722",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/137722",
      "sha256": null
     }
    ]

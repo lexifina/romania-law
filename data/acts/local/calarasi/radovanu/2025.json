@@ -3,6 +3,50 @@
 "shard": "local/calarasi/radovanu/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--radovanu-95-2025",
+"path": "local/calarasi/radovanu/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 95/2025 privind atestarea apartenenței la domeniul privat al comunei Radovanu, județul Călărași, a doua suprafețe de teren arabil, aflate în extravilanul/intravilanul comunei Radovanu, județul Călărași",
+"short": "HCL Radovanu nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/243969",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-96-2025",
+"path": "local/calarasi/radovanu/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 96/2025 privind aprobarea Regulamentului pentru ocuparea temporară a domeniului privat în comuna Radovanu",
+"short": "HCL Radovanu nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/243970",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--radovanu-97-2025",
 "path": "local/calarasi/radovanu/2025/97",
 "kind": "local",
@@ -69,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--radovanu-100-2025",
+"path": "local/calarasi/radovanu/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 100/2025 privind rectificarea bugetului local pe luna Decembrie 2025",
+"short": "HCL Radovanu nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/243980",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--radovanu-101-2025",
 "path": "local/calarasi/radovanu/2025/101",
 "kind": "local",
@@ -110,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Radovanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-103-2025",
+"path": "local/calarasi/radovanu/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 103/2025 privind cea de a doua rectificare a bugetului local pe luna Decembrie 2025",
+"short": "HCL Radovanu nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/243983",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +246,138 @@
 }
 },
 {
+"slug": "hcl-calarasi--radovanu-106-2025",
+"path": "local/calarasi/radovanu/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 106/2025 privind rectificarea bugetului local pe anul 2025 prin virare de credite de la un capitol bugetar (84.02) la alt capitol bugetar (51.02)",
+"short": "HCL Radovanu nr. 106/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/246566",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-107-2025",
+"path": "local/calarasi/radovanu/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 107/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza UATC RADOVANU pentru anul școlar 2026-2027",
+"short": "HCL Radovanu nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/246571",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-108-2025",
+"path": "local/calarasi/radovanu/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 108/2025 privind validarea dispoziției nr. 229 din 15 Decembrie 2025 emisă de primarul comunei Radovanu, privind cea de a treia rectificare a bugetului local pe luna Decembrie 2025",
+"short": "HCL Radovanu nr. 108/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/246572",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-109-2025",
+"path": "local/calarasi/radovanu/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 109/2025 privind validarea dispoziției nr. 237 din 18 Decembrie 2025 emisă de primarul comunei Radovanu, privind cea de a PATRA rectificare a bugetului local pe luna Decembrie 2025",
+"short": "HCL Radovanu nr. 109/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/246573",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-110-2025",
+"path": "local/calarasi/radovanu/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 110/2025 privind validarea dispoziției nr. 238 din 18 Decembrie 2025 emisă de primarul comunei Radovanu, Privind radierea anexei nr. 1 la dispoziția nr. 237 din 18.12.2025 Privind cea de a patra rectificare a bugetului local pe luna decembrie 2025",
+"short": "HCL Radovanu nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/246574",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-111-2025",
+"path": "local/calarasi/radovanu/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 111/2025 privind aprobarea unui număr de 22 de posturi de asistenți personali ai persoanelor cu handicap grav pentru anul 2026 la Comuna Radovanu, Județul Călărași",
+"short": "HCL Radovanu nr. 111/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/246575",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--radovanu-112-2025",
 "path": "local/calarasi/radovanu/2025/112",
 "kind": "local",
@@ -199,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Radovanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-114-2025",
+"path": "local/calarasi/radovanu/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 114/2025 privind desființarea unor posturi de funcționar public de execuție din cadrul Primăriei comunei Radovanu precum și pentru aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al Primarului comunei Radovanu",
+"short": "HCL Radovanu nr. 114/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/246578",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

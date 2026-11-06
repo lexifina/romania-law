@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/berzasca/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--berzasca-69-2022",
+   "path": "local/caras-severin/berzasca/2022/69",
+   "short": "HCL Berzasca nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 69/2022 privind unui sprijin financiar Parohiei Ortodoxe Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/93284",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/93284",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-70-2022",
    "path": "local/caras-severin/berzasca/2022/70",
    "short": "HCL Berzasca nr. 70/2022",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-77-2022",
+   "path": "local/caras-severin/berzasca/2022/77",
+   "short": "HCL Berzasca nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 77/2022 privind dezlipirea unuor imobile – terenuri, situate în intravilanul comunei Berzasca, aparținând domeniului public și privat al comunei Berzasca, județul, în vederea vânzării prin licitație publică, pentru desfășurarea unor activități Caraș – Severin economice în domeniul turismului și agrementului",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/93292",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/93292",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-78-2022",
    "path": "local/caras-severin/berzasca/2022/78",
    "short": "HCL Berzasca nr. 78/2022",
@@ -193,6 +223,21 @@
      "from": "2023-03-03",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/93339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-84-2022",
+   "path": "local/caras-severin/berzasca/2022/84",
+   "short": "HCL Berzasca nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 84/2022 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, pentru ședința de consiliu extraordinară, convocată de îndată, în data de 20.12.2022, ora 18:30",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/93350",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/93350",
      "sha256": null
     }
    ]

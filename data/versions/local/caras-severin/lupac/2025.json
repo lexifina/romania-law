@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-101-2025",
+   "path": "local/caras-severin/lupac/2025/101",
+   "short": "HCL Lupac nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 101/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/238388",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/238388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-102-2025",
+   "path": "local/caras-severin/lupac/2025/102",
+   "short": "HCL Lupac nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 102/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/238389",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/238389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-103-2025",
+   "path": "local/caras-severin/lupac/2025/103",
+   "short": "HCL Lupac nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 103/2025 privind aprobarea vânzării directe a terenului în suprafaţă de 430 mp înscris în CF nr.33760 Lupac, nr. cad/top 33760 către d-nul Muselin Ivan-Petru și soția Muselin Slavița-Maria, teren aferent casei cu nr.168 din localitatea Clocotici, proprietatea d-nului Muselin Ivan-Petru și soției Muselin Slavița-Maria",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/238390",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/238390",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-104-2025",
    "path": "local/caras-severin/lupac/2025/104",
    "short": "HCL Lupac nr. 104/2025",
@@ -133,6 +178,36 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/244351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-112-2025",
+   "path": "local/caras-severin/lupac/2025/112",
+   "short": "HCL Lupac nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 112/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/244352",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/244352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-113-2025",
+   "path": "local/caras-severin/lupac/2025/113",
+   "short": "HCL Lupac nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 113/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/244353",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/244353",
      "sha256": null
     }
    ]

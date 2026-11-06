@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--marga-84-2021",
+   "path": "local/caras-severin/marga/2021/84",
+   "short": "HCL Marga nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 84/2021 privind aprobarea vânzării unui teren în suprafață de 1908 m.p",
+   "url": "https://emol.ro/marga-cs/registru-hcl/43655",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/43655",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--marga-85-2021",
    "path": "local/caras-severin/marga/2021/85",
    "short": "HCL Marga nr. 85/2021",

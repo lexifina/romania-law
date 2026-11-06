@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/apahida/2026",
+ "acts": [
+  {
+   "slug": "hcl-cluj--apahida-11-2026",
+   "path": "local/cluj/apahida/2026/11",
+   "short": "HCL Apahida nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 11/2026",
+   "url": "https://primaria-apahida.ro/wp-content/uploads/2026/07/HCJSU-nr.-11-din-01.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/2026/07/HCJSU-nr.-11-din-01.07.2026.pdf",
+     "sha256": "72be23a7b464db8f43476b32d88785408f19b540a8a73468f5acb9a043cdb0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-188-2026",
+   "path": "local/cluj/apahida/2026/188",
+   "short": "HCL Apahida nr. 188/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 188/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 78453 Apahida, situat în localitatea Apahida, județul Cluj, aparținând domeniului privat al comunei Apahida",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.188-din-24.09.2026.pdf",
+     "sha256": "d7ed87bc09589a8e1e106e610d048b7e78150ad6397c5292b83c06f4efda55f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-189-2026",
+   "path": "local/cluj/apahida/2026/189",
+   "short": "HCL Apahida nr. 189/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 189/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 77153 Apahida, situat în localitatea Pata, comuna Apahida, județul Cluj, aparținând domeniului privat al comunei Apahida",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.189-din-24.09.2026.pdf",
+     "sha256": "ada85d3cae5f33d544420d1e9e7659840e9f09b95d8686e4f796b1e2fed86b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-190-2026",
+   "path": "local/cluj/apahida/2026/190",
+   "short": "HCL Apahida nr. 190/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 190/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 77988 Apahida, situat în localitatea Apahida, județul Cluj, zona Molitură, aparținând domeniului privat al comunei Apahida, în 27 de parcele",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.190-din-24.09.2026.pdf",
+     "sha256": "a4642658116f231e19196901701a2e6a8d10af0a3385e3100f66ebfe8a9cb5f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-191-2026",
+   "path": "local/cluj/apahida/2026/191",
+   "short": "HCL Apahida nr. 191/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 191/2026",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+     "sha256": "abdbe62de0ba18dc957dc91bd87c16057fc6e43a5c3b7f6de9ec78b8a4934b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-192-2026",
+   "path": "local/cluj/apahida/2026/192",
+   "short": "HCL Apahida nr. 192/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 192/2026 privind aprobarea înscrierii în cartea funciară a unor terenuri (tronsoane de drumuri pentru exploatație agricolă) din localitatea Apahida, comuna Apahida, județul Cluj, aflate în domeniul public al comunei Apahida",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.192-din-24.09.2026.pdf",
+     "sha256": "9d48ad2c9eeab2560bc679b408032e8830d9a361b530a4c822d234d71e86ef7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-193-2026",
+   "path": "local/cluj/apahida/2026/193",
+   "short": "HCL Apahida nr. 193/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 193/2026 privind modificarea Contractului de delegare a gestiunii serviciului de transport public local de călători nr. 42/29.12.2018, încheiat între Asociația Metropolitană de Transport Public Cluj (A.M.T.P.C.) și Compania de Transport Public Cluj-Napoca SA, potrivit HCL Gilău nr. 158/18.08.2026",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.193-din-24.09.2026.pdf",
+     "sha256": "46c6ce730a01d86d2517cbee261fe437b5205cc96802ad322480c88dc62b1588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-194-2026",
+   "path": "local/cluj/apahida/2026/194",
+   "short": "HCL Apahida nr. 194/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 194/2026 privind aprobarea repartizării sumei de 597.005 lei, reprezentând sprijin financiar nerambursabil de la bugetul local al comunei Apahida pe anul 2026, unităților de cult aparținând cultelor religioase recunoscute din România, în baza Regulamentului aprobat prin Hotărârea Consiliului Local nr. 99/23.06.2026",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.194-din-24.09.2026.pdf",
+     "sha256": "7463aea3b54186c42c7949de76901c2bf70ac025e890b22468812ea557fb924e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-195-2026",
+   "path": "local/cluj/apahida/2026/195",
+   "short": "HCL Apahida nr. 195/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 195/2026 privind desemnarea unui reprezentant al Consiliului Local al Comunei Apahida și a unui membru supleant în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, potrivit OMEC nr. 4.155/2026 si OMEC 4622/2026",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.195-din-07.10.2026.pdf",
+     "sha256": "979ed3507bb36c619d0d6cfdaa5017e3ccc6f98f4158b54c3620714bdc6f999e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-196-2026",
+   "path": "local/cluj/apahida/2026/196",
+   "short": "HCL Apahida nr. 196/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 196/2026 privind aprobarea documentației tehnice „Defrișare și decolmatare curs de apă Feiurdeni în localitatea Câmpenești, UAT Apahida, județ Cluj”, a încheierii Protocolului de colaborare dintre U.A.T",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.196-din-12.10.2026.pdf",
+     "sha256": "7091990b5f3bbe139d1d8d331ce0ace195c629ccd7771e9aea6a9b3fcbeef2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--apahida-197-2026",
+   "path": "local/cluj/apahida/2026/197",
+   "short": "HCL Apahida nr. 197/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 197/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 78391 Apahida, situat în localitatea Apahida, județul Cluj, aparținând domeniului privat al comunei Apahida",
+   "url": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/bsk-pdf-manager/2026/10/HCL-nr.197-din-12.10.2026.pdf",
+     "sha256": "deaf6b2f98ed533eeeebbcfbdf253111b7f32ee3a4a00b907ecc20e1a4b039b2"
+    }
+   ]
+  }
+ ]
+}

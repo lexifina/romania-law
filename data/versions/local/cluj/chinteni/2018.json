@@ -1,0 +1,471 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/chinteni/2018",
+ "acts": [
+  {
+   "slug": "hcl-cluj--chinteni-25-2018",
+   "path": "local/cluj/chinteni/2018/25",
+   "short": "HCL Chinteni nr. 25/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 25/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/3.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2009.02.2018/25.Hotararea%20nr.%2025%20din%2009.02.2018.pdf",
+     "sha256": "81c44c68aaabd9b5c55005773500d6a177c82a031416fe73fadf5bf79684954b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-26-2018",
+   "path": "local/cluj/chinteni/2018/26",
+   "short": "HCL Chinteni nr. 26/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 26/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/3.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2009.02.2018/26.Hotararea%20nr.%2026%20din%2009.02.2018.pdf",
+     "sha256": "c49976d2a46f83cae2ee93477263a704d074e32c43b68df3056eb0b763a53302"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-28-2018",
+   "path": "local/cluj/chinteni/2018/28",
+   "short": "HCL Chinteni nr. 28/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 28/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/3.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2009.02.2018/28.Hotararea%20nr%2028%20din%2009.02.2018.pdf",
+     "sha256": "ed697a6429a5769b24d20f4b958c9c550cf8287ed04ef7299c6809c18c435121"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-29-2018",
+   "path": "local/cluj/chinteni/2018/29",
+   "short": "HCL Chinteni nr. 29/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 29/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/29.Hotararea%20nr.%2029%20din%2013.03.2018.pdf",
+     "sha256": "eb54241b1bc1cd51a67ec0f0460f85f48a99fcc1be218ac0c14cdaa3c8c9f156"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-30-2018",
+   "path": "local/cluj/chinteni/2018/30",
+   "short": "HCL Chinteni nr. 30/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 30/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/30.Hotararea%20nr.%2030%20din%2013.03.2018.pdf",
+     "sha256": "2a4051a4e7e7ea89dc9b847546ff6dfe9ef74a4a22b79827755187e342ea7b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-31-2018",
+   "path": "local/cluj/chinteni/2018/31",
+   "short": "HCL Chinteni nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 31/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/31.Hotararea%20nr.%2031%20din%2013.03.2018.pdf",
+     "sha256": "d74f1b9a78d70bb80a4a5806c8fe193b03712a071aef4dec26675571f3c93635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-32-2018",
+   "path": "local/cluj/chinteni/2018/32",
+   "short": "HCL Chinteni nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 32/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/32.Hotararea%20nr.%2032%20%20din%2013.03.2018.pdf",
+     "sha256": "494962dc4242a890d9e68bce4367b9f40a87ac7bdbe9ff1df1e9a88cc1c24f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-33-2018",
+   "path": "local/cluj/chinteni/2018/33",
+   "short": "HCL Chinteni nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 33/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/33.Hotararea%20nr.%2033%20din%2013.03.2018.pdf",
+     "sha256": "3c23d5d6cefac2db8d64974d533da22b4c3acf8ad97c0bb3ee7aefe61b2d4564"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-34-2018",
+   "path": "local/cluj/chinteni/2018/34",
+   "short": "HCL Chinteni nr. 34/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 34/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/34.Hotararea%20nr.%2034%20din%2013.03.2018.pdf",
+     "sha256": "c4d8b304d1b019f2d217b534f7185654c6632d9e04cd502964a055f7a4e3adac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-35-2018",
+   "path": "local/cluj/chinteni/2018/35",
+   "short": "HCL Chinteni nr. 35/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 35/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/35.Hotararea%20nr.%2035%20din%2013.03.2018.pdf",
+     "sha256": "f6e89eff52469726f4d8cccd129fab42c446189ec7e318d2f10c3470300af87b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-36-2018",
+   "path": "local/cluj/chinteni/2018/36",
+   "short": "HCL Chinteni nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 36/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/36.Hotarare%20nr.%2036%20%20din%2013.03.2018.pdf",
+     "sha256": "3964a09e0049f94d44367dc7ddaa765301db9717cd4a20b1d313fdec61e9c0e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-37-2018",
+   "path": "local/cluj/chinteni/2018/37",
+   "short": "HCL Chinteni nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 37/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/37.Hotararea%20nr.%2037%20din%2013.03.2018.pdf",
+     "sha256": "dd26c131e830902910d4e3ae262a784ddae4b2acdad0ef73a2a20a3a386e5c12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-38-2018",
+   "path": "local/cluj/chinteni/2018/38",
+   "short": "HCL Chinteni nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 38/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/4.Sedinta%20ordinara%20C.L%20Chinteni,%2013.03.2018/38.Hotararea%20nr.%2038%20din%2013.03.2018.pdf",
+     "sha256": "f3a6c4561cabaa2171a64a6bb338133ecb994b7554a7f52853f5651d64675cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-39-2018",
+   "path": "local/cluj/chinteni/2018/39",
+   "short": "HCL Chinteni nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 39/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/39.Hotararea%20nr.%2039%20din%2002.04.2018.pdf",
+     "sha256": "d102b94802800fde14a3cc8581b4c3f531af1a41273b94565c6e64c6b8901f8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-40-2018",
+   "path": "local/cluj/chinteni/2018/40",
+   "short": "HCL Chinteni nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 40/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/40.Hotararea%20nr.%2040%20din%2002.04.2018.pdf",
+     "sha256": "f5905dece36584b842c67ad67e89413030eb3b4834b44c2da3b7c692fdfa5dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-41-2018",
+   "path": "local/cluj/chinteni/2018/41",
+   "short": "HCL Chinteni nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 41/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/41.Hotararea%20nr.%2041%20din%2002.04.2018.pdf",
+     "sha256": "1c093bc6ad187c0ed546847df0c611c9f762122d754ff65cee8562aa435263a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-42-2018",
+   "path": "local/cluj/chinteni/2018/42",
+   "short": "HCL Chinteni nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 42/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/42.Hotararea%20nr.%2042%20din%2002.04.2018.pdf",
+     "sha256": "bcfbd34e496d5c9a1632cb773b6b5c3c123759e5840b2b55b96abcd5deb83396"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-43-2018",
+   "path": "local/cluj/chinteni/2018/43",
+   "short": "HCL Chinteni nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 43/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/43.Hotararea%20nr.%2043%20din%2002.04.2018.pdf",
+     "sha256": "43e15b2ee4356ac484078675f370f3b9a5099347c439e66f85a9e246f86d4be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-44-2018",
+   "path": "local/cluj/chinteni/2018/44",
+   "short": "HCL Chinteni nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 44/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/44.Hotararea%20nr.%2044%20din%2002.04.2018.pdf",
+     "sha256": "fa3c90ed7cbb23dbf4538feaeea0578c3d58e9ef62fe6a5f152b718471d2ac0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-45-2018",
+   "path": "local/cluj/chinteni/2018/45",
+   "short": "HCL Chinteni nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 45/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/45.Hotararea%20nr.%2045%20din%2002.04.2018.pdf",
+     "sha256": "a8e96831d2d77dd70bcc752a1dc4d1ebaf47478e7dfe29249f34771ecc58f78a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-46-2018",
+   "path": "local/cluj/chinteni/2018/46",
+   "short": "HCL Chinteni nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 46/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/46.Hotararea%20nr.%2046%20din%2002.04.2018.pdf",
+     "sha256": "197fa232f6e614cbf46453b6ed3309801ab1b868a686b9a3dc470b293b1c11fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-47-2018",
+   "path": "local/cluj/chinteni/2018/47",
+   "short": "HCL Chinteni nr. 47/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 47/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/47.Hotararea%20nr.%2047%20din%2002.04.2018.pdf",
+     "sha256": "342d8cceea539df38d5a057a55d249bd29307929f1df123d630281046c418899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-48-2018",
+   "path": "local/cluj/chinteni/2018/48",
+   "short": "HCL Chinteni nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 48/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/48.Hotararea%20nr.%2048%20din%2002.04.2018.pdf",
+     "sha256": "38e3fee477875c3ee81bfc1d36c04115f70843d42d68fa7f6426d8d083dfe10d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-49-2018",
+   "path": "local/cluj/chinteni/2018/49",
+   "short": "HCL Chinteni nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 49/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/49.Hotararea%20nr.%2049%20din%2002.04.2018.pdf",
+     "sha256": "7014e29a7a02d76ae3eb8489954169c9d226689d10a3d59439c7ea99641e11ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-50-2018",
+   "path": "local/cluj/chinteni/2018/50",
+   "short": "HCL Chinteni nr. 50/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 50/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/50.Hotararea%20nr.%2050%20din%2002.04.2018.pdf",
+     "sha256": "5be7d781fd20a7cbc3bc76ffa7d878ed7b20eae90a219f254991017fe9c1242a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-51-2018",
+   "path": "local/cluj/chinteni/2018/51",
+   "short": "HCL Chinteni nr. 51/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 51/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/51.Hotararea%20nr%2051%20din%2002.04.2018.pdf",
+     "sha256": "59ca6a1bdffa1f59a7fb867eac790962462531bb77bf23f0c02246796575f864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-52-2018",
+   "path": "local/cluj/chinteni/2018/52",
+   "short": "HCL Chinteni nr. 52/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 52/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/52.Hotararea%20nr.%2052%20din%2002.04.2018.pdf",
+     "sha256": "2faaef42cd4e9d0e9d719ea574860d9ddd82589364e40951dfb40a7bc74c9148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-53-2018",
+   "path": "local/cluj/chinteni/2018/53",
+   "short": "HCL Chinteni nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 53/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-02",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/5.Sedinta%20ordinara%20a%20C.L%20Chinteni,%2002.04.2018/53.Hotararea%20nr.%2053%20din%2002.04.2018.pdf",
+     "sha256": "e631ddc8bbd0860f2831d46472ee07119395e2937bc61820001f6749b8b8ff5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-54-2018",
+   "path": "local/cluj/chinteni/2018/54",
+   "short": "HCL Chinteni nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 54/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/6.Sedinta%20extraordinara%20a%20C.L%20Chinteni,%2019.04.2018/54.Hotararea%20nr.%2054%20din%2019.04%202018.pdf",
+     "sha256": "08aa00d328933a122adc71c54823d35f072c918b503f7474c8814eb3fe0abebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-55-2018",
+   "path": "local/cluj/chinteni/2018/55",
+   "short": "HCL Chinteni nr. 55/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 55/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/6.Sedinta%20extraordinara%20a%20C.L%20Chinteni,%2019.04.2018/55.Hotararea%20nr.%2055%20din%2019.04.2018.pdf",
+     "sha256": "91cb300d992ec5ce0b51a1fc9266a46529eeb1bb1275e8b31bc7ece97befbc72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-56-2018",
+   "path": "local/cluj/chinteni/2018/56",
+   "short": "HCL Chinteni nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 56/2018",
+   "url": "https://www.primariachinteni.ro/hotarari-de-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://primariachinteni.ro/hcl/hcl_2018/6.Sedinta%20extraordinara%20a%20C.L%20Chinteni,%2019.04.2018/56.Hotararea%20nr.%2056%20din%2019.04.2018.pdf",
+     "sha256": "43b8c4b9094115572acf3e4aff24a72ae748b334130c1717b16859e567696081"
+    }
+   ]
+  }
+ ]
+}

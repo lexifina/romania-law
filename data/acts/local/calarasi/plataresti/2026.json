@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-4-2026",
+"path": "local/calarasi/plataresti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 4/2026 DESEMNARE CONSILIERI CARE VOR FACE PARTE DIN COMISIA DE EVALUARE SECRETAR GENERAL",
+"short": "HCL Plătărești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#115215",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-5-2026",
 "path": "local/calarasi/plataresti/2026/5",
 "kind": "local",
@@ -507,6 +529,28 @@
 "council_name": "Consiliul Local al Comunei Plătărești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-25-2026",
+"path": "local/calarasi/plataresti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 25/2026 EXPRIMAREA ACORDULUI DE PRINCIPIU PRIVIND CONCESIONARE SPATIU PODU PITARULUI - CABINET STOMATOLOGIC",
+"short": "HCL Plătărești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#120329",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1258,6 +1302,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-60-2026",
+"path": "local/calarasi/plataresti/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 60/2026 APROBARE INCHIRIERE SPATIU PENTRU OFICIU POSTAL",
+"short": "HCL Plătărești nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#128278",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-61-2026",
 "path": "local/calarasi/plataresti/2026/61",
 "kind": "local",
@@ -1343,6 +1409,72 @@
 "council_name": "Consiliul Local al Comunei Plătărești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-65-2026",
+"path": "local/calarasi/plataresti/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 65/2026 DESEMNARE REPREZENTANTI IN COMISIA DE EVALUARE A PROBEI DE INTERVIU - CONCURS DIRECTOR SCOALA",
+"short": "HCL Plătărești nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#130835",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-66-2026",
+"path": "local/calarasi/plataresti/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 66/2026 DESEMNARE REPREZENTANTI CL IN CA",
+"short": "HCL Plătărești nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#130838",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-67-2026",
+"path": "local/calarasi/plataresti/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 67/2026 DESEMNAREA REPREZENTANTULUI CONSILIULUI LOCAL IN CEAC A ŞCOLII GIMNAZIALE NR.1 PLATARESTI 2025",
+"short": "HCL Plătărești nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#130839",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

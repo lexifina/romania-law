@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-4-2026",
+"path": "local/caras-severin/coronini/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 4/2026 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/252477",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-5-2026",
 "path": "local/caras-severin/coronini/2026/5",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-6-2026",
+"path": "local/caras-severin/coronini/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 6/2026 privind stabilirea normativului propriu de cheltuieli privind consumul de carburanți pentru autoturismele/utilajele primăriei Comunei Coronini pe anul 2026",
+"short": "HCL Coronini nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/252479",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-9-2026",
+"path": "local/caras-severin/coronini/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 9/2026 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264081",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-10-2026",
 "path": "local/caras-severin/coronini/2026/10",
 "kind": "local",
@@ -132,6 +198,248 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-11-2026",
+"path": "local/caras-severin/coronini/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 11/2026 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264087",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-12-2026",
+"path": "local/caras-severin/coronini/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 12/2026 privind aprobarea constituirii dreptului de uz și servitute cu titlu gratuit, pentru instalarea unui cablu electric subteran, necesar branșării obiectivului ,,Construire Mânăstire Ortodoxă Coronini”, către Episcopia Caransebeșului pe imobile aparținând UAT Comuna Coronini",
+"short": "HCL Coronini nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264092",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-13-2026",
+"path": "local/caras-severin/coronini/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 13/2026 privind aprobarea Caracteristicilor principale, a indicatorilor tehnico – economici și a Devizului General actualizați în urma modificării cotei de TVA pentru obiectivul de investiții ,,MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA CORONINI, JUDEȚUL CARAȘ SEVERIN”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Coronini nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264093",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-14-2026",
+"path": "local/caras-severin/coronini/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 14/2026 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264094",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-15-2026",
+"path": "local/caras-severin/coronini/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 15/2026 privind aprobarea utilizării excedentului bugetar al bugetului local al comunei Coronini, înregistrat la finele anului 2025, în sumă de 152,04 mii lei, pentru acoperirea golului de casă în anul 2026 la secțiunea de funcționare și dezvoltare",
+"short": "HCL Coronini nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264096",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-16-2026",
+"path": "local/caras-severin/coronini/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 16/2026 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264098",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-17-2026",
+"path": "local/caras-severin/coronini/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 17/2026 privind aprobarea utilizării excedentului bugetar al bugetului local al comunei Coronini, înregistrat la finele anului 2025, în sumă de 153,00 mii lei, pentru acoperirea golului de casă în anul 2026 la secțiunea de funcționare",
+"short": "HCL Coronini nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264099",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-18-2026",
+"path": "local/caras-severin/coronini/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 18/2026 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264105",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-19-2026",
+"path": "local/caras-severin/coronini/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 19/2026 privind aprobarea reorganizării aparatului de specialitate al Primarului comunei Coronini, al compartimentelor din subordinea consiliului local şi al serviciilor publice de interes local fără personalitate juridică, aprobarea numărului maxim de posturi, precum si aprobarea organigramei și a noului stat de funcţiuni, în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+"short": "HCL Coronini nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264106",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-20-2026",
+"path": "local/caras-severin/coronini/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 20/2026 privind aprobarea modificării Organigramei si a Statului de functii ale Societății GOSPODĂRIA COMUNALĂ CORONINI S.R.L",
+"short": "HCL Coronini nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264109",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-21-2026",
+"path": "local/caras-severin/coronini/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 21/2026 privind aprobarea Caracteristicilor principale, a indicatorilor tehnico – economici și a Devizului General actualizați în urma modificării cotei de TVA pentru obiectivul de investiții ,,EXTINDEREA SURSEI DE APĂ ȘI MODERNIZAREA BRANȘAMENTELOR ÎN COMUNA CORONINI, JUD. CARAȘ-SEVERIN”",
+"short": "HCL Coronini nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/264112",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

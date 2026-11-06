@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--armenis-54-2022",
+"path": "local/caras-severin/armenis/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 54/2022 privind modificarea si completarea HCL Armenis nr.41 din 05.07.2022 privind valorificarea cantitatii de 1187,06 mc masa lemnoasa din fondul forestier al comunei Armenis,prin vanzarea catre populatie",
+"short": "HCL Armeniș nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/83565",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--armenis-55-2022",
 "path": "local/caras-severin/armenis/2022/55",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Armeniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-57-2022",
+"path": "local/caras-severin/armenis/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 57/2022 privind desemnarea reprezentantului CL Armenis in Consiliul de Administratie al Scolii Gimnaziale Armenis",
+"short": "HCL Armeniș nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/83568",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +223,51 @@
 }
 },
 {
+"slug": "hcl-caras-severin--armenis-62-2022",
+"path": "local/caras-severin/armenis/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 62/2022 privind modificarea actului constitutiv al SC AQUAPREST ARMENIS SRL prin schimbarea obiectului principal de activitate,respectiv din cod CAEN 3811-colectare deseuri nepericuloase,in cod CAEN 8130- activitati de intretinere peisagistica si desemnarea administratorului SC AQUAPREST ARMENIS SRL pentru semnare acte modificare act constitutiv",
+"short": "HCL Armeniș nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/99706",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-63-2022",
+"path": "local/caras-severin/armenis/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 63/2022",
+"short": "HCL Armeniș nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/99707",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--armenis-64-2022",
 "path": "local/caras-severin/armenis/2022/64",
 "kind": "local",
@@ -198,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Armeniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-65-2022",
+"path": "local/caras-severin/armenis/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 65/2022 privind aprobarea modelului de contract de vanzare -cumparare a lemnului de foc si desemnarea responsabilului cu vanzarea lemnului de foc si care sa semneze aceste contracte din partea UAT Armenis",
+"short": "HCL Armeniș nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/99709",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +356,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--armenis-68-2022",
+"path": "local/caras-severin/armenis/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 68/2022",
+"short": "HCL Armeniș nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/99931",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--armenis-69-2022",
 "path": "local/caras-severin/armenis/2022/69",
 "kind": "local",
@@ -264,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Armeniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-70-2022",
+"path": "local/caras-severin/armenis/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 70/2022 privind decontarea contravalorii cheltuililor de deplasare pentru transportul intre localitatea in care functionarii publici si personalul contractual din cadrul Primariei Armenis isi au domiciliul si localitatea unde se afla locul de munca al acestora,respectiv comuna Armenis,sat Armenis,judetul Caras-Severin",
+"short": "HCL Armeniș nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/99933",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

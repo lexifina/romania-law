@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-19-2026",
+"path": "local/calarasi/ulmu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 19/2026 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru lunile februarie si martie 2026",
+"short": "HCL Ulmu nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275068",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-20-2026",
 "path": "local/calarasi/ulmu/2026/20",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-21-2026",
+"path": "local/calarasi/ulmu/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 21/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Ulmu nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/277402",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +179,94 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-25-2026",
+"path": "local/calarasi/ulmu/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 25/2026 privind rectificarea bugetului local pe anul 2026",
+"short": "HCL Ulmu nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275074",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-26-2026",
+"path": "local/calarasi/ulmu/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 26/2026 privind darea in administrare gratuita Scolii Gimnaziale Nr.1 Ulmu, de pe raza comunei Ulmu a unor bunuri apartinand unitatii administrativ-teritoriale",
+"short": "HCL Ulmu nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275089",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-27-2026",
+"path": "local/calarasi/ulmu/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 27/2026 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru lunile aprilie si mai 2026",
+"short": "HCL Ulmu nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/282646",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-28-2026",
+"path": "local/calarasi/ulmu/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 28/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmu pentru o perioadă de trei luni (august-octombrie 2026)",
+"short": "HCL Ulmu nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/282647",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-29-2026",
 "path": "local/calarasi/ulmu/2026/29",
 "kind": "local",
@@ -198,6 +330,72 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-32-2026",
+"path": "local/calarasi/ulmu/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 32/2026 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce își desfășoară activitatea în cadrul Școlii Gimnaziale nr. 1 Ulmu pentru lunile unie, iulie și august 2026",
+"short": "HCL Ulmu nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/291296",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-33-2026",
+"path": "local/calarasi/ulmu/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 33/2026 privind desemnarea reprezentantului Consiliului Local al comunei Ulmu ca membru în comisia de evaluare a probei de interviu la concursul pentru ocuparea funcției de director la Școala gimnazială nr. 1 Ulmu",
+"short": "HCL Ulmu nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/291312",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-34-2026",
+"path": "local/calarasi/ulmu/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 34/2026 privind rectificarea bugetului local pe anul 2026",
+"short": "HCL Ulmu nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/291313",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

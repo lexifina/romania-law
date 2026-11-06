@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-60-2022",
+   "path": "local/caras-severin/lupac/2022/60",
+   "short": "HCL Lupac nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 60/2022 privind aprobarea închirierii fără licitație publică unui spaţiu format din 1 încăperi în suprafaţă de 15 mp situat în incinta corpului 2 al Primăriei comunei Lupac în vederea desfășurării unor activități specifice către Asociația Județeană de Fotbal Caraș-Severin",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/80742",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/80742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-61-2022",
    "path": "local/caras-severin/lupac/2022/61",
    "short": "HCL Lupac nr. 61/2022",
@@ -223,6 +238,21 @@
      "from": "2023-02-14",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/90182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-74-2022",
+   "path": "local/caras-severin/lupac/2022/74",
+   "short": "HCL Lupac nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 74/2022",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/90183",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/90183",
      "sha256": null
     }
    ]

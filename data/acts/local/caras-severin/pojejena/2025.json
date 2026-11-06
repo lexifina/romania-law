@@ -3,6 +3,29 @@
 "shard": "local/caras-severin/pojejena/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--pojejena-60-2025",
+"path": "local/caras-severin/pojejena/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 60/2025",
+"short": "HCL Pojejena nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/229451",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--pojejena-61-2025",
 "path": "local/caras-severin/pojejena/2025/61",
 "kind": "local",
@@ -22,6 +45,50 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-62-2025",
+"path": "local/caras-severin/pojejena/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 62/2025 privind desemnarea unui consilier local care sa faca parte din Consiliul de administratie al Scolii gimnaziale ,,ATANASIE COJOCARU” Pojejena",
+"short": "HCL Pojejena nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/229467",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-63-2025",
+"path": "local/caras-severin/pojejena/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 63/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Pojejena pe perioada de 3 luni ( OCT. 2025 – DEC. 2025)",
+"short": "HCL Pojejena nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/246950",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -66,6 +133,29 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-66-2025",
+"path": "local/caras-severin/pojejena/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 66/2025",
+"short": "HCL Pojejena nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/246953",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -154,6 +244,28 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-71-2025",
+"path": "local/caras-severin/pojejena/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 71/2025 privind aprobarea premierii celei mai frumoase case impodobita in fiecare localitate a com. Pojejena",
+"short": "HCL Pojejena nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/246963",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-78-2025",
+"path": "local/caras-severin/pojejena/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 78/2025 privind validarea Dispozitiei nr.205/16.12.2025 privind rectificarea bugetului local pe trimestrul IV,anul 2025",
+"short": "HCL Pojejena nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/246985",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

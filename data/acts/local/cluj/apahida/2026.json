@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/cluj/apahida/2026",
+"acts": [
+{
+"slug": "hcl-cluj--apahida-11-2026",
+"path": "local/cluj/apahida/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 11/2026",
+"short": "HCL Apahida nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://primaria-apahida.ro/wp-content/uploads/2026/07/HCJSU-nr.-11-din-01.07.2026.pdf",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-188-2026",
+"path": "local/cluj/apahida/2026/188",
+"kind": "local",
+"year": "2026",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 188/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 78453 Apahida, situat în localitatea Apahida, județul Cluj, aparținând domeniului privat al comunei Apahida",
+"short": "HCL Apahida nr. 188/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-189-2026",
+"path": "local/cluj/apahida/2026/189",
+"kind": "local",
+"year": "2026",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 189/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 77153 Apahida, situat în localitatea Pata, comuna Apahida, județul Cluj, aparținând domeniului privat al comunei Apahida",
+"short": "HCL Apahida nr. 189/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-190-2026",
+"path": "local/cluj/apahida/2026/190",
+"kind": "local",
+"year": "2026",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 190/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 77988 Apahida, situat în localitatea Apahida, județul Cluj, zona Molitură, aparținând domeniului privat al comunei Apahida, în 27 de parcele",
+"short": "HCL Apahida nr. 190/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-191-2026",
+"path": "local/cluj/apahida/2026/191",
+"kind": "local",
+"year": "2026",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 191/2026",
+"short": "HCL Apahida nr. 191/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--apahida-192-2026",
+"path": "local/cluj/apahida/2026/192",
+"kind": "local",
+"year": "2026",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 192/2026 privind aprobarea înscrierii în cartea funciară a unor terenuri (tronsoane de drumuri pentru exploatație agricolă) din localitatea Apahida, comuna Apahida, județul Cluj, aflate în domeniul public al comunei Apahida",
+"short": "HCL Apahida nr. 192/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-193-2026",
+"path": "local/cluj/apahida/2026/193",
+"kind": "local",
+"year": "2026",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 193/2026 privind modificarea Contractului de delegare a gestiunii serviciului de transport public local de călători nr. 42/29.12.2018, încheiat între Asociația Metropolitană de Transport Public Cluj (A.M.T.P.C.) și Compania de Transport Public Cluj-Napoca SA, potrivit HCL Gilău nr. 158/18.08.2026",
+"short": "HCL Apahida nr. 193/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-194-2026",
+"path": "local/cluj/apahida/2026/194",
+"kind": "local",
+"year": "2026",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 194/2026 privind aprobarea repartizării sumei de 597.005 lei, reprezentând sprijin financiar nerambursabil de la bugetul local al comunei Apahida pe anul 2026, unităților de cult aparținând cultelor religioase recunoscute din România, în baza Regulamentului aprobat prin Hotărârea Consiliului Local nr. 99/23.06.2026",
+"short": "HCL Apahida nr. 194/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-195-2026",
+"path": "local/cluj/apahida/2026/195",
+"kind": "local",
+"year": "2026",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 195/2026 privind desemnarea unui reprezentant al Consiliului Local al Comunei Apahida și a unui membru supleant în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, potrivit OMEC nr. 4.155/2026 si OMEC 4622/2026",
+"short": "HCL Apahida nr. 195/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-196-2026",
+"path": "local/cluj/apahida/2026/196",
+"kind": "local",
+"year": "2026",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 196/2026 privind aprobarea documentației tehnice „Defrișare și decolmatare curs de apă Feiurdeni în localitatea Câmpenești, UAT Apahida, județ Cluj”, a încheierii Protocolului de colaborare dintre U.A.T",
+"short": "HCL Apahida nr. 196/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--apahida-197-2026",
+"path": "local/cluj/apahida/2026/197",
+"kind": "local",
+"year": "2026",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apahida nr. 197/2026 privind aprobarea dezmembrării imobilului-teren înscris în Cartea Funciară nr. 78391 Apahida, situat în localitatea Apahida, județul Cluj, aparținând domeniului privat al comunei Apahida",
+"short": "HCL Apahida nr. 197/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://www.primaria-apahida.ro/hotarari-de-consiliu/",
+"council": "cluj/apahida",
+"council_name": "Consiliul Local al Comunei Apahida",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

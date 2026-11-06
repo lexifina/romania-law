@@ -3,6 +3,111 @@
  "shard": "local/cluj/calarasi/2026",
  "acts": [
   {
+   "slug": "hcl-cluj--calarasi-29-2026",
+   "path": "local/cluj/calarasi/2026/29",
+   "short": "HCL Călărași nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 29/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/280218",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/280218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-30-2026",
+   "path": "local/cluj/calarasi/2026/30",
+   "short": "HCL Călărași nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 30/2026 privind aprobarea execuției de venituri și cheltuieli la trim.II, an 2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/280219",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/280219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-31-2026",
+   "path": "local/cluj/calarasi/2026/31",
+   "short": "HCL Călărași nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 31/2026 privind aprobarea contractului de finanțare nr. 7965/07.07.2026 încheiat cu Administrația Fondului de Mediu",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/280220",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/280220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-32-2026",
+   "path": "local/cluj/calarasi/2026/32",
+   "short": "HCL Călărași nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 32/2026 privind aprobarea proiectului și a cheltuielilor la proiectul \"Investiții în infrastructura de sănătate în comuna Călărași, județul Cluj\"",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/280221",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/280221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-33-2026",
+   "path": "local/cluj/calarasi/2026/33",
+   "short": "HCL Călărași nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 33/2026 privind rectificarea bugetului local de venituri și cheltuieli, an 2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/280222",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/280222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-34-2026",
+   "path": "local/cluj/calarasi/2026/34",
+   "short": "HCL Călărași nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 34/2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/280223",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/280223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-35-2026",
+   "path": "local/cluj/calarasi/2026/35",
+   "short": "HCL Călărași nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 35/2026 privind nominalizarea pe beneficiari a sumei de 15.000 lei pentru cultele religioase și a sumei de 10.000 lei pentru asociații sportive, finanțate de la bugetul local al comunei Călărași",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/281105",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/281105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--calarasi-36-2026",
    "path": "local/cluj/calarasi/2026/36",
    "short": "HCL Călărași nr. 36/2026",
@@ -13,6 +118,171 @@
      "from": "2026-09-16",
      "units": 1,
      "source_url": "https://emol.ro/calarasi-cj/registru-hcl/284865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-37-2026",
+   "path": "local/cluj/calarasi/2026/37",
+   "short": "HCL Călărași nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 37/2026 privind rectificarea bugetului local de venituri și cheltuieli, an 2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/284866",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/284866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-38-2026",
+   "path": "local/cluj/calarasi/2026/38",
+   "short": "HCL Călărași nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 38/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/288042",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/288042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-39-2026",
+   "path": "local/cluj/calarasi/2026/39",
+   "short": "HCL Călărași nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 39/2026 privind alegerea reprezentantului Consiliului Local al Comunei Călărași in componența Consiliului de Administrație al Școlii Gimnaziale Călărași, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/288043",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/288043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-40-2026",
+   "path": "local/cluj/calarasi/2026/40",
+   "short": "HCL Călărași nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 40/2026 privind rectificarea bugetului local de venituri și cheltuieli, an 2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/288044",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/288044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-41-2026",
+   "path": "local/cluj/calarasi/2026/41",
+   "short": "HCL Călărași nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 41/2026 privind aprobarea Acordului de cooperare încheiat pentru realizarea proiectului ”CLUJ SMART COUNTY – Ecosistem digital integrat”",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/288045",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/288045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-42-2026",
+   "path": "local/cluj/calarasi/2026/42",
+   "short": "HCL Călărași nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 42/2026 privind aprobarea Cererii de suplimentare cu Nota Justificativă și actualizarea indicatorilor tehnico-economici (Anexa 22 c) și a devizului general actualizat, în urma aplicării clauzelor de ajustare a prețurilor pentru obiectivul de investiții \" Modernizare drumuri de interes local în comuna Călărași, sat Călărași-Gară, județul Cluj\" precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/288046",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/288046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-43-2026",
+   "path": "local/cluj/calarasi/2026/43",
+   "short": "HCL Călărași nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 43/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/295807",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/295807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-44-2026",
+   "path": "local/cluj/calarasi/2026/44",
+   "short": "HCL Călărași nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 44/2026 privind rectificarea bugetului local de venituri și cheltuieli, an 2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/295808",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/295808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-45-2026",
+   "path": "local/cluj/calarasi/2026/45",
+   "short": "HCL Călărași nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 45/2026 privind aprobarea execuției bugetului de venituri și cheltuieli la trim.III, an 2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/295809",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/295809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-46-2026",
+   "path": "local/cluj/calarasi/2026/46",
+   "short": "HCL Călărași nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 46/2026",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/295810",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/295810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-47-2026",
+   "path": "local/cluj/calarasi/2026/47",
+   "short": "HCL Călărași nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 47/2026 privind schimbarea sediului social al societății Transport Urban Public SRL",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/295811",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/295811",
      "sha256": null
     }
    ]

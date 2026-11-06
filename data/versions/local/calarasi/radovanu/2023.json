@@ -3,6 +3,171 @@
  "shard": "local/calarasi/radovanu/2023",
  "acts": [
   {
+   "slug": "hcl-calarasi--radovanu-100-2023",
+   "path": "local/calarasi/radovanu/2023/100",
+   "short": "HCL Radovanu nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 100/2023 privind validarea dispoziției nr. 277 din 15 decembrie 2023 emisă de primarul comunei Radovanu, privind cea de-a doua rectificare a bugetului local pe luna decembrie anul 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141077",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-101-2023",
+   "path": "local/calarasi/radovanu/2023/101",
+   "short": "HCL Radovanu nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 101/2023 privind aprobarea unui număr de 25 de posturi de asistenți personali ai persoanelor cu handicap grav pentru anul 2024 la Comuna Radovanu, Județul Călărași",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141078",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-102-2023",
+   "path": "local/calarasi/radovanu/2023/102",
+   "short": "HCL Radovanu nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 102/2023 privind validarea dispoziției nr. 282 din 20 decembrie 2023 emisă de primarul comunei Radovanu, privind a patra rectificare a bugetului local în luna decembrie 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141079",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-83-2023",
+   "path": "local/calarasi/radovanu/2023/83",
+   "short": "HCL Radovanu nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 83/2023 privind aprobarea rectificării bugetului „SERVICIULUI APĂ ȘI CANALIZARE RADOVANU”, ÎN LUNA NOIEMBRIE 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140025",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-84-2023",
+   "path": "local/calarasi/radovanu/2023/84",
+   "short": "HCL Radovanu nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 84/2023 privind validarea dispoziției nr. 237 din 31 octombrie 2023 emisă de primarul comunei Radovanu, privind modificarea Dispoziției 198 din 12 septembrie 2023 emisă de primarul comunei Radovanu, privind rectificare a bugetului local pe anul 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140026",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-85-2023",
+   "path": "local/calarasi/radovanu/2023/85",
+   "short": "HCL Radovanu nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 85/2023 privind modificarea și completarea HCL nr. 3 din 28.01.2021 privind completarea HCL nr. 57 din 16.11.2020 privind constituirea Comisiilor de specialitate pe domenii de activitate",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140027",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-86-2023",
+   "path": "local/calarasi/radovanu/2023/86",
+   "short": "HCL Radovanu nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 86/2023 privind aprobarea participării comunei Radovanu, judțul Călărași la programul ”DR-28 Crearea/modernizarea infrastructurii rutiere de bază din spațiul rural”-finanțat prin AFIR",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140028",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-87-2023",
+   "path": "local/calarasi/radovanu/2023/87",
+   "short": "HCL Radovanu nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 87/2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140029",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-88-2023",
+   "path": "local/calarasi/radovanu/2023/88",
+   "short": "HCL Radovanu nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 88/2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140030",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-89-2023",
+   "path": "local/calarasi/radovanu/2023/89",
+   "short": "HCL Radovanu nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 89/2023 privind aprobarea celei de a doua rectificări a bugetului SERVICIULUI APĂ ȘI CANALIZARE RADOVANU”, în luna noiembrie 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140031",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-90-2023",
+   "path": "local/calarasi/radovanu/2023/90",
+   "short": "HCL Radovanu nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 90/2023 privind aprobarea celei de a doua rectificări a bugetului local al comunei Radovanu, județul Călărași din luna noiembrie 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/140032",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/140032",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--radovanu-91-2023",
    "path": "local/calarasi/radovanu/2023/91",
    "short": "HCL Radovanu nr. 91/2023",
@@ -28,6 +193,111 @@
      "from": "2024-02-02",
      "units": 1,
      "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-93-2023",
+   "path": "local/calarasi/radovanu/2023/93",
+   "short": "HCL Radovanu nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 93/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, indexate cu rata inflației, pentru anul fiscal 2024",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141070",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-94-2023",
+   "path": "local/calarasi/radovanu/2023/94",
+   "short": "HCL Radovanu nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 94/2023 privind respingerea creșterii tarifului pentru activitatea de sortare și pentru activitatea de compostare aferentă stației de sortare din cadrul CMID Ciocănești, județul Călărași",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141071",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-95-2023",
+   "path": "local/calarasi/radovanu/2023/95",
+   "short": "HCL Radovanu nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 95/2023 privind aprobarea rectificării bugetului SERVICIULUI APĂ ȘI CANALIZARE RADOVANU, în luna decembrie 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141072",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-96-2023",
+   "path": "local/calarasi/radovanu/2023/96",
+   "short": "HCL Radovanu nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 96/2023 privind aprobarea celei de a treia rectificări a bugetului local al comunei Radovanu, județul Călărași din luna decembrie 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141073",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-97-2023",
+   "path": "local/calarasi/radovanu/2023/97",
+   "short": "HCL Radovanu nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 97/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Radovanu începând cu 01 noiembrie 2023 precum și aprobarea statului de funcții și a organigramei în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141074",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-98-2023",
+   "path": "local/calarasi/radovanu/2023/98",
+   "short": "HCL Radovanu nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 98/2023 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza UATC RADOVANU pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141075",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-99-2023",
+   "path": "local/calarasi/radovanu/2023/99",
+   "short": "HCL Radovanu nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 99/2023 privind validarea dispoziției nr. 269 din 11 decembrie 2023 emisă de primarul comunei Radovanu, privind rectificare a bugetului local în luna decembrie anul 2023",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141076",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141076",
      "sha256": null
     }
    ]

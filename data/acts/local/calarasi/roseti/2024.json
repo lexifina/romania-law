@@ -3,6 +3,116 @@
 "shard": "local/calarasi/roseti/2024",
 "acts": [
 {
+"slug": "hcl-calarasi--roseti-93-2024",
+"path": "local/calarasi/roseti/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 93/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice din cadrul unităților de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/182962",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-94-2024",
+"path": "local/calarasi/roseti/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 94/2024 privind aprobarea organizării reţelei şcolare a unităților de învățământ preuniversitar de stat de pe raza comunei Roseți, județul Călărași în anul școlar 2025-2026",
+"short": "HCL Roseți nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/182963",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-95-2024",
+"path": "local/calarasi/roseti/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 95/2024 privind aprobare măsuri referitoare la structura organizatorică de la nivelul comunei Roseți pentru aparatul de specialitate al primarului comunei Roseți, județul Călărași, cu încadrarea în numărul maxim de posturi pentru anul 2024",
+"short": "HCL Roseți nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/182964",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-96-2024",
+"path": "local/calarasi/roseti/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 96/2024 privind efectuarea de virări de credite bugetare de la un capitol la altul precum și rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+"short": "HCL Roseți nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/182965",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-97-2024",
+"path": "local/calarasi/roseti/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 97/2024 privind efectuarea de virări de credite bugetare de la un capitol la altul precum și rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+"short": "HCL Roseți nr. 97/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/182967",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-98-2024",
 "path": "local/calarasi/roseti/2024/98",
 "kind": "local",
@@ -23,6 +133,96 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-99-2024",
+"path": "local/calarasi/roseti/2024/99",
+"kind": "local",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 99/2024",
+"short": "HCL Roseți nr. 99/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186682",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-100-2024",
+"path": "local/calarasi/roseti/2024/100",
+"kind": "local",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 100/2024",
+"short": "HCL Roseți nr. 100/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186683",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-101-2024",
+"path": "local/calarasi/roseti/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 101/2024 privind atribuirea în folosinţă gratuită a unei suprafeţe de teren din intravilanul comunei Roseţi, conform Legii 15/2003 pentru construire locuinţă proprietate personală, numiților Carp George-Marian și Carp Zehra",
+"short": "HCL Roseți nr. 101/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186684",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-102-2024",
+"path": "local/calarasi/roseti/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 102/2024 privind indexarea cu rata inflației a impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Roseți nr. 102/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186685",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -48,6 +248,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-104-2024",
+"path": "local/calarasi/roseti/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 104/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice din cadrul unităților de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 104/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186687",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-105-2024",
 "path": "local/calarasi/roseti/2024/105",
 "kind": "local",
@@ -67,6 +289,163 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-106-2024",
+"path": "local/calarasi/roseti/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 106/2024 privind aprobarea metodologiei, cuantumul maxim si situatiile deosebite pentru care se pot acorda ajutoare de urgență din bugetul local al comunei Roseți în baza Legii 196/2016 privind venitul minim de incluziune",
+"short": "HCL Roseți nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186689",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-107-2024",
+"path": "local/calarasi/roseti/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 107/2024",
+"short": "HCL Roseți nr. 107/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186690",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-108-2024",
+"path": "local/calarasi/roseti/2024/108",
+"kind": "local",
+"year": "2024",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 108/2024",
+"short": "HCL Roseți nr. 108/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186691",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-109-2024",
+"path": "local/calarasi/roseti/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 109/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+"short": "HCL Roseți nr. 109/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186692",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-110-2024",
+"path": "local/calarasi/roseti/2024/110",
+"kind": "local",
+"year": "2024",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 110/2024 privind alegerea preşedintelui de şedinţă precum și a potențialului președinte de ședință pentru perioada octombrie-decembrie 2024",
+"short": "HCL Roseți nr. 110/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186693",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-111-2024",
+"path": "local/calarasi/roseti/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 111/2024",
+"short": "HCL Roseți nr. 111/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186694",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-112-2024",
+"path": "local/calarasi/roseti/2024/112",
+"kind": "local",
+"year": "2024",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 112/2024 privind preluarea contractului nr. 5261/18.12.2008 de concesiune a suprafeței de 58,8 m m.p. clădire și 404 m.p teren, proprietatea publică a comunei Roseți, județul Călărași în vederea desfășurării de activități medicale",
+"short": "HCL Roseți nr. 112/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186695",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

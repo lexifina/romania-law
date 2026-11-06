@@ -3,6 +3,28 @@
 "shard": "local/cluj/calarasi/2023",
 "acts": [
 {
+"slug": "hcl-cluj--calarasi-41-2023",
+"path": "local/cluj/calarasi/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 41/2023 privind numirea unui reprezentant al consiliului local in componența consiliului de administrație al Școlii Gimnaziale Călărași",
+"short": "HCL Călărași nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-24",
+"latest": "2023-08-24",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/116920",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--calarasi-42-2023",
 "path": "local/cluj/calarasi/2023/42",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-cluj--calarasi-44-2023",
+"path": "local/cluj/calarasi/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 44/2023 privind rectificarea bugetului de venituri și cheltuieli, actualizare listă de investiții și plan anual de achiziții publice, an 2023",
+"short": "HCL Călărași nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/121287",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--calarasi-45-2023",
 "path": "local/cluj/calarasi/2023/45",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Călărași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-46-2023",
+"path": "local/cluj/calarasi/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 46/2023 privind acordul Consiliului Local Călărași, județul Cluj, in calitate de administrator al domeniului public și privat al comunei Călărași, pentru lucrări in vederea realizării obiectivului \"Elaborare documentație pentru menținerea pe amplasament a lucrărilor executate fără autorizație de construire-anexă gospodărească a exploatației agricole, imprejmuire teren, branșamente și racorduri la rețelele de utilități\"",
+"short": "HCL Călărași nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/121289",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +157,182 @@
 }
 },
 {
+"slug": "hcl-cluj--calarasi-48-2023",
+"path": "local/cluj/calarasi/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 48/2023 privind alegerea președintelui de ședință",
+"short": "HCL Călărași nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/122242",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-49-2023",
+"path": "local/cluj/calarasi/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 49/2023 privind rectificarea bugetului de venituri și cheltuieli, actualizare listă de investiții și plan anual de achiziții publice, an 2023",
+"short": "HCL Călărași nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/122243",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-50-2023",
+"path": "local/cluj/calarasi/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 50/2023 privind rectificarea bugetului de venituri și cheltuieli, actualizare listă de investiții și plan anual de achiziții publice, an 2023",
+"short": "HCL Călărași nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/125246",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-51-2023",
+"path": "local/cluj/calarasi/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 51/2023 privind aprobarea indicatorilor de performanță ai serviciului de alimentare cu apă și de canalizare pentru aria de operare Turda-Câmpia Turzii și comunele arondate",
+"short": "HCL Călărași nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/125247",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-52-2023",
+"path": "local/cluj/calarasi/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 52/2023 privind aprobarea execuției de venituri și cheltuieli la trim.III, an 2023",
+"short": "HCL Călărași nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/126482",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-53-2023",
+"path": "local/cluj/calarasi/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 53/2023 privind aprobare organigramă și stat de funcții comuna Călărași ca urmare a reducerii cu 10% a posturilor, conform Legii nr. 296/2023",
+"short": "HCL Călărași nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/128917",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-54-2023",
+"path": "local/cluj/calarasi/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 54/2023 privind rectificarea bugetului de venituri și cheltuieli an 2023",
+"short": "HCL Călărași nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/128918",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-55-2023",
+"path": "local/cluj/calarasi/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 55/2023 privind stabilirea salariului de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul propriu al Primarului comunei Călărași, judeţul Cluj, precum şi stabilirea nivelului indemnizației de ședință a aleșilor locali, incepând cu 01.01.2024",
+"short": "HCL Călărași nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/128919",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--calarasi-56-2023",
 "path": "local/cluj/calarasi/2023/56",
 "kind": "local",
@@ -110,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Călărași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-57-2023",
+"path": "local/cluj/calarasi/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 57/2023 privind alegerea președintelui de ședință",
+"short": "HCL Călărași nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/133401",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

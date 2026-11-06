@@ -3,6 +3,29 @@
 "shard": "local/caras-severin/berzasca/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--berzasca-41-2025",
+"path": "local/caras-severin/berzasca/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 41/2025",
+"short": "HCL Berzasca nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/230062",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-42-2025",
 "path": "local/caras-severin/berzasca/2025/42",
 "kind": "local",
@@ -22,6 +45,28 @@
 "council_name": "Consiliul Local al Comunei Berzasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-43-2025",
+"path": "local/caras-severin/berzasca/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 43/2025 privind însușirea dispoziției primarului comunei Berzasca nr. 136 din 03.09.2025 privind rectificarea de buget local pe trimestrul III, anul 2025, de către Consiliul Local al comunei Berzasca",
+"short": "HCL Berzasca nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/230066",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +133,73 @@
 "council_name": "Consiliul Local al Comunei Berzasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-47-2025",
+"path": "local/caras-severin/berzasca/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 47/2025 privind desemnarea unui consilier local din cadrul Consiliului Local al comunei Berzasca, pentru a face parte din Consiliul de Administrație al Școlii Gimnaziale Berzasca, pentru anul școlar 2025-2026",
+"short": "HCL Berzasca nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-16",
+"latest": "2025-10-16",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/230080",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-48-2025",
+"path": "local/caras-severin/berzasca/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 48/2025",
+"short": "HCL Berzasca nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-16",
+"latest": "2025-10-16",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/230081",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-49-2025",
+"path": "local/caras-severin/berzasca/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 49/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna octombrie, anul 2025",
+"short": "HCL Berzasca nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/247488",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

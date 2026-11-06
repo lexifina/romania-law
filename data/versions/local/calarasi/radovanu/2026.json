@@ -3,6 +3,66 @@
  "shard": "local/calarasi/radovanu/2026",
  "acts": [
   {
+   "slug": "hcl-calarasi--radovanu-53-2026",
+   "path": "local/calarasi/radovanu/2026/53",
+   "short": "HCL Radovanu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 53/2026 privind cea de a doua rectificare a bugetului local pe luna Mai 2026",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/275035",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/275035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-54-2026",
+   "path": "local/calarasi/radovanu/2026/54",
+   "short": "HCL Radovanu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 54/2026 privind aprobarea acordării unui mandat special reprezentantului de drept al Comunei Radovanu în Adunarea Generală a Asociaților din cadrul Asociației de Dezvoltare Intercomunitară ''ECOMANAGEMENT SALUBRIS'' Călărași, în vederea exercitării votului privind respingerea modificării tarifelor de colectare și transport aferente contractului de delegare nr. 1 40/16.02.2026",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283917",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-55-2026",
+   "path": "local/calarasi/radovanu/2026/55",
+   "short": "HCL Radovanu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 55/2026 privind validarea dispoziției nr. 38 din 10 Iunie 2026 emisă de primarul comunei Radovanu, privind rectificarea bugetului local pe luna Iunie 2026",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283918",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-56-2026",
+   "path": "local/calarasi/radovanu/2026/56",
+   "short": "HCL Radovanu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 56/2026",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283919",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283919",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--radovanu-57-2026",
    "path": "local/calarasi/radovanu/2026/57",
    "short": "HCL Radovanu nr. 57/2026",
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--radovanu-61-2026",
+   "path": "local/calarasi/radovanu/2026/61",
+   "short": "HCL Radovanu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 61/2026 privind validarea dispoziției nr. 158 din 6 Iulie 2026 emisă de primarul comunei Radovanu, privind rectificarea bugetului local pe luna Iulie 2026",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283924",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283924",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--radovanu-62-2026",
    "path": "local/calarasi/radovanu/2026/62",
    "short": "HCL Radovanu nr. 62/2026",
@@ -88,6 +163,21 @@
      "from": "2026-08-20",
      "units": 1,
      "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-64-2026",
+   "path": "local/calarasi/radovanu/2026/64",
+   "short": "HCL Radovanu nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 64/2026 privind însușirea și aprobarea documentației cadastrale de dezmembrare a imobilului - teren arabil înscris în CF nr. 32225 Radovanu cu nr. cadastral 32225",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283928",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283928",
      "sha256": null
     }
    ]
@@ -148,6 +238,51 @@
      "from": "2026-08-20",
      "units": 1,
      "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-69-2026",
+   "path": "local/calarasi/radovanu/2026/69",
+   "short": "HCL Radovanu nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 69/2026",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283933",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-70-2026",
+   "path": "local/calarasi/radovanu/2026/70",
+   "short": "HCL Radovanu nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 70/2026 privind validarea dispoziției nr. 170 din 22 Iulie 2026 emisă de primarul comunei Radovanu, privind a doua rectificare a bugetului local pe luna Iulie 2026",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283934",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-71-2026",
+   "path": "local/calarasi/radovanu/2026/71",
+   "short": "HCL Radovanu nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 71/2026 privind alegerea președintelui de ședință al Consiliului Local Radovanu pe o perioadă de trei luni (August 2026-Octombrie 2026)",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/283935",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/283935",
      "sha256": null
     }
    ]

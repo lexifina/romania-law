@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/buchin/2021",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--buchin-141-2021",
+   "path": "local/caras-severin/buchin/2021/141",
+   "short": "HCL Buchin nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Buchin nr. 141/2021",
+   "url": "https://primariabuchin.ro/wp-content/uploads/2021/10/HCJSU-nr.-141-din-24.10.2021-fara-semnaturi.pdf",
+   "versions": [
+    {
+     "from": "2021-10-24",
+     "units": 1,
+     "source_url": "https://primariabuchin.ro/wp-content/uploads/2021/10/HCJSU-nr.-141-din-24.10.2021-fara-semnaturi.pdf",
+     "sha256": "7663897234317854bf3fa877c6118d11f3a66333f60c4dda0f4de84ad27966c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--buchin-91-2021",
+   "path": "local/caras-severin/buchin/2021/91",
+   "short": "HCL Buchin nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Buchin nr. 91/2021",
+   "url": "https://primariabuchin.ro/wp-content/uploads/2021/08/HCJSU-nr.91-din-11.08.2021-fara-semnaturi.pdf",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://primariabuchin.ro/wp-content/uploads/2021/08/HCJSU-nr.91-din-11.08.2021-fara-semnaturi.pdf",
+     "sha256": "bb49fe71852e672bf2c12554b995480abd63efd25c779ff93eae97b76f3c3ac0"
+    }
+   ]
+  }
+ ]
+}

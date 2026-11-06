@@ -3,6 +3,96 @@
  "shard": "local/caras-severin/maureni/2021",
  "acts": [
   {
+   "slug": "hcl-caras-severin--maureni-120-2021",
+   "path": "local/caras-severin/maureni/2021/120",
+   "short": "HCL Măureni nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 120/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47413",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-121-2021",
+   "path": "local/caras-severin/maureni/2021/121",
+   "short": "HCL Măureni nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 121/2021 privind aprobarea încheierii unui act adiţional la contractul de închiriere pentru teren extravilan - BAN ARON",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47414",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-122-2021",
+   "path": "local/caras-severin/maureni/2021/122",
+   "short": "HCL Măureni nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 122/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47415",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-123-2021",
+   "path": "local/caras-severin/maureni/2021/123",
+   "short": "HCL Măureni nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 123/2021 privind aprobarea încheierii unui act adiţional la contractul de închiriere pentru teren extravilan - SUFANA ANCUTA",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47416",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-124-2021",
+   "path": "local/caras-severin/maureni/2021/124",
+   "short": "HCL Măureni nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 124/2021 privind alocarea sumei de 10.000 lei din veniturile proprii ale bugetului local al comunei Măureni, pentru cumpărarea de pachete cadou cu ocazia sărbătorilor Crăciunului",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47417",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-125-2021",
+   "path": "local/caras-severin/maureni/2021/125",
+   "short": "HCL Măureni nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 125/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47418",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47418",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--maureni-126-2021",
    "path": "local/caras-severin/maureni/2021/126",
    "short": "HCL Măureni nr. 126/2021",
@@ -13,6 +103,171 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/maureni-cs/registru-hcl/47419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-127-2021",
+   "path": "local/caras-severin/maureni/2021/127",
+   "short": "HCL Măureni nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 127/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47420",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-128-2021",
+   "path": "local/caras-severin/maureni/2021/128",
+   "short": "HCL Măureni nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 128/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47421",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-129-2021",
+   "path": "local/caras-severin/maureni/2021/129",
+   "short": "HCL Măureni nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 129/2021 privind aprobarea prelungirii unui contract de închiriere – Buraga Rodica",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47422",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-130-2021",
+   "path": "local/caras-severin/maureni/2021/130",
+   "short": "HCL Măureni nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 130/2021 privind aprobarea prelungirii unui contract de închiriere –Tremmel Otilia",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47423",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-131-2021",
+   "path": "local/caras-severin/maureni/2021/131",
+   "short": "HCL Măureni nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 131/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47424",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-132-2021",
+   "path": "local/caras-severin/maureni/2021/132",
+   "short": "HCL Măureni nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 132/2021 privind aprobarea încheierii unui act adiţional la contractul de închiriere pentru teren extravilan- SC FERME D AGRO",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47425",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-133-2021",
+   "path": "local/caras-severin/maureni/2021/133",
+   "short": "HCL Măureni nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 133/2021 privind aprobarea încheierii unui act adiţional la contractul de închiriere pentru teren extravilan - SC TOPCORN INTREPRINDERE AGRICOLĂ SRL",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47426",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-134-2021",
+   "path": "local/caras-severin/maureni/2021/134",
+   "short": "HCL Măureni nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 134/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47427",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-135-2021",
+   "path": "local/caras-severin/maureni/2021/135",
+   "short": "HCL Măureni nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 135/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47428",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-136-2021",
+   "path": "local/caras-severin/maureni/2021/136",
+   "short": "HCL Măureni nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 136/2021 privind aprobarea încheierii unui act adiţional la contractul de închiriere pentru teren - SIMION ANUTA",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47429",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-137-2021",
+   "path": "local/caras-severin/maureni/2021/137",
+   "short": "HCL Măureni nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 137/2021",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/47430",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/47430",
      "sha256": null
     }
    ]

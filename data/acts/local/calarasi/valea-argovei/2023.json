@@ -3,6 +3,29 @@
 "shard": "local/calarasi/valea-argovei/2023",
 "acts": [
 {
+"slug": "hcl-calarasi--valea-argovei-64-2023",
+"path": "local/calarasi/valea-argovei/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 64/2023",
+"short": "HCL Valea Argovei nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/127914",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-65-2023",
 "path": "local/calarasi/valea-argovei/2023/65",
 "kind": "local",
@@ -201,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-74-2023",
+"path": "local/calarasi/valea-argovei/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 74/2023 privind decontarea navetei pentru cadrele didactice pentru lunile septembrie-noiembrie 2023",
+"short": "HCL Valea Argovei nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/132956",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-75-2023",
 "path": "local/calarasi/valea-argovei/2023/75",
 "kind": "local",
@@ -287,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Valea Argovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-79-2023",
+"path": "local/calarasi/valea-argovei/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 79/2023 privind aprobarea aderării Comunei Valea Argovei la teritoriul eligibil al zonei pescărești VALEA MOSTISTEI reprezentată de Asociația VALEA MOSTISTEI (FLAG VALEA MOSTISTEI)",
+"short": "HCL Valea Argovei nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/134508",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

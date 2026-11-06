@@ -355,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-105-2025",
+"path": "local/caras-severin/ciudanovita/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 105/2025 privind privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/253366",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-106-2025",
 "path": "local/caras-severin/ciudanovita/2025/106",
 "kind": "local",
@@ -396,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-108-2025",
+"path": "local/caras-severin/ciudanovita/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 108/2025 privind neasumarea, la acest moment, a desemnării zonelor de protecție a biodiversității pe teritoriul UAT Ciudanovița",
+"short": "HCL Ciudanovița nr. 108/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/253369",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

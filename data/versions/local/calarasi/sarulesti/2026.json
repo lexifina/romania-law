@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-28-2026",
+   "path": "local/calarasi/sarulesti/2026/28",
+   "short": "HCL Sărulești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 28/2026 privind aprobarea încetării, înainte de termen a Contractului de concesiune nr. 756/06.03.2015, (modificat prin actul adițional nr. 1/06.01.2020) încheiat între Primaria comunei Sărulești, județul Călărași, în calitate de concedent și Parohia Măgureni Sandulita în calitate de concesionar, având ca obiect concesionarea bunului, aparținând domeniului privat",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/285999",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/285999",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-29-2026",
    "path": "local/calarasi/sarulesti/2026/29",
    "short": "HCL Sărulești nr. 29/2026",
@@ -93,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-33-2026",
+   "path": "local/calarasi/sarulesti/2026/33",
+   "short": "HCL Sărulești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 33/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/286012",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-34-2026",
+   "path": "local/calarasi/sarulesti/2026/34",
+   "short": "HCL Sărulești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 34/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/286013",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-35-2026",
+   "path": "local/calarasi/sarulesti/2026/35",
+   "short": "HCL Sărulești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 35/2026 privind atribuirea în folosință gratuită a unui teren, în suprafață de 500 mp lot 4, situat în CV 3, P77/9 în intravilanul UAT Sărulești, sat Solacolu, județul Călărași, în domeniul privat, categoria de folosință curți construcții, cartea funciară 27789, nr, cadastral 27789 pentru construirea unei locuințe proprietate personala, în baza Legii 15/2003, domeniului CORNEA Alin-Sorin",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/286020",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286020",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-36-2026",
    "path": "local/calarasi/sarulesti/2026/36",
    "short": "HCL Sărulești nr. 36/2026",
@@ -103,6 +163,51 @@
      "from": "2026-09-01",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-37-2026",
+   "path": "local/calarasi/sarulesti/2026/37",
+   "short": "HCL Sărulești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 37/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/286026",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-38-2026",
+   "path": "local/calarasi/sarulesti/2026/38",
+   "short": "HCL Sărulești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 38/2026 privind alegerea președintelui de ședință al Consiliului Local Sărulești pentru o perioadă de trei luni (august 2026-octombrie 2026)",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/297742",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/297742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-39-2026",
+   "path": "local/calarasi/sarulesti/2026/39",
+   "short": "HCL Sărulești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 39/2026 privind utilizarea excedentului bugetar al anului 2025 în anul 2026, pentru secțiunea dezvoltare, UAT Sărulești, județul Călărași",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/297743",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/297743",
      "sha256": null
     }
    ]
@@ -133,6 +238,66 @@
      "from": "2026-11-05",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/297745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-42-2026",
+   "path": "local/calarasi/sarulesti/2026/42",
+   "short": "HCL Sărulești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 42/2026 privind aprobarea raportului de activitate, desfășurat de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/297752",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/297752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-43-2026",
+   "path": "local/calarasi/sarulesti/2026/43",
+   "short": "HCL Sărulești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 43/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul II al anului 2026 și stabilirea măsurilor pentru eficientizarea acestei activități, comuna Sărulești, județul Călărași",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/297753",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/297753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-44-2026",
+   "path": "local/calarasi/sarulesti/2026/44",
+   "short": "HCL Sărulești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 44/2026 privind aprobarea contului de execuție bugetară al trimestrului II pe anul 2026, comuna Sărulești, județul Călărași",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/297754",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/297754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-45-2026",
+   "path": "local/calarasi/sarulesti/2026/45",
+   "short": "HCL Sărulești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 45/2026 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Sărulești, ca urmare a Raportului de Control al Agenției Naționale a Funcționarilor Publici nr. 78/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/297755",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/297755",
      "sha256": null
     }
    ]

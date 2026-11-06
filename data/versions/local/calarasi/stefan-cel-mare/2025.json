@@ -3,6 +3,21 @@
  "shard": "local/calarasi/stefan-cel-mare/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-78-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/78",
+   "short": "HCL Ștefan cel Mare nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 78/2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/239428",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/239428",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-79-2025",
    "path": "local/calarasi/stefan-cel-mare/2025/79",
    "short": "HCL Ștefan cel Mare nr. 79/2025",
@@ -18,6 +33,81 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-80-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/80",
+   "short": "HCL Ștefan cel Mare nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 80/2025 privind acordarea unui mandat special reprezentantului legal al comunei Ștefan cel Mare pentru a vota, în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară Ecomanagement Salubris, proiectul de hotărâre privind aprobarea modificării tarifului de colectare și transport al deșeurilor practicate în zona 3 Călărași ca urmare a majorării tarifelor de depozitare, sortare și compostare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/239430",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/239430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-81-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/81",
+   "short": "HCL Ștefan cel Mare nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 81/2025 privind validarea Dispozițiilor primarului nr. 104 din 2 iunie 2025, 238 din 20 octombrie 2025 și 241 din 23 octombrie 2025 privind majorarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/239513",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/239513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-82-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/82",
+   "short": "HCL Ștefan cel Mare nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 82/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/239514",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/239514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-83-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/83",
+   "short": "HCL Ștefan cel Mare nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 83/2025 privind aprobarea regulamentului de organizare și funcționare al serviciului social Centrul de zi pentru copii Sfântul Nicolae, a regulamentului de ordine interioară privind funcționarea Centrului de zi pentru copii Sfântul Nicolae precum și a statului de funcții",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/239515",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/239515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-84-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/84",
+   "short": "HCL Ștefan cel Mare nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 84/2025 privind alegerea președintelui de ședință ședință și a potențialului președinte de ședință pentru decembrie 2025 – februarie 2026",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247435",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-85-2025",
    "path": "local/calarasi/stefan-cel-mare/2025/85",
    "short": "HCL Ștefan cel Mare nr. 85/2025",
@@ -28,6 +118,36 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-86-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/86",
+   "short": "HCL Ștefan cel Mare nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 86/2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247437",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-87-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/87",
+   "short": "HCL Ștefan cel Mare nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 87/2025 privind vânzarea prin licitație publică a unui teren proprietate privată a comunei Ștefan cel Mare, județul Călărași înscris în Cartea Funciară 23214",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247438",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247438",
      "sha256": null
     }
    ]
@@ -63,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-90-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/90",
+   "short": "HCL Ștefan cel Mare nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 90/2025 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar din comuna Ştefan cel Mare, judeţul Călăraşi, pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247449",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-91-2025",
    "path": "local/calarasi/stefan-cel-mare/2025/91",
    "short": "HCL Ștefan cel Mare nr. 91/2025",
@@ -78,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-92-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/92",
+   "short": "HCL Ștefan cel Mare nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 92/2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247451",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-93-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/93",
+   "short": "HCL Ștefan cel Mare nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 93/2025 privind abrogarea HCL nr. 87 din 2 decembrie 2025 privind vânzarea prin licitație publică a unui teren proprietate privată a comunei Ștefan cel Mare, județul Călărași, înscris în Cartea Funciară 23214",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247452",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-94-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/94",
+   "short": "HCL Ștefan cel Mare nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 94/2025 privind vânzarea prin licitație publică a unui teren proprietate privată a comunei Ștefan cel Mare, județul Călărași înscris în Cartea Funciară nr. 23214",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247453",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247453",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-95-2025",
    "path": "local/calarasi/stefan-cel-mare/2025/95",
    "short": "HCL Ștefan cel Mare nr. 95/2025",
@@ -88,6 +268,36 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-96-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/96",
+   "short": "HCL Ștefan cel Mare nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 96/2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247455",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-97-2025",
+   "path": "local/calarasi/stefan-cel-mare/2025/97",
+   "short": "HCL Ștefan cel Mare nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 97/2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247456",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247456",
      "sha256": null
     }
    ]

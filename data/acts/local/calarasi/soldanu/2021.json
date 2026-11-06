@@ -3,6 +3,182 @@
 "shard": "local/calarasi/soldanu/2021",
 "acts": [
 {
+"slug": "hcl-calarasi--soldanu-40-2021",
+"path": "local/calarasi/soldanu/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 40/2021 privind aprobarea rectificării bugetului local pe anul 2021 al Comunei Șoldanu, în 27 septembrie 2021",
+"short": "HCL Șoldanu nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/36178",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-41-2021",
+"path": "local/calarasi/soldanu/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 41/2021 privind aprobarea trecerii din domeniul public în domeniul privat al Comunei Șoldanu și desființării imobilului Clădire - Sediu Primărie sat Șoldanu, identificat la poziția nr. 16 din Inventarul bunurilor care alcătuiesc domeniul public al comunei Șoldanu, însușit de Consiliul local al comunei Șoldanu prin Hotărârea nr.15/1999 cu modificările și completările ulterioare și atestat prin Hotărârea Guvernului nr.1349/2011, modificată și completată",
+"short": "HCL Șoldanu nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/39337",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-42-2021",
+"path": "local/calarasi/soldanu/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 42/2021 privind aprobarea inițierii procedurii de vânzare a imobilului compus din clădire C1 – Grajd, în suprafață construită de 699,00 mp și teren aferent, în suprafață de 1074,00 mp, situat în intravilanul Satului Șoldanu, cvartal 1, parcela 1/10, nr. cadastral 20581, aparținând domeniului privat al Comunei Șoldanu, Judeţul Călăraşi, administrat de Consiliul Local al Comunei Șoldanu",
+"short": "HCL Șoldanu nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/39338",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-43-2021",
+"path": "local/calarasi/soldanu/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 43/2021 privind aprobarea inițierii procedurii de vânzare a imobilului compus din clădire C1 – Magazie, în suprafață construită de 553,45 mp și teren aferent, în suprafață de 862,00 mp, situat în intravilanul satului Șoldanu, cvartal 1, parcela 1/5, nr. cadastral 20588, aparținând domeniului privat al Comunei Șoldanu, Judeţul Călăraşi, administrat de Consiliul Local al Comunei Șoldanu",
+"short": "HCL Șoldanu nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/39339",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-44-2021",
+"path": "local/calarasi/soldanu/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 44/2021 privind aprobarea rectificării bugetului local pe anul 2021 al Comunei Șoldanu, în octombrie 2021",
+"short": "HCL Șoldanu nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/39340",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-45-2021",
+"path": "local/calarasi/soldanu/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 45/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiție “Modernizare străzi în Comuna Șoldanu, Județul Călărași”, prin Programul Național de Investiții ,,Anghel Saligny”, aprobat prin Ordonanța de urgență a Guvernului nr. 95/2021",
+"short": "HCL Șoldanu nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/39341",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-46-2021",
+"path": "local/calarasi/soldanu/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 46/2021 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul III al anului 2021 şi stabilirea măsurilor pentru eficientizarea acestei activităţi la Comuna Șoldanu, Judeţul Călăraşi",
+"short": "HCL Șoldanu nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/39342",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-47-2021",
+"path": "local/calarasi/soldanu/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 47/2021 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al Comunei Șoldanu, în trimestrul III, an fiscal 2021",
+"short": "HCL Șoldanu nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/39343",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--soldanu-48-2021",
 "path": "local/calarasi/soldanu/2021/48",
 "kind": "local",
@@ -25,6 +201,116 @@
 }
 },
 {
+"slug": "hcl-calarasi--soldanu-49-2021",
+"path": "local/calarasi/soldanu/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 49/2021 privind aprobarea trecerii din domeniul public în domeniul privat al Comunei Șoldanu și desființării imobilului Stație auto, identificat la poziția nr. 7 din Inventarul bunurilor care alcătuiesc domeniul public al Comunei Șoldanu, însușit de Consiliul Local al Comunei Șoldanu prin Hotărârea nr.15/1999 cu modificările și completările ulterioare și atestat prin Hotărârea Guvernului nr.1349/2011, modificată și completată",
+"short": "HCL Șoldanu nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/42650",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-50-2021",
+"path": "local/calarasi/soldanu/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 50/2021 privind aprobarea dezmembrării în trei loturi a terenului situat în intravilanul Satului Negoești, Tarla 29, Parcela 2, Lotul 12, număr cadastral 20729",
+"short": "HCL Șoldanu nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/42651",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-51-2021",
+"path": "local/calarasi/soldanu/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 51/2021 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investiții “Modernizare străzi în comuna Şoldanu, județul Călăraşi” propus a se realiza prin PNDL 2017 – 2020 în comuna Șoldanu, județul Călărași, aprobați prin Hotărârea Consiliului local al comunei Șoldanu nr.13 din 14 martie 2017, cu modificările ulterioare",
+"short": "HCL Șoldanu nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/42652",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-52-2021",
+"path": "local/calarasi/soldanu/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 52/2021 privind aprobarea actualizării Nomenclaturii stradale a Comunei Șoldanu, Județul Călărași, în noiembrie 2021",
+"short": "HCL Șoldanu nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/42653",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-53-2021",
+"path": "local/calarasi/soldanu/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 53/2021 privind aprobarea rectificării bugetului local pe anul 2021 al Comunei Șoldanu, în noiembrie 2021",
+"short": "HCL Șoldanu nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/42654",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--soldanu-54-2021",
 "path": "local/calarasi/soldanu/2021/54",
 "kind": "local",
@@ -44,6 +330,116 @@
 "council_name": "Consiliul Local al Comunei Șoldanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-55-2021",
+"path": "local/calarasi/soldanu/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 55/2021 privind aprobarea necesității și oportunității realizării și notei conceptuale pentru obiectivul de investiții „Modernizare străzi în Comuna Șoldanu, Județul Călărași”, prin Programul Național de Investiții ,,Anghel Saligny”, aprobat prin Ordonanța de urgență a Guvernului nr. 95/2021",
+"short": "HCL Șoldanu nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/44383",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-56-2021",
+"path": "local/calarasi/soldanu/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 56/2021 privind aprobarea rectificării bugetului local pe anul 2021 al Comunei Șoldanu, în decembrie 2021",
+"short": "HCL Șoldanu nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/44384",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-57-2021",
+"path": "local/calarasi/soldanu/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 57/2021 privind aprobarea alegerii Președintelui de şedinţă al Consiliului Local al Comunei Șoldanu pentru lunile ianuarie, februarie și martie 2022",
+"short": "HCL Șoldanu nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/44385",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-58-2021",
+"path": "local/calarasi/soldanu/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 58/2021 privind aprobarea rectificării bugetului local pe anul 2021 al Comunei Șoldanu, în 28 decembrie 2021",
+"short": "HCL Șoldanu nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/45686",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-59-2021",
+"path": "local/calarasi/soldanu/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 59/2021 privind aprobarea rectificării bugetului local pe anul 2021 al Comunei Șoldanu, în 30 decembrie 2021",
+"short": "HCL Șoldanu nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/46164",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

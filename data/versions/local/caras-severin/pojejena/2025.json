@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/pojejena/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--pojejena-60-2025",
+   "path": "local/caras-severin/pojejena/2025/60",
+   "short": "HCL Pojejena nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 60/2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/229451",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/229451",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-61-2025",
    "path": "local/caras-severin/pojejena/2025/61",
    "short": "HCL Pojejena nr. 61/2025",
@@ -13,6 +28,36 @@
      "from": "2025-10-10",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/229466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-62-2025",
+   "path": "local/caras-severin/pojejena/2025/62",
+   "short": "HCL Pojejena nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 62/2025 privind desemnarea unui consilier local care sa faca parte din Consiliul de administratie al Scolii gimnaziale ,,ATANASIE COJOCARU” Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/229467",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/229467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-63-2025",
+   "path": "local/caras-severin/pojejena/2025/63",
+   "short": "HCL Pojejena nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 63/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Pojejena pe perioada de 3 luni ( OCT. 2025 – DEC. 2025)",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/246950",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246950",
      "sha256": null
     }
    ]
@@ -43,6 +88,21 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-66-2025",
+   "path": "local/caras-severin/pojejena/2025/66",
+   "short": "HCL Pojejena nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 66/2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/246953",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246953",
      "sha256": null
     }
    ]
@@ -103,6 +163,21 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-71-2025",
+   "path": "local/caras-severin/pojejena/2025/71",
+   "short": "HCL Pojejena nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 71/2025 privind aprobarea premierii celei mai frumoase case impodobita in fiecare localitate a com. Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/246963",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246963",
      "sha256": null
     }
    ]
@@ -193,6 +268,21 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-78-2025",
+   "path": "local/caras-severin/pojejena/2025/78",
+   "short": "HCL Pojejena nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 78/2025 privind validarea Dispozitiei nr.205/16.12.2025 privind rectificarea bugetului local pe trimestrul IV,anul 2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/246985",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246985",
      "sha256": null
     }
    ]

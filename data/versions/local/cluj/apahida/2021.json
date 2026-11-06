@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/apahida/2021",
+ "acts": [
+  {
+   "slug": "hcl-cluj--apahida-101-2021",
+   "path": "local/cluj/apahida/2021/101",
+   "short": "HCL Apahida nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Apahida nr. 101/2021 privind rectificarea bugetului local al comunei Apahida si a Programului de investitii pentru anul 2021",
+   "url": "https://primaria-apahida.ro/hcl-uri-taxe-si-impozite/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://primaria-apahida.ro/wp-content/uploads/2025/06/HCL-101_21.pdf",
+     "sha256": "a1d94c025a1958988c67fd14061629de5da657c910bb60e7193f2253c567713c"
+    }
+   ]
+  }
+ ]
+}

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-20-2020",
+"path": "local/calarasi/ulmu/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 20/2020 privind aprobarea studiului de oportunitate, caietului de sarcini, instrucţiunilor pentru solicitanți şi stabilirea componenţei comisiei de analiză și soluționare a cererilor în vederea iniţierii închirierii pajiştei rămasă liberă din islazul comunei Ulmu, prin atribuire directă, aflată în proprietatea privată a comunei Ulmu",
+"short": "HCL Ulmu nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-11",
+"latest": "2020-06-11",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/6628",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-21-2020",
 "path": "local/calarasi/ulmu/2020/21",
 "kind": "local",
@@ -91,6 +113,116 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-22-2020",
+"path": "local/calarasi/ulmu/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 22/2020 privind alegerea președintelui de ședință al Consiliului Local Ulmu pentru o perioadă de trei luni (septembrie-noiembrie 2020)",
+"short": "HCL Ulmu nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24313",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-23-2020",
+"path": "local/calarasi/ulmu/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 23/2020 privind atribuirea în folosință gratuită a suprafeței de 540 mp. în favoarea SC Prodcereal SRL, aparținând domeniului privat al comunei Ulmu, județul Călărași, pentru construirea unui sistem de irigații conform proiectului ”Alimentare cu apă pentru irigații culturi agricole”",
+"short": "HCL Ulmu nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24314",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-24-2020",
+"path": "local/calarasi/ulmu/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 24/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Ulmu nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24315",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-25-2020",
+"path": "local/calarasi/ulmu/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 25/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Ulmu nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24316",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-26-2020",
+"path": "local/calarasi/ulmu/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 26/2020 privind alegerea președintelui de ședință al Consiliului Local Ulmu pentru o perioadă de trei luni (noiembrie 2020-ianuarie 2021)",
+"short": "HCL Ulmu nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24328",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-27-2020",
 "path": "local/calarasi/ulmu/2020/27",
 "kind": "local",
@@ -110,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-28-2020",
+"path": "local/calarasi/ulmu/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 28/2020 privind alegerea viceprimarului comunei Ulmu, județul Călărași",
+"short": "HCL Ulmu nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24330",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-31-2020",
+"path": "local/calarasi/ulmu/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 31/2020 privind aprobarea organizării rețelei școlare la nivelul comunei Ulmu, județul Călărași",
+"short": "HCL Ulmu nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24333",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-32-2020",
 "path": "local/calarasi/ulmu/2020/32",
 "kind": "local",
@@ -198,6 +374,50 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-34-2020",
+"path": "local/calarasi/ulmu/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 34/2020 privind aprobarea achiziționării unui serviciu de consultanță, asistență și servicii de reprezentare juridică pentru UAT Ulmu, Consiliul Local și Primarul comunei Ulmu",
+"short": "HCL Ulmu nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24337",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-35-2020",
+"path": "local/calarasi/ulmu/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 35/2020 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate a Primarului comunei Ulmu, județul Călărași",
+"short": "HCL Ulmu nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/24338",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

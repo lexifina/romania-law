@@ -201,6 +201,51 @@
 }
 },
 {
+"slug": "hcl-caras-severin--pojejena-32-2026",
+"path": "local/caras-severin/pojejena/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 32/2026 privind aprobarea documentatiei de modificare a suprafetelor de teren pentru parcelele de teren intabulate in C.F.-uri avand numerele 39773; 39774; 39781; 39783; 39766; 39763; 39760; 39772; 39765; 39782; 33270; ca urmare a lucrarilor de intabulare sistematica prin Programul national de Carte Funciara",
+"short": "HCL Pojejena nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/284624",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-33-2026",
+"path": "local/caras-severin/pojejena/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 33/2026",
+"short": "HCL Pojejena nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/284625",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--pojejena-34-2026",
 "path": "local/caras-severin/pojejena/2026/34",
 "kind": "local",
@@ -264,6 +309,94 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-37-2026",
+"path": "local/caras-severin/pojejena/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 37/2026 privind aprobarea Raportului de activitate desfasurata de catre asistentii personali ai persoanelor cu handicap grav din com Pojejena in semestrul I al anului 2026",
+"short": "HCL Pojejena nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/284629",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-38-2026",
+"path": "local/caras-severin/pojejena/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 38/2026 privind acordarea mandatului special Asociatiei de Dezvoltare Intercomunitara INTERCOM DESEURI CARAS-SEVERIN, pentru atribuirea contractelor de delegare a gestiunii activitatilor de sortare,tratare si/sau depozitare,prin eliminare, a deseurilor municipale rezultate din activitatile de salubrizare de pe raza comunei Pojejena",
+"short": "HCL Pojejena nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/284630",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-39-2026",
+"path": "local/caras-severin/pojejena/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 39/2026 privind aprobarea rezilierii Contractului de concesiune nr.4996 / 28.10.2025",
+"short": "HCL Pojejena nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/284631",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-40-2026",
+"path": "local/caras-severin/pojejena/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 40/2026 privind modificarea Contractului de concesiune nr. 23 / 06.11.2025",
+"short": "HCL Pojejena nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/284632",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/ezeris/2020",
 "acts": [
 {
+"slug": "hcl-caras-severin--ezeris-101-2020",
+"path": "local/caras-severin/ezeris/2020/101",
+"kind": "local",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 101/2020 privind aprobarea încheierii unui contract pentru acoperirea costurilor de gestionare a deșeurilor de ambalare și pentru implementarea obligațiilor de informare – în vederea reciclării selective a deșeurilor",
+"short": "HCL Ezeriș nr. 101/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/15993",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-102-2020",
 "path": "local/caras-severin/ezeris/2020/102",
 "kind": "local",
@@ -25,6 +47,117 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-103-2020",
+"path": "local/caras-severin/ezeris/2020/103",
+"kind": "local",
+"year": "2020",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 103/2020 privind aprobarea raportlui de evaluare și vanzarea terenului intravilan în suprafață de 865 mp , Nr. Cad 31005 , CF 31005 , domeniu privat , teren situat in localitatea Ezeriș, Comuna Ezeriș , județul Caraș-Severin",
+"short": "HCL Ezeriș nr. 103/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/15995",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-104-2020",
+"path": "local/caras-severin/ezeris/2020/104",
+"kind": "local",
+"year": "2020",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 104/2020 privind aprobarea preţului de vanzare masa lemnoasă conform APV 620/05.06.2019",
+"short": "HCL Ezeriș nr. 104/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/15996",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-105-2020",
+"path": "local/caras-severin/ezeris/2020/105",
+"kind": "local",
+"year": "2020",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 105/2020 privind aprobarea procesului verbal de selecție a proiectelor sportive nr. 1240/14.09.2020",
+"short": "HCL Ezeriș nr. 105/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/15997",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-106-2020",
+"path": "local/caras-severin/ezeris/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 106/2020",
+"short": "HCL Ezeriș nr. 106/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/15998",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-107-2020",
+"path": "local/caras-severin/ezeris/2020/107",
+"kind": "local",
+"year": "2020",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 107/2020 privind rezilierea contractului nr.269/18.10.2017 incheiat cu SENESI SPA",
+"short": "HCL Ezeriș nr. 107/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/15999",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-108-2020",
 "path": "local/caras-severin/ezeris/2020/108",
 "kind": "local",
@@ -44,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-109-2020",
+"path": "local/caras-severin/ezeris/2020/109",
+"kind": "local",
+"year": "2020",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 109/2020 privind aprobarea încheierii actului aditional nr. 1 la Acordul de Parteneriat între Comuna Ezeriș, Comuna Fârliug și Comuna Zorlențu Mare pentru obiectivul : ,,INFIINTARE RETEA INTELIGENTA DISTRIBUTIE GAZE NATURALE IN COMUNELE: EZERIS, LOCALITATILE EZERIS SI SOCENI, COMUNA FARLIUG LOCALITATILE FARLIUG, SCAIUS, REMETEA POGONICI SI DEZESTI, COMUNA ZORLENTU MARE, LOCALITATILE ZORLENTU MARE SI ZORLENCIOR, JUDETUL CARAS-SEVERIN”",
+"short": "HCL Ezeriș nr. 109/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/16001",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-113-2020",
+"path": "local/caras-severin/ezeris/2020/113",
+"kind": "local",
+"year": "2020",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 113/2020 privind aprobarea încheierii unui contract de servicii și lucrări pentru obiectivele afectate de calamitățile din perioada 18-19.06.2020",
+"short": "HCL Ezeriș nr. 113/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/16005",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-114-2020",
 "path": "local/caras-severin/ezeris/2020/114",
 "kind": "local",
@@ -132,6 +309,50 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-115-2020",
+"path": "local/caras-severin/ezeris/2020/115",
+"kind": "local",
+"year": "2020",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 115/2020 privind aprobarea cotelor de combustibil pentru autoturismul marca Duster , autospeciala pompieri , tractor UTB 650, buldoexcavator și alte utilaje aflate in dotarea Comunei Ezeriș pentru anul 2021",
+"short": "HCL Ezeriș nr. 115/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/16007",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-116-2020",
+"path": "local/caras-severin/ezeris/2020/116",
+"kind": "local",
+"year": "2020",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 116/2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul “ÎNFIINTARE REȚEA INTELIGENTĂ DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE: EZERIȘ, LOCALITĂȚILE EZERIȘ SI SOCENI, COMUNA FÂRLIUG LOCALITĂȚILE FÂRLIUG, SCĂIUȘ, REMETEA POGONICI ȘI DEZEȘTI, COMUNA ZORLENȚU MARE, LOCALITĂȚILE ZORLENȚU MARE SI ZORLENCIOR, JUDEȚUL CARAȘ-SEVERIN ”",
+"short": "HCL Ezeriș nr. 116/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/16008",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -199,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-120-2020",
+"path": "local/caras-severin/ezeris/2020/120",
+"kind": "local",
+"year": "2020",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 120/2020 privind aprobarea contractului de comodat nr 1364/06.10.2020",
+"short": "HCL Ezeriș nr. 120/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/16012",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

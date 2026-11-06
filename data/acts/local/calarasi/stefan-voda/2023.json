@@ -311,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-52-2023",
+"path": "local/calarasi/stefan-voda/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 52/2023 privind desemnarea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/134666",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-53-2023",
 "path": "local/calarasi/stefan-voda/2023/53",
 "kind": "local",
@@ -374,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-56-2023",
+"path": "local/calarasi/stefan-voda/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 56/2023 privind aprobarea achitării sumei de 109781,25 lei plus TVA către SC Prodcarn Iliuță SRL, reprezentând despăgubiri pentru investiția făcută pentru realizarea Stației de Reglare Măsurare Predare gaze naturale de pe raza comunei Ștefan Vodă",
+"short": "HCL Ștefan Vodă nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/134670",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

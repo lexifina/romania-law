@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/ramna/2020",
  "acts": [
   {
+   "slug": "hcl-caras-severin--ramna-18-2020",
+   "path": "local/caras-severin/ramna/2020/18",
+   "short": "HCL Ramna nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 18/2020 privind alegerea președintelui de sedință",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14850",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14850",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ramna-19-2020",
    "path": "local/caras-severin/ramna/2020/19",
    "short": "HCL Ramna nr. 19/2020",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ramna-21-2020",
+   "path": "local/caras-severin/ramna/2020/21",
+   "short": "HCL Ramna nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 21/2020 privind darea în folosință gratuită a imobilului situat în localitatea Barbosu, număr cadastral 33914, către Comunitatea Bisericilor Crestine Baptiste Caras-Severin",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14853",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14853",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ramna-22-2020",
    "path": "local/caras-severin/ramna/2020/22",
    "short": "HCL Ramna nr. 22/2020",
@@ -43,6 +73,21 @@
      "from": "2020-08-31",
      "units": 1,
      "source_url": "https://emol.ro/ramna-cs/registru-hcl/14854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-23-2020",
+   "path": "local/caras-severin/ramna/2020/23",
+   "short": "HCL Ramna nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 23/2020 privind aprobarea încheierii unui contract de comodat cu Comunitatea Bisericilor Creștine Baptiste Caraș-Severin pentru imobilul situat în localitatea Barbosu, număr cadastral 22914",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14855",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14855",
      "sha256": null
     }
    ]
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ramna-31-2020",
+   "path": "local/caras-severin/ramna/2020/31",
+   "short": "HCL Ramna nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 31/2020",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/37588",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/37588",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ramna-32-2020",
    "path": "local/caras-severin/ramna/2020/32",
    "short": "HCL Ramna nr. 32/2020",
@@ -168,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ramna-33-2020",
+   "path": "local/caras-severin/ramna/2020/33",
+   "short": "HCL Ramna nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 33/2020 privind atribuirea in folosinta gratuita pe durata de 15 ani a terenului aferent cladirii bisericii baptiste din Barbosu, in suprafata de 204 mp, avand nr. cadastral 33914, inscris in coala de CF 33914 UAT Ramna in favoarea Comunitatii Bisericilor Crestine Baptiste Caras-Severin, cu sediul in Resita, Al. Marghitas, Nr. 5A, avand CUI 24849985",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/37590",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/37590",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ramna-34-2020",
    "path": "local/caras-severin/ramna/2020/34",
    "short": "HCL Ramna nr. 34/2020",
@@ -178,6 +253,51 @@
      "from": "2020-12-17",
      "units": 1,
      "source_url": "https://emol.ro/ramna-cs/registru-hcl/37591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-35-2020",
+   "path": "local/caras-severin/ramna/2020/35",
+   "short": "HCL Ramna nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 35/2020 privind rectificarea bugetului local al comunei Ramna pe anul 2020",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/37592",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/37592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-36-2020",
+   "path": "local/caras-severin/ramna/2020/36",
+   "short": "HCL Ramna nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 36/2020",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/37593",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/37593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-37-2020",
+   "path": "local/caras-severin/ramna/2020/37",
+   "short": "HCL Ramna nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 37/2020 privind indreptarea unor erori materiale si completarea HCL nr.32/2020 privind stabilirea impozitelor şi a taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/37594",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/37594",
      "sha256": null
     }
    ]

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-68-2022",
+   "path": "local/caras-severin/ciudanovita/2022/68",
+   "short": "HCL Ciudanovița nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 68/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/85483",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85483",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-69-2022",
    "path": "local/caras-severin/ciudanovita/2022/69",
    "short": "HCL Ciudanovița nr. 69/2022",
@@ -88,6 +103,21 @@
      "from": "2022-10-31",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-73-2022",
+   "path": "local/caras-severin/ciudanovita/2022/73",
+   "short": "HCL Ciudanovița nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 73/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/85505",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85505",
      "sha256": null
     }
    ]
@@ -178,6 +208,36 @@
      "from": "2022-11-28",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-80-2022",
+   "path": "local/caras-severin/ciudanovita/2022/80",
+   "short": "HCL Ciudanovița nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 80/2022 privind alocarea unei sume de bani pentru organizarea de activitati cultural artistice,cumpararea de cadouri pentru copii de la gradinita si scoala gimnaziala cu clasele I-VIII din comuna Ciudanovita,jud.Caras Severin cu ocazia serbari pomului de iarna",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/85512",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-81-2022",
+   "path": "local/caras-severin/ciudanovita/2022/81",
+   "short": "HCL Ciudanovița nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 81/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/85517",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85517",
      "sha256": null
     }
    ]

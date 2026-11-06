@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-3-2023",
+"path": "local/calarasi/plataresti/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 3/2023 APROBARE ACORDARE AJUTOR DE URGENTA 2023",
+"short": "HCL Plătărești nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#41220",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-4-2023",
 "path": "local/calarasi/plataresti/2023/4",
 "kind": "local",
@@ -510,6 +532,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-25-2023",
+"path": "local/calarasi/plataresti/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 25/2023 PROIECT DE HOTARARE ACORDARE AJUTOR FINANCIAR PAROHIA PLATARESTI",
+"short": "HCL Plătărești nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#45693",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-26-2023",
 "path": "local/calarasi/plataresti/2023/26",
 "kind": "local",
@@ -639,6 +683,28 @@
 "council_name": "Consiliul Local al Comunei Plătărești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-32-2023",
+"path": "local/calarasi/plataresti/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 32/2023 APROBARE REGULAMENT 50 ANI CASATORIE",
+"short": "HCL Plătărești nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-25",
+"latest": "2023-04-25",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#47907",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -969,6 +1035,28 @@
 "council_name": "Consiliul Local al Comunei Plătărești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-48-2023",
+"path": "local/calarasi/plataresti/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 48/2023 APROBARE STUDIULUI DE FUNDAMENTARE A DECIZIEI DE CONCESIONARE GAZE",
+"short": "HCL Plătărești nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-14",
+"latest": "2023-07-14",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#53506",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1456,6 +1544,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-71-2023",
+"path": "local/calarasi/plataresti/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 71/2023 DESEMNAREA REPREZENTANTILOR CONSILIULUI LOCAL IN CONSILIUL DE ADMINISTRATIE AL ŞCOLII GIMNAZIALE NR.1 PLATARESTI",
+"short": "HCL Plătărești nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#58856",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-72-2023",
+"path": "local/calarasi/plataresti/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 72/2023 DESEMNAREA REPREZENTANTULUI CONSILIULUI LOCAL IN COMISIA DE EVALUARE ȘI ASIGURAREA CALITAȚII A ŞCOLII GIMNAZIALE NR.1 PLATARESTI",
+"short": "HCL Plătărești nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#58857",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-73-2023",
 "path": "local/calarasi/plataresti/2023/73",
 "kind": "local",
@@ -1585,6 +1717,28 @@
 "council_name": "Consiliul Local al Comunei Plătărești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-79-2023",
+"path": "local/calarasi/plataresti/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 79/2023 APROBAREA DECONTARII CHELTUIELILOR DE TRANSPORT PENTRU CADRELE DIDACTICE PE LUNILE IULIE, AUGUST, SEPTEMBRIE 2023",
+"short": "HCL Plătărești nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#60702",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,139 @@
 "shard": "local/caras-severin/pojejena/2024",
 "acts": [
 {
+"slug": "hcl-caras-severin--pojejena-45-2024",
+"path": "local/caras-severin/pojejena/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 45/2024 privind aprobarea preluarii, cu titlu gratuit, a autoturismului, marca OPEL MOVANO- CIBRO, 16+1 locuri, din gestiunea UAT Comuna Garnic in gestiunea UAT Comuna Pojejena",
+"short": "HCL Pojejena nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/196112",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-46-2024",
+"path": "local/caras-severin/pojejena/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 46/2024 privind aprobarea predarii, cu titlu gratuit, a autoturismului, marca OPEL MOVANO- CIBRO, 16+1 locuri, din gestiunea UAT Comuna Pojejena in gestiunea Scoala Generala Atanasie Cojocaru Pojejena",
+"short": "HCL Pojejena nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/196113",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-47-2024",
+"path": "local/caras-severin/pojejena/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 47/2024 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Pojejena nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/196118",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-48-2024",
+"path": "local/caras-severin/pojejena/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 48/2024 privind constituirea comisiilor pe domenii de specialitate, ale Consiliului Local al comunei Pojejena",
+"short": "HCL Pojejena nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/196119",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-49-2024",
+"path": "local/caras-severin/pojejena/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 49/2024 privind alegerea Comisiei de numarare a voturilor",
+"short": "HCL Pojejena nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/196120",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-50-2024",
+"path": "local/caras-severin/pojejena/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 50/2024",
+"short": "HCL Pojejena nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/196129",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--pojejena-51-2024",
 "path": "local/caras-severin/pojejena/2024/51",
 "kind": "local",
@@ -66,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Pojejena",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-54-2024",
+"path": "local/caras-severin/pojejena/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 54/2024 privind aprobarea elaborarii Studiului de oportunitate in vederea concesionarii unei suprafete de 2979 mp proprietate privata a UAT Comuna Pojejena",
+"short": "HCL Pojejena nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/196138",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

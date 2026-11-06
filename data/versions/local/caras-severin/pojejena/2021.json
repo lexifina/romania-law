@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--pojejena-106-2021",
+   "path": "local/caras-severin/pojejena/2021/106",
+   "short": "HCL Pojejena nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 106/2021",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/62808",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/62808",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-107-2021",
    "path": "local/caras-severin/pojejena/2021/107",
    "short": "HCL Pojejena nr. 107/2021",
@@ -118,6 +133,21 @@
      "from": "2022-06-09",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/62790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-89-2021",
+   "path": "local/caras-severin/pojejena/2021/89",
+   "short": "HCL Pojejena nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 89/2021 privind aprobarea prelungirii prin act aditional a Contractului de inchiriere a spatiului in care isi desfasoara activitatea Ghiseul Postal Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/62791",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/62791",
      "sha256": null
     }
    ]
@@ -163,6 +193,21 @@
      "from": "2022-06-09",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/62794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-93-2021",
+   "path": "local/caras-severin/pojejena/2021/93",
+   "short": "HCL Pojejena nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 93/2021",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/62795",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/62795",
      "sha256": null
     }
    ]

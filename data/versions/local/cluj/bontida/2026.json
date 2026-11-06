@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--bontida-74-2026",
+   "path": "local/cluj/bontida/2026/74",
+   "short": "HCL Bonțida nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 74/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/278730",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/278730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--bontida-75-2026",
    "path": "local/cluj/bontida/2026/75",
    "short": "HCL Bonțida nr. 75/2026",
@@ -88,6 +103,21 @@
      "from": "2026-10-02",
      "units": 1,
      "source_url": "https://emol.ro/bontida-cj/registru-hcl/291686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-80-2026",
+   "path": "local/cluj/bontida/2026/80",
+   "short": "HCL Bonțida nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 80/2026 privind aprobarea achiziționării serviciilor de elaborare a Strategiei de Dezvoltare Locală a comunei Bonțida pentru perioada 2027-2034",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/291687",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/291687",
      "sha256": null
     }
    ]
@@ -198,6 +228,51 @@
    ]
   },
   {
+   "slug": "hcl-cluj--bontida-88-2026",
+   "path": "local/cluj/bontida/2026/88",
+   "short": "HCL Bonțida nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 88/2026 privind însușirea Raportului de evaluare a terenului în suprafață de 6.000 mp și aprobarea documentației cadastrale de dezmembrare a imobilului înscris în CF nr. 50444 Bonțida, având numărul cadastral 50444, în suprafață de 25.525 mp, în trei loturi",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/291770",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/291770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-89-2026",
+   "path": "local/cluj/bontida/2026/89",
+   "short": "HCL Bonțida nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 89/2026 privind aprobarea transferului contractului de concesiune nr. 1/05.02.2009",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/291771",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/291771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-90-2026",
+   "path": "local/cluj/bontida/2026/90",
+   "short": "HCL Bonțida nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 90/2026 privind modificarea Anexei nr. 3 la Hotărârea nr. 130/14.11.2025 a Consiliului local al comunei Bonțida privind aprobarea și implementarea proiectului ''Achiziționarea unui utilaj pentru îmbunătățirea activității de administrare a domeniului public al comunei Bonțida, județul Cluj'' în cadrul Intervenției 8 - Dezvoltarea durabilă a satelor",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/291772",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/291772",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--bontida-91-2026",
    "path": "local/cluj/bontida/2026/91",
    "short": "HCL Bonțida nr. 91/2026",
@@ -208,6 +283,21 @@
      "from": "2026-10-02",
      "units": 1,
      "source_url": "https://emol.ro/bontida-cj/registru-hcl/291773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-92-2026",
+   "path": "local/cluj/bontida/2026/92",
+   "short": "HCL Bonțida nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 92/2026 privind aprobarea Acordului de cooperare încheiat pentru realizarea proiectului ''CLUJ SMART COUNTY - Ecosistem digital integrat''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/291774",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/291774",
      "sha256": null
     }
    ]

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-34-2020",
+"path": "local/caras-severin/ciudanovita/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 34/2020 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-02",
+"latest": "2020-11-02",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/15381",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-35-2020",
 "path": "local/caras-severin/ciudanovita/2020/35",
 "kind": "local",
@@ -44,6 +66,50 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-36-2020",
+"path": "local/caras-severin/ciudanovita/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 36/2020 privind alegerea viceprimarului comunei Ciudanovița",
+"short": "HCL Ciudanovița nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-02",
+"latest": "2020-11-02",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/15383",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-37-2020",
+"path": "local/caras-severin/ciudanovita/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 37/2020 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/15384",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-44-2020",
+"path": "local/caras-severin/ciudanovita/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 44/2020 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/15391",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-45-2020",
 "path": "local/caras-severin/ciudanovita/2020/45",
 "kind": "local",
@@ -242,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-48-2020",
+"path": "local/caras-severin/ciudanovita/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 48/2020 privind aprobarea achiziționării și montării de ornamente stradale, cu ocazia sărbătorilor de iarnă, în localitățile din comuna Ciudanovița",
+"short": "HCL Ciudanovița nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/15395",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

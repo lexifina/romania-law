@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-20-2026",
+"path": "local/calarasi/stefan-voda/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 20/2026 privind alegerea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-11",
+"latest": "2026-08-11",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/281700",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-21-2026",
 "path": "local/calarasi/stefan-voda/2026/21",
 "kind": "local",
@@ -289,6 +311,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-26-2026",
+"path": "local/calarasi/stefan-voda/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 26/2026 privind desemnarea reprezentantului Consiliului Local Ștefan Vodă în Consiliul de administrație al Școlii Gimnaziale nr. 1 Ștefan Vodă, în anul școlar 2026 – 2027",
+"short": "HCL Ștefan Vodă nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/290936",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-27-2026",
+"path": "local/calarasi/stefan-voda/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 27/2026 privind desemnarea reprezentantului Consiliului Local Ștefan Vodă în în Comisia pentru evaluarea asigurarea calității a Școlii Gimnaziale nr. 1 Ștefan Vodă, în anul școlar 2026 – 2027",
+"short": "HCL Ștefan Vodă nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/290937",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-28-2026",
 "path": "local/calarasi/stefan-voda/2026/28",
 "kind": "local",
@@ -330,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-30-2026",
+"path": "local/calarasi/stefan-voda/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 30/2026 privind alegerea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/296326",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

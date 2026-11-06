@@ -3,6 +3,50 @@
 "shard": "local/caras-severin/berzasca/2024",
 "acts": [
 {
+"slug": "hcl-caras-severin--berzasca-18-2024",
+"path": "local/caras-severin/berzasca/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 18/2024 privind dezmembrarea unui imobil - teren, situat în intravilanul comunei Berzasca, sat Liubcova, în suprafață de 9.401 m.p., categoria de folosință pășune, nr. cad. 32545, înscris în Cartea Funciară Nr. 32545 a comunei Berzasca, județul Caraș-Severin",
+"short": "HCL Berzasca nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-27",
+"latest": "2024-08-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/166611",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-19-2024",
+"path": "local/caras-severin/berzasca/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 19/2024 privind rectificarea de buget local pe trimestrul II, anul 2024",
+"short": "HCL Berzasca nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-27",
+"latest": "2024-08-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/166613",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-20-2024",
 "path": "local/caras-severin/berzasca/2024/20",
 "kind": "local",
@@ -70,6 +114,73 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzasca-23-2024",
+"path": "local/caras-severin/berzasca/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 23/2024",
+"short": "HCL Berzasca nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-27",
+"latest": "2024-08-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/166619",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-26-2024",
+"path": "local/caras-severin/berzasca/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 26/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna august, anul 2024",
+"short": "HCL Berzasca nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/178977",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-27-2024",
+"path": "local/caras-severin/berzasca/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 27/2024 privind rectificarea de buget local pe trimestrul III, anul 2024",
+"short": "HCL Berzasca nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/178978",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-28-2024",
 "path": "local/caras-severin/berzasca/2024/28",
 "kind": "local",
@@ -114,6 +225,52 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzasca-30-2024",
+"path": "local/caras-severin/berzasca/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 30/2024",
+"short": "HCL Berzasca nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/178997",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-31-2024",
+"path": "local/caras-severin/berzasca/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 31/2024",
+"short": "HCL Berzasca nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/179014",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-32-2024",
 "path": "local/caras-severin/berzasca/2024/32",
 "kind": "local",
@@ -155,6 +312,139 @@
 "council_name": "Consiliul Local al Comunei Berzasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-34-2024",
+"path": "local/caras-severin/berzasca/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 34/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna octombrie 2024",
+"short": "HCL Berzasca nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/179032",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-35-2024",
+"path": "local/caras-severin/berzasca/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 35/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Berzasca, pe principalele domenii de activitate",
+"short": "HCL Berzasca nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/179033",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-36-2024",
+"path": "local/caras-severin/berzasca/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 36/2024 privind alegerea viceprimarului comunei Berzasca, județul Caraș-Severin",
+"short": "HCL Berzasca nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/179034",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-37-2024",
+"path": "local/caras-severin/berzasca/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 37/2024 privind aprobarea contractării unui împrumut în valoare de 850.000 lei, în conformitate cu prevederile art. I din Ordonanța de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății publice a statului și pentru modificarea și completarea unor acte normative",
+"short": "HCL Berzasca nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/179035",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-38-2024",
+"path": "local/caras-severin/berzasca/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 38/2024",
+"short": "HCL Berzasca nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/179037",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-39-2024",
+"path": "local/caras-severin/berzasca/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 39/2024 privind rectificarea de buget local pe trimestrul IV, anul 2024",
+"short": "HCL Berzasca nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/179054",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

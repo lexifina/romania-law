@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--valea-argovei-55-2021",
+   "path": "local/calarasi/valea-argovei/2021/55",
+   "short": "HCL Valea Argovei nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 55/2021 privind decontarea navetei pentru cadrele didactice",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/40004",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/40004",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--valea-argovei-56-2021",
    "path": "local/calarasi/valea-argovei/2021/56",
    "short": "HCL Valea Argovei nr. 56/2021",
@@ -118,6 +133,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/40005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-57-2021",
+   "path": "local/calarasi/valea-argovei/2021/57",
+   "short": "HCL Valea Argovei nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 57/2021 privind desemnarea unui membru al Consiliului Local al comunei Valea Argovei care sa faca parte din comisia pentru sustinerea interviului la concursul pentru ocuparea functiei de director al Scolii Gimnaziale nr.1 Valea Argovei",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/40006",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/40006",
      "sha256": null
     }
    ]
@@ -163,6 +193,21 @@
      "from": "2021-11-24",
      "units": 1,
      "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/42821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-61-2021",
+   "path": "local/calarasi/valea-argovei/2021/61",
+   "short": "HCL Valea Argovei nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 61/2021 privind decontarea navetei pentru cadre didactice",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/42822",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/42822",
      "sha256": null
     }
    ]
@@ -223,6 +268,21 @@
      "from": "2021-12-17",
      "units": 1,
      "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/44739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-66-2021",
+   "path": "local/calarasi/valea-argovei/2021/66",
+   "short": "HCL Valea Argovei nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 66/2021 privind decontarea navetei pentru cadrele didactice",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/44740",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/44740",
      "sha256": null
     }
    ]

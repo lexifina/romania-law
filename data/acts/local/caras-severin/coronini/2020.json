@@ -3,6 +3,117 @@
 "shard": "local/caras-severin/coronini/2020",
 "acts": [
 {
+"slug": "hcl-caras-severin--coronini-24-2020",
+"path": "local/caras-severin/coronini/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 24/2020",
+"short": "HCL Coronini nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-12",
+"latest": "2020-05-12",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10370",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-25-2020",
+"path": "local/caras-severin/coronini/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 25/2020 privind aderarea comunei Coronini la Societatea Națională de Cruce Roșie din Romînia Filiala Județului Caraș-Severin",
+"short": "HCL Coronini nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-12",
+"latest": "2020-05-12",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10371",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-26-2020",
+"path": "local/caras-severin/coronini/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 26/2020 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10372",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-27-2020",
+"path": "local/caras-severin/coronini/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 27/2020 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10373",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-28-2020",
+"path": "local/caras-severin/coronini/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 28/2020 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-17",
+"latest": "2020-07-17",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10374",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-29-2020",
 "path": "local/caras-severin/coronini/2020/29",
 "kind": "local",
@@ -22,6 +133,50 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-30-2020",
+"path": "local/caras-severin/coronini/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 30/2020 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10376",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-31-2020",
+"path": "local/caras-severin/coronini/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 31/2020 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/14868",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-34-2020",
+"path": "local/caras-severin/coronini/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 34/2020 privind alegerea viceprimarului comunei Coronini",
+"short": "HCL Coronini nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-31",
+"latest": "2020-10-31",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/14871",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-35-2020",
 "path": "local/caras-severin/coronini/2020/35",
 "kind": "local",
@@ -91,6 +268,94 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-36-2020",
+"path": "local/caras-severin/coronini/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 36/2020 privind alegerea Comisiei de numărare a voturilor",
+"short": "HCL Coronini nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-31",
+"latest": "2020-10-31",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/14873",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-37-2020",
+"path": "local/caras-severin/coronini/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 37/2020 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-31",
+"latest": "2020-10-31",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/14874",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-38-2020",
+"path": "local/caras-severin/coronini/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 38/2020 privind numirea reprezentantului Consiliului local Coronini în consiliul de administrație al Școlii Gimnaziale Coronini",
+"short": "HCL Coronini nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/14885",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-39-2020",
+"path": "local/caras-severin/coronini/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 39/2020 privind aprobarea inițierii procedurii de obținere a statutului de Stațiune turistică de interes local, a comunei Coronini, județul Caraș Severin",
+"short": "HCL Coronini nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/14886",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-40-2020",
 "path": "local/caras-severin/coronini/2020/40",
 "kind": "local",
@@ -110,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-41-2020",
+"path": "local/caras-severin/coronini/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 41/2020 privind alocarea sumei de 16.000 lei pentru organizarea Pomului de Crăciun pentru elevii și preșcolarii unităților de învățământ de pe raza teritorială a UAT Coronini precum și pentru familii nevoiașe și bătrâni cu probleme de sănătate și probleme financiare",
+"short": "HCL Coronini nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/14888",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

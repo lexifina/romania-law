@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-66-2021",
+   "path": "local/caras-severin/lupac/2021/66",
+   "short": "HCL Lupac nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 66/2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/46323",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/46323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-67-2021",
+   "path": "local/caras-severin/lupac/2021/67",
+   "short": "HCL Lupac nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 67/2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/46324",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/46324",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-68-2021",
    "path": "local/caras-severin/lupac/2021/68",
    "short": "HCL Lupac nr. 68/2021",
@@ -103,6 +133,21 @@
      "from": "2021-12-15",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/46651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-74-2021",
+   "path": "local/caras-severin/lupac/2021/74",
+   "short": "HCL Lupac nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 74/2021 privind aprobarea dezlipirii din izlaz înscris în CF nr. 208 Lupac nr. top 684/a/1/1/a/2/a/1/1c/b/1/b, nr.cad. 200, a terenului în suprafaţă de 157 mp în vederea concesionării prin licitaţie pentru edificarea unor anexe gospodărești (garaj)",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/46652",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/46652",
      "sha256": null
     }
    ]

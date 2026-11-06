@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bautar-51-2021",
+"path": "local/caras-severin/bautar/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 51/2021 privind alegerea președintelui de ședință pentru o perioadă de cel mult 3 luni",
+"short": "HCL Băuțar nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73050",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-52-2021",
 "path": "local/caras-severin/bautar/2021/52",
 "kind": "local",
@@ -264,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Băuțar",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-55-2021",
+"path": "local/caras-severin/bautar/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 55/2021 privind majorarea sprijinului financiar acordat Societății Naționae de Cruce Roșie din România, Filiala Caraș-Severin",
+"short": "HCL Băuțar nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73054",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

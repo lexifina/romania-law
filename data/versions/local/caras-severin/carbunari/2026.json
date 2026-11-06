@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-18-2026",
+   "path": "local/caras-severin/carbunari/2026/18",
+   "short": "HCL Cărbunari nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 18/2026 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/284049",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/284049",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-19-2026",
    "path": "local/caras-severin/carbunari/2026/19",
    "short": "HCL Cărbunari nr. 19/2026",
@@ -208,6 +223,21 @@
      "from": "2026-04-16",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/263303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-5-2026",
+   "path": "local/caras-severin/carbunari/2026/5",
+   "short": "HCL Cărbunari nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 5/2026 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/268140",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/268140",
      "sha256": null
     }
    ]

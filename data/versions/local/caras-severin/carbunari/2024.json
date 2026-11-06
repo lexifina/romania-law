@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-27-2024",
+   "path": "local/caras-severin/carbunari/2024/27",
+   "short": "HCL Cărbunari nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 27/2024 privind ALEGERE PRESEDINTE DE SEDINTA",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/169690",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/169690",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-28-2024",
    "path": "local/caras-severin/carbunari/2024/28",
    "short": "HCL Cărbunari nr. 28/2024",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-33-2024",
+   "path": "local/caras-severin/carbunari/2024/33",
+   "short": "HCL Cărbunari nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 33/2024 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/174843",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/174843",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-34-2024",
    "path": "local/caras-severin/carbunari/2024/34",
    "short": "HCL Cărbunari nr. 34/2024",
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-35-2024",
+   "path": "local/caras-severin/carbunari/2024/35",
+   "short": "HCL Cărbunari nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 35/2024 privind alegerea viceprimarului comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/174845",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/174845",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-36-2024",
    "path": "local/caras-severin/carbunari/2024/36",
    "short": "HCL Cărbunari nr. 36/2024",
@@ -178,6 +223,21 @@
      "from": "2024-12-13",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/181838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-37-2024",
+   "path": "local/caras-severin/carbunari/2024/37",
+   "short": "HCL Cărbunari nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 37/2024 privind desemnarea reprezentantului Consiliului Local comunei Cărbunari în Consiliul de Administrație al Școlii Gimnaziale Cărbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/181839",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/181839",
      "sha256": null
     }
    ]

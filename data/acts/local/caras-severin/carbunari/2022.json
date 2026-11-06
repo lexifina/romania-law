@@ -355,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--carbunari-46-2022",
+"path": "local/caras-severin/carbunari/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 46/2022 privind inchirierea prin licitatie publica a imobilului situat in intravilanul comunei Carbunari,aflat in proprietatea comunei Carbunari,intabulat in CF nr.30129 Carbunari,in suprafata de 65 mp-UAT Carbunari",
+"short": "HCL Cărbunari nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/82910",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--carbunari-47-2022",
 "path": "local/caras-severin/carbunari/2022/47",
 "kind": "local",

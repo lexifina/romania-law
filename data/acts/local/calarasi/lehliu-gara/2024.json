@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/lehliu-gara/2024",
+"acts": [
+{
+"slug": "hcl-calarasi--lehliu-gara-85-2024",
+"path": "local/calarasi/lehliu-gara/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 85/2024",
+"short": "HCL Lehliu Gară nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://www.primarialehliugara.ro/wp-content/uploads/2025/10/HCL-nr.-85-din-22.10.2024-Organigrama.pdf",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--lehliu-gara-93-2024",
+"path": "local/calarasi/lehliu-gara/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 93/2024 privind constituirea comisiilor de specialitate",
+"short": "HCL Lehliu Gară nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://www.primarialehliugara.ro/consiliul-local/comisii-de-specialitate/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

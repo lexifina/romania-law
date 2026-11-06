@@ -3,6 +3,50 @@
 "shard": "local/calarasi/sarulesti/2020",
 "acts": [
 {
+"slug": "hcl-calarasi--sarulesti-83-2020",
+"path": "local/calarasi/sarulesti/2020/83",
+"kind": "local",
+"year": "2020",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 83/2020 privind alegerea președintelui de ședință",
+"short": "HCL Sărulești nr. 83/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26072",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-84-2020",
+"path": "local/calarasi/sarulesti/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 84/2020 privind alegerea viceprimarului comunei Sărulești, județul Călărași",
+"short": "HCL Sărulești nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26073",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-85-2020",
 "path": "local/calarasi/sarulesti/2020/85",
 "kind": "local",
@@ -91,6 +135,52 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-89-2020",
+"path": "local/calarasi/sarulesti/2020/89",
+"kind": "local",
+"year": "2020",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 89/2020",
+"short": "HCL Sărulești nr. 89/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26086",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-90-2020",
+"path": "local/calarasi/sarulesti/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 90/2020",
+"short": "HCL Sărulești nr. 90/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26087",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-91-2020",
 "path": "local/calarasi/sarulesti/2020/91",
 "kind": "local",
@@ -176,6 +266,73 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-95-2020",
+"path": "local/calarasi/sarulesti/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 95/2020 privind aprobarea Planului de acțiuni sau de lucrări de interes local care urmează a fi prestate de către beneficiarii de ajutor social în anul 2021",
+"short": "HCL Sărulești nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26106",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-96-2020",
+"path": "local/calarasi/sarulesti/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 96/2020",
+"short": "HCL Sărulești nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26107",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-97-2020",
+"path": "local/calarasi/sarulesti/2020/97",
+"kind": "local",
+"year": "2020",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 97/2020 privind aprobarea rețelei școlare pentru anul 2021-2022 pe raza comunei Sărulești, județul Călărași",
+"short": "HCL Sărulești nr. 97/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26108",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

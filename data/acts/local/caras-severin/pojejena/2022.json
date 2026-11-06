@@ -69,6 +69,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--pojejena-97-2022",
+"path": "local/caras-severin/pojejena/2022/97",
+"kind": "local",
+"year": "2022",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 97/2022 privind aprobarea privind aprobarea sumei de 3.000 lei pentru servicii muzicale in localitatea Divici cu ocazia sarbatoririi Hramului Bisericii Ortodoxe Divici ,,Sfantul Dumitru”",
+"short": "HCL Pojejena nr. 97/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/93146",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-98-2022",
+"path": "local/caras-severin/pojejena/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 98/2022 privind aprobarea sumei de 700 lei pentru achizitionarea trofeelor care vor fi oferite cu prilejul concursului ,,Aluatul magic” organizat de Scoala Gimnaziala ,, Atanasie Cojocaru”Pojejena",
+"short": "HCL Pojejena nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/93147",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--pojejena-99-2022",
 "path": "local/caras-severin/pojejena/2022/99",
 "kind": "local",

@@ -3,6 +3,51 @@
  "shard": "local/caras-severin/bozovici/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bozovici-76-2025",
+   "path": "local/caras-severin/bozovici/2025/76",
+   "short": "HCL Bozovici nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 76/2025 privind intocmirea documentației cadastrală pentru actualizarea datelor pentru imobilul/teren înscris în Cartea Funciară a comunei Bozovici nr. 30236 - IGOR Serviciul Public de Gospodărire comunală Bozovici",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/240570",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/240570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-77-2025",
+   "path": "local/caras-severin/bozovici/2025/77",
+   "short": "HCL Bozovici nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 77/2025 privind întocmirea întocmire documentației cadastrale pentru alipire imobillelor înscrise în cartea funciară a comunei Bozovici nr. 31301 și 34400, UAT Bozovici, imobil Liceu, nr. 826, comuna Bozovici, județul Caraș Severin",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/240571",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/240571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-78-2025",
+   "path": "local/caras-severin/bozovici/2025/78",
+   "short": "HCL Bozovici nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 78/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Bozovici , pentru o perioada de 3 luni",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/240583",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/240583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bozovici-79-2025",
    "path": "local/caras-severin/bozovici/2025/79",
    "short": "HCL Bozovici nr. 79/2025",
@@ -13,6 +58,126 @@
      "from": "2025-12-12",
      "units": 1,
      "source_url": "https://emol.ro/bozovici-cs/registru-hcl/240584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-80-2025",
+   "path": "local/caras-severin/bozovici/2025/80",
+   "short": "HCL Bozovici nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 80/2025 privind rectificarea bugetului pe trim IV anul 2025 al comunei Bozovici",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246930",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-81-2025",
+   "path": "local/caras-severin/bozovici/2025/81",
+   "short": "HCL Bozovici nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 81/2025 privind aprobarea trecerii din domeniul privat în domeniul public al comunei Bozovici a terenului înscris în cartea funciară nr. 34400, al comunei Bozovici și declararea acestuia ca fiind de interes public și utilitate publică locală",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246932",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-82-2025",
+   "path": "local/caras-severin/bozovici/2025/82",
+   "short": "HCL Bozovici nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 82/2025 privind aprobarea depunerii cererii de primă înregistrare în Cartea Funciară a imobilului „Școală- Grădiniță ”, nr. 206, localitatea Bozovici, județul Caraș Severin, proprietate publică a comunei Bozovici",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246934",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-83-2025",
+   "path": "local/caras-severin/bozovici/2025/83",
+   "short": "HCL Bozovici nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 83/2025 privind prelungirea mandatului de administrator la SC NERA GOSP BOZOVICI SRL",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246936",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-84-2025",
+   "path": "local/caras-severin/bozovici/2025/84",
+   "short": "HCL Bozovici nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 84/2025 privind aprobarea achiziției de lucrări asfaltare străzi în localitatea Bozovici în cadrul proiectului: Modernizare strazii în comuna Bozovici, județul Caraș Severin",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246938",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-85-2025",
+   "path": "local/caras-severin/bozovici/2025/85",
+   "short": "HCL Bozovici nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 85/2025 privind atribuire/schimbare denumiri pentru străzile de pe raza unității administrativ teritoriale și aprobarea Nomenclatorului Stradal al Comunei Bozovici, Judetul Caras-Severin",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246939",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-86-2025",
+   "path": "local/caras-severin/bozovici/2025/86",
+   "short": "HCL Bozovici nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 86/2025 privind rectificarea bugetului pe trim IV anul 2025 al comunei Bozovici",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246945",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-87-2025",
+   "path": "local/caras-severin/bozovici/2025/87",
+   "short": "HCL Bozovici nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 87/2025 privind aprobarea utilizării unor sume pentru pomul de Crăciun 2025",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/246946",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/246946",
      "sha256": null
     }
    ]
@@ -63,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bozovici-91-2025",
+   "path": "local/caras-severin/bozovici/2025/91",
+   "short": "HCL Bozovici nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 91/2025 privind aprobarea trecererii din domeniul privat în doemniul public al comunei Bozovici a terenului înscris în cartea funciară nr. 31876-C3, al comunei Bozovizi și declararea acestuia ca fiind de interes public și utilitate publică locală",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/248024",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/248024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bozovici-92-2025",
    "path": "local/caras-severin/bozovici/2025/92",
    "short": "HCL Bozovici nr. 92/2025",
@@ -73,6 +253,36 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/bozovici-cs/registru-hcl/248025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-93-2025",
+   "path": "local/caras-severin/bozovici/2025/93",
+   "short": "HCL Bozovici nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 93/2025 privind aprobarea de principiu a vânzării directe a imobilului Teren intravilan înscris în CF nr. 30908 Bozovici, în suprafață de 4.254 mp, demararea procedurii de achiziționare evaluator autorizat și numire Comisie de negociere în vederea vânzării directe",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/248026",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/248026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-94-2025",
+   "path": "local/caras-severin/bozovici/2025/94",
+   "short": "HCL Bozovici nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 94/2025",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/248034",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/248034",
      "sha256": null
     }
    ]

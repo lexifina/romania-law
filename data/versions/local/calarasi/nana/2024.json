@@ -3,6 +3,246 @@
  "shard": "local/calarasi/nana/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--nana-14-2024",
+   "path": "local/calarasi/nana/2024/14",
+   "short": "HCL Nana nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 14/2024 privind aprobarea decontării navetei personalului didactic pentru luna ianuarie 2024",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156792",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-15-2024",
+   "path": "local/calarasi/nana/2024/15",
+   "short": "HCL Nana nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 15/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici faza PT pentru proiectul „Centrul de zi pentru copii aflați în situație de risc de separare de părinți în comuna Nana, județul Călărași-(cod serviciu social 8891CZ-C-II)”",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156793",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-16-2024",
+   "path": "local/calarasi/nana/2024/16",
+   "short": "HCL Nana nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 16/2024 privind aprobarea activităților finanțate integral din venituri proprii, sursa E de finanțare, ale Școlii gimnaziale nr. 1 Nana",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156798",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-17-2024",
+   "path": "local/calarasi/nana/2024/17",
+   "short": "HCL Nana nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 17/2024 privind actualizarea programului de achizitii publice pe anul 2024, pentru comuna Nana, judetul Calarasi, aprobat initial prin Hotararea consiliului local nr. 93 / 27.12.2024",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156799",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-18-2024",
+   "path": "local/calarasi/nana/2024/18",
+   "short": "HCL Nana nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 18/2024",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156800",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-19-2024",
+   "path": "local/calarasi/nana/2024/19",
+   "short": "HCL Nana nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 19/2024 privind stabilirea cuantumul maxim si situatiile deosebite pentru care se acordă ajutoare de urgență din bugetul local, în baza Legii 196/2016",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156801",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-20-2024",
+   "path": "local/calarasi/nana/2024/20",
+   "short": "HCL Nana nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 20/2024 privind aprobarea Planului de actiune locala pentru anul 2024 privind incluziunea cetățenilor români aparținând minorității rome",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156802",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-21-2024",
+   "path": "local/calarasi/nana/2024/21",
+   "short": "HCL Nana nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 21/2024 privind modificarea HCL nr. 25/24.03.2022 privind aprobarea cofinanțării investițiilor din ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, aferente Comunei Nana",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156803",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-22-2024",
+   "path": "local/calarasi/nana/2024/22",
+   "short": "HCL Nana nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 22/2024 privind modificarea art. 2 si art 3 la HCL nr. 10 / 31.01.2024 privind aprobarea proiectului „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna NANA, judetul CALARASI - (cod serviciu social 8891CZ-C-II)” ȘI A CHELTUIELILOR LEGATE DE PROIECT",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156811",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-23-2024",
+   "path": "local/calarasi/nana/2024/23",
+   "short": "HCL Nana nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 23/2024 privind modificarea art 2 la hcl 11 / 31.01.2024 privind aprobarea DOCUMENTATIEI TEHNICO-ECONOMICE SI A INDICATORILOR TEHNICO-ECONOMICI FAZA SF pentru proiectul „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna NANA, judetul CALARASI – (cod serviciu social 8891CZ-C-II)”",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156812",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-24-2024",
+   "path": "local/calarasi/nana/2024/24",
+   "short": "HCL Nana nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 24/2024 privind modificarea art. 2 la HCL nr. 15 / 13.02.2024 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE SI A INDICATORILOR TEHNICO-ECONOMICI FAZA PT pentru proiectul „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna NANA, judetul CALARASI - (cod serviciu social 8891CZ-C-II)”",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156813",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-25-2024",
+   "path": "local/calarasi/nana/2024/25",
+   "short": "HCL Nana nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 25/2024 privind utilizarea excedentului bugetului local in anul 2024",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156814",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-26-2024",
+   "path": "local/calarasi/nana/2024/26",
+   "short": "HCL Nana nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 26/2024 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156815",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-27-2024",
+   "path": "local/calarasi/nana/2024/27",
+   "short": "HCL Nana nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 27/2024 privind aprobarea decontării navetei personalului didactic pentru luna februarie 2024",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156816",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-28-2024",
+   "path": "local/calarasi/nana/2024/28",
+   "short": "HCL Nana nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 28/2024 privind actualizarea devizului general în urma licitației pentru obiectivul de investiții “Asfaltare si modernizare drumuri comunale in zona est in comuna Nana judetul Calarasi”",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156817",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-29-2024",
+   "path": "local/calarasi/nana/2024/29",
+   "short": "HCL Nana nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 29/2024 privind actualizarea devizului general în urma licitației pentru realizarea obiectivului de investitii “Infiintare retea de canalizare si statie de epurare in comuna Nana, judetul Calarasi”",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156818",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156818",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--nana-30-2024",
    "path": "local/calarasi/nana/2024/30",
    "short": "HCL Nana nr. 30/2024",
@@ -13,6 +253,51 @@
      "from": "2024-05-20",
      "units": 1,
      "source_url": "https://emol.ro/nana-cl/registru-hcl/156819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-31-2024",
+   "path": "local/calarasi/nana/2024/31",
+   "short": "HCL Nana nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 31/2024 privind aprobarea alegerii preşedintelui de şedinţă al Consiliului Local al Comunei Nana pentru lunile aprilie 2024, mai 2024, iunie 2024",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156820",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-32-2024",
+   "path": "local/calarasi/nana/2024/32",
+   "short": "HCL Nana nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 32/2024 privind aprobarea participării unității administrativ-teritoriale Nana în cadrul Proiectului „MODERNIZAREA REȚELEI DE BIBLIOTECI PENTRU A DEVENI HUB-URI DE DEZVOLTARE A COMPETENȚELOR DIGITALE, DIN CADRUL PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ (PNRR) – HUB COMUNA MĂRĂCINENI, JUDEȚUL BUZĂU”",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156821",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-33-2024",
+   "path": "local/calarasi/nana/2024/33",
+   "short": "HCL Nana nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 33/2024 privind modificarea si completarea Anexei la Hotararea Consiliului Local al comunei Nana nr. 78 din 6 noiembrie 2023, privind atestarea apartenentei la domeniul privat al comunei Nana, judetul Calarasi",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156822",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156822",
      "sha256": null
     }
    ]

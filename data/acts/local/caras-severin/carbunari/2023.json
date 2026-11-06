@@ -246,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--carbunari-43-2023",
+"path": "local/caras-severin/carbunari/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 43/2023 privind alegere presedinte de sedinta",
+"short": "HCL Cărbunari nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/132976",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--carbunari-44-2023",
 "path": "local/caras-severin/carbunari/2023/44",
 "kind": "local",

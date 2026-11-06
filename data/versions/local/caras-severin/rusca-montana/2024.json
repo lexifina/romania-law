@@ -3,6 +3,66 @@
  "shard": "local/caras-severin/rusca-montana/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--rusca-montana-111-2024",
+   "path": "local/caras-severin/rusca-montana/2024/111",
+   "short": "HCL Rusca Montană nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 111/2024 privind aprobarea achiziționării unui refulator comercial modern, la nivelul Primăriei comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198587",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-112-2024",
+   "path": "local/caras-severin/rusca-montana/2024/112",
+   "short": "HCL Rusca Montană nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 112/2024 privind aprobarea achiziționării serviciilor pentru reautorizare investiție ABAB (Hydromaster)",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198588",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-113-2024",
+   "path": "local/caras-severin/rusca-montana/2024/113",
+   "short": "HCL Rusca Montană nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 113/2024 privind aprobarea achiziționării serviciilor de închiriere iluminat festiv pentru sărbătorile de iarnă 2024 - 2025, la nivelul comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198589",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-114-2024",
+   "path": "local/caras-severin/rusca-montana/2024/114",
+   "short": "HCL Rusca Montană nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 114/2024 privind aprobarea încheierii unui contract de prestări servicii pentru exploatarea cantității totale de 341,35 m3, masă lemnoasă din fondul forestier al Comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198590",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198590",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--rusca-montana-115-2024",
    "path": "local/caras-severin/rusca-montana/2024/115",
    "short": "HCL Rusca Montană nr. 115/2024",
@@ -13,6 +73,111 @@
      "from": "2024-11-19",
      "units": 1,
      "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-116-2024",
+   "path": "local/caras-severin/rusca-montana/2024/116",
+   "short": "HCL Rusca Montană nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 116/2024 privind desemnarea reprezentantului Consiliului local al comunei Rusca Montană în cadrul Consiliului de Administrație al Școlii Gimnaziale Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198592",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-117-2024",
+   "path": "local/caras-severin/rusca-montana/2024/117",
+   "short": "HCL Rusca Montană nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 117/2024",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198593",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-118-2024",
+   "path": "local/caras-severin/rusca-montana/2024/118",
+   "short": "HCL Rusca Montană nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 118/2024 privind desemnarea unui reprezentant responsabil cu exercitarea controlului financiar preventiv propriu în cadrul societății SC EC Ruscom Best SRL",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198594",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-119-2024",
+   "path": "local/caras-severin/rusca-montana/2024/119",
+   "short": "HCL Rusca Montană nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 119/2024 privind aprobarea acordării sprijinului financiar, pentru renovarea Bisericii Romano-Catolică din satul Rusca Montană, comuna Rusca Montană, județul Caraș-Severin",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198595",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-120-2024",
+   "path": "local/caras-severin/rusca-montana/2024/120",
+   "short": "HCL Rusca Montană nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 120/2024 privind alegerea președintelui de ședință a Consiliului local al comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198596",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-121-2024",
+   "path": "local/caras-severin/rusca-montana/2024/121",
+   "short": "HCL Rusca Montană nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 121/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198597",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-122-2024",
+   "path": "local/caras-severin/rusca-montana/2024/122",
+   "short": "HCL Rusca Montană nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 122/2024 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului local al comunei Rusca Montană din data de 19 Noiembrie 2024",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198598",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198598",
      "sha256": null
     }
    ]
@@ -48,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--rusca-montana-125-2024",
+   "path": "local/caras-severin/rusca-montana/2024/125",
+   "short": "HCL Rusca Montană nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 125/2024 privind modificarea HCL nr. 115/19.11.2024 pentru anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198601",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--rusca-montana-126-2024",
    "path": "local/caras-severin/rusca-montana/2024/126",
    "short": "HCL Rusca Montană nr. 126/2024",
@@ -58,6 +238,66 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-127-2024",
+   "path": "local/caras-severin/rusca-montana/2024/127",
+   "short": "HCL Rusca Montană nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 127/2024",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198603",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-128-2024",
+   "path": "local/caras-severin/rusca-montana/2024/128",
+   "short": "HCL Rusca Montană nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 128/2024 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198604",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-129-2024",
+   "path": "local/caras-severin/rusca-montana/2024/129",
+   "short": "HCL Rusca Montană nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 129/2024 privind aprobarea vânzării la licitație a unei cantități de masă lemnoasă pe picior din fondul forestier al comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198605",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-130-2024",
+   "path": "local/caras-severin/rusca-montana/2024/130",
+   "short": "HCL Rusca Montană nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 130/2024 privind aprobarea cheltuielilor necesare pentru focurile de artificii, pentru Revelion 2025",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198606",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198606",
      "sha256": null
     }
    ]

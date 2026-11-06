@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-71-2024",
+   "path": "local/caras-severin/lupac/2024/71",
+   "short": "HCL Lupac nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 71/2024 privind stabilirea componenţei echipei mobile pentru intervenţia de urgenţă în cazuri de violenţă domestică",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/185852",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/185852",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-72-2024",
    "path": "local/caras-severin/lupac/2024/72",
    "short": "HCL Lupac nr. 72/2024",
@@ -88,6 +103,21 @@
      "from": "2025-01-22",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/187817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-77-2024",
+   "path": "local/caras-severin/lupac/2024/77",
+   "short": "HCL Lupac nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 77/2024",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/187818",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/187818",
      "sha256": null
     }
    ]

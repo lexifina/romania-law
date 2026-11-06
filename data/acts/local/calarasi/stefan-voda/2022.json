@@ -3,6 +3,50 @@
 "shard": "local/calarasi/stefan-voda/2022",
 "acts": [
 {
+"slug": "hcl-calarasi--stefan-voda-45-2022",
+"path": "local/calarasi/stefan-voda/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 45/2022 privind desemnarea reprezentantului Consiliului Local Ștefan Vodă în Consiliul de administraţie al Școlii Gimnaziale nr. 1 Ștefan Vodă, în anul școlar 2022 – 2023",
+"short": "HCL Ștefan Vodă nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-07",
+"latest": "2023-07-07",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/71447",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-46-2022",
+"path": "local/calarasi/stefan-voda/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 46/2022 privind desemnarea reprezentantului Consiliului Local Ștefan Vodă în în Comisia pentru evaluarea asigurarea calității a Școlii Gimnaziale nr. 1 Ștefan Vodă, în anul școlar 2022 – 2023",
+"short": "HCL Ștefan Vodă nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-07",
+"latest": "2023-07-07",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/71448",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-47-2022",
 "path": "local/calarasi/stefan-voda/2022/47",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-48-2022",
+"path": "local/calarasi/stefan-voda/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 48/2022 privind aprobarea propunerii de schimbare a destinației imobilului situat în comuna Ștefan Vodă, strada Viorelelor, nr. 118, în vederea demolării corpurilor de clădire",
+"short": "HCL Ștefan Vodă nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-18",
+"latest": "2022-10-18",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/71450",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-64-2022",
+"path": "local/calarasi/stefan-voda/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 64/2022 privind desemnarea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/84253",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

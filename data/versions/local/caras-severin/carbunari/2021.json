@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-25-2021",
+   "path": "local/caras-severin/carbunari/2021/25",
+   "short": "HCL Cărbunari nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 25/2021 privind alegere președinte de ședință",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/41157",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/41157",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-26-2021",
    "path": "local/caras-severin/carbunari/2021/26",
    "short": "HCL Cărbunari nr. 26/2021",

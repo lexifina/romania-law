@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--glimboca-16-2025",
+   "path": "local/caras-severin/glimboca/2025/16",
+   "short": "HCL Glimboca nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 16/2025 privind ...aprobarea alocarii sumei de 40000lei în vederea finantarii contractului cu nr. 1639/26.06.2025 incheiatcu FCS BISTRA Glimboca",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/229007",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/229007",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--glimboca-17-2025",
    "path": "local/caras-severin/glimboca/2025/17",
    "short": "HCL Glimboca nr. 17/2025",
@@ -88,6 +103,21 @@
      "from": "2026-01-07",
      "units": 1,
      "source_url": "https://emol.ro/glimboca-cs/registru-hcl/245491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-22-2025",
+   "path": "local/caras-severin/glimboca/2025/22",
+   "short": "HCL Glimboca nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 22/2025 privind ...alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/245490",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/245490",
      "sha256": null
     }
    ]
@@ -178,6 +208,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/glimboca-cs/registru-hcl/245792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-29-2025",
+   "path": "local/caras-severin/glimboca/2025/29",
+   "short": "HCL Glimboca nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 29/2025 privind ...privind neasumarea responsabilității organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru şcoli al României în perioada 2026-2029 și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, pentru perioada 2026-2029",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/245801",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/245801",
      "sha256": null
     }
    ]

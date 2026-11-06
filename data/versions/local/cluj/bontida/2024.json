@@ -3,6 +3,21 @@
  "shard": "local/cluj/bontida/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--bontida-115-2024",
+   "path": "local/cluj/bontida/2024/115",
+   "short": "HCL Bonțida nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 115/2024 privind constituirea comisiilor de specialitate din cadrul Consiliului local al comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/189171",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/189171",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--bontida-116-2024",
    "path": "local/cluj/bontida/2024/116",
    "short": "HCL Bonțida nr. 116/2024",

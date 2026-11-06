@@ -3,6 +3,111 @@
  "shard": "local/caras-severin/bautar/2020",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bautar-24-2020",
+   "path": "local/caras-severin/bautar/2020/24",
+   "short": "HCL Băuțar nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 24/2020 privind aprobarea spre cheltuială a sumelor din excedentul bugetar local la 31.12.2019",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/11795",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/11795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-25-2020",
+   "path": "local/caras-severin/bautar/2020/25",
+   "short": "HCL Băuțar nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 25/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/11952",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/11952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-26-2020",
+   "path": "local/caras-severin/bautar/2020/26",
+   "short": "HCL Băuțar nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 26/2020 privind aprobarea spre cheltuială a sumelor din excedentul bugetar local la 31.12.2019",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/11953",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/11953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-27-2020",
+   "path": "local/caras-severin/bautar/2020/27",
+   "short": "HCL Băuțar nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 27/2020",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12115",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-28-2020",
+   "path": "local/caras-severin/bautar/2020/28",
+   "short": "HCL Băuțar nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 28/2020 privind aprobarea ieșirii din SC SPAȚII VERZI a asociatului STABAVAL IDEAS SRL și acceptarea ofertei de cesionare a părților sociale către Consiliul Local al comunei Băuțar",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12116",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-29-2020",
+   "path": "local/caras-severin/bautar/2020/29",
+   "short": "HCL Băuțar nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 29/2020 privind alegerea președintelui de ședință pentru o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12327",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-30-2020",
+   "path": "local/caras-severin/bautar/2020/30",
+   "short": "HCL Băuțar nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 30/2020 privind alegerea viceprimarului comunei Băuțar",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12328",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-31-2020",
    "path": "local/caras-severin/bautar/2020/31",
    "short": "HCL Băuțar nr. 31/2020",
@@ -18,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-32-2020",
+   "path": "local/caras-severin/bautar/2020/32",
+   "short": "HCL Băuțar nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 32/2020 privind aprobarea indicatorilor tehnico-economici, depunerea și implementarea proiectului ”Achiziție buldoexcavator cu atașamente, comuna Băuțar”",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12330",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-33-2020",
+   "path": "local/caras-severin/bautar/2020/33",
+   "short": "HCL Băuțar nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 33/2020 privind desemnarea a doi reprezentanți ai Consiliului Local al comunei Băuțar care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Băuțar, în anul școlar 2020-2021",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12331",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-34-2020",
+   "path": "local/caras-severin/bautar/2020/34",
+   "short": "HCL Băuțar nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 34/2020 privind achiziționarea unui autovehicul - autolitară în sumă de 50 de mii de lei",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12332",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12332",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-35-2020",
    "path": "local/caras-severin/bautar/2020/35",
    "short": "HCL Băuțar nr. 35/2020",
@@ -28,6 +178,66 @@
      "from": "2020-11-24",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/12333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-36-2020",
+   "path": "local/caras-severin/bautar/2020/36",
+   "short": "HCL Băuțar nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 36/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12334",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-37-2020",
+   "path": "local/caras-severin/bautar/2020/37",
+   "short": "HCL Băuțar nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 37/2020 privind desemnarea noului reprezentant legal al comunei Băuțar în relațiile cu AFIR pentru proiectele F.E.A.D.R",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12335",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-38-2020",
+   "path": "local/caras-severin/bautar/2020/38",
+   "short": "HCL Băuțar nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 38/2020 privind desemnarea persoanelor autorizare să dispună pe conturile bancare",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/12336",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/12336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-39-2020",
+   "path": "local/caras-severin/bautar/2020/39",
+   "short": "HCL Băuțar nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 39/2020 privind alocarea sumei de 7000 lei pentru Pomul de Crăciun",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/19842",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/19842",
      "sha256": null
     }
    ]

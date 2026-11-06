@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--carbunari-18-2020",
+"path": "local/caras-severin/carbunari/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 18/2020 privind alegere preşedinte de şedinţă",
+"short": "HCL Cărbunari nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-02",
+"latest": "2020-09-02",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/9001",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--carbunari-19-2020",
 "path": "local/caras-severin/carbunari/2020/19",
 "kind": "local",
@@ -223,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--carbunari-22-2020",
+"path": "local/caras-severin/carbunari/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 22/2020 privind alegere presedinte de sedinta",
+"short": "HCL Cărbunari nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/12378",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--carbunari-23-2020",
 "path": "local/caras-severin/carbunari/2020/23",
 "kind": "local",
@@ -242,6 +286,50 @@
 "council_name": "Consiliul Local al Comunei Cărbunari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--carbunari-24-2020",
+"path": "local/caras-severin/carbunari/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 24/2020 privind alegerea viceprimarului comunei Cărbunari",
+"short": "HCL Cărbunari nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/12380",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--carbunari-25-2020",
+"path": "local/caras-severin/carbunari/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 25/2020 privind aprobarea Contractului de delegare a activității de colectare separată și transportul separat al deșeurilor manajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, fără a aduce atingerefluxului de deșeuri de echipamente electrice și electronice, baterii și acumulatori",
+"short": "HCL Cărbunari nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/12381",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,51 @@
 "shard": "local/calarasi/soldanu/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--soldanu-23-2025",
+"path": "local/calarasi/soldanu/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 23/2025",
+"short": "HCL Șoldanu nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/210201",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-24-2025",
+"path": "local/calarasi/soldanu/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 24/2025 privind aprobarea utilizării excedentului bugetar pe anul 2024 al Comunei Șoldanu pentru finanțarea în cursul anului 2025 a unor cheltuieli de natura investițiilor pentru achiziția unor echipamente și aparatură birotică necesare funcționării noului sediu administrativ al Comunei Șoldanu",
+"short": "HCL Șoldanu nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/211980",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--soldanu-25-2025",
 "path": "local/calarasi/soldanu/2025/25",
 "kind": "local",
@@ -25,6 +70,273 @@
 }
 },
 {
+"slug": "hcl-calarasi--soldanu-26-2025",
+"path": "local/calarasi/soldanu/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 26/2025 privind aprobarea alegerii președintelui și a potențialului președinte de ședință al Consiliului Local al Comunei Șoldanu pentru lunile iulie, august și septembrie 2025",
+"short": "HCL Șoldanu nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/214485",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-27-2025",
+"path": "local/calarasi/soldanu/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 27/2025",
+"short": "HCL Șoldanu nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/228119",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-28-2025",
+"path": "local/calarasi/soldanu/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 28/2025 privind aprobarea completării anexei nr. 2 la Hotărârea Consiliului Local al Comunei Șoldanu nr. 31 din 12 mai 2015 privind aprobarea Contractului de delegare de gestiune a serviciilor publice de alimentare cu apă şi de canalizare, ale comunei Şoldanu, județul Călăraşi",
+"short": "HCL Șoldanu nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/228120",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-29-2025",
+"path": "local/calarasi/soldanu/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 29/2025 privind aprobarea alegerii președintelui de ședință al Consiliului Local al Comunei Șoldanu pentru lunile octombrie, noiembrie și decembrie 2025",
+"short": "HCL Șoldanu nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/228121",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-30-2025",
+"path": "local/calarasi/soldanu/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 30/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul al III-lea al anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi la Comuna Șoldanu, Judeţul Călăraşi",
+"short": "HCL Șoldanu nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/233794",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-31-2025",
+"path": "local/calarasi/soldanu/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 31/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al Comunei Șoldanu, în trimestrul al III-lea al anului fiscal 2025",
+"short": "HCL Șoldanu nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/233795",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-32-2025",
+"path": "local/calarasi/soldanu/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 32/2025",
+"short": "HCL Șoldanu nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/233796",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-33-2025",
+"path": "local/calarasi/soldanu/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 33/2025 privind aprobarea încheierii protocolului de colaborare între Comuna Șoldanu, Județul Călărași și Direcția Municipală de Servicii Publice a Municipiului Călărași (D.M.S.P.M.C.)",
+"short": "HCL Șoldanu nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/233797",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-34-2025",
+"path": "local/calarasi/soldanu/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 34/2025 privind aprobarea utilizării excedentului bugetar al Comunei Șoldanu, acumulat în anul 2024, pentru finanțarea în cursul anului 2025 a unor cheltuieli de natura investițiilor",
+"short": "HCL Șoldanu nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/235949",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-35-2025",
+"path": "local/calarasi/soldanu/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 35/2025",
+"short": "HCL Șoldanu nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/239145",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-36-2025",
+"path": "local/calarasi/soldanu/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 36/2025 privind aprobarea numărului de posturi de asistenţi personali ai persoanelor cu handicap grav pentru anul 2026 la Comuna Șoldanu",
+"short": "HCL Șoldanu nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/239146",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-37-2025",
+"path": "local/calarasi/soldanu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 37/2025 privind aprobarea Organigramei resurselor umane de la nivelul Comunei Șoldanu şi Statului de funcții al Primăriei Comunei Șoldanu, în noiembrie 2025",
+"short": "HCL Șoldanu nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/239147",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--soldanu-38-2025",
 "path": "local/calarasi/soldanu/2025/38",
 "kind": "local",
@@ -44,6 +356,94 @@
 "council_name": "Consiliul Local al Comunei Șoldanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-39-2025",
+"path": "local/calarasi/soldanu/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 39/2025 privind validarea Dispoziției Primarului Comunei Șoldanu nr. 258 din 02.12.2025 privind aprobarea diminuării bugetului local al Comunei Șoldanu pe anul 2025, în 2 decembrie 2025",
+"short": "HCL Șoldanu nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/243919",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-40-2025",
+"path": "local/calarasi/soldanu/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 40/2025 privind validarea Dispoziției Primarului Comunei Șoldanu nr. 262 din 09.12.2025 privind aprobarea majorării bugetului local al Comunei Șoldanu pe anul 2025, în 9 decembrie 2025",
+"short": "HCL Șoldanu nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/243920",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-41-2025",
+"path": "local/calarasi/soldanu/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 41/2025 privind validarea Dispoziției Primarului Comunei Șoldanu nr. 270 din 16.12.2025 privind aprobarea majorării bugetului local al Comunei Șoldanu pe anul 2025, în 16 decembrie 2025",
+"short": "HCL Șoldanu nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/243921",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-42-2025",
+"path": "local/calarasi/soldanu/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 42/2025 privind validarea Dispoziției Primarului Comunei Șoldanu nr. 272 din 18.12.2025 privind aprobarea majorării bugetului local al Comunei Șoldanu pe anul 2025, în 18 decembrie 2025",
+"short": "HCL Șoldanu nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/243922",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

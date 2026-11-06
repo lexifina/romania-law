@@ -3,6 +3,140 @@
 "shard": "local/calarasi/roseti/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--roseti-90-2025",
+"path": "local/calarasi/roseti/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 90/2025 privind aprobarea documentației tehnico – economice (faza Proiect Tehnic) și a indicatorilor tehnico-economici pentru proiectul de investiție „Construire sistem fotovoltaic prosumator pentru autoconsum în Comuna Roseți, Județul Călărași”",
+"short": "HCL Roseți nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/238965",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-91-2025",
+"path": "local/calarasi/roseti/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 91/2025 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2025",
+"short": "HCL Roseți nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/238966",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-92-2025",
+"path": "local/calarasi/roseti/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 92/2025 privind atribuirea în folosinţă gratuită a unei suprafeţe de teren din intravilanul comunei Roseţi, conform Legii 15/2003, pentru construire locuinţă proprietate personală, numiților Cărăușu Lidia-Mădălina Cărăușu George-Cătălin",
+"short": "HCL Roseți nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/238967",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-93-2025",
+"path": "local/calarasi/roseti/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 93/2025",
+"short": "HCL Roseți nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/238968",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-94-2025",
+"path": "local/calarasi/roseti/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 94/2025",
+"short": "HCL Roseți nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/238969",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-95-2025",
+"path": "local/calarasi/roseti/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 95/2025 privind atribuirea în folosinţă gratuită a unei suprafeţe de teren din intravilanul comunei Roseţi, conform Legii 15/2003, pentru construire locuinţă proprietate personală, numiților Ciucă Iasmina-Mariana și Ciucă Anghel",
+"short": "HCL Roseți nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/238970",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-96-2025",
 "path": "local/calarasi/roseti/2025/96",
 "kind": "local",
@@ -22,6 +156,29 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-97-2025",
+"path": "local/calarasi/roseti/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 97/2025",
+"short": "HCL Roseți nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/240591",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -69,6 +226,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-100-2025",
+"path": "local/calarasi/roseti/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 100/2025 privind aprobarea organizării reţelei şcolare a unităților de învățământ preuniversitar de stat de pe raza comunei Roseți, județul Călărași în anul școlar 2026-2027",
+"short": "HCL Roseți nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/245889",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-101-2025",
+"path": "local/calarasi/roseti/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 101/2025 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/245890",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-102-2025",
 "path": "local/calarasi/roseti/2025/102",
 "kind": "local",
@@ -113,6 +314,51 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-104-2025",
+"path": "local/calarasi/roseti/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 104/2025 privind încetarea contractului de închiriere nr. 3842 din 07.05.2024 a unei suprafețe de islaz/pajiște din domeniul privat al comunei Roseți, județul Călărași",
+"short": "HCL Roseți nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/245893",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-105-2025",
+"path": "local/calarasi/roseti/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 105/2025",
+"short": "HCL Roseți nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/245894",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-106-2025",
 "path": "local/calarasi/roseti/2025/106",
 "kind": "local",
@@ -136,6 +382,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-107-2025",
+"path": "local/calarasi/roseti/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 107/2025 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2025",
+"short": "HCL Roseți nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/245896",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-108-2025",
 "path": "local/calarasi/roseti/2025/108",
 "kind": "local",
@@ -155,6 +423,28 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-109-2025",
+"path": "local/calarasi/roseti/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 109/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Roseți nr. 109/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/245898",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

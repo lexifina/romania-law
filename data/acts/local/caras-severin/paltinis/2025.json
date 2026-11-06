@@ -3,6 +3,50 @@
 "shard": "local/caras-severin/paltinis/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--paltinis-21-2025",
+"path": "local/caras-severin/paltinis/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 21/2025 privind desemnarea unui reprezentant al Consiliului Local al Comunei Păltiniș, în Comisia pentru Evaluarea și Asigurarea Calității a Școlii Gimnaziale Cornuțel, Comuna Păltiniș, jud. Caraș-Severin",
+"short": "HCL Păltiniș nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/248536",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--paltinis-22-2025",
+"path": "local/caras-severin/paltinis/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 22/2025 privind aprobarea dezmembrării imobilului cu nr. cadastral 31783, Teren neîmprejmuit, situat în intravilanul Loc. Păltiniș, în suprafață totală de 507.603 mp, înscris în CF nr. 31783 - Păltiniș",
+"short": "HCL Păltiniș nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/248537",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--paltinis-23-2025",
 "path": "local/caras-severin/paltinis/2025/23",
 "kind": "local",
@@ -71,6 +115,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--paltinis-26-2025",
+"path": "local/caras-severin/paltinis/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 26/2025 privind aprobarea alocării de la bugetul local al comunei, a sumei de 20.000 lei, pentru cumpărarea și acordarea de pungi cu cadouri, cu ocazia Sărbătorilor de Iarnă - 2025, tuturor elevilor școlari și preșcolari înscriși la școlile și grădinițele din comuna Păltiniș, județul Caraș-Severin",
+"short": "HCL Păltiniș nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/248551",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--paltinis-27-2025",
 "path": "local/caras-severin/paltinis/2025/27",
 "kind": "local",
@@ -90,6 +156,28 @@
 "council_name": "Consiliul Local al Comunei Păltiniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--paltinis-28-2025",
+"path": "local/caras-severin/paltinis/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 28/2025 privind aprobarea acordării unui mandat special ADI ''INTERCOM DEȘEURI'' Caraș-Severin, de atribuire a contractelor de delegare pentru activitățile de sortare, tratare și/sau depozitare a deșeurilor municipale rezultate din activitățile de salubrizare pe raza UAT Păltiniș",
+"short": "HCL Păltiniș nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/248553",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -134,6 +222,50 @@
 "council_name": "Consiliul Local al Comunei Păltiniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--paltinis-31-2025",
+"path": "local/caras-severin/paltinis/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 31/2025 privind modificarea art. 2 de la HCL nr. 37/05.11.2021, privind actualizarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ''Extinderea frontului de captare și înființare conductă de aducțiune în localitatea Păltiniș, comuna Păltiniș, județul Caraș-Severin, prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Păltiniș nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/248557",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--paltinis-32-2025",
+"path": "local/caras-severin/paltinis/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 32/2025 privind modificarea art. 2 de la HCL nr. 38/05.11.2021, privind actualizarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții 'Extinderea rețelelor de canalizare în localitatea Păltiniș, echipare rețea de canalizare existentă cu racorduri individuale și reabilitarea stației de epurare în localitatea Păltiniș, comuna Păltiniș, județul Caraș-Severin'', prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Păltiniș nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/248565",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

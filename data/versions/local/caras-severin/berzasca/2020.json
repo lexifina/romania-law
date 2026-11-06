@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-60-2020",
+   "path": "local/caras-severin/berzasca/2020/60",
+   "short": "HCL Berzasca nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 60/2020 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna noiembrie 2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/20045",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20045",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-61-2020",
    "path": "local/caras-severin/berzasca/2020/61",
    "short": "HCL Berzasca nr. 61/2020",
@@ -73,6 +88,36 @@
      "from": "2020-11-03",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-62-2020",
+   "path": "local/caras-severin/berzasca/2020/62",
+   "short": "HCL Berzasca nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 62/2020 privind alegerea viceprimarului comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/20047",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-63-2020",
+   "path": "local/caras-severin/berzasca/2020/63",
+   "short": "HCL Berzasca nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 63/2020 privind desemnarea a doi consilieri locali din cadrul Consiliului Local al comunei Berzasca, pentru a face parte în Consiliul de Administrație al Școlii Gimnaziale Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/20048",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20048",
      "sha256": null
     }
    ]
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-68-2020",
+   "path": "local/caras-severin/berzasca/2020/68",
+   "short": "HCL Berzasca nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 68/2020 privind aprobarea proiectului cu titlul ''Dotarea Școlii Gimnaziale Berzasca cu echipamente mobile din domeniul tehnologiei informației, pentru desfășurarea procesului educațional de tip școala ONLINE''",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/20053",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20053",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-69-2020",
    "path": "local/caras-severin/berzasca/2020/69",
    "short": "HCL Berzasca nr. 69/2020",
@@ -178,6 +238,36 @@
      "from": "2020-12-30",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-72-2020",
+   "path": "local/caras-severin/berzasca/2020/72",
+   "short": "HCL Berzasca nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 72/2020 privind stabilirea indemnizației maxime de care beneficiază consilierii locali din cadrul Consiliului Local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/20057",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-73-2020",
+   "path": "local/caras-severin/berzasca/2020/73",
+   "short": "HCL Berzasca nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 73/2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/20058",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20058",
      "sha256": null
     }
    ]

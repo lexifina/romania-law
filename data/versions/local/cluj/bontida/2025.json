@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--bontida-129-2025",
+   "path": "local/cluj/bontida/2025/129",
+   "short": "HCL Bonțida nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 129/2025 privind revocarea Hotărârii Consiliului Local al Comunei Bonțida nr. 62/11.04.2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/268003",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/268003",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--bontida-130-2025",
    "path": "local/cluj/bontida/2025/130",
    "short": "HCL Bonțida nr. 130/2025",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--bontida-133-2025",
+   "path": "local/cluj/bontida/2025/133",
+   "short": "HCL Bonțida nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 133/2025 privind acordarea titlului de ''Cetățean de Onoare al Comunei Bonțida''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/268017",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/268017",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--bontida-134-2025",
    "path": "local/cluj/bontida/2025/134",
    "short": "HCL Bonțida nr. 134/2025",
@@ -133,6 +163,36 @@
      "from": "2026-05-12",
      "units": 1,
      "source_url": "https://emol.ro/bontida-cj/registru-hcl/268026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-136-2025",
+   "path": "local/cluj/bontida/2025/136",
+   "short": "HCL Bonțida nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 136/2025 privind cooptarea unui nou asociat prin majorarea capitalului social la Societatea de Transport SRL și desemnare reprezentant al Consiliului Local al Comunei Bonțida în Adunarea Generală a asociaților",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/268027",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/268027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-137-2025",
+   "path": "local/cluj/bontida/2025/137",
+   "short": "HCL Bonțida nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 137/2025 privind însușirea variantei finale a proiectului de steag a comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/268028",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/268028",
      "sha256": null
     }
    ]

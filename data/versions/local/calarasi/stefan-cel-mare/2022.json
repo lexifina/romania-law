@@ -3,6 +3,21 @@
  "shard": "local/calarasi/stefan-cel-mare/2022",
  "acts": [
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-60-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/60",
+   "short": "HCL Ștefan cel Mare nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 60/2022 privind închirierea prin licitație publică a unui teren intravilan",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/79323",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/79323",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-61-2022",
    "path": "local/calarasi/stefan-cel-mare/2022/61",
    "short": "HCL Ștefan cel Mare nr. 61/2022",
@@ -73,6 +88,66 @@
      "from": "2022-11-22",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-66-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/66",
+   "short": "HCL Ștefan cel Mare nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 66/2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80769",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-67-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/67",
+   "short": "HCL Ștefan cel Mare nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 67/2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80770",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-68-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/68",
+   "short": "HCL Ștefan cel Mare nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 68/2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80771",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-69-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/69",
+   "short": "HCL Ștefan cel Mare nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 69/2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80772",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80772",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "cnsc/2025",
  "acts": [
   {
+   "slug": "cnsc-decizie-2025-1428",
+   "path": "cnsc/decizie/2025/1428",
+   "short": "Decizia CNSC nr. 1428/C9/1009 din 06.05.2025",
+   "title": "Decizia CNSC nr. 1428/C9/1009 din 06.05.2025: contestația GARDEN SHOP SERVICES SA în contradictoriu cu MUNICIPIUL CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmFlMDE4YmEtNWFjZi00MjQ2LWEyNDEtNDBmMDBkYzJhZTY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDI4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmFlMDE4YmEtNWFjZi00MjQ2LWEyNDEtNDBmMDBkYzJhZTY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDI4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "56870026d69b8777a960674bb09c844c9ab33435da24f64154377576fca97fc2"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2025-1524",
+   "path": "cnsc/decizie/2025/1524",
+   "short": "Decizia CNSC nr. 1524/C8/1666 din 13.05.2025",
+   "title": "Decizia CNSC nr. 1524/C8/1666 din 13.05.2025: contestația DRAGOSTAL TITAN GUARD SRL în contradictoriu cu MUNICIPIUL SACELE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTgyZTA1NGUtZGU4Yy00YTAyLWIxN2YtYmFiODIwMjFmMzM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTI0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTgyZTA1NGUtZGU4Yy00YTAyLWIxN2YtYmFiODIwMjFmMzM0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTI0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "6c352b3aae3b5182446f2609abf11aed3f952b13a8aaca934d46159179627f8e"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2025-1626",
    "path": "cnsc/decizie/2025/1626",
    "short": "Decizia CNSC nr. 1626/C4/1467 din 20.05.2025",

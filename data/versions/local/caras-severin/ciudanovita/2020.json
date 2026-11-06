@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-34-2020",
+   "path": "local/caras-severin/ciudanovita/2020/34",
+   "short": "HCL Ciudanovița nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 34/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/15381",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/15381",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-35-2020",
    "path": "local/caras-severin/ciudanovita/2020/35",
    "short": "HCL Ciudanovița nr. 35/2020",
@@ -28,6 +43,36 @@
      "from": "2020-11-02",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/15382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-36-2020",
+   "path": "local/caras-severin/ciudanovita/2020/36",
+   "short": "HCL Ciudanovița nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 36/2020 privind alegerea viceprimarului comunei Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/15383",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/15383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-37-2020",
+   "path": "local/caras-severin/ciudanovita/2020/37",
+   "short": "HCL Ciudanovița nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 37/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/15384",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/15384",
      "sha256": null
     }
    ]
@@ -123,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-44-2020",
+   "path": "local/caras-severin/ciudanovita/2020/44",
+   "short": "HCL Ciudanovița nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 44/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/15391",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/15391",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-45-2020",
    "path": "local/caras-severin/ciudanovita/2020/45",
    "short": "HCL Ciudanovița nr. 45/2020",
@@ -163,6 +223,21 @@
      "from": "2020-12-18",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/15394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-48-2020",
+   "path": "local/caras-severin/ciudanovita/2020/48",
+   "short": "HCL Ciudanovița nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 48/2020 privind aprobarea achiziționării și montării de ornamente stradale, cu ocazia sărbătorilor de iarnă, în localitățile din comuna Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/15395",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/15395",
      "sha256": null
     }
    ]

@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/independenta/2026",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--independenta-1-2026",
+   "path": "local/calarasi/independenta/2026/1",
+   "short": "HCL Independența nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 1/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.1-din-29.01.2026-1.pdf",
+     "sha256": "e7395161e6c2577f729bfb6597eec01889fc93da41c0f88ad5dbc6c5601a7f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-10-2026",
+   "path": "local/calarasi/independenta/2026/10",
+   "short": "HCL Independența nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 10/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.10-din-12.03.2026.pdf",
+     "sha256": "8a5e422bd1db4cf1bf4ac06a852921e5d1f545dd35fc9ce2d251d9f6245dc670"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-11-2026",
+   "path": "local/calarasi/independenta/2026/11",
+   "short": "HCL Independența nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 11/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.11-din-12.03.2026.pdf",
+     "sha256": "742060db7cd599a9b6462e75531f69a4e07d379ce5caf49c664a4be0e4a039b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-12-2026",
+   "path": "local/calarasi/independenta/2026/12",
+   "short": "HCL Independența nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 12/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.12-din-25.03.2026.pdf",
+     "sha256": "9d359720fe6274739f97ca029415e7766d119926053bfaf4bb751dbf648c1055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-13-2026",
+   "path": "local/calarasi/independenta/2026/13",
+   "short": "HCL Independența nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 13/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.13-din-25.03.2026.pdf",
+     "sha256": "dd3854f51a057615a0d195695efdda20d17aa7dd1e13ecaed8a20415b2a42c4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-14-2026",
+   "path": "local/calarasi/independenta/2026/14",
+   "short": "HCL Independența nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 14/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.14-din-15.04.2026.pdf",
+     "sha256": "877497313b8a774a48f4c0bd37ed01ba1a792387dc2e63a1fb51a09f415f1d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-15-2026",
+   "path": "local/calarasi/independenta/2026/15",
+   "short": "HCL Independența nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 15/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.15-din-15.04.2026.pdf",
+     "sha256": "9dbf8c8340405827238c57b3b02ef4620dd3ecba8dad519c1710da034d545ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-16-2026",
+   "path": "local/calarasi/independenta/2026/16",
+   "short": "HCL Independența nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 16/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.16-din-15.04.2026.pdf",
+     "sha256": "7dfd490c9b57ee52f5800706417991f398ab773eced631875be840666bddb847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-17-2026",
+   "path": "local/calarasi/independenta/2026/17",
+   "short": "HCL Independența nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 17/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.17-din-15.04.2026.pdf",
+     "sha256": "0b46dc410ca4172bfd56217a85e243913adc3f749c21f0fc2f1f1ac42ea8e378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-18-2026",
+   "path": "local/calarasi/independenta/2026/18",
+   "short": "HCL Independența nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 18/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.18-din-15.04.2026.pdf",
+     "sha256": "a1d462a9f8615cd0cce6540a4108460d2613605a997ca37b855093a46e9ebe9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-19-2026",
+   "path": "local/calarasi/independenta/2026/19",
+   "short": "HCL Independența nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 19/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.19-din-07.05.2026.pdf",
+     "sha256": "f8ddb3389315e79974a1038d56d7a8c63cbcd9e96e9201eb7cbf6b7d347996d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-2-2026",
+   "path": "local/calarasi/independenta/2026/2",
+   "short": "HCL Independența nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 2/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.2-din-29.01.2026.pdf",
+     "sha256": "2ee6f79d9ee67e0a30cb84f812259810a325f2f99f39065380656b09872bdeb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-20-2026",
+   "path": "local/calarasi/independenta/2026/20",
+   "short": "HCL Independența nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 20/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.20-din-07.05.2026.pdf",
+     "sha256": "54d7fca5d746a3cf11d479845e073357c0420c7c7b3d5353f41530c9328e043d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-21-2026",
+   "path": "local/calarasi/independenta/2026/21",
+   "short": "HCL Independența nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 21/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.21-din-07.05.2026.pdf",
+     "sha256": "120839719efed8c855245bb4cb11e4a6cebb7bf365fa8b7d71a2e577b2184a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-22-2026",
+   "path": "local/calarasi/independenta/2026/22",
+   "short": "HCL Independența nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 22/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.-22-din-07.05.2026.pdf",
+     "sha256": "cf93deca2de922d3b9109f7708106449597e014301f83c06d23d848d029ceb4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-23-2026",
+   "path": "local/calarasi/independenta/2026/23",
+   "short": "HCL Independența nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 23/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARARE-Nr.23-din-07.05.2026.pdf",
+     "sha256": "288d5a18b4bb9653d90d4172290bd8236ca88f7c3da178d76209bd9927ab261f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-24-2026",
+   "path": "local/calarasi/independenta/2026/24",
+   "short": "HCL Independența nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 24/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.-24-din-07.05.2026.pdf",
+     "sha256": "66bc54c8f8c0b5079acb563c19cc5c3abba4644c884a5f1ad9b50dda3d46a4b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-25-2026",
+   "path": "local/calarasi/independenta/2026/25",
+   "short": "HCL Independența nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 25/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.25-din-07.05.2026.pdf",
+     "sha256": "d8ab195fd1e95f9b5f7a2d6b44e67dddbf6a412b7bb0d8c00bccee20c7cc216b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-3-2026",
+   "path": "local/calarasi/independenta/2026/3",
+   "short": "HCL Independența nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 3/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.3-din-29.01.2026.pdf",
+     "sha256": "f4d57a5ecb6ac34ded5e2b685455d6ad53e451e9419bbb288f68b924444d39a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-31-2026",
+   "path": "local/calarasi/independenta/2026/31",
+   "short": "HCL Independența nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 31/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.31-din-15.07.2026.pdf",
+     "sha256": "51b8dc141e736baea2a10bdfb61f6231b060947ee278b993f281d1c5e5f3455b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-33-2026",
+   "path": "local/calarasi/independenta/2026/33",
+   "short": "HCL Independența nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 33/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.33-din-15.07.2026.pdf",
+     "sha256": "72ab6605433b4a24c87f9d1be66ed0a00f718d2dd83c6b6b1263361cff97c3c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-34-2026",
+   "path": "local/calarasi/independenta/2026/34",
+   "short": "HCL Independența nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 34/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.34-din-30.07.2026.pdf",
+     "sha256": "76e64066a041a221fba5f7477bc68bd1f82e7b2ef53d6abfcf0ae21d48a912dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-35-2026",
+   "path": "local/calarasi/independenta/2026/35",
+   "short": "HCL Independența nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 35/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.35-din-30.07.2026.pdf",
+     "sha256": "dcb41356f8e7e1855057cea8f5c35ea1a5044f101dc079819c21b96af44d6d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-36-2026",
+   "path": "local/calarasi/independenta/2026/36",
+   "short": "HCL Independența nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 36/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.36-din-30.07.2026.pdf",
+     "sha256": "15666e2a166e67fb38e95a605ea090750e2e8fa50358c49f925fb10c9601d939"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-37-2026",
+   "path": "local/calarasi/independenta/2026/37",
+   "short": "HCL Independența nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 37/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.37-din-20.08.2026.pdf",
+     "sha256": "d1a6552a88f524f8d2da890809feb25e4c2248407cb2071349f0bbd11650e1e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-38-2026",
+   "path": "local/calarasi/independenta/2026/38",
+   "short": "HCL Independența nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 38/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.38-din-20.08.2026.pdf",
+     "sha256": "f7cb3d6f5e773ba3332903b05454dad9b56da328a9333d940d0e49d79deebb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-39-2026",
+   "path": "local/calarasi/independenta/2026/39",
+   "short": "HCL Independența nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 39/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.39-din-20.08.2026.pdf",
+     "sha256": "f28bd7723be7caf617b3637030ad92bdd16c8b87a98ec9c76dc9374b3eae5779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-4-2026",
+   "path": "local/calarasi/independenta/2026/4",
+   "short": "HCL Independența nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 4/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.4-din-19.02.2026-2.pdf",
+     "sha256": "cb2f78dc98c119cd9a845db117bb75bc851c5b17e1fa829b26a8ae748c94cdf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-40-2026",
+   "path": "local/calarasi/independenta/2026/40",
+   "short": "HCL Independența nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 40/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.40-din-20.08.2026.pdf",
+     "sha256": "0777c08832a1b43dbfdbc090c154dd8a80b56bd5a075a282a53abbdb0dcd0752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-5-2026",
+   "path": "local/calarasi/independenta/2026/5",
+   "short": "HCL Independența nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 5/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-NR.5-din-19.02.2026.pdf",
+     "sha256": "9f62b4ec10ca9040aff9bf9dfd6b64f7bd075bab8aa07eed7ed63086145039ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-6-2026",
+   "path": "local/calarasi/independenta/2026/6",
+   "short": "HCL Independența nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 6/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.6-din-19.02.2026.pdf",
+     "sha256": "004f3031cec251618ed6c05e5441a70e722cdfde514a2c1334a384ad6238d418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-7-2026",
+   "path": "local/calarasi/independenta/2026/7",
+   "short": "HCL Independența nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 7/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.7-din-19.02.2026.pdf",
+     "sha256": "a39d33b3aa4c0d960e6c032e17a33581cea2bd62e9c7c5b6608aa141915d761f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-8-2026",
+   "path": "local/calarasi/independenta/2026/8",
+   "short": "HCL Independența nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 8/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-NR.8-din-12.03.2026.pdf",
+     "sha256": "01b006b3b2259b6b2d39d4100959d2b6ec3c5c8305f39a818d30b0b0b664095e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-9-2026",
+   "path": "local/calarasi/independenta/2026/9",
+   "short": "HCL Independența nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 9/2026",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.9-din-12.03.2026.pdf",
+     "sha256": "c05d7f05ba601eb3a9fe30fbde56a9d8a4c077bd698113eb84337a33c458f27d"
+    }
+   ]
+  }
+ ]
+}

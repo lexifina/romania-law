@@ -3,6 +3,72 @@
 "shard": "local/caras-severin/glimboca/2024",
 "acts": [
 {
+"slug": "hcl-caras-severin--glimboca-21-2024",
+"path": "local/caras-severin/glimboca/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 21/2024 privind rectificarea bugetului propriu al comunei Glimboca, jud. Caraș-Severin, pe trim. III 2024, cu suma de 208.00 mii lei",
+"short": "HCL Glimboca nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/178564",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-22-2024",
+"path": "local/caras-severin/glimboca/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 22/2024 privind rectificarea bugetului propriu al comunei Glimboca, jud. Caraș-Severin pe trim. III 2024, cu suma de 303,40 mii lei",
+"short": "HCL Glimboca nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/178566",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-23-2024",
+"path": "local/caras-severin/glimboca/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 23/2024 privind darea în administrare a unui autoturism marca Dacia Duster către Serviciul Public de Alimentare cu Apă și Canalizare cu personalitate juridică al comunei Glimboca",
+"short": "HCL Glimboca nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/178568",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--glimboca-24-2024",
 "path": "local/caras-severin/glimboca/2024/24",
 "kind": "local",
@@ -25,6 +91,116 @@
 }
 },
 {
+"slug": "hcl-caras-severin--glimboca-25-2024",
+"path": "local/caras-severin/glimboca/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 25/2024 privind rectificarea bugetului prin alocarea din excedentul bugetului propriu al comunei Glimboca, jud. Caraș-Severin pe trim. IV 2024 a sumei de 206,20 mii lei",
+"short": "HCL Glimboca nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/178571",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-26-2024",
+"path": "local/caras-severin/glimboca/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 26/2024 privind alegerea președintelui de ședință",
+"short": "HCL Glimboca nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/178573",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-27-2024",
+"path": "local/caras-severin/glimboca/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 27/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Glimboca",
+"short": "HCL Glimboca nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/178574",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-28-2024",
+"path": "local/caras-severin/glimboca/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 28/2024 privind alegerea viceptimarului comunei Glimboca",
+"short": "HCL Glimboca nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/178575",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-29-2024",
+"path": "local/caras-severin/glimboca/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 29/2024 privind rectificarea bugetului propriu al comunei Glimboca, jud. Caraș-Severin pe trim. IV 2024, cu suma de 801,00 mii lei",
+"short": "HCL Glimboca nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/195913",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--glimboca-30-2024",
 "path": "local/caras-severin/glimboca/2024/30",
 "kind": "local",
@@ -44,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Glimboca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-31-2024",
+"path": "local/caras-severin/glimboca/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 31/2024 privind rectificarea bugetului propriu al comunei Glimboca, jud. Caraș-Severin pe trim. IV 2024, cu suma de 321,00 mii lei",
+"short": "HCL Glimboca nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/195915",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

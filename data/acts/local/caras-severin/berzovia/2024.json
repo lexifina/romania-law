@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzovia-55-2024",
+"path": "local/caras-severin/berzovia/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 55/2024 privind stabilirea de măsuri pentru organizarea, coordonarea și sprijinirea activității echipei mobile la intervențiile de urgență în cazurile de violență domestică",
+"short": "HCL Berzovia nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-20",
+"latest": "2025-01-20",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/187386",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzovia-56-2024",
 "path": "local/caras-severin/berzovia/2024/56",
 "kind": "local",
@@ -179,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzovia-62-2024",
+"path": "local/caras-severin/berzovia/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 62/2024 privind aprobarea înființării Clubului sportiv de drept public „Club Sportiv Comunal Berzobis Berzovia”",
+"short": "HCL Berzovia nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-23",
+"latest": "2025-01-23",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/188206",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzovia-63-2024",
 "path": "local/caras-severin/berzovia/2024/63",
 "kind": "local",
@@ -198,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-64-2024",
+"path": "local/caras-severin/berzovia/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 64/2024 privind aprobarea prețului de producere, transport și distribuție al apei potabile și a taxei pentru debranșare/branșare de la rețeaua publică de apă, în cazul în care a fost întreruptă furnizarea serviciului de alimentare cu apă pentru neachitarea facturilor, pentru Serviciul Public de Gospodărie Comunală Berzovia, județul Caraș-Severin",
+"short": "HCL Berzovia nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-23",
+"latest": "2025-01-23",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/188208",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-67-2024",
+"path": "local/caras-severin/berzovia/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 67/2024 privind suplimentarea cu 2 posturi a numărului de asistenți personali pentru persoanele cu handicap grav la nivelul comunei Berzovia, județul Caraș-Severin",
+"short": "HCL Berzovia nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-23",
+"latest": "2025-01-23",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/188211",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

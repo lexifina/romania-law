@@ -157,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-50-2026",
+"path": "local/calarasi/valea-argovei/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 50/2026 privind numirea reprezentanților Consiliului Local al Comunei Valea Argovei în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiei de director",
+"short": "HCL Valea Argovei nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/288695",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-51-2026",
+"path": "local/calarasi/valea-argovei/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 51/2026 privind numirea reprezentanților Consiliului Local al Comunei Valea Argovei în Consiliul de Administrație al Școlii Gimnaziale nr.1 Valea Argovei și în Comisia de Evaluare și Asigurare a Calității",
+"short": "HCL Valea Argovei nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/288696",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-52-2026",
 "path": "local/calarasi/valea-argovei/2026/52",
 "kind": "local",
@@ -330,6 +374,50 @@
 "council_name": "Consiliul Local al Comunei Valea Argovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-60-2026",
+"path": "local/calarasi/valea-argovei/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 60/2026 privind retragerea dreptului de folosință gratuită a unor terenuri atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+"short": "HCL Valea Argovei nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/296994",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-61-2026",
+"path": "local/calarasi/valea-argovei/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 61/2026 privind decontarea navetei pentru cadrele didactice pentru lunile septembrie-octombrie 2026",
+"short": "HCL Valea Argovei nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/296995",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

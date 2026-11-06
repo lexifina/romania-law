@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-54-2026",
+   "path": "local/caras-severin/ezeris/2026/54",
+   "short": "HCL Ezeriș nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 54/2026 privind încetarea contractului de asociere in participațiune nr 22/08.01.2024, , respectiv a contractului de superficie nr 713/07.03.2024 încheiate intre Comuna Ezeriș și SC SUN RENEN TSV PVP SRL",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287124",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287124",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-55-2026",
    "path": "local/caras-severin/ezeris/2026/55",
    "short": "HCL Ezeriș nr. 55/2026",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-58-2026",
+   "path": "local/caras-severin/ezeris/2026/58",
+   "short": "HCL Ezeriș nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 58/2026 privind aprobarea dezlipirii din CF 1762 Ezeriș nr. top.226/3/5/a/1/b/a/3/a/1/b/2/1, Cad. 288 a suprafeței de 6941 mp, teren situat in intravilan localitatea Soceni, comuna Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287141",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287141",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-59-2026",
    "path": "local/caras-severin/ezeris/2026/59",
    "short": "HCL Ezeriș nr. 59/2026",
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-61-2026",
+   "path": "local/caras-severin/ezeris/2026/61",
+   "short": "HCL Ezeriș nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 61/2026 privind aprobarea dezlipirii din CF 1762 Ezeriș nr. top.226/3/5/a/1/b/a/3/a/1/b/2/1, Cad. 288 a suprafeței de 467 mp, teren situat in intravilan localitatea Soceni, comuna Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287159",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-62-2026",
    "path": "local/caras-severin/ezeris/2026/62",
    "short": "HCL Ezeriș nr. 62/2026",
@@ -108,6 +153,66 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-63-2026",
+   "path": "local/caras-severin/ezeris/2026/63",
+   "short": "HCL Ezeriș nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 63/2026 privind aprobarea raportului de evaluare și vânzarea terenului intravilan in suprafață de 1.000 mp, CF 34225, Nr. Cad. 34225, domeniu privat, localitatea Ezeriș, Comuna Ezeriș, județul Caraș-Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287181",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-64-2026",
+   "path": "local/caras-severin/ezeris/2026/64",
+   "short": "HCL Ezeriș nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 64/2026 privind aprobarea raportului de evaluare și vânzarea terenului intravilan in suprafață de 1.000 mp, CF 34218, Nr. Cad. 34218, domeniu privat, localitatea Ezeriș, Comuna Ezeriș, județul Caraș-Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287192",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-65-2026",
+   "path": "local/caras-severin/ezeris/2026/65",
+   "short": "HCL Ezeriș nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 65/2026 privind aprobarea raportului de evaluare și vânzarea terenului extravilan, categoria de folosință teren neproductiv, situat în comuna Ezeriș (loc numit Urviz), în suprafață de 96.700 mp, CF 33634, nr. cad. 33634, domeniu privat",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287197",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-66-2026",
+   "path": "local/caras-severin/ezeris/2026/66",
+   "short": "HCL Ezeriș nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 66/2026 privind aprobarea dării în folosință gratuită, în baza unui contract de comodat, a unui spațiu aflat în proprietatea Comunei Ezeriș, situat în Clădirea nr. 4, înscrisă în CF nr. 30768, în vederea funcționării Postului de Poliție Ezeriș, pentru o perioadă de 5 ani",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287198",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287198",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-67-2026",
    "path": "local/caras-severin/ezeris/2026/67",
    "short": "HCL Ezeriș nr. 67/2026",
@@ -118,6 +223,36 @@
      "from": "2026-09-11",
      "units": 1,
      "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-68-2026",
+   "path": "local/caras-severin/ezeris/2026/68",
+   "short": "HCL Ezeriș nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 68/2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287200",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-69-2026",
+   "path": "local/caras-severin/ezeris/2026/69",
+   "short": "HCL Ezeriș nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 69/2026 privind aprobarea marcării unei cantități de masă lemnoasă din pădurea comunală a Comunei Ezeriș, în vederea valorificării prin vânzare la licitație publică",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287201",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287201",
      "sha256": null
     }
    ]

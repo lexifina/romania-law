@@ -3,6 +3,21 @@
  "shard": "local/calarasi/vasilati/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--vasilati-54-2025",
+   "path": "local/calarasi/vasilati/2025/54",
+   "short": "HCL Vasilați nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 54/2025 privind aprobarea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Vasilați, având categoria de folosință pășune, în suprafața totală de 50,00 ha, situat în extravilanul comunei Vasilați, sat Vasilați, înscris în Cărțile Funciare Vasilați nr.27436, și nr.28861, pentru producerea de energie electrică din surse regenerabile: capacităţi de producţie a energiei solare, în sistem dual",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/231686",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/231686",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-55-2025",
    "path": "local/calarasi/vasilati/2025/55",
    "short": "HCL Vasilați nr. 55/2025",
@@ -18,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--vasilati-56-2025",
+   "path": "local/calarasi/vasilati/2025/56",
+   "short": "HCL Vasilați nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 56/2025 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pentru semestrul I al anului 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/231688",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/231688",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-57-2025",
    "path": "local/calarasi/vasilati/2025/57",
    "short": "HCL Vasilați nr. 57/2025",
@@ -28,6 +58,51 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/231689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-58-2025",
+   "path": "local/calarasi/vasilati/2025/58",
+   "short": "HCL Vasilați nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 58/2025 privind alegerea Președintelui de ședință al Consiliului Local al comunei Vasilați pentru lunile noiembrie și decembrie 2025 și ianuarie 2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/231690",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/231690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-59-2025",
+   "path": "local/calarasi/vasilati/2025/59",
+   "short": "HCL Vasilați nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 59/2025 privind revocarea Hotărârii Consiliului Local Vasilați nr.51/26.09.2025, privind aprobarea concesionării, prin licitație publică, a suprafeței de 21.536 mp. teren intravilan neproductiv, având nr. cadastral 27468, înscris în Cartea Funciară nr.27468 Vasilați, în vederea înființării pe acesta a unui centru de reabilitare canină pe raza comunei Vasilați",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/231691",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/231691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-60-2025",
+   "path": "local/calarasi/vasilati/2025/60",
+   "short": "HCL Vasilați nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 60/2025 privind respingerea modificării tarifelor de colectare și transport al deșeurilor menajere și similare deșeurilor menajere practicate în ZONA 2 OLTENIȚA",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/235298",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/235298",
      "sha256": null
     }
    ]
@@ -78,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--vasilati-64-2025",
+   "path": "local/calarasi/vasilati/2025/64",
+   "short": "HCL Vasilați nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 64/2025 privind alocarea sumei necesare pentru organizarea serbării ”Pomul de Crăciun 2025” pentru copiii preșcolari și școlari din comuna Vasilați, județul Călărași",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/238657",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/238657",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-65-2025",
    "path": "local/calarasi/vasilati/2025/65",
    "short": "HCL Vasilați nr. 65/2025",
@@ -118,6 +208,21 @@
      "from": "2025-12-15",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/240663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-68-2025",
+   "path": "local/calarasi/vasilati/2025/68",
+   "short": "HCL Vasilați nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 68/2025 privind aderarea comunei Vasilați la Societatea de Cruce Roșie din România - Filiala județului Călărași și aprobarea Contractului de parteneriat încheiat între comuna Vasilați și Societatea Națională de Cruce Roșie din România - Filiala județului Călărași",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/240664",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/240664",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/berzasca/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--berzasca-41-2025",
+   "path": "local/caras-severin/berzasca/2025/41",
+   "short": "HCL Berzasca nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 41/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230062",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230062",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-42-2025",
    "path": "local/caras-severin/berzasca/2025/42",
    "short": "HCL Berzasca nr. 42/2025",
@@ -13,6 +28,21 @@
      "from": "2025-10-15",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-43-2025",
+   "path": "local/caras-severin/berzasca/2025/43",
+   "short": "HCL Berzasca nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 43/2025 privind însușirea dispoziției primarului comunei Berzasca nr. 136 din 03.09.2025 privind rectificarea de buget local pe trimestrul III, anul 2025, de către Consiliul Local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230066",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230066",
      "sha256": null
     }
    ]
@@ -58,6 +88,51 @@
      "from": "2025-10-16",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-47-2025",
+   "path": "local/caras-severin/berzasca/2025/47",
+   "short": "HCL Berzasca nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 47/2025 privind desemnarea unui consilier local din cadrul Consiliului Local al comunei Berzasca, pentru a face parte din Consiliul de Administrație al Școlii Gimnaziale Berzasca, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230080",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-48-2025",
+   "path": "local/caras-severin/berzasca/2025/48",
+   "short": "HCL Berzasca nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 48/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230081",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-49-2025",
+   "path": "local/caras-severin/berzasca/2025/49",
+   "short": "HCL Berzasca nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 49/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna octombrie, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247488",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247488",
      "sha256": null
     }
    ]

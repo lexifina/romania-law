@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-28-2025",
+"path": "local/calarasi/stefan-voda/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 28/2025 privind desemnarea reprezentantului Consiliului Local Ștefan Vodă în Consiliul de administrație al Școlii Gimnaziale nr. 1 Ștefan Vodă, în anul școlar 2025 – 2026",
+"short": "HCL Ștefan Vodă nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/228360",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-29-2025",
+"path": "local/calarasi/stefan-voda/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 29/2025 privind desemnarea reprezentantului Consiliului Local Ștefan Vodă în în Comisia pentru evaluarea asigurarea calității a Școlii Gimnaziale nr. 1 Ștefan Vodă, în anul școlar 2025 – 2026",
+"short": "HCL Ștefan Vodă nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/228361",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-30-2025",
 "path": "local/calarasi/stefan-voda/2025/30",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-31-2025",
+"path": "local/calarasi/stefan-voda/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 31/2025 privind alegerea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/233416",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +286,51 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-39-2025",
+"path": "local/calarasi/stefan-voda/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 39/2025 privind aprobarea devizului general actualizat pentru lucrările rămase de executat la obiectivul de investiții „Reabilitare moderată imobil din strada Viorelelor, nr. 17, comuna Ștefan Vodă, județul Călărași”",
+"short": "HCL Ștefan Vodă nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/240475",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-40-2025",
+"path": "local/calarasi/stefan-voda/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 40/2025",
+"short": "HCL Ștefan Vodă nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/240476",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

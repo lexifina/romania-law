@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--pojejena-32-2026",
+   "path": "local/caras-severin/pojejena/2026/32",
+   "short": "HCL Pojejena nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 32/2026 privind aprobarea documentatiei de modificare a suprafetelor de teren pentru parcelele de teren intabulate in C.F.-uri avand numerele 39773; 39774; 39781; 39783; 39766; 39763; 39760; 39772; 39765; 39782; 33270; ca urmare a lucrarilor de intabulare sistematica prin Programul national de Carte Funciara",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284624",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-33-2026",
+   "path": "local/caras-severin/pojejena/2026/33",
+   "short": "HCL Pojejena nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 33/2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284625",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284625",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-34-2026",
    "path": "local/caras-severin/pojejena/2026/34",
    "short": "HCL Pojejena nr. 34/2026",
@@ -178,6 +208,66 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-37-2026",
+   "path": "local/caras-severin/pojejena/2026/37",
+   "short": "HCL Pojejena nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 37/2026 privind aprobarea Raportului de activitate desfasurata de catre asistentii personali ai persoanelor cu handicap grav din com Pojejena in semestrul I al anului 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284629",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-38-2026",
+   "path": "local/caras-severin/pojejena/2026/38",
+   "short": "HCL Pojejena nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 38/2026 privind acordarea mandatului special Asociatiei de Dezvoltare Intercomunitara INTERCOM DESEURI CARAS-SEVERIN, pentru atribuirea contractelor de delegare a gestiunii activitatilor de sortare,tratare si/sau depozitare,prin eliminare, a deseurilor municipale rezultate din activitatile de salubrizare de pe raza comunei Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284630",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-39-2026",
+   "path": "local/caras-severin/pojejena/2026/39",
+   "short": "HCL Pojejena nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 39/2026 privind aprobarea rezilierii Contractului de concesiune nr.4996 / 28.10.2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284631",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-40-2026",
+   "path": "local/caras-severin/pojejena/2026/40",
+   "short": "HCL Pojejena nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 40/2026 privind modificarea Contractului de concesiune nr. 23 / 06.11.2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284632",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284632",
      "sha256": null
     }
    ]

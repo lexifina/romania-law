@@ -3,6 +3,21 @@
  "shard": "local/calarasi/lehliu-gara/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--lehliu-gara-6-2025",
+   "path": "local/calarasi/lehliu-gara/2025/6",
+   "short": "HCL Lehliu Gară nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 6/2025 privind Organigrama",
+   "url": "https://www.primarialehliugara.ro/wp-content/uploads/2025/02/HCL-NR.-6-din-29.01.2025-privind-Organigrama-2.pdf",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2025/02/HCL-NR.-6-din-29.01.2025-privind-Organigrama-2.pdf",
+     "sha256": "7e722ac40f48d52b793267ea06b0d162b0c469c9fd985f6f5cb3cb5fdec824e2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lehliu-gara-79-2025",
    "path": "local/calarasi/lehliu-gara/2025/79",
    "short": "HCL Lehliu Gară nr. 79/2025",

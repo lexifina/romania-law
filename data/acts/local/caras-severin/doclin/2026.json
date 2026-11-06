@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-16-2026",
+"path": "local/caras-severin/doclin/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 16/2026 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin și a bugetului de venituri şi cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare al Comunei Doclin – Consiliul local Doclin pe anul 2026",
+"short": "HCL Doclin nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/269666",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-17-2026",
 "path": "local/caras-severin/doclin/2026/17",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Doclin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-18-2026",
+"path": "local/caras-severin/doclin/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 18/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local Doclin",
+"short": "HCL Doclin nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/269668",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +179,73 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-22-2026",
+"path": "local/caras-severin/doclin/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 22/2026 privind completarea Actului constitutiv si Statutul Asociaţiei de Dezvoltare Intercomunitară GAZ FOROTIC-DOCLIN",
+"short": "HCL Doclin nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/279196",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-23-2026",
+"path": "local/caras-severin/doclin/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 23/2026",
+"short": "HCL Doclin nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-05",
+"latest": "2026-08-05",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/280365",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-24-2026",
+"path": "local/caras-severin/doclin/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 24/2026 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin și a bugetului de venituri şi cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare al Comunei Doclin – Consiliul local Doclin pe anul 2026",
+"short": "HCL Doclin nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-05",
+"latest": "2026-08-05",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/280366",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-25-2026",
 "path": "local/caras-severin/doclin/2026/25",
 "kind": "local",
@@ -179,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-27-2026",
+"path": "local/caras-severin/doclin/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 27/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local Doclin",
+"short": "HCL Doclin nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-03",
+"latest": "2026-09-03",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/283044",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-28-2026",
 "path": "local/caras-severin/doclin/2026/28",
 "kind": "local",
@@ -198,6 +331,94 @@
 "council_name": "Consiliul Local al Comunei Doclin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-29-2026",
+"path": "local/caras-severin/doclin/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 29/2026 privind aprobarea dezlipirii imobilului teren intravilan, înscris în CF nr. 32425 DOCLIN, în vederea punerii în aplicare a Ordinului Prefectului nr. 89/10.09.1993",
+"short": "HCL Doclin nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/289183",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-30-2026",
+"path": "local/caras-severin/doclin/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 30/2026 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin și a bugetului de venituri şi cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare al Comunei Doclin",
+"short": "HCL Doclin nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/289184",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-31-2026",
+"path": "local/caras-severin/doclin/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 31/2026 privind aprobarea proiectului “ÎNFIINȚARE CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE PENTRU CONSUM PROPRIU DIN SURSE REGENERABILE , CU CAPACITĂȚI DE STOCARE INTEGRATE, PENTRU AUTOCONSUM ÎN COM. DOCLIN, JUDET CARAȘ-SEVERIN”, a Studiului de fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare – Programului “Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice”",
+"short": "HCL Doclin nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/289185",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-32-2026",
+"path": "local/caras-severin/doclin/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 32/2026 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin și a bugetului de venituri şi cheltuieli",
+"short": "HCL Doclin nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/293469",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

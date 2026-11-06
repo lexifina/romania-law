@@ -311,6 +311,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--lupac-98-2023",
+"path": "local/caras-severin/lupac/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 98/2023",
+"short": "HCL Lupac nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/137524",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--lupac-99-2023",
 "path": "local/caras-severin/lupac/2023/99",
 "kind": "local",
@@ -374,6 +397,29 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-102-2023",
+"path": "local/caras-severin/lupac/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 102/2023",
+"short": "HCL Lupac nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/137528",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

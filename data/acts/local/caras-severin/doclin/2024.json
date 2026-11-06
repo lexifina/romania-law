@@ -3,6 +3,117 @@
 "shard": "local/caras-severin/doclin/2024",
 "acts": [
 {
+"slug": "hcl-caras-severin--doclin-33-2024",
+"path": "local/caras-severin/doclin/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 33/2024 privind aprobarea acordarii unui ajutor de urgenta pentru numita Dragan Nidelia cu domiciliul in loc. Doclin, nr. 231, jud. Caraş Severin, pentru racordrea la sistemul centralizat de apa si canalizare al comunei Doclin,",
+"short": "HCL Doclin nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-11",
+"latest": "2024-10-11",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/171532",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-34-2024",
+"path": "local/caras-severin/doclin/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 34/2024",
+"short": "HCL Doclin nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-11",
+"latest": "2024-10-11",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/171533",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-35-2024",
+"path": "local/caras-severin/doclin/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 35/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Doclin pentru o perioadă de trei luni (octombrie, noiembrie , decembrie 2024 )",
+"short": "HCL Doclin nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/173406",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-36-2024",
+"path": "local/caras-severin/doclin/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 36/2024 privind alegerea viceprimarului comunei Doclin",
+"short": "HCL Doclin nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/173407",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-37-2024",
+"path": "local/caras-severin/doclin/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 37/2024 privind constituirea Comisiilor de specialitate ale Consiliului local al comunei Doclin",
+"short": "HCL Doclin nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/173408",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-38-2024",
 "path": "local/caras-severin/doclin/2024/38",
 "kind": "local",
@@ -113,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-43-2024",
+"path": "local/caras-severin/doclin/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 43/2024 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție (DALI), a Devizul General si a indicatorilor tehnico-economici aferenti obiectivului de investiție CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC in Comuna Doclin",
+"short": "HCL Doclin nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/176641",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-44-2024",
 "path": "local/caras-severin/doclin/2024/44",
 "kind": "local",
@@ -179,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-47-2024",
+"path": "local/caras-severin/doclin/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 47/2024 privind aprobarea regulamentului de organizare şi funcţionare a Consiliului local al comunei Doclin",
+"short": "HCL Doclin nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/185604",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-48-2024",
+"path": "local/caras-severin/doclin/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 48/2024 privind stabilirea criteriilor de identificare a clădirilor şi terenurilor neîngrijite situate în intravilanul comunei Doclin, a cotelor de majorare a impozitului aferent acestora, aprobarea Regulamentului pentru punerea în aplicare a prevederilor art. 489 din Codul Fiscal",
+"short": "HCL Doclin nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/185605",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-49-2024",
 "path": "local/caras-severin/doclin/2024/49",
 "kind": "local",
@@ -201,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-50-2024",
+"path": "local/caras-severin/doclin/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 50/2024 privind desemnarea reprezentantului Consiliului local al Comunei Doclin în „Consiliul de administraţie al Şcolii Gimnaziale Doclin” și în „Comisia de evaluare și asigurare a calității” acestei unități de învățământ",
+"short": "HCL Doclin nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/185607",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-51-2024",
 "path": "local/caras-severin/doclin/2024/51",
 "kind": "local",
@@ -220,6 +419,29 @@
 "council_name": "Consiliul Local al Comunei Doclin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-52-2024",
+"path": "local/caras-severin/doclin/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 52/2024",
+"short": "HCL Doclin nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/185609",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

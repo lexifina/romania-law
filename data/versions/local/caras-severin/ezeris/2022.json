@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-84-2022",
+   "path": "local/caras-severin/ezeris/2022/84",
+   "short": "HCL Ezeriș nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 84/2022 privind aprobarea încheierii unui contract de servicii întocmire documentație tehnico-economică PT+DDE ,, Modernizare străzi în Comuna Ezeriș, localitățile Ezeriș și Soceni ”",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/90232",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/90232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-85-2022",
+   "path": "local/caras-severin/ezeris/2022/85",
+   "short": "HCL Ezeriș nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 85/2022 privind aprobarea încheierii unui contract multianual 2022-2024 pentru obiectivul ,,Modernizare rigole stradale de colectare a apei pluviale în Comuna Ezeriș localitățile Ezeriș și Soceni ”",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/90233",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/90233",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-86-2022",
    "path": "local/caras-severin/ezeris/2022/86",
    "short": "HCL Ezeriș nr. 86/2022",
@@ -103,6 +133,36 @@
      "from": "2023-02-14",
      "units": 1,
      "source_url": "https://emol.ro/ezeris-cs/registru-hcl/90236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-89-2022",
+   "path": "local/caras-severin/ezeris/2022/89",
+   "short": "HCL Ezeriș nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 89/2022",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/90237",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/90237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-90-2022",
+   "path": "local/caras-severin/ezeris/2022/90",
+   "short": "HCL Ezeriș nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 90/2022",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/90238",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/90238",
      "sha256": null
     }
    ]

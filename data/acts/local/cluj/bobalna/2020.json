@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/bobalna/2020",
+"acts": [
+{
+"slug": "hcl-cluj--bobalna-170-2020",
+"path": "local/cluj/bobalna/2020/170",
+"kind": "local",
+"year": "2020",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobâlna nr. 170/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Cluj (Formă republicată în temeiul art. II din Hotărârea Consiliului Județean Cluj nr. 57/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Cluj nr. 170/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Cluj)",
+"short": "HCL Bobâlna nr. 170/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://cjcluj.ro/regulamentul-de-organizare-si-functionare-al-consiliului-judetean-cluj/",
+"council": "cluj/bobalna",
+"council_name": "Consiliul Local al Comunei Bobâlna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

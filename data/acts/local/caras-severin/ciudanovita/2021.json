@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-77-2021",
+"path": "local/caras-severin/ciudanovita/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 77/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/51752",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-78-2021",
 "path": "local/caras-severin/ciudanovita/2021/78",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-81-2021",
+"path": "local/caras-severin/ciudanovita/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 81/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/51756",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-82-2021",
 "path": "local/caras-severin/ciudanovita/2021/82",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-84-2021",
+"path": "local/caras-severin/ciudanovita/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 84/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-08",
+"latest": "2021-12-08",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/51768",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +286,50 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-88-2021",
+"path": "local/caras-severin/ciudanovita/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 88/2021 privind alocarea unei sume de bani pentru organizarea de activitati cultural artistice,cumpararea de cadouri pentru copiii de la gradinita si scoala Gimnaziala cu clasele I-VII din comuna Ciudanovita,judetul Caras Severin,cu ocazia serbarii pomului de iarna",
+"short": "HCL Ciudanovița nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-08",
+"latest": "2021-12-08",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/51772",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-89-2021",
+"path": "local/caras-severin/ciudanovita/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 89/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 89/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/51923",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

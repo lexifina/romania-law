@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzasca-39-2021",
+"path": "local/caras-severin/berzasca/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 39/2021 privind desemnarea a doi consilieri locali din cadrul Consiliului Local al comunei Berzasca, pentru a face parte în Consiliul de Administrație al Școlii Gimnaziale Berzasca, pentru anul școlar 2021 – 2022",
+"short": "HCL Berzasca nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/42272",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-40-2021",
 "path": "local/caras-severin/berzasca/2021/40",
 "kind": "local",

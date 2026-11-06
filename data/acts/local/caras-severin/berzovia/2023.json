@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzovia-69-2023",
+"path": "local/caras-severin/berzovia/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 69/2023",
+"short": "HCL Berzovia nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/130564",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzovia-70-2023",
 "path": "local/caras-severin/berzovia/2023/70",
 "kind": "local",
@@ -44,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-71-2023",
+"path": "local/caras-severin/berzovia/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 71/2023 privind alegerea președintelui de sedință",
+"short": "HCL Berzovia nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/134931",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +334,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzovia-83-2023",
+"path": "local/caras-severin/berzovia/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 83/2023 privind rectificarea Bugetului de venituri și cheltuieli al Comunei Berzovia pe anul 2023",
+"short": "HCL Berzovia nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/135533",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-84-2023",
+"path": "local/caras-severin/berzovia/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 84/2023 privind aprobarea Proiectului de parteneriat educațional cu Școala Profesională Berzovia ''Colinde de Crăciun''",
+"short": "HCL Berzovia nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/135534",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzovia-85-2023",
 "path": "local/caras-severin/berzovia/2023/85",
 "kind": "local",
@@ -330,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-87-2023",
+"path": "local/caras-severin/berzovia/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 87/2023 privind rectificarea Bugetului local de venituri și cheltuieli al Comunei Berzovia pe anul 2023",
+"short": "HCL Berzovia nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/137993",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

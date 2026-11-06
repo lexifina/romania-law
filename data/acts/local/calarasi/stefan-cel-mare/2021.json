@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-cel-mare-51-2021",
+"path": "local/calarasi/stefan-cel-mare/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 51/2021 privind stabilirea indemnizației de ședință pentru consilierii locali",
+"short": "HCL Ștefan cel Mare nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/46406",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-cel-mare-52-2021",
 "path": "local/calarasi/stefan-cel-mare/2021/52",
 "kind": "local",
@@ -309,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan cel Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-56-2021",
+"path": "local/calarasi/stefan-cel-mare/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 56/2021 privind închirierea unei suprafețe de teren din domeniul privat al comunei Ștefan cel Mare",
+"short": "HCL Ștefan cel Mare nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/46420",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

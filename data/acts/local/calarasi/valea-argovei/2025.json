@@ -3,6 +3,28 @@
 "shard": "local/calarasi/valea-argovei/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--valea-argovei-60-2025",
+"path": "local/calarasi/valea-argovei/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 60/2025 privind numirea reprezentanților Consiliului Local al Comunei Valea Argovei în Consiliul de Administrație al Școlii Gimnaziale nr.1 Valea Argovei și în Comisia de Evaluare și Asigurare a Calității",
+"short": "HCL Valea Argovei nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/230295",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-61-2025",
 "path": "local/calarasi/valea-argovei/2025/61",
 "kind": "local",
@@ -224,6 +246,75 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-71-2025",
+"path": "local/calarasi/valea-argovei/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 71/2025",
+"short": "HCL Valea Argovei nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/239094",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-72-2025",
+"path": "local/calarasi/valea-argovei/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 72/2025",
+"short": "HCL Valea Argovei nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/239095",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-73-2025",
+"path": "local/calarasi/valea-argovei/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 73/2025",
+"short": "HCL Valea Argovei nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/239096",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-74-2025",
 "path": "local/calarasi/valea-argovei/2025/74",
 "kind": "local",
@@ -309,6 +400,28 @@
 "council_name": "Consiliul Local al Comunei Valea Argovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-78-2025",
+"path": "local/calarasi/valea-argovei/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 78/2025 privind decontarea navetei pentru cadrele didactice pentru lunile septembrie-octombrie 2025",
+"short": "HCL Valea Argovei nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/245130",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

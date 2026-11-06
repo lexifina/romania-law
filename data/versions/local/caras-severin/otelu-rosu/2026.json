@@ -18,6 +18,96 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--otelu-rosu-10-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/10",
+   "short": "HCL Oțelu Roșu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 10/2026 privind aprobarea dezmembrării imobilului înscris în CF nr. 36104 Oțelu Roșu, nr. cad 36104 în suprafață de 302826 mp, în două loturi, lot 1 de 200623 mp și lot 2 de 102203 mp",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269182",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-11-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/11",
+   "short": "HCL Oțelu Roșu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 11/2026 privind aprobarea dezmembrării imobilului înscris în CF nr. 34983 Otelu Rosu, nr. cad 34983 în suprafață de 290911 mp, în doua loturi, lot 1 de 16511 mp și lot 2 de 125400 mp",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269183",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-12-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/12",
+   "short": "HCL Oțelu Roșu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 12/2026 privind aprobarea dezmembrării imobilului înscris în CF nr. 35820 Oțelu Roșu, nr. cad. 35820 în suprafață de 228671 mp, în două loturi, lot 1 de 37263 mp și lot 2 de 191408 mp",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269185",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-13-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/13",
+   "short": "HCL Oțelu Roșu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 13/2026 privind aprobarea dezmembrării imobilului înscris în CF nr. 30866 Oțelu Roșu, nr. cad. 30866 în suprafață de 5349 mp, în trei loturi, lot 1 de 59 mp, lot 2 de 193 mp și lot 3 de 5097 mp",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269198",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-14-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/14",
+   "short": "HCL Oțelu Roșu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 14/2026",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269200",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-15-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/15",
+   "short": "HCL Oțelu Roșu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 15/2026 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Oțelu Roșu a cinci imobile situate în intravilanul orașului Oțelu Roșu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269202",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269202",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--otelu-rosu-16-2026",
    "path": "local/caras-severin/otelu-rosu/2026/16",
    "short": "HCL Oțelu Roșu nr. 16/2026",
@@ -28,6 +118,81 @@
      "from": "2026-05-20",
      "units": 1,
      "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-17-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/17",
+   "short": "HCL Oțelu Roșu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 17/2026 privind modificarea și completarea Hotărârii Consiliului Local Oțelu Roșu nr 93/17.07.2020 privin reorganizarea serviciului de salubrizare a orașului Oțelu Roșu organizat în structura aparatului de specialitate al primarului prin înființarea Serviciului Public Local de Salubrizare Oțelu Roșu cu personalitate juridică organizat în subordinea Consiliului Local al orașului Oțelu Roșu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269208",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-18-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/18",
+   "short": "HCL Oțelu Roșu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 18/2026 privind prelungirea unei autorizații pentru transport în regim de taxi",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269209",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-19-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/19",
+   "short": "HCL Oțelu Roșu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 19/2026",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269210",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-2-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/2",
+   "short": "HCL Oțelu Roșu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 2/2026 privind indexarea cu rata inflației de 7,3% pentru anul 2026, a valorii contractelor de concesiune, închiriere, superficie, încheiate de către Orașul Oțelu Roșu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269159",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-20-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/20",
+   "short": "HCL Oțelu Roșu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 20/2026",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269213",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269213",
      "sha256": null
     }
    ]
@@ -108,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--otelu-rosu-26-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/26",
+   "short": "HCL Oțelu Roșu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 26/2026 privind revocarea Hotărârii Consiliului Local nr. 3 din data de 02.02.2026 privind modificarea art. 2 din HCL Oțelu Roșu nr. 188/06.12.2024 referitoare la taxa specială de salubrizare",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269319",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269319",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--otelu-rosu-27-2026",
    "path": "local/caras-severin/otelu-rosu/2026/27",
    "short": "HCL Oțelu Roșu nr. 27/2026",
@@ -118,6 +298,51 @@
      "from": "2026-05-21",
      "units": 1,
      "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-28-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/28",
+   "short": "HCL Oțelu Roșu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 28/2026 privind îndreptarea unei erori materiale de redactare strecurate în art. 1, alin. (1) din HCL nr. 11/27.02.2026",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269321",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-29-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/29",
+   "short": "HCL Oțelu Roșu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 29/2026 privind concesionarea prin licitație publică a suprafețelor de pajiști disponibile aflate în domeniul public al orașului Oțelu Roșu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269322",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/hcl/13158/hcl%2029%20-%202026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-3-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/3",
+   "short": "HCL Oțelu Roșu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 3/2026 privind modificarea art. 2 din HCL Oțelu Roșu nr. 188/06.12.2024 referitoare la taxa specială de salubrizare",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269162",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269162",
      "sha256": null
     }
    ]
@@ -148,6 +373,21 @@
      "from": "2026-05-21",
      "units": 1,
      "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-32-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/32",
+   "short": "HCL Oțelu Roșu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 32/2026 privind aprobarea prelungirii duratei contractului de închiriere pajiști nr. 5025/18.04.2019, precum și actualizarea numărului de carte funciară și a numărului cadastral ale pajiștii închiriate",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269327",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269327",
      "sha256": null
     }
    ]
@@ -213,6 +453,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--otelu-rosu-37-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/37",
+   "short": "HCL Oțelu Roșu nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 37/2026 privind darea în folosință gratuită către Biserica Creștină Baptistă ''Logos'' a terenului situat în orașul Oțelu Roșu, identificat în CF nr. 36244, în suprafață de 261 mp, aparținând domeniului privat al orașului Oțelu Roșu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269332",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/hcl/13166/hcl%2037%20-%202026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-38-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/38",
+   "short": "HCL Oțelu Roșu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 38/2026",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269333",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269333",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--otelu-rosu-39-2026",
    "path": "local/caras-severin/otelu-rosu/2026/39",
    "short": "HCL Oțelu Roșu nr. 39/2026",
@@ -253,6 +523,21 @@
      "from": "2026-05-21",
      "units": 1,
      "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-41-2026",
+   "path": "local/caras-severin/otelu-rosu/2026/41",
+   "short": "HCL Oțelu Roșu nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 41/2026 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Oțelu Roșu, nr. cad. 36564, în suprafață de 500 mp",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/269345",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/269345",
      "sha256": null
     }
    ]

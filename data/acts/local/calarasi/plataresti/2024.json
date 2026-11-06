@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-11-2024",
+"path": "local/calarasi/plataresti/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 11/2024 APROBARE INCHIRIEREA CORPULUI C3 PENTRU OFICIU POSTAL",
+"short": "HCL Plătărești nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#70223",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-12-2024",
 "path": "local/calarasi/plataresti/2024/12",
 "kind": "local",
@@ -399,6 +421,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-20-2024",
+"path": "local/calarasi/plataresti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 20/2024 ACORD DE PRINCIPIU CONCESIONARE SPATIU CABINET MEDICAL PODU PITARULUI",
+"short": "HCL Plătărești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#73753",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-21-2024",
+"path": "local/calarasi/plataresti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 21/2024 ACORD DE PRINCIPIU CONCESIONARE SPATIU SPITAL PLATARESTI",
+"short": "HCL Plătărești nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#73754",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-22-2024",
 "path": "local/calarasi/plataresti/2024/22",
 "kind": "local",
@@ -531,6 +597,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--plataresti-28-2024",
+"path": "local/calarasi/plataresti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 28/2024 APROBARE CONCESIONARE SPATIU SAT PODU PITARULUI",
+"short": "HCL Plătărești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#75918",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-29-2024",
+"path": "local/calarasi/plataresti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 29/2024 APROBARE CONCESIONARE SPATIU PLATARESTI SPITAL",
+"short": "HCL Plătărești nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#75919",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--plataresti-30-2024",
 "path": "local/calarasi/plataresti/2024/30",
 "kind": "local",
@@ -550,6 +660,50 @@
 "council_name": "Consiliul Local al Comunei Plătărești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-31-2024",
+"path": "local/calarasi/plataresti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 31/2024 APROBARE PUNERE LA DISPOZITIA CONCESIONARULUI A TERENULUI PENTRU PROIECT DE GAZE",
+"short": "HCL Plătărești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#75921",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-32-2024",
+"path": "local/calarasi/plataresti/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 32/2024 APROBARE PUNERE LA DISPOZITIA CONCESIONARULUI A TERENULUI PENTRU PROIECT DE GAZE PENTRU STATIE, RETEA",
+"short": "HCL Plătărești nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#75922",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1298,6 +1452,50 @@
 "council_name": "Consiliul Local al Comunei Plătărești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-67-2024",
+"path": "local/calarasi/plataresti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 67/2024 DESEMNARE REPREZENTANTI CL IN CA",
+"short": "HCL Plătărești nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#86883",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--plataresti-68-2024",
+"path": "local/calarasi/plataresti/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plătărești nr. 68/2024 DESEMNAREA REPREZENTANTULUI CONSILIULUI LOCAL IN COMISIA DE EVALUARE ȘI ASIGURAREA CALITAȚII A ŞCOLII GIMNAZIALE NR.1 PLATARESTI",
+"short": "HCL Plătărești nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#86884",
+"council": "calarasi/plataresti",
+"council_name": "Consiliul Local al Comunei Plătărești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

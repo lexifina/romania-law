@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/chinteni/2025",
+"acts": [
+{
+"slug": "hcl-cluj--chinteni-243-2025",
+"path": "local/cluj/chinteni/2025/243",
+"kind": "local",
+"year": "2025",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 243/2025",
+"short": "HCL Chinteni nr. 243/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://www.primariachinteni.ro/wp-content/uploads/2026/03/HCL-nr.-243-din-22.10.2025.pdf",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-289-2025",
+"path": "local/cluj/chinteni/2025/289",
+"kind": "local",
+"year": "2025",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 289/2025",
+"short": "HCL Chinteni nr. 289/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://www.primariachinteni.ro/wp-content/uploads/2026/01/HCL-nr.-289-din-19.12.2025.pdf",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

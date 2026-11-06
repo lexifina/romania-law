@@ -3,6 +3,228 @@
 "shard": "local/caras-severin/ciudanovita/2024",
 "acts": [
 {
+"slug": "hcl-caras-severin--ciudanovita-70-2024",
+"path": "local/caras-severin/ciudanovita/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 70/2024 privind constituirea comisiilor de specialitate ale Consiliului Local Ciudanovița",
+"short": "HCL Ciudanovița nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187808",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-71-2024",
+"path": "local/caras-severin/ciudanovita/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 71/2024",
+"short": "HCL Ciudanovița nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187809",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-72-2024",
+"path": "local/caras-severin/ciudanovita/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 72/2024",
+"short": "HCL Ciudanovița nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187810",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-73-2024",
+"path": "local/caras-severin/ciudanovita/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 73/2024 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187835",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-74-2024",
+"path": "local/caras-severin/ciudanovita/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 74/2024 privind privind rectificarea bugetului local al comunei Ciudanovița pe anul 2024",
+"short": "HCL Ciudanovița nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187836",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-75-2024",
+"path": "local/caras-severin/ciudanovita/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 75/2024 privind aprobarea contului de executie al exercitiului bugetar la 30 septembrie 2024",
+"short": "HCL Ciudanovița nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187837",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-76-2024",
+"path": "local/caras-severin/ciudanovita/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 76/2024 privind aprobare achiziție panouri direcționale",
+"short": "HCL Ciudanovița nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187838",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-77-2024",
+"path": "local/caras-severin/ciudanovita/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 77/2024 privind aprobarea organizării și funcționării Târgului de Craciun 2024 din localitatea Ciudanovița, județul Caraș-Severin",
+"short": "HCL Ciudanovița nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187839",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-78-2024",
+"path": "local/caras-severin/ciudanovita/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 78/2024 privind aprobarea alocării din bugetul local al Comunei Ciudanovița a sumei de 7.500 lei în vederea achiziționării pungilor cadou de Crăciun pentru elevii Școlii Gimnaziale cu clasele I-VIII Ciudanovița",
+"short": "HCL Ciudanovița nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187840",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-79-2024",
+"path": "local/caras-severin/ciudanovita/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 79/2024 privind aprobare achiziție servicii amenajarea pavajului din fața terenului de tenis situat in localitatea Ciudanovița, comuna Ciudanovița",
+"short": "HCL Ciudanovița nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187841",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-80-2024",
 "path": "local/caras-severin/ciudanovita/2024/80",
 "kind": "local",
@@ -22,6 +244,50 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-81-2024",
+"path": "local/caras-severin/ciudanovita/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 81/2024 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187852",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-82-2024",
+"path": "local/caras-severin/ciudanovita/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 82/2024 privind rectificarea bugetului local al comunei Ciudanovița pe anul 2024",
+"short": "HCL Ciudanovița nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187853",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-84-2024",
+"path": "local/caras-severin/ciudanovita/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 84/2024 privind aprobarea contractului de prestări servicii consultanță în domeniul achizițiilor publice numărul 1/524 din 04.12.2024",
+"short": "HCL Ciudanovița nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187855",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-85-2024",
 "path": "local/caras-severin/ciudanovita/2024/85",
 "kind": "local",
@@ -66,6 +354,94 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-86-2024",
+"path": "local/caras-severin/ciudanovita/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 86/2024 privind aprobarea însușirii raportului privind achizițiile publice realizate în anul 2024",
+"short": "HCL Ciudanovița nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187857",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-87-2024",
+"path": "local/caras-severin/ciudanovita/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 87/2024 privind aprobarea întocmirii documentației tehnice de apartamentare a imobilelor înscrise în CF 30521, CF 30523, CF 30524, CF 30525, CF 30531, CF 30533, CF 30534, CF 30528, CF 30527, CF 30529, CF 30526, CF 30532, CF 30522",
+"short": "HCL Ciudanovița nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187858",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-88-2024",
+"path": "local/caras-severin/ciudanovita/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 88/2024 privind desemnarea consilierilor locali din cadrul Consiliului Local al comunei Ciudanovița care să facă parte din Comisia de evaluare a performanţelor profesionale individuale ale Secretarului general al comunei Ciudanovița pentru anul 2024",
+"short": "HCL Ciudanovița nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187859",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-89-2024",
+"path": "local/caras-severin/ciudanovita/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 89/2024 privind aprobarea modificării anexei nr 2 la HCL nr 77 /19.11.2024 privind organizarea și funcționarea Târgului de Craciun 2024 din localitatea Ciudanovița, județul Caraș-Severin",
+"short": "HCL Ciudanovița nr. 89/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187860",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

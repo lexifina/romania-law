@@ -3,6 +3,94 @@
 "shard": "local/calarasi/radovanu/2022",
 "acts": [
 {
+"slug": "hcl-calarasi--radovanu-73-2022",
+"path": "local/calarasi/radovanu/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 73/2022 privind aprobarea rectificării bugetului local al comunei Radovanu, județul Călărași din luna octombrie 2022",
+"short": "HCL Radovanu nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89787",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-74-2022",
+"path": "local/calarasi/radovanu/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 74/2022 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pentru semestrul I-2022",
+"short": "HCL Radovanu nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89788",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-75-2022",
+"path": "local/calarasi/radovanu/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 75/2022 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei în trimestrul III pe anul 2022",
+"short": "HCL Radovanu nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89789",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-76-2022",
+"path": "local/calarasi/radovanu/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 76/2022 privind aprobarea neasumării responsabilității de implementare la nivel local a Programului pentru școli al României, pentru furnizarea de fructe și legume, de lapte și produse lactate, de produse de panificație, precum și punerea în aplicare a măsurilor educative aferente programului, în instituțiile de învățământ din Comuna Radovanu, pentru anul școlar 2022-2023",
+"short": "HCL Radovanu nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89790",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--radovanu-77-2022",
 "path": "local/calarasi/radovanu/2022/77",
 "kind": "local",
@@ -47,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--radovanu-79-2022",
+"path": "local/calarasi/radovanu/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 79/2022 privind aprobarea rectificării bugetului local al comunei Radovanu, județul Călărași din luna noiembrie 2022",
+"short": "HCL Radovanu nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89814",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--radovanu-80-2022",
 "path": "local/calarasi/radovanu/2022/80",
 "kind": "local",
@@ -69,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--radovanu-81-2022",
+"path": "local/calarasi/radovanu/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 81/2022 privind aprobarea suplimentării numărului de posturi pentru asistenții personali, însoțitori ai persoanelor cu handicap grav începând cu luna decembrie 2022",
+"short": "HCL Radovanu nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89816",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--radovanu-82-2022",
 "path": "local/calarasi/radovanu/2022/82",
 "kind": "local",
@@ -88,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Radovanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-83-2022",
+"path": "local/calarasi/radovanu/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 83/2022 privind aprobarea utilizării sumei de 25.000 lei din excedentul bugetar rezultat la 31.12. 2021 pentru efectuarea unor cheltuieli bugetare în cursul anului 2022",
+"short": "HCL Radovanu nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89818",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--radovanu-86-2022",
+"path": "local/calarasi/radovanu/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 86/2022 privind aprobarea rectificării bugetului local al comunei Radovanu, județul Călărași din luna decembrie 2022",
+"short": "HCL Radovanu nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89825",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--radovanu-87-2022",
 "path": "local/calarasi/radovanu/2022/87",
 "kind": "local",
@@ -154,6 +330,116 @@
 "council_name": "Consiliul Local al Comunei Radovanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-88-2022",
+"path": "local/calarasi/radovanu/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 88/2022 privind organizarea rețelei școlare a unităților de învățământ preuniversiatr de stat de pe raza UATC Radovanu pentru anul școlar 2023-2024",
+"short": "HCL Radovanu nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89838",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-89-2022",
+"path": "local/calarasi/radovanu/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 89/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2023",
+"short": "HCL Radovanu nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89839",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-90-2022",
+"path": "local/calarasi/radovanu/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 90/2022 privind acordarea unui ajutor financiar Bisericii cu hramul „Sf. M.MC. Gheorghe” din Radovanu, în vederea continuării lucrărilor de pictura bisericească",
+"short": "HCL Radovanu nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89840",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-91-2022",
+"path": "local/calarasi/radovanu/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 91/2022 privind alegerea președintelui de ședință al Consiliului Local Radovanu o perioadă de trei luni (Ianuarie 2023-Martie 2023)",
+"short": "HCL Radovanu nr. 91/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89841",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-92-2022",
+"path": "local/calarasi/radovanu/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 92/2022 privind aprobarea rectificării bugetului local al comunei Radovanu, județul Călărași din luna decembrie 2022",
+"short": "HCL Radovanu nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/89842",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

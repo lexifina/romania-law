@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bautar-30-2022",
+"path": "local/caras-severin/bautar/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 30/2022 privind desemnarea unui reprezentant al Consiliului local în Comisia de evaluare a probei de interviu la Concursul pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitare de stat",
+"short": "HCL Băuțar nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/74040",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-31-2022",
 "path": "local/caras-severin/bautar/2022/31",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Băuțar",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-32-2022",
+"path": "local/caras-severin/bautar/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 32/2022 privind desemnare membrii CA în consiliul de administrație al Școlii Gimnaziale Băuțar în anul școalr 2022-2023",
+"short": "HCL Băuțar nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/82570",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

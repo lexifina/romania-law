@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/buchin/2022",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--buchin-7-2022",
+   "path": "local/caras-severin/buchin/2022/7",
+   "short": "HCL Buchin nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Buchin nr. 7/2022",
+   "url": "https://primariabuchin.ro/wp-content/uploads/2022/01/HCJSU-CS-nr.-7-din-21.01.2022-fara-semnaturi.pdf",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://primariabuchin.ro/wp-content/uploads/2022/01/HCJSU-CS-nr.-7-din-21.01.2022-fara-semnaturi.pdf",
+     "sha256": "29ba2af64854ea7d940ac29a51ed62250bf0b6a59bd96e9455f932cec596a03b"
+    }
+   ]
+  }
+ ]
+}

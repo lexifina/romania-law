@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzovia-64-2026",
+"path": "local/caras-severin/berzovia/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 64/2026 privind desemnarea reprezentanților Consiliului local Berzovia în Consiliul de Administrație al Liceului Tehnologic Berzovia pentru anul scolar 2026-2027",
+"short": "HCL Berzovia nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/292820",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzovia-65-2026",
 "path": "local/caras-severin/berzovia/2026/65",
 "kind": "local",
@@ -110,6 +132,50 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-66-2026",
+"path": "local/caras-severin/berzovia/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 66/2026 privind desemnarea reprezentanților Consiliului local Berzovia în Comisia de evaluare a probei interviu pentru ocuparea funcțiilor de director/director adjunct ai Liceului Tehnologic Berzovia",
+"short": "HCL Berzovia nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/292824",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-67-2026",
+"path": "local/caras-severin/berzovia/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 67/2026 privind aprobarea documentației tehnico-economice — Studiu de fezabilitate, Devizul general Indicatorii tehnico-economici — și a cheltuielilor legate de proiectul cu titlul ”Înființarea unor noi capacități stocare a energiei electrice produse din surse regenerabile pentru entități publice —Comuna Berzovia Județul Caraș-Severin”",
+"short": "HCL Berzovia nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/292825",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +242,50 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-71-2026",
+"path": "local/caras-severin/berzovia/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 71/2026 privind alocarea sumelor necesare pentru achiziționarea unei autospeciale de stingere a incediilor în vederea autorizarii SVSU Berzovia în serviciu de tip V2",
+"short": "HCL Berzovia nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/296417",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-72-2026",
+"path": "local/caras-severin/berzovia/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 72/2026 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al comunei Berzovia din lunile Noiembrie, Decembrie si Ianuarie 2027",
+"short": "HCL Berzovia nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/296418",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

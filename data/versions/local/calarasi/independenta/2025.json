@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/independenta/2025",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--independenta-55-2025",
+   "path": "local/calarasi/independenta/2025/55",
+   "short": "HCL Independența nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 55/2025",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.55-din-16.12.2025.pdf",
+     "sha256": "5bd9d9cab105392a0b496d2373370f51a79a281a5854700a89e44fb1341b26d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-56-2025",
+   "path": "local/calarasi/independenta/2025/56",
+   "short": "HCL Independența nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 56/2025",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.56-din-23.12.2025.pdf",
+     "sha256": "acb7f022a6f6c5ac25cc435998127765eb9689acbaac3892b8f015df86912c48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-57-2025",
+   "path": "local/calarasi/independenta/2025/57",
+   "short": "HCL Independența nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 57/2025",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.57-din-23.12.2025.pdf",
+     "sha256": "d0ced718762c10ab7ff1b08ac1a4076a8550ada01b8fed3ef9b9cff5766745ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--independenta-58-2025",
+   "path": "local/calarasi/independenta/2025/58",
+   "short": "HCL Independența nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Independența nr. 58/2025",
+   "url": "https://primariaindependenta.ro/documente/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.58-din23.12.2025.pdf",
+     "sha256": "dce569956c6d78edb867932430d61648cd1b8ff842e5d16e4f14dd22e19f0a60"
+    }
+   ]
+  }
+ ]
+}

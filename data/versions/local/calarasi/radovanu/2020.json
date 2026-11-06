@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--radovanu-60-2020",
+   "path": "local/calarasi/radovanu/2020/60",
+   "short": "HCL Radovanu nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 60/2020",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/15575",
+   "versions": [
+    {
+     "from": "2020-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/15575",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--radovanu-61-2020",
    "path": "local/calarasi/radovanu/2020/61",
    "short": "HCL Radovanu nr. 61/2020",

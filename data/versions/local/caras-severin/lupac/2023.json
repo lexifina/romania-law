@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-102-2023",
+   "path": "local/caras-severin/lupac/2023/102",
+   "short": "HCL Lupac nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 102/2023",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/137528",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/137528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-103-2023",
    "path": "local/caras-severin/lupac/2023/103",
    "short": "HCL Lupac nr. 103/2023",
@@ -253,6 +268,21 @@
      "from": "2024-01-15",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/137513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-98-2023",
+   "path": "local/caras-severin/lupac/2023/98",
+   "short": "HCL Lupac nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 98/2023",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/137524",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/137524",
      "sha256": null
     }
    ]

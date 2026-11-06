@@ -223,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--armenis-59-2021",
+"path": "local/caras-severin/armenis/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 59/2021 privind desemnarea reprezentantului CL Armenis in comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiei de director pentru Scoala Gimnaziala Armenis",
+"short": "HCL Armeniș nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/44254",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-60-2021",
+"path": "local/caras-severin/armenis/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 60/2021 privind inchirierea prin licitatie publica a unui spatiu cu destinatia de farmacie,situat in imobilul ,,Dispensar medical\"",
+"short": "HCL Armeniș nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/44255",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--armenis-61-2021",
 "path": "local/caras-severin/armenis/2021/61",
 "kind": "local",

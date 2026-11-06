@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/chinteni/2023",
+"acts": [
+{
+"slug": "hcl-cluj--chinteni-131-2023",
+"path": "local/cluj/chinteni/2023/131",
+"kind": "local",
+"year": "2023",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 131/2023 privind buna gospodărire a comunei adoptat prin HCL nr. 131 din 29.06.2023",
+"short": "HCL Chinteni nr. 131/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://www.primariachinteni.ro/wp-content/uploads/2025/01/Regulament-privind-buna-gospodarire-a-comunei-adoptat-prin-HCL-nr.-131-din-29.06.2023.pdf",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-73-2023",
+   "path": "local/caras-severin/ezeris/2023/73",
+   "short": "HCL Ezeriș nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 73/2023",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/119721",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/119721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-74-2023",
+   "path": "local/caras-severin/ezeris/2023/74",
+   "short": "HCL Ezeriș nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 74/2023 privind revocarea următoarelor Hotărâri ale Consiliului Local Ezeriș: H.C.L Nr. 40/07.04.2023 privind aprobarea înființării unui parc fotovoltaic pe o suprafața de 130,62 ha, teren extravilan situat pe raza localității Soceni, Comuna Ezeriș domeniul public, și H.C.L Nr. 41/07.04.2023 privind aprobarea raportului de evaluare pentru terenuri extravilane în suprafață de 130,62 ha situate pe raza localității Soceni, Comuna Ezeriș, jud. Caraș-Severin, domeniul public cu destinația concesionării în vederea construirii unui parc fotovoltaic",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/119722",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/119722",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-75-2023",
    "path": "local/caras-severin/ezeris/2023/75",
    "short": "HCL Ezeriș nr. 75/2023",
@@ -153,6 +183,81 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-76-2023",
+   "path": "local/caras-severin/ezeris/2023/76",
+   "short": "HCL Ezeriș nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 76/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/138014",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-77-2023",
+   "path": "local/caras-severin/ezeris/2023/77",
+   "short": "HCL Ezeriș nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 77/2023 privind aprobarea dezlipirii din CF 1762 Ezeriș nr. top.226/3/5/a/1/b/a/3/a/1/b/2/1, Cad. 288 a suprafeței de 1071 m.p. teren situat in intravilanul localitatii Soceni comuna Ezeris și trecerea acestuia din domeniul public în domeniul privat al Comunei Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/138015",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-78-2023",
+   "path": "local/caras-severin/ezeris/2023/78",
+   "short": "HCL Ezeriș nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 78/2023 privind aprobarea dezlipirii din CF 1762 Ezeriș nr. top.226/3/5/a/1/b/a/3/a/1/b/2/1, Cad. 288 a suprafeței de 1071 m.p. teren situat in intravilanul localitatii Soceni comuna Ezeris și trecerea acestuia din domeniul public în domeniul privat al Comunei Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/138016",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-79-2023",
+   "path": "local/caras-severin/ezeris/2023/79",
+   "short": "HCL Ezeriș nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 79/2023",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/138017",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-80-2023",
+   "path": "local/caras-severin/ezeris/2023/80",
+   "short": "HCL Ezeriș nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 80/2023 privind aprobarea contractelor de prestări servicii cadastrale având ca obiect întocmirea de către prestator SC Proiect Topo Nona SRL, a unor documentații topo -cadastrale, dezlipiri, intabulări și studiu topo a unor imobile aflate în domeniul public si privat al comunei Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/138018",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-81-2023",
    "path": "local/caras-severin/ezeris/2023/81",
    "short": "HCL Ezeriș nr. 81/2023",
@@ -163,6 +268,36 @@
      "from": "2024-01-18",
      "units": 1,
      "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-82-2023",
+   "path": "local/caras-severin/ezeris/2023/82",
+   "short": "HCL Ezeriș nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 82/2023",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/138020",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-83-2023",
+   "path": "local/caras-severin/ezeris/2023/83",
+   "short": "HCL Ezeriș nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 83/2023 privind aprobarea contractului de finanțare nr. 1574/DOT/2023 ,,Dotare cu mobilier materiale didactice și echipamente digitate a unutăților de învățământ din unitatea administrativ teritorială Ezeriș , cod F-PNRR-Dătări -2023-2058 ” obiectiv de investiție derulat prin Programul Național de Redresare și Reziliență, Componenta C15-Educație",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/138021",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/138021",
      "sha256": null
     }
    ]

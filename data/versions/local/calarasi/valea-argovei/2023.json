@@ -3,6 +3,21 @@
  "shard": "local/calarasi/valea-argovei/2023",
  "acts": [
   {
+   "slug": "hcl-calarasi--valea-argovei-64-2023",
+   "path": "local/calarasi/valea-argovei/2023/64",
+   "short": "HCL Valea Argovei nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 64/2023",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/127914",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/127914",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--valea-argovei-65-2023",
    "path": "local/calarasi/valea-argovei/2023/65",
    "short": "HCL Valea Argovei nr. 65/2023",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--valea-argovei-74-2023",
+   "path": "local/calarasi/valea-argovei/2023/74",
+   "short": "HCL Valea Argovei nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 74/2023 privind decontarea navetei pentru cadrele didactice pentru lunile septembrie-noiembrie 2023",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/132956",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/132956",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--valea-argovei-75-2023",
    "path": "local/calarasi/valea-argovei/2023/75",
    "short": "HCL Valea Argovei nr. 75/2023",
@@ -193,6 +223,21 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/134507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-79-2023",
+   "path": "local/calarasi/valea-argovei/2023/79",
+   "short": "HCL Valea Argovei nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 79/2023 privind aprobarea aderării Comunei Valea Argovei la teritoriul eligibil al zonei pescărești VALEA MOSTISTEI reprezentată de Asociația VALEA MOSTISTEI (FLAG VALEA MOSTISTEI)",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/134508",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/134508",
      "sha256": null
     }
    ]

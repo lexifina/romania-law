@@ -3,6 +3,118 @@
 "shard": "local/caras-severin/ezeris/2024",
 "acts": [
 {
+"slug": "hcl-caras-severin--ezeris-77-2024",
+"path": "local/caras-severin/ezeris/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 77/2024 privind alegerea viceprimarului Comunei Ezeriș, județul Caraș-Severin",
+"short": "HCL Ezeriș nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183172",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-78-2024",
+"path": "local/caras-severin/ezeris/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 78/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Ezeriș nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183175",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-79-2024",
+"path": "local/caras-severin/ezeris/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 79/2024",
+"short": "HCL Ezeriș nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183184",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-80-2024",
+"path": "local/caras-severin/ezeris/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 80/2024 privind aprobarea contului de execuție a exercițiului bugetar la 30.09.2024",
+"short": "HCL Ezeriș nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183185",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-81-2024",
+"path": "local/caras-severin/ezeris/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 81/2024",
+"short": "HCL Ezeriș nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183186",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-82-2024",
 "path": "local/caras-severin/ezeris/2024/82",
 "kind": "local",
@@ -47,6 +159,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-84-2024",
+"path": "local/caras-severin/ezeris/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 84/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Ezeriș nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183203",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-85-2024",
+"path": "local/caras-severin/ezeris/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 85/2024 privind aprobarea Planului Anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Ezeriș nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183204",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-86-2024",
 "path": "local/caras-severin/ezeris/2024/86",
 "kind": "local",
@@ -66,6 +222,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-87-2024",
+"path": "local/caras-severin/ezeris/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 87/2024 privind aprobarea dezmembrării suprafeței de teren 602.129, identificată în CF 32883 Ezeriș, localitatea Soceni, comuna Ezeriș, în 2 loturi",
+"short": "HCL Ezeriș nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/183207",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-89-2024",
+"path": "local/caras-severin/ezeris/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 89/2024 privind aprobarea întocmirii documentației tehnico-economice privind lucrări de reparații și întreținere pe drumurile comunale DC 89 și DC 90",
+"short": "HCL Ezeriș nr. 89/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/195152",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-90-2024",
 "path": "local/caras-severin/ezeris/2024/90",
 "kind": "local",
@@ -113,6 +313,94 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-91-2024",
+"path": "local/caras-severin/ezeris/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 91/2024 privind aprobarea organigramei, statului de funcții și a coeficienților care stau la baza determinării salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului Comunei Ezeriș începând cu 01.12.2024",
+"short": "HCL Ezeriș nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/195154",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-92-2024",
+"path": "local/caras-severin/ezeris/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 92/2024 privind aprobarea Organigramei, a Statului de Funcții și a coeficienților care stau la baza determinării salariilor pentru personalul contractual al SERVICIULUI PUBLIC DE GOSPODĂRIE COMUNALĂ AL COMUNEI EZERIȘ începând cu 01.12.2024",
+"short": "HCL Ezeriș nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/195155",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-93-2024",
+"path": "local/caras-severin/ezeris/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 93/2024 privind aprobarea cotelor de combustibil pentru Comuna Ezeriș, serviciile aflate în subordinea Comunei Ezeriș și a Consiliului Local Ezeriș , pentru anul 2025",
+"short": "HCL Ezeriș nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/195164",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-94-2024",
+"path": "local/caras-severin/ezeris/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 94/2024 privind aprobarea planului de școlarizare pentru anul de învățământ 2025-2026",
+"short": "HCL Ezeriș nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/195165",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-95-2024",
 "path": "local/caras-severin/ezeris/2024/95",
 "kind": "local",
@@ -132,6 +420,29 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-96-2024",
+"path": "local/caras-severin/ezeris/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 96/2024",
+"short": "HCL Ezeriș nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/195167",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

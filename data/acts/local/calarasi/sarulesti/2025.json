@@ -25,6 +25,74 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-71-2025",
+"path": "local/calarasi/sarulesti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 71/2025 privind aprobarea rețelei școlare pentru anul 2026-2027 pe raza comunei Sarulesti, judetul Calarasi",
+"short": "HCL Sărulești nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257511",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-72-2025",
+"path": "local/calarasi/sarulesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 72/2025",
+"short": "HCL Sărulești nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257512",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-73-2025",
+"path": "local/calarasi/sarulesti/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 73/2025",
+"short": "HCL Sărulești nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257513",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-74-2025",
 "path": "local/calarasi/sarulesti/2025/74",
 "kind": "local",
@@ -69,6 +137,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-76-2025",
+"path": "local/calarasi/sarulesti/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 76/2025",
+"short": "HCL Sărulești nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257516",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-77-2025",
 "path": "local/calarasi/sarulesti/2025/77",
 "kind": "local",
@@ -110,6 +201,51 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-79-2025",
+"path": "local/calarasi/sarulesti/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 79/2025",
+"short": "HCL Sărulești nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257519",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-80-2025",
+"path": "local/calarasi/sarulesti/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 80/2025 privind alocarea din bugetul local al Comunei Sarulesti 2025 a sumei de 30.000 lei pentru achiziționarea de pachete cadou, pentru preșcolarii si școlarii din cadrul Școlii Gimnaziale nr 1 Sarulesti –Gara, cu ocazia Sărbatorilor de iarnă",
+"short": "HCL Sărulești nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257520",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +337,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-85-2025",
+"path": "local/calarasi/sarulesti/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 85/2025 privind aprobarea rețelei școlare pentru anul 2026-2027 pe raza comunei Sarulesti, judetul Calarasi",
+"short": "HCL Sărulești nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257558",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-87-2025",
 "path": "local/calarasi/sarulesti/2025/87",
 "kind": "local",
@@ -242,6 +400,29 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-89-2025",
+"path": "local/calarasi/sarulesti/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 89/2025",
+"short": "HCL Sărulești nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/257562",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

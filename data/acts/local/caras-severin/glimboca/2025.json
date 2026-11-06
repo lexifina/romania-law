@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--glimboca-16-2025",
+"path": "local/caras-severin/glimboca/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 16/2025 privind ...aprobarea alocarii sumei de 40000lei în vederea finantarii contractului cu nr. 1639/26.06.2025 incheiatcu FCS BISTRA Glimboca",
+"short": "HCL Glimboca nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/229007",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--glimboca-17-2025",
 "path": "local/caras-severin/glimboca/2025/17",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Glimboca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-22-2025",
+"path": "local/caras-severin/glimboca/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 22/2025 privind ...alegerea presedintelui de sedinta",
+"short": "HCL Glimboca nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-07",
+"latest": "2026-01-07",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/245490",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Glimboca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-29-2025",
+"path": "local/caras-severin/glimboca/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 29/2025 privind ...privind neasumarea responsabilității organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru şcoli al României în perioada 2026-2029 și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, pentru perioada 2026-2029",
+"short": "HCL Glimboca nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/245801",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

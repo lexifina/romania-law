@@ -3,6 +3,21 @@
  "shard": "local/calarasi/stefan-cel-mare/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-63-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/63",
+   "short": "HCL Ștefan cel Mare nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 63/2024 privind aprobarea contului de execuție al bugetului local la 30 septembrie 2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/174024",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/174024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-64-2024",
    "path": "local/calarasi/stefan-cel-mare/2024/64",
    "short": "HCL Ștefan cel Mare nr. 64/2024",
@@ -33,6 +48,81 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-66-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/66",
+   "short": "HCL Ștefan cel Mare nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 66/2024 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Ștefan cel Mare, judeţul Călărași, începând cu luna octombrie 2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/174027",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/174027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-67-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/67",
+   "short": "HCL Ștefan cel Mare nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 67/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/174028",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/174028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-68-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/68",
+   "short": "HCL Ștefan cel Mare nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 68/2024 privind stabilirea componenței comisiilor de specialitate ale Consiliului Local",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/176106",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/176106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-69-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/69",
+   "short": "HCL Ștefan cel Mare nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 69/2024 privind alegerea viceprimarului comunei Ștefan cel Mare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/176107",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/176107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-70-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/70",
+   "short": "HCL Ștefan cel Mare nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 70/2024 privind aprobarea Organigramei şi a Statului de funcţii ale aparatului de specialitate al primarului comunei Ștefan cel Mare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181143",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181143",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-71-2024",
    "path": "local/calarasi/stefan-cel-mare/2024/71",
    "short": "HCL Ștefan cel Mare nr. 71/2024",
@@ -43,6 +133,51 @@
      "from": "2024-11-11",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-72-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/72",
+   "short": "HCL Ștefan cel Mare nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 72/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181145",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-73-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/73",
+   "short": "HCL Ștefan cel Mare nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 73/2024 privind aprobarea participării comunei Ștefan cel Mare, județul Călărași în cadrul Programului privind cresterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Modernizarea sistemului de iluminat public stradal în comuna Ștefan cel Mare, județul Călărași”",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181297",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-74-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/74",
+   "short": "HCL Ștefan cel Mare nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 74/2024 privind stabilirea impozitului pe anul 2025 la vehiculele de 12 tone sau peste 12 tone prevăzute la art. 470 alin. (5) și (6) din legea nr. 227/2015 privind Codul Fiscal",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181298",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181298",
      "sha256": null
     }
    ]
@@ -63,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-76-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/76",
+   "short": "HCL Ștefan cel Mare nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 76/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181300",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-77-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/77",
+   "short": "HCL Ștefan cel Mare nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 77/2024 privind alegerea preşedintelui și a potențialului președinte de şedinţă al Consiliului local Ștefan cel Mare pentru perioada decembrie 2024 - februarie 2025",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181301",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181301",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-78-2024",
    "path": "local/calarasi/stefan-cel-mare/2024/78",
    "short": "HCL Ștefan cel Mare nr. 78/2024",
@@ -73,6 +238,36 @@
      "from": "2024-12-16",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/186604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-79-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/79",
+   "short": "HCL Ștefan cel Mare nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 79/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/186605",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/186605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-80-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/80",
+   "short": "HCL Ștefan cel Mare nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 80/2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/190868",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/190868",
      "sha256": null
     }
    ]

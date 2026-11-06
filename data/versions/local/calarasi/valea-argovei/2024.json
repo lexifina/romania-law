@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--valea-argovei-75-2024",
+   "path": "local/calarasi/valea-argovei/2024/75",
+   "short": "HCL Valea Argovei nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 75/2024 privind decontarea navetei pentru cadrele didactice pentru lunile septembrie-noiembrie 2024",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/183067",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/183067",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--valea-argovei-76-2024",
    "path": "local/calarasi/valea-argovei/2024/76",
    "short": "HCL Valea Argovei nr. 76/2024",
