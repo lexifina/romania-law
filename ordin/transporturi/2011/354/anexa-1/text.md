@@ -8,7 +8,7 @@ Structura din care face parte
 17.
 Alaliței Octavian
 Gabriel
-1620714323926
+[CNP omis]
 Direcția generală infrastructură
 și transport aerian
 ---
