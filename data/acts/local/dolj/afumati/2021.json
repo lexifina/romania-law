@@ -3,6 +3,28 @@
 "shard": "local/dolj/afumati/2021",
 "acts": [
 {
+"slug": "hcl-dolj--afumati-50-2021",
+"path": "local/dolj/afumati/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 50/2021 privind aprobarea achiziționării unor servicii de consultanță privind implementarea și dezvoltarea Sistemului de Control Intern Managerial (SCIM) la nivelul primăriei comunei Afumați, județul Dolj",
+"short": "HCL Afumați nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49639",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-51-2021",
 "path": "local/dolj/afumati/2021/51",
 "kind": "local",
@@ -135,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-57-2021",
+"path": "local/dolj/afumati/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 57/2021 privind desemnarea reprezentantului Consiliului Local Afumați pentru a face parte din Comisia de evaluare a probei interviu, în calitate de membru pentru ocuparea funcției de director al Școlii Gimnaziale Afumați",
+"short": "HCL Afumați nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49659",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-58-2021",
 "path": "local/dolj/afumati/2021/58",
 "kind": "local",
@@ -198,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-61-2021",
+"path": "local/dolj/afumati/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 61/2021 privind modificarea HCL 31/2021 închirierea, prin licitație publică, a suprafeței de 36 mp din imobilul „Dispensar uman Boureni” situat în comuna Afumați, localitatea Boureni, județul Dolj",
+"short": "HCL Afumați nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132198",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

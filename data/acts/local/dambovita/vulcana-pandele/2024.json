@@ -3,6 +3,271 @@
 "shard": "local/dambovita/vulcana-pandele/2024",
 "acts": [
 {
+"slug": "hcl-dambovita--vulcana-pandele-7-2024",
+"path": "local/dambovita/vulcana-pandele/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 7/2024",
+"short": "HCL Vulcana-Pandele nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": null,
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-8-2024",
+"path": "local/dambovita/vulcana-pandele/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 8/2024 privind aprobarea Graficului de activitati pe anul 2024 al Caminului Cultural „Izvor de apa vie” Vulcana Pandele",
+"short": "HCL Vulcana-Pandele nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#68858",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-9-2024",
+"path": "local/dambovita/vulcana-pandele/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 9/2024 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Vulcana-Pandele pentru lunile februarie-aprilie 2024",
+"short": "HCL Vulcana-Pandele nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#71963",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-11-2024",
+"path": "local/dambovita/vulcana-pandele/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 11/2024 privind aprobarea efectuarii transportului rutier zilnic al elevilor inscrisi la Scoala Gimnaziala Vulcana-Pandele, judet Dambovita, de la domiciliul acestora pana unitatea de invatamant, precum si aprobarea Regulamentului-cadru privind modul de utilizare al microbuzelor de transport scolar",
+"short": "HCL Vulcana-Pandele nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#71501",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-12-2024",
+"path": "local/dambovita/vulcana-pandele/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 12/2024 privind aprobarea incheierii unei Conventii de colaborare intre comuna Vulcana-Pandele, prin Consiliul Local si Societatea Nationala de Cruce Rosie din Romania, Filiala Dambovita",
+"short": "HCL Vulcana-Pandele nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#71613",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-13-2024",
+"path": "local/dambovita/vulcana-pandele/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 13/2024 privind completarea inventarului domeniului public al comunei Vulcana-Pandele prin includerea unui imobil – teren in suprafata de 3663 mp in inventarul bunurilor care alcatuiesc domeniul public al comunei Vulcana-Pandele",
+"short": "HCL Vulcana-Pandele nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#71618",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-14-2024",
+"path": "local/dambovita/vulcana-pandele/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 14/2024 privind deschiderea de credite de angajament pentru finantarea obiectivul de investitii “Îmbunătățirea eficienței energetice clădire grădinița Vulcana – Pandele, Comuna Vulcana – Pandele, Județul Dâmbovița”",
+"short": "HCL Vulcana-Pandele nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#71647",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-15-2024",
+"path": "local/dambovita/vulcana-pandele/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 15/2024 privind aprobarea dezmembrarii imobilului – Teren Extravilan în suprafață de 500.000 mp, categoria de folosință Pășune, având număr cadastral 71923, situat în Punct „Islaz Poiana Ruzii”, aparținând domeniului public al comunei Vulcana – Pandele, în trei loturi",
+"short": "HCL Vulcana-Pandele nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#71825",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-16-2024",
+"path": "local/dambovita/vulcana-pandele/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 16/2024 pentru aprobarea Acordului de Asociere între comuna Vulcana-Pandele prin Consiliul local Vulcana-Pandele, cu Municipiul Târgoviște, prin Consiliul Municipal Târgoviște, pentru actualizarea, implementarea și monitorizarea celor două documente strategice „Strategia Integrată de Dezvoltare Urbană a Municipiului Târgoviște 2021-2027 ” și ,,Planul de Mobilitate Urbană Durabilă pentru Municipiul Târgoviște 2021-2030” elaborate la nivel de zona urbana functionala (ZUF)",
+"short": "HCL Vulcana-Pandele nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#72723",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-17-2024",
+"path": "local/dambovita/vulcana-pandele/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 17/2024 privind acordarea dreptului de utilizare a suprafeței de 3663 mp - teren neproductiv situat in extratravilanul comunei Vulcana-Pandele pentru amenajarea organizarii de șantier, în vederea execuției lucrărilor in cadrul „Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Dâmbovița, in perioada 2014-2020” - POIM-DB-CL-12 -„Extinderea retelelor de alimentare cu apă si canalizare in Vulcana-Bai, Vulcana-Pandele, Branesti”",
+"short": "HCL Vulcana-Pandele nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#72728",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-18-2024",
+"path": "local/dambovita/vulcana-pandele/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 18/2024 privind aprobarea documentatiei - Studiu de fezabilitate (SF) pentru realizarea obiectivului de investiții “Extindere retea apa in comuna Vulcana – Pandele, județul Dâmbovița” si participarea comunei Vulcana-Pandele, judetul Dambovita la Programul vizand sisteme de alimentare cu apa, canalizare si epurare a apelor uzate lansat de Administratia Fondului pentru Mediu, in vederea obtinerii finantarii pentru realizarea obliectivului de investitii",
+"short": "HCL Vulcana-Pandele nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#72738",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-19-2024",
+"path": "local/dambovita/vulcana-pandele/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 19/2024 privind privind aprobarea parteneriatului dintre Comuna Vulcana-Pandele, prin Consiliul local Vulcana-Pandele, cu județul Dâmbovița prin Consiliul Județean Dâmbovița pentru implementarea proiectului “Hub-uri de dezvoltare a competențelor digitale la biblioteci – etapa a II-a”, în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Componenta 7. Transformarea digitală, Operațiunea D. Competențe digitale, Capital Uman și utilizarea Internetului, INVESTIȚIA 17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, APEL NR. 2",
+"short": "HCL Vulcana-Pandele nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#72748",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-20-2024",
 "path": "local/dambovita/vulcana-pandele/2024/20",
 "kind": "local",
@@ -22,6 +287,248 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Pandele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-21-2024",
+"path": "local/dambovita/vulcana-pandele/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 21/2024 privind aprobarea includerii in Programul Naţional de Investiţii \"Şcoli sigure şi sănătoase\" a obiectivului de investitii „Desfiintare Anexa Scoala si construire Sala de festivitati scolara”, in comuna Vulcana-Pandele, jud. Dambovita",
+"short": "HCL Vulcana-Pandele nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-08",
+"latest": "2024-04-08",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#74297",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-25-2024",
+"path": "local/dambovita/vulcana-pandele/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 25/2024 privind aprobarea inchiderii executiei bugetare pe anul 2023",
+"short": "HCL Vulcana-Pandele nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#75457",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-26-2024",
+"path": "local/dambovita/vulcana-pandele/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 26/2024 privind execuția bugetului local pe cele doua secțiuni, în trimestrul I/ 2024",
+"short": "HCL Vulcana-Pandele nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#75458",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-27-2024",
+"path": "local/dambovita/vulcana-pandele/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 27/2024 privind aprobarea proiectului tehnic, a indicatorilor tehnico-economici, a devizului general actualizat, revizuite precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului de investitii \"Infiintare zona de agrement si petrecere a timpului liber in comuna Vulcana Pandele, sat Gura Vulcanei”",
+"short": "HCL Vulcana-Pandele nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#75459",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-28-2024",
+"path": "local/dambovita/vulcana-pandele/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 28/2024 privind deschiderea de credite de angajament pentru realizarea obiectivului de investitii “ Infiintare zona de agrement si petrecere a timpului liber in comuna Vulcana Pandele, sat Gura Vulcanei ”",
+"short": "HCL Vulcana-Pandele nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#75460",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-29-2024",
+"path": "local/dambovita/vulcana-pandele/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 29/2024 privind aprobarea modificarii Regulamentului cadru privind modul de utilizare al microbuzelor de transport scolar ce a fost aprobat prin H.C.L nr. 11/06.03.2024",
+"short": "HCL Vulcana-Pandele nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#75461",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-30-2024",
+"path": "local/dambovita/vulcana-pandele/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 30/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Vulcana-Pandele nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#75496",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-31-2024",
+"path": "local/dambovita/vulcana-pandele/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 31/2024 privind acordarea dreptului de utilizare de catre Consiliului Judetean Dambovita a suprafeței de 2000 mp - teren piata- punct „Pod Ialomita” situat in comuna Vulcana-Pandele, sat Vulcana Pandele pentru amenajarea organizarii de șantier, în vederea execuției lucrărilor in cadrul „Dezvoltarea infrastructurii de transport judetean prin modernizarea DJ 712 Pucioasa-Branesti-Vulcana-Pandele- Sotanga-Targoviste – Lot 1”",
+"short": "HCL Vulcana-Pandele nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#75765",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-32-2024",
+"path": "local/dambovita/vulcana-pandele/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 32/2024 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Vulcana-Pandele pentru perioada mai - iulie 2024",
+"short": "HCL Vulcana-Pandele nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-29",
+"latest": "2024-05-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#77299",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-33-2024",
+"path": "local/dambovita/vulcana-pandele/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 33/2024 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii „Desfiintare Anexa Scoala si construire Sala de festivitati scolara”, in comuna Vulcana-Pandele, jud. Dambovita, finantat prin Programul Naţional de Investiţii \"Şcoli sigure şi sănătoase\"",
+"short": "HCL Vulcana-Pandele nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-29",
+"latest": "2024-05-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#76812",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-34-2024",
+"path": "local/dambovita/vulcana-pandele/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 34/2024 privind aprobarea proiectului tehnic, a indicatorilor tehnico-economici, si a devizului general pentru obiectivul de investitii \"Reabilitare, modernizare, consolidare si dotare Sala de sport Scoala Gimnaziala Vulcana-Pandele”",
+"short": "HCL Vulcana-Pandele nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-29",
+"latest": "2024-05-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#76813",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +554,94 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-pandele-36-2024",
+"path": "local/dambovita/vulcana-pandele/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 36/2024 privind majorarea salariului de baza al functionarilor publici si personalului contractual din cadrul aparatului de specialitate al primarului comunei Vulcana-Pandele incepand cu 1 iunie 2024",
+"short": "HCL Vulcana-Pandele nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-29",
+"latest": "2024-05-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#77192",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-37-2024",
+"path": "local/dambovita/vulcana-pandele/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 37/2024 privind inchirierea imobilului – Teren intravilan in suprafata de 1594 mp, proprietate publica a comunei Vulcana-Pandele, jud. Dambovita",
+"short": "HCL Vulcana-Pandele nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#78064",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-38-2024",
+"path": "local/dambovita/vulcana-pandele/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 38/2024 Privind modificarea Regulamentului de funcționare a Salii de sport din comuna Vulcana-Pandele aprobat prin Hotărârea Consiliului Local Vulcana Pandele nr. 28/ 08.05.2023",
+"short": "HCL Vulcana-Pandele nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#78123",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-39-2024",
+"path": "local/dambovita/vulcana-pandele/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 39/2024 privind aprobarea prelungirii duratei contractului de asociere/parteneriat incheiat intre Comuna Vulcana-Pandele prin Consiliul Local al Comunei Vulcana-Pandele si Judetul Dambovita prin Consiliul Judetean Dambovita pentru realizarea in comun a obiectivului de investitie “Desfiintare constructii cantoane si construire dispensar medical sat Vulcana-Pandele, jud. Dambovita”",
+"short": "HCL Vulcana-Pandele nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#78450",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-40-2024",
 "path": "local/dambovita/vulcana-pandele/2024/40",
 "kind": "local",
@@ -69,6 +664,160 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-pandele-41-2024",
+"path": "local/dambovita/vulcana-pandele/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 41/2024 privind constituirea dreptului de folosinţă cu titlu gratuit în favoarea Mănăstirii Bunea, asupra unui imobil compus din teren în suprafață de 5000 mp și construcțiile aferente, proprietate publica a comunei Vulcana-Pandele, situat în comuna Vulcana-Pandele, jud. Dâmbovița, punct ”Schit Bunea”",
+"short": "HCL Vulcana-Pandele nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#79302",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-42-2024",
+"path": "local/dambovita/vulcana-pandele/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 42/2024 privind execuția bugetului local pe cele doua secțiuni, în trimestrul II/ 2024",
+"short": "HCL Vulcana-Pandele nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#79668",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-43-2024",
+"path": "local/dambovita/vulcana-pandele/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 43/2024 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Vulcana-Pandele pentru perioada august - octombrie 2024",
+"short": "HCL Vulcana-Pandele nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#82467",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-44-2024",
+"path": "local/dambovita/vulcana-pandele/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 44/2024 privind aprobarea validarii Dispozitiei primarului nr. 183/07.08.2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Vulcana-Pandele nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#81623",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-45-2024",
+"path": "local/dambovita/vulcana-pandele/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 45/2024 privind aprobarea scaderii din evidența analitica a creantelor fiscale datorate bugetului local al comunei Vulcana-Pandele de catre persoane juridice radiate de la Oficiul Registrului Comertului",
+"short": "HCL Vulcana-Pandele nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#81624",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-46-2024",
+"path": "local/dambovita/vulcana-pandele/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 46/2024 privind modificarea H.C.L nr. 52/31.10.2022 privind aprobarea devizului general si a principalilor indicatori tehnico – economici actualizati dupa procedura de achizitie pentru rest de executat din obiectivul de investitii: „Reabilitare, modernizare, extindere și dotare Școala Gimnazială Vulcana-Pandele, comuna Vulcana-Pandele, județul Dâmbovița”",
+"short": "HCL Vulcana-Pandele nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#81694",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-47-2024",
+"path": "local/dambovita/vulcana-pandele/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 47/2024 privind aprobarea documentatiei tehnico-economice si a principalilor indicatori tehnico – economici actualizate dupa procedura de achizitie pentru obiectivul de investitii: ,,Înființare zonă de agrement și petrecere a timpului liber în comuna Vulcana Pandele,sat Gura Vulcanei, jud Dâmbovița”",
+"short": "HCL Vulcana-Pandele nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#81698",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-48-2024",
 "path": "local/dambovita/vulcana-pandele/2024/48",
 "kind": "local",
@@ -88,6 +837,50 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Pandele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-49-2024",
+"path": "local/dambovita/vulcana-pandele/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 49/2024 privind modificarea denumirii obiectivului de investitii aprobat pentru finantare in cadrul Programul National de Investitii ”Scoli sigure si sanatoase” si completarea H.C.L nr. 33/29.05.2024 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii „Desfiintare Anexa Scoala si construire Sala de festivitati scolara”, in comuna Vulcana-Pandele, jud. Dambovita, finantat prin Programul Naţional de Investiţii \"Şcoli sigure şi sănătoase\"",
+"short": "HCL Vulcana-Pandele nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#83486",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-50-2024",
+"path": "local/dambovita/vulcana-pandele/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 50/2024 aprobarea validarii Dispozitiei primarului nr. 201/02.09.2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Vulcana-Pandele nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#83490",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +928,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-pandele-53-2024",
+"path": "local/dambovita/vulcana-pandele/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 53/2024 privind aprobarea Raportului de reevaluare a bunurilor din domeniul public si privat al comunei Vulcana-Pandele",
+"short": "HCL Vulcana-Pandele nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#84222",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-54-2024",
+"path": "local/dambovita/vulcana-pandele/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 54/2024 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Vulcana-Pandele pentru perioada octombrie-decembrie 2024",
+"short": "HCL Vulcana-Pandele nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#85292",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-55-2024",
 "path": "local/dambovita/vulcana-pandele/2024/55",
 "kind": "local",
@@ -157,6 +994,94 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-pandele-56-2024",
+"path": "local/dambovita/vulcana-pandele/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 56/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Vulcana-Pandele",
+"short": "HCL Vulcana-Pandele nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#85320",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-57-2024",
+"path": "local/dambovita/vulcana-pandele/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 57/2024 privind completarea H.C.L nr. 34/29.05.2024 privind aprobarea Proiectului Tehnic, a indicatorilor tehnico-economici si a devizului general pentru realizarea obiectivului de investiții: “Reabilitare, modernizare, consolidare si dotare Sala de sport Scoala Gimnaziala Vulcana-Pandele”",
+"short": "HCL Vulcana-Pandele nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#85339",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-58-2024",
+"path": "local/dambovita/vulcana-pandele/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 58/2024 privind aprobarea validarii Dispozitiei primarului nr. 218/09.10.2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Vulcana-Pandele nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#85340",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-59-2024",
+"path": "local/dambovita/vulcana-pandele/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 59/2024 privind execuția bugetului local pe cele doua secțiuni, în trimestrul III/ 2024",
+"short": "HCL Vulcana-Pandele nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#85342",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-60-2024",
 "path": "local/dambovita/vulcana-pandele/2024/60",
 "kind": "local",
@@ -176,6 +1101,72 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Pandele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-61-2024",
+"path": "local/dambovita/vulcana-pandele/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 61/2024 privind desemnarea reprezentantului Consiliului local al comunei Vulcana - Pandele în Consiliul de administraţie al Scolii Gimnaziale Vulcana Pandele pentru anul scolar 2024-2025",
+"short": "HCL Vulcana-Pandele nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#85379",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-62-2024",
+"path": "local/dambovita/vulcana-pandele/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 62/2024 privind alocarea din bugetul local al comunei Vulcana-Pandele a fondurilor necesare pentru acordarea de cadouri cu ocazia sărbătorilor de iarnă, pentru copiii din comuna Vulcana-Pandele, jud. Dambovita",
+"short": "HCL Vulcana-Pandele nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#86494",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-63-2024",
+"path": "local/dambovita/vulcana-pandele/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 63/2024 pentru modificarea H.C.L nr. 30/08.05.2024 privind aprobarea elaborării și implementării Strategiei de Dezvoltare Locală, în cadrul parteneriatului LEADER al GRUPULUI DE ACȚIUNE LOCALĂ „VALEA IALOMIŢEI”",
+"short": "HCL Vulcana-Pandele nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#86497",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +1236,116 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-pandele-67-2024",
+"path": "local/dambovita/vulcana-pandele/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 67/2024 privind desemnarea reprezentului legal al comunei Vulcana-Pandele in cadrul Asociatiei Grupul de Actiune Locala „VALEA IALOMIŢEI” pentru implementarea SDL 2014-2020",
+"short": "HCL Vulcana-Pandele nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#87205",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-68-2024",
+"path": "local/dambovita/vulcana-pandele/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 68/2024 privind mandatarea specială a reprezentantului legal al comunei Vulcana-Pandele în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,, Management Integrat al Deșeurilor în județul Dâmbovița”",
+"short": "HCL Vulcana-Pandele nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#87206",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-69-2024",
+"path": "local/dambovita/vulcana-pandele/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 69/2024 privind mandatarea specială a reprezentantului legal al comunei Vulcana-Pandele în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Apa Dâmbovița",
+"short": "HCL Vulcana-Pandele nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#87207",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-70-2024",
+"path": "local/dambovita/vulcana-pandele/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 70/2024 privind aprobarea rețelei școlare a unităților de invatamant la nivelul comunei Vulcana Pandele pentru anul scolar 2025-2026",
+"short": "HCL Vulcana-Pandele nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#86083",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-71-2024",
+"path": "local/dambovita/vulcana-pandele/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 71/2024 privind trecerea imobilului - teren în suprafață de 5000 mp și construcțiile aferente, proprietate publica a comunei Vulcana-Pandele, situat în comuna Vulcana-Pandele, jud. Dâmbovița, punct ”Schit Bunea” din domeniul public in domeniul privat al comunei Vulcana-Pandele, in vederea transmiterii cu titlu gratuit din proprietatea comunei Vulcana-Pandele în proprietatea Mânăstirii Bunea",
+"short": "HCL Vulcana-Pandele nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#88145",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-72-2024",
 "path": "local/dambovita/vulcana-pandele/2024/72",
 "kind": "local",
@@ -267,6 +1368,94 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-pandele-73-2024",
+"path": "local/dambovita/vulcana-pandele/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 73/2024 privind acordarea unui sprijin financiar Parohiei Vulcana-Pandele, din comuna Vulcana Pandele, jud. Dâmbovița",
+"short": "HCL Vulcana-Pandele nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#88847",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-74-2024",
+"path": "local/dambovita/vulcana-pandele/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 74/2024 privind acordarea unui sprijin financiar Parohiei Gura Vulcănii, din comuna Vulcana Pandele, jud. Dâmbovița",
+"short": "HCL Vulcana-Pandele nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#88919",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-75-2024",
+"path": "local/dambovita/vulcana-pandele/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 75/2024 privind acordarea unui sprijin financiar Mânăstirii Bunea, din comuna Vulcana Pandele, jud. Dâmbovița",
+"short": "HCL Vulcana-Pandele nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#88922",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-76-2024",
+"path": "local/dambovita/vulcana-pandele/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 76/2024 Proiect de hotarare privind execuția bugetului local pe cele doua secțiuni, în trimestrul IV/ 2024",
+"short": "HCL Vulcana-Pandele nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#88926",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-77-2024",
 "path": "local/dambovita/vulcana-pandele/2024/77",
 "kind": "local",
@@ -286,6 +1475,28 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Pandele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-78-2024",
+"path": "local/dambovita/vulcana-pandele/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 78/2024 privind aprobarea numărului asistenţilor personali pentru anul 2025 la nivelul comunei Vulcana Pandele",
+"short": "HCL Vulcana-Pandele nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#88929",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

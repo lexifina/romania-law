@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-45-2024",
+   "path": "local/dambovita/cornatelu/2024/45",
+   "short": "HCL Cornățelu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 45/2024 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada NOIEMBRIE 2024 - IANUARIE 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/175527",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/175527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-46-2024",
+   "path": "local/dambovita/cornatelu/2024/46",
+   "short": "HCL Cornățelu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 46/2024 privind alegerea viceprimarului comunei Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/175528",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/175528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-47-2024",
    "path": "local/dambovita/cornatelu/2024/47",
    "short": "HCL Cornățelu nr. 47/2024",
@@ -208,6 +238,21 @@
      "from": "2024-12-11",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/179698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-58-2024",
+   "path": "local/dambovita/cornatelu/2024/58",
+   "short": "HCL Cornățelu nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 58/2024 privind concesionarea, prin licitație publică, a unor imobile aparținând domeniului public al comunei Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/179699",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/179699",
      "sha256": null
     }
    ]

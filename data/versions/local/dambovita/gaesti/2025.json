@@ -3,6 +3,81 @@
  "shard": "local/dambovita/gaesti/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--gaesti-1-2025",
+   "path": "local/dambovita/gaesti/2025/1",
+   "short": "HCL Găești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 1/2025 privind alegerea președintelui de ședință pe o perioadă de trei luni",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190143",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-10-2025",
+   "path": "local/dambovita/gaesti/2025/10",
+   "short": "HCL Găești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 10/2025 privind desemnarea reprezentanților Consiliului Local Găești în comisia de analiză și repartizare a locuințelor ANL",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190152",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-100-2025",
+   "path": "local/dambovita/gaesti/2025/100",
+   "short": "HCL Găești nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 100/2025 privind prelungirea contractului de concesiune numărul 14/03.03.2014 având ca obiect terenul în suprafață de 16,20 m.p. , situat în zona bloc 56",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222709",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-101-2025",
+   "path": "local/dambovita/gaesti/2025/101",
+   "short": "HCL Găești nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 101/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222710",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-102-2025",
+   "path": "local/dambovita/gaesti/2025/102",
+   "short": "HCL Găești nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 102/2025 privind aprobarea cuantumului chiriei aferenta locuințelor pentru tineri destinate închirierii din blocurile A9 și A13 , valabilă pentru anul 2025 si respectiv a sumelor cu titlu de recuperare a investiției ce se vor vira Agenției Naționale pentru Locuințe în anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222711",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222711",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-103-2025",
    "path": "local/dambovita/gaesti/2025/103",
    "short": "HCL Găești nr. 103/2025",
@@ -33,6 +108,201 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-105-2025",
+   "path": "local/dambovita/gaesti/2025/105",
+   "short": "HCL Găești nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 105/2025 privind aprobarea cuantumul taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222714",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-106-2025",
+   "path": "local/dambovita/gaesti/2025/106",
+   "short": "HCL Găești nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 106/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222715",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-107-2025",
+   "path": "local/dambovita/gaesti/2025/107",
+   "short": "HCL Găești nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 107/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222716",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-108-2025",
+   "path": "local/dambovita/gaesti/2025/108",
+   "short": "HCL Găești nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 108/2025 privind privind aprobarea organigramei și a statului de funcții a Spitalului Orășenesc Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222717",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-109-2025",
+   "path": "local/dambovita/gaesti/2025/109",
+   "short": "HCL Găești nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 109/2025 privind aprobarea proiectului Furnizarea de servicii de îngrijire la domiciliu pentru persoanele vârstnice din GĂESTI, Jud. DAMBOVITA",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222718",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-11-2025",
+   "path": "local/dambovita/gaesti/2025/11",
+   "short": "HCL Găești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 11/2025 privind prelungirea contractului de concesiune numărul 45 /22.11.2014 având ca obiect terenul în suprafață de 17,50 m.p. , situat în zona blocului 62",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190153",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-110-2025",
+   "path": "local/dambovita/gaesti/2025/110",
+   "short": "HCL Găești nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 110/2025 privind prelungirea contractului de concesiune numărul 103/02.12.1997 având ca obiect terenul în suprafață de 20 m.p. , situat în zona bloc 60",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227339",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-111-2025",
+   "path": "local/dambovita/gaesti/2025/111",
+   "short": "HCL Găești nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 111/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227340",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-112-2025",
+   "path": "local/dambovita/gaesti/2025/112",
+   "short": "HCL Găești nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 112/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227341",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-113-2025",
+   "path": "local/dambovita/gaesti/2025/113",
+   "short": "HCL Găești nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 113/2025 privind prelungirea contractului de concesiune numărul 13/05.10.1999 având ca obiect terenul în suprafață de 82 m.p. , situat în strada 13 Decembrie , intrarea în parc",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227342",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-114-2025",
+   "path": "local/dambovita/gaesti/2025/114",
+   "short": "HCL Găești nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 114/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227343",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-115-2025",
+   "path": "local/dambovita/gaesti/2025/115",
+   "short": "HCL Găești nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 115/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227344",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-116-2025",
+   "path": "local/dambovita/gaesti/2025/116",
+   "short": "HCL Găești nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 116/2025 privind revocarea Hotărârii Consiliului Local nr. 89 din data de 14.08.2025 având ca obiect modificarea Hotărârii Consiliului Local Găești nr. 86/2025 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat în anul școlar 2025-2026 pe raza orașului Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227345",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227345",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-117-2025",
    "path": "local/dambovita/gaesti/2025/117",
    "short": "HCL Găești nr. 117/2025",
@@ -43,6 +313,111 @@
      "from": "2025-09-30",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/227346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-118-2025",
+   "path": "local/dambovita/gaesti/2025/118",
+   "short": "HCL Găești nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 118/2025 privind transmiterea fără plată în proprietatea Parohiei Sfântul Nicolae , a imobilului în suprafață de 1488 mp, situat în Fundătura 1 Decembrie , nr. 1A",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227347",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-119-2025",
+   "path": "local/dambovita/gaesti/2025/119",
+   "short": "HCL Găești nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 119/2025 privind transmiterea fără plată în proprietatea Parohiei Catedrala Sfântul Neagoe Basarab , a imobilului în suprafață de 1740 mp, situat în strada 1 Decembrie , nr. 30",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227348",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-12-2025",
+   "path": "local/dambovita/gaesti/2025/12",
+   "short": "HCL Găești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 12/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190154",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-120-2025",
+   "path": "local/dambovita/gaesti/2025/120",
+   "short": "HCL Găești nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 120/2025 privind aprobarea completării Strategiei Locale Integrate de Dezvoltare Durabilă a Orașului Găești 2021-2024 cu fișa nr.27 privind asigurarea bazei materiale necesare realizării lucrărilor de utilitate publică",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227349",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-121-2025",
+   "path": "local/dambovita/gaesti/2025/121",
+   "short": "HCL Găești nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 121/2025 privind aprobarea indicatorilor economici privind obiectivul - împrejmuire teren Spital oraș Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227350",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-122-2025",
+   "path": "local/dambovita/gaesti/2025/122",
+   "short": "HCL Găești nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 122/2025 privind trecerea din inventarul bunurilor care alcătuiesc domeniul privat al Orașului Găești în inventarul bunurilor care alcătuiesc domeniul public al Orașului Găești a unui teren în suprafață de 291 m.p. , schimbarea categoriei de folosință a acestuia și atribuirea denumirii ,, Aleea Parcului ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227351",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-123-2025",
+   "path": "local/dambovita/gaesti/2025/123",
+   "short": "HCL Găești nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 123/2025 privind aprobarea regulamentului de ordine interioara pentru funcționarii și personalul contractual din cadrul Direcției de asistență socială Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227352",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227352",
      "sha256": null
     }
    ]
@@ -63,6 +438,66 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-125-2025",
+   "path": "local/dambovita/gaesti/2025/125",
+   "short": "HCL Găești nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 125/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227354",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-126-2025",
+   "path": "local/dambovita/gaesti/2025/126",
+   "short": "HCL Găești nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 126/2025 privind aprobarea proiectului si a cheltuielilor legate de proiectul PROIECT \"Reabilitarea, Modernizarea și Dotări Corp Ambulatoriu Spital Găești\" Obiectiv specific RSO4.5 Asigurarea accesului egal la asistență medicală și asigurarea rezilienței sistemelor de sănătate, inclusiv în ceea ce priveşte asistența medicală primară, precum și promovarea tranziției de la îngrijirea instituționalizată către îngrijirea în familie sau în comunitate (FEDR)",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227355",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-127-2025",
+   "path": "local/dambovita/gaesti/2025/127",
+   "short": "HCL Găești nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 127/2025 privind Implementarea proiectului ,,Achiziție de utilaje și accesorii pentru gospodărie comunală în orașul Găești, Județul Dâmbovița ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227356",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-128-2025",
+   "path": "local/dambovita/gaesti/2025/128",
+   "short": "HCL Găești nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 128/2025 privind aprobarea registrului spatiilor verzi al Orașului Găești , Județul Dâmbovita",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/227357",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/227357",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-129-2025",
    "path": "local/dambovita/gaesti/2025/129",
    "short": "HCL Găești nr. 129/2025",
@@ -73,6 +508,36 @@
      "from": "2025-09-30",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/227358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-13-2025",
+   "path": "local/dambovita/gaesti/2025/13",
+   "short": "HCL Găești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 13/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190155",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-130-2025",
+   "path": "local/dambovita/gaesti/2025/130",
+   "short": "HCL Găești nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 130/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/230451",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/230451",
      "sha256": null
     }
    ]
@@ -108,6 +573,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-133-2025",
+   "path": "local/dambovita/gaesti/2025/133",
+   "short": "HCL Găești nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 133/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/231371",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/231371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-134-2025",
+   "path": "local/dambovita/gaesti/2025/134",
+   "short": "HCL Găești nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 134/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/231372",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/231372",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-135-2025",
    "path": "local/dambovita/gaesti/2025/135",
    "short": "HCL Găești nr. 135/2025",
@@ -118,6 +613,276 @@
      "from": "2025-11-25",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/235809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-136-2025",
+   "path": "local/dambovita/gaesti/2025/136",
+   "short": "HCL Găești nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 136/2025 privind actualizarea PROIECT < Anvelopare Bloc 45 > Program: PR Sud-Muntenia 2021-2027 Prioritate: 2 - O regiune cu orașe prietenoase cu mediu Obiectiv specific: 2.1 - Promovarea eficienței energetice și reducerea emisiilor de gaze cu efect de seră Operațiunea B: Promovarea eficienței energetice și reducerea emisiilor de gaze cu efect de seră prin investiții în locuințe multifamiliale Apel de proiecte PRSM/265/PRSM_P2/OP2/RSO2.1/PRSM_A37",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/235810",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/235810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-137-2025",
+   "path": "local/dambovita/gaesti/2025/137",
+   "short": "HCL Găești nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 137/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236684",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-138-2025",
+   "path": "local/dambovita/gaesti/2025/138",
+   "short": "HCL Găești nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 138/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236685",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-139-2025",
+   "path": "local/dambovita/gaesti/2025/139",
+   "short": "HCL Găești nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 139/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236686",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-14-2025",
+   "path": "local/dambovita/gaesti/2025/14",
+   "short": "HCL Găești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 14/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190156",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-140-2025",
+   "path": "local/dambovita/gaesti/2025/140",
+   "short": "HCL Găești nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 140/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236687",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-141-2025",
+   "path": "local/dambovita/gaesti/2025/141",
+   "short": "HCL Găești nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 141/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236688",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-142-2025",
+   "path": "local/dambovita/gaesti/2025/142",
+   "short": "HCL Găești nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 142/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236689",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-143-2025",
+   "path": "local/dambovita/gaesti/2025/143",
+   "short": "HCL Găești nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 143/2025 privind desemnarea reprezentanților Consiliului Local Găești in Consiliul de Administrație al CLUBULUI COPIILOR ,cât și in Comisia pentru evaluarea si asigurarea Calității in anul școlar 2025-2026",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236690",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-144-2025",
+   "path": "local/dambovita/gaesti/2025/144",
+   "short": "HCL Găești nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 144/2025 privind desemnarea reprezentanților Consiliului Local Găești în Consiliul de Administrație al GRĂDINIȚEI INOCENȚA ,cât și în Comisia pentru evaluarea si asigurarea Calității în anul școlar 2025-2026",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236691",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-145-2025",
+   "path": "local/dambovita/gaesti/2025/145",
+   "short": "HCL Găești nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 145/2025 privind desemnarea reprezentanților Consiliului Local Găești în Consiliul de Administrație al Școlii ,, ȘERBAN CIOCULESCU,, ,cât și în Comisia pentru evaluarea si asigurarea Calității în anul școlar 2025-2026",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236692",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-146-2025",
+   "path": "local/dambovita/gaesti/2025/146",
+   "short": "HCL Găești nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 146/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236693",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-147-2025",
+   "path": "local/dambovita/gaesti/2025/147",
+   "short": "HCL Găești nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 147/2025 privind desemnarea reprezentanților Consiliului Local Găești în Consiliul de Administrație al Școlii gimnaziale ,, Radu cel Mare ,, ,cât și în Comisia pentru evaluarea si asigurarea Calității în anul școlar 2025-2026",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236694",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-148-2025",
+   "path": "local/dambovita/gaesti/2025/148",
+   "short": "HCL Găești nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 148/2025 privind desemnarea reprezentanților Consiliului Local Găești în Consiliul de Administrație al Liceului Tehnologic ,, IORDACHE GOLESCU ,, ,cât și în Comisia pentru evaluarea si asigurarea Calității în anul școlar 2025-2026",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236695",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-149-2025",
+   "path": "local/dambovita/gaesti/2025/149",
+   "short": "HCL Găești nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 149/2025 privind aprobarea indicatorilor economici ai obiectivul de investiții ,, Sistematizare verticală incintă sera oraș Găești,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236696",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-15-2025",
+   "path": "local/dambovita/gaesti/2025/15",
+   "short": "HCL Găești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 15/2025 privind aprobarea scoaterii la licitație în vederea închirierii a unui teren în suprafața de 16 m.p. , aparținând domeniului public al orașului Găești ,situat pe latura de vest a Pieții Sfântul Ilie",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190157",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-150-2025",
+   "path": "local/dambovita/gaesti/2025/150",
+   "short": "HCL Găești nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 150/2025 privind aprobarea indicatorilor economici ai obiectivul de investiții ,, Amenajări interioare seră oraș Găești,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236697",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-151-2025",
+   "path": "local/dambovita/gaesti/2025/151",
+   "short": "HCL Găești nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 151/2025 privind aprobarea documentației tehnico - economice actualizate ai obiectivul de investiții ,, Canalizare pluvială străzi cartier Sportului oraș Găești ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236698",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236698",
      "sha256": null
     }
    ]
@@ -138,6 +903,111 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-153-2025",
+   "path": "local/dambovita/gaesti/2025/153",
+   "short": "HCL Găești nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 153/2025 privind aprobarea scoaterii din funcțiune, casarea și valorificarea unor bunuri mijloace fixe din patrimoniul orașului Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236700",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-154-2025",
+   "path": "local/dambovita/gaesti/2025/154",
+   "short": "HCL Găești nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 154/2025 privind aprobarea proiectului evenimentului ,, Ziua națională -parada cu torțe și inaugurarea iluminatului festiv,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236701",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-155-2025",
+   "path": "local/dambovita/gaesti/2025/155",
+   "short": "HCL Găești nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 155/2025 privind modificarea HCL nr.126/30.09.2025 privind aprobarea proiectului si a cheltuielilor legate de proiectul PROIECTUL \"Reabilitarea, Modernizarea și Dotări Corp Ambulatoriu Spital Găești\" Obiectiv specific RSO4.5 Asigurarea accesului egal la asistență medicală și asigurarea rezilienței sistemelor de sănătate, inclusiv în ceea ce privește asistența medicală primară, precum și promovarea tranziției de la îngrijirea instituționalizată către îngrijirea în familie sau în comunitate (FEDR)",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236702",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-156-2025",
+   "path": "local/dambovita/gaesti/2025/156",
+   "short": "HCL Găești nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 156/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236703",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-157-2025",
+   "path": "local/dambovita/gaesti/2025/157",
+   "short": "HCL Găești nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 157/2025 privind aprobarea indicatorilor economici ai obiectivul de investiții ,, Proiectare târg săptămânal Oraș Găești ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236704",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-158-2025",
+   "path": "local/dambovita/gaesti/2025/158",
+   "short": "HCL Găești nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 158/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236705",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-159-2025",
+   "path": "local/dambovita/gaesti/2025/159",
+   "short": "HCL Găești nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 159/2025 privind modificarea Hotărârii Consiliului Local Găești nr. 64/25.09.2019 privind aprobarea regulamentului de organizare și funcționarea Centrului de zi pentru persoane vârstnice",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/236706",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/236706",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-16-2025",
    "path": "local/dambovita/gaesti/2025/16",
    "short": "HCL Găești nr. 16/2025",
@@ -153,6 +1023,576 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-160-2025",
+   "path": "local/dambovita/gaesti/2025/160",
+   "short": "HCL Găești nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 160/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/241274",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/241274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-161-2025",
+   "path": "local/dambovita/gaesti/2025/161",
+   "short": "HCL Găești nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 161/2025 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat în anul școlar 2026-2027 pe raza orașului Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244190",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-162-2025",
+   "path": "local/dambovita/gaesti/2025/162",
+   "short": "HCL Găești nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 162/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244191",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-163-2025",
+   "path": "local/dambovita/gaesti/2025/163",
+   "short": "HCL Găești nr. 163/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 163/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244192",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-164-2025",
+   "path": "local/dambovita/gaesti/2025/164",
+   "short": "HCL Găești nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 164/2025 privind prelungirea unor contracte de închiriere",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244193",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-165-2025",
+   "path": "local/dambovita/gaesti/2025/165",
+   "short": "HCL Găești nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 165/2025 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al orașului Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244194",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-166-2025",
+   "path": "local/dambovita/gaesti/2025/166",
+   "short": "HCL Găești nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 166/2025 privind aprobarea raportului de evaluare întocmit în vederea stabilirii prețului de vânzare pentru doua apartamente",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244195",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-167-2025",
+   "path": "local/dambovita/gaesti/2025/167",
+   "short": "HCL Găești nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 167/2025 privind aprobarea scoaterii din funcțiune, casarea și valorificarea unor bunuri mijloace fixe din gestiunea Spitalului Orășenesc Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244196",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-168-2025",
+   "path": "local/dambovita/gaesti/2025/168",
+   "short": "HCL Găești nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 168/2025 privind stabilirea taxelor și impozitelor pentru anul 2026 și indexarea acestora conform Hotărârii Consiliului Local Găești nr. 61/29.04.2025 privind stabilirea impozitelor și taxelor locale",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244197",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-169-2025",
+   "path": "local/dambovita/gaesti/2025/169",
+   "short": "HCL Găești nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 169/2025 privind stabilirea si aprobarea cotizației/contribuției Orașului Găești , pentru anul 2026 la Asociația de Dezvoltare Intercomunitară ,,Management Integrat al Deșeurilor în Județul Dâmbovița\"",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244198",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-17-2025",
+   "path": "local/dambovita/gaesti/2025/17",
+   "short": "HCL Găești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 17/2025 privind aprobarea planului anual de acțiune privind serviciile sociale oferite de Direcția de Asistență Socială Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190159",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-170-2025",
+   "path": "local/dambovita/gaesti/2025/170",
+   "short": "HCL Găești nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 170/2025 privind aprobarea unor masuri pentru stabilirea regimului juridic al locuințelor ANL - bloc F2A , în vederea vânzării locuințelor către chiriași",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244199",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-171-2025",
+   "path": "local/dambovita/gaesti/2025/171",
+   "short": "HCL Găești nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 171/2025 privind aprobarea concesionarii unei suprafețe de1550 m.p. teren (domeniul privat al orașului), situat în Găești, str. 1 Decembrie , nr.107",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/244200",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/244200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-18-2025",
+   "path": "local/dambovita/gaesti/2025/18",
+   "short": "HCL Găești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 18/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190160",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-19-2025",
+   "path": "local/dambovita/gaesti/2025/19",
+   "short": "HCL Găești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 19/2025 privind modificarea Hotărârii Consiliului Local Găești numarul 48 din data de 28.04.2017 privind aprobarea componentei Comisiei Tehnice de Amenajarea a Teritoriului si Urbanism a Orasului Gaesti",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190161",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-2-2025",
+   "path": "local/dambovita/gaesti/2025/2",
+   "short": "HCL Găești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 2/2025 privind prelungirea contractului de concesiune numărul 45/17.11.2014 având ca obiect terenul în suprafață de 19,90 m.p. , situat în Piața Sfântul Ilie , poziția 3",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190144",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-20-2025",
+   "path": "local/dambovita/gaesti/2025/20",
+   "short": "HCL Găești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 20/2025 privind revocarea Hotărârii nr. 145 / 06.12.2024 privind însușirea Documentației cadastrale de dezmembrare a imobilului-teren în suprafață de 30596 m.p. cu număr cadastral 73979 situat în strada 13 Decembrie",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190162",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-21-2025",
+   "path": "local/dambovita/gaesti/2025/21",
+   "short": "HCL Găești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 21/2025 privind constituirea cu titlu gratuit a unui drept de superficie , a dreptului de uz și a dreptului de trecere pentru instalarea și dezvoltarea proiectului aferent blocului A 9 -ANL și a blocului A 13 - ANL și a totalității echipamentelor și a rețelelor de utilități , cât și pentru acces la locul de amplasare a acestora, pe terenul cu număr cadastral 71312 și pe terenul cu număr cadastral 72003, aparținând domeniului privat al orașului Găești în favoarea DEER SA - Sucursala Târgoviște",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190163",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-22-2025",
+   "path": "local/dambovita/gaesti/2025/22",
+   "short": "HCL Găești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 22/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190164",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-23-2025",
+   "path": "local/dambovita/gaesti/2025/23",
+   "short": "HCL Găești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 23/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190165",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-24-2025",
+   "path": "local/dambovita/gaesti/2025/24",
+   "short": "HCL Găești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 24/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193446",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-25-2025",
+   "path": "local/dambovita/gaesti/2025/25",
+   "short": "HCL Găești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 25/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193447",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-26-2025",
+   "path": "local/dambovita/gaesti/2025/26",
+   "short": "HCL Găești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 26/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193448",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-27-2025",
+   "path": "local/dambovita/gaesti/2025/27",
+   "short": "HCL Găești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 27/2025 privind prelungirea contractului de concesiune numărul 1 /01.02.2010 având ca obiect terenul în suprafață de 20 m.p. , situat în zona blocului 64",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193449",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-28-2025",
+   "path": "local/dambovita/gaesti/2025/28",
+   "short": "HCL Găești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 28/2025 privind prelungirea contractului de concesiune numărul 26 /12.10.2007 având ca obiect terenul în suprafață de 22,49 m.p. , situat în zona blocului 22",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193450",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-29-2025",
+   "path": "local/dambovita/gaesti/2025/29",
+   "short": "HCL Găești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 29/2025 privind prelungirea contractului de concesiune numărul 6 /02.05.1996 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona blocului 44",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193451",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-3-2025",
+   "path": "local/dambovita/gaesti/2025/3",
+   "short": "HCL Găești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 3/2025 privind prelungirea contractului de concesiune numărul 2/18.10.1995 având ca obiect terenul în suprafață de 71,50 m.p. , situat în strada Academician Șerban CIOCULESCU , în stația de autobuz",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190145",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-30-2025",
+   "path": "local/dambovita/gaesti/2025/30",
+   "short": "HCL Găești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 30/2025 privind prelungirea contractului de concesiune numărul 28/19.05.2015 având ca obiect terenul în suprafață de 20 m.p. , situat în zona blocului 20",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193452",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-31-2025",
+   "path": "local/dambovita/gaesti/2025/31",
+   "short": "HCL Găești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 31/2025 privind aprobarea cuantumului chiriei aferenta locuințelor pentru tineri destinate închirierii , valabila pentru anul 2025 si respectiv a sumelor cu titlu de recuperare a investiției ce se vor vira Agenției Naționale pentru Locuințe în anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193453",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-32-2025",
+   "path": "local/dambovita/gaesti/2025/32",
+   "short": "HCL Găești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 32/2025 privind transformarea unei funcții publice vacante",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193454",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-33-2025",
+   "path": "local/dambovita/gaesti/2025/33",
+   "short": "HCL Găești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 33/2025 privind prelungirea contractului de concesiune numărul 9/15.06.1999 având ca obiect terenul în suprafață de 20 m.p. , situat în zona blocului 60",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193455",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-34-2025",
+   "path": "local/dambovita/gaesti/2025/34",
+   "short": "HCL Găești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 34/2025 privind prelungirea contractului de concesiune numărul 3/27.05.1999 având ca obiect terenul în suprafață de 20 m.p. , situat în zona blocului 32",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193456",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-35-2025",
+   "path": "local/dambovita/gaesti/2025/35",
+   "short": "HCL Găești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 35/2025 privind aprobarea proiectului evenimentului ,, ZIUA FEMEII - 2025 ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193457",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-36-2025",
+   "path": "local/dambovita/gaesti/2025/36",
+   "short": "HCL Găești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 36/2025 privind aprobarea proiectului evenimentului ,, Miss și Mister Găești 2025,, , devizului cheltuielilor și alocarea sumelor necesare desfășurării acestuia",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193458",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-37-2025",
+   "path": "local/dambovita/gaesti/2025/37",
+   "short": "HCL Găești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 37/2025 privind aprobarea Raportului de activitate a Direcției de Asistenta Socială pe anul 2024",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193459",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-38-2025",
+   "path": "local/dambovita/gaesti/2025/38",
+   "short": "HCL Găești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 38/2025 privind aprobarea Regulamentului de organizare și funcționare cât și a Regulamentului Intern al Spitalului Orășenesc Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193460",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-39-2025",
+   "path": "local/dambovita/gaesti/2025/39",
+   "short": "HCL Găești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 39/2025 privind aprobarea listei pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri destinate închirierii, în anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193461",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-4-2025",
+   "path": "local/dambovita/gaesti/2025/4",
+   "short": "HCL Găești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 4/2025 privind prelungirea contractului de concesiune numărul 44/17.11.2014 având ca obiect terenul în suprafață de 36 m.p. , situat în Piața Sf. Ilie, pozițiile 1 și 2",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190146",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190146",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-40-2025",
    "path": "local/dambovita/gaesti/2025/40",
    "short": "HCL Găești nr. 40/2025",
@@ -163,6 +1603,66 @@
      "from": "2025-02-25",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/193462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-41-2025",
+   "path": "local/dambovita/gaesti/2025/41",
+   "short": "HCL Găești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 41/2025 privind privind aprobarea organigramei și a statului de funcții a Spitalului Orășenesc Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/193463",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/193463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-42-2025",
+   "path": "local/dambovita/gaesti/2025/42",
+   "short": "HCL Găești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 42/2025 privind declararea unui imobil de interes public local și darea unei suprafețe de 353 m.p. în administrare Spitalului Orășenesc Găești",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/194655",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/194655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-43-2025",
+   "path": "local/dambovita/gaesti/2025/43",
+   "short": "HCL Găești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 43/2025 privind prelungirea contractului de concesiune numărul 31/06.09.2003 având ca obiect terenul în suprafață de 20 m.p. , situat în zona blocului 32",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/198794",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/198794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-44-2025",
+   "path": "local/dambovita/gaesti/2025/44",
+   "short": "HCL Găești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 44/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/198795",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/198795",
      "sha256": null
     }
    ]
@@ -198,6 +1698,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-47-2025",
+   "path": "local/dambovita/gaesti/2025/47",
+   "short": "HCL Găești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 47/2025 privind aprobarea scoaterii la licitație în vederea închirierii a unui teren în suprafața de 20 m.p. , aparținând domeniului privat al orașului Găești ,situat in strada 1Decembrie , nr.109",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/198798",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/198798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-48-2025",
+   "path": "local/dambovita/gaesti/2025/48",
+   "short": "HCL Găești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 48/2025 privind constituirea cu titlu gratuit a unui drept de superficie , a dreptului de uz -și a dreptului de trecere pentru extinderea si instalarea branșamentului de gaze naturale, cât și pentru acces la locul de amplasare a acestora , pe toata durata existentei instalaților , pe terenul cu număr cadastral 73313 –(Lot 3) , în favoarea Distrigaz Sud - Rețele",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/198799",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/198799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-49-2025",
+   "path": "local/dambovita/gaesti/2025/49",
+   "short": "HCL Găești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 49/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/198800",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/198800",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-5-2025",
    "path": "local/dambovita/gaesti/2025/5",
    "short": "HCL Găești nr. 5/2025",
@@ -213,6 +1758,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-50-2025",
+   "path": "local/dambovita/gaesti/2025/50",
+   "short": "HCL Găești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 50/2025 privind aprobarea alocării unui sprijin financiar Clubului Sportiv Viper Sport Găești în vederea organizării competiției ,, VIPER ARENA GĂEȘTI ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/198801",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/198801",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-51-2025",
    "path": "local/dambovita/gaesti/2025/51",
    "short": "HCL Găești nr. 51/2025",
@@ -223,6 +1783,141 @@
      "from": "2025-03-25",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/198802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-52-2025",
+   "path": "local/dambovita/gaesti/2025/52",
+   "short": "HCL Găești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 52/2025 privind repartizarea unei locuințe construită în regim de închiriere prin Agenția Națională pentru Locuințe in orașul Găești și rămasă vacantă pe perioada exploatării acesteia",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204692",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-53-2025",
+   "path": "local/dambovita/gaesti/2025/53",
+   "short": "HCL Găești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 53/2025 privind prelungirea contractului de concesiune numărul 17/11.04.2002 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona blocului 22",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204693",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-54-2025",
+   "path": "local/dambovita/gaesti/2025/54",
+   "short": "HCL Găești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 54/2025 privind prelungirea contractului de concesiune numărul 1/29.04.1996 având ca obiect terenul în suprafață de 20 m.p. , situat în zona blocului 44",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204694",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-55-2025",
+   "path": "local/dambovita/gaesti/2025/55",
+   "short": "HCL Găești nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 55/2025 privind prelungirea contractului de concesiune numărul 1/02.04.1999 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona blocului 44",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204695",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-56-2025",
+   "path": "local/dambovita/gaesti/2025/56",
+   "short": "HCL Găești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 56/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204696",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-57-2025",
+   "path": "local/dambovita/gaesti/2025/57",
+   "short": "HCL Găești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 57/2025 privind aprobarea indicatorilor tehnico- economici pentru obiectivul ,, Lucrări de reparații sera parc central oraș Găești ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204697",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-58-2025",
+   "path": "local/dambovita/gaesti/2025/58",
+   "short": "HCL Găești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 58/2025 privind probarea indicatorilor tehnico- economici ai obiectivului,, Construire bloc locuințe pentru tineri specialiști din sănătate în orașul Găiești, Județul DÂMBOVIȚA COMPONENTA C10, fondul locativ",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204698",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-59-2025",
+   "path": "local/dambovita/gaesti/2025/59",
+   "short": "HCL Găești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 59/2025 privind aprobarea indicatorilor tehnico- economici pentru obiectivul ,, Lucrări de reparații Secție Pediatrie Spital Orășenesc Găești , str.13 Decembrie , nr. 170",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/204699",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/204699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-6-2025",
+   "path": "local/dambovita/gaesti/2025/6",
+   "short": "HCL Găești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 6/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190148",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190148",
      "sha256": null
     }
    ]
@@ -273,6 +1968,156 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-63-2025",
+   "path": "local/dambovita/gaesti/2025/63",
+   "short": "HCL Găești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 63/2025 privind prelungirea contractului de concesiune numărul 13/15.05.1996 având ca obiect terenul în suprafață de 20,00 m.p. , situat în zona blocului 44",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208815",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-64-2025",
+   "path": "local/dambovita/gaesti/2025/64",
+   "short": "HCL Găești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 64/2025 privind prelungirea contractului de concesiune numărul 7/15.06.1996 având ca obiect terenul în suprafață de 20,00 m.p. , situat în zona blocului 60",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208816",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-65-2025",
+   "path": "local/dambovita/gaesti/2025/65",
+   "short": "HCL Găești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 65/2025 privind prelungirea contractului de concesiune numărul11/10.05.1996 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona bloc Avicola",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208817",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-66-2025",
+   "path": "local/dambovita/gaesti/2025/66",
+   "short": "HCL Găești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 66/2025 privind prelungirea contractului de concesiune numărul14/21.05.1996 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona bloc Avicola",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208818",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-67-2025",
+   "path": "local/dambovita/gaesti/2025/67",
+   "short": "HCL Găești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 67/2025 privind prelungirea contractului de concesiune numărul 8/04.07.2000 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona bloc Avicola",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208819",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-68-2025",
+   "path": "local/dambovita/gaesti/2025/68",
+   "short": "HCL Găești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 68/2025 privind prelungirea contractului de concesiune numărul 7/07.05.1996 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona bloc Avicola",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208820",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-69-2025",
+   "path": "local/dambovita/gaesti/2025/69",
+   "short": "HCL Găești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 69/2025 privind prelungirea contractului de concesiune numărul 15/08.05.1997 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona bloc Avicola",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208821",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-7-2025",
+   "path": "local/dambovita/gaesti/2025/7",
+   "short": "HCL Găești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 7/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190149",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-70-2025",
+   "path": "local/dambovita/gaesti/2025/70",
+   "short": "HCL Găești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 70/2025 privind prelungirea contractului de concesiune numărul 2/29.04.1996 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona bloc Avicola",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208822",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-71-2025",
+   "path": "local/dambovita/gaesti/2025/71",
+   "short": "HCL Găești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 71/2025 privind prelungirea contractului de prestări servicii contabile încheiat cu firma ,, Expertiză Anghel & Parteners S.R.L",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208823",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208823",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-72-2025",
    "path": "local/dambovita/gaesti/2025/72",
    "short": "HCL Găești nr. 72/2025",
@@ -288,6 +2133,216 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-73-2025",
+   "path": "local/dambovita/gaesti/2025/73",
+   "short": "HCL Găești nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 73/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208825",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-74-2025",
+   "path": "local/dambovita/gaesti/2025/74",
+   "short": "HCL Găești nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 74/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208826",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-75-2025",
+   "path": "local/dambovita/gaesti/2025/75",
+   "short": "HCL Găești nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 75/2025 privind aprobarea raportului de evaluare întocmit în vederea stabilirii prețului de vânzare pentru terenul în suprafață de 100 m.p. situat în strada Unirii , nr.20 A , număr cadastral 73264",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/208827",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/208827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-76-2025",
+   "path": "local/dambovita/gaesti/2025/76",
+   "short": "HCL Găești nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 76/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/211634",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/211634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-77-2025",
+   "path": "local/dambovita/gaesti/2025/77",
+   "short": "HCL Găești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 77/2025 privind modificarea acordului de parteneriat pentru proiectul ,, FINANȚAREA BIBLIOTECILOR PENTRU A DEVENI HUB- URI DE DEZVOLTARE A COMPETENȚILOR DIGITALE ,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214510",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-78-2025",
+   "path": "local/dambovita/gaesti/2025/78",
+   "short": "HCL Găești nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 78/2025 privind prelungirea contractului de concesiune numărul 16/01.05.1996 având ca obiect terenul în suprafață de 22,90 m.p. , situat în zona bloc Avicola",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214511",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-79-2025",
+   "path": "local/dambovita/gaesti/2025/79",
+   "short": "HCL Găești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 79/2025 privind prelungirea contractului de concesiune numărul 8/15.06.1999 având ca obiect terenul în suprafață de 20,00 m.p. , situat în zona bloc 60",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214512",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-8-2025",
+   "path": "local/dambovita/gaesti/2025/8",
+   "short": "HCL Găești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 8/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190150",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-80-2025",
+   "path": "local/dambovita/gaesti/2025/80",
+   "short": "HCL Găești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 80/2025 privind prelungirea contractului de concesiune numărul 6/15.06.1999 având ca obiect terenul în suprafață de 20,00 m.p. , situat în zona bloc 62",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214513",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-81-2025",
+   "path": "local/dambovita/gaesti/2025/81",
+   "short": "HCL Găești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 81/2025 privind aprobarea proiectului evenimentului ,, Zilele Orașului Găești ,, 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214514",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-82-2025",
+   "path": "local/dambovita/gaesti/2025/82",
+   "short": "HCL Găești nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 82/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214515",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-83-2025",
+   "path": "local/dambovita/gaesti/2025/83",
+   "short": "HCL Găești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 83/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214516",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-84-2025",
+   "path": "local/dambovita/gaesti/2025/84",
+   "short": "HCL Găești nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 84/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214517",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-85-2025",
+   "path": "local/dambovita/gaesti/2025/85",
+   "short": "HCL Găești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 85/2025 privind aprobarea indicatorilor tehnico- economici pentru obiectivul ,, Proiectare și execuție loc de joacă , Găești , str.1 Decembrie , nr.109,,",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214518",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214518",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-86-2025",
    "path": "local/dambovita/gaesti/2025/86",
    "short": "HCL Găești nr. 86/2025",
@@ -298,6 +2353,66 @@
      "from": "2025-06-30",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/214519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-87-2025",
+   "path": "local/dambovita/gaesti/2025/87",
+   "short": "HCL Găești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 87/2025 privind repartizarea unei locuințe construită în regim de închiriere prin Agenția Națională pentru Locuințe in orașul Găești și rămasă vacantă pe perioada exploatării acesteia",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214520",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-88-2025",
+   "path": "local/dambovita/gaesti/2025/88",
+   "short": "HCL Găești nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 88/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/214521",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/214521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-89-2025",
+   "path": "local/dambovita/gaesti/2025/89",
+   "short": "HCL Găești nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 89/2025 privind aprobarea indicatorilor economici privind elaborarea actualizarea planului Urbanistic General al orașului Găești și a Regulamentului local de urbanism al orașului Găești, județul Dâmbovița",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/215375",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/215375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-9-2025",
+   "path": "local/dambovita/gaesti/2025/9",
+   "short": "HCL Găești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 9/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/190151",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/190151",
      "sha256": null
     }
    ]
@@ -333,6 +2448,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-92-2025",
+   "path": "local/dambovita/gaesti/2025/92",
+   "short": "HCL Găești nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 92/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/215378",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/215378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-93-2025",
    "path": "local/dambovita/gaesti/2025/93",
    "short": "HCL Găești nr. 93/2025",
@@ -343,6 +2473,36 @@
      "from": "2025-08-12",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/218495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-94-2025",
+   "path": "local/dambovita/gaesti/2025/94",
+   "short": "HCL Găești nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 94/2025 privind aprobarea raportului de activitate a asistenților personali ai persoanelor cu handicap grav , desfășurată în semestrul I al anului 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/218496",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/218496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-95-2025",
+   "path": "local/dambovita/gaesti/2025/95",
+   "short": "HCL Găești nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 95/2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/218497",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/218497",
      "sha256": null
     }
    ]
@@ -363,6 +2523,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--gaesti-97-2025",
+   "path": "local/dambovita/gaesti/2025/97",
+   "short": "HCL Găești nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 97/2025 privind rectificarea bugetului local al Orașului Găești pe anul 2025",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/218499",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/218499",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--gaesti-98-2025",
    "path": "local/dambovita/gaesti/2025/98",
    "short": "HCL Găești nr. 98/2025",
@@ -373,6 +2548,21 @@
      "from": "2025-08-25",
      "units": 1,
      "source_url": "https://emol.ro/gaesti-db/registru-hcl/221204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--gaesti-99-2025",
+   "path": "local/dambovita/gaesti/2025/99",
+   "short": "HCL Găești nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Găești nr. 99/2025 privind prelungirea contractului de concesiune numărul 15/17.11.2006 având ca obiect terenul în suprafață de 16,20 m.p. , situat în zona bloc 56",
+   "url": "https://emol.ro/gaesti-db/registru-hcl/222708",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gaesti-db/registru-hcl/222708",
      "sha256": null
     }
    ]

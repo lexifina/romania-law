@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/bradesti/2018",
+ "acts": [
+  {
+   "slug": "hcl-dolj--bradesti-436-2018",
+   "path": "local/dolj/bradesti/2018/436",
+   "short": "HCL Brădești nr. 436/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 436/2018 privind stabilirea locurilor speciale pentru afisaj electoral pentru Referendumul pentru Revizuirea Constitutiei , din 6 si 7 octombrie 2018 [ vezi... ]",
+   "url": "http://www.primariabradesti.ro/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2018/10/Sectii_votare.pdf",
+     "sha256": "14ed1cc028a589c3cbc0fb39020cc5d122582dbb4642f5ea7bb61afd85e23117"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/daneti/2026",
+ "acts": [
+  {
+   "slug": "hcl-dolj--daneti-1-2026",
+   "path": "local/dolj/daneti/2026/1",
+   "short": "HCL Daneți nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 1/2026 privind numire ordonator terţiar de credite",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/1-Copie.pdf",
+     "sha256": "f6dcc4a32274f9983031005cd34ed02f5c21301b523345209763cc39e4bf0408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-10-2026",
+   "path": "local/dolj/daneti/2026/10",
+   "short": "HCL Daneți nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 10/2026 privind aprobarea Actului aditional nr. 1/2026 la Contractul de delegare a gestiunii SERVICIULUI PUBLIC DE ALIMENTARE CU APA SI DE CANALIZARE DANETI SRL",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/10.pdf",
+     "sha256": "60026e9a8c2bfb5a6e817618c3a2156573370714744c2ecd7ba0676d7c1ea63b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-11-2026",
+   "path": "local/dolj/daneti/2026/11",
+   "short": "HCL Daneți nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 11/2026",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/11.pdf",
+     "sha256": "4e81757aa61c51ee81916a1401e221eca74fd1846ffc021b71f483305142c8b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-2-2026",
+   "path": "local/dolj/daneti/2026/2",
+   "short": "HCL Daneți nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 2/2026 privind înregistrarea U.A.T Comuna DANEȚI , Judetul DOLJ în Sistemul național electronic de plată online a obligațiilor de plată către bugetul general consolidat, (SNEP) ,instalarea unui terminal de plată (POS) în cadrul casieriei precum şi stabilirea modului în ca",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/2-COPIE.pdf",
+     "sha256": "3708f38e126214b20c3509cce8eead3a37884c0b0754e7541f8144d316a2d8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-4-2026",
+   "path": "local/dolj/daneti/2026/4",
+   "short": "HCL Daneți nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 4/2026 privind achiziţionarea unor servicii de consultanta financiara in vederea contractarii unui imprumut pentru finantarea cheltuielilor neeligibile aferente obiectivelor de investitii publice ale comunei DANEȚI",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/4-1.pdf",
+     "sha256": "47e9b11b95ff567f5ce63c35f7e4d01e87ebd10aafbb1a431bb40576eccfd07f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-6-2026",
+   "path": "local/dolj/daneti/2026/6",
+   "short": "HCL Daneți nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 6/2026 privind aprobarea Planului de acţiuni şi lucrări de interes local pentru anul 2026 ce se vor efectua de catre beneficiarii Legii nr.196/2016 privind venitul minim de incluziune",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/6.pdf",
+     "sha256": "4831fcaa77c47595807fe1967522ccf46d83ddf83ee9d50c5384e0801a791e2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-7-2026",
+   "path": "local/dolj/daneti/2026/7",
+   "short": "HCL Daneți nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 7/2026 privind aprobarea Programului de Actiuni Comunitare la nivelul comunei Daneți , judetul Dolj pentru anul 2026",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/7.pdf",
+     "sha256": "dabb7d0502ce29780047b9f27c6a32361b047fd169c156b7904b5e547eacbabc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-8-2026",
+   "path": "local/dolj/daneti/2026/8",
+   "short": "HCL Daneți nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 8/2026 privind aprobarea Planului de Analiza si Acoperire a Riscurilor in domeniul situațiilor de urgența , la nivelul comunei Daneți , judetul Dolj",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/8.pdf",
+     "sha256": "0760f6ba6a2e832532e9db7b8bcd0e133f7345356d2a4213e544f79bf58ad875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-9-2026",
+   "path": "local/dolj/daneti/2026/9",
+   "short": "HCL Daneți nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 9/2026 privind aprobarea contractării unei finanțări rambursabile interne în valoare de până la 2.000.000 lei",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/9.pdf",
+     "sha256": "5f9820e866fce2535451e8fcdbc69ceb0546d781cc46cc6990e3e9ac54315e5a"
+    }
+   ]
+  }
+ ]
+}

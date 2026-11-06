@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/dambovita/persinari/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--persinari-21-2024",
+"path": "local/dambovita/persinari/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 21/2024 acceptarea unor oferte de sponsorizare pentru acordarea de rucsacuri copiilor din comuna Perșinari cu ocazia încheierii anului școlar 2023-2024",
+"short": "HCL Perșinari nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#78637",
+"council": "dambovita/persinari",
+"council_name": "Consiliul Local al Comunei Perșinari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--persinari-27-2024",
+"path": "local/dambovita/persinari/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 27/2024",
+"short": "HCL Perșinari nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": null,
+"council": "dambovita/persinari",
+"council_name": "Consiliul Local al Comunei Perșinari",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--persinari-61-2024",
+"path": "local/dambovita/persinari/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 61/2024",
+"short": "HCL Perșinari nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": null,
+"council": "dambovita/persinari",
+"council_name": "Consiliul Local al Comunei Perșinari",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

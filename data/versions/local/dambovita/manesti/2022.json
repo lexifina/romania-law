@@ -3,6 +3,21 @@
  "shard": "local/dambovita/manesti/2022",
  "acts": [
   {
+   "slug": "hcl-dambovita--manesti-108-2022",
+   "path": "local/dambovita/manesti/2022/108",
+   "short": "HCL Mănești nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 108/2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93330",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-109-2022",
    "path": "local/dambovita/manesti/2022/109",
    "short": "HCL Mănești nr. 109/2022",
@@ -43,6 +58,21 @@
      "from": "2023-03-03",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/93333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-112-2022",
+   "path": "local/dambovita/manesti/2022/112",
+   "short": "HCL Mănești nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 112/2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93334",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93334",
      "sha256": null
     }
    ]
@@ -123,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-118-2022",
+   "path": "local/dambovita/manesti/2022/118",
+   "short": "HCL Mănești nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 118/2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93360",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-119-2022",
+   "path": "local/dambovita/manesti/2022/119",
+   "short": "HCL Mănești nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 119/2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93361",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93361",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-120-2022",
    "path": "local/dambovita/manesti/2022/120",
    "short": "HCL Mănești nr. 120/2022",
@@ -138,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-121-2022",
+   "path": "local/dambovita/manesti/2022/121",
+   "short": "HCL Mănești nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 121/2022 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Mănești, județul Dâmbovița,începând cu data de 01.01.2023",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93363",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93363",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-122-2022",
    "path": "local/dambovita/manesti/2022/122",
    "short": "HCL Mănești nr. 122/2022",
@@ -148,6 +223,21 @@
      "from": "2023-03-03",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/93364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-123-2022",
+   "path": "local/dambovita/manesti/2022/123",
+   "short": "HCL Mănești nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 123/2022 privind mandatarea specială a reprezentantului unității administrativ- teritoriale Mănești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,, Management Integrat al Deșeurilor în județul Dâmbovița”",
+   "url": "https://emol.ro/manesti-db/registru-hcl/93365",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/93365",
      "sha256": null
     }
    ]

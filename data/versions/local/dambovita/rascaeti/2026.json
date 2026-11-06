@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/rascaeti/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--rascaeti-28-2026",
+   "path": "local/dambovita/rascaeti/2026/28",
+   "short": "HCL Răscăeți nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răscăeți nr. 28/2026 Privind desemnarea reprezentantului Consiliului local Răscăeți în Consiliul de administrație al Școlii Gimnaziale Răscăeți Consiliul local Răscăeți, județul Dâmbovița, întrunit în ședința ordinară din data de 30.09.2025, Având în vedere: - proiectul de hotărâre inițiat de primarul comunei înregistrat la nr. 143/03.09.2026; - prevederile art.128 alin.2, lit.a) din Legea nr.198 /2023 a învățământulu",
+   "url": "https://primaria-rascaeti.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primaria-rascaeti.ro/wp-content/uploads/2026/10/HCL-28-2026-reprezentant-CA-scoala.pdf",
+     "sha256": "3cb027db97ecb65091439bf1fbbe6c497af732e07c4e8e3eebe8f1254af73df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--rascaeti-30-2026",
+   "path": "local/dambovita/rascaeti/2026/30",
+   "short": "HCL Răscăeți nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răscăeți nr. 30/2026 privind modificarea Statului de funcții al aparatului de specialitate al Primarului comunei Răscăeți Consiliul local al comunei Răscăeți, întrunit în ședință ordinară,în data de 30.09.2026, Având în vedere: - Proiectul de hotărâre și Referatul de aprobare al Primarului comunei Răscăeți, înregistrat sub nr.128/ 29.07.2026, însoțite de raportului secretarului general al comunei și avizul de speciali",
+   "url": "https://primaria-rascaeti.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primaria-rascaeti.ro/wp-content/uploads/2026/10/HCL-30-30.09.2026-modificare-stat-functii.pdf",
+     "sha256": "a35a02e3f21d58e6912e7414232a94f7139295dbdea13787ff334bdd1c7f377f"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/dolj/afumati/2026",
  "acts": [
   {
+   "slug": "hcl-dolj--afumati-26-2026",
+   "path": "local/dolj/afumati/2026/26",
+   "short": "HCL Afumați nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 26/2026",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293473",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293473",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-27-2026",
    "path": "local/dolj/afumati/2026/27",
    "short": "HCL Afumați nr. 27/2026",
@@ -223,6 +238,36 @@
      "from": "2026-10-16",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/293570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-42-2026",
+   "path": "local/dolj/afumati/2026/42",
+   "short": "HCL Afumați nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 42/2026 privind desemnarea reprezentantului Consiliului Local Afumati în Consiliul de Administratie al Scolii Gimnaziale Afumati",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293571",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-43-2026",
+   "path": "local/dolj/afumati/2026/43",
+   "short": "HCL Afumați nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 43/2026 privind desemnarea reprezentantului Consiliului Local Afumati pentru aface parte din Comisia de evaluare a probei de interviu din cadrul concursului pentru ocupareafuncției de director la Școala Gimnazială Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293573",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293573",
      "sha256": null
     }
    ]

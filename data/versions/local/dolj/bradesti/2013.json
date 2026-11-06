@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/bradesti/2013",
+ "acts": [
+  {
+   "slug": "hcl-dolj--bradesti-1-2013",
+   "path": "local/dolj/bradesti/2013/1",
+   "short": "HCL Brădești nr. 1/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 1/2013 privind aprobarea acoperirii deficitului sectiunii de dezvoltare a anului 2012) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-08",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL01_2013.pdf",
+     "sha256": "49d88851afcc532b7493f78e5e02785d7250f786719ecdab8c2473a4677b1f83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-2-2013",
+   "path": "local/dolj/bradesti/2013/2",
+   "short": "HCL Brădești nr. 2/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 2/2013 privind asocierea comunei Bradesti la in cadrul Asociatiei de dezvoltare intercomunitara “Oltenia”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL02_2013.pdf",
+     "sha256": "99cba0184e8053cffef5cceaee636c522aa7e01f52fc9cefd0d330d57ceb4d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-3-2013",
+   "path": "local/dolj/bradesti/2013/3",
+   "short": "HCL Brădești nr. 3/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 3/2013 privind stabilirea pretului la distributia apei potabile pe raza comunei Bradesti, incepand cu luna ian. 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL03_2013.pdf",
+     "sha256": "13cabd5258ceb23563bcd54fad4666002f6c2ef0d9a9bb698fa6de96f84bd090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-4-2013",
+   "path": "local/dolj/bradesti/2013/4",
+   "short": "HCL Brădești nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 4/2013 privind aprobarea raportului de activitate al Primarului comunei Bradesti pe anul 2012) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL04_2013.pdf",
+     "sha256": "084f5ff5a943e8c9874e4313f3a728d73c823dd1d007d14857f29511356224c8"
+    }
+   ]
+  }
+ ]
+}

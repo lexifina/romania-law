@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-53-2025",
+   "path": "local/dambovita/manesti/2025/53",
+   "short": "HCL Mănești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 53/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/236595",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/236595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-54-2025",
    "path": "local/dambovita/manesti/2025/54",
    "short": "HCL Mănești nr. 54/2025",

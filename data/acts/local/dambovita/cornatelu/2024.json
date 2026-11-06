@@ -69,6 +69,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-45-2024",
+"path": "local/dambovita/cornatelu/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 45/2024 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada NOIEMBRIE 2024 - IANUARIE 2025",
+"short": "HCL Cornățelu nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/175527",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-46-2024",
+"path": "local/dambovita/cornatelu/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 46/2024 privind alegerea viceprimarului comunei Cornățelu, județul Dâmbovița",
+"short": "HCL Cornățelu nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/175528",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-47-2024",
 "path": "local/dambovita/cornatelu/2024/47",
 "kind": "local",
@@ -310,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-58-2024",
+"path": "local/dambovita/cornatelu/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 58/2024 privind concesionarea, prin licitație publică, a unor imobile aparținând domeniului public al comunei Cornățelu, județul Dâmbovița",
+"short": "HCL Cornățelu nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/179699",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

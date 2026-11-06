@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-dolj--filiasi-116-2026",
+   "path": "local/dolj/filiasi/2026/116",
+   "short": "HCL Filiași nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 116/2026 privind nominalizarea reprezentantului și a membrului supleant ai Consiliului Local al Orașului Filiași în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ Liceul Tehnologic Dimitrie Filişanu Filiaşi, Şcoala Gimnazială Filiaşi, Şcoala Gimnazială Fratoştiţa",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292835",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-117-2026",
+   "path": "local/dolj/filiasi/2026/117",
+   "short": "HCL Filiași nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 117/2026 privind desemnarea reprezentanților din partea Consiliului Local al orașului Filiași în Consiliul de Administrație al Liceului Tehnologic „Dimitrie Filișanu” Filiași pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292836",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-118-2026",
+   "path": "local/dolj/filiasi/2026/118",
+   "short": "HCL Filiași nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 118/2026 privind desemnarea reprezentanților din partea Consiliului Local al orașului Filiași în Consiliul de Administrație al Școlii Gimnaziale Filiași pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292837",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-119-2026",
+   "path": "local/dolj/filiasi/2026/119",
+   "short": "HCL Filiași nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 119/2026 privind desemnarea reprezentanților din partea Consiliului Local al orașului Filiași în Consiliul de Administrație al Școlii Gimnaziale Fratoștița pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292838",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292838",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--filiasi-120-2026",
    "path": "local/dolj/filiasi/2026/120",
    "short": "HCL Filiași nr. 120/2026",
@@ -43,6 +103,51 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-122-2026",
+   "path": "local/dolj/filiasi/2026/122",
+   "short": "HCL Filiași nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 122/2026 privind aprobarea modificării Bugetului Împrumuturilor, Creditelor Interne al oraşului Filiaşi pentru anul 2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292856",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-123-2026",
+   "path": "local/dolj/filiasi/2026/123",
+   "short": "HCL Filiași nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 123/2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292874",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-124-2026",
+   "path": "local/dolj/filiasi/2026/124",
+   "short": "HCL Filiași nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 124/2026 privind aprobarea Regulamentului de acordare a premiului de 500 de lei cuplurilor care au împlinit 50 de ani de la căsătorie",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292875",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292875",
      "sha256": null
     }
    ]
@@ -78,6 +183,321 @@
    ]
   },
   {
+   "slug": "hcl-dolj--filiasi-127-2026",
+   "path": "local/dolj/filiasi/2026/127",
+   "short": "HCL Filiași nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 127/2026 privind aprobarea proiectului „REALIZARE CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE DIN SURSE SOLARE PENTRU SPITALUL FILIȘANILOR”, a Studiului de fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare - Programul Autoconsum",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292878",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-128-2026",
+   "path": "local/dolj/filiasi/2026/128",
+   "short": "HCL Filiași nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 128/2026 privind constituirea unei comisii speciale de analiză și verificare a unor aspecte instituționale referitoare la exercitarea mandatelor reprezentanților autorității administrației publice locale în cadrul Liceului Tehnologic „Dimitrie Filișanu” Filiași",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292883",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-129-2026",
+   "path": "local/dolj/filiasi/2026/129",
+   "short": "HCL Filiași nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 129/2026 Privind aprobarea Studiului de fezabilitate, a indicatorilor și a finanțării proiectului „Înființare parc fotovoltaic în Orașul Filiași, Județul Dolj”, în cadrul Fondului pentru modernizare, Programul-cheie 1, apelul Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292884",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-130-2026",
+   "path": "local/dolj/filiasi/2026/130",
+   "short": "HCL Filiași nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 130/2026 privind aprobarea modificării bugetului proiectului „Modernizarea, extinderea și reabilitarea spațiilor verzi în Orașul Filiași”, cod SMIS 329432",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292885",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-131-2026",
+   "path": "local/dolj/filiasi/2026/131",
+   "short": "HCL Filiași nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 131/2026 privind aprobarea rectificării bugetului de venituri şi cheltuieli al Consiliului Local Filiaşi pentru anul 2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/292886",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/292886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-132-2026",
+   "path": "local/dolj/filiasi/2026/132",
+   "short": "HCL Filiași nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 132/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” str. Tudor Vladimirescu, nr.4J, 4K şi 4L Bl. B5",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293711",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-133-2026",
+   "path": "local/dolj/filiasi/2026/133",
+   "short": "HCL Filiași nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 133/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” str. Gării, nr.8, bl. V2 şi str. Gării, nr.10, bl.V3",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293712",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-134-2026",
+   "path": "local/dolj/filiasi/2026/134",
+   "short": "HCL Filiași nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 134/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” str. Gării, nr.12, bl. V4 şi str. Gării, nr.14, bl.V5",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293713",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-135-2026",
+   "path": "local/dolj/filiasi/2026/135",
+   "short": "HCL Filiași nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 135/2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293714",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-136-2026",
+   "path": "local/dolj/filiasi/2026/136",
+   "short": "HCL Filiași nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 136/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” bld. Racoţeanu, nr.170, bl.I5, sc.1, bl.I5, sc.2 şi nr.174-176, bl.N1",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293715",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-137-2026",
+   "path": "local/dolj/filiasi/2026/137",
+   "short": "HCL Filiași nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 137/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” bld. Racoţeanu, nr.162, bl.I2, nr.164, bl.I3 şi nr.168, bl.I4",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293716",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-138-2026",
+   "path": "local/dolj/filiasi/2026/138",
+   "short": "HCL Filiași nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 138/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” bld. Racoţeanu, nr.173, bl.G4, str. Pieţii, nr.4-6, bl. G5-G6 şi str. Stadionului, nr.1, bl.I1",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293717",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-139-2026",
+   "path": "local/dolj/filiasi/2026/139",
+   "short": "HCL Filiași nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 139/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” bld. Racoţeanu, nr.158, bl.F4, nr.158A, bl.F5, str. Pieţii, nr.2, bl. G1 şi str. Unirii, nr.2A, blG3",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293718",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-140-2026",
+   "path": "local/dolj/filiasi/2026/140",
+   "short": "HCL Filiași nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 140/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” bld. Racoţeanu, nr.156, bl.F3",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293719",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-141-2026",
+   "path": "local/dolj/filiasi/2026/141",
+   "short": "HCL Filiași nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 141/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” str. Aleea Unirii, nr.5, bl. E7, nr.9, bl.E9 şi bld.Racoţeanu, nr.150, bl.F1",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293720",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-142-2026",
+   "path": "local/dolj/filiasi/2026/142",
+   "short": "HCL Filiași nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 142/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” str. Cerbului, nr.4, bl.E1, str. Aleea Unirii, nr.1, bl.E5 şi nr.3, bl.E6",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293721",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-143-2026",
+   "path": "local/dolj/filiasi/2026/143",
+   "short": "HCL Filiași nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 143/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” bld. Racoţeanu, nr.163B, bl. D1 şi bl. D2",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293722",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-144-2026",
+   "path": "local/dolj/filiasi/2026/144",
+   "short": "HCL Filiași nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 144/2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293723",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-145-2026",
+   "path": "local/dolj/filiasi/2026/145",
+   "short": "HCL Filiași nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 145/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” str. Tudor Vladimirescu, nr.2d, bl. A4 şi nr.2, bl. B6",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293724",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-146-2026",
+   "path": "local/dolj/filiasi/2026/146",
+   "short": "HCL Filiași nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 146/2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293725",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-147-2026",
+   "path": "local/dolj/filiasi/2026/147",
+   "short": "HCL Filiași nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 147/2026 privind aprobarea Notei conceptuale și a Temei de proiectare, precum şi deschiderea fişelor de investiţii pentru obiectivul de investiții „Creșterea performanței energetice a clădirilor rezidențiale multifamiliale din Orașul Filiași” bld. Racoţeanu, nr.151, bl.A2 şi str. Tudor Vladimirescu, nr.2A, bl. A3",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293726",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293726",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--filiasi-148-2026",
    "path": "local/dolj/filiasi/2026/148",
    "short": "HCL Filiași nr. 148/2026",
@@ -88,6 +508,111 @@
      "from": "2026-10-19",
      "units": 1,
      "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-149-2026",
+   "path": "local/dolj/filiasi/2026/149",
+   "short": "HCL Filiași nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 149/2026 privind aprobarea acordării cu titlu gratuit a dreptului de folosință temporară asupra unui teren aparținând domeniului public al UAT Oraș Filiași, în vederea organizării de șantier pentru realizarea obiectivului de investiții “Reabilitare trotuare, străzi, alei acces auto și pietonale și parcări rezidențiale zona blocurilor din orașul Filiași, județul Dolj”",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293728",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-150-2026",
+   "path": "local/dolj/filiasi/2026/150",
+   "short": "HCL Filiași nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 150/2026 Privind aprobarea rectificării bugetului de venituri şi cheltuieli al Consiliului Local Filiaşi pentru anul 2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293729",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-151-2026",
+   "path": "local/dolj/filiasi/2026/151",
+   "short": "HCL Filiași nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 151/2026 privind aprobarea Procedurii de publicare a listei contribuabililor persoane juridice care au declarat și au achitat la scadență obligațiile fiscale de plată și care nu au obligații fiscale restante la bugetul local al orașului Filiași",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293901",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-152-2026",
+   "path": "local/dolj/filiasi/2026/152",
+   "short": "HCL Filiași nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 152/2026 aprobarea Statului de Funcţii al Direcției de Asistență Socială Filiași",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293902",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-153-2026",
+   "path": "local/dolj/filiasi/2026/153",
+   "short": "HCL Filiași nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 153/2026 nr. 90520 din 15.10.2026 privind mandatarea reprezentantului Consiliului Local Filiaşi în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară Oltenia",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293903",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-154-2026",
+   "path": "local/dolj/filiasi/2026/154",
+   "short": "HCL Filiași nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 154/2026",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293904",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--filiasi-155-2026",
+   "path": "local/dolj/filiasi/2026/155",
+   "short": "HCL Filiași nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Filiași nr. 155/2026 privind clarificarea regimului juridic al imobilelor înscrise în Cărțile Funciare nr. 34684 și nr. 31135, situate în orașul Filiași, județul Dolj, și confirmarea includerii acestora în documentația aferentă HCL nr. 260/16.11.2018 privind predarea-preluarea bunurilor aferente serviciilor de alimentare cu apă și canalizare",
+   "url": "https://emol.ro/filiasi-dj/registru-hcl/293905",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filiasi-dj/registru-hcl/293905",
      "sha256": null
     }
    ]

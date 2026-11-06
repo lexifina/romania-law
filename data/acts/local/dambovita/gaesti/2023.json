@@ -3,6 +3,72 @@
 "shard": "local/dambovita/gaesti/2023",
 "acts": [
 {
+"slug": "hcl-dambovita--gaesti-1-2023",
+"path": "local/dambovita/gaesti/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 1/2023 privind prelungirea unui contract de închirere",
+"short": "HCL Găești nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100715",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-2-2023",
+"path": "local/dambovita/gaesti/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 2/2023 privind prelungirea unui contract de închiriere",
+"short": "HCL Găești nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100716",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-3-2023",
+"path": "local/dambovita/gaesti/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 3/2023 privind prelungirea unui contract de concesiune",
+"short": "HCL Găești nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100717",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-4-2023",
 "path": "local/dambovita/gaesti/2023/4",
 "kind": "local",
@@ -47,6 +113,141 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-6-2023",
+"path": "local/dambovita/gaesti/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 6/2023 privind modificarea HCL Nr.55/2019, privind regulamentul de organizare și funcționare al Direcției de Asistență Socială",
+"short": "HCL Găești nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100720",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-7-2023",
+"path": "local/dambovita/gaesti/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 7/2023 privind aprobarea raportului de activitate al Direcției de Asistență Socială pe anul 2022",
+"short": "HCL Găești nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100721",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-8-2023",
+"path": "local/dambovita/gaesti/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 8/2023",
+"short": "HCL Găești nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100722",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-9-2023",
+"path": "local/dambovita/gaesti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 9/2023",
+"short": "HCL Găești nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100723",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-10-2023",
+"path": "local/dambovita/gaesti/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 10/2023",
+"short": "HCL Găești nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100724",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-11-2023",
+"path": "local/dambovita/gaesti/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 11/2023 privind alegerea președintelui de ședinta a Consiliului Local Găești pentru o perioadă de 3 luni",
+"short": "HCL Găești nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100725",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-12-2023",
 "path": "local/dambovita/gaesti/2023/12",
 "kind": "local",
@@ -88,6 +289,29 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-14-2023",
+"path": "local/dambovita/gaesti/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 14/2023",
+"short": "HCL Găești nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100728",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -201,6 +425,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-20-2023",
+"path": "local/dambovita/gaesti/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 20/2023",
+"short": "HCL Găești nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100753",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-21-2023",
+"path": "local/dambovita/gaesti/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 21/2023 privind prelungirea unor contract de concesiune",
+"short": "HCL Găești nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100754",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-22-2023",
 "path": "local/dambovita/gaesti/2023/22",
 "kind": "local",
@@ -220,6 +489,73 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-23-2023",
+"path": "local/dambovita/gaesti/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 23/2023 privind modificarea tarifelor pentru activitatea ,,Măturatul, spălatul, stropirea și întreținerea căilor publice,, prestată în baza contractului de concesiune nr. 1632/30.01.2019, aprobat prin HCL nr. 81/30.10. 2018",
+"short": "HCL Găești nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100756",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-24-2023",
+"path": "local/dambovita/gaesti/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 24/2023 privind prelungirea unor contracte de închiriere",
+"short": "HCL Găești nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100757",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-25-2023",
+"path": "local/dambovita/gaesti/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 25/2023",
+"short": "HCL Găești nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100758",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -289,6 +625,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-29-2023",
+"path": "local/dambovita/gaesti/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 29/2023 privind prelungirea a 2 (două) contracte de concesiune",
+"short": "HCL Găești nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100768",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-30-2023",
+"path": "local/dambovita/gaesti/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 30/2023 privind prelungirea unui contract de concesiune",
+"short": "HCL Găești nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100769",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-31-2023",
+"path": "local/dambovita/gaesti/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 31/2023 privind prelungirea a patru contracte de concesiune",
+"short": "HCL Găești nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100770",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-32-2023",
 "path": "local/dambovita/gaesti/2023/32",
 "kind": "local",
@@ -333,6 +735,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-34-2023",
+"path": "local/dambovita/gaesti/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 34/2023 privind rectificarea prevederilor bugetului local pe anul 2023, trim .I",
+"short": "HCL Găești nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100773",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-35-2023",
 "path": "local/dambovita/gaesti/2023/35",
 "kind": "local",
@@ -355,6 +779,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-36-2023",
+"path": "local/dambovita/gaesti/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 36/2023",
+"short": "HCL Găești nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100775",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-37-2023",
+"path": "local/dambovita/gaesti/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 37/2023 privind aprobarea premierii sportivilor aparținând Clubului Sportiv ,,Viper Sport Găești ,,pentru rezultate deosebite obținute la Campionatul Național de Muay",
+"short": "HCL Găești nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100776",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-38-2023",
 "path": "local/dambovita/gaesti/2023/38",
 "kind": "local",
@@ -374,6 +843,72 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-39-2023",
+"path": "local/dambovita/gaesti/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 39/2023 privind aprobarea concesionarii unei suprafete de 165 m.p. teren (domeniul privat al orasului), situat în Găești, str. 1 Decembrie",
+"short": "HCL Găești nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100778",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-40-2023",
+"path": "local/dambovita/gaesti/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 40/2023 privind aprobarea aprobarea concesionarii unei suprafete de 5 m.p. teren (domeniul Public al orașului), situat în Găești, str. Cuza Voda, bl.43, sc. B",
+"short": "HCL Găești nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/100779",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-41-2023",
+"path": "local/dambovita/gaesti/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 41/2023 privind aprobarea proiectului ,, Reabilitare si modernizare Scoala Gimnaziala Serban Cioculescu,, in vederea finantarii acestuia in cadrul Programului Opeational Regional 2014- 2020 , Axa prioritara 10,Obiectiv specific 10.01, apel de proiecte nr. POR /317/10/1 / Apel dedicat invatamantului obligatoriu",
+"short": "HCL Găești nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/101220",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -443,6 +978,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-45-2023",
+"path": "local/dambovita/gaesti/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 45/2023 privind prelungirea a trei contracte de concesiune",
+"short": "HCL Găești nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102230",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-46-2023",
+"path": "local/dambovita/gaesti/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 46/2023 privind aprobarea cuantumului chiriei aferenta locuintelor pentru tineri destinate inchirierii , valabila pentru anul 2023 si respectiv a sumelor cu titlu de recuperare a investitiei ce se vor vira Agentiei Nationale pentru Locuinte in anul 2023",
+"short": "HCL Găești nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102231",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-47-2023",
+"path": "local/dambovita/gaesti/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 47/2023 privind alegerea presedintelui de sedinta pe o perioada de trei luni",
+"short": "HCL Găești nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102232",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-48-2023",
 "path": "local/dambovita/gaesti/2023/48",
 "kind": "local",
@@ -465,6 +1066,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-49-2023",
+"path": "local/dambovita/gaesti/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 49/2023 privind modifcarea anexei nr.IV la H.C.L .nr. 113/14.12.2017, privind stabilirea salariilor pentru functiile publice si contractuale din aparatul de specialitate al primarului orasului Gaesti",
+"short": "HCL Găești nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102234",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-50-2023",
 "path": "local/dambovita/gaesti/2023/50",
 "kind": "local",
@@ -484,6 +1107,94 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-51-2023",
+"path": "local/dambovita/gaesti/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 51/2023 privind aprobarea contului de executie a bugetului Orasului Gaesti la 31.03.2023",
+"short": "HCL Găești nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102236",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-52-2023",
+"path": "local/dambovita/gaesti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 52/2023 privind aprobarea insusirii raportului de evaluare intocmit in vederea concesionarii Scolii Generale nr.2 situata in Gaesti , str. Stefan Mihailescu , nr.65",
+"short": "HCL Găești nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102237",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-53-2023",
+"path": "local/dambovita/gaesti/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 53/2023 privind aprobarea inchirierii spatiului cu destinatie de cabinet oftalmologic , situat in incinta Ambulatoriului Integrat al Spitalului Orasenesc Gaesti , str. 13 Decembrie , nr.170",
+"short": "HCL Găești nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102238",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-54-2023",
+"path": "local/dambovita/gaesti/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 54/2023 privind aprobarea statului de functii ale Spitalului Orasenesc Gaesti",
+"short": "HCL Găești nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/102239",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +1242,228 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-57-2023",
+"path": "local/dambovita/gaesti/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 57/2023 privind modificarea Hotararii Consiliului Local Gaesti numarul 48 din data de 28.04.2017 privind aprobarea componentei Comisiei Tehnice de Amenajarea a Teritoriului si Urbanism a Orasului Gaesti",
+"short": "HCL Găești nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106186",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-58-2023",
+"path": "local/dambovita/gaesti/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 58/2023 privind prelungirea a opt contracte de concesiune - copie",
+"short": "HCL Găești nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106187",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-59-2023",
+"path": "local/dambovita/gaesti/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 59/2023 privind prelungirea unui contract de inchiriere",
+"short": "HCL Găești nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106188",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-60-2023",
+"path": "local/dambovita/gaesti/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 60/2023 privind aprobarea proiectului evenimentului ,, 1 Iunie , ziua copilului / cupa 1 Iunie ,,",
+"short": "HCL Găești nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106189",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-61-2023",
+"path": "local/dambovita/gaesti/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 61/2023 privind aprobarea documentatiei de dezmembrare a imobilului bloc F2 A situat in Gaesti , str. 1 Decembrie",
+"short": "HCL Găești nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106190",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-62-2023",
+"path": "local/dambovita/gaesti/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 62/2023",
+"short": "HCL Găești nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106191",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-63-2023",
+"path": "local/dambovita/gaesti/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 63/2023 privind aprobarea sustinerii financiare a Clubului Sportiv ,, SANKIDO ,, in vederea deplasarii la Campionatul Mondial de Karate SHITO- RYU care va avea loc la Oradea",
+"short": "HCL Găești nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106192",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-64-2023",
+"path": "local/dambovita/gaesti/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 64/2023",
+"short": "HCL Găești nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106193",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-65-2023",
+"path": "local/dambovita/gaesti/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 65/2023 privind aprobarea insusirii raportului de evaluare intocmit in vederea concesionarii terenului situat in Gaesti , str. 1 Decembrie , in continuarea proprietatii situate la numarul 36",
+"short": "HCL Găești nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106194",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-66-2023",
+"path": "local/dambovita/gaesti/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 66/2023 privind aprobarea insusirii raportului de evaluare intocmit in vederea concesionarii terenului in suprafata de 5 m.p. situat in Gaesti , zona blocului 43",
+"short": "HCL Găești nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106195",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-67-2023",
 "path": "local/dambovita/gaesti/2023/67",
 "kind": "local",
@@ -553,6 +1486,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-68-2023",
+"path": "local/dambovita/gaesti/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 68/2023 privind aprobarea preluarii in proprietatea Orasului Gaesti si inscrierea in domeniul privat a unor bunuri",
+"short": "HCL Găești nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106197",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-69-2023",
+"path": "local/dambovita/gaesti/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 69/2023 privind modificarea Hotararii Consiliului Local nr .54 din 28.04.2023 privind aprobarea statului de functii ale Spitalului Orasenesc Gaesti",
+"short": "HCL Găești nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106198",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-70-2023",
 "path": "local/dambovita/gaesti/2023/70",
 "kind": "local",
@@ -572,6 +1549,94 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-71-2023",
+"path": "local/dambovita/gaesti/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 71/2023 privind asocierea unității administrativ-teritoriale Orasul Gaesti prin Consiliul local Gaesti , cu Judeţul Dâmboviţa, prin Consiliul Judeţean Dâmboviţa, pentru implementarea obiectivului de investiții „Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița” în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+"short": "HCL Găești nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106200",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-72-2023",
+"path": "local/dambovita/gaesti/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 72/2023 privind aprobarea documentaţia tehnico-economică pentru proiectul ,, – „Construire bloc locuinte pentru tineri specialisti din sanatate in orasul Gaesti ,judetul Dambovita’’’ finantat in cadrul in cadrul Programului National de Redresare si Rezilienta ,Componenta C10-Fondul local",
+"short": "HCL Găești nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/106201",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-73-2023",
+"path": "local/dambovita/gaesti/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 73/2023 privind aprobarea proiectului ,, Reabilitare si modernizare Scoala Gimnaziala Serban Cioculescu,, in vederea finantarii acestuia in cadrul Programului Opeational Regional 2014- 2020 , Axa prioritara 10,Obiectiv specific 10.01, apel de proiecte nr. POR /317/10/1 / Apel dedicat invatamantului obligatoriu",
+"short": "HCL Găești nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/109175",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-74-2023",
+"path": "local/dambovita/gaesti/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 74/2023 privind aderarea Orasului Gaesti , judetul Dambovita la Parteneriatul LEADER cu denumirea ,, GRUPUL DE ACTIUNE LOCALA VLASCA DE NORD ,,",
+"short": "HCL Găești nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/109176",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -619,6 +1684,94 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-77-2023",
+"path": "local/dambovita/gaesti/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 77/2023 privind aprobarea concesionarii unei suprafete de 20 m.p. teren (domeniul privat al orasului), situat în Găești, str. N. Titulescu , in vederea construirii unui cabinet de avocatura",
+"short": "HCL Găești nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/110424",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-78-2023",
+"path": "local/dambovita/gaesti/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 78/2023 privind aprobarea concesionarii unei suprafete de 20 m.p. teren (domeniul privat al orasului), situat în Găești, str. N. Titulescu , in vederea construirii unui cabinet de avocatura",
+"short": "HCL Găești nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/110425",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-79-2023",
+"path": "local/dambovita/gaesti/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 79/2023 privind prelungirea a sase contracte de concesiune",
+"short": "HCL Găești nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/110426",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-80-2023",
+"path": "local/dambovita/gaesti/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 80/2023 privind acordarea unor premii elevilor care au obtinut media generala 10 ( zece) pe parcursul unui ciclu de invatamant",
+"short": "HCL Găești nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/110427",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-81-2023",
 "path": "local/dambovita/gaesti/2023/81",
 "kind": "local",
@@ -638,6 +1791,339 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-82-2023",
+"path": "local/dambovita/gaesti/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 82/2023 privind modificarea Hotararii Consiliului Local Gaesti numarul 45/2012 , avand ca obiect atribuirea in folosinta gratuita a terenului in suprafata de 2423 m.p. pentru construirea obiectivului de cult - Catedrala",
+"short": "HCL Găești nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112098",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-83-2023",
+"path": "local/dambovita/gaesti/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 83/2023 privind aprobarea achizitiei publice de servicii juridice de consultanta , de asistenta si de asistenta si de reprezentare a autoritatilor administratiei publice locale ale orasului Gaesti",
+"short": "HCL Găești nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112867",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-84-2023",
+"path": "local/dambovita/gaesti/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 84/2023 privind alegerea presedintelui de sedinta pe o perioada de trei luni",
+"short": "HCL Găești nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112868",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-85-2023",
+"path": "local/dambovita/gaesti/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 85/2023 privind aprobarea contului de executie a bugetului Orasului Gaesti la 30.06.2023",
+"short": "HCL Găești nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112869",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-86-2023",
+"path": "local/dambovita/gaesti/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 86/2023",
+"short": "HCL Găești nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112870",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-87-2023",
+"path": "local/dambovita/gaesti/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 87/2023 privind modificarea Hotararii Consiliului Local nr .54 din 28.04.2023 privind aprobarea statului de functii ale Spitalului Orasenesc Gaesti",
+"short": "HCL Găești nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112871",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-88-2023",
+"path": "local/dambovita/gaesti/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 88/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023, trimestrul III si validarea dispozitiei nr. 485/12.06.2023",
+"short": "HCL Găești nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112872",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-89-2023",
+"path": "local/dambovita/gaesti/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 89/2023 privind aprobarea proiectului evenimentului ,, Zilele Orasului Gaesti ,, 2023",
+"short": "HCL Găești nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/112873",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-90-2023",
+"path": "local/dambovita/gaesti/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 90/2023",
+"short": "HCL Găești nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/113880",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-91-2023",
+"path": "local/dambovita/gaesti/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 91/2023 privind APROBAREA PROIECTULUI ȘI A CHELTUIELILOR LEGATE DE PROIECTUL Transformare Digitală a Spitalului Orășenesc Găești PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ COMPONENTA 7 - Transformare digitală INVESTIȚIA: I3. Realizarea sistemului de eHealth și telemedicină Investiția specifică: I3.3 - Investiții în sistemele informatice și în infrastructura digitală a unităților sanitare publice",
+"short": "HCL Găești nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/117076",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-92-2023",
+"path": "local/dambovita/gaesti/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 92/2023 privind pentru modificarea și completarea Hotărârii 68 DIN 22.05.2023 privind aprobarea proiectului \"Sistem de Management Integrat al Deșeurilor din Județul Dâmbovița – OBIECTIV – Instalație de Tratare Deșeuri Colectate Separat și Centru de Aport Voluntar Șotânga\" și a cheltuielilor aferente",
+"short": "HCL Găești nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118607",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-93-2023",
+"path": "local/dambovita/gaesti/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 93/2023 privind prelungirea unui contract de inchiriere",
+"short": "HCL Găești nr. 93/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118608",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-94-2023",
+"path": "local/dambovita/gaesti/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 94/2023 privind prelungirea a 12 ( douasprezece) contracte de concesiune",
+"short": "HCL Găești nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118609",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-95-2023",
+"path": "local/dambovita/gaesti/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 95/2023 privind prelungirea a 3 ( trei ) contracte de concesiune",
+"short": "HCL Găești nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118610",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-96-2023",
+"path": "local/dambovita/gaesti/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 96/2023",
+"short": "HCL Găești nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118611",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -663,6 +2149,73 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-98-2023",
+"path": "local/dambovita/gaesti/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 98/2023",
+"short": "HCL Găești nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118613",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-99-2023",
+"path": "local/dambovita/gaesti/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 99/2023 privind modificarea organigramei si statelor de functii a aparatului despecialitate al Primarului orasului Gaesti si ale Serviciilor Publice ale Consiliului Local Gaesti",
+"short": "HCL Găești nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118614",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-100-2023",
+"path": "local/dambovita/gaesti/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 100/2023 privind aprobarea componenței CONSILIULUI COMUNITAR CONSULTATIV la nivelul Orasului Gaesti",
+"short": "HCL Găești nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118615",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-101-2023",
 "path": "local/dambovita/gaesti/2023/101",
 "kind": "local",
@@ -682,6 +2235,73 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-102-2023",
+"path": "local/dambovita/gaesti/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 102/2023",
+"short": "HCL Găești nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118617",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-103-2023",
+"path": "local/dambovita/gaesti/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 103/2023 privind aprobarea concesionarii unei suprafete de 15 m.p. teren (domeniul privat al orasului), situat în Găești, str. 1 Unirii ( teren fosta Piata Noua )",
+"short": "HCL Găești nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118618",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-104-2023",
+"path": "local/dambovita/gaesti/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 104/2023 privind aprobarea predării prin protocol de predare - primire intre Orașul Găesti si Compania de Apa Targoviste Dambovița ,, a mijloacelor fixe rezultate in urma derularii proiectului ,, Reabilitare si modernizare ,alimentare cu apa Oraș Găesti , Județul Dambovița ,,",
+"short": "HCL Găești nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/118619",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -707,6 +2327,186 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-106-2023",
+"path": "local/dambovita/gaesti/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 106/2023 privind constituirea echipei mobile pentru intervenția in regim de urgentă in cazurile de violență domestica identificate pe raza UAT Gaesti",
+"short": "HCL Găești nr. 106/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122691",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-107-2023",
+"path": "local/dambovita/gaesti/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 107/2023",
+"short": "HCL Găești nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122692",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-108-2023",
+"path": "local/dambovita/gaesti/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 108/2023",
+"short": "HCL Găești nr. 108/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122693",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-109-2023",
+"path": "local/dambovita/gaesti/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 109/2023 privind prelungirea unui contract de concesiune",
+"short": "HCL Găești nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122694",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-110-2023",
+"path": "local/dambovita/gaesti/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 110/2023 privind prelungirea unui contract de inchiriere",
+"short": "HCL Găești nr. 110/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122695",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-111-2023",
+"path": "local/dambovita/gaesti/2023/111",
+"kind": "local",
+"year": "2023",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 111/2023",
+"short": "HCL Găești nr. 111/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122696",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-112-2023",
+"path": "local/dambovita/gaesti/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 112/2023",
+"short": "HCL Găești nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122697",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-113-2023",
+"path": "local/dambovita/gaesti/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 113/2023 privind inscrierea in inventarul bunurilor domeniului privat al orasului Gaesti a unui imobil , teren din categoria ,, curti - constructii ,, in suprafata de 538 m.p",
+"short": "HCL Găești nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122698",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-114-2023",
 "path": "local/dambovita/gaesti/2023/114",
 "kind": "local",
@@ -726,6 +2526,205 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-115-2023",
+"path": "local/dambovita/gaesti/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 115/2023 privind desemnarea reprezentantilor Consiliului Local Gaesti in Consiliul de Administratie al Liceului Tehnologic ,,Iordache Golescu ,, cat si in Comisia pentru evaluarea si asigurarea Calitatii in anul scolar 2023-2024",
+"short": "HCL Găești nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122700",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-116-2023",
+"path": "local/dambovita/gaesti/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 116/2023 privind desemnarea reprezentantilor Consiliului Local Gaesti in Consiliul de Administratie al Gradinitei cu program prelungit ,, INOCENTA ,, cat si in Comisia pentru evaluarea si asigurarea Calitatii in anul scolar 2023-2024",
+"short": "HCL Găești nr. 116/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122701",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-117-2023",
+"path": "local/dambovita/gaesti/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 117/2023 privind desemnarea reprezentantilor Consiliului Local Gaesti in Consiliul de Administratie al Cresei Gaesti cat si in Comisia pentru evaluarea si asigurarea Calitatii in anul scolar 2023-2024",
+"short": "HCL Găești nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122702",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-118-2023",
+"path": "local/dambovita/gaesti/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 118/2023",
+"short": "HCL Găești nr. 118/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122703",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-119-2023",
+"path": "local/dambovita/gaesti/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 119/2023 privind aprobarea desemnării reprezentanţilor Consiliului Local în Consiliul de Administraţie al Spitalului Orasenesc Gaesti",
+"short": "HCL Găești nr. 119/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122704",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-120-2023",
+"path": "local/dambovita/gaesti/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 120/2023 privind desemnarea reprezentantilor Consiliului Local Gaesti in Consiliul de Administratie al ,, Scolii Gimnaziale ,, Serban Cioculescu ,, , cat si in Comisia pentru evaluarea si asigurarea Calitatii in anul scolar 2023-2024",
+"short": "HCL Găești nr. 120/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122705",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-121-2023",
+"path": "local/dambovita/gaesti/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 121/2023 privind desemnarea reprezentantilor Consiliului Local Gaesti in Consiliul de Administratie al ,, Scolii Gimnaziale ,, Radu cel Mare ,, , cat si in Comisia pentru evaluarea si asigurarea Calitatii in anul scolar 2023-2024",
+"short": "HCL Găești nr. 121/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122706",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-122-2023",
+"path": "local/dambovita/gaesti/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 122/2023 privind desemnarea reprezentantilor Consiliului Local Gaesti in Consiliul de Administratie al CLUBULUI COPIILOR ,cat si in Comisia pentru evaluarea si asigurarea Calitatii in anul scolar 2023-2024",
+"short": "HCL Găești nr. 122/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122707",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-123-2023",
+"path": "local/dambovita/gaesti/2023/123",
+"kind": "local",
+"year": "2023",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 123/2023 privind desemnarea reprezentantilor Consiliului Local Gaesti in Consiliul de Administratie al Liceului Tehnologic ,,Dr. C. Angelescu ,, cat si in Comisia pentru evaluarea si asigurarea Calitatii in anul scolar 2023-2024",
+"short": "HCL Găești nr. 123/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122708",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -751,6 +2750,292 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-125-2023",
+"path": "local/dambovita/gaesti/2023/125",
+"kind": "local",
+"year": "2023",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 125/2023 privind privind aprobarea documentatiei de avizare a lucrarilor de interventie, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitare si modernizare strazi in orasul Gaesti”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Găești nr. 125/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/122710",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-126-2023",
+"path": "local/dambovita/gaesti/2023/126",
+"kind": "local",
+"year": "2023",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 126/2023 privind modificarea Hotararii Consiului Local Gaesti nr. 125/29.09.2023 cu privire la aprobarea documentatiei de avizare a lucrarilor de interventie, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitare si modernizare strazi in orasul Gaesti”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Găești nr. 126/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-18",
+"latest": "2023-10-18",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/123927",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-127-2023",
+"path": "local/dambovita/gaesti/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 127/2023 privind aprobarea Proiectului tehnic si a Devizului general actualizat a obiectivului de investiții,,Reabilitare Spital Orasenesc Gaesti,judetul Dambovita’’ finantat in cadrul in cadrul Programului National de Redresare si Rezilienta ,Componenta C10-Fondul local Investitia I.3 –Reabilitarea moderata a cladirilor publice pentru a imbuntati serviciile serviciile publice prestate la nivelul unitatilor administrartiv teritoriale",
+"short": "HCL Găești nr. 127/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125428",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-128-2023",
+"path": "local/dambovita/gaesti/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 128/2023 privind aprobarea documentației tehnico-economice la faza PT/DTAC a proiectului ; ,, REABILITAREA TERMICA LICEUL TEHNOLOGIC DR.C. ANGELESCU , cladiri C1, C12 , C15 , C19 ,situat in strada ARGESULUI ,nr. 2, ORAS GAESTI, JUDEŢUL DAMBOVITA. Proiect intocmit in conformitate cu Contractul de Finantare Nr. 11307/27.01.2023 Titlu apel : PNNR/2022/C10/13, Runda 1",
+"short": "HCL Găești nr. 128/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125429",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-129-2023",
+"path": "local/dambovita/gaesti/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 129/2023 privind indexarea nivelurilor impozitului pe mijloacele de transport cu masa totala maxima autorizata mai mare sau egala cu 12 tone pentru anul 2023",
+"short": "HCL Găești nr. 129/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125771",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-130-2023",
+"path": "local/dambovita/gaesti/2023/130",
+"kind": "local",
+"year": "2023",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 130/2023 privind prelungirea unui numar de sapte contract de concesiune",
+"short": "HCL Găești nr. 130/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125772",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-131-2023",
+"path": "local/dambovita/gaesti/2023/131",
+"kind": "local",
+"year": "2023",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 131/2023 privind prelungirea unui numar de doua contracte de concesiune",
+"short": "HCL Găești nr. 131/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125773",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-132-2023",
+"path": "local/dambovita/gaesti/2023/132",
+"kind": "local",
+"year": "2023",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 132/2023 privind prelungirea unui numar de cinci contracte de concesiune",
+"short": "HCL Găești nr. 132/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125774",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-133-2023",
+"path": "local/dambovita/gaesti/2023/133",
+"kind": "local",
+"year": "2023",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 133/2023 privind prelungirea unui contract de inchiriere",
+"short": "HCL Găești nr. 133/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125775",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-134-2023",
+"path": "local/dambovita/gaesti/2023/134",
+"kind": "local",
+"year": "2023",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 134/2023 privind alegerea presedintelui de sedinta pe o perioada de trei luni",
+"short": "HCL Găești nr. 134/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125776",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-135-2023",
+"path": "local/dambovita/gaesti/2023/135",
+"kind": "local",
+"year": "2023",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 135/2023 privind aprobarea contului de executie a bugetului Orasului Gaesti la 30.09.2023",
+"short": "HCL Găești nr. 135/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125777",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-136-2023",
+"path": "local/dambovita/gaesti/2023/136",
+"kind": "local",
+"year": "2023",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 136/2023 modificarea HCL nr.88/12.07.2022 privind aprobarea documentației tehnico-economice a obiectivului de investiții pentru finanțare in cadrul POIM - axa prioritară: 9 Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19, Obiectiv specific : 9.1 Creșterea capacității de gestionare a crizei sanitare COVID 19",
+"short": "HCL Găești nr. 136/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125778",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-137-2023",
+"path": "local/dambovita/gaesti/2023/137",
+"kind": "local",
+"year": "2023",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 137/2023 privind aprobarea concesionarii unei suprafețe de 10,26 m.p. teren (domeniul privat al orașului), situat în Găești, str. 13 Decembrie , nr.37",
+"short": "HCL Găești nr. 137/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125779",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-138-2023",
 "path": "local/dambovita/gaesti/2023/138",
 "kind": "local",
@@ -770,6 +3055,207 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-139-2023",
+"path": "local/dambovita/gaesti/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 139/2023 privind aprobarea concesionarii unei suprafețe de 12,8 m.p. teren (domeniul privat al orașului), situat în Găești, str. 13 Decembrie , nr.37",
+"short": "HCL Găești nr. 139/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/125781",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-140-2023",
+"path": "local/dambovita/gaesti/2023/140",
+"kind": "local",
+"year": "2023",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 140/2023 privind prelungirea unui număr de doua contracte de concesiune",
+"short": "HCL Găești nr. 140/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/128889",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-141-2023",
+"path": "local/dambovita/gaesti/2023/141",
+"kind": "local",
+"year": "2023",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 141/2023 privind prelungirea unui contract de concesiune",
+"short": "HCL Găești nr. 141/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/128890",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-142-2023",
+"path": "local/dambovita/gaesti/2023/142",
+"kind": "local",
+"year": "2023",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 142/2023 privind prelungirea unui contract de inchiriere",
+"short": "HCL Găești nr. 142/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/128891",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-143-2023",
+"path": "local/dambovita/gaesti/2023/143",
+"kind": "local",
+"year": "2023",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 143/2023",
+"short": "HCL Găești nr. 143/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/128892",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-144-2023",
+"path": "local/dambovita/gaesti/2023/144",
+"kind": "local",
+"year": "2023",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 144/2023",
+"short": "HCL Găești nr. 144/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/128893",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-145-2023",
+"path": "local/dambovita/gaesti/2023/145",
+"kind": "local",
+"year": "2023",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 145/2023 privind aprobarea închirierii unui teren in suprafața de 15 m.p. , aparținând domeniului public al orașului Găești ,situat pe strada Unirii , lângă blocul 18, sc. B",
+"short": "HCL Găești nr. 145/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/128894",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-146-2023",
+"path": "local/dambovita/gaesti/2023/146",
+"kind": "local",
+"year": "2023",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 146/2023",
+"short": "HCL Găești nr. 146/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/128895",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-147-2023",
+"path": "local/dambovita/gaesti/2023/147",
+"kind": "local",
+"year": "2023",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 147/2023 privind aprobarea proiectului evenimentului ,, Ziua Națională a României - Târg de Crăciun ,,",
+"short": "HCL Găești nr. 147/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/130505",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -862,6 +3348,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--gaesti-152-2023",
+"path": "local/dambovita/gaesti/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 152/2023 privind prelungirea unui contract de concesiune",
+"short": "HCL Găești nr. 152/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/134019",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-153-2023",
+"path": "local/dambovita/gaesti/2023/153",
+"kind": "local",
+"year": "2023",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 153/2023 privind prelungirea unui contract de închiriere",
+"short": "HCL Găești nr. 153/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/134020",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-154-2023",
+"path": "local/dambovita/gaesti/2023/154",
+"kind": "local",
+"year": "2023",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 154/2023 privind aprobarea scoaterii din funcțiune , casarea și valorificarea unor bunuri - mijloace fixe din patrimoniul Orașului Găești",
+"short": "HCL Găești nr. 154/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/134021",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--gaesti-155-2023",
 "path": "local/dambovita/gaesti/2023/155",
 "kind": "local",
@@ -881,6 +3433,94 @@
 "council_name": "Consiliul Local al Orașului Găești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-156-2023",
+"path": "local/dambovita/gaesti/2023/156",
+"kind": "local",
+"year": "2023",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 156/2023 privind aprobarea cuantumului taxei de habitat cu destinație specială de salubrizare pentru anul 2024",
+"short": "HCL Găești nr. 156/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/134023",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-157-2023",
+"path": "local/dambovita/gaesti/2023/157",
+"kind": "local",
+"year": "2023",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 157/2023 privind aprobarea concesionarii unei suprafețe de 100 m.p. teren (domeniul public al orașului), situat în Găești, str. Unirii , nr.20 A",
+"short": "HCL Găești nr. 157/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/134024",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-158-2023",
+"path": "local/dambovita/gaesti/2023/158",
+"kind": "local",
+"year": "2023",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 158/2023 privind aprobarea încheierii de către Spitalul Orășenesc Găești a unui contract de asistență juridică și reprezentare",
+"short": "HCL Găești nr. 158/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/134025",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-159-2023",
+"path": "local/dambovita/gaesti/2023/159",
+"kind": "local",
+"year": "2023",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 159/2023 privind aprobarea rețelei școlare a unităţilor de învăţământ preuniversitar de stat in anul școlar 2024-2025 pe raza orașului Găești",
+"short": "HCL Găești nr. 159/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/134026",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

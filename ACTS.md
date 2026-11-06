@@ -23311,4 +23311,4 @@
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
 | Public procurement complaints council decisions (CNSC) | 1952 | [`data/acts/cnsc/`](data/acts/cnsc/) |
 | Lower-court decisions published in the Monitorul Oficial (courts of appeal, tribunals): annulments of normative acts and other rulings | 528 | [`data/acts/instante/`](data/acts/instante/) |
-| Local acts (decisions of local and county councils) | 144296 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 147296 | [`data/acts/local/`](data/acts/local/) |

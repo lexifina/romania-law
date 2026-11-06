@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/daneti/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--daneti-105-2023",
+   "path": "local/dolj/daneti/2023/105",
+   "short": "HCL Daneți nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 105/2023",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-105-2023.pdf",
+     "sha256": "4dcc1563dfabe0c31744cc46077f7980fffc4c68be02e0d9a56c93e4f1374734"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-106-2023",
+   "path": "local/dolj/daneti/2023/106",
+   "short": "HCL Daneți nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 106/2023 privind aprobarea acordarii de ajutoare lunare de la bugetul local pentru familiile si persoanele singure care au media veniturilor banesti nete lunare sub salariul minim brut pe tara",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-106-2023.pdf",
+     "sha256": "15d9dd3b2d68d304b35a128b52902402840286dfc08bef943a9ea23f8acbbbc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-107-2023",
+   "path": "local/dolj/daneti/2023/107",
+   "short": "HCL Daneți nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 107/2023 privind aprobarea organizării reţelei şcolare pentru anul 2024-2025la nivelul comunei DANETI , judeţul DOLJ",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-107-2023.pdf",
+     "sha256": "479b0b9480cad92290f0cfaebe24273369df16908a85c240f664dfdd0d67e736"
+    }
+   ]
+  }
+ ]
+}

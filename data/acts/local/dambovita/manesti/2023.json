@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-94-2023",
+"path": "local/dambovita/manesti/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 94/2023",
+"short": "HCL Mănești nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-26",
+"latest": "2024-02-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/144824",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-95-2023",
 "path": "local/dambovita/manesti/2023/95",
 "kind": "local",
@@ -198,6 +221,51 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-101-2023",
+"path": "local/dambovita/manesti/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 101/2023 privind reorganizarea aparatului de specialitate al primarului comunei Mănești, județul Dâmbovița, precum și aprobarea organigramei si a statului de funcții conform prevederilor Legii nr.296/2023",
+"short": "HCL Mănești nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/manesti-db/registru-hcl/145410",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-102-2023",
+"path": "local/dambovita/manesti/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 102/2023",
+"short": "HCL Mănești nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/manesti-db/registru-hcl/145411",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

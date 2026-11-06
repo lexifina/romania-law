@@ -47,6 +47,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--runcu-25-2025",
+"path": "local/dambovita/runcu/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 25/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Runcu pentru 2025",
+"short": "HCL Runcu nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/runcu-db/registru-hcl/212442",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-26-2025",
+"path": "local/dambovita/runcu/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 26/2025 privind completarea Inventarului de bunuri aparținând domeniului privat al comunei Runcu",
+"short": "HCL Runcu nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/runcu-db/registru-hcl/212443",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-27-2025",
+"path": "local/dambovita/runcu/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 27/2025 privind asocierea UAT Runcu cu Asociatia Sportiva Sportul Runcu",
+"short": "HCL Runcu nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/runcu-db/registru-hcl/212444",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--runcu-28-2025",
 "path": "local/dambovita/runcu/2025/28",
 "kind": "local",
@@ -66,6 +132,315 @@
 "council_name": "Consiliul Local al Comunei Runcu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-66-2025",
+"path": "local/dambovita/runcu/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 66/2025 privind alegerea președintelui de ședință a Consiliului Local Runcu, pentru perioada noiembrie 2025 - ianuarie - 2026",
+"short": "HCL Runcu nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257284",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-68-2025",
+"path": "local/dambovita/runcu/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 68/2025 privind aprobarea contului de execuție al bugetului local al comunei Runcu, județul Dâmbovița, pe secțiunile funcționare și de zvoltare la 30 septembrie 2025",
+"short": "HCL Runcu nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257288",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-69-2025",
+"path": "local/dambovita/runcu/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 69/2025 privind completarea unor poziții din Inventarul bunurilor care aparțin domeniului privat al comunei Runcu, județul Dâmbovița",
+"short": "HCL Runcu nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257296",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-70-2025",
+"path": "local/dambovita/runcu/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 70/2025 privind aprobarea Actului adițional 2 la Acordul de Asociere nr.492/6166/26.06.2023 încheiat cu Unitatea administrativ-teritorială Județul Dâmbovița prin Consiliul Județean Dâmbovița pentru implementarea obiectivului de investiții „Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița”, în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență Pilonul VI. Politici pentru noua generație Componenta C 15: Educație",
+"short": "HCL Runcu nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257300",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-71-2025",
+"path": "local/dambovita/runcu/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 71/2025 privind indexarea nivelurilor impozitului pentru mijloacele de transport cu masa totală maximă autorizată mai mare sau egală cu 12 tone pentru anul 2026",
+"short": "HCL Runcu nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257301",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-72-2025",
+"path": "local/dambovita/runcu/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 72/2025",
+"short": "HCL Runcu nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257302",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-73-2025",
+"path": "local/dambovita/runcu/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 73/2025 privind rectificarea Bugetului de venituri și cheltuieli al comunei Runcu pe anul 2025",
+"short": "HCL Runcu nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257303",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-74-2025",
+"path": "local/dambovita/runcu/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 74/2025 privind aprobarea structurii rețelei școlare a unităților de învățământ aflate pe raza administrativ-teritorială a comunei Runcu pentru anul școlar 2026-2027",
+"short": "HCL Runcu nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257304",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-75-2025",
+"path": "local/dambovita/runcu/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 75/2025 privind însușirea documentației cadastrale de prima înscriere provizorie în evidențele de Carte Funciară și completarea Inventarului bunurilor care aparțin domeniului public al comunei Runcu, județul Dâmbovița",
+"short": "HCL Runcu nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257305",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-76-2025",
+"path": "local/dambovita/runcu/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 76/2025 privind completarea unor poziții din Inventarul bunurilor care aparțin domeniului privat al comunei Runcu, județul Dâmbovița",
+"short": "HCL Runcu nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257306",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-77-2025",
+"path": "local/dambovita/runcu/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 77/2025 privind modificarea și completarea HCL 21/29.04.2025, privind indexarea impozitelor și taxelor locale, pentru anul 2026",
+"short": "HCL Runcu nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257307",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-78-2025",
+"path": "local/dambovita/runcu/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 78/2025 privind rectificarea Bugetului de venituri și cheltuieli al comunei Runcu, pe anul 2025",
+"short": "HCL Runcu nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257312",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-79-2025",
+"path": "local/dambovita/runcu/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 79/2025 privind aprobarea completării Registrului agricol pentru perioada 2026 - 2029, în format scris și electronic",
+"short": "HCL Runcu nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257313",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-80-2025",
+"path": "local/dambovita/runcu/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 80/2025 privind radiere debit SC. ANGUS KUHLAND SRL",
+"short": "HCL Runcu nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/runcu-db/registru-hcl/257314",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

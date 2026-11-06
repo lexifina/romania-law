@@ -3,6 +3,21 @@
  "shard": "local/dambovita/nucet/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--nucet-15-2026",
+   "path": "local/dambovita/nucet/2026/15",
+   "short": "HCL Nucet nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucet nr. 15/2026 privind stabilirea situațiilor deosebite pentru care pot fi acordate ajutoare de urgență conform Legii nr.196/2016 privind venitul minim de incluziune cu modificările și completările ulterioare",
+   "url": "https://www.comunanucet.ro/monitorul-oficial-local/hotararile-autoritatii-deliberativehcl/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.comunanucet.ro/wp-content/uploads/2026/03/HCL-15-.pdf",
+     "sha256": "e921c1875c88dacf5944710a5abe86574f34b024819d153a5f72641d174bef34"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--nucet-38-2026",
    "path": "local/dambovita/nucet/2026/38",
    "short": "HCL Nucet nr. 38/2026",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://www.comunanucet.ro/wp-content/uploads/2026/10/HCL-stabilire-impozit-pe-mijloacele-de-transport.pdf",
      "sha256": "4a4da1d90a1a688907611a4c2de06fe2f72331d9bfe90beea248bc6470cbcef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--nucet-6-2026",
+   "path": "local/dambovita/nucet/2026/6",
+   "short": "HCL Nucet nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucet nr. 6/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7b79b4c9e8d6baaa2d18aa79661b1c57a9153cd09f00eab1900f319769902d5e"
     }
    ]
   },

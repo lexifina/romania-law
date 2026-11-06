@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-50-2025",
+   "path": "local/dambovita/cornatelu/2025/50",
+   "short": "HCL Cornățelu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 50/2025 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada NOIEMBRIE 2025 - IANUARIE 2026",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/240894",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/240894",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-51-2025",
    "path": "local/dambovita/cornatelu/2025/51",
    "short": "HCL Cornățelu nr. 51/2025",
@@ -178,6 +193,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/240900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-56-2025",
+   "path": "local/dambovita/cornatelu/2025/56",
+   "short": "HCL Cornățelu nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 56/2025 privind concesionarea, prin licitație publică, a unor imobile aparținând domeniului public al comunei Cornățelu, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/240901",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/240901",
      "sha256": null
     }
    ]

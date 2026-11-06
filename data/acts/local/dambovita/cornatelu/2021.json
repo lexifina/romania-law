@@ -3,6 +3,28 @@
 "shard": "local/dambovita/cornatelu/2021",
 "acts": [
 {
+"slug": "hcl-dambovita--cornatelu-40-2021",
+"path": "local/dambovita/cornatelu/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 40/2021 privind alegerea președintelui de ședință al Consiliului Local al comunei Cornățelu, județul Dâmbovița, în perioada noiembrie 2021 - ianuarie 2022",
+"short": "HCL Cornățelu nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/39436",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-41-2021",
 "path": "local/dambovita/cornatelu/2021/41",
 "kind": "local",
@@ -201,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-50-2021",
+"path": "local/dambovita/cornatelu/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 50/2021 privind darea în folosință gratuită a suprafeței de 11 mp către Agenția Poștală Cornățelu",
+"short": "HCL Cornățelu nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/42406",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-51-2021",
 "path": "local/dambovita/cornatelu/2021/51",
 "kind": "local",
@@ -264,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-54-2021",
+"path": "local/dambovita/cornatelu/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 54/2021 privind concesionarea serviciilor specializate pentru gestionarea câinilor fără stăpân de pe teritoriul administrativ al comunei Cornățelu",
+"short": "HCL Cornățelu nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/45704",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

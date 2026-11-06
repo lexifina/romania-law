@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/dolj/daneti/2023",
+"acts": [
+{
+"slug": "hcl-dolj--daneti-105-2023",
+"path": "local/dolj/daneti/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Daneți nr. 105/2023",
+"short": "HCL Daneți nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "http://www.primariadaneti.ro/hotarari",
+"council": "dolj/daneti",
+"council_name": "Consiliul Local al Comunei Daneți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--daneti-106-2023",
+"path": "local/dolj/daneti/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Daneți nr. 106/2023 privind aprobarea acordarii de ajutoare lunare de la bugetul local pentru familiile si persoanele singure care au media veniturilor banesti nete lunare sub salariul minim brut pe tara",
+"short": "HCL Daneți nr. 106/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "http://www.primariadaneti.ro/hotarari",
+"council": "dolj/daneti",
+"council_name": "Consiliul Local al Comunei Daneți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--daneti-107-2023",
+"path": "local/dolj/daneti/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Daneți nr. 107/2023 privind aprobarea organizării reţelei şcolare pentru anul 2024-2025la nivelul comunei DANETI , judeţul DOLJ",
+"short": "HCL Daneți nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "http://www.primariadaneti.ro/hotarari",
+"council": "dolj/daneti",
+"council_name": "Consiliul Local al Comunei Daneți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

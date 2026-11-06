@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/rau-alb/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--rau-alb-19-2025",
+"path": "local/dambovita/rau-alb/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râu Alb nr. 19/2025",
+"short": "HCL Râu Alb nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://primariaraualb.ro/categorii_mon_oficial/hotararile-consiliului-local/",
+"council": "dambovita/rau-alb",
+"council_name": "Consiliul Local al Comunei Râu Alb",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

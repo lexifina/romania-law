@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/dambovita/rascaeti/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--rascaeti-2-2025",
+"path": "local/dambovita/rascaeti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răscăeți nr. 2/2025 privind implementarea proiectului „ Achiziția de utilaje de utilitate publică în comuna Răscăeți, județul Dâmbovița Având în vedere temeiurile juridice, respectiv prevederile: a) art. 120 și art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 8 și 9 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr. 199/1997; c) art",
+"short": "HCL Răscăeți nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://primaria-rascaeti.ro/hotarari/",
+"council": "dambovita/rascaeti",
+"council_name": "Consiliul Local al Comunei Răscăeți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--rascaeti-16-2025",
+"path": "local/dambovita/rascaeti/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răscăeți nr. 16/2025 Privind aprobarea indicatorilor economici pentru obiectivul de investiții „ Asigurarea infrastructurii pentru transportul verde – puncte de reîncărcare vehicule electrice ”, finanțat în cadrul proiectului intitulat ” Creșterea eficienței energetice a clădirii școlii Drăghineasca din comuna Răscăeți ” investiția I.1.3 prin Planului Național de Redresare și Reziliență, Componenta 10 Consiliul local",
+"short": "HCL Răscăeți nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://primaria-rascaeti.ro/hotarari/",
+"council": "dambovita/rascaeti",
+"council_name": "Consiliul Local al Comunei Răscăeți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--rascaeti-17-2025",
+"path": "local/dambovita/rascaeti/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răscăeți nr. 17/2025 Privind aprobarea indicatorilor economici pentru obiectivul de investiții „Asigurarea infrastructurii pentru transportul verde – puncte de reîncărcare vehicule electrice”, finanțat în cadrul proiectului intitulat ”Creșterea eficienței energetice a clădirii primăriei din comuna Răscăeți” investiția I.1.3 prin Planului Național de Redresare și Reziliență, Componenta 10 Consiliul local al comunei Răs",
+"short": "HCL Răscăeți nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://primaria-rascaeti.ro/hotarari/",
+"council": "dambovita/rascaeti",
+"council_name": "Consiliul Local al Comunei Răscăeți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--rascaeti-27-2025",
+"path": "local/dambovita/rascaeti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răscăeți nr. 27/2025 Privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Răscăeți nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://primaria-rascaeti.ro/hotarari/",
+"council": "dambovita/rascaeti",
+"council_name": "Consiliul Local al Comunei Răscăeți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

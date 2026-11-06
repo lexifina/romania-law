@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--odobesti-70-2022",
+   "path": "local/dambovita/odobesti/2022/70",
+   "short": "HCL Odobești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 70/2022 privind aprobarea numărului de asistenții personali ai persoanelor cu handicap și a numărului de indemnizații pentru persoanele cu handicap pentru anul 2023",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/101353",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/101353",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-71-2022",
    "path": "local/dambovita/odobesti/2022/71",
    "short": "HCL Odobești nr. 71/2022",

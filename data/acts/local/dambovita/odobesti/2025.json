@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--odobesti-104-2025",
+"path": "local/dambovita/odobesti/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 104/2025 privind alegerea presedintelui de sedinta al Consiliului Local Odobesti",
+"short": "HCL Odobești nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-12",
+"latest": "2025-12-12",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/240557",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--odobesti-105-2025",
 "path": "local/dambovita/odobesti/2025/105",
 "kind": "local",
@@ -397,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Odobești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-117-2025",
+"path": "local/dambovita/odobesti/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 117/2025 privind validarea Dispozitiei primarului comunei Odobesti nr.226/2025 privind rectificarea bugetului local al comunei Odobesti in anul fiscal 2025",
+"short": "HCL Odobești nr. 117/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/246440",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

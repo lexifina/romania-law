@@ -45,6 +45,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-dambovita--raciu-54-2024",
+"path": "local/dambovita/raciu/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Raciu nr. 54/2024 Raportul semestrial privind activitatea de asistenţă socială, promovarea şi protecţia persoanelor cu handicap grav semestrul al II - lea al anului 2024",
+"short": "HCL Raciu nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://raciu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2930#88471",
+"council": "dambovita/raciu",
+"council_name": "Consiliul Local al Comunei Raciu",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

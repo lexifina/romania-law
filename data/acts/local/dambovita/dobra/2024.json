@@ -598,6 +598,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--dobra-28-2024",
+"path": "local/dambovita/dobra/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 28/2024 APROBA CONCESIONARE",
+"short": "HCL Dobra nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80881",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--dobra-29-2024",
 "path": "local/dambovita/dobra/2024/29",
 "kind": "local",
@@ -727,6 +749,28 @@
 "council_name": "Consiliul Local al Comunei Dobra",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--dobra-35-2024",
+"path": "local/dambovita/dobra/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 35/2024 CONCESIONARE BUN",
+"short": "HCL Dobra nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#80890",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1079,6 +1123,28 @@
 "council_name": "Consiliul Local al Comunei Dobra",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--dobra-52-2024",
+"path": "local/dambovita/dobra/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 52/2024 DESEMNARE REPREZENTANTA CA SCOALA",
+"short": "HCL Dobra nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#88080",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

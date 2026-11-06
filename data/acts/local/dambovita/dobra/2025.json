@@ -224,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--dobra-11-2025",
+"path": "local/dambovita/dobra/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 11/2025 DESEMNARE CONSILIERI",
+"short": "HCL Dobra nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#96893",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--dobra-12-2025",
 "path": "local/dambovita/dobra/2025/12",
 "kind": "local",

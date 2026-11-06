@@ -3,6 +3,73 @@
 "shard": "local/dolj/dobresti/2023",
 "acts": [
 {
+"slug": "hcl-dolj--dobresti-2-2023",
+"path": "local/dolj/dobresti/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 2/2023",
+"short": "HCL Dobrești nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+"council": "dolj/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--dobresti-3-2023",
+"path": "local/dolj/dobresti/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 3/2023 privind aprobarea retelei scolare in snul scolnr 2023-2024,in comuna Dobrestuudetul Dolj o Consiliul Lo&l al corrrutQi DobrcslJalet Doq ,itfrunit ln se.lintu i,tura lfi dato le 30/012023, orcle10,00,i sah de selitte t Prinntlcl Dobrcsti , Alresel L 2l 1 82/22/ I2/2022,tm snist le INSPECTORATUL SCOLAR JUDETEAN DOLJ, /J In conjothtitite cu pteteleile a icolelot l29,tlit42) tit.t),196 ,ali,t I lit,a)",
+"short": "HCL Dobrești nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+"council": "dolj/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--dobresti-4-2023",
+"path": "local/dolj/dobresti/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 4/2023 privind proiectut \"HUB de servicii / /W!\\55 - Sllr!1MSS\" cod SMIS 20'14+ 130963, Legea asisLenlei sor:iulc nr. 2a)2/2011, cu modificerite;i comptet5rile ulterioare; r' Legea administraliei pubtice locate nr. 21512001, Repubticate, cu modificarite li comptetirjle utterioare: r' Legea nr. 117l?C12 pi'ivind asi'JLlIarea catitelii in domeniul serviciilor sociate, cu / mHootd;irfaicrierial.eG;uivceorrr",
+"short": "HCL Dobrești nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+"council": "dolj/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--dobresti-5-2023",
 "path": "local/dolj/dobresti/2023/5",
 "kind": "local",
@@ -22,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-dolj--dobresti-6-2023",
+"path": "local/dolj/dobresti/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 6/2023 privind salariul minim brut in plata in anut 2023. -Legea 15312017 -ptivind salarizarea personalului bugetar cu modificarile ulterioare , rrrrrDM4*oWW/W%. t.irt.:)a Jezd -tst.o.tse,$t200,dinordonnttasinot6-prt\"io,tiidiliiiiiiiriii.din\"*ru CO NsII.TUL LOCAL AL COMA NE' DO B RES.T'' !!.!!!i_1\"^!_,/!!i!!.tt :teno atut tth aparu.ur de spechtikde nt \\RTMARaLUT Nume\\e si Sa\\adu\\ de de La 01i01 baza la p",
+"short": "HCL Dobrești nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+"council": "dolj/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

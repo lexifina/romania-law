@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/bradesti/2023",
+"acts": [
+{
+"slug": "hcl-dolj--bradesti-46-2023",
+"path": "local/dolj/bradesti/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brădești nr. 46/2023 privind impozitele si taxele locale) – Prin HCL nr. 46/16.10.2023 [ aici... ] s-a aprobat “Procedura de acordare inlesniri la plata” constand in scutirea majorarilor de intarziere aferente obligatiilor fiscale principale restante la 31.12.202, accesorii cuvenite bugetului local al com. Bradesti, pentru debitorii contribuabili persoeane fizice",
+"short": "HCL Brădești nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-16",
+"latest": "2023-10-16",
+"portal": "http://www.primariabradesti.ro/",
+"council": "dolj/bradesti",
+"council_name": "Consiliul Local al Comunei Brădești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

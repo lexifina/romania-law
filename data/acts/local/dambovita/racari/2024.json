@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/racari/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--racari-8-2024",
+"path": "local/dambovita/racari/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Răcari nr. 8/2024",
+"short": "HCL Răcari nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://primariaracari.ro/wp-content/uploads/2024/05/Hotararea-BEC-nr-6-Racari-nr-8-din-01.05.2024.pdf",
+"council": "dambovita/racari",
+"council_name": "Consiliul Local al Orașului Răcari",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

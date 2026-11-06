@@ -730,6 +730,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--dobra-34-2022",
+"path": "local/dambovita/dobra/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 34/2022 DESEMNARE REPREZENTANTI",
+"short": "HCL Dobra nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#29799",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--dobra-35-2022",
 "path": "local/dambovita/dobra/2022/35",
 "kind": "local",
@@ -1079,6 +1101,50 @@
 "council_name": "Consiliul Local al Comunei Dobra",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--dobra-51-2022",
+"path": "local/dambovita/dobra/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 51/2022 APROBA VANZARE TEREN",
+"short": "HCL Dobra nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#37844",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--dobra-52-2022",
+"path": "local/dambovita/dobra/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 52/2022 APROBA VANZARE TEREN",
+"short": "HCL Dobra nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#37845",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

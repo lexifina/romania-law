@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/motaieni/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--motaieni-83-2025",
+   "path": "local/dambovita/motaieni/2025/83",
+   "short": "HCL Moțăieni nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 83/2025",
+   "url": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/10/hcl-nr.83-din-29.12.2025.pdf",
+     "sha256": "88566ced96259dc7e9f7a93ee9c9895ee3540a5f3d60d1dacd2c61c50dc78d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-84-2025",
+   "path": "local/dambovita/motaieni/2025/84",
+   "short": "HCL Moțăieni nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 84/2025",
+   "url": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/10/hcl-nr.84-din-29.12.2025.pdf",
+     "sha256": "d2891cd6ff3fc530859e9625b30b4872265e1879eb8e0bd03bc39d80d47c6a87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-85-2025",
+   "path": "local/dambovita/motaieni/2025/85",
+   "short": "HCL Moțăieni nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 85/2025",
+   "url": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/10/hcl-nr.85-din-29.12.2025.pdf",
+     "sha256": "66f6b54709b9eceb8b2fdb4f6f80a21c11a3b992cc50ee3029a262596213f89f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-86-2025",
+   "path": "local/dambovita/motaieni/2025/86",
+   "short": "HCL Moțăieni nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 86/2025",
+   "url": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/10/hcl-nr.86-din-29.12.2025.pdf",
+     "sha256": "8d126eb8813eaf3a007aa768026ec441de0315eaf12189d562851fc992b15a60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-87-2025",
+   "path": "local/dambovita/motaieni/2025/87",
+   "short": "HCL Moțăieni nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 87/2025",
+   "url": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/10/hcl-nr.87-din-29.12.2025.pdf",
+     "sha256": "46c335784ccc810411c6f7b3e7c3b73efcb762d0a5703e26276889c4cebb4cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-88-2025",
+   "path": "local/dambovita/motaieni/2025/88",
+   "short": "HCL Moțăieni nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 88/2025",
+   "url": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/10/hcl-nr.88-din-29.12.2025.pdf",
+     "sha256": "f6ea9c514f6637039927ce5c28177bab271ac4f3fa2a5c8a87a3dc94724db462"
+    }
+   ]
+  }
+ ]
+}

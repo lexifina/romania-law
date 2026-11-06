@@ -3,6 +3,51 @@
  "shard": "local/dambovita/sotanga/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--sotanga-100-2026",
+   "path": "local/dambovita/sotanga/2026/100",
+   "short": "HCL Șotânga nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 100/2026 privind stabilirea perioadei în care se efectuează inventarierea, precum și data până la care se face publicarea acestuia pe pagina de internet a comunei",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/290551",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/290551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-101-2026",
+   "path": "local/dambovita/sotanga/2026/101",
+   "short": "HCL Șotânga nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 101/2026",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/290552",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/290552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-102-2026",
+   "path": "local/dambovita/sotanga/2026/102",
+   "short": "HCL Șotânga nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 102/2026",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/290553",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/290553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--sotanga-103-2026",
    "path": "local/dambovita/sotanga/2026/103",
    "short": "HCL Șotânga nr. 103/2026",
@@ -58,6 +103,201 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/sotanga-db/registru-hcl/295884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-107-2026",
+   "path": "local/dambovita/sotanga/2026/107",
+   "short": "HCL Șotânga nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 107/2026 privind execuția bugetului local al comunei Șotânga pe cele două secțiuni, la data de 30.09.2026",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295885",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-108-2026",
+   "path": "local/dambovita/sotanga/2026/108",
+   "short": "HCL Șotânga nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 108/2026 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295886",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-109-2026",
+   "path": "local/dambovita/sotanga/2026/109",
+   "short": "HCL Șotânga nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 109/2026 privind actualizarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al comunei Șotânga pentru unitățile de cult aparținând cultelor religioase de pe raza comunei Șotânga",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295887",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-110-2026",
+   "path": "local/dambovita/sotanga/2026/110",
+   "short": "HCL Șotânga nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 110/2026 privind aprobarea finalizării și închiderii proiectului ” Înființare Centru de colectare prin aport voluntar, comuna Șotânga, județul Dâmbovița”, cod proiect C3I1A0122000088, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C3/S/I.1.A, precum și asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295888",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-111-2026",
+   "path": "local/dambovita/sotanga/2026/111",
+   "short": "HCL Șotânga nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 111/2026 privind aprobarea finalizării și închiderii proiectului „Realizarea de piste pentru biciclete la nivelul comunei Șotânga, județul Dâmbovița”, cod proiect C10-I1.4-326, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C10/I1.4, PNRR/2022/C10/I1.3, Runda 1, precum și asigurarea sustenabilității investiției",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295889",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-112-2026",
+   "path": "local/dambovita/sotanga/2026/112",
+   "short": "HCL Șotânga nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 112/2026 privind actualizarea prin act adițional a Contractului de dare în folosință gratuită (comodat) nr. 4310/16662/07.04.2026 încheiat între Comuna Șotânga și Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Dâmbovița",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295890",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-113-2026",
+   "path": "local/dambovita/sotanga/2026/113",
+   "short": "HCL Șotânga nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 113/2026 privind înființarea serviciului social \"Centru de zi pentru copii aflați în situație de risc de separare de părinți\" cod 889.3.2.CZ.C și aprobarea Regulamentului de organizare şi funcţionare a acestuia",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295891",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-114-2026",
+   "path": "local/dambovita/sotanga/2026/114",
+   "short": "HCL Șotânga nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 114/2026 privind înființarea serviciului social \"Centru de asistență destinat agresorilor\" cod 889.3.2.CZ.VD și aprobarea Regulamentului de organizare şi funcţionare a acestuia",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295892",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-115-2026",
+   "path": "local/dambovita/sotanga/2026/115",
+   "short": "HCL Șotânga nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 115/2026 privind aprobarea Actului adițional la Contractul de comodat nr. 9262/07.07.2016 privind darea în folosință gratuită către Administrația Națională ”Apele Române” - Administrația Bazinală de Apă Buzău - Ialomița a imobilului teren situat în str. Constantin Brâncoveanu FN, punct Pod Avram - Stație Hidrometrică Automată AHSS 215, sat Șotânga, comuna Șotânga, județ Dâmbovița, CF 77449 Comuna Șotânga",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/295893",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/295893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-96-2026",
+   "path": "local/dambovita/sotanga/2026/96",
+   "short": "HCL Șotânga nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 96/2026",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/290547",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/290547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-97-2026",
+   "path": "local/dambovita/sotanga/2026/97",
+   "short": "HCL Șotânga nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 97/2026",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/290548",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/290548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-98-2026",
+   "path": "local/dambovita/sotanga/2026/98",
+   "short": "HCL Șotânga nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 98/2026",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/290549",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/290549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-99-2026",
+   "path": "local/dambovita/sotanga/2026/99",
+   "short": "HCL Șotânga nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 99/2026",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/290550",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/290550",
      "sha256": null
     }
    ]

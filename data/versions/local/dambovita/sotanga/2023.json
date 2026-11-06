@@ -3,6 +3,51 @@
  "shard": "local/dambovita/sotanga/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--sotanga-164-2023",
+   "path": "local/dambovita/sotanga/2023/164",
+   "short": "HCL Șotânga nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 164/2023 privind aprobarea normativelor proprii de cheltuieli cu privire la consumul lunar de carburanți și a limitelor maxime de cheltuieli lunare pentru abonamentele și convorbirile telefonice, aferente anului 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135178",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-165-2023",
+   "path": "local/dambovita/sotanga/2023/165",
+   "short": "HCL Șotânga nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 165/2023 privind execuția bugetului local al comunei Șotânga pe cele două secțiuni, la data de 20.12.2023",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135179",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-166-2023",
+   "path": "local/dambovita/sotanga/2023/166",
+   "short": "HCL Șotânga nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 166/2023 privind aprobarea numărului de posturi de asistent personal al persoanelor cu handicap pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135180",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--sotanga-167-2023",
    "path": "local/dambovita/sotanga/2023/167",
    "short": "HCL Șotânga nr. 167/2023",
@@ -13,6 +58,66 @@
      "from": "2024-02-13",
      "units": 1,
      "source_url": "https://emol.ro/sotanga-db/registru-hcl/135181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-168-2023",
+   "path": "local/dambovita/sotanga/2023/168",
+   "short": "HCL Șotânga nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 168/2023",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135182",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-169-2023",
+   "path": "local/dambovita/sotanga/2023/169",
+   "short": "HCL Șotânga nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 169/2023 privind actualizarea inventarului bunurilor care aparțin domeniului public și privat al comunei Șotânga",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135183",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-170-2023",
+   "path": "local/dambovita/sotanga/2023/170",
+   "short": "HCL Șotânga nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 170/2023 privind aprobarea Planului de acţiuni sau de lucrări de interes local, pe anul 2024, pentru repartizarea orelor de muncă prestate lunar de către persoanele beneficiare de ajutor de incluziune, precum și cele care au obligația prestării unei munci neremunerate în folosul comunității",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135184",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-171-2023",
+   "path": "local/dambovita/sotanga/2023/171",
+   "short": "HCL Șotânga nr. 171/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 171/2023 Proiect de hotărâre privind aprobarea Programului principalelor manifestări cultural-artistice, sportive, sociale, educative și religioase care se desfășoară în comuna Șotânga în anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135185",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135185",
      "sha256": null
     }
    ]
@@ -33,6 +138,81 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--sotanga-173-2023",
+   "path": "local/dambovita/sotanga/2023/173",
+   "short": "HCL Șotânga nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 173/2023 privind achiziționarea serviciilor de consultanță, asistență și reprezentare juridică prin încheierea unor contracte care să asigure apărarea intereselor UAT Comuna Șotânga",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135187",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-174-2023",
+   "path": "local/dambovita/sotanga/2023/174",
+   "short": "HCL Șotânga nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 174/2023 privind aprobarea sprijinului financiar al comunei Șotânga pentru anul 2024, acordat Societății Naționale de Cruce Roșie – Filiala Dâmbovița",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135188",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-175-2023",
+   "path": "local/dambovita/sotanga/2023/175",
+   "short": "HCL Șotânga nr. 175/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 175/2023 privind aprobarea cotizaţiei datorată de către comuna Şotânga în calitate de membru al Asociației GRUPUL DE ACȚIUNE LOCALĂ „VALEA IALOMIȚEI”, pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135189",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-176-2023",
+   "path": "local/dambovita/sotanga/2023/176",
+   "short": "HCL Șotânga nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 176/2023 privind aprobarea cotizației datorate de către comuna Șotânga ca membru al Asociației de Dezvoltare Intercomunitară „CIVITAS\" Târgoviște, pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135190",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-177-2023",
+   "path": "local/dambovita/sotanga/2023/177",
+   "short": "HCL Șotânga nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 177/2023 privind aprobarea cotizației datorată de către comuna Șotânga ca membru al Asociației de Dezvoltare Intercomunitară \"APA DÂMBOVIȚA\", pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135191",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135191",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--sotanga-178-2023",
    "path": "local/dambovita/sotanga/2023/178",
    "short": "HCL Șotânga nr. 178/2023",
@@ -43,6 +223,66 @@
      "from": "2024-02-13",
      "units": 1,
      "source_url": "https://emol.ro/sotanga-db/registru-hcl/135192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-179-2023",
+   "path": "local/dambovita/sotanga/2023/179",
+   "short": "HCL Șotânga nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 179/2023 privind aprobarea cotizației datorate de către comuna Șotânga în calitate de membru al Asociației Comunelor din România, pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135193",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-180-2023",
+   "path": "local/dambovita/sotanga/2023/180",
+   "short": "HCL Șotânga nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 180/2023 privind aprobarea obligației financiare a comunei Șotânga în calitate de semnatară a Acordului de cooperare privind organizarea și exercitarea activității de audit public intern, pentru anul 2024",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135194",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-181-2023",
+   "path": "local/dambovita/sotanga/2023/181",
+   "short": "HCL Șotânga nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 181/2023",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135195",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-182-2023",
+   "path": "local/dambovita/sotanga/2023/182",
+   "short": "HCL Șotânga nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 182/2023 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/135196",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/135196",
      "sha256": null
     }
    ]

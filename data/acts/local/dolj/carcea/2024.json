@@ -92,6 +92,73 @@
 }
 },
 {
+"slug": "hcl-dolj--carcea-121-2024",
+"path": "local/dolj/carcea/2024/121",
+"kind": "local",
+"year": "2024",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 121/2024 privind aprobarea Notei conceptuale si a temei de proiectare pentru obiectivul de investitii ” Amplasare stații așteptare călători”",
+"short": "HCL Cârcea nr. 121/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/carcea-dj/registru-hcl/181763",
+"council": "dolj/carcea",
+"council_name": "Consiliul Local al Comunei Cârcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--carcea-122-2024",
+"path": "local/dolj/carcea/2024/122",
+"kind": "local",
+"year": "2024",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 122/2024 privind aprobarea Notei conceptuale si a temei de proiectare pentru obiectivul de investitii ”Reabilitare, consolidare, extindere, modificari interioare si de fatade a corpului c3-p+1, schimbare de destinatie din internat in GRADINITA CU PROGRAM PRELUNGIT, supraetajare de la p+1 la p+1+m, amenajare incinta, parcare si loc de joaca si refacere partiala imprejmuire teren”",
+"short": "HCL Cârcea nr. 122/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/carcea-dj/registru-hcl/182523",
+"council": "dolj/carcea",
+"council_name": "Consiliul Local al Comunei Cârcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--carcea-123-2024",
+"path": "local/dolj/carcea/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 123/2024",
+"short": "HCL Cârcea nr. 123/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/carcea-dj/registru-hcl/184204",
+"council": "dolj/carcea",
+"council_name": "Consiliul Local al Comunei Cârcea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--carcea-124-2024",
 "path": "local/dolj/carcea/2024/124",
 "kind": "local",
@@ -111,6 +178,28 @@
 "council_name": "Consiliul Local al Comunei Cârcea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--carcea-125-2024",
+"path": "local/dolj/carcea/2024/125",
+"kind": "local",
+"year": "2024",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 125/2024 privind scoaterea din evidențele fiscale ale Primăriei Comunei Cârcea a unor sume reprezentând amenzi contravenționale ale debitorilor decedați",
+"short": "HCL Cârcea nr. 125/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/carcea-dj/registru-hcl/184206",
+"council": "dolj/carcea",
+"council_name": "Consiliul Local al Comunei Cârcea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +334,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--carcea-132-2024",
+"path": "local/dolj/carcea/2024/132",
+"kind": "local",
+"year": "2024",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 132/2024 privind aprobarea solicitării trecerii imobilului teren în suprafaţă de 6.455 mp, având nr. cadastral 25569, înscris în Cartea Funciară 255691 (fost 32578/ Cârcea), situat în Municipiul Craiova, (fost comuna Cârcea) județul Dolj, din domeniul public al UAT Cârcea în domeniul public al UAT Craiova",
+"short": "HCL Cârcea nr. 132/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/carcea-dj/registru-hcl/184213",
+"council": "dolj/carcea",
+"council_name": "Consiliul Local al Comunei Cârcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--carcea-133-2024",
+"path": "local/dolj/carcea/2024/133",
+"kind": "local",
+"year": "2024",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 133/2024 privind scăderea din evidența fiscală a Primăriei comunei Cârcea a debitului înregistrat de SC MINTEGER SRL, ca urmare a radierii persoanei juridice din registrul comertului",
+"short": "HCL Cârcea nr. 133/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/carcea-dj/registru-hcl/184214",
+"council": "dolj/carcea",
+"council_name": "Consiliul Local al Comunei Cârcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--carcea-134-2024",
+"path": "local/dolj/carcea/2024/134",
+"kind": "local",
+"year": "2024",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 134/2024 privind modul de înscriere a datelor în Registrul Agricol al comunei Cârcea, județul Dolj",
+"short": "HCL Cârcea nr. 134/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://emol.ro/carcea-dj/registru-hcl/184215",
+"council": "dolj/carcea",
+"council_name": "Consiliul Local al Comunei Cârcea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

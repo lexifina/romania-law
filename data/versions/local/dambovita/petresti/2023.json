@@ -1,0 +1,1131 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/petresti/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--petresti-101-2023",
+   "path": "local/dambovita/petresti/2023/101",
+   "short": "HCL Petrești nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 101/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-102-2023",
+   "path": "local/dambovita/petresti/2023/102",
+   "short": "HCL Petrești nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 102/2023 privind aprobarea organigramei si statului de funcţii al aparatului de specialitate al primarului comunei Petresti si a institutiilor si serviciilor publice de interes local",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#61633",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#61633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-103-2023",
+   "path": "local/dambovita/petresti/2023/103",
+   "short": "HCL Petrești nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 103/2023 privind desemnarea presedintelui de sedinta pentru perioada decembrie 2023-februarie 2024",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#62686",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#62686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-104-2023",
+   "path": "local/dambovita/petresti/2023/104",
+   "short": "HCL Petrești nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 104/2023 Privind rectificarea bugetului local si a listei de investitii in trim IV anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#62983",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#62983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-105-2023",
+   "path": "local/dambovita/petresti/2023/105",
+   "short": "HCL Petrești nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 105/2023 privind aprobarea indicatorilor tehnico-economici , aferenti obiectivului de investitii “ Dig pentru baza sportiva Neajlov in satul Puntea de Greci”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#63994",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#63994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-106-2023",
+   "path": "local/dambovita/petresti/2023/106",
+   "short": "HCL Petrești nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 106/2023 Privind rectificarea bugetului local si a listei de investitii in trim IV anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#65733",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#65733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-107-2023",
+   "path": "local/dambovita/petresti/2023/107",
+   "short": "HCL Petrești nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 107/2023 privind exercitarea atributiilor presedintelui de sedinta pentru conducerea sedintei extraordinare din data de 18.12.2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#67529",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#67529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-108-2023",
+   "path": "local/dambovita/petresti/2023/108",
+   "short": "HCL Petrești nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 108/2023 Privind rectificarea bugetului local si a listei de investitii in trim IV anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#65736",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#65736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-115-2023",
+   "path": "local/dambovita/petresti/2023/115",
+   "short": "HCL Petrești nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 115/2023 privind aprobarea planului de actiuni de interes local pentru beneficiarii de ajutor social",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#64004",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#64004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-117-2023",
+   "path": "local/dambovita/petresti/2023/117",
+   "short": "HCL Petrești nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 117/2023 Privind rectificarea bugetului local si a listei de investitii in trim IV anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#67535",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#67535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-20-2023",
+   "path": "local/dambovita/petresti/2023/20",
+   "short": "HCL Petrești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 20/2023 pentru actualizarea modelului cadru al contractului privind asocierea județului Dâmbovița, prin Consiliul Județean Dâmbovița, cu unitarea administrativ-teritoriala Comuna Petresti, prin Consiliul local Petresti , pentru realizarea în comun a unor obiective de infrastructură rutieră",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#42540",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#42540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-21-2023",
+   "path": "local/dambovita/petresti/2023/21",
+   "short": "HCL Petrești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 21/2023 privind desemnarea presedintelui de sedinta pentru perioada martie-mai 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#43279",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#43279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-22-2023",
+   "path": "local/dambovita/petresti/2023/22",
+   "short": "HCL Petrești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 22/2023 privind aprobarea depunerii proiectului cu titlul “Modernizarea prin dotări materiale a unităților de învățământ din UAT Petresti” în cadrul apelului de proiecte PNRR/ C15 – EDUCATIE și a cheltuielilor legate de proiect",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#43774",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#43774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-23-2023",
+   "path": "local/dambovita/petresti/2023/23",
+   "short": "HCL Petrești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 23/2023 privind modificarea HCL nr. 80/28.09.2022-aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici si a devizului general al obiectivului de investitii pentru proiectul “EXTINDERE RETEA CANALIZARE IN SATELE PETRESTI, PUNTEA DE GRECI SI COADA IZVORULUI”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#43775",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#43775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-24-2023",
+   "path": "local/dambovita/petresti/2023/24",
+   "short": "HCL Petrești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 24/2023 Privind rectificarea bugetului local si a listei de investitii in trim I anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#45068",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#45068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-25-2023",
+   "path": "local/dambovita/petresti/2023/25",
+   "short": "HCL Petrești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 25/2023 exercitarea atributiilor presedintelui de sedinta pentru conducerea sedintei ordinare din data de 30.03.2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47269",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-26-2023",
+   "path": "local/dambovita/petresti/2023/26",
+   "short": "HCL Petrești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 26/2023 privind aprobarea încheierii unui act adițional la contractul de asociere nr. 350/10914/11.12.2019 pentru realizarea în comun a investiției ,,Modernizare drumuri locale cu o lungime de aproximativ 2 km în comuna Petrești, județul Dâmbovița”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46018",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-27-2023",
+   "path": "local/dambovita/petresti/2023/27",
+   "short": "HCL Petrești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 27/2023 privind aprobarea implementarii la nivelul comunei Petresti a proiectului “HUB de servicii MMSS-SII MMSS” (cod MySmis 130963) în vederea obținerii de finanțare prin Programul Operational Competitivitate 2014-2020, Axa Prioritara 2 – Tehnologia Informatiei si Comunicatie (TIC) pentru o economie digitala competitive",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46020",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-28-2023",
+   "path": "local/dambovita/petresti/2023/28",
+   "short": "HCL Petrești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 28/2023 privind actualizarea indicatorilor tehnico-economici , aferenti obiectivului de investitii “ Covor asfaltic, santuri dalate si podete-strada Legumicultorilor, santuri dalate si podete pe strazile Camin Cultural, Bisericii si Prelungirea Bisericii in Puntea de Greci",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46021",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-29-2023",
+   "path": "local/dambovita/petresti/2023/29",
+   "short": "HCL Petrești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 29/2023 privind aprobarea indicatorilor tehnico-economici , aferenti obiectivului de investitii “ Amenajare loc de joaca Gradinita Ionesti Lanarie”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46067",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-30-2023",
+   "path": "local/dambovita/petresti/2023/30",
+   "short": "HCL Petrești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 30/2023 privind aprobarea indicatorilor tehnico-economici , aferenti obiectivului de investitii “ Infiintare baza sportiva Neajlov in satul Puntea de Greci, comuna Petresti, judetul Dambovita”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46068",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#46068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-33-2023",
+   "path": "local/dambovita/petresti/2023/33",
+   "short": "HCL Petrești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 33/2023 privind aprobarea actualizarii indicatorilor tehnico-economici , aferenti proiectului „ Construire si dotare dispensar medical un sat Ionesti, comuna Petresti, judetul Dambovita”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47275",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-34-2023",
+   "path": "local/dambovita/petresti/2023/34",
+   "short": "HCL Petrești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 34/2023 privind prelungirea Scrisorii de garantare de la FNGCIMM SA IFN in vederea garantarii obligatiilor de plata a avansului pentru implementarea proiectului intitulat „MODERNIZARE INFRASTRUCTURA RUTIERA LOCALA IN COMUNA PETRESTI, JUDETUL DAMBOVITA”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47276",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-35-2023",
+   "path": "local/dambovita/petresti/2023/35",
+   "short": "HCL Petrești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 35/2023 Privind rectificarea bugetului local si a listei de investitii in trim II anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47504",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-36-2023",
+   "path": "local/dambovita/petresti/2023/36",
+   "short": "HCL Petrești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 36/2023 privind stabilirea salariilor de baza aferente functiilor publice si contractuale din cadrul familiei ocupationale” Administratie”, utilizate in cadrul aparatului de specialitate al Primarului comunei Petresti si serviciilor publice din subordinea Consiliului Local Petresti",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47505",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#47505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-37-2023",
+   "path": "local/dambovita/petresti/2023/37",
+   "short": "HCL Petrești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 37/2023 privind incheierea unui parteneriat intre COMUNA PETRESTI și ASOCIAȚIA „CENTRUL SOCIO-CULTURAL COMMUNIO” , pentru implementarea unui proiect finanțat de către Administrația Fondului pentru Mediu în cadrul Programului vizând educaţia şi conştientizarea publicului privind protecţia mediului, conform Ordinului Ministrului Mediului, Apelor și Pădurilor nr. 3.288 din 22 decembrie 2022pentru aprobarea Ghidului de finanțare a Programului vizând educația și conștientizarea publicului privind protecția mediului",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#48092",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#48092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-38-2023",
+   "path": "local/dambovita/petresti/2023/38",
+   "short": "HCL Petrești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 38/2023 Privind rectificarea bugetului local si a listei de investitii in trim II anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#48093",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#48093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-39-2023",
+   "path": "local/dambovita/petresti/2023/39",
+   "short": "HCL Petrești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 39/2023 privind modificarea, prin act aditional , a Contratului cadru de inchiriere a suprafetelor de izlazuri comunale aflate in domeniulpublic al comunei Petresti, inregistrat cu nr. 5724/31.05.2016 incheiat intre comuna Petresti si Asociatia crescatorilor de animale “ Fica Coada Izvorului”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49349",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-40-2023",
+   "path": "local/dambovita/petresti/2023/40",
+   "short": "HCL Petrești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 40/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-41-2023",
+   "path": "local/dambovita/petresti/2023/41",
+   "short": "HCL Petrești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 41/2023 privind modificarea, prin act aditional , a Contratului cadru de inchiriere a suprafetelor de izlazuri comunale aflate in domeniulpublic al comunei Petresti, inregistrat cu nr. 5665/31.05.2016 incheiat intre comuna Petresti si Asociatia crescatorilor de animale “ Tanase -Petresti”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49351",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-42-2023",
+   "path": "local/dambovita/petresti/2023/42",
+   "short": "HCL Petrești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 42/2023 privind modificarea și completarea Hotărârii nr. 15/31.01.2023 privind aprobarea proiectului \"Sistem de Management Integrat al Deșeurilor din Județul Dâmbovița – OBIECTIV – Instalație de Tratare Deșeuri Colectate Separat și Centru de Aport Voluntar Șotânga\"",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49352",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-43-2023",
+   "path": "local/dambovita/petresti/2023/43",
+   "short": "HCL Petrești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 43/2023 privind aprobarea indicatorilor tehnico-economici , aferenti proiectului „Înființare piste de biciclete, pe strada Principală (DN61), în satele Gherghești și Greci din comuna Petrești, județul Dâmbovița”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49353",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-44-2023",
+   "path": "local/dambovita/petresti/2023/44",
+   "short": "HCL Petrești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 44/2023 privind aprobarea organigramei si statului de funcţii al aparatului de specialitate al primarului comunei Petresti si a institutiilor si serviciilor publice de interes local",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49354",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-45-2023",
+   "path": "local/dambovita/petresti/2023/45",
+   "short": "HCL Petrești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 45/2023 privind desemnarea presedintelui de sedinta pentru perioada iunie-august 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49355",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-46-2023",
+   "path": "local/dambovita/petresti/2023/46",
+   "short": "HCL Petrești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 46/2023 privind rectificarea bugetului local si a listei de investitii in trim II anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49356",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-47-2023",
+   "path": "local/dambovita/petresti/2023/47",
+   "short": "HCL Petrești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 47/2023 privind aprobarea achiziţionării serviciilor juridice de consultanţă, de asistenţă şi/sau de reprezentare a Comunei Petresti a Instituţiei Primarului Comunei Petresti şi a Consiliului Local al Comunei Petresti",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49824",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#49824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-48-2023",
+   "path": "local/dambovita/petresti/2023/48",
+   "short": "HCL Petrești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 48/2023 privind aprobarea indicatorilor tehnico-economici, aferenti proiectului „ Reabilitare santuri prin dalare si inlocuire podete in satul Petresti, pe DN 61",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50742",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-49-2023",
+   "path": "local/dambovita/petresti/2023/49",
+   "short": "HCL Petrești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 49/2023 privind aprobarea asocierii/parteneriatului dintre comuna Petresti, judetul Dambovita prin Consiliul Local al Comunei Petresti si judetul Dambovita prin Consiliul Judetean Dambovita pentru realizarea in comun a obiectivului de investitie “ Amenajare loc de joacă Grădiniţa Ioneşti Lânarie”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50745",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-50-2023",
+   "path": "local/dambovita/petresti/2023/50",
+   "short": "HCL Petrești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 50/2023 privind aprobarea asocierii/parteneriatului dintre comuna Petresti, judetul Dambovita prin Consiliul Local al Comunei Petresti si judetul Dambovita prin Consiliul Judetean Dambovita pentru realizarea in comun a obiectivului de investitie “Covor asfaltic, şanţuri dalate şi podeţe-strada Legumicultorilor, şanţuri dalate şi podeţe pe străzile Cămin Cultural, Bisericii si Prelungirea Bisericii în Puntea de Greci”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50746",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-51-2023",
+   "path": "local/dambovita/petresti/2023/51",
+   "short": "HCL Petrești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 51/2023 privind aprobarea asocierii/parteneriatului dintre comuna Petresti, judetul Dambovita prin Consiliul Local al Comunei Petresti si judetul Dambovita prin Consiliul Judetean Dambovita pentru realizarea in comun a obiectivului de investitii “ Ĩnfiinţare bază sportivă Neajlovîn satul Puntea de Greci, comuna Petreşti, judeţul Dâmboviţa”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50747",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-52-2023",
+   "path": "local/dambovita/petresti/2023/52",
+   "short": "HCL Petrești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 52/2023 privind asocierea unității administrativ-teritoriale comuna Petresti prin Consiliul local Petresti cu Judeţul Dâmboviţa, prin Consiliul Judeţean Dâmboviţa, pentru implementarea obiectivului de investiții „Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița” în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50748",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#50748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-53-2023",
+   "path": "local/dambovita/petresti/2023/53",
+   "short": "HCL Petrești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 53/2023 Privind rectificarea bugetului local si a listei de investitii in trim II anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52208",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-54-2023",
+   "path": "local/dambovita/petresti/2023/54",
+   "short": "HCL Petrești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 54/2023 privind aprobarea contului de inchidere a exercitiului bugetar pe anul 2022",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52223",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-55-2023",
+   "path": "local/dambovita/petresti/2023/55",
+   "short": "HCL Petrești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 55/2023 privind aprobarea indicatorilor economici pentru investitia„ Extindere retea de distributie gaze naturale in comuna Petresti cu localitatile apartinatoare Petresti, Potlogeni Deal, Ionesti, Gherghesti, Greci, Puntea de Greci si Coada Izvorului”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52224",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-56-2023",
+   "path": "local/dambovita/petresti/2023/56",
+   "short": "HCL Petrești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 56/2023 privind aprobarea Studiului de oportunitate, Caietului de sarcini și a draftului de Contract de achiziție publică de servicii privind delegarea gestiunii activităților de sortare, compostare și depozitare a deșeurilor municipale de pe raza județului Dâmbovița",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52989",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-57-2023",
+   "path": "local/dambovita/petresti/2023/57",
+   "short": "HCL Petrești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 57/2023 Privind rectificarea bugetului local si a listei de investitii in trim III anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52990",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#52990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-60-2023",
+   "path": "local/dambovita/petresti/2023/60",
+   "short": "HCL Petrești nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 60/2023 privind actualizarea, la terminarea lucrarilor, a indicatorilor tehnico-economici, la obiectivul de investitii „ Covor asfaltic DJ 702G Ionesti-Potlogeni Deal, santuri dalate si podete, sector intravilan Ionesti”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#53003",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#53003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-61-2023",
+   "path": "local/dambovita/petresti/2023/61",
+   "short": "HCL Petrești nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 61/2023 privind aprobarea indicatorilor tehnico-economici , aferenti obiectivului de investitii “ Amenajare Parc la Caminul Cultural Petresti”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#53009",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#53009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-62-2023",
+   "path": "local/dambovita/petresti/2023/62",
+   "short": "HCL Petrești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 62/2023 privind participarea in cadrul Apelului de proiecte PNRR/2023/C3/S/I.2.A-B cu proiectul “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA PETRESTI, JUDETUL DAMBOVITA” și aprobarea fazelor Nota conceptuala si Tema de proiectare pentru obiectivul de investitii “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA PETRESTI, JUDETUL DAMBOVITA”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#53797",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#53797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-63-2023",
+   "path": "local/dambovita/petresti/2023/63",
+   "short": "HCL Petrești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 63/2023 privind modificarea HCL nr. 11/31.01.2023 privind aprobarea sustinerii financiare a Asociatiei sportive „ Vointa Ionesti” în anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54096",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-64-2023",
+   "path": "local/dambovita/petresti/2023/64",
+   "short": "HCL Petrești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 64/2023 privind modificarea HCL nr.9/31.01.2023 privind sustinerea financiara a Parohiei Potlogeni în anul 2023 cu suma de 10.000 lei",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54100",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-65-2023",
+   "path": "local/dambovita/petresti/2023/65",
+   "short": "HCL Petrești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 65/2023 Privind rectificarea bugetului local si a listei de investitii in trim III anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54102",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-66-2023",
+   "path": "local/dambovita/petresti/2023/66",
+   "short": "HCL Petrești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 66/2023 privind aprobarea actualizarii indicatorilor tehnico-economici , aferenti proiectului „ Construire si dotare dispensar medical un sat Ionesti, comuna Petresti, judetul Dambovita”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54115",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-67-2023",
+   "path": "local/dambovita/petresti/2023/67",
+   "short": "HCL Petrești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 67/2023 privind aprobarea încheierii unui act adițional la contractul de asociere nr. 350/10914/11.12.2019 pentru realizarea în comun a investiției ,,Modernizare drumuri locale cu o lungime de aproximativ 2 km în comuna Petrești, județul Dâmbovița”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54582",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#54582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-68-2023",
+   "path": "local/dambovita/petresti/2023/68",
+   "short": "HCL Petrești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 68/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-69-2023",
+   "path": "local/dambovita/petresti/2023/69",
+   "short": "HCL Petrești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 69/2023 Privind rectificarea bugetului local si a listei de investitii in trim III anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#55086",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#55086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-73-2023",
+   "path": "local/dambovita/petresti/2023/73",
+   "short": "HCL Petrești nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 73/2023 pentru modificarea și completarea Hotărârii 15/31.01.2023 privind aprobarea proiectului \"Sistem de Management Integrat al Deșeurilor din Județul Dâmbovița – OBIECTIV – Instalație de Tratare Deșeuri Colectate Separat și Centru de Aport Voluntar Șotânga\"",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56156",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-74-2023",
+   "path": "local/dambovita/petresti/2023/74",
+   "short": "HCL Petrești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 74/2023 Proiect de hotarare privind desemnarea presedintelui de sedinta pentru perioada septembrie-noiembrie 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56155",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-75-2023",
+   "path": "local/dambovita/petresti/2023/75",
+   "short": "HCL Petrești nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 75/2023 pentru aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor /acordurilor-cadru pentru achiziția produselor și a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru scoli al Romaniei",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56157",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-76-2023",
+   "path": "local/dambovita/petresti/2023/76",
+   "short": "HCL Petrești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 76/2023 privind actualizarea devizului general privind cheltuielile necesare obiectivului de investitii “ Amenajare loc de joaca Gradinita Ionesti Lanarie”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56158",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-77-2023",
+   "path": "local/dambovita/petresti/2023/77",
+   "short": "HCL Petrești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 77/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-78-2023",
+   "path": "local/dambovita/petresti/2023/78",
+   "short": "HCL Petrești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 78/2023 Privind rectificarea bugetului local si a listei de investitii in trim III anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56460",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#56460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-79-2023",
+   "path": "local/dambovita/petresti/2023/79",
+   "short": "HCL Petrești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 79/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-81-2023",
+   "path": "local/dambovita/petresti/2023/81",
+   "short": "HCL Petrești nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 81/2023 privind desemnarea reprezentantilor Consiliului Local Petresti in Consiliul de administratie al Scolii Gimnaziale Petresti din comuna Petresti, judetul Dambovita, pentru anul scolar 2023-2024",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#57810",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#57810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-82-2023",
+   "path": "local/dambovita/petresti/2023/82",
+   "short": "HCL Petrești nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 82/2023 privind desemnarea reprezentantului Consiliului Local Petresti in Comisia pentru evaluarea si asigurarea calitatii din cadrul Scolii Gimnaziale Petresti din comuna Petresti, judetul Dambovita",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#57944",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#57944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-83-2023",
+   "path": "local/dambovita/petresti/2023/83",
+   "short": "HCL Petrești nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 83/2023 privind aprobarea indicatorilor tehnico-economici , aferenti obiectivului de investitii “ Dalare santuri si podete cu acces la gospodarii in satul Coada Izvorului”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58889",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-84-2023",
+   "path": "local/dambovita/petresti/2023/84",
+   "short": "HCL Petrești nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 84/2023 privind actualizarea indicatorilor tehnico-economici , aferenti proiectului „ Infiintare baza sportiva Neajlov in satul Puntea de Greci, comuna Petresti”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58890",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-85-2023",
+   "path": "local/dambovita/petresti/2023/85",
+   "short": "HCL Petrești nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 85/2023 privind aprobarea indicatorilor tehnico-economici , aferenti proiectului „ Santuri dalate si podete pe strada sportului, Parcului, Morii si Brazilor in sat Greci, comuna Petresti”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58952",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-86-2023",
+   "path": "local/dambovita/petresti/2023/86",
+   "short": "HCL Petrești nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 86/2023 Privind rectificarea bugetului local si a listei de investitii in trim III anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58953",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#58953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-87-2023",
+   "path": "local/dambovita/petresti/2023/87",
+   "short": "HCL Petrești nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 87/2023 privind modificarea art.1 la HCL nr. 60/27.07.2023 privind actualizarea, la terminarea lucrarilor, a indicatorilor tehnico-economici, la obiectivul de investitii „ Covor asfaltic DJ 702G Ionesti-Potlogeni Deal, santuri dalate si podete, sector intravilan Ionesti”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59060",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-88-2023",
+   "path": "local/dambovita/petresti/2023/88",
+   "short": "HCL Petrești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 88/2023 privind aprobarea indicatorilor tehnico-economici , la terminarea lucrarilor, aferenti obiectivului de investitii “ Amenajare loc de joaca Gradinita Ionesti Lanarie”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59784",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-89-2023",
+   "path": "local/dambovita/petresti/2023/89",
+   "short": "HCL Petrești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 89/2023 privind aprobarea depunerii și implementării proiectului “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA PETRESTI, JUDETUL DAMBOVITA” , în cadrul apelului de proiecte cu titlul PNRR/2023/C3/S/I.2.A-B din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, Componenta C3 – Managementul Deșeurilor, Investiția I2 Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile, Subinvestiția I2.A-B. Sisteme integrate de colectare și valorificare a gunoiului de grajd",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59968",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-90-2023",
+   "path": "local/dambovita/petresti/2023/90",
+   "short": "HCL Petrești nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 90/2023 privind aprobarea studiului de fezabilitate si a principalilor indicatori tehnico – economici pentru investitia proiectului “REALIZARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD ÎN COMUNA PETRESTI, JUDETUL DAMBOVITA”, ce va fi depus în cadrul apelului de proiecte cu titlul PNRR/2023/C3/S/I.2.A-B din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, Componenta C3 – Managementul Deșeurilor, Investiția I2 Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile, Subinvestiția I2.A-B. Sisteme integrate de colectare și valorificare a gunoiului de grajd",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59969",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#59969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-97-2023",
+   "path": "local/dambovita/petresti/2023/97",
+   "short": "HCL Petrești nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 97/2023 Privind rectificarea bugetului local si a listei de investitii in trim IV anul 2023",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#60757",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#60757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-98-2023",
+   "path": "local/dambovita/petresti/2023/98",
+   "short": "HCL Petrești nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 98/2023 privind aprobarea indicatorilor tehnico-economici , aferenti obiectivului de investitii „Înființare piste de biciclete, pe strada Principală (DN61), în satele Gherghești și Greci din comuna Petrești, județul Dâmbovița”",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#60758",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#60758",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

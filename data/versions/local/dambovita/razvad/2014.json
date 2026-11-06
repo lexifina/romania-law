@@ -3,6 +3,141 @@
  "shard": "local/dambovita/razvad/2014",
  "acts": [
   {
+   "slug": "hcl-dambovita--razvad-1-2014",
+   "path": "local/dambovita/razvad/2014/1",
+   "short": "HCL Răzvad nr. 1/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 1/2014",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-1-din-21.01.2014.pdf",
+     "sha256": "f2e027990c11bf10d47d597b47ba9fa3859502573f0d2bf0d5b1e33cb4656445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-10-2014",
+   "path": "local/dambovita/razvad/2014/10",
+   "short": "HCL Răzvad nr. 10/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 10/2014 privind aprobarea contribuţiei anuale la Crucea Roşie HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-10-din-21.01.2014.pdf",
+     "sha256": "5a73c2113be2e75913eb2e9d607bc2edc2bbdbcc07cee4abb3c813ae444295d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-12-2014",
+   "path": "local/dambovita/razvad/2014/12",
+   "short": "HCL Răzvad nr. 12/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 12/2014 privind aprobarea acoperii deficitului secţiunii de dezvoltare aferent anului 2013 HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-12-din-21.01.2014.pdf",
+     "sha256": "34c3e9b94067d5046b8b3d2448156ef404721eb2063f79e12a2d68035055a699"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-13-2014",
+   "path": "local/dambovita/razvad/2014/13",
+   "short": "HCL Răzvad nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 13/2014 privind alegerea preşedintelui de şedinţa HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-13-din-03.02.2014.pdf",
+     "sha256": "59b235d4db260fff51d131e828945063ce962366a0633bb4bfb4b6bcc45c443c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-14-2014",
+   "path": "local/dambovita/razvad/2014/14",
+   "short": "HCL Răzvad nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 14/2014 privind alegerea viceprimarului HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-14-din-03.02.2014.pdf",
+     "sha256": "a519a55f3cbc599b4000c14142c8f870790d8a504c2520eb909e8412bd17a7f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-15-2014",
+   "path": "local/dambovita/razvad/2014/15",
+   "short": "HCL Răzvad nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 15/2014 privind aprobarea execuţiei bugetului de venituri şi cheltuieli la data de 31.12.2013 HCL Anexe",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-15-din-03.02.2014.pdf",
+     "sha256": "4e5fb12d4db97cc2e080b7480ea4a6af06d54496ec38af22e89116e4558bf83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-16-2014",
+   "path": "local/dambovita/razvad/2014/16",
+   "short": "HCL Răzvad nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 16/2014 privind aprobarea bugetului pe anul 2014 HCL Anexă",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-16-din-03.02.2014.pdf",
+     "sha256": "7c6e864a94875a5878f03f1b926c97501b8c06f4fa615be9502476eba7ef6142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-17-2014",
+   "path": "local/dambovita/razvad/2014/17",
+   "short": "HCL Răzvad nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 17/2014 privind modificarea unor elemente de identificare la poziţii din inventarul public HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-02-03",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.17-din-03.02.2014.pdf",
+     "sha256": "f03b16d725f308f60c7a07b9a760a7434daa4fd94f701170a693d764eed28dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-2-2014",
+   "path": "local/dambovita/razvad/2014/2",
+   "short": "HCL Răzvad nr. 2/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 2/2014 privind rectificare buget 2013 HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-2-din-21.01.2014.pdf",
+     "sha256": "eca4606777a1fdc34b53bfe74699810f1ed7a435ee92de527fd7c64a82019403"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--razvad-3-2014",
    "path": "local/dambovita/razvad/2014/3",
    "short": "HCL Răzvad nr. 3/2014",
@@ -18,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--razvad-4-2014",
+   "path": "local/dambovita/razvad/2014/4",
+   "short": "HCL Răzvad nr. 4/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 4/2014",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-4-din-21.01.2014.pdf",
+     "sha256": "e8aaaff1a9de501fa1592571f942a879c7429236c0d14f278fb898ecdd225d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-5-2014",
+   "path": "local/dambovita/razvad/2014/5",
+   "short": "HCL Răzvad nr. 5/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 5/2014",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-5-din-21.01.2014.pdf",
+     "sha256": "7acc30e563199a5fbf357d1fbe6cd408061b8af5ffe128c5b19a1815820cd03f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-6-2014",
+   "path": "local/dambovita/razvad/2014/6",
+   "short": "HCL Răzvad nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 6/2014",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-6-din-21.01.2014.pdf",
+     "sha256": "345bbf1d37874a676e00668afa9c8db278da36782aa09fa09ec1cabf253d77e9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--razvad-7-2014",
    "path": "local/dambovita/razvad/2014/7",
    "short": "HCL Răzvad nr. 7/2014",
@@ -29,6 +209,36 @@
      "units": 1,
      "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-7-din-21.01.2014.pdf",
      "sha256": "6a90b92679b538eff65ef769b7fe5568bca6f4b480abdda990f4458546d6272b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-8-2014",
+   "path": "local/dambovita/razvad/2014/8",
+   "short": "HCL Răzvad nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 8/2014 privind aprobarea modului de acces al furnizorilor de reţele de comunicaţii pe domeniul public HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.8-din-21.01.2014.pdf",
+     "sha256": "57d7e6a533b719cebf71c14c8eb398807810fe71fa5661918346eb87ead8f58d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-9-2014",
+   "path": "local/dambovita/razvad/2014/9",
+   "short": "HCL Răzvad nr. 9/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 9/2014 privind stabilirea domeniilor serviciilor publice şi a locurilor in care contravenienţii pot presta muncă in folosul comunităţii HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2014/03/HCL-nr.-9-din-21.01.2014.pdf",
+     "sha256": "bfb3d5ebadfb5e688af57a39abba612a69af24b8ad6d13ebf2a166e1a410f3d9"
     }
    ]
   }

@@ -3,6 +3,28 @@
 "shard": "local/dambovita/crevedia/2021",
 "acts": [
 {
+"slug": "hcl-dambovita--crevedia-90-2021",
+"path": "local/dambovita/crevedia/2021/90",
+"kind": "local",
+"year": "2021",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 90/2021 privind privind aprobarea cererii SC ECOREGENERARE SRL cu privire la înregistrarea la nivelul comunei Crevedia pentru desfășurarea activității de preluare prin achiziție a deșeurilor de ambalaje de la populație de la locul de generare a acestora",
+"short": "HCL Crevedia nr. 90/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/crevedia-db/registru-hcl/39800",
+"council": "dambovita/crevedia",
+"council_name": "Consiliul Local al Comunei Crevedia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--crevedia-91-2021",
 "path": "local/dambovita/crevedia/2021/91",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Crevedia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--crevedia-94-2021",
+"path": "local/dambovita/crevedia/2021/94",
+"kind": "local",
+"year": "2021",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 94/2021 privind desemnarea reprezentantului Consiliului Local în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcției de director al Școlii Gimnaziale Crevedia",
+"short": "HCL Crevedia nr. 94/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/crevedia-db/registru-hcl/39804",
+"council": "dambovita/crevedia",
+"council_name": "Consiliul Local al Comunei Crevedia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +198,96 @@
 "council_name": "Consiliul Local al Comunei Crevedia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--crevedia-99-2021",
+"path": "local/dambovita/crevedia/2021/99",
+"kind": "local",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 99/2021",
+"short": "HCL Crevedia nr. 99/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/crevedia-db/registru-hcl/41867",
+"council": "dambovita/crevedia",
+"council_name": "Consiliul Local al Comunei Crevedia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--crevedia-100-2021",
+"path": "local/dambovita/crevedia/2021/100",
+"kind": "local",
+"year": "2021",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 100/2021 privind premierea unor sportivi din cadrul Clubului Sportiv Voința 2018 Crevedia",
+"short": "HCL Crevedia nr. 100/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/crevedia-db/registru-hcl/41868",
+"council": "dambovita/crevedia",
+"council_name": "Consiliul Local al Comunei Crevedia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--crevedia-101-2021",
+"path": "local/dambovita/crevedia/2021/101",
+"kind": "local",
+"year": "2021",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 101/2021 privind aprobarea încheierii Contractului de prestări servicii pentru gestionarea câinilor fără stăpân în comuna Crevedia",
+"short": "HCL Crevedia nr. 101/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/crevedia-db/registru-hcl/41869",
+"council": "dambovita/crevedia",
+"council_name": "Consiliul Local al Comunei Crevedia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--crevedia-102-2021",
+"path": "local/dambovita/crevedia/2021/102",
+"kind": "local",
+"year": "2021",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 102/2021",
+"short": "HCL Crevedia nr. 102/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/crevedia-db/registru-hcl/41870",
+"council": "dambovita/crevedia",
+"council_name": "Consiliul Local al Comunei Crevedia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,94 @@
 "shard": "local/dambovita/lucieni/2023",
 "acts": [
 {
+"slug": "hcl-dambovita--lucieni-33-2023",
+"path": "local/dambovita/lucieni/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 33/2023 privind aprobarea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Lucieni, județul Dâmbovița",
+"short": "HCL Lucieni nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#47256",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-34-2023",
+"path": "local/dambovita/lucieni/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 34/2023 privind aderarea și includerea comunei Lucieni, județul Dâmbovița la Parteneriatul LEADER cu denumirea \"Grupul de Acțiune Locală Arcul Târgoviștei\"",
+"short": "HCL Lucieni nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#47403",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-35-2023",
+"path": "local/dambovita/lucieni/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 35/2023 privind aprobarea încheierii unui acord de parteneriat în vederea derulării proiectului cu Asociația ”Împreună pentru un viitor verde”",
+"short": "HCL Lucieni nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#47795",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-66-2023",
+"path": "local/dambovita/lucieni/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 66/2023 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică, numirea coordonatorului echipei mobile și stabilirea mijlocului de transport pus la dispoziția echipei mobile pentru intervențiile de urgență",
+"short": "HCL Lucieni nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#57861",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-104-2023",
 "path": "local/dambovita/lucieni/2023/104",
 "kind": "local",

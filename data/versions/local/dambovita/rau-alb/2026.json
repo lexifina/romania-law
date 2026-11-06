@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/rau-alb/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--rau-alb-38-2026",
+   "path": "local/dambovita/rau-alb/2026/38",
+   "short": "HCL Râu Alb nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râu Alb nr. 38/2026",
+   "url": "https://primariaraualb.ro/categorii_mon_oficial/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://primariaraualb.ro/wp-content/uploads/2026/09/H.C.L.-nr.-38-din-04.09.2026-de-postat.pdf",
+     "sha256": "611acbe49e303a36cd6afced41d81b7f568c3a95ce51408ead124c824bcb151f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--rau-alb-39-2026",
+   "path": "local/dambovita/rau-alb/2026/39",
+   "short": "HCL Râu Alb nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râu Alb nr. 39/2026",
+   "url": "https://primariaraualb.ro/categorii_mon_oficial/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://primariaraualb.ro/wp-content/uploads/2026/09/H.C.L.-nr.-39-din-16.09.2026-U.A.T.-COMUNA-RAU-ALB-de-postat.pdf",
+     "sha256": "310f1bd995f7031d8873c6064fb0a032e95dc3c34a241df90b083f7a54e28067"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--rau-alb-43-2026",
+   "path": "local/dambovita/rau-alb/2026/43",
+   "short": "HCL Râu Alb nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râu Alb nr. 43/2026",
+   "url": "https://primariaraualb.ro/categorii_mon_oficial/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://primariaraualb.ro/wp-content/uploads/2026/10/H.C.L.-nr.-43-din-05.10.2026-de-postat.pdf",
+     "sha256": "be9d7d180cfed1872dcad6d65c5f1f3acdcd7b94c79d064e04c496c8e67c0c9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--rau-alb-44-2026",
+   "path": "local/dambovita/rau-alb/2026/44",
+   "short": "HCL Râu Alb nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râu Alb nr. 44/2026",
+   "url": "https://primariaraualb.ro/categorii_mon_oficial/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://primariaraualb.ro/wp-content/uploads/2026/10/H.C.L.-de-postat.pdf",
+     "sha256": "a3cd44be76013abeaffc4443b766dcd4694b9997b11cf846c035a89740497e73"
+    }
+   ]
+  }
+ ]
+}

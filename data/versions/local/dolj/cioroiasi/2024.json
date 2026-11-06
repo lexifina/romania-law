@@ -3,6 +3,51 @@
  "shard": "local/dolj/cioroiasi/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--cioroiasi-23-2024",
+   "path": "local/dolj/cioroiasi/2024/23",
+   "short": "HCL Cioroiași nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 23/2024 privind aprobarea salariilor de bază corespunzătoare funcțiilor publice de natură contractuală a personalului din cadrul aparatului de specialitate al primarului comunei Cioroiași, precum și din cadrul Serviciilor publice locale aflate în subordinea Consiliului Local, începând cu 01.067.2024",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/164315",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/164315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-24-2024",
+   "path": "local/dolj/cioroiasi/2024/24",
+   "short": "HCL Cioroiași nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 24/2024 privind aprobarea rectificării bugetului local al comunei Cioroiași, în trimestrul III, anul 2024",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/169948",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/169948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-25-2024",
+   "path": "local/dolj/cioroiasi/2024/25",
+   "short": "HCL Cioroiași nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 25/2024",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/169949",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/169949",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-26-2024",
    "path": "local/dolj/cioroiasi/2024/26",
    "short": "HCL Cioroiași nr. 26/2024",
@@ -148,6 +193,21 @@
      "from": "2025-11-12",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/183629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-36-2024",
+   "path": "local/dolj/cioroiasi/2024/36",
+   "short": "HCL Cioroiași nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 36/2024 privind desemnarea consilierilor locali în cadrul Consiliului de Administrație, CEAC și Comisia de prevenire și combatere a violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității din cadrul Școala Gimnazială Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/183630",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/183630",
      "sha256": null
     }
    ]

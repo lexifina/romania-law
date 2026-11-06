@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-20-2020",
+   "path": "local/dolj/cioroiasi/2020/20",
+   "short": "HCL Cioroiași nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 20/2020 privind alegerea președintelui de ședință pentru perioada de trei luni, începând cu luna iunie 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/20087",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/20087",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-21-2020",
    "path": "local/dolj/cioroiasi/2020/21",
    "short": "HCL Cioroiași nr. 21/2020",
@@ -73,6 +88,21 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/20101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-23-2020",
+   "path": "local/dolj/cioroiasi/2020/23",
+   "short": "HCL Cioroiași nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 23/2020 privind vânzare țiglă și constituire comisie de vânzare",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/20102",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/20102",
      "sha256": null
     }
    ]
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-28-2020",
+   "path": "local/dolj/cioroiasi/2020/28",
+   "short": "HCL Cioroiași nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 28/2020 privind alegerea președintelui de ședință pentru perioada de trei luni, începând cu luna noiembrie 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24833",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24833",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-29-2020",
    "path": "local/dolj/cioroiasi/2020/29",
    "short": "HCL Cioroiași nr. 29/2020",
@@ -153,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-30-2020",
+   "path": "local/dolj/cioroiasi/2020/30",
+   "short": "HCL Cioroiași nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 30/2020 privind alegerea viceprimarului comunei Cioroia;i",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24835",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-31-2020",
+   "path": "local/dolj/cioroiasi/2020/31",
+   "short": "HCL Cioroiași nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 31/2020 privind implementarea proiectului ” Îmbunătățirea accesului la procesul de învățare în mediul online pentru elevii din Comuna Cioroiași, județul Dolj”",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24836",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24836",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-32-2020",
    "path": "local/dolj/cioroiasi/2020/32",
    "short": "HCL Cioroiași nr. 32/2020",
@@ -163,6 +238,66 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-33-2020",
+   "path": "local/dolj/cioroiasi/2020/33",
+   "short": "HCL Cioroiași nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 33/2020 privind alocarea sumei de 5.000 lei pentru acordarea de cadouri de Crăciun, copiilor școlari și preșcolari din comuna Cioroiași, județul Dolj în anul 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24890",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-34-2020",
+   "path": "local/dolj/cioroiasi/2020/34",
+   "short": "HCL Cioroiași nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 34/2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24891",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-35-2020",
+   "path": "local/dolj/cioroiasi/2020/35",
+   "short": "HCL Cioroiași nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 35/2020 privind aprobarea constituirii ” Asociației Gaz Distribuție zona 1”",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24892",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-36-2020",
+   "path": "local/dolj/cioroiasi/2020/36",
+   "short": "HCL Cioroiași nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 36/2020 privind desemnarea unui consilier local în cadrul Consiliului de Administrație și CEAC la Școala Gimnazială Cioroiași în anul școalar 2020-2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24893",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24893",
      "sha256": null
     }
    ]

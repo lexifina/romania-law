@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-101-2023",
+   "path": "local/dambovita/manesti/2023/101",
+   "short": "HCL Mănești nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 101/2023 privind reorganizarea aparatului de specialitate al primarului comunei Mănești, județul Dâmbovița, precum și aprobarea organigramei si a statului de funcții conform prevederilor Legii nr.296/2023",
+   "url": "https://emol.ro/manesti-db/registru-hcl/145410",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/145410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-102-2023",
+   "path": "local/dambovita/manesti/2023/102",
+   "short": "HCL Mănești nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 102/2023",
+   "url": "https://emol.ro/manesti-db/registru-hcl/145411",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/145411",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-103-2023",
    "path": "local/dambovita/manesti/2023/103",
    "short": "HCL Mănești nr. 103/2023",
@@ -178,6 +208,21 @@
      "from": "2024-02-26",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/144823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-94-2023",
+   "path": "local/dambovita/manesti/2023/94",
+   "short": "HCL Mănești nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 94/2023",
+   "url": "https://emol.ro/manesti-db/registru-hcl/144824",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/144824",
      "sha256": null
     }
    ]

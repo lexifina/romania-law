@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/dambovita/motaieni/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--motaieni-83-2025",
+"path": "local/dambovita/motaieni/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 83/2025",
+"short": "HCL Moțăieni nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+"council": "dambovita/motaieni",
+"council_name": "Consiliul Local al Comunei Moțăieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--motaieni-84-2025",
+"path": "local/dambovita/motaieni/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 84/2025",
+"short": "HCL Moțăieni nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+"council": "dambovita/motaieni",
+"council_name": "Consiliul Local al Comunei Moțăieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--motaieni-85-2025",
+"path": "local/dambovita/motaieni/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 85/2025",
+"short": "HCL Moțăieni nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+"council": "dambovita/motaieni",
+"council_name": "Consiliul Local al Comunei Moțăieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--motaieni-86-2025",
+"path": "local/dambovita/motaieni/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 86/2025",
+"short": "HCL Moțăieni nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+"council": "dambovita/motaieni",
+"council_name": "Consiliul Local al Comunei Moțăieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--motaieni-87-2025",
+"path": "local/dambovita/motaieni/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 87/2025",
+"short": "HCL Moțăieni nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+"council": "dambovita/motaieni",
+"council_name": "Consiliul Local al Comunei Moțăieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--motaieni-88-2025",
+"path": "local/dambovita/motaieni/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 88/2025",
+"short": "HCL Moțăieni nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariamotaieni.ro/hotararile-autoritatii-deliberative/",
+"council": "dambovita/motaieni",
+"council_name": "Consiliul Local al Comunei Moțăieni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

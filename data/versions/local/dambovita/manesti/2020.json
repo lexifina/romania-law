@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-59-2020",
+   "path": "local/dambovita/manesti/2020/59",
+   "short": "HCL Mănești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 59/2020",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16878",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16878",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-60-2020",
    "path": "local/dambovita/manesti/2020/60",
    "short": "HCL Mănești nr. 60/2020",
@@ -238,6 +253,21 @@
      "from": "2020-12-17",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/16888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-70-2020",
+   "path": "local/dambovita/manesti/2020/70",
+   "short": "HCL Mănești nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 70/2020",
+   "url": "https://emol.ro/manesti-db/registru-hcl/16889",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/16889",
      "sha256": null
     }
    ]

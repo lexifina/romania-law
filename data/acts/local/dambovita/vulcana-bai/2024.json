@@ -3,6 +3,205 @@
 "shard": "local/dambovita/vulcana-bai/2024",
 "acts": [
 {
+"slug": "hcl-dambovita--vulcana-bai-91-2024",
+"path": "local/dambovita/vulcana-bai/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 91/2024 privind alegerea viceprimarului comunei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/173939",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-92-2024",
+"path": "local/dambovita/vulcana-bai/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 92/2024 privind constituirea sectoarelor administrative ale comunei Vulcana-Băi, în scopul creării unor raporturi directe între cetățeni și consilierii locali",
+"short": "HCL Vulcana-Băi nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178941",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-93-2024",
+"path": "local/dambovita/vulcana-bai/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 93/2024 privind nominalizarea consilierilor locali pe sectoare administrative, precum și stabilirea de măsuri conexe",
+"short": "HCL Vulcana-Băi nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178942",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-94-2024",
+"path": "local/dambovita/vulcana-bai/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 94/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Vulcana-Băi pentru anul școlar 2025-2026",
+"short": "HCL Vulcana-Băi nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178943",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-95-2024",
+"path": "local/dambovita/vulcana-bai/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 95/2024 privind mandatarea specială a reprezentantului comunei Vulcana-Băi în Adunarea generală a Asociației de Dezvoltare Intercomunitară „Managementul Integrat al Deșeurilor” județul Dâmbovița",
+"short": "HCL Vulcana-Băi nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178944",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-96-2024",
+"path": "local/dambovita/vulcana-bai/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 96/2024 privind mandatarea specială a reprezentantului comunei Vulcana-Băi în Adunarea generală a Asociației de Dezvoltare Intercomunitară „Apa Dâmbovița”",
+"short": "HCL Vulcana-Băi nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178945",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-97-2024",
+"path": "local/dambovita/vulcana-bai/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 97/2024 privind mandatarea specială a reprezentantului comunei Vulcana-Băi în Adunarea generală a Asociației Grupul de Acțiune Locală „Valea Ialomiței”",
+"short": "HCL Vulcana-Băi nr. 97/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178946",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-98-2024",
+"path": "local/dambovita/vulcana-bai/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 98/2024 privind stabilirea perioadei în care se efectuează inventarierea domeniului public și privat al comunei, precum și data până la care se face publicarea acestuia pe pagina de internet a comunei",
+"short": "HCL Vulcana-Băi nr. 98/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178947",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-99-2024",
+"path": "local/dambovita/vulcana-bai/2024/99",
+"kind": "local",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 99/2024",
+"short": "HCL Vulcana-Băi nr. 99/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178948",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-bai-100-2024",
 "path": "local/dambovita/vulcana-bai/2024/100",
 "kind": "local",
@@ -22,6 +221,162 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Băi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-101-2024",
+"path": "local/dambovita/vulcana-bai/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 101/2024",
+"short": "HCL Vulcana-Băi nr. 101/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178950",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-102-2024",
+"path": "local/dambovita/vulcana-bai/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 102/2024",
+"short": "HCL Vulcana-Băi nr. 102/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178951",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-103-2024",
+"path": "local/dambovita/vulcana-bai/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 103/2024 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna decembrie",
+"short": "HCL Vulcana-Băi nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/178952",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-104-2024",
+"path": "local/dambovita/vulcana-bai/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 104/2024 privind aprobarea acordării unui sprijin financiar, Parohiei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 104/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/183072",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-105-2024",
+"path": "local/dambovita/vulcana-bai/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 105/2024 privind aprobarea acordării unui sprijin financiar, Parohiei Vulcana de Sus",
+"short": "HCL Vulcana-Băi nr. 105/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/183073",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-106-2024",
+"path": "local/dambovita/vulcana-bai/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 106/2024 privind stabilirea modelului legitimației pentru aleșii locali și a modelului semnului distinctiv al calității acestora",
+"short": "HCL Vulcana-Băi nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/186366",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-107-2024",
+"path": "local/dambovita/vulcana-bai/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 107/2024 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele apte de muncă, beneficiare de venitul minim de incluziune pe anul 2025",
+"short": "HCL Vulcana-Băi nr. 107/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/186367",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -66,6 +421,28 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Băi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-110-2024",
+"path": "local/dambovita/vulcana-bai/2024/110",
+"kind": "local",
+"year": "2024",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 110/2024 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna ianuarie 2025",
+"short": "HCL Vulcana-Băi nr. 110/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/186370",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

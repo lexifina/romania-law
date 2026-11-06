@@ -270,6 +270,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-27-2021",
+"path": "local/dambovita/varfuri/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 27/2021 alegere presedinte de sedinta nov 2021 - ian 2022",
+"short": "HCL Vârfuri nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#9461",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-28-2021",
 "path": "local/dambovita/varfuri/2021/28",
 "kind": "local",
@@ -289,6 +311,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-29-2021",
+"path": "local/dambovita/varfuri/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 29/2021 desemnare reprezentant CL inConsiliul de Administratie al Scolii Gimnaziale",
+"short": "HCL Vârfuri nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#9464",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -487,6 +531,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-39-2021",
+"path": "local/dambovita/varfuri/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 39/2021 desemnare reprezentant CL in comisia de evaluare a probei de interviu la concursul director scoala",
+"short": "HCL Vârfuri nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#9483",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cornățelu nr. 61/2022 privind transmiterea, cu titlu gratuit, a dreptului de proprietate asupra terenului în suprafață de 1.250 mp, către Parohia Cornățelu, teren aferent cimitirului parohial
+
+HCL Cornățelu nr. 61/2022 · 1 versions, from 2022-11-09 (latest in force: 2022-11-09) · <https://emol.ro/cornatelu-db/registru-hcl/78984>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-dambovita--cornatelu-61-2022` (tags `hcl-dambovita--cornatelu-61-2022/<day>`; `python tools/on.py <day> hcl-dambovita--cornatelu-61-2022`).
+
+## Decisions made by hand
+
+- HCL Cornățelu nr. 61/2022: listed from Consiliul Local al Comunei Cornățelu (emol.ro); an individual decision: metadata only.
+- HCL Cornățelu nr. 61/2022: dated from 9 November 2022, the day it was adopted (the register gives no later day of publication).
+- HCL Cornățelu nr. 61/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

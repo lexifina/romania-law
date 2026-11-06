@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--runcu-42-2026",
+   "path": "local/dambovita/runcu/2026/42",
+   "short": "HCL Runcu nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 42/2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290086",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-43-2026",
+   "path": "local/dambovita/runcu/2026/43",
+   "short": "HCL Runcu nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 43/2026 privind revocarea hotărârii Consiliului Local Runcu nr. 35 din 28 mai 2026 referitoare la completarea Inventarului bunurilor aparținând domeniului privat al comunei Runcu, județ Dâmbovița",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290087",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290087",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--runcu-44-2026",
    "path": "local/dambovita/runcu/2026/44",
    "short": "HCL Runcu nr. 44/2026",
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--runcu-48-2026",
+   "path": "local/dambovita/runcu/2026/48",
+   "short": "HCL Runcu nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 48/2026 privind alegerea președintelui de ședință al Consiliului Local Runcu pe perioada august-octombrie 2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290093",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290093",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--runcu-49-2026",
    "path": "local/dambovita/runcu/2026/49",
    "short": "HCL Runcu nr. 49/2026",
@@ -123,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--runcu-50-2026",
+   "path": "local/dambovita/runcu/2026/50",
+   "short": "HCL Runcu nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 50/2026 privind aprobarea delegării gestiunii Serviciului public de alimentare cu apă al comunei Runcu, județul Dâmbovița și a documentației aferente",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290095",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-51-2026",
+   "path": "local/dambovita/runcu/2026/51",
+   "short": "HCL Runcu nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 51/2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290096",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-52-2026",
+   "path": "local/dambovita/runcu/2026/52",
+   "short": "HCL Runcu nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 52/2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/290097",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/290097",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--runcu-53-2026",
    "path": "local/dambovita/runcu/2026/53",
    "short": "HCL Runcu nr. 53/2026",
@@ -133,6 +223,81 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://emol.ro/runcu-db/registru-hcl/290107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-54-2026",
+   "path": "local/dambovita/runcu/2026/54",
+   "short": "HCL Runcu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 54/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Runcu pe anul 2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/294089",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/294089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-55-2026",
+   "path": "local/dambovita/runcu/2026/55",
+   "short": "HCL Runcu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 55/2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/294090",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/294090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-56-2026",
+   "path": "local/dambovita/runcu/2026/56",
+   "short": "HCL Runcu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 56/2026 privind anularea obligațiilor fiscale restante datorate bugetului local al comunei Runcu de către debitorul persoană juridică Sc Leotech Fortes, ridicat din Registrul Comerțului și scăderea societății din evidența fiscală",
+   "url": "https://emol.ro/runcu-db/registru-hcl/294092",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/294092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-57-2026",
+   "path": "local/dambovita/runcu/2026/57",
+   "short": "HCL Runcu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 57/2026",
+   "url": "https://emol.ro/runcu-db/registru-hcl/294093",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/294093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-58-2026",
+   "path": "local/dambovita/runcu/2026/58",
+   "short": "HCL Runcu nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 58/2026 privind încetarea contractului de concesiune nr. 10288/09.12.2025 încheiat între Comuna Runcu, în calitate de concedent și SC LEAOTA-RUNCU SPORT &CAMP SRL, în calitate de concesionar",
+   "url": "https://emol.ro/runcu-db/registru-hcl/294094",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/294094",
      "sha256": null
     }
    ]

@@ -3,6 +3,28 @@
 "shard": "local/dambovita/dobra/2021",
 "acts": [
 {
+"slug": "hcl-dambovita--dobra-28-2021",
+"path": "local/dambovita/dobra/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 28/2021 DESEMNARE MEMBRII CONSILIU SCOALA",
+"short": "HCL Dobra nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-13",
+"latest": "2021-10-13",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#6111",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--dobra-29-2021",
 "path": "local/dambovita/dobra/2021/29",
 "kind": "local",
@@ -135,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--dobra-35-2021",
+"path": "local/dambovita/dobra/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 35/2021 PROIECT DE HOTARARE APROBARE CONCESIONARE",
+"short": "HCL Dobra nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#7208",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--dobra-36-2021",
+"path": "local/dambovita/dobra/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 36/2021 PROIECT DE HOTARARE APROBARE CONCESIONARE",
+"short": "HCL Dobra nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#7209",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--dobra-37-2021",
 "path": "local/dambovita/dobra/2021/37",
 "kind": "local",
@@ -176,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Dobra",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--dobra-39-2021",
+"path": "local/dambovita/dobra/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 39/2021 PROIECT DE HOTARARE DESEMNARE PERSOANA CONCURS DIRECTOR",
+"short": "HCL Dobra nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#7212",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

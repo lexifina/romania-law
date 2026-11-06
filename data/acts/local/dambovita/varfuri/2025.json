@@ -113,6 +113,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-10-2025",
+"path": "local/dambovita/varfuri/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 10/2025",
+"short": "HCL Vârfuri nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": null,
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-11-2025",
 "path": "local/dambovita/varfuri/2025/11",
 "kind": "local",
@@ -487,6 +510,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-28-2025",
+"path": "local/dambovita/varfuri/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 28/2025 alegerea preşedintelui de şedinţă al Consiliului Local Vârfuri pentru o perioadă de trei luni (mai 2025 – iulie 2025)",
+"short": "HCL Vârfuri nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#101779",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-29-2025",
 "path": "local/dambovita/varfuri/2025/29",
 "kind": "local",
@@ -597,6 +642,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-34-2025",
+"path": "local/dambovita/varfuri/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 34/2025",
+"short": "HCL Vârfuri nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": null,
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-35-2025",
 "path": "local/dambovita/varfuri/2025/35",
 "kind": "local",
@@ -660,6 +728,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-38-2025",
+"path": "local/dambovita/varfuri/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 38/2025 alegerea președintelui de ședință pentru o perioadă de trei luni (august- octombrie),",
+"short": "HCL Vârfuri nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#107425",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -946,6 +1036,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-52-2025",
+"path": "local/dambovita/varfuri/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 52/2025 Proiect de hotărâre privind aprobarea înființării unui post contractual de asistent medical comunitar în comuna Vârfuri, pentru implementarea proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”, 6. Proiect de hotărâre privind aprobarea efectuării unor lucrări de modernizare la reţeaua de apă potabilă a comunei Vârfuri, judeţul Dâmboviţa, 7. Proiect de hotărâre privind desemnarea reprezentanţilor Consiliului Local al comunei Vârfuri în Consiliul de Administraţie şi în Comisiile cu caracter permanent/de specialitate/ocazionale, funcţionale la nivelul Şcolii Gimnaziale Vârfuri pentru anul şcolar 2025 – 2026",
+"short": "HCL Vârfuri nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#107460",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

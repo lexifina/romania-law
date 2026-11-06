@@ -31,6 +31,51 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-3-2025",
+   "path": "local/dambovita/niculesti/2025/3",
+   "short": "HCL Niculești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 3/2025 Privind aprobarea „Raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav in anul 2024 ,angajaţi ai Primăriei comunei Niculești, judeţul Dâmbovița",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/189732",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/189732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-4-2025",
+   "path": "local/dambovita/niculesti/2025/4",
+   "short": "HCL Niculești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 4/2025 privind aprobarea valorii finale a obiectivului de investitii ,,POD pe DC 159,,",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/189733",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/189733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-5-2025",
+   "path": "local/dambovita/niculesti/2025/5",
+   "short": "HCL Niculești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 5/2025 Privind aprobarea cotizaţiei comunei Niculesti catre Asociaţia de Dezvoltare Intercomunitară ,,Management Integrat al Deşeurilor în judeţul Dâmboviţa’’, pentru anul 2025",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/189734",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/189734",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

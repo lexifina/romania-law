@@ -3,6 +3,156 @@
  "shard": "local/dolj/cioroiasi/2021",
  "acts": [
   {
+   "slug": "hcl-dolj--cioroiasi-34-2021",
+   "path": "local/dolj/cioroiasi/2021/34",
+   "short": "HCL Cioroiași nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 34/2021 privind aprobarea rectificării bugetului local al comunei Cioroiași, județ Dolj în trimestrul III anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41013",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-35-2021",
+   "path": "local/dolj/cioroiasi/2021/35",
+   "short": "HCL Cioroiași nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 35/2021 privind desemnarea unui consilier local în cadrul Consiliului de Administrație și CEAC la Școala Gimnazială Cioroiași în anul școlar 2021-2022",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41014",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-36-2021",
+   "path": "local/dolj/cioroiasi/2021/36",
+   "short": "HCL Cioroiași nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 36/2021 privind modificarea statului de funcții al aparatului propriu al Primarului și al Consiliului Local al comunei Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41018",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-37-2021",
+   "path": "local/dolj/cioroiasi/2021/37",
+   "short": "HCL Cioroiași nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 37/2021 privind aprobarea/numirea delegatului sătesc care să reprezinte interesele locuitorilor satului Cetățuia în Consiliul local Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41019",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-38-2021",
+   "path": "local/dolj/cioroiasi/2021/38",
+   "short": "HCL Cioroiași nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 38/2021 privind propunerea de schimbare a destinației în vederea demolării unui imobil (construcție) ”Fosta Școală Trochesti” C1 (număr cadastral 32384-C1), proprietate publică a comunei Cioroiași, județul Dolj",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41020",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-39-2021",
+   "path": "local/dolj/cioroiasi/2021/39",
+   "short": "HCL Cioroiași nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 39/2021 privind aprobarea rectificării bugetului local al comunei Cioroiași, județ Dolj pe anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41032",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-40-2021",
+   "path": "local/dolj/cioroiasi/2021/40",
+   "short": "HCL Cioroiași nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 40/2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41033",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-41-2021",
+   "path": "local/dolj/cioroiasi/2021/41",
+   "short": "HCL Cioroiași nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 41/2021 privind alegerea președinte de ședință pentru perioada de trei luni",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41034",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-42-2021",
+   "path": "local/dolj/cioroiasi/2021/42",
+   "short": "HCL Cioroiași nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 42/2021 privind desemnarea reprezentantului Consiliului Local Cioroiași, în Comisia de evaluare a probei de interviu, ce urmează a fi constituită în vederea organizării și desfășurării concursului pentru ocuparea funcției de Director la Școala Gimnazială Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/41035",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/41035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-43-2021",
+   "path": "local/dolj/cioroiasi/2021/43",
+   "short": "HCL Cioroiași nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 43/2021 privind aprobarea rectificării bugetului local al comunei Cioroiași pe anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55575",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55575",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-44-2021",
    "path": "local/dolj/cioroiasi/2021/44",
    "short": "HCL Cioroiași nr. 44/2021",
@@ -28,6 +178,126 @@
      "from": "2021-11-22",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-46-2021",
+   "path": "local/dolj/cioroiasi/2021/46",
+   "short": "HCL Cioroiași nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 46/2021 privind desemnarea reprezentantului Consiliului Local Cioroiași în Grupul de acțiune antibullyng constituit la nivelul Școala Gimnazială Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55578",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-47-2021",
+   "path": "local/dolj/cioroiasi/2021/47",
+   "short": "HCL Cioroiași nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 47/2021 privind aprobarea acordării de cadouri copiilor Școlii Gimnaziale Cioroiași din comuna Cioroiși, județul Dolj cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55579",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-48-2021",
+   "path": "local/dolj/cioroiasi/2021/48",
+   "short": "HCL Cioroiași nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 48/2021 privind aprobarea rectificării bugetului local al comunei Cioroiași pe anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55580",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-49-2021",
+   "path": "local/dolj/cioroiasi/2021/49",
+   "short": "HCL Cioroiași nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 49/2021 privind aprobarea participării la ''Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic - stații de reîncărcare pentru vehicule electrice în localități'' cu proiectul '' Amplasare stație de reîncărcare pentru vehicule electrice în județ Dolj, comuna Cioroiași, sat Cioroiași, CF 32884'",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55585",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-50-2021",
+   "path": "local/dolj/cioroiasi/2021/50",
+   "short": "HCL Cioroiași nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 50/2021 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV, anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55586",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-51-2021",
+   "path": "local/dolj/cioroiasi/2021/51",
+   "short": "HCL Cioroiași nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 51/2021 privind aprobarea rectificării bugetului local al comunei Cioroiași pe anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55587",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-52-2021",
+   "path": "local/dolj/cioroiasi/2021/52",
+   "short": "HCL Cioroiași nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 52/2021 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV, anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55592",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-53-2021",
+   "path": "local/dolj/cioroiasi/2021/53",
+   "short": "HCL Cioroiași nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 53/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Cioroiași, în trimestrul IV, pe anul 2021",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55597",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55597",
      "sha256": null
     }
    ]

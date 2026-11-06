@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/dambovita/raciu/2022",
+"acts": [
+{
+"slug": "hcl-dambovita--raciu-24-2022",
+"path": "local/dambovita/raciu/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Raciu nr. 24/2022",
+"short": "HCL Raciu nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-20",
+"latest": "2022-05-20",
+"portal": null,
+"council": "dambovita/raciu",
+"council_name": "Consiliul Local al Comunei Raciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

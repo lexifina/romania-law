@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-8-2023",
+"path": "local/dambovita/varfuri/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 8/2023 DESEMNARE CONSILIERI LOCALI MEMBRI IN COMISIA DE EVALUARE A SECRETARULUI GENERAL",
+"short": "HCL Vârfuri nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-18",
+"latest": "2023-01-18",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#42211",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-9-2023",
 "path": "local/dambovita/varfuri/2023/9",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-12-2023",
+"path": "local/dambovita/varfuri/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 12/2023 ALEGERE PRESEDINTE DE SEDINTA",
+"short": "HCL Vârfuri nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#42227",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +575,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-31-2023",
+"path": "local/dambovita/varfuri/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 31/2023 APROBARE CERERE DE INCHIRIERE APARTAMANET DIN BLOCUL DE LOCUINTE",
+"short": "HCL Vârfuri nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#46527",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-32-2023",
 "path": "local/dambovita/varfuri/2023/32",
 "kind": "local",
@@ -685,6 +751,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-39-2023",
+"path": "local/dambovita/varfuri/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 39/2023 ORGANIGRAMA SVSU VARFURI",
+"short": "HCL Vârfuri nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#55462",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-40-2023",
 "path": "local/dambovita/varfuri/2023/40",
 "kind": "local",
@@ -704,6 +792,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-41-2023",
+"path": "local/dambovita/varfuri/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 41/2023 ALEGERE PRESEDINTE DE SEDINTA",
+"short": "HCL Vârfuri nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#55467",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -792,6 +902,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-46-2023",
+"path": "local/dambovita/varfuri/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 46/2023 ALEGERE PRESESDINTE DE SEDINTA",
+"short": "HCL Vârfuri nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#55478",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -994,6 +1126,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-56-2023",
+"path": "local/dambovita/varfuri/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 56/2023 privind însuşirea modificărilor din actul adiţional nr. 1 la contractul de închiriere pajişti aflate în domeniul public al comunei nr. 2193/19.04.2023",
+"short": "HCL Vârfuri nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#60270",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-57-2023",
 "path": "local/dambovita/varfuri/2023/57",
 "kind": "local",
@@ -1013,6 +1167,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-58-2023",
+"path": "local/dambovita/varfuri/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 58/2023 alegerea preşedintelui de sedinţă pentru o perioadă de trei luni",
+"short": "HCL Vârfuri nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#60272",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1148,6 +1324,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-65-2023",
+"path": "local/dambovita/varfuri/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 65/2023 constituirea echipei mobile pentru intervenția în regim de urgență în cazurile de violență domestică identificate pe raza comunei Varfuri",
+"short": "HCL Vârfuri nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#60279",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-66-2023",
 "path": "local/dambovita/varfuri/2023/66",
 "kind": "local",
@@ -1258,6 +1456,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-71-2023",
+"path": "local/dambovita/varfuri/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 71/2023",
+"short": "HCL Vârfuri nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": null,
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-72-2023",
 "path": "local/dambovita/varfuri/2023/72",
 "kind": "local",
@@ -1343,6 +1564,50 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-76-2023",
+"path": "local/dambovita/varfuri/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 76/2023 desemnarea reprezentanţilor Consiliului Local al comunei Vârfuri în Consiliul de Administraţie şi în Comisiile cu caracter permanent/de specialitate/ocazionale, funcţionale la nivelul Şcolii Gimnaziale Vârfuri pentru anul şcolar 2023 – 2024,",
+"short": "HCL Vârfuri nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#60290",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-77-2023",
+"path": "local/dambovita/varfuri/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 77/2023 aprobarea cererii de închiriere a unui apartament din blocul de locuinţe apartinând comunei Vârfuri",
+"short": "HCL Vârfuri nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#60292",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-58-2022",
+   "path": "local/dambovita/cornatelu/2022/58",
+   "short": "HCL Cornățelu nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 58/2022 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada noiembrie 2022 - ianuarie 2023",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/78981",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/78981",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-59-2022",
    "path": "local/dambovita/cornatelu/2022/59",
    "short": "HCL Cornățelu nr. 59/2022",
@@ -88,6 +103,36 @@
      "from": "2022-11-09",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/78982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-60-2022",
+   "path": "local/dambovita/cornatelu/2022/60",
+   "short": "HCL Cornățelu nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 60/2022 privind transmiterea, cu titlu gratuit, a dreptului de proprietate asupra terenului în suprafață de 1.000 mp, către Parohia Slobozia-Cocoși, teren aferent construirii casei parohiale",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/78983",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/78983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-61-2022",
+   "path": "local/dambovita/cornatelu/2022/61",
+   "short": "HCL Cornățelu nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 61/2022 privind transmiterea, cu titlu gratuit, a dreptului de proprietate asupra terenului în suprafață de 1.250 mp, către Parohia Cornățelu, teren aferent cimitirului parohial",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/78984",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/78984",
      "sha256": null
     }
    ]
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-66-2022",
+   "path": "local/dambovita/cornatelu/2022/66",
+   "short": "HCL Cornățelu nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 66/2022",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/83965",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/83965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-67-2022",
    "path": "local/dambovita/cornatelu/2022/67",
    "short": "HCL Cornățelu nr. 67/2022",
@@ -193,6 +253,36 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/83968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-70-2022",
+   "path": "local/dambovita/cornatelu/2022/70",
+   "short": "HCL Cornățelu nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 70/2022 privind aprobarea documentației de dezmembrare a suprafeței de teren de 5054 mp, teren situat în comuna Cornățelu, satul Slobozia, județul Dâmbovița",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/83969",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/83969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-71-2022",
+   "path": "local/dambovita/cornatelu/2022/71",
+   "short": "HCL Cornățelu nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 71/2022 privind mandatarea specială a reprezentantului unității administrativ-teritoriale comuna Cornățelu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”Management Integrat al Deșeurilor în județul Dâmbovița”",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/83970",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/83970",
      "sha256": null
     }
    ]

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/persinari/2022",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--persinari-33-2022",
+   "path": "local/dambovita/persinari/2022/33",
+   "short": "HCL Perșinari nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 33/2022 Alegerea presedintelui de sedinta a Consiliului Local al comunei Persinari pentru perioada august-octombrie 2022",
+   "url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35394",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--persinari-38-2022",
+   "path": "local/dambovita/persinari/2022/38",
+   "short": "HCL Perșinari nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 38/2022 desemnarea reprezentantului Consiliului Local al comunei Persinari in Consiliul de Administratie al Școlii Gimnaziale Persinari pentru anul 2022-2023",
+   "url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35412",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--persinari-39-2022",
+   "path": "local/dambovita/persinari/2022/39",
+   "short": "HCL Perșinari nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 39/2022 Desemnarea reprezentantului Consiliului Local Persinari in grupul de Actiune antibullying al Scolii Gimnaziale Persinari pentru anul scolar 2022-2023",
+   "url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35430",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--persinari-44-2022",
+   "path": "local/dambovita/persinari/2022/44",
+   "short": "HCL Perșinari nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 44/2022 Alegerea presedintelui de sedinta a Consiliului Local al comunei Persinari pentru perioada noiembrie 2022-ianuarie 2023",
+   "url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35445",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#35445",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

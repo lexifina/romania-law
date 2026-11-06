@@ -3,6 +3,111 @@
  "shard": "local/dolj/catane/2025",
  "acts": [
   {
+   "slug": "hcl-dolj--catane-1-2025",
+   "path": "local/dolj/catane/2025/1",
+   "short": "HCL Catane nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 1/2025 privind aprobarea folosirii excedentului din sursa A al anului 2024,pentru anul 2025 si utilizarea excedentului bugetar al anului 2024 sursa E in anul 2025",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.1%20din%2009.01.2025%20privind%20aprobarea%20folosirii%20excedentului%20din%20sursa%20A%20al%20anului%202024,pentru%20anul%202025%20si%20utilizarea%20excedentului%20bugetar%20al%20anului%202024%20sursa%20E%20in%20anul%202025.pdf",
+     "sha256": "5d82a25b1f3e9b57923d67a09b075969eed69a070f28176bfc82c259e6d602ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-10-2025",
+   "path": "local/dolj/catane/2025/10",
+   "short": "HCL Catane nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 10/2025 privind Aprobarea strategiei si a programlui anual de achiziții pe anul 2025",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/06/Hotarirea%20nr.10%20din%2027.05.2025%20privind%20Aprobarea%20strategiei%20si%20a%20programlui%20anual%20de%20achizi%C8%9Bii%20pe%20anul%202025.pdf",
+     "sha256": "4e8c5b2cea7f99f6c51bf5df6977576d5d58ed082eb550f0f28bbef48d47cf63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-2-2025",
+   "path": "local/dolj/catane/2025/2",
+   "short": "HCL Catane nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 2/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.2%20din%2027.02.2025%20privind%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "dd42a0bebcf0e893d331a9a93afa4c4cb18108365dfcfb8e766ae8c3f232d278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-3-2025",
+   "path": "local/dolj/catane/2025/3",
+   "short": "HCL Catane nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 3/2025 privind desemnarea reprezentantului Consiliului Local al comunei Catane in Consiliul de Administratie al Scolii Gimnaziale Catane",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.3%20din%2027.02.2025%20privind%20desemnarea%20reprezentantului%20Consiliului%20Local%20al%20comunei%20Catane%20in%20Consiliul%20de%20Administratie%20al%20Scolii%20Gimnaziale%20Catane.pdf",
+     "sha256": "8df41f0a5de18e32f69d22d4354fed3620dd450abd27af0757423e293d19d682"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-4-2025",
+   "path": "local/dolj/catane/2025/4",
+   "short": "HCL Catane nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 4/2025 privind planul de actiuni si interes local pentru beneficiari VMI",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.4%20din%2027.02.2025%20privind%20planul%20de%20actiuni%20si%20interes%20local%20pentru%20beneficiari%20VMI.pdf",
+     "sha256": "780056f26a819331d453c67020fb3dc7343e849b625ba409505900602acd9b61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-5-2025",
+   "path": "local/dolj/catane/2025/5",
+   "short": "HCL Catane nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 5/2025 privind planul anual actiuni servicii sociale in anul 2025",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.5%20din%2027.02.2025%20privind%20planul%20anual%20actiuni%20servicii%20sociale%20in%20anul%202025.pdf",
+     "sha256": "724a1b1ccda3d64e61a10d0b9eed6ec8471b3bc7dd24379d54b04969242d64e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-6-2025",
+   "path": "local/dolj/catane/2025/6",
+   "short": "HCL Catane nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 6/2025 privind programul anual actiuni combatere risc saracie",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.%206%20din%2027.02.2025%20privind%20programul%20anual%20actiuni%20combatere%20risc%20saracie.pdf",
+     "sha256": "055a99e22426e1d4d976ccfc545ed365ba016916ad2226addd0022a35cb139fc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--catane-7-2025",
    "path": "local/dolj/catane/2025/7",
    "short": "HCL Catane nr. 7/2025",
@@ -14,6 +119,36 @@
      "units": 1,
      "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.%207%20din%2005.03.2025%20privind%20initiere%20demersuri%20intocmire%20PUG.pdf",
      "sha256": "cd80e87bd52a0f72ec06d37c8eb2e43e196cc3f7f0889ff6c8e4df9d2b045148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-8-2025",
+   "path": "local/dolj/catane/2025/8",
+   "short": "HCL Catane nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 8/2025 privind aprobarea bugetului pe anul 2025 si estimat pe anii 2026-2028",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.8%20din%2024.03.2025%20privind%20aprobarea%20bugetului%20pe%20anul%202025%20si%20estimat%20pe%20anii%202026-2028.pdf",
+     "sha256": "b610904bcb0b31c413f0dbe24295a5dddc91e56835e75a1d3fbf84637afc5ab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--catane-9-2025",
+   "path": "local/dolj/catane/2025/9",
+   "short": "HCL Catane nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 9/2025 privind actualizare indicatori economici achizitie tractor",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.9%20din%2015.04.2025%20privind%20actualizare%20indicatori%20economici%20achizitie%20tractor.pdf",
+     "sha256": "580d5ef540743ac13ac4d481eb0f25d9c74a121d0d532c4f82e6466d8439bff3"
     }
    ]
   }

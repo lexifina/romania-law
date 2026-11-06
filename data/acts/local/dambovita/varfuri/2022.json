@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-14-2022",
+"path": "local/dambovita/varfuri/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 14/2022 aprobare inchiriere izlazuri comunale",
+"short": "HCL Vârfuri nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#15341",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-15-2022",
 "path": "local/dambovita/varfuri/2022/15",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-17-2022",
+"path": "local/dambovita/varfuri/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 17/2022 HCL desemnare consilieri evaluare secretar general",
+"short": "HCL Vârfuri nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-02",
+"latest": "2022-02-02",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#15746",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -573,6 +617,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-34-2022",
+"path": "local/dambovita/varfuri/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 34/2022 ALOCARE SUMA DE BANI PENTRU ELEVA NEAGU EDINA PENTRU REZULTATE DEOSEBITE LA CONCURSURI DE MUZICA",
+"short": "HCL Vârfuri nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#21868",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1277,6 +1343,28 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-67-2022",
+"path": "local/dambovita/varfuri/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 67/2022 DESEMNARE REPREZENTANT CL IN cONSILIUL DE ADMINISTRATIE AL SCOLII",
+"short": "HCL Vârfuri nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#30901",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

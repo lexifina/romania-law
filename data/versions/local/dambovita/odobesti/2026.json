@@ -3,6 +3,21 @@
  "shard": "local/dambovita/odobesti/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--odobesti-18-2026",
+   "path": "local/dambovita/odobesti/2026/18",
+   "short": "HCL Odobești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 18/2026 privind modificarea art.1, teza a 2 (doua) din Hotărârea Consiliului Local Odobești nr.112 din 19.12.2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici,în cuantumul stabilit pentru anul 2025, in sensul eliminării taxei de salubrizare pentru străinaşii care domiciliază în judeţul Dâmboviţa și în afara județului, care au gospodării pe raza judeţului Dâmboviţa,conform prevederilor hotărârilor judecătorești definitive",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/270748",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/270748",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-19-2026",
    "path": "local/dambovita/odobesti/2026/19",
    "short": "HCL Odobești nr. 19/2026",
@@ -18,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--odobesti-20-2026",
+   "path": "local/dambovita/odobesti/2026/20",
+   "short": "HCL Odobești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 20/2026 privind darea in folosință gratuită către S.C.Fluturaș Dent SRL a unui spațiu din Dispensarul uman situat in satul Odobesti, comuna Odobești pentru desfășurarea de activitati medicale",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/270750",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/270750",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-21-2026",
    "path": "local/dambovita/odobesti/2026/21",
    "short": "HCL Odobești nr. 21/2026",
@@ -28,6 +58,21 @@
      "from": "2026-05-28",
      "units": 1,
      "source_url": "https://emol.ro/odobesti-db/registru-hcl/270751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-22-2026",
+   "path": "local/dambovita/odobesti/2026/22",
+   "short": "HCL Odobești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 22/2026 privind modificarea si completarea HCL nr.19/31.03.2026 privind aplicarea noului numar maxim de posturi stabilit pentru UAT Comuna Odobesti, judetul Dâmbovița,conform OUG 7/2026",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/270752",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/270752",
      "sha256": null
     }
    ]
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--odobesti-26-2026",
+   "path": "local/dambovita/odobesti/2026/26",
+   "short": "HCL Odobești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 26/2026 privind alegerea presedintelui de sedinta al Consiliului Local Odobesti",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/270756",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/270756",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-27-2026",
    "path": "local/dambovita/odobesti/2026/27",
    "short": "HCL Odobești nr. 27/2026",
@@ -88,6 +148,21 @@
      "from": "2026-05-28",
      "units": 1,
      "source_url": "https://emol.ro/odobesti-db/registru-hcl/270757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-28-2026",
+   "path": "local/dambovita/odobesti/2026/28",
+   "short": "HCL Odobești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 28/2026",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/277847",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/277847",
      "sha256": null
     }
    ]
@@ -138,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--odobesti-32-2026",
+   "path": "local/dambovita/odobesti/2026/32",
+   "short": "HCL Odobești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 32/2026 privind încetarea prin acordul părților a contractului de asociere/parteneriat în vederea realizării obiectivelor de investiții ,,Amenajare Loc de Joaca pentru copii in sat Miulesti, comuna Odobești, judetul Dâmbovița ”incheiat între comuna Odobești, prin Consiliul Local al Comunei Odobești și Județul Dâmbovița prin Consiliul Județean Dâmbovița prin Programul Județean de Dezvoltare Locală Dâmbovița",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/277852",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/277852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-33-2026",
+   "path": "local/dambovita/odobesti/2026/33",
+   "short": "HCL Odobești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 33/2026 privind încetarea prin acordul părților a contractului de asociere/parteneriat în vederea realizării obiectivelor de investiții ,,Amenajare teren Sport Multifunctional în sat Miulesti,comuna Odobești, judetul Dâmbovița,, incheiat între comuna Odobești, prin Consiliul Local al Comunei Odobești și Județul Dâmbovița prin Consiliul Județean Dâmbovița prin Programul Județean de Dezvoltare Locală Dâmbovița",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/277853",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/277853",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--odobesti-34-2026",
    "path": "local/dambovita/odobesti/2026/34",
    "short": "HCL Odobești nr. 34/2026",
@@ -178,6 +283,21 @@
      "from": "2026-07-08",
      "units": 1,
      "source_url": "https://emol.ro/odobesti-db/registru-hcl/277858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--odobesti-37-2026",
+   "path": "local/dambovita/odobesti/2026/37",
+   "short": "HCL Odobești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Odobești nr. 37/2026",
+   "url": "https://emol.ro/odobesti-db/registru-hcl/277861",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/odobesti-db/registru-hcl/277861",
      "sha256": null
     }
    ]

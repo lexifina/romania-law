@@ -378,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--varfuri-22-2026",
+"path": "local/dambovita/varfuri/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 22/2026 HCL privind aprobarea cererii de închiriere a unei suprafețe cu destinație de locuință din blocul aparținând comunei Vârfuri",
+"short": "HCL Vârfuri nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123485",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-23-2026",
 "path": "local/dambovita/varfuri/2026/23",
 "kind": "local",
@@ -529,6 +551,29 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-30-2026",
+"path": "local/dambovita/varfuri/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 30/2026",
+"short": "HCL Vârfuri nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-24",
+"latest": "2026-06-24",
+"portal": null,
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -837,6 +882,50 @@
 "council_name": "Consiliul Local al Comunei Vârfuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-45-2026",
+"path": "local/dambovita/varfuri/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 45/2026 privind desemnarea reprezentanților Consiliului Local Vârfuri în Comisia de evaluare a probei de interviu, la concursul pentru ocuparea funcției de director al Școlii Gimnaziale Vârfuri",
+"short": "HCL Vârfuri nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#130456",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-46-2026",
+"path": "local/dambovita/varfuri/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 46/2026 privind desemnarea reprezentanţilor Consiliului Local al comunei Vârfuri în Consiliul de Administraţie şi în Comisiile cu caracter permanent/temporare/ocazionale, funcţionale la nivelul Şcolii Gimnaziale Vârfuri pentru anul şcolar 2026 – 2027",
+"short": "HCL Vârfuri nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#130457",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

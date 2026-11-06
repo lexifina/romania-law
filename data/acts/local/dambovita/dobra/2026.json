@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--dobra-3-2026",
+"path": "local/dambovita/dobra/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 3/2026 APROBA VANZARE TEREN",
+"short": "HCL Dobra nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#114638",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--dobra-4-2026",
 "path": "local/dambovita/dobra/2026/4",
 "kind": "local",
@@ -397,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Dobra",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--dobra-20-2026",
+"path": "local/dambovita/dobra/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobra nr. 20/2026 APROBA INCHIRIERE ISLAZ",
+"short": "HCL Dobra nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://dobra.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5338#124849",
+"council": "dambovita/dobra",
+"council_name": "Consiliul Local al Comunei Dobra",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

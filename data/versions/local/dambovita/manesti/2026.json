@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-37-2026",
+   "path": "local/dambovita/manesti/2026/37",
+   "short": "HCL Mănești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 37/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/283311",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/283311",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-38-2026",
    "path": "local/dambovita/manesti/2026/38",
    "short": "HCL Mănești nr. 38/2026",
@@ -178,6 +193,21 @@
      "from": "2026-08-17",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/283312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-39-2026",
+   "path": "local/dambovita/manesti/2026/39",
+   "short": "HCL Mănești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 39/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/283313",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/283313",
      "sha256": null
     }
    ]
@@ -208,6 +238,21 @@
      "from": "2026-08-17",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/283315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-42-2026",
+   "path": "local/dambovita/manesti/2026/42",
+   "short": "HCL Mănești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 42/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/286577",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/286577",
      "sha256": null
     }
    ]

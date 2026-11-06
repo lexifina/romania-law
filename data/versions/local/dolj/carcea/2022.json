@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-138-2022",
+   "path": "local/dolj/carcea/2022/138",
+   "short": "HCL Cârcea nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 138/2022",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/85108",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/85108",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-139-2022",
    "path": "local/dolj/carcea/2022/139",
    "short": "HCL Cârcea nr. 139/2022",

@@ -69,6 +69,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--runcu-42-2026",
+"path": "local/dambovita/runcu/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 42/2026",
+"short": "HCL Runcu nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/runcu-db/registru-hcl/290086",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-43-2026",
+"path": "local/dambovita/runcu/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 43/2026 privind revocarea hotărârii Consiliului Local Runcu nr. 35 din 28 mai 2026 referitoare la completarea Inventarului bunurilor aparținând domeniului privat al comunei Runcu, județ Dâmbovița",
+"short": "HCL Runcu nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/runcu-db/registru-hcl/290087",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--runcu-44-2026",
 "path": "local/dambovita/runcu/2026/44",
 "kind": "local",
@@ -158,6 +203,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--runcu-48-2026",
+"path": "local/dambovita/runcu/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 48/2026 privind alegerea președintelui de ședință al Consiliului Local Runcu pe perioada august-octombrie 2026",
+"short": "HCL Runcu nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/runcu-db/registru-hcl/290093",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--runcu-49-2026",
 "path": "local/dambovita/runcu/2026/49",
 "kind": "local",
@@ -180,6 +247,74 @@
 }
 },
 {
+"slug": "hcl-dambovita--runcu-50-2026",
+"path": "local/dambovita/runcu/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 50/2026 privind aprobarea delegării gestiunii Serviciului public de alimentare cu apă al comunei Runcu, județul Dâmbovița și a documentației aferente",
+"short": "HCL Runcu nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/runcu-db/registru-hcl/290095",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-51-2026",
+"path": "local/dambovita/runcu/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 51/2026",
+"short": "HCL Runcu nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/runcu-db/registru-hcl/290096",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-52-2026",
+"path": "local/dambovita/runcu/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 52/2026",
+"short": "HCL Runcu nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/runcu-db/registru-hcl/290097",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--runcu-53-2026",
 "path": "local/dambovita/runcu/2026/53",
 "kind": "local",
@@ -199,6 +334,118 @@
 "council_name": "Consiliul Local al Comunei Runcu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-54-2026",
+"path": "local/dambovita/runcu/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 54/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Runcu pe anul 2026",
+"short": "HCL Runcu nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/runcu-db/registru-hcl/294089",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-55-2026",
+"path": "local/dambovita/runcu/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 55/2026",
+"short": "HCL Runcu nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/runcu-db/registru-hcl/294090",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-56-2026",
+"path": "local/dambovita/runcu/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 56/2026 privind anularea obligațiilor fiscale restante datorate bugetului local al comunei Runcu de către debitorul persoană juridică Sc Leotech Fortes, ridicat din Registrul Comerțului și scăderea societății din evidența fiscală",
+"short": "HCL Runcu nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/runcu-db/registru-hcl/294092",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-57-2026",
+"path": "local/dambovita/runcu/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 57/2026",
+"short": "HCL Runcu nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/runcu-db/registru-hcl/294093",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-58-2026",
+"path": "local/dambovita/runcu/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 58/2026 privind încetarea contractului de concesiune nr. 10288/09.12.2025 încheiat între Comuna Runcu, în calitate de concedent și SC LEAOTA-RUNCU SPORT &CAMP SRL, în calitate de concesionar",
+"short": "HCL Runcu nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/runcu-db/registru-hcl/294094",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

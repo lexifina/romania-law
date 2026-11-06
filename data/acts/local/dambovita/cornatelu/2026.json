@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-37-2026",
+"path": "local/dambovita/cornatelu/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 37/2026 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada AUGUST 2026 - OCTOMBRIE 2026",
+"short": "HCL Cornățelu nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/283422",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-38-2026",
 "path": "local/dambovita/cornatelu/2026/38",
 "kind": "local",

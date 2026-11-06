@@ -1,0 +1,801 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/ulmi/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--ulmi-100-2025",
+   "path": "local/dambovita/ulmi/2025/100",
+   "short": "HCL Ulmi nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 100/2025 privind analiza stadiului de inscriere a datelor in registrul agricol pe trimestrrul al-III-lea al anului 2025 si aprobarea programului de masuri pentru eficientizarea inscrierii datelor in registrul agricol",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#106981",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#106981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-101-2025",
+   "path": "local/dambovita/ulmi/2025/101",
+   "short": "HCL Ulmi nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 101/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-102-2025",
+   "path": "local/dambovita/ulmi/2025/102",
+   "short": "HCL Ulmi nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 102/2025 privind aprobarea executiei bugetului local al comunei Ulmi la finele trimestrului III al anului 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107052",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-103-2025",
+   "path": "local/dambovita/ulmi/2025/103",
+   "short": "HCL Ulmi nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 103/2025 privind aprobarea situatiilor financiare asupra executiei bugetare la finele trim.III al anului 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107061",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-104-2025",
+   "path": "local/dambovita/ulmi/2025/104",
+   "short": "HCL Ulmi nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 104/2025 pentru aprobarea solicitării numitului Blaj Claudiu-Alexandru privind atribuirea în folosinţă gratuită a unei suprafete de teren pentru construire locuinta proprietate personală în conformitate cu dispozitiile Legii nr. 15/2003, rerepublicată",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107108",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-105-2025",
+   "path": "local/dambovita/ulmi/2025/105",
+   "short": "HCL Ulmi nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 105/2025 privind scoaterea din functiune si casarea unor mijloace fixe si obiecte de inventar, aflate in patrimoniul U.A.T comuna Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107707",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-106-2025",
+   "path": "local/dambovita/ulmi/2025/106",
+   "short": "HCL Ulmi nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 106/2025 privind aprobarea rectificării bugetului local al comunei Ulmi si modificării programului de investitii pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107780",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-107-2025",
+   "path": "local/dambovita/ulmi/2025/107",
+   "short": "HCL Ulmi nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 107/2025 privind infiintarea unui post, în afara organigramei, în cadrul echipei comunitare integrate pentru derularea proiectului finantat din fonduri externe nerambursabile „Furnizare de servicii integrate încomunitățile rurale – facilitarea accesului persoanelor vulnerabile la serviciide bază eficiente și de calitate” Cod PIDS/586/PO4/339395",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107848",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-108-2025",
+   "path": "local/dambovita/ulmi/2025/108",
+   "short": "HCL Ulmi nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 108/2025 privind vȃnzarea directǎ a terenului inscris in cartea funciara nr. 73600 a localitatii Ulmi in suprafata de 350 mp aferent casei de locuit din comuna Ulmi,sat Viisoara, strada Tineretului, nr.2 judetul Dâmbovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#108020",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#108020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-109-2025",
+   "path": "local/dambovita/ulmi/2025/109",
+   "short": "HCL Ulmi nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 109/2025 privind vȃnzarea directǎ a terenului inscris in cartea funciara nr. 73590 a localitatii Ulmi in suprafata de 350 mp aferent casei de locuit din comuna Ulmi,sat Viisoara, strada Primaverii, nr.3 judetul Dâmbovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#108021",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#108021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-111-2025",
+   "path": "local/dambovita/ulmi/2025/111",
+   "short": "HCL Ulmi nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 111/2025 privind validarea Dispoziţiei Primarului Comunei Ulmi nr. 289 din 06.11.2025 pentru aprobarea modificării bugetului local al Comunei Ulmi pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#109080",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#109080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-112-2025",
+   "path": "local/dambovita/ulmi/2025/112",
+   "short": "HCL Ulmi nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 112/2025 privind aprobarea rectificarii bugetului local al comunei Ulmi pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#109762",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#109762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-113-2025",
+   "path": "local/dambovita/ulmi/2025/113",
+   "short": "HCL Ulmi nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 113/2025 privind aprobarea Metodologiei de evaluare a nevoilor comunității în vederea organizării serviciilor sociale pentru persoanele vârstnice din UA.T. comuna Ulmi, judetul Dâmbovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#109897",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#109897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-114-2025",
+   "path": "local/dambovita/ulmi/2025/114",
+   "short": "HCL Ulmi nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 114/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate la terminarea lucrarilor pentru obiectivul de investitii “ Modernizare dispensar medical sat Ulmi, comuna Ulmi in vederea cresterii eficientei energetice si gestionarii inteligente a energiei”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110615",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-115-2025",
+   "path": "local/dambovita/ulmi/2025/115",
+   "short": "HCL Ulmi nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 115/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-116-2025",
+   "path": "local/dambovita/ulmi/2025/116",
+   "short": "HCL Ulmi nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 116/2025 privind aprobarea acordarii unui sprijin financiar Parohiei Colanu",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110717",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-118-2025",
+   "path": "local/dambovita/ulmi/2025/118",
+   "short": "HCL Ulmi nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 118/2025 privind aprobarea rectficarii bugetului local si modificarii listei de investitii pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110895",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-119-2025",
+   "path": "local/dambovita/ulmi/2025/119",
+   "short": "HCL Ulmi nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 119/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-120-2025",
+   "path": "local/dambovita/ulmi/2025/120",
+   "short": "HCL Ulmi nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 120/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-121-2025",
+   "path": "local/dambovita/ulmi/2025/121",
+   "short": "HCL Ulmi nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 121/2025 privind completarea inventarului bunurilor care apartin domeniului public al U.A.T comuna Ulmi, judetul Dâmbovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#111473",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#111473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-122-2025",
+   "path": "local/dambovita/ulmi/2025/122",
+   "short": "HCL Ulmi nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 122/2025 privind rectificarea bugetului local si modificarii listei de investitii pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#112596",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#112596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-124-2025",
+   "path": "local/dambovita/ulmi/2025/124",
+   "short": "HCL Ulmi nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 124/2025 privind aprobarea numărului posturilor de asistenţi personali (însotitori ai persoanelor cu handicap grav) din comuna Ulmi, pentru anul 2026",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110855",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-129-2025",
+   "path": "local/dambovita/ulmi/2025/129",
+   "short": "HCL Ulmi nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 129/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmi pentru o perioadă de trei luni ( ianuarie-martie 2026)",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110981",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-130-2025",
+   "path": "local/dambovita/ulmi/2025/130",
+   "short": "HCL Ulmi nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 130/2025 privind desemnarea a doi consilieri locali, în calitate de membri ai Comisiei de evaluare a performanțelor profesionale ale Secretarului general al U.A.T comuna Ulmi pentru anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#111061",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#111061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-131-2025",
+   "path": "local/dambovita/ulmi/2025/131",
+   "short": "HCL Ulmi nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 131/2025 privind acceptarea ofertei de donatie a imobilului teren în suprafata de 2320 mp, identificat cu N.C.78470, înscris în CF 78470 in vederea introducerii in domeniul public al comunei cu destinatia de drum",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#111897",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#111897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-132-2025",
+   "path": "local/dambovita/ulmi/2025/132",
+   "short": "HCL Ulmi nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 132/2025 privind aprobarea indicatorilor tehnico-economici in urma actualizarii devizului general la finalizarea lucrarilor, pentru obiectivul de investitii„Extindere retea de canalizare in satele Udresti si Colanu”,comuna Ulmi, judetul Dambovita”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#112925",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#112925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-133-2025",
+   "path": "local/dambovita/ulmi/2025/133",
+   "short": "HCL Ulmi nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 133/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-73-2025",
+   "path": "local/dambovita/ulmi/2025/73",
+   "short": "HCL Ulmi nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 73/2025 privind aprobarea indicatorilor tehnico-economici si a documentatiei la faza DALI pentru obiectivul de investitii \"Reabilitare si modernizare strazi in satul Viisoara, comuna Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104140",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-74-2025",
+   "path": "local/dambovita/ulmi/2025/74",
+   "short": "HCL Ulmi nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 74/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-75-2025",
+   "path": "local/dambovita/ulmi/2025/75",
+   "short": "HCL Ulmi nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 75/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate ca urmare a modificării cotei TVA, pentru obiectivul de investitii:”INFIINTAREA SI AMENAJAREA UNEI ZONE DE RECREERE SI AGREMENT IN COMUNA ULMI",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104572",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-76-2025",
+   "path": "local/dambovita/ulmi/2025/76",
+   "short": "HCL Ulmi nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 76/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate ca urmare a modificării cotei TVA, pentru obiectivul de investitii :“ EXTINDERE SCOALA GIMNAZIALA ULMI – CONSTRUIRE SI DOTARE CORP NOU",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104573",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-77-2025",
+   "path": "local/dambovita/ulmi/2025/77",
+   "short": "HCL Ulmi nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 77/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate ca urmare a modificării cotei TVA, pentru obiectivul de investitii 'Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastrucurii TIC (sisteme inteligente de management urban/ local)’’",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104574",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-78-2025",
+   "path": "local/dambovita/ulmi/2025/78",
+   "short": "HCL Ulmi nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 78/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate ca urmare a modificării cotei TVA, pentru obiectivul de investitii “Infiintarea unui centru de colectare a deseurilor prin aport voluntar in comuna Ulmi, judetul Dambovita\"",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104684",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-79-2025",
+   "path": "local/dambovita/ulmi/2025/79",
+   "short": "HCL Ulmi nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 79/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate ca urmare a modificării cotei TVA, pentru obiectivul de investitii “ Modernizare scoala generala sat Ulmi, comuna Ulmi în vederea cresterii eficientei energetice si gestionarii inteligente a energiei \"",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104695",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-80-2025",
+   "path": "local/dambovita/ulmi/2025/80",
+   "short": "HCL Ulmi nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 80/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate ca urmare a modificării cotei TVA, pentru obiectivul de investitii \"\"Modernizare dispensar sat Ulmi, com Ulmi in vederea cresterii eficientei energetice si si gestionarii inteligente a energiei”,",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104696",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-81-2025",
+   "path": "local/dambovita/ulmi/2025/81",
+   "short": "HCL Ulmi nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 81/2025 pentru indreptarea unor erori materiale strecurate in H.C.L nr. 69/27.08.2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate ca urmare a modificarii cotei TVA, pentru obiectivul de investitii \"Reabilitare si modernizare străzi in satele Dimoiu, Udresti si Dumbrava, comuna Ulmi, judetul Dâmbovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104959",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-82-2025",
+   "path": "local/dambovita/ulmi/2025/82",
+   "short": "HCL Ulmi nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 82/2025 privind aprobarea rectificarii bugetului local al comunei Ulmi si si modificarii programului de investitii pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104992",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-83-2025",
+   "path": "local/dambovita/ulmi/2025/83",
+   "short": "HCL Ulmi nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 83/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmi pentru o perioadă de trei luni ( octombrie-decembrie 2025)",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104884",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#104884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-84-2025",
+   "path": "local/dambovita/ulmi/2025/84",
+   "short": "HCL Ulmi nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 84/2025 privind aprobarea schimbarii dreptului de folosintă asupra terenului atribuit pentru construirea unei locuinţe proprietate personală, în baza legii nr.15/2003 numitului Martin Iulică-Marian",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105028",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-85-2025",
+   "path": "local/dambovita/ulmi/2025/85",
+   "short": "HCL Ulmi nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 85/2025 privind aprobarea organizării si desfăsurării unui eveniment ecvestru în comuna Ulmi, judetul Dâmbovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105245",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-86-2025",
+   "path": "local/dambovita/ulmi/2025/86",
+   "short": "HCL Ulmi nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 86/2025 privind aprobarea traseelor și locurilor de îmbarcare/debarcare pentru autovehiculele destinate transportului elevilor de pe raza comunei Ulmi, în anul școlar 2025-2026",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105261",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-87-2025",
+   "path": "local/dambovita/ulmi/2025/87",
+   "short": "HCL Ulmi nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 87/2025 privind desemnarea reprezentantului consiliul local comunal Ulmi ca membru în Consiliul de Administraţie al Şcolii Gimnaziale Ulmi, pentru anul scolar 2025-2026",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105556",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-88-2025",
+   "path": "local/dambovita/ulmi/2025/88",
+   "short": "HCL Ulmi nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 88/2025 privind desemnarea reprezentantilor Consiliului Local Ulmi in Comisiile cu caracter permanent, functionale la nivelul Scolii Gimnaziale Ulmi pentru anul scolar 2025-2026",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105557",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-89-2025",
+   "path": "local/dambovita/ulmi/2025/89",
+   "short": "HCL Ulmi nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 89/2025 privind aprobarea rectificării bugetului local al comunei Ulmi si modificarii listei de investitii pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105645",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-90-2025",
+   "path": "local/dambovita/ulmi/2025/90",
+   "short": "HCL Ulmi nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 90/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-91-2025",
+   "path": "local/dambovita/ulmi/2025/91",
+   "short": "HCL Ulmi nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 91/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate la terminarea lucrărilor pentru obiectivul de investitii “Infiintarea unui centru de colectare a deseurilor prin aport voluntar in comuna Ulmi, judetul Dambovita\"",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#106559",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#106559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-92-2025",
+   "path": "local/dambovita/ulmi/2025/92",
+   "short": "HCL Ulmi nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 92/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizate la terminarea lucrărilor pentru obiectivul de investitii “Modernizare scoala generala sat Ulmi, comuna Ulmi în vederea cresterii eficientei energetice si gestionarii inteligente a energiei”,",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#106560",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#106560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-93-2025",
+   "path": "local/dambovita/ulmi/2025/93",
+   "short": "HCL Ulmi nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 93/2025 privind aprobarea rectificării bugetului local al comunei Ulmi si modificării programului de investitii pe anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107033",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-94-2025",
+   "path": "local/dambovita/ulmi/2025/94",
+   "short": "HCL Ulmi nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 94/2025 pentru aprobarea actului aditional nr. 2 la Acordul de asociere nr.500/9300/26.06.2023 încheiat cu Judeţul Dâmboviţa, prin Consiliul Judeţean Dâmboviţa pentru implementarea obiectivului de investiții „Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița”în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107150",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-95-2025",
+   "path": "local/dambovita/ulmi/2025/95",
+   "short": "HCL Ulmi nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 95/2025 privind acceptarea de la Ministerul Educatiei si Cercetării/ Inspectoratul Scolar Judetean Dâmbovita-Palatul Copiilor Târgoviste, prin transmiterea fara plata , a autotorismului microbuz marca VOLKSWAGEN",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107196",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-96-2025",
+   "path": "local/dambovita/ulmi/2025/96",
+   "short": "HCL Ulmi nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 96/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-97-2025",
+   "path": "local/dambovita/ulmi/2025/97",
+   "short": "HCL Ulmi nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 97/2025 privind insusirea si aprobarea documentatiei de actualizare a informatiilor cadastrale pentru imobilul înscris în CF 74747",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107282",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-98-2025",
+   "path": "local/dambovita/ulmi/2025/98",
+   "short": "HCL Ulmi nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 98/2025 privind aprobarea transferului dreptului de proprietate asupra bunului mobil – activ fix 1 microbuz electric cu capacitate 16 locuri pe scaune (din care 1 loc amenajat pentru persoane cu dizabilități) + 1 loc pentru conducătorul auto, pentru transportul elevilor, către UAT Ulmi, achiziționat în cadrul proiectului Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița, cod 18, implementat în baza Contractului de finanțare nr. 11.978/12.09.2023",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107373",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#107373",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

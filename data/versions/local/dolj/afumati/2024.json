@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-14-2024",
+   "path": "local/dolj/afumati/2024/14",
+   "short": "HCL Afumați nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 14/2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155304",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-15-2024",
+   "path": "local/dolj/afumati/2024/15",
+   "short": "HCL Afumați nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 15/2024 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Afumați pentru activitatea desfășurată în anul 2023",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155305",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-16-2024",
    "path": "local/dolj/afumati/2024/16",
    "short": "HCL Afumați nr. 16/2024",
@@ -118,6 +148,21 @@
      "from": "2024-09-13",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/168707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-23-2024",
+   "path": "local/dolj/afumati/2024/23",
+   "short": "HCL Afumați nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 23/2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/168708",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/168708",
      "sha256": null
     }
    ]

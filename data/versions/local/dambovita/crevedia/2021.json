@@ -3,6 +3,51 @@
  "shard": "local/dambovita/crevedia/2021",
  "acts": [
   {
+   "slug": "hcl-dambovita--crevedia-100-2021",
+   "path": "local/dambovita/crevedia/2021/100",
+   "short": "HCL Crevedia nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 100/2021 privind premierea unor sportivi din cadrul Clubului Sportiv Voința 2018 Crevedia",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41868",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-101-2021",
+   "path": "local/dambovita/crevedia/2021/101",
+   "short": "HCL Crevedia nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 101/2021 privind aprobarea încheierii Contractului de prestări servicii pentru gestionarea câinilor fără stăpân în comuna Crevedia",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41869",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-102-2021",
+   "path": "local/dambovita/crevedia/2021/102",
+   "short": "HCL Crevedia nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 102/2021",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41870",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41870",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-103-2021",
    "path": "local/dambovita/crevedia/2021/103",
    "short": "HCL Crevedia nr. 103/2021",
@@ -108,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-90-2021",
+   "path": "local/dambovita/crevedia/2021/90",
+   "short": "HCL Crevedia nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 90/2021 privind privind aprobarea cererii SC ECOREGENERARE SRL cu privire la înregistrarea la nivelul comunei Crevedia pentru desfășurarea activității de preluare prin achiziție a deșeurilor de ambalaje de la populație de la locul de generare a acestora",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/39800",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/39800",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-91-2021",
    "path": "local/dambovita/crevedia/2021/91",
    "short": "HCL Crevedia nr. 91/2021",
@@ -148,6 +208,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/39803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-94-2021",
+   "path": "local/dambovita/crevedia/2021/94",
+   "short": "HCL Crevedia nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 94/2021 privind desemnarea reprezentantului Consiliului Local în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcției de director al Școlii Gimnaziale Crevedia",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/39804",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/39804",
      "sha256": null
     }
    ]
@@ -208,6 +283,21 @@
      "from": "2021-11-18",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/41866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-99-2021",
+   "path": "local/dambovita/crevedia/2021/99",
+   "short": "HCL Crevedia nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 99/2021",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/41867",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/41867",
      "sha256": null
     }
    ]

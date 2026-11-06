@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/runcu/2022",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--runcu-100-2022",
+   "path": "local/dambovita/runcu/2022/100",
+   "short": "HCL Runcu nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 100/2022 privind dezmembrarea unei suprafete de teren din domeniul privat al comunei in vederea atribuirii unor beneficiari ai Legii 15/2013",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99566",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-101-2022",
+   "path": "local/dambovita/runcu/2022/101",
+   "short": "HCL Runcu nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 101/2022 privind numirea președintelui de ședință",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99567",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-102-2022",
+   "path": "local/dambovita/runcu/2022/102",
+   "short": "HCL Runcu nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 102/2022 privind aprobarea și participarea comunei Runcu la programul privind Eficiența energetică în clădiri publice gestionate de Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99568",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-103-2022",
+   "path": "local/dambovita/runcu/2022/103",
+   "short": "HCL Runcu nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 103/2022 privind aprobarea și asocierea cu Filiala Județeană Dâmbovița a Asociației Naționale Cultul Eroilor „Regina Maria”",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99569",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-84-2022",
+   "path": "local/dambovita/runcu/2022/84",
+   "short": "HCL Runcu nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 84/2022 privind rectificarea bugetului de venituri si cheltuieli al comunei Runcu pe anul 2022",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99545",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-85-2022",
+   "path": "local/dambovita/runcu/2022/85",
+   "short": "HCL Runcu nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 85/2022 privind aprobarea și participarea la Programul privind dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice şi/sau hibrid plug-in în localităţi, prin instalarea de staţii de reîncărcare cu putere normală\" pentru proiectul „Instalare stații de reîncărcare cu putere normală pentru vehicule electrice și hibride în Comuna Runcu, județul Dâmbovița",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99546",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-86-2022",
+   "path": "local/dambovita/runcu/2022/86",
+   "short": "HCL Runcu nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 86/2022 privind aprobarea și indexarea impozitului pe mijloacele de transport cu masa totala maxima autorizata mai mare sau egala cu 12 tone pentru anul 2023",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99547",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-87-2022",
+   "path": "local/dambovita/runcu/2022/87",
+   "short": "HCL Runcu nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 87/2022 privind aprobarea proiectului reţelei şcolare a unitãţilor de învãţãmânt aflate pe raza teritorial-administrativã a comunei Runcu pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99548",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-88-2022",
+   "path": "local/dambovita/runcu/2022/88",
+   "short": "HCL Runcu nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 88/2022 privind acordarea cu titlu gratuit unele cantitati de masa lemnoasa, proprietatea comunei Runcu, unor persoane defavorizate",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99549",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-89-2022",
+   "path": "local/dambovita/runcu/2022/89",
+   "short": "HCL Runcu nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 89/2022 privind validarea dispoziției Primarului nr.346 din 28 noiembrie 2022 pentru rectificarea bugetului de venituri si cheltuieli al comunei Runcu pe anul 2022 si se aproba efectuarea unor chel;tuieli pentru Ziua Nationala a Romaniei",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99550",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-90-2022",
+   "path": "local/dambovita/runcu/2022/90",
+   "short": "HCL Runcu nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 90/2022 privind aprobarea și casarea unor mijloace fixe si obiecte de inventar",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99551",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-91-2022",
+   "path": "local/dambovita/runcu/2022/91",
+   "short": "HCL Runcu nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 91/2022 privind aprobarea noilor indicatori tehnico-economici pentru obiectivul de investitie “Constructie pod Manoiu peste paraul Ialomicioarei DC 134 in comuna Runcu, judet Dambovita si a cotei de cofinantare de la bugetul local",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99552",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-92-2022",
+   "path": "local/dambovita/runcu/2022/92",
+   "short": "HCL Runcu nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 92/2022 privind aprobarea tarifului pentru activitatea de curatare si transport al zapezii de pe caile publice in comuna Runcu si mentinerea in functiune a acestora pe timp de polei sau inghet",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99553",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-93-2022",
+   "path": "local/dambovita/runcu/2022/93",
+   "short": "HCL Runcu nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 93/2022 privind aprobarea desfãşurarea şi finananţarea cheltuielilor aferente manifestãrilor cultural-artistice şi educative organizate cu « Hora copiilor",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99554",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-94-2022",
+   "path": "local/dambovita/runcu/2022/94",
+   "short": "HCL Runcu nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 94/2022 privind rectificarea bugetului de venituri si cheltuieli al comunei Runcu pe anul 2022",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99558",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-95-2022",
+   "path": "local/dambovita/runcu/2022/95",
+   "short": "HCL Runcu nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 95/2022 privind aprobarea și rectificarea bugetului de venituri si cheltuieli al comunei Runcu pe anul 2022",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99561",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-96-2022",
+   "path": "local/dambovita/runcu/2022/96",
+   "short": "HCL Runcu nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 96/2022 privind aprobarea și participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public pentru proiectul „Creșterea eficienței energetice a sistemului de iluminat public în Comuna Runcu, județul Dâmbovița”",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99562",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-97-2022",
+   "path": "local/dambovita/runcu/2022/97",
+   "short": "HCL Runcu nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 97/2022 privind mandatarea reprezentantului unității administrativ- teritoriale Runcu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,, Management Integrat al Deșeurilor în județul Dâmbovița”",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99563",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-98-2022",
+   "path": "local/dambovita/runcu/2022/98",
+   "short": "HCL Runcu nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 98/2022 privind aprobarea planului de măsuri pentru prevenirea apariției unor focare de pestă porcină africană pe teritoriul",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99564",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--runcu-99-2022",
+   "path": "local/dambovita/runcu/2022/99",
+   "short": "HCL Runcu nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 99/2022 privind aprobarea și includerea unei suprafete in inventarul bunurilor apartinand domeniului public al comunei Runcu",
+   "url": "https://emol.ro/runcu-db/registru-hcl/99565",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-db/registru-hcl/99565",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

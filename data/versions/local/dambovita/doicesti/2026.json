@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/doicesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--doicesti-56-2026",
+   "path": "local/dambovita/doicesti/2026/56",
+   "short": "HCL Doicești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 56/2026 privind validarea rectificării bugetului local Vizualizare",
+   "url": "https://primariadoicesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberativehcl/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2026/10/HCL-nr.-56-din-19.08.2026-validare.pdf",
+     "sha256": "49af2c06d8e2cd0aab2994f6fd14c7e8c71b6466e5d7b85434cd430d2cb5c09f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-57-2026",
+   "path": "local/dambovita/doicesti/2026/57",
+   "short": "HCL Doicești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 57/2026 privind încheierea contului de execuție bugetară la finele trimestrului II 2026 Vizualizare",
+   "url": "https://primariadoicesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberativehcl/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2026/10/HCL-nr.-57-din-19.08.2026.pdf",
+     "sha256": "e35f9b73cbafb22b7bc78be8b0f94bb4211405ae5be4a0b340a001d6a6dd44e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-58-2026",
+   "path": "local/dambovita/doicesti/2026/58",
+   "short": "HCL Doicești nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 58/2026 privind aprobarea alocării unor fonduri din bugetul local al comunei Doicești în vederea organizării activităților aniversare de ZIUA COMUNEI DOICESTI Vizualizare",
+   "url": "https://primariadoicesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberativehcl/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2026/10/HCL-nr.-58-din-19.08.2026.pdf",
+     "sha256": "6b43da7a0743274c5d2a71d6bc14c2461695a5fa73125b49eb02f8916f7b9a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-65-2026",
+   "path": "local/dambovita/doicesti/2026/65",
+   "short": "HCL Doicești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 65/2026 privind desemnarea reprezentantului Consiliului Local al comunei Doicești în Consiliul de Administrație al școlii pentru anul școlar 2026-2027 Vizualizare",
+   "url": "https://primariadoicesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberativehcl/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2026/10/HCL-nr.-65-din-30.09.2026.pdf",
+     "sha256": "3abd390bce1bf6c92956f899072d8a4e261fa2a3123bbe07daa9978242784745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-69-2026",
+   "path": "local/dambovita/doicesti/2026/69",
+   "short": "HCL Doicești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 69/2026 privind desemnarea unui reprezentant al Consiliului Local Doicești și a unui membru supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, sesiunea august-decembrie 2026 Vizualizare",
+   "url": "https://primariadoicesti.ro/monitorul-oficial-local/hotararile-autoritatii-deliberativehcl/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2026/10/HCL-nr.-69-din-30.09.2026.pdf",
+     "sha256": "ec49854f5ec8fbb0a44d2c82d0d45031acd40dd0df5b9acc97fa9facb56ccd3d"
+    }
+   ]
+  }
+ ]
+}

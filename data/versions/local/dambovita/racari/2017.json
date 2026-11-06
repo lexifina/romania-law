@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/racari/2017",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--racari-1-2017",
+   "path": "local/dambovita/racari/2017/1",
+   "short": "HCL Răcari nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Răcari nr. 1/2017",
+   "url": "https://primariaracari.ro/wp-content/uploads/2017/03/Hotarare-1-august-2017.pdf",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 1,
+     "source_url": "https://primariaracari.ro/wp-content/uploads/2017/03/Hotarare-1-august-2017.pdf",
+     "sha256": "f44cbbfb9ba5e81c29b013ac9ff99371e33c4d58628dc7471b8f5aad0a672cc0"
+    }
+   ]
+  }
+ ]
+}

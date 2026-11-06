@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/dambovita/persinari/2023",
+"acts": [
+{
+"slug": "hcl-dambovita--persinari-3-2023",
+"path": "local/dambovita/persinari/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 3/2023 alegerea preşedintelui de şedinţă a Consiliului Local al comunei Persinari pentru perioada februarie-aprilie 2022",
+"short": "HCL Perșinari nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://persinari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3641#41691",
+"council": "dambovita/persinari",
+"council_name": "Consiliul Local al Comunei Perșinari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--persinari-60-2023",
+"path": "local/dambovita/persinari/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perșinari nr. 60/2023",
+"short": "HCL Perșinari nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": null,
+"council": "dambovita/persinari",
+"council_name": "Consiliul Local al Comunei Perșinari",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

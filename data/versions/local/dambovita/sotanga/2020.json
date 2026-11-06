@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--sotanga-117-2020",
+   "path": "local/dambovita/sotanga/2020/117",
+   "short": "HCL Șotânga nr. 117/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 117/2020 privind anulare creante fiscale ale debitorilor aflati in stare de insolvabilitate pentru care s-a implinit termenul de prescriptie",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12913",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12913",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--sotanga-118-2020",
    "path": "local/dambovita/sotanga/2020/118",
    "short": "HCL Șotânga nr. 118/2020",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--sotanga-120-2020",
+   "path": "local/dambovita/sotanga/2020/120",
+   "short": "HCL Șotânga nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 120/2020 privind insusirea Strategiei anuale de achizitie publica pentru anul 2021 si a Programului anual al achizitiilor publice aferent anului 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12916",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12916",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--sotanga-121-2020",
    "path": "local/dambovita/sotanga/2020/121",
    "short": "HCL Șotânga nr. 121/2020",
@@ -88,6 +118,21 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/sotanga-db/registru-hcl/12917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-122-2020",
+   "path": "local/dambovita/sotanga/2020/122",
+   "short": "HCL Șotânga nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 122/2020 privind scutirea/reducerea taxei de habitat în anul fiscal 2021 a persoanelor singure/familiilor care s-au adresat cu cereri",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12918",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12918",
      "sha256": null
     }
    ]
@@ -108,6 +153,66 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--sotanga-124-2020",
+   "path": "local/dambovita/sotanga/2020/124",
+   "short": "HCL Șotânga nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 124/2020 privind aprobarea cotizatiei datorate de catre comuna Sotanga ca membru al Asociatiei de Dezvoltare Intercomunitara \"CIVITAS\" Targoviste, pentru anul 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12920",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-125-2020",
+   "path": "local/dambovita/sotanga/2020/125",
+   "short": "HCL Șotânga nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 125/2020 privind aprobarea cotizatiei datorate de catre comuna Sotanga ca membru al Asociatiei de Dezvoltare inercomunitara \"Management integrat al deseurilor in judetul Dambovita\", pentru anul 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12921",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-126-2020",
+   "path": "local/dambovita/sotanga/2020/126",
+   "short": "HCL Șotânga nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 126/2020 privind aprobarea cotizatiei datorate de catre comuna Sotanga ca membru al Asociatiei de Dezvoltare Intercomunitara \"APA DAMBOVITA\", pentru anul 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12922",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-127-2020",
+   "path": "local/dambovita/sotanga/2020/127",
+   "short": "HCL Șotânga nr. 127/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 127/2020 privind aprobarea cotizatiei datorate de catre comuna Sotanga in calitate de semnatara a Acordului de cooperare privind organizarea si exercitarea activitatii de audit public intern, pentru anul 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12923",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12923",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--sotanga-128-2020",
    "path": "local/dambovita/sotanga/2020/128",
    "short": "HCL Șotânga nr. 128/2020",
@@ -123,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--sotanga-129-2020",
+   "path": "local/dambovita/sotanga/2020/129",
+   "short": "HCL Șotânga nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 129/2020",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12925",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-130-2020",
+   "path": "local/dambovita/sotanga/2020/130",
+   "short": "HCL Șotânga nr. 130/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 130/2020 privind desemnarea reprezentantului comunei Sotanga in Asociatia GRUPUL DE ACTIUNE LOCALA \"VALEA IALOMITEI\"",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12926",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--sotanga-131-2020",
    "path": "local/dambovita/sotanga/2020/131",
    "short": "HCL Șotânga nr. 131/2020",
@@ -133,6 +268,21 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/sotanga-db/registru-hcl/12927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-132-2020",
+   "path": "local/dambovita/sotanga/2020/132",
+   "short": "HCL Șotânga nr. 132/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 132/2020 privind aprobarea cotizatiei datorate de catre comuna Sotanga in calitate de membru al Asociatiei GRUPUL DE ACTIUNE LOCALA \"VALEA IALOMITEI\", pentru anul 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12928",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12928",
      "sha256": null
     }
    ]
