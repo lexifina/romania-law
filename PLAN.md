@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**72.6%** of the plan is published, weighted by how binding each source is and how often it is used. **81.4%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 07:21 UTC.
+**72.6%** of the plan is published, weighted by how binding each source is and how often it is used. **81.4%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 07:24 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -43,7 +43,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 9,087 of 9,678 decrees · 93.9% | promulgation data on each law; normative decrees as acts | collecting |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 2,307 of 7,050 decisions · 32.7% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 72,758 of 193,163 acts; 7,436 of 10,115 laws (+2 more) · 48.0% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 73,185 of 193,163 acts; 7,436 of 10,115 laws (+2 more) · 48.1% | the Chamber of Deputies' act sheets and bill files | collecting |
 | Draft acts in public consultation | proiect/<initiator>/<year>/ | 0.9% | target unknown | official drafts and explanatory notes as published, each stage appended | collecting |
 | Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 193,163 of 193,163 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
