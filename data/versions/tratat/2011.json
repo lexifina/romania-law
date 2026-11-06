@@ -1,0 +1,1701 @@
+{
+ "country": "RO",
+ "shard": "tratat/2011",
+ "acts": [
+  {
+   "slug": "tratat-2011-01-09-acord",
+   "path": "tratat/2011/01-09-acord",
+   "short": "Acordul din 9 ianuarie 2011 (M. Of. nr. 231/2013)",
+   "title": "Acordul din 9 ianuarie 2011 între Guvernul României şi Guvernul Regatului Haşemit al Iordaniei privind dezvoltarea utilizării paşnice a energiei nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147215",
+   "versions": [
+    {
+     "from": "2013-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147215",
+     "sha256": "6f82db6151ccc2f4e9562eff7bd8343de17fc4ac21c5408306a5e2261acc5a05"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-01-12-acord",
+   "path": "tratat/2011/01-12-acord",
+   "short": "Acordul din 12 ianuarie 2011 (M. Of. nr. 887/2011)",
+   "title": "Acordul din 12 ianuarie 2011 între Guvernul României şi Guvernul Guernsey privind schimbul de informaţii în domeniul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133718",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133718",
+     "sha256": "d95616ddaf642b57f6fc820f442301c04941afaf56598859677a8f6e10ec3a8e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-01-12-memorandum",
+   "path": "tratat/2011/01-12-memorandum",
+   "short": "Memorandumul din 12 ianuarie 2011 (M. Of. nr. 99/2011)",
+   "title": "Memorandumul SUPLIMENTAR DE ÎNŢELEGERE din 12 ianuarie 2011 (al treilea addendum la Memorandumul de înţelegere) între Uniunea Europeană şi România*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126018",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126018",
+     "sha256": "5a2926a7f5a8115cfced31fbdfdd30f400d6b978e9536c9aeabec2fcda16393c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-01-13-memorandum",
+   "path": "tratat/2011/01-13-memorandum",
+   "short": "Memorandumul din 13 ianuarie 2011 (M. Of. nr. 665/2012)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 13 ianuarie 2011 între Ministerul Comunicaţiilor şi Societăţii Informaţionale din România şi Ministerul Industriei şi Tehnologiei Informaţiei din Republica Populară Chineză privind cooperarea în domeniul comunicaţiilor şi tehnologiei informaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141426",
+   "versions": [
+    {
+     "from": "2012-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141426",
+     "sha256": "46eaa9b57c0ec9a8fffc7a95becc980520335bb9a9d813f7df234c5eff6a51d3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-01-20-acord",
+   "path": "tratat/2011/01-20-acord",
+   "short": "Acordul din 20 ianuarie 2011 (M. Of. nr. 883/2011)",
+   "title": "Acordul din 20 ianuarie 2011 între România şi Agenţia Spaţială Europeană privind aderarea României la Convenţia pentru înfiinţarea Agenţiei Spaţiale Europene şi termenii şi condiţiile aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133713",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133713",
+     "sha256": "7290dd90933d93bfa719b4215b42dddd4a822f6225219552c35e5b76fe4e90f8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-01-20-protocol",
+   "path": "tratat/2011/01-20-protocol",
+   "short": "Protocolul din 20 ianuarie 2011 (M. Of. nr. 819/2011)",
+   "title": "Protocolul din 20 ianuarie 2011 între Guvernul României şi Guvernul Republicii Populare Democrate Coreene privind acordurile bilaterale încheiate în perioada 1956-1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133044",
+   "versions": [
+    {
+     "from": "2011-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133044",
+     "sha256": "af87145b2e5f6bfdfccc91e7a4d03fc13d48f1013186153588040e2929bc90e1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-01-28-amendament",
+   "path": "tratat/2011/01-28-amendament",
+   "short": "Amendamentul din 28 ianuarie 2011 (M. Of. nr. 538/2011)",
+   "title": "Amendamentul nr. 3 din 28 ianuarie 2011 la Contractul de finanţare FI N. 23.371 dintre România şi Banca Europeană de Investiţii pentru Proiectul de reconstrucţie a drumurilor afectate de inundaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130438",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130438",
+     "sha256": "ba2689b85c276b8af2a8f1b7de5a94769be4e3c802745128cd4bb7b18b58bfd0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-01-31-memorandum",
+   "path": "tratat/2011/01-31-memorandum",
+   "short": "Memorandumul din 31 ianuarie 2011 (M. Of. nr. 566/2011)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 31 ianuarie 2011 între Ministerul Apărării Naţionale din România şi ministrul Apărării din Regatul Ţărilor de Jos privind cooperarea în domeniul militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130679",
+   "versions": [
+    {
+     "from": "2011-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130679",
+     "sha256": "afa18871fb69919cd34e493555bfa02dea8854375c33cc07b57ca92a0227caf4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-02-acord",
+   "path": "tratat/2011/02-02-acord",
+   "short": "Acordul din 2 februarie 2011 (M. Of. nr. 433/2011)",
+   "title": "Acordul DE ÎMPRUMUT din 2 februarie 2011 (Al doilea împrumut pentru politici de dezvoltare) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129479",
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129479",
+     "sha256": "c9e723bcbaebc6ac48f5502b3c61d2256176be91357f56c0a5cd0352820d827c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-15-protocol",
+   "path": "tratat/2011/02-15-protocol",
+   "short": "Protocolul din 15 februarie 2011 (M. Of. nr. 542/2011)",
+   "title": "PROTOCOLUL din 15 februarie 2011 celei de-a opta reuniuni a Comisiei mixte româno-ungare pentru aplicarea prevederilor Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind cooperarea în domeniul protecţiei mediului - 14-15 februarie 2011, Oradea, România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130476",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130476",
+     "sha256": "304fcd5f92b78b25f20f44baad91c2b1b2c48bafdb2eac4e36b03e442b238f11"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-17-acord",
+   "path": "tratat/2011/02-17-acord",
+   "short": "Acordul din 17 februarie 2011 (M. Of. nr. 842/2011)",
+   "title": "Acordul din 17 februarie 2011 între Guvernul României şi Guvernul Regatului Arabiei Saudite privind dobândirea dreptului de proprietate asupra terenurilor de către misiunile diplomatice ale celor două state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133220",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133220",
+     "sha256": "a30d096bcd8f2ff20bab9a66f47877d185ecf57053991f852d767975d6151e1d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-18-acord",
+   "path": "tratat/2011/02-18-acord",
+   "short": "Acordul din 18 februarie 2011 (M. Of. nr. 236/2013)",
+   "title": "Acordul din 18 februarie 2011 privind RACVIAC - Centrul pentru Cooperare în Domeniul Securităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147281",
+   "versions": [
+    {
+     "from": "2013-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147281",
+     "sha256": "7d2abed8ee1d2d1703cc926b271cd71e04d8bf8dabd50b2436be2892698c3932"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-18-amendament",
+   "path": "tratat/2011/02-18-amendament",
+   "short": "Amendamentul din 18 februarie 2011 (M. Of. nr. 510/2011)",
+   "title": "Amendamentul din 18 februarie 2011 convenit prin scrisoarea semnată la Paris la 9 februarie 2011 şi la Bucureşti la 18 februarie 2011, între Guvernul României şi Agenţia Japoniei pentru Cooperare Internaţională, succesoare a Băncii Japoniei pentru Cooperare Internaţională, la Acordul de împrumut dintre România şi Banca Japoniei pentru Cooperare Internaţională privind Proiectul de reducere a poluării la Termocentrala Turceni, semnat la Bucureşti la 31 martie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130163",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130163",
+     "sha256": "7ea2869762902f2c01c6d450dc80c43b9d52865d5a5a4d1d419a7735a9225aba"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-24-protocol",
+   "path": "tratat/2011/02-24-protocol",
+   "short": "Protocolul din 24 februarie 2011 (M. Of. nr. 39/2012)",
+   "title": "Protocolul din 24 februarie 2011 între Ministerul Afacerilor Externe al României şi Ministerul Afacerilor Externe şi Integrării Europene al Republicii Moldova pentru completarea Înţelegerii dintre Ministerul Afacerilor Externe al României şi Ministerul Afacerilor Externe al Republicii Moldova privind punerea la dispoziţia Ambasadei României în Republica Moldova şi a Ambasadei Republicii Moldova în România, pe bază de reciprocitate, fără plata chiriei, a imobilelor şi apartamentelor cu suprafeţe locative echivalente pe care le au în folosinţă, semnată la Chişinău la 21 aprilie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134600",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134600",
+     "sha256": "ff2dff33ecdb686fef7cfc321a4b3235919d5599cbb974468523c4f7a1922016"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-28-acord",
+   "path": "tratat/2011/02-28-acord",
+   "short": "Acordul din 28 februarie 2011 (M. Of. nr. 548/2012)",
+   "title": "Acordul din 28 februarie 2011 între România şi Statul Israel în domeniul securităţii sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140255",
+   "versions": [
+    {
+     "from": "2012-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140255",
+     "sha256": "15f87707efd4f96bd456a1003409eec5a81bb9a355dd56bb6820ceea3c835134"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-02-28-protocol",
+   "path": "tratat/2011/02-28-protocol",
+   "short": "Protocolul din 28 februarie 2011 (M. Of. nr. 934/2011)",
+   "title": "Protocolul din 28 februarie 2011 între România şi Confederaţia Elveţiană de amendare a Convenţiei dintre România şi Confederaţia Elveţiană privind evitarea dublei impuneri cu privire la impozitele pe venit şi pe avere şi a Protocolului anexat, semnate la Bucureşti la 25 octombrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134148",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134148",
+     "sha256": "536ee17ea2df5bfdfc4a35e48993bb2fa1873bf9ee39e912be59c27f1a44e8d1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-02-acord",
+   "path": "tratat/2011/03-02-acord",
+   "short": "Acordul din 2 martie 2011 (M. Of. nr. 543/2011)",
+   "title": "ACORD-CADRU din 2 martie 2011 de cooperare între Guvernul României şi Oficiul Înaltului Comisar al Naţiunilor Unite pentru Refugiaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130458",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130458",
+     "sha256": "11a4bc0ff0e66e518675e8b3a3b11514eb9fe59f96c982e94b6c5ece66bc9842"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-03-amendament",
+   "path": "tratat/2011/03-03-amendament",
+   "short": "Amendamentul din 3 martie 2011 (M. Of. nr. 366/2011)",
+   "title": "Amendamentul din 3 martie 2011 convenit prin schimbul de scrisori semnate la Bucureşti la 3 martie 2011 şi la Paris la 5 aprilie 2011 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la 2 februarie 2007 la Bucureşti şi la 9 februarie 2007 la Paris, pentru finanţarea primei faze a Proiectului \"Sistem integrat de reabilitare a sistemelor de alimentare cu apă şi canalizare, a staţiilor de tratare a apei potabile şi staţiilor de epurare a apelor uzate în localităţile cu o populaţie de până la 50.000 locuitori\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128835",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128835",
+     "sha256": "a654ed48bb1c5182de764d0e93c87e71eee648fee62398beabe65b76410dc41f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-04-protocol",
+   "path": "tratat/2011/03-04-protocol",
+   "short": "Protocolul din 4 martie 2011 (M. Of. nr. 354/2011)",
+   "title": "PROTOCOLUL din 4 martie 2011 sesiunii a XXII-a a Comisiei hidrotehnice româno-ungare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128721",
+   "versions": [
+    {
+     "from": "2011-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128721",
+     "sha256": "4d81741023245e1f04ee9ed7ff440772db1d2ffa5e9963e93915fa64e7d11a58"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-09-amendament",
+   "path": "tratat/2011/03-09-amendament",
+   "short": "Amendamentul din 9 martie 2011 (M. Of. nr. 594/2011)",
+   "title": "Amendamentul nr. 5 din 9 martie 2011 convenit între Guvernul României, Banca Europeană de Investiţii şi Regia Autonomă \"Administraţia Fluvială a Dunării de Jos\" Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130954",
+   "versions": [
+    {
+     "from": "2011-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130954",
+     "sha256": "b460f398209e5e2f523cacf662db9eff97ec93ae1a196133136ecdc126509385"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-11-acord",
+   "path": "tratat/2011/03-11-acord",
+   "short": "Acordul din 11 martie 2011 (M. Of. nr. 294/2012)",
+   "title": "Acordul din 11 martie 2011 între România şi Canada privind localurile diplomatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137556",
+   "versions": [
+    {
+     "from": "2012-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137556",
+     "sha256": "c1459a0b9b98536358dd95c76be77a4cd4759bbb7e4b95c15b80f9c1616f033f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-11-amendament",
+   "path": "tratat/2011/03-11-amendament",
+   "short": "Amendamentul din 11 martie 2011 (M. Of. nr. 695/2011)",
+   "title": "Amendamentul nr. 3 din 11 martie 2011 la Contractul de finanţare dintre România, reprezentată de Ministerul Finanţelor Publice, Banca Europeană de Investiţii şi Compania Naţională de Autostrăzi şi Drumuri Naţionale din România - S.A., pentru finanţarea Proiectului privind construcţia autostrăzii Cernavodă-Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131869",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131869",
+     "sha256": "3736d84c8552de48e3ce26ce2d7aa2e734f643aab69db8d36d19c8faa5ff8bd4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-24-protocol",
+   "path": "tratat/2011/03-24-protocol",
+   "short": "Protocolul din 24 martie 2011 (M. Of. nr. 601/2011)",
+   "title": "Protocolul DE COOPERARE din 24 martie 2011 între Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Interne al Republicii Moldova în domeniul prevenirii şi combaterii traficului şi consumului ilicit de stupefiante, substanţe psihotrope şi precursori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131014",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131014",
+     "sha256": "f78108b79d2eb1508fb37c56de90d147dc39d9bfcf86a7d9f6355275e1eb9d51"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-28-program",
+   "path": "tratat/2011/03-28-program",
+   "short": "Programul din 28 martie 2011 (M. Of. nr. 290/2011)",
+   "title": "Programul din 28 martie 2011 de cooperare în domeniile culturii, educaţiei, tineretului şi sportului între Guvernul României şi Guvernul Republicii India pentru anii 2011-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127944",
+   "versions": [
+    {
+     "from": "2011-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127944",
+     "sha256": "3de014ec7c4c761b907732162652b398797574a767284e59944f60628a1ddfd3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-30-amendament",
+   "path": "tratat/2011/03-30-amendament",
+   "short": "Amendamentul din 30 martie 2011 (M. Of. nr. 557/2011)",
+   "title": "Amendamentul nr. 4 din 30 martie 2011 convenit prin schimb de scrisori, semnate la Bucureşti la 30 martie 2011 şi la Londra la 1 aprilie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130587",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130587",
+     "sha256": "5e1f50fe129c0ec78b8fbfd32050f35047458647da9f4520c30c839d88612b07"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-03-31-protocol",
+   "path": "tratat/2011/03-31-protocol",
+   "short": "Protocolul din 31 martie 2011 (M. Of. nr. 591/2011)",
+   "title": "Protocolul din 31 martie 2011 încheiat prin schimb de note verbale*) semnate la Stockholm la 23 decembrie 2010, 23 martie 2011 şi 31 martie 2011, de amendare a Acordului dintre Guvernul României şi Guvernul Suediei privind cooperarea în domeniile energie şi mediu, semnat la Stockholm la 16 decembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130913",
+   "versions": [
+    {
+     "from": "2011-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130913",
+     "sha256": "d7ae2a71033773e096b995eb1e99c1420a0a11f64ef918bf122355ef4ad6bc59"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-01-memorandum",
+   "path": "tratat/2011/04-01-memorandum",
+   "short": "Memorandumul din 1 aprilie 2011 (M. Of. nr. 339/2011)",
+   "title": "Memorandumul SUPLIMENTAR DE ÎNŢELEGERE din 1 aprilie 2011 între Uniunea Europeană şi România*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128553",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128553",
+     "sha256": "5be2e38fae70f9a9ac471006c61d930e36d20d89127491308582b271b246d4eb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-11-amendament",
+   "path": "tratat/2011/04-11-amendament",
+   "short": "Amendamentul din 11 aprilie 2011 (M. Of. nr. 691/2011)",
+   "title": "Amendamentul din 11 aprilie 2011 convenit între Guvernul României, prin Ministerul Finanţelor Publice, Banca Europeană de Investiţii şi Primăria Municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131828",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131828",
+     "sha256": "3425a4ab2e6213cced8726878cb373b4eec6ec4fae82ba4836f96838359a5b1c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-12-acord",
+   "path": "tratat/2011/04-12-acord",
+   "short": "Acordul din 12 aprilie 2011 (M. Of. nr. 643/2011)",
+   "title": "Acordul din 12 aprilie 2011 de colaborare între Ministerul Culturii şi Patrimoniului Naţional din România şi Ministerul Culturii din Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131319",
+   "versions": [
+    {
+     "from": "2011-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131319",
+     "sha256": "5c4989f8537201120687e20f0923ab79c6691b050cb504c0a52d5271746efbca"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-13-acord",
+   "path": "tratat/2011/04-13-acord",
+   "short": "Acordul din 13 aprilie 2011 (M. Of. nr. 19/2012)",
+   "title": "Acordul din 13 aprilie 2011 între Guvernul României şi Guvernul Republicii Socialiste Vietnam privind cooperarea în domeniul apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134388",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134388",
+     "sha256": "aacba4cbc06e92a6d01c24734da9119b96b639a138d718097c8cf37ee6ecb3b4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-18-acord-2",
+   "path": "tratat/2011/04-18-acord-2",
+   "short": "Acordul din 18 aprilie 2011 (M. Of. nr. 781/2012)",
+   "title": "Acordul din 18 aprilie 2011 privind cooperarea dintre Ministerul Agriculturii şi Dezvoltării Rurale din România şi Ministerul Agriculturii din Republica Azerbaidjan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142929",
+   "versions": [
+    {
+     "from": "2012-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142929",
+     "sha256": "e17e860718d0df9f32495f2f0a7cbf3c50d1aa6eb9418427992717d0094e0721"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-18-acord",
+   "path": "tratat/2011/04-18-acord",
+   "short": "Acordul din 18 aprilie 2011 (M. Of. nr. 821/2011)",
+   "title": "Acordul din 18 aprilie 2011 privind cooperarea în domeniul sănătăţii şi al ştiinţei medicale între Ministerul Sănătăţii al României şi Ministerul Sănătăţii al Republicii Azerbaidjan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133030",
+   "versions": [
+    {
+     "from": "2011-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133030",
+     "sha256": "24a06a6719c51f566c14d7f843349cc0612685e69c20c5e50c999b5369fb5ead"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-26-conventie",
+   "path": "tratat/2011/04-26-conventie",
+   "short": "Convenția din 26 aprilie 2011 (M. Of. nr. 917/2011)",
+   "title": "CONVENŢIE din 26 aprilie 2011 între Guvernul României şi Guvernul Regatului Arabiei Saudite pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134033",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134033",
+     "sha256": "0ee6b6ad2abf604ba452bd407e5a0801714d4f02cddd8b22e9e8b8d884135540"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-26-protocol",
+   "path": "tratat/2011/04-26-protocol",
+   "short": "Protocolul din 26 aprilie 2011 (M. Of. nr. 917/2011)",
+   "title": "Protocolul din 26 aprilie 2011 la Convenţia dintre Guvernul României şi Guvernul Regatului Arabiei Saudite pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134034",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134034",
+     "sha256": "89033ec26437f95310cbfcb7eab26ae303c41d5bb30ce341e07dd33822167b26"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-04-28-amendament",
+   "path": "tratat/2011/04-28-amendament",
+   "short": "Amendamentul din 28 aprilie 2011 (M. Of. nr. 744/2011)",
+   "title": "AMENDAMENTE din 28 aprilie 2011 convenite între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisoarea semnată la Washington la 6 aprilie 2011 şi la Bucureşti la 28 aprilie 2011, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind incluziunea socială, semnat la Bucureşti la 4 iulie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132384",
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132384",
+     "sha256": "caa7fea484663583d68f1fc2ad649f2f0e9d3f8d4c22cca4249f16a0630b2fc6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-05-11-protocol-2",
+   "path": "tratat/2011/05-11-protocol-2",
+   "short": "Protocolul din 11 mai 2011 (M. Of. nr. 236/2013)",
+   "title": "PROTOCOLUL ADIŢIONAL NAGOYA-KUALA LUMPUR din 11 mai 2011 privind răspunderea şi repararea prejudiciului, la Protocolul de la Cartagena privind biosecuritatea, adoptat la Montreal la 29 ianuarie 2000, la Convenţia privind diversitatea biologică (semnată la 5 iunie 1992 la Rio de Janeiro), semnat de către România la 11 mai 2011 la New York*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147278",
+   "versions": [
+    {
+     "from": "2013-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147278",
+     "sha256": "de0474ac3057a83e88eac99e31a2b419714ea27cbf96aa59a0423e96a213513a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-05-11-protocol",
+   "path": "tratat/2011/05-11-protocol",
+   "short": "Protocolul din 11 mai 2011 (M. Of. nr. 648/2011)",
+   "title": "Protocolul din 11 mai 2011 primei sesiuni a Comisiei hidrotehnice interguvernamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131393",
+   "versions": [
+    {
+     "from": "2011-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131393",
+     "sha256": "bf62f057f6d2edb6cfc745a6f7bf7bc56b75d42bda1355737ce47716754f673a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-05-11-regulament",
+   "path": "tratat/2011/05-11-regulament",
+   "short": "Regulamentul din 11 mai 2011 (M. Of. nr. 648/2011)",
+   "title": "Regulamentul din 11 mai 2011 de organizare şi funcţionare a Comisiei hidrotehnice interguvernamentale pentru aplicarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind cooperarea pentru protecţia şi utilizarea durabilă a apelor Prutului şi Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131394",
+   "versions": [
+    {
+     "from": "2011-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131394",
+     "sha256": "1608d5a5373fac998f69e33614ee173d396072a60a32725840967abf725624be"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-05-25-acord",
+   "path": "tratat/2011/05-25-acord",
+   "short": "Acordul din 25 mai 2011 (M. Of. nr. 163/2013)",
+   "title": "Acordul din 25 mai 2011 între statele membre ale Uniunii Europene, reunite în cadrul Consiliului, privind protecţia informaţiilor clasificate schimbate în interesul Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146379",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146379",
+     "sha256": "48c6d52da38d2d454c5d8ac5ec895f7399e023d9fb7ca187f96035f4e1dd683f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-05-27-protocol-2",
+   "path": "tratat/2011/05-27-protocol-2",
+   "short": "Protocolul din 27 mai 2011 (M. Of. nr. 413/2014)",
+   "title": "Protocolul din 27 mai 2011 privind turismul durabil la Convenţia-cadru privind protecţia şi dezvoltarea durabilă a Carpaţilor Bratislava, mai 2011*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158771",
+   "versions": [
+    {
+     "from": "2014-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158771",
+     "sha256": "dff19af4ec39389e57966a7cecf4a0f25e3ef993f557513573b207521f696646"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-05-27-protocol",
+   "path": "tratat/2011/05-27-protocol",
+   "short": "Protocolul din 27 mai 2011 (M. Of. nr. 202/2013)",
+   "title": "Protocolul din 27 mai 2011 pentru managementul durabil al pădurilor la Convenţia-cadru privind protecţia şi dezvoltarea durabilă a Carpaţilor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146822",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146822",
+     "sha256": "23c8986e534168bb40ebae72267e37a6c0205663c5eb91774d53fd2c0f6a257a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-05-31-acord",
+   "path": "tratat/2011/05-31-acord",
+   "short": "Acordul din 31 mai 2011 (M. Of. nr. 277/2012)",
+   "title": "Acordul din 31 mai 2011 între Guvernul României şi Guvernul Republicii Moldova privind înfiinţarea şi funcţionarea Centrului comun de contact Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137409",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137409",
+     "sha256": "c2eccc8a60843f089133b71c966c9f8f33011eeed510f469a007aa839cb1d776"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-08-protocol",
+   "path": "tratat/2011/06-08-protocol",
+   "short": "Protocolul din 8 iunie 2011 (M. Of. nr. 584/2012)",
+   "title": "Protocolul din 8 iunie 2011 între Guvernul României şi Guvernul Republicii Serbia pentru aplicarea Acordului dintre Comunitatea Europeană şi Republica Serbia privind readmisia persoanelor aflate în situaţie de şedere ilegală, semnat la Bruxelles la 18 septembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140563",
+   "versions": [
+    {
+     "from": "2012-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140563",
+     "sha256": "f888c5f05d344f278c439728b6ab008d7158bc577c67ae14d5ed62de9593e30e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-10-acord",
+   "path": "tratat/2011/06-10-acord",
+   "short": "Acordul din 10 iunie 2011 (M. Of. nr. 881/2012)",
+   "title": "Acordul din 10 iunie 2011 de cooperare ştiinţifică şi tehnologică între Ministerul Educaţiei, Cercetării, Tineretului şi Sportului din România şi Ministerul Ştiinţei, Tehnologiei şi Inovării din Republica Argentina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144102",
+   "versions": [
+    {
+     "from": "2012-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144102",
+     "sha256": "93c2114165a73b5f09b770d2eab1508fdba09a37ba5bd54c31986008510dbfdc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-14-amendament",
+   "path": "tratat/2011/06-14-amendament",
+   "short": "Amendamentul din 14 iunie 2011 (M. Of. nr. 859/2011)",
+   "title": "Amendamentul din 14 iunie 2011 convenit prin schimbul de scrisori semnate la Bucureşti la 23 februarie 2011, respectiv 23 martie 2011 şi 14 iunie 2011 şi la Washington la 14 martie 2011, respectiv 2 iunie 2011 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut (Proiect privind completarea sprijinului financiar acordat de Uniunea Europeană pentru restructurarea agriculturii) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 28 decembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133417",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133417",
+     "sha256": "75c2b0db9023328c31ecac05ac8bec0fa82d41d313ab7725e668413c47a3aae4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-15-acord",
+   "path": "tratat/2011/06-15-acord",
+   "short": "Acordul din 15 iunie 2011 (M. Of. nr. 165/2013)",
+   "title": "Acordul din 15 iunie 2011 între Guvernul României şi Guvernul Republicii Slovenia privind mormintele de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146398",
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146398",
+     "sha256": "8d6b54b9be629cc46e87d22a254593265ce3f3739f98959b39ffdfc7e3007162"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-21-acord",
+   "path": "tratat/2011/06-21-acord",
+   "short": "Acordul din 21 iunie 2011 (M. Of. nr. 200/2013)",
+   "title": "Acordul din 21 iunie 2011 între Guvernul României şi Guvernul Emiratelor Arabe Unite privind serviciile aeriene între şi dincolo de teritoriile lor respective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146831",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146831",
+     "sha256": "f44f1576b3eb23f0b0b6916331417bb3c764fc559305ddf8685c98150c454060"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-28-acord",
+   "path": "tratat/2011/06-28-acord",
+   "short": "Acordul din 28 iunie 2011 (M. Of. nr. 882/2011)",
+   "title": "ACORD-CADRU DE ÎMPRUMUT din 28 iunie 2011 între Uniunea Europeană, în calitate de Împrumutător, România, în calitate de Împrumutat, şi Banca Naţională a României, în calitate de Agent al Împrumutatului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133668",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133668",
+     "sha256": "2e0e26b68aec649c73e9b81f772ab28e62cf7e19bf6e1258ec300031340fc735"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-28-amendament",
+   "path": "tratat/2011/06-28-amendament",
+   "short": "Amendamentul din 28 iunie 2011 (M. Of. nr. 2/2012)",
+   "title": "Amendamentul din 28 iunie 2011 convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisorile semnate la 29 aprilie 2011 şi 28 iunie 2011 la Bucureşti şi la 15 iunie 2011 la Washington, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului privind serviciile municipale, semnat la Bucureşti la 24 iulie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134228",
+   "versions": [
+    {
+     "from": "2012-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134228",
+     "sha256": "2c357028208cadaddf10e9ece1b4b1dc818f00ba0d9501045d0a6ef7534c994c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-28-memorandum-2",
+   "path": "tratat/2011/06-28-memorandum-2",
+   "short": "Memorandumul din 28 iunie 2011 (M. Of. nr. 315/2012)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 28 iunie 2011 între Guvernul României şi Guvernul Republicii Moldova în domeniul comunicaţiilor şi tehnologiei informaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137769",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137769",
+     "sha256": "8206156bf66a39f9317c7a68364423caa751f118a1402e182837a3884fd8e652"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-28-memorandum-3",
+   "path": "tratat/2011/06-28-memorandum-3",
+   "short": "Memorandumul din 28 iunie 2011 (M. Of. nr. 617/2013)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 28 iunie 2011 între Ministerul Agriculturii şi Dezvoltării Rurale din România şi Ministerul Dezvoltării Rurale şi Alimentaţiei din Republica Elenă în domeniul agriculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151692",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151692",
+     "sha256": "2b6308a1f4505f3782896a76e71d74c9355afd054c024dad06c1e57a18ea46cb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-06-28-memorandum",
+   "path": "tratat/2011/06-28-memorandum",
+   "short": "Memorandumul din 28 iunie 2011 (M. Of. nr. 882/2011)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 28 iunie 2011 între Uniunea Europeană şi România*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133669",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133669",
+     "sha256": "ac2656dffb201a3cef33e344b6659fa1fc15cb363f7ce7e540bdbe873937ca61"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-07-05-acord-2",
+   "path": "tratat/2011/07-05-acord-2",
+   "short": "Acordul din 5 iulie 2011 (M. Of. nr. 594/2012)",
+   "title": "Acordul din 5 iulie 2011 între Guvernul României şi Guvernul Republicii Ungare privind stabilirea conexiunii autostrăzii între Arad-Nădlac (RO) şi Csanadpalota-Mako-Szeged (H)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140624",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140624",
+     "sha256": "8d1345120dae81a3fc5ec4557ebf3b1fcead4eac32244d8a42a3611b594817b4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-07-05-acord",
+   "path": "tratat/2011/07-05-acord",
+   "short": "Acordul din 5 iulie 2011 (M. Of. nr. 585/2012)",
+   "title": "Acordul din 5 iulie 2011 între Guvernul României şi Guvernul Republicii Ungare privind stabilirea conexiunii autostrăzii între Cluj-Napoca - Santăul Mare (RO) şi Nagykereki - Szolnok (H)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140546",
+   "versions": [
+    {
+     "from": "2012-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140546",
+     "sha256": "9a7aee0e461f92122e9741990b5b1e493a22f504257e69b5feb0ba5423f9736c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-07-06-memorandum",
+   "path": "tratat/2011/07-06-memorandum",
+   "short": "Memorandumul din 6 iulie 2011 (M. Of. nr. 769/2012)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 6 iulie 2011 între Ministerul Apărării Naţionale din România şi Organizaţia de Consultanţă, Comandă şi Control a NATO (NC3O), reprezentată de Agenţia de Consultanţă, Comandă şi Control a NATO (NC3A), referitor la cooperarea în cadrul activităţilor C4ISR*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142816",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142816",
+     "sha256": "dcda98c11e998c23e69574ba070e7a0577730a6ea47831f43f626145c2f19573"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-07-08-acord",
+   "path": "tratat/2011/07-08-acord",
+   "short": "Acordul din 8 iulie 2011 (M. Of. nr. 279/2012)",
+   "title": "Acordul DE ÎMPRUMUT din 8 iulie 2011 (Proiectul privind modernizarea sistemului de asistenţă socială) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137421",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137421",
+     "sha256": "47f6be5fd838048bf7fe04b7b753cc9c909cf937a4e3acc5ee952d4686fda8f8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-07-12-acord",
+   "path": "tratat/2011/07-12-acord",
+   "short": "Acordul din 12 iulie 2011 (M. Of. nr. 640/2011)",
+   "title": "Acordul din 12 iulie 2011 privind modificarea Memorandumului de înţelegere dintre autorităţile competente din România şi Republica Polonă privind cooperarea în schimbul de informaţii financiare având legătură cu spălarea banilor, semnat la data de 5 iulie 2002 la Varşovia*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131296",
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131296",
+     "sha256": "17b9cb133c7b8fe68e83576f1b756226801802b7277f85969d87de008821bb0d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-07-12-declaratie-2",
+   "path": "tratat/2011/07-12-declaratie-2",
+   "short": "Declarația din 12 iulie 2011 (M. Of. nr. 640/2011)",
+   "title": "DECLARAŢIE DE COOPERARE din 12 iulie 2011 între Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Agenţia de Informaţii Financiare a Republicii San Marino în domeniul schimbului de informaţii având legătură cu spălarea banilor şi finanţarea actelor de terorism*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131294",
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131294",
+     "sha256": "45c0689246f63545400069aa06f4764b589efd736676bc4412cf7f1d9ddf8517"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-07-12-declaratie",
+   "path": "tratat/2011/07-12-declaratie",
+   "short": "Declarația din 12 iulie 2011 (M. Of. nr. 640/2011)",
+   "title": "DECLARAŢIE DE COOPERARE din 12 iulie 2011 între Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor din România şi Agenţia de Investigaţii Financiare a Insulelor Virgine Britanice în domeniul schimbului de informaţii având legătură cu spălarea banilor şi finanţarea actelor de terorism*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131292",
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131292",
+     "sha256": "5b8b9ff3de8dce786959e2c9f1b3c98ce16d0f15b9b4d24489e877840759f097"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-08-10-protocol",
+   "path": "tratat/2011/08-10-protocol",
+   "short": "Protocolul din 10 august 2011 (M. Of. nr. 274/2012)",
+   "title": "AL DOILEA PROTOCOL ADIŢIONAL din 10 august 2011 dintre Guvernul României şi Guvernul Republicii Moldova la Acordul dintre Guvernul României şi Guvernul Republicii Moldova privind implementarea programului de asistenţă tehnică şi financiară în baza unui ajutor financiar nerambursabil în valoare de 100 milioane de euro acordat de România Republicii Moldova, semnat la Bucureşti la 27 aprilie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137383",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137383",
+     "sha256": "1f3b26dc296a394cc4c6f8f2a80c01dd07db054d8af02dc00f5db6212c4083ed"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-08-23-amendament",
+   "path": "tratat/2011/08-23-amendament",
+   "short": "Amendamentul din 23 august 2011 (M. Of. nr. 822/2012)",
+   "title": "AMENDAMENTE din 23 august 2011 convenite între Guvernul României şi KfW, prin scrisoarea semnată la Frankfurt am Main la 4 august 2011 şi la Bucureşti la 23 august 2011, la Acordul de împrumut dintre KfW, Frankfurt am Main, (KfW) şi România, semnat la Frankfurt am Main la 26 septembrie 2007, respectiv la Bucureşti la 28 decembrie 2007, pentru finanţarea Programului privind infrastructura municipală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143450",
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143450",
+     "sha256": "06e267d6f6e2e379a4a077b9e56023d188b7ef180d351897958c72df8bd80bb7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-08-program",
+   "path": "tratat/2011/09-08-program",
+   "short": "Programul din 8 septembrie 2011 (M. Of. nr. 793/2011)",
+   "title": "Programul din 8 septembrie 2011 de colaborare în domeniile culturii, educaţiei şi ştiinţei între Guvernul României şi Guvernul Republicii Armenia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132784",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132784",
+     "sha256": "ee0f62f255dab30081e0a83120bd6ac36b98b767bd7ff5f87612be7eefd5d895"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-09-amendament-2",
+   "path": "tratat/2011/09-09-amendament-2",
+   "short": "Amendamentul din 9 septembrie 2011 (M. Of. nr. 914/2011)",
+   "title": "Amendamentul din 9 septembrie 2011 convenit prin schimbul de scrisori semnate la Bucureşti la 9 septembrie 2011 şi la Paris la 15 septembrie 2011 între Guvernul României şi Banca de Dezvoltare a Consiliului Europei la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind dezvoltarea la nivel local de servicii comunitare de prevenire a separării copilului de familia sa, precum şi instruirea personalului aferent, semnat la Bucureşti la 29 ianuarie 2007 şi la Paris la 9 februarie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134003",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134003",
+     "sha256": "84f89243dd6630ba2801366ca7891a9baa26f93d424b91e8b014662c91613be7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-09-amendament-3",
+   "path": "tratat/2011/09-09-amendament-3",
+   "short": "Amendamentul din 9 septembrie 2011 (M. Of. nr. 23/2012)",
+   "title": "Amendamentul din 9 septembrie 2011 convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, prin scrisoare la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, destinat finanţării proiectului \"Iniţiativa Copiii Străzii\", semnat la Bucureşti la 22 noiembrie 2005 şi la Paris la 5 decembrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134457",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134457",
+     "sha256": "4da6e9753a3caef352b40cf02be618c76304dd1c9b73ef64e40010420638c4d1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-09-amendament",
+   "path": "tratat/2011/09-09-amendament",
+   "short": "Amendamentul din 9 septembrie 2011 (M. Of. nr. 829/2011)",
+   "title": "Amendamentul nr. 2 din 9 septembrie 2011 convenit prin scrisoarea semnată la Washington la 19 august 2011 şi la Bucureşti la 9 septembrie 2011 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut în valoare de 60,0 milioane dolari SUA dintre România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133129",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133129",
+     "sha256": "a53647c689f6504222810f1ded83701c859d8318dd7ed436aa29feabfcbe922b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-12-acord",
+   "path": "tratat/2011/09-12-acord",
+   "short": "Acordul din 12 septembrie 2011 (M. Of. nr. 80/2012)",
+   "title": "Acordul din 12 septembrie 2011 între Guvernul României şi Guvernul Republicii Islamice Pakistan privind cooperarea economică, ştiinţifică şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134891",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134891",
+     "sha256": "4f4a175f3d2c55e538244e8d00101ca18a8782c39f4532e561be8040ba5c2c02"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-15-acord",
+   "path": "tratat/2011/09-15-acord",
+   "short": "Acordul din 15 septembrie 2011 (M. Of. nr. 778/2012)",
+   "title": "Acordul DE COOPERARE din 15 septembrie 2011 în domeniul agriculturii între Ministerul Agriculturii şi Dezvoltării Rurale din România şi Ministerul Agriculturii şi Alimentaţiei din Republica Belarus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142914",
+   "versions": [
+    {
+     "from": "2012-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142914",
+     "sha256": "a1ec2b993bc4c3df7ee88dcaa789459d3dc810da50a30bb3dee86a8eac1740ed"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-20-protocol",
+   "path": "tratat/2011/09-20-protocol",
+   "short": "Protocolul din 20 septembrie 2011 (M. Of. nr. 181/2019)",
+   "title": "PROTOCOLUL DE LA NAGOYA din 20 septembrie 2011 privind accesul la resursele genetice şi împărţirea corectă şi echitabilă a beneficiilor care rezultă din utilizarea acestora la Convenţia privind diversitatea biologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211698",
+   "versions": [
+    {
+     "from": "2019-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211698",
+     "sha256": "cfb426d8fb1042738c6e17695d15bcab6c9c85813ae52f3761296abea4d27936"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-21-amendament",
+   "path": "tratat/2011/09-21-amendament",
+   "short": "Amendamentul din 21 septembrie 2011 (M. Of. nr. 51/2012)",
+   "title": "Amendamentul nr. 5 din 21 septembrie 2011 la Contractul de finanţare între România şi Banca Europeană de Investiţii pentru finanţarea Proiectului de reabilitare a infrastructurii şcolare din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134698",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134698",
+     "sha256": "1bcf15e65003fc3a4ee9d249c448da982e64459ad5c02b55be3a04c310c96d9b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-22-memorandum",
+   "path": "tratat/2011/09-22-memorandum",
+   "short": "Memorandumul din 22 septembrie 2011 (M. Of. nr. 266/2012)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 22 septembrie 2011 între Ministerul Transporturilor şi Infrastructurii din România şi Ministerul Transporturilor din Regatul Belgiei cu privire la cooperarea în domeniul lucrărilor de infrastructură pentru modernizarea, reabilitarea şi extinderea infrastructurii de transport în zona Bucureşti, incluzând complexul \"Gara de Nord\", cea mai importantă staţie de cale ferată din cadrul sectoarelor româneşti ale coridoarelor paneuropene de transport feroviar IV şi IX*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137305",
+   "versions": [
+    {
+     "from": "2012-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137305",
+     "sha256": "2079698092848e4d3412f78a999e3b4d270a753a1a8fd86fdd84defa2cbcb599"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-30-amendament-2",
+   "path": "tratat/2011/09-30-amendament-2",
+   "short": "Amendamentul din 30 septembrie 2011 (M. Of. nr. 686/2013)",
+   "title": "Amendamentul din 30 septembrie 2011 la Acordul de înfiinţare a Băncii Europene pentru Reconstrucţie şi Dezvoltare pentru a permite băncii să opereze în ţările din Regiunea Mediteranei Sudice şi de Est",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152452",
+   "versions": [
+    {
+     "from": "2013-11-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152452",
+     "sha256": "b5d1f80711dc63aa5aa493e592c107a25d60eeee06799bd93b57f66e06c71bc4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-30-amendament",
+   "path": "tratat/2011/09-30-amendament",
+   "short": "Amendamentul din 30 septembrie 2011 (M. Of. nr. 671/2012)",
+   "title": "Amendamentul din 30 septembrie 2011 la Acordul de înfiinţare a Băncii Europene pentru Reconstrucţie şi Dezvoltare pentru a permite utilizarea fondurilor speciale în ţările beneficiare şi în ţările potenţial beneficiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141506",
+   "versions": [
+    {
+     "from": "2012-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141506",
+     "sha256": "4cb6bf78cd6c0d5e23367d76098f005e2e2fca58665941aff621c4ff49a1813f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-30-rezolutie-2",
+   "path": "tratat/2011/09-30-rezolutie-2",
+   "short": "Rezoluția din 30 septembrie 2011 (M. Of. nr. 686/2013)",
+   "title": "REZOLUŢIA nr. 137 din 30 septembrie 2011 Amendament la Acordul de înfiinţare a Băncii Europene pentru Reconstrucţie şi Dezvoltare pentru a permite băncii să opereze în ţările din Regiunea Mediteranei Sudice şi de Est",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152443",
+   "versions": [
+    {
+     "from": "2013-11-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152443",
+     "sha256": "f89e626eaa2bca46c41c846d3d5a6ff7ecfef096901929eb9f74d4821ef2e143"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-09-30-rezolutie",
+   "path": "tratat/2011/09-30-rezolutie",
+   "short": "Rezoluția din 30 septembrie 2011 (M. Of. nr. 671/2012)",
+   "title": "Rezoluția nr. 138 din 30 septembrie 2011 Amendament la Acordul de înfiinţare a Băncii Europene pentru Reconstrucţie şi Dezvoltare pentru a permite utilizarea fondurilor speciale în ţările beneficiare şi în ţările potenţial beneficiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141505",
+   "versions": [
+    {
+     "from": "2012-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141505",
+     "sha256": "466d2665c6498f5f1ee82111d62dd692f341b3b3fd5972d689c80ff20b36cfb8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-04-protocol-2",
+   "path": "tratat/2011/10-04-protocol-2",
+   "short": "Protocolul din 4 octombrie 2011 (M. Of. nr. 715/2012)",
+   "title": "Protocolul ADIŢIONAL din 4 octombrie 2011 la Protocolul de modificare a Convenţiei dintre România şi Marele Ducat de Luxemburg pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi avere, semnată la Luxemburg la 14 decembrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142177",
+   "versions": [
+    {
+     "from": "2012-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142177",
+     "sha256": "7d431be509d19b814cf5da8ce91256bcf5517525069f479bb5eca3f9a77b8f76"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-04-protocol",
+   "path": "tratat/2011/10-04-protocol",
+   "short": "Protocolul din 4 octombrie 2011 (M. Of. nr. 715/2012)",
+   "title": "Protocolul din 4 octombrie 2011 de modificare a Convenţiei dintre România şi Marele Ducat de Luxemburg pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi avere, semnată la Luxemburg la 14 decembrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142176",
+   "versions": [
+    {
+     "from": "2012-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142176",
+     "sha256": "8933b3cb0665f2b4bd7814b3eb3f054f89cc90ddf4c42917dbc5f6ae4f68258a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-06-acord-2",
+   "path": "tratat/2011/10-06-acord-2",
+   "short": "Acordul din 6 octombrie 2011 (M. Of. nr. 302/2013)",
+   "title": "Acordul din 6 octombrie 2011 între Guvernul României şi Guvernul Republicii Macedonia cu privire la cooperarea economică şi tehnico-ştiinţifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148447",
+   "versions": [
+    {
+     "from": "2013-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148447",
+     "sha256": "293f00e7487eb084d88c28babbbca491fc6b9c03c9060a4dd9fa9c3f75f320d8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-06-acord",
+   "path": "tratat/2011/10-06-acord",
+   "short": "Acordul din 6 octombrie 2011 (M. Of. nr. 15/2012)",
+   "title": "Acordul din 6 octombrie 2011 între Guvernul României şi Guvernul Republicii Macedonia privind colaborarea în domeniul turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134351",
+   "versions": [
+    {
+     "from": "2012-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134351",
+     "sha256": "6b7de46aa26dac5aecb8d36969bf5035ba5e418833fa0ff902ed6ef62ccf08c3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-11-acord",
+   "path": "tratat/2011/10-11-acord",
+   "short": "Acordul din 11 octombrie 2011 (M. Of. nr. 16/2012)",
+   "title": "Acordul DE COFINANŢARE din 11 octombrie 2011 între Ministerul Dezvoltării Regionale şi Turismului şi Programul Naţiunilor Unite pentru Dezvoltare pentru realizarea proiectului-pilot \"Dezvoltarea urbană integrată în vederea reabilitării şi modernizării destinaţiilor turistice Borsec, Băile Herculane şi Sulina ca suport al activităţilor de turism durabil\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134368",
+   "versions": [
+    {
+     "from": "2012-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134368",
+     "sha256": "8a463bb801bd3b5e3c2d741d7d0798aa43a7270fdc1281bdc5d0805b44c5e7bd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-11-memorandum",
+   "path": "tratat/2011/10-11-memorandum",
+   "short": "Memorandumul din 11 octombrie 2011 (M. Of. nr. 16/2012)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 11 octombrie 2011 între Ministerul Dezvoltării Regionale şi Turismului şi Programul Naţiunilor Unite pentru Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134367",
+   "versions": [
+    {
+     "from": "2012-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134367",
+     "sha256": "474733aa6c2454a1b99a4c3443d54121150eaecba99caa5ea40b638d638fbf07"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-12-acord-2",
+   "path": "tratat/2011/10-12-acord-2",
+   "short": "Acordul din 12 octombrie 2011 (M. Of. nr. 501/2012)",
+   "title": "Acordul din 12 octombrie 2011 între Guvernul României şi Guvernul Republicii Bulgaria privind operaţiile transfrontaliere de poliţie aeriană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139826",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139826",
+     "sha256": "c77f81872f8c02a0033447da3bc9c3861c7902945908cf49f4b367b99a871ddf"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-12-acord",
+   "path": "tratat/2011/10-12-acord",
+   "short": "Acordul din 12 octombrie 2011 (M. Of. nr. 791/2011)",
+   "title": "Acordul din 12 octombrie 2011 între Ministerul Administraţiei şi Internelor din România şi Ministerul Afacerilor Interne din Republica Bulgaria privind cooperarea în domeniul învăţământului, instruirii şi calificării poliţiştilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132747",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132747",
+     "sha256": "b96dcd8b66de4b8a87376e39c422fa4089cd09a9819cfeffafe5fbd3cc24a7e6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-10-12-memorandum",
+   "path": "tratat/2011/10-12-memorandum",
+   "short": "Memorandumul din 12 octombrie 2011 (M. Of. nr. 658/2012)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 12 octombrie 2011 între Ministerul Economiei, Comerţului şi Mediului de Afaceri din România şi Ministerul Economiei, Energiei şi Turismului din Republica Bulgaria privind acţiunile pregătitoare pentru amenajări hidroelectrice pe fluviul Dunărea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141324",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141324",
+     "sha256": "7992379fbe89728a255cb0e09774a7723704398c17ba5b749b777019b5d9f7af"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-11-10-acord-2",
+   "path": "tratat/2011/11-10-acord-2",
+   "short": "Acordul din 10 noiembrie 2011 (M. Of. nr. 707/2012)",
+   "title": "Acordul din 10 noiembrie 2011 între Guvernul României şi Guvernul Republicii Arabe Egipt privind dobândirea dreptului de proprietate asupra terenurilor de către misiunile diplomatice ale celor două state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142040",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142040",
+     "sha256": "d3c51daa22f8b1a7c942b14b742f2cdaacd328941749f1b8028bd7021f1f0995"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-11-10-acord",
+   "path": "tratat/2011/11-10-acord",
+   "short": "Acordul din 10 noiembrie 2011 (M. Of. nr. 411/2012)",
+   "title": "Acordul din 10 noiembrie 2011 de cooperare dintre Ministerul Justiţiei al României şi Ministerul Justiţiei al Ucrainei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138953",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138953",
+     "sha256": "a81eabed4a4ec89a2d3ead1f8bbef57a1ea90f70ad8029a3bab8aec823998d0a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-11-22-acord",
+   "path": "tratat/2011/11-22-acord",
+   "short": "Acordul din 22 noiembrie 2011 (M. Of. nr. 707/2012)",
+   "title": "Acordul din 22 noiembrie 2011 între Guvernul României şi Guvernul Republicii Algeriene Democratice şi Populare privind dobândirea dreptului de proprietate asupra terenurilor de către misiunile diplomatice ale celor două state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142021",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142021",
+     "sha256": "4d0052b5c0c9455b648de29467f702be3015922cdbfe76905f6c29f220a47066"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-11-22-protocol",
+   "path": "tratat/2011/11-22-protocol",
+   "short": "Protocolul din 22 noiembrie 2011 (M. Of. nr. 724/2012)",
+   "title": "Protocolul din 22 noiembrie 2011 între Guvernul României şi Guvernul Republicii Algeriene Democratice şi Populare de amendare a Acordului dintre Guvernul Republicii Socialiste România şi Guvernul Republicii Algeriene Democratice şi Populare privind crearea Comisiei mixte româno-algeriene de cooperare economică, ştiinţifică şi tehnică, semnat la Alger la 13 martie 1972",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142274",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142274",
+     "sha256": "cbc52b004955e94189cfd66903af4b1f9c94e3cf000569db5078eb17fc5e2acb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-11-23-amendament",
+   "path": "tratat/2011/11-23-amendament",
+   "short": "Amendamentul din 23 noiembrie 2011 (M. Of. nr. 208/2012)",
+   "title": "Amendamentul din 23 noiembrie 2011 convenit prin schimbul de scrisori între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, pentru finanţarea Proiectului privind reabilitarea şi reforma sectorului de irigaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136695",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136695",
+     "sha256": "fba2628864b18494129652f98dc0fb8fd688c2c6856baf2a3e90cdb0cf17787d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-11-29-protocol",
+   "path": "tratat/2011/11-29-protocol",
+   "short": "Protocolul din 29 noiembrie 2011 (M. Of. nr. 818/2012)",
+   "title": "Protocolul din 29 noiembrie 2011 între Ministerul Administraţiei şi Internelor din România prin Inspectoratul General al Poliţiei de Frontieră şi Serviciul Grăniceri al Republicii Moldova privind consolidarea cooperării la nivel central şi teritorial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143410",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143410",
+     "sha256": "2f6ceeecc7697348f0e25274ab6cf586909f9025a253f61c868767b0b262ba0c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-02-amendament",
+   "path": "tratat/2011/12-02-amendament",
+   "short": "Amendamentul din 2 decembrie 2011 (M. Of. nr. 423/2012)",
+   "title": "Amendamentul din 2 decembrie 2011 convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, prin schimbul de scrisori semnate la Bucureşti la 2 decembrie 2011 şi la Paris la 6 decembrie 2011, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, destinat finanţării proiectului privind reabilitarea monumentelor istorice din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139085",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139085",
+     "sha256": "8aaf89f47cb7ff0335423f91037aead2a0c703b72735b8faa50a0539ba762c3c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-05-acord",
+   "path": "tratat/2011/12-05-acord",
+   "short": "Acordul din 5 decembrie 2011 (M. Of. nr. 105/2012)",
+   "title": "Acordul din 5 decembrie 2011 încheiat prin schimb de note verbale semnate la Bucureşti la 5 decembrie 2011 şi la Skopje la 28 decembrie 2011, pentru confirmarea încetării valabilităţii, în relaţiile dintre România şi Republica Macedonia, a Convenţiei dintre Guvernul Republicii Socialiste România şi Guvernul Republicii Socialiste Federative Iugoslavia privind colaborarea vamală, semnată la Bucureşti la 24 aprilie 1970",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135304",
+   "versions": [
+    {
+     "from": "2012-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135304",
+     "sha256": "2c6fa014956042ec8a84d8aa937317dc7fa6a48565248c47ee810ea146d45c7d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-05-protocol",
+   "path": "tratat/2011/12-05-protocol",
+   "short": "Protocolul din 5 decembrie 2011 (M. Of. nr. 512/2012)",
+   "title": "Protocolul DE IMPLEMENTARE din 5 decembrie 2011 dintre Guvernul României şi Guvernul Federaţiei Ruse, semnat la Moscova la 5 decembrie 2011, pentru aplicarea Acordului dintre Comunitatea Europeană şi Federaţia Rusă privind readmisia, semnat la Soci la 25 mai 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139944",
+   "versions": [
+    {
+     "from": "2012-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139944",
+     "sha256": "4e1c5ba8bcf22258a7577f1c8fe0bc9d7f37690ef890262663e97ac9de154885"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-06-regulament",
+   "path": "tratat/2011/12-06-regulament",
+   "short": "Regulamentul din 6 decembrie 2011 (M. Of. nr. 689/2012)",
+   "title": "Regulamentul din 6 decembrie 2011 de organizare şi funcţionare a Comisiei hidrotehnice interguvernamentale pentru aplicarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind cooperarea pentru protecţia şi utilizarea durabilă a apelor Prutului şi Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141743",
+   "versions": [
+    {
+     "from": "2012-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141743",
+     "sha256": "9a6396be95acecfb2e28b5608351aa74c685ff418eea005cb64a27b2389d8d85"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-07-amendament",
+   "path": "tratat/2011/12-07-amendament",
+   "short": "Amendamentul din 7 decembrie 2011 (M. Of. nr. 725/2012)",
+   "title": "Amendamentul nr. 4 din 7 decembrie 2011 convenit prin schimbul de scrisori dintre Guvernul României şi Banca Europeană de Investiţii, semnate la Bucureşti la 8 noiembrie 2011 şi 7 decembrie 2011 şi la Luxemburg la 8 martie 2012, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii şi Administraţia Naţională a Drumurilor pentru finanţarea Proiectului de reabilitare a drumurilor, etapa a V-a, semnat la Bucureşti la 8 martie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142289",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142289",
+     "sha256": "2b001dc8d68454dfa665c06596aba490364fd961cd00ba13d46c8887bb148f09"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-07-protocol",
+   "path": "tratat/2011/12-07-protocol",
+   "short": "Protocolul din 7 decembrie 2011 (M. Of. nr. 689/2012)",
+   "title": "PROTOCOLUL din 7 decembrie 2011 primei sesiuni extraordinare a Comisiei hidrotehnice interguvernamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141742",
+   "versions": [
+    {
+     "from": "2012-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141742",
+     "sha256": "acb7c41344936e4d595f5135d3ff5c4c647d64e58a9d26aa5063e53c67a51ae7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-08-amendament",
+   "path": "tratat/2011/12-08-amendament",
+   "short": "Amendamentul din 8 decembrie 2011 (M. Of. nr. 157/2012)",
+   "title": "AMENDAMENTE din 8 decembrie 2011 convenite între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin schimb de scrisori semnate la Bucureşti la 28 noiembrie 2011, la Bruxelles la 29 noiembrie 2011 şi la Bucureşti la 8 decembrie 2011, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului privind închiderea minelor, refacerea mediului şi regenerarea socioeconomică, semnat la Bucureşti la 28 ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136021",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136021",
+     "sha256": "8d0a750b1850a74d781a88292f1a3b66297a400863503a8f79523e9818d473af"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-12-acord-2",
+   "path": "tratat/2011/12-12-acord-2",
+   "short": "Acordul din 12 decembrie 2011 (M. Of. nr. 741/2012)",
+   "title": "Acordul din 12 decembrie 2011 între România şi Republica Bulgaria privind instituirea blocului funcţional de spaţiu aerian \"DANUBE FAB\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142489",
+   "versions": [
+    {
+     "from": "2012-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142489",
+     "sha256": "74a3039a691598b58f53e461db382d38bb035eec52558296d87619577aa35095"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-12-acord",
+   "path": "tratat/2011/12-12-acord",
+   "short": "Acordul din 12 decembrie 2011 (M. Of. nr. 18/2012)",
+   "title": "Acordul din 12 decembrie 2011 încheiat prin schimb de note verbale, pentru prelungirea Acordului dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind cooperarea în domeniul contracarării proliferării armelor de distrugere în masă şi promovarea relaţiilor militare şi de apărare, semnat la Washington la 30 martie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134379",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134379",
+     "sha256": "b33c11aea1b1ad8b4bff9e518839dfdd2ad4d1be3b17eb553d9526ead0168a07"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-12-memorandum",
+   "path": "tratat/2011/12-12-memorandum",
+   "short": "Memorandumul din 12 decembrie 2011 (M. Of. nr. 601/2012)",
+   "title": "Memorandumul DE COOPERARE din 12 decembrie 2011 între Comisia Naţională pentru Controlul Activităţilor Nucleare din România (CNCAN) şi Agenţia Naţională de Reglementare a Activităţilor Nucleare şi Radiologice din Republica Moldova (ANRANR) în domeniul securităţii radiologice şi al practicilor cu surse de radiaţii ionizante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140724",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140724",
+     "sha256": "87984a68cef0d1bee821460f32c323a6c9e5e4655685b3ee00c3140b387d1ecb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-14-acord",
+   "path": "tratat/2011/12-14-acord",
+   "short": "Acordul din 14 decembrie 2011 (M. Of. nr. 750/2012)",
+   "title": "Acordul din 14 decembrie 2011 între Guvernul României şi Guvernul Statelor Unite ale Americii pentru amendarea Acordului dintre Guvernul României şi Guvernul Statelor Unite ale Americii referitor la măsurile de protecţie a informaţiilor militare secrete de stat, încheiat la Washington D.C. la 21 iunie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142601",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142601",
+     "sha256": "a5b89b3ce533e00dd326b83046e8f8199a538f2a3011d8eac0aa265c8ba0f0ec"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-14-memorandum",
+   "path": "tratat/2011/12-14-memorandum",
+   "short": "Memorandumul din 14 decembrie 2011 (M. Of. nr. 128/2013)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 14 decembrie 2011 între Uniunea Europeană şi România, privind condiţionalităţile specifice de politică economică (primul memorandum suplimentar)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146021",
+   "versions": [
+    {
+     "from": "2013-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146021",
+     "sha256": "2e7a9ac5860ead7bb5e6e8604ab21be86a035a885a111a8de3860234b981413e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-15-amendament-2",
+   "path": "tratat/2011/12-15-amendament-2",
+   "short": "Amendamentul din 15 decembrie 2011 (M. Of. nr. 754/2012)",
+   "title": "AMENDAMENT*) din 15 decembrie 2011 convenit prin scrisorile semnate la Bucureşti la 15 decembrie 2011 şi la Paris la 20 decembrie 2011, între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut F/P 1556 (2006) dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind reconstrucţia drumurilor forestiere afectate de inundaţii şi corectarea torentelor din zonele forestiere, semnat la Bucureşti la 23 august 2007 şi la Paris la 30 august 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142680",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142680",
+     "sha256": "171d381c0063f5a2a5228fd85967c48312b7ba5acdf08f447236c26f321511f0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-15-amendament-3",
+   "path": "tratat/2011/12-15-amendament-3",
+   "short": "Amendamentul din 15 decembrie 2011 (M. Of. nr. 789/2012)",
+   "title": "Amendamentul din 15 decembrie 2011 convenit între Guvernul României, prin Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin schimbul de scrisori*) la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului privind serviciile municipale, semnat la Bucureşti la 24 iulie 2006, ratificat prin Legea nr. 124/2007 , cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143089",
+   "versions": [
+    {
+     "from": "2012-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143089",
+     "sha256": "072f3bb30741f189970d0b759c9a2d4a00ca18d721c2c3a4821af60c0446b572"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-15-amendament",
+   "path": "tratat/2011/12-15-amendament",
+   "short": "Amendamentul din 15 decembrie 2011 (M. Of. nr. 390/2012)",
+   "title": "Amendamentul din 15 decembrie 2011 convenit între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin scrisoarea semnată la Washington şi la Bucureşti la 15 decembrie 2011, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind reforma sectorului sanitar - faza a II-a, semnat la Bucureşti la 28 ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138725",
+   "versions": [
+    {
+     "from": "2012-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138725",
+     "sha256": "07b8c8aaddab62696d6ea8ca9d8f3178b777253b76d80f26bdea07ac7800d64c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-16-contract-2",
+   "path": "tratat/2011/12-16-contract-2",
+   "short": "Contractul din 16 decembrie 2011 (M. Of. nr. 156/2013)",
+   "title": "Contractul DE FINANŢARE din 16 decembrie 2011 între România şi Banca Europeană de Investiţii*) Linia 5 de metrou Bucureşti - secţiunea II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146353",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146353",
+     "sha256": "ffb18253002d01a03f5dcb9a0108af91d71f6578c756669f0fb16a7fd4a2bb0a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-16-contract",
+   "path": "tratat/2011/12-16-contract",
+   "short": "Contractul din 16 decembrie 2011 (M. Of. nr. 530/2012)",
+   "title": "Contractul DE FINANŢARE din 16 decembrie 2011 între România şi Banca Europeană de Investiţii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140110",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140110",
+     "sha256": "98ca6585ef6b3e39a1ffe31351d35d0fedbbaaf01feb34c89dbe2fc8c5fc5e43"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-20-acord-2",
+   "path": "tratat/2011/12-20-acord-2",
+   "short": "Acordul din 20 decembrie 2011 (M. Of. nr. 553/2012)",
+   "title": "Acordul din 20 decembrie 2011 dintre Guvernul României şi Guvernul Federaţiei Ruse încheiat prin schimb de note verbale, semnate la Bucureşti la 1 aprilie 2011 şi 20 decembrie 2011, privind modificarea Acordului dintre Guvernul României şi Guvernul Federaţiei Ruse privind călătoriile reciproce ale cetăţenilor, semnat la Bucureşti la 26 august 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140310",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140310",
+     "sha256": "7a63859b993fcbd2c20dd4e05db2c4f3f2ee9c18cd6acb837294773632e0324d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-20-acord",
+   "path": "tratat/2011/12-20-acord",
+   "short": "Acordul din 20 decembrie 2011 (M. Of. nr. 911/2011)",
+   "title": "Acordul DE ÎMPRUMUT din 20 decembrie 2011 între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133972",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133972",
+     "sha256": "fe5793898348238efc2e9bc477beb8caa98cfce64fafecd3de4e5026263c10ff"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-21-acord",
+   "path": "tratat/2011/12-21-acord",
+   "short": "Acordul din 21 decembrie 2011 (M. Of. nr. 154/2012)",
+   "title": "Acordul din 21 decembrie 2011 dintre Guvernul României şi Guvernul Confederaţiei Elveţiene convenit prin schimb de scrisori, semnate la Bucureşti la 27 septembrie 2011 şi, respectiv, la Bucureşti la 21 decembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155519",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155519",
+     "sha256": "aa98f548e1239d3d0320f2a8ef98a97176a889716b62742a7b9fe39fa0eb7608"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-22-amendament-2",
+   "path": "tratat/2011/12-22-amendament-2",
+   "short": "Amendamentul din 22 decembrie 2011 (M. Of. nr. 468/2013)",
+   "title": "AMENDAMENTE din 22 decembrie 2011 la Acordul de garanţie dintre statele membre ale Uniunii Europene şi Banca Europeană de Investiţii privind împrumuturile care vor fi acordate de către Banca Europeană de Investiţii pentru proiectele de investiţii din statele din Africa, Caraibe şi Pacific şi din ţările şi teritoriile de peste mări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150185",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150185",
+     "sha256": "d088ae4a0ba4b12f527d9928021a9c7e00fcdc9cf30f8b04fef651863a22034b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-22-amendament",
+   "path": "tratat/2011/12-22-amendament",
+   "short": "Amendamentul din 22 decembrie 2011 (M. Of. nr. 558/2012)",
+   "title": "Amendamentul din 22 decembrie 2011 convenit prin schimbul de scrisori între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, semnate la Bucureşti la 22 decembrie 2011 şi la Paris la 9 ianuarie 2012, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Bucureşti la 28 iulie 2005 şi la Paris la 1 august 2005, pentru finanţarea Proiectului de reabilitare a porţiunilor din reţeaua rutieră şi feroviară deteriorate de inundaţiile din primăvara anului 2005 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140346",
+   "versions": [
+    {
+     "from": "2012-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140346",
+     "sha256": "941d2e690c44bea6d602309ccbf4d3e3e04f9f0f393d0358da5ddcdebb981dde"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-23-amendament",
+   "path": "tratat/2011/12-23-amendament",
+   "short": "Amendamentul din 23 decembrie 2011 (M. Of. nr. 692/2012)",
+   "title": "Amendamentul din 23 decembrie 2011 (M. Of. nr. 692/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141825",
+   "versions": [
+    {
+     "from": "2012-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141825",
+     "sha256": "c0455dbcb2bfe827af48bed612898744b8307de6a6748d1c80a45f1805dfe53a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2011-12-28-amendament",
+   "path": "tratat/2011/12-28-amendament",
+   "short": "Amendamentul din 28 decembrie 2011 (M. Of. nr. 386/2012)",
+   "title": "Amendamentul din 28 decembrie 2011 pentru finanţarea proiectului \"Reforma educaţiei timpurii în România\", aprobat prin Hotărârea Guvernului nr. 1.454/2007 , cu completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138670",
+   "versions": [
+    {
+     "from": "2012-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138670",
+     "sha256": "a8db8f94f3c63f21ae48a09ba5a0e164bd1a28d9371e5017ddb161adfbae2c98"
+    }
+   ]
+  }
+ ]
+}

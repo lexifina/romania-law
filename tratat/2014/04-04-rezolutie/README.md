@@ -1,0 +1,17 @@
+# REZOLUŢIE MEPC. 251(66) din 4 aprilie 2014 privind Amendamentele la anexa Protocolului din 1997 privind amendarea Convenţiei internaţionale din 1973 pentru prevenirea poluării de către nave, aşa cum a fost modificată prin Protocolul din 1978 referitor la aceasta (Amendamente la regulile 2, 13, 19, 20 şi 21 şi la Suplimentul la Certificatul IAPP în conformitate cu anexa VI la MARPOL şi la dispoziţiile referitoare la certificarea motoarelor cu combustibil mixt în conformitate cu Codul tehnic NO(x) 2008)
+
+Rezoluția din 4 aprilie 2014 (M. Of. nr. 266/2015) · 1 versions, from 2015-04-21 (latest in force: 2015-04-21) · <https://legislatie.just.ro/Public/DetaliiDocument/167313>
+
+**Status:** Published as it appeared in the Monitorul Oficial, with the act that ratifies or approves it; its entry into force and any later amendment are not recorded here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `tratat-2014-04-04-rezolutie` (tags `tratat-2014-04-04-rezolutie/<day>`; `python tools/on.py <day> tratat-2014-04-04-rezolutie`).
+
+## Decisions made by hand
+
+- Rezoluția din 4 aprilie 2014 (M. Of. nr. 266/2015): added by Lexifina's treaties source lane from the official web service of the Portalul legislativ (document 167313, an "Act Internațional"), the text as published in Monitorul Oficial nr. 266 of 21 April 2015. Published as it appeared in the Monitorul Oficial, with the act that ratifies or approves it; its entry into force and any later amendment are not recorded here.
+- Rezoluția din 4 aprilie 2014 (M. Of. nr. 266/2015): a treaty has no number of its own, so its folder is named by its signing day and type (tratat/2014/04-04-rezolutie).
+- Rezoluția din 4 aprilie 2014 (M. Of. nr. 266/2015): published in the same Monitorul Oficial issue as legea-81-2015, ws-167312, which names its signing day (linked offline: data/treaty-links.csv); that act ratifies or approves it.

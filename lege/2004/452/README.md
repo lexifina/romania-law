@@ -1,0 +1,17 @@
+# Legea nr. 452/2004 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 56/2004 privind crearea statutului special al funcţionarului public denumit manager public
+
+Legea nr. 452/2004 · 1 versions, from 2004-11-12 (latest in force: 2004-11-12) · <https://legislatie.just.ro/Public/DetaliiDocument/56477>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `legea-452-2004` (tags `legea-452-2004/<day>`; `python tools/on.py <day> legea-452-2004`).
+
+## Decisions made by hand
+
+- Legea nr. 452/2004: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 56477, retrieved 2026-11-04).
+- Legea nr. 452/2004: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- Legea nr. 452/2004: the first version is the law as published in Monitorul Oficial nr. 1.034 of 9 November 2004 (document 56477 of the official web service), dated 12 November 2004: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- Legea nr. 452/2004: the law has a single article ("Articol unic"), filed as art-001.
+- Legea nr. 452/2004: AMENDMENTS NOT APPLIED. Later acts change this act (by: NORMĂ SANITARA VETERINARA din 23 decembrie 2003 privind stabilirea principiilor și liniilor directoare referitoare la bu; DECIZIE nr. 340 din 4 decembrie 2001 referitoare la excepțiile de neconstituționalitate a prevederilor art. 9 alin. (5),; ORDONANȚĂ DE URGENȚĂ nr. 7 din 10 februarie 2005 pentru modificarea și completarea Legii nr. 508/2004 privind înființare; HG nr. 783/2005; Legea nr. 251/2006; Legea nr. 188/1999; HG nr. 1267/2007), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 56477, retrieved 2026-11-04; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.
