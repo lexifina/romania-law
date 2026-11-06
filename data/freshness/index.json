@@ -4193,10 +4193,10 @@
    "file": "data/freshness/local/botosani/botosani/2022.csv",
    "count": 21,
    "by_status": {
-    "current": 21,
+    "current": 16,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 5,
     "source-unavailable": 0
    }
   },
@@ -9859,9 +9859,9 @@
    "shard": "local/judet/salaj/2000",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2000.csv",
-   "count": 8,
+   "count": 30,
    "by_status": {
-    "current": 8,
+    "current": 30,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9872,9 +9872,9 @@
    "shard": "local/judet/salaj/2001",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2001.csv",
-   "count": 7,
+   "count": 74,
    "by_status": {
-    "current": 7,
+    "current": 74,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9885,9 +9885,9 @@
    "shard": "local/judet/salaj/2002",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2002.csv",
-   "count": 7,
+   "count": 73,
    "by_status": {
-    "current": 7,
+    "current": 73,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9898,9 +9898,9 @@
    "shard": "local/judet/salaj/2003",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2003.csv",
-   "count": 4,
+   "count": 88,
    "by_status": {
-    "current": 4,
+    "current": 88,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9911,9 +9911,9 @@
    "shard": "local/judet/salaj/2004",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2004.csv",
-   "count": 7,
+   "count": 120,
    "by_status": {
-    "current": 7,
+    "current": 120,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9924,9 +9924,9 @@
    "shard": "local/judet/salaj/2005",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2005.csv",
-   "count": 8,
+   "count": 152,
    "by_status": {
-    "current": 8,
+    "current": 152,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9937,9 +9937,9 @@
    "shard": "local/judet/salaj/2006",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2006.csv",
-   "count": 5,
+   "count": 126,
    "by_status": {
-    "current": 5,
+    "current": 126,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9950,9 +9950,9 @@
    "shard": "local/judet/salaj/2007",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2007.csv",
-   "count": 1,
+   "count": 104,
    "by_status": {
-    "current": 1,
+    "current": 104,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9963,9 +9963,9 @@
    "shard": "local/judet/salaj/2008",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2008.csv",
-   "count": 9,
+   "count": 185,
    "by_status": {
-    "current": 9,
+    "current": 185,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9976,9 +9976,9 @@
    "shard": "local/judet/salaj/2009",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2009.csv",
-   "count": 6,
+   "count": 144,
    "by_status": {
-    "current": 6,
+    "current": 144,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -9989,9 +9989,9 @@
    "shard": "local/judet/salaj/2010",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2010.csv",
-   "count": 9,
+   "count": 132,
    "by_status": {
-    "current": 9,
+    "current": 132,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10002,9 +10002,9 @@
    "shard": "local/judet/salaj/2011",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2011.csv",
-   "count": 11,
+   "count": 154,
    "by_status": {
-    "current": 11,
+    "current": 154,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10015,9 +10015,9 @@
    "shard": "local/judet/salaj/2012",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2012.csv",
-   "count": 10,
+   "count": 140,
    "by_status": {
-    "current": 10,
+    "current": 140,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10028,9 +10028,9 @@
    "shard": "local/judet/salaj/2013",
    "kind": "local",
    "file": "data/freshness/local/judet/salaj/2013.csv",
-   "count": 46,
+   "count": 116,
    "by_status": {
-    "current": 46,
+    "current": 116,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12264,12 +12264,12 @@
    "shard": "norma/2025",
    "kind": "norma",
    "file": "data/freshness/norma/2025.csv",
-   "count": 22,
+   "count": 23,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 22,
+    "unverified": 23,
     "source-unavailable": 0
    }
   },
@@ -13148,12 +13148,12 @@
    "shard": "ordin/2020",
    "kind": "ordin",
    "file": "data/freshness/ordin/2020.csv",
-   "count": 1221,
+   "count": 1223,
    "by_status": {
     "current": 13,
     "pending-change": 2,
     "stale": 0,
-    "unverified": 1206,
+    "unverified": 1208,
     "source-unavailable": 0
    }
   },
@@ -13174,12 +13174,12 @@
    "shard": "ordin/2022",
    "kind": "ordin",
    "file": "data/freshness/ordin/2022.csv",
-   "count": 1266,
+   "count": 1267,
    "by_status": {
     "current": 18,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 1247,
+    "unverified": 1248,
     "source-unavailable": 0
    }
   },
@@ -13187,12 +13187,12 @@
    "shard": "ordin/2023",
    "kind": "ordin",
    "file": "data/freshness/ordin/2023.csv",
-   "count": 1233,
+   "count": 1236,
    "by_status": {
     "current": 8,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1225,
+    "unverified": 1228,
     "source-unavailable": 0
    }
   },
@@ -13200,12 +13200,12 @@
    "shard": "ordin/2024",
    "kind": "ordin",
    "file": "data/freshness/ordin/2024.csv",
-   "count": 1150,
+   "count": 1151,
    "by_status": {
     "current": 19,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1131,
+    "unverified": 1132,
     "source-unavailable": 0
    }
   },
@@ -13213,12 +13213,12 @@
    "shard": "ordin/2025",
    "kind": "ordin",
    "file": "data/freshness/ordin/2025.csv",
-   "count": 995,
+   "count": 996,
    "by_status": {
     "current": 11,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 984,
+    "unverified": 985,
     "source-unavailable": 0
    }
   },
@@ -14422,12 +14422,12 @@
    "shard": "regulament/2019",
    "kind": "regulament",
    "file": "data/freshness/regulament/2019.csv",
-   "count": 16,
+   "count": 17,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 16,
+    "unverified": 17,
     "source-unavailable": 0
    }
   },
@@ -14435,12 +14435,12 @@
    "shard": "regulament/2020",
    "kind": "regulament",
    "file": "data/freshness/regulament/2020.csv",
-   "count": 33,
+   "count": 35,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 33,
+    "unverified": 35,
     "source-unavailable": 0
    }
   },
@@ -14448,12 +14448,12 @@
    "shard": "regulament/2021",
    "kind": "regulament",
    "file": "data/freshness/regulament/2021.csv",
-   "count": 23,
+   "count": 24,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 23,
+    "unverified": 24,
     "source-unavailable": 0
    }
   },
@@ -14461,12 +14461,12 @@
    "shard": "regulament/2022",
    "kind": "regulament",
    "file": "data/freshness/regulament/2022.csv",
-   "count": 25,
+   "count": 28,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 25,
+    "unverified": 28,
     "source-unavailable": 0
    }
   },
@@ -14474,12 +14474,12 @@
    "shard": "regulament/2023",
    "kind": "regulament",
    "file": "data/freshness/regulament/2023.csv",
-   "count": 21,
+   "count": 22,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 21,
+    "unverified": 22,
     "source-unavailable": 0
    }
   },
@@ -14487,12 +14487,12 @@
    "shard": "regulament/2024",
    "kind": "regulament",
    "file": "data/freshness/regulament/2024.csv",
-   "count": 26,
+   "count": 29,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 26,
+    "unverified": 29,
     "source-unavailable": 0
    }
   },
@@ -14513,12 +14513,12 @@
    "shard": "regulament/2026",
    "kind": "regulament",
    "file": "data/freshness/regulament/2026.csv",
-   "count": 10,
+   "count": 12,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 10,
+    "unverified": 12,
     "source-unavailable": 0
    }
   },

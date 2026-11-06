@@ -37,7 +37,16 @@ KIND_NAMES = {'constitutie': 'Constituția', 'lege': 'Laws (legi)', 'oug': 'Emer
 ORDER_KINDS = {'ordin': 'Ministerial and authority orders (ordine)', 'norma': 'Norms (norme)',
                'regulament': 'Regulations (regulamente)', 'instructiuni': 'Instructions (instrucțiuni)',
                'precizari': 'Clarifications (precizări)', 'metodologie': 'Methodologies (metodologii)',
-               'criterii': 'Criteria (criterii)'}
+               'criterii': 'Criteria (criterii)',
+               # the normative acts autonomous authorities issue under other names (sources/norms, 2026-11-06): BNR
+               # circulars and board decisions, the decisions of ASF, ANCOM, CNA and the other regulators; numbered per
+               # issuer and year like an order: circulara/bnr/2026/27/, hotarare/bnr/2010/5/, decizie/ancom/2024/123/
+               'circulara': 'Circulars of authorities (circulare)',
+               'hotarare': "Decisions of authorities' boards (hotărâri)",
+               'decizie': 'Decisions of authorities (decizii)'}
+# The kinds added on 2026-11-06 share a first word with the lane roots decizie-bec and hotarare-aep: an id of those
+# roots is never read as one of these kinds (act_path below).
+NEW_ORDER_KINDS = ('circulara', 'hotarare', 'decizie')
 KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **ORDER_KINDS,
               'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
 # The publish-first source lanes (approved 2026-11-04; sources/<lane>/ready, built into parts by
@@ -128,6 +137,8 @@ def act_path(slug: str, title: str = '') -> str:
     if m:
         return f'{KINDS[m.group(1)]}/{m.group(3)}/{int(m.group(2))}'
     m = ORDER_SLUG_RE.match(slug)
+    if m and m.group(1) in NEW_ORDER_KINDS and LANE_SLUG.match(slug):
+        m = None  # decizie-bec-..., hotarare-aep-...: a lane root's id, not an authority's decision
     if m:  # ordin-justitie-492-c-2012 -> ordin/justitie/2012/492-c
         return f'{m.group(1)}/{m.group(2)}/{m.group(5)}/{int(m.group(3))}' + (f'-{m.group(4)}' if m.group(4) else '')
     for rx, path in LOCAL_SLUGS:  # hcgmb-67-2004 -> local/bucuresti/cgmb/2004/67 (before the title rules: a local
@@ -222,6 +233,7 @@ ISSUER_NAMES: dict[str, str] = {
     'cmdpd': 'Consiliul de Monitorizare a Implementării Convenției privind Drepturile Persoanelor cu Dizabilități',
     'cnas': 'Casa Națională de Asigurări de Sănătate',
     'cncan': 'Comisia Națională pentru Controlul Activităților Nucleare',
+    'cna': 'Consiliul Național al Audiovizualului',
     'cncd': 'Consiliul Național pentru Combaterea Discriminării',
     'cnpp': 'Casa Națională de Pensii Publice',
     'cnvm': 'Comisia Națională a Valorilor Mobiliare (to 2013, now ASF)',
