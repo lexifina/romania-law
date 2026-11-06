@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/lupeni/2019",
  "acts": [
   {
+   "slug": "hcl-hunedoara--lupeni-1-2019",
+   "path": "local/hunedoara/lupeni/2019/1",
+   "short": "HCL Lupeni nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 1/2019 privind modificarea și completarea Hotărârii Consiliului local al Municipiului Lupeni nr. 134 2018",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/5454875255BDFEE3C225872C0038E247/$FILE/HCL-1_3-IANUARIE-2019-privind-modificarea-%C8%99i-completarea-Hot%C4%83r%C3%A2rii-Consiliului-local-al-Municipiului-Lupeni-nr.-134-2018.pdf",
+     "sha256": "4b9b9b22ae65d2145ce5c8ab745525def2c3e151986a434c79e2f5c3bf31932d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-10-2019",
    "path": "local/hunedoara/lupeni/2019/10",
    "short": "HCL Lupeni nr. 10/2019",
@@ -14,6 +29,111 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/EC2E14521F1BFCF7C225872C0038E75D/$FILE/HCL-10_14-FEBRUARIE-2019-act-aditional-parteneriat-Greenline.docx.pdf",
      "sha256": "281b33dca0c2c75919b401a8952c27d6583e4cddac870d181a7cb6095950c8b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-100-2019",
+   "path": "local/hunedoara/lupeni/2019/100",
+   "short": "HCL Lupeni nr. 100/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 100/2019 privind aprobarea transmiterii unui teren în suprafață de 11.930 m2 înscris în CF nr. 62716 Lupeni, nr. cadastral 62716 aflat în proprietatea Municipiului Lupeni, din administrarea Consiliului local al Municipiului Lupeni în administrarea Consiliului Județean Hundoara hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni; Având în vedere",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/B302A7B438AB6AF2C225872C00394D4D/$FILE/HCL-100-2019-Transfer-drept-de-administrare-teren-la-Consiliul-Jude%C8%9Bean.pdf",
+     "sha256": "7c6c810f3b5c358c738f8700f082099a62f76a8a2c2d672cbdb786250d37c20a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-103-2019",
+   "path": "local/hunedoara/lupeni/2019/103",
+   "short": "HCL Lupeni nr. 103/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 103/2019 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Lupeni nr. 5/ 2019 privind aprobarea Listei anuale de priorități pentru repartizarea locuințelor ANL din Municipiul Lupeni, județul Hunedoara hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni, Având în vedere Proiectul de hotărâre nr. 102/ 2019 precum și Ref",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/E62E9672E0CB5229C225872C00394E70/$FILE/HCL-103-2019-Modificare-list%C4%83-de-priorit%C4%83%C8%9Bi-ANL.pdf",
+     "sha256": "7323b7c6ba10b454dc7bdac233795fb320bee7d87a3ce82fca7ea82716743b4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-104-2019",
+   "path": "local/hunedoara/lupeni/2019/104",
+   "short": "HCL Lupeni nr. 104/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 104/2019 privind aprobarea repartizării unor locuințe ANL situate administrativ în Municipiul Lupeni, Bulevardul Păcii, județul Hunedoara, conform listei anuale de priorități hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni, Având în vedere Proiectul de hotărâre nr. 103/ 2019 precum și Referatul de aprobare nr. 11.421/ 23 septembrie 2019 al d",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/790C18236E40D880C225872C00394EB9/$FILE/HCL-104-2019-Repartizare-locuin%C8%9Be-ANL.pdf",
+     "sha256": "973176395cba5c153499787f0aad9d623b806921728a022ea5b80bc48330d1b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-105-2019",
+   "path": "local/hunedoara/lupeni/2019/105",
+   "short": "HCL Lupeni nr. 105/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 105/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "6109a5981ae35e8ae850516346b91bac9e98375dbeb0d4153c0d42acffcb5ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-106-2019",
+   "path": "local/hunedoara/lupeni/2019/106",
+   "short": "HCL Lupeni nr. 106/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 106/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "ddb326e8b654b84f7b545734a52626e02709b7feeaea1e6a1d1ad71deeb76b7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-107-2019",
+   "path": "local/hunedoara/lupeni/2019/107",
+   "short": "HCL Lupeni nr. 107/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 107/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/755C913DDE640D73C225872C003950B0/$FILE/HCL-107-2019-Alegere-pre%C8%99edinte-de-%C8%99edin%C8%9B%C4%83-pt.-oct-nov.2019.pdf",
+     "sha256": "6e60b95c010829eb01454ccc92f4d3a4f78c4d528ad9299eedaaed04b00a6c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-108-2019",
+   "path": "local/hunedoara/lupeni/2019/108",
+   "short": "HCL Lupeni nr. 108/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 108/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "a8b5ac7763d9dcd7262449b79326a2f557dc87b143625c1b63ff32d957cf0565"
     }
    ]
   },
@@ -48,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-111-2019",
+   "path": "local/hunedoara/lupeni/2019/111",
+   "short": "HCL Lupeni nr. 111/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 111/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "6769192743363daa096712eef31c30f672e8c47cd0ec625e62ffc80dbf0024b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-112-2019",
+   "path": "local/hunedoara/lupeni/2019/112",
+   "short": "HCL Lupeni nr. 112/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 112/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/4967691827901D72C225872C003951E1/$FILE/HCL-112-2019-Alegerea-pre%C5%9Fedintelui-pt-%C8%99edin%C8%9Ba-extraordinar%C4%83.pdf",
+     "sha256": "231285cdc6fe130bbedf5aaf9099a3688137f27f9d2e8a9bc6287fc38db14576"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-113-2019",
    "path": "local/hunedoara/lupeni/2019/113",
    "short": "HCL Lupeni nr. 113/2019",
@@ -78,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-115-2019",
+   "path": "local/hunedoara/lupeni/2019/115",
+   "short": "HCL Lupeni nr. 115/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 115/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "742d9ec1728e7dc98abcb80c825ae307a8dd16f104104691f99fb543379b6386"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-116-2019",
    "path": "local/hunedoara/lupeni/2019/116",
    "short": "HCL Lupeni nr. 116/2019",
@@ -89,6 +254,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/9A69EB78A7801F34C225872C003954C9/$FILE/HCL-116_2019-Modificare-HCL-nr.-105_2019-privind-modificarea-organigramei.pdf",
      "sha256": "7433db5def955f5239e73893a9f8cf448589b5b5401ee5c996ea3296f9d4fd17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-117-2019",
+   "path": "local/hunedoara/lupeni/2019/117",
+   "short": "HCL Lupeni nr. 117/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 117/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/DBF3E94BB162982AC225872C00395512/$FILE/HCL-117_2019-Aprobare-schimb-de-locuin%C8%9Be-ANL.pdf",
+     "sha256": "f5e4f6ef80ad8fe8abcb3e861c197f8275247e3d53fb26746de965c2e30dc61c"
     }
    ]
   },
@@ -123,6 +303,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-121-2019",
+   "path": "local/hunedoara/lupeni/2019/121",
+   "short": "HCL Lupeni nr. 121/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 121/2019 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Lupeni nr. 5/ 2019 privind aprobarea Listei anuale de priorități pentru repartizarea locuințelor ANL din Municipiul Lupeni, județul Hunedoara hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni, Având în vedere Proiectul de hotărâre nr. 121/ 2019 precum și Ref",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/A6AB0ACFA1053E6CC225872C00395630/$FILE/HCL-121_2019-Modificarea-%C8%99i-completarea-HCL-nr.-5_2019.pdf",
+     "sha256": "b34d9ec251a08d9497457c5f7469e6da0b30d9f98db74139da8f141c9bcd127e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-122-2019",
+   "path": "local/hunedoara/lupeni/2019/122",
+   "short": "HCL Lupeni nr. 122/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 122/2019 privind aprobarea repartizării unor locuințe ANL situate administrativ în Municipiul Lupeni, Bulevardul Păcii, județul Hunedoara, conform listei anuale de priorități hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni, Având în vedere Proiectul de hotărâre nr. 123/ 2019 precum și Referatul de aprobare nr. 12.823/ 24 octombrie 2019 al do",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/23907C126F667066C225872C00395676/$FILE/HCL-122_2019-Aprobarea-repartiz%C4%83rii-unor-locuin%C5%A3e-ANL.pdf",
+     "sha256": "2f3b5d15b141080864119e78879610a6624834db055d8ec15472c4dd03998dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-123-2019",
+   "path": "local/hunedoara/lupeni/2019/123",
+   "short": "HCL Lupeni nr. 123/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 123/2019 privind aprobarea numărului și cuantumului burselor școlare care se vor acorda în anul școlar 2019/ 2020 în cadrul Liceului Teoretic Mircea Eliade Lupeni și a Școlii Gimnaziale nr. 3 Lupeni hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul local al Municipiului Lupeni; Analizând Proiectul de hotărâre nr. 124/ 2019 precum și Raportul de aprobare nr. 13.141/ 31 oct",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/792696729AF5635AC225872C003956C8/$FILE/HCL-123_2019-Aprobare-burse-scolare-2019-Lic.-Teoretic-si-%C8%98c.-Gimn.-Nr.-3.pdf",
+     "sha256": "bac7d74e4622af788dc48ec5150b6760101a76f1d08e535c4f7a5f3853b5b71f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-124-2019",
    "path": "local/hunedoara/lupeni/2019/124",
    "short": "HCL Lupeni nr. 124/2019",
@@ -153,6 +378,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-127-2019",
+   "path": "local/hunedoara/lupeni/2019/127",
+   "short": "HCL Lupeni nr. 127/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 127/2019 privind aprobarea înscrierii Unității Administrativ Teritoriale Municipiul Lupeni în Planul de amenajare a teritoriului național, Secțiunea a VIII-a- zone cu resurse turistice hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni, Analizând Proiectul de hotărâre nr. 127 precum și Raportul de aprobare nr. 13.872/ 19 noiembrie 2019 prezenta",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-11-19",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/23203932BFAAC3FCC225872C00395885/$FILE/HCL-127_2019-%C3%8Enscriere-UAT-Lupeni-%C3%AEn-Plan-amenajare-teritoriu-na%C8%9Bional-zone-cu-resurse-turistice.pdf",
+     "sha256": "96ff51122abb21496de9af237934e9994138573deb481597b8f419ec8ffc9711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-128-2019",
+   "path": "local/hunedoara/lupeni/2019/128",
+   "short": "HCL Lupeni nr. 128/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 128/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "eba10a3f73a700983d6cdebfdc994a5d04ad4b0bbd9869f7c1dea79e23015ea3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-13-2019",
    "path": "local/hunedoara/lupeni/2019/13",
    "short": "HCL Lupeni nr. 13/2019",
@@ -164,6 +419,66 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/08FEBE83035BD5F2C225872C0038E911/$FILE/HCL-13_14-FEBRUARIE-2019-modificare-politica-de-parcari.doc.pdf",
      "sha256": "8d5b3d878947c3457df54c292dece3593dd91626a58e8b439a034fde442aa338"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-131-2019",
+   "path": "local/hunedoara/lupeni/2019/131",
+   "short": "HCL Lupeni nr. 131/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 131/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "00d4c882ca58ce41805a79757389f7f071681055b15035fdf320f1393e5acba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-132-2019",
+   "path": "local/hunedoara/lupeni/2019/132",
+   "short": "HCL Lupeni nr. 132/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 132/2019 pentru revocarea articolului 1 al Hotărârii Consiliului local al Municipiului Lupeni nr. 122/ 2019 privind aprobarea repartizării unor locuințe ANL situate administrativ în Municipiul Lupeni, Bulevardul Păcii, județul Hunedoara, conform listei anuale de priorități hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni, Având în vedere Proi",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/0E80786D1D7322B8C225872C003959F0/$FILE/HCL-nr.-132_2019-Revocare-art.1-al-HCL-nr.-122_2019-Repartizare-locuin%C8%9Be-ANL.pdf",
+     "sha256": "9f48ec5e0c5da590024145216cc4f77fa731ad7c60cf29b73089145256f61780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-133-2019",
+   "path": "local/hunedoara/lupeni/2019/133",
+   "short": "HCL Lupeni nr. 133/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 133/2019 pentru lunile dec.2019 – ian.2020",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/A8917065E153C7EAC225872C00395A37/$FILE/HCL-nr.-133_2019-Alegerea-pre%C8%99edinte-de-%C8%99edin%C8%9B%C4%83-pentru-lunile-dec.2019-ian.2020.pdf",
+     "sha256": "a3f56e57037d0c782d15c671750baf9d2db92f4e9a7b2981857483852c964d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-134-2019",
+   "path": "local/hunedoara/lupeni/2019/134",
+   "short": "HCL Lupeni nr. 134/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 134/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "e41e8723d1951f54144c95e197338d934ea595bd2fd7646fc668d74eb8e78f43"
     }
    ]
   },
@@ -243,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-16-2019",
+   "path": "local/hunedoara/lupeni/2019/16",
+   "short": "HCL Lupeni nr. 16/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 16/2019 privind acordarea normei de hrană personalului din cadrul Direcției Poliția Locală a Municipiului Lupeni pentru anul 2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AB1809C6F34B17FAC225872C0038E9FE/$FILE/HCL-16_28-FEBRUARIE-2019-privind-acordarea-normei-de-hran%C4%83-personalului-din-cadrul-Direc%C8%9Biei-Poli%C8%9Bia-Local%C4%83-a-Municipiului-Lupeni-pentru-anul-2019.pdf",
+     "sha256": "85236139cd692fd48e06e11c0fe9b3a2e70a3f3bc647b250051c71f3c0f4d0ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-17-2019",
    "path": "local/hunedoara/lupeni/2019/17",
    "short": "HCL Lupeni nr. 17/2019",
@@ -254,6 +584,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/49880E18F54E641BC225872C0038EA46/$FILE/HCL-17_28-FEBRUARIE-2019-pentru-aprobarea-%C3%AEnfiin%C8%9B%C4%83rii-unei-linii-de-gard%C4%83-la-domiciliu-pentru-specializarea-ortopedie-traumatologie-%C3%AEn-cadrul-Spitalului-Municipiului-Lupeni.pdf",
      "sha256": "1ddfbda94f297e082abc599a1edc45c84c4688f8867f01a3cf40c2f25c4e3b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-18-2019",
+   "path": "local/hunedoara/lupeni/2019/18",
+   "short": "HCL Lupeni nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 18/2019 privind aprobarea participării Consiliului local al Municipiului Lupeni în calitate de coorganizator al evenimentului CARNAVALUL ZĂPEZII precum și a aprobării sumelor necesare în vederea organizării acestuia hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni; Având în vedere Proiectul de hotărâre nr. 15/ 12 februarie 2019 și Expunerea",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/383E08268C6C4A32C225872C0038EA8D/$FILE/HCL-18_28-FEBRUARIE-2019-privind-aprobarea-particip%C4%83rii-Consiliului-local-al-Municipiului-Lupeni-%C3%AEn-calitate-de-coorganizator-al-evenimentului-CARNAVALUL-Z%C4%82PEZII.pdf",
+     "sha256": "f4f98fc20120bae281da47ba543296e1504a96e8fa50169f40affbd01fa24070"
     }
    ]
   },
@@ -273,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-2-2019",
+   "path": "local/hunedoara/lupeni/2019/2",
+   "short": "HCL Lupeni nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 2/2019 privind aprobarea utilizării excedentului anilor precedenți pentru acoperirea definitivă a deficitului secțiunii de dezvoltare",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/0B6C43117A0DB13AC225872C0038E28D/$FILE/HCL-2_9-IANUARIE-2019-privind-aprobarea-utiliz%C4%83rii-excedentului-anilor-preceden%C8%9Bi-pentru-acoperirea-definitiv%C4%83-a-deficitului-sec%C8%9Biunii-de-dezvoltare.pdf",
+     "sha256": "24f70c18a074f3042b6c1209cd34ddc7cfdfab80eb806377f2aea5a839aef7ca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-20-2019",
    "path": "local/hunedoara/lupeni/2019/20",
    "short": "HCL Lupeni nr. 20/2019",
@@ -284,6 +644,36 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/86770AC230958345C225872C0038EB2C/$FILE/HCL-20_28-FEBRUARIE-2019-pentru-completarea-Hot%C2%A6r%C3%A2rii-Consiliului-local-al-Municipiului-Lupeni-nr.-150-2017-privind-aprobarea-desemn%C2%A6rii-reprezentaneilor.pdf",
      "sha256": "f8a3321fba9e806570a90995f434763e38a5a47114278eb628d6934cfc20ff7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-21-2019",
+   "path": "local/hunedoara/lupeni/2019/21",
+   "short": "HCL Lupeni nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 21/2019 privind aprobarea transformării unor posturi din organigrama și statul de funcții al Spitalului Municipiului Lupeni",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/CC6ADFA0143B368CC225872C0038EB81/$FILE/HCL-21_28-FEBRUARIE-2019-privind-aprobarea-transform%C4%83rii-unor-posturi-din-organigrama-%C8%99i-statul-de-func%C8%9Bii-al-Spitalului-Municipiului-Lupeni.pdf",
+     "sha256": "484ba906ade3bf0ab38538bbd84ad6f4567105d24340e4e6d8df891b63803675"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-22-2019",
+   "path": "local/hunedoara/lupeni/2019/22",
+   "short": "HCL Lupeni nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 22/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "be1ef39e4a46fb5c52e70726c708df53237748de2ee4c4172f93c60a778f2c0d"
     }
    ]
   },
@@ -318,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-25-2019",
+   "path": "local/hunedoara/lupeni/2019/25",
+   "short": "HCL Lupeni nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 25/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-06",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "e800382b795adc82894e4a9ed3eec38a1a117beda9b372b6bdf0645db75459dc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-26-2019",
    "path": "local/hunedoara/lupeni/2019/26",
    "short": "HCL Lupeni nr. 26/2019",
@@ -329,6 +734,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/57F39AF11D0209FEC225872C0038ED0A/$FILE/HCL-26_6-MARTIE-2019-privind-aprobarea-particip%C4%83rii-Consiliului-local-al-Municipiului-Lupeni-%C3%AEn-calitate-de-coorganizator-al-evenimentului-%E2%80%9ECupa-Platoul-Soarelui%E2%80%9D.pdf",
      "sha256": "1e7814193a802c7bb70cce54dfe24c5cd1be5adae55c6c70881d5e74c62b018e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-27-2019",
+   "path": "local/hunedoara/lupeni/2019/27",
+   "short": "HCL Lupeni nr. 27/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 27/2019 privind aprobarea Actului adițional nr.3 la Acordul de parteneriat – Green Line",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/94B253CC5933D26DC225872C0038EDC1/$FILE/HCL-27_22-MARTIE-2019-privind-aprobarea-Actului-adi%C8%9Bional-nr.3-la-Acordul-de-parteneriat-Green-Line.pdf",
+     "sha256": "0cc02151af1c515a009996c902e22572f4e7330d1ed56f77bacf24c82e51e548"
     }
    ]
   },
@@ -423,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-33-2019",
+   "path": "local/hunedoara/lupeni/2019/33",
+   "short": "HCL Lupeni nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 33/2019 privind aprobarea reţelei şcolare de pe raza Municipiului Lupeni pentru anul școlar 2019-2020",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/4B09E916A555A919C225872C0038F002/$FILE/HCL-33_28-MARTIE-2019_-privind-aprobarea-re%C5%A3elei-%C5%9Fcolare-de-pe-raza-Municipiului-Lupeni-pentru-anul-%C8%99colar-2019-2020.pdf",
+     "sha256": "aa55d095b6fa55a8833d8890d6fe78f0b980931558a39c042d1dc3dd6a6e0ba0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-34-2019",
    "path": "local/hunedoara/lupeni/2019/34",
    "short": "HCL Lupeni nr. 34/2019",
@@ -438,6 +873,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-35-2019",
+   "path": "local/hunedoara/lupeni/2019/35",
+   "short": "HCL Lupeni nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 35/2019 privind aprobarea organizării unui eveniment cultural-sportiv dedicat sărbătoririi a 100 ani de la înființarea echipei de rugby „Minerul” Lupeni hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni; Având în vedere Proiectul de hotărâre nr. 32/ 2019 și Expunerea de motive comună nr. 3279/ 18 martie 2019 a doamnelor și domnilor consilieri",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/9ED8BDFBA593BBA2C225872C0038F099/$FILE/HCL-35_28-M-ARTIE-2019-organizarea-unui-eveniment-cultural-sportiv-dedicat-s%C4%83rb%C4%83toririi-a-100-ani-de-la-%C3%AEnfiin%C8%9Barea-echipei-de-rugby-%E2%80%9EMinerul%E2%80%9D-Lupeni.pdf",
+     "sha256": "5cc33c6538e88994a7c9b9fe5d989c5873ebe2c2d91f27ed0086db397d3a1575"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-37-2019",
+   "path": "local/hunedoara/lupeni/2019/37",
+   "short": "HCL Lupeni nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 37/2019 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Lupeni nr. 5 2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/CEF952105016675EC225872C0038F12B/$FILE/HCL-37_28-MARTIE-2019_-pentru-modificarea-%C8%99i-completarea-Hot%C4%83r%C3%A2rii-Consiliului-Local-al-Municipiului-Lupeni-nr.-5-2019.pdf",
+     "sha256": "3ee74fc574d0f79951941ded6dda26b2c1f76597df8bbcad520d13f1c1082281"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-38-2019",
    "path": "local/hunedoara/lupeni/2019/38",
    "short": "HCL Lupeni nr. 38/2019",
@@ -449,6 +914,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/984F01CD81B72559C225872C0038F171/$FILE/HCL-38_28-MARTIE-2019_-privind-aprobarea-repartiz%C2%A6rii-unei-locuinee-ANL-situate-administrativ-%C3%AEn-Municipiul-Lupeni-Bulevardul-P%C2%A6cii.pdf",
      "sha256": "0d83e8d7aef4f3688702b7328da3c761bd1a039c55e72938b7318fa5e919cb6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-39-2019",
+   "path": "local/hunedoara/lupeni/2019/39",
+   "short": "HCL Lupeni nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 39/2019 privind aprobarea transformării unor posturi din organigrama și statul de funcții al",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/F0BFA95482D43F7EC225872C0038F1C2/$FILE/HCL-39_28-MARTIE-2019_-privind-aprobarea-transform%C4%83rii-unor-posturi-din-organigrama-%C8%99i-statul-de-func%C8%9Bii-al.pdf",
+     "sha256": "7324fb2cb341d409333e290ffde9413ec0cab57530371a6f91a6a578920ced14"
     }
    ]
   },
@@ -543,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-46-2019",
+   "path": "local/hunedoara/lupeni/2019/46",
+   "short": "HCL Lupeni nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 46/2019 privind aprobarea participării Consiliului Local al Municipiului Lupeni în calitate de coorganizator la manifestările dedicate Zilei Internaționale a Romilor – 2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/656E8EE7D7FC8ED2C225872C0038F3E8/$FILE/HCL-46_4-APRILIE-2019-privind-aprobarea-particip%C4%83rii-Consiliului-Local-al-Municipiului-Lupeni-%C3%AEn-calitate-de-coorganizator-la-manifest%C4%83rile-dedicate-Zilei-Interna%C8%9Bionale-a-Romilor-2019.pdf",
+     "sha256": "bcdb521443306cc95c9d1fa7bad5f7c11cf5f67b728661d0d6d3492458ddd645"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-47-2019",
    "path": "local/hunedoara/lupeni/2019/47",
    "short": "HCL Lupeni nr. 47/2019",
@@ -573,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-49-2019",
+   "path": "local/hunedoara/lupeni/2019/49",
+   "short": "HCL Lupeni nr. 49/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 49/2019 privind aprobarea contului de încheiere a exerciţiului bugetar pe anul 2018.doc",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/1CC675F0664F871DC225872C0038F4E8/$FILE/HCL-49_25-APRILIE-2019_-privind-aprobarea-contului-de-%C3%AEncheiere-a-exerci%C5%A3iului-bugetar-pe-anul-2018.doc.pdf",
+     "sha256": "08c3f78d78d09503ed6ee48c5fba35f46c7d3434ac95cd9ce16c4c105114e821"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-5-2019",
    "path": "local/hunedoara/lupeni/2019/5",
    "short": "HCL Lupeni nr. 5/2019",
@@ -588,6 +1098,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-50-2019",
+   "path": "local/hunedoara/lupeni/2019/50",
+   "short": "HCL Lupeni nr. 50/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 50/2019 privind aprobarea programului acțiunilor culturale, științifice, artistice, sportive și de agrement",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/3ED94D028F25E167C225872C0038F549/$FILE/HCL-50_25-APRILIE-2019_-privind-aprobarea-programului-ac%C8%9Biunilor-culturale-%C8%99tiin%C8%9Bifice-artistice-sportive-%C8%99i-de-agrement.pdf",
+     "sha256": "ddd969b4775d287e2311d8c0433654685192549fa207c61e5ef26cfd1f795288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-51-2019",
+   "path": "local/hunedoara/lupeni/2019/51",
+   "short": "HCL Lupeni nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 51/2019 privind aprobarea programului de acţiuni şi lucrări publice de interes local",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/4C3AC1C2F80BA0EFC225872C0038F5A5/$FILE/HCL-51_25-APRILIE-2019_-privind-aprobarea-programului-de-ac%C5%A3iuni-%C5%9Fi-lucr%C4%83ri-publice-de-interes-local.pdf",
+     "sha256": "93cbb23c894e424a3846b8e7e8ddd560dc304478d37731456284e96993aeaf8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-52-2019",
+   "path": "local/hunedoara/lupeni/2019/52",
+   "short": "HCL Lupeni nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 52/2019 pentru aprobarea Convenţiei de parteneriat cu Asociaţia de Voluntariat „Casa Pollicino” Petroşani",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/74E21F8EAE064907C225872C0038F605/$FILE/HCL-52_25-APRILIE-2019_-pentru-aprobarea-Conven%C5%A3iei-de-parteneriat-cu-Asocia%C5%A3ia-de-Voluntariat-%E2%80%9ECasa-Pollicino%E2%80%9D-Petro%C5%9Fani.pdf",
+     "sha256": "cc30abd596c93c74b2875333b5979b3add1b91774aa05b707729927a618f1f56"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-54-2019",
    "path": "local/hunedoara/lupeni/2019/54",
    "short": "HCL Lupeni nr. 54/2019",
@@ -599,6 +1154,156 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/EAA063565842804CC225872C0038F6DE/$FILE/HCL-54_25-APRILIE-2019_-prelungire-contract-ANL.pdf",
      "sha256": "e0778cf38042143b5cda4c2a59a5606913a336b8bc11ac1607718a34627e5a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-55-2019",
+   "path": "local/hunedoara/lupeni/2019/55",
+   "short": "HCL Lupeni nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 55/2019 privind aprobarea încetării, prin acordul părților, conform prevederilor contractuale, a unui contract de închiriere",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/9687F37D2ECA61BFC225872C0038F729/$FILE/HCL-55_25-APRILIE-2019-privind-aprobarea-%C3%AEncet%C4%83rii-prin-acordul-p%C4%83r%C8%9Bilor-conform-prevederilor-contractuale-a-unui-contract-de-%C3%AEnchiriere.pdf",
+     "sha256": "a973cb8d8e5f0a89af39b4b6eb7de4e38beb5d9f3802e9d96bec7c73cb983347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-56-2019",
+   "path": "local/hunedoara/lupeni/2019/56",
+   "short": "HCL Lupeni nr. 56/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 56/2019 privind modificarea listei de priorități ANL",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/5F940A46C8CB4D22C225872C0038F76E/$FILE/HCL-56_25-APRILIE-2019-privind-modificarea-listei-de-priorit%C4%83%C8%9Bi-ANL.pdf",
+     "sha256": "6a3062b95a3b5fb509064239f88488f513ca7db2591588fb7de6e98a5a1d8bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-57-2019",
+   "path": "local/hunedoara/lupeni/2019/57",
+   "short": "HCL Lupeni nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 57/2019 privind repartizarea unei locuințe ANL",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/0A932EF4E9AB2DE7C225872C0038F7B6/$FILE/HCL-57_25-APRILIE-2019-privind-repartizarea-unei-locuin%C8%9Be-ANL.pdf",
+     "sha256": "e57345cfa2dd71c1d46d9553d1ea31815e634190308f9d9edbf6becd6b9d882b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-58-2019",
+   "path": "local/hunedoara/lupeni/2019/58",
+   "short": "HCL Lupeni nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 58/2019 privind aprobarea înființării Centrului Naţional de Informare si Promovare Turistică",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/180062F46EB82DFFC225872C0038F81D/$FILE/HCL-58_25-APRILIE-2019-privind-aprobarea-%C3%AEnfiin%C8%9B%C4%83riiCentrului-Na%C5%A3ional-de-Informare-si-Promovare-Turistic%C4%83.pdf",
+     "sha256": "0e9e08da0874d2e99ee67110e3763005f734a316e7507cf259f9f25a34e06a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-6-2019",
+   "path": "local/hunedoara/lupeni/2019/6",
+   "short": "HCL Lupeni nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 6/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "2078ee584f4e3fe4b95310b08c8a74dae281e2da7fd95c1d20ef9b0305eb6292"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-61-2019",
+   "path": "local/hunedoara/lupeni/2019/61",
+   "short": "HCL Lupeni nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 61/2019 privind aprobarea alocării sumei de 2.500 lei din bugetul local, Capitolul 67.02 – „Cultură, recreere şi religie",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/81A919DE81088276C225872C0038F8DA/$FILE/HCLnr.61-2019-Participare-competi%C8%9Bii-atletism-dl.-Ambru%C8%99.pdf",
+     "sha256": "29f935f1eef3009bdc4e5f64018797557274ea302f64734d887e182b653bc94f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-62-2019",
+   "path": "local/hunedoara/lupeni/2019/62",
+   "short": "HCL Lupeni nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 62/2019 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Lupeni nr. 5/ 2019 privind aprobarea Listei anuale de priorităţi pentru repartizarea locuinţelor ANL",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/ED5D75B0329A256AC225872C0038F920/$FILE/HCLnr.62-2019-Modificare-list%C4%83-priorit%C4%83%C8%9Bi-locuin%C8%9Be-ANL.pdf",
+     "sha256": "d4febbc8fc8d63788beceb3cfbdcae4bd93e7ae02e01c782378d73594b9f8fef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-63-2019",
+   "path": "local/hunedoara/lupeni/2019/63",
+   "short": "HCL Lupeni nr. 63/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 63/2019 privind aprobarea repartizării unei locuinţe ANL situate administrativ în Municipiul Lupeni, Bulevardul Păcii",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/662721182C77D034C225872C0038F968/$FILE/HCLnr.63-2019-Aprobare-repartizare-locuin%C8%9B%C4%83-ANL.pdf",
+     "sha256": "db3d2fdc25f838fcebcb6e38997723426d5b273bf46bb6ec453fa0bdebee728f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-64-2019",
+   "path": "local/hunedoara/lupeni/2019/64",
+   "short": "HCL Lupeni nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 64/2019 privind alegerea preşedintelui de şedinţă pentru lunile iunie-iulie 2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/852CD2F597EA30B0C225872C0038F9D3/$FILE/HCLnr.64-2019-Alegerea-pre%C5%9Fedintelui-de-%C5%9Fedin%C5%A3%C4%83-pentru-lunile-iunie-iulie-2019.pdf",
+     "sha256": "647f0896a6e50e250bd76c544c0a10cb63a4ff5e8656005f74cbb1139916ed9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-66-2019",
+   "path": "local/hunedoara/lupeni/2019/66",
+   "short": "HCL Lupeni nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 66/2019 privind aprobarea indicatorilor tehnico – economici actualizați ai investiției “Modernizare străzi, drumuri și trotuare din Municipiul Lupeni”",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/7085D1DB77AE0EB2C225872C0038FA6D/$FILE/HCLnr.66-2019-Aprobarea-indicatorilor-pt.-Modernizare-str%C4%83zi-drumuri-%C8%99i-trotuare.pdf",
+     "sha256": "96be90a8bd10f0ef2c244e73f6d89ac76ff0ffeb06c9d5a65537b4007e0ec0e4"
     }
    ]
   },
@@ -633,6 +1338,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-71-2019",
+   "path": "local/hunedoara/lupeni/2019/71",
+   "short": "HCL Lupeni nr. 71/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 71/2019 privind aprobarea procedurilor și a condițiilor de realizare a schimburilor în cazul locuințelor construite de Agenția Națională pentru Locuințe în cadrul Programului de construcții de locuințe pentru tineri destinate închirierii",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/F0DAE7484B2564CCC225872C0038FCEF/$FILE/HCL71-2019-condi%C8%9Bii-schimb-locuin%C8%9Be-ANL.pdf",
+     "sha256": "cb35605d30591b52fd1eaa04a5995791db83326cef66d21e67506b89aa7ec847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-73-2019",
+   "path": "local/hunedoara/lupeni/2019/73",
+   "short": "HCL Lupeni nr. 73/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 73/2019 privind aprobarea încetării, prin acordul părților, conform prevederilor contractuale, a unor contracte de închiriere a unor locuințe ANL",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/DA32B27ED5BCDE5DC225872C0038FDB0/$FILE/HCL73-2019-reziliere-locuin%C8%9Be-ANL.pdf",
+     "sha256": "5965ca24a88b2394e5068af81030c81159fb5b0805547c644aef2c2e9c07e45d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-74-2019",
+   "path": "local/hunedoara/lupeni/2019/74",
+   "short": "HCL Lupeni nr. 74/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 74/2019 privind aprobarea unui raport de evaluare precum şi vânzarea unui imobil (teren) prin licitație publică",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/3B2C530A6E96A15EC225872C0038FDF7/$FILE/HCL74-2019-v%C3%A2nzare-teren-prin-licita%C8%9Bie-public%C4%83.pdf",
+     "sha256": "74dc5ffc1435f605dfcfd5f7e23b41e17999abe41d7096f462c4779e478bf73b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-76-2019",
    "path": "local/hunedoara/lupeni/2019/76",
    "short": "HCL Lupeni nr. 76/2019",
@@ -659,6 +1409,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/15C33F902F2F30CCC225872C0038E642/$FILE/HCL-8_31-IANUARIE-2019-privind-aprobarea-particip%C4%83rii-Consiliului-local-al-Municipiului-Lupeni-%C3%AEn-calitate-de-coorganizator-al-Cupei-Veteranilor.pdf",
      "sha256": "34d591fb9b9a0a0a0f359763254dbf85e1ee4ab383d0ec32cfb08f9ab43d50cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-87-2019",
+   "path": "local/hunedoara/lupeni/2019/87",
+   "short": "HCL Lupeni nr. 87/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 87/2019 privind aprobarea participării Consiliului local al Municipiului Lupeni în calitate de coorganizator al Campionatului Național Enduro MTB 2019 precum și a aprobării sumelor necesare în vederea organizării acestuia hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi Consiliul Local al Municipiului Lupeni; Examinând Proiectul de hotărâre nr. 93/ 2019 precum și Referatul de apr",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-08-21",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/94932D17C572546CC225872C00394213/$FILE/HCL-87-21aug2019-Campionatul-Na%C8%9Bional-Enduro-MTB-2019-Straja-Copie.pdf",
+     "sha256": "8c55a54610647bc4a042d8c79f9997b81bbef35c5c7c85ca726b91cffc7a1b93"
     }
    ]
   },
@@ -768,6 +1533,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-95-2019",
+   "path": "local/hunedoara/lupeni/2019/95",
+   "short": "HCL Lupeni nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 95/2019",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+     "sha256": "d774a97115309cba24f3ddc303f26d0e11b78011755546bd573d5ce33629165d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-96-2019",
+   "path": "local/hunedoara/lupeni/2019/96",
+   "short": "HCL Lupeni nr. 96/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 96/2019 pentru aprobarea Documentației de avizare a lucrărilor de intervenție la obiectivul „Modernizare și reabilitare drumuri, alei și parcări, municipiul Lupeni – zona 5” hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi CONSILIUL LOCAL AL MUNICIPIULUI LUPENI, Având în vedere Proiectul de hotărâre nr. 98/ 11.09.2019 și Referatul de aprobare nr. 10900/ 11.09.2019 prezentat de do",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/D147EC2FD477CB09C225872C00394867/$FILE/HCL-96-2019-Documenta%C8%9Bie-modernizare-drumuri.pdf",
+     "sha256": "ab03bb1d9df93763b89c7e0d53fabc88bdecba65e29f1afe7b0ee6a9978d1762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-97-2019",
+   "path": "local/hunedoara/lupeni/2019/97",
+   "short": "HCL Lupeni nr. 97/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 97/2019 privind aprobarea încheierii unui contract de asociere între Municipiul Lupeni, prin Consiliul local al Municipiului Lupeni și Județul Hunedoara, prin",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/1263E219F75F6305C225872C003948A5/$FILE/HCL-97-2019-Asociere-cu-CJ-HD-pt-modernizare-drumuri-%C8%99i-parc%C4%83ri.pdf",
+     "sha256": "0935eecc814bbd40340588126fff71a24aadbadcc97518e42033dfb4851aaefc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-98-2019",
    "path": "local/hunedoara/lupeni/2019/98",
    "short": "HCL Lupeni nr. 98/2019",
@@ -779,6 +1589,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/F3645F66F6C7881BC225872C00394935/$FILE/HCL-98-2019-Rectificare-buget-local.pdf",
      "sha256": "66744233600fc8f6e8a841674eeefd1f7eeb84a04349549358ddf288f3af0f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-99-2019",
+   "path": "local/hunedoara/lupeni/2019/99",
+   "short": "HCL Lupeni nr. 99/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 99/2019 pentru aprobarea Documentației de avizare a lucrărilor de intervenție la obiectivul „Modernizare și reabilitare drumuri, alei și parcări, municipiul Lupeni – zona 5” hotărârea a fost aprobată prin vot liber exprimat cu unanimitate de voturi CONSILIUL LOCAL AL MUNICIPIULUI LUPENI, Având în vedere Proiectul de hotărâre nr. 109 / 26.09.2019 și Referatul de aprobare nr. 11.597/ 26.09.2019 prezentat de",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2019-00003bda?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/1FBF1517A1D6AC77C225872C003949F8/$FILE/HCL-99-2019-Aprobare-documenta%C8%9Bie-pt-modernizare-drumuri-%C8%99i-parc%C4%83ri.pdf",
+     "sha256": "93bd2f423a680006e7503da3950765a110e6a56e14023bdd072ee3f73cbef942"
     }
    ]
   }

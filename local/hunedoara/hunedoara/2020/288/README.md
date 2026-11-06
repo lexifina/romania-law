@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Hunedoara nr. 288/2020 pentru modificarea Hotărârii Consiliului Local nr. 143/2019privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI) şi a indicatorilor tehnico-economici pentru obiectivul de investiţie “EFICIENTIZAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE DIN MUNICIPIUL HUNEDOARA – GRUP 1” - Bloc 2, Str. Avram Iancu, nr. 16
+
+HCL Hunedoara nr. 288/2020 · 1 versions, from 2020-09-18 (latest in force: 2020-09-18) · <https://emol.ro/hunedoara-hd/registru-hcl/9655>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-hunedoara--hunedoara-288-2020` (tags `hcl-hunedoara--hunedoara-288-2020/<day>`; `python tools/on.py <day> hcl-hunedoara--hunedoara-288-2020`).
+
+## Decisions made by hand
+
+- HCL Hunedoara nr. 288/2020: listed from Consiliul Local al Municipiului Hunedoara (emol.ro); an individual decision: metadata only.
+- HCL Hunedoara nr. 288/2020: dated from 18 September 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Hunedoara nr. 288/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

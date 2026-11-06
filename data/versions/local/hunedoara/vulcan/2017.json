@@ -3,6 +3,96 @@
  "shard": "local/hunedoara/vulcan/2017",
  "acts": [
   {
+   "slug": "hcl-hunedoara--vulcan-1-2017",
+   "path": "local/hunedoara/vulcan/2017/1",
+   "short": "HCL Vulcan nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 1/2017 privind acoperirea definitiva din excedentul bugetului local al municipiului Vulcan a deficitului sectiunii de dezvoltare pentru anul 2016.PDF",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/A4F234E3E0D4E489C225810E0048105E/$FILE/HCL%201%20-%20privind%20acoperirea%20definitiva%20din%20excedentul%20bugetului%20local%20al%20municipiului%20Vulcan%20a%20deficitului%20sectiunii%20de%20dezvoltare%20pentru%20anul%202016.PDF",
+     "sha256": "fdfb131ddc6ffad2b3a596fdd352dc5b1deb5b2c470fcfa7ed68063c1bf7dee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-10-2017",
+   "path": "local/hunedoara/vulcan/2017/10",
+   "short": "HCL Vulcan nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 10/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+     "sha256": "c95cd79f53eda81728e3e64428c79cf70486c6a0b19d3318f04255b8e54dec71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-100-2017",
+   "path": "local/hunedoara/vulcan/2017/100",
+   "short": "HCL Vulcan nr. 100/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 100/2017 privind aprobarea prelungirii unor contracte de concesiune Consiliul local al MUNICIPIULUI Vulcan, Analizând Expunerea de motive a primarului municipiului Vulcan înreg. sub nr. 102/9612/09.10.2017 prin care se propune aprobarea prelungirii unor contracte de concesiune, Văzând Proiectul de hotărâre nr. 102/9613/2017, raportul Direcției A.D.P.P din cadrul aparatului de specialitate al Primarului Mun",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F310BBD15B5CF908C22581D7004A0668/$FILE/HCL%20100.doc",
+     "sha256": "0bbb18cd7dbac691d3de6b93c0164e5d1671102010d512bd96dadfed5dfe716a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-101-2017",
+   "path": "local/hunedoara/vulcan/2017/101",
+   "short": "HCL Vulcan nr. 101/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 101/2017 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului public al municipiului Vulcan , în suprafață de 14 mp , situat pe str.Pinului , zona bl. 53, în vederea amplasării unei rulote Consiliul local al municipiului Vulcan, Având în vedere expunerea de motive a Primarului municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/072D7325C552D275C22581D7004A0678/$FILE/HCL%20101.doc",
+     "sha256": "39fcdd13537fe0cce1aa7f4922ffd5513d3fb92a1f485c3dafec80b9bb211696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-102-2017",
+   "path": "local/hunedoara/vulcan/2017/102",
+   "short": "HCL Vulcan nr. 102/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 102/2017 privind aprobarea închirierii prin licitație publică a unui grup de obiective din Pasul Vulcan în vederea desfășurării unor activități comerciale cu produse alimentare și alimentație publică și activități comerciale specifice sporturilor montane CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub nr. 104/9612/2017 prin care se pro",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F9653F1B310E5358C22581D7004A0692/$FILE/HCL%20102.doc",
+     "sha256": "595b121c8888202a4b93e162769270fb4faaacd5740905ee19d4a6134da1299b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-103-2017",
+   "path": "local/hunedoara/vulcan/2017/103",
+   "short": "HCL Vulcan nr. 103/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 103/2017 Privind înființarea Serviciului de Iluminat Public din Municipiul Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN Având în vedere expunerea de motive înregistrată sub nr. 107/9612/18.10.2017 a primarului municipiului Vulcan prin care se propune înfiintarea Serviciului de Iluminat Public din Municipiul Vulcan, Văzând Proiectul de hotărâre nr. 107/9613/2017, raportul Direcției A.D.P.P din cadrul apara",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/887BAE35A24876B6C22581D7004A06BE/$FILE/HCL%20103.doc",
+     "sha256": "ac00bbd485705b47268777a773d8098344d4bf03c3117f075e742dfe9d459c1c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-104-2017",
    "path": "local/hunedoara/vulcan/2017/104",
    "short": "HCL Vulcan nr. 104/2017",
@@ -14,6 +104,36 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/070EA4A7298606D3C22581D7004A06DA/$FILE/HCL%20104.doc",
      "sha256": "fa08b6b628acaa2466c9df92ba1e421e286c656574b77b54402b44b7d6a22221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-105-2017",
+   "path": "local/hunedoara/vulcan/2017/105",
+   "short": "HCL Vulcan nr. 105/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 105/2017 privind aprobarea criteriilor de repartizare a locuințelor sociale din Municipiului Vulcan Consiliul local al MUNICIPIULUI Vulcan, Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 110/9612/20.10.2017 prin care se propune aprobarea criteriilor de repartizare a locuințelor sociale din municipiul Vulcan, Văzând Proiectul de hotărâre nr. 110/2017, raportul Direcției",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/1782EB7EC0BCAA37C22581D7004A06F5/$FILE/HCL%20105.doc",
+     "sha256": "1652158e971fd465b48e6152c1d8a66f23398c6b1e25d1c8ce17235dd9021696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-106-2017",
+   "path": "local/hunedoara/vulcan/2017/106",
+   "short": "HCL Vulcan nr. 106/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 106/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 116/9612/22 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017, Hotărârea Consiliul",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/361980999D75086BC2258225002A03E5/$FILE/HCL%20106.doc",
+     "sha256": "4f2296f83460b2d3f592f210e19f87193b13663b16b75c32db7717cbc934c329"
     }
    ]
   },
@@ -33,6 +153,171 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-108-2017",
+   "path": "local/hunedoara/vulcan/2017/108",
+   "short": "HCL Vulcan nr. 108/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 108/2017 pentru investiția„Extindere sediuPrimărie” Consiliul Local al munIcipiului Vulcan, Analizând expunerea de motive, întocmită de Primarul municipiului Vulcan, înregistrată sub nr. 117/9612/22.11.2017prin care se propuneaprobareaNotei conceptuale și aTemei de proiectare pentru investiția„Extindere sediu Primărie”, Văzând Proiectul de hotărâre nr. 117/9613/2017, raportul Direcției Tehnicedin cadrul ap",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/D091B91E65466F75C2258225002A03FE/$FILE/HCL%20108.odt",
+     "sha256": "ffcdf2119de949c6696866f288ef6369197c9cf940e6e91ad02f18a517edbdf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-109-2017",
+   "path": "local/hunedoara/vulcan/2017/109",
+   "short": "HCL Vulcan nr. 109/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 109/2017 privind aprobarea cuantumului cotizației Municipiului Vulcan la Asociația Municipiilor din România Consiliul local al municipiului Vulcan, Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 113/9612/20.11.2017 prin care se propune prin care se propune aprobarea cotizației Municipiului Vulcan la Asociația Municipiilor din România; Văzând Proiectul de hotărâre nr. 11",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/79BC473C290B5343C2258225002A0409/$FILE/HCL%20109.doc",
+     "sha256": "87d4085094945b7dc71c68309c8baf6c27a50276a66ee05d2d8457bbfe361484"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-11-2017",
+   "path": "local/hunedoara/vulcan/2017/11",
+   "short": "HCL Vulcan nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 11/2017 privind modificarea componentei comisiilor de specialitate.PDF",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/FDD17F87F125BC1FC225810E00481A5F/$FILE/HCL%2011%20-%20privind%20modificarea%20componentei%20comisiilor%20de%20specialitate.PDF",
+     "sha256": "875497cdf7269278adece046465771b6e373a0958c5ca014285937f03c3eac25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-110-2017",
+   "path": "local/hunedoara/vulcan/2017/110",
+   "short": "HCL Vulcan nr. 110/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 110/2017 pentru modificarea H.C.L nr. 102/2017 privind aprobarea închirierii prin licitație publică a unui grup de obiective din Pasul Vulcan în vederea desfășurării unor activități comerciale cu produse alimentare și alimentație publică și activități comerciale specifice sporturilor montane CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan înregistrată",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BBE4F3A54D4C7E9BC2258225002A0415/$FILE/HCL%20110.doc",
+     "sha256": "ff74f68148098a37a794879179f6b84bd769ea0c84598da82a1b0d894c7e582d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-111-2017",
+   "path": "local/hunedoara/vulcan/2017/111",
+   "short": "HCL Vulcan nr. 111/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 111/2017 Pentru revocarea H.C.L nr. 23/2014 privind atribuirea în folosință gratuită Asociației “UN SUFLET, O SPERANȚĂ” a unor bunuri aparținând domeniului public al municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN,1 Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 115/22.11.2017 prin care se propune revocarea Hotărârii Consiliului Local nr. 23/2014 privind atri",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4C238D3360802233C2258225002A0425/$FILE/HCL%20111.doc",
+     "sha256": "0bdfaf2a2849adc2d8ef8faf21209fb9e2d4e6a9b8feda1861d4fdd089019cc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-112-2017",
+   "path": "local/hunedoara/vulcan/2017/112",
+   "short": "HCL Vulcan nr. 112/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 112/2017 privind alegerea președintelui de ședință pentru lunile decembrie 2017, ianuarie și februarie 2018 Consiliul local al municipiului Vulcan; Având în vedere expunerea de motive a primarului municipiului Vulcan , înregistrată sub nr. 112/9612/20.11.2017 prin care se propune alegerea președintelui de ședință pentru lunile decembrie 2017, ianuarie și februarie 2018; Văzând Proiectul de hotărâre nr. 112",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/98FE63FE07715CC5C2258225002A0431/$FILE/HCL%20112.doc",
+     "sha256": "088553aa3c36ad651055989cfb60db8e0ebd91a3bce99be3a3dcc0a543dda57a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-113-2017",
+   "path": "local/hunedoara/vulcan/2017/113",
+   "short": "HCL Vulcan nr. 113/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 113/2017 privind finanțele publice locale, cu modificările și completările ulterioare și al art 5 alin. 1), lit. b), dinHotarârea nr. 907 din 29 noiembrie 2016,privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice, În conformitate cu prevederile art. 36, (4) litera d) precum și art. 126 din Legea 2",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4834565AAC1F93EAC2258225002A043E/$FILE/HCL%20113.odt",
+     "sha256": "62088ab7208dde40d33c7e5c73295876c8f8a56e1af4d034f92f39467a981633"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-114-2017",
+   "path": "local/hunedoara/vulcan/2017/114",
+   "short": "HCL Vulcan nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 114/2017 Pentru aprobarea Notei conceptuale și a Temei de proiectare pentru investiția ”Linia verde de autobuze electrice intre Petrila-Petrosani- Aninoasa- Vulcan-Lupeni-Uricani Greenline Valea Jiului’’ Consiliul Local al munIcipiului Vulcan, Analizând în vedere expunerea de motive, întocmită de Primarul municipiului Vulcan, înregistrată sub nr. 120/9612/04.12.2017 prin care se propune aprobarea Notei con",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BB0974BF0E5C77C8C2258225002A044C/$FILE/HCL%20114.doc",
+     "sha256": "f9a3b400d1cce700cea363bac01767d58832cfbb2475af1480c538ed24f68e14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-115-2017",
+   "path": "local/hunedoara/vulcan/2017/115",
+   "short": "HCL Vulcan nr. 115/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 115/2017 pentru aprobarea Notei conceptuale și a Temei de proiectare pentru investiția “Modernizare străzi si alei pietonale, str.Teodora Lucaciu, str. Crividia, str",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F84B69213146ACD8C2258225002A0457/$FILE/HCL%20115.doc",
+     "sha256": "b37ab31ff2b0aa826958f61e6b507f12b7877801900ba2d6b656b91c020f3cef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-116-2017",
+   "path": "local/hunedoara/vulcan/2017/116",
+   "short": "HCL Vulcan nr. 116/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 116/2017 pentru aprobarea Notei conceptuale și a Temei de proiectare pentru investiția “Modernizare străzi si alei pietonale, str",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/5AED99949368D7B1C2258225002A0463/$FILE/HCL%20116.doc",
+     "sha256": "483f7af90193589521867739f624122124f99a4a65b4f0764442a60c56276012"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-117-2017",
+   "path": "local/hunedoara/vulcan/2017/117",
+   "short": "HCL Vulcan nr. 117/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 117/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr.129/9612/13.12.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017, Hotărârea Co",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/04FD3504D5FDBA04C2258225002A0473/$FILE/HCL%20117.doc",
+     "sha256": "93ef8d8e1c052ef0c95de837ebd19e040477dc339be6cd6560ed1aa8b56e0ac5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-118-2017",
    "path": "local/hunedoara/vulcan/2017/118",
    "short": "HCL Vulcan nr. 118/2017",
@@ -44,6 +329,126 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/9F0B8F54CEE55BEAC2258225002A0482/$FILE/HCL%20118.doc",
      "sha256": "0dd85281c36c129dfe8ec9480fbeff9007ce3e957f44df0e7ba078391d0beb9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-119-2017",
+   "path": "local/hunedoara/vulcan/2017/119",
+   "short": "HCL Vulcan nr. 119/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 119/2017 privind aprobarea numărului de burse precum și a cuantumului acestora pentru elevii din învățământul preuniversitar de stat pentru anul școlar 2017-2018 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub nr. 128/9612/2017 prin care se propune aprobarea numărului de burse precum și cuantumul acestora pentru elevii din învățământul",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/6089A36DD56358E9C2258225002A0490/$FILE/HCL%20119.doc",
+     "sha256": "84f0f9ac4d37aede241fd00157b57cac1cc510e5ade3acf2db896b2a32b2d991"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-12-2017",
+   "path": "local/hunedoara/vulcan/2017/12",
+   "short": "HCL Vulcan nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 12/2017 privind aprobarea programului actiunilor culturale, stiintifice, artistice, sportive si de agrement pentru anul 2017.PDF",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/79B6F26799A06B2BC225810E00481A65/$FILE/HCL%2012%20-%20privind%20aprobarea%20programului%20actiunilor%20culturale,%20stiintifice,%20artistice,%20sportive%20si%20de%20agrement%20pentru%20anul%202017.PDF",
+     "sha256": "edb0a38e5f260fc0ac8e102dc5ffe999bb0ac8280296b8ea307922978613b723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-120-2017",
+   "path": "local/hunedoara/vulcan/2017/120",
+   "short": "HCL Vulcan nr. 120/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 120/2017 pentru modificarea unor Contracte de închiriere pentru terenuri proprietate publică a municipiului Vulcan ocupate de garaje construite înainte de anul 1989 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub nr. 126/9612/2017 prin care se propune modificarea unor Contracte de închiriere pentru terenuri proprietate publică a munici",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/297F0E64CA259815C2258225002A049D/$FILE/HCL%20120.doc",
+     "sha256": "39bd4886438f3fd0609664c8aacdfe404769e2b5052606c73bfda0dcca4243b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-121-2017",
+   "path": "local/hunedoara/vulcan/2017/121",
+   "short": "HCL Vulcan nr. 121/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 121/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4615A3A3ED02A0BAC2258225002A04BF/$FILE/HCL%20121.doc",
+     "sha256": "6ee4717ab5d18837df8535ccc0d120afa1031ecf2c169239533e85c010ad7d92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-122-2017",
+   "path": "local/hunedoara/vulcan/2017/122",
+   "short": "HCL Vulcan nr. 122/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 122/2017 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții, și a indicatorilor tehnico-economici pentru investiția „Modernizare străzi și alei pietonale în zona străzii Aleea Muncii” Consiliul Local al munIcipiului Vulcan, Analizând în vedere expunerea de motive, întocmită de primarul municipiului Vulcan, înregistrată sub nr. 125/9612/2017 prin care se propune aprobarea Documentației d",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/546451A1CD8B59ADC2258225002A04C6/$FILE/HCL%20122.doc",
+     "sha256": "1ea23a0e9c6efa03ebff6d3764dacfc2be33e8b2e568f746925944f4a30163f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-123-2017",
+   "path": "local/hunedoara/vulcan/2017/123",
+   "short": "HCL Vulcan nr. 123/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 123/2017 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții, și a indicatorilor tehnico-economici pentru investiția „Modernizare străzi și alei pietonale strada",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/1BB07C9E91F0CCDDC2258225002A04CF/$FILE/HCL%20123.doc",
+     "sha256": "bf2da4c02786c8f62686fe1a0322ca5fa344778371907bed76f3fe08b179f94a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-124-2017",
+   "path": "local/hunedoara/vulcan/2017/124",
+   "short": "HCL Vulcan nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 124/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 130/9612/22.12.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017, Hotărârea C",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/9070B320A4E47498C2258225002A04DD/$FILE/HCL%20124.doc",
+     "sha256": "55c2008a2341eca9092a156926b1d5e10cba8d985e51b25e8f7aab9a8cc275ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-13-2017",
+   "path": "local/hunedoara/vulcan/2017/13",
+   "short": "HCL Vulcan nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 13/2017 privind aprobarea transmiterii în folosință gratuită către S.N.T.G.N",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F94EEC3FD121705AC225814E00403634/$FILE/HCL%2013.doc",
+     "sha256": "c321c4358f975447d04b4624071b210413ed1d315201ab03be01d27f7c469614"
     }
    ]
   },
@@ -63,6 +468,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-15-2017",
+   "path": "local/hunedoara/vulcan/2017/15",
+   "short": "HCL Vulcan nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 15/2017 pentru aprobarea valorii actualizate a investiției „Modernizare trotuare și alei rutiere în zona Liceu Centru Vechi” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN Analizând expunerea de motive a Viceprimarului Municipiului Vulcan înregistrată sub nr. 19/9612/16.02.2017, prin care se propune aprobarea valorii actualizate a investiției „Modernizare trotuare și alei rutiere în zona Liceu Centru Vechi” Văzân",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/97D019A2E6055C2BC225814E0040364A/$FILE/HCL%2015.doc",
+     "sha256": "be03ff123e352e7bc0c618399a566f74d927f9612a7465c5c68445cd7aa60a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-16-2017",
+   "path": "local/hunedoara/vulcan/2017/16",
+   "short": "HCL Vulcan nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 16/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F9D084F72E86642BC225814E00403654/$FILE/HCL%2016.doc",
+     "sha256": "2e987b327f706a57cea908d6a69e94b4be811ddf506db2b5f14b8dc21354a770"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-17-2017",
    "path": "local/hunedoara/vulcan/2017/17",
    "short": "HCL Vulcan nr. 17/2017",
@@ -74,6 +509,51 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/3334088C9327B38EC225814E0040365E/$FILE/HCL%2017.doc",
      "sha256": "fb21dfe0fb32a49497e4d36e010305e5f9711e34c8278d60eebc1b25300b5114"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-18-2017",
+   "path": "local/hunedoara/vulcan/2017/18",
+   "short": "HCL Vulcan nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 18/2017 pentru modificarea HCL nr. 77/2016 privind desemnarea reprezentanților Consiliului Local Vulcan în Consiliul de administrație al Spitalului Municipal Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 18/9612/13.02.2017 prin care se propune modificarea HCL nr. 77/2016 privind desemnarea reprezentanților Consiliului Loc",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/567FECEB8A76CA44C225814E00403668/$FILE/HCL%2018.doc",
+     "sha256": "163a949635b6555e56174c3b540258bdb4fc8597007afa4262dc49bddc22e44a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-19-2017",
+   "path": "local/hunedoara/vulcan/2017/19",
+   "short": "HCL Vulcan nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 19/2017 privind alegerea președintelui de ședință pentru lunile martie, aprilie și mai 2017 Consiliul local al municipiului Vulcan; Având în vedere expunerea de motive a primarului municipiului Vulcan , înregistrată sub nr. 14/9612/01.02.2017 prin care se propune alegerea președintelui de ședință pentru martie, aprilie și mai 2017; Văzând Proiectul de hotărâre nr. 14/9613/2017, raportul Comp",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/DB3EF6AFCAC1CB6EC225814E00403671/$FILE/HCL%2019.doc",
+     "sha256": "4da31cadc31081ec67e42663e45c7d6143f24258678c869a0d370b975edd808e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-2-2017",
+   "path": "local/hunedoara/vulcan/2017/2",
+   "short": "HCL Vulcan nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 2/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+     "sha256": "f428ec3541b857c991f10802e0ab67d1898eefc55524c3ea206ddec33a0aa00f"
     }
    ]
   },
@@ -93,6 +573,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-21-2017",
+   "path": "local/hunedoara/vulcan/2017/21",
+   "short": "HCL Vulcan nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 21/2017 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții, și a indicatorilor tehnico-economici pentru investiția „Reabilitare Strada Traian” Consiliul Local al munIcipiului Vulcan, Analizând în vedere expunerea de motive, întocmită de primarul municipiului Vulcan, înregistrată sub nr. 23/9612/10/03.2017 prin care se propune aprobarea Documentației de Avizare a Lucrărilor de Intervenț",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/D8262CF0586FF6DCC225814E00403686/$FILE/HCL%2021.doc",
+     "sha256": "a6fed733f24fb2778338d13fdb5038aea13f5242ebac5f514522891f8922d0c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-22-2017",
+   "path": "local/hunedoara/vulcan/2017/22",
+   "short": "HCL Vulcan nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 22/2017 privind aprobarea bugetului de venituri Èi cheltuieli al municipiului Vulcan pe anul 2017.doc",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/FCE2413648E78406C225814E003F46F7/$FILE/HCL%2022%20-%20privind%20aprobarea%20bugetului%20de%20venituri%20%C3%88%C2%99i%20cheltuieli%20al%20municipiului%20Vulcan%20pe%20anul%202017.doc",
+     "sha256": "521dd6ad2897651f9f31caa85d3eae48209c28f0ad5733db1ff08eaa4e0a358a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-24-2017",
    "path": "local/hunedoara/vulcan/2017/24",
    "short": "HCL Vulcan nr. 24/2017",
@@ -104,6 +614,231 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/28D45AA63A8F82F0C225814E003F5E93/$FILE/HCL%2024.doc",
      "sha256": "14c04d6700c894ec4768da57570daeeb87c2ae92f8d2294ff6d36f30073acd72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-26-2017",
+   "path": "local/hunedoara/vulcan/2017/26",
+   "short": "HCL Vulcan nr. 26/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 26/2017 privind aprobarea cuantumului cotizației de membru a Municipiului Vulcan în A.D.I „Sistem Integrat de Gestionare a Deșeurilor - Județul Hunedoara” pentru anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan, înreg. sub nr. 33/9612/23.03.2017, prin care se propune aprobarea cuantumului cotizației de membru a Municipiului Vulcan în A.D.I „S",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/7617CBF21838F1A6C225814E003F5EA6/$FILE/HCL%2026.doc",
+     "sha256": "aea3c35c5343ad71ac7e123cc0b1acc5273783788d229009d17415a786ef7654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-3-2017",
+   "path": "local/hunedoara/vulcan/2017/3",
+   "short": "HCL Vulcan nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 3/2017 pentru aprobarea Raportului privind realizarea masurilor de prevenire si combatere a marginalizarii sociale pentru anul 2016.PDF",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BCB738ABC78527DDC225810E0048108A/$FILE/HCL%203%20-%20pentru%20aprobarea%20Raportului%20privind%20realizarea%20masurilor%20de%20prevenire%20si%20combatere%20a%20marginalizarii%20sociale%20pentru%20anul%202016.PDF",
+     "sha256": "22b6da8656fc53f7158675dfe0eb94e96cc0e7d5a0c81d60569e3be5a49b7b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-30-2017",
+   "path": "local/hunedoara/vulcan/2017/30",
+   "short": "HCL Vulcan nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 30/2017 Privind alocarea sumei de 5600 de lei în vederea marcării împlinirii a 555 de ani de atestare documentară a localității Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a consilierului local , dl Barbu Pompiliu înregistrată sub 29/9612/17.03.2017 prin care se propune alocarea sumei de 5600 de lei în vederea marcării împlinirii a 555 de ani de atestare documentară a loca",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/8EE09194F47A6105C225814E003F5ECA/$FILE/HCL%2030.doc",
+     "sha256": "7a6779ad4f3aee47956be1cdca6616282ebec1bfd140ab96286812598b300300"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-31-2017",
+   "path": "local/hunedoara/vulcan/2017/31",
+   "short": "HCL Vulcan nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 31/2017 privind aprobarea asocierii Municipiului Vulcan prin Consiliul Local al Municipiului Vulcan cu Județul Hunedoara prin",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-05",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BA21F16A8B8B3F2FC225814E003F5ED3/$FILE/HCL%2031.doc",
+     "sha256": "5762f4de2e8bcce5cfd4503f11591b4488efe8916009c74b81e7bbccba2d983b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-32-2017",
+   "path": "local/hunedoara/vulcan/2017/32",
+   "short": "HCL Vulcan nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 32/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 40/9612/20.04.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 , Văzând Proiectul de hotărâre nr. 40/9613/2017, raportul Direcției economice din cadrul aparatului de",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/D0C8F10D726E9EA0C225814E003F5EE0/$FILE/HCL%2032.doc",
+     "sha256": "b34168482de380f7bbbbbbc49ebbb53031dc8f72d6294d80d9c545e16a507ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-33-2017",
+   "path": "local/hunedoara/vulcan/2017/33",
+   "short": "HCL Vulcan nr. 33/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 33/2017 privind aprobarea execuției bugetare aferentă trim. I al exercițiului bugetar 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 39/9612/20.04.2017 prin care se propune aprobarea execuției bugetare aferente trim I al exercițiului bugetar pe anul 2017; Văzând Proiectul de hotărâre nr. 39/9613/2017, raportul Direcției economice din cadr",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/A40CC3A0AE7FD12DC225814E003F5EE9/$FILE/HCL%2033.doc",
+     "sha256": "a765752bfe7c1f9e55838d35a216c8ca43e051fee69c375c31491fcce84b1098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-34-2017",
+   "path": "local/hunedoara/vulcan/2017/34",
+   "short": "HCL Vulcan nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 34/2017 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici pentru investiția „Modernizarea ambulatoriului din municipiul Vulcan” Consiliul Local al munIcipiului Vulcan, Analizând expunerea de motive, întocmită de primarul municipiului Vulcan, înregistrată sub nr. 36/9612/10.03.2017 , prin care se propune aprobarea Documentației de Avizare a Lucrăril",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/62E606DDE11BD7C7C225814E003F5EF4/$FILE/HCL%2034.doc",
+     "sha256": "484651d34073329f52a66ff6e6d82e4f9b209a7ce139e744805056d58a5e518a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-35-2017",
+   "path": "local/hunedoara/vulcan/2017/35",
+   "short": "HCL Vulcan nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 35/2017 privind aprobarea Planului de Ordine si Siguranță Publică al Poliției Locale a Municipiului Vulcan actualizat în luna martie 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN; Analizând expunerea de motive a primarului municipiului Vulcan înreg. sub nr. 25/9612/16.03.2017 , prin care se propune aprobarea Planului de Ordine si Siguranță Publică al Poliției Locale a Municipiului Vulcan, actualizat în luna",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/E8B45E6D8B8A5E8BC225814E003F5F01/$FILE/HCL%2035.doc",
+     "sha256": "c96896527dfe2ef36e4960b31b916fa2617d9e2ebb6fe3d3012f36c2ddf60461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-36-2017",
+   "path": "local/hunedoara/vulcan/2017/36",
+   "short": "HCL Vulcan nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 36/2017 privind aprobarea Planului de analiză și acoperire a riscurilor actualizat CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 24/8612/16.03.2017 prin care se propune aprobarea Planului de analiză și acoperire a riscurilor actualizat, aprobat prin H.C.L nr. 31/2007; Văzând Proiectul de hotărâre nr. 24/9613/2017, raportul Compa",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/00B343AAD590E7EAC225814E003F5F0A/$FILE/HCL%2036.doc",
+     "sha256": "9a15f9d952f75fb7ca272c17c134a03389b4e00713c3d657206be17360a44e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-37-2017",
+   "path": "local/hunedoara/vulcan/2017/37",
+   "short": "HCL Vulcan nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 37/2017 privind suplimentarea numărului de burse aprobate pentru elevii de la Școala Gimnazială nr. 5 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub nr. 37/9612/11.04.2017 prin care se propune suplimentarea numărului de burse aprobate pentru elevii de la Școala Gimnazială nr. 5, prin Hotărârea Consiliului Local Vulcan nr. 129 /2016 p",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/6F6FC0F11132C15EC225814E003F5F15/$FILE/HCL%2037.doc",
+     "sha256": "64da75e448bc65dcd15b84f2562358a20acebd01287be0b1c0831e1f34f40393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-38-2017",
+   "path": "local/hunedoara/vulcan/2017/38",
+   "short": "HCL Vulcan nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 38/2017 privind aprobarea Actului adițional nr. 1/2017 la Contractul de închiriere nr.141/40702/30.12.2016",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/954CB70194CC6EA2C225814E003F5F25/$FILE/HCL%2038.doc",
+     "sha256": "8722bba6bf706833262609258acd636280222e8e1b8d996282968644db4969f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-39-2017",
+   "path": "local/hunedoara/vulcan/2017/39",
+   "short": "HCL Vulcan nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 39/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/0B9C6FEC3AD0D747C225814E003F5F2E/$FILE/HCL%2039.doc",
+     "sha256": "bfbb742bbb0a5fcf40b9b2c8f5c9e8254d5f6d9547a7500ac042170e2107a545"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-4-2017",
+   "path": "local/hunedoara/vulcan/2017/4",
+   "short": "HCL Vulcan nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 4/2017 privind aprobarea Programului de masuri pentru prevenirea si combaterea marginalizarii sociale in anul 2017.PDF",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/5D7BE93D92E29826C225810E00481093/$FILE/HCL%204%20-%20privind%20aprobarea%20Programului%20de%20masuri%20pentru%20prevenirea%20si%20combaterea%20marginalizarii%20sociale%20in%20anul%202017.PDF",
+     "sha256": "4413d9145b204523fd9296c5c85eb1142f4152f1c9f89209ecf5b89c0b1af29f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-40-2017",
+   "path": "local/hunedoara/vulcan/2017/40",
+   "short": "HCL Vulcan nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 40/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 57/9612/24.05.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și rectificat prin Hotărârea nr. 32/2017; Văzând Proiectul de hotărâre nr. 57/9613/2017, raportul Direc",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/CF6A5D1EDAB69DDBC225814E003FD26A/$FILE/HCL%2040.doc",
+     "sha256": "31ab5f12f884550dba6eaccac5172e1547d883f59cb80ea79d703f339abf4c3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-41-2017",
+   "path": "local/hunedoara/vulcan/2017/41",
+   "short": "HCL Vulcan nr. 41/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 41/2017 privind aprobarea proiectului”ACUM PENTRU VIITORUL VULCANULUI- parteneriat local pentru incluziunea socială” și a bugetului aferent UAT –Municipiul Vulcan, în sumă de 90.178,18lei, din care contribuție proprie în sumă de 1.803,58lei Consiliul Local al munIcipiului Vulcan, Analizând în vedere expunerea de motive, întocmită de primarul municipiului Vulcan, înregistrată sub nr. 46/9612/17.05.2017 pri",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/1C37D98DCDA61F32C225814E00403690/$FILE/HCL%2041.doc",
+     "sha256": "f4552ddd4bf280137a62fef95e826dc8758af3af2e16ec09e5f49aa93961e072"
     }
    ]
   },
@@ -123,6 +858,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-43-2017",
+   "path": "local/hunedoara/vulcan/2017/43",
+   "short": "HCL Vulcan nr. 43/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 43/2017 privind aprobarea Programului anual al municipiului Vulcan pentru finanțarea nerambursabilă a activităților nonprofit de interes general pe anul 2017, în condițiile legii nr. 350/ 2005 și a documentației pentru elaborarea și prezentarea propunerilor de proiecte finanțate din fondurile publice ale municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Având în vedere Expunerea de motive înregi",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4665E2F75360FC57C225814E003FD27F/$FILE/HCL%2043.doc",
+     "sha256": "0980c1ed10a0125f19d5bd617904a1c70ea681c9eca92ea11fbb5f256232eced"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-44-2017",
    "path": "local/hunedoara/vulcan/2017/44",
    "short": "HCL Vulcan nr. 44/2017",
@@ -134,6 +884,201 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/8223C20E51DB7C6EC225814E003FD288/$FILE/HCL%2044.doc",
      "sha256": "18b44bddaee4aa52c5bed4a680a1efa4bcb40fd08812a3bb1a9aca3d8a870ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-45-2017",
+   "path": "local/hunedoara/vulcan/2017/45",
+   "short": "HCL Vulcan nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 45/2017 privind însușirea inventarului bunurilor care alcătuiesc domeniul public al municipiului Vulcan Având în vedere expunerea de motive a primarului municipiului Vulcan înregistrată sub nr. 50/9612/19.02.2017 prin care se propune însușirea inventarului bunurilor care alcătuiesc domeniul public al municipiului Vulcan; Văzând Proiectul de hotărâre nr. 50/9613/2017, raportul Direcției Tehnice, Comp",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/962660C97E3FCFBFC225814E003FD291/$FILE/HCL%2045.doc",
+     "sha256": "8dfc99e10add27bd79abfb787aad720719b5c743d9643711f585a2f815059789"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-46-2017",
+   "path": "local/hunedoara/vulcan/2017/46",
+   "short": "HCL Vulcan nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 46/2017 privind aprobarea închirierii prin licitație publică a unor locuri de parcare de reședință, aparținând domeniului public al municipiului Vulcan Consiliul local al municipiului Vulcan, Având în vedere expunerea de motive a Primarului municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/407974CEA3839092C225814E003FD29C/$FILE/HCL%2046.docx",
+     "sha256": "be42dfefa1a5faff867c8bc75f04f67f22eb2a1417f481fd86227497eb232a42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-47-2017",
+   "path": "local/hunedoara/vulcan/2017/47",
+   "short": "HCL Vulcan nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 47/2017 privind închirierea prin licitație publică a unui spațiu din cadrul imobilului ”Spital municipal Vulcan” , aparținând domeniului public al municipiului Vulcan, situat în Vulcan, str . N. Titulescu, nr. 59, parter în vederea amenajării unui cabinet psihologic Consiliul local al MUNICIPIULUI Vulcan, Analizând expunerea Primarului Municipiului Vulcan, înregistrată sub nr. 48/9612/18.05.2017 prin care",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/3D93FB63A9655363C225814E003FD2A7/$FILE/HCL%2047.DOC",
+     "sha256": "ff328eed0441d348c9ba94738adae80a0cc703eae266b43b3b4ce38d1a7a3b8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-48-2017",
+   "path": "local/hunedoara/vulcan/2017/48",
+   "short": "HCL Vulcan nr. 48/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 48/2017 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului public al municipiului Vulcan , în suprafață de 42 mp , situat pe B-dul Mihai Viteazu, Bl. 82, în vederea amenajării unei terase Consiliul local al municipiului Vulcan, Având în vedere expunerea de motive a Primarului municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/9E30343A19E5F507C225814E003FD2B2/$FILE/HCL%2048.docx",
+     "sha256": "9616dea18acb63645d343e0c8e32fa7e42859debd95da043ac866072e656d29c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-49-2017",
+   "path": "local/hunedoara/vulcan/2017/49",
+   "short": "HCL Vulcan nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 49/2017 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului public al municipiului Vulcan , în suprafață de 27 mp , situat pe str",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/43C192D4F4FE0127C225814E003FD2BC/$FILE/HCL%2049.docx",
+     "sha256": "b0b3e1a9faae09c8151a8296e4f7b48f6bfb2c72d6904c56b2cd7bb02ff982ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-50-2017",
+   "path": "local/hunedoara/vulcan/2017/50",
+   "short": "HCL Vulcan nr. 50/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 50/2017 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului public al municipiului Vulcan, în suprafață de 35,49 mp , situat pe B-dul Mihai Viteazu, Bl. 81, în vederea amenajării unei terase Consiliul local al municipiului Vulcan, Având în vedere expunerea de motive a Primarului municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/C8B56EEAAAAF31C9C225814E003FD2C7/$FILE/HCL%2050.docx",
+     "sha256": "6fcb6a08217d0941299a218c53a6958834ff42f03f16adbd5899573ba7b17a7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-51-2017",
+   "path": "local/hunedoara/vulcan/2017/51",
+   "short": "HCL Vulcan nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 51/2017 privind concesionarea prin licitație publică a unui ansamblu imobiliar (construcții industriale și teren intravilan) aparținând domeniului public al municipiului Vulcan, situate în Vulcan, B-dul Mihai Viteazu (târgul săptămânal) CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Văzând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 55/9612/22.05.2017 prin care se propune concesiona",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/3742652EC302977BC225814E003FD2D0/$FILE/HCL%2051.docx",
+     "sha256": "ebd5ebdf4b11ea698b80684f1afa81ca639f03feab95300ee017e6280fbee955"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-52-2017",
+   "path": "local/hunedoara/vulcan/2017/52",
+   "short": "HCL Vulcan nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 52/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/438DDF0AD60B5167C225814E003FD2E0/$FILE/HCL%2052.doc",
+     "sha256": "7600f192ca9271dc9ab2fee3733279155c2c5972b529904f979f0b798f5beb93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-54-2017",
+   "path": "local/hunedoara/vulcan/2017/54",
+   "short": "HCL Vulcan nr. 54/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 54/2017 privind revocarea unei clauze cuprinsă în anexa la Hotărârea Consiliului Local nr. 38/2017 privind aprobarea actului Adițional nr. 1/2017 la Contractul de închiriere nr. 141/40702/30.12.2016 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului municipiului Vulcan, înregistrată sub nr.58/9612/29.05.2017, prin care se propune revocarea unei clauze cuprinsă în anexa la H",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/611B2108B0A072CEC225814E003FD2F5/$FILE/HCL%2054.doc",
+     "sha256": "fdca9cf13fb0e3275df894eb68ff952d53ca22b384995c7eefa824e4ad9a2c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-55-2017",
+   "path": "local/hunedoara/vulcan/2017/55",
+   "short": "HCL Vulcan nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 55/2017 privind alegerea președintelui de ședință pentru lunile iunie, iulie și august 2017 Consiliul local al municipiului Vulcan; Având în vedere expunerea de motive a primarului municipiului Vulcan , înregistrată sub nr. 42/9612/11.05.2017 prin care se propune alegerea președintelui de ședință pentru lunile iunie, iulie și august 2017; Văzând Proiectul de hotărâre nr. 42/9613/2017, raportul Compartimen",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/B852142D4020DBFFC225814E003FD2FF/$FILE/HCL%2055.doc",
+     "sha256": "ff9984f239c02489fc9aff96e10e370a9b9fd407d30096e340d2491862b5ea02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-56-2017",
+   "path": "local/hunedoara/vulcan/2017/56",
+   "short": "HCL Vulcan nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 56/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 61/9612/2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017 și Dispoziția nr. 788/2017; Văzând Proiectul",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/FF2C9C56012F9909C225818500328808/$FILE/HCL%2056.doc",
+     "sha256": "99c05e921e63505dc609fe59a8f575df797e7a27a1aa30522744ff3d3c6a2558"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-57-2017",
+   "path": "local/hunedoara/vulcan/2017/57",
+   "short": "HCL Vulcan nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 57/2017 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului public al municipiului Vulcan, în suprafață de 53 mp , situat pe B-dul Mihai Viteazu, Bl. 80, în vederea amenajării unei terase Consiliul local al municipiului Vulcan, Având în vedere expunerea de motive a Primarului municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/B99C0CB9541111EDC225818500328829/$FILE/HCL%2057.doc",
+     "sha256": "d57daead9ce65a9fdba50450a064f6b50486ce0c8a048c88354d99ea0a8160d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-58-2017",
+   "path": "local/hunedoara/vulcan/2017/58",
+   "short": "HCL Vulcan nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 58/2017 privind aprobarea unor reglementări privind deținerea câinilor de companie și accesul persoanelor însoțite de câini în spații special amenajate din municipiul Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea primarului municipiului Vulcan, înregistrată sub nr.41/9612/08.05.2017 prin care se propune aprobarea unor reglementări privind deținerea câinilor de companie și accesul pers",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F6CDCF9211FEF7F4C225818500328843/$FILE/HCL%2058.doc",
+     "sha256": "4a63482d1f5fae2aea75413343303b67f81bf6dc6c4328565d78fa58e5a49ca0"
     }
    ]
   },
@@ -153,6 +1098,411 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-60-2017",
+   "path": "local/hunedoara/vulcan/2017/60",
+   "short": "HCL Vulcan nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 60/2017 privind acordarea titlului de „CETĂȚEAN DE ONOARE” al municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan , înregistrată sub nr. 60/9612/2017 prin care se propune acordarea titlului de „CETĂȚEAN DE ONOARE” unor persoane cu merite deosebite în viața socială, economică, culturală , sportivă a municipiului Vulcan, Văzând Proiectul",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/687934734AB8CC78C2258185003288FC/$FILE/HCL%2060.doc",
+     "sha256": "9df7d6c00437606d98d78074823ee0d32375342889aa8aea6ba7512c3fc660d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-63-2017",
+   "path": "local/hunedoara/vulcan/2017/63",
+   "short": "HCL Vulcan nr. 63/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 63/2017 privind alegerea președintelui de ședință pentru ședința extraordinară a consiliului local din data de 12 iulie 2017 Consiliul local al municipiului Vulcan; Având în vedere expunerea de motive a primarului municipiului Vulcan , înregistrată sub nr. 65/9612/07.07.2017 prin care se propune alegerea președintelui de ședință pentru ședința extraordinară a consiliului local din data de 12 iulie 2017; V",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/FAE0C46C824D147AC22581850032894C/$FILE/HCL%2063.doc",
+     "sha256": "a2a6628ebd7cd7126df2598199189c35b660b3700ca3987986056fe5ace71d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-64-2017",
+   "path": "local/hunedoara/vulcan/2017/64",
+   "short": "HCL Vulcan nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 64/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr.66/9612/07.07.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017 și Hotărârea C",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/A25945E6ECAB4481C22581850032895D/$FILE/HCL%2064.doc",
+     "sha256": "7bc6645801394b6e4f351ef8a028032420e5b0c57b340affca76dbc4d176fedb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-66-2017",
+   "path": "local/hunedoara/vulcan/2017/66",
+   "short": "HCL Vulcan nr. 66/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 66/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 76/9612/18.07.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22/2017 și prin H.C.L nr. 32/2017, HCL nr. 40/2017, Dispoziția nr.746/2017, Dispoziția nr. 788/2017, H.C.L nr. 56",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/6522DF1765A25CB1C2258185003289A6/$FILE/HCL%2066.doc",
+     "sha256": "c3a8f6fd3a4f7c2e12cc180cadcc89d84c3dee721c0625e7057b3f9b470d088f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-68-2017",
+   "path": "local/hunedoara/vulcan/2017/68",
+   "short": "HCL Vulcan nr. 68/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 68/2017 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului municipiului Vulcan, a instituțiilor și serviciilor publice, fără personalitate juridică, aflate în subordinea Consiliului local Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN; Analizând expunerea de motive înregistrată sub nr. 68/9612/11.07.2017, întocmită",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/6745AB649288B0FEC2258185003289C4/$FILE/HCL%2068.doc",
+     "sha256": "078a918c8c017bd099293d60287a85cef9bb53b8258363619e911f5b0a1d977d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-69-2017",
+   "path": "local/hunedoara/vulcan/2017/69",
+   "short": "HCL Vulcan nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 69/2017 privind aprobarea asocierii Consiliului Local al municipiului Vulcan cu Asociația Fanfarei Vulcan în vederea desfășurării activităților cultural- artistice în municipiul Vulcan. CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub nr. 75/9612/18.07.2017 prin care se propune aprobarea asocierii Consiliului Local al municipiului Vulc",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/7BB202FE3D480527C2258185003289F7/$FILE/HCL%2069.doc",
+     "sha256": "f68ebb8a19a9b3a1db4a06f633538ac4d408b9b3dc62f970b1f8639f3ecbc2ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-7-2017",
+   "path": "local/hunedoara/vulcan/2017/7",
+   "short": "HCL Vulcan nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 7/2017 privind aprobarea Planului de actiuni de interes local pe anul 2016 conform legii nr. 416-2001 privind venitul minim garantat.PDF",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/ABB81D03B618FCEDC225810E004810AC/$FILE/HCL%207%20-%20privind%20aprobarea%20Planului%20de%20actiuni%20de%20interes%20local%20pe%20anul%202016%20conform%20legii%20nr.%20416-2001%20privind%20venitul%20minim%20garantat.PDF",
+     "sha256": "cf204fd9ad9a4a5cd49f7f5d657f5e06f7e0c71d9fac2367270519f32d4774f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-70-2017",
+   "path": "local/hunedoara/vulcan/2017/70",
+   "short": "HCL Vulcan nr. 70/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 70/2017 privind constituirea comisiei de licitație publică pentru concesionarea unui ansamblu imobiliar (construcții industriale și teren intravilan) aparținând domeniului public al municipiului Vulcan, situate în Vulcan, B- dul Mihai Viteazu (târgul săptămânal) CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub nr.71/9612/17.07.2017 pri",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/250AAE49296CEEF2C225818500328A01/$FILE/HCL%2070.doc",
+     "sha256": "373e96b43304aba387685cab557e85b23026fc7b6639751ab80ade8ec660f51d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-71-2017",
+   "path": "local/hunedoara/vulcan/2017/71",
+   "short": "HCL Vulcan nr. 71/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 71/2017 pentru modificarea Hotărârii Consiliului Local Vulcan nr. 41/2017 privind aprobarea proiectului”ACUM PENTRU VIITORUL VULCANULUI- parteneriat local pentru incluziunea socială” Consiliul Local al munIcipiului Vulcan, Analizând în vedere expunerea de motive, întocmită de primarul municipiului Vulcan, înregistrată sub nr. 70/9612/17.07.2017 , prin care se propune modificarea Hotărârii Consiliului Loca",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/C07A00FB02CD852DC225818500328A15/$FILE/HCL%2071.doc",
+     "sha256": "8a08990a3b2a3db4b491eb900f25b6c5298ade464119a9c700576e200198dd6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-72-2017",
+   "path": "local/hunedoara/vulcan/2017/72",
+   "short": "HCL Vulcan nr. 72/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 72/2017 pentru aprobarea modificării Hotărârii Consiliului Local numărul 67/2015 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiție „Alee, trotuar, scări - Proiect cartier Traian”, a Hotărârii Consiliului Local numărul 25/2016 pentru aprobarea indicatorilor tehnico-economici actualizați reprezentând noua valoare a inv",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/1215553E710E6C73C225818500328A22/$FILE/HCL%2072.doc",
+     "sha256": "b339af557b3fa2a10ef109398cfb745857bf8db4c51156d4935fa52efdb8769d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-73-2017",
+   "path": "local/hunedoara/vulcan/2017/73",
+   "short": "HCL Vulcan nr. 73/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 73/2017 pentru aprobarea modificării Hotărârii Consiliului Local numărul 64/2015 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiție „Modernizare trotuare și alei rutiere în zona Liceu Centru Vechi”, a Hotărârii Consiliului Local numărul 23/2016 privind aprobarea indicatorilor tehnico-economici actualizați reprezentând",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BAA8096B6582492BC225818500328A2D/$FILE/HCL%2073.doc",
+     "sha256": "8d005914127e3580879c0c5f717154bb3a8ba30fb9078bb86e46f3dcc1f04e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-74-2017",
+   "path": "local/hunedoara/vulcan/2017/74",
+   "short": "HCL Vulcan nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 74/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/499D25F6573166EDC225818500328A3B/$FILE/HCL%2074.doc",
+     "sha256": "c1a77de5bb221362039072026e800853c00616380778a17015f54f09022c510d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-75-2017",
+   "path": "local/hunedoara/vulcan/2017/75",
+   "short": "HCL Vulcan nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 75/2017 pentru aprobarea cofinanțarii de la bugetul local în sumă de 41.021,75 lei (inclusiv TVA) pentru obiectivul de investiții: “Reabilitare Strada Traian” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 78/9612/18.07.2017 , prin care se propune pentru aprobarea cofinanțarii de la bugetul local în sumă de 41.021,75 lei (inclusi",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/C6FEC5B5CA67C0E2C225818500328A44/$FILE/HCL%2075.doc",
+     "sha256": "088d4fb4ae74ff0d4a2a67b8920bf1338dbb8e304f817fa9558c1291ee8f01d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-76-2017",
+   "path": "local/hunedoara/vulcan/2017/76",
+   "short": "HCL Vulcan nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 76/2017 pentru aprobarea cofinanțarii de la bugetul local în sumă de 258,881,99 lei (inclusiv TVA) pentru obiectivul de investiții: ”Modernizare străzi și alei pietonale în zona Liceu - Centru Vechi, municipiul Vulcan, județul Hunedoara” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 79/9612/18.07.2017 , prin care se propune apro",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/EE1D9CE77CABD165C225818500328A4F/$FILE/HCL%2076.doc",
+     "sha256": "736a26ec01752be0171173423a897aadc0b1d6a98ee21a83dd9af030c89d2329"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-77-2017",
+   "path": "local/hunedoara/vulcan/2017/77",
+   "short": "HCL Vulcan nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 77/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/317FE90431BF3AB5C225818500328A58/$FILE/HCL%2077.doc",
+     "sha256": "2e94d648acf70c60af701cd0c2e14c01d9d8990ee087035e46e887f75c574c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-78-2017",
+   "path": "local/hunedoara/vulcan/2017/78",
+   "short": "HCL Vulcan nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 78/2017 pentru aprobarea valorii actualizate a investiției „Modernizare străzi și alei pietonale în zona Liceu - Centru Vechi, municipiul Vulcan, județul Hunedoara” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 81/9612/01.08.2017 , prin care se propune aprobarea valorii actualizate a investiției „Modernizare străzi și alei pieton",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/026085CF7E90F326C225818500328A63/$FILE/HCL%2078.doc",
+     "sha256": "6268f432d68d2a7ad58b599cd8051965ef51284b6c9cc95c07a3584d7d999b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-79-2017",
+   "path": "local/hunedoara/vulcan/2017/79",
+   "short": "HCL Vulcan nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 79/2017 pentru aprobarea valorii actualizate a investiției „Reabilitare Strada Traian, municipiul Vulcan, județul Hunedoara” Consiliul Local al munIcipiului Vulcan, Analizând în vedere expunerea de motive, întocmită de primarul municipiului Vulcan, înregistrată sub nr.82/9612/01.08.2017, prin care se solicită aprobarea valorii actualizate a investiției „Reabilitare Strada Traian municipiul Vulcan, județul",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F4991CAA187D3F1DC225818500328A70/$FILE/HCL%2079.doc",
+     "sha256": "57dd9e4aad716fb06b0056e218ca5b5fd441e19c51d7c1f51516ce35ce3cb993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-8-2017",
+   "path": "local/hunedoara/vulcan/2017/8",
+   "short": "HCL Vulcan nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 8/2017 privind mentinerea in anul 2017 a taxelor de inchiriere si folosinta a terenurilor apartinand domeniului public si privat al municipiului Vulcan,asa cum au fost stabilite prin.PDF",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4956FBF5ED535D86C225810E004810B5/$FILE/HCL%208%20-%20privind%20mentinerea%20in%20anul%202017%20a%20taxelor%20de%20inchiriere%20si%20folosinta%20a%20terenurilor%20apartinand%20domeniului%20public%20si%20privat%20al%20municipiului%20Vulcan,asa%20cum%20au%20fost%20stabilite%20prin.PDF",
+     "sha256": "4d07a5bb0d3ad9c724a30e1e77bbac3b93cc618542e1ec304e70c72fd241bec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-80-2017",
+   "path": "local/hunedoara/vulcan/2017/80",
+   "short": "HCL Vulcan nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 80/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F717A19338F6E282C225818500328A78/$FILE/HCL%2080.doc",
+     "sha256": "135837d8f5b33e477df8ddfb60bc1f300c84c90527d02982273e368967e60c72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-81-2017",
+   "path": "local/hunedoara/vulcan/2017/81",
+   "short": "HCL Vulcan nr. 81/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 81/2017 privind modificarea Hotărârii Consiliului Local numărul 76/2017 pentru aprobarea cofinanțarii de la bugetul local în sumă de 258,881,99 lei (inclusiv TVA) pentru obiectivul de investiții: ”Modernizare străzi și alei pietonale în zona Liceu - Centru Vechi, municipiul Vulcan, județul Hunedoara” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului Municipiului Vulcan înr",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/25A0C8571AB33914C225818500328A7F/$FILE/HCL%2081.doc",
+     "sha256": "4bdfc3094f5a6cbcaeafd19fad4d710ac65584a6755430f7933b48110b22984e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-82-2017",
+   "path": "local/hunedoara/vulcan/2017/82",
+   "short": "HCL Vulcan nr. 82/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 82/2017 privind modificarea Hotărârii Consiliului Local numărul 75/2017 pentru aprobarea cofinanțarii de la bugetul local în sumă de 41.021,75 lei (inclusiv TVA) pentru obiectivul de investiții: “Reabilitare Strada Traian, municipiul Vulcan, judetul Hunedoara” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului Municipiului Vulcan înregistrată sub nr. 85/9612/2017 , prin car",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/0139ACBEE6497904C225818500328A89/$FILE/HCL%2082.doc",
+     "sha256": "95fc7879b8c29ea77ba30b7c3ea445ccb8a5a997c6f8b7a55dae1c7586dfb443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-83-2017",
+   "path": "local/hunedoara/vulcan/2017/83",
+   "short": "HCL Vulcan nr. 83/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 83/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr.90/9612/24.08.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și rectificat prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017, HC",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/EDA0648F00A21293C225819C0022BF54/$FILE/HCL%2083.doc",
+     "sha256": "607c86f4832ce8c4600fef451f7f1a364016081214679dea26e353d9423da8d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-84-2017",
+   "path": "local/hunedoara/vulcan/2017/84",
+   "short": "HCL Vulcan nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 84/2017 privind aprobarea ocupării temporare de către S.N.T.G.N",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/8610A5BEF97E73CAC225819C0022BF65/$FILE/HCL%2084.doc",
+     "sha256": "f4c4944b4b5a2de54a96ff26d4165aa99411b0223f3142a34cbf6cf007bd3a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-85-2017",
+   "path": "local/hunedoara/vulcan/2017/85",
+   "short": "HCL Vulcan nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 85/2017 privind stabilirea indemnizației de ședință pentru membrii Consiliului Local Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN; Analizând expunerea de motive înregistrată sub nr. 87/9612/16.08.2017, întocmită de Primarul Municipiului Vulcan, prin care se propune stabilirea indemnizației de ședință pentru membrii Consiliului Local Vulcan; Văzând Proiectul de hotărâre nr. 87/9613/2017, Compartimentului",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/AA99A75A35C7D246C225819C0022BF81/$FILE/HCL%2085.doc",
+     "sha256": "747570116a6c1db8004c0737dbaee6b37b7d8c0bb24226f5818678d7db1cf5b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-86-2017",
+   "path": "local/hunedoara/vulcan/2017/86",
+   "short": "HCL Vulcan nr. 86/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 86/2017 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ”Branșament la rețeaua de apă potabilă stația de sortare a deșeurilor municipiul Vulcan” Consiliul Local al munIcipiului Vulcan, Analizând expunerea de motive, întocmită de primarul municipiului Vulcan, înregistrată sub nr. 89/9612/23.08.2017 prin care se propune aprobarea indicatorilor tehnico-economici ai obiectivulu",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/2D592464992D4C49C225819C0022BF96/$FILE/HCL%2086.doc",
+     "sha256": "9227b049c68c8e21ef4261f7ea796098c0aca29099b97bc9ca9aa618d6863c5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-87-2017",
+   "path": "local/hunedoara/vulcan/2017/87",
+   "short": "HCL Vulcan nr. 87/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 87/2017 privind aprobarea documentației Studiu de Fezabilitate pentru obiectivul de investiție: „Construire Punct Termic Cămine Sociale C2 , C3 și pavilioane D și E” CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Având în vedere Expunerea de motive înregistrată sub nr. 91/9612/31.08.2017 întocmită de Primarul municipiului Vulcan , dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/DFBF47C099D00CF1C225819C0022BFAF/$FILE/HCL%2087.doc",
+     "sha256": "7bd65b04f7af13642034a208b2bda4ed2b6ca1dfeec7b67afa02a4bca535a822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-88-2017",
+   "path": "local/hunedoara/vulcan/2017/88",
+   "short": "HCL Vulcan nr. 88/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 88/2017 privind alegerea președintelui de ședință pentru lunile septembrie, octombrie și noiembrie 2017 Consiliul local al municipiului Vulcan; Având în vedere expunerea de motive a primarului municipiului Vulcan , înregistrată sub nr. 86/9612/16.08.2017 prin care se propune alegerea președintelui de ședință pentru lunile septembrie, octombrie și noiembrie 2017; Văzând Proiectul de hotărâre nr. 86/9613/20",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4457A219D6E8D971C225819C0022BFC0/$FILE/HCL%2088.doc",
+     "sha256": "cff60a024aa2d405288e85ec1c5556bdb8dae4944bc080600787389af9dc9514"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-89-2017",
    "path": "local/hunedoara/vulcan/2017/89",
    "short": "HCL Vulcan nr. 89/2017",
@@ -164,6 +1514,96 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/8951FDFA8617D46FC22581A800441E5C/$FILE/HCL%2089.doc",
      "sha256": "66f6fe53835c06d4abc773300a95c5502900cb9ad8ed86d2d99cbc2b987ab3cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-90-2017",
+   "path": "local/hunedoara/vulcan/2017/90",
+   "short": "HCL Vulcan nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 90/2017",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F2638B79DC4EF9D8C22581A800441E67/$FILE/HCL%2090.doc",
+     "sha256": "728669e2cc1c2edfa0732b6ca95052d5c9e18cb5938193558f4563f30e2a3fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-91-2017",
+   "path": "local/hunedoara/vulcan/2017/91",
+   "short": "HCL Vulcan nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 91/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. 94/9612/15.09.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și rectificat prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017, H",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/1D1E3CC3439EEBACC22581A800441E72/$FILE/HCL%2091.doc",
+     "sha256": "a6b713e8bcf6afe4e17082e0c6f9c82be5e5e7b65acec599352b4bbae7c7b2a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-92-2017",
+   "path": "local/hunedoara/vulcan/2017/92",
+   "short": "HCL Vulcan nr. 92/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 92/2017 privind rectificarea bugetului local pe anul 2017 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând raportul primarului municipiului Vulcan înregistrat sub nr. nr.99/9612/22.09.2017 prin care se propune rectificarea bugetului local pe anul 2017 aprobat prin Hotărârea Consiliului Local nr. 22 / 2017 și prin HCL nr. 32/2017, HCL nr.40/2017, Dispoziția nr. 746/2017, Dispoziția nr. 788/2017, Hotărârea",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BC1E8E76098DA1DEC22581D7004A05FE/$FILE/HCL%2092.doc",
+     "sha256": "84b9bc6383ff3bd9effb9eccda2b63be5bf1717c81666001a3ede3f64a1d95a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-93-2017",
+   "path": "local/hunedoara/vulcan/2017/93",
+   "short": "HCL Vulcan nr. 93/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 93/2017 privind aprobarea Planului de ocupare a funcțiilor publice din cadrul aparatului de specialitate al primarului municipiului Vulcan pentru anul 2018 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN; Analizând expunerea de motive înregistrată sub nr. 95/9612/18.09.2017, întocmită de Primarul Municipiului Vulcan, prin care se propune aprobarea Planului de ocupare a funcțiilor publice pentru anul 2018; Văzând P",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/9D3B1DC5FC2E9AC3C22581D7004A060A/$FILE/HCL%2093.doc",
+     "sha256": "4f06fc49a5646ad11394e8a0bd50d8b37fd64978a9ad907da950885d65004a37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-94-2017",
+   "path": "local/hunedoara/vulcan/2017/94",
+   "short": "HCL Vulcan nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 94/2017 pentru modificarea Hotărârii Consiliului Local nr. 64 /2010 privind constituirea comisiei de avizare a cererilor de organizare a adunărilor publice în municipiul Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Primarului municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/CB53BE9561B310D5C22581D7004A061A/$FILE/HCL%2094.doc",
+     "sha256": "56e8284d3c4dd62a9a5ca08d17337fecbb4184d820f7894b4810392cab10ffb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-95-2017",
+   "path": "local/hunedoara/vulcan/2017/95",
+   "short": "HCL Vulcan nr. 95/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 95/2017 pentru modificarea H.CL. nr. 92/2016 privind desemnarea reprezentanților Consiliului Local Vulcan în Consiliul de administrație la unitățile de învățământ de pe raza municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Având în vedere expunerea de motive înregistrată sub nr. 98/9612/18.09.2017 întocmită de Primarul Municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2017-0000125e?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/B1C59983ECD3E732C22581D7004A0626/$FILE/HCL%2095.doc",
+     "sha256": "453d55c1040ad497f70381c3f611ef30dd40ec1e82db49ea22f080d278b12dc2"
     }
    ]
   }

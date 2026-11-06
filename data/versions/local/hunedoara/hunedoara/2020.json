@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-101-2020",
+   "path": "local/hunedoara/hunedoara/2020/101",
+   "short": "HCL Hunedoara nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 101/2020 privind aprobarea prelungirii duratei contractelor de închiriere având ca obiect bunurile aflate în domeniul public al municipiului Hunedoara și date în administrarea Serviciului Public Administrația Piețelor, Târgurilor și Oboarelor din municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3589",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6344/HCL_101-2020.pdf",
+     "sha256": "92ed92fdf816afe53127c8caa9c37cdad1c2d5161cb16085477773c7d7b970e9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-103-2020",
    "path": "local/hunedoara/hunedoara/2020/103",
    "short": "HCL Hunedoara nr. 103/2020",
@@ -104,6 +119,66 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6203/HCL_106-2020.pdf",
      "sha256": "0c50174c398c291fe4d22ff8b0d0839463dbe1e589dfc2fb7ce65541caa100a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-107-2020",
+   "path": "local/hunedoara/hunedoara/2020/107",
+   "short": "HCL Hunedoara nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 107/2020 privind suspendarea tuturor drepturilor şi obligaţiilor care decurg din contractele de închiriere a spaţiilor, terenurilor, căsuţelor aparţinând domeniului public şi/sau privat al Municipiului Hunedoara situate în incinta ori în imediata apropiere a Castelului Corvinilor, precum și din cadrul Bazinului de Înot",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3595",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6347/HCL_107-2020.pdf",
+     "sha256": "65425a3abd0e7345b9d3af05edab29be4c3db9864b137b4b3e9cb84429ab4c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-108-2020",
+   "path": "local/hunedoara/hunedoara/2020/108",
+   "short": "HCL Hunedoara nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 108/2020 privind suspendarea tuturor drepturilor şi obligaţiilor care decurg din contractele de închiriere şi utilizare a terenurilor aparţinând domeniului public şi/sau privat al Municipiului Hunedoara, cu destinaţia terasă",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3599",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6348/HCL_108-2020.pdf",
+     "sha256": "b0825d39617453a0946ee779168002d0e95ce4e94ce3633485001fb517cd97bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-109-2020",
+   "path": "local/hunedoara/hunedoara/2020/109",
+   "short": "HCL Hunedoara nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 109/2020 privind suspendarea tuturor drepturilor şi obligaţiilor care decurg din contractele de închiriere având ca obiect bunurile aparţinând domeniului public şi/sau privat al Municipiului Hunedoara și date în administrarea Serviciului Public Administrația Piețelor, Târgurilor și Oboarelor din municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3596",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6349/HCL_109-2020.pdf",
+     "sha256": "eadfa28c066a0a937f4a753e11e76d86edc98b4ec164c5dd68a9a8c6e979dea8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-11-2020",
+   "path": "local/hunedoara/hunedoara/2020/11",
+   "short": "HCL Hunedoara nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 11/2020 privind aprobarea raportului informării şi consultării publicului, precum și a Planului Urbanistic de Detaliu - “Extindere pe verticală complex servicii şi alimentaţie publică”, str. Alexandru Vlahuţă, nr. 16B, localitatea Hunedoara, judeţul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3219",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6104/HCL_11-2020.pdf",
+     "sha256": "5186a0f3ec4d4ef6c1c736858df859b8f8e9fa33c797bb764455f03726942718"
     }
    ]
   },
@@ -254,6 +329,21 @@
      "units": 6,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6272/HCL_119-2020.pdf",
      "sha256": "7950ef43bd43fd9c1c2f6c27da6f9e06cd1cf6100a8237ea0ebf6ec7b49d2c1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-12-2020",
+   "path": "local/hunedoara/hunedoara/2020/12",
+   "short": "HCL Hunedoara nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 12/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3220",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6105/HCL_12-2020.pdf",
+     "sha256": "2c46083ef483edbb1dc8301833bb57bb4629f664d811f319770db8ba3583bb72"
     }
    ]
   },
@@ -513,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-14-2020",
+   "path": "local/hunedoara/hunedoara/2020/14",
+   "short": "HCL Hunedoara nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 14/2020 privind acordarea scutirii la plata impozitului pentru clădirea situată în Municipiul Hunedoara, str. Cerbului, nr. 12, bl. A1, ap. 4, proprietatea Asociaţiei Nevăzătorilor din România – Filiala Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3222",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6109/HCL_14-2020.pdf",
+     "sha256": "9dbbe882243f61cd2e758457519ab2362b8fc3f14a5540089634242ddb8eae55"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-142-2020",
    "path": "local/hunedoara/hunedoara/2020/142",
    "short": "HCL Hunedoara nr. 142/2020",
@@ -528,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-143-2020",
+   "path": "local/hunedoara/hunedoara/2020/143",
+   "short": "HCL Hunedoara nr. 143/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 143/2020 privind acordul Consiliului Local al Municipiului Hunedoara pentru închirierea prin licitaţie publică, de către Spitalul Municipal “Dr. Al. Simionescu” Hunedoara, a terenului în suprafaţă de 1.962,24 mp aflat în administrarea acestuia şi în domeniul public al Municipiului Hunedoara, cu destinaţia amenajare teren de sport (tenis)",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3659",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6385/HCL_143-2020.pdf",
+     "sha256": "962407eea61f210889fbc03a3b64118c4bb41a95d626211ca5ad65da414c7468"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-144-2020",
    "path": "local/hunedoara/hunedoara/2020/144",
    "short": "HCL Hunedoara nr. 144/2020",
@@ -539,6 +659,51 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6391/HCL_144-2020.pdf",
      "sha256": "ea4bf9515c8ab23300d06050c3880c9cb46d8d73be60731e407f99e2f4c7cbd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-145-2020",
+   "path": "local/hunedoara/hunedoara/2020/145",
+   "short": "HCL Hunedoara nr. 145/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 145/2020 privind aprobarea trecerii din proprietatea Statului Român în proprietatea privată a municipiului Hunedoara a unor terenuri aflate în intravilanul municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3904",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6392/HCL_145-2020.pdf",
+     "sha256": "e0183e16253bdd428f1891569457e9312c12d268ed95d5e4472b0b587ffb5b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-146-2020",
+   "path": "local/hunedoara/hunedoara/2020/146",
+   "short": "HCL Hunedoara nr. 146/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 146/2020 privind însuşirea Raportului informării şi consultării publicului, precum şi aprobarea Planului Urbanistic de Detaliu”Realizarea spaţii de cazare prin mansardare parţială clădire” strada 1 Decembrie 1918, nr.6, et. P+1, ap.1, localitatea Hunedoara, municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3905",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6397/HCL_146-2020.pdf",
+     "sha256": "6f9e5af143f387c86c06b086f4f954493aa7f9f7ca3ae6718663d14f18d7876d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-147-2020",
+   "path": "local/hunedoara/hunedoara/2020/147",
+   "short": "HCL Hunedoara nr. 147/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 147/2020 privind modificarea punctului 54 din Anexa nr.1 la Hotărârea Consiliului Local nr. 63/2020 privind prelungirea contractelor de închiriere pentru unităţile locative construite de către Agenţia Naţională pentru Locuinţe din municipiul Hunedoara, Str. Luncii, nr.2, blocul 7 şi Aleea Cîmpului, nr.4, blocul 6",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3906",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6398/HCL_147-2020.pdf",
+     "sha256": "fab37cc7f7323c1514577f72df9e0ca02dfc3146a04e1227955bd768596e67dc"
     }
    ]
   },
@@ -678,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-158-2020",
+   "path": "local/hunedoara/hunedoara/2020/158",
+   "short": "HCL Hunedoara nr. 158/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 158/2020 privind suspendarea pe durată determinată a tuturor drepturilor şi obligaţiilor ce decurg din contractul de închiriere nr. 336/29.05.2017 încheiat între Municipiul Hunedoara şi societatea Devacan SRL, pentru spaţiul comercial situat în incinta complexului sportiv „Michael Klein” - Ştrandul Corvina",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3918",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6402/HCL_158-2020.pdf",
+     "sha256": "989079c0d2942dcb04ee2e1639f42a09edc2276cd8ce11ec0afee9c5e96b0c17"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-159-2020",
    "path": "local/hunedoara/hunedoara/2020/159",
    "short": "HCL Hunedoara nr. 159/2020",
@@ -738,6 +918,111 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-18-2020",
+   "path": "local/hunedoara/hunedoara/2020/18",
+   "short": "HCL Hunedoara nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 18/2020 privind acordarea scutirii la plata impozitului pentru clădirea de domiciliu, aflată în proprietatea sau coproprietatea persoanelor ale căror venituri lunare sunt mai mici decât salariul minim brut pe ţară ori constau în exclusivitate din indemnizaţie de şomaj sau ajutor social",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3226",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6113/HCL_18-2020.pdf",
+     "sha256": "7d842f2bbb470f413e22de2ee7b9a917105aa61a95126e145a6bb24d3d2ce912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-180-2020",
+   "path": "local/hunedoara/hunedoara/2020/180",
+   "short": "HCL Hunedoara nr. 180/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 180/2020 pentru modificarea și completarea Hotărârii Consiliului Local nr. 159/2020 privind aprobarea documentației de avizare a lucrărilor de intervenții (DALI) și a indicatorilor tehnico – economici pentru obiectivul de investiție „Amenajare spații pentru servirea mesei de prânz, săli „After School” și dotării unor cabinete medicale la unități de învățământ primare și gimnaziale” - Modernizare Școală Gimnazială nr. 2 Hunedoara, Corp B și construire teren de sport multifuncțional, cabinete medicale Școala Gimnazială nr. 1, Corpuri A și B",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/4821",
+   "versions": [
+    {
+     "from": "2020-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8199/HCL%20180-2020%20COMPLET.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-183-2020",
+   "path": "local/hunedoara/hunedoara/2020/183",
+   "short": "HCL Hunedoara nr. 183/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 183/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5563",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8372/HCL%20183-2020.pdf",
+     "sha256": "7861d5977ee5f104c6ab331757469178245bced8bdcfbc9c53d38a020ffe4f37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-184-2020",
+   "path": "local/hunedoara/hunedoara/2020/184",
+   "short": "HCL Hunedoara nr. 184/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 184/2020 pentru modificarea Hotărârii Consiliului Local al Municipiului Hunedoara nr.217/2016 privind organizarea comisiilor de specialitate, cu modificările ulterioar",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5565",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8373/HCL%20184-2020.pdf",
+     "sha256": "2063dea9d1b88a68a874c991d13eeaba084a31318f6a76666b8ec2c49e60efa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-185-2020",
+   "path": "local/hunedoara/hunedoara/2020/185",
+   "short": "HCL Hunedoara nr. 185/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 185/2020 pentru modificarea Hotărârii Consiliului Local al Municipiului Hunedoara nr.222/2016 privind reorganizarea Comitetului de înfrăţire şi a comisiilor pentru oraşele înfrăţite, cu modificările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5566",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8374/HCL%20185-2020.pdf",
+     "sha256": "8600424e4dbb368ef464bc19227d5a7538d0462f851782ee7884af5a54d96b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-186-2020",
+   "path": "local/hunedoara/hunedoara/2020/186",
+   "short": "HCL Hunedoara nr. 186/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 186/2020 pentru modificarea Hotărârii Consiliului Local nr. 293/2019 privind numirea reprezentanţilor Consiliului local al Municipiului Hunedoara în Consiliile de Administraţie ale unităţilor de învăţământ preuniversitar și al Clubului Sportiv Școlar, aflate pe raza administrativ teritorială a Municipiului Hunedoara, cu modificările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5567",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8375/HCL%20186-2020.pdf",
+     "sha256": "976dee04ae789da2d8fccd1629919fee25cb74d01795ec55df4bb524c0114c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-187-2020",
+   "path": "local/hunedoara/hunedoara/2020/187",
+   "short": "HCL Hunedoara nr. 187/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 187/2020 pentru modificarea anexei la Hotărârea Consiliului Local nr.221/2016 privind repartizarea pe zone a consilierilor locali în vederea îndeplinirii responsabilităţilor ce le revin potrivit prevederilor legale în vigoare, cu modificările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5568",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8376/HCL%20187-2020.pdf",
+     "sha256": "33a3facafa8828a463fc8a047a1b0b8589b1cf51e08c90f92ae9030cf11750ac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-188-2020",
    "path": "local/hunedoara/hunedoara/2020/188",
    "short": "HCL Hunedoara nr. 188/2020",
@@ -749,6 +1034,21 @@
      "units": 5,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8371/HCL%20188-2020%20COMPLETA.pdf",
      "sha256": "cfe86ee1bb7991ccf19e92053880ec6c3fede10eceda1e88fca5b3765ad6bfe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-189-2020",
+   "path": "local/hunedoara/hunedoara/2020/189",
+   "short": "HCL Hunedoara nr. 189/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 189/2020 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic de Detaliu ”Spălătorie self service„ bulevardul Mihai Viteazu, nr.12, localitatea Hunedoara, județul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5561",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8364/HCL189-2020%20COMPLETA.pdf",
+     "sha256": null
     }
    ]
   },
@@ -768,6 +1068,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-190-2020",
+   "path": "local/hunedoara/hunedoara/2020/190",
+   "short": "HCL Hunedoara nr. 190/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 190/2020 privind însuşirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic de Detaliu „Magazin piese auto, service auto, spaţii de locuit la etaj şi împrejmuire proprietate” str. Siretului f.n. localitatea Hunedoara, municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5559",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8362/HCL%20190-2020%20COMPLETA.pdf",
+     "sha256": "11e23b2d00fc5eef54a2961248fc9cb8e180aeef9c6e72f46a474245424a5c61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-192-2020",
+   "path": "local/hunedoara/hunedoara/2020/192",
+   "short": "HCL Hunedoara nr. 192/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 192/2020 pentru aprobarea completării Anexei la Hotărârea Consiliului Local nr.339/2019 privind aprobarea Inventarului bunurilor imobile care alcătuiesc domeniul privat al municipiului Hunedoara, cu completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5569",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8377/HCL%20192-2020%20COMPLETA.pdf",
+     "sha256": "6ce0edeee2ba76ef7e6e88c4d2078ef4e511dee20814093bd4aae8c0c29bade1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-193-2020",
    "path": "local/hunedoara/hunedoara/2020/193",
    "short": "HCL Hunedoara nr. 193/2020",
@@ -779,6 +1109,96 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6400/HCL%20193-2020%20COMPLETA.pdf",
      "sha256": "a7bd7a00a9906035ef85a7619255d5c5be533b4b1c95afb80cc657d7ef5f70c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-194-2020",
+   "path": "local/hunedoara/hunedoara/2020/194",
+   "short": "HCL Hunedoara nr. 194/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 194/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5570",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8517/HCL%20194-2020.pdf",
+     "sha256": "0e3c3bddc8706c814f661aff105ce185dd6e73b4082321b9258e255e8fc8eac3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-195-2020",
+   "path": "local/hunedoara/hunedoara/2020/195",
+   "short": "HCL Hunedoara nr. 195/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 195/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5571",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8585/HCL%20195-2020.pdf",
+     "sha256": "4071929b383c947fa236b2186a479ee2ba154ab3843a1c93ab47e3e414b5618e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-196-2020",
+   "path": "local/hunedoara/hunedoara/2020/196",
+   "short": "HCL Hunedoara nr. 196/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 196/2020 privind aprobarea acordării subvenţiei de la bugetul local al municipiului Hunedoara pentru activitatea Serviciului de transport public local de persoane prin curse regulate în municipiul Hunedoara pentru luna mai 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5572",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8587/HCL%20196-2020.pdf",
+     "sha256": "c25e3e370fe0684a45192360bde3b2fba6cbede51a7176d7cf4bf5e3de00c512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-197-2020",
+   "path": "local/hunedoara/hunedoara/2020/197",
+   "short": "HCL Hunedoara nr. 197/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 197/2020 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico – economici pentru obiectivul de investiție „Amenajare zonă rambleiere deșeuri inerte, municipiul Hunedoara”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5573",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8588/HCL%20197-2020.pdf",
+     "sha256": "3ea7121ae2e0d6eef7aba2517c832598356f3bfb9f6444f9da7fd280d4a6398a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-198-2020",
+   "path": "local/hunedoara/hunedoara/2020/198",
+   "short": "HCL Hunedoara nr. 198/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 198/2020 pentru modificarea Hotărârii Consiliului Local nr. 179/2018 privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI)şi a indicatorilor tehnicoeconomici pentru obiectivul de investiţie “REABILITAREA CLĂDIRILOR PUBLICE DIN MUNICIPIUL HUNEDOARA PENTRU CREȘTEREA EFICIENȚEI ENERGETICE – PRIMĂRIA MUNICIPIULUI HUNEDOARA“",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5574",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8613/HCL%20198-2020.pdf",
+     "sha256": "6fe5991961bbb011c42fd147be1fec5a28d6395a6fa2f34643455e9842bbaab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-199-2020",
+   "path": "local/hunedoara/hunedoara/2020/199",
+   "short": "HCL Hunedoara nr. 199/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 199/2020 privind aprobarea proiectului “REABILITAREA CLĂDIRILOR PUBLICE DIN MUNICIPIUL HUNEDOARA PENTRU CREȘTEREA EFICIENȚEI ENERGETICE - PRIMĂRIA MUNICIPIULUI HUNEDOARA“ și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5575",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8614/HCL%20199-2020.pdf",
+     "sha256": "b00028e4acbaae140fceb3d8f32199a9bda0fea04c263a56b0f8756bffe742d6"
     }
    ]
   },
@@ -813,6 +1233,66 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-200-2020",
+   "path": "local/hunedoara/hunedoara/2020/200",
+   "short": "HCL Hunedoara nr. 200/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 200/2020 pentru modificarea Hotărârii Consiliului Local nr. 101/2019privind aprobarea documentaţiei tehnico-economicefaza Studiu de fezabilitate cu elemente de DALI și a indicatorilor tehnico-economici pentru obiectivul de investiţii „MODERNIZAREA TRANSPORTULUI ÎN MUNICIPIUL HUNEDOARA, PRIN INVESTIȚII ÎN TRANSPORTUL PUBLIC ECOLOGIC – CORIDORUL CENTRAL”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5576",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8591/HCL%20200-2020.pdf",
+     "sha256": "ee3fc635c08a7baa4b0dac9e7b4b17c081c8bbb28575ba253e70faa50f5a6352"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-201-2020",
+   "path": "local/hunedoara/hunedoara/2020/201",
+   "short": "HCL Hunedoara nr. 201/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 201/2020 privind aprobarea proiectului „MODERNIZAREA TRANSPORTULUI ÎN MUNICIPIUL HUNEDOARA, PRIN INVESTIȚII ÎN TRANSPORTUL PUBLIC ECOLOGIC – CORIDORUL CENTRAL”și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5577",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8601/HCL%20201-2020.pdf",
+     "sha256": "199c9b5c0bfd08cef19d5505309672440f37d33226eb80349ba298e2d45236ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-202-2020",
+   "path": "local/hunedoara/hunedoara/2020/202",
+   "short": "HCL Hunedoara nr. 202/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 202/2020 privind aprobarea preluării în proprietatea Municipiului Hunedoara a obiectivului de investiții finalizat „Închiderea depozitului urban neconform din Hunedoara” realizat în cadrul proiectului „Sistemul Integrat de Gestionare al Deșeurilor în Județul Hunedoara”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/5578",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/8615/HCL%20202-2020.pdf",
+     "sha256": "636240f03a4ec4f491820ad1fa5440f41d94fbaaa9851ab1ed72f0f976387c0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-203-2020",
+   "path": "local/hunedoara/hunedoara/2020/203",
+   "short": "HCL Hunedoara nr. 203/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 203/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/6302",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9378/HCL%20203-2020.pdf",
+     "sha256": "400be8788632205096136e1cdd916cf7c17288b1c28124bbaf49c331b8b720be"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-204-2020",
    "path": "local/hunedoara/hunedoara/2020/204",
    "short": "HCL Hunedoara nr. 204/2020",
@@ -843,6 +1323,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-207-2020",
+   "path": "local/hunedoara/hunedoara/2020/207",
+   "short": "HCL Hunedoara nr. 207/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 207/2020 privind acordarea unui mandat special reprezentantului Municipiului Hunedoara în Adunarea Generală a Societății PRIM TRANSPREST HUNEDOARA S.R.L",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/6306",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9385/HCL%20207-2020.pdf",
+     "sha256": "fe363b68af34c6a5faa88dd82d8c14b801d98d4097c72699a7e1e82efb047317"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-208-2020",
+   "path": "local/hunedoara/hunedoara/2020/208",
+   "short": "HCL Hunedoara nr. 208/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 208/2020 privind acordarea unui mandat special reprezentantului Municipiului Hunedoara în Adunarea Generală Ordinară și Extraordinară a Acționarilor la Societatea APA PROD S.A",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/6307",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9383/HCL%20208-2020.pdf",
+     "sha256": "f23ee4085b53ade81d9eb4cc95415ca8c272c34ad490d4f07cfcff77151c67b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-209-2020",
+   "path": "local/hunedoara/hunedoara/2020/209",
+   "short": "HCL Hunedoara nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 209/2020 privind aprobarea alocării sumei de 4000 lei din bugetul local al municipiului Hunedoara pentru premierea elevilor din municipiul Hunedoara care au obținut media 10 la concursul național de Bacalaureat 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7427",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9371/HCL%20209-2020.pdf",
+     "sha256": "e9de1f86ac1b98281d2c5c5c9069615932f72bd0473717ac3fc665fdab5cea51"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-21-2020",
    "path": "local/hunedoara/hunedoara/2020/21",
    "short": "HCL Hunedoara nr. 21/2020",
@@ -854,6 +1379,21 @@
      "units": 4,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6122/HCL_21-2020.pdf",
      "sha256": "b3c0173082fabc78d6ac0ee17101c410dff37206a7a3db250b4eb64347c7401b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-210-2020",
+   "path": "local/hunedoara/hunedoara/2020/210",
+   "short": "HCL Hunedoara nr. 210/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 210/2020 privind modificarea și completarea Anexei nr. 3 a Hotărârii Consiliului Local nr. 354/2019 privind aprobarea structurii organizatorice – organigrama, a statului de funcții și a Regulamentului de organizare și funcționare al Clubului Sportiv Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7428",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6383/HCL210-2020%20COMPLET.pdf",
+     "sha256": "66d50eddb9a5ba75a37fd8e2d99c266baea0773acf61da2a0b5c896d49e05ae5"
     }
    ]
   },
@@ -888,6 +1428,246 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-213-2020",
+   "path": "local/hunedoara/hunedoara/2020/213",
+   "short": "HCL Hunedoara nr. 213/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 213/2020 privind numirea reprezentantului Consiliului Local al municipiului Hunedoara în Comisia pentru evaluarea și asigurarea calității din cadrul Școlii Gimnaziale nr.1 Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7431",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9369/HCL%20213-2020.pdf",
+     "sha256": "f6f2c5e3b05017c9f3547f0eff49a724b87d059da592ce3558cef5b87df42d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-214-2020",
+   "path": "local/hunedoara/hunedoara/2020/214",
+   "short": "HCL Hunedoara nr. 214/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 214/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7432",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9367/HCL%20214-2020.pdf",
+     "sha256": "9d92abf25bc1fd76856a2ddfdf8ba9cccc641203a27ec10807995c74681353e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-215-2020",
+   "path": "local/hunedoara/hunedoara/2020/215",
+   "short": "HCL Hunedoara nr. 215/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 215/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7433",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9368/HCL%20215-2020.pdf",
+     "sha256": "78a93ce81d64cae980f17aaa6013e27c158d04f9f8257d4f52b58f8fe235b2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-216-2020",
+   "path": "local/hunedoara/hunedoara/2020/216",
+   "short": "HCL Hunedoara nr. 216/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 216/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7434",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9828/HCL%20216-2020.pdf",
+     "sha256": "4fdcee78573931c2510b83f78e6f90fd1ac6a21bc64626ca83ebd2ac33a534d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-217-2020",
+   "path": "local/hunedoara/hunedoara/2020/217",
+   "short": "HCL Hunedoara nr. 217/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 217/2020 privind darea în folosință gratuită, pe termen limitat, a imobilului teren în suprafață de 199 mp, înscris în CF nr. 71413 Hunedoara, situat în Municipiul Hunedoara, str. 1 Decembrie 1918, FN, județul Hunedoara, în favoarea Asociației Misionar- Umanitară Maranatha",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7435",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9826/HCL%20217-2020.pdf",
+     "sha256": "0416d66623b5ddfda5e5fc8b7870dc1860256e7d9ee0c321908764e356d6c561"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-218-2020",
+   "path": "local/hunedoara/hunedoara/2020/218",
+   "short": "HCL Hunedoara nr. 218/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 218/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7436",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9829/HCL%20218-2020.pdf",
+     "sha256": "a81a958b50f5c09634c817762a19e6faa1ac7372bec82bca015808145f8e4abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-219-2020",
+   "path": "local/hunedoara/hunedoara/2020/219",
+   "short": "HCL Hunedoara nr. 219/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 219/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7437",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9879/HCL%20219-2020.pdf",
+     "sha256": "d3ca2203deb9ad32d929feccb12beb96444a04eb631e8a2939a93b7788216bfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-220-2020",
+   "path": "local/hunedoara/hunedoara/2020/220",
+   "short": "HCL Hunedoara nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 220/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7438",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10322/HCL%20220-2020.pdf",
+     "sha256": "9455fc797bd7f1f6a708db54792ba64d957f5ae90ee14f2b9f37cbf586523132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-221-2020",
+   "path": "local/hunedoara/hunedoara/2020/221",
+   "short": "HCL Hunedoara nr. 221/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 221/2020 privind numirea reprezentanţilor Consiliului local al Municipiului Hunedoara în comisia de evaluarea a ofertelor depuse în vederea vânzării bunurilor aflate în domeniul privat al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7439",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9830/HCL%20221-2020.pdf",
+     "sha256": "264d118ce35af9e2e1e320ede4c16c56a9d37e9c9c9caf3a3a36b0d6a3144e99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-222-2020",
+   "path": "local/hunedoara/hunedoara/2020/222",
+   "short": "HCL Hunedoara nr. 222/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 222/2020 pentru modificarea art.1 din Hotărârea Consiliului local nr.223/2016 privind constituirea comisiei de analiză a solicitărilor de locuinţe în baza Legii nr.114/1996, cu modificările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7440",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10319/HCL%20222-2020.pdf",
+     "sha256": "460700d1a71d5304cc70f6c74f8d46b766aa6d8049c0f1877d3a784bf6870071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-223-2020",
+   "path": "local/hunedoara/hunedoara/2020/223",
+   "short": "HCL Hunedoara nr. 223/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 223/2020 pentru modificarea art.1 din Hotărârea Consiliului local nr. 66/2019 privind numirea unor consilieri locali ca membrii ai comisiei sociale care vor analiza solicitările/cererile privind repartizarea locuințelor pentru tineri, destinate închirierii",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7441",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10317/HCL%20223-2020.pdf",
+     "sha256": "98259c3c96bd8f75812c59e77e4fe819f71c0100ee61aaab69c6f5a1acd628a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-224-2020",
+   "path": "local/hunedoara/hunedoara/2020/224",
+   "short": "HCL Hunedoara nr. 224/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 224/2020 privind aprobarea trecerii din proprietatea Statului Român în proprietatea privată a municipiului Hunedoara a unor terenuri aflate în intravilanul municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7442",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10340/HCL%20224-2020.pdf",
+     "sha256": "80d7d6c5c35e71dbf4ed8e3364c60319ddca6a3fbc893e6b7b794cfd4c7ecb07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-225-2020",
+   "path": "local/hunedoara/hunedoara/2020/225",
+   "short": "HCL Hunedoara nr. 225/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 225/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7443",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9839/HCL%20225-2020.pdf",
+     "sha256": "43781fe7a6d3a388184b9bc2c6215d47daf0031e153a64c705abc010fc2721df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-226-2020",
+   "path": "local/hunedoara/hunedoara/2020/226",
+   "short": "HCL Hunedoara nr. 226/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 226/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7444",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9842/HCL%20226-2020.pdf",
+     "sha256": "7407ac27afa313d908b3e4f8142e3f4b00c11dd19e09e634e2cfc39948679468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-227-2020",
+   "path": "local/hunedoara/hunedoara/2020/227",
+   "short": "HCL Hunedoara nr. 227/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 227/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7445",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9844/HCL%20227-2020.pdf",
+     "sha256": "0f3345372bc742c704cc7faa37acd11811a3f4e9a4c1f2ca4d9aa335735adefe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-229-2020",
+   "path": "local/hunedoara/hunedoara/2020/229",
+   "short": "HCL Hunedoara nr. 229/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 229/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7447",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9849/HCL%20229-2020.pdf",
+     "sha256": "70a493aee9a8d7d00f38da99e72f05f00d6c7eb7c2e95194971e8be8fb7a2bd3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-23-2020",
    "path": "local/hunedoara/hunedoara/2020/23",
    "short": "HCL Hunedoara nr. 23/2020",
@@ -899,6 +1679,96 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6117/HCL_23-2020.pdf",
      "sha256": "eb62542294beed54a68699822e3028551cff142a53545ef3c08076df9a045c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-230-2020",
+   "path": "local/hunedoara/hunedoara/2020/230",
+   "short": "HCL Hunedoara nr. 230/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 230/2020 privind repartizarea unor locuinţe acordate cu chirie din fondul locativ de stat aflate în administrarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7448",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9880/HCL%20230-2020.pdf",
+     "sha256": "62c2e4f12476935b04b4f3f13a77d643fafd167fbfedb5bdf93c159e084a64a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-232-2020",
+   "path": "local/hunedoara/hunedoara/2020/232",
+   "short": "HCL Hunedoara nr. 232/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 232/2020 privind aprobarea acordării subvenţiei de la bugetul local al municipiului Hunedoara pentru activitatea Serviciului de transport public local de persoane prin curse regulate în municipiul Hunedoara pentru luna iunie 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7450",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9827/HCL%20232-2020.pdf",
+     "sha256": "57ba27d0e8230dbccb1bc2d084f20cc43b32b06ada74724ef702d9abe1ae26c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-234-2020",
+   "path": "local/hunedoara/hunedoara/2020/234",
+   "short": "HCL Hunedoara nr. 234/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 234/2020 pentru aprobarea execuţiei bugetului împrumutului intern al municipiului Hunedoara pentru trimestrul II 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7452",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9833/HCL%20234-2020.pdf",
+     "sha256": "d1399aaad4720748fda64abf091033edfdeb7a2e68503e9859d5f572605b95e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-235-2020",
+   "path": "local/hunedoara/hunedoara/2020/235",
+   "short": "HCL Hunedoara nr. 235/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 235/2020 privind analiza stadiului de înscriere a datelor în registrul agricol al Municipiului Hunedoara, pentru trimestrul II al anului 2020, precum și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7453",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9878/HCL%20235-2020.pdf",
+     "sha256": "a8e1b3b7a5b027ed357dd17584bf7056f8ede8f362eff0c2ed8b0c23db0b1302"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-236-2020",
+   "path": "local/hunedoara/hunedoara/2020/236",
+   "short": "HCL Hunedoara nr. 236/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 236/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7454",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/9837/HCL%20236-2020.pdf",
+     "sha256": "53b6af46d973aa8e1f324f38643bfc6217af73963db4b07332643528ec862284"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-237-2020",
+   "path": "local/hunedoara/hunedoara/2020/237",
+   "short": "HCL Hunedoara nr. 237/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 237/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7456",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10434/HCL%20237-2020.pdf",
+     "sha256": "61d30530b2ee14896bd40b04fa0043b0fe3f1c80aee9c5d14ef6ef3fc01479e1"
     }
    ]
   },
@@ -918,6 +1788,81 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-240-2020",
+   "path": "local/hunedoara/hunedoara/2020/240",
+   "short": "HCL Hunedoara nr. 240/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 240/2020 pentru aprobarea completării Anexei la Hotărârea Consiliului Local nr.339/2019 privind aprobarea Inventarului bunurilor imobile care alcătuiesc domeniul privat al municipiului Hunedoara, cu completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7459",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10446/HCL%20240-2020%20COMPLET.pdf",
+     "sha256": "79e70b70f2395583d99d78e10b8744de560ebd2afdc0c0666971fa1531e02f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-241-2020",
+   "path": "local/hunedoara/hunedoara/2020/241",
+   "short": "HCL Hunedoara nr. 241/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 241/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/7460",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10449/HCL%20241-2020.pdf",
+     "sha256": "fd1eb49199b12a6dd48f1cb5dd18f186f9d1ddc08496cbd12c25813a6bb9eaf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-243-2020",
+   "path": "local/hunedoara/hunedoara/2020/243",
+   "short": "HCL Hunedoara nr. 243/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 243/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8026",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10853/HCL%20243-2020.pdf",
+     "sha256": "54e2c7beab6eddbfe760fbf4b6f8c099147737b481176657d15ae4860d1bbf43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-244-2020",
+   "path": "local/hunedoara/hunedoara/2020/244",
+   "short": "HCL Hunedoara nr. 244/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 244/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8027",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10855/HCL%20244%20-2020.pdf",
+     "sha256": "9251360ec3a5d8384b07521948babf7cf0af30904ee9afd836a856ef32b9bff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-245-2020",
+   "path": "local/hunedoara/hunedoara/2020/245",
+   "short": "HCL Hunedoara nr. 245/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 245/2020 privind aprobarea trecerii din domeniul privat al municipiului Hunedoara în domeniul public al acestuia a unor imobile teren și construcții înscrise în CF 68157 Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8028",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10854/HCL%20245-2020.pdf",
+     "sha256": "de48b33a1b4a7899d834d94c2c84c047e08f1e1998cc8814eb6be5fdc08022eb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-246-2020",
    "path": "local/hunedoara/hunedoara/2020/246",
    "short": "HCL Hunedoara nr. 246/2020",
@@ -929,6 +1874,36 @@
      "units": 6,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10320/HCL%20246-2020%20COMPLET.pdf",
      "sha256": "985a74b8993b166a2c5e7a966acf7ec4c4922da5872127d4ea81074a6846e79b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-248-2020",
+   "path": "local/hunedoara/hunedoara/2020/248",
+   "short": "HCL Hunedoara nr. 248/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 248/2020 Proiect de hotărâre privind aprobarea dării în folosință gratuită Parohiei Ortodoxe Române Hunedoara X a două terenuri înscrise în CF nr. 62840 Hunedoara și CF nr. 71409 Hunedoara, proprietate publică a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8667",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10843/HCL%20248-2020.pdf",
+     "sha256": "d19b4f110a1232ad189485e333e0381002075381d8fa286b9bd8f89e5161bbad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-249-2020",
+   "path": "local/hunedoara/hunedoara/2020/249",
+   "short": "HCL Hunedoara nr. 249/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 249/2020 Proiect de hotărâre privind aprobarea închirierii prin licitație publică a unor spații din incinta clădirii Sitului Industrial „SSA Hunedoara” situată în municipiul Hunedoara, str. Furnalelor, nr. 2B, aparținând domeniului public al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8665",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10841/HCL%20249-2020%20COMPLET.pdf",
+     "sha256": "1d7d67e7b33ac61b60c8d9d51a411edb282fc6d6b811e413d62d491c7773b7ab"
     }
    ]
   },
@@ -948,6 +1923,141 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-251-2020",
+   "path": "local/hunedoara/hunedoara/2020/251",
+   "short": "HCL Hunedoara nr. 251/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 251/2020 Proiect de hotărâre privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Str. Rîndunicii, nr. 4, bl. 28, sc. D, Et.3, ap. 73",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8671",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10847/HCL%20251-2020.pdf",
+     "sha256": "5c881b0122c4261a04c9e8d255b652f404886c002bb1496918e828b5237c1c7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-252-2020",
+   "path": "local/hunedoara/hunedoara/2020/252",
+   "short": "HCL Hunedoara nr. 252/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 252/2020 Proiect de hotărâre privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Strada Batiz, nr. 6, bl.L1, sc. B, ap. 52, et.3",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8670",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10846/HCL%20252-2020.pdf",
+     "sha256": "20ea3c97a7e2a9c9a5d6f639a31d2ce486b4bd587dd23bfe31f05f40cbd08356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-253-2020",
+   "path": "local/hunedoara/hunedoara/2020/253",
+   "short": "HCL Hunedoara nr. 253/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 253/2020 Proiect de hotărâre privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Strada Batiz, nr. 8, bl.L3, sc. A, ap. 15, et. II",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8668",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10844/HCL%20253-2020.pdf",
+     "sha256": "f784f666c6d4134101116c88bc3bf449ce07c5c2a5665dd9ebde472dfff16fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-254-2020",
+   "path": "local/hunedoara/hunedoara/2020/254",
+   "short": "HCL Hunedoara nr. 254/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 254/2020 Proiect de hotărâre privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Strada Batiz, nr. 6, bl.L1, sc. B, ap. 54, et. III",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8669",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10845/HCL%20254-2020.pdf",
+     "sha256": "c182812f8bcfe427421275d4c91e57b2cd6fd25ec3651e8d1188453960ccde1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-255-2020",
+   "path": "local/hunedoara/hunedoara/2020/255",
+   "short": "HCL Hunedoara nr. 255/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 255/2020 Proiect de hotărâre privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Strada Batiz, nr. 8, bl.L3, sc. A, ap. 17, et.2",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8674",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10850/HCL%20255-2020.pdf",
+     "sha256": "02c771be85231a2d0e7877b518af337cdd0888d73bd90e6bfc186247908f4ef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-256-2020",
+   "path": "local/hunedoara/hunedoara/2020/256",
+   "short": "HCL Hunedoara nr. 256/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 256/2020 Proiect de hotărâre privind aprobarea închirierii prin licitaţie publică a unor spaţii din incinta clădirii Sitului Industrial „SSA Hunedoara” situată în municipiul Hunedoara, str. Furnalelor, nr. 2B, birourile nr.8 și 9 etaj 1, aparţinând domeniului public al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8673",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10849/HCL%20256-2020%20COMPLET.pdf",
+     "sha256": "35906e8aef340b88927df9cfcc071e1923edbeb788224f9c89b4bf46a5992594"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-257-2020",
+   "path": "local/hunedoara/hunedoara/2020/257",
+   "short": "HCL Hunedoara nr. 257/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 257/2020 Proiect de hotărâre privind aprobarea documentației tehnico-economice, precum și a indicatorilor tehnico - economici pentru realizarea obiectivului de investiție “Contorizare separată a consumului de apă rece la bloc G2, str. Nicolae Bălcescu, nr.6” din municipiul Hunedoara, judeţul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8672",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10848/HCL%20257-2020.pdf",
+     "sha256": "209e7a7cece7fadf6fbf19930f55b4ccb3aa5c512cc98e54402c5d31ad21b2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-258-2020",
+   "path": "local/hunedoara/hunedoara/2020/258",
+   "short": "HCL Hunedoara nr. 258/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 258/2020 privind desemnarea unei persoane în vederea numirii de către autoritatea publică tutelară ca administrator provizoriu în cadrul Consiliului de administrație al Regiei Publice Locale „Ocolul Silvic Ținutul Pădurenilor” R.A",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8677",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11091/HCL%20258-2020.pdf",
+     "sha256": "29970a145c49821feba0a43faac3f167e75fd1cf39f974b4e2e53dd1b0c114cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-259-2020",
+   "path": "local/hunedoara/hunedoara/2020/259",
+   "short": "HCL Hunedoara nr. 259/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 259/2020 privind aprobarea dării în administrare către Direcția de Asistență Socială a municipiului Hunedoara, a unor bunuri necesare desfășurării activității",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8680",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11094/HCL%20259-2020.pdf",
+     "sha256": "32147c4952354ad3ef2624ce6bb254b87b45bd0d81e4bf8f6ae476ea956e2fb0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-26-2020",
    "path": "local/hunedoara/hunedoara/2020/26",
    "short": "HCL Hunedoara nr. 26/2020",
@@ -959,6 +2069,156 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6121/HCL_26-2020.pdf",
      "sha256": "ed92832496b337e5d45cb4b2dbfb8842ee9d922005fdc5c0f3c70a4acb0f50ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-260-2020",
+   "path": "local/hunedoara/hunedoara/2020/260",
+   "short": "HCL Hunedoara nr. 260/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 260/2020 pentru aprobarea completării Anexei la Hotărârea Consiliului Local nr.339/2019 privind aprobarea Inventarului bunurilor imobile care alcătuiesc domeniul privat al municipiului Hunedoara, cu completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8676",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10852/HCL%20260-2020%20COMPLET.pdf",
+     "sha256": "dbfd869e5bb64ff6ac0a90b37c40aa7fe8dcf3d649d6cf8c9d18d6dc77a2d526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-261-2020",
+   "path": "local/hunedoara/hunedoara/2020/261",
+   "short": "HCL Hunedoara nr. 261/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 261/2020 privind aprobarea modificării contractului de închiriere nr.195/05.08.2015, cu modificările ulterioare, încheiat între Municipiul Hunedoara și Aleman Anica",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8675",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10851/HCL%20261-2020.pdf",
+     "sha256": "e4d53ee64a464a577acdffbab41c1c7c48e939bbd1f768fea0f983c807b1a174"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-262-2020",
+   "path": "local/hunedoara/hunedoara/2020/262",
+   "short": "HCL Hunedoara nr. 262/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 262/2020 privind repartizarea unor locuinţe acordate cu chirie din fondul locativ de stat aflate în administrarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8679",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11093/HCL%20262-2020.pdf",
+     "sha256": "9fe22362ca42095e2c11b7f7f14f9b6f874fa7a460906228d795567c27b7c498"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-263-2020",
+   "path": "local/hunedoara/hunedoara/2020/263",
+   "short": "HCL Hunedoara nr. 263/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 263/2020 privind aprobarea închirierii prin licitaţie publică a unor terenuri, situate în municipiul Hunedoara, str. Bicaz, nr. 2 (Piaţa Obor) , aparținând domeniului public al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8681",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11095/HCL%20263-2020%20COMPLET.pdf",
+     "sha256": "930cd7d7ca89a81e58a6dc8462393f30743c146fba321433f970e3615f3f4102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-264-2020",
+   "path": "local/hunedoara/hunedoara/2020/264",
+   "short": "HCL Hunedoara nr. 264/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 264/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8678",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11092/HCL%20264-2020%20COMPLET.pdf",
+     "sha256": "2035a6162b89340383013036d8a48a95445cc745be1403df4e69bfdb4f1e2031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-265-2020",
+   "path": "local/hunedoara/hunedoara/2020/265",
+   "short": "HCL Hunedoara nr. 265/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 265/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8682",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11826/HCL%20265-2020%20COMPLET.pdf",
+     "sha256": "d115b4656581dfa269824c5865b2d80382e1eddc53307c093729d65817438f6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-266-2020",
+   "path": "local/hunedoara/hunedoara/2020/266",
+   "short": "HCL Hunedoara nr. 266/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 266/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8683",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11830/HCL%20266-2020%20COMPLET.pdf",
+     "sha256": "7921fb76c97511c0e301c5d8794e92f909ac8596ce86877cd6f7faaddb9b2be4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-267-2020",
+   "path": "local/hunedoara/hunedoara/2020/267",
+   "short": "HCL Hunedoara nr. 267/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 267/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8684",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11836/HCL%20267-2020%20COMPLET.pdf",
+     "sha256": "f2fc68ebce6bbda4be44df313597a5b7c5166f08d54ef6b7da1a74ba9541f05e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-268-2020",
+   "path": "local/hunedoara/hunedoara/2020/268",
+   "short": "HCL Hunedoara nr. 268/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 268/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2020 al instituţiilor publice finanţate integral sau parţial din venituri proprii, aflate în subordinea şi finanţarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8685",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11859/HCL%20268-2020%20COMPLET.pdf",
+     "sha256": "893e7f8e71845a697e85b72967e541d33210db436b1a1b5522c83e2ec5dc9bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-269-2020",
+   "path": "local/hunedoara/hunedoara/2020/269",
+   "short": "HCL Hunedoara nr. 269/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 269/2020 privind alocarea sumei de 50.000 lei, din bugetul local al municipiului Hunedoara ca sprijin financiar pentru Cultul Creștin Penticostal – Biserica lui Dumnezeu Apostolică România - Comunitatea Penticostală Regională Arad – Biserica Penticostală Maranata Hunedoara, de pe raza administrativ - teritorială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/8686",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11832/HCL%20269-2020.pdf",
+     "sha256": "cd195ad25dc66dfa7a78a7e2ad38822bb11d385401a7767ed9b8cfcbde77d2c7"
     }
    ]
   },
@@ -978,6 +2238,231 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-270-2020",
+   "path": "local/hunedoara/hunedoara/2020/270",
+   "short": "HCL Hunedoara nr. 270/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 270/2020 privind aprobarea închirierii prin licitaţie publică a spaţiului în suprafaţă de 56,79 mp, respectiv biroul nr. 1, parter, din incinta clădirii Sitului Industrial „SSA Hunedoara” situată în municipiul Hunedoara, str. Furnalelor, nr. 2B, aparţinând domeniului public al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9637",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11993/HCL%20270-2020.pdf",
+     "sha256": "76e41668ef35856a58114079aed3a15cd1ae8073f1841e074fc77bdd5820af36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-273-2020",
+   "path": "local/hunedoara/hunedoara/2020/273",
+   "short": "HCL Hunedoara nr. 273/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 273/2020 pentru îndreptarea erorii materiale din Hotărârea Consiliului Local nr. 252/2020 privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Strada Batiz, nr. 6, bl.L1, sc. B, ap. 52, et.3",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9640",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11997/HCL%20273-2020.pdf",
+     "sha256": "353b4d9a68fb7e8c98e4d1cbeff67321b270c1581e1bf5a135433ee67aa2afd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-276-2020",
+   "path": "local/hunedoara/hunedoara/2020/276",
+   "short": "HCL Hunedoara nr. 276/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 276/2020 pentru aprobarea completării Anexei la Hotărârea Consiliului Local nr.339/2019 privind aprobarea Inventarului bunurilor imobile care alcătuiesc domeniul privat al municipiului Hunedoara, cu completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9643",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12001/HCL%20276-2020.pdf",
+     "sha256": "934a2bbd2e2cc2703c41b3d78f5ffa6c8e6bab1f94d17c5295d16a7ae34076d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-277-2020",
+   "path": "local/hunedoara/hunedoara/2020/277",
+   "short": "HCL Hunedoara nr. 277/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 277/2020 privind acordarea de stimulente financiare personalului medical și de specialitate din cadrul Spitalului Municipal „Dr. Al. Simionescu” Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9644",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12003/HCL%20277-2020.pdf",
+     "sha256": "d8244834da513b1d725c5daaf7c0e2eddbb726c2ba945c39e06e530a6ee6c627"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-28-2020",
+   "path": "local/hunedoara/hunedoara/2020/28",
+   "short": "HCL Hunedoara nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 28/2020 privind modificarea literelor ee) și jj) de la art. 2 din Hotărârea Consiliului Local nr.176/2018 privind constatarea apartenenței la domeniul public al municipiului Hunedoara a unor imobile din municipiul Hunedoara precum și modificarea elementelor de identificare a unor imobile din Inventarul bunurilor care aparțin domeniului public al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3236",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6124/HCL_28-2020.pdf",
+     "sha256": "d5e1361a05c0631e9a887110b75dd73f7b988debd44c2387efa76eb1f10df934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-280-2020",
+   "path": "local/hunedoara/hunedoara/2020/280",
+   "short": "HCL Hunedoara nr. 280/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 280/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9647",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12007/HCL%20280-2020.pdf",
+     "sha256": "86d4964cd582c645127a90668ff1b3a1fdb87ded15720b74402f5dba24d302d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-281-2020",
+   "path": "local/hunedoara/hunedoara/2020/281",
+   "short": "HCL Hunedoara nr. 281/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 281/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9648",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12009/HCL%20281-2020.pdf",
+     "sha256": "942d276f4af481c3072017720251806f28f2926cdc7e2fb3996a5a02f0ec242b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-282-2020",
+   "path": "local/hunedoara/hunedoara/2020/282",
+   "short": "HCL Hunedoara nr. 282/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 282/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9649",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12012/HCL%20282-2020.pdf",
+     "sha256": "f031e72a4a3bf926710c3efbe7ddec3304152d1e5358cda1d4d8e835527f9568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-283-2020",
+   "path": "local/hunedoara/hunedoara/2020/283",
+   "short": "HCL Hunedoara nr. 283/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 283/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9650",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12019/HCL%20283-2020.pdf",
+     "sha256": "0bcf049daa2200182abe0fcd8629820ef7213f928afe3962acfa0503d0eeb33d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-284-2020",
+   "path": "local/hunedoara/hunedoara/2020/284",
+   "short": "HCL Hunedoara nr. 284/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 284/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9651",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12005/HCL%20284-2020.pdf",
+     "sha256": "408a0ec736cc3e555e942e2ed536df4b13167452bb1c80f86f183f1731b0e598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-285-2020",
+   "path": "local/hunedoara/hunedoara/2020/285",
+   "short": "HCL Hunedoara nr. 285/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 285/2020 pentru modificarea Hotărârii Consiliului Local nr. 2/2019 privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI) şi a indicatorilor tehnico-economici pentru obiectivul de investiţie „Reabilitarea /modernizarea/dotarea unităților de învățământ antepreșcolar și preșcolar (creșe si grădinițe) din Municipiul Hunedoara, Grădinița cu Program Prelungit Nr. 1”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9652",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12021/HCL%20285-2020.pdf",
+     "sha256": "f42481053f30493cec47ef1b2d8ef98eb13a4279baf443197d9cbe096cab105a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-286-2020",
+   "path": "local/hunedoara/hunedoara/2020/286",
+   "short": "HCL Hunedoara nr. 286/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 286/2020 privind aprobarea proiectului „Reabilitarea /modernizarea/dotarea unităților de învățământ antepreșcolar și preșcolar (creșe si grădinițe) din Municipiul Hunedoara, Grădinița cu Program Prelungit Nr. 1” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9653",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12020/HCL%20286-2020.pdf",
+     "sha256": "d2795c510f9f3091c97af3ddf7ac8a4946762cdfe44b1a0662714fd1fdd215a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-287-2020",
+   "path": "local/hunedoara/hunedoara/2020/287",
+   "short": "HCL Hunedoara nr. 287/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 287/2020 pentru modificarea Hotărârii Consiliului Local nr. 142/2019 privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI) şi a indicatorilor tehnico-economici pentru obiectivul de investiţie “EFICIENTIZAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE DIN MUNICIPIUL HUNEDOARA – GRUP 1” - Bloc 1, Str. Avram Iancu, nr. 14",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9654",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12358/HCL%20287-2020.pdf",
+     "sha256": "f2f514f6ae8ff54b7d33841e163de64259934aec565887ca6201903eee4555a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-288-2020",
+   "path": "local/hunedoara/hunedoara/2020/288",
+   "short": "HCL Hunedoara nr. 288/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 288/2020 pentru modificarea Hotărârii Consiliului Local nr. 143/2019privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI) şi a indicatorilor tehnico-economici pentru obiectivul de investiţie “EFICIENTIZAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE DIN MUNICIPIUL HUNEDOARA – GRUP 1” - Bloc 2, Str. Avram Iancu, nr. 16",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9655",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12359/HCL%20288-2020.pdf",
+     "sha256": "a4a899da62bafe8f0bfbf826b7f1b372f6c857e9230ff9944fbed44db4d8b561"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-289-2020",
+   "path": "local/hunedoara/hunedoara/2020/289",
+   "short": "HCL Hunedoara nr. 289/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 289/2020 pentru modificarea Hotărârii Consiliului Local nr. 144/2019privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI) şi a indicatorilor tehnico-economici pentru obiectivul de investiţie“EFICIENTIZAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE DIN MUNICIPIUL HUNEDOARA – GRUP 1” - Bloc 3, Str. Avram Iancu, nr. 18",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9656",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12362/HCL%20289-2020.pdf",
+     "sha256": "b3a75cfcd8ebe96f181badb7c9f0ac626c4c6d8726f6779e6306f0a2f19e5614"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-29-2020",
    "path": "local/hunedoara/hunedoara/2020/29",
    "short": "HCL Hunedoara nr. 29/2020",
@@ -989,6 +2474,96 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6098/HCL_29-2020.pdf",
      "sha256": "b9908cf1b282e2c591297345dceb7be55da90de421b16e708721a69380fff2c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-290-2020",
+   "path": "local/hunedoara/hunedoara/2020/290",
+   "short": "HCL Hunedoara nr. 290/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 290/2020 pentru modificarea Hotărârii Consiliului Local nr. 145/2019 privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI) şi a indicatorilor tehnico-economici pentru obiectivul de investiţie “EFICIENTIZAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE DIN MUNICIPIUL HUNEDOARA – GRUP 1” - Bloc A 1-1, B-dul Dacia, nr. 5",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9657",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12364/HCL%20290-2020.pdf",
+     "sha256": "658c22a6b217409e335ec47b8ed97288dc029e9f9fbe0d39e7f5aceee2023ade"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-291-2020",
+   "path": "local/hunedoara/hunedoara/2020/291",
+   "short": "HCL Hunedoara nr. 291/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 291/2020 privind aprobarea proiectului “EFICIENTIZAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE DIN MUNICIPIUL HUNEDOARA – GRUP 1” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9658",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12360/HCL%20291-2020.pdf",
+     "sha256": "a642a4edc66646c2f4e35a743a821373b8b38a01835a431b8e440025b2109a4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-292-2020",
+   "path": "local/hunedoara/hunedoara/2020/292",
+   "short": "HCL Hunedoara nr. 292/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 292/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9659",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12372/HCL%20292-2020.pdf",
+     "sha256": "3571c27fe636b26562e96287756e7cb7f5e7ff2bb0a7c756f2f4e9382b262aa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-293-2020",
+   "path": "local/hunedoara/hunedoara/2020/293",
+   "short": "HCL Hunedoara nr. 293/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 293/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9660",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12371/HCL%20293-2020.pdf",
+     "sha256": "43ae77d28c2054f634ebdff0eaa528bd2c04918ea7abefe8c1637fcd29abdc62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-294-2020",
+   "path": "local/hunedoara/hunedoara/2020/294",
+   "short": "HCL Hunedoara nr. 294/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 294/2020 pentru modificarea Hotărârii Consiliului Local nr. 102/2019 privind aprobarea documentației tehnico-economice faza Studiu de fezabilitate cu elemente de DALI și a indicatorilor tehnico-economici pentru obiectivul de investiţii „MODERNIZAREA TRANSPORTULUI ÎN MUNICIPIUL HUNEDOARA, PRIN INVESTIȚII ÎN TRANSPORTUL PUBLIC ECOLOGIC – CORIDORUL DE EST”, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9661",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12370/HCL%20294-2020.pdf",
+     "sha256": "63c043b612bd643a2daeafd6881706c5713b18eff3a24b24ce7667b129cb5147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-295-2020",
+   "path": "local/hunedoara/hunedoara/2020/295",
+   "short": "HCL Hunedoara nr. 295/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 295/2020 privind aprobarea proiectului ”Modernizarea transportului în municipiul Hunedoara prin investiții în transportul public ecologic – Coridorul de Est” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9662",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12369/HCL%20295-2020.pdf",
+     "sha256": "ca670e1d7ef4054d07975e207c6a2808cf8e31d1a1616c44f07d4e0eca37890f"
     }
    ]
   },
@@ -1008,6 +2583,171 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-299-2020",
+   "path": "local/hunedoara/hunedoara/2020/299",
+   "short": "HCL Hunedoara nr. 299/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 299/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9666",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12632/HCL%20299-2020.pdf",
+     "sha256": "f477393885e0b954c2bd17ba9c19e4d0e6e3019917d05ace1eadaeb9099e73c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-3-2020",
+   "path": "local/hunedoara/hunedoara/2020/3",
+   "short": "HCL Hunedoara nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 3/2020 privind aprobarea concesionării directe a serviciului pentru gestionarea câinilor fără stăpân din Municipiul Hunedoara la societatea Salubprest Hunedoara S.R.L",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3211",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6095/HCL_3-2020.pdf",
+     "sha256": "61308f0e8c9ca07e247ddede439d72994932a74c6585fa7e0b3ca4ab96aab601"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-30-2020",
+   "path": "local/hunedoara/hunedoara/2020/30",
+   "short": "HCL Hunedoara nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 30/2020 privind acordul Consiliului Local al Municipiului Hunedoara pentru închirierea, prin licitaţie publică, conform prevederilor legale, de către Spitalul Municipal „Dr. Al. Simionescu” Hunedoara, a spațiilor în suprafaţă de 133,17 mp, aflate în administrarea acestuia şi în domeniul public al Municipiului Hunedoara, cu destinaţia amenajare instalație rezonanță magnetică nucleară (RMN)",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3238",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6140/HCL_30-2020.pdf",
+     "sha256": "279404377e4d63039bc0fa51a5cd4d901a93eb626a241dac237cce57e28524f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-300-2020",
+   "path": "local/hunedoara/hunedoara/2020/300",
+   "short": "HCL Hunedoara nr. 300/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 300/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2020 al instituţiilor publice finanţate integral sau parţial din venituri proprii, aflate în subordinea şi finanţarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9667",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12631/HCL%20300-2020.pdf",
+     "sha256": "39bb79d5c171a248e17b04e4df6a1ea1c03139aa6cd4f974664acca342eaa17b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-301-2020",
+   "path": "local/hunedoara/hunedoara/2020/301",
+   "short": "HCL Hunedoara nr. 301/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 301/2020 privind aprobarea trecerii din domeniul public în domeniul privat al municipiului Hunedoara a unor terenuri din municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9668",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12633/HCL%20301-2020.pdf",
+     "sha256": "4ea9e29c45a9516e4fdcd507d3c61969e96bae7f9a86cdd14451670d18655e40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-302-2020",
+   "path": "local/hunedoara/hunedoara/2020/302",
+   "short": "HCL Hunedoara nr. 302/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 302/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9669",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12634/HCL%20302-2020.pdf",
+     "sha256": "3124271c9ffbb1c3a6005a6ebb1a66e0478ab3656392ea75c85da495ffb1ca3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-303-2020",
+   "path": "local/hunedoara/hunedoara/2020/303",
+   "short": "HCL Hunedoara nr. 303/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 303/2020 privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, strada Pinilor, nr. 5, bl. 42 sc. A, etaj 4, ap. 18",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9670",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12635/HCL%20303-2020.pdf",
+     "sha256": "4e5b072454f306f913439d823dbe72b649bb564db5885ae5ef429e560813f95b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-304-2020",
+   "path": "local/hunedoara/hunedoara/2020/304",
+   "short": "HCL Hunedoara nr. 304/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 304/2020 privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Str.Trandafirilor, nr. 18, bl. 35, sc. A, Parter, ap. 2",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9671",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12636/HCL%20304-2020.pdf",
+     "sha256": "332a52a2c77498b9817a824c98f1b426bf49f4519deadb4903d381a752552f68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-305-2020",
+   "path": "local/hunedoara/hunedoara/2020/305",
+   "short": "HCL Hunedoara nr. 305/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 305/2020 privind alocarea sumei de 100.000 lei, din bugetul local al municipiului Hunedoara ca sprijin financiar pentru Cultul Creștin Penticostal – Biserica lui Dumnezeu Apostolică România - Comunitatea Penticostală Regională Arad – Biserica Penticostală Golgota Hunedoara, de pe raza administrativ - teritorială a municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9672",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12637/HCL%20305-2020.pdf",
+     "sha256": "baa75325b61ea10ae77a9df9a2fe8b97f13dd52c82bc725c7efe9a77b0a1360e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-307-2020",
+   "path": "local/hunedoara/hunedoara/2020/307",
+   "short": "HCL Hunedoara nr. 307/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 307/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9909",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12939/HCL%20307-2020.pdf",
+     "sha256": "d2f904ab166a1822867cc735a5c24d47915429f5900b1a4cecf64d899efe7807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-309-2020",
+   "path": "local/hunedoara/hunedoara/2020/309",
+   "short": "HCL Hunedoara nr. 309/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 309/2020 privind aprobarea documentației de avizare a lucrărilor de intervenții (DALI) și a indicatorilor tehnico – economici pentru obiectivul de investiție „Amenajare spații pentru servirea mesei de prânz, săli „After School” și dotării unor cabinete medicale la unități de învățământ primare și gimnaziale” - Modernizare Școală Gimnazială nr. 2 Hunedoara, Corp B și construire teren de sport multifuncțional, cabinete medicale Școala Gimnazială nr. 1, Corpuri A și B, aferentă proiectului „Amenajare spații pentru servirea mesei de prânz, săli ”after school”, reabilitare terenuri de sport, dotare cabinete stomatologice și cabinete medicale în Școala Gimnazială nr. 1 și Școala Gimnazială nr. 2 din Municipiul Hunedoara”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9911",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12935/HCL%20309-2020.pdf",
+     "sha256": "beaa8f0441f72050417b4c5bb93645f2b89517827ea576c34c485fdc08e32889"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-31-2020",
    "path": "local/hunedoara/hunedoara/2020/31",
    "short": "HCL Hunedoara nr. 31/2020",
@@ -1019,6 +2759,141 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6274/HCL_31-2020.pdf",
      "sha256": "897cb7938753cd366c1209ddbf5d98cbfa6cf76218e884aa39b48611013e9c9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-310-2020",
+   "path": "local/hunedoara/hunedoara/2020/310",
+   "short": "HCL Hunedoara nr. 310/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 310/2020 privind aprobarea proiectului „Amenajare spații pentru servirea mesei de prânz, săli ”after school”, reabilitare terenuri de sport, dotare cabinete stomatologice și cabinete medicale în Școala Gimnazială nr. 1 și Școala Gimnazială nr. 2 din Municipiul Hunedoara” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9912",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12936/HCL%20310-2020.pdf",
+     "sha256": "640e32db172eca3d525a7ce4b58b760854853424797164995c00645fa86e1df9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-311-2020",
+   "path": "local/hunedoara/hunedoara/2020/311",
+   "short": "HCL Hunedoara nr. 311/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 311/2020 pentru modificarea Hotărârii Consiliului Local nr. 1/2019 privind aprobarea documentaţiei de avizare lucrări de intervenţie (DALI) şi a indicatorilor tehnico-economici pentru obiectivul de investiţie „Reabilitarea/modernizarea /dotarea unităților de învățământ antepreșcolar și preșcolar (creșe și grădinițe) din Municipiul Hunedoara, Grădinița cu Program Prelungit Piticot”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9913",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12937/HCL%20311-2020.pdf",
+     "sha256": "a8d1f3191348583ff07155bad0ff4ff835c97890378958427208c09ef02eb8ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-312-2020",
+   "path": "local/hunedoara/hunedoara/2020/312",
+   "short": "HCL Hunedoara nr. 312/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 312/2020 privind aprobarea proiectului „Reabilitarea/modernizarea /dotarea unităților de învățământ antepreșcolar și preșcolar (creșe și grădinițe) din Municipiul Hunedoara, Grădinița cu Program Prelungit Piticot” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9914",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12938/HCL%20312-2020.pdf",
+     "sha256": "bcb9a2862c9e51d710de12a6646e74979500c570b26cbd5e9333584c03a9edca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-313-2020",
+   "path": "local/hunedoara/hunedoara/2020/313",
+   "short": "HCL Hunedoara nr. 313/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 313/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2020 al societăţii SALUBPREST HUNEDOARA S.R.L",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9915",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/12942/HCL%20313-2020.pdf",
+     "sha256": "9d9a2f2a6c261ea7b936ffe4196935a248cdc302d8fd456c676ec6d4931efef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-314-2020",
+   "path": "local/hunedoara/hunedoara/2020/314",
+   "short": "HCL Hunedoara nr. 314/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 314/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9916",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13002/HCL%20314-2020.pdf",
+     "sha256": "58d18e9e36d19a796ad77d161fc6c37fc17d8322b46e467f1d6e780d6f7a9a38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-315-2020",
+   "path": "local/hunedoara/hunedoara/2020/315",
+   "short": "HCL Hunedoara nr. 315/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 315/2020 privind modificarea Anexei nr. 2 din Hotărârea Consiliului Local al municipiului Hunedoara nr. 286/2019 privind aprobarea structurii organizatorice – organigrama si a statului de funcții pentru aparatul de specialitate al primarului municipiului Hunedoara si pentru Serviciile Publice fără personalitate juridica subordonate Consiliului Local al Municipiului Hunedoara, cu modificările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/9917",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13003/HCL%20315-2020.pdf",
+     "sha256": "84105283755990ea8258d2141b78e24a41812c77ad8eff145e80c0469866bdc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-316-2020",
+   "path": "local/hunedoara/hunedoara/2020/316",
+   "short": "HCL Hunedoara nr. 316/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 316/2020 privind aprobarea alocării sumei de până la 52.000 lei din bugetul local al municipiului Hunedoara pentru premierea elevilor și sportivilor din municipiul Hunedoara care în anul școlar 2019 - 2020 au obținut distincții la olimpiadele internaționale și concursurile internaționale și naționale, precum și pentru premierea profesorilor și antrenorilor coordonatori",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10253",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13270/HCL%20316-2020.pdf",
+     "sha256": "b4b371eb303c4d48f37bbe339346b0584a9dfad843e397f875fc347405e735eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-317-2020",
+   "path": "local/hunedoara/hunedoara/2020/317",
+   "short": "HCL Hunedoara nr. 317/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 317/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10254",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13267/HCL%20317-2020.pdf",
+     "sha256": "ed045aa5a92a57655a574cf950d08966614f4c72158d65cdcc01accc987d8ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-319-2020",
+   "path": "local/hunedoara/hunedoara/2020/319",
+   "short": "HCL Hunedoara nr. 319/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 319/2020 entru aprobarea execuţiei bugetelor secțiunii de funcționare și a secțiunii de dezvoltare pentru trimestrul III 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10256",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13258/HCL%20319-2020.pdf",
+     "sha256": "6b8c50db9af1a154a5ed126de9cd2bb5d375ac4427461b30cf160e1e9ce01ac2"
     }
    ]
   },
@@ -1038,6 +2913,141 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-320-2020",
+   "path": "local/hunedoara/hunedoara/2020/320",
+   "short": "HCL Hunedoara nr. 320/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 320/2020 pentru aprobarea execuţiei bugetului împrumutului intern al municipiului Hunedoara pentru trimestrul III 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10257",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13260/HCL%20320-2020.pdf",
+     "sha256": "22089d26fe8609c8b03caa3068d39f537c7fb187ec18d04550bf01215967b05e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-321-2020",
+   "path": "local/hunedoara/hunedoara/2020/321",
+   "short": "HCL Hunedoara nr. 321/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 321/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10258",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13251/HCL%20321-2020.pdf",
+     "sha256": "d8a4cc5ed543294a2b5f97867ea142ec3d6287b2391a7b96bb876b7f9e2d8bc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-322-2020",
+   "path": "local/hunedoara/hunedoara/2020/322",
+   "short": "HCL Hunedoara nr. 322/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 322/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10259",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13249/HCL%20322-2020.pdf",
+     "sha256": "b755fb26ca70e60c5dd522e0652d9120aff6580bc9a261c9ff604fa28db04fc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-323-2020",
+   "path": "local/hunedoara/hunedoara/2020/323",
+   "short": "HCL Hunedoara nr. 323/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 323/2020 privind însuşirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic de Detaliu „Împrejmuire proprietate şi construire spălătorie auto self service”, str.Viorele, f.n. judeţul Hunedoara, municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10260",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13265/HCL%20323-2020.pdf",
+     "sha256": "fcdebffd7b1e7ecb5934f0f6f0dd26fce6589f56da426fcf538724d2520cb2e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-324-2020",
+   "path": "local/hunedoara/hunedoara/2020/324",
+   "short": "HCL Hunedoara nr. 324/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 324/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10261",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13250/HCL%20324-2020.pdf",
+     "sha256": "60626b953e53fb62968ee7b5154a2f0e39aa7a05ecc56bffa17f6f44c8a511f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-325-2020",
+   "path": "local/hunedoara/hunedoara/2020/325",
+   "short": "HCL Hunedoara nr. 325/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 325/2020 privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, Str. Independenţei, nr. 4, bl. 29, sc. C, Et.2, ap. 52",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10262",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13256/HCL%20325-2020.pdf",
+     "sha256": "fed9fa826a32f3ff55edb99af5379361b201aba2c2c79b9ffdac8fa4517c9ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-327-2020",
+   "path": "local/hunedoara/hunedoara/2020/327",
+   "short": "HCL Hunedoara nr. 327/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 327/2020 privind încheierea unui act adiţional la contractul de comodat nr. 353/496/22.11.2016, având ca obiect folosința gratuită a spaţiului în suprafață de 108 mp, situat pe str. C-tin Brâncuși, Bl. X2, în municipiul Hunedoara, aparținând domeniului privat al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10264",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13262/HCL%20327-2020.pdf",
+     "sha256": "4ea15725659a1aff3c8d2b2d785b4aabdf663c940de4f82fbece3ada0a07df01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-328-2020",
+   "path": "local/hunedoara/hunedoara/2020/328",
+   "short": "HCL Hunedoara nr. 328/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 328/2020 privind încetarea prin acordul părţilor a contractului nr. 236/11.05.2018, având ca obiect închirierea culoarului de înot nr. 6, din bazinul mare, aflat în incinta Complexului Sportiv ”Michael Klein”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10265",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13263/HCL%20328-2020.pdf",
+     "sha256": "23426842e69e4f0ca4c293e4c3d93794503970e7bb373f47dae64dd1a7f24b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-329-2020",
+   "path": "local/hunedoara/hunedoara/2020/329",
+   "short": "HCL Hunedoara nr. 329/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 329/2020 privind încheierea unui act adiţional la contractele având ca obiect închirierea unor terenuri în suprafaţă de 3 mp aparţinând Municipiului Hunedoara pe care sunt construite şi amplasate panouri publicitare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10266",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13264/HCL%20329-2020.pdf",
+     "sha256": "e01ccf7f17577fb0cab6f78be2197d0ebab7b1268b83aacae987b829707c12b2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-33-2020",
    "path": "local/hunedoara/hunedoara/2020/33",
    "short": "HCL Hunedoara nr. 33/2020",
@@ -1049,6 +3059,156 @@
      "units": 9,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6153/HCL_33-2020.pdf",
      "sha256": "3a5255e927b26569b4db3cfbf23ded31c5aa245da28caa8f101b939914434440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-330-2020",
+   "path": "local/hunedoara/hunedoara/2020/330",
+   "short": "HCL Hunedoara nr. 330/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 330/2020 privind propunerea de trecere a unui teren aflat în proprietatea Statului Român şi în administrarea Consiliului Local al Municipiului Hunedoara, în proprietatea privată a actualului deţinător al construcţiei",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10267",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13266/HCL%20330-2020.pdf",
+     "sha256": "3a6490217a0f98359f2793001100f0257e9e4a6aefe8322a0e11557fdaeff873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-331-2020",
+   "path": "local/hunedoara/hunedoara/2020/331",
+   "short": "HCL Hunedoara nr. 331/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 331/2020 privind analiza stadiului de înscriere a datelor în registrul agricol al Municipiului Hunedoara, pentru trimestrul III al anului 2020, precum și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10268",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13268/HCL%20331-2020.pdf",
+     "sha256": "3fb3e8e523eed8c0c828002b6debab08efb482563f37f31cec0ef7ad5ae02978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-332-2020",
+   "path": "local/hunedoara/hunedoara/2020/332",
+   "short": "HCL Hunedoara nr. 332/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 332/2020 privind încheierea unui acord de asociere între municipiul Hunedoara şi Universitatea Politehnica Timișoara – Facultatea de Inginerie din Hunedoara, în vederea organizării în comun a aniversării a 50 de ani de existență a Facultății de Inginerie din Hunedoara și 100 de ani de existență a Universității Politehnica din Timișoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10269",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13271/HCL%20332-2020.pdf",
+     "sha256": "d61178e73199c8809d136c41b349170b65be5c441c782b9059721b46dee86395"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-333-2020",
+   "path": "local/hunedoara/hunedoara/2020/333",
+   "short": "HCL Hunedoara nr. 333/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 333/2020 pentru modificarea Anexei la Hotărârea Consiliului Local al Municipiului Hunedoara nr.276/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/10270",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/13272/HCL%20333-2020.pdf",
+     "sha256": "2c5eb50e83eea5128583b07aadd36cf6fa7917dc844a41e34c50b1359422b0b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-334-2020",
+   "path": "local/hunedoara/hunedoara/2020/334",
+   "short": "HCL Hunedoara nr. 334/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 334/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11144",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14361/HCL%20334-2020.pdf",
+     "sha256": "003a57fea732c6fd9c8d19d6c6ead5cd3fa79c204075fab7587fedbf350ff297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-335-2020",
+   "path": "local/hunedoara/hunedoara/2020/335",
+   "short": "HCL Hunedoara nr. 335/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 335/2020 privind alegerea dintre membrii Consiliului Local al Municipiului Hunedoara a unui preşedinte de şedinţă pentru perioada 03.11.2020-31.12.2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11169",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14366/HCL%20335-2020.pdf",
+     "sha256": "7c268130d6e84ae325a793942c1c75dd6d85c96eaa3089beb5a1f3efbe739dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-336-2020",
+   "path": "local/hunedoara/hunedoara/2020/336",
+   "short": "HCL Hunedoara nr. 336/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 336/2020 privind alegerea viceprimarului municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11170",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14365/HCL%20336-2020.pdf",
+     "sha256": "3d7fd9597b5f433eec13808f368cca888703ad22ae81dbb7b61f5548ec75c571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-337-2020",
+   "path": "local/hunedoara/hunedoara/2020/337",
+   "short": "HCL Hunedoara nr. 337/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 337/2020 privind numirea reprezentanţilor Consiliului local al Municipiului Hunedoara în Consiliile de Administraţie ale unităţilor de învăţământ preuniversitar și al Clubului Sportiv Școlar, aflate pe raza administrativ teritorială a Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11171",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14386/HCL%20337-2020.pdf",
+     "sha256": "3a627ed9d447a300a36fcc5660b69427ffe58a81b3055dee28ce5144024142a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-338-2020",
+   "path": "local/hunedoara/hunedoara/2020/338",
+   "short": "HCL Hunedoara nr. 338/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 338/2020 privind constituirea comisiei de analiză a solicitărilor de locuințe în baza Legii locuinței nr.114/1996, republicată, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11172",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14383/HCL%20338-2020.pdf",
+     "sha256": "1b85ae46d92989f8ce2affe1fa304a573469bd6c91398eb8075e4e813ed839d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-339-2020",
+   "path": "local/hunedoara/hunedoara/2020/339",
+   "short": "HCL Hunedoara nr. 339/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 339/2020 privind numirea unor consilieri locali ca membrii ai comisiei sociale care vor analiza solicitările/cererile privind repartizarea locuințelor pentru tineri, destinate închirierii",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11173",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14388/HCL%20339-2020.pdf",
+     "sha256": "676f8e9cfd90b41752a564b764b769db69b3654ed09936afb231c760df9c4006"
     }
    ]
   },
@@ -1068,6 +3228,96 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-340-2020",
+   "path": "local/hunedoara/hunedoara/2020/340",
+   "short": "HCL Hunedoara nr. 340/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 340/2020 privind numirea unor consilieri locali ca membrii ai comisiei sociale care vor analiza contestaţiile cu privire la stabilirea accesului la locuinţe, precum şi la acordarea priorităţilor în soluţionarea cererilor privind repartizarea locuințelor pentru tineri, destinate închirierii",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11174",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14384/HCL%20340-2020.pdf",
+     "sha256": "91e8648184ec79a3bb4a67c80926e6db1ef7b474ba01411a38db62f06bd0d283"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-341-2020",
+   "path": "local/hunedoara/hunedoara/2020/341",
+   "short": "HCL Hunedoara nr. 341/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 341/2020 privind numirea reprezentanţilor Consiliului local al Municipiului Hunedoara în comisia de evaluarea a ofertelor depuse în vederea vânzării bunurilor aflate în domeniul privat al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11175",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14371/HCL%20341-2020.pdf",
+     "sha256": "f0d9e507250968bd17ac67c4a4964b498ab14c3d8587594dcb4e7704f6c7ad68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-344-2020",
+   "path": "local/hunedoara/hunedoara/2020/344",
+   "short": "HCL Hunedoara nr. 344/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 344/2020 privind numirea reprezentantului Consiliului local al Municipiului Hunedoara în Comisia pentru evaluarea și asigurarea calității din cadrul Grădiniţei Happy Kids din Municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11178",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14367/HCL%20344-2020.pdf",
+     "sha256": "ce68c19250fe41b8fa5bf4eac7da407fcdec763a44095b8407af2e723855f7cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-347-2020",
+   "path": "local/hunedoara/hunedoara/2020/347",
+   "short": "HCL Hunedoara nr. 347/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 347/2020 privind numirea reprezentantului autorității administrației publice locale în Consiliul Consultativ al Unității de Asistență Medico-Sociala ”Părintele Arsenie Boca” Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11181",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14387/HCL%20347-2020.pdf",
+     "sha256": "a4b8d7d572bac87c57e63b8b266202daa881d0ead4f1adb845b50e87b22a7900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-348-2020",
+   "path": "local/hunedoara/hunedoara/2020/348",
+   "short": "HCL Hunedoara nr. 348/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 348/2020 pentru modificarea și completarea Hotărârii nr. 316/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11182",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14385/HCL%20348-2020.pdf",
+     "sha256": "81c21e3cb9400579ed8436ad07d20d416f48edb2ba8d505f12cd78f0fdba9572"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-349-2020",
+   "path": "local/hunedoara/hunedoara/2020/349",
+   "short": "HCL Hunedoara nr. 349/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 349/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11211",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14394/HCL%20349-2020.pdf",
+     "sha256": "e92fb2d90d7004b128215b8a411b1f046b1b9e6d02c1d6bb22ffe135ed46ac8a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-35-2020",
    "path": "local/hunedoara/hunedoara/2020/35",
    "short": "HCL Hunedoara nr. 35/2020",
@@ -1079,6 +3329,51 @@
      "units": 9,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6157/HCL_35-2020.pdf",
      "sha256": "cc9f74013f908354d9a47be9819dc593833db6ede1b9db56df1dc81c0b88a9e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-350-2020",
+   "path": "local/hunedoara/hunedoara/2020/350",
+   "short": "HCL Hunedoara nr. 350/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 350/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2020 al instituţiilor publice finanţate integral sau parţial din venituri proprii, aflate în subordinea şi finanţarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11212",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14397/HCL%20350-2020.pdf",
+     "sha256": "743b81b2f69e2041335c6d50fea882f4241613166fc0b45645a4b8209bba9582"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-351-2020",
+   "path": "local/hunedoara/hunedoara/2020/351",
+   "short": "HCL Hunedoara nr. 351/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 351/2020 privind aprobarea proiectului „EDUCAȚIE ON LINE ÎN MUNICIPIUL HUNEDOARA (EOL-HD)” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11213",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14393/HCL%20351-2020.pdf",
+     "sha256": "a16b00d56dc22087ff015c028beabedd90d8244eecf676e7459be2e521ba6a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-352-2020",
+   "path": "local/hunedoara/hunedoara/2020/352",
+   "short": "HCL Hunedoara nr. 352/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 352/2020 privind aprobarea proiectului „Reabilitarea /modernizarea/dotarea unităților de învățământ antepreșcolar și preșcolar (creșe si grădinițe) din Municipiul Hunedoara, Grădinița cu Program Prelungit Nr. 1” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/11214",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14392/HCL%20352-2020.pdf",
+     "sha256": "3b1e05d584cb05b4456ddc3c17bc8b88480d32fa53d11a4e4cb3064275b19838"
     }
    ]
   },
@@ -1128,6 +3423,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-359-2020",
+   "path": "local/hunedoara/hunedoara/2020/359",
+   "short": "HCL Hunedoara nr. 359/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 359/2020 privind încheierea unui act adiţional la contractele având ca obiect închirierea unor căsuţe de lemn proprietatea Municipiului Hunedoara, amplasate în Curtea exterioară a Castelului Corvinilor, cu destinaţia comerţ şi alimentaţie publică",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12850",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14390/HCL%20359-2020.pdf",
+     "sha256": "66a3129f428c656f2723c584fcc42584aa1fdea3ee46d8b2b145721f6d3d20fd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-36-2020",
    "path": "local/hunedoara/hunedoara/2020/36",
    "short": "HCL Hunedoara nr. 36/2020",
@@ -1139,6 +3449,81 @@
      "units": 9,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6158/HCL_36-2020.pdf",
      "sha256": "572c0c07b03df977866fea70304d12326af60a7e9ef44dbc6a8163fe36d9ded7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-360-2020",
+   "path": "local/hunedoara/hunedoara/2020/360",
+   "short": "HCL Hunedoara nr. 360/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 360/2020 privind aprobarea alocării sumei de până la 3.080 lei, din bugetul local al municipiului Hunedoara, pentru premierea a patru familii care sărbătoresc anul acesta „Nunta de Aur”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12851",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15024/HCL%20360-2020.pdf",
+     "sha256": "087c1c5734dd588e225e2f9c96e1226cd40f4f10b49ab6315719a6a5ea3903ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-361-2020",
+   "path": "local/hunedoara/hunedoara/2020/361",
+   "short": "HCL Hunedoara nr. 361/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 361/2020 privind aprobarea acordării subvenţiei de la bugetul local al municipiului Hunedoara pentru activitatea Serviciului de transport public local de persoane prin curse regulate în municipiul Hunedoara pentru luna octombrie 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12852",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/14965/HCL%20361-2020.pdf",
+     "sha256": "17671fa56480cc3b3dae4a00a9162ebf5fe3eba98be887c02efc0bd30b73188d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-362-2020",
+   "path": "local/hunedoara/hunedoara/2020/362",
+   "short": "HCL Hunedoara nr. 362/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 362/2020 privind aprobarea trecerii din proprietatea Statului Român în proprietatea privată a municipiului Hunedoara a unui teren aflat în intravilanul municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12853",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15017/HCL%20362-2020.pdf",
+     "sha256": "e858c0ea95d2434efa41a11f616bb2ba087e0007b90a6a02f50ef7109e3fc0f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-363-2020",
+   "path": "local/hunedoara/hunedoara/2020/363",
+   "short": "HCL Hunedoara nr. 363/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 363/2020 privind aprobarea completării Anexei la Hotărârea Consiliului Local nr.339/2019 privind aprobarea Inventarului bunurilor imobile care alcătuiesc domeniul privat al municipiului Hunedoara, cu completările ulterioare",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12854",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15030/HCL%20363-2020.pdf",
+     "sha256": "b1e5c0e8807c341f427cfe706ffd7b0289acc79d3fcebc14d5ee8f30b8a76218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-364-2020",
+   "path": "local/hunedoara/hunedoara/2020/364",
+   "short": "HCL Hunedoara nr. 364/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 364/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12855",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15031/HCL%20364-2020.pdf",
+     "sha256": "912014ab69314b66e8d341534663df72bc97d9077c79188a6c1e2b7e0ff40690"
     }
    ]
   },
@@ -1158,6 +3543,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-366-2020",
+   "path": "local/hunedoara/hunedoara/2020/366",
+   "short": "HCL Hunedoara nr. 366/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 366/2020 privind privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12857",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15073/HCL%20366-2020.pdf",
+     "sha256": "cde520d145ffa2984bcd6e9b9731dda127c49cbaaa88cc38e535c1875badd85b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-367-2020",
+   "path": "local/hunedoara/hunedoara/2020/367",
+   "short": "HCL Hunedoara nr. 367/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 367/2020 privind privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2020 al instituţiilor publice finanţate integral sau parţial din venituri proprii, aflate în subordinea şi finanţarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12858",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15074/HCL%20367-2020.pdf",
+     "sha256": "7e90713dc422d8c7bfc645fa014181e621a6de546ae9ef6d2fa9f4802d7d1dd3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-368-2020",
    "path": "local/hunedoara/hunedoara/2020/368",
    "short": "HCL Hunedoara nr. 368/2020",
@@ -1173,6 +3588,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-369-2020",
+   "path": "local/hunedoara/hunedoara/2020/369",
+   "short": "HCL Hunedoara nr. 369/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 369/2020 privind aprobarea rectificării bugetului local al municipiului Hunedoara, pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12962",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15869/HCL%20369-2020.pdf",
+     "sha256": "6bf8911cac15f7136d92ae3cbb06b12182ea9b67d4e8b4f9e4b72fd2893d85b6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-37-2020",
    "path": "local/hunedoara/hunedoara/2020/37",
    "short": "HCL Hunedoara nr. 37/2020",
@@ -1184,6 +3614,81 @@
      "units": 10,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6160/HCL_37-2020.pdf",
      "sha256": "e3582505e41b038a6d18ad321692ce3bd3bc8f43add32a11aa6be23c2211cf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-370-2020",
+   "path": "local/hunedoara/hunedoara/2020/370",
+   "short": "HCL Hunedoara nr. 370/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 370/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2020 al instituţiilor publice finanţate integral sau parţial din venituri proprii, aflate în subordinea şi finanţarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12963",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15864/HCL%20370-2020.pdf",
+     "sha256": "41db2dba99fffd789bfcbcfc53cd5320c4a1a68be323c88aa264d8745b3629dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-372-2020",
+   "path": "local/hunedoara/hunedoara/2020/372",
+   "short": "HCL Hunedoara nr. 372/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 372/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12965",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15820/HCL%20372-2020.pdf",
+     "sha256": "bd699ae9c86b422a5cd5ee04d6500b4acfc15463a50e41d1ba4b17c796a64c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-373-2020",
+   "path": "local/hunedoara/hunedoara/2020/373",
+   "short": "HCL Hunedoara nr. 373/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 373/2020 privind modificarea Hotărârii Consiliului Local nr. 302/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12966",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15838/HCL%20373-2020.pdf",
+     "sha256": "e031ae16ae0a5833653a07eccebc91fcc5b454ab1216b5871ebce19fa415135f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-374-2020",
+   "path": "local/hunedoara/hunedoara/2020/374",
+   "short": "HCL Hunedoara nr. 374/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 374/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12967",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15840/HCL%20374-2020.pdf",
+     "sha256": "c2486b2c0beae030cfc6e49dee9f2c04252a12458aa8b5fdf2f4ca83bb809dea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-375-2020",
+   "path": "local/hunedoara/hunedoara/2020/375",
+   "short": "HCL Hunedoara nr. 375/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 375/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/12968",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15878/HCL%20375-2020.pdf",
+     "sha256": "8fe8202f8c4231d68b70af19e3c3d9d371fac302816f6ced5f9826afe39c6524"
     }
    ]
   },
@@ -1323,6 +3828,171 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-390-2020",
+   "path": "local/hunedoara/hunedoara/2020/390",
+   "short": "HCL Hunedoara nr. 390/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 390/2020 privind menținerea, în anul 2021, a salariilor de bază pentru funcționarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului municipiului Hunedoara, a instituțiilor şi serviciilor publice, fără personalitate juridică, aflate în subordinea Consiliului local al municipiului Hunedoara, la nivelul salariilor de bază aflate în plată în luna decembrie 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13860",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15836/HCL%20390-2020.pdf",
+     "sha256": "8cc0efb721b733c7a85453451c0ab1744038f2d1fe01f71721636423a3474b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-391-2020",
+   "path": "local/hunedoara/hunedoara/2020/391",
+   "short": "HCL Hunedoara nr. 391/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 391/2020 rivind menținerea, în anul 2021, a salariilor de bază pentru personalul contractual din cadrul Centrului Social Multifuncțional Pentru Persoane Vârstnice, cu personalitate juridică, aflat în subordinea Consiliului local al municipiului Hunedoara, la nivelul salariilor de bază aflate în plată în luna decembrie 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13861",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16782/HCL%20391-2020.pdf",
+     "sha256": "32a83b1eb67f9fd4758a9b3f570f536af1b37ae27816edcc4212b37981be9e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-392-2020",
+   "path": "local/hunedoara/hunedoara/2020/392",
+   "short": "HCL Hunedoara nr. 392/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 392/2020 privind menținerea, în anul 2021, a salariilor de bază pentru personalul contractual din cadrul Clubului Sportiv Hunedoara, aflat în subordinea Consiliului local al municipiului Hunedoara, la nivelul salariilor de bază aflate în plată în luna decembrie 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13862",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15858/HCL%20392-2020.pdf",
+     "sha256": "9898ea634da696a96417594aa6de7d6686a875082ef4b56c08c352f935d8ddbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-393-2020",
+   "path": "local/hunedoara/hunedoara/2020/393",
+   "short": "HCL Hunedoara nr. 393/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 393/2020 privind menținerea, în anul 2021, a salariilor de bază pentru personalul contractual din cadrul Unității de Asistenta Medico Sociala ”Părintele Arsenie Boca” din subordinea Consiliului Local al municipiului Hunedoara, la nivelul salariilor de bază aflate în plată in luna decembrie 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13863",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15821/HCL%20393-2020.pdf",
+     "sha256": "b6b8ac4806ccc89121cfa59cc6988cec531600b5ec9087ba7c26579b366db39e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-394-2020",
+   "path": "local/hunedoara/hunedoara/2020/394",
+   "short": "HCL Hunedoara nr. 394/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 394/2020 privind menținerea, în anul 2021, a salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul Direcției de Asistență Socială Hunedoara, serviciu public cu personalitate juridică din subordinea Consiliului local al municipiului Hunedoara, la nivelul salariilor de bază aflate în plată în luna decembrie 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13864",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16758/HCL%20394-2020.pdf",
+     "sha256": "987317270b2b6e945035ebd70e713a6e399bf50432eb3da199150ecd6f2bfa92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-395-2020",
+   "path": "local/hunedoara/hunedoara/2020/395",
+   "short": "HCL Hunedoara nr. 395/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 395/2020 privind încetarea prin acordul părţilor a contractului de concesiune nr. 435/248/28.05.2019, având ca obiect concesionarea terenului în suprafaţă de 1582 mp înscris în CF nr. 67294 Hunedoara, nr. cad. 67294, aflat în domeniul privat al Municipiului Hunedoara situat în incinta Parcului Industrial Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13865",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15814/HCL%20395-2020.pdf",
+     "sha256": "89c482bb0368640ad6eae319a26410424c1005f00136c1b0ea6740dedfb875f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-396-2020",
+   "path": "local/hunedoara/hunedoara/2020/396",
+   "short": "HCL Hunedoara nr. 396/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 396/2020 privind încheierea unui act adiţional la contractul de închiriere nr. 321/390/22.12.2016, având ca obiect folosința spațiului în suprafață de 60,14 mp situat în municipiul Hunedoara, str. Constantin Brâncuși bl. X2, aparținând domeniului privat al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13866",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15818/HCL%20396-2020.pdf",
+     "sha256": "a87ebbb784e1c7eeadbaece7fdcf2f05e7effa0dbb866a03b91b07fda4b9bb6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-397-2020",
+   "path": "local/hunedoara/hunedoara/2020/397",
+   "short": "HCL Hunedoara nr. 397/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 397/2020 privind aprobarea structurii organizatorice – organigrama și al statului de funcţii a Unității de Asistență Medico-Socială ”Părintele Arsenie Boca” din subordinea Consiliului local al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13867",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15832/HCL%20397-2020.pdf",
+     "sha256": "fb537d4cd73c125dadc0cc63ac1fffa65ef75a694c984ed679b29773ad661717"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-398-2020",
+   "path": "local/hunedoara/hunedoara/2020/398",
+   "short": "HCL Hunedoara nr. 398/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 398/2020 privind finanțarea burselor din bugetul local al municipiului Hunedoara, aferente anului școlar 2020-2021, pentru elevii care frecventează cursurile de zi, în unitățile de învățământ preuniversitar de stat, de pe raza municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13868",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16738/HCL%20398-2020.pdf",
+     "sha256": "ca1a6518e67e2d0f9cb3ebf545de893bac7250b259c6795ea921da55b68870a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-399-2020",
+   "path": "local/hunedoara/hunedoara/2020/399",
+   "short": "HCL Hunedoara nr. 399/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 399/2020 privind aprobarea modificării și completării Actului Constitutiv al Societății Salubprest Hunedoara S.R.L",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13869",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15857/HCL%20399-2020.pdf",
+     "sha256": "b45eb48e08bff507148cf9b29416c4f5bced6b2accfd099a6c22024d15b3dc0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-4-2020",
+   "path": "local/hunedoara/hunedoara/2020/4",
+   "short": "HCL Hunedoara nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 4/2020 privind revocarea Hotărârii Consiliului Local nr. 212/2019 privind vânzarea locuinţei convenabile, situată în Municipiul Hunedoara, strada Trandafirilor, nr. 7, bl. 17, sc. A, et.6, ap. 37",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3212",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6097/HCL_4-2020.pdf",
+     "sha256": "aafa3687dcd7e0d0ae7e96fa5c9b6dcb18bf10144d3d55276dc095a2aa2db2b2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-40-2020",
    "path": "local/hunedoara/hunedoara/2020/40",
    "short": "HCL Hunedoara nr. 40/2020",
@@ -1334,6 +4004,111 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6171/HCL_40-2020.pdf",
      "sha256": "547873a83936ed7abf780f846d3fa0d0626201342f42ce03aa443288c43b0636"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-401-2020",
+   "path": "local/hunedoara/hunedoara/2020/401",
+   "short": "HCL Hunedoara nr. 401/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 401/2020 privind propunerea de trecere a unui teren aflat în proprietatea Statului Român şi în administrarea Consiliului Local al Municipiului Hunedoara, în proprietatea privată a actualilor deţinători ai construcţiei",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13872",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16744/HCL%20401-2020.pdf",
+     "sha256": "3e6ffb86a0f1e9f77bbc7bf8d97124e18ff8b0d4e9f44c2786c641d84975423d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-402-2020",
+   "path": "local/hunedoara/hunedoara/2020/402",
+   "short": "HCL Hunedoara nr. 402/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 402/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13870",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/15837/HCL%20402-2020.pdf",
+     "sha256": "fcec5997e24a49050927807c3c038d36bd35055437319dfea88dc8b87c1b94c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-403-2020",
+   "path": "local/hunedoara/hunedoara/2020/403",
+   "short": "HCL Hunedoara nr. 403/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 403/2020 privind repartizarea unor locuinţe acordate cu chirie din fondul locativ de stat aflate în administrarea Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13873",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16760/HCL%20403-2020.pdf",
+     "sha256": "5fc32a5107f8931ee3a976737411fd32334e7fdbbdda72f6785322a7250a1f4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-404-2020",
+   "path": "local/hunedoara/hunedoara/2020/404",
+   "short": "HCL Hunedoara nr. 404/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 404/2020 privind vânzarea locuinței convenabile, situată în Municipiul Hunedoara, strada Mureșului, nr. 2A, bl. A1 sc. A, etaj 8, ap. 142",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13874",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16761/HCL%20404-2020.pdf",
+     "sha256": "53fa2e50d1f600e1fb1c2f1920fd800e5eef5b6fe57b653177616542b5bc06a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-405-2020",
+   "path": "local/hunedoara/hunedoara/2020/405",
+   "short": "HCL Hunedoara nr. 405/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 405/2020 privind stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor cu chirie din fondul locativ de stat aflate în administrarea Consiliului Local al Municipiului Hunedoara, în anul 2021",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13875",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16768/HCL%20405-2020.pdf",
+     "sha256": "0096e074311ac27afa7f055d48948cdd0734630229c1aa502b76cd93b010e97b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-406-2020",
+   "path": "local/hunedoara/hunedoara/2020/406",
+   "short": "HCL Hunedoara nr. 406/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 406/2020 privind încheierea unui act adițional la contractul de închiriere nr.320/389/22.12.2016, având ca obiect folosința spațiului în suprafață totală de 101,79 mp, părți comune 14,38 mp, situat în municipiul Hunedoara, B-dul Corvin, nr.14, fosta Școală Generala nr.1, aflat în domeniul public al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13876",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16764/HCL%20406-2020.pdf",
+     "sha256": "8d24b2b2bcd1eb71a94e0875381aa2c1034ba41e748da20359b635a0af31412d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-409-2020",
+   "path": "local/hunedoara/hunedoara/2020/409",
+   "short": "HCL Hunedoara nr. 409/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 409/2020 privind desemnarea reprezentanților instituției cu rețea sanitară proprie și al administrației publice locale în comisia de concurs/examen respectiv în comisia de soluționare a contestațiilor la concurs/examen, pentru ocuparea funcției de Director financiar contabil din cadrul comitetului director al Spitalului Municipal „Dr. Al. Simionescu” Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13879",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16783/HCL%20409-2020.pdf",
+     "sha256": "bdcfa00c8a6a0c35edfa0fd9867df3bb08f05e438da86c93deda45a6de38f5c5"
     }
    ]
   },
@@ -1353,6 +4128,141 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-410-2020",
+   "path": "local/hunedoara/hunedoara/2020/410",
+   "short": "HCL Hunedoara nr. 410/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 410/2020 privind aprobarea prelungirii duratei contractelor de închiriere având ca obiect bunurile aflate în domeniul public al municipiului Hunedoara și date în administrarea Serviciului Public Administrația Piețelor, Târgurilor și Oboarelor din municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13880",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16776/HCL%20410-2020.pdf",
+     "sha256": "2d25f948fde0729fcbaae704992073ae7f5cdfa2f806b280ee5d32646ddf7b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-411-2020",
+   "path": "local/hunedoara/hunedoara/2020/411",
+   "short": "HCL Hunedoara nr. 411/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 411/2020 privind încheierea unui act adiţional la contractul de comodat nr. 307/19.04.2017, cu modificările ulterioare, încheiat între Municipiul Hunedoara şi Clubul Sportiv Școlar Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13881",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16771/HCL%20411-2020.pdf",
+     "sha256": "8c34d592624fcb4c824007c313703700bf26d8b07dbc3b782cb3753e28229d7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-412-2020",
+   "path": "local/hunedoara/hunedoara/2020/412",
+   "short": "HCL Hunedoara nr. 412/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 412/2020 privind încheierea unui act adiţional la contractul de comodat nr. 308/19.04.2017, cu modificările ulterioare, încheiat între Municipiul Hunedoara şi Clubul Sportiv Școlar Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13882",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16772/HCL%20412-2020.pdf",
+     "sha256": "7e74350aa2169179a6ae55399773bf8418c80498212be80d2ed700ec64d9fdbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-413-2020",
+   "path": "local/hunedoara/hunedoara/2020/413",
+   "short": "HCL Hunedoara nr. 413/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 413/2020 pentru aprobarea validării Dispoziției nr.2162/22.12.2020 privind majorarea bugetului local al municipiului Hunedoara pe anul 2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13883",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16807/HCL%20413-2020.pdf",
+     "sha256": "e0ffabbc19abcca8644ea1113a0917008c1a02003b3c959f8d4d99312ae4bc5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-414-2020",
+   "path": "local/hunedoara/hunedoara/2020/414",
+   "short": "HCL Hunedoara nr. 414/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 414/2020 privind desemnarea Comisiei de evaluare/selecție prealabilă a membrilor Consiliului de Administrație al întreprinderilor publice având ca autoritate publică tutelară Municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13884",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16779/HCL%20414-2020.pdf",
+     "sha256": "4db1d24611bc846e2c6adee11fa5cc8467028147f4025d5a19c42e4f86f5d22f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-415-2020",
+   "path": "local/hunedoara/hunedoara/2020/415",
+   "short": "HCL Hunedoara nr. 415/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 415/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13885",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16755/HCL%20415-2020.pdf",
+     "sha256": "308cdab91a346f48ab49e7e74e7770914f11721c249bd9b578b44096e9a4769a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-417-2020",
+   "path": "local/hunedoara/hunedoara/2020/417",
+   "short": "HCL Hunedoara nr. 417/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 417/2020 privind aprobarea structurii organizatorice – organigrama și a statului de funcţii pentru aparatul de specialitate al primarului municipiului Hunedoara și pentru Serviciile Publice fără personalitate juridică subordonate Consiliului Local al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13887",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16809/HCL%20417-2020.pdf",
+     "sha256": "71444ddbfd33a2a38ad436e588160eec510c7bfb1ee7eeae6757ba8df8566161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-418-2020",
+   "path": "local/hunedoara/hunedoara/2020/418",
+   "short": "HCL Hunedoara nr. 418/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 418/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13888",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16786/HCL%20418-2020.pdf",
+     "sha256": "61dabc16e2e56e87de9d811d40f48b78ef041e6ad822b9ff1d9fdc65c6be2a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-419-2020",
+   "path": "local/hunedoara/hunedoara/2020/419",
+   "short": "HCL Hunedoara nr. 419/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 419/2020 privind aprobarea modificării contractului de închiriere nr. 37/18.03.2020, cu modificarile ulterioare încheiat între Municipiul Hunedoara și Boroș Otilia",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13889",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16791/HCL%20419-2020.pdf",
+     "sha256": "b4068366f8f83c2268d05c5eb0a76f298f9dc21df894270d4c04dbf1b6f0f6e4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-42-2020",
    "path": "local/hunedoara/hunedoara/2020/42",
    "short": "HCL Hunedoara nr. 42/2020",
@@ -1364,6 +4274,126 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6176/HCL_42-2020.pdf",
      "sha256": "872163d4d4d2396e2f1fdb1a0bd57ee4ee27c91373f3a12b6d1db0d9041080a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-420-2020",
+   "path": "local/hunedoara/hunedoara/2020/420",
+   "short": "HCL Hunedoara nr. 420/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 420/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13890",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16799/HCL%20420-2020.pdf",
+     "sha256": "2d31e220fe8b47d31bd44263651b0652d7cb889669d8ce0dad219650b1bb27fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-421-2020",
+   "path": "local/hunedoara/hunedoara/2020/421",
+   "short": "HCL Hunedoara nr. 421/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 421/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13891",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16793/HCL%20421-2020.pdf",
+     "sha256": "ceff20c382ae00a2edbbc22bc8230321cd5adf7981d428c8ea78c0f47902226b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-422-2020",
+   "path": "local/hunedoara/hunedoara/2020/422",
+   "short": "HCL Hunedoara nr. 422/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 422/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13892",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16800/HCL%20422-2020.pdf",
+     "sha256": "10bb386227fff4c53a9e3411dc559e40c913213e5e969c36a55d707dbc261d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-424-2020",
+   "path": "local/hunedoara/hunedoara/2020/424",
+   "short": "HCL Hunedoara nr. 424/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 424/2020 privind îndreptarea erorii materiale din Anexa nr. 2 la Hotărârea Consiliului Local al Municipiului Hunedoara nr. 359/27.11.2020 privind încheierea unui act adiţional la contractele având ca obiect închirierea unor căsuţe de lemn proprietatea Municipiului Hunedoara, amplasate în Curtea exterioară a Castelului Corvinilor, cu destinaţia comerţ şi alimentaţie publică",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13894",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16805/HCL%20424-2020.pdf",
+     "sha256": "fda1b17ac48472d4febdb5aa85e34d7af9758b49af7376ce1c9b0554088e4a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-425-2020",
+   "path": "local/hunedoara/hunedoara/2020/425",
+   "short": "HCL Hunedoara nr. 425/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 425/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13895",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16811/HCL%20425-2020.pdf",
+     "sha256": "c3a7b4f503f35f25d62e0875ed26f090df0ddd1d886942c9f4bf77cae16326d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-426-2020",
+   "path": "local/hunedoara/hunedoara/2020/426",
+   "short": "HCL Hunedoara nr. 426/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 426/2020 privind aprobarea alocării sumei de până la 770 lei, din bugetul local al municipiului Hunedoara, pentru premierea unei familii care sărbătorește anul acesta „Nunta de Aur”",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13896",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16810/HCL%20426-2020.pdf",
+     "sha256": "2a47bb8e39e09321cfe903bb35754aa1e06d31956a6e46391f5d959a979e05e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-427-2020",
+   "path": "local/hunedoara/hunedoara/2020/427",
+   "short": "HCL Hunedoara nr. 427/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 427/2020 pentru aprobarea Schemei locale privind acordarea ajutoarelor de minimis în vederea scutirii de la plata impozitului/taxei pe clădire și teren datorate bugetului local al Municipiului Hunedoara pentru societățile care își desfășoară activitatea în cadrul Parcului Industrial Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13897",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16769/HCL%20427-2020.pdf",
+     "sha256": "726aa5bf538d8a96163299d464c83e458304b7a55253d5149aaa273e9835b251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-428-2020",
+   "path": "local/hunedoara/hunedoara/2020/428",
+   "short": "HCL Hunedoara nr. 428/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 428/2020 privind alegerea dintre membrii Consiliului Local al Municipiului Hunedoara a unui preşedinte de şedinţă pentru perioada 01.01.2021-28.02.2021",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/13898",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/16773/HCL%20428-2020.pdf",
+     "sha256": "3089233767b45075c1cbc2bb140c599cd535f0eaa714396068c8d07843cde121"
     }
    ]
   },
@@ -1409,6 +4439,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6182/HCL_45-2020.pdf",
      "sha256": "4ccdac01ecca1e089dd3ffd178f8c6ed26d99f53929aa0d6fbf04ac0fcdb561a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-46-2020",
+   "path": "local/hunedoara/hunedoara/2020/46",
+   "short": "HCL Hunedoara nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 46/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3308",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6185/HCL_46-2020.pdf",
+     "sha256": "acfc2b8656b8e29cb8f97754bdb09822387bff9010102d52ec7d7bcedb92137c"
     }
    ]
   },
@@ -1563,6 +4608,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-59-2020",
+   "path": "local/hunedoara/hunedoara/2020/59",
+   "short": "HCL Hunedoara nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 59/2020 privind încetarea prin acordul părţilor a contractului de concesiune nr. 50/270/30.09.2014, având ca obiect concesionarea terenului în suprafața totală de 3140 mp compus din două parcele, situat în incinta Parcului Industrial Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3353",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6206/HCL_59-2020.pdf",
+     "sha256": "3106d8a85c1ebe15cef012c0a1e33bb7237e25f6baecd37e211f2b2e806fdac2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-62-2020",
    "path": "local/hunedoara/hunedoara/2020/62",
    "short": "HCL Hunedoara nr. 62/2020",
@@ -1574,6 +4634,21 @@
      "units": 5,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6204/HCL_62-2020.pdf",
      "sha256": "ebbad70ffa63d7b1cc45a1b71ba7515b090f9c88b772374d7b759eb538ac5167"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-63-2020",
+   "path": "local/hunedoara/hunedoara/2020/63",
+   "short": "HCL Hunedoara nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 63/2020 privind prelungirea contractelor de închiriere pentru unitățile locative construite de către Agenţia Naţională pentru Locuinţe din municipiul Hunedoara, Str. Luncii, nr.2, blocul 7 şi Aleea Cîmpului, nr.4, blocul 6",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3358",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6218/HCL_63-2020.pdf",
+     "sha256": "e872850a3479f4081f35d5a66225276a75570a81f07054d375b4f3b59234beff"
     }
    ]
   },
@@ -1619,6 +4694,21 @@
      "units": 4,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6192/HCL_66-2020.pdf",
      "sha256": "d3d8951bddc76995fa781d1c584de0f2c6f55d5a7d6b674cbfa4509c3cee44ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-67-2020",
+   "path": "local/hunedoara/hunedoara/2020/67",
+   "short": "HCL Hunedoara nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 67/2020 privind aprobarea trecerii din proprietatea Statului Român în proprietatea privată a municipiului Hunedoara a unor terenuri aflate în intravilanul municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3363",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6217/HCL_67-2020.pdf",
+     "sha256": "cd21c5dadc337bbb05af333388d2a8aaed001a4e5443ccdb40fc46db6aa4b327"
     }
    ]
   },
@@ -1833,6 +4923,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-86-2020",
+   "path": "local/hunedoara/hunedoara/2020/86",
+   "short": "HCL Hunedoara nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 86/2020 privind vânzarea locuinţei convenabile, situată în Municipiul Hunedoara, Str.Independenţei, nr. 4, bl. 29, sc. C, Parter, ap.43",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3574",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6254/HCL_86-2020.pdf",
+     "sha256": "25ec17d49892d2e4357511f7f88b5bcbc4056a9b123d534e4209e8ea5762cdae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-87-2020",
+   "path": "local/hunedoara/hunedoara/2020/87",
+   "short": "HCL Hunedoara nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 87/2020 privind vânzarea locuinţei convenabile, situată în Municipiul Hunedoara, Str. Ştrandului, nr. 3, bl.N, sc.C, parter, ap. 63",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3575",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6263/HCL_87-2020.pdf",
+     "sha256": "d8ced8e269e2a1a86b31e503ba867b314eb70f2da95cfd5baf801e8268af21be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-88-2020",
+   "path": "local/hunedoara/hunedoara/2020/88",
+   "short": "HCL Hunedoara nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 88/2020 privind vânzarea locuinţei convenabile, situată în Municipiul Hunedoara, Str. Ştrandului, nr. 2, bl.H, sc.C, parter, ap. 61",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3576",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6337/HCL_88-2020.pdf",
+     "sha256": "12defb89e73ec90c23dc7be67b2a357f394250b21a5d0c6fb63f1cf0396d0615"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-89-2020",
    "path": "local/hunedoara/hunedoara/2020/89",
    "short": "HCL Hunedoara nr. 89/2020",
@@ -1844,6 +4979,51 @@
      "units": 4,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6262/HCL_89-2020.pdf",
      "sha256": "092d0d33204884eafc509e4b48ed90cd32b89dc432ed8567581e380f0bc74404"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-90-2020",
+   "path": "local/hunedoara/hunedoara/2020/90",
+   "short": "HCL Hunedoara nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 90/2020 privind încheierea unui act adiţional la contractul de închiriere nr.317/323/12.10.2016, având ca obiect folosința spațiului - sală de sport în suprafață de 182 mp, situat în municipiul Hunedoara, B-dul Corvin, nr. 14, aflat în domeniul public al municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3580",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6256/HCL_90-2020.pdf",
+     "sha256": "ad38b86f4bd368e69da23e7184c1883f876ebb3d2683025c5bbb461bafb7987d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-91-2020",
+   "path": "local/hunedoara/hunedoara/2020/91",
+   "short": "HCL Hunedoara nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 91/2020",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3579",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6257/HCL_91-2020.pdf",
+     "sha256": "42b6c436bfe79920c45ca678d3a32bdb042d50edb834cabce84838c78359f5d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-94-2020",
+   "path": "local/hunedoara/hunedoara/2020/94",
+   "short": "HCL Hunedoara nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 94/2020 privind acordul Consiliului Local al Municipiului Hunedoara pentru închirierea, prin licitaţie publică, a terenului în suprafaţă de 18,75 mp înscris în CF nr. 70966 Hunedoara, aflat în domeniul public al Municipiului Hunedoara şi în administrarea Spitalul Municipal „Dr. Al. Simionescu” Hunedoara, pentru amplasarea unei tonete cu destinația producție și comercializare produse alimentare public al Municipiului Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/3582",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/6265/HCL_94-2020.pdf",
+     "sha256": "7d0452cfaafcce25fe5a4ab91416cd3e8f1617b82d24fff8db527a68fc8ae86e"
     }
    ]
   },

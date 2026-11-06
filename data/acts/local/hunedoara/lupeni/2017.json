@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lupeni/2017",
+"acts": [
+{
+"slug": "hcl-hunedoara--lupeni-120-2017",
+"path": "local/hunedoara/lupeni/2017/120",
+"kind": "local",
+"year": "2017",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 120/2017 privind aprobarea cheltuielilor neeligibile (inclusiv cheltuielile deja decontate din bugetul local) în cadrul Programului Naţional de Dezvoltare Locală 2017 – 2020, aferente obiectivului de investiţii “Modernizare străzi, drumuri și trotuare din Municipiul Lupeni",
+"short": "HCL Lupeni nr. 120/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-08-31",
+"latest": "2017-08-31",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2017-00003bd2?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
