@@ -1278,6 +1278,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1223-1998",
+   "path": "ordin/finante/1998/1223",
+   "short": "Ordin finante nr. 1223/1998",
+   "title": "Ordinul nr. 1.223/1998 pentru aprobarea Precizărilor privind reflectarea în contabilitate a principalelor operațiuni privind fuziunea, dizolvarea și lichidarea societăților comerciale, precum și retragerea și/sau excluderea unor asociați din cadrul societăților comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15126",
+   "versions": [
+    {
+     "from": "1998-06-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15126",
+     "sha256": "11f53619381ff75ff0bb473b690654472bc8f271b74462448b1e4e985eec0e33"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1283-1998",
    "path": "ordin/finante/1998/1283",
    "short": "Ordin finante nr. 1283/1998",
@@ -1769,6 +1784,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14509",
      "sha256": "ca2b96fc1810a2ea430f11fbe6c9f2dd6dbb4454b1ad558ffe9fef6e02264e5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-379-1998",
+   "path": "ordin/finante/1998/379",
+   "short": "Ordin finante nr. 379/1998",
+   "title": "Ordinul nr. 379/1998 privind stabilirea termenelor de plată a obligațiilor bugetare prevăzute în ordonanțele de urgență ale Guvernului nr. 59/1997 și nr. 88/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14510",
+   "versions": [
+    {
+     "from": "1998-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14510",
+     "sha256": "ace31a508754ec582a0229dfad28396abed34616e03e2e288db29387ddcc8483"
     }
    ]
   },
@@ -2493,6 +2523,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-599-1998",
+   "path": "ordin/munca/1998/599",
+   "short": "Ordin munca nr. 599/1998",
+   "title": "Ordinul nr. 599/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16423",
+   "versions": [
+    {
+     "from": "1998-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16423",
+     "sha256": "57710c4b3dcadc8e7983cf8819c8177073358f7a8cdb8efb9d0dd36cb0173a61"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-634-1998",
    "path": "ordin/munca/1998/634",
    "short": "Ordin munca nr. 634/1998",
@@ -2564,6 +2609,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14928",
      "sha256": "1a359d24b8a810698323d32abd3c41f2943433fd202695fd9156baf9013078ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-privatizare-287-1998",
+   "path": "ordin/privatizare/1998/287",
+   "short": "Ordin privatizare nr. 287/1998",
+   "title": "Ordinul nr. 287/1998 pentru modificarea și completarea Ordinului ministrului privatizării nr. 59/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16382",
+   "versions": [
+    {
+     "from": "1998-12-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16382",
+     "sha256": "0294254ca04f14610230a9c5b94d0895b6a4a7354df96290b430d70fc6a88c8d"
     }
    ]
   },

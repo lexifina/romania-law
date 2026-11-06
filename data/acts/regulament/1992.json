@@ -3,6 +3,25 @@
 "shard": "regulament/1992",
 "acts": [
 {
+"slug": "regulament-bnr-149-1992",
+"path": "regulament/bnr/1992/149",
+"kind": "regulament",
+"year": "1992",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 149/1992 privind rezervele obligatorii ale societăților bancare la Banca Națională a României",
+"short": "Regulament bnr nr. 149/1992",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1992-01-30",
+"latest": "1992-01-30",
+"portal": "https://www.bnr.ro/21475-regulament-149-1992",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-bnr-1045-1992",
 "path": "regulament/bnr/1992/1045",
 "kind": "regulament",

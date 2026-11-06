@@ -22,6 +22,25 @@
 "joint": []
 },
 {
+"slug": "regulament-bnr-2-2005",
+"path": "regulament/bnr/2005/2",
+"kind": "regulament",
+"year": "2005",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 2/2005 privind ordinul de plată utilizat în operațiuni de transfer-credit",
+"short": "Regulament bnr nr. 2/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-04-08",
+"latest": "2005-04-08",
+"portal": "https://www.bnr.ro/20964-regulament-2-2005",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-bnr-3-2005",
 "path": "regulament/bnr/2005/3",
 "kind": "regulament",

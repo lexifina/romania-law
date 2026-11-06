@@ -3,6 +3,21 @@
  "shard": "ordin/2016",
  "acts": [
   {
+   "slug": "ordin-achizitii-281-2016",
+   "path": "ordin/achizitii/2016/281",
+   "short": "Ordin achizitii nr. 281/2016",
+   "title": "Ordinul nr. 281/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179591",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/179591",
+     "sha256": "6f71ca829cc50aa643798703ab357c5bbb584f4a497db94c783befc41a65a516"
+    }
+   ]
+  },
+  {
    "slug": "ordin-achizitii-842-2016",
    "path": "ordin/achizitii/2016/842",
    "short": "Ordin achizitii nr. 842/2016",
@@ -2774,6 +2789,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184874",
      "sha256": "6481f2108c255beb98d78fefd7de5f340e258833a73d844e949b38b217a5b460"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-3609-2016",
+   "path": "ordin/anaf/2016/3609",
+   "short": "Ordin anaf nr. 3609/2016",
+   "title": "Ordinul nr. 3.609/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184955",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/184955",
+     "sha256": "cf3d8407cfc71ae0b92ff088b662da88f79ff63243c2590e4aa4d0f6da9a6e22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-3620-2016",
+   "path": "ordin/anaf/2016/3620",
+   "short": "Ordin anaf nr. 3620/2016",
+   "title": "Ordinul nr. 3.620/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184876",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/184876",
+     "sha256": "d283bc37523936f18f88a10e385c1f5fec4989a6084712079976333cf58b7605"
     }
    ]
   },
@@ -6648,6 +6693,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3841-2016",
+   "path": "ordin/cultura/2016/3841",
+   "short": "Ordin cultura nr. 3841/2016",
+   "title": "Ordinul nr. 3.841/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184597",
+   "versions": [
+    {
+     "from": "2016-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184597",
+     "sha256": "6c1c0385c16b0ad51f335455965fc0d65d4c453204a57413c87342d38b4ab13a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3896-2016",
    "path": "ordin/cultura/2016/3896",
    "short": "Ordin cultura nr. 3896/2016",
@@ -6674,6 +6734,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186766",
      "sha256": "1af6527cf1b2f1bf71a50796f8871542b84bae61de3a8237f5755266f612fcc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3936-2016",
+   "path": "ordin/cultura/2016/3936",
+   "short": "Ordin cultura nr. 3936/2016",
+   "title": "Ordinul nr. 3.936/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187005",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187005",
+     "sha256": "7dad3d5ab35717a1bbddba44ae4841f6b5d36247348f7a20ec05f60625ef3a5b"
     }
    ]
   },
@@ -8343,6 +8418,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5086-2016",
+   "path": "ordin/educatie/2016/5086",
+   "short": "Ordin educatie nr. 5086/2016",
+   "title": "Ordinul nr. 5.086/2016 pentru aprobarea Metodologiei-cadru privind școlarizarea la domiciliu, respectiv înființarea de grupe/clase în spitale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183764",
+   "versions": [
+    {
+     "from": "2016-11-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/183764",
+     "sha256": "63c3dde3d13fb269fa9c2f2eafad302438d05361e6ff730aeac9c2aae11d1306"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5167-2016",
    "path": "ordin/educatie/2016/5167",
    "short": "Ordin educatie nr. 5167/2016",
@@ -8444,6 +8534,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182874",
      "sha256": "6b004abe998abb66b57b224b2008895452c44f2e8bb342f3b6bb8a8f5875ab9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5415-2016",
+   "path": "ordin/educatie/2016/5415",
+   "short": "Ordin educatie nr. 5415/2016",
+   "title": "Ordinul nr. 5.415/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182686",
+   "versions": [
+    {
+     "from": "2016-10-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182686",
+     "sha256": "3d3bbdad70e92edffc7d39c1bdc9f3cda18e57dd6e2c470b7551dacda5161d82"
     }
    ]
   },
@@ -8598,6 +8703,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5819-2016",
+   "path": "ordin/educatie/2016/5819",
+   "short": "Ordin educatie nr. 5819/2016",
+   "title": "Ordinul nr. 5.819/2016 privind aprobarea procedurii de elaborare a avizului conform pentru schimbarea destinației bazei materiale a instituțiilor și unităților de învățământ preuniversitar de stat, precum și condițiile necesare acordării acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236372",
+   "versions": [
+    {
+     "from": "2016-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/236372",
+     "sha256": "f75b2ed34c0b974509b6349546aeee581ddaf33b7ef81f445397692288451086"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5825-2016",
    "path": "ordin/educatie/2016/5825",
    "short": "Ordin educatie nr. 5825/2016",
@@ -8688,6 +8808,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5922-2016",
+   "path": "ordin/educatie/2016/5922",
+   "short": "Ordin educatie nr. 5922/2016",
+   "title": "Ordinul nr. 5.922/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184659",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184659",
+     "sha256": "67e52066f3c55d5d11a370fee84181c60dfc5152da5daa9345a19a54108e1df9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5923-2016",
    "path": "ordin/educatie/2016/5923",
    "short": "Ordin educatie nr. 5923/2016",
@@ -8774,6 +8909,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185178",
      "sha256": "a542f36ebb8a18a89fad9751736f434064582f601b91269cfde7ade211b59d10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6121-2016",
+   "path": "ordin/educatie/2016/6121",
+   "short": "Ordin educatie nr. 6121/2016",
+   "title": "Ordinul nr. 6.121/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185468",
+   "versions": [
+    {
+     "from": "2017-01-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185468",
+     "sha256": "449f5f541982e34a3a6fe572b8a4de3d8d07d7b5d2c1a2541c771f5e759f73cc"
     }
    ]
   },
@@ -9029,6 +9179,21 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175513",
      "sha256": "85c58bbb832dd316023c6e26ef05b88a2932f1dacac9642ecce19e4f6b874045"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2483-2016",
+   "path": "ordin/externe/2016/2483",
+   "short": "Ordin externe nr. 2483/2016",
+   "title": "Ordinul nr. 2.483/2016 privind ieșirea din vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185513",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185513",
+     "sha256": "e2983956bbb69be45658dbd190bfc3473e821bdc5e1f9b3f28426f34bc84e37b"
     }
    ]
   },
@@ -9479,6 +9644,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180827",
      "sha256": "af406751475d2d85630c482cae4b49fd5d0beb5713fd6624e1189c0a63b24529"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-148-2016",
+   "path": "ordin/finante/2016/148",
+   "short": "Ordin finante nr. 148/2016",
+   "title": "Ordinul nr. 148/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178142",
+   "versions": [
+    {
+     "from": "2016-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178142",
+     "sha256": "5ee3482c558f9cb3c48b1c4f3bbcb0c4ea7c98910612b94e4f6588eff7bc334e"
     }
    ]
   },
@@ -11118,6 +11298,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-157-2016",
+   "path": "ordin/interne/2016/157",
+   "short": "Ordin interne nr. 157/2016",
+   "title": "Ordinul nr. 157/2016 pentru aprobarea costului serviciului de copiere a documentelor solicitate în temeiul Legii nr. 544/2001 privind liberul acces la informațiile de interes public, în Ministerul Afacerilor Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182689",
+   "versions": [
+    {
+     "from": "2016-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182689",
+     "sha256": "e8868216ad593de185997a71d2cdf892eaec369f4cdfdfb4f3a7c4ffa137508f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-161-2016",
    "path": "ordin/interne/2016/161",
    "short": "Ordin interne nr. 161/2016",
@@ -11309,6 +11504,21 @@
      "units": 54,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184807",
      "sha256": "5f4e937a5ff58a95bf43348bf65d1c89d5e93a9bbf250475e5aae39d65a64d7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-202-2016",
+   "path": "ordin/interne/2016/202",
+   "short": "Ordin interne nr. 202/2016",
+   "title": "Ordinul nr. 202/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184950",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/184950",
+     "sha256": "839bfd1c688f02f0a73df4dffebc86b56a2737e47402f1909ed74935cecefa21"
     }
    ]
   },
@@ -13953,6 +14163,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1417-2016",
+   "path": "ordin/mediu/2016/1417",
+   "short": "Ordin mediu nr. 1417/2016",
+   "title": "Ordinul nr. 1.417/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180307",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/180307",
+     "sha256": "dcf561219454db89faf22ca19d0392368e7664b7abd3d85654467207700849b0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1432-2016",
    "path": "ordin/mediu/2016/1432",
    "short": "Ordin mediu nr. 1432/2016",
@@ -14703,6 +14928,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2177-2016",
+   "path": "ordin/mediu/2016/2177",
+   "short": "Ordin mediu nr. 2177/2016",
+   "title": "Ordinul nr. 2.177/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183701",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/183701",
+     "sha256": "e2894278b157e4c7a5f0b06fbce03e0a1dab6098da1d54b9dbbda212d250bf8e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2204-2016",
    "path": "ordin/mediu/2016/2204",
    "short": "Ordin mediu nr. 2204/2016",
@@ -15029,6 +15269,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177121",
      "sha256": "dc3ed269ece387b9c50c0a9cf0d9d0f1b463e84661cb2cdc5738cf60d6d88409"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-347-2016",
+   "path": "ordin/mediu/2016/347",
+   "short": "Ordin mediu nr. 347/2016",
+   "title": "Ordinul nr. 347/2016 privind aprobarea Planului de management al ariei protejate Lacul Cuejdel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177335",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177335",
+     "sha256": "af41f8df93a4a540a4070b30871ae1b64ec240332c1e9234cafa5d2b0663df71"
     }
    ]
   },
@@ -16608,6 +16863,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1102-2016",
+   "path": "ordin/sanatate/2016/1102",
+   "short": "Ordin sanatate nr. 1102/2016",
+   "title": "Ordinul nr. 1.102/2016 privind modificarea anexei nr. 1 la Normele metodologice pentru elaborarea bugetului de venituri și cheltuieli al spitalului public, aprobate prin Ordinul ministrului sănătății nr. 1.043/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182354",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182354",
+     "sha256": "488b3373582ca98b5b176255f3afc4ef0324b227b01f5ebe7f3cb59c28eb4a32"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1105-2016",
    "path": "ordin/sanatate/2016/1105",
    "short": "Ordin sanatate nr. 1105/2016",
@@ -16619,6 +16889,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182312",
      "sha256": "7a642f8054b8cecba0891070cec3f27c7513426ed1e65af19f8388187c5c73b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1109-2016",
+   "path": "ordin/sanatate/2016/1109",
+   "short": "Ordin sanatate nr. 1109/2016",
+   "title": "Ordinul nr. 1.109/2016 pentru modificarea Ordinului ministrului sănătății publice nr. 1.509/2008 privind aprobarea Nomenclatorului de specialități medicale, medico-dentare și farmaceutice pentru rețeaua de asistență medicală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182341",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/182341",
+     "sha256": "10e18cb3315adc530881b6c625b47f709e783019d75fda57d9b0a34518419057"
     }
    ]
   },
@@ -16818,6 +17103,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1307-2016",
+   "path": "ordin/sanatate/2016/1307",
+   "short": "Ordin sanatate nr. 1307/2016",
+   "title": "Ordinul nr. 1.307/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183957",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183957",
+     "sha256": "f84e22bc7cc434f2b977895811b11c88e3a51064a5c4af85413db02495daa694"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-131-2016",
    "path": "ordin/sanatate/2016/131",
    "short": "Ordin sanatate nr. 131/2016",
@@ -16859,6 +17159,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184181",
      "sha256": "bc5290936f939798e36d35c4519971e46a4dd959f02c1ac5f93fa472a5e93a01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1354-2016",
+   "path": "ordin/sanatate/2016/1354",
+   "short": "Ordin sanatate nr. 1354/2016",
+   "title": "Ordinul nr. 1.354/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184101",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/184101",
+     "sha256": "0bb44e6235e3e6ffc96ca4d38b3a60d7da8ee0fd31a4ca767004286aba30f9bb"
     }
    ]
   },
@@ -18104,6 +18419,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186347",
      "sha256": "dc81c809511145f42d4ffa36861ce8b0944ca392a8bd5947a95828d40bb786d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sts-776-2016",
+   "path": "ordin/sts/2016/776",
+   "short": "Ordin sts nr. 776/2016",
+   "title": "Ordinul nr. 776/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183705",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183705",
+     "sha256": "0389a6b90864ceafb197ce7a5a16cd881247fb24bb17143d0297a1ca65948ef3"
     }
    ]
   },

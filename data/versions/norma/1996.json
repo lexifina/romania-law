@@ -211,6 +211,21 @@
      "sha256": "0b78f691c7877db3b1cf57ababb5575730ee93c6c34ffbaafb2415a6a34e6d27"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-9-1996",
+   "path": "norma/bnr/1996/9",
+   "short": "Norma bnr nr. 9/1996",
+   "title": "Norma nr. 9/1996 privind executarea ordinelor de plată programată (STANDING ORDER)",
+   "url": "https://www.bnr.ro/21343-norma-cadru-9-1996",
+   "versions": [
+    {
+     "from": "1996-08-06",
+     "units": 14,
+     "source_url": "https://www.bnr.ro/21343-norma-cadru-9-1996",
+     "sha256": "94068af8a6aec44eec1b6fe3eec8998ec0102df6c2c11fbaf93f01258d7f404b"
+    }
+   ]
   }
  ]
 }

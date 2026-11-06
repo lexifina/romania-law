@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-31-1994",
+   "path": "circulara/bnr/1994/31",
+   "short": "Circulara bnr nr. 31/1994",
+   "title": "Circulara nr. 31/1994",
+   "url": "https://www.bnr.ro/20937-circulara-31-1994",
+   "versions": [
+    {
+     "from": "1995-09-08",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20937-circulara-31-1994",
+     "sha256": "b6578f8ee7361dd21b0e12ed636a7b50341d420df7f122886eba8690869c11e6"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-39-1994",
    "path": "circulara/bnr/1994/39",
    "short": "Circulara bnr nr. 39/1994",

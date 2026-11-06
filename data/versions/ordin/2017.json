@@ -858,6 +858,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-265-2017",
+   "path": "ordin/agricultura/2017/265",
+   "short": "Ordin agricultura nr. 265/2017",
+   "title": "Ordinul nr. 265/2017 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr, recolta anului de comercializare 2017/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191967",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191967",
+     "sha256": "40826ba9998c64bfc47bf46f8bf801314d125aee9940977535b6ed014a6b4221"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-266-2017",
    "path": "ordin/agricultura/2017/266",
    "short": "Ordin agricultura nr. 266/2017",
@@ -2328,6 +2343,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-4160-2017",
+   "path": "ordin/anaf/2017/4160",
+   "short": "Ordin anaf nr. 4160/2017",
+   "title": "Ordinul nr. 4.160/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.386/2016 pentru aprobarea modelului și conținutului formularelor 101 \"Declarație privind impozitul pe profit\" și 120 \"Decont privind accizele\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196417",
+   "versions": [
+    {
+     "from": "2018-01-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/196417",
+     "sha256": "ba9cf066de381bec13bfdbaedf8d11ea11812a1572bf5101e94679e3f9f9027c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-511-2017",
    "path": "ordin/anaf/2017/511",
    "short": "Ordin anaf nr. 511/2017",
@@ -2643,6 +2673,21 @@
    ]
   },
   {
+   "slug": "ordin-ancpi-1240-2017",
+   "path": "ordin/ancpi/2017/1240",
+   "short": "Ordin ancpi nr. 1240/2017",
+   "title": "Ordinul nr. 1.240/2017 pentru modificarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.123/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 5 unități administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193875",
+   "versions": [
+    {
+     "from": "2017-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193875",
+     "sha256": "d87e822991cdb307f4ae19e2537b8b169f0436db27d42b26f14ae8a504069e8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ancpi-1333-2017",
    "path": "ordin/ancpi/2017/1333",
    "short": "Ordin ancpi nr. 1333/2017",
@@ -2654,6 +2699,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194429",
      "sha256": "37766fa66d9c184ce9c5c62401e657e5a16b762edc5a652f21162838d355f7c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-1389-2017",
+   "path": "ordin/ancpi/2017/1389",
+   "short": "Ordin ancpi nr. 1389/2017",
+   "title": "Ordinul nr. 1.389/2017 privind modificarea Procedurii și modalității de alocare a sumelor, precum și raportarea de către beneficiari a stadiului de execuție a lucrărilor pentru lucrările de înregistrare sistematică inițiate de unitățile administrativ-teritoriale, aprobată prin Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 819/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194728",
+   "versions": [
+    {
+     "from": "2017-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/194728",
+     "sha256": "23eef458c7f685ddaec7dd30867527b112f7d065f83da9aa7e697998b7f3e605"
     }
    ]
   },
@@ -4503,6 +4563,21 @@
    ]
   },
   {
+   "slug": "ordin-anrsc-140-2017",
+   "path": "ordin/anrsc/2017/140",
+   "short": "Ordin anrsc nr. 140/2017",
+   "title": "Ordinul nr. 140/2017 privind modalitatea de atribuire a contractelor de delegare a gestiunii serviciilor de transport public local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189957",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/189957",
+     "sha256": "31fe0ad7d36aa4060d905d6d185bfeb0eecd5dc67eb9fea949c40233f0c30fce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrsc-22-2017",
    "path": "ordin/anrsc/2017/22",
    "short": "Ordin anrsc nr. 22/2017",
@@ -4833,6 +4908,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-104-2017",
+   "path": "ordin/aparare/2017/104",
+   "short": "Ordin aparare nr. 104/2017",
+   "title": "Ordinul nr. 104/2017 privind conferirea Semnului onorific În Serviciul Patriei unor preoți militari din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193406",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193406",
+     "sha256": "d91bf684a1fa7517b3bdcca0b7339baef7a054ab5c368b76a345339c734915f2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-115-2017",
    "path": "ordin/aparare/2017/115",
    "short": "Ordin aparare nr. 115/2017",
@@ -4859,6 +4949,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193838",
      "sha256": "0020a24a837fff43766e5796814adae1b2ea7474215d1563b0964abf2e5a7181"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-120-2017",
+   "path": "ordin/aparare/2017/120",
+   "short": "Ordin aparare nr. 120/2017",
+   "title": "Ordinul nr. 120/2017 privind conferirea Semnului onorific În Serviciul Patriei unui preot militar din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193816",
+   "versions": [
+    {
+     "from": "2017-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193816",
+     "sha256": "a3cebe3a33634d2dfa9926742e3dab34c9edb3892be53591b9b2115c73844994"
     }
    ]
   },
@@ -5313,6 +5418,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-1187-2017",
+   "path": "ordin/cnas/2017/1187",
+   "short": "Ordin cnas nr. 1187/2017",
+   "title": "Ordinul nr. 1.187/2017 pentru modificarea și completarea anexei nr. 1 la Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 141/2017 privind aprobarea formularelor specifice pentru verificarea respectării criteriilor de eligibilitate aferente protocoalelor terapeutice pentru medicamentele notate cu (1, (1Ω și (1β în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008, cu modificările și completările ulterioare, și a metodologiei de transmitere a acestora în platforma informatică din asigurările de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194717",
+   "versions": [
+    {
+     "from": "2017-11-16",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/194717",
+     "sha256": "2b713974f006dae4f31426426baca3e84f2d50e7a48a421ff31b075917149c14"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-1198-2017",
    "path": "ordin/cnas/2017/1198",
    "short": "Ordin cnas nr. 1198/2017",
@@ -5339,6 +5459,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195162",
      "sha256": "89ffcb019c9c933315360f40215adfc76895602d31f66f485096b8a6676c24e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-1229-2017",
+   "path": "ordin/cnas/2017/1229",
+   "short": "Ordin cnas nr. 1229/2017",
+   "title": "Ordinul nr. 1.229/2017 pentru modificarea și completarea anexei nr. 1 la Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 141/2017 privind aprobarea formularelor specifice pentru verificarea respectării criteriilor de eligibilitate aferente protocoalelor terapeutice pentru medicamentele notate cu (1, (1Ω și (1β în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008, cu modificările și completările ulterioare, și a metodologiei de transmitere a acestora în platforma informatică din asigurările de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195655",
+   "versions": [
+    {
+     "from": "2017-12-13",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/195655",
+     "sha256": "4c633dd7a07f4587a2fc2ff02985994ea2a7432b770428b91a2dc0cf92d8176f"
     }
    ]
   },
@@ -5673,6 +5808,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-487-2017",
+   "path": "ordin/cnas/2017/487",
+   "short": "Ordin cnas nr. 487/2017",
+   "title": "Ordinul nr. 487/2017 privind modificarea și completarea Normelor tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018, aprobate prin Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191128",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/191128",
+     "sha256": "e589049190f9f005db490fcead29ffe74489efba37e1787bb5483b31e7b8b758"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-51-2017",
    "path": "ordin/cnas/2017/51",
    "short": "Ordin cnas nr. 51/2017",
@@ -5804,6 +5954,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192385",
      "sha256": "df1ad3e23e3a078cc25f3e26bf5acb85095e9f46f6de9851c0df985f3c264b00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-943-2017",
+   "path": "ordin/cnas/2017/943",
+   "short": "Ordin cnas nr. 943/2017",
+   "title": "Ordinul nr. 943/2017 privind modificarea și completarea Normelor tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018, aprobate prin Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193368",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193368",
+     "sha256": "758d82c750a5837195f54f9c5e8753820110a7303dc40921a5617a5e4203d3de"
     }
    ]
   },
@@ -6183,6 +6348,21 @@
    ]
   },
   {
+   "slug": "ordin-culte-118-2017",
+   "path": "ordin/culte/2017/118",
+   "short": "Ordin culte nr. 118/2017",
+   "title": "Ordinul nr. 118/2017 privind procedura de acordare a avizului consultativ de către Secretariatul de Stat pentru Culte pentru înființarea asociațiilor religioase sau, după caz, pentru dobândirea statutului de asociație religioasă de către asociațiile existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193182",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193182",
+     "sha256": "03f94a05ac1766854ab1e561db04312f3466c4347f4a70cc6280dee76eb969fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-culte-16-2017",
    "path": "ordin/culte/2017/16",
    "short": "Ordin culte nr. 16/2017",
@@ -6243,6 +6423,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2526-2017",
+   "path": "ordin/cultura/2017/2526",
+   "short": "Ordin cultura nr. 2526/2017",
+   "title": "Ordinul nr. 2.526/2017 pentru modificarea Ordinului ministrului culturii nr. 3.771/2016 privind aprobarea Regulamentului de organizare și funcționare a Institutului Național al Patrimoniului și a organigramei acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192550",
+   "versions": [
+    {
+     "from": "2017-08-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/192550",
+     "sha256": "b65b1604cd516e2fb98ccf51fc7d440d0112ca15408071ffaaeb51852598dc56"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2616-2017",
    "path": "ordin/cultura/2017/2616",
    "short": "Ordin cultura nr. 2616/2017",
@@ -6254,6 +6449,21 @@
      "units": 31,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193862",
      "sha256": "de840624f79014887d1f606778cd97fa4a40ee85350373ed83ab0aa4fa22d5b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2693-2017",
+   "path": "ordin/cultura/2017/2693",
+   "short": "Ordin cultura nr. 2693/2017",
+   "title": "Ordinul nr. 2.693/2017 pentru modificarea și completarea Regulamentului privind concursul de selecție a proiectelor cinematografice în vederea acordării de credite financiare directe pentru dezvoltare de proiecte, producție și distribuire de filme, aprobat prin Ordinul ministrului culturii și cultelor nr. 2.335/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194662",
+   "versions": [
+    {
+     "from": "2017-11-14",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/194662",
+     "sha256": "3f431bd391ecc2dac16bc0cfea7fe2eb5b1f98f05b91cbde8fccc86ad8f38d69"
     }
    ]
   },
@@ -6813,6 +7023,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-7166-2017",
+   "path": "ordin/dezvoltare/2017/7166",
+   "short": "Ordin dezvoltare nr. 7166/2017",
+   "title": "Ordinul nr. 7.166/2017 privind stabilirea obligațiilor fiscale locale care se plătesc în contul unic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196185",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/196185",
+     "sha256": "6b2c558353e07448677db4594fc8286d5a0b7529808ec1a9be7621faa894ff94"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-7195-2017",
    "path": "ordin/dezvoltare/2017/7195",
    "short": "Ordin dezvoltare nr. 7195/2017",
@@ -6854,6 +7079,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196221",
      "sha256": "fd6b9d0c2cdace856c963bdb5b34047f2a1abed77bc3b5f01d18dca3a531ad74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-7299-2017",
+   "path": "ordin/dezvoltare/2017/7299",
+   "short": "Ordin dezvoltare nr. 7299/2017",
+   "title": "Ordinul nr. 7.299/2017 pentru modificarea Ordinului viceprim-ministrului, ministrul dezvoltării regionale, administrației publice și fondurilor europene, nr. 7.166/2017 privind stabilirea obligațiilor fiscale locale care se plătesc în contul unic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196261",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/196261",
+     "sha256": "dd94480f8d012401981ccdecd21139ef4199cdfec4657b155c8140ff692fd3b4"
     }
    ]
   },
@@ -7218,6 +7458,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3044-2017",
+   "path": "ordin/educatie/2017/3044",
+   "short": "Ordin educatie nr. 3044/2017",
+   "title": "Ordinul nr. 3.044/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185563",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185563",
+     "sha256": "8156461e3c3705ee4ee0a24f75bb6f8a6def5685f945bb2da5c4cc6604ed953f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3086-2017",
+   "path": "ordin/educatie/2017/3086",
+   "short": "Ordin educatie nr. 3086/2017",
+   "title": "Ordinul nr. 3.086/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186469",
+   "versions": [
+    {
+     "from": "2017-02-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186469",
+     "sha256": "89e1efec242bf46a8d4d6c490277296fca4aff159b9d0f8b408783f35df651dd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3104-2017",
    "path": "ordin/educatie/2017/3104",
    "short": "Ordin educatie nr. 3104/2017",
@@ -7244,6 +7514,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186335",
      "sha256": "982f970b4dbe33a0ecf9bdc8a7d6d01267025d5d2ccc851e965c4a3ca4c4e53a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3124-2017",
+   "path": "ordin/educatie/2017/3124",
+   "short": "Ordin educatie nr. 3124/2017",
+   "title": "Ordinul nr. 3.124/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186496",
+   "versions": [
+    {
+     "from": "2017-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186496",
+     "sha256": "c596aa61aa6e22d5e45ac2fee165d806f584d12f975c6ff5f953237cb251e212"
     }
    ]
   },
@@ -8133,6 +8418,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5076-2017",
+   "path": "ordin/educatie/2017/5076",
+   "short": "Ordin educatie nr. 5076/2017",
+   "title": "Ordinul nr. 5.076/2017 pentru completarea anexei la Ordinul ministrului educației naționale nr. 3.392/2017 privind stabilirea Criteriilor generale de acordare a burselor și a altor forme de sprijin material pentru studenții și cursanții din învățământul superior de stat, învățământ cu frecvență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193899",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193899",
+     "sha256": "872a0f0b0a5d6c6be65842e2778d0d6616dca1a935be8a13f4a365ef611867ad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5376-2017",
    "path": "ordin/educatie/2017/5376",
    "short": "Ordin educatie nr. 5376/2017",
@@ -8174,6 +8474,36 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195603",
      "sha256": "7b3a839bc2ac21dc821ff3eaa5aab1b57fb3458b9308672c52bb8825159ca6c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5485-2017",
+   "path": "ordin/educatie/2017/5485",
+   "short": "Ordin educatie nr. 5485/2017",
+   "title": "Ordinul nr. 5.485/2017 pentru aprobarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195005",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/195005",
+     "sha256": "44668738c586f72fcd09efd211043279db13969484a45433e8c6d32f4c0cbef6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5509-2017",
+   "path": "ordin/educatie/2017/5509",
+   "short": "Ordin educatie nr. 5509/2017",
+   "title": "Ordinul nr. 5.509/2017 privind aprobarea Normelor metodologice privind organizarea și exercitarea activității de audit public intern la nivelul Ministerului Educației Naționale și în entitățile publice aflate în subordinea, coordonarea sau sub autoritatea Ministerului Educației Naționale la nivelul cărora nu există norme specifice de audit public intern, întocmite conform prevederilor Hotărârii Guvernului nr. 1.086/2013, și a Cartei Auditului Intern aplicabile Compartimentului de audit intern al Ministerului Educației Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196340",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196340",
+     "sha256": "e9e133ab148a9f9970b2e4ebcd678de35d92f3b6ad5b62dc97b7e9774d8eb609"
     }
    ]
   },
@@ -8654,6 +8984,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192563",
      "sha256": "4e9c4b85492172f4848a85311a8b8ccdc62864f0ea923e12935596722089d4df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-191-2017",
+   "path": "ordin/finante/2017/191",
+   "short": "Ordin finante nr. 191/2017",
+   "title": "Ordinul nr. 191/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186407",
+   "versions": [
+    {
+     "from": "2017-02-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186407",
+     "sha256": "737015b2f43f3f0442e86e1ddad0f4ba299465a41b2b759bbf892c5230c2d3e8"
     }
    ]
   },
@@ -10248,6 +10593,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-7-2017",
+   "path": "ordin/interne/2017/7",
+   "short": "Ordin interne nr. 7/2017",
+   "title": "Ordinul nr. 7/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186419",
+   "versions": [
+    {
+     "from": "2017-02-07",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/186419",
+     "sha256": "9cdc83e752529766c22af97ae5912a9a0626cd8e85883bd2121424b8caf49b1d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-70-2017",
    "path": "ordin/interne/2017/70",
    "short": "Ordin interne nr. 70/2017",
@@ -10578,6 +10938,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-1618-c-2017",
+   "path": "ordin/justitie/2017/1618-c",
+   "short": "Ordin justitie nr. 1618/C/2017",
+   "title": "Ordinul nr. 1.618/C/2017 pentru modificarea și completarea Regulamentului de aplicare a Legii notarilor publici și a activității notariale nr. 36/1995, aprobat prin Ordinul ministrului justiției nr. 2.333/C/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190294",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/190294",
+     "sha256": "fec236c96e1378315f4e990226eb88f8d25a3665f2f9b0c22501968c65f9203c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1619-c-2017",
    "path": "ordin/justitie/2017/1619-c",
    "short": "Ordin justitie nr. 1619/C/2017",
@@ -10649,6 +11024,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194946",
      "sha256": "78db11a76d078cd71200dfd29e4d6601e01db05f6ad4e57a80cdf94a4c3f5148"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2680-c-2017",
+   "path": "ordin/justitie/2017/2680-c",
+   "short": "Ordin justitie nr. 2680/C/2017",
+   "title": "Ordinul nr. 2.680/C/2017 privind acordarea Semnului onorific În Serviciul Patriei unor funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de maiștri militari și subofițeri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194947",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194947",
+     "sha256": "1ce7d2069f0c86722486148aa12b00ad2936230531926fe5a867687b1438e5c6"
     }
    ]
   },
@@ -10968,6 +11358,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1146-2017",
+   "path": "ordin/mediu/2017/1146",
+   "short": "Ordin mediu nr. 1146/2017",
+   "title": "Ordinul nr. 1.146/2017 pentru completarea Instrucțiunilor privind termenele, modalitățile și perioadele de colectare, scoatere și transport al materialului lemnos, aprobate prin Ordinul ministrului mediului și pădurilor nr. 1.540/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193178",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193178",
+     "sha256": "fd8433ab49a28ed36efee9f3d71b363fd3ac3f9d527b148eb8bb2b140c9db2eb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1149-2017",
    "path": "ordin/mediu/2017/1149",
    "short": "Ordin mediu nr. 1149/2017",
@@ -11054,6 +11459,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194566",
      "sha256": "b478a5bb9c712250e6c66efbe57873ea118f7e6939f7deb858293f4d6a29c7d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1339-2017",
+   "path": "ordin/mediu/2017/1339",
+   "short": "Ordin mediu nr. 1339/2017",
+   "title": "Ordinul nr. 1.339/2017 pentru aprobarea Metodologiei privind aprobarea depășirii posibilității ca urmare a recoltării produselor accidentale I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194149",
+   "versions": [
+    {
+     "from": "2017-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/194149",
+     "sha256": "56b678e24427c854f79bb9d163a9e834fc0ab8a489d8607e60f93a0681a0f1e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1364-2017",
+   "path": "ordin/mediu/2017/1364",
+   "short": "Ordin mediu nr. 1364/2017",
+   "title": "Ordinul nr. 1.364/2017 pentru modificarea și completarea Ghidului de finanțare a Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2017-2019, aprobat prin Ordinul viceprim-ministrului, ministrul mediului, nr. 660/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194660",
+   "versions": [
+    {
+     "from": "2017-11-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194660",
+     "sha256": "882517dc3a6af85d83d146b10aafec25302f348bae84835e062d70f58a1eec45"
     }
    ]
   },
@@ -12048,6 +12483,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1042-2017",
+   "path": "ordin/sanatate/2017/1042",
+   "short": "Ordin sanatate nr. 1042/2017",
+   "title": "Ordinul nr. 1.042/2017 pentru modificarea Ordinului ministrului sănătății nr. 867/2015 privind aprobarea modului de administrare, finanțare și implementare a acțiunilor prioritare pentru tratamentul endovascular al pacienților critici cu leziuni vasculare periferice acute",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193170",
+   "versions": [
+    {
+     "from": "2017-09-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193170",
+     "sha256": "1bca4f69404425c7a493d0ba9336aabd78e3a2df23789e71b0847b97758fe361"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1043-2017",
    "path": "ordin/sanatate/2017/1043",
    "short": "Ordin sanatate nr. 1043/2017",
@@ -12573,6 +13023,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1447-2017",
+   "path": "ordin/sanatate/2017/1447",
+   "short": "Ordin sanatate nr. 1447/2017",
+   "title": "Ordinul nr. 1.447/2017 privind aprobarea Normelor proprii de aplicare în anul 2017 a Hotărârii Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196316",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196316",
+     "sha256": "6e01901dbfbde5b076a7c9d4a2ad6faac5cf49c71d172da80e2d4e7be95de166"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1459-2017",
    "path": "ordin/sanatate/2017/1459",
    "short": "Ordin sanatate nr. 1459/2017",
@@ -12614,6 +13079,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197182",
      "sha256": "d185e05938db0ce55214717f681f21f8c476a77764a08a11ec62a7f968bbfc3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1496-2017",
+   "path": "ordin/sanatate/2017/1496",
+   "short": "Ordin sanatate nr. 1496/2017",
+   "title": "Ordinul nr. 1.496/2017 pentru modificarea anexei nr. 1 la Ordinul ministrului sănătății nr. 1.202/2017 privind înființarea, organizarea și funcționarea comisiilor și subcomisiilor de specialitate ale Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196647",
+   "versions": [
+    {
+     "from": "2018-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196647",
+     "sha256": "f82371aa81eba12f8ededfd789d0f144769fd39535891b4061aa8a2da3f6388e"
     }
    ]
   },
@@ -13364,6 +13844,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190356",
      "sha256": "32a6196133eb8b6986d18d27001dfab85e497324d68226f3c39003c92e38ddf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-657-2017",
+   "path": "ordin/sanatate/2017/657",
+   "short": "Ordin sanatate nr. 657/2017",
+   "title": "Ordinul nr. 657/2017 privind modificarea și completarea Ordinului ministrului sănătății nr. 368/2017 pentru aprobarea Normelor privind modul de calcul și procedura de aprobare a prețurilor maximale ale medicamentelor de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190163",
+   "versions": [
+    {
+     "from": "2017-06-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/190163",
+     "sha256": "5c38230f9a1b73329348c20c73474aa22290fc56036b1767d4c294b3d46f023e"
     }
    ]
   },
@@ -14673,6 +15168,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-408-2017",
+   "path": "ordin/transporturi/2017/408",
+   "short": "Ordin transporturi nr. 408/2017",
+   "title": "Ordinul nr. 408/2017 pentru modificarea anexei la Ordinul ministrului transporturilor și infrastructurii nr. 982/2011 privind aprobarea Listei cuprinzând punctele și locurile de operare și limitele acestora, a căror infrastructură portuară este proprietate privată, precum și limitele radelor portuare și ale zonelor de ancoraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188468",
+   "versions": [
+    {
+     "from": "2017-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188468",
+     "sha256": "bf45e454e405b31e3ad548b0527fc47e841e360c5aeba17bfd7cad2590cd0f4f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-459-2017",
    "path": "ordin/transporturi/2017/459",
    "short": "Ordin transporturi nr. 459/2017",
@@ -15509,6 +16019,36 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193629",
      "sha256": "dd3486ebcac2d2f32dfed9b788f3583cec7c2a6806142021bd71495f20395f6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-3-2017",
+   "path": "ordin/bnr/2017/3",
+   "short": "Ordin bnr nr. 3/2017",
+   "title": "Ordinul nr. 3/2017 pentru modificarea și completarea Normelor metodologice privind întocmirea raportărilor periodice cuprinzând informații statistice de natură financiar-contabilă, aplicabile sucursalelor din România ale instituțiilor de credit din alte state membre, aprobate prin Ordinul Băncii Naționale a României nr. 5/2014, și a Normelor metodologice privind întocmirea situațiilor financiare FINREP la nivel individual, conforme cu Standardele internaționale de raportare financiară, aplicabile instituțiilor de credit în scopuri de supraveghere prudențială, aprobate prin Ordinul Băncii Naționale a României nr. 6/2014",
+   "url": "https://www.bnr.ro/20168-ordin-3-2017",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20168-ordin-3-2017",
+     "sha256": "f073e00ecc265d866fdc2af9a3f703ce736df94758f46a2044154b44240c0bcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-5-2017",
+   "path": "ordin/bnr/2017/5",
+   "short": "Ordin bnr nr. 5/2017",
+   "title": "Ordinul nr. 5/2017 pentru abrogarea Ordinului ministrului finanțelor publice și al guvernatorului Băncii Naționale a României nr. 600/1/2006 privind procedura transmiterii de către bănci, persoane juridice române, și sucursalele din România ale băncilor, persoane juridice străine, a informațiilor referitoare la titularii conturilor deschise și/sau închise la bănci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189413",
+   "versions": [
+    {
+     "from": "2017-05-19",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/19196-ordin-5-2017",
+     "sha256": "bd269c244b052bdf153c569bb9003ec74ecc3a8cce469aec35d0b0a33b676d22"
     }
    ]
   },

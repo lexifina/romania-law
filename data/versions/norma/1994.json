@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "norma-bnr-10-1994",
+   "path": "norma/bnr/1994/10",
+   "short": "Norma bnr nr. 10/1994",
+   "title": "Norma nr. 10/1994 privind cambia si biletul la ordin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19288",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 15,
+     "source_url": "https://www.bnr.ro/19201-norma-tehnica-10-1994",
+     "sha256": "d79e270f124ad0f56db94d692a05697c2f446d40745df850fe23b877707a2daa"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-12-1994",
    "path": "norma/bnr/1994/12",
    "short": "Norma bnr nr. 12/1994",
@@ -258,6 +273,51 @@
    ]
   },
   {
+   "slug": "norma-bnr-14-1994",
+   "path": "norma/bnr/1994/14",
+   "short": "Norma bnr nr. 14/1994",
+   "title": "Norma nr. 14/1994 privind autorizarea societăților bancare",
+   "url": "https://www.bnr.ro/19199-norma-14-1994",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19199-norma-14-1994",
+     "sha256": "e1e3a652c191200585a7bee2869452c3e1ac764ff78e4bd1109f323ff1ea0a19"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-15-1994",
+   "path": "norma/bnr/1994/15",
+   "short": "Norma bnr nr. 15/1994",
+   "title": "Norma nr. 15/1994 privind ordinul de plată pe suport hârtie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38662",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 22,
+     "source_url": "https://www.bnr.ro/21807-norma-cadru-15-1994",
+     "sha256": "be7c5b59b9237422bf833b3f7fc3d8d558257d34293cb2887689ef13dd90b1a4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-16-1994",
+   "path": "norma/bnr/1994/16",
+   "short": "Norma bnr nr. 16/1994",
+   "title": "Norma nr. 16/1994 privind ordinul de plată pe suport hârtie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38787",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 11,
+     "source_url": "https://www.bnr.ro/20861-norma-tehnica-16-1994",
+     "sha256": "0362b80f38b996ad17733533b307fdbd6d337335182d62973357e1ff5f2987d4"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-3-1994",
    "path": "norma/bnr/1994/3",
    "short": "Norma bnr nr. 3/1994",
@@ -269,6 +329,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3801",
      "sha256": "d45e233a6a59431bf6ebb3d44dbcefe0b57f46d32bce57ee28fbaa311830f871"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-1994",
+   "path": "norma/bnr/1994/4",
+   "short": "Norma bnr nr. 4/1994",
+   "title": "Norma nr. 4/1994 privind solvabilitatea societăților bancare",
+   "url": "https://www.bnr.ro/21609-norma-4-1994",
+   "versions": [
+    {
+     "from": "1994-03-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21609-norma-4-1994",
+     "sha256": "739a86ec899523cca96c8ff11401374a1dfb6c9d09a81955ac81151304465ccb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-1994",
+   "path": "norma/bnr/1994/6",
+   "short": "Norma bnr nr. 6/1994",
+   "title": "Norma nr. 6/1994 privind comertul facut de societatile bancare si celelalte societati de credit, cu cambii si bilete la ordin, pe baza Legii nr. 58/1934 asupra cambiei si biletului la ordin, modificata prin Ordonanta Guvernului nr. 11/1993, aprobata si modificata prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19270",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/21368-norma-cadru-6-1994",
+     "sha256": "575fcdce651cd9c72c44fc80c93c87bf6f4d3319bc3ecc43da989109a9f10ef0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-1994",
+   "path": "norma/bnr/1994/7",
+   "short": "Norma bnr nr. 7/1994",
+   "title": "Norma nr. 7/1994 privind comertul facut de societatile bancare si celelalte societati de credit, cu cecuri, pe baza Legii nr. 59/1934 asupra cecului, modificata prin Ordonanta Guvernului nr. 11/1993, aprobata si modificata prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19271",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20692-norma-cadru-7-1994",
+     "sha256": "f2bf240dd3016d853c59255aecedc9cd850991e3f8dc6c6c3f7cf238f0fb8527"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-1994",
+   "path": "norma/bnr/1994/9",
+   "short": "Norma bnr nr. 9/1994",
+   "title": "Norma nr. 9/1994 privind cecul(Versiune consolidată în 02/10/1995)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19287",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19202-norma-tehnica-9-1994",
+     "sha256": "a4b49177af35766d77d16fd0703c014b55f390307bd52fe7c96b7d299b639d7c"
     }
    ]
   }

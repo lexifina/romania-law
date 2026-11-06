@@ -3,6 +3,21 @@
  "shard": "circulara/1995",
  "acts": [
   {
+   "slug": "circulara-bnr-1-1995",
+   "path": "circulara/bnr/1995/1",
+   "short": "Circulara bnr nr. 1/1995",
+   "title": "Circulara nr. 1/1995 privind efectuarea și controlul de decontare între societățile bancare",
+   "url": "https://www.bnr.ro/19204-circulara-1-1995",
+   "versions": [
+    {
+     "from": "1995-02-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19204-circulara-1-1995",
+     "sha256": "3cbbf3c9ae76beb011090fb0a346d3eb65e26e97175c635ecf5eb6e890545652"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-10-1995",
    "path": "circulara/bnr/1995/10",
    "short": "Circulara bnr nr. 10/1995",
@@ -14,6 +29,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5734",
      "sha256": "167d55111f3220fab73baf7481445d5ea06368ac82576b589264e8094369f84f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-1995",
+   "path": "circulara/bnr/1995/11",
+   "short": "Circulara bnr nr. 11/1995",
+   "title": "Circulara nr. 11/1995 privind organizarea participării la activitatea de compensare multilaterală a plăților interbancare pe suport hârtie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94335",
+   "versions": [
+    {
+     "from": "1995-04-26",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21806-circulara-11-1995",
+     "sha256": "aedc541a3907b96110f64685d7fd66e5d24624805dfed4ac7f57f7073c3cd2d2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-1995",
+   "path": "circulara/bnr/1995/12",
+   "short": "Circulara bnr nr. 12/1995",
+   "title": "Circulara nr. 12/1995 privind operațiunile de decontări cu trezoreria generală a statului efectuate prin unitățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94336",
+   "versions": [
+    {
+     "from": "1995-04-26",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19206-circulara-12-1995",
+     "sha256": "6288c758e7c1fa0d05be4e3d046d9d8f931eb73205052e7a80e36d021ef3c580"
     }
    ]
   },
@@ -284,6 +329,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5661",
      "sha256": "5a0b049e60739ae85e881500fb14d6376d10a14241f3994f18f9b96814e0ff3b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-42-1995",
+   "path": "circulara/bnr/1995/42",
+   "short": "Circulara bnr nr. 42/1995",
+   "title": "Circulara nr. 42/1995 privind informațiile ce vor fi furnizate lunar de societățile bancare, Băncii Naționale a României, în primele 5 zile lucrătoare ale lunii, pentru luna precedentă",
+   "url": "https://www.bnr.ro/20805-circulara-42-1995",
+   "versions": [
+    {
+     "from": "1996-02-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20805-circulara-42-1995",
+     "sha256": "bfd62b30e80690ef4fa900a61465611c0aa6ddf2021bc4e3dc45baa9da8b297f"
     }
    ]
   },

@@ -117,6 +117,25 @@
 "joint": []
 },
 {
+"slug": "regulament-bnr-7-2012",
+"path": "regulament/bnr/2012/7",
+"kind": "regulament",
+"year": "2012",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 7/2012 privind comisioanele practicate de Banca Națională a României pentru efectuarea operațiunilor de eliberare și primire de numerar în relația cu instituțiile de credit și Trezoreria Statului",
+"short": "Regulament bnr nr. 7/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-05-23",
+"latest": "2012-05-23",
+"portal": "https://www.bnr.ro/20110-regulament-7-2012",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-bnr-8-2012",
 "path": "regulament/bnr/2012/8",
 "kind": "regulament",

@@ -211,6 +211,861 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-1-2023",
+   "path": "avocatul-poporului/recomandare/2023/1",
+   "short": "Recomandarea Avocatul Poporului nr. 1/2023",
+   "title": "Către directorul Școlii Gimnaziale „Alexei Mateevici” Movileni, județul Galați",
+   "url": "https://avp.ro/wp-content/uploads/2023/01/Rec-1-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/01/Rec-1-2023.pdf",
+     "sha256": "3b6409d3fb1a11622abf6c53d9689967f6a1a815daaaee843692f9109219c3b5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-10-2023",
+   "path": "avocatul-poporului/recomandare/2023/10",
+   "short": "Recomandarea Avocatul Poporului nr. 10/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 10 din 2023-02-06",
+   "url": "https://avp.ro/wp-content/uploads/2023/02/Rec-10-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/02/Rec-10-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-100-2023",
+   "path": "avocatul-poporului/recomandare/2023/100",
+   "short": "Recomandarea Avocatul Poporului nr. 100/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 100 din 2023-07-10",
+   "url": "https://avp.ro/wp-content/uploads/2023/07/Rec-100-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/07/Rec-100-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-101-2023",
+   "path": "avocatul-poporului/recomandare/2023/101",
+   "short": "Recomandarea Avocatul Poporului nr. 101/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 101 din 2023-06-14",
+   "url": "https://avp.ro/wp-content/uploads/2023/07/Recomandarea-101-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/07/Recomandarea-101-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-102-2023",
+   "path": "avocatul-poporului/recomandare/2023/102",
+   "short": "Recomandarea Avocatul Poporului nr. 102/2023",
+   "title": "Către Directorul general al Direcției Sociale Comunitare Lugoj, județul Timiș",
+   "url": "https://avp.ro/wp-content/uploads/2023/07/Recomandarea-102-2.pdf",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/07/Recomandarea-102-2.pdf",
+     "sha256": "67572929d6735e4d4be93e929bb884f98f7e27a4265aa99e42db6f006aa2ff29"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-103-2023",
+   "path": "avocatul-poporului/recomandare/2023/103",
+   "short": "Recomandarea Avocatul Poporului nr. 103/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 103 din 2023-07-17",
+   "url": "https://avp.ro/wp-content/uploads/2023/07/Rec-103-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/07/Rec-103-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-104-2023",
+   "path": "avocatul-poporului/recomandare/2023/104",
+   "short": "Recomandarea Avocatul Poporului nr. 104/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 104 din 2023-07-18",
+   "url": "https://avp.ro/wp-content/uploads/2023/07/Rec-104-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/07/Rec-104-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-105-2023",
+   "path": "avocatul-poporului/recomandare/2023/105",
+   "short": "Recomandarea Avocatul Poporului nr. 105/2023",
+   "title": "Către primarul comunei Străoane, județul Vrancea",
+   "url": "https://avp.ro/wp-content/uploads/2023/07/Rec-105-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/07/Rec-105-2023.pdf",
+     "sha256": "547803bac56491383b0ad1a1daa9c6109537a97484a906264e1c0e9c042ddb9d"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-106-2023",
+   "path": "avocatul-poporului/recomandare/2023/106",
+   "short": "Recomandarea Avocatul Poporului nr. 106/2023",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-106-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-106-2023.pdf",
+     "sha256": "b0a205a8fcabec4dde5e43ca0460ca0c549f48bf2a584bdf8294f485df0f695f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-107-2023",
+   "path": "avocatul-poporului/recomandare/2023/107",
+   "short": "Recomandarea Avocatul Poporului nr. 107/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 107 din 2023-07-27",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-107-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-107-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-108-2023",
+   "path": "avocatul-poporului/recomandare/2023/108",
+   "short": "Recomandarea Avocatul Poporului nr. 108/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 108 din 2023-07-31",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-108-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-108-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-109-2023",
+   "path": "avocatul-poporului/recomandare/2023/109",
+   "short": "Recomandarea Avocatul Poporului nr. 109/2023",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-109-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-109-2023.pdf",
+     "sha256": "7c96b9f2baeb8d6579a8dc549bc9b969b6329905eb74f2fc56823be94406ad24"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-11-2023",
+   "path": "avocatul-poporului/recomandare/2023/11",
+   "short": "Recomandarea Avocatul Poporului nr. 11/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 11 din 2023-02-06",
+   "url": "https://avp.ro/wp-content/uploads/2023/02/Rec-11-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/02/Rec-11-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-110-2023",
+   "path": "avocatul-poporului/recomandare/2023/110",
+   "short": "Recomandarea Avocatul Poporului nr. 110/2023",
+   "title": "Către primarul municipiului Constanța",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-110-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-110-2023.pdf",
+     "sha256": "ef47450f606478fd7807d066559c51fe1981989d6c064c155a2f6c41c6045a80"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-111-2023",
+   "path": "avocatul-poporului/recomandare/2023/111",
+   "short": "Recomandarea Avocatul Poporului nr. 111/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 111 din 2023-06-22",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-111-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-111-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-112-2023",
+   "path": "avocatul-poporului/recomandare/2023/112",
+   "short": "Recomandarea Avocatul Poporului nr. 112/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 112 din 2023-08-01",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-112-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-112-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-113-2023",
+   "path": "avocatul-poporului/recomandare/2023/113",
+   "short": "Recomandarea Avocatul Poporului nr. 113/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 113 din 2023-06-22",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Recomandarea-113.pdf",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Recomandarea-113.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-114-2-2023",
+   "path": "avocatul-poporului/recomandare/2023/114-2",
+   "short": "Recomandarea Avocatul Poporului din 2023-07-21",
+   "title": "Recomandarea Avocatului Poporului din 2023-07-21",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-114-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-114-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-114-2023",
+   "path": "avocatul-poporului/recomandare/2023/114",
+   "short": "Recomandarea Avocatul Poporului nr. 114/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 114 din 2023-07-21",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-114-2023-DGASPC-Sibiu.pdf",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-114-2023-DGASPC-Sibiu.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-115-2023",
+   "path": "avocatul-poporului/recomandare/2023/115",
+   "short": "Recomandarea Avocatul Poporului nr. 115/2023",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-115-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-115-2023.pdf",
+     "sha256": "108e7a44e907ac9bf91e049d76c4795fe8b633d3a9560792ca57d1432c83708e"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-116-2023",
+   "path": "avocatul-poporului/recomandare/2023/116",
+   "short": "Recomandarea Avocatul Poporului nr. 116/2023",
+   "title": "Către Președintele Comisiei Superioare de Evaluare a Persoanelor Adulte cu Handicap",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Recomandarea-116.pdf",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Recomandarea-116.pdf",
+     "sha256": "7c285c964e4e50bd66317e1de2bb06f250d919ba4d4967824ad538d7e9b3aede"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-117-2023",
+   "path": "avocatul-poporului/recomandare/2023/117",
+   "short": "Recomandarea Avocatul Poporului nr. 117/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 117 din 2023-08-16",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-117-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-117-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-118-2023",
+   "path": "avocatul-poporului/recomandare/2023/118",
+   "short": "Recomandarea Avocatul Poporului nr. 118/2023",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-118-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-118-2023.pdf",
+     "sha256": "4e942a7757f1d3b9505df1a22116bd8a76376745aaf81d2565166166cbc5398f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-119-2-2023",
+   "path": "avocatul-poporului/recomandare/2023/119-2",
+   "short": "Recomandarea Avocatul Poporului din 2023-08-01",
+   "title": "Recomandarea Avocatului Poporului din 2023-08-01",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-119-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-119-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-119-2023",
+   "path": "avocatul-poporului/recomandare/2023/119",
+   "short": "Recomandarea Avocatul Poporului nr. 119/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 119 din 2023-08-01",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-119-2023-Primarie-Dragomiresti-1.pdf",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-119-2023-Primarie-Dragomiresti-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-12-2023",
+   "path": "avocatul-poporului/recomandare/2023/12",
+   "short": "Recomandarea Avocatul Poporului nr. 12/2023",
+   "title": "Către primarul comunei Sucevița, județul Suceava",
+   "url": "https://avp.ro/wp-content/uploads/2023/02/Rec-12-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/02/Rec-12-2023.pdf",
+     "sha256": "7f2e4b997c3dbf6c803b28e068379722dccb5cc22dfd67d174b244873da9404b"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-120-2023",
+   "path": "avocatul-poporului/recomandare/2023/120",
+   "short": "Recomandarea Avocatul Poporului nr. 120/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 120 din 2023-05-29",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-120-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-120-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-121-2023",
+   "path": "avocatul-poporului/recomandare/2023/121",
+   "short": "Recomandarea Avocatul Poporului nr. 121/2023",
+   "title": "Către primarul comunei Acâș, județul Satu Mare",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-121-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-121-2023.pdf",
+     "sha256": "2f7bb1af70ccce85a3558db1cf7e44646620f965135cf4fbc4a8eceab5d54bfc"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-122-2023",
+   "path": "avocatul-poporului/recomandare/2023/122",
+   "short": "Recomandarea Avocatul Poporului nr. 122/2023",
+   "title": "Către primarul comunei Pădina, județul Mehedinți",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-122-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-122-2023.pdf",
+     "sha256": "9bf6135f181a5f73698d72e374a38eac0b13ecac16f082cbf87a8a4480209bec"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-123-2023",
+   "path": "avocatul-poporului/recomandare/2023/123",
+   "short": "Recomandarea Avocatul Poporului nr. 123/2023",
+   "title": "Către primarul municipiului Galați",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-123-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-123-2023.pdf",
+     "sha256": "6ad93247ce492a0abf7a5b353314be51f64efb6cde7b5cd525fb1970d933240b"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-124-2023",
+   "path": "avocatul-poporului/recomandare/2023/124",
+   "short": "Recomandarea Avocatul Poporului nr. 124/2023",
+   "title": "Către primarul comunei Crevedia Mare, județul Giurgiu",
+   "url": "https://avp.ro/wp-content/uploads/2023/11/Rec-124-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/11/Rec-124-2023.pdf",
+     "sha256": "dcdf3090ac5177cda0610c5f24670a0538ff0824b40dc33b9de49e7274804541"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-125-2023",
+   "path": "avocatul-poporului/recomandare/2023/125",
+   "short": "Recomandarea Avocatul Poporului nr. 125/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 125 din 2023-08-22",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-125-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-125-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-126-2023",
+   "path": "avocatul-poporului/recomandare/2023/126",
+   "short": "Recomandarea Avocatul Poporului nr. 126/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 126 din 2023-08-24",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-126-2023-1.pdf",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-126-2023-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-127-2023",
+   "path": "avocatul-poporului/recomandare/2023/127",
+   "short": "Recomandarea Avocatul Poporului nr. 127/2023",
+   "title": "Către directorul general al Inspectoratului de Stat în Construcții",
+   "url": "https://avp.ro/wp-content/uploads/2023/08/Rec-127-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/08/Rec-127-2023.pdf",
+     "sha256": "6445b2c75232bb4df55140de169af76b8da78f59c8ca5b879a2d364ea0579535"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-128-2023",
+   "path": "avocatul-poporului/recomandare/2023/128",
+   "short": "Recomandarea Avocatul Poporului nr. 128/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 128 din 2023-08-04",
+   "url": "https://avp.ro/wp-content/uploads/2023/09/Rec-128-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/09/Rec-128-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-129-2023",
+   "path": "avocatul-poporului/recomandare/2023/129",
+   "short": "Recomandarea Avocatul Poporului nr. 129/2023",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://avp.ro/wp-content/uploads/2023/09/Rec-129-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/09/Rec-129-2023.pdf",
+     "sha256": "cf2b35b225173ff18aaeb3e0c770ac700d388b7e10ea5e47bcfef735e3fbcd3e"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-13-2023",
+   "path": "avocatul-poporului/recomandare/2023/13",
+   "short": "Recomandarea Avocatul Poporului nr. 13/2023",
+   "title": "Către directorul Căminului pentru persoane vârstnice Hăghig, județul Covasna",
+   "url": "https://avp.ro/wp-content/uploads/2023/02/Rec-13-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/02/Rec-13-2023.pdf",
+     "sha256": "5aea502c9be9d5e15b6dec81f28c5aa7d3a0c723e1e7b6e80f02005338593213"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-130-2023",
+   "path": "avocatul-poporului/recomandare/2023/130",
+   "short": "Recomandarea Avocatul Poporului nr. 130/2023",
+   "title": "Către managerul Spitalului Clinic de Obstretică-Ginecologie ”Cuza Vodă” Iași",
+   "url": "https://avp.ro/wp-content/uploads/2023/09/Recomandarea130-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/09/Recomandarea130-2023.pdf",
+     "sha256": "10ecc6259440a9ea74d33de5344fe918ccf45dfb22a444ecfc188804c5461e73"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-131-2023",
+   "path": "avocatul-poporului/recomandare/2023/131",
+   "short": "Recomandarea Avocatul Poporului nr. 131/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 131 din 2023-08-28",
+   "url": "https://avp.ro/wp-content/uploads/2023/09/Recomandarea131_2021.pdf",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/09/Recomandarea131_2021.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-132-2023",
+   "path": "avocatul-poporului/recomandare/2023/132",
+   "short": "Recomandarea Avocatul Poporului nr. 132/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 132 din 2023-09-07",
+   "url": "https://avp.ro/wp-content/uploads/2023/09/Rec-132-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/09/Rec-132-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-133-2023",
+   "path": "avocatul-poporului/recomandare/2023/133",
+   "short": "Recomandarea Avocatul Poporului nr. 133/2023",
+   "title": "Către primarul comunei Bod, județul Brașov",
+   "url": "https://avp.ro/wp-content/uploads/2023/09/recomandarea133-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/09/recomandarea133-2023.pdf",
+     "sha256": "14378b99d8fd58e8db17841cba16c52acec95b90e0731eb6421f9539ed6d0b39"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-134-2023",
+   "path": "avocatul-poporului/recomandare/2023/134",
+   "short": "Recomandarea Avocatul Poporului nr. 134/2023",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2023/09/Recomandarea134_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/09/Recomandarea134_2023.pdf",
+     "sha256": "bd190ec2ffb68971c4eebdd5a24db4bcb77468f6bef2de65b22fbdee747f8926"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-135-2023",
+   "path": "avocatul-poporului/recomandare/2023/135",
+   "short": "Recomandarea Avocatul Poporului nr. 135/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 135 din 2023-10-02",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-135-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-135-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-136-2023",
+   "path": "avocatul-poporului/recomandare/2023/136",
+   "short": "Recomandarea Avocatul Poporului nr. 136/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 136 din 2023-08-28",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-136-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-136-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-137-2023",
+   "path": "avocatul-poporului/recomandare/2023/137",
+   "short": "Recomandarea Avocatul Poporului nr. 137/2023",
+   "title": "Către primarul comunei Sâg, județul Sălaj",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-137-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-137-2023.pdf",
+     "sha256": "c451252680cf86c582e4de41ca9ddb14b54c0dd9f0b2bd4ec9867fc876d4bb62"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-138-2-2023",
+   "path": "avocatul-poporului/recomandare/2023/138-2",
+   "short": "Recomandarea Avocatul Poporului din 2023-09-29",
+   "title": "Recomandarea Avocatului Poporului din 2023-09-29",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-138-2023-Primaria-Sacosu-Turcesc.pdf",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-138-2023-Primaria-Sacosu-Turcesc.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-138-2023",
+   "path": "avocatul-poporului/recomandare/2023/138",
+   "short": "Recomandarea Avocatul Poporului nr. 138/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 138 din 2023-09-29",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-138-2023-DGASPC-Timis.pdf",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-138-2023-DGASPC-Timis.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-139-2023",
+   "path": "avocatul-poporului/recomandare/2023/139",
+   "short": "Recomandarea Avocatul Poporului nr. 139/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 139 din 2023-07-10",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-139-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-139-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-14-2023",
+   "path": "avocatul-poporului/recomandare/2023/14",
+   "short": "Recomandarea Avocatul Poporului nr. 14/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 14 din 2023-02-08",
+   "url": "https://avp.ro/wp-content/uploads/2023/02/Rec-14-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/02/Rec-14-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-140-2023",
+   "path": "avocatul-poporului/recomandare/2023/140",
+   "short": "Recomandarea Avocatul Poporului nr. 140/2023",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Sector 6 București",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-140-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-140-2023.pdf",
+     "sha256": "368f5987761969cd81f719a558dc73a994f6a2bd54fde1b01e1482051800d91f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-141-2023",
+   "path": "avocatul-poporului/recomandare/2023/141",
+   "short": "Recomandarea Avocatul Poporului nr. 141/2023",
+   "title": "Către primarul comunei Surduc, județul Cluj",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-141-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-141-2023.pdf",
+     "sha256": "af3c4fae5670f7cdb0bfed5b8841fd3c43713d05cf582f480b2ba1787bbb7ea7"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-142-2023",
+   "path": "avocatul-poporului/recomandare/2023/142",
+   "short": "Recomandarea Avocatul Poporului nr. 142/2023",
+   "title": "Către directorul general al Direcției generale de Asistență Socială și Protectia Copilului Teleorman",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-142-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-142-2023.pdf",
+     "sha256": "32955c593f7a2e1223b3024dab8d476b283138f0d36a3b005628fb79b7f4c76e"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-143-2023",
+   "path": "avocatul-poporului/recomandare/2023/143",
+   "short": "Recomandarea Avocatul Poporului nr. 143/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 143 din 2023-10-03",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-143-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-143-2023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-144-2023",
+   "path": "avocatul-poporului/recomandare/2023/144",
+   "short": "Recomandarea Avocatul Poporului nr. 144/2023",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Recomandarea-144-2.pdf",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Recomandarea-144-2.pdf",
+     "sha256": "a1d05e4085b67e122256c116516d4ea50a6ebbce07816cb2c38fce2fd8f78ff4"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-145-2023",
+   "path": "avocatul-poporului/recomandare/2023/145",
+   "short": "Recomandarea Avocatul Poporului nr. 145/2023",
+   "title": "Către Directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Recomandarea-145.pdf",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Recomandarea-145.pdf",
+     "sha256": "9468418066f92a8bb81422ef2311b2f66eba8e8757a2b8bae9735acb519e69d1"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-146-2023",
+   "path": "avocatul-poporului/recomandare/2023/146",
+   "short": "Recomandarea Avocatul Poporului nr. 146/2023",
+   "title": "Recomandarea Avocatului Poporului nr. 146 din 2023-10-17",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Recomandarea-146.pdf",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Recomandarea-146.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-147-2023",
+   "path": "avocatul-poporului/recomandare/2023/147",
+   "short": "Recomandarea Avocatul Poporului nr. 147/2023",
+   "title": "Către ministrul afacerilor interne",
+   "url": "https://avp.ro/wp-content/uploads/2023/10/Rec-147-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2023/10/Rec-147-2023.pdf",
+     "sha256": "1b0cd8cd75e48c8e65fef717e47b3346c22d3cc057017152728136372f84804d"
+    }
+   ]
   }
  ]
 }

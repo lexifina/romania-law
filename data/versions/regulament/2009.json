@@ -528,6 +528,21 @@
    ]
   },
   {
+   "slug": "regulament-bnr-12-2009",
+   "path": "regulament/bnr/2009/12",
+   "short": "Regulament bnr nr. 12/2009",
+   "title": "Regulamentul nr. 12/2009 pentru modificarea și completarea Regulamentului BNR-CNVM nr.15/20/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării bazate pe modele interne de rating",
+   "url": "https://www.bnr.ro/21265-regulament-12-2009",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 26,
+     "source_url": "https://www.bnr.ro/21265-regulament-12-2009",
+     "sha256": "c3e23daa8eeb488e0eb283f23f81ccb88147a18b857f183e402647c0ebbae6ad"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-6-2009",
    "path": "regulament/cnvm/2009/6",
    "short": "Regulament cnvm nr. 6/2009",

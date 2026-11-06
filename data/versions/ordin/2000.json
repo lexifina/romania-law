@@ -3,6 +3,21 @@
  "shard": "ordin/2000",
  "acts": [
   {
+   "slug": "ordin-agricultura-10-2000",
+   "path": "ordin/agricultura/2000/10",
+   "short": "Ordin agricultura nr. 10/2000",
+   "title": "Ordinul nr. 10/2000 privind valoarea nominală, modelul grafic, conținutul și elementele de tipărire securizata a cupoanelor, precum și materialele și serviciile pentru plata cărora pot fi utilizate cupoanele atribuite gratuit în anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21037",
+   "versions": [
+    {
+     "from": "2000-02-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21037",
+     "sha256": "780a0c7dbf3106738de10dd117e38d680289d8735f7532dbd8b49f87a202cadc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-113-2000",
    "path": "ordin/agricultura/2000/113",
    "short": "Ordin agricultura nr. 113/2000",
@@ -228,6 +243,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2729-2000",
+   "path": "ordin/agricultura/2000/2729",
+   "short": "Ordin agricultura nr. 2729/2000",
+   "title": "Ordinul nr. 2.729/2000 ORDIN nr. 2.729 din 2000 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgenta a Guvernului nr. 211/2000 privind instituirea sistemului de plată pentru motorina, pe bază de bonuri valorice, în vederea înființării culturilor de cereale păioase și efectuării arăturilor din toamna anului 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25747",
+   "versions": [
+    {
+     "from": "2000-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25747",
+     "sha256": "6aa39246addba7a3d53a9bd3f6e6754f80cf2702c0418ae6fd9a037cf0b9577c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-3-2000",
    "path": "ordin/agricultura/2000/3",
    "short": "Ordin agricultura nr. 3/2000",
@@ -333,6 +363,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-81-2000",
+   "path": "ordin/agricultura/2000/81",
+   "short": "Ordin agricultura nr. 81/2000",
+   "title": "Ordinul nr. 81/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23714",
+   "versions": [
+    {
+     "from": "2000-09-09",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/23714",
+     "sha256": "99c32d7286f7f11a1e986f1616d2ee84f7af93463cc6d22a671690ebf65be17b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2000",
+   "path": "ordin/agricultura/2000/83",
+   "short": "Ordin agricultura nr. 83/2000",
+   "title": "Ordinul nr. 83/2000 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 29/2000 privind sprijinul acordat producătorilor de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23437",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23437",
+     "sha256": "f5030ccddb1b31486b7b4efcb23d361135164a80feb6f49be3c6f9240d046c11"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-87-2000",
    "path": "ordin/agricultura/2000/87",
    "short": "Ordin agricultura nr. 87/2000",
@@ -404,6 +464,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22429",
      "sha256": "64c1392804f239a31562575b7a06c93b33b89002eb859447d32727f119db1706"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anci-221-2000",
+   "path": "ordin/anci/2000/221",
+   "short": "Ordin anci nr. 221/2000",
+   "title": "Ordinul nr. 221/2000 privind modificarea anexei la Ordinul președintelui Agenției Naționale pentru Comunicații și Informatica nr. 398/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24646",
+   "versions": [
+    {
+     "from": "2000-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24646",
+     "sha256": "606a146c359b7a5ad7b7d98a05f8bde2bd56334a137c859a0b639384bfb6b7af"
     }
    ]
   },
@@ -809,6 +884,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24874",
      "sha256": "352e7c6fb7ab1240d30dd17c9bc1e606dcd59d1ca390b8f6d7d2cb526c86c313"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-346-2000",
+   "path": "ordin/anrm/2000/346",
+   "short": "Ordin anrm nr. 346/2000",
+   "title": "Ordinul nr. 346/2000 privind concursul public de reofertare nr. 14/2000 pentru concesionarea unor activități miniere de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25720",
+   "versions": [
+    {
+     "from": "2000-12-18",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25720",
+     "sha256": "653ea4776982bad9289584c8842330b53b0aa5ec2219b893d471c34d90355a15"
     }
    ]
   },
@@ -1683,6 +1773,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-321-2000",
+   "path": "ordin/economie/2000/321",
+   "short": "Ordin economie nr. 321/2000",
+   "title": "Ordinul nr. 321/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25465",
+   "versions": [
+    {
+     "from": "2000-12-07",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/25465",
+     "sha256": "2c58260acc8128e844c93c4faf36d239c546efd7f27350bc8938103a00c2d48d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-323-2000",
    "path": "ordin/economie/2000/323",
    "short": "Ordin economie nr. 323/2000",
@@ -1904,6 +2009,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21176",
      "sha256": "563073cae31d9ca0cfba58ea62c35d61760538a0dfe0908749bb23160f99628a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1009-2000",
+   "path": "ordin/finante/2000/1009",
+   "short": "Ordin finante nr. 1009/2000",
+   "title": "Ordinul nr. 1.009/2000 pentru aprobarea Precizărilor metodologice privind compensarea unor obligații de plată, potrivit prevederilor art. 65 alin. (6) din Legea bugetului de stat pe anul 2000 nr. 76/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23515",
+   "versions": [
+    {
+     "from": "2000-07-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23515",
+     "sha256": "328e616178696f77c606cba5487d686a3def805a6251efbfc14c5922780b7f79"
     }
    ]
   },
@@ -2193,6 +2313,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1431-2000",
+   "path": "ordin/finante/2000/1431",
+   "short": "Ordin finante nr. 1431/2000",
+   "title": "Ordinul nr. 1.431/2000 pentru aprobarea formularisticii necesare în vederea aplicării Ordonanței Guvernului nr. 82/1998 privind înregistrarea fiscală a plătitorilor de impozite și taxe, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25573",
+   "versions": [
+    {
+     "from": "2000-12-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25573",
+     "sha256": "537c594410f4ae1c24df797e8b81af0b214ece64f45b22885868f562726397fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1444-2000",
    "path": "ordin/finante/2000/1444",
    "short": "Ordin finante nr. 1444/2000",
@@ -2204,6 +2339,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24878",
      "sha256": "602ed28b4c6646499c536d0d947733087dff62bec63082c5b0c871c0cbe3be50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1565-2000",
+   "path": "ordin/finante/2000/1565",
+   "short": "Ordin finante nr. 1565/2000",
+   "title": "Ordinul nr. 1.565/2000 pentru aprobarea Precizărilor metodologice privind compensarea unor obligații de plată, potrivit prevederilor art. 65 alin. (5) și (5^1) din Legea bugetului de stat pe anul 2000 nr. 76/2000, modificată și completată prin Ordonanța de urgență a Guvernului nr. 145/2000 cu privire la rectificarea bugetului de stat pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25451",
+   "versions": [
+    {
+     "from": "2000-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25451",
+     "sha256": "dce201615531a45aca3a29359ce292c908005d07702fd4d5b5f55df085a58fea"
     }
    ]
   },
@@ -2478,6 +2628,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-49-2000",
+   "path": "ordin/finante/2000/49",
+   "short": "Ordin finante nr. 49/2000",
+   "title": "Ordinul nr. 49/2000 privind modificarea Ordinului ministrului finanțelor nr. 1.313/1999 pentru aprobarea modelului și conținutului formularelor de declarare a obligațiilor de plată la bugetul de stat datorate de persoanele juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20715",
+   "versions": [
+    {
+     "from": "2000-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20715",
+     "sha256": "c7cd3d18580c7e5676e86a88189d77dc989b37c5a4cbfe56b9b9f455485a1e8c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-492-2000",
    "path": "ordin/finante/2000/492",
    "short": "Ordin finante nr. 492/2000",
@@ -2568,6 +2733,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-566-2000",
+   "path": "ordin/finante/2000/566",
+   "short": "Ordin finante nr. 566/2000",
+   "title": "Ordinul nr. 566/2000 pentru aprobarea Normelor metodologice cu privire la modul de atestare a suspendării plății taxei pe valoarea adăugată la organele vamale conform art. 25 lit. D.b) din Ordonanța de urgență a Guvernului nr. 17/2000 privind taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22058",
+   "versions": [
+    {
+     "from": "2000-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22058",
+     "sha256": "ebd195f8e359d3259a6d5b90ca86a30d6bfe9518f86600556dc41143840c4506"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-569-2000",
    "path": "ordin/finante/2000/569",
    "short": "Ordin finante nr. 569/2000",
@@ -2609,6 +2789,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22604",
      "sha256": "5c2b6c33acf429cf2b2492de7a221cd09533d8416f85317f1f46c5283078a7f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-635-2000",
+   "path": "ordin/finante/2000/635",
+   "short": "Ordin finante nr. 635/2000",
+   "title": "Ordinul nr. 635/2000 în legătură cu intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Republicii Kazahstan pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22885",
+   "versions": [
+    {
+     "from": "2000-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22885",
+     "sha256": "ed26b1df7358d36fc0b02846d55be465b885d8497722d230d74e2c8df082d58b"
     }
    ]
   },
@@ -2928,6 +3123,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-1080-2000",
+   "path": "ordin/interne/2000/1080",
+   "short": "Ordin interne nr. 1080/2000",
+   "title": "Ordinul nr. 1.080/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21810",
+   "versions": [
+    {
+     "from": "2000-05-14",
+     "units": 71,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/21810",
+     "sha256": "0973e6e3422978e422787d891350adc2669cf46da4892da3b84adde618356482"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-1112-2000",
    "path": "ordin/interne/2000/1112",
    "short": "Ordin interne nr. 1112/2000",
@@ -2999,6 +3209,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24019",
      "sha256": "5b206d9e3080e01915d3dc161e1c3481e191d8b7b22a9dd262cb45b2ae8e99d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1322-c-2000",
+   "path": "ordin/justitie/2000/1322-c",
+   "short": "Ordin justitie nr. 1322/C/2000",
+   "title": "Ordinul nr. 1.322/C/2000 pentru aprobarea Regulamentului privind organizarea și procedura de desfășurare a examenelor de atribuire a calității de expert tehnic judiciar și de testare a specialiștilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24043",
+   "versions": [
+    {
+     "from": "2000-09-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24043",
+     "sha256": "ea998bcc346fe10b931a88bd6971aa83f2576848cb1bb3fbb7a2b2ab2d4f71d7"
     }
    ]
   },
@@ -3198,6 +3423,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-322-2000",
+   "path": "ordin/mediu/2000/322",
+   "short": "Ordin mediu nr. 322/2000",
+   "title": "Ordinul nr. 322/2000 pentru aprobarea Procedurii de autorizare a activităților de recoltare, capturare și/sau de achiziție și comercializare pe piața internă sau la export a plantelor și animalelor din flora și fauna sălbatică, precum și a importului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22382",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22382",
+     "sha256": "7655a65060deb8749c1a0236c01130d8d819ec2be9d8f58f550043a60c16a2dd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-323-2000",
    "path": "ordin/mediu/2000/323",
    "short": "Ordin mediu nr. 323/2000",
@@ -3329,6 +3569,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23864",
      "sha256": "900cfb8cab8f509d68b7a958709deeee3f22b438eee6a944b178018540f54a35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-metrologie-136-2000",
+   "path": "ordin/metrologie/2000/136",
+   "short": "Ordin metrologie nr. 136/2000",
+   "title": "Ordinul nr. 136/2000 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse obligatoriu controlului metrologic al statului L.O.-2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24557",
+   "versions": [
+    {
+     "from": "2000-10-09",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24557",
+     "sha256": "e69dd046a197cf1e56e6dfe76f106f1365568c98a41c9d9a381201e43ec6a529"
     }
    ]
   },
@@ -3753,6 +4008,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-853-2000",
+   "path": "ordin/sanatate/2000/853",
+   "short": "Ordin sanatate nr. 853/2000",
+   "title": "Ordinul nr. 853/2000 privind stabilirea textului și dimensiunilor inscriptiilor-avertisment ale formelor de publicitate referitoare la produsele din tutun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25169",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25169",
+     "sha256": "1d36def40b358c4acedcfeeeb26fb93140248ce85620276d65e3b9314ad633cf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-910-2000",
    "path": "ordin/sanatate/2000/910",
    "short": "Ordin sanatate nr. 910/2000",
@@ -3914,6 +4184,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23472",
      "sha256": "a03c158a0752a453b6247c86d758b7a40f1633b953bdff948ca07d6c7699a7b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-220-2000",
+   "path": "ordin/transporturi/2000/220",
+   "short": "Ordin transporturi nr. 220/2000",
+   "title": "Ordinul nr. 220/2000 pentru stabilirea personalului abilitat să constate și sa încadreze faptele contravenționale în operațiunile de transport feroviar și cu metroul și să aplice amenzile corespunzătoare, precum și pentru stabilirea formei, modelului și conținutului legitimației speciale de control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22691",
+   "versions": [
+    {
+     "from": "2000-06-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22691",
+     "sha256": "77a399219f56e263fb73080a44da36182b4a6dee400d52b268f67f145affeb40"
     }
    ]
   },
@@ -4094,6 +4379,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23993",
      "sha256": "2060649247eab9f072fb3a5a56e8307e6caba306b784d09ba2c659c1632c9906"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-566-2000",
+   "path": "ordin/transporturi/2000/566",
+   "short": "Ordin transporturi nr. 566/2000",
+   "title": "Ordinul nr. 566/2000 privind modificarea și completarea Ordinului ministrului transporturilor nr. 251/1999 pentru aprobarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23995",
+   "versions": [
+    {
+     "from": "2000-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23995",
+     "sha256": "c2d7e7eb646ece026c345a74666924d5901af413be380142d2389f028dd43732"
     }
    ]
   },
@@ -4293,6 +4593,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-826-2000",
+   "path": "ordin/transporturi/2000/826",
+   "short": "Ordin transporturi nr. 826/2000",
+   "title": "Ordinul nr. 826/2000 privind aprobarea Regulilor de navigație pe Canalul Dunăre-Marea Neagra și Canalul Poarta Alba-Midia-Năvodari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26485",
+   "versions": [
+    {
+     "from": "2001-02-01",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26485",
+     "sha256": "d84634881939beb141b46e31efd9ebf2a7353181a1587ce70b1b36bb77199222"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-831-2000",
    "path": "ordin/transporturi/2000/831",
    "short": "Ordin transporturi nr. 831/2000",
@@ -4469,6 +4784,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23701",
      "sha256": "84a91d43fa04445eaba3e4eec06b17151d5adc1a96a542197834678809d9ade2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-3-2000",
+   "path": "ordin/bnr/2000/3",
+   "short": "Ordin bnr nr. 3/2000",
+   "title": "Ordinul nr. 3/2000 privind activitatea Casei de Economii și Consemnațiuni",
+   "url": "https://www.bnr.ro/21147-ordin-3-2000",
+   "versions": [
+    {
+     "from": "2000-09-27",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/21147-ordin-3-2000",
+     "sha256": "89b1672f9468a084a517ed27b1f85257d0a7ab0b65dee853f28b69afd4fd3669"
     }
    ]
   },

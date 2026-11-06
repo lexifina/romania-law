@@ -1143,6 +1143,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-568-2008",
+   "path": "ordin/agricultura/2008/568",
+   "short": "Ordin agricultura nr. 568/2008",
+   "title": "Ordinul nr. 568/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97120",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/97120",
+     "sha256": "8057b20891aa9164dc2c95d94f2d56d769dd4aa3758aef670befe579bc7fda20"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-570-2008",
    "path": "ordin/agricultura/2008/570",
    "short": "Ordin agricultura nr. 570/2008",
@@ -4203,6 +4218,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-11-2008",
+   "path": "ordin/ansvsa/2008/11",
+   "short": "Ordin ansvsa nr. 11/2008",
+   "title": "Ordinul nr. 11/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90151",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/90151",
+     "sha256": "e1b8265686fcfcd814ceee712f0f6b3a8768bbd2e35d00ae1936f8b608eea697"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-111-2008",
    "path": "ordin/ansvsa/2008/111",
    "short": "Ordin ansvsa nr. 111/2008",
@@ -4998,6 +5028,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-76-2008",
+   "path": "ordin/aparare/2008/76",
+   "short": "Ordin aparare nr. 76/2008",
+   "title": "Ordinul nr. 76/2008 pentru aprobarea Normelor privind participarea cadrelor militare din Armata României la studii de perfecționare a pregătirii profesionale organizate în țară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97065",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97065",
+     "sha256": "74d6c1a689a32c9ed01b33d09931cbf25bf621739cc3b8c8dbdcce5a8d0921d4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-82-2008",
    "path": "ordin/aparare/2008/82",
    "short": "Ordin aparare nr. 82/2008",
@@ -5583,6 +5628,21 @@
    ]
   },
   {
+   "slug": "ordin-cnvm-28-2008",
+   "path": "ordin/cnvm/2008/28",
+   "short": "Ordin cnvm nr. 28/2008",
+   "title": "Ordinul nr. 28/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90223",
+   "versions": [
+    {
+     "from": "2008-03-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/90223",
+     "sha256": "3d6aa658586d2520641e8c5b7b00faa515adbd90dc5dcb6e2498cc608d3141e0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-36-2008",
    "path": "ordin/cnvm/2008/36",
    "short": "Ordin cnvm nr. 36/2008",
@@ -5699,6 +5759,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92968",
      "sha256": "1e514233ed248c7916caa99d1fc09eded6472461e7ad8c3a3c5b37179ba1bd93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-190-2008",
+   "path": "ordin/comunicatii/2008/190",
+   "short": "Ordin comunicatii nr. 190/2008",
+   "title": "Ordinul nr. 190/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92849",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92849",
+     "sha256": "dae02231bdfc5e73213214f61b5edaf95568b795844180d5295fb42ec1a15223"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-235-2008",
+   "path": "ordin/comunicatii/2008/235",
+   "short": "Ordin comunicatii nr. 235/2008",
+   "title": "Ordinul nr. 235/2008 pentru aprobarea Instrucțiunilor privind angajarea gestionarilor, constituirea de garanții și răspunderea în legătură cu gestionarea bunurilor Companiei Naționale \"Poșta Română\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198616",
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/198616",
+     "sha256": "5fff23545d230eeb82af92afb03625f736fe7ce12c35e80ce57616e3f0e602bb"
     }
    ]
   },
@@ -6509,6 +6599,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91652",
      "sha256": "59dd6336792b8aa35edc495a2c267ba51b25fbfaf47bf8a03b37036fb956f856"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-577-2008",
+   "path": "ordin/dezvoltare/2008/577",
+   "short": "Ordin dezvoltare nr. 577/2008",
+   "title": "Ordinul nr. 577/2008 privind aprobarea reglementării tehnice \"Normativ pentru producerea betonului și executarea lucrărilor din beton, beton armat și beton precomprimat - Partea 1: Producerea betonului, indicativ NE 012/1-2007\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92956",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92956",
+     "sha256": "031eeb362df4952c114204d589d92ae25ddb2175844726549b01bc705db9f4fa"
     }
    ]
   },
@@ -7638,6 +7743,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6297-2008",
+   "path": "ordin/educatie/2008/6297",
+   "short": "Ordin educatie nr. 6297/2008",
+   "title": "Ordinul nr. 6.297/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100924",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100924",
+     "sha256": "c4da5d1786127608fd3db90755fca23eee59f9dcb67ce537e0d1679d1c296031"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-1807-2008",
    "path": "ordin/externe/2008/1807",
    "short": "Ordin externe nr. 1807/2008",
@@ -8328,6 +8448,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2168-2008",
+   "path": "ordin/finante/2008/2168",
+   "short": "Ordin finante nr. 2168/2008",
+   "title": "Ordinul nr. 2.168/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95978",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/95978",
+     "sha256": "b2828d34ce8a5e56296f4082697638b1204a50b87d35f1885f157755d7720caa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2200-2008",
    "path": "ordin/finante/2008/2200",
    "short": "Ordin finante nr. 2200/2008",
@@ -8868,6 +9003,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3454-2008",
+   "path": "ordin/finante/2008/3454",
+   "short": "Ordin finante nr. 3454/2008",
+   "title": "Ordinul nr. 3.454/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100089",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100089",
+     "sha256": "88895e48282725a159ea486389f28d77c74531ad3615aced59f4e1d8f123e454"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3471-2008",
    "path": "ordin/finante/2008/3471",
    "short": "Ordin finante nr. 3471/2008",
@@ -8958,6 +9108,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3647-2008",
+   "path": "ordin/finante/2008/3647",
+   "short": "Ordin finante nr. 3647/2008",
+   "title": "Ordinul nr. 3.647/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100760",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100760",
+     "sha256": "ad7987095d74013cb91b5ed7b0ec89d2472c223622de32aa68d445f83cb04088"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-365-2008",
    "path": "ordin/finante/2008/365",
    "short": "Ordin finante nr. 365/2008",
@@ -8988,6 +9153,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-3660-2008",
+   "path": "ordin/finante/2008/3660",
+   "short": "Ordin finante nr. 3660/2008",
+   "title": "Ordinul nr. 3.660/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100601",
+   "versions": [
+    {
+     "from": "2008-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100601",
+     "sha256": "a29bc696a8ceaa4d0fb798c5baf1864730a91b76be1f0510b66f05bda6d3e747"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-3661-2008",
    "path": "ordin/finante/2008/3661",
    "short": "Ordin finante nr. 3661/2008",
@@ -8999,6 +9179,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100846",
      "sha256": "10ec6e45fc22efb11ee0fd80de2d34d856592af60c3542f19b2862541aa0965f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3689-2008",
+   "path": "ordin/finante/2008/3689",
+   "short": "Ordin finante nr. 3689/2008",
+   "title": "Ordinul nr. 3.689/2008 privind modificarea Instrucțiunilor pentru stabilirea procedurii privind efectuarea operațiunilor necesare pentru finanțarea de la bugetul de stat în cazul indisponibilității temporare a contribuției financiare a Comunității Europene și în cazul compensărilor efectuate de Comisia Europeană, precum și pentru tratamentul dobânzii acumulate în conturile bancare ale Fondului Național în cadrul programelor ISPA, aprobate prin Ordinul ministrului finanțelor publice nr. 296/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100661",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100661",
+     "sha256": "7a14351d9455fc504f67aa54b6e392fc1600e7f487cfb97a66a7f7999a10a50f"
     }
    ]
   },
@@ -10638,6 +10833,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-607-2008",
+   "path": "ordin/interne/2008/607",
+   "short": "Ordin interne nr. 607/2008",
+   "title": "Ordinul nr. 607/2008 privind aprobarea Metodologiei de certificare a conformității în vederea introducerii pe piață a mijloacelor tehnice pentru apărarea împotriva incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97821",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97821",
+     "sha256": "8ab3a295b41d9c86429dcc2f03c794808c7576829dd1f89cc0e95e0c11b89cef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-612-2008",
    "path": "ordin/interne/2008/612",
    "short": "Ordin interne nr. 612/2008",
@@ -10938,6 +11148,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-688-2008",
+   "path": "ordin/interne/2008/688",
+   "short": "Ordin interne nr. 688/2008",
+   "title": "Ordinul nr. 688/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100905",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100905",
+     "sha256": "e781ffd2d0e68b9c2bc81f7ef5f1996d16f0ef32286707fceb96021ca85c4330"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-689-2008",
    "path": "ordin/interne/2008/689",
    "short": "Ordin interne nr. 689/2008",
@@ -11024,6 +11249,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98095",
      "sha256": "8c38c5862755ef77f5463309787dbf5788ce5d2106816e0791a08919b23bb629"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-isc-36-2008",
+   "path": "ordin/isc/2008/36",
+   "short": "Ordin isc nr. 36/2008",
+   "title": "Ordinul nr. 36/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89023",
+   "versions": [
+    {
+     "from": "2008-01-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/89023",
+     "sha256": "12bfb41352188af87c953714f974c6113cee725b60ddf3d65cb68366a85c3654"
     }
    ]
   },
@@ -12003,6 +12243,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1624-2008",
+   "path": "ordin/mediu/2008/1624",
+   "short": "Ordin mediu nr. 1624/2008",
+   "title": "Ordinul nr. 1.624/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101235",
+   "versions": [
+    {
+     "from": "2009-01-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101235",
+     "sha256": "9aa58da2bb1780c765fb5d0db4c21945c98c0f0727efbe35b39e4a44b0bde9ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1632-2008",
    "path": "ordin/mediu/2008/1632",
    "short": "Ordin mediu nr. 1632/2008",
@@ -12558,6 +12813,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-368-2008",
+   "path": "ordin/munca/2008/368",
+   "short": "Ordin munca nr. 368/2008",
+   "title": "Ordinul nr. 368/2008 privind repartizarea biletelor de odihnă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94209",
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94209",
+     "sha256": "2cf78dd1f36c486ec23946db91cdc218b1554961d347a9aa79420ba73b2d4a22"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-397-2008",
    "path": "ordin/munca/2008/397",
    "short": "Ordin munca nr. 397/2008",
@@ -12749,6 +13019,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97571",
      "sha256": "006ced353af327496b0bda03a2837a19138a9378b88259f278528ea8802b1b15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-600-2008",
+   "path": "ordin/munca/2008/600",
+   "short": "Ordin munca nr. 600/2008",
+   "title": "Ordinul nr. 600/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100745",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100745",
+     "sha256": "d14ca0a5c4235362ac4e2455a696e09370e5880644f87273e11187be1375a7db"
     }
    ]
   },
@@ -13458,6 +13743,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1365-2008",
+   "path": "ordin/sanatate/2008/1365",
+   "short": "Ordin sanatate nr. 1365/2008",
+   "title": "Ordinul nr. 1.365/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96581",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96581",
+     "sha256": "e5331f156d6e88f00c5f94b8a953a90c271ede3f27ea4c6552e6aeef5d82e194"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1386-2008",
    "path": "ordin/sanatate/2008/1386",
    "short": "Ordin sanatate nr. 1386/2008",
@@ -13694,6 +13994,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97616",
      "sha256": "29b93bcc2142765a6610e2d627eb39afaa4e251ee325586b48e4516a2eb48a56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1563-2008",
+   "path": "ordin/sanatate/2008/1563",
+   "short": "Ordin sanatate nr. 1563/2008",
+   "title": "Ordinul nr. 1.563/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97359",
+   "versions": [
+    {
+     "from": "2008-09-15",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/97359",
+     "sha256": "8bf5c62b1bccdbd1491cc87700a8755035e5f612825387830d0d8fe03bab6cdb"
     }
    ]
   },
@@ -14868,6 +15183,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1002-2008",
+   "path": "ordin/transporturi/2008/1002",
+   "short": "Ordin transporturi nr. 1002/2008",
+   "title": "Ordinul nr. 1.002/2008 privind modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor rutiere înmatriculate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96580",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96580",
+     "sha256": "177c547fab36225d3cbdd6f1e82d2c0d1557d154835a5688355c7f6ff33d292f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1007-2008",
    "path": "ordin/transporturi/2008/1007",
    "short": "Ordin transporturi nr. 1007/2008",
@@ -15213,6 +15543,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1494-2008",
+   "path": "ordin/transporturi/2008/1494",
+   "short": "Ordin transporturi nr. 1494/2008",
+   "title": "Ordinul nr. 1.494/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100348",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100348",
+     "sha256": "d49819e7247ec44459dbbf21d975d50656ae0ce821452bfcd366c2b01ca92008"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1523-2008",
    "path": "ordin/transporturi/2008/1523",
    "short": "Ordin transporturi nr. 1523/2008",
@@ -15359,6 +15704,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90047",
      "sha256": "ea6991ca46a4f86d918b877b71c10abc0259c8746c90109fb26272ee6e9344d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-244-2008",
+   "path": "ordin/transporturi/2008/244",
+   "short": "Ordin transporturi nr. 244/2008",
+   "title": "Ordinul nr. 244/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90260",
+   "versions": [
+    {
+     "from": "2008-03-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/90260",
+     "sha256": "63dadc6fb8ad67b75c9a8ea309059ad5e5874824f550c8e4c53e154a0e032b93"
     }
    ]
   },
@@ -15599,6 +15959,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90701",
      "sha256": "013246ab7462e5bc988a37dcccdc18f8138aaedf3d933a70eb83cf183f342895"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-381-2008",
+   "path": "ordin/transporturi/2008/381",
+   "short": "Ordin transporturi nr. 381/2008",
+   "title": "Ordinul nr. 381/2008 pentru aprobarea Instrucțiunilor de aplicare a prevederilor Tarifului intern de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90750",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90750",
+     "sha256": "5bde2ae9e8dbe17de79fde5bd294a7139d4bc59da96ca7d2f04e61ab09d313b7"
     }
    ]
   },
@@ -17268,6 +17643,36 @@
    ]
   },
   {
+   "slug": "ordin-bnr-12-2008",
+   "path": "ordin/bnr/2008/12",
+   "short": "Ordin bnr nr. 12/2008",
+   "title": "Ordinul nr. 12/2008 pentru modificarea și completarea Ordinului Băncii Naționale a României nr. 13/2007 privind situațiile financiare FINREP la nivel individual, aplicabile instituțiilor de credit",
+   "url": "https://www.bnr.ro/20628-ordin-12-2008",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20628-ordin-12-2008",
+     "sha256": "b76a38651c811ed902bc8b136d749eeef93c1d3e38a9bf51ed0b6f56f1303e1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-2-2008",
+   "path": "ordin/bnr/2008/2",
+   "short": "Ordin bnr nr. 2/2008",
+   "title": "Ordinul nr. 2/2008 privind raportarea expunerilor mari de către instituțiile de credit",
+   "url": "https://www.bnr.ro/21219-ordin-2-2008",
+   "versions": [
+    {
+     "from": "2008-05-07",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/21219-ordin-2-2008",
+     "sha256": "73af4bf8f2a9f20fbc185770b4b48010ea684dee9c7f192239da732ccd86d5b5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-3-2008",
    "path": "ordin/bnr/2008/3",
    "short": "Ordin bnr nr. 3/2008",
@@ -17279,6 +17684,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96849",
      "sha256": "ff2c91c71146f37cdea4216ccd02ae977041eac8bfe96d3e4809c67ea890ff00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-39-2008",
+   "path": "ordin/bnr/2008/39",
+   "short": "Ordin bnr nr. 39/2008",
+   "title": "Ordinul nr. 39/2008 privind interzicerea utilizării instrumentelor de plată de debit de tipul cecului, cambiei și biletului la ordin în format vechi",
+   "url": "https://www.bnr.ro/20630-ordin-39-2008",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/20630-ordin-39-2008",
+     "sha256": "0854dae6caf7789ff49c4666bf5c45f2b860813bbad944eb787503aa305796a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-40-2008",
+   "path": "ordin/bnr/2008/40",
+   "short": "Ordin bnr nr. 40/2008",
+   "title": "Ordinul nr. 40/2008 pentru modificarea Circularei Băncii Naționale a României nr. 9/1998 privind comisioanele încasate de Banca Națională a României pentru serviciile de plăți fără numerar",
+   "url": "https://www.bnr.ro/21176-ordin-40-2008",
+   "versions": [
+    {
+     "from": "2008-12-08",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/21176-ordin-40-2008",
+     "sha256": "9d7238cb4f0575690777a022d091884f6814ec9bccdc1324a416fe4e69286880"
     }
    ]
   },

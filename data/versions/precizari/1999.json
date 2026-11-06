@@ -46,6 +46,21 @@
      "sha256": "aa5be83e4d45b27807cce69c1c5f73588bc89627803ab97f5df9476398db0fb3"
     }
    ]
+  },
+  {
+   "slug": "precizari-bnr-2-1999",
+   "path": "precizari/bnr/1999/2",
+   "short": "Precizări bnr nr. 2/1999",
+   "title": "Precizările nr. 2/1999 pentru reflectarea în contabilitate a principalelor operațiuni privind fuziunea, dizolvarea și lichidarea băncilor",
+   "url": "https://www.bnr.ro/20896-precizare-2-1999",
+   "versions": [
+    {
+     "from": "1999-09-24",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20896-precizare-2-1999",
+     "sha256": "8b2593af1ff52fda611cac07c7300b21b91e3d897b59f7d7d19f7e60b4563072"
+    }
+   ]
   }
  ]
 }

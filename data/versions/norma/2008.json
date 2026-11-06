@@ -468,6 +468,36 @@
    ]
   },
   {
+   "slug": "norma-bnr-4-2008",
+   "path": "norma/bnr/2008/4",
+   "short": "Norma bnr nr. 4/2008",
+   "title": "Norma nr. 4/2008 privind cecul",
+   "url": "https://www.bnr.ro/21330-norma-tehnica-4-2008",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 17,
+     "source_url": "https://www.bnr.ro/21330-norma-tehnica-4-2008",
+     "sha256": "e56eafc9d46bab9b7f50ab36a66137dccadc86c3ac2b2582877b2814f5ba19bd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2008",
+   "path": "norma/bnr/2008/9",
+   "short": "Norma bnr nr. 9/2008",
+   "title": "Norma nr. 9/2008 pentru modificarea Normei Băncii Naționale a României nr. 16/2006 privind fondurile proprii ale instituțiilor financiare nebancare",
+   "url": "https://www.bnr.ro/21637-norma-9-2008",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 4,
+     "source_url": "https://www.bnr.ro/21637-norma-9-2008",
+     "sha256": "cd0e17f84bafaeb87b6924a21bd1c45cc270b6e51389e312137e948363f9a3df"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-20-2008",
    "path": "norma/csspp/2008/20",
    "short": "Norma csspp nr. 20/2008",

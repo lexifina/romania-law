@@ -16,6 +16,21 @@
      "sha256": "79f23e2bf6a433b8c19b25a78bbce4e7be7ed02ad6a382ae613d6f65b9c52cfc"
     }
    ]
+  },
+  {
+   "slug": "circulara-bnr-1471-1991",
+   "path": "circulara/bnr/1991/1471",
+   "short": "Circulara bnr nr. 1471/1991",
+   "title": "Circulara nr. 1.471/1991 privind modul de efectuare a transferurilor de capital cu mijloace de plată străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2054",
+   "versions": [
+    {
+     "from": "1991-11-12",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20160-circulara-1471-1991",
+     "sha256": "a95b775f76eda9316c4aa0802f744acfc746879181901ae23157d0b76db19442"
+    }
+   ]
   }
  ]
 }

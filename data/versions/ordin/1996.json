@@ -768,6 +768,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1774-1996",
+   "path": "ordin/finante/1996/1774",
+   "short": "Ordin finante nr. 1774/1996",
+   "title": "Ordinul nr. 1.774/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10662",
+   "versions": [
+    {
+     "from": "1996-09-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/10662",
+     "sha256": "77e4a7f15b977b9afbe073dae4398b6c625627ec5421f8605ac3473a3ed263e2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1789-1996",
    "path": "ordin/finante/1996/1789",
    "short": "Ordin finante nr. 1789/1996",

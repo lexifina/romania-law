@@ -2253,6 +2253,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-3834-2015",
+   "path": "ordin/anaf/2015/3834",
+   "short": "Ordin anaf nr. 3834/2015",
+   "title": "Ordinul nr. 3.834/2015 pentru aprobarea Procedurii privind stabilirea obligațiilor fiscale accesorii reprezentând penalități de nedeclarare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211548",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/211548",
+     "sha256": "f177fdb0f4f49a1fd2d8b22640017ef0b747fc5bdf0ebc932c3c1b91e0e202b5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-3838-2015",
    "path": "ordin/anaf/2015/3838",
    "short": "Ordin anaf nr. 3838/2015",
@@ -8058,6 +8073,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5036-2015",
+   "path": "ordin/educatie/2015/5036",
+   "short": "Ordin educatie nr. 5036/2015",
+   "title": "Ordinul nr. 5.036/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171185",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/171185",
+     "sha256": "de246ae442aec73b6e249796e3f67887ef514fe931f73b62e16e376c1cd4733c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5079-2015",
    "path": "ordin/educatie/2015/5079",
    "short": "Ordin educatie nr. 5079/2015",
@@ -8189,6 +8219,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172437",
      "sha256": "78241ca6441c7cd66f19e5b8b85e7ab52a3fb9bc0dad6c977af18747f74cfdc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5169-2015",
+   "path": "ordin/educatie/2015/5169",
+   "short": "Ordin educatie nr. 5169/2015",
+   "title": "Ordinul nr. 5.169/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171308",
+   "versions": [
+    {
+     "from": "2015-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/171308",
+     "sha256": "ed6211fee82299b8269a27ebfaf773523c92471105bef8a01dd623802ca69966"
     }
    ]
   },
@@ -9119,6 +9164,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172234",
      "sha256": "105ef38a9f37bacad8b071cebc3c773b33ca5c0b07a6ba88697a9a2d9cb97fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-138-2015",
+   "path": "ordin/finante/2015/138",
+   "short": "Ordin finante nr. 138/2015",
+   "title": "Ordinul nr. 138/2015 pentru modificarea și completarea Normelor privind aplicarea scutirii de taxă pe valoarea adăugată prevăzute la art. 143 alin. (1) lit. j), j^1), k), l) și m) din Legea nr. 571/2003 privind Codul fiscal și la art. X și XI din Acordul dintre România și Statele Unite ale Americii privind statutul forțelor Statelor Unite ale Americii în România, semnat la Washington la 30 octombrie 2001, ratificat prin Legea nr. 260/2002, aprobate prin Ordinul ministrului finanțelor publice nr. 2.389/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165642",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165642",
+     "sha256": "c3568f82462e1e04b1fa8ca83ee9a9a66dad749fc136fb59938669748a9dba0d"
     }
    ]
   },
@@ -11268,6 +11328,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-138-2015",
+   "path": "ordin/interne/2015/138",
+   "short": "Ordin interne nr. 138/2015",
+   "title": "Ordinul nr. 138/2015 pentru aprobarea Normelor tehnice privind utilizarea, verificarea, reîncărcarea, repararea și scoaterea din uz a stingătoarelor de incendiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172427",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172427",
+     "sha256": "a6c7671f0e24ec2229c6845bc044f448aa2503c0810f702491f8ccde28d5fb2b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-140-2015",
    "path": "ordin/interne/2015/140",
    "short": "Ordin interne nr. 140/2015",
@@ -12674,6 +12749,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175895",
      "sha256": "3e73f5f9e965fe70ac836b2e0934913b5fd241babb4a344fd62eafcaf848c631"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1945-2015",
+   "path": "ordin/mediu/2015/1945",
+   "short": "Ordin mediu nr. 1945/2015",
+   "title": "Ordinul nr. 1.945/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178963",
+   "versions": [
+    {
+     "from": "2016-06-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178963",
+     "sha256": "4cc4578dcd0878dc122c340c7d19e86be40dc122cf677c68f4af61ae456fcbe4"
     }
    ]
   },
@@ -15723,6 +15813,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1109-2015",
+   "path": "ordin/transporturi/2015/1109",
+   "short": "Ordin transporturi nr. 1109/2015",
+   "title": "Ordinul nr. 1.109/2015 pentru abrogarea Ordinului ministrului lucrărilor publice, transporturilor și locuinței nr. 82/2001 privind aprobarea aplicării Reglementării europene JAR 26 - Cerințe adiționale de navigabilitate pentru operare, care cuprinde cerințe specifice de navigabilitate pentru certificarea operatorilor aerieni conform dispozițiilor reglementărilor europene JAR OPS 1 - Transport aerian comercial (avioane) și JAR OPS 3 - Transport aerian comercial (elicoptere), a căror aplicare a fost aprobată prin Ordinul ministrului transporturilor nr. 437/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172095",
+   "versions": [
+    {
+     "from": "2015-10-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172095",
+     "sha256": "0d0171cbf104eb7d6d5ae01bb988ca0190ec94da7d3d60d4d84491209bea04cf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1134-2015",
    "path": "ordin/transporturi/2015/1134",
    "short": "Ordin transporturi nr. 1134/2015",
@@ -18063,6 +18168,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-10-2015",
+   "path": "ordin/bnr/2015/10",
+   "short": "Ordin bnr nr. 10/2015",
+   "title": "Ordinul nr. 10/2015 privind modificarea și completarea Ordinului Băncii Naționale a României nr. 5/2014 pentru aprobarea Normelor metodologice privind întocmirea raportărilor periodice cuprinzând informații statistice de natură financiar-contabilă, aplicabile sucursalelor din România ale instituțiilor de credit din alte state membre, și a Ordinului Băncii Naționale a României nr. 6/2014 pentru aprobarea Normelor metodologice privind întocmirea situațiilor financiare FINREP la nivel individual, conforme cu Standardele internaționale de raportare financiară, aplicabile instituțiilor de credit în scopuri de supraveghere prudențială",
+   "url": "https://www.bnr.ro/19745-ordin-10-2015",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19745-ordin-10-2015",
+     "sha256": "0ee728545f7020bc125fd5053b415d6ea359215c5381fcf8c9e6e78dc32a8f93"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-101-2015",
    "path": "ordin/bnr/2015/101",
    "short": "Ordin bnr nr. 101/2015",
@@ -18179,6 +18299,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165608",
      "sha256": "0769c4493cb2bf1da28a4a4cfea74451c461e1936270c4f5f82ead416871ba46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-81-2015",
+   "path": "ordin/bnr/2015/81",
+   "short": "Ordin bnr nr. 81/2015",
+   "title": "Ordinul nr. 81/2015 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor transferuri de fonduri",
+   "url": "https://www.bnr.ro/20460-ordin-81-2015",
+   "versions": [
+    {
+     "from": "2015-06-04",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20460-ordin-81-2015",
+     "sha256": "29643d5ce2e97dcf4d19094a2a30423a52f18b77dd3d88870c4af7adc10423c0"
     }
    ]
   },

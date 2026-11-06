@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "decizie-bnr-58-2011",
+   "path": "decizie/bnr/2011/58",
+   "short": "Decizia bnr nr. 58/2011",
+   "title": "Decizia nr. 58/2011 privind constituirea Comitetului interministerial pentru trecerea la euro",
+   "url": "https://www.bnr.ro/19622-decizie-58-2011",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19622-decizie-58-2011",
+     "sha256": "4156f3268b6668363409c3b73f62cb74533c1f89fdcc8802bca9042ccce2354c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-220-2011",
    "path": "decizie/cna/2011/220",
    "short": "Decizia cna nr. 220/2011",

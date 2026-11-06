@@ -641,11 +641,50 @@ def main_credits(repo: Path, c: dict, acts: list[dict]) -> dict[str, dict[tuple[
         return {}
     key_of = {B.law_email(c, k).lower(): k for k in c['laws']}
     owner = {f: a['slug'] for a in acts for f in dict.fromkeys([a.get('path') or a['slug'], a['slug']])}
-    out = git(repo, 'log', '--no-merges', '--reverse', '--name-only',
-              '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,'
-              'separator=)%x09%ae', 'main', '--', *owner)
+    # 2026-11-06 05:55Z: few acts: one `git log -- <paths>` (chunked under Windows' 32,767-character command line);
+    # many acts (a correction run of thousands): one streamed walk of the whole history with no pathspec, filtered
+    # below by folder. Each pathspec walk reads the whole history (~7 min at 190k commits), so 25 chunks took hours.
+    fmt = ('--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,'
+           'separator=)%x09%ae')
+
+    def records():
+        if len(owner) > 400:
+            proc = subprocess.Popen(['git', 'log', '--no-merges', '--reverse', '--name-only', fmt, 'main'], cwd=repo,
+                                    stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, text=True, encoding='utf-8')
+            buf = []
+            for line in proc.stdout:
+                while '\x00' in line:
+                    before, _, line = line.partition('\x00')
+                    buf.append(before)
+                    rec = ''.join(buf)
+                    buf = []
+                    if rec:
+                        yield rec
+                buf.append(line)
+            rec = ''.join(buf)
+            if rec:
+                yield rec
+            if proc.wait():
+                raise SystemExit('git log (whole history) failed in main_credits')
+            return
+        by_slug = {}
+        for f, s_ in owner.items():
+            by_slug.setdefault(s_, []).append(f)
+        chunks, cur, size = [], [], 0
+        for fs in by_slug.values():
+            n = sum(len(f) + 3 for f in fs)
+            if cur and size + n > 20000:
+                chunks.append(cur)
+                cur, size = [], 0
+            cur += fs
+            size += n
+        if cur:
+            chunks.append(cur)
+        for ch in chunks:
+            yield from git(repo, 'log', '--no-merges', '--reverse', '--name-only', fmt, 'main', '--', *ch).split('\x00')[1:]
+
     have: dict[str, dict] = {a['slug']: {} for a in acts}
-    for rec in out.split('\x00')[1:]:
+    for rec in records():
         head, _, names = rec.partition('\n')
         h, d, kind, email = (head.split('\t') + ['', '', ''])[:4]
         d, kind, law = d.strip(), kind.strip(), key_of.get(email.strip().lower(), '')

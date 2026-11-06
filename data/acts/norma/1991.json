@@ -22,6 +22,25 @@
 "joint": []
 },
 {
+"slug": "norma-bnr-398-1991",
+"path": "norma/bnr/1991/398",
+"kind": "norma",
+"year": "1991",
+"number": "398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 398/1991 pentru aplicarea unor prevederi din Hotărîrea Guvernului României nr. 352/1991 (art. 1, 2 și 3) și a prevederilor art. 3 din Regulamentul privind operațiunile curente și transferurile de capital cu mijloace de plată străine, emis de Banca Națională a României și publicat în Monitorul Oficial al României, Partea I, nr. 101 din 13 mai 1991",
+"short": "Norma bnr nr. 398/1991",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-07-18",
+"latest": "1991-07-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/1810",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-630-1991",
 "path": "norma/bnr/1991/630",
 "kind": "norma",

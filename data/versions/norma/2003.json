@@ -241,6 +241,51 @@
      "sha256": "edeef2e870ce707e7710f5332d47273743e1bd9fcfd11ccb997c16bc26e3c375"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-10-2003",
+   "path": "norma/bnr/2003/10",
+   "short": "Norma bnr nr. 10/2003",
+   "title": "Norma nr. 10/2003 privind perioada maximă de întrerupere a funcționării sistemului de plăți și decontări și a piețelor monetară și valutară",
+   "url": "https://www.bnr.ro/19519-norma-10-2003",
+   "versions": [
+    {
+     "from": "2003-12-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19519-norma-10-2003",
+     "sha256": "944786627256326a391a2ec2bd71bf5b35597e38565b58ff423f7aa2d9d98ab3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-14-2003",
+   "path": "norma/bnr/2003/14",
+   "short": "Norma bnr nr. 14/2003",
+   "title": "Norma nr. 14/2003 privind investițiile permise instituțiilor emitente de monedă electronică",
+   "url": "https://www.bnr.ro/21731-norma-14-2003",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 12,
+     "source_url": "https://www.bnr.ro/21731-norma-14-2003",
+     "sha256": "167fc9a6be29b53629e1d712b9e9a7ff29ba43d0751c4a51591803df87c91da3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-16-2003",
+   "path": "norma/bnr/2003/16",
+   "short": "Norma bnr nr. 16/2003",
+   "title": "Norma nr. 16/2003 pentru modificarea și completarea Normelor metodologice nr. 3/2000 de aplicare a Legii nr. 190/1999 privind creditul ipotecar pentru investiții imobiliare",
+   "url": "https://www.bnr.ro/19832-norma-16-2003",
+   "versions": [
+    {
+     "from": "2003-12-29",
+     "units": 4,
+     "source_url": "https://www.bnr.ro/19832-norma-16-2003",
+     "sha256": "d430643595801d6bc56a915ccd778fece71620f20f6b220e899850a8b6c450b1"
+    }
+   ]
   }
  ]
 }

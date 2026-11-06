@@ -1,33 +1,33 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 legea-1-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-73-2018,2018-04-01,no,https://legislatie.just.ro/Public/DetaliiDocument/144330
 legea-10-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/145916
-legea-100-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2013-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/146955
-legea-101-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2015-12-28,no,https://legislatie.just.ro/Public/DetaliiDocument/146959
-legea-102-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2015-01-13,no,https://legislatie.just.ro/Public/DetaliiDocument/146957
-legea-103-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146961
+legea-100-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146955
+legea-101-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146959
+legea-102-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146957
+legea-103-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146961
 legea-104-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-158-1999,2013-09-26,no,https://legislatie.just.ro/Public/DetaliiDocument/147143
 legea-105-2013,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/147196
 legea-106-2013,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/147198
 legea-107-2013,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/147202
 legea-108-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147390
-legea-109-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/147394
+legea-109-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147394
 legea-11-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/145984
 legea-110-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-06-09,no,https://legislatie.just.ro/Public/DetaliiDocument/147277
 legea-111-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-03-18,no,https://legislatie.just.ro/Public/DetaliiDocument/147280
-legea-112-2013,pending-change,2026-11-06,2026-11-13,amendment-search,oug-148-2024,2024-12-17,no,https://legislatie.just.ro/Public/DetaliiDocument/147200
+legea-112-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147200
 legea-113-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2027-01-05,no,https://legislatie.just.ro/Public/DetaliiDocument/147241
 legea-114-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-05-15,no,https://legislatie.just.ro/Public/DetaliiDocument/147404
 legea-115-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2022-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/147354
-legea-116-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/147464
-legea-117-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/147357
+legea-116-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147464
+legea-117-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147357
 legea-118-2013,current,2026-11-03,2026-11-10,edition-index,legea-2-2019,2019-01-11,yes,https://legislatie.just.ro/Public/DetaliiDocument/209249
 legea-119-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147364
-legea-12-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/145933
+legea-12-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145933
 legea-120-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-12-22,no,https://legislatie.just.ro/Public/DetaliiDocument/147401
-legea-121-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/147443
-legea-122-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/147448
+legea-121-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147443
+legea-122-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147448
 legea-123-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147453
-legea-124-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/147485
+legea-124-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147485
 legea-125-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147498
 legea-126-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147487
 legea-127-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2025-06-26,no,https://legislatie.just.ro/Public/DetaliiDocument/147457
@@ -37,7 +37,7 @@ legea-13-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislat
 legea-130-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147502
 legea-131-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-09-19,no,https://legislatie.just.ro/Public/DetaliiDocument/147470
 legea-132-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-153-2017,2017-07-01,no,https://legislatie.just.ro/Public/DetaliiDocument/147472
-legea-133-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2013-06-29,no,https://legislatie.just.ro/Public/DetaliiDocument/147702
+legea-133-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147702
 legea-134-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147506
 legea-135-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147474
 legea-136-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147476
@@ -45,7 +45,7 @@ legea-137-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-138-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147574
 legea-139-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147680
 legea-14-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2019-05-06,no,https://legislatie.just.ro/Public/DetaliiDocument/145990
-legea-140-2013,pending-change,2026-11-06,2026-11-13,amendment-search,oug-74-2014,2014-12-05,no,https://legislatie.just.ro/Public/DetaliiDocument/147478
+legea-140-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147478
 legea-141-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147672
 legea-142-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147598
 legea-143-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147600
@@ -69,9 +69,9 @@ legea-159-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocumen
 legea-16-2013,pending-change,2026-11-04,2026-11-11,amendment-search,hg-817-2025,2025-10-02,no,https://legislatie.just.ro/Public/DetaliiDocument/145886
 legea-160-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147974
 legea-161-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2018-12-11,no,https://legislatie.just.ro/Public/DetaliiDocument/147976
-legea-162-2013,pending-change,2026-11-06,2026-11-13,amendment-search,hg-843-2019,2019-12-21,no,https://legislatie.just.ro/Public/DetaliiDocument/147984
+legea-162-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147984
 legea-163-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147964
-legea-164-2013,pending-change,2026-11-06,2026-11-13,amendment-search,og-22-2013,2013-08-24,no,https://legislatie.just.ro/Public/DetaliiDocument/147966
+legea-164-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/147966
 legea-165-2013,stale,2026-05-09,2026-05-16,consolidated-form,oug-38-2025,2025-08-08,yes,https://legislatie.just.ro/Public/DetaliiDocument/147937
 legea-166-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-06-29,no,https://legislatie.just.ro/Public/DetaliiDocument/148464
 legea-167-2013,stale,2026-01-19,2026-01-26,consolidated-form,og-129-2000,2014-01-29,yes,https://legislatie.just.ro/Public/DetaliiDocument/155285
@@ -98,10 +98,10 @@ legea-189-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-05-27
 legea-19-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-06-27,no,https://legislatie.just.ro/Public/DetaliiDocument/145958
 legea-190-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-04-01,no,https://legislatie.just.ro/Public/DetaliiDocument/149691
 legea-191-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/149406
-legea-192-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2014-05-19,no,https://legislatie.just.ro/Public/DetaliiDocument/149497
-legea-193-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2022-08-17,no,https://legislatie.just.ro/Public/DetaliiDocument/149292
+legea-192-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149497
+legea-193-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149292
 legea-194-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149408
-legea-195-2013,pending-change,2026-11-06,2026-11-13,amendment-search,oug-1-2018,2018-01-31,no,https://legislatie.just.ro/Public/DetaliiDocument/149353
+legea-195-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149353
 legea-196-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2018-11-15,no,https://legislatie.just.ro/Public/DetaliiDocument/149449
 legea-197-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149355
 legea-198-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149360
@@ -114,22 +114,22 @@ legea-202-2013,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr.
 legea-203-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149420
 legea-204-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-08-21,no,https://legislatie.just.ro/Public/DetaliiDocument/149422
 legea-205-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149444
-legea-206-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/149499
+legea-206-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149499
 legea-207-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149362
 legea-208-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-95-2006,2015-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/149410
-legea-209-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/149404
-legea-21-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2013-07-17,no,https://legislatie.just.ro/Public/DetaliiDocument/145963
+legea-209-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149404
+legea-21-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145963
 legea-210-2013,pending-change,2026-11-04,2026-11-11,amendment-search,og-9-2022,2022-02-03,no,https://legislatie.just.ro/Public/DetaliiDocument/149402
 legea-211-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149424
 legea-212-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149621
-legea-213-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-272-2004,2004-06-21,no,https://legislatie.just.ro/Public/DetaliiDocument/149400
+legea-213-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149400
 legea-215-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149455
 legea-216-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/149501
 legea-217-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-95-2006,2015-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/149463
 legea-218-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149556
 legea-22-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-6-2023,2023-01-07,no,https://legislatie.just.ro/Public/DetaliiDocument/145936
 legea-220-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149548
-legea-221-2013,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 221/2013,2013-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/149838
+legea-221-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149838
 legea-222-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-80-2019,2019-12-24,no,https://legislatie.just.ro/Public/DetaliiDocument/149851
 legea-223-2013,pending-change,2026-11-04,2026-11-11,amendment-search,hg-946-2013,2013-12-05,no,https://legislatie.just.ro/Public/DetaliiDocument/149856
 legea-224-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-95-2006,2015-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/149853
@@ -137,10 +137,10 @@ legea-225-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-107-2
 legea-226-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-02-25,no,https://legislatie.just.ro/Public/DetaliiDocument/149893
 legea-227-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-10-20,no,https://legislatie.just.ro/Public/DetaliiDocument/149817
 legea-228-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149870
-legea-229-2013,pending-change,2026-11-06,2026-11-13,amendment-search,hg-69-2023,2023-02-02,no,https://legislatie.just.ro/Public/DetaliiDocument/149895
+legea-229-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149895
 legea-23-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/145970
 legea-230-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149874
-legea-231-2013,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1198-2021,2021-11-16,no,https://legislatie.just.ro/Public/DetaliiDocument/149840
+legea-231-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149840
 legea-232-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2019-02-27,no,https://legislatie.just.ro/Public/DetaliiDocument/149897
 legea-233-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149939
 legea-234-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149835
@@ -148,9 +148,9 @@ legea-235-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocumen
 legea-236-2013,pending-change,2026-11-04,2026-11-11,amendment-search,hg-867-2013,2013-11-13,no,https://legislatie.just.ro/Public/DetaliiDocument/149941
 legea-237-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149943
 legea-238-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-03-10,no,https://legislatie.just.ro/Public/DetaliiDocument/149969
-legea-239-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-167-2017,2017-10-14,no,https://legislatie.just.ro/Public/DetaliiDocument/149945
+legea-239-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149945
 legea-24-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-66-2021,2021-06-30,no,https://legislatie.just.ro/Public/DetaliiDocument/145939
-legea-240-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-190-2015,2015-07-09,no,https://legislatie.just.ro/Public/DetaliiDocument/149996
+legea-240-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/149996
 legea-241-2013,current,2025-12-15,,consolidated-form,legea-223-2015,2016-01-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/161664
 legea-242-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2017-12-21,no,https://legislatie.just.ro/Public/DetaliiDocument/149959
 legea-243-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/150067
@@ -174,7 +174,7 @@ legea-26-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-12-19,
 legea-260-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-95-2006,2015-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/151695
 legea-261-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-162-2026,2026-08-07,no,https://legislatie.just.ro/Public/DetaliiDocument/151707
 legea-262-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151709
-legea-263-2013,pending-change,2026-11-06,2026-11-13,amendment-search,oug-93-2013,2013-10-16,no,https://legislatie.just.ro/Public/DetaliiDocument/151760
+legea-263-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151760
 legea-264-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151835
 legea-265-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151838
 legea-268-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/151862
@@ -195,21 +195,21 @@ legea-280-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocumen
 legea-281-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/152367
 legea-282-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-02-19,no,https://legislatie.just.ro/Public/DetaliiDocument/152315
 legea-283-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2016-03-03,no,https://legislatie.just.ro/Public/DetaliiDocument/152317
-legea-284-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2018-01-05,no,https://legislatie.just.ro/Public/DetaliiDocument/152319
+legea-284-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152319
 legea-285-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152321
 legea-286-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152489
 legea-287-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-02-27,no,https://legislatie.just.ro/Public/DetaliiDocument/152520
 legea-288-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152491
 legea-289-2013,pending-change,2026-11-04,2026-11-11,amendment-search,hg-81-2026,2026-02-26,no,https://legislatie.just.ro/Public/DetaliiDocument/152493
 legea-29-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145974
-legea-290-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/152590
-legea-291-2013,pending-change,2026-11-06,2026-11-13,amendment-search,hg-23-2015,2015-01-22,no,https://legislatie.just.ro/Public/DetaliiDocument/152609
+legea-290-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152590
+legea-291-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152609
 legea-292-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152619
 legea-293-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152594
 legea-294-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152596
 legea-295-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152654
 legea-296-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152598
-legea-298-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-216-2018,2018-08-03,no,https://legislatie.just.ro/Public/DetaliiDocument/152699
+legea-298-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152699
 legea-299-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152656
 legea-3-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2026-09-10,no,https://legislatie.just.ro/Public/DetaliiDocument/145505
 legea-30-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145952
@@ -223,7 +223,7 @@ legea-306-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-307-2013,current,2026-11-03,2026-11-10,edition-index,legea-278-2024,2024-11-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/289678
 legea-308-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/155271
 legea-309-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153144
-legea-31-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2016-06-28,no,https://legislatie.just.ro/Public/DetaliiDocument/145954
+legea-31-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145954
 legea-311-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153175
 legea-312-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152916
 legea-313-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/152975
@@ -233,7 +233,7 @@ legea-316-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-317-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153152
 legea-318-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153154
 legea-319-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153352
-legea-32-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/145956
+legea-32-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145956
 legea-320-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153157
 legea-321-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153160
 legea-322-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153224
@@ -244,14 +244,14 @@ legea-326-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-327-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153392
 legea-328-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153394
 legea-329-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153463
-legea-33-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146352
+legea-33-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146352
 legea-330-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153737
 legea-331-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2016-02-16,no,https://legislatie.just.ro/Public/DetaliiDocument/153492
 legea-332-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-9-2023,2023-03-10,no,https://legislatie.just.ro/Public/DetaliiDocument/153543
 legea-333-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153494
 legea-334-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-05-17,no,https://legislatie.just.ro/Public/DetaliiDocument/153496
 legea-335-2013,stale,2025-11-17,2025-11-24,consolidated-form,legea-408-2023,2023-12-22,yes,https://legislatie.just.ro/Public/DetaliiDocument/153559
-legea-336-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/153498
+legea-336-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153498
 legea-337-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153546
 legea-338-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153549
 legea-339-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153564
@@ -260,9 +260,9 @@ legea-340-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocumen
 legea-341-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153615
 legea-343-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153857
 legea-344-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153859
-legea-345-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/153861
-legea-346-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/153864
-legea-347-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/153874
+legea-345-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153861
+legea-346-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153864
+legea-347-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153874
 legea-348-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153876
 legea-349-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153878
 legea-35-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-04-15,no,https://legislatie.just.ro/Public/DetaliiDocument/146030
@@ -274,7 +274,7 @@ legea-354-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-355-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-75-2014,2014-12-05,no,https://legislatie.just.ro/Public/DetaliiDocument/153806
 legea-356-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-74-2014,2014-12-05,no,https://legislatie.just.ro/Public/DetaliiDocument/153803
 legea-357-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153887
-legea-358-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-95-2006,2015-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/153889
+legea-358-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153889
 legea-359-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-95-2006,2015-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/153891
 legea-36-2013,pending-change,2026-11-04,2026-11-11,amendment-search,og-19-2025,2025-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/146032
 legea-361-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/154581
@@ -287,10 +287,10 @@ legea-367-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-368-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-05-05,no,https://legislatie.just.ro/Public/DetaliiDocument/153897
 legea-369-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153951
 legea-370-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153953
-legea-371-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2014-12-12,no,https://legislatie.just.ro/Public/DetaliiDocument/153955
+legea-371-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153955
 legea-372-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/154078
-legea-373-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-9-2026,2026-01-18,no,https://legislatie.just.ro/Public/DetaliiDocument/154043
-legea-374-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-154-2022,2022-05-28,no,https://legislatie.just.ro/Public/DetaliiDocument/153914
+legea-373-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/154043
+legea-374-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/153914
 legea-375-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-01-27,no,https://legislatie.just.ro/Public/DetaliiDocument/154193
 legea-376-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/154021
 legea-378-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/154027
@@ -300,7 +300,7 @@ legea-380-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legisla
 legea-381-2013,pending-change,2026-11-04,2026-11-11,amendment-search,legea-216-2015,2015-08-21,no,https://legislatie.just.ro/Public/DetaliiDocument/154217
 legea-382-2013,pending-change,2026-11-04,2026-11-11,amendment-search,hg-206-2026,2026-04-14,no,https://legislatie.just.ro/Public/DetaliiDocument/154237
 legea-383-2013,stale,2026-02-16,2026-02-23,consolidated-form,legea-79-2020,2020-06-18,yes,https://legislatie.just.ro/Public/DetaliiDocument/154381
-legea-39-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146039
+legea-39-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146039
 legea-4-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-06-28,no,https://legislatie.just.ro/Public/DetaliiDocument/145507
 legea-40-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146011
 legea-41-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146013
@@ -309,28 +309,28 @@ legea-43-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislat
 legea-44-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-03-22,no,https://legislatie.just.ro/Public/DetaliiDocument/146213
 legea-45-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146227
 legea-46-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146292
-legea-47-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146158
+legea-47-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146158
 legea-48-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-10-14,no,https://legislatie.just.ro/Public/DetaliiDocument/146206
 legea-49-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-11-04,no,https://legislatie.just.ro/Public/DetaliiDocument/146294
 legea-50-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146169
-legea-52-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146161
+legea-52-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146161
 legea-53-2013,stale,2026-01-19,2026-01-26,consolidated-form,legea-290-2013,2013-11-17,yes,https://legislatie.just.ro/Public/DetaliiDocument/146164
-legea-54-2013,pending-change,2026-11-06,2026-11-13,amendment-search,legea-36-1995,2014-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/146166
+legea-54-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146166
 legea-55-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-10-04,no,https://legislatie.just.ro/Public/DetaliiDocument/146297
 legea-56-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146155
 legea-57-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-04-23,no,https://legislatie.just.ro/Public/DetaliiDocument/146393
 legea-58-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-05-06,no,https://legislatie.just.ro/Public/DetaliiDocument/146397
-legea-59-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146570
+legea-59-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146570
 legea-60-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-12-04,no,https://legislatie.just.ro/Public/DetaliiDocument/146324
 legea-61-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146334
 legea-62-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-07-19,no,https://legislatie.just.ro/Public/DetaliiDocument/146364
 legea-63-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-65-2019,2019-09-13,no,https://legislatie.just.ro/Public/DetaliiDocument/146342
 legea-64-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146378
 legea-65-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146790
-legea-66-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146563
+legea-66-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146563
 legea-67-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-12-21,no,https://legislatie.just.ro/Public/DetaliiDocument/146500
 legea-68-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/146565
-legea-69-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146829
+legea-69-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146829
 legea-7-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2018-03-20,no,https://legislatie.just.ro/Public/DetaliiDocument/145890
 legea-70-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-12-03,no,https://legislatie.just.ro/Public/DetaliiDocument/146520
 legea-71-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-43-2026,2026-10-30,no,https://legislatie.just.ro/Public/DetaliiDocument/146469
@@ -342,21 +342,21 @@ legea-76-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-12-21,
 legea-77-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146833
 legea-78-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146835
 legea-79-2013,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/146837
-legea-8-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2015-04-09,no,https://legislatie.just.ro/Public/DetaliiDocument/145900
+legea-8-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/145900
 legea-80-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-10-31,no,https://legislatie.just.ro/Public/DetaliiDocument/146782
 legea-81-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-04-18,no,https://legislatie.just.ro/Public/DetaliiDocument/146786
 legea-82-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2016-03-24,no,https://legislatie.just.ro/Public/DetaliiDocument/146788
 legea-83-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146793
-legea-84-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146804
+legea-84-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146804
 legea-85-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146811
 legea-86-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146817
-legea-87-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2021-07-19,no,https://legislatie.just.ro/Public/DetaliiDocument/146760
-legea-88-2013,pending-change,2026-11-06,2026-11-13,amendment-search,,2014-03-24,no,https://legislatie.just.ro/Public/DetaliiDocument/146762
+legea-87-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146760
+legea-88-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146762
 legea-89-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146752
 legea-9-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2013-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/145911
 legea-90-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146754
 legea-91-2013,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146977
-legea-92-2013,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/146980
+legea-92-2013,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/146980
 legea-93-2013,pending-change,2026-11-04,2026-11-11,amendment-search,oug-74-2014,2014-12-05,no,https://legislatie.just.ro/Public/DetaliiDocument/147041
 legea-94-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-06-18,no,https://legislatie.just.ro/Public/DetaliiDocument/147047
 legea-95-2013,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-01-10,no,https://legislatie.just.ro/Public/DetaliiDocument/146982

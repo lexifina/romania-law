@@ -691,6 +691,21 @@
      "sha256": "7c261653e8b71752f7f2ff329eb9b70d8bd456f21ee698d621cf11c37f8f975e"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-13-2011",
+   "path": "regulament/bnr/2011/13",
+   "short": "Regulament bnr nr. 13/2011",
+   "title": "Regulamentul nr. 13/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://www.bnr.ro/19136-regulament-13-2011",
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19136-regulament-13-2011",
+     "sha256": "7989555c001e9105f18f3c11cfb7c4cb856c666f75f578fd8c9a666ec0edda6a"
+    }
+   ]
   }
  ]
 }

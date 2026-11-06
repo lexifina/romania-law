@@ -174,6 +174,25 @@
 "joint": []
 },
 {
+"slug": "circulara-bnr-31-1994",
+"path": "circulara/bnr/1994/31",
+"kind": "circulara",
+"year": "1994",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Circulara nr. 31/1994",
+"short": "Circulara bnr nr. 31/1994",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-09-08",
+"latest": "1995-09-08",
+"portal": "https://www.bnr.ro/20937-circulara-31-1994",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "circulara-bnr-39-1994",
 "path": "circulara/bnr/1994/39",
 "kind": "circulara",

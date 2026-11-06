@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "norma-bnr-3-1993",
+   "path": "norma/bnr/1993/3",
+   "short": "Norma bnr nr. 3/1993",
+   "title": "Norma nr. 3/1993 privind efectuarea controlului bancar în cazul plăților externe pentru importuri de mărfuri",
+   "url": "https://www.bnr.ro/20547-norma-3-1993",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20547-norma-3-1993",
+     "sha256": "efa5ad99e664bef23d8e4ae6928f1d66dbb8fb03238621a790985a46e069eb61"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-9-1993",
    "path": "norma/bnr/1993/9",
    "short": "Norma bnr nr. 9/1993",

@@ -3,6 +3,25 @@
 "shard": "precizari/1999",
 "acts": [
 {
+"slug": "precizari-bnr-2-1999",
+"path": "precizari/bnr/1999/2",
+"kind": "precizari",
+"year": "1999",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 2/1999 pentru reflectarea în contabilitate a principalelor operațiuni privind fuziunea, dizolvarea și lichidarea băncilor",
+"short": "Precizări bnr nr. 2/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-09-24",
+"latest": "1999-09-24",
+"portal": "https://www.bnr.ro/20896-precizare-2-1999",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "precizari-dezvoltare-5122-nn-1999",
 "path": "precizari/dezvoltare/1999/5122-nn",
 "kind": "precizari",

@@ -3,6 +3,21 @@
  "shard": "ordin/2004",
  "acts": [
   {
+   "slug": "ordin-aaas-1-2004",
+   "path": "ordin/aaas/2004/1",
+   "short": "Ordin aaas nr. 1/2004",
+   "title": "Ordinul nr. 1/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49292",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/49292",
+     "sha256": "49bb0a3e96d3b240b76f32b4ac9e0acbab8152e7905d2f35308684c0025b9c90"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-20-2004",
    "path": "ordin/aaas/2004/20",
    "short": "Ordin aaas nr. 20/2004",
@@ -1173,6 +1188,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-36-2004",
+   "path": "ordin/agricultura/2004/36",
+   "short": "Ordin agricultura nr. 36/2004",
+   "title": "Ordinul nr. 36/2004 privind aprobarea Ghidului tehnic general pentru aplicarea procedurii de emitere a autorizației integrate de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49194",
+   "versions": [
+    {
+     "from": "2004-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49194",
+     "sha256": "8143630ebeac942d3495290760d1d896212d3bc3ae8a44210669cb8b54420803"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-378-2004",
    "path": "ordin/agricultura/2004/378",
    "short": "Ordin agricultura nr. 378/2004",
@@ -1304,6 +1334,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53563",
      "sha256": "5a168016df588e646d034eabf3018885f11566c8be9c636e26c852d18de966ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-44-2004",
+   "path": "ordin/agricultura/2004/44",
+   "short": "Ordin agricultura nr. 44/2004",
+   "title": "Ordinul nr. 44/2004 pentru aprobarea Regulamentului privind realizarea monitoringului calității apelor pentru substanțe prioritare/prioritar periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49926",
+   "versions": [
+    {
+     "from": "2004-04-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49926",
+     "sha256": "28edf02e898652484e0cd5e073e2cac642b7267c6e289ce2976cac2da3453332"
     }
    ]
   },
@@ -1499,6 +1544,21 @@
      "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49466",
      "sha256": "ac827f2e9234dc63f9b33d328b166e78125dacc4858965b267176f70ad51e259"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-512-2004",
+   "path": "ordin/agricultura/2004/512",
+   "short": "Ordin agricultura nr. 512/2004",
+   "title": "Ordinul nr. 512/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54365",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/54365",
+     "sha256": "b874f867c0142323d6f11dcc579c14a2a0562a46c0770677c51a3602bf4167e7"
     }
    ]
   },
@@ -1799,6 +1859,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55285",
      "sha256": "9eb135244e00957b55a0e30a4e177799ad2ab771b243cb26c6fe0b0d1aee9e49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-627-2004",
+   "path": "ordin/agricultura/2004/627",
+   "short": "Ordin agricultura nr. 627/2004",
+   "title": "Ordinul nr. 627/2004 privind stabilirea caracteristicilor pentru calitatea-tip a sfeclei de zahăr rezultate din producția anului 2005, recepționată de societățile comerciale pentru industrializarea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54939",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54939",
+     "sha256": "bfd11c4806b342915ccd22543e58c97dcef496ac1e3d9e9eb2c81b4deb8daf35"
     }
    ]
   },
@@ -2324,6 +2399,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61420",
      "sha256": "90a3b0eb32e48b3dfcde086cadb4e32483a9569d798f76a9741a55a8845d8983"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-78-2004",
+   "path": "ordin/agricultura/2004/78",
+   "short": "Ordin agricultura nr. 78/2004",
+   "title": "Ordinul nr. 78/2004 pentru autorizarea Organizației Interprofesionale Naționale de Produse, Grăsimi Vegetale și Șroturi Furajere din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49500",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49500",
+     "sha256": "a94de68bbe66b56d50893cc9dde1ad9c4a471d4b8b7665a597f02aad30c1b0c2"
     }
    ]
   },
@@ -3134,6 +3224,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54951",
      "sha256": "9156b59f384b5498b9454e6f62469103b351f05fdd8a17a3b25c1756eeae3802"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-492-2004",
+   "path": "ordin/anaf/2004/492",
+   "short": "Ordin anaf nr. 492/2004",
+   "title": "Ordinul nr. 492/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54256",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/54256",
+     "sha256": "bfa55082f8383de3c81ebf14da7cce61a924168633f4704c5295bb5d07f8c1cd"
     }
    ]
   },
@@ -4263,6 +4368,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-249-2004",
+   "path": "ordin/anrm/2004/249",
+   "short": "Ordin anrm nr. 249/2004",
+   "title": "Ordinul nr. 249/2004 privind aprobarea Listei perimetrelor pentru concesionarea de activități miniere de explorare - Runda 43/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57626",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57626",
+     "sha256": "aa450cc85bdd8706694addc581a71e1965a7adc722b493977ae23004b4e1cfea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-274-2004",
    "path": "ordin/anrm/2004/274",
    "short": "Ordin anrm nr. 274/2004",
@@ -4379,6 +4499,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51016",
      "sha256": "38c7a1c92756fb4aeb19c5f3be634422777a18155ee559fa92ad67bd164a1fa9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-74-2004",
+   "path": "ordin/anrm/2004/74",
+   "short": "Ordin anrm nr. 74/2004",
+   "title": "Ordinul nr. 74/2004 pentru aprobarea Instrucțiunilor tehnice privind modul de raportare și de calcul al valorii producției și redevenței miniere datorate de către titularii actelor de dare în administrare sau de concesiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51540",
+   "versions": [
+    {
+     "from": "2004-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51540",
+     "sha256": "ffa407ec47636c6d8cf24a38ea6867e962599560ca23afae9790312e89f91954"
     }
    ]
   },
@@ -6093,6 +6228,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-118-2004",
+   "path": "ordin/comunicatii/2004/118",
+   "short": "Ordin comunicatii nr. 118/2004",
+   "title": "Ordinul nr. 118/2004 privind desemnarea unor persoane juridice de drept privat responsabile cu îndeplinirea obligațiilor care decurg din ratificarea de către România a Convenției Uniunii Poștale Universale, a Aranjamentului serviciilor de plată ale poștei și a regulamentelor lor de aplicare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50825",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50825",
+     "sha256": "33a30c2ebe517041e2faecd01ea065a32ca03386098a4fd51f8b5ddb82a3d50a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-137-2004",
    "path": "ordin/comunicatii/2004/137",
    "short": "Ordin comunicatii nr. 137/2004",
@@ -6153,6 +6303,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-218-2004",
+   "path": "ordin/comunicatii/2004/218",
+   "short": "Ordin comunicatii nr. 218/2004",
+   "title": "Ordinul nr. 218/2004 privind procedura de avizare a instrumentelor de plată cu acces la distanță, de tipul aplicațiilor Internet-banking, home-banking sau mobile-banking",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53086",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53086",
+     "sha256": "5cac4adcd33358be930319fbf32168c7bcc8caaf4462d8dfd46863edffd2ab8b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-273-2004",
    "path": "ordin/comunicatii/2004/273",
    "short": "Ordin comunicatii nr. 273/2004",
@@ -6194,6 +6359,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56838",
      "sha256": "0a63966a19f4697275bb08ba338eab48288b972312325d990838506f456587db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-497-2004",
+   "path": "ordin/comunicatii/2004/497",
+   "short": "Ordin comunicatii nr. 497/2004",
+   "title": "Ordinul nr. 497/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56813",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56813",
+     "sha256": "1fbd0202e66f08d65cf628296ac28986b653cfa64bcf2e69dc8a967b48a8eb69"
     }
    ]
   },
@@ -6824,6 +7004,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50525",
      "sha256": "18d805b6f55714cf29895658a203cacc9ba5aeea2683aae63fe291e46c8056b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-27-2004",
+   "path": "ordin/copii/2004/27",
+   "short": "Ordin copii nr. 27/2004",
+   "title": "Ordinul nr. 27/2004 pentru aprobarea Standardelor minime obligatorii privind serviciile pentru protecția copilului de tip rezidențial pentru copiii cu dizabilități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52551",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52551",
+     "sha256": "992db8ab64034a8953573a5619ee002147904e8aaf77b2aaea0fae5f7dc99719"
     }
    ]
   },
@@ -8819,6 +9014,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57233",
      "sha256": "3d3e944d68ea51c3a4cc68f5316dbe0bd5ce389c90c8ac478271dbad60c3320d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-77-2004",
+   "path": "ordin/economie/2004/77",
+   "short": "Ordin economie nr. 77/2004",
+   "title": "Ordinul nr. 77/2004 pentru înlocuirea anexelor nr. 1 și 2 la Norma tehnică de verificare a mijloacelor de joc Cerințe generale - N.T.V.-01-2000, aprobată prin Ordinul ministrului industriei și comerțului nr. 184/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50051",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50051",
+     "sha256": "0194a272d9cc7670a154396ab18edca656aea67c97c8bcd052adaf767f0fa6bd"
     }
    ]
   },
@@ -11178,6 +11388,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1899-2004",
+   "path": "ordin/finante/2004/1899",
+   "short": "Ordin finante nr. 1899/2004",
+   "title": "Ordinul nr. 1.899/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58348",
+   "versions": [
+    {
+     "from": "2005-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/58348",
+     "sha256": "999d446e43882dd039ac13d0791fa1a7a2659969b4208a62d17feea9f8396117"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1912-2004",
    "path": "ordin/finante/2004/1912",
    "short": "Ordin finante nr. 1912/2004",
@@ -11538,6 +11763,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-430-2004",
+   "path": "ordin/finante/2004/430",
+   "short": "Ordin finante nr. 430/2004",
+   "title": "Ordinul nr. 430/2004 pentru aprobarea Deciziei Comisiei fiscale centrale nr. 1 din 23 februarie 2004 privind aplicarea unor prevederi referitoare la taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50610",
+   "versions": [
+    {
+     "from": "2004-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50610",
+     "sha256": "f092a2998da4d47c0d3eb7ae64ce88ff53f9081fa7262037942dfb41ca10ee50"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-460-2004",
    "path": "ordin/finante/2004/460",
    "short": "Ordin finante nr. 460/2004",
@@ -11579,6 +11819,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51398",
      "sha256": "f159ae68f57b24c11e0915a647ca832d68357175467b78a07e2405c8fb922c38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-526-2004",
+   "path": "ordin/finante/2004/526",
+   "short": "Ordin finante nr. 526/2004",
+   "title": "Ordinul nr. 526/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51611",
+   "versions": [
+    {
+     "from": "2004-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/51611",
+     "sha256": "0cb6f9ccac6caac9f2a29b1f698c4ed60c8e1fa9f465dd1819b92c6125dba668"
     }
    ]
   },
@@ -11913,6 +12168,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-987-2004",
+   "path": "ordin/finante/2004/987",
+   "short": "Ordin finante nr. 987/2004",
+   "title": "Ordinul nr. 987/2004 pentru aprobarea Deciziei nr. 3/2004 a Comisiei fiscale centrale privind aplicarea unitară a unor prevederi referitoare la impozitul pe profit, taxa pe valoarea adăugată și accize",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53605",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53605",
+     "sha256": "d9f72db1ef5860dafd56c010fe780b2bbee23039d9a5e61e6b86dd16a1011fba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-functiepublica-700-2004",
    "path": "ordin/functiepublica/2004/700",
    "short": "Ordin functiepublica nr. 700/2004",
@@ -12224,6 +12494,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49277",
      "sha256": "d7013f7e5868df2f569aa0365dabd268b139970bf7706490c513f6f4de18dd60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-163-2004",
+   "path": "ordin/interne/2004/163",
+   "short": "Ordin interne nr. 163/2004",
+   "title": "Ordinul nr. 163/2004 privind constatarea și sancționarea abaterilor de la reglementările emise în domeniul gospodăririi localităților urbane și rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50905",
+   "versions": [
+    {
+     "from": "2004-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50905",
+     "sha256": "ec05f0c9ba18e66bd8f37a71a777116664f6751f2a29446b5d6122049f98346e"
     }
    ]
   },
@@ -12663,6 +12948,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2793-2004",
+   "path": "ordin/justitie/2004/2793",
+   "short": "Ordin justitie nr. 2793/2004",
+   "title": "Ordinul nr. 2.793/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56994",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/56994",
+     "sha256": "45f335c4d623b920d89e460fbe0ad9d12211d80617a9afcb076080aa79cdc48f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2794-2004",
    "path": "ordin/justitie/2004/2794",
    "short": "Ordin justitie nr. 2794/2004",
@@ -12809,6 +13109,36 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51588",
      "sha256": "b62df1b1e094297e9855c3cfd1a8c27fe70a2d462e64e9921f3b87b72ab48366"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-246-2004",
+   "path": "ordin/mediu/2004/246",
+   "short": "Ordin mediu nr. 246/2004",
+   "title": "Ordinul nr. 246/2004 pentru aprobarea clasificării peșterilor și sectoarelor de peșteri - arii naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54366",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54366",
+     "sha256": "725dd082386020d5f791fa32701ed5249649ec17ad2a33dbea9090f12eaa3357"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-253-2004",
+   "path": "ordin/mediu/2004/253",
+   "short": "Ordin mediu nr. 253/2004",
+   "title": "Ordinul nr. 253/2004 pentru aprobarea Regulamentului de organizare și funcționare a Comitetului interministerial și funcționarea comisiilor sectoriale interministeriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54408",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54408",
+     "sha256": "93d0364c97216b0bb4cf0286b89672c044dc11c4baba3fef8dcfc0cb55433428"
     }
    ]
   },
@@ -13023,6 +13353,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-781-2004",
+   "path": "ordin/mediu/2004/781",
+   "short": "Ordin mediu nr. 781/2004",
+   "title": "Ordinul nr. 781/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58031",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/58031",
+     "sha256": "f7be378c948981f07c4fd97d11a458eec8e42a0dc8fe2489c00e29de965dea6e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-876-2004",
    "path": "ordin/mediu/2004/876",
    "short": "Ordin mediu nr. 876/2004",
@@ -13143,6 +13488,21 @@
    ]
   },
   {
+   "slug": "ordin-metrologie-27-2004",
+   "path": "ordin/metrologie/2004/27",
+   "short": "Ordin metrologie nr. 27/2004",
+   "title": "Ordinul nr. 27/2004 pentru aprobarea Listei oficiale a mijloacelor de măsurare supuse controlului metrologic legal L.O. - 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50106",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50106",
+     "sha256": "de242f656054930e6a8ea6bdfc6b992bb1ab37372a9e7122515737200805dacf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-metrologie-276-2004",
    "path": "ordin/metrologie/2004/276",
    "short": "Ordin metrologie nr. 276/2004",
@@ -13169,6 +13529,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57734",
      "sha256": "bcab2d279b1c1baeebc52581fd902367397d5edbdb7d61af4bf9f12cff18b7bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-134-2004",
+   "path": "ordin/munca/2004/134",
+   "short": "Ordin munca nr. 134/2004",
+   "title": "Ordinul nr. 134/2004 privind modificarea și completarea Ordinului ministrului muncii și solidarității sociale nr. 340/2001 pentru aprobarea Normelor de aplicare a prevederilor Legii nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51067",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51067",
+     "sha256": "b6b745a2097288435aad762f1d0d28972d370b58dc06b7745f9af9f05e21244f"
     }
    ]
   },
@@ -13334,6 +13709,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53054",
      "sha256": "36c6bf98be1d73599160c621fbd44533a019ba07eb894823215ce3ccf4a6e1b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-30-2004",
+   "path": "ordin/munca/2004/30",
+   "short": "Ordin munca nr. 30/2004",
+   "title": "Ordinul nr. 30/2004 pentru aprobarea Procedurii privind declararea lunară de către angajatori a evidenței nominale a asiguraților și a obligațiilor de plată la bugetul asigurărilor pentru șomaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49551",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49551",
+     "sha256": "31b707335085114843dadf0186975e9862c2090573e512c68eb1a875fdd73983"
     }
    ]
   },
@@ -14253,6 +14643,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1178-2004",
+   "path": "ordin/sanatate/2004/1178",
+   "short": "Ordin sanatate nr. 1178/2004",
+   "title": "Ordinul nr. 1.178/2004 pentru aprobarea Normelor de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 152/1999 privind produsele medicamentoase de uz uman, aprobată cu modificări și completări prin Legea nr. 336/2002, cu modificările și completările ulterioare, referitoare la exceptarea de la etichetarea în limba română a medicamentelor din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55375",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55375",
+     "sha256": "ffa826e3b3973840d4dc38ada7d268fdff8ac9dfe96ec03f425276232b725810"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1179-2004",
    "path": "ordin/sanatate/2004/1179",
    "short": "Ordin sanatate nr. 1179/2004",
@@ -14448,6 +14853,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1236-2004",
+   "path": "ordin/sanatate/2004/1236",
+   "short": "Ordin sanatate nr. 1236/2004",
+   "title": "Ordinul nr. 1.236/2004 pentru aprobarea Regulilor de bună practică în studiul clinic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57206",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57206",
+     "sha256": "2228fb3ea8ed1f97af61b72f46c6bbfa8f17aa41085413d1536d4b968f52fc04"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1287-2004",
    "path": "ordin/sanatate/2004/1287",
    "short": "Ordin sanatate nr. 1287/2004",
@@ -14609,6 +15029,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57102",
      "sha256": "0f022763c90c3b50e10d000c6106ccc43829564a71478b40c0ebe39ea2f26bb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1443-2004",
+   "path": "ordin/sanatate/2004/1443",
+   "short": "Ordin sanatate nr. 1443/2004",
+   "title": "Ordinul nr. 1.443/2004 privind aprobarea Normelor de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 152/1999 privind produsele medicamentoase de uz uman, aprobată cu modificări și completări prin Legea nr. 336/2002, cu modificările și completările ulterioare, referitoare la exclusivitatea datelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56843",
+   "versions": [
+    {
+     "from": "2004-11-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56843",
+     "sha256": "f8f90beca055ae282d391024faa6f8907a67975b3a5eae7a3a1d46381a22201e"
     }
    ]
   },
@@ -14778,6 +15213,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1611-2004",
+   "path": "ordin/sanatate/2004/1611",
+   "short": "Ordin sanatate nr. 1611/2004",
+   "title": "Ordinul nr. 1.611/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58536",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58536",
+     "sha256": "7fd4924017adbc8bebb1fc46b1d176d260e7858455b866f7460c08be6c575dd4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1615-2004",
    "path": "ordin/sanatate/2004/1615",
    "short": "Ordin sanatate nr. 1615/2004",
@@ -14819,6 +15269,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57895",
      "sha256": "69c37270de4ffb1f771371940f112038b3f028012e8c3888e312cf64a37eb543"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1624-2004",
+   "path": "ordin/sanatate/2004/1624",
+   "short": "Ordin sanatate nr. 1624/2004",
+   "title": "Ordinul nr. 1.624/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57891",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/57891",
+     "sha256": "b4e72773fcc0c41795d8644240c28c875ed1f08805aa78240d4630aa14f41296"
     }
    ]
   },
@@ -16203,6 +16668,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-997-2004",
+   "path": "ordin/sanatate/2004/997",
+   "short": "Ordin sanatate nr. 997/2004",
+   "title": "Ordinul nr. 997/2004 privind modificarea și completarea Ordinului ministrului sănătății și familiei nr. 219/2002 pentru aprobarea Normelor tehnice privind gestionarea deșeurilor rezultate din activitățile medicale și a Metodologiei de culegere a datelor pentru baza națională de date privind deșeurile rezultate din activitățile medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54664",
+   "versions": [
+    {
+     "from": "2004-08-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54664",
+     "sha256": "45a8cb744c495f209f25dfca268b25eaf1b43a73673f4a4f9034077f86d3a54a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sport-190-2004",
    "path": "ordin/sport/2004/190",
    "short": "Ordin sport nr. 190/2004",
@@ -16263,6 +16743,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1077-2004",
+   "path": "ordin/transporturi/2004/1077",
+   "short": "Ordin transporturi nr. 1077/2004",
+   "title": "Ordinul nr. 1.077/2004 pentru modificarea alin. 3 al NUT 6 la art. 62.4.3 din Normele uniforme pentru aplicarea Regulamentului de transport pe căile ferate din România, aprobate prin Ordinul ministrului transporturilor nr. 746/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53243",
+   "versions": [
+    {
+     "from": "2004-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53243",
+     "sha256": "a8dadfd2273941a3b91fc6e95f5dd4238875e592cf8178a38db12a2129091b6c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1085-2004",
    "path": "ordin/transporturi/2004/1085",
    "short": "Ordin transporturi nr. 1085/2004",
@@ -16289,6 +16784,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54739",
      "sha256": "9b2c0afef374a653d9a956b53ca254e4d6a7ff9d6de981d55eefada96115cdc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1172-2004",
+   "path": "ordin/transporturi/2004/1172",
+   "short": "Ordin transporturi nr. 1172/2004",
+   "title": "Ordinul nr. 1.172/2004 pentru aprobarea Regulamentului privind standardele de instruire, confirmarea competentei și eliberarea brevetelor și a certificatelor de capacitate pentru personalul navigant maritim",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55277",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55277",
+     "sha256": "b87ba08ea0e66f9e4d8ab618a987caf71f7a177fc2f4268b54ea68d7365b0120"
     }
    ]
   },
@@ -16473,6 +16983,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-2-2004",
+   "path": "ordin/transporturi/2004/2",
+   "short": "Ordin transporturi nr. 2/2004",
+   "title": "Ordinul nr. 2/2004 privind instituirea unor măsuri de creștere a siguranței navigației pentru navele maritime de categoria I mai vechi de 20 de ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49048",
+   "versions": [
+    {
+     "from": "2004-01-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49048",
+     "sha256": "74b80c8965284ccd9c3a61ea2625eaac79f276f0090f07b009e40ec3e957b0dd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-2004-2004",
    "path": "ordin/transporturi/2004/2004",
    "short": "Ordin transporturi nr. 2004/2004",
@@ -16484,6 +17009,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56472",
      "sha256": "fb438ff58e79035991fb1494f3fac46dd05e208f03b9fb5f48f01d86664e9ee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2024-2004",
+   "path": "ordin/transporturi/2004/2024",
+   "short": "Ordin transporturi nr. 2024/2004",
+   "title": "Ordinul nr. 2.024/2004 privind furnizarea forței de muncă de rezervă, în Portul Constanța, de către Agenția pentru Ocuparea și Formarea Profesională a Muncitorilor Portuari - Port Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56839",
+   "versions": [
+    {
+     "from": "2004-11-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56839",
+     "sha256": "81daba30ad489e45a375c461d8268004b5e9649136b49b295becc6975b733833"
     }
    ]
   },
@@ -16634,6 +17174,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57511",
      "sha256": "58ab60970ae97153ccc2194485475ef81dc0ed2060bcb5c5fd7de273e449c5a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2185-2004",
+   "path": "ordin/transporturi/2004/2185",
+   "short": "Ordin transporturi nr. 2185/2004",
+   "title": "Ordinul nr. 2.185/2004 pentru modificarea și completarea Ordinului ministrului transporturilor nr. 761/1999 privind desemnarea, pregătirea și atestarea profesională a persoanelor care conduc permanent și efectiv activități de transport rutier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57483",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57483",
+     "sha256": "54c6bc6d41b187875ea40cfce4eea50832ee207b9f5e98f5a2bb87afb74a92d5"
     }
    ]
   },
@@ -17084,6 +17639,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49086",
      "sha256": "dd97fd9974b9d9cb4017de28d3927153339c7dd30bfaa3a96305bb9509a09f5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-781-2004",
+   "path": "ordin/transporturi/2004/781",
+   "short": "Ordin transporturi nr. 781/2004",
+   "title": "Ordinul nr. 781/2004 privind constatarea contravențiilor și aplicarea sancțiunilor prevăzute la art. 8 din Ordonanța Guvernului nr. 15/2002 privind introducerea tarifului de utilizare a rețelei de drumuri naționale din România, aprobată cu modificări și completări prin Legea nr. 424/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51752",
+   "versions": [
+    {
+     "from": "2004-05-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51752",
+     "sha256": "67f6c5302b013cf19149dbe311fc0a5ed9387d0cf7ae6f52490b0b6e31896e52"
     }
    ]
   },
@@ -17819,6 +18389,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51949",
      "sha256": "c9cf9f0b9d25929acba52aea969f61a9e006850c0cf46c81d9aa894453a26461"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1840-2004",
+   "path": "ordin/bnr/2004/1840",
+   "short": "Ordin bnr nr. 1840/2004",
+   "title": "Ordinul nr. 1.840/2004 pentru aprobarea Precizărilor referitoare la unele măsuri care trebuie luate pentru punerea în aplicare a Legii nr. 348/2004 privind denominarea monedei naționale",
+   "url": "https://www.bnr.ro/19555-ordin-1840-2004",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 6,
+     "source_url": "https://www.bnr.ro/19555-ordin-1840-2004",
+     "sha256": "964f5712f73044754b2e961b4ee45b7c2143783d7a3c7a590523f38ffd169896"
     }
    ]
   },

@@ -3,6 +3,21 @@
  "shard": "ordin/2012",
  "acts": [
   {
+   "slug": "ordin-achizitii-136-2012",
+   "path": "ordin/achizitii/2012/136",
+   "short": "Ordin achizitii nr. 136/2012",
+   "title": "Ordinul nr. 136/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137142",
+   "versions": [
+    {
+     "from": "2012-04-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/137142",
+     "sha256": "1b0f1da54804bd2c300c0f901f55aadd2e91edd9a108254d314e9ba5b0988f37"
+    }
+   ]
+  },
+  {
    "slug": "ordin-achizitii-138-2012",
    "path": "ordin/achizitii/2012/138",
    "short": "Ordin achizitii nr. 138/2012",
@@ -4758,6 +4773,21 @@
    ]
   },
   {
+   "slug": "ordin-concurenta-1098-2012",
+   "path": "ordin/concurenta/2012/1098",
+   "short": "Ordin concurenta nr. 1098/2012",
+   "title": "Ordinul nr. 1.098/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143404",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/143404",
+     "sha256": "d9c4d51594d67b5ad18343e5afc6579c11fd819bc0112e889f2074c8dfe7d4bb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-1155-2012",
    "path": "ordin/concurenta/2012/1155",
    "short": "Ordin concurenta nr. 1155/2012",
@@ -6288,6 +6318,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3696-2012",
+   "path": "ordin/educatie/2012/3696",
+   "short": "Ordin educatie nr. 3696/2012",
+   "title": "Ordinul nr. 3.696/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137371",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137371",
+     "sha256": "8eca659f9dc4e81ea027e4560f8ea51b58346d9ab93b9f9222c1dc2a7028cb20"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3720-2012",
    "path": "ordin/educatie/2012/3720",
    "short": "Ordin educatie nr. 3720/2012",
@@ -6708,6 +6753,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4613-2012",
+   "path": "ordin/educatie/2012/4613",
+   "short": "Ordin educatie nr. 4613/2012",
+   "title": "Ordinul nr. 4.613/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139589",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/139589",
+     "sha256": "b1f7dfccc9b945868d03e155ac8991178f6cb4ba3061a3280578151e78c8256c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4616-2012",
    "path": "ordin/educatie/2012/4616",
    "short": "Ordin educatie nr. 4616/2012",
@@ -6828,6 +6888,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4970-2012",
+   "path": "ordin/educatie/2012/4970",
+   "short": "Ordin educatie nr. 4970/2012",
+   "title": "Ordinul nr. 4.970/2012 privind alocarea granturilor doctorale în vederea admiterii la studii universitare de doctorat în anul universitar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140565",
+   "versions": [
+    {
+     "from": "2012-08-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140565",
+     "sha256": "e222ad2f8ff502ad0965c509f3ba5d69b5c0236789622a619f1115d631d24bf5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5223-2012",
    "path": "ordin/educatie/2012/5223",
    "short": "Ordin educatie nr. 5223/2012",
@@ -6914,6 +6989,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141278",
      "sha256": "521830299d4de9729a4d3cf0ab1796d77079efa94b7e28ed6ffebff100dfac72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5610-2012",
+   "path": "ordin/educatie/2012/5610",
+   "short": "Ordin educatie nr. 5610/2012",
+   "title": "Ordinul nr. 5.610/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144609",
+   "versions": [
+    {
+     "from": "2013-01-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/144609",
+     "sha256": "9ca678a1dd5b8c18d04db2f88d8efc6a6e7f1c0e043e81e590bfca52cadd0bb2"
     }
    ]
   },
@@ -7439,6 +7529,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144819",
      "sha256": "d66a19a7917ae15c1cf50333daadbcc9ad2e726b75cca0fa7280e8453f9db59e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6584-2012",
+   "path": "ordin/educatie/2012/6584",
+   "short": "Ordin educatie nr. 6584/2012",
+   "title": "Ordinul nr. 6.584/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144918",
+   "versions": [
+    {
+     "from": "2013-01-24",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144918",
+     "sha256": "9318b6957f5d61e6db89d163b7151dd1d8cb775a6a559390062718b5d0e07e78"
     }
    ]
   },
@@ -9783,6 +9888,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2465-c-2012",
+   "path": "ordin/justitie/2012/2465-c",
+   "short": "Ordin justitie nr. 2465/C/2012",
+   "title": "Ordinul nr. 2.465/C/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140050",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/140050",
+     "sha256": "317e96be1b72c1576b365446b629916f69aba6ea72c5114b2ce5bef3916b1e9b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2534-c-2012",
    "path": "ordin/justitie/2012/2534-c",
    "short": "Ordin justitie nr. 2534/C/2012",
@@ -10173,6 +10293,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1355-2012",
+   "path": "ordin/mediu/2012/1355",
+   "short": "Ordin mediu nr. 1355/2012",
+   "title": "Ordinul nr. 1.355/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137924",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137924",
+     "sha256": "48306ce5097c0697be953259250ff834f79067979aaffcb5f79423192565e7f2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1422-2012",
    "path": "ordin/mediu/2012/1422",
    "short": "Ordin mediu nr. 1422/2012",
@@ -10278,6 +10413,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-2630-2012",
+   "path": "ordin/mediu/2012/2630",
+   "short": "Ordin mediu nr. 2630/2012",
+   "title": "Ordinul nr. 2.630/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140853",
+   "versions": [
+    {
+     "from": "2012-08-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140853",
+     "sha256": "54d6cf99e940b416d9bbd8218dd7d019a7cebc2910e972d1f9f58f1e678e3008"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-2681-2012",
    "path": "ordin/mediu/2012/2681",
    "short": "Ordin mediu nr. 2681/2012",
@@ -10364,6 +10514,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141406",
      "sha256": "39725fe8a2593864f38dcb05c1e9e1721bbfda99555bfbe0e7d75ccccd4a6ea0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3299-2012",
+   "path": "ordin/mediu/2012/3299",
+   "short": "Ordin mediu nr. 3299/2012",
+   "title": "Ordinul nr. 3.299/2012 pentru aprobarea metodologiei de realizare și raportare a inventarelor privind emisiile de poluanți în atmosferă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141913",
+   "versions": [
+    {
+     "from": "2012-10-11",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/141913",
+     "sha256": "e7cd5a70fed9e1517a711faffc9b47d794d2534998aa0e20a9fdb2abb7e1499e"
     }
    ]
   },
@@ -10499,6 +10664,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142969",
      "sha256": "c69fe80e27276c8dddc52dbaa319e810b215b2260d90ec4721d4ac9c6b54456c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-3836-2012",
+   "path": "ordin/mediu/2012/3836",
+   "short": "Ordin mediu nr. 3836/2012",
+   "title": "Ordinul nr. 3.836/2012 privind aprobarea Metodologiei de avizare a tarifelor instituite de către administratorii/custozii ariilor naturale protejate pentru vizitarea ariilor naturale protejate, pentru analizarea documentațiilor și eliberarea de avize conform legii, pentru fotografiatul și filmatul în scop comercial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195311",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/195311",
+     "sha256": "b3aba09fcb3676c7f108d515ffd861acd7a67abee9e24105c850f555a5611a0d"
     }
    ]
   },
@@ -11598,6 +11778,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1248-2012",
+   "path": "ordin/sanatate/2012/1248",
+   "short": "Ordin sanatate nr. 1248/2012",
+   "title": "Ordinul nr. 1.248/2012 pentru aprobarea Regulamentului de organizare și funcționare al Spitalului Clinic Județean de Urgență \"Sf. Spiridon\" Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144421",
+   "versions": [
+    {
+     "from": "2013-01-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144421",
+     "sha256": "86f6a1ce3eceafa900eeea445066492a5c1882d76d0a412e7ede7f429b1af366"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1264-2012",
    "path": "ordin/sanatate/2012/1264",
    "short": "Ordin sanatate nr. 1264/2012",
@@ -11898,6 +12093,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1705-2012",
+   "path": "ordin/sanatate/2012/1705",
+   "short": "Ordin sanatate nr. 1705/2012",
+   "title": "Ordinul nr. 1.705/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137225",
+   "versions": [
+    {
+     "from": "2012-04-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137225",
+     "sha256": "6a09f66ccf6bcb8293bc47e53b28d5545c13bb76f3f4d69320bbc1ba0eb4f2c1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-180-2012",
    "path": "ordin/sanatate/2012/180",
    "short": "Ordin sanatate nr. 180/2012",
@@ -11984,6 +12194,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136661",
      "sha256": "8801c75418c53a519e191ba3b28f4c6194bf5469207cfeb98cc29e9a07e65410"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-272-2012",
+   "path": "ordin/sanatate/2012/272",
+   "short": "Ordin sanatate nr. 272/2012",
+   "title": "Ordinul nr. 272/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136834",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/136834",
+     "sha256": "8a8c29c899dba8614d8b15734b878cc0eac129971b4ba9d754c85340a3ca2326"
     }
    ]
   },
@@ -12768,6 +12993,21 @@
    ]
   },
   {
+   "slug": "ordin-sri-1403-2012",
+   "path": "ordin/sri/2012/1403",
+   "short": "Ordin sri nr. 1403/2012",
+   "title": "Ordinul nr. 1.403/2012 pentru aprobarea Programului de restructurare a Regiei Autonome RASIROM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136478",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136478",
+     "sha256": "b0c0aa81371408c5b8149b8d821ba8bb91fe65c17d1e6bc9a3fd0bc48ba4c394"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sri-405-2012",
    "path": "ordin/sri/2012/405",
    "short": "Ordin sri nr. 405/2012",
@@ -12839,6 +13079,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138909",
      "sha256": "eb56d672a0de53a943c8c71adea0196c06477c7e81e40f82452637a0b0a15b94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1025-2012",
+   "path": "ordin/transporturi/2012/1025",
+   "short": "Ordin transporturi nr. 1025/2012",
+   "title": "Ordinul nr. 1.025/2012 pentru aprobarea reglementării tehnice \"Normativ privind prevenirea și combaterea înzăpezirii drumurilor publice\", indicativ AND 525-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134938",
+   "versions": [
+    {
+     "from": "2012-03-03",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134938",
+     "sha256": "a104ffe3d74ca6b44b4eb13dec474dbedb3eea944d0973fa23a11cb88de36eb5"
     }
    ]
   },
@@ -13758,6 +14013,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-42-2012",
+   "path": "ordin/transporturi/2012/42",
+   "short": "Ordin transporturi nr. 42/2012",
+   "title": "Ordinul nr. 42/2012 pentru modificarea și completarea Reglementărilor privind certificarea încadrării vehiculelor rutiere înmatriculate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1, aprobate prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135440",
+   "versions": [
+    {
+     "from": "2012-02-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/135440",
+     "sha256": "a6c41d983cc3b36b3d87b50d222a9f2d2f28dc17f7f2f6838bf9cd81b3f04d71"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-450-2012",
    "path": "ordin/transporturi/2012/450",
    "short": "Ordin transporturi nr. 450/2012",
@@ -14193,6 +14463,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-6-2012",
+   "path": "ordin/bnr/2012/6",
+   "short": "Ordin bnr nr. 6/2012",
+   "title": "Ordinul nr. 6/2012",
+   "url": "https://www.bnr.ro/19328-ordin-6-2012",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/19328-ordin-6-2012",
+     "sha256": "09299a4c73b2caf7a17764f9d269f34efe923203ebbfc589d7bdb3b013c94c45"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-605-2012",
    "path": "ordin/bnr/2012/605",
    "short": "Ordin bnr nr. 605/2012",
@@ -14249,6 +14534,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139708",
      "sha256": "2dc581facd7a86b1776365c0fd46a4bdcdc3d3dd18766bb0d45a7ad4290fe8c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-7-2012",
+   "path": "ordin/bnr/2012/7",
+   "short": "Ordin bnr nr. 7/2012",
+   "title": "Ordinul nr. 7/2012",
+   "url": "https://www.bnr.ro/20047-ordin-7-2012",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/20047-ordin-7-2012",
+     "sha256": "4c51c879aa70a10b63827bc40ab9b8d59d665bebf61e6dfe19b5a1a9dd35d820"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-729-2012",
+   "path": "ordin/bnr/2012/729",
+   "short": "Ordin bnr nr. 729/2012",
+   "title": "Ordinul nr. 729/2012 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale ROMANIAN LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/20010-ordin-729-2012",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20010-ordin-729-2012",
+     "sha256": "a42efdd168b0aa4bdf3fcb538c1afd3dc803388614bd80a725a4d27741f60b3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-730-2012",
+   "path": "ordin/bnr/2012/730",
+   "short": "Ordin bnr nr. 730/2012",
+   "title": "Ordinul nr. 730/2012",
+   "url": "https://www.bnr.ro/19893-ordin-730-2012",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19893-ordin-730-2012",
+     "sha256": "cbde19141d3407105cec12bd519856f4393d3b741f0d9bc216ae6b68303b6941"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-731-2012",
+   "path": "ordin/bnr/2012/731",
+   "short": "Ordin bnr nr. 731/2012",
+   "title": "Ordinul nr. 731/2012 privind dispunerea radierii din registrele general și special ale instituțiilor financiare nebancare a Societății Comerciale IMMOCONSULT LEASING ROMANIA IFN - S.A",
+   "url": "https://www.bnr.ro/19708-ordin-731-2012",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19708-ordin-731-2012",
+     "sha256": "cd6deb2aa0cff4e717e0b15f34fa46aa7e0eb27d8348d93d6810590acc5e9480"
     }
    ]
   },

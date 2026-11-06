@@ -196,6 +196,36 @@
      "sha256": "029c2f71e09fc220e73777641cb8d4c1e5a5ac0b15afdc0b2cde1a8c1dc4ce75"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-2-2007",
+   "path": "regulament/bnr/2007/2",
+   "short": "Regulament bnr nr. 2/2007",
+   "title": "Regulamentul nr. 2/2007",
+   "url": "https://www.bnr.ro/19552-regulament-2-2007",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19552-regulament-2-2007",
+     "sha256": "6f73a4cbbef0ee2333b1907247cc99cd1485079e40fe08d2022adbdc25130410"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2007",
+   "path": "regulament/bnr/2007/6",
+   "short": "Regulament bnr nr. 6/2007",
+   "title": "Regulamentul nr. 6/2007 privind completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/19/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării standard",
+   "url": "https://www.bnr.ro/20523-regulament-6-2007",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/20523-regulament-6-2007",
+     "sha256": "92a7ae31177bddece0d79b7d75bc07f9d775fe7cc98c3b51fb473bffccd35cae"
+    }
+   ]
   }
  ]
 }

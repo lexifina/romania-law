@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "regulament-bnr-11-2006",
+   "path": "regulament/bnr/2006/11",
+   "short": "Regulament bnr nr. 11/2006",
+   "title": "Regulamentul nr. 11/2006 privind circuitul instrumentelor de plată de debit",
+   "url": "https://www.bnr.ro/21158-regulament-11-2006",
+   "versions": [
+    {
+     "from": "2006-12-27",
+     "units": 10,
+     "source_url": "https://www.bnr.ro/21158-regulament-11-2006",
+     "sha256": "ecfee8887f69d53f739a4ad16eeddcd7a5cc706808784987414c806e430cbbe2"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-13-2006",
    "path": "regulament/bnr/2006/13",
    "short": "Regulament bnr nr. 13/2006",
@@ -389,6 +404,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78955",
      "sha256": "6e2400dcb8577f8b87d59a62843c16be535962c588748420adc50a89f0aeccea"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-20-2006",
+   "path": "regulament/bnr/2006/20",
+   "short": "Regulament bnr nr. 20/2006",
+   "title": "Regulamentul nr. 20/2006 privind tratamentul riscului de credit al contrapartidei în cazul instrumentelor financiare derivate, al tranzacțiilor de răscumpărare, al operațiunilor de dare/luare de titluri/mărfuri cu împrumut, al tranzacțiilor cu termen lung de decontare și al tranzacțiilor de creditare în marjă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112154",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 91,
+     "source_url": "https://www.bnr.ro/20308-regulament-20-2006",
+     "sha256": "b2588e804c3d54a367eb5a1b3f010c34f55fa2c9516a2753cf2b2220cd0089af"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-21-2006",
+   "path": "regulament/bnr/2006/21",
+   "short": "Regulament bnr nr. 21/2006",
+   "title": "Regulamentul nr. 21/2006 privind tratamentul riscului de credit aferent expunerilor securitizate și al pozițiilor din securitizare",
+   "url": "https://www.bnr.ro/21672-regulament-21-2006",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21672-regulament-21-2006",
+     "sha256": "7eb6eecbd2472d4cd77297a93f23e037de2d58756abd6e96d561bd954b65d557"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-23-2006",
+   "path": "regulament/bnr/2006/23",
+   "short": "Regulament bnr nr. 23/2006",
+   "title": "Regulamentul nr. 23/2006 privind criteriile tehnice referitoare la organizarea și tratamentul riscurilor, precum și criteriile tehnice utilizate de autoritățile competente pentru verificarea și evaluarea acestora",
+   "url": "https://www.bnr.ro/20314-regulament-23-2006",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20314-regulament-23-2006",
+     "sha256": "bcdce9c5801a86d6a7683b686a7c4bdf72b7d629686b34384d9d1b7988e3cf8c"
     }
    ]
   },

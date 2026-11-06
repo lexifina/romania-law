@@ -3,6 +3,21 @@
  "shard": "circulara/1996",
  "acts": [
   {
+   "slug": "circulara-bnr-1-1996",
+   "path": "circulara/bnr/1996/1",
+   "short": "Circulara bnr nr. 1/1996",
+   "title": "Circulara nr. 1/1996 pentru modificarea Regulamentului nr. 3/1995 privind condițiile și modul de efectuare a refinanțării societăților bancare de către Banca Națională a României",
+   "url": "https://www.bnr.ro/21349-circulara-1-1996",
+   "versions": [
+    {
+     "from": "1996-01-15",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/21349-circulara-1-1996",
+     "sha256": "b67258fe13c5c2fa8c7b7e7265dad5ffa0ee83c06aa05511689a5d0b09c9ea0f"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-11-1996",
    "path": "circulara/bnr/1996/11",
    "short": "Circulara bnr nr. 11/1996",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7874",
      "sha256": "5e7d63c899ad19d3a8540f7f47c102a7164a51425753e69e160a8db0750e9ef1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-1996",
+   "path": "circulara/bnr/1996/12",
+   "short": "Circulara bnr nr. 12/1996",
+   "title": "Circulara nr. 12/1996 privind rezervele obligatorii ale societăților bancare la Banca Națională a României",
+   "url": "https://www.bnr.ro/20991-circulara-12-1996",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20991-circulara-12-1996",
+     "sha256": "7b0c2484bd18d22ea89c83ba031cfd71a0c778c67c7561cf881c47dfad9c8860"
     }
    ]
   },
@@ -44,6 +74,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7920",
      "sha256": "4665dd76ab42ea214b49f84a04cfc2e946b34a0cfcc2cdb975d0a54dfc7f064f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-1996",
+   "path": "circulara/bnr/1996/16",
+   "short": "Circulara bnr nr. 16/1996",
+   "title": "Circulara nr. 16/1996 privind intrarea în vigoare a Normelor metodologice ale Ministerului Finanțelor și ale Băncii Naționale a României nr. 16.144/18/1995",
+   "url": "https://www.bnr.ro/20557-circulara-16-1996",
+   "versions": [
+    {
+     "from": "1996-07-29",
+     "units": 4,
+     "source_url": "https://www.bnr.ro/20557-circulara-16-1996",
+     "sha256": "9417c4e3e36d610447d93744f5415aea80afe9e450eaf5c3b1dcfb85b67a3b24"
     }
    ]
   },
@@ -194,6 +239,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8097",
      "sha256": "bc5e2da9693810aee594e330ebca923ca7d222aa78806d522b60c395799986ac"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-1996",
+   "path": "circulara/bnr/1996/3",
+   "short": "Circulara bnr nr. 3/1996",
+   "title": "Circulara nr. 3/1996 privind modificarea anexei nr. 3 - Norme privind funcționarea pieței valutare interbancare - la Regulamentul privind efectuarea operațiunilor valutare, publicat în Monitorul Oficial al României, Partea I, nr. 263 din 19 septembrie 1994",
+   "url": "https://www.bnr.ro/19120-circulara-3-1996",
+   "versions": [
+    {
+     "from": "1996-03-05",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19120-circulara-3-1996",
+     "sha256": "9190a035d564be918aad559fc3c4c46d282557e1e1edf4c282706abf670aefad"
     }
    ]
   },

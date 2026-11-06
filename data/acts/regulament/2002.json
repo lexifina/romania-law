@@ -98,6 +98,25 @@
 "joint": []
 },
 {
+"slug": "regulament-bnr-15-2002",
+"path": "regulament/bnr/2002/15",
+"kind": "regulament",
+"year": "2002",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 15/2002 privind operațiunile cu titluri de stat",
+"short": "Regulament bnr nr. 15/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-06-04",
+"latest": "2002-06-04",
+"portal": "https://www.bnr.ro/21814-regulament-15-2002",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-1-2002",
 "path": "regulament/cnvm/2002/1",
 "kind": "regulament",

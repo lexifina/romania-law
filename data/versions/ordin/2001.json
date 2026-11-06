@@ -633,6 +633,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-269-2001",
+   "path": "ordin/agricultura/2001/269",
+   "short": "Ordin agricultura nr. 269/2001",
+   "title": "Ordinul nr. 269/2001 pentru aprobarea Catalogului național al surselor pentru materiale forestiere de reproducere din România - 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29974",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29974",
+     "sha256": "851e20ec394bcc032e5235100352bcfe74fc4912d2c89a4a912bf4b61eeefa2c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-277-2001",
    "path": "ordin/agricultura/2001/277",
    "short": "Ordin agricultura nr. 277/2001",
@@ -914,6 +929,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32025",
      "sha256": "c83b8487b6b2563f3e5d57c9581005655ff6d3c75b0e05f8a1e69625fc3cad32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-376-2001",
+   "path": "ordin/agricultura/2001/376",
+   "short": "Ordin agricultura nr. 376/2001",
+   "title": "Ordinul nr. 376/2001 privind punctele de trecere a frontierei stabilite pentru importul, exportul și tranzitul tipurilor de mărfuri supuse controalelor veterinare și structura organizatorică a inspectoratelor de poliție sanitară veterinara de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33907",
+   "versions": [
+    {
+     "from": "2002-03-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33907",
+     "sha256": "bc16c16bce896c9c997c1db80c8afdfca08ec003ad5500f8dc4ffa432514d381"
     }
    ]
   },
@@ -1589,6 +1619,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32731",
      "sha256": "667f5b878cd98b4c483cc477a74f494f54b185f1b2265c93f0ca1c48f6509193"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-537-2001",
+   "path": "ordin/ancpi/2001/537",
+   "short": "Ordin ancpi nr. 537/2001",
+   "title": "Ordinul nr. 537/2001 pentru aprobarea Regulamentului privind controlul activității persoanelor fizice și juridice autorizate să realizeze și sa verifice lucrări de specialitate în domeniile cadastrului, geodeziei și cartografiei pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32735",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32735",
+     "sha256": "6057ac0b70cfd3d9de99280d6f83071712edb8a87acb0265a19add25fc3a8c76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-539-2001",
+   "path": "ordin/ancpi/2001/539",
+   "short": "Ordin ancpi nr. 539/2001",
+   "title": "Ordinul nr. 539/2001 pentru aprobarea Regulamentului de avizare a lucrărilor de cadastru, geodezie, cartografie, fotogrammetrie și teledetecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32737",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32737",
+     "sha256": "ebd35dee1e8907e8ac2f54b934436b69801e4fc0b972b947362a797f981d41fd"
     }
    ]
   },
@@ -2388,6 +2448,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-95-2001",
+   "path": "ordin/anrm/2001/95",
+   "short": "Ordin anrm nr. 95/2001",
+   "title": "Ordinul nr. 95/2001 privind tarifele percepute pentru exploatarea Sistemului național de transport al țițeiului, gazolinei, condensatului și etanului lichid",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29025",
+   "versions": [
+    {
+     "from": "2001-06-15",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29025",
+     "sha256": "f3bde5f61b7c2269096539748284a5171710e544c372e76d4be03582aef67a6e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-96-2001",
    "path": "ordin/anrm/2001/96",
    "short": "Ordin anrm nr. 96/2001",
@@ -2478,6 +2553,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-332-2001",
+   "path": "ordin/cnas/2001/332",
+   "short": "Ordin cnas nr. 332/2001",
+   "title": "Ordinul nr. 332/2001 pentru aprobarea Normelor metodologice privind procedura și competentele de acordare a înlesnirilor la plata obligațiilor la Fondul de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29902",
+   "versions": [
+    {
+     "from": "2001-07-31",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29902",
+     "sha256": "e3218a4dcb0886be52fa7fcc8c711263cd4eaf954e4f1a8f91d6dcf602ef5799"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-367-2001",
    "path": "ordin/cnas/2001/367",
    "short": "Ordin cnas nr. 367/2001",
@@ -2519,6 +2609,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29166",
      "sha256": "8319b2b564b3981a26ca10d4b0939e21edf79923cc28a463b2916f29bd6def02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-450-2001",
+   "path": "ordin/cnas/2001/450",
+   "short": "Ordin cnas nr. 450/2001",
+   "title": "Ordinul nr. 450/2001 privind organizarea și finanțarea programelor de sănătate în anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30413",
+   "versions": [
+    {
+     "from": "2001-08-31",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30413",
+     "sha256": "43f43db8290ae8a82089e4c88ec8c4379f0f4b8eca129a4d2d5667b5ab280731"
     }
    ]
   },
@@ -2853,6 +2958,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-260-2001",
+   "path": "ordin/comunicatii/2001/260",
+   "short": "Ordin comunicatii nr. 260/2001",
+   "title": "Ordinul nr. 260/2001 privind prelungirea termenului de valabilitate a autorizațiilor tehnice de funcționare a stațiilor de radiocomunicații care funcționează în banda de frecvențe 26.960-27.410 kHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29541",
+   "versions": [
+    {
+     "from": "2001-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29541",
+     "sha256": "1e8a558fd0e2fd17e451b2482875342094cccc457977f399f77a039123425c99"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-263-2001",
    "path": "ordin/comunicatii/2001/263",
    "short": "Ordin comunicatii nr. 263/2001",
@@ -3074,6 +3194,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33479",
      "sha256": "557906e86b67cd5ce15190a422e814d01de890af819b701e27ee390477ed76c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-14-2001",
+   "path": "ordin/csa/2001/14",
+   "short": "Ordin csa nr. 14/2001",
+   "title": "Ordinul nr. 14/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33508",
+   "versions": [
+    {
+     "from": "2002-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/33508",
+     "sha256": "79c9fb0f210caf8a65fd8cae1f0704f9f9a4c5f01071ef8fd53914c0bf31c273"
     }
    ]
   },
@@ -3453,6 +3588,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1496-2001",
+   "path": "ordin/dezvoltare/2001/1496",
+   "short": "Ordin dezvoltare nr. 1496/2001",
+   "title": "Ordinul nr. 1.496/2001 pentru modificarea Ordinului ministrului transporturilor nr. 319/1999 privind definirea și folosirea specificațiilor tehnice compatibile în vederea procurării echipamentelor și sistemelor pentru managementul traficului aerian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32973",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32973",
+     "sha256": "49fdac3cad41a5053858eff76146004117b84ddc0b6f3616ec97b9eb961f4f15"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-150-2001",
    "path": "ordin/dezvoltare/2001/150",
    "short": "Ordin dezvoltare nr. 150/2001",
@@ -3678,6 +3828,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-1938-2001",
+   "path": "ordin/dezvoltare/2001/1938",
+   "short": "Ordin dezvoltare nr. 1938/2001",
+   "title": "Ordinul nr. 1.938/2001 pentru aprobarea Reglementărilor privind condițiile tehnice pe care trebuie să le îndeplinească vehiculele rutiere în vederea admiterii în circulație pe drumurile publice din România - RNTR 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35366",
+   "versions": [
+    {
+     "from": "2002-04-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35366",
+     "sha256": "c85e3ff95f6273aa1bb6ea9e8c966bebc84006a999792abf4719a5b8d70ccc7a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1939-2001",
    "path": "ordin/dezvoltare/2001/1939",
    "short": "Ordin dezvoltare nr. 1939/2001",
@@ -3888,6 +4053,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-538-2001",
+   "path": "ordin/dezvoltare/2001/538",
+   "short": "Ordin dezvoltare nr. 538/2001",
+   "title": "Ordinul nr. 538/2001 pentru aprobarea Regulamentului privind autorizarea persoanelor fizice și juridice care pot sa realizeze și sa verifice lucrări de specialitate în domeniile cadastrului, geodeziei și cartografiei pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31947",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31947",
+     "sha256": "b77a910a6455b60f3232e4e04076193e0d44dceba93829f0408ef7caf51077cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-591-2001",
    "path": "ordin/dezvoltare/2001/591",
    "short": "Ordin dezvoltare nr. 591/2001",
@@ -4083,6 +4263,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-145-2001",
+   "path": "ordin/economie/2001/145",
+   "short": "Ordin economie nr. 145/2001",
+   "title": "Ordinul nr. 145/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28622",
+   "versions": [
+    {
+     "from": "2001-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/28622",
+     "sha256": "f3022c82d2fc7a25067844770ea5b3d2d9295b06cb54916e7e3ebbce65967845"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-15-2001",
    "path": "ordin/economie/2001/15",
    "short": "Ordin economie nr. 15/2001",
@@ -4169,6 +4364,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30575",
      "sha256": "d287eca027a0421a35e086129391f8f27e486efbe8b1fcf698996001b13c9b93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-272-2001",
+   "path": "ordin/economie/2001/272",
+   "short": "Ordin economie nr. 272/2001",
+   "title": "Ordinul nr. 272/2001 privind unele măsuri de aplicare etapizata în traficul intern a prevederilor Acordului european referitor la transportul internațional al mărfurilor periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30772",
+   "versions": [
+    {
+     "from": "2001-09-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30772",
+     "sha256": "080df119504d8e8876a38bbc251f464321a1bd2adc15c334ae12c12f3bc8415c"
     }
    ]
   },
@@ -4334,6 +4544,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33206",
      "sha256": "d86b6988162897da3d6ab1d7605df25c22d956510867946ad1c890a7f7084433"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-399-2001",
+   "path": "ordin/economie/2001/399",
+   "short": "Ordin economie nr. 399/2001",
+   "title": "Ordinul nr. 399/2001 privind metodele de analiza a compoziției produselor cosmetice în vederea controlului calității acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34698",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34698",
+     "sha256": "3fc1c8e521abd0319730ab007de92f852d0a380cdfff37083d624f3df95dead9"
     }
    ]
   },
@@ -4713,6 +4938,21 @@
    ]
   },
   {
+   "slug": "ordin-exporturi-161-2001",
+   "path": "ordin/exporturi/2001/161",
+   "short": "Ordin exporturi nr. 161/2001",
+   "title": "Ordinul nr. 161/2001 privind supunerea unui produs, care nu figurează în listele cuprinzând produsele strategice, regimului de control prevăzut de Ordonanța de urgență a Guvernului nr. 158/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31928",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31928",
+     "sha256": "867883d7a2b510302c1fb30ada0413b8441240b2e0717fd7743e6f1509612904"
+    }
+   ]
+  },
+  {
    "slug": "ordin-exporturi-176-2001",
    "path": "ordin/exporturi/2001/176",
    "short": "Ordin exporturi nr. 176/2001",
@@ -5009,6 +5249,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29798",
      "sha256": "fd657bd52507a6e37f3bccc14783de6e482ebe7d8cb6b686051d358e07c82fe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1415-2001",
+   "path": "ordin/finante/2001/1415",
+   "short": "Ordin finante nr. 1415/2001",
+   "title": "Ordinul nr. 1.415/2001 privind intrarea în vigoare a Acordului dintre România și Australia pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și a Protocolului anexat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29976",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29976",
+     "sha256": "385f0ac7dccae3ae515c0f778b3bfa05ee494beea83c1297c744f1b33f665aa5"
     }
    ]
   },
@@ -5433,6 +5688,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1985-2001",
+   "path": "ordin/finante/2001/1985",
+   "short": "Ordin finante nr. 1985/2001",
+   "title": "Ordinul nr. 1.985/2001 privind modificarea Ordinului ministrului finanțelor nr. 1.801/1995 de aprobare a Nomenclatorului formularelor tipizate pentru stabilirea, evidenta, urmărirea, încasarea și raportarea impozitelor, taxelor și a altor obligații, precum și al celor care privesc activitatea de trezorerie, bugetară, de control și sancționare a contravențiilor la normele legale privind disciplina financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33167",
+   "versions": [
+    {
+     "from": "2002-01-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33167",
+     "sha256": "4c5bded24c08ce9ca4b85183e315ece9bffacd1b4a36853b0dadee04ff4e859c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1987-2001",
    "path": "ordin/finante/2001/1987",
    "short": "Ordin finante nr. 1987/2001",
@@ -5478,6 +5748,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1999-2001",
+   "path": "ordin/finante/2001/1999",
+   "short": "Ordin finante nr. 1999/2001",
+   "title": "Ordinul nr. 1.999/2001 pentru aprobarea valorilor nominale, a modelarului, a caracteristicilor și a modului de tipărire, livrare, difuzare și păstrare a timbrelor fiscale mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31541",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31541",
+     "sha256": "3ec29a661184bfce630741dbec5753da9beb037d182656f06c79c011ee168db5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2066-2001",
    "path": "ordin/finante/2001/2066",
    "short": "Ordin finante nr. 2066/2001",
@@ -5519,6 +5804,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31939",
      "sha256": "486ced6f29b873ba312f6d3d8e4b652fc9b3468a13487d7e10df22a71ece1b30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2128-2001",
+   "path": "ordin/finante/2001/2128",
+   "short": "Ordin finante nr. 2128/2001",
+   "title": "Ordinul nr. 2.128/2001 pentru modificarea Ordinului ministrului finanțelor publice nr. 1.924/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31942",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31942",
+     "sha256": "cdf531cb83fe6a0edc4c5e394d6213d77fba5ee69568675b72bd8e5f190cf46e"
     }
    ]
   },
@@ -5729,6 +6029,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33424",
      "sha256": "e90ac2c38c3cd163e883675644bdd66e71a748e0765c3095229d1650abb21a86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2329-2001",
+   "path": "ordin/finante/2001/2329",
+   "short": "Ordin finante nr. 2329/2001",
+   "title": "Ordinul nr. 2.329/2001 pentru aprobarea Normelor metodologice privind organizarea și conducerea contabilității în partida simpla de către persoanele juridice fără scop lucrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33319",
+   "versions": [
+    {
+     "from": "2002-01-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33319",
+     "sha256": "9bcc484fed483f4655aec941e7951b162fc1bffc9b3234324de9f0b137cd01fb"
     }
    ]
   },
@@ -6254,6 +6569,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30589",
      "sha256": "3a8ef62b51e4034ef263d9a42be55e9ac4f37690e6cdf95add9d344acdae803e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-88-2001",
+   "path": "ordin/interne/2001/88",
+   "short": "Ordin interne nr. 88/2001",
+   "title": "Ordinul nr. 88/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30725",
+   "versions": [
+    {
+     "from": "2001-10-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/30725",
+     "sha256": "febcb14a019220d2d6e974585dd2ab3ef38b7d44c387c367df527baea3332a29"
     }
    ]
   },
@@ -6963,6 +7293,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-528-2001",
+   "path": "ordin/sanatate/2001/528",
+   "short": "Ordin sanatate nr. 528/2001",
+   "title": "Ordinul nr. 528/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29975",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/29975",
+     "sha256": "43402ec23773ffeff6b31ae5889ca2c3467834c94b5ce343ded1e4a951dbe791"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-535-2001",
    "path": "ordin/sanatate/2001/535",
    "short": "Ordin sanatate nr. 535/2001",
@@ -7049,6 +7394,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30510",
      "sha256": "f2f1c9b2382583656d1461c2d03aadeba42a3ef4b57bafbfbc3dda9f123a6c59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-566-2001",
+   "path": "ordin/sanatate/2001/566",
+   "short": "Ordin sanatate nr. 566/2001",
+   "title": "Ordinul nr. 566/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30599",
+   "versions": [
+    {
+     "from": "2001-08-27",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/30599",
+     "sha256": "70c9560174af5db5c79de54effd1f7c75d05d2fc57b0c7d1ef41a6ca7d5bab42"
     }
    ]
   },
@@ -7203,6 +7563,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-761-2001",
+   "path": "ordin/sanatate/2001/761",
+   "short": "Ordin sanatate nr. 761/2001",
+   "title": "Ordinul nr. 761/2001 pentru aprobarea Metodologiei privind examenul medical la angajarea în munca, examenul medical de adaptare, controlul medical periodic și examenul medical la reluarea muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33109",
+   "versions": [
+    {
+     "from": "2002-01-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33109",
+     "sha256": "71d2e9f527ea0f4e2347a692e7af4b0f16042458f698c4170576b8071bea6fe7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-769-2001",
    "path": "ordin/sanatate/2001/769",
    "short": "Ordin sanatate nr. 769/2001",
@@ -7244,6 +7619,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32830",
      "sha256": "a3a6c94860a4c4cad72e93563d14c244af41e500179c6bd83029902a94d88b4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-846-2001",
+   "path": "ordin/sanatate/2001/846",
+   "short": "Ordin sanatate nr. 846/2001",
+   "title": "Ordinul nr. 846/2001 privind aprobarea Regulamentului de organizare și efectuare a stagiaturii de către absolvenții licențiați ai facultăților de medicina, stomatologie și farmacie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32971",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32971",
+     "sha256": "5abbc9e0ff70b971d65f91b6c3aef37da30187e83c263f8cb948b86009e22894"
     }
    ]
   },
@@ -7608,6 +7998,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-3-2001",
+   "path": "ordin/bnr/2001/3",
+   "short": "Ordin bnr nr. 3/2001",
+   "title": "Ordinul nr. 3/2001 privind coeficientul de actualizare a valorii leului de la data de 11 iunie 1948 până la data de 14 februarie 2001",
+   "url": "https://www.bnr.ro/21710-ordin-3-2001",
+   "versions": [
+    {
+     "from": "2001-05-04",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21710-ordin-3-2001",
+     "sha256": "8f642b88acf8501fa44f7087a09991fe8beff46c224c2d04c8fe4c84d43b74cd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-38-2001",
    "path": "ordin/bnr/2001/38",
    "short": "Ordin bnr nr. 38/2001",
@@ -7638,6 +8043,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-5-2001",
+   "path": "ordin/bnr/2001/5",
+   "short": "Ordin bnr nr. 5/2001",
+   "title": "Ordinul nr. 5/2001 pentru aprobarea Reglementărilor contabile armonizate cu Directiva Comunităților Economice Europene nr. 86/635/CEE și cu Standardele Internaționale de Contabilitate aplicabile instituțiilor de credit",
+   "url": "https://www.bnr.ro/19565-ordin-5-2001",
+   "versions": [
+    {
+     "from": "2001-11-01",
+     "units": 10,
+     "source_url": "https://www.bnr.ro/19565-ordin-5-2001",
+     "sha256": "16a0a3d0445fb9a1013d8e6ec4e9dd315c2680b40622c96365de20d1f4e1c202"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-6-2001",
    "path": "ordin/bnr/2001/6",
    "short": "Ordin bnr nr. 6/2001",
@@ -7664,6 +8084,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32106",
      "sha256": "aef720ea19f285710a409a95d8ba488370e9f8b4eb0dd4e7639235c48f9ec209"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-8-2001",
+   "path": "ordin/bnr/2001/8",
+   "short": "Ordin bnr nr. 8/2001",
+   "title": "Ordinul nr. 8/2001 privind prelungirea perioadei de valabilitate a Ordinului Băncii Naționale a României nr. 3 din 19 septembrie 2000",
+   "url": "https://www.bnr.ro/21767-ordin-8-2001",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21767-ordin-8-2001",
+     "sha256": "2498edfcfef80b01b21b247afc257ca02a2ccbdb15749e4a882cd5a7e5c6a75c"
     }
    ]
   },

@@ -28,13 +28,13 @@ hg-1020-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1021-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97192
 hg-1022-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97341
 hg-1023-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97270
-hg-1024-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-55-2023,2023-01-25,no,https://legislatie.just.ro/Public/DetaliiDocument/97358
+hg-1024-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97358
 hg-1025-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97289
 hg-1026-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97416
 hg-1027-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97247
-hg-1028-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1484-2008,2008-11-27,no,https://legislatie.just.ro/Public/DetaliiDocument/97144
+hg-1028-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97144
 hg-1029-2008,stale,2025-10-20,2025-10-27,consolidated-form,hg-517-2011,2011-12-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/97705
-hg-103-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1593-2008,2008-12-12,no,https://legislatie.just.ro/Public/DetaliiDocument/89363
+hg-103-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89363
 hg-1030-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Rectificarea nr. 1030/2008,2008-09-03,no,https://legislatie.just.ro/Public/DetaliiDocument/97562
 hg-1031-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97180
 hg-1032-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97248
@@ -90,7 +90,7 @@ hg-108-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-1080-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97409
 hg-1081-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97453
 hg-1082-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97352
-hg-1083-2008,pending-change,2026-11-06,2026-11-13,amendment-search,,2021-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/97434
+hg-1083-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97434
 hg-1084-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97535
 hg-1085-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97584
 hg-1086-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/98099
@@ -108,7 +108,7 @@ hg-1096-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/
 hg-1097-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97577
 hg-1098-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97607
 hg-1099-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97611
-hg-11-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/88594
+hg-11-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88594
 hg-110-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89282
 hg-1100-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97629
 hg-1101-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97689
@@ -161,9 +161,9 @@ hg-1146-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1147-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97785
 hg-1148-2008,stale,2026-02-16,2026-02-23,consolidated-form,hg-51-2015,2015-02-02,yes,https://legislatie.just.ro/Public/DetaliiDocument/165484
 hg-1149-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98393
-hg-115-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-379-2013,2013-06-27,no,https://legislatie.just.ro/Public/DetaliiDocument/89506
+hg-115-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89506
 hg-1150-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98776
-hg-1152-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1325-2008,2008-10-22,no,https://legislatie.just.ro/Public/DetaliiDocument/98161
+hg-1152-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98161
 hg-1153-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-7-2009,2009-01-20,no,https://legislatie.just.ro/Public/DetaliiDocument/97804
 hg-1154-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97803
 hg-1155-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Rectificarea nr. 1155/2008,2008-08-24,no,https://legislatie.just.ro/Public/DetaliiDocument/98171
@@ -194,14 +194,14 @@ hg-1179-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-118-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89352
 hg-1180-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97787
 hg-1181-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97700
-hg-1182-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-882-2011,2011-08-31,no,https://legislatie.just.ro/Public/DetaliiDocument/97703
+hg-1182-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97703
 hg-1183-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97886
 hg-1184-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97683
 hg-1185-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97756
 hg-1186-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97707
 hg-1187-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97760
 hg-1188-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97793
-hg-1189-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1242-2022,2022-10-14,no,https://legislatie.just.ro/Public/DetaliiDocument/97795
+hg-1189-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97795
 hg-119-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89353
 hg-1190-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97662
 hg-1191-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97730
@@ -223,27 +223,27 @@ hg-1206-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1207-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97771
 hg-1208-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97946
 hg-1209-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97947
-hg-121-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1468-2008,2008-11-21,no,https://legislatie.just.ro/Public/DetaliiDocument/89406
+hg-121-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89406
 hg-1210-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97887
 hg-1211-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98012
 hg-1212-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97948
 hg-1213-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97846
 hg-1214-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97858
 hg-1215-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98638
-hg-1216-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1332-2008,2008-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/97801
+hg-1216-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97801
 hg-1217-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97888
 hg-1218-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99634
 hg-1219-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100608
-hg-122-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1300-2008,2008-10-21,no,https://legislatie.just.ro/Public/DetaliiDocument/89517
+hg-122-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89517
 hg-1220-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97867
 hg-1221-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97889
-hg-1222-2008,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 1222/2008,2008-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/97890
+hg-1222-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97890
 hg-1223-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97891
 hg-1224-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98002
 hg-1225-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97796
 hg-1226-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97897
 hg-1227-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97859
-hg-1228-2008,pending-change,2026-11-06,2026-11-13,amendment-search,,2013-12-03,no,https://legislatie.just.ro/Public/DetaliiDocument/98000
+hg-1228-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98000
 hg-1229-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97913
 hg-123-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89507
 hg-1230-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-100-2009,2009-02-24,no,https://legislatie.just.ro/Public/DetaliiDocument/97950
@@ -257,7 +257,7 @@ hg-1237-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1238-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98167
 hg-1239-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98582
 hg-124-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89508
-hg-1240-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/99545
+hg-1240-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99545
 hg-1241-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97952
 hg-1242-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97937
 hg-1243-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97938
@@ -293,7 +293,7 @@ hg-127-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-1270-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97986
 hg-1271-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97993
 hg-1272-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97995
-hg-1273-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1578-2009,2009-12-21,no,https://legislatie.just.ro/Public/DetaliiDocument/98101
+hg-1273-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98101
 hg-1274-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98102
 hg-1275-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98103
 hg-1276-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97954
@@ -358,12 +358,12 @@ hg-1332-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1334-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99223
 hg-1335-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98673
 hg-1336-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98657
-hg-1337-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/98929
+hg-1337-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98929
 hg-1338-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98574
 hg-1339-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98580
 hg-1340-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98575
 hg-1341-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98666
-hg-1342-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-306-2018,2018-05-03,no,https://legislatie.just.ro/Public/DetaliiDocument/98473
+hg-1342-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98473
 hg-1343-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98868
 hg-1344-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98576
 hg-1345-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/98474
@@ -414,7 +414,7 @@ hg-1386-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1387-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99097
 hg-1388-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99065
 hg-1389-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99053
-hg-139-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-800-2022,2022-06-30,no,https://legislatie.just.ro/Public/DetaliiDocument/89725
+hg-139-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89725
 hg-1390-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-442-2009,2009-04-08,no,https://legislatie.just.ro/Public/DetaliiDocument/99107
 hg-1391-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99039
 hg-1392-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99056
@@ -432,7 +432,7 @@ hg-1404-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1405-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99181
 hg-1406-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99173
 hg-1407-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99212
-hg-1408-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-539-2016,2016-07-27,no,https://legislatie.just.ro/Public/DetaliiDocument/99791
+hg-1408-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99791
 hg-1409-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99124
 hg-141-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92054
 hg-1410-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99125
@@ -441,8 +441,8 @@ hg-1412-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1413-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99156
 hg-1414-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99157
 hg-1415-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99158
-hg-1416-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-366-2018,2018-05-24,no,https://legislatie.just.ro/Public/DetaliiDocument/99335
-hg-1417-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-892-2017,2017-12-14,no,https://legislatie.just.ro/Public/DetaliiDocument/99336
+hg-1416-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99335
+hg-1417-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99336
 hg-1418-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99337
 hg-1419-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99546
 hg-142-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89577
@@ -509,7 +509,7 @@ hg-1477-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1478-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99650
 hg-1479-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99786
 hg-1480-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/99641
-hg-1481-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-790-2017,2017-11-01,no,https://legislatie.just.ro/Public/DetaliiDocument/99466
+hg-1481-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99466
 hg-1482-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99580
 hg-1483-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99675
 hg-1484-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99619
@@ -540,7 +540,7 @@ hg-1505-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislati
 hg-1506-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99631
 hg-1507-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99836
 hg-1508-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1716-2008,2009-01-06,no,https://legislatie.just.ro/Public/DetaliiDocument/99814
-hg-1509-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-431-2010,2010-05-12,no,https://legislatie.just.ro/Public/DetaliiDocument/100211
+hg-1509-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100211
 hg-151-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89637
 hg-1510-2008,pending-change,2026-11-04,2026-11-11,amendment-search,,2022-09-27,no,https://legislatie.just.ro/Public/DetaliiDocument/99831
 hg-1511-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99837
@@ -588,12 +588,12 @@ hg-1551-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislati
 hg-1553-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99749
 hg-1554-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100025
 hg-1555-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99851
-hg-1556-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/99806
+hg-1556-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99806
 hg-1557-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99808
 hg-1558-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100106
 hg-1559-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99767
 hg-156-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89640
-hg-1560-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/99847
+hg-1560-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/99847
 hg-1561-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100104
 hg-1562-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100105
 hg-1563-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100085
@@ -607,7 +607,7 @@ hg-1570-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislati
 hg-1571-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100027
 hg-1572-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr. 134/2015,2015-03-10,no,https://legislatie.just.ro/Public/DetaliiDocument/100453
 hg-1573-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100236
-hg-1574-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-727-2022,2022-06-08,no,https://legislatie.just.ro/Public/DetaliiDocument/100477
+hg-1574-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100477
 hg-1575-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100212
 hg-1576-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100213
 hg-1577-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100214
@@ -631,10 +631,10 @@ hg-1592-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislati
 hg-1593-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100238
 hg-1594-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100153
 hg-1595-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-600-2013,2013-08-14,no,https://legislatie.just.ro/Public/DetaliiDocument/100144
-hg-1596-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-712-2025,2025-09-05,no,https://legislatie.just.ro/Public/DetaliiDocument/100146
+hg-1596-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100146
 hg-1597-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100154
 hg-1598-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100520
-hg-1599-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-491-2021,2021-05-26,no,https://legislatie.just.ro/Public/DetaliiDocument/100283
+hg-1599-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100283
 hg-16-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88783
 hg-160-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89590
 hg-1600-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100187
@@ -645,7 +645,7 @@ hg-1606-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-830-2010,2
 hg-1607-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100476
 hg-1608-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100377
 hg-1609-2008,current,2026-11-03,2026-11-10,amendment-search,hg-882-2011,2011-09-08,yes,https://legislatie.just.ro/Public/DetaliiDocument/202084
-hg-161-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/89674
+hg-161-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89674
 hg-1610-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100352
 hg-1611-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100349
 hg-1612-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100517
@@ -654,19 +654,19 @@ hg-1614-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1615-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100369
 hg-1616-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100655
 hg-1617-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100350
-hg-1618-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-192-2009,2009-03-09,no,https://legislatie.just.ro/Public/DetaliiDocument/100638
+hg-1618-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100638
 hg-1619-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100620
-hg-162-2008,pending-change,2026-11-06,2026-11-13,amendment-search,,2010-05-25,no,https://legislatie.just.ro/Public/DetaliiDocument/96178
+hg-162-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96178
 hg-1620-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100621
 hg-1621-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100861
 hg-1622-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/100622
 hg-1623-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100519
 hg-1624-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101960
 hg-1625-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100253
-hg-1626-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1209-2009,2009-10-07,no,https://legislatie.just.ro/Public/DetaliiDocument/100522
-hg-1627-2008,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 543/2010,2010-06-09,no,https://legislatie.just.ro/Public/DetaliiDocument/100447
-hg-1628-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/100530
-hg-163-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-155-2018,2018-04-03,no,https://legislatie.just.ro/Public/DetaliiDocument/90033
+hg-1626-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100522
+hg-1627-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100447
+hg-1628-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100530
+hg-163-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90033
 hg-1632-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100633
 hg-1633-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100529
 hg-1634-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100533
@@ -690,7 +690,7 @@ hg-1652-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislati
 hg-1653-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100825
 hg-1654-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100583
 hg-1655-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/100713
-hg-1656-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-108-2009,2009-03-03,no,https://legislatie.just.ro/Public/DetaliiDocument/100532
+hg-1656-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100532
 hg-1657-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100758
 hg-1658-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100428
 hg-166-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89772
@@ -699,7 +699,7 @@ hg-1661-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-835-2010,2
 hg-1663-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100367
 hg-1664-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/100415
 hg-1666-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1558-2009,2009-12-09,no,https://legislatie.just.ro/Public/DetaliiDocument/100571
-hg-1667-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1337-2010,2010-12-28,no,https://legislatie.just.ro/Public/DetaliiDocument/101171
+hg-1667-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101171
 hg-1668-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/101242
 hg-1669-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100599
 hg-1670-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100419
@@ -708,12 +708,12 @@ hg-1672-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr. 1
 hg-1673-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100771
 hg-1674-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100584
 hg-1675-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100593
-hg-1676-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-843-2011,2011-08-17,no,https://legislatie.just.ro/Public/DetaliiDocument/100512
+hg-1676-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100512
 hg-1677-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100506
 hg-1678-2008,stale,2026-01-19,2026-01-26,consolidated-form,hg-732-2010,2013-08-28,yes,https://legislatie.just.ro/Public/DetaliiDocument/151143
 hg-1679-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/100906
 hg-168-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89765
-hg-1680-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-783-2020,2020-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/100967
+hg-1680-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100967
 hg-1681-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100501
 hg-1682-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100705
 hg-1683-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100433
@@ -721,7 +721,7 @@ hg-1684-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislati
 hg-1685-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100702
 hg-1686-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100703
 hg-1687-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100724
-hg-1688-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-845-2009,2009-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/100865
+hg-1688-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100865
 hg-169-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89766
 hg-1690-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100903
 hg-1692-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/100632
@@ -763,7 +763,7 @@ hg-174-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-175-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/89790
 hg-176-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89791
 hg-177-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/89792
-hg-178-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/89793
+hg-178-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89793
 hg-179-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1585-2008,2008-12-11,no,https://legislatie.just.ro/Public/DetaliiDocument/89835
 hg-18-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88595
 hg-180-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89905
@@ -789,7 +789,7 @@ hg-2-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just
 hg-20-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88596
 hg-200-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89973
 hg-201-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90084
-hg-202-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1287-2009,2009-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/90021
+hg-202-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90021
 hg-203-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90112
 hg-204-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90036
 hg-205-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90085
@@ -817,7 +817,7 @@ hg-228-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-229-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90205
 hg-23-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88608
 hg-230-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90206
-hg-232-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1388-2008,2008-11-11,no,https://legislatie.just.ro/Public/DetaliiDocument/90376
+hg-232-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90376
 hg-233-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90270
 hg-234-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-368-2017,2017-05-25,no,https://legislatie.just.ro/Public/DetaliiDocument/90271
 hg-235-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90272
@@ -835,9 +835,9 @@ hg-245-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-246-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90215
 hg-247-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90437
 hg-248-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90531
-hg-249-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1342-2008,2008-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/90399
+hg-249-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90399
 hg-25-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89012
-hg-250-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-660-2017,2017-09-14,no,https://legislatie.just.ro/Public/DetaliiDocument/90423
+hg-250-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90423
 hg-251-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90353
 hg-252-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90384
 hg-253-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90354
@@ -852,25 +852,25 @@ hg-260-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-261-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-837-2014,2014-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/90385
 hg-262-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1024-2014,2014-11-11,no,https://legislatie.just.ro/Public/DetaliiDocument/90730
 hg-263-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90504
-hg-264-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-319-2008,2008-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/90268
+hg-264-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90268
 hg-265-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-319-2008,2008-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/90303
-hg-266-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-725-2008,2008-07-14,no,https://legislatie.just.ro/Public/DetaliiDocument/90262
+hg-266-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90262
 hg-267-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90269
 hg-268-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-319-2008,2008-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/90336
 hg-269-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90337
 hg-27-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88602
-hg-270-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-422-2008,2008-04-18,no,https://legislatie.just.ro/Public/DetaliiDocument/90338
+hg-270-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90338
 hg-271-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-319-2008,2008-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/90341
 hg-272-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-320-2008,2008-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/90365
 hg-273-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90339
 hg-274-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90417
 hg-275-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90369
-hg-276-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1196-2008,2008-10-06,no,https://legislatie.just.ro/Public/DetaliiDocument/90340
-hg-277-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1154-2008,2008-10-06,no,https://legislatie.just.ro/Public/DetaliiDocument/90332
+hg-276-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90340
+hg-277-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90332
 hg-278-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90441
 hg-279-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90356
 hg-28-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/88958
-hg-280-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/90324
+hg-280-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90324
 hg-281-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90418
 hg-282-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90419
 hg-283-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90420
@@ -917,7 +917,7 @@ hg-32-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.
 hg-320-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90532
 hg-321-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90719
 hg-322-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-185-2009,2009-02-27,no,https://legislatie.just.ro/Public/DetaliiDocument/90740
-hg-323-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-511-2008,2008-05-23,no,https://legislatie.just.ro/Public/DetaliiDocument/90720
+hg-323-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90720
 hg-324-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/103069
 hg-325-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90780
 hg-326-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90781
@@ -968,7 +968,7 @@ hg-367-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-368-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90932
 hg-369-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/90933
 hg-37-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88917
-hg-370-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1432-2008,2008-11-27,no,https://legislatie.just.ro/Public/DetaliiDocument/91048
+hg-370-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91048
 hg-373-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1152-2014,2014-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/91017
 hg-374-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91171
 hg-375-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91259
@@ -977,7 +977,7 @@ hg-377-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-379-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91172
 hg-38-2008,stale,2025-12-15,2025-12-22,consolidated-form,hg-1289-2011,2012-01-12,yes,https://legislatie.just.ro/Public/DetaliiDocument/88957
 hg-380-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91282
-hg-381-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-462-2006,2008-07-23,no,https://legislatie.just.ro/Public/DetaliiDocument/92058
+hg-381-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92058
 hg-382-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91283
 hg-383-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91173
 hg-384-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91174
@@ -993,11 +993,11 @@ hg-392-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-393-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91393
 hg-394-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91394
 hg-397-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91177
-hg-399-2008,pending-change,2026-11-06,2026-11-13,amendment-search,,2023-04-20,no,https://legislatie.just.ro/Public/DetaliiDocument/91720
+hg-399-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91720
 hg-4-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/88506
 hg-40-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-137-2018,2018-03-21,no,https://legislatie.just.ro/Public/DetaliiDocument/88982
 hg-400-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91391
-hg-401-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/91329
+hg-401-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91329
 hg-402-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91414
 hg-403-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91463
 hg-404-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91454
@@ -1005,7 +1005,7 @@ hg-405-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-406-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91458
 hg-407-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Rectificarea nr. 407/2008,2008-04-16,no,https://legislatie.just.ro/Public/DetaliiDocument/91459
 hg-408-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91703
-hg-409-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-824-2008,2008-08-18,no,https://legislatie.just.ro/Public/DetaliiDocument/91805
+hg-409-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91805
 hg-41-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88983
 hg-410-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-600-2009,2009-06-03,no,https://legislatie.just.ro/Public/DetaliiDocument/91532
 hg-411-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91777
@@ -1020,11 +1020,11 @@ hg-42-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.
 hg-420-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91620
 hg-422-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91478
 hg-423-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91667
-hg-424-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-833-2021,2021-08-11,no,https://legislatie.just.ro/Public/DetaliiDocument/91694
+hg-424-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91694
 hg-426-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91639
 hg-427-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91843
 hg-428-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91852
-hg-429-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-470-2021,2021-04-21,no,https://legislatie.just.ro/Public/DetaliiDocument/91810
+hg-429-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91810
 hg-43-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88986
 hg-430-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/92004
 hg-431-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92855
@@ -1049,13 +1049,13 @@ hg-448-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-449-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92519
 hg-45-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88987
 hg-450-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91782
-hg-451-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1488-2008,2008-11-25,no,https://legislatie.just.ro/Public/DetaliiDocument/91701
+hg-451-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91701
 hg-452-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91841
 hg-453-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91846
 hg-454-2008,pending-change,2026-11-04,2026-11-11,amendment-search,,2012-08-17,no,https://legislatie.just.ro/Public/DetaliiDocument/91963
 hg-455-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92010
 hg-456-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92124
-hg-457-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-398-2015,2015-07-03,no,https://legislatie.just.ro/Public/DetaliiDocument/92692
+hg-457-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92692
 hg-458-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93166
 hg-46-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88988
 hg-460-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92455
@@ -1065,7 +1065,7 @@ hg-463-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-464-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92558
 hg-465-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92561
 hg-466-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92562
-hg-467-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/92449
+hg-467-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92449
 hg-468-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92617
 hg-469-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92636
 hg-47-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88989
@@ -1075,7 +1075,7 @@ hg-472-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-473-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92563
 hg-474-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92701
 hg-475-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92648
-hg-476-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-7-2011,2011-01-21,no,https://legislatie.just.ro/Public/DetaliiDocument/92684
+hg-476-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92684
 hg-477-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92807
 hg-478-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92564
 hg-479-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93072
@@ -1083,7 +1083,7 @@ hg-48-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.
 hg-482-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92569
 hg-483-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92649
 hg-484-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92567
-hg-485-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/92646
+hg-485-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92646
 hg-486-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92877
 hg-487-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93053
 hg-488-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92848
@@ -1187,7 +1187,7 @@ hg-578-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr. 28
 hg-579-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95473
 hg-58-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/89067
 hg-580-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95475
-hg-581-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1293-2010,2010-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/95476
+hg-581-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95476
 hg-582-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1294-2010,2010-12-15,no,https://legislatie.just.ro/Public/DetaliiDocument/95477
 hg-583-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94344
 hg-584-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93659
@@ -1202,7 +1202,7 @@ hg-591-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-592-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93861
 hg-593-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93862
 hg-594-2008,current,2026-11-03,,edition-index,legea-129-2019,2019-07-21,yes,https://legislatie.just.ro/Public/DetaliiDocument/132965
-hg-595-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-5-2009,2009-02-03,no,https://legislatie.just.ro/Public/DetaliiDocument/93923
+hg-595-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93923
 hg-596-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93864
 hg-597-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93865
 hg-598-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93927
@@ -1212,7 +1212,7 @@ hg-60-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89
 hg-600-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93932
 hg-601-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93967
 hg-602-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93830
-hg-603-2008,pending-change,2026-11-06,2026-11-13,amendment-search,,2008-08-20,no,https://legislatie.just.ro/Public/DetaliiDocument/93987
+hg-603-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93987
 hg-604-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93917
 hg-605-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/93969
 hg-606-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95138
@@ -1242,12 +1242,12 @@ hg-63-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.
 hg-630-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94307
 hg-631-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94308
 hg-632-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94355
-hg-633-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-265-2009,2009-03-12,no,https://legislatie.just.ro/Public/DetaliiDocument/94310
+hg-633-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94310
 hg-634-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/94451
-hg-635-2008,pending-change,2026-11-06,2026-11-13,amendment-search,,2014-08-05,no,https://legislatie.just.ro/Public/DetaliiDocument/94742
+hg-635-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94742
 hg-636-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94837
 hg-637-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95317
-hg-638-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-702-2015,2015-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/95546
+hg-638-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95546
 hg-64-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89057
 hg-640-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94298
 hg-641-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94321
@@ -1291,7 +1291,7 @@ hg-675-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-676-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94922
 hg-677-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94924
 hg-678-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/94927
-hg-679-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-90-2011,2011-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/95192
+hg-679-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95192
 hg-68-2008,pending-change,2026-11-04,2026-11-11,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/89077
 hg-681-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96497
 hg-682-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95265
@@ -1313,7 +1313,7 @@ hg-697-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-698-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95883
 hg-699-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95358
 hg-7-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88584
-hg-70-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-831-2008,2008-08-15,no,https://legislatie.just.ro/Public/DetaliiDocument/89104
+hg-70-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89104
 hg-700-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95495
 hg-701-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95379
 hg-702-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95491
@@ -1370,7 +1370,7 @@ hg-75-2008,pending-change,2026-11-04,2026-11-11,amendment-search,,2015-04-01,no,
 hg-750-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-248-2012,2012-03-27,no,https://legislatie.just.ro/Public/DetaliiDocument/95767
 hg-751-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96341
 hg-752-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-807-2009,2009-07-15,no,https://legislatie.just.ro/Public/DetaliiDocument/97883
-hg-753-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-783-2020,2020-10-01,no,https://legislatie.just.ro/Public/DetaliiDocument/97132
+hg-753-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97132
 hg-754-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95700
 hg-755-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95701
 hg-756-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95846
@@ -1398,7 +1398,7 @@ hg-776-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-777-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95828
 hg-778-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95900
 hg-779-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95901
-hg-78-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-728-2020,2020-09-17,no,https://legislatie.just.ro/Public/DetaliiDocument/89108
+hg-78-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89108
 hg-780-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95837
 hg-781-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95893
 hg-782-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/95935
@@ -1419,7 +1419,7 @@ hg-796-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-798-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96326
 hg-799-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96338
 hg-8-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/88508
-hg-80-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-955-2018,2018-12-07,no,https://legislatie.just.ro/Public/DetaliiDocument/89140
+hg-80-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89140
 hg-800-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96339
 hg-801-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1039-2008,2008-09-12,no,https://legislatie.just.ro/Public/DetaliiDocument/96248
 hg-802-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Rectificarea nr. 802/2008,2008-07-31,no,https://legislatie.just.ro/Public/DetaliiDocument/96439
@@ -1464,9 +1464,9 @@ hg-839-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-84-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89174
 hg-840-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96575
 hg-841-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96576
-hg-842-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-605-2015,2015-08-05,no,https://legislatie.just.ro/Public/DetaliiDocument/96914
+hg-842-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96914
 hg-843-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96768
-hg-844-2008,pending-change,2026-11-06,2026-11-13,amendment-search,,2017-02-28,no,https://legislatie.just.ro/Public/DetaliiDocument/96704
+hg-844-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96704
 hg-845-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96724
 hg-846-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96725
 hg-847-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96722
@@ -1479,14 +1479,14 @@ hg-852-2008,stale,2026-03-16,2026-03-23,consolidated-form,hg-120-2024,2024-03-23
 hg-853-2008,pending-change,2026-11-04,2026-11-11,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/96739
 hg-854-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96922
 hg-855-2008,current,2026-11-03,2026-11-10,edition-index,hg-293-2023,2023-04-11,yes,https://legislatie.just.ro/Public/DetaliiDocument/96949
-hg-856-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/96892
+hg-856-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96892
 hg-857-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96787
 hg-858-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96762
 hg-859-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96904
 hg-86-2008,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/89315
 hg-860-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97241
 hg-861-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96761
-hg-862-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-882-2015,2015-10-28,no,https://legislatie.just.ro/Public/DetaliiDocument/96913
+hg-862-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96913
 hg-863-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96755
 hg-864-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96817
 hg-865-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96818
@@ -1501,30 +1501,30 @@ hg-874-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-875-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96893
 hg-876-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96910
 hg-877-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96809
-hg-878-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/96822
+hg-878-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96822
 hg-879-2008,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1050-2012,2012-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/96793
-hg-880-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1086-2009,2009-09-23,no,https://legislatie.just.ro/Public/DetaliiDocument/96794
+hg-880-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96794
 hg-881-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96911
 hg-882-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96883
 hg-883-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96912
 hg-884-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96851
-hg-885-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-637-2009,2009-05-27,no,https://legislatie.just.ro/Public/DetaliiDocument/96894
+hg-885-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96894
 hg-886-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/97259
 hg-887-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96842
 hg-889-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96902
-hg-89-2008,pending-change,2026-11-06,2026-11-13,amendment-search,legea-275-2011,2011-12-16,no,https://legislatie.just.ro/Public/DetaliiDocument/89384
+hg-89-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89384
 hg-890-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97010
-hg-891-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1636-2008,2008-12-19,no,https://legislatie.just.ro/Public/DetaliiDocument/96857
+hg-891-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96857
 hg-892-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96852
 hg-893-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97148
 hg-894-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96853
 hg-895-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96903
 hg-896-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96940
-hg-897-2008,pending-change,2026-11-06,2026-11-13,amendment-search,Decizia nr. 106/2011,2011-02-01,no,https://legislatie.just.ro/Public/DetaliiDocument/97118
+hg-897-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97118
 hg-898-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97130
 hg-899-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96795
-hg-9-2008,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/88509
-hg-90-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1028-2013,2013-12-11,no,https://legislatie.just.ro/Public/DetaliiDocument/89489
+hg-9-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/88509
+hg-90-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89489
 hg-900-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96916
 hg-901-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/97091
 hg-902-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96928
@@ -1582,7 +1582,7 @@ hg-950-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-951-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96984
 hg-952-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96985
 hg-953-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96956
-hg-954-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1625-2009,2009-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/96954
+hg-954-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96954
 hg-955-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96854
 hg-957-2008,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96986
 hg-958-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97011
@@ -1590,7 +1590,7 @@ hg-959-2008,pending-change,2026-11-04,2026-11-11,amendment-search,,2009-01-21,no
 hg-96-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/89244
 hg-960-2008,pending-change,2026-11-04,2026-11-11,amendment-search,Rectificarea nr. 960/2008,2008-08-27,no,https://legislatie.just.ro/Public/DetaliiDocument/97102
 hg-961-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96929
-hg-962-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1432-2008,2008-11-27,no,https://legislatie.just.ro/Public/DetaliiDocument/97081
+hg-962-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97081
 hg-963-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96930
 hg-964-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97068
 hg-965-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97012
@@ -1614,7 +1614,7 @@ hg-980-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie
 hg-981-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97002
 hg-982-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97486
 hg-983-2008,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/97022
-hg-984-2008,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1424-2008,2008-11-26,no,https://legislatie.just.ro/Public/DetaliiDocument/97045
+hg-984-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97045
 hg-985-2008,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97046
 hg-986-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97071
 hg-987-2008,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/97075

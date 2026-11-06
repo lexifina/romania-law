@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "regulament-bnr-2-2005",
+   "path": "regulament/bnr/2005/2",
+   "short": "Regulament bnr nr. 2/2005",
+   "title": "Regulamentul nr. 2/2005 privind ordinul de plată utilizat în operațiuni de transfer-credit",
+   "url": "https://www.bnr.ro/20964-regulament-2-2005",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 37,
+     "source_url": "https://www.bnr.ro/20964-regulament-2-2005",
+     "sha256": "bd06d66a167ece1a298b492f6a17d6c6655399aec4e9b5bcf16fd0275b81767f"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-4-2005",
    "path": "regulament/bnr/2005/4",
    "short": "Regulament bnr nr. 4/2005",

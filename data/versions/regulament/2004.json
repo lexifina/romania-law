@@ -168,6 +168,36 @@
    ]
   },
   {
+   "slug": "regulament-bnr-2-2004",
+   "path": "regulament/bnr/2004/2",
+   "short": "Regulament bnr nr. 2/2004",
+   "title": "Regulamentul nr. 2/2004 privind utilizarea codurilor IBAN în România",
+   "url": "https://www.bnr.ro/20278-regulament-2-2004",
+   "versions": [
+    {
+     "from": "2004-02-25",
+     "units": 17,
+     "source_url": "https://www.bnr.ro/20278-regulament-2-2004",
+     "sha256": "d7fc62382a44ed4bd3d197b09102de893df4cea9725e8cc9c68ebf961b8117e6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2004",
+   "path": "regulament/bnr/2004/6",
+   "short": "Regulament bnr nr. 6/2004",
+   "title": "Regulamentul nr. 6/2004 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 8/1996 privind regimul de decontare specială și autorizare a caselor de compensații interbancare, republicat",
+   "url": "https://www.bnr.ro/20825-regulament-6-2004",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20825-regulament-6-2004",
+     "sha256": "09b451afa4c8b12792af296d769de51fb36fdb862a5ad3b28c2ab59364079156"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-2-2004",
    "path": "regulament/cnvm/2004/2",
    "short": "Regulament cnvm nr. 2/2004",

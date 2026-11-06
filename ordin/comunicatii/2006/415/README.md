@@ -1,0 +1,20 @@
+# Ordinul nr. 415/2006
+
+Ordin comunicatii nr. 415/2006 · 1 versions, from 2006-10-11 (latest in force: 2006-10-11) · <https://legislatie.just.ro/Public/DetaliiDocument/75857>
+
+**Status:** As published (archived copy of the official portal, 2024-05-30), amendments not yet checked. Not included yet: Anexa nr. 1 (1 Societăți comerciale din domeniul informatic rămase de privatizat *Font 9*): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Societăți comerciale din domeniul informatic rămase de privatizat *Font 9*): it is a table that the official text holds only flattened.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `ordin-comunicatii-415-2006` (tags `ordin-comunicatii-415-2006/<day>`; `python tools/on.py <day> ordin-comunicatii-415-2006`).
+
+## Decisions made by hand
+
+- Ordin comunicatii nr. 415/2006: added from an archived copy of the official portal's page of it, the order as published: the official web service copy held here lacks it, and the portal has not answered since 5 November 2026. Whether later acts amended it has not yet been checked; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Ordin comunicatii nr. 415/2006: built by Lexifina with the default rules for an order known from an archived copy of the official portal alone, and no ruling made for this act alone: its text is the page's own document container, two readings of it agree, no word of its articles is lost, and its type, number, date, issuer and Monitorul Oficial reference are those its heading prints and an independent listing gives.
+- Ordin comunicatii nr. 415/2006: the first version is the order as published in Monitorul Oficial nr. 836 of 11 October 2006 (document 75857 of the official portal, archived copy), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin comunicatii nr. 415/2006: the signatures and the place and date line after its last article are not article text.
+- Ordin comunicatii nr. 415/2006: Anexa nr. 1 (1 Societăți comerciale din domeniul informatic rămase de privatizat *Font 9*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin comunicatii nr. 415/2006: Anexa nr. 2 (2 Societăți comerciale din domeniul informatic rămase de privatizat *Font 9*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

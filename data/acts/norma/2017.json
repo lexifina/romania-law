@@ -573,6 +573,25 @@
 "joint": []
 },
 {
+"slug": "norma-bnr-1-2017",
+"path": "norma/bnr/2017/1",
+"kind": "norma",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 1/2017 metodologice privind întocmirea raportărilor periodice cuprinzând informații statistice de natură financiar-contabilă, aplicabile sucursalelor din România ale instituțiilor de credit din alte state membre din 01.11.2017",
+"short": "Norma bnr nr. 1/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-11-15",
+"latest": "2017-11-15",
+"portal": "https://www.bnr.ro/20424-norma-metodologica-1-2017",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-fgdspp-1-2017",
 "path": "norma/fgdspp/2017/1",
 "kind": "norma",

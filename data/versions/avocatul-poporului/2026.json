@@ -61,6 +61,966 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-1-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/1-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-01-09",
+   "title": "Recomandarea Avocatului Poporului din 2026-01-09",
+   "url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea-nr.1-DGASPC-Suceava.pdf",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea-nr.1-DGASPC-Suceava.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-1-2026",
+   "path": "avocatul-poporului/recomandare/2026/1",
+   "short": "Recomandarea Avocatul Poporului nr. 1/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 1 din 2026-01-09",
+   "url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea-nr.-1-Politia-Gura-Humorului.pdf",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea-nr.-1-Politia-Gura-Humorului.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-10-2026",
+   "path": "avocatul-poporului/recomandare/2026/10",
+   "short": "Recomandarea Avocatul Poporului nr. 10/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 10 din 2026-01-26",
+   "url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea10_2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea10_2026-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-100-2026",
+   "path": "avocatul-poporului/recomandare/2026/100",
+   "short": "Recomandarea Avocatul Poporului nr. 100/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 100 din 2026-05-25",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea100_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea100_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-101-2026",
+   "path": "avocatul-poporului/recomandare/2026/101",
+   "short": "Recomandarea Avocatul Poporului nr. 101/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 101 din 2026-03-25",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea101_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea101_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-102-2026",
+   "path": "avocatul-poporului/recomandare/2026/102",
+   "short": "Recomandarea Avocatul Poporului nr. 102/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 102 din 2026-04-28",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-102_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-102_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-103-2026",
+   "path": "avocatul-poporului/recomandare/2026/103",
+   "short": "Recomandarea Avocatul Poporului nr. 103/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 103 din 2026-03-25",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-103_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-103_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-104-2026",
+   "path": "avocatul-poporului/recomandare/2026/104",
+   "short": "Recomandarea Avocatul Poporului nr. 104/2026",
+   "title": "Către șeful Inspectoratului de Poliție Județean Ialomița",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-104_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-104_2026.pdf",
+     "sha256": "0bdf7de2f1dcedd40b0a23d4646060e7f10cb51e6bc0a9a62237aaf66c4321c8"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-105-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/105-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-04-30",
+   "title": "Recomandarea Avocatului Poporului din 2026-04-30",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-105_2.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-105_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-105-2026",
+   "path": "avocatul-poporului/recomandare/2026/105",
+   "short": "Recomandarea Avocatul Poporului nr. 105/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 105 din 2026-04-30",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-105_1.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-105_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-106-2026",
+   "path": "avocatul-poporului/recomandare/2026/106",
+   "short": "Recomandarea Avocatul Poporului nr. 106/2026",
+   "title": "Către primarul Municipiului Constanța",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-106.pdf",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-106.pdf",
+     "sha256": "f31f40f91c591e7dbc45fac0469f143b19a0c93e461bfb87d82980f8e5953f1f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-107-2026",
+   "path": "avocatul-poporului/recomandare/2026/107",
+   "short": "Recomandarea Avocatul Poporului nr. 107/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 107 din 2026-05-08",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-107.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-107.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-108-2026",
+   "path": "avocatul-poporului/recomandare/2026/108",
+   "short": "Recomandarea Avocatul Poporului nr. 108/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 108 din 2026-04-27",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-108_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-108_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-109-2026",
+   "path": "avocatul-poporului/recomandare/2026/109",
+   "short": "Recomandarea Avocatul Poporului nr. 109/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 109 din 2026-05-02",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea109_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea109_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-11-2026",
+   "path": "avocatul-poporului/recomandare/2026/11",
+   "short": "Recomandarea Avocatul Poporului nr. 11/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 11 din 2026-01-26",
+   "url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea11_2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea11_2026-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-110-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/110-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-05-04",
+   "title": "Către primarul Municipiului Ploiești",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-110.pdf",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-110.pdf",
+     "sha256": "08dd73c88b4b9b226618bba21774d0659dafd9ff23f6467968cf5c3c6e8f5e85"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-110-2026",
+   "path": "avocatul-poporului/recomandare/2026/110",
+   "short": "Recomandarea Avocatul Poporului nr. 110/2026",
+   "title": "Către Comisia Municipală Ploiești pentru Transport și Siguranța Circulației",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-110-1.pdf",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-110-1.pdf",
+     "sha256": "4ed8f1ed887e9dd25fd4b10341719d5f44555e7589771be14ff8e7489dad3815"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-111-2026",
+   "path": "avocatul-poporului/recomandare/2026/111",
+   "short": "Recomandarea Avocatul Poporului nr. 111/2026",
+   "title": "Către primarul orașului Potcoava, județul Olt",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-111-2.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-111-2.pdf",
+     "sha256": "49344f4226cc788ec712e0fa6b71d20f0f4a006a9deb6975f7ad5ec626e7ee90"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-112-2026",
+   "path": "avocatul-poporului/recomandare/2026/112",
+   "short": "Recomandarea Avocatul Poporului nr. 112/2026",
+   "title": "Către șeful Inspectoratului Județean de Poliție Galați",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-112_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-112_2026.pdf",
+     "sha256": "7ea969707b8fff6a162a6dca5ba6db749d1e3ba262eeeed965c9ed8d489b8230"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-113-2026",
+   "path": "avocatul-poporului/recomandare/2026/113",
+   "short": "Recomandarea Avocatul Poporului nr. 113/2026",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Maramureș",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-113_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-113_2026.pdf",
+     "sha256": "ad3e074c3ef67423a2f9808e4f575989c8819f33662691de61207872abddabc3"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-114-2026",
+   "path": "avocatul-poporului/recomandare/2026/114",
+   "short": "Recomandarea Avocatul Poporului nr. 114/2026",
+   "title": "Către șeful Inspectoratului de Poliție Județean Mureș",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-114_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-114_2026.pdf",
+     "sha256": "40cf75e647319ffe2449ec10ffc878729e710a3bf18ac95220c68c09020a4c35"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-115-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/115-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-03-18",
+   "title": "Recomandarea Avocatului Poporului din 2026-03-18",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-115_2_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-115_2_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-115-2026",
+   "path": "avocatul-poporului/recomandare/2026/115",
+   "short": "Recomandarea Avocatul Poporului nr. 115/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 115 din 2026-03-19",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-115_1_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-115_1_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-116-2026",
+   "path": "avocatul-poporului/recomandare/2026/116",
+   "short": "Recomandarea Avocatul Poporului nr. 116/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 116 din 2026-05-26",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-116_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-116_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-117-2026",
+   "path": "avocatul-poporului/recomandare/2026/117",
+   "short": "Recomandarea Avocatul Poporului nr. 117/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 117 din 2026-05-13",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-117_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-117_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-118-2026",
+   "path": "avocatul-poporului/recomandare/2026/118",
+   "short": "Recomandarea Avocatul Poporului nr. 118/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 118 din 2026-05-29",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-118_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-118_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-119-2026",
+   "path": "avocatul-poporului/recomandare/2026/119",
+   "short": "Recomandarea Avocatul Poporului nr. 119/2026",
+   "title": "Către șeful Inspectoratului de Poliție Județean Maramureș",
+   "url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-119_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/05/Recomandarea-119_2026.pdf",
+     "sha256": "442ebbdb1110b7515c2b83ba4ad3167a7222864c8101a364603aa715bd7c7cc6"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-12-2026",
+   "path": "avocatul-poporului/recomandare/2026/12",
+   "short": "Recomandarea Avocatul Poporului nr. 12/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 12 din 2026-01-08",
+   "url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea-12-2.pdf",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/01/Recomandarea-12-2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-120-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/120-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-05-12",
+   "title": "Recomandarea Avocatului Poporului din 2026-05-12",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-120.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-120.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-120-2026",
+   "path": "avocatul-poporului/recomandare/2026/120",
+   "short": "Recomandarea Avocatul Poporului nr. 120/2026",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială Constanța",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-120-1-.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-120-1-.pdf",
+     "sha256": "3bea7c36392c677d3138c664b4d31108b6f2d0055de28b4f2ecd1dd753d38b23"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-121-2026",
+   "path": "avocatul-poporului/recomandare/2026/121",
+   "short": "Recomandarea Avocatul Poporului nr. 121/2026",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Sector 6 București",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-121.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-121.pdf",
+     "sha256": "87323699cd9e0e286b4b38bbc5264168f181d12ebb14334be2e00dfcc98f2c41"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-122-2026",
+   "path": "avocatul-poporului/recomandare/2026/122",
+   "short": "Recomandarea Avocatul Poporului nr. 122/2026",
+   "title": "Către directorul Liceului Energetic Constanța, județul Constanța",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-122.pdf",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-122.pdf",
+     "sha256": "843d1200357f609c672ebe16a0585bb528078de4822c0d9a0c001fcea3e40593"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-123-2026",
+   "path": "avocatul-poporului/recomandare/2026/123",
+   "short": "Recomandarea Avocatul Poporului nr. 123/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 123 din 2026-05-28",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-123.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-123.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-124-2026",
+   "path": "avocatul-poporului/recomandare/2026/124",
+   "short": "Recomandarea Avocatul Poporului nr. 124/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 124 din 2026-05-20",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-124.pdf",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-124.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-125-2026",
+   "path": "avocatul-poporului/recomandare/2026/125",
+   "short": "Recomandarea Avocatul Poporului nr. 125/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 125 din 2026-05-28",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-125.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-125.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-126-2026",
+   "path": "avocatul-poporului/recomandare/2026/126",
+   "short": "Recomandarea Avocatul Poporului nr. 126/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 126 din 2026-05-28",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-126.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-126.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-127-2026",
+   "path": "avocatul-poporului/recomandare/2026/127",
+   "short": "Recomandarea Avocatul Poporului nr. 127/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 127 din 2026-02-11",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-127.pdf",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-127.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-128-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/128-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-06-06",
+   "title": "Recomandarea Avocatului Poporului din 2026-06-06",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea128_2026_1.pdf",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea128_2026_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-128-2026",
+   "path": "avocatul-poporului/recomandare/2026/128",
+   "short": "Recomandarea Avocatul Poporului nr. 128/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 128 din 2026-06-08",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-128_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-128_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-129-2026",
+   "path": "avocatul-poporului/recomandare/2026/129",
+   "short": "Recomandarea Avocatul Poporului nr. 129/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 129 din 2026-05-24",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea129_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea129_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-13-2026",
+   "path": "avocatul-poporului/recomandare/2026/13",
+   "short": "Recomandarea Avocatul Poporului nr. 13/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 13 din 2026-02-02",
+   "url": "https://avp.ro/wp-content/uploads/2026/02/Recomandarea13_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/02/Recomandarea13_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-130-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/130-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-03-10",
+   "title": "Către directorul Școlii Gimnaziale Glodeanu Siliștea, județul Buzău",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea130_2026_1.pdf",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea130_2026_1.pdf",
+     "sha256": "d41d44adb427eb56fe507621790bfd1de729ec85fc7362cfc0b84e9cdb5483c7"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-130-2026",
+   "path": "avocatul-poporului/recomandare/2026/130",
+   "short": "Recomandarea Avocatul Poporului nr. 130/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 130 din 2026-06-02",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea130_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea130_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-131-2026",
+   "path": "avocatul-poporului/recomandare/2026/131",
+   "short": "Recomandarea Avocatul Poporului nr. 131/2026",
+   "title": "Către directorul general al Institutului Național de Expertiză Medicală și Recuperare a Capacității de Muncă",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea131_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea131_2026.pdf",
+     "sha256": "0b7eaf5592e18f5acdb7e9bdaf54bf52c2f99fc440fa3292abb76ae6bf6d3eec"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-132-2026",
+   "path": "avocatul-poporului/recomandare/2026/132",
+   "short": "Recomandarea Avocatul Poporului nr. 132/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 132 din 2026-04-16",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea132_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea132_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-133-2026",
+   "path": "avocatul-poporului/recomandare/2026/133",
+   "short": "Recomandarea Avocatul Poporului nr. 133/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 133 din 2026-02-16",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-133-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-133-2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-134-2026",
+   "path": "avocatul-poporului/recomandare/2026/134",
+   "short": "Recomandarea Avocatul Poporului nr. 134/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 134 din 2026-04-06",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-134-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-134-2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-135-2026",
+   "path": "avocatul-poporului/recomandare/2026/135",
+   "short": "Recomandarea Avocatul Poporului nr. 135/2026",
+   "title": "Către managerul interimar al Operei Naționale Române din Timișoara",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-135-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-135-2026.pdf",
+     "sha256": "1fae12eee8ddeb9f3f9df270e30d0187c40522a2942de3b31808d53c9e2e3652"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-136-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/136-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-03-27",
+   "title": "Către șeful Inspectoratului de Poliție Județean Suceava",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-136-2026-IPJ-SV.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-136-2026-IPJ-SV.pdf",
+     "sha256": "c62165582b4a1aeeec605597645b2e76c010395b37c74910c9ac6dd6a31e6107"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-136-2026",
+   "path": "avocatul-poporului/recomandare/2026/136",
+   "short": "Recomandarea Avocatul Poporului nr. 136/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 136 din 2026-03-27",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-136-2026-DGASPC-SV.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-136-2026-DGASPC-SV.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-136-3-2026",
+   "path": "avocatul-poporului/recomandare/2026/136-3",
+   "short": "Recomandarea Avocatul Poporului din 2026-03-27",
+   "title": "Recomandarea Avocatului Poporului din 2026-03-27",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-136-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-136-2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-137-2026",
+   "path": "avocatul-poporului/recomandare/2026/137",
+   "short": "Recomandarea Avocatul Poporului nr. 137/2026",
+   "title": "Către șeful Inspectoratului de Poliție Județean Teleorman",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-137-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-137-2026.pdf",
+     "sha256": "ac5ad341cfdfb7b815ac30d4302f3505d4bf261f031910c223422aec9d16a92d"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-138-2026",
+   "path": "avocatul-poporului/recomandare/2026/138",
+   "short": "Recomandarea Avocatul Poporului nr. 138/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 138 din 2026-03-13",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-138-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-138-2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-139-2026",
+   "path": "avocatul-poporului/recomandare/2026/139",
+   "short": "Recomandarea Avocatul Poporului nr. 139/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 139 din 2026-06-19",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-139-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-139-2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-14-2026",
+   "path": "avocatul-poporului/recomandare/2026/14",
+   "short": "Recomandarea Avocatul Poporului nr. 14/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 14 din 2026-01-29",
+   "url": "https://avp.ro/wp-content/uploads/2026/02/Recomandarea-14_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/02/Recomandarea-14_2026.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-140-2026",
+   "path": "avocatul-poporului/recomandare/2026/140",
+   "short": "Recomandarea Avocatul Poporului nr. 140/2026",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Sălaj",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-140-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-140-2026.pdf",
+     "sha256": "69ed6396a6c50fa03d84f9af68be6404e9125f3da5dade8eaefeb7c60f40dd69"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-141-2-2026",
+   "path": "avocatul-poporului/recomandare/2026/141-2",
+   "short": "Recomandarea Avocatul Poporului din 2026-01-15",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Bihor",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-141-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-141-2026.pdf",
+     "sha256": "2cc3b199abb599d1b050e7a9c1e6e86fcd4f58d21b19d8bc3c38fedf436dfdb3"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-141-2026",
+   "path": "avocatul-poporului/recomandare/2026/141",
+   "short": "Recomandarea Avocatul Poporului nr. 141/2026",
+   "title": "Către directorul executiv al Direcției de Asistență Socială Oradea",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-141-2026-DAS-Oradea.pdf",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-141-2026-DAS-Oradea.pdf",
+     "sha256": "29e01e10eded3ffd92fe653d6acf2937931e224427df9bfde85fd9738306ffc1"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-142-2026",
+   "path": "avocatul-poporului/recomandare/2026/142",
+   "short": "Recomandarea Avocatul Poporului nr. 142/2026",
+   "title": "Către șeful Inspectoratului de Poliție Județean Covasna",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Rec-142-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Rec-142-2026.pdf",
+     "sha256": "aac8d1ee11f8f588b0cae2e4a66413b7d9716902b3b7c5ceabcf3a9f485e440b"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-143-2026",
+   "path": "avocatul-poporului/recomandare/2026/143",
+   "short": "Recomandarea Avocatul Poporului nr. 143/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 143 din 2026-05-25",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-143.pdf",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-143.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-144-2026",
+   "path": "avocatul-poporului/recomandare/2026/144",
+   "short": "Recomandarea Avocatul Poporului nr. 144/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 144 din 2026-04-14",
+   "url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-144.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/06/Recomandarea-144.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-145-2026",
+   "path": "avocatul-poporului/recomandare/2026/145",
+   "short": "Recomandarea Avocatul Poporului nr. 145/2026",
+   "title": "Către primarul comunei Vidra, județul Vrancea",
+   "url": "https://avp.ro/wp-content/uploads/2026/07/Recomandarea-145_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/07/Recomandarea-145_2026.pdf",
+     "sha256": "66261abdf12cb3adc5a536c8a7b35140c2cded009b9539b01eeea5bd72b30b08"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-146-2026",
+   "path": "avocatul-poporului/recomandare/2026/146",
+   "short": "Recomandarea Avocatul Poporului nr. 146/2026",
+   "title": "Către primarul comunei Săuca, județul Satu Mare",
+   "url": "https://avp.ro/wp-content/uploads/2026/07/Recomandarea-146_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/07/Recomandarea-146_2026.pdf",
+     "sha256": "c378ea557e3b297c9923410d1974b37745c76419a0073cd7972ab075a6b867a6"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-147-2026",
+   "path": "avocatul-poporului/recomandare/2026/147",
+   "short": "Recomandarea Avocatul Poporului nr. 147/2026",
+   "title": "Recomandarea Avocatului Poporului nr. 147 din 2026-06-05",
+   "url": "https://avp.ro/wp-content/uploads/2026/07/Recomandarea-147_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2026/07/Recomandarea-147_2026.pdf",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

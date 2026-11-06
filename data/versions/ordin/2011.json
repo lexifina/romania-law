@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-108-2011",
+   "path": "ordin/agricultura/2011/108",
+   "short": "Ordin agricultura nr. 108/2011",
+   "title": "Ordinul nr. 108/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128545",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128545",
+     "sha256": "db389970c11df7acff3a4b3627d72d7daeed27d2a13286d1824f79ad0ecb6b07"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-11-2011",
    "path": "ordin/agricultura/2011/11",
    "short": "Ordin agricultura nr. 11/2011",
@@ -4413,6 +4428,21 @@
    ]
   },
   {
+   "slug": "ordin-cnas-29-2011",
+   "path": "ordin/cnas/2011/29",
+   "short": "Ordin cnas nr. 29/2011",
+   "title": "Ordinul nr. 29/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125427",
+   "versions": [
+    {
+     "from": "2011-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/125427",
+     "sha256": "78671285ebd8b858edb48cdb6eb62d7acfe9fbd88c02a8ae715c8b4099f25cc4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-435-2011",
    "path": "ordin/cnas/2011/435",
    "short": "Ordin cnas nr. 435/2011",
@@ -4469,6 +4499,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128208",
      "sha256": "582edf15139713422f7b99226692c30dc3712f6fd4e44e57670274f130420092"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-520-2011",
+   "path": "ordin/cnas/2011/520",
+   "short": "Ordin cnas nr. 520/2011",
+   "title": "Ordinul nr. 520/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128619",
+   "versions": [
+    {
+     "from": "2011-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128619",
+     "sha256": "b75e0881eaff1de4693ee663e559a84bad931a287953bff652f84acb3e22b90b"
     }
    ]
   },
@@ -5163,6 +5208,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-11-2011",
+   "path": "ordin/csa/2011/11",
+   "short": "Ordin csa nr. 11/2011",
+   "title": "Ordinul nr. 11/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128490",
+   "versions": [
+    {
+     "from": "2011-05-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128490",
+     "sha256": "29ffd47c62bb3624258af30f6b2f458964620a799b1fcd3d04578f197e829ce8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-12-2011",
    "path": "ordin/csa/2011/12",
    "short": "Ordin csa nr. 12/2011",
@@ -5354,6 +5414,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128355",
      "sha256": "233914e4a1cbef57b42fed23df64f73d0f7a8192221817f590ab20d49cb04374"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2066-2011",
+   "path": "ordin/cultura/2011/2066",
+   "short": "Ordin cultura nr. 2066/2011",
+   "title": "Ordinul nr. 2.066/2011 pentru aprobarea Normelor metodologice privind stabilirea, vărsarea și gestionarea sumelor care constituie Fondul cultural național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126778",
+   "versions": [
+    {
+     "from": "2011-03-14",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126778",
+     "sha256": "2e605ae026068362812a9575e8a0f1e1087301943f13ad09c0f74e16c0fd6f76"
     }
    ]
   },
@@ -6423,6 +6498,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4285-2011",
+   "path": "ordin/educatie/2011/4285",
+   "short": "Ordin educatie nr. 4285/2011",
+   "title": "Ordinul nr. 4.285/2011 privind repartizarea cifrei de școlarizare pentru învățământul universitar de licență în vederea admiterii la studii în anul universitar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128956",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128956",
+     "sha256": "12d2533d8c45c684c9b5afeb5b19d4e38d3100e373d2ac9a1a065792eec10137"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4292-2011",
+   "path": "ordin/educatie/2011/4292",
+   "short": "Ordin educatie nr. 4292/2011",
+   "title": "Ordinul nr. 4.292/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129296",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129296",
+     "sha256": "d0de33ef206b5f7ca105dfa042a50b06d5426c0b1e154eda88a5873b02771d7f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4345-2011",
    "path": "ordin/educatie/2011/4345",
    "short": "Ordin educatie nr. 4345/2011",
@@ -6869,6 +6974,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132300",
      "sha256": "ff0259f41666099dd6bed9b7c90062ea50edc0094111552da406721625789bac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5485-2011",
+   "path": "ordin/educatie/2011/5485",
+   "short": "Ordin educatie nr. 5485/2011",
+   "title": "Ordinul nr. 5.485/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132323",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/132323",
+     "sha256": "40e4b517bdc09e6c41811dc124a7b4434b53a649621d9c978acc41a960bb5cee"
     }
    ]
   },
@@ -7368,6 +7488,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5577-2011",
+   "path": "ordin/educatie/2011/5577",
+   "short": "Ordin educatie nr. 5577/2011",
+   "title": "Ordinul nr. 5.577/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132611",
+   "versions": [
+    {
+     "from": "2011-11-02",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/132611",
+     "sha256": "2e83188c04e5996527f65e12a4b73c877215252a12d6a3eea98e08fce088b00c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5689-2011",
    "path": "ordin/educatie/2011/5689",
    "short": "Ordin educatie nr. 5689/2011",
@@ -7409,6 +7544,21 @@
      "units": 58,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132468",
      "sha256": "72772038dfaa8d7bc6752d3ae77002b60df76fdf8b54f15c3b9506ce0bd2bdf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5703-2011",
+   "path": "ordin/educatie/2011/5703",
+   "short": "Ordin educatie nr. 5703/2011",
+   "title": "Ordinul nr. 5.703/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133656",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/133656",
+     "sha256": "3d125270ab93cf58e1982480efbd52bce20d16e1d0271b8a79a02758a2a82de8"
     }
    ]
   },
@@ -7514,6 +7664,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135256",
      "sha256": "a8dad8b6b7db8656fb2663f172f942092b80f833da1790b71b04e1884ee9d7bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-europene-166-2011",
+   "path": "ordin/europene/2011/166",
+   "short": "Ordin europene nr. 166/2011",
+   "title": "Ordinul nr. 166/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133745",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/133745",
+     "sha256": "05367736d338b15ea2d30c6cb395ea6eb2d78287f0ef5bbd9a00784db5ff90bf"
     }
    ]
   },
@@ -8324,6 +8489,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129926",
      "sha256": "2f6daeacd9bcf0e3acf635c60c893546f234c5e748492e71f902213ac9872cf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2239-2011",
+   "path": "ordin/finante/2011/2239",
+   "short": "Ordin finante nr. 2239/2011",
+   "title": "Ordinul nr. 2.239/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130287",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/130287",
+     "sha256": "ea288fdd364b0366a2c623bf89d7b41fc63c17dc3deec4c74b774b1598157b74"
     }
    ]
   },
@@ -10443,6 +10623,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-2691-c-2011",
+   "path": "ordin/justitie/2011/2691-c",
+   "short": "Ordin justitie nr. 2691/C/2011",
+   "title": "Ordinul nr. 2.691/C/2011 pentru aprobarea Regulamentului privind criteriile și modul de organizare și desfășurare ale examenului de promovare în grade sau trepte profesionale imediat superioare a personalului contractual din cadrul instanțelor judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134335",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134335",
+     "sha256": "f10419d8f16437c9a3668ea8b1eb781b43a0ff1e82ce6bf0c1a93fd26e80be69"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-2698-2011",
    "path": "ordin/justitie/2011/2698",
    "short": "Ordin justitie nr. 2698/2011",
@@ -10709,6 +10904,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128217",
      "sha256": "49b9c02f7ffd520337015a1a3a1e05b7f677d9c6eff33590133e4357670ce5a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1278-2011",
+   "path": "ordin/mediu/2011/1278",
+   "short": "Ordin mediu nr. 1278/2011",
+   "title": "Ordinul nr. 1.278/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128492",
+   "versions": [
+    {
+     "from": "2011-05-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128492",
+     "sha256": "e4356767f1537b8197aaa3895f620b5090b522edb56d348a015f224144657fe8"
     }
    ]
   },
@@ -11328,6 +11538,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-772-2011",
+   "path": "ordin/mediu/2011/772",
+   "short": "Ordin mediu nr. 772/2011",
+   "title": "Ordinul nr. 772/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126105",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/126105",
+     "sha256": "072d619244ce33dea34e8c75f4dfd2bfd24f74234045af2e1516c652e3a8a5b8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-869-2011",
    "path": "ordin/mediu/2011/869",
    "short": "Ordin mediu nr. 869/2011",
@@ -11669,6 +11894,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126500",
      "sha256": "a616565c0d71ecfc7376bfb3fb6f46ae66edb7ea5678b3af785f0b0531d5d578"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-159-2011",
+   "path": "ordin/munca/2011/159",
+   "short": "Ordin munca nr. 159/2011",
+   "title": "Ordinul nr. 159/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125774",
+   "versions": [
+    {
+     "from": "2011-02-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/125774",
+     "sha256": "88e32cfb6889a6f525202bac99079d3f7e8cc453300211c7737a1e86e5de4607"
     }
    ]
   },
@@ -15408,6 +15648,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-28-2011",
+   "path": "ordin/bnr/2011/28",
+   "short": "Ordin bnr nr. 28/2011",
+   "title": "Ordinul nr. 28/2011 pentru modificarea modelelor situațiilor financiare periodice și a normelor metodologice privind întocmirea și utilizarea acestora, aplicabile instituțiilor financiare nebancare, aprobate prin Ordinul Băncii Naționale a României nr. 18/2007",
+   "url": "https://www.bnr.ro/19758-ordin-28-2011",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19758-ordin-28-2011",
+     "sha256": "f75783f45ad0c7971604ebb41ce2f78b472cb931217b92877c96b0c4bee28429"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-301-2011",
    "path": "ordin/bnr/2011/301",
    "short": "Ordin bnr nr. 301/2011",
@@ -15449,6 +15704,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131190",
      "sha256": "72f32f2a9586d0319b96d2701b322209a4ee233dfb08cc41ca68e843d0276691"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-95-2011",
+   "path": "ordin/bnr/2011/95",
+   "short": "Ordin bnr nr. 95/2011",
+   "title": "Ordinul nr. 95/2011 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor tranzacții financiare",
+   "url": "https://www.bnr.ro/20120-ordin-95-2011",
+   "versions": [
+    {
+     "from": "2011-02-02",
+     "units": 4,
+     "source_url": "https://www.bnr.ro/20120-ordin-95-2011",
+     "sha256": "b46889fde8cd558fc4c4c9808a306828c6f9fc264e5ee3e129b010f71e2885b3"
     }
    ]
   },

@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "norma-bnr-11-1997",
+   "path": "norma/bnr/1997/11",
+   "short": "Norma bnr nr. 11/1997",
+   "title": "Norma nr. 11/1997 privind intocmirea si verificarea raportarilor semestriale ale societatilor bancare pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38856",
+   "versions": [
+    {
+     "from": "1997-09-03",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21048-norma-metodologica-11-1997",
+     "sha256": "7d796f61574ac426273897abd40a6b4b1fbcdc26b0d9f8bb1e0c195863d418c7"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-2-1997",
    "path": "norma/bnr/1997/2",
    "short": "Norma bnr nr. 2/1997",

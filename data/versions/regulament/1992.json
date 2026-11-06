@@ -31,6 +31,21 @@
      "sha256": "02e7f61f235f6c4a63901237bf8261b2ba8c0109e1e9f294838fcec24ddb2da3"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-149-1992",
+   "path": "regulament/bnr/1992/149",
+   "short": "Regulament bnr nr. 149/1992",
+   "title": "Regulamentul nr. 149/1992 privind rezervele obligatorii ale societăților bancare la Banca Națională a României",
+   "url": "https://www.bnr.ro/21475-regulament-149-1992",
+   "versions": [
+    {
+     "from": "1992-01-30",
+     "units": 12,
+     "source_url": "https://www.bnr.ro/21475-regulament-149-1992",
+     "sha256": "6df84e44b24968a7026a4b69c011d48bca0f97ecf74c9539f44b96ddc83a0c5d"
+    }
+   ]
   }
  ]
 }

@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "ordin-aaas-10-2003",
+   "path": "ordin/aaas/2003/10",
+   "short": "Ordin aaas nr. 10/2003",
+   "title": "Ordinul nr. 10/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"FORMIN\" - S.A. Caransebeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42539",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42539",
+     "sha256": "486455685173c46414fab2f24890e45a9078ea74895c60402c20ad834f75865f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-11-2003",
+   "path": "ordin/aaas/2003/11",
+   "short": "Ordin aaas nr. 11/2003",
+   "title": "Ordinul nr. 11/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"RETROM\" - S.A. Pașcani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42540",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42540",
+     "sha256": "c4c56d6bbcbc78b91409f3161553d74a9dcaec5fabf9d4321c675ef470df79ea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-118-2003",
    "path": "ordin/aaas/2003/118",
    "short": "Ordin aaas nr. 118/2003",
@@ -104,6 +134,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45711",
      "sha256": "6e34f108f832e096773ab4bab38af546eaaf4c9a1919b9e506228162028b227d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-14-2003",
+   "path": "ordin/aaas/2003/14",
+   "short": "Ordin aaas nr. 14/2003",
+   "title": "Ordinul nr. 14/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Ceritex\" - S.A. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42590",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42590",
+     "sha256": "b513b22e7f8d692cae14762ca8769ccfe4f6d0d55f1344384d27f8ad8dc1ffe9"
     }
    ]
   },
@@ -528,6 +573,21 @@
    ]
   },
   {
+   "slug": "ordin-aaas-5-2003",
+   "path": "ordin/aaas/2003/5",
+   "short": "Ordin aaas nr. 5/2003",
+   "title": "Ordinul nr. 5/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Carom - Agenție Prestări Servicii Asigurări\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41810",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41810",
+     "sha256": "3a55a99f83ab577a3044b75982042ac32085e9a11d7172aa8da2bf1ae46a5500"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-60-2003",
    "path": "ordin/aaas/2003/60",
    "short": "Ordin aaas nr. 60/2003",
@@ -779,6 +839,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48457",
      "sha256": "856de02d15b64f1e701a77757fbd8de2bd1beb1fd1e370a1786a7e1da2920e90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1013-2003",
+   "path": "ordin/agricultura/2003/1013",
+   "short": "Ordin agricultura nr. 1013/2003",
+   "title": "Ordinul nr. 1.013/2003 pentru modificarea art. 1 din Ordinul ministrului agriculturii, alimentației și pădurilor nr. 391/2003 privind predarea spre exploatare a masei lemnoase din fondul forestier proprietate publică a statului, care face obiectul vânzării de către Regia Națională a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48384",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48384",
+     "sha256": "3a7bf586cff580a3768a7439ca4605afe5c5f5aed6d8ca5102ec6b9fcc4da594"
     }
    ]
   },
@@ -1713,6 +1788,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-210-2003",
+   "path": "ordin/agricultura/2003/210",
+   "short": "Ordin agricultura nr. 210/2003",
+   "title": "Ordinul nr. 210/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42968",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/42968",
+     "sha256": "1b0cf890f133e0eb6f51647218dac916122e3a358c97b57c551a013802d7744f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-214-2003",
    "path": "ordin/agricultura/2003/214",
    "short": "Ordin agricultura nr. 214/2003",
@@ -2268,6 +2358,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-297-2003",
+   "path": "ordin/agricultura/2003/297",
+   "short": "Ordin agricultura nr. 297/2003",
+   "title": "Ordinul nr. 297/2003 pentru aprobarea Protocolului-cadru de transfer al proprietății asupra infrastructurii amenajărilor interioare pentru irigații de la Ministerul Agriculturii, Alimentației și Pădurilor - Societatea Naționala \"Îmbunătățiri Funciare\" - S.A. la asociațiile utilizatorilor de apa pentru irigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43592",
+   "versions": [
+    {
+     "from": "2003-05-09",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43592",
+     "sha256": "cb996ce5d30306a34c3507f27fd93d76109f57c187617bb450b531677b4ebf23"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-305-2003",
    "path": "ordin/agricultura/2003/305",
    "short": "Ordin agricultura nr. 305/2003",
@@ -2628,6 +2733,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-370-2003",
+   "path": "ordin/agricultura/2003/370",
+   "short": "Ordin agricultura nr. 370/2003",
+   "title": "Ordinul nr. 370/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44441",
+   "versions": [
+    {
+     "from": "2003-07-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/44441",
+     "sha256": "fe72694d025ca6cecf858c8ff5788f2452b22b01bcb53743cea4cb19bacdc2c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-376-2003",
+   "path": "ordin/agricultura/2003/376",
+   "short": "Ordin agricultura nr. 376/2003",
+   "title": "Ordinul nr. 376/2003 pentru autorizarea Organizației Interprofesionale Naționale \"Laptele\" din România - O.I.N.L.R.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44248",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44248",
+     "sha256": "afdb1e16b9f0f0c17585a38578b8737e8a8afae8bbe81bfeca19e65e2fe0dd3f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-377-2003",
    "path": "ordin/agricultura/2003/377",
    "short": "Ordin agricultura nr. 377/2003",
@@ -2883,6 +3018,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-454-2003",
+   "path": "ordin/agricultura/2003/454",
+   "short": "Ordin agricultura nr. 454/2003",
+   "title": "Ordinul nr. 454/2003 privind aprobarea Normelor tehnice pentru protecția pădurilor și a Îndrumărilor privind aplicarea Normelor tehnice pentru protecția pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45459",
+   "versions": [
+    {
+     "from": "2003-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45459",
+     "sha256": "098a0fa98613de8c989ce9397249c13d2f7e20a7e68b551e41bac624616c0855"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-455-2003",
    "path": "ordin/agricultura/2003/455",
    "short": "Ordin agricultura nr. 455/2003",
@@ -2973,6 +3123,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-47-2003",
+   "path": "ordin/agricultura/2003/47",
+   "short": "Ordin agricultura nr. 47/2003",
+   "title": "Ordinul nr. 47/2003 privind modificarea și completarea Ordinului ministrului agriculturii, alimentației și pădurilor nr. 491/2002 pentru aprobarea Normei sanitare veterinare stabilind criteriile pentru vaccinurile utilizate contra bolii de Newcastle în contextul programelor de vaccinare de rutina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41873",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41873",
+     "sha256": "2372a69590263cbca4cc164d724a92130d3599cef63b39f3044570a2e387355a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-470-2003",
    "path": "ordin/agricultura/2003/470",
    "short": "Ordin agricultura nr. 470/2003",
@@ -2999,6 +3164,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45850",
      "sha256": "bf8c4700b8161881d96517f57d28608faa7f0cf1921770138e157fda15f40360"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-479-2003",
+   "path": "ordin/agricultura/2003/479",
+   "short": "Ordin agricultura nr. 479/2003",
+   "title": "Ordinul nr. 479/2003 pentru modificarea anexei nr. 3 la Ordinul ministrului agriculturii, alimentației și pădurilor nr. 400/2001 privind aprobarea Instrucțiunilor pentru organizarea și desfășurarea activității personalului sanitar veterinar în unitățile prevăzute la art. 30 alin. 3 din Legea sanitară veterinara nr. 60/1974, republicată, cu modificările și completările ulterioare, precum și privind aprobarea tarifelor care se percep pentru activitatea de asistența, inspecție și control sanitar veterinar de stat în unitățile de tăiere a animalelor, inclusiv a păsărilor, de colectare, prelucrare, procesare, depozitare și valorificare a produselor de origine animala, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45591",
+   "versions": [
+    {
+     "from": "2003-08-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45591",
+     "sha256": "46c4c89660ec476deb2a82d0497bfc9c4dfa7f5514f63a47bb0d466085ac579c"
     }
    ]
   },
@@ -3134,6 +3314,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46104",
      "sha256": "60284998379e02ff2e8c339facc2f6053742f69ae730c8b3588703d06581be4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-501-2003",
+   "path": "ordin/agricultura/2003/501",
+   "short": "Ordin agricultura nr. 501/2003",
+   "title": "Ordinul nr. 501/2003 privind aprobarea Regulamentului pentru întocmirea inventarului inițial al surselor de poluare pentru mediul acvatic și apele subterane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45721",
+   "versions": [
+    {
+     "from": "2003-08-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45721",
+     "sha256": "dc2a7021c8cd217087901617e2c7a9e6d20644e7e9eced6ea30fa632c5874600"
     }
    ]
   },
@@ -3509,6 +3704,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48069",
      "sha256": "8f37e351e9a298d87a2c223d8d72d58bf66e5cfba9b8c4e9a58409d3fa1c90b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-566-2003",
+   "path": "ordin/agricultura/2003/566",
+   "short": "Ordin agricultura nr. 566/2003",
+   "title": "Ordinul nr. 566/2003 pentru aprobarea Documentului de referința privind cele mai bune tehnici disponibile (BAT) pentru industria producătoare de ciment și var",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46595",
+   "versions": [
+    {
+     "from": "2003-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46595",
+     "sha256": "ee3364c396ba8529a3e31e2091f1ccff378a5d6e1ed4563cfba6a9cde7b66211"
     }
    ]
   },
@@ -4053,6 +4263,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-727-2003",
+   "path": "ordin/agricultura/2003/727",
+   "short": "Ordin agricultura nr. 727/2003",
+   "title": "Ordinul nr. 727/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47555",
+   "versions": [
+    {
+     "from": "2003-11-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/47555",
+     "sha256": "ea750fa6737602d72a6db3c8e8e677a9f081b4e416f68ef3db46810fc95a6352"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-728-2003",
    "path": "ordin/agricultura/2003/728",
    "short": "Ordin agricultura nr. 728/2003",
@@ -4244,6 +4469,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42281",
      "sha256": "1f496fce5433b68c2ad76b51c560249d7f2be2a1aa23ad9ba79e9435e53d39ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-776-2003",
+   "path": "ordin/agricultura/2003/776",
+   "short": "Ordin agricultura nr. 776/2003",
+   "title": "Ordinul nr. 776/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46955",
+   "versions": [
+    {
+     "from": "2003-11-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/46955",
+     "sha256": "0e26ce014152a65d643bff73c3837c1791945437c8df1415cef7625af5ea3c63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-778-2003",
+   "path": "ordin/agricultura/2003/778",
+   "short": "Ordin agricultura nr. 778/2003",
+   "title": "Ordinul nr. 778/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46998",
+   "versions": [
+    {
+     "from": "2003-11-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/46998",
+     "sha256": "8fbcab044660acd93976b0b970eb4f9fa2a88d03fb58a4bd24a98153b44a9b0b"
     }
    ]
   },
@@ -4604,6 +4859,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42018",
      "sha256": "7ee7df832ef3ba5e05046a31d479b260f1de63f5dd9e8458d2830e106a8d9044"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-850-2003",
+   "path": "ordin/agricultura/2003/850",
+   "short": "Ordin agricultura nr. 850/2003",
+   "title": "Ordinul nr. 850/2003 privind procedura de încredințare a administrării sau de atribuire a custodiei ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47634",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47634",
+     "sha256": "26e329d286890132092fb094c3c25af83bc9782dd0116b233654a1575cfcd9b6"
     }
    ]
   },
@@ -6138,6 +6408,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-16-2003",
+   "path": "ordin/comunicatii/2003/16",
+   "short": "Ordin comunicatii nr. 16/2003",
+   "title": "Ordinul nr. 16/2003 privind procedura de avizare a instrumentelor de plată cu acces la distanta, de tipul aplicațiilor Internet-banking sau home-banking",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41901",
+   "versions": [
+    {
+     "from": "2003-02-20",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41901",
+     "sha256": "509a4bc7cb7b65be55e551a74206bea00b997d309512b2455d53435a5ee52b4e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-164-2003",
    "path": "ordin/comunicatii/2003/164",
    "short": "Ordin comunicatii nr. 164/2003",
@@ -6333,6 +6618,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-86-2003",
+   "path": "ordin/comunicatii/2003/86",
+   "short": "Ordin comunicatii nr. 86/2003",
+   "title": "Ordinul nr. 86/2003 privind adoptarea unor reglementări tehnice comune europene ca reglementări tehnice naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42716",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42716",
+     "sha256": "f922ca1a810354d5a296362fdf10eae71c0bcf747856ed71e922f41198c41420"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-136-2003",
    "path": "ordin/concurenta/2003/136",
    "short": "Ordin concurenta nr. 136/2003",
@@ -6419,6 +6719,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46732",
      "sha256": "d2528b135f2619eb81aa70691b77a307d30ab02117e0af8caa02ed6f91dce48a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-copii-139-2003",
+   "path": "ordin/copii/2003/139",
+   "short": "Ordin copii nr. 139/2003",
+   "title": "Ordinul nr. 139/2003 privind aprobarea Criteriilor specifice Autorității Naționale pentru Protecția Copilului și Adopție persoanelor juridice de drept privat fără scop patrimonial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46736",
+   "versions": [
+    {
+     "from": "2003-10-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46736",
+     "sha256": "dbe53f50989fcf5b1bd1f16fbe276f08ec1f7a147a25036263147d91792eb147"
     }
    ]
   },
@@ -6723,6 +7038,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2807-2003",
+   "path": "ordin/cultura/2003/2807",
+   "short": "Ordin cultura nr. 2807/2003",
+   "title": "Ordinul nr. 2.807/2003 pentru modificarea Ordinului ministrului culturii și cultelor nr. 2.682/2003 privind aprobarea Normelor metodologice de clasare și evidenta a monumentelor istorice, a Listei monumentelor istorice, a Fisei analitice de evidenta a monumentelor istorice și a Fisei minimale de evidenta a monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46808",
+   "versions": [
+    {
+     "from": "2003-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46808",
+     "sha256": "4518e944bbd1a01fd8f43663ba0f23206b0f4be8f3ffde4dd47b83579afecb1b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2823-2003",
    "path": "ordin/cultura/2003/2823",
    "short": "Ordin cultura nr. 2823/2003",
@@ -6828,6 +7158,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-140-2003",
+   "path": "ordin/dezvoltare/2003/140",
+   "short": "Ordin dezvoltare nr. 140/2003",
+   "title": "Ordinul nr. 140/2003 pentru aprobarea Regulamentului privind acordarea licențelor și a autorizațiilor în sectorul serviciilor publice de gospodărie comunală, condițiile de suspendare, de retragere sau de modificare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41975",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41975",
+     "sha256": "7291fda3a47bfc19d60fecf2f8f23106177e0b88ae98fe72f0f3e194f24f2c9a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-147-2003",
    "path": "ordin/dezvoltare/2003/147",
    "short": "Ordin dezvoltare nr. 147/2003",
@@ -6903,6 +7248,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-192-2003",
+   "path": "ordin/dezvoltare/2003/192",
+   "short": "Ordin dezvoltare nr. 192/2003",
+   "title": "Ordinul nr. 192/2003 privind înființarea agențiilor teritoriale ale Autorității Naționale de Reglementare pentru Serviciile Publice de Gospodărie Comunală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43520",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43520",
+     "sha256": "9502c21ca7105a85697519ef6b5117323bbf5e55fea88ada4f52cf07e412334d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-197-2003",
    "path": "ordin/dezvoltare/2003/197",
    "short": "Ordin dezvoltare nr. 197/2003",
@@ -6959,6 +7319,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43273",
      "sha256": "d46cbd3d98cbb904f4a0a5da4034a9a176c76e74c940f64734734bd7e266e794"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-221-2003",
+   "path": "ordin/dezvoltare/2003/221",
+   "short": "Ordin dezvoltare nr. 221/2003",
+   "title": "Ordinul nr. 221/2003 pentru modificarea Ordinului ministrului transporturilor nr. 922/2000 privind aprobarea tarifelor pentru prestațiile de servicii specifice efectuate de Centrul de Perfecționare a Personalului din Marina Civilă și Calificare Personal pentru Exploatare Portuara Constanța, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42212",
+   "versions": [
+    {
+     "from": "2003-03-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42212",
+     "sha256": "b97d03b0e0ee3bb5b75dc9e5ce506fa74d25aa0b64c564018c75ab5769b4e3d8"
     }
    ]
   },
@@ -7353,6 +7728,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-562-2003",
+   "path": "ordin/dezvoltare/2003/562",
+   "short": "Ordin dezvoltare nr. 562/2003",
+   "title": "Ordinul nr. 562/2003 pentru stabilirea porturilor, a căilor navigabile, a zonelor sau porțiunilor din aceste zone, precum și a categoriilor de nave pentru care serviciile de siguranță sunt obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43236",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43236",
+     "sha256": "89df2fb81ef99578436914887760c6f3b6b3cf25ed4400d745c4bf1fc32c262a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-581-2003",
    "path": "ordin/dezvoltare/2003/581",
    "short": "Ordin dezvoltare nr. 581/2003",
@@ -7409,6 +7799,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43643",
      "sha256": "05ff06ef1d7a4a89878e53d6cd65a0c300cbf67c5b242118c56e678bcbbd722e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-6-2003",
+   "path": "ordin/dezvoltare/2003/6",
+   "short": "Ordin dezvoltare nr. 6/2003",
+   "title": "Ordinul nr. 6/2003 privind măsuri pentru respectarea disciplinei în domeniul urbanismului și amenajării teritoriului în scopul asigurării fluidizării traficului și a siguranței circulației pe drumurile publice de interes național și județean",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41999",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41999",
+     "sha256": "e7b7e2412ee29c4b0ddab26824a5fd0194b1169615485495bd28f8024a353e44"
     }
    ]
   },
@@ -7514,6 +7919,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44190",
      "sha256": "bb6cd55900f8a9b5cbd6175b0fb28735bdb19451395305907b1e23906af07fa7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-727-2003",
+   "path": "ordin/dezvoltare/2003/727",
+   "short": "Ordin dezvoltare nr. 727/2003",
+   "title": "Ordinul nr. 727/2003 privind aprobarea cerințelor și procedurilor armonizate pentru încărcarea și descărcarea în siguranța a vrachierelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44428",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44428",
+     "sha256": "af49db2012cd0c0a0d0b994f4b1f601e543731803e6da6379b4cae07f73c3778"
     }
    ]
   },
@@ -7754,6 +8174,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42436",
      "sha256": "e9130aa8521f5ffdf1693b97c626940f8da3d669e33bee855f4edcef77bfa717"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-101-2003",
+   "path": "ordin/economie/2003/101",
+   "short": "Ordin economie nr. 101/2003",
+   "title": "Ordinul nr. 101/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42474",
+   "versions": [
+    {
+     "from": "2003-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/42474",
+     "sha256": "5c4f598420dc55abe78da17002b09dbe974076f8ca55b6c89233372875d4e451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-102-2003",
+   "path": "ordin/economie/2003/102",
+   "short": "Ordin economie nr. 102/2003",
+   "title": "Ordinul nr. 102/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42873",
+   "versions": [
+    {
+     "from": "2003-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/42873",
+     "sha256": "e125124912c5a797e229ef6adfbc3c3ce769ba244a8fd2190432d378157f182e"
     }
    ]
   },
@@ -8088,6 +8538,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-139-2003",
+   "path": "ordin/economie/2003/139",
+   "short": "Ordin economie nr. 139/2003",
+   "title": "Ordinul nr. 139/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42718",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/42718",
+     "sha256": "c74f1526e1443b478dc710b0f4202f0336299ede81c4867532b38c73ead86887"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-140-2003",
    "path": "ordin/economie/2003/140",
    "short": "Ordin economie nr. 140/2003",
@@ -8193,6 +8658,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-172-2003",
+   "path": "ordin/economie/2003/172",
+   "short": "Ordin economie nr. 172/2003",
+   "title": "Ordinul nr. 172/2003 privind aprobarea formei contractului de execuție de lucrări de închidere a minelor și refacere a mediului/conservare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48393",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48393",
+     "sha256": "0bcba54278f585911f85018499d367b98125cc92b88fa98fc175706808e147d0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-184-2003",
    "path": "ordin/economie/2003/184",
    "short": "Ordin economie nr. 184/2003",
@@ -8264,6 +8744,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47224",
      "sha256": "b0c98a7b8e7dde0b3bdf28f43548e4f3628e9e18dcbd3814efa22ae62fb7aa72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-21-2003",
+   "path": "ordin/economie/2003/21",
+   "short": "Ordin economie nr. 21/2003",
+   "title": "Ordinul nr. 21/2003 pentru modificarea Ordinului ministrului industriei și resurselor nr. 432/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41840",
+   "versions": [
+    {
+     "from": "2003-02-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41840",
+     "sha256": "31698494f2a2f0eb8918845718b0541cde295836250fe2f0ac968ec8127f0f8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-210-2003",
+   "path": "ordin/economie/2003/210",
+   "short": "Ordin economie nr. 210/2003",
+   "title": "Ordinul nr. 210/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43030",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/43030",
+     "sha256": "30b7294d40a75c0a8b8deac54442a2978db5bde8ed4e954828ce337fcc803135"
     }
    ]
   },
@@ -8684,6 +9194,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48710",
      "sha256": "0a173d504b1fdf46fecf7186a863730363378f84da0eb035f860aab73968822c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-317-2003",
+   "path": "ordin/economie/2003/317",
+   "short": "Ordin economie nr. 317/2003",
+   "title": "Ordinul nr. 317/2003 privind calcularea prețului mediu ponderat de achiziție a gazelor naturale din import pentru anul 2002, aplicabil la valorificarea gazelor naturale din producția internă în anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44064",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44064",
+     "sha256": "854e3e324fed09a3aea21a0d1f6d5e52d26c17ef014b636108eb7fc2f9b8da64"
     }
    ]
   },
@@ -9348,6 +9873,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-93-2003",
+   "path": "ordin/economie/2003/93",
+   "short": "Ordin economie nr. 93/2003",
+   "title": "Ordinul nr. 93/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46018",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/46018",
+     "sha256": "38f0c7f3c3f489cfb4640625a3dde539309500728ceb35cc0d3dcdf188c304c7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-98-2003",
    "path": "ordin/economie/2003/98",
    "short": "Ordin economie nr. 98/2003",
@@ -9374,6 +9914,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42502",
      "sha256": "28406ac885cb68876e484187ea484fab10058e07ab8f62abaa176d3dff8f7d56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3214-2003",
+   "path": "ordin/educatie/2003/3214",
+   "short": "Ordin educatie nr. 3214/2003",
+   "title": "Ordinul nr. 3.214/2003 pentru aprobarea Metodologiei privind acordarea salariului de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41844",
+   "versions": [
+    {
+     "from": "2003-02-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41844",
+     "sha256": "cd4d928cc302491a51cfadcb7633421246c7510e0eb31a8372c78ea8283a5217"
     }
    ]
   },
@@ -9633,6 +10188,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5574-2003",
+   "path": "ordin/educatie/2003/5574",
+   "short": "Ordin educatie nr. 5574/2003",
+   "title": "Ordinul nr. 5.574/2003 privind aprobarea Metodologiei de evaluare a unităților de învățământ preuniversitar în vederea acordării autorizației de încredere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48631",
+   "versions": [
+    {
+     "from": "2003-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48631",
+     "sha256": "df527a53b2672e54c3e1c10ce7f992a0258f0d6aa7846f6254dc035022860ee6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5643-2003",
    "path": "ordin/educatie/2003/5643",
    "short": "Ordin educatie nr. 5643/2003",
@@ -9723,6 +10293,21 @@
    ]
   },
   {
+   "slug": "ordin-exporturi-179-2003",
+   "path": "ordin/exporturi/2003/179",
+   "short": "Ordin exporturi nr. 179/2003",
+   "title": "Ordinul nr. 179/2003 privind raportarea derulării operațiunilor de import de produse și tehnologii cu dubla utilizare, altele decât cele sensibile și foarte sensibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42870",
+   "versions": [
+    {
+     "from": "2003-04-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42870",
+     "sha256": "9a13457db4de34120e051de5cdc7e4a04a9d212e6751463b9c2a40a31847b3e4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-exporturi-418-2003",
    "path": "ordin/exporturi/2003/418",
    "short": "Ordin exporturi nr. 418/2003",
@@ -9794,6 +10379,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41766",
      "sha256": "afec9fa18444e2080b09848570816f2f93a745c7958308427447af221566b340"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1074-2003",
+   "path": "ordin/finante/2003/1074",
+   "short": "Ordin finante nr. 1074/2003",
+   "title": "Ordinul nr. 1.074/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45675",
+   "versions": [
+    {
+     "from": "2003-08-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45675",
+     "sha256": "ce9c4197457b09c02e8159cd8a9101d90e0c8cdd328e8285e282fb8634bb69a1"
     }
    ]
   },
@@ -10383,6 +10983,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1819-2003",
+   "path": "ordin/finante/2003/1819",
+   "short": "Ordin finante nr. 1819/2003",
+   "title": "Ordinul nr. 1.819/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48875",
+   "versions": [
+    {
+     "from": "2003-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/48875",
+     "sha256": "d0110651d599c2a379de4789ade6344d75ac6c417296d6de1d91d9802dc55278"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1826-2003",
    "path": "ordin/finante/2003/1826",
    "short": "Ordin finante nr. 1826/2003",
@@ -10424,6 +11039,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48925",
      "sha256": "76dfee71941d2cc0c91efbf3feaa8c6478aba9d85b0507f14d6c4830c5e2fea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1829-2003",
+   "path": "ordin/finante/2003/1829",
+   "short": "Ordin finante nr. 1829/2003",
+   "title": "Ordinul nr. 1.829/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49363",
+   "versions": [
+    {
+     "from": "2004-01-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/49363",
+     "sha256": "3f37b32db172efdf8963a1c3623e3f8848bb4f4e599f7885fd13a7cc4d58e57f"
     }
    ]
   },
@@ -10589,6 +11219,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42020",
      "sha256": "f4056f5500e527ea7370d47d098104cc58d2f5108958ee485281692ed3ddf23e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-198-2003",
+   "path": "ordin/finante/2003/198",
+   "short": "Ordin finante nr. 198/2003",
+   "title": "Ordinul nr. 198/2003 pentru stabilirea contului în care se încasează despăgubirile restituite la valoarea actualizată, conform Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945 - 22 decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41991",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41991",
+     "sha256": "71cbf704522fed29fee3209ba0aa5816770e77210700d531923aba0ddde03edf"
     }
    ]
   },
@@ -10908,6 +11553,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-51-2003",
+   "path": "ordin/finante/2003/51",
+   "short": "Ordin finante nr. 51/2003",
+   "title": "Ordinul nr. 51/2003 pentru actualizarea pe anul 2003 a normelor anuale de venit pe baza cărora se impozitează reprezentantele din România ale societăților comerciale și organizațiilor economice străine, conform Ordonanței Guvernului nr. 24/1996, aprobată cu modificări prin Legea nr. 29/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41418",
+   "versions": [
+    {
+     "from": "2003-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41418",
+     "sha256": "b2b89b404a50abbfca8244c9b5fe161e0a036ccd570461b94e4c9e083e4c6f1b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-52-2003",
    "path": "ordin/finante/2003/52",
    "short": "Ordin finante nr. 52/2003",
@@ -11054,6 +11714,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43609",
      "sha256": "863262cea230976d5dc404db2537997c18acc5a63bdbb04fd342e248e60cc0d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-58-2003",
+   "path": "ordin/finante/2003/58",
+   "short": "Ordin finante nr. 58/2003",
+   "title": "Ordinul nr. 58/2003 pentru aprobarea Normelor metodologice privind organizarea și conducerea evidentei contabile în partida simpla de către persoanele fizice care au calitatea de contribuabil în conformitate cu prevederile Ordonanței Guvernului nr. 7/2001 privind impozitul pe venit, aprobată cu modificări prin Legea nr. 493/2002, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41756",
+   "versions": [
+    {
+     "from": "2003-02-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41756",
+     "sha256": "48a2fb524970325d84598e04a6ebe7c4c5137acb8762056c17b668e07da15ebf"
     }
    ]
   },
@@ -11538,6 +12213,21 @@
    ]
   },
   {
+   "slug": "ordin-imm-51-2003",
+   "path": "ordin/imm/2003/51",
+   "short": "Ordin imm nr. 51/2003",
+   "title": "Ordinul nr. 51/2003 pentru aprobarea Procedurii de implementare a Programului național multianual pe perioada 2002-2005 de susținere a investițiilor realizate de către întreprinderi nou-înființate și microîntreprinderi, precum și a investițiilor de modernizare/retehnologizare a întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43063",
+   "versions": [
+    {
+     "from": "2003-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43063",
+     "sha256": "6c57fbc39eed4575bf31759f97b84a73ea3130d28eee9707e905d48b6eafbe1e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-imm-73-2003",
    "path": "ordin/imm/2003/73",
    "short": "Ordin imm nr. 73/2003",
@@ -11684,6 +12374,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45102",
      "sha256": "ac81226ff5897a6822eb3c5d3cd90c64c1c3d6123e71b5621c817ac1d56d336f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2202-c-2003",
+   "path": "ordin/justitie/2003/2202-c",
+   "short": "Ordin justitie nr. 2202/C/2003",
+   "title": "Ordinul nr. 2.202/C/2003 pentru aprobarea Regulamentului de organizare și funcționare a Oficiului Național al Registrului Comerțului și a oficiilor registrului comerțului de pe lângă tribunale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45683",
+   "versions": [
+    {
+     "from": "2003-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45683",
+     "sha256": "03b04b93157b93712b332accc2e913253d52dcca0bffb81f3bed8f21c583f09d"
     }
    ]
   },
@@ -11913,6 +12618,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-68-2003",
+   "path": "ordin/mediu/2003/68",
+   "short": "Ordin mediu nr. 68/2003",
+   "title": "Ordinul nr. 68/2003 pentru aprobarea Normelor privind cerințele specifice pentru sistemele de management al calității aplicate activităților de cercetare-dezvoltare în domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46484",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46484",
+     "sha256": "362ba23a87e2d8a785289b8ef2eff611b6b99348ea71336b3ae3443ef7bf7e2b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-70-2003",
    "path": "ordin/mediu/2003/70",
    "short": "Ordin mediu nr. 70/2003",
@@ -12029,6 +12749,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43558",
      "sha256": "719cf2c54ac4b9ab9ed5fa91d351cccd63647af288908469c9f45a3bcdd90c71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-173-2003",
+   "path": "ordin/munca/2003/173",
+   "short": "Ordin munca nr. 173/2003",
+   "title": "Ordinul nr. 173/2003 privind aprobarea Normelor specifice de securitate a muncii pentru exploatări și transporturi forestiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44160",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44160",
+     "sha256": "f8c5e6528d7aeccef5013606da0706f3bf83c9695aea8179e8e47d95d598fa74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-174-2003",
+   "path": "ordin/munca/2003/174",
+   "short": "Ordin munca nr. 174/2003",
+   "title": "Ordinul nr. 174/2003 privind aprobarea Normelor specifice de securitate a muncii pentru industria confecțiilor din textile, blana și piele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44166",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44166",
+     "sha256": "d7563b37161731b7a42095cfd3e95ebd978149130e6b71f5aa398bf2a0656cde"
     }
    ]
   },
@@ -13713,6 +14463,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-861-2003",
+   "path": "ordin/sanatate/2003/861",
+   "short": "Ordin sanatate nr. 861/2003",
+   "title": "Ordinul nr. 861/2003 pentru aprobarea Normelor privind organizarea și funcționarea inspecției sanitare de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46379",
+   "versions": [
+    {
+     "from": "2003-09-23",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46379",
+     "sha256": "0bd517e928cc87926efa32f8cbba504088d247b431cf4de7e3284800eb7311d8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-862-2003",
    "path": "ordin/sanatate/2003/862",
    "short": "Ordin sanatate nr. 862/2003",
@@ -13938,6 +14703,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1023-2003",
+   "path": "ordin/transporturi/2003/1023",
+   "short": "Ordin transporturi nr. 1023/2003",
+   "title": "Ordinul nr. 1.023/2003 pentru aprobarea Reglementării Aeronautice Civile Române RACR-APAN AUN/Atestarea personalului aeronautic navigant - piloți de aeronave ultraușoare nemotorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45547",
+   "versions": [
+    {
+     "from": "2003-09-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45547",
+     "sha256": "8589077a3cfabf9c0262b20bbb35ed52e1089c067bbc23694bc5dd58ccb6d830"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1024-2003",
    "path": "ordin/transporturi/2003/1024",
    "short": "Ordin transporturi nr. 1024/2003",
@@ -14069,6 +14849,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49097",
      "sha256": "3a8bb6d098114857ce48484748c1ffc682ecf6df729c082cd2049099394a7c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1067-2003",
+   "path": "ordin/transporturi/2003/1067",
+   "short": "Ordin transporturi nr. 1067/2003",
+   "title": "Ordinul nr. 1.067/2003 pentru aprobarea metodologiilor de aplicare a prevederilor Ordonanței Guvernului nr. 112/1999 privind călătoriile gratuite în interes de serviciu și în interes personal pe căile ferate române, astfel cum a fost aprobată cu modificări și completări prin Legea nr. 210/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45532",
+   "versions": [
+    {
+     "from": "2003-08-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45532",
+     "sha256": "67c8f42d132ba0553e61786408296e3727592d71453cecb21f6930e7c0d77125"
     }
    ]
   },
@@ -14208,6 +15003,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-228-2003",
+   "path": "ordin/transporturi/2003/228",
+   "short": "Ordin transporturi nr. 228/2003",
+   "title": "Ordinul nr. 228/2003 pentru aprobarea Normelor tehnice privind măsurarea tonajului navelor și ambarcațiunilor de pescuit, cod MTCT.ANR-TNPESC-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46254",
+   "versions": [
+    {
+     "from": "2003-09-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46254",
+     "sha256": "cb4049fc19fd600f6d15458f20ed9fbe3e7d98d1102598ddd296dd8c7b6b603b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-229-2003",
    "path": "ordin/transporturi/2003/229",
    "short": "Ordin transporturi nr. 229/2003",
@@ -14249,6 +15059,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46340",
      "sha256": "7dcf573eb23b70b36194c29ddf6faa180c24c86bab6fa05ef0512a50111ad992"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-302-2003",
+   "path": "ordin/transporturi/2003/302",
+   "short": "Ordin transporturi nr. 302/2003",
+   "title": "Ordinul nr. 302/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46376",
+   "versions": [
+    {
+     "from": "2003-09-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46376",
+     "sha256": "e66bc11ba3e1ed260ffaab0020d1e27d9daa364261b280db22380c25cc17d516"
     }
    ]
   },
@@ -14808,6 +15633,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-1-2003",
+   "path": "ordin/bnr/2003/1",
+   "short": "Ordin bnr nr. 1/2003",
+   "title": "Ordinul nr. 1/2003 pentru aprobarea modificării și completării Reglementărilor contabile armonizate cu Directiva Comunităților Economice Europene nr. 86/635/CEE și cu Standardele Internaționale de Contabilitate aplicabile instituțiilor de credit, aprobate prin Ordinul ministrului finanțelor publice și al guvernatorului Băncii Naționale a României nr. 1.982/5/2001, precum și a modificării și completării Planului de conturi pentru societățile bancare și a normelor metodologice de utilizare a acestuia",
+   "url": "https://www.bnr.ro/21139-ordin-1-2003",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21139-ordin-1-2003",
+     "sha256": "813a7d273adc2e5582c8a40788285f528bd523f061179572f784d8505e0621d7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-149-2003",
    "path": "ordin/bnr/2003/149",
    "short": "Ordin bnr nr. 149/2003",
@@ -14868,6 +15708,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-3-2003",
+   "path": "ordin/bnr/2003/3",
+   "short": "Ordin bnr nr. 3/2003",
+   "title": "Ordinul nr. 3/2003 pentru aprobarea Sistemului de raportare contabilă semestrială a instituțiilor de credit",
+   "url": "https://www.bnr.ro/21144-ordin-3-2003",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 6,
+     "source_url": "https://www.bnr.ro/21144-ordin-3-2003",
+     "sha256": "5d37321f0c9f213b0394245d43a7e85330d2b4b0235754ba0cdbd96d0399f1ba"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-40-2003",
    "path": "ordin/bnr/2003/40",
    "short": "Ordin bnr nr. 40/2003",
@@ -14924,6 +15779,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43831",
      "sha256": "513e36783b2607ed334e35491afae1e26190964f230e78cb3d794dc9bdbb8b17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-999-2003",
+   "path": "ordin/bnr/2003/999",
+   "short": "Ordin bnr nr. 999/2003",
+   "title": "Ordinul nr. 999/2003 pentru aprobarea Sistemului de raportare contabilă semestrială a instituțiilor de credit",
+   "url": "https://www.bnr.ro/21434-ordin-999-2003",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 6,
+     "source_url": "https://www.bnr.ro/21434-ordin-999-2003",
+     "sha256": "ac66a95138b89accc9d5ab3c608610c2660bf1ff524bec1f96a542da288d9ef0"
     }
    ]
   }

@@ -3,6 +3,25 @@
 "shard": "norma/1993",
 "acts": [
 {
+"slug": "norma-bnr-3-1993",
+"path": "norma/bnr/1993/3",
+"kind": "norma",
+"year": "1993",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 3/1993 privind efectuarea controlului bancar în cazul plăților externe pentru importuri de mărfuri",
+"short": "Norma bnr nr. 3/1993",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1993-07-30",
+"latest": "1993-07-30",
+"portal": "https://www.bnr.ro/20547-norma-3-1993",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-7-1993",
 "path": "norma/bnr/1993/7",
 "kind": "norma",

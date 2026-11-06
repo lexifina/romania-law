@@ -3,6 +3,25 @@
 "shard": "instructiuni/1995",
 "acts": [
 {
+"slug": "instructiuni-bnr-1-1995",
+"path": "instructiuni/bnr/1995/1",
+"kind": "instructiuni",
+"year": "1995",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/1995 de aplicare a prevederilor Ordonanței Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenților economici, aprobată prin Legea nr. 12/1995",
+"short": "Instrucțiuni bnr nr. 1/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-11-09",
+"latest": "1995-11-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/5622",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "instructiuni-cnvm-2-1995",
 "path": "instructiuni/cnvm/1995/2",
 "kind": "instructiuni",

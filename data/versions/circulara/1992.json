@@ -31,6 +31,51 @@
      "sha256": "dc7a3ea485daf1d0630e93758b174cdc45a5e264edbcda43bf4b96ef8efd63c9"
     }
    ]
+  },
+  {
+   "slug": "circulara-bnr-22-1992",
+   "path": "circulara/bnr/1992/22",
+   "short": "Circulara bnr nr. 22/1992",
+   "title": "Circulara nr. 22/1992 cu privire la unele modificări ale prevederilor anexei nr. 3 la Regulamentul privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2180",
+   "versions": [
+    {
+     "from": "1992-10-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20240-circulara-22-1992",
+     "sha256": "11ea7e8d88964624329135f5e9d6db9d37cf3b3ce0627a23ad878d2e3a3c5fdf"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-1992",
+   "path": "circulara/bnr/1992/31",
+   "short": "Circulara bnr nr. 31/1992",
+   "title": "Circulara nr. 31/1992 privind modificarea ratei dobînzii la liniile de credit acordate de Banca Națională a României băncilor comerciale și modificarea Regulamentelor nr. I/149/14.01.1992 și nr. I/1.045/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2208",
+   "versions": [
+    {
+     "from": "1992-12-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20196-circulara-31-1992",
+     "sha256": "daacf003b244d7accdf233c1df82a68988d685fb6a4482a7c394e14164530090"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-446-1992",
+   "path": "circulara/bnr/1992/446",
+   "short": "Circulara bnr nr. 446/1992",
+   "title": "Circulara nr. 446/1992 privind modificări ale Normelor Băncii Naționale a României nr. V/630/36 din 4 iulie 1991, referitoare la înființarea și funcționarea caselor de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2689",
+   "versions": [
+    {
+     "from": "1992-04-06",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20218-circulara-446-1992",
+     "sha256": "625401b3e284bf79e1669ae385fff9359956faf838341802407a1351fe015516"
+    }
+   ]
   }
  ]
 }

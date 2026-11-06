@@ -648,6 +648,21 @@
    ]
   },
   {
+   "slug": "norma-bnr-6-2006",
+   "path": "norma/bnr/2006/6",
+   "short": "Norma bnr nr. 6/2006",
+   "title": "Norma nr. 6/2006 privind criteriile pentru înscrierea în Registrul special a instituțiilor financiare nebancare",
+   "url": "https://www.bnr.ro/19167-norma-6-2006",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 9,
+     "source_url": "https://www.bnr.ro/19167-norma-6-2006",
+     "sha256": "30f952434fe2006ce8d8f4383eaa07ead180fa5d3719605825a9f997e78590d0"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-5-2006",
    "path": "norma/csspp/2006/5",
    "short": "Norma csspp nr. 5/2006",

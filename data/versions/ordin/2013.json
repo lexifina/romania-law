@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1438-2013",
+   "path": "ordin/agricultura/2013/1438",
+   "short": "Ordin agricultura nr. 1438/2013",
+   "title": "Ordinul nr. 1.438/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153779",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/153779",
+     "sha256": "9068dea19aee571bf3776de9b3e28848625994e1631eacb30855c9267b907d58"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1471-2013",
    "path": "ordin/agricultura/2013/1471",
    "short": "Ordin agricultura nr. 1471/2013",
@@ -779,6 +794,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150005",
      "sha256": "8585c4211fe42ad68a3a7787dfd2986e5fa622ed99f3e3a3d007a35771090df3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-507-2013",
+   "path": "ordin/agricultura/2013/507",
+   "short": "Ordin agricultura nr. 507/2013",
+   "title": "Ordinul nr. 507/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149201",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/149201",
+     "sha256": "523633c0d9110495adc19f52e5084848a15d919dc1cd5875143f7a37f79dc9df"
     }
    ]
   },
@@ -6063,6 +6093,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-2901-2013",
+   "path": "ordin/dezvoltare/2013/2901",
+   "short": "Ordin dezvoltare nr. 2901/2013",
+   "title": "Ordinul nr. 2.901/2013 pentru aprobarea reglementării tehnice \"Normativ privind proiectarea, execuția și exploatarea sistemelor de alimentare cu apă și canalizare a localităților. Indicativ NP 133-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152133",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152133",
+     "sha256": "d9788b0fbef11411c31c5bc1e86acaa569c89f29889ad6cb25e2c38998493413"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-2980-2013",
    "path": "ordin/dezvoltare/2013/2980",
    "short": "Ordin dezvoltare nr. 2980/2013",
@@ -7799,6 +7844,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154228",
      "sha256": "d82ee60f64e307c89e6f6cec2a99a03eb5894a29fb3a1e8556bfbae2f3fcbf1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5397-2013",
+   "path": "ordin/educatie/2013/5397",
+   "short": "Ordin educatie nr. 5397/2013",
+   "title": "Ordinul nr. 5.397/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152606",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/152606",
+     "sha256": "266b94c04041c920cfbb1ac07b0da86daa0625fa25ddf3ab84051fbd44cbb3fd"
     }
    ]
   },
@@ -10218,6 +10278,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-32-2013",
+   "path": "ordin/interne/2013/32",
+   "short": "Ordin interne nr. 32/2013",
+   "title": "Ordinul nr. 32/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146707",
+   "versions": [
+    {
+     "from": "2013-04-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/146707",
+     "sha256": "1f1023930ceda3ae0bef75fe7d4efacfde63312fe29e00551bcbfa3a75ed6a78"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-35-2013",
    "path": "ordin/interne/2013/35",
    "short": "Ordin interne nr. 35/2013",
@@ -10949,6 +11024,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146643",
      "sha256": "0462cc0bdf74fafceb07d9e35bc53d1252b2172eab235d6249167f6cfde7468e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-875-c-2013",
+   "path": "ordin/justitie/2013/875-c",
+   "short": "Ordin justitie nr. 875/C/2013",
+   "title": "Ordinul nr. 875/C/2013 pentru modificarea Regulamentului de punere în aplicare a Legii nr. 188/2000 privind executorii judecătorești, aprobat prin Ordinul ministrului justiției nr. 210/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146215",
+   "versions": [
+    {
+     "from": "2013-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146215",
+     "sha256": "548ef37b7da36416c3a9a84ca3fe2450cb109b1005487e8641769ce33dadde66"
     }
    ]
   },
@@ -11849,6 +11939,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149855",
      "sha256": "d0767755654b11198522618cc99c7f5dd67b9a648703d8cdf010dbfcb0eab3b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-150-2013",
+   "path": "ordin/munca/2013/150",
+   "short": "Ordin munca nr. 150/2013",
+   "title": "Ordinul nr. 150/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145340",
+   "versions": [
+    {
+     "from": "2013-02-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/145340",
+     "sha256": "1ee88d40c553a0a53e9ee23a2a68daeed003ebaedf19b4d5c32157cc346f9833"
     }
    ]
   },
@@ -12993,6 +13098,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1503-2013",
+   "path": "ordin/sanatate/2013/1503",
+   "short": "Ordin sanatate nr. 1503/2013",
+   "title": "Ordinul nr. 1.503/2013 pentru modificarea și completarea Ordinului ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.782/576/2006 privind înregistrarea și raportarea statistică a pacienților care primesc servicii medicale în regim de spitalizare continuă și spitalizare de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153649",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153649",
+     "sha256": "109c79c05a41bf68fde943f7afd3d184c6801334ae99b3895b1d4040e460699a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1509-2013",
    "path": "ordin/sanatate/2013/1509",
    "short": "Ordin sanatate nr. 1509/2013",
@@ -13034,6 +13154,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154029",
      "sha256": "171ddbfa1f2322e077896d4117063ece97a2b767008ad8fee9f1c7f83db11a91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1529-2013",
+   "path": "ordin/sanatate/2013/1529",
+   "short": "Ordin sanatate nr. 1529/2013",
+   "title": "Ordinul nr. 1.529/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154058",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154058",
+     "sha256": "56b65c5ca2e464e2aaa94f434834f7b5351293c7d58a2897ee9c5c6b65b2aeb9"
     }
    ]
   },
@@ -13544,6 +13679,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147311",
      "sha256": "f3857e30a0122023f3fff0ba643c182b0f5493d3e845a8cf3e1a29120073e7b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-568-2013",
+   "path": "ordin/sanatate/2013/568",
+   "short": "Ordin sanatate nr. 568/2013",
+   "title": "Ordinul nr. 568/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147481",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/147481",
+     "sha256": "2f3288b857e629dfa6dda71b8cc72ca0b4c76649517c694ee9f7c465b38da857"
     }
    ]
   },
@@ -15648,6 +15798,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-1110-2013",
+   "path": "ordin/bnr/2013/1110",
+   "short": "Ordin bnr nr. 1110/2013",
+   "title": "Ordinul nr. 1.110/2013 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale IFN ROTLINES LEASING INTERNATIONAL - S.A",
+   "url": "https://www.bnr.ro/19958-ordin-1110-2013",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19958-ordin-1110-2013",
+     "sha256": "510f83816c940e572d76d2199c3964593c7c69836ee1aaafe0135ae3299561ce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-1235-2013",
    "path": "ordin/bnr/2013/1235",
    "short": "Ordin bnr nr. 1235/2013",
@@ -15659,6 +15824,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154051",
      "sha256": "c4e461569d4edbf912cc672865ae28843e015b52431cae9b166a54a319b58dee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-136-2013",
+   "path": "ordin/bnr/2013/136",
+   "short": "Ordin bnr nr. 136/2013",
+   "title": "Ordinul nr. 136/2013 privind aprobarea Normelor metodologice de efectuare a notificărilor și de soluționare a cererilor de autorizare a efectuării unor tranzacții financiare",
+   "url": "https://www.bnr.ro/19579-ordin-136-2013",
+   "versions": [
+    {
+     "from": "2013-09-04",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19579-ordin-136-2013",
+     "sha256": "369b0ee316fe344b3bca91a72ab39b00c18245c2d272fbf458b4f4dd7bfb993f"
     }
    ]
   },
@@ -15704,6 +15884,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147180",
      "sha256": "efe67e61f5b619d56be524c616ffa3f6a1daa9112e4e99cd06174e9460f9f7af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-489-2013",
+   "path": "ordin/bnr/2013/489",
+   "short": "Ordin bnr nr. 489/2013",
+   "title": "Ordinul nr. 489/2013 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale FRIGO LEASING IFN - S.A",
+   "url": "https://www.bnr.ro/19914-ordin-489-2013",
+   "versions": [
+    {
+     "from": "2013-06-03",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19914-ordin-489-2013",
+     "sha256": "e547384d9b7635b477abfecc049acfd8302a27660c6109a3091581d60e1ca3be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-490-2013",
+   "path": "ordin/bnr/2013/490",
+   "short": "Ordin bnr nr. 490/2013",
+   "title": "Ordinul nr. 490/2013 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale IMOBILIAR LEASING INVEST IFN - S.A",
+   "url": "https://www.bnr.ro/19991-ordin-490-2013",
+   "versions": [
+    {
+     "from": "2013-06-03",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19991-ordin-490-2013",
+     "sha256": "5a1d94836b456a3b8222ff34ca27e1454c3ae101ae7aa41133249d70bc0a0709"
     }
    ]
   },

@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "regulament-bnr-15-2002",
+   "path": "regulament/bnr/2002/15",
+   "short": "Regulament bnr nr. 15/2002",
+   "title": "Regulamentul nr. 15/2002 privind operațiunile cu titluri de stat",
+   "url": "https://www.bnr.ro/21814-regulament-15-2002",
+   "versions": [
+    {
+     "from": "2002-06-04",
+     "units": 35,
+     "source_url": "https://www.bnr.ro/21814-regulament-15-2002",
+     "sha256": "f5de31a0ca8f6e2782c73010677204311712def7441dd27f0a45e3a9c5ec75a1"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-4-2002",
    "path": "regulament/cnvm/2002/4",
    "short": "Regulament cnvm nr. 4/2002",

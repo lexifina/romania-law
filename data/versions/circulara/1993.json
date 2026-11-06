@@ -3,6 +3,36 @@
  "shard": "circulara/1993",
  "acts": [
   {
+   "slug": "circulara-bnr-1-1993",
+   "path": "circulara/bnr/1993/1",
+   "short": "Circulara bnr nr. 1/1993",
+   "title": "Circulara nr. 1/1993 privind încasarea taxelor în valută pentru vizele acordate în punctele de control pentru trecerea frontierei de stat a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2969",
+   "versions": [
+    {
+     "from": "1993-08-30",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21395-circulara-1-1993",
+     "sha256": "6aa04007487bc2a6f02e919578bbf8b9c4fbfd4b8e718aaeed0d4f00f5211101"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-1993",
+   "path": "circulara/bnr/1993/12",
+   "short": "Circulara bnr nr. 12/1993",
+   "title": "Circulara nr. 12/1993 privind încasarea taxelor pentru prelungirea dreptului de ședere temporară în România a cetățenilor străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3033",
+   "versions": [
+    {
+     "from": "1993-08-30",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20931-circulara-12-1993",
+     "sha256": "117b8a2d223d4230f15c85bdc64ca338af83538b020143378684afcc0f1eca99"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-18-1993",
    "path": "circulara/bnr/1993/18",
    "short": "Circulara bnr nr. 18/1993",
@@ -29,6 +59,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3067",
      "sha256": "e8f1044bc2613c984d4b62acb02014fd2626331da6613fc1d78e36c967b25f58"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-1993",
+   "path": "circulara/bnr/1993/23",
+   "short": "Circulara bnr nr. 23/1993",
+   "title": "Circulara nr. 23/1993 privind modificarea punctului 32 din anexa nr. 3 la Regulamentul privind efectuarea operațiunilor valutare nr. V/3616/2, emis de Banca Națională a României la 4 mai 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3078",
+   "versions": [
+    {
+     "from": "1993-09-13",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21398-circulara-23-1993",
+     "sha256": "b14d238cdae0859c6747311e809a14c794c62686aa0081a82ac781f48afd6eb2"
     }
    ]
   },
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-32-1993",
+   "path": "circulara/bnr/1993/32",
+   "short": "Circulara bnr nr. 32/1993",
+   "title": "Circulara nr. 32/1993 pentru modificarea Circularei Băncii Naționale a României nr. 3/1993 privind efectuarea de către bănci a operațiunilor legate de virarea la buget a impozitelor, taxelor, contribuțiilor și a altor venituri, în valută, datorate de către agenții economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3119",
+   "versions": [
+    {
+     "from": "1993-11-29",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20543-circulara-32-1993",
+     "sha256": "f261a74e85d4cd1ab19cd6970ac75dc79974130e556ad9ee835db52bdb400b2d"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-35-1993",
    "path": "circulara/bnr/1993/35",
    "short": "Circulara bnr nr. 35/1993",
@@ -89,6 +149,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3004",
      "sha256": "526638a81a7acc30e9552e2851bbdedcb4eddd0370aa656cf7a80af25636607c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-1993",
+   "path": "circulara/bnr/1993/7",
+   "short": "Circulara bnr nr. 7/1993",
+   "title": "Circulara nr. 7/1993 privind modificarea Regulamentului cu privire la operațiunile cu numerar nr. 2/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3012",
+   "versions": [
+    {
+     "from": "1993-03-09",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/20546-circulara-7-1993",
+     "sha256": "6ca5c71b53805f165eb76c5a407faffc55c19aca29d902702f72d2db97142886"
     }
    ]
   }

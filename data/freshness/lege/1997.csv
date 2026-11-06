@@ -1,5 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-legea-1-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/10739
+legea-1-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10739
 legea-10-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10916
 legea-100-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11610
 legea-101-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11614
@@ -50,14 +50,14 @@ legea-146-1997,current,2026-02-16,,consolidated-form,oug-80-2013,2013-06-29,yes,
 legea-147-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2008-09-03,no,https://legislatie.just.ro/Public/DetaliiDocument/11811
 legea-148-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11817
 legea-149-1997,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/11822
-legea-15-1997,pending-change,2026-11-06,2026-11-13,amendment-search,,2001-07-12,no,https://legislatie.just.ro/Public/DetaliiDocument/10988
+legea-15-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10988
 legea-150-1997,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/11827
 legea-151-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-323-2002,2002-06-10,no,https://legislatie.just.ro/Public/DetaliiDocument/11831
 legea-152-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11834
 legea-153-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11839
 legea-154-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11843
 legea-155-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11849
-legea-156-1997,pending-change,2026-11-06,2026-11-13,amendment-search,,2000-10-20,no,https://legislatie.just.ro/Public/DetaliiDocument/11853
+legea-156-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11853
 legea-157-1997,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/11857
 legea-158-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-196-2001,2001-04-24,no,https://legislatie.just.ro/Public/DetaliiDocument/11860
 legea-159-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11865
@@ -65,7 +65,7 @@ legea-16-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-247-20
 legea-160-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11868
 legea-161-1997,pending-change,2026-11-04,2026-11-11,amendment-search,og-80-2001,2001-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/11872
 legea-162-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-76-2002,2002-03-01,no,https://legislatie.just.ro/Public/DetaliiDocument/11878
-legea-163-1997,pending-change,2026-11-06,2026-11-13,amendment-search,oug-17-1998,1998-09-18,no,https://legislatie.just.ro/Public/DetaliiDocument/11882
+legea-163-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11882
 legea-164-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11886
 legea-165-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11890
 legea-166-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11894
@@ -82,20 +82,20 @@ legea-175-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legisla
 legea-176-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11936
 legea-177-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11940
 legea-178-1997,current,2026-11-03,2026-11-10,edition-index,legea-76-2016,2016-05-02,yes,https://legislatie.just.ro/Public/DetaliiDocument/11944
-legea-179-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11948
-legea-18-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11026
-legea-180-1997,pending-change,2026-11-06,2026-11-13,amendment-search,,2001-08-09,no,https://legislatie.just.ro/Public/DetaliiDocument/11952
+legea-179-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11948
+legea-18-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11026
+legea-180-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11952
 legea-182-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11960
 legea-183-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11964
-legea-184-1997,pending-change,2026-11-06,2026-11-13,amendment-search,hg-688-2007,2007-07-18,no,https://legislatie.just.ro/Public/DetaliiDocument/11968
-legea-185-1997,pending-change,2026-11-06,2026-11-13,amendment-search,og-103-1999,1999-08-31,no,https://legislatie.just.ro/Public/DetaliiDocument/11973
-legea-186-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11977
+legea-184-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11968
+legea-185-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11973
+legea-186-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11977
 legea-187-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11981
 legea-188-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11986
 legea-189-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11990
-legea-19-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11041
+legea-19-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11041
 legea-190-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11994
-legea-191-1997,pending-change,2026-11-06,2026-11-13,amendment-search,og-49-1998,1998-08-07,no,https://legislatie.just.ro/Public/DetaliiDocument/11998
+legea-191-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11998
 legea-192-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12002
 legea-193-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12006
 legea-194-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-109-1998,1998-06-03,no,https://legislatie.just.ro/Public/DetaliiDocument/12011
@@ -111,10 +111,10 @@ legea-202-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legisla
 legea-204-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12052
 legea-205-1997,pending-change,2026-11-04,2026-11-11,amendment-search,hg-703-1999,1999-09-07,no,https://legislatie.just.ro/Public/DetaliiDocument/12056
 legea-206-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12060
-legea-207-1997,pending-change,2026-11-06,2026-11-13,amendment-search,,2019-12-19,no,https://legislatie.just.ro/Public/DetaliiDocument/12064
+legea-207-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12064
 legea-208-1997,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/12068
-legea-209-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/12072
-legea-21-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11065
+legea-209-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12072
+legea-21-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11065
 legea-210-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12077
 legea-211-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12082
 legea-212-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-307-2006,2019-04-17,no,https://legislatie.just.ro/Public/DetaliiDocument/12087
@@ -124,7 +124,7 @@ legea-215-1997,current,2026-11-03,2026-11-10,edition-index,legea-83-2024,2024-04
 legea-216-1997,pending-change,2026-11-04,2026-11-11,amendment-search,oug-13-1999,1999-03-02,no,https://legislatie.just.ro/Public/DetaliiDocument/12105
 legea-219-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12118
 legea-22-1997,pending-change,2026-11-04,2026-11-11,amendment-search,oug-104-2005,2005-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/11076
-legea-220-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/12122
+legea-220-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/12122
 legea-221-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-277-2003,2003-06-25,no,https://legislatie.just.ro/Public/DetaliiDocument/12126
 legea-23-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1997-07-28,no,https://legislatie.just.ro/Public/DetaliiDocument/11089
 legea-24-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1998-03-09,no,https://legislatie.just.ro/Public/DetaliiDocument/11101
@@ -134,24 +134,24 @@ legea-28-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1997-12-10,
 legea-29-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-07-08,no,https://legislatie.just.ro/Public/DetaliiDocument/11149
 legea-3-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10790
 legea-30-1997,pending-change,2026-11-04,2026-11-11,amendment-search,hg-162-2003,2003-02-26,no,https://legislatie.just.ro/Public/DetaliiDocument/11157
-legea-31-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11165
+legea-31-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11165
 legea-32-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-611-2002,2002-11-22,no,https://legislatie.just.ro/Public/DetaliiDocument/11174
 legea-33-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-485-2006,2006-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/11183
 legea-35-1997,stale,2026-07-20,2026-07-27,consolidated-form,legea-9-2018,2018-02-27,yes,https://legislatie.just.ro/Public/DetaliiDocument/11200
 legea-36-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-58-1998,2005-01-24,no,https://legislatie.just.ro/Public/DetaliiDocument/11209
 legea-37-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-06-11,no,https://legislatie.just.ro/Public/DetaliiDocument/11218
-legea-38-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11228
-legea-39-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11236
+legea-38-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11228
+legea-39-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11236
 legea-40-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1999-07-16,no,https://legislatie.just.ro/Public/DetaliiDocument/11243
 legea-41-1997,pending-change,2026-11-04,2026-11-11,amendment-search,og-64-2001,2001-09-01,no,https://legislatie.just.ro/Public/DetaliiDocument/11252
 legea-42-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2017-05-08,no,https://legislatie.just.ro/Public/DetaliiDocument/11259
 legea-43-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-04-12,no,https://legislatie.just.ro/Public/DetaliiDocument/11266
 legea-44-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2000-06-30,no,https://legislatie.just.ro/Public/DetaliiDocument/11273
 legea-45-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2007-03-29,no,https://legislatie.just.ro/Public/DetaliiDocument/11280
-legea-46-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11287
+legea-46-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11287
 legea-47-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-11-25,no,https://legislatie.just.ro/Public/DetaliiDocument/11293
-legea-48-1997,pending-change,2026-11-06,2026-11-13,amendment-search,oug-93-1997,1997-12-30,no,https://legislatie.just.ro/Public/DetaliiDocument/11299
-legea-5-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/10828
+legea-48-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11299
+legea-5-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10828
 legea-50-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1999-07-16,no,https://legislatie.just.ro/Public/DetaliiDocument/11313
 legea-51-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2021-11-03,no,https://legislatie.just.ro/Public/DetaliiDocument/11319
 legea-52-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2019-10-11,no,https://legislatie.just.ro/Public/DetaliiDocument/11325
@@ -161,23 +161,23 @@ legea-55-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2000-07-18,
 legea-56-1997,stale,2026-02-16,2026-02-23,consolidated-form,legea-215-2022,2022-08-14,yes,https://legislatie.just.ro/Public/DetaliiDocument/257145
 legea-57-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1998-01-27,no,https://legislatie.just.ro/Public/DetaliiDocument/11358
 legea-58-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2000-04-27,no,https://legislatie.just.ro/Public/DetaliiDocument/11366
-legea-59-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11372
+legea-59-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11372
 legea-6-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10846
-legea-60-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11379
+legea-60-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11379
 legea-61-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-04-11,no,https://legislatie.just.ro/Public/DetaliiDocument/11386
 legea-62-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1998-04-09,no,https://legislatie.just.ro/Public/DetaliiDocument/11392
-legea-64-1997,pending-change,2026-11-06,2026-11-13,amendment-search,legea-60-2000,2000-04-26,no,https://legislatie.just.ro/Public/DetaliiDocument/11405
+legea-64-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11405
 legea-65-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-06-01,no,https://legislatie.just.ro/Public/DetaliiDocument/11411
-legea-67-1997,pending-change,2026-11-06,2026-11-13,amendment-search,legea-244-2002,2007-09-14,no,https://legislatie.just.ro/Public/DetaliiDocument/11425
-legea-68-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11431
+legea-67-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11425
+legea-68-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11431
 legea-69-1997,pending-change,2026-11-04,2026-11-11,amendment-search,oug-69-1997,1997-11-05,no,https://legislatie.just.ro/Public/DetaliiDocument/11438
 legea-7-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10866
-legea-70-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11444
+legea-70-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11444
 legea-73-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11463
 legea-74-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11467
-legea-75-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11472
+legea-75-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11472
 legea-76-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11477
-legea-77-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11482
+legea-77-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11482
 legea-78-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1999-01-15,no,https://legislatie.just.ro/Public/DetaliiDocument/11488
 legea-79-1997,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/11494
 legea-8-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1997-10-24,no,https://legislatie.just.ro/Public/DetaliiDocument/10882
@@ -190,11 +190,11 @@ legea-85-1997,pending-change,2026-11-04,2026-11-11,amendment-search,hg-476-2003,
 legea-87-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,1998-10-13,no,https://legislatie.just.ro/Public/DetaliiDocument/11541
 legea-88-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2020-08-07,no,https://legislatie.just.ro/Public/DetaliiDocument/11546
 legea-89-1997,pending-change,2026-11-04,2026-11-11,amendment-search,oug-58-1997,1997-11-02,no,https://legislatie.just.ro/Public/DetaliiDocument/11551
-legea-9-1997,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/10899
+legea-9-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/10899
 legea-90-1997,pending-change,2026-11-04,2026-11-11,amendment-search,,2006-08-24,no,https://legislatie.just.ro/Public/DetaliiDocument/11557
 legea-91-1997,pending-change,2026-11-05,2026-11-12,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/11564
 legea-92-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11570
-legea-93-1997,pending-change,2026-11-06,2026-11-13,amendment-search,legea-196-2007,2007-07-07,no,https://legislatie.just.ro/Public/DetaliiDocument/11575
+legea-93-1997,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11575
 legea-94-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11581
 legea-95-1997,pending-change,2026-11-04,2026-11-11,amendment-search,legea-150-2013,2013-05-11,no,https://legislatie.just.ro/Public/DetaliiDocument/11587
 legea-96-1997,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/11591

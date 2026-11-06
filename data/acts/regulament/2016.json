@@ -364,6 +364,25 @@
 "joint": []
 },
 {
+"slug": "regulament-bnr-10-2016",
+"path": "regulament/bnr/2016/10",
+"kind": "regulament",
+"year": "2016",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 10/2016 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+"short": "Regulament bnr nr. 10/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-28",
+"latest": "2016-12-28",
+"portal": "https://www.bnr.ro/21316-regulament-10-2016",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-fgdb-1-2016",
 "path": "regulament/fgdb/2016/1",
 "kind": "regulament",

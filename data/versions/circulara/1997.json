@@ -363,6 +363,36 @@
    ]
   },
   {
+   "slug": "circulara-bnr-4-1997",
+   "path": "circulara/bnr/1997/4",
+   "short": "Circulara bnr nr. 4/1997",
+   "title": "Circulara nr. 4/1997 privind stabilirea ratei dobânzii la creditul lombard",
+   "url": "https://www.bnr.ro/20999-circulara-4-1997",
+   "versions": [
+    {
+     "from": "1997-02-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20999-circulara-4-1997",
+     "sha256": "ccf527401b89dc540b32a0a609c20d23cad7a045860ba8ab36bcc1291b094458"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-1997",
+   "path": "circulara/bnr/1997/6",
+   "short": "Circulara bnr nr. 6/1997",
+   "title": "Circulara nr. 6/1997 pentru modificarea Regulamentului Băncii Naționale a României nr. 3/1996 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://www.bnr.ro/20660-circulara-6-1997",
+   "versions": [
+    {
+     "from": "1997-02-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20660-circulara-6-1997",
+     "sha256": "89f38a1f6d87971268349d672e21fae984b69ec5f4c96d026dfcd3ae531862c0"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-7-1997",
    "path": "circulara/bnr/1997/7",
    "short": "Circulara bnr nr. 7/1997",

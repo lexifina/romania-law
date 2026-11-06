@@ -46,6 +46,36 @@
      "sha256": "5c7d3e4de5ab63340ec76fc75da7b70b13b845a83140b87aa8cea374abd4dea0"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-7-1994",
+   "path": "regulament/bnr/1994/7",
+   "short": "Regulament bnr nr. 7/1994",
+   "title": "Regulamentul nr. 7/1994 privind efectuarea operațiunilor valutare",
+   "url": "https://www.bnr.ro/21604-regulament-7-1994",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21604-regulament-7-1994",
+     "sha256": "ed1e441a826089d1ffbe4ed43024e6200149c60dc5a611cca9500c3052af6c94"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-1994",
+   "path": "regulament/bnr/1994/8",
+   "short": "Regulament bnr nr. 8/1994",
+   "title": "Regulamentul nr. 8/1994 privind ordinul de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38661",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 19,
+     "source_url": "https://www.bnr.ro/21771-regulament-8-1994",
+     "sha256": "204a20920e4ded7358434429f0d56bc387e754ce3748d9e0751c9fe60ae0e515"
+    }
+   ]
   }
  ]
 }

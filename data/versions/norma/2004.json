@@ -271,6 +271,21 @@
      "sha256": "16ad0db4cdc5b5ed9b478e088d72f85ab80ca101f1134d5660429e2bf326b8de"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-13-2004",
+   "path": "norma/bnr/2004/13",
+   "short": "Norma bnr nr. 13/2004",
+   "title": "Norma nr. 13/2004 privind raportarea tranzacțiilor efectuate pe piața valutară interbancară",
+   "url": "https://www.bnr.ro/21059-norma-13-2004",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 19,
+     "source_url": "https://www.bnr.ro/21059-norma-13-2004",
+     "sha256": "bf1e9c61428b6287193bb3de3db4dc3d8e55834e5f71675a5377b488ec40f857"
+    }
+   ]
   }
  ]
 }

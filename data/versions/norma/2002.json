@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "norma-bnr-12-2002",
+   "path": "norma/bnr/2002/12",
+   "short": "Norma bnr nr. 12/2002",
+   "title": "Norma nr. 12/2002 pentru aplicarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://www.bnr.ro/19156-norma-metodologica-12-2002",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19156-norma-metodologica-12-2002",
+     "sha256": "c348953d7f1c851c6519c0ce5bdf9de7b52854bee16ba681aac2dff0e7302141"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-15-2002",
    "path": "norma/bnr/2002/15",
    "short": "Norma bnr nr. 15/2002",
@@ -314,6 +329,21 @@
      "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40403",
      "sha256": "7591eb51f8dbf63bdb072fbe81a4384a72b337f2ed134cde6470369a8c3dbe47"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2002",
+   "path": "norma/bnr/2002/9",
+   "short": "Norma bnr nr. 9/2002",
+   "title": "Norma nr. 9/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38549",
+   "versions": [
+    {
+     "from": "2002-08-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20915-norma-9-2002",
+     "sha256": "3ed8374557a8e4f5a49560485e9996450309ced280d84336f83e124d291dba99"
     }
    ]
   }

@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "instructiuni-bnr-1-1995",
+   "path": "instructiuni/bnr/1995/1",
+   "short": "Instrucțiuni bnr nr. 1/1995",
+   "title": "Instrucțiunile nr. 1/1995 de aplicare a prevederilor Ordonanței Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenților economici, aprobată prin Legea nr. 12/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5622",
+   "versions": [
+    {
+     "from": "1995-11-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20190-instructiuni-1-1995",
+     "sha256": "5101fb1d528866184652e3b495059ec42ccdaba4973e3eba6e4e63fe8f016d4a"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-cnvm-3-1995",
    "path": "instructiuni/cnvm/1995/3",
    "short": "Instrucțiuni cnvm nr. 3/1995",

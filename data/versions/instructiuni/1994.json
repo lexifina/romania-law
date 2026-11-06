@@ -106,6 +106,36 @@
      "sha256": "927a12c23082527fb3a34fd88fe195377f9418bfe6c1754b9c675c799565d5df"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-bnr-1-1994",
+   "path": "instructiuni/bnr/1994/1",
+   "short": "Instrucțiuni bnr nr. 1/1994",
+   "title": "Instrucțiunile nr. 1/1994 de aplicare a prevederilor Ordonanței Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenților economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3775",
+   "versions": [
+    {
+     "from": "1994-03-15",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20604-instructiuni-1-1994",
+     "sha256": "900247891bdacc333f255b2fbaa940adbc5d5f20e0f8fe5b4dbd3dba7c100df0"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-bnr-3-1994",
+   "path": "instructiuni/bnr/1994/3",
+   "short": "Instrucțiuni bnr nr. 3/1994",
+   "title": "Instrucțiunile nr. 3/1994 cu privire la destinația echivalentului în lei al valutei încasate de instituțiile publice și modul de constituire și de utilizare a încasărilor în valută, din contul \"Rezerva valutară pentru plata cotizațiilor la organismele internaționale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3800",
+   "versions": [
+    {
+     "from": "1994-08-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19115-instructiuni-3-1994",
+     "sha256": "d998d4d11641a1bf8fc2c84e5c11bb388ece90a17e8bcdefc0a099637670c5ed"
+    }
+   ]
   }
  ]
 }

@@ -191,6 +191,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182456",
 "issuer": "interne",
 "joint": []
+},
+{
+"slug": "instructiuni-interne-166-2016",
+"path": "instructiuni/interne/2016/166",
+"kind": "instructiuni",
+"year": "2016",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 166/2016 privind scăderea pierderilor determinate de perisabilități, la bunurile materiale, în unitățile Ministerului Afacerilor Interne",
+"short": "Instrucțiuni interne nr. 166/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-01",
+"latest": "2016-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183249",
+"issuer": "interne",
+"joint": []
 }
 ]
 }

@@ -4743,6 +4743,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-22-2005",
+   "path": "ordin/ansvsa/2005/22",
+   "short": "Ordin ansvsa nr. 22/2005",
+   "title": "Ordinul nr. 22/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59210",
+   "versions": [
+    {
+     "from": "2005-02-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/59210",
+     "sha256": "ec7ea8ea039b9240ec388dae2fc8fa2275fb0f85c14e95bca4c15a1d3748ce90"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-24-2005",
    "path": "ordin/ansvsa/2005/24",
    "short": "Ordin ansvsa nr. 24/2005",
@@ -4859,6 +4874,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59283",
      "sha256": "7141d86614dfdd1076663a0d2e814f3d8c6a6af436fe2d9b3e8ae8839bb9592c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-32-2005",
+   "path": "ordin/ansvsa/2005/32",
+   "short": "Ordin ansvsa nr. 32/2005",
+   "title": "Ordinul nr. 32/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59449",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/59449",
+     "sha256": "266ff3a11622f3541f5d92d0c317ecbe5223dd130383483372d27b4bc7834d22"
     }
    ]
   },
@@ -5279,6 +5309,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64669",
      "sha256": "6fb75c52872844d81688214b4467d2db2c0a98d1933845077db7dd2b9a0c4ac0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-72-2005",
+   "path": "ordin/ansvsa/2005/72",
+   "short": "Ordin ansvsa nr. 72/2005",
+   "title": "Ordinul nr. 72/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64317",
+   "versions": [
+    {
+     "from": "2006-02-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/64317",
+     "sha256": "47ed71ae5ef8ff96959179ad97a96c756d31a22249751d5ffcd53c0b2dab3137"
     }
    ]
   },
@@ -5759,6 +5804,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64901",
      "sha256": "405c291d04d2e358b0ac83ab13d1dcdf0c9cc8dc50fa2be11bc23e9c8453d42a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-274-2005",
+   "path": "ordin/cncan/2005/274",
+   "short": "Ordin cncan nr. 274/2005",
+   "title": "Ordinul nr. 274/2005 pentru aprobarea Normelor privind controlul și supravegherea expedierilor internaționale de deșeuri radioactive implicând teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65576",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65576",
+     "sha256": "2db68650c69e9d25b779d07959da3d04327f4f727424d32e6e2918562a3b18c9"
     }
    ]
   },
@@ -6753,6 +6813,21 @@
    ]
   },
   {
+   "slug": "ordin-concurenta-93-2005",
+   "path": "ordin/concurenta/2005/93",
+   "short": "Ordin concurenta nr. 93/2005",
+   "title": "Ordinul nr. 93/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62262",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/62262",
+     "sha256": "f0e7f89331c6890b211270689992e079fded3076494b1f29a7adb9eb728397b3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-copii-107-2005",
    "path": "ordin/copii/2005/107",
    "short": "Ordin copii nr. 107/2005",
@@ -7233,6 +7308,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2364-2005",
+   "path": "ordin/cultura/2005/2364",
+   "short": "Ordin cultura nr. 2364/2005",
+   "title": "Ordinul nr. 2.364/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67192",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/67192",
+     "sha256": "a4f4427212c42f34fc26036b3260c9cede03b41c791d79bab1ee814a071f0b25"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2365-2005",
    "path": "ordin/cultura/2005/2365",
    "short": "Ordin cultura nr. 2365/2005",
@@ -7634,6 +7724,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63548",
      "sha256": "57baf64caf8fe1e646c5ad55d1c726cb863e603dda497ed0ce181d41b572ba24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-122-2005",
+   "path": "ordin/economie/2005/122",
+   "short": "Ordin economie nr. 122/2005",
+   "title": "Ordinul nr. 122/2005 privind înlocuirea anexei la Ordinul ministrului industriei și resurselor nr. 337/2001 pentru aprobarea Normelor privind inspecția tehnică a instalațiilor, echipamentelor și dispozitivelor utilizate în scopul limitării emisiilor de compuși organici volatili rezultați din depozitarea, încărcarea, descărcarea și distribuția benzinei la terminale și la stațiile de benzină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60962",
+   "versions": [
+    {
+     "from": "2005-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60962",
+     "sha256": "16c5bc5d5322334147a5f497f0b51ace1fba9f1a5c506edbb2b260edfea90bac"
     }
    ]
   },
@@ -10323,6 +10428,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-702-2005",
+   "path": "ordin/finante/2005/702",
+   "short": "Ordin finante nr. 702/2005",
+   "title": "Ordinul nr. 702/2005 pentru aprobarea valorilor nominale, a modelarului, a caracteristicilor și a modului de tipărire, livrare, difuzare și păstrare a timbrelor fiscale mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62270",
+   "versions": [
+    {
+     "from": "2005-06-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62270",
+     "sha256": "347ed741a571b86b09d439d0011a50148daf7e6f7159e8d05fa0f3b6082ae087"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-754-2005",
    "path": "ordin/finante/2005/754",
    "short": "Ordin finante nr. 754/2005",
@@ -11523,6 +11643,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-712-2005",
+   "path": "ordin/interne/2005/712",
+   "short": "Ordin interne nr. 712/2005",
+   "title": "Ordinul nr. 712/2005 pentru aprobarea Dispozițiilor generale privind instruirea salariaților în domeniul situațiilor de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63056",
+   "versions": [
+    {
+     "from": "2005-08-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63056",
+     "sha256": "f4352fdcacfe2f6d5a44f5319a4ca50e0a13f6f346ec6a6346a0a32a81224c07"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-718-2005",
    "path": "ordin/interne/2005/718",
    "short": "Ordin interne nr. 718/2005",
@@ -12003,6 +12138,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1044-2005",
+   "path": "ordin/mediu/2005/1044",
+   "short": "Ordin mediu nr. 1044/2005",
+   "title": "Ordinul nr. 1.044/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65682",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/65682",
+     "sha256": "b7aa68a36183ad541d8d6a00def7b9eb4c9ff51518a95fad165fe51ea1b31e20"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-108-2005",
    "path": "ordin/mediu/2005/108",
    "short": "Ordin mediu nr. 108/2005",
@@ -12074,6 +12224,21 @@
      "units": 39,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67597",
      "sha256": "fe5aaaa1ce77b28bc12c6b991617bb0624b11f211704c3f915801943ecec2ed8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1224-2005",
+   "path": "ordin/mediu/2005/1224",
+   "short": "Ordin mediu nr. 1224/2005",
+   "title": "Ordinul nr. 1.224/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67391",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/67391",
+     "sha256": "346085fcce181ea150691ff5d68a88f2d8711b91dadaf82c4a4ef661ea0db70a"
     }
    ]
   },
@@ -12198,6 +12363,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1281-2005",
+   "path": "ordin/mediu/2005/1281",
+   "short": "Ordin mediu nr. 1281/2005",
+   "title": "Ordinul nr. 1.281/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68044",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/68044",
+     "sha256": "dabc4461c7f487af92ab4e7193ee0d785fa10ba2a455ab89beb3b1fd3c34db79"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1295-2005",
    "path": "ordin/mediu/2005/1295",
    "short": "Ordin mediu nr. 1295/2005",
@@ -12224,6 +12404,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68352",
      "sha256": "b9087a78e0aa9fd960fb85201621bf3e5d9a9ddd827b7352de8418f032a18d54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-13-2005",
+   "path": "ordin/mediu/2005/13",
+   "short": "Ordin mediu nr. 13/2005",
+   "title": "Ordinul nr. 13/2005 pentru contingentarea în anul 2005 a consumului și a producției de substanțe care epuizează stratul de ozon",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59027",
+   "versions": [
+    {
+     "from": "2005-02-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59027",
+     "sha256": "715fcf55132f430d5fbd428e2d3e7c500f9a8f5b3d71633b23d40b8695cc4467"
     }
    ]
   },
@@ -12374,6 +12569,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61363",
      "sha256": "b81dafa0525485552d09c6f8be1ee2de796f07490be5ca9ea649d58333ec1c85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-494-2005",
+   "path": "ordin/mediu/2005/494",
+   "short": "Ordin mediu nr. 494/2005",
+   "title": "Ordinul nr. 494/2005 privind aprobarea procedurilor de încredințare a administrării și de atribuire în custodie a ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62242",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62242",
+     "sha256": "0c1e4135382d331d8d02938417303ad9b70d5a211d314dfaaa7367a27750ac47"
     }
    ]
   },
@@ -12599,6 +12809,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31691",
      "sha256": "a298289a2a27cc664e346834b79c01eb51bb2989daa6ef1ea965b156102d794d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-923-2005",
+   "path": "ordin/mediu/2005/923",
+   "short": "Ordin mediu nr. 923/2005",
+   "title": "Ordinul nr. 923/2005 pentru aprobarea Formularului de prezentare a rezumatului notificării privind introducerea pe piață a organismelor modificate genetic, ca atare sau în produse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34982",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34982",
+     "sha256": "1c11965872172a25701c59b9f77d48e775e0bcacb64a127b6533f5b19c28078d"
     }
    ]
   },
@@ -14088,6 +14313,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1103-2005",
+   "path": "ordin/sanatate/2005/1103",
+   "short": "Ordin sanatate nr. 1103/2005",
+   "title": "Ordinul nr. 1.103/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34991",
+   "versions": [
+    {
+     "from": "2005-10-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/34991",
+     "sha256": "0e9296d4ee50412a97c038d55c0e5e9df63072dfe6a810fbb1762c75eb31596c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1113-2005",
    "path": "ordin/sanatate/2005/1113",
    "short": "Ordin sanatate nr. 1113/2005",
@@ -15528,6 +15768,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-832-2005",
+   "path": "ordin/sanatate/2005/832",
+   "short": "Ordin sanatate nr. 832/2005",
+   "title": "Ordinul nr. 832/2005 pentru aprobarea Documentației privind elaborarea și prezentarea ofertei pentru prestarea serviciilor de curățenie și întreținere a spațiilor din incinta unităților sanitare cu paturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65335",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65335",
+     "sha256": "bc74e8a49f5edb99f1d1c578fb51468862b4b7b095943278eab29204b12ea717"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-836-2005",
    "path": "ordin/sanatate/2005/836",
    "short": "Ordin sanatate nr. 836/2005",
@@ -15539,6 +15794,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64039",
      "sha256": "6d02c35b36948a1b0feb0be68a65c891523c449c30098f0e9f379140e133d414"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-837-2005",
+   "path": "ordin/sanatate/2005/837",
+   "short": "Ordin sanatate nr. 837/2005",
+   "title": "Ordinul nr. 837/2005 privind modificarea Ordinului ministrului sănătății nr. 1.004/2000 pentru aprobarea listelor cuprinzând substanțele prevăzute la art. 6 din Legea nr. 178/2000 privind produsele cosmetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64098",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64098",
+     "sha256": "9896e63618814ff090da249683821a0b066c3a2896b7e663191bf8bd63f321d1"
     }
    ]
   },
@@ -15644,6 +15914,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64830",
      "sha256": "fb346295ce26bcc8ede51f305398c977a632f10bbdf41b12500cfdc43359de9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-933-2005",
+   "path": "ordin/sanatate/2005/933",
+   "short": "Ordin sanatate nr. 933/2005",
+   "title": "Ordinul nr. 933/2005 privind suspendarea activității de autorizare a unităților farmaceutice din categoria farmaciilor, în mediul urban, pe o perioadă determinată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64808",
+   "versions": [
+    {
+     "from": "2005-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64808",
+     "sha256": "1607042f13300064dadc64c995f7471b2cedcecbabfbd21bdf4b16f38387e863"
     }
    ]
   },
@@ -16053,6 +16338,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-176-2005",
+   "path": "ordin/transporturi/2005/176",
+   "short": "Ordin transporturi nr. 176/2005",
+   "title": "Ordinul nr. 176/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61720",
+   "versions": [
+    {
+     "from": "2005-06-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/61720",
+     "sha256": "58bb6e61b465b160471a7131ebae3d13c74897a8f3dfe7e1ff075b77f081f0c6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1815-2005",
    "path": "ordin/transporturi/2005/1815",
    "short": "Ordin transporturi nr. 1815/2005",
@@ -16154,6 +16454,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66211",
      "sha256": "a9638f165d113511630acffb5a29eeda02020c86d92fef84b8eaf6904843b831"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-198-2005",
+   "path": "ordin/transporturi/2005/198",
+   "short": "Ordin transporturi nr. 198/2005",
+   "title": "Ordinul nr. 198/2005 privind aprobarea Reglementării tehnice \"Normativ pentru întreținerea și repararea străzilor\", indicativ NE 033-04 (revizuire C 270-1991)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61878",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61878",
+     "sha256": "0f4d271d3e5dabba16401f691a1973bd54b2c96cd87549cba774148255178777"
     }
    ]
   },
@@ -16274,6 +16589,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67377",
      "sha256": "576d46d08696c87ac48dd024c59abcab33b69460cd5efa7e6a57947ac35029fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-2134-2005",
+   "path": "ordin/transporturi/2005/2134",
+   "short": "Ordin transporturi nr. 2134/2005",
+   "title": "Ordinul nr. 2.134/2005 pentru aprobarea Reglementărilor privind omologarea, agrearea și efectuarea inspecției tehnice periodice a vehiculelor destinate transportului anumitor mărfuri periculoase - RNTR 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68475",
+   "versions": [
+    {
+     "from": "2006-03-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68475",
+     "sha256": "1b11d0997162311914712978843587a1fa9490e744a319b7ba44be5cee640510"
     }
    ]
   },
@@ -16904,6 +17234,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64416",
      "sha256": "ffd3f8c9fd8aa3b7f65293a39bf4a97d02715a2eaa3d8420071a5abf9bc7ad20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-629-2005",
+   "path": "ordin/vama/2005/629",
+   "short": "Ordin vama nr. 629/2005",
+   "title": "Ordinul nr. 629/2005 privind aplicarea sistemului de tranzit comun pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61189",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61189",
+     "sha256": "c8fec1ed8f725ae169ad390c352de3557b109dbc210c2d155c179d04fe74f394"
     }
    ]
   },
@@ -17883,6 +18228,36 @@
    ]
   },
   {
+   "slug": "ordin-bnr-29-2005",
+   "path": "ordin/bnr/2005/29",
+   "short": "Ordin bnr nr. 29/2005",
+   "title": "Ordinul nr. 29/2005 pentru aprobarea Normelor privind reflectarea în contabilitate a operațiunilor de denominare a valorii nominale a acțiunilor/părților sociale/unităților de fond ca urmare a aplicării Legii nr. 348/2004 privind denominarea monedei naționale, cu modificările și completările ulterioare",
+   "url": "https://www.bnr.ro/20283-ordin-29-2005",
+   "versions": [
+    {
+     "from": "2005-06-17",
+     "units": 6,
+     "source_url": "https://www.bnr.ro/20283-ordin-29-2005",
+     "sha256": "e4d073ae8d1e9ea5c3b5959806b3b7e63218cb83790f275944076409a190b28f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-3-2005",
+   "path": "ordin/bnr/2005/3",
+   "short": "Ordin bnr nr. 3/2005",
+   "title": "Ordinul nr. 3/2005 privind completarea Reglementărilor contabile armonizate cu Directiva Comunităților Economice Europene nr. 86/635/CEE și cu Standardele Internaționale de Contabilitate aplicabile instituțiilor de credit, aprobate prin Ordinul ministrului finanțelor publice și al guvernatorului Băncii Naționale a României nr. 1.982/5/2001, cu modificările și completările ulterioare",
+   "url": "https://www.bnr.ro/21035-ordin-3-2005",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21035-ordin-3-2005",
+     "sha256": "e11fea94275699010c9e22bf5eabb4c7fe45a43311e0e384a0bcbf005c408225"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-39-2005",
    "path": "ordin/bnr/2005/39",
    "short": "Ordin bnr nr. 39/2005",
@@ -17909,6 +18284,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64816",
      "sha256": "1d2fcacb856bf219d0cbdbe3e3b220f90843369d4767d97d75c3513076ba7edb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-754-2005",
+   "path": "ordin/bnr/2005/754",
+   "short": "Ordin bnr nr. 754/2005",
+   "title": "Ordinul nr. 754/2005 pentru aprobarea Normelor privind reflectarea în contabilitate a operațiunilor de denominare a valorii nominale a acțiunilor/părților sociale/unităților de fond ca urmare a aplicării Legii nr. 348/2004 privind denominarea monedei naționale, cu modificările și completările ulterioare",
+   "url": "https://www.bnr.ro/20284-ordin-754-2005",
+   "versions": [
+    {
+     "from": "2005-06-17",
+     "units": 6,
+     "source_url": "https://www.bnr.ro/20284-ordin-754-2005",
+     "sha256": "c7ffa366454f5406fdc08d008428116484905291e39a2ea1dbcddc02f9e8e9a8"
     }
    ]
   },

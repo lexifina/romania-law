@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "regulament/1991",
+"acts": [
+{
+"slug": "regulament-bnr-1-1991",
+"path": "regulament/bnr/1991/1",
+"kind": "regulament",
+"year": "1991",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1/1991 privind operațiunile curente și transferurile de capital cu mijloace de plată străine",
+"short": "Regulament bnr nr. 1/1991",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-05-13",
+"latest": "1991-05-13",
+"portal": "https://www.bnr.ro/21487-regulament-1-1991",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "regulament-bnr-2-1991",
+"path": "regulament/bnr/1991/2",
+"kind": "regulament",
+"year": "1991",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 2/1991 cu privire la operațiunile cu numerar",
+"short": "Regulament bnr nr. 2/1991",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-07-22",
+"latest": "1991-07-22",
+"portal": "https://www.bnr.ro/20587-regulament-2-1991",
+"issuer": "bnr",
+"joint": []
+}
+]
+}

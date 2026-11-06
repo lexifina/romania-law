@@ -331,133 +331,133 @@
   {
    "shard": "avocatul-poporului/2022",
    "kind": "avocatul-poporului",
-   "count": 18,
+   "count": 70,
    "acts": "data/acts/avocatul-poporului/2022.json",
    "list": "data/acts/avocatul-poporului/2022.md",
    "versions": "data/versions/avocatul-poporului/2022.json",
    "laws": "data/laws/avocatul-poporului/2022.csv",
-   "laws_count": 18,
+   "laws_count": 70,
    "sources": "data/sources/avocatul-poporului/2022.csv"
   },
   {
    "shard": "avocatul-poporului/2023",
    "kind": "avocatul-poporului",
-   "count": 14,
+   "count": 71,
    "acts": "data/acts/avocatul-poporului/2023.json",
    "list": "data/acts/avocatul-poporului/2023.md",
    "versions": "data/versions/avocatul-poporului/2023.json",
    "laws": "data/laws/avocatul-poporului/2023.csv",
-   "laws_count": 14,
+   "laws_count": 71,
    "sources": "data/sources/avocatul-poporului/2023.csv"
   },
   {
    "shard": "avocatul-poporului/2024",
    "kind": "avocatul-poporului",
-   "count": 12,
+   "count": 74,
    "acts": "data/acts/avocatul-poporului/2024.json",
    "list": "data/acts/avocatul-poporului/2024.md",
    "versions": "data/versions/avocatul-poporului/2024.json",
    "laws": "data/laws/avocatul-poporului/2024.csv",
-   "laws_count": 12,
+   "laws_count": 74,
    "sources": "data/sources/avocatul-poporului/2024.csv"
   },
   {
    "shard": "avocatul-poporului/2025",
    "kind": "avocatul-poporului",
-   "count": 9,
+   "count": 74,
    "acts": "data/acts/avocatul-poporului/2025.json",
    "list": "data/acts/avocatul-poporului/2025.md",
    "versions": "data/versions/avocatul-poporului/2025.json",
    "laws": "data/laws/avocatul-poporului/2025.csv",
-   "laws_count": 9,
+   "laws_count": 74,
    "sources": "data/sources/avocatul-poporului/2025.csv"
   },
   {
    "shard": "avocatul-poporului/2026",
    "kind": "avocatul-poporului",
-   "count": 4,
+   "count": 68,
    "acts": "data/acts/avocatul-poporului/2026.json",
    "list": "data/acts/avocatul-poporului/2026.md",
    "versions": "data/versions/avocatul-poporului/2026.json",
    "laws": "data/laws/avocatul-poporului/2026.csv",
-   "laws_count": 4,
+   "laws_count": 68,
    "sources": "data/sources/avocatul-poporului/2026.csv"
   },
   {
    "shard": "circulara/1991",
    "kind": "circulara",
-   "count": 1,
+   "count": 2,
    "acts": "data/acts/circulara/1991.json",
    "list": "data/acts/circulara/1991.md",
    "versions": "data/versions/circulara/1991.json",
    "laws": "data/laws/circulara/1991.csv",
-   "laws_count": 1,
+   "laws_count": 2,
    "sources": "data/sources/circulara/1991.csv"
   },
   {
    "shard": "circulara/1992",
    "kind": "circulara",
-   "count": 2,
+   "count": 5,
    "acts": "data/acts/circulara/1992.json",
    "list": "data/acts/circulara/1992.md",
    "versions": "data/versions/circulara/1992.json",
    "laws": "data/laws/circulara/1992.csv",
-   "laws_count": 2,
+   "laws_count": 5,
    "sources": "data/sources/circulara/1992.csv"
   },
   {
    "shard": "circulara/1993",
    "kind": "circulara",
-   "count": 6,
+   "count": 11,
    "acts": "data/acts/circulara/1993.json",
    "list": "data/acts/circulara/1993.md",
    "versions": "data/versions/circulara/1993.json",
    "laws": "data/laws/circulara/1993.csv",
-   "laws_count": 6,
+   "laws_count": 11,
    "sources": "data/sources/circulara/1993.csv"
   },
   {
    "shard": "circulara/1994",
    "kind": "circulara",
-   "count": 13,
+   "count": 14,
    "acts": "data/acts/circulara/1994.json",
    "list": "data/acts/circulara/1994.md",
    "versions": "data/versions/circulara/1994.json",
    "laws": "data/laws/circulara/1994.csv",
-   "laws_count": 13,
+   "laws_count": 14,
    "sources": "data/sources/circulara/1994.csv"
   },
   {
    "shard": "circulara/1995",
    "kind": "circulara",
-   "count": 29,
+   "count": 33,
    "acts": "data/acts/circulara/1995.json",
    "list": "data/acts/circulara/1995.md",
    "versions": "data/versions/circulara/1995.json",
    "laws": "data/laws/circulara/1995.csv",
-   "laws_count": 29,
+   "laws_count": 33,
    "sources": "data/sources/circulara/1995.csv"
   },
   {
    "shard": "circulara/1996",
    "kind": "circulara",
-   "count": 26,
+   "count": 30,
    "acts": "data/acts/circulara/1996.json",
    "list": "data/acts/circulara/1996.md",
    "versions": "data/versions/circulara/1996.json",
    "laws": "data/laws/circulara/1996.csv",
-   "laws_count": 26,
+   "laws_count": 30,
    "sources": "data/sources/circulara/1996.csv"
   },
   {
    "shard": "circulara/1997",
    "kind": "circulara",
-   "count": 26,
+   "count": 28,
    "acts": "data/acts/circulara/1997.json",
    "list": "data/acts/circulara/1997.md",
    "versions": "data/versions/circulara/1997.json",
    "laws": "data/laws/circulara/1997.csv",
-   "laws_count": 26,
+   "laws_count": 28,
    "sources": "data/sources/circulara/1997.csv"
   },
   {
@@ -1409,12 +1409,12 @@
   {
    "shard": "decizie/2011",
    "kind": "decizie",
-   "count": 151,
+   "count": 152,
    "acts": "data/acts/decizie/2011.json",
    "list": "data/acts/decizie/2011.md",
    "versions": "data/versions/decizie/2011.json",
    "laws": "data/laws/decizie/2011.csv",
-   "laws_count": 151,
+   "laws_count": 152,
    "sources": "data/sources/decizie/2011.csv"
   },
   {
@@ -1588,7 +1588,10 @@
    "count": 1,
    "acts": "data/acts/hg/1989.json",
    "list": "data/acts/hg/1989.md",
-   "versions": "data/versions/hg/1989.json"
+   "versions": "data/versions/hg/1989.json",
+   "laws": "data/laws/hg/1989.csv",
+   "laws_count": 1,
+   "sources": "data/sources/hg/1989.csv"
   },
   {
    "shard": "hg/1990",
@@ -1598,7 +1601,7 @@
    "list": "data/acts/hg/1990.md",
    "versions": "data/versions/hg/1990.json",
    "laws": "data/laws/hg/1990.csv",
-   "laws_count": 64,
+   "laws_count": 470,
    "sources": "data/sources/hg/1990.csv"
   },
   {
@@ -1609,7 +1612,7 @@
    "list": "data/acts/hg/1991.md",
    "versions": "data/versions/hg/1991.json",
    "laws": "data/laws/hg/1991.csv",
-   "laws_count": 105,
+   "laws_count": 523,
    "sources": "data/sources/hg/1991.csv"
   },
   {
@@ -1620,7 +1623,7 @@
    "list": "data/acts/hg/1992.md",
    "versions": "data/versions/hg/1992.json",
    "laws": "data/laws/hg/1992.csv",
-   "laws_count": 99,
+   "laws_count": 644,
    "sources": "data/sources/hg/1992.csv"
   },
   {
@@ -1631,7 +1634,7 @@
    "list": "data/acts/hg/1993.md",
    "versions": "data/versions/hg/1993.json",
    "laws": "data/laws/hg/1993.csv",
-   "laws_count": 68,
+   "laws_count": 623,
    "sources": "data/sources/hg/1993.csv"
   },
   {
@@ -1642,7 +1645,7 @@
    "list": "data/acts/hg/1994.md",
    "versions": "data/versions/hg/1994.json",
    "laws": "data/laws/hg/1994.csv",
-   "laws_count": 82,
+   "laws_count": 758,
    "sources": "data/sources/hg/1994.csv"
   },
   {
@@ -1653,7 +1656,7 @@
    "list": "data/acts/hg/1995.md",
    "versions": "data/versions/hg/1995.json",
    "laws": "data/laws/hg/1995.csv",
-   "laws_count": 82,
+   "laws_count": 827,
    "sources": "data/sources/hg/1995.csv"
   },
   {
@@ -1664,7 +1667,7 @@
    "list": "data/acts/hg/1996.md",
    "versions": "data/versions/hg/1996.json",
    "laws": "data/laws/hg/1996.csv",
-   "laws_count": 755,
+   "laws_count": 1262,
    "sources": "data/sources/hg/1996.csv"
   },
   {
@@ -1675,7 +1678,7 @@
    "list": "data/acts/hg/1997.md",
    "versions": "data/versions/hg/1997.json",
    "laws": "data/laws/hg/1997.csv",
-   "laws_count": 655,
+   "laws_count": 852,
    "sources": "data/sources/hg/1997.csv"
   },
   {
@@ -1686,7 +1689,7 @@
    "list": "data/acts/hg/1998.md",
    "versions": "data/versions/hg/1998.json",
    "laws": "data/laws/hg/1998.csv",
-   "laws_count": 658,
+   "laws_count": 878,
    "sources": "data/sources/hg/1998.csv"
   },
   {
@@ -1697,7 +1700,7 @@
    "list": "data/acts/hg/1999.md",
    "versions": "data/versions/hg/1999.json",
    "laws": "data/laws/hg/1999.csv",
-   "laws_count": 707,
+   "laws_count": 947,
    "sources": "data/sources/hg/1999.csv"
   },
   {
@@ -1708,7 +1711,7 @@
    "list": "data/acts/hg/2000.md",
    "versions": "data/versions/hg/2000.json",
    "laws": "data/laws/hg/2000.csv",
-   "laws_count": 985,
+   "laws_count": 1300,
    "sources": "data/sources/hg/2000.csv"
   },
   {
@@ -1719,7 +1722,7 @@
    "list": "data/acts/hg/2001.md",
    "versions": "data/versions/hg/2001.json",
    "laws": "data/laws/hg/2001.csv",
-   "laws_count": 882,
+   "laws_count": 1289,
    "sources": "data/sources/hg/2001.csv"
   },
   {
@@ -1730,7 +1733,7 @@
    "list": "data/acts/hg/2002.md",
    "versions": "data/versions/hg/2002.json",
    "laws": "data/laws/hg/2002.csv",
-   "laws_count": 1029,
+   "laws_count": 1488,
    "sources": "data/sources/hg/2002.csv"
   },
   {
@@ -1741,7 +1744,7 @@
    "list": "data/acts/hg/2003.md",
    "versions": "data/versions/hg/2003.json",
    "laws": "data/laws/hg/2003.csv",
-   "laws_count": 1094,
+   "laws_count": 1485,
    "sources": "data/sources/hg/2003.csv"
   },
   {
@@ -1752,7 +1755,7 @@
    "list": "data/acts/hg/2004.md",
    "versions": "data/versions/hg/2004.json",
    "laws": "data/laws/hg/2004.csv",
-   "laws_count": 1665,
+   "laws_count": 2277,
    "sources": "data/sources/hg/2004.csv"
   },
   {
@@ -1763,7 +1766,7 @@
    "list": "data/acts/hg/2005.md",
    "versions": "data/versions/hg/2005.json",
    "laws": "data/laws/hg/2005.csv",
-   "laws_count": 1370,
+   "laws_count": 1786,
    "sources": "data/sources/hg/2005.csv"
   },
   {
@@ -1774,7 +1777,7 @@
    "list": "data/acts/hg/2006.md",
    "versions": "data/versions/hg/2006.json",
    "laws": "data/laws/hg/2006.csv",
-   "laws_count": 1394,
+   "laws_count": 1816,
    "sources": "data/sources/hg/2006.csv"
   },
   {
@@ -1785,7 +1788,7 @@
    "list": "data/acts/hg/2007.md",
    "versions": "data/versions/hg/2007.json",
    "laws": "data/laws/hg/2007.csv",
-   "laws_count": 1189,
+   "laws_count": 1522,
    "sources": "data/sources/hg/2007.csv"
   },
   {
@@ -1796,7 +1799,7 @@
    "list": "data/acts/hg/2008.md",
    "versions": "data/versions/hg/2008.json",
    "laws": "data/laws/hg/2008.csv",
-   "laws_count": 1312,
+   "laws_count": 1631,
    "sources": "data/sources/hg/2008.csv"
   },
   {
@@ -1807,7 +1810,7 @@
    "list": "data/acts/hg/2009.md",
    "versions": "data/versions/hg/2009.json",
    "laws": "data/laws/hg/2009.csv",
-   "laws_count": 1225,
+   "laws_count": 1548,
    "sources": "data/sources/hg/2009.csv"
   },
   {
@@ -1818,7 +1821,7 @@
    "list": "data/acts/hg/2010.md",
    "versions": "data/versions/hg/2010.json",
    "laws": "data/laws/hg/2010.csv",
-   "laws_count": 1048,
+   "laws_count": 1347,
    "sources": "data/sources/hg/2010.csv"
   },
   {
@@ -1829,7 +1832,7 @@
    "list": "data/acts/hg/2011.md",
    "versions": "data/versions/hg/2011.json",
    "laws": "data/laws/hg/2011.csv",
-   "laws_count": 980,
+   "laws_count": 1240,
    "sources": "data/sources/hg/2011.csv"
   },
   {
@@ -1840,7 +1843,7 @@
    "list": "data/acts/hg/2012.md",
    "versions": "data/versions/hg/2012.json",
    "laws": "data/laws/hg/2012.csv",
-   "laws_count": 996,
+   "laws_count": 1261,
    "sources": "data/sources/hg/2012.csv"
   },
   {
@@ -1851,7 +1854,7 @@
    "list": "data/acts/hg/2013.md",
    "versions": "data/versions/hg/2013.json",
    "laws": "data/laws/hg/2013.csv",
-   "laws_count": 873,
+   "laws_count": 1103,
    "sources": "data/sources/hg/2013.csv"
   },
   {
@@ -1862,7 +1865,7 @@
    "list": "data/acts/hg/2014.md",
    "versions": "data/versions/hg/2014.json",
    "laws": "data/laws/hg/2014.csv",
-   "laws_count": 932,
+   "laws_count": 1130,
    "sources": "data/sources/hg/2014.csv"
   },
   {
@@ -1873,7 +1876,7 @@
    "list": "data/acts/hg/2015.md",
    "versions": "data/versions/hg/2015.json",
    "laws": "data/laws/hg/2015.csv",
-   "laws_count": 837,
+   "laws_count": 956,
    "sources": "data/sources/hg/2015.csv"
   },
   {
@@ -1884,7 +1887,7 @@
    "list": "data/acts/hg/2016.md",
    "versions": "data/versions/hg/2016.json",
    "laws": "data/laws/hg/2016.csv",
-   "laws_count": 800,
+   "laws_count": 899,
    "sources": "data/sources/hg/2016.csv"
   },
   {
@@ -1895,7 +1898,7 @@
    "list": "data/acts/hg/2017.md",
    "versions": "data/versions/hg/2017.json",
    "laws": "data/laws/hg/2017.csv",
-   "laws_count": 690,
+   "laws_count": 791,
    "sources": "data/sources/hg/2017.csv"
   },
   {
@@ -1906,7 +1909,7 @@
    "list": "data/acts/hg/2018.md",
    "versions": "data/versions/hg/2018.json",
    "laws": "data/laws/hg/2018.csv",
-   "laws_count": 775,
+   "laws_count": 878,
    "sources": "data/sources/hg/2018.csv"
   },
   {
@@ -1917,7 +1920,7 @@
    "list": "data/acts/hg/2019.md",
    "versions": "data/versions/hg/2019.json",
    "laws": "data/laws/hg/2019.csv",
-   "laws_count": 799,
+   "laws_count": 872,
    "sources": "data/sources/hg/2019.csv"
   },
   {
@@ -1928,7 +1931,7 @@
    "list": "data/acts/hg/2020.md",
    "versions": "data/versions/hg/2020.json",
    "laws": "data/laws/hg/2020.csv",
-   "laws_count": 861,
+   "laws_count": 928,
    "sources": "data/sources/hg/2020.csv"
   },
   {
@@ -1939,7 +1942,7 @@
    "list": "data/acts/hg/2021.md",
    "versions": "data/versions/hg/2021.json",
    "laws": "data/laws/hg/2021.csv",
-   "laws_count": 1014,
+   "laws_count": 1067,
    "sources": "data/sources/hg/2021.csv"
   },
   {
@@ -1950,7 +1953,7 @@
    "list": "data/acts/hg/2022.md",
    "versions": "data/versions/hg/2022.json",
    "laws": "data/laws/hg/2022.csv",
-   "laws_count": 1211,
+   "laws_count": 1285,
    "sources": "data/sources/hg/2022.csv"
   },
   {
@@ -1961,7 +1964,7 @@
    "list": "data/acts/hg/2023.md",
    "versions": "data/versions/hg/2023.json",
    "laws": "data/laws/hg/2023.csv",
-   "laws_count": 1062,
+   "laws_count": 1110,
    "sources": "data/sources/hg/2023.csv"
   },
   {
@@ -1972,7 +1975,7 @@
    "list": "data/acts/hg/2024.md",
    "versions": "data/versions/hg/2024.json",
    "laws": "data/laws/hg/2024.csv",
-   "laws_count": 1218,
+   "laws_count": 1299,
    "sources": "data/sources/hg/2024.csv"
   },
   {
@@ -1983,7 +1986,7 @@
    "list": "data/acts/hg/2025.md",
    "versions": "data/versions/hg/2025.json",
    "laws": "data/laws/hg/2025.csv",
-   "laws_count": 938,
+   "laws_count": 982,
    "sources": "data/sources/hg/2025.csv"
   },
   {
@@ -1994,7 +1997,7 @@
    "list": "data/acts/hg/2026.md",
    "versions": "data/versions/hg/2026.json",
    "laws": "data/laws/hg/2026.csv",
-   "laws_count": 793,
+   "laws_count": 809,
    "sources": "data/sources/hg/2026.csv"
   },
   {
@@ -2550,23 +2553,23 @@
   {
    "shard": "instructiuni/1994",
    "kind": "instructiuni",
-   "count": 7,
+   "count": 9,
    "acts": "data/acts/instructiuni/1994.json",
    "list": "data/acts/instructiuni/1994.md",
    "versions": "data/versions/instructiuni/1994.json",
    "laws": "data/laws/instructiuni/1994.csv",
-   "laws_count": 7,
+   "laws_count": 9,
    "sources": "data/sources/instructiuni/1994.csv"
   },
   {
    "shard": "instructiuni/1995",
    "kind": "instructiuni",
-   "count": 7,
+   "count": 8,
    "acts": "data/acts/instructiuni/1995.json",
    "list": "data/acts/instructiuni/1995.md",
    "versions": "data/versions/instructiuni/1995.json",
    "laws": "data/laws/instructiuni/1995.csv",
-   "laws_count": 7,
+   "laws_count": 8,
    "sources": "data/sources/instructiuni/1995.csv"
   },
   {
@@ -2583,12 +2586,12 @@
   {
    "shard": "instructiuni/1997",
    "kind": "instructiuni",
-   "count": 9,
+   "count": 10,
    "acts": "data/acts/instructiuni/1997.json",
    "list": "data/acts/instructiuni/1997.md",
    "versions": "data/versions/instructiuni/1997.json",
    "laws": "data/laws/instructiuni/1997.csv",
-   "laws_count": 9,
+   "laws_count": 10,
    "sources": "data/sources/instructiuni/1997.csv"
   },
   {
@@ -2792,12 +2795,12 @@
   {
    "shard": "instructiuni/2016",
    "kind": "instructiuni",
-   "count": 10,
+   "count": 11,
    "acts": "data/acts/instructiuni/2016.json",
    "list": "data/acts/instructiuni/2016.md",
    "versions": "data/versions/instructiuni/2016.json",
    "laws": "data/laws/instructiuni/2016.csv",
-   "laws_count": 10,
+   "laws_count": 11,
    "sources": "data/sources/instructiuni/2016.csv"
   },
   {
@@ -10283,12 +10286,12 @@
   {
    "shard": "norma/1991",
    "kind": "norma",
-   "count": 8,
+   "count": 9,
    "acts": "data/acts/norma/1991.json",
    "list": "data/acts/norma/1991.md",
    "versions": "data/versions/norma/1991.json",
    "laws": "data/laws/norma/1991.csv",
-   "laws_count": 8,
+   "laws_count": 9,
    "sources": "data/sources/norma/1991.csv"
   },
   {
@@ -10305,23 +10308,23 @@
   {
    "shard": "norma/1993",
    "kind": "norma",
-   "count": 8,
+   "count": 9,
    "acts": "data/acts/norma/1993.json",
    "list": "data/acts/norma/1993.md",
    "versions": "data/versions/norma/1993.json",
    "laws": "data/laws/norma/1993.csv",
-   "laws_count": 8,
+   "laws_count": 9,
    "sources": "data/sources/norma/1993.csv"
   },
   {
    "shard": "norma/1994",
    "kind": "norma",
-   "count": 18,
+   "count": 26,
    "acts": "data/acts/norma/1994.json",
    "list": "data/acts/norma/1994.md",
    "versions": "data/versions/norma/1994.json",
    "laws": "data/laws/norma/1994.csv",
-   "laws_count": 18,
+   "laws_count": 26,
    "sources": "data/sources/norma/1994.csv"
   },
   {
@@ -10338,23 +10341,23 @@
   {
    "shard": "norma/1996",
    "kind": "norma",
-   "count": 14,
+   "count": 15,
    "acts": "data/acts/norma/1996.json",
    "list": "data/acts/norma/1996.md",
    "versions": "data/versions/norma/1996.json",
    "laws": "data/laws/norma/1996.csv",
-   "laws_count": 14,
+   "laws_count": 15,
    "sources": "data/sources/norma/1996.csv"
   },
   {
    "shard": "norma/1997",
    "kind": "norma",
-   "count": 12,
+   "count": 13,
    "acts": "data/acts/norma/1997.json",
    "list": "data/acts/norma/1997.md",
    "versions": "data/versions/norma/1997.json",
    "laws": "data/laws/norma/1997.csv",
-   "laws_count": 12,
+   "laws_count": 13,
    "sources": "data/sources/norma/1997.csv"
   },
   {
@@ -10371,12 +10374,12 @@
   {
    "shard": "norma/1999",
    "kind": "norma",
-   "count": 20,
+   "count": 21,
    "acts": "data/acts/norma/1999.json",
    "list": "data/acts/norma/1999.md",
    "versions": "data/versions/norma/1999.json",
    "laws": "data/laws/norma/1999.csv",
-   "laws_count": 20,
+   "laws_count": 21,
    "sources": "data/sources/norma/1999.csv"
   },
   {
@@ -10404,34 +10407,34 @@
   {
    "shard": "norma/2002",
    "kind": "norma",
-   "count": 21,
+   "count": 23,
    "acts": "data/acts/norma/2002.json",
    "list": "data/acts/norma/2002.md",
    "versions": "data/versions/norma/2002.json",
    "laws": "data/laws/norma/2002.csv",
-   "laws_count": 21,
+   "laws_count": 23,
    "sources": "data/sources/norma/2002.csv"
   },
   {
    "shard": "norma/2003",
    "kind": "norma",
-   "count": 16,
+   "count": 19,
    "acts": "data/acts/norma/2003.json",
    "list": "data/acts/norma/2003.md",
    "versions": "data/versions/norma/2003.json",
    "laws": "data/laws/norma/2003.csv",
-   "laws_count": 16,
+   "laws_count": 19,
    "sources": "data/sources/norma/2003.csv"
   },
   {
    "shard": "norma/2004",
    "kind": "norma",
-   "count": 18,
+   "count": 19,
    "acts": "data/acts/norma/2004.json",
    "list": "data/acts/norma/2004.md",
    "versions": "data/versions/norma/2004.json",
    "laws": "data/laws/norma/2004.csv",
-   "laws_count": 18,
+   "laws_count": 19,
    "sources": "data/sources/norma/2004.csv"
   },
   {
@@ -10448,12 +10451,12 @@
   {
    "shard": "norma/2006",
    "kind": "norma",
-   "count": 44,
+   "count": 45,
    "acts": "data/acts/norma/2006.json",
    "list": "data/acts/norma/2006.md",
    "versions": "data/versions/norma/2006.json",
    "laws": "data/laws/norma/2006.csv",
-   "laws_count": 44,
+   "laws_count": 45,
    "sources": "data/sources/norma/2006.csv"
   },
   {
@@ -10470,12 +10473,12 @@
   {
    "shard": "norma/2008",
    "kind": "norma",
-   "count": 32,
+   "count": 34,
    "acts": "data/acts/norma/2008.json",
    "list": "data/acts/norma/2008.md",
    "versions": "data/versions/norma/2008.json",
    "laws": "data/laws/norma/2008.csv",
-   "laws_count": 32,
+   "laws_count": 34,
    "sources": "data/sources/norma/2008.csv"
   },
   {
@@ -10569,12 +10572,12 @@
   {
    "shard": "norma/2017",
    "kind": "norma",
-   "count": 31,
+   "count": 32,
    "acts": "data/acts/norma/2017.json",
    "list": "data/acts/norma/2017.md",
    "versions": "data/versions/norma/2017.json",
    "laws": "data/laws/norma/2017.csv",
-   "laws_count": 31,
+   "laws_count": 32,
    "sources": "data/sources/norma/2017.csv"
   },
   {
@@ -10756,342 +10759,342 @@
   {
    "shard": "ordin/1996",
    "kind": "ordin",
-   "count": 132,
+   "count": 133,
    "acts": "data/acts/ordin/1996.json",
    "list": "data/acts/ordin/1996.md",
    "versions": "data/versions/ordin/1996.json",
    "laws": "data/laws/ordin/1996.csv",
-   "laws_count": 132,
+   "laws_count": 133,
    "sources": "data/sources/ordin/1996.csv"
   },
   {
    "shard": "ordin/1997",
    "kind": "ordin",
-   "count": 208,
+   "count": 215,
    "acts": "data/acts/ordin/1997.json",
    "list": "data/acts/ordin/1997.md",
    "versions": "data/versions/ordin/1997.json",
    "laws": "data/laws/ordin/1997.csv",
-   "laws_count": 208,
+   "laws_count": 215,
    "sources": "data/sources/ordin/1997.csv"
   },
   {
    "shard": "ordin/1998",
    "kind": "ordin",
-   "count": 208,
+   "count": 212,
    "acts": "data/acts/ordin/1998.json",
    "list": "data/acts/ordin/1998.md",
    "versions": "data/versions/ordin/1998.json",
    "laws": "data/laws/ordin/1998.csv",
-   "laws_count": 208,
+   "laws_count": 212,
    "sources": "data/sources/ordin/1998.csv"
   },
   {
    "shard": "ordin/1999",
    "kind": "ordin",
-   "count": 295,
+   "count": 313,
    "acts": "data/acts/ordin/1999.json",
    "list": "data/acts/ordin/1999.md",
    "versions": "data/versions/ordin/1999.json",
    "laws": "data/laws/ordin/1999.csv",
-   "laws_count": 295,
+   "laws_count": 313,
    "sources": "data/sources/ordin/1999.csv"
   },
   {
    "shard": "ordin/2000",
    "kind": "ordin",
-   "count": 300,
+   "count": 322,
    "acts": "data/acts/ordin/2000.json",
    "list": "data/acts/ordin/2000.md",
    "versions": "data/versions/ordin/2000.json",
    "laws": "data/laws/ordin/2000.csv",
-   "laws_count": 300,
+   "laws_count": 322,
    "sources": "data/sources/ordin/2000.csv"
   },
   {
    "shard": "ordin/2001",
    "kind": "ordin",
-   "count": 514,
+   "count": 543,
    "acts": "data/acts/ordin/2001.json",
    "list": "data/acts/ordin/2001.md",
    "versions": "data/versions/ordin/2001.json",
    "laws": "data/laws/ordin/2001.csv",
-   "laws_count": 514,
+   "laws_count": 543,
    "sources": "data/sources/ordin/2001.csv"
   },
   {
    "shard": "ordin/2002",
    "kind": "ordin",
-   "count": 835,
+   "count": 888,
    "acts": "data/acts/ordin/2002.json",
    "list": "data/acts/ordin/2002.md",
    "versions": "data/versions/ordin/2002.json",
    "laws": "data/laws/ordin/2002.csv",
-   "laws_count": 835,
+   "laws_count": 888,
    "sources": "data/sources/ordin/2002.csv"
   },
   {
    "shard": "ordin/2003",
    "kind": "ordin",
-   "count": 995,
+   "count": 1053,
    "acts": "data/acts/ordin/2003.json",
    "list": "data/acts/ordin/2003.md",
    "versions": "data/versions/ordin/2003.json",
    "laws": "data/laws/ordin/2003.csv",
-   "laws_count": 995,
+   "laws_count": 1053,
    "sources": "data/sources/ordin/2003.csv"
   },
   {
    "shard": "ordin/2004",
    "kind": "ordin",
-   "count": 1192,
+   "count": 1231,
    "acts": "data/acts/ordin/2004.json",
    "list": "data/acts/ordin/2004.md",
    "versions": "data/versions/ordin/2004.json",
    "laws": "data/laws/ordin/2004.csv",
-   "laws_count": 1192,
+   "laws_count": 1231,
    "sources": "data/sources/ordin/2004.csv"
   },
   {
    "shard": "ordin/2005",
    "kind": "ordin",
-   "count": 1195,
+   "count": 1221,
    "acts": "data/acts/ordin/2005.json",
    "list": "data/acts/ordin/2005.md",
    "versions": "data/versions/ordin/2005.json",
    "laws": "data/laws/ordin/2005.csv",
-   "laws_count": 1195,
+   "laws_count": 1221,
    "sources": "data/sources/ordin/2005.csv"
   },
   {
    "shard": "ordin/2006",
    "kind": "ordin",
-   "count": 1309,
+   "count": 1345,
    "acts": "data/acts/ordin/2006.json",
    "list": "data/acts/ordin/2006.md",
    "versions": "data/versions/ordin/2006.json",
    "laws": "data/laws/ordin/2006.csv",
-   "laws_count": 1309,
+   "laws_count": 1345,
    "sources": "data/sources/ordin/2006.csv"
   },
   {
    "shard": "ordin/2007",
    "kind": "ordin",
-   "count": 1116,
+   "count": 1145,
    "acts": "data/acts/ordin/2007.json",
    "list": "data/acts/ordin/2007.md",
    "versions": "data/versions/ordin/2007.json",
    "laws": "data/laws/ordin/2007.csv",
-   "laws_count": 1116,
+   "laws_count": 1145,
    "sources": "data/sources/ordin/2007.csv"
   },
   {
    "shard": "ordin/2008",
    "kind": "ordin",
-   "count": 1154,
+   "count": 1183,
    "acts": "data/acts/ordin/2008.json",
    "list": "data/acts/ordin/2008.md",
    "versions": "data/versions/ordin/2008.json",
    "laws": "data/laws/ordin/2008.csv",
-   "laws_count": 1154,
+   "laws_count": 1183,
    "sources": "data/sources/ordin/2008.csv"
   },
   {
    "shard": "ordin/2009",
    "kind": "ordin",
-   "count": 968,
+   "count": 992,
    "acts": "data/acts/ordin/2009.json",
    "list": "data/acts/ordin/2009.md",
    "versions": "data/versions/ordin/2009.json",
    "laws": "data/laws/ordin/2009.csv",
-   "laws_count": 968,
+   "laws_count": 992,
    "sources": "data/sources/ordin/2009.csv"
   },
   {
    "shard": "ordin/2010",
    "kind": "ordin",
-   "count": 1035,
+   "count": 1056,
    "acts": "data/acts/ordin/2010.json",
    "list": "data/acts/ordin/2010.md",
    "versions": "data/versions/ordin/2010.json",
    "laws": "data/laws/ordin/2010.csv",
-   "laws_count": 1035,
+   "laws_count": 1056,
    "sources": "data/sources/ordin/2010.csv"
   },
   {
    "shard": "ordin/2011",
    "kind": "ordin",
-   "count": 1038,
+   "count": 1056,
    "acts": "data/acts/ordin/2011.json",
    "list": "data/acts/ordin/2011.md",
    "versions": "data/versions/ordin/2011.json",
    "laws": "data/laws/ordin/2011.csv",
-   "laws_count": 1038,
+   "laws_count": 1056,
    "sources": "data/sources/ordin/2011.csv"
   },
   {
    "shard": "ordin/2012",
    "kind": "ordin",
-   "count": 954,
+   "count": 977,
    "acts": "data/acts/ordin/2012.json",
    "list": "data/acts/ordin/2012.md",
    "versions": "data/versions/ordin/2012.json",
    "laws": "data/laws/ordin/2012.csv",
-   "laws_count": 954,
+   "laws_count": 977,
    "sources": "data/sources/ordin/2012.csv"
   },
   {
    "shard": "ordin/2013",
    "kind": "ordin",
-   "count": 1056,
+   "count": 1070,
    "acts": "data/acts/ordin/2013.json",
    "list": "data/acts/ordin/2013.md",
    "versions": "data/versions/ordin/2013.json",
    "laws": "data/laws/ordin/2013.csv",
-   "laws_count": 1056,
+   "laws_count": 1070,
    "sources": "data/sources/ordin/2013.csv"
   },
   {
    "shard": "ordin/2014",
    "kind": "ordin",
-   "count": 1165,
+   "count": 1185,
    "acts": "data/acts/ordin/2014.json",
    "list": "data/acts/ordin/2014.md",
    "versions": "data/versions/ordin/2014.json",
    "laws": "data/laws/ordin/2014.csv",
-   "laws_count": 1165,
+   "laws_count": 1185,
    "sources": "data/sources/ordin/2014.csv"
   },
   {
    "shard": "ordin/2015",
    "kind": "ordin",
-   "count": 1213,
+   "count": 1222,
    "acts": "data/acts/ordin/2015.json",
    "list": "data/acts/ordin/2015.md",
    "versions": "data/versions/ordin/2015.json",
    "laws": "data/laws/ordin/2015.csv",
-   "laws_count": 1213,
+   "laws_count": 1222,
    "sources": "data/sources/ordin/2015.csv"
   },
   {
    "shard": "ordin/2016",
    "kind": "ordin",
-   "count": 1319,
+   "count": 1341,
    "acts": "data/acts/ordin/2016.json",
    "list": "data/acts/ordin/2016.md",
    "versions": "data/versions/ordin/2016.json",
    "laws": "data/laws/ordin/2016.csv",
-   "laws_count": 1319,
+   "laws_count": 1341,
    "sources": "data/sources/ordin/2016.csv"
   },
   {
    "shard": "ordin/2017",
    "kind": "ordin",
-   "count": 1040,
+   "count": 1076,
    "acts": "data/acts/ordin/2017.json",
    "list": "data/acts/ordin/2017.md",
    "versions": "data/versions/ordin/2017.json",
    "laws": "data/laws/ordin/2017.csv",
-   "laws_count": 1040,
+   "laws_count": 1076,
    "sources": "data/sources/ordin/2017.csv"
   },
   {
    "shard": "ordin/2018",
    "kind": "ordin",
-   "count": 1126,
+   "count": 1169,
    "acts": "data/acts/ordin/2018.json",
    "list": "data/acts/ordin/2018.md",
    "versions": "data/versions/ordin/2018.json",
    "laws": "data/laws/ordin/2018.csv",
-   "laws_count": 1126,
+   "laws_count": 1169,
    "sources": "data/sources/ordin/2018.csv"
   },
   {
    "shard": "ordin/2019",
    "kind": "ordin",
-   "count": 1060,
+   "count": 1105,
    "acts": "data/acts/ordin/2019.json",
    "list": "data/acts/ordin/2019.md",
    "versions": "data/versions/ordin/2019.json",
    "laws": "data/laws/ordin/2019.csv",
-   "laws_count": 1060,
+   "laws_count": 1105,
    "sources": "data/sources/ordin/2019.csv"
   },
   {
    "shard": "ordin/2020",
    "kind": "ordin",
-   "count": 1314,
+   "count": 1377,
    "acts": "data/acts/ordin/2020.json",
    "list": "data/acts/ordin/2020.md",
    "versions": "data/versions/ordin/2020.json",
    "laws": "data/laws/ordin/2020.csv",
-   "laws_count": 1314,
+   "laws_count": 1377,
    "sources": "data/sources/ordin/2020.csv"
   },
   {
    "shard": "ordin/2021",
    "kind": "ordin",
-   "count": 1102,
+   "count": 1150,
    "acts": "data/acts/ordin/2021.json",
    "list": "data/acts/ordin/2021.md",
    "versions": "data/versions/ordin/2021.json",
    "laws": "data/laws/ordin/2021.csv",
-   "laws_count": 1102,
+   "laws_count": 1150,
    "sources": "data/sources/ordin/2021.csv"
   },
   {
    "shard": "ordin/2022",
    "kind": "ordin",
-   "count": 1294,
+   "count": 1358,
    "acts": "data/acts/ordin/2022.json",
    "list": "data/acts/ordin/2022.md",
    "versions": "data/versions/ordin/2022.json",
    "laws": "data/laws/ordin/2022.csv",
-   "laws_count": 1294,
+   "laws_count": 1358,
    "sources": "data/sources/ordin/2022.csv"
   },
   {
    "shard": "ordin/2023",
    "kind": "ordin",
-   "count": 1285,
+   "count": 1338,
    "acts": "data/acts/ordin/2023.json",
    "list": "data/acts/ordin/2023.md",
    "versions": "data/versions/ordin/2023.json",
    "laws": "data/laws/ordin/2023.csv",
-   "laws_count": 1285,
+   "laws_count": 1338,
    "sources": "data/sources/ordin/2023.csv"
   },
   {
    "shard": "ordin/2024",
    "kind": "ordin",
-   "count": 1193,
+   "count": 1258,
    "acts": "data/acts/ordin/2024.json",
    "list": "data/acts/ordin/2024.md",
    "versions": "data/versions/ordin/2024.json",
    "laws": "data/laws/ordin/2024.csv",
-   "laws_count": 1193,
+   "laws_count": 1258,
    "sources": "data/sources/ordin/2024.csv"
   },
   {
    "shard": "ordin/2025",
    "kind": "ordin",
-   "count": 1038,
+   "count": 1082,
    "acts": "data/acts/ordin/2025.json",
    "list": "data/acts/ordin/2025.md",
    "versions": "data/versions/ordin/2025.json",
    "laws": "data/laws/ordin/2025.csv",
-   "laws_count": 1038,
+   "laws_count": 1082,
    "sources": "data/sources/ordin/2025.csv"
   },
   {
    "shard": "ordin/2026",
    "kind": "ordin",
-   "count": 844,
+   "count": 849,
    "acts": "data/acts/ordin/2026.json",
    "list": "data/acts/ordin/2026.md",
    "versions": "data/versions/ordin/2026.json",
    "laws": "data/laws/ordin/2026.csv",
-   "laws_count": 844,
+   "laws_count": 849,
    "sources": "data/sources/ordin/2026.csv"
   },
   {
@@ -11174,12 +11177,12 @@
   {
    "shard": "precizari/1999",
    "kind": "precizari",
-   "count": 3,
+   "count": 4,
    "acts": "data/acts/precizari/1999.json",
    "list": "data/acts/precizari/1999.md",
    "versions": "data/versions/precizari/1999.json",
    "laws": "data/laws/precizari/1999.csv",
-   "laws_count": 3,
+   "laws_count": 4,
    "sources": "data/sources/precizari/1999.csv"
   },
   {
@@ -11458,14 +11461,25 @@
    "sources": "data/sources/profesii/other.csv"
   },
   {
-   "shard": "regulament/1992",
+   "shard": "regulament/1991",
    "kind": "regulament",
    "count": 2,
+   "acts": "data/acts/regulament/1991.json",
+   "list": "data/acts/regulament/1991.md",
+   "versions": "data/versions/regulament/1991.json",
+   "laws": "data/laws/regulament/1991.csv",
+   "laws_count": 2,
+   "sources": "data/sources/regulament/1991.csv"
+  },
+  {
+   "shard": "regulament/1992",
+   "kind": "regulament",
+   "count": 3,
    "acts": "data/acts/regulament/1992.json",
    "list": "data/acts/regulament/1992.md",
    "versions": "data/versions/regulament/1992.json",
    "laws": "data/laws/regulament/1992.csv",
-   "laws_count": 2,
+   "laws_count": 3,
    "sources": "data/sources/regulament/1992.csv"
   },
   {
@@ -11482,12 +11496,12 @@
   {
    "shard": "regulament/1994",
    "kind": "regulament",
-   "count": 3,
+   "count": 5,
    "acts": "data/acts/regulament/1994.json",
    "list": "data/acts/regulament/1994.md",
    "versions": "data/versions/regulament/1994.json",
    "laws": "data/laws/regulament/1994.csv",
-   "laws_count": 3,
+   "laws_count": 5,
    "sources": "data/sources/regulament/1994.csv"
   },
   {
@@ -11570,12 +11584,12 @@
   {
    "shard": "regulament/2002",
    "kind": "regulament",
-   "count": 11,
+   "count": 12,
    "acts": "data/acts/regulament/2002.json",
    "list": "data/acts/regulament/2002.md",
    "versions": "data/versions/regulament/2002.json",
    "laws": "data/laws/regulament/2002.csv",
-   "laws_count": 11,
+   "laws_count": 12,
    "sources": "data/sources/regulament/2002.csv"
   },
   {
@@ -11592,45 +11606,45 @@
   {
    "shard": "regulament/2004",
    "kind": "regulament",
-   "count": 12,
+   "count": 14,
    "acts": "data/acts/regulament/2004.json",
    "list": "data/acts/regulament/2004.md",
    "versions": "data/versions/regulament/2004.json",
    "laws": "data/laws/regulament/2004.csv",
-   "laws_count": 12,
+   "laws_count": 14,
    "sources": "data/sources/regulament/2004.csv"
   },
   {
    "shard": "regulament/2005",
    "kind": "regulament",
-   "count": 24,
+   "count": 25,
    "acts": "data/acts/regulament/2005.json",
    "list": "data/acts/regulament/2005.md",
    "versions": "data/versions/regulament/2005.json",
    "laws": "data/laws/regulament/2005.csv",
-   "laws_count": 24,
+   "laws_count": 25,
    "sources": "data/sources/regulament/2005.csv"
   },
   {
    "shard": "regulament/2006",
    "kind": "regulament",
-   "count": 39,
+   "count": 43,
    "acts": "data/acts/regulament/2006.json",
    "list": "data/acts/regulament/2006.md",
    "versions": "data/versions/regulament/2006.json",
    "laws": "data/laws/regulament/2006.csv",
-   "laws_count": 39,
+   "laws_count": 43,
    "sources": "data/sources/regulament/2006.csv"
   },
   {
    "shard": "regulament/2007",
    "kind": "regulament",
-   "count": 13,
+   "count": 15,
    "acts": "data/acts/regulament/2007.json",
    "list": "data/acts/regulament/2007.md",
    "versions": "data/versions/regulament/2007.json",
    "laws": "data/laws/regulament/2007.csv",
-   "laws_count": 13,
+   "laws_count": 15,
    "sources": "data/sources/regulament/2007.csv"
   },
   {
@@ -11647,12 +11661,12 @@
   {
    "shard": "regulament/2009",
    "kind": "regulament",
-   "count": 36,
+   "count": 37,
    "acts": "data/acts/regulament/2009.json",
    "list": "data/acts/regulament/2009.md",
    "versions": "data/versions/regulament/2009.json",
    "laws": "data/laws/regulament/2009.csv",
-   "laws_count": 36,
+   "laws_count": 37,
    "sources": "data/sources/regulament/2009.csv"
   },
   {
@@ -11669,23 +11683,23 @@
   {
    "shard": "regulament/2011",
    "kind": "regulament",
-   "count": 46,
+   "count": 47,
    "acts": "data/acts/regulament/2011.json",
    "list": "data/acts/regulament/2011.md",
    "versions": "data/versions/regulament/2011.json",
    "laws": "data/laws/regulament/2011.csv",
-   "laws_count": 46,
+   "laws_count": 47,
    "sources": "data/sources/regulament/2011.csv"
   },
   {
    "shard": "regulament/2012",
    "kind": "regulament",
-   "count": 24,
+   "count": 25,
    "acts": "data/acts/regulament/2012.json",
    "list": "data/acts/regulament/2012.md",
    "versions": "data/versions/regulament/2012.json",
    "laws": "data/laws/regulament/2012.csv",
-   "laws_count": 24,
+   "laws_count": 25,
    "sources": "data/sources/regulament/2012.csv"
   },
   {
@@ -11724,12 +11738,12 @@
   {
    "shard": "regulament/2016",
    "kind": "regulament",
-   "count": 24,
+   "count": 25,
    "acts": "data/acts/regulament/2016.json",
    "list": "data/acts/regulament/2016.md",
    "versions": "data/versions/regulament/2016.json",
    "laws": "data/laws/regulament/2016.csv",
-   "laws_count": 24,
+   "laws_count": 25,
    "sources": "data/sources/regulament/2016.csv"
   },
   {

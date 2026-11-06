@@ -1944,8 +1944,8 @@
    "file": "data/freshness/hg/1990.csv",
    "count": 470,
    "by_status": {
-    "current": 258,
-    "pending-change": 211,
+    "current": 410,
+    "pending-change": 59,
     "stale": 0,
     "unverified": 1,
     "source-unavailable": 0
@@ -1957,8 +1957,8 @@
    "file": "data/freshness/hg/1991.csv",
    "count": 523,
    "by_status": {
-    "current": 293,
-    "pending-change": 226,
+    "current": 428,
+    "pending-change": 91,
     "stale": 2,
     "unverified": 2,
     "source-unavailable": 0
@@ -1970,8 +1970,8 @@
    "file": "data/freshness/hg/1992.csv",
    "count": 644,
    "by_status": {
-    "current": 441,
-    "pending-change": 202,
+    "current": 555,
+    "pending-change": 88,
     "stale": 1,
     "unverified": 0,
     "source-unavailable": 0
@@ -1983,8 +1983,8 @@
    "file": "data/freshness/hg/1993.csv",
    "count": 623,
    "by_status": {
-    "current": 491,
-    "pending-change": 129,
+    "current": 565,
+    "pending-change": 55,
     "stale": 0,
     "unverified": 3,
     "source-unavailable": 0
@@ -1996,8 +1996,8 @@
    "file": "data/freshness/hg/1994.csv",
    "count": 758,
    "by_status": {
-    "current": 586,
-    "pending-change": 170,
+    "current": 681,
+    "pending-change": 75,
     "stale": 2,
     "unverified": 0,
     "source-unavailable": 0
@@ -2009,8 +2009,8 @@
    "file": "data/freshness/hg/1995.csv",
    "count": 827,
    "by_status": {
-    "current": 671,
-    "pending-change": 155,
+    "current": 754,
+    "pending-change": 72,
     "stale": 1,
     "unverified": 0,
     "source-unavailable": 0
@@ -2022,8 +2022,8 @@
    "file": "data/freshness/hg/1996.csv",
    "count": 1262,
    "by_status": {
-    "current": 1072,
-    "pending-change": 188,
+    "current": 1170,
+    "pending-change": 90,
     "stale": 1,
     "unverified": 1,
     "source-unavailable": 0
@@ -2035,8 +2035,8 @@
    "file": "data/freshness/hg/1997.csv",
    "count": 852,
    "by_status": {
-    "current": 679,
-    "pending-change": 164,
+    "current": 782,
+    "pending-change": 61,
     "stale": 6,
     "unverified": 3,
     "source-unavailable": 0
@@ -2048,8 +2048,8 @@
    "file": "data/freshness/hg/1998.csv",
    "count": 878,
    "by_status": {
-    "current": 672,
-    "pending-change": 198,
+    "current": 790,
+    "pending-change": 80,
     "stale": 5,
     "unverified": 3,
     "source-unavailable": 0
@@ -2061,8 +2061,8 @@
    "file": "data/freshness/hg/1999.csv",
    "count": 947,
    "by_status": {
-    "current": 731,
-    "pending-change": 208,
+    "current": 862,
+    "pending-change": 77,
     "stale": 3,
     "unverified": 5,
     "source-unavailable": 0
@@ -2074,8 +2074,8 @@
    "file": "data/freshness/hg/2000.csv",
    "count": 1300,
    "by_status": {
-    "current": 1055,
-    "pending-change": 235,
+    "current": 1213,
+    "pending-change": 77,
     "stale": 3,
     "unverified": 7,
     "source-unavailable": 0
@@ -2087,8 +2087,8 @@
    "file": "data/freshness/hg/2001.csv",
    "count": 1289,
    "by_status": {
-    "current": 953,
-    "pending-change": 302,
+    "current": 1145,
+    "pending-change": 110,
     "stale": 12,
     "unverified": 22,
     "source-unavailable": 0
@@ -2100,8 +2100,8 @@
    "file": "data/freshness/hg/2002.csv",
    "count": 1488,
    "by_status": {
-    "current": 1102,
-    "pending-change": 340,
+    "current": 1313,
+    "pending-change": 129,
     "stale": 21,
     "unverified": 25,
     "source-unavailable": 0
@@ -2113,8 +2113,8 @@
    "file": "data/freshness/hg/2003.csv",
    "count": 1485,
    "by_status": {
-    "current": 1144,
-    "pending-change": 288,
+    "current": 1338,
+    "pending-change": 94,
     "stale": 31,
     "unverified": 22,
     "source-unavailable": 0
@@ -2126,8 +2126,8 @@
    "file": "data/freshness/hg/2004.csv",
    "count": 2277,
    "by_status": {
-    "current": 1851,
-    "pending-change": 354,
+    "current": 2088,
+    "pending-change": 117,
     "stale": 40,
     "unverified": 32,
     "source-unavailable": 0
@@ -2139,8 +2139,8 @@
    "file": "data/freshness/hg/2005.csv",
    "count": 1792,
    "by_status": {
-    "current": 1473,
-    "pending-change": 269,
+    "current": 1640,
+    "pending-change": 102,
     "stale": 31,
     "unverified": 19,
     "source-unavailable": 0
@@ -2152,8 +2152,8 @@
    "file": "data/freshness/hg/2006.csv",
    "count": 1817,
    "by_status": {
-    "current": 1524,
-    "pending-change": 245,
+    "current": 1666,
+    "pending-change": 103,
     "stale": 19,
     "unverified": 29,
     "source-unavailable": 0
@@ -2165,8 +2165,8 @@
    "file": "data/freshness/hg/2007.csv",
    "count": 1524,
    "by_status": {
-    "current": 1236,
-    "pending-change": 237,
+    "current": 1339,
+    "pending-change": 134,
     "stale": 25,
     "unverified": 26,
     "source-unavailable": 0
@@ -2178,8 +2178,8 @@
    "file": "data/freshness/hg/2008.csv",
    "count": 1632,
    "by_status": {
-    "current": 1383,
-    "pending-change": 215,
+    "current": 1474,
+    "pending-change": 124,
     "stale": 13,
     "unverified": 21,
     "source-unavailable": 0
@@ -2191,8 +2191,8 @@
    "file": "data/freshness/hg/2009.csv",
    "count": 1551,
    "by_status": {
-    "current": 1348,
-    "pending-change": 155,
+    "current": 1434,
+    "pending-change": 69,
     "stale": 34,
     "unverified": 14,
     "source-unavailable": 0
@@ -2204,8 +2204,8 @@
    "file": "data/freshness/hg/2010.csv",
    "count": 1349,
    "by_status": {
-    "current": 1157,
-    "pending-change": 151,
+    "current": 1238,
+    "pending-change": 70,
     "stale": 24,
     "unverified": 17,
     "source-unavailable": 0
@@ -2217,8 +2217,8 @@
    "file": "data/freshness/hg/2011.csv",
    "count": 1241,
    "by_status": {
-    "current": 1086,
-    "pending-change": 116,
+    "current": 1147,
+    "pending-change": 55,
     "stale": 12,
     "unverified": 27,
     "source-unavailable": 0
@@ -2230,8 +2230,8 @@
    "file": "data/freshness/hg/2012.csv",
    "count": 1263,
    "by_status": {
-    "current": 1116,
-    "pending-change": 120,
+    "current": 1191,
+    "pending-change": 45,
     "stale": 9,
     "unverified": 18,
     "source-unavailable": 0
@@ -2243,8 +2243,8 @@
    "file": "data/freshness/hg/2013.csv",
    "count": 1106,
    "by_status": {
-    "current": 955,
-    "pending-change": 111,
+    "current": 1009,
+    "pending-change": 57,
     "stale": 22,
     "unverified": 18,
     "source-unavailable": 0
@@ -2256,8 +2256,8 @@
    "file": "data/freshness/hg/2014.csv",
    "count": 1132,
    "by_status": {
-    "current": 1002,
-    "pending-change": 99,
+    "current": 1036,
+    "pending-change": 65,
     "stale": 16,
     "unverified": 15,
     "source-unavailable": 0
@@ -2269,8 +2269,8 @@
    "file": "data/freshness/hg/2015.csv",
    "count": 958,
    "by_status": {
-    "current": 846,
-    "pending-change": 76,
+    "current": 882,
+    "pending-change": 40,
     "stale": 13,
     "unverified": 23,
     "source-unavailable": 0
@@ -2282,8 +2282,8 @@
    "file": "data/freshness/hg/2016.csv",
    "count": 900,
    "by_status": {
-    "current": 779,
-    "pending-change": 75,
+    "current": 814,
+    "pending-change": 40,
     "stale": 18,
     "unverified": 28,
     "source-unavailable": 0
@@ -2295,8 +2295,8 @@
    "file": "data/freshness/hg/2017.csv",
    "count": 791,
    "by_status": {
-    "current": 680,
-    "pending-change": 71,
+    "current": 728,
+    "pending-change": 23,
     "stale": 14,
     "unverified": 26,
     "source-unavailable": 0
@@ -2308,8 +2308,8 @@
    "file": "data/freshness/hg/2018.csv",
    "count": 878,
    "by_status": {
-    "current": 800,
-    "pending-change": 52,
+    "current": 839,
+    "pending-change": 13,
     "stale": 6,
     "unverified": 20,
     "source-unavailable": 0
@@ -2321,8 +2321,8 @@
    "file": "data/freshness/hg/2019.csv",
    "count": 873,
    "by_status": {
-    "current": 803,
-    "pending-change": 55,
+    "current": 833,
+    "pending-change": 25,
     "stale": 1,
     "unverified": 14,
     "source-unavailable": 0
@@ -2334,8 +2334,8 @@
    "file": "data/freshness/hg/2020.csv",
    "count": 929,
    "by_status": {
-    "current": 827,
-    "pending-change": 54,
+    "current": 864,
+    "pending-change": 17,
     "stale": 18,
     "unverified": 30,
     "source-unavailable": 0
@@ -2347,8 +2347,8 @@
    "file": "data/freshness/hg/2021.csv",
    "count": 1067,
    "by_status": {
-    "current": 980,
-    "pending-change": 52,
+    "current": 1013,
+    "pending-change": 19,
     "stale": 12,
     "unverified": 23,
     "source-unavailable": 0
@@ -2360,8 +2360,8 @@
    "file": "data/freshness/hg/2022.csv",
    "count": 1286,
    "by_status": {
-    "current": 1174,
-    "pending-change": 71,
+    "current": 1217,
+    "pending-change": 28,
     "stale": 14,
     "unverified": 27,
     "source-unavailable": 0
@@ -2373,8 +2373,8 @@
    "file": "data/freshness/hg/2023.csv",
    "count": 1111,
    "by_status": {
-    "current": 1044,
-    "pending-change": 43,
+    "current": 1067,
+    "pending-change": 20,
     "stale": 7,
     "unverified": 17,
     "source-unavailable": 0
@@ -2386,8 +2386,8 @@
    "file": "data/freshness/hg/2024.csv",
    "count": 1300,
    "by_status": {
-    "current": 1228,
-    "pending-change": 53,
+    "current": 1265,
+    "pending-change": 16,
     "stale": 4,
     "unverified": 15,
     "source-unavailable": 0
@@ -2399,8 +2399,8 @@
    "file": "data/freshness/hg/2025.csv",
    "count": 983,
    "by_status": {
-    "current": 940,
-    "pending-change": 30,
+    "current": 954,
+    "pending-change": 16,
     "stale": 3,
     "unverified": 10,
     "source-unavailable": 0
@@ -2412,8 +2412,8 @@
    "file": "data/freshness/hg/2026.csv",
    "count": 809,
    "by_status": {
-    "current": 794,
-    "pending-change": 15,
+    "current": 801,
+    "pending-change": 8,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4154,8 +4154,8 @@
    "file": "data/freshness/lege/1930.csv",
    "count": 34,
    "by_status": {
-    "current": 32,
-    "pending-change": 2,
+    "current": 34,
+    "pending-change": 0,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4167,8 +4167,8 @@
    "file": "data/freshness/lege/1931.csv",
    "count": 25,
    "by_status": {
-    "current": 24,
-    "pending-change": 1,
+    "current": 25,
+    "pending-change": 0,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4193,8 +4193,8 @@
    "file": "data/freshness/lege/1933.csv",
    "count": 2,
    "by_status": {
-    "current": 1,
-    "pending-change": 1,
+    "current": 2,
+    "pending-change": 0,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4232,8 +4232,8 @@
    "file": "data/freshness/lege/1937.csv",
    "count": 10,
    "by_status": {
-    "current": 8,
-    "pending-change": 2,
+    "current": 10,
+    "pending-change": 0,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4258,8 +4258,8 @@
    "file": "data/freshness/lege/1940.csv",
    "count": 11,
    "by_status": {
-    "current": 9,
-    "pending-change": 2,
+    "current": 10,
+    "pending-change": 1,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4284,8 +4284,8 @@
    "file": "data/freshness/lege/1943.csv",
    "count": 3,
    "by_status": {
-    "current": 1,
-    "pending-change": 2,
+    "current": 3,
+    "pending-change": 0,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4310,8 +4310,8 @@
    "file": "data/freshness/lege/1945.csv",
    "count": 6,
    "by_status": {
-    "current": 5,
-    "pending-change": 1,
+    "current": 6,
+    "pending-change": 0,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4336,8 +4336,8 @@
    "file": "data/freshness/lege/1947.csv",
    "count": 11,
    "by_status": {
-    "current": 4,
-    "pending-change": 7,
+    "current": 6,
+    "pending-change": 5,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4349,8 +4349,8 @@
    "file": "data/freshness/lege/1948.csv",
    "count": 6,
    "by_status": {
-    "current": 3,
-    "pending-change": 3,
+    "current": 4,
+    "pending-change": 2,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -4401,8 +4401,8 @@
    "file": "data/freshness/lege/1990.csv",
    "count": 26,
    "by_status": {
-    "current": 4,
-    "pending-change": 20,
+    "current": 14,
+    "pending-change": 10,
     "stale": 2,
     "unverified": 0,
     "source-unavailable": 0
@@ -4414,8 +4414,8 @@
    "file": "data/freshness/lege/1991.csv",
    "count": 68,
    "by_status": {
-    "current": 27,
-    "pending-change": 24,
+    "current": 40,
+    "pending-change": 11,
     "stale": 12,
     "unverified": 5,
     "source-unavailable": 0
@@ -4427,8 +4427,8 @@
    "file": "data/freshness/lege/1992.csv",
    "count": 98,
    "by_status": {
-    "current": 42,
-    "pending-change": 42,
+    "current": 64,
+    "pending-change": 20,
     "stale": 14,
     "unverified": 0,
     "source-unavailable": 0
@@ -4440,8 +4440,8 @@
    "file": "data/freshness/lege/1993.csv",
    "count": 79,
    "by_status": {
-    "current": 32,
-    "pending-change": 39,
+    "current": 50,
+    "pending-change": 21,
     "stale": 5,
     "unverified": 3,
     "source-unavailable": 0
@@ -4453,8 +4453,8 @@
    "file": "data/freshness/lege/1994.csv",
    "count": 127,
    "by_status": {
-    "current": 52,
-    "pending-change": 65,
+    "current": 80,
+    "pending-change": 37,
     "stale": 7,
     "unverified": 3,
     "source-unavailable": 0
@@ -4466,8 +4466,8 @@
    "file": "data/freshness/lege/1995.csv",
    "count": 120,
    "by_status": {
-    "current": 37,
-    "pending-change": 71,
+    "current": 73,
+    "pending-change": 35,
     "stale": 8,
     "unverified": 4,
     "source-unavailable": 0
@@ -4479,8 +4479,8 @@
    "file": "data/freshness/lege/1996.csv",
    "count": 125,
    "by_status": {
-    "current": 49,
-    "pending-change": 55,
+    "current": 75,
+    "pending-change": 29,
     "stale": 17,
     "unverified": 4,
     "source-unavailable": 0
@@ -4492,8 +4492,8 @@
    "file": "data/freshness/lege/1997.csv",
    "count": 202,
    "by_status": {
-    "current": 90,
-    "pending-change": 104,
+    "current": 122,
+    "pending-change": 72,
     "stale": 5,
     "unverified": 3,
     "source-unavailable": 0
@@ -4505,8 +4505,8 @@
    "file": "data/freshness/lege/1998.csv",
    "count": 243,
    "by_status": {
-    "current": 96,
-    "pending-change": 135,
+    "current": 133,
+    "pending-change": 98,
     "stale": 10,
     "unverified": 2,
     "source-unavailable": 0
@@ -4518,8 +4518,8 @@
    "file": "data/freshness/lege/1999.csv",
    "count": 201,
    "by_status": {
-    "current": 41,
-    "pending-change": 147,
+    "current": 90,
+    "pending-change": 98,
     "stale": 13,
     "unverified": 0,
     "source-unavailable": 0
@@ -4531,8 +4531,8 @@
    "file": "data/freshness/lege/2000.csv",
    "count": 228,
    "by_status": {
-    "current": 45,
-    "pending-change": 159,
+    "current": 96,
+    "pending-change": 108,
     "stale": 20,
     "unverified": 4,
     "source-unavailable": 0
@@ -4544,8 +4544,8 @@
    "file": "data/freshness/lege/2001.csv",
    "count": 780,
    "by_status": {
-    "current": 402,
-    "pending-change": 345,
+    "current": 513,
+    "pending-change": 234,
     "stale": 17,
     "unverified": 16,
     "source-unavailable": 0
@@ -4557,8 +4557,8 @@
    "file": "data/freshness/lege/2002.csv",
    "count": 652,
    "by_status": {
-    "current": 276,
-    "pending-change": 329,
+    "current": 382,
+    "pending-change": 223,
     "stale": 29,
     "unverified": 18,
     "source-unavailable": 0
@@ -4570,8 +4570,8 @@
    "file": "data/freshness/lege/2003.csv",
    "count": 575,
    "by_status": {
-    "current": 273,
-    "pending-change": 257,
+    "current": 352,
+    "pending-change": 178,
     "stale": 26,
     "unverified": 19,
     "source-unavailable": 0
@@ -4583,8 +4583,8 @@
    "file": "data/freshness/lege/2004.csv",
    "count": 566,
    "by_status": {
-    "current": 224,
-    "pending-change": 269,
+    "current": 312,
+    "pending-change": 181,
     "stale": 53,
     "unverified": 20,
     "source-unavailable": 0
@@ -4596,8 +4596,8 @@
    "file": "data/freshness/lege/2005.csv",
    "count": 379,
    "by_status": {
-    "current": 135,
-    "pending-change": 222,
+    "current": 203,
+    "pending-change": 154,
     "stale": 12,
     "unverified": 10,
     "source-unavailable": 0
@@ -4609,8 +4609,8 @@
    "file": "data/freshness/lege/2006.csv",
    "count": 477,
    "by_status": {
-    "current": 231,
-    "pending-change": 200,
+    "current": 301,
+    "pending-change": 130,
     "stale": 34,
     "unverified": 12,
     "source-unavailable": 0
@@ -4622,8 +4622,8 @@
    "file": "data/freshness/lege/2007.csv",
    "count": 360,
    "by_status": {
-    "current": 133,
-    "pending-change": 196,
+    "current": 177,
+    "pending-change": 152,
     "stale": 15,
     "unverified": 16,
     "source-unavailable": 0
@@ -4635,8 +4635,8 @@
    "file": "data/freshness/lege/2008.csv",
    "count": 297,
    "by_status": {
-    "current": 78,
-    "pending-change": 197,
+    "current": 118,
+    "pending-change": 157,
     "stale": 10,
     "unverified": 12,
     "source-unavailable": 0
@@ -4648,8 +4648,8 @@
    "file": "data/freshness/lege/2009.csv",
    "count": 369,
    "by_status": {
-    "current": 160,
-    "pending-change": 191,
+    "current": 207,
+    "pending-change": 144,
     "stale": 10,
     "unverified": 8,
     "source-unavailable": 0
@@ -4661,8 +4661,8 @@
    "file": "data/freshness/lege/2010.csv",
    "count": 275,
    "by_status": {
-    "current": 95,
-    "pending-change": 146,
+    "current": 140,
+    "pending-change": 101,
     "stale": 17,
     "unverified": 17,
     "source-unavailable": 0
@@ -4674,8 +4674,8 @@
    "file": "data/freshness/lege/2011.csv",
    "count": 290,
    "by_status": {
-    "current": 122,
-    "pending-change": 139,
+    "current": 168,
+    "pending-change": 93,
     "stale": 17,
     "unverified": 12,
     "source-unavailable": 0
@@ -4687,8 +4687,8 @@
    "file": "data/freshness/lege/2012.csv",
    "count": 211,
    "by_status": {
-    "current": 80,
-    "pending-change": 110,
+    "current": 114,
+    "pending-change": 76,
     "stale": 9,
     "unverified": 12,
     "source-unavailable": 0
@@ -4700,8 +4700,8 @@
    "file": "data/freshness/lege/2013.csv",
    "count": 365,
    "by_status": {
-    "current": 170,
-    "pending-change": 164,
+    "current": 226,
+    "pending-change": 108,
     "stale": 15,
     "unverified": 16,
     "source-unavailable": 0
@@ -4713,8 +4713,8 @@
    "file": "data/freshness/lege/2014.csv",
    "count": 180,
    "by_status": {
-    "current": 53,
-    "pending-change": 104,
+    "current": 77,
+    "pending-change": 80,
     "stale": 16,
     "unverified": 7,
     "source-unavailable": 0
@@ -4726,8 +4726,8 @@
    "file": "data/freshness/lege/2015.csv",
    "count": 345,
    "by_status": {
-    "current": 167,
-    "pending-change": 132,
+    "current": 188,
+    "pending-change": 111,
     "stale": 29,
     "unverified": 17,
     "source-unavailable": 0
@@ -4739,8 +4739,8 @@
    "file": "data/freshness/lege/2016.csv",
    "count": 232,
    "by_status": {
-    "current": 85,
-    "pending-change": 105,
+    "current": 107,
+    "pending-change": 83,
     "stale": 24,
     "unverified": 18,
     "source-unavailable": 0
@@ -4752,8 +4752,8 @@
    "file": "data/freshness/lege/2017.csv",
    "count": 252,
    "by_status": {
-    "current": 102,
-    "pending-change": 117,
+    "current": 157,
+    "pending-change": 62,
     "stale": 8,
     "unverified": 25,
     "source-unavailable": 0
@@ -4765,8 +4765,8 @@
    "file": "data/freshness/lege/2018.csv",
    "count": 329,
    "by_status": {
-    "current": 158,
-    "pending-change": 120,
+    "current": 208,
+    "pending-change": 70,
     "stale": 25,
     "unverified": 26,
     "source-unavailable": 0
@@ -4778,8 +4778,8 @@
    "file": "data/freshness/lege/2019.csv",
    "count": 227,
    "by_status": {
-    "current": 109,
-    "pending-change": 84,
+    "current": 131,
+    "pending-change": 62,
     "stale": 14,
     "unverified": 20,
     "source-unavailable": 0
@@ -4791,8 +4791,8 @@
    "file": "data/freshness/lege/2020.csv",
    "count": 263,
    "by_status": {
-    "current": 88,
-    "pending-change": 100,
+    "current": 105,
+    "pending-change": 83,
     "stale": 16,
     "unverified": 59,
     "source-unavailable": 0
@@ -4804,8 +4804,8 @@
    "file": "data/freshness/lege/2021.csv",
    "count": 284,
    "by_status": {
-    "current": 147,
-    "pending-change": 97,
+    "current": 162,
+    "pending-change": 82,
     "stale": 11,
     "unverified": 29,
     "source-unavailable": 0
@@ -4817,8 +4817,8 @@
    "file": "data/freshness/lege/2022.csv",
    "count": 344,
    "by_status": {
-    "current": 160,
-    "pending-change": 102,
+    "current": 183,
+    "pending-change": 79,
     "stale": 25,
     "unverified": 57,
     "source-unavailable": 0
@@ -4830,8 +4830,8 @@
    "file": "data/freshness/lege/2023.csv",
    "count": 386,
    "by_status": {
-    "current": 224,
-    "pending-change": 93,
+    "current": 247,
+    "pending-change": 70,
     "stale": 10,
     "unverified": 59,
     "source-unavailable": 0
@@ -4843,8 +4843,8 @@
    "file": "data/freshness/lege/2024.csv",
    "count": 306,
    "by_status": {
-    "current": 184,
-    "pending-change": 85,
+    "current": 199,
+    "pending-change": 70,
     "stale": 5,
     "unverified": 32,
     "source-unavailable": 0
@@ -4856,8 +4856,8 @@
    "file": "data/freshness/lege/2025.csv",
    "count": 207,
    "by_status": {
-    "current": 154,
-    "pending-change": 40,
+    "current": 159,
+    "pending-change": 35,
     "stale": 4,
     "unverified": 9,
     "source-unavailable": 0
@@ -4869,8 +4869,8 @@
    "file": "data/freshness/lege/2026.csv",
    "count": 165,
    "by_status": {
-    "current": 142,
-    "pending-change": 23,
+    "current": 156,
+    "pending-change": 9,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -14073,8 +14073,8 @@
    "file": "data/freshness/og/1992.csv",
    "count": 18,
    "by_status": {
-    "current": 3,
-    "pending-change": 14,
+    "current": 14,
+    "pending-change": 3,
     "stale": 1,
     "unverified": 0,
     "source-unavailable": 0
@@ -14086,8 +14086,8 @@
    "file": "data/freshness/og/1993.csv",
    "count": 12,
    "by_status": {
-    "current": 4,
-    "pending-change": 8,
+    "current": 6,
+    "pending-change": 6,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -14099,8 +14099,8 @@
    "file": "data/freshness/og/1994.csv",
    "count": 63,
    "by_status": {
-    "current": 12,
-    "pending-change": 40,
+    "current": 29,
+    "pending-change": 23,
     "stale": 11,
     "unverified": 0,
     "source-unavailable": 0
@@ -14112,8 +14112,8 @@
    "file": "data/freshness/og/1995.csv",
    "count": 36,
    "by_status": {
-    "current": 7,
-    "pending-change": 29,
+    "current": 18,
+    "pending-change": 18,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -14125,8 +14125,8 @@
    "file": "data/freshness/og/1996.csv",
    "count": 36,
    "by_status": {
-    "current": 10,
-    "pending-change": 23,
+    "current": 20,
+    "pending-change": 13,
     "stale": 2,
     "unverified": 1,
     "source-unavailable": 0
@@ -14138,8 +14138,8 @@
    "file": "data/freshness/og/1997.csv",
    "count": 55,
    "by_status": {
-    "current": 13,
-    "pending-change": 33,
+    "current": 24,
+    "pending-change": 22,
     "stale": 8,
     "unverified": 1,
     "source-unavailable": 0
@@ -14151,8 +14151,8 @@
    "file": "data/freshness/og/1998.csv",
    "count": 106,
    "by_status": {
-    "current": 28,
-    "pending-change": 61,
+    "current": 56,
+    "pending-change": 33,
     "stale": 17,
     "unverified": 0,
     "source-unavailable": 0
@@ -14164,8 +14164,8 @@
    "file": "data/freshness/og/1999.csv",
    "count": 96,
    "by_status": {
-    "current": 31,
-    "pending-change": 56,
+    "current": 65,
+    "pending-change": 22,
     "stale": 8,
     "unverified": 1,
     "source-unavailable": 0
@@ -14177,8 +14177,8 @@
    "file": "data/freshness/og/2000.csv",
    "count": 121,
    "by_status": {
-    "current": 26,
-    "pending-change": 64,
+    "current": 55,
+    "pending-change": 35,
     "stale": 29,
     "unverified": 2,
     "source-unavailable": 0
@@ -14190,8 +14190,8 @@
    "file": "data/freshness/og/2001.csv",
    "count": 73,
    "by_status": {
-    "current": 20,
-    "pending-change": 36,
+    "current": 33,
+    "pending-change": 23,
     "stale": 16,
     "unverified": 1,
     "source-unavailable": 0
@@ -14203,8 +14203,8 @@
    "file": "data/freshness/og/2002.csv",
    "count": 69,
    "by_status": {
-    "current": 17,
-    "pending-change": 28,
+    "current": 28,
+    "pending-change": 17,
     "stale": 24,
     "unverified": 0,
     "source-unavailable": 0
@@ -14216,8 +14216,8 @@
    "file": "data/freshness/og/2003.csv",
    "count": 80,
    "by_status": {
-    "current": 24,
-    "pending-change": 45,
+    "current": 44,
+    "pending-change": 25,
     "stale": 9,
     "unverified": 2,
     "source-unavailable": 0
@@ -14229,8 +14229,8 @@
    "file": "data/freshness/og/2004.csv",
    "count": 73,
    "by_status": {
-    "current": 13,
-    "pending-change": 42,
+    "current": 31,
+    "pending-change": 24,
     "stale": 18,
     "unverified": 0,
     "source-unavailable": 0
@@ -14242,8 +14242,8 @@
    "file": "data/freshness/og/2005.csv",
    "count": 50,
    "by_status": {
-    "current": 14,
-    "pending-change": 20,
+    "current": 19,
+    "pending-change": 15,
     "stale": 15,
     "unverified": 1,
     "source-unavailable": 0
@@ -14255,8 +14255,8 @@
    "file": "data/freshness/og/2006.csv",
    "count": 53,
    "by_status": {
-    "current": 15,
-    "pending-change": 29,
+    "current": 23,
+    "pending-change": 21,
     "stale": 9,
     "unverified": 0,
     "source-unavailable": 0
@@ -14268,8 +14268,8 @@
    "file": "data/freshness/og/2007.csv",
    "count": 38,
    "by_status": {
-    "current": 14,
-    "pending-change": 15,
+    "current": 22,
+    "pending-change": 7,
     "stale": 9,
     "unverified": 0,
     "source-unavailable": 0
@@ -14281,8 +14281,8 @@
    "file": "data/freshness/og/2008.csv",
    "count": 18,
    "by_status": {
-    "current": 5,
-    "pending-change": 8,
+    "current": 9,
+    "pending-change": 4,
     "stale": 4,
     "unverified": 1,
     "source-unavailable": 0
@@ -14294,8 +14294,8 @@
    "file": "data/freshness/og/2009.csv",
    "count": 24,
    "by_status": {
-    "current": 7,
-    "pending-change": 15,
+    "current": 13,
+    "pending-change": 9,
     "stale": 2,
     "unverified": 0,
     "source-unavailable": 0
@@ -14307,8 +14307,8 @@
    "file": "data/freshness/og/2010.csv",
    "count": 24,
    "by_status": {
-    "current": 6,
-    "pending-change": 12,
+    "current": 11,
+    "pending-change": 7,
     "stale": 6,
     "unverified": 0,
     "source-unavailable": 0
@@ -14320,8 +14320,8 @@
    "file": "data/freshness/og/2011.csv",
    "count": 25,
    "by_status": {
-    "current": 6,
-    "pending-change": 8,
+    "current": 9,
+    "pending-change": 5,
     "stale": 11,
     "unverified": 0,
     "source-unavailable": 0
@@ -14333,8 +14333,8 @@
    "file": "data/freshness/og/2012.csv",
    "count": 23,
    "by_status": {
-    "current": 4,
-    "pending-change": 14,
+    "current": 13,
+    "pending-change": 5,
     "stale": 4,
     "unverified": 1,
     "source-unavailable": 0
@@ -14346,8 +14346,8 @@
    "file": "data/freshness/og/2013.csv",
    "count": 29,
    "by_status": {
-    "current": 9,
-    "pending-change": 10,
+    "current": 14,
+    "pending-change": 5,
     "stale": 10,
     "unverified": 0,
     "source-unavailable": 0
@@ -14359,8 +14359,8 @@
    "file": "data/freshness/og/2014.csv",
    "count": 28,
    "by_status": {
-    "current": 7,
-    "pending-change": 12,
+    "current": 11,
+    "pending-change": 8,
     "stale": 8,
     "unverified": 1,
     "source-unavailable": 0
@@ -14372,8 +14372,8 @@
    "file": "data/freshness/og/2015.csv",
    "count": 42,
    "by_status": {
-    "current": 11,
-    "pending-change": 23,
+    "current": 15,
+    "pending-change": 19,
     "stale": 7,
     "unverified": 1,
     "source-unavailable": 0
@@ -14385,8 +14385,8 @@
    "file": "data/freshness/og/2016.csv",
    "count": 24,
    "by_status": {
-    "current": 9,
-    "pending-change": 9,
+    "current": 12,
+    "pending-change": 6,
     "stale": 6,
     "unverified": 0,
     "source-unavailable": 0
@@ -14398,8 +14398,8 @@
    "file": "data/freshness/og/2017.csv",
    "count": 28,
    "by_status": {
-    "current": 7,
-    "pending-change": 11,
+    "current": 15,
+    "pending-change": 3,
     "stale": 8,
     "unverified": 2,
     "source-unavailable": 0
@@ -14411,8 +14411,8 @@
    "file": "data/freshness/og/2018.csv",
    "count": 17,
    "by_status": {
-    "current": 6,
-    "pending-change": 10,
+    "current": 10,
+    "pending-change": 6,
     "stale": 0,
     "unverified": 1,
     "source-unavailable": 0
@@ -14424,8 +14424,8 @@
    "file": "data/freshness/og/2019.csv",
    "count": 24,
    "by_status": {
-    "current": 10,
-    "pending-change": 12,
+    "current": 15,
+    "pending-change": 7,
     "stale": 2,
     "unverified": 0,
     "source-unavailable": 0
@@ -14450,8 +14450,8 @@
    "file": "data/freshness/og/2021.csv",
    "count": 16,
    "by_status": {
-    "current": 6,
-    "pending-change": 3,
+    "current": 7,
+    "pending-change": 2,
     "stale": 6,
     "unverified": 1,
     "source-unavailable": 0
@@ -14463,8 +14463,8 @@
    "file": "data/freshness/og/2022.csv",
    "count": 31,
    "by_status": {
-    "current": 15,
-    "pending-change": 8,
+    "current": 17,
+    "pending-change": 6,
     "stale": 4,
     "unverified": 4,
     "source-unavailable": 0
@@ -14476,8 +14476,8 @@
    "file": "data/freshness/og/2023.csv",
    "count": 39,
    "by_status": {
-    "current": 23,
-    "pending-change": 7,
+    "current": 26,
+    "pending-change": 4,
     "stale": 3,
     "unverified": 6,
     "source-unavailable": 0
@@ -14489,8 +14489,8 @@
    "file": "data/freshness/og/2024.csv",
    "count": 37,
    "by_status": {
-    "current": 17,
-    "pending-change": 17,
+    "current": 22,
+    "pending-change": 12,
     "stale": 0,
     "unverified": 3,
     "source-unavailable": 0
@@ -14502,8 +14502,8 @@
    "file": "data/freshness/og/2025.csv",
    "count": 16,
    "by_status": {
-    "current": 5,
-    "pending-change": 7,
+    "current": 7,
+    "pending-change": 5,
     "stale": 1,
     "unverified": 3,
     "source-unavailable": 0
@@ -15009,8 +15009,8 @@
    "file": "data/freshness/oug/1996.csv",
    "count": 3,
    "by_status": {
-    "current": 1,
-    "pending-change": 2,
+    "current": 2,
+    "pending-change": 1,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -15022,8 +15022,8 @@
    "file": "data/freshness/oug/1997.csv",
    "count": 61,
    "by_status": {
-    "current": 13,
-    "pending-change": 41,
+    "current": 28,
+    "pending-change": 26,
     "stale": 7,
     "unverified": 0,
     "source-unavailable": 0
@@ -15035,8 +15035,8 @@
    "file": "data/freshness/oug/1998.csv",
    "count": 51,
    "by_status": {
-    "current": 11,
-    "pending-change": 33,
+    "current": 31,
+    "pending-change": 13,
     "stale": 6,
     "unverified": 1,
     "source-unavailable": 0
@@ -15048,8 +15048,8 @@
    "file": "data/freshness/oug/1999.csv",
    "count": 178,
    "by_status": {
-    "current": 34,
-    "pending-change": 128,
+    "current": 107,
+    "pending-change": 55,
     "stale": 13,
     "unverified": 3,
     "source-unavailable": 0
@@ -15061,8 +15061,8 @@
    "file": "data/freshness/oug/2000.csv",
    "count": 258,
    "by_status": {
-    "current": 60,
-    "pending-change": 175,
+    "current": 132,
+    "pending-change": 103,
     "stale": 16,
     "unverified": 7,
     "source-unavailable": 0
@@ -15074,8 +15074,8 @@
    "file": "data/freshness/oug/2001.csv",
    "count": 170,
    "by_status": {
-    "current": 33,
-    "pending-change": 113,
+    "current": 84,
+    "pending-change": 62,
     "stale": 21,
     "unverified": 3,
     "source-unavailable": 0
@@ -15087,8 +15087,8 @@
    "file": "data/freshness/oug/2002.csv",
    "count": 187,
    "by_status": {
-    "current": 52,
-    "pending-change": 111,
+    "current": 99,
+    "pending-change": 64,
     "stale": 23,
     "unverified": 1,
     "source-unavailable": 0
@@ -15100,8 +15100,8 @@
    "file": "data/freshness/oug/2003.csv",
    "count": 111,
    "by_status": {
-    "current": 32,
-    "pending-change": 46,
+    "current": 44,
+    "pending-change": 34,
     "stale": 17,
     "unverified": 16,
     "source-unavailable": 0
@@ -15113,8 +15113,8 @@
    "file": "data/freshness/oug/2004.csv",
    "count": 119,
    "by_status": {
-    "current": 22,
-    "pending-change": 76,
+    "current": 53,
+    "pending-change": 45,
     "stale": 17,
     "unverified": 4,
     "source-unavailable": 0
@@ -15126,8 +15126,8 @@
    "file": "data/freshness/oug/2005.csv",
    "count": 176,
    "by_status": {
-    "current": 43,
-    "pending-change": 94,
+    "current": 77,
+    "pending-change": 60,
     "stale": 36,
     "unverified": 3,
     "source-unavailable": 0
@@ -15139,8 +15139,8 @@
    "file": "data/freshness/oug/2006.csv",
    "count": 117,
    "by_status": {
-    "current": 29,
-    "pending-change": 61,
+    "current": 52,
+    "pending-change": 38,
     "stale": 27,
     "unverified": 0,
     "source-unavailable": 0
@@ -15152,8 +15152,8 @@
    "file": "data/freshness/oug/2007.csv",
    "count": 135,
    "by_status": {
-    "current": 23,
-    "pending-change": 70,
+    "current": 48,
+    "pending-change": 45,
     "stale": 33,
     "unverified": 9,
     "source-unavailable": 0
@@ -15165,8 +15165,8 @@
    "file": "data/freshness/oug/2008.csv",
    "count": 198,
    "by_status": {
-    "current": 47,
-    "pending-change": 92,
+    "current": 67,
+    "pending-change": 72,
     "stale": 51,
     "unverified": 8,
     "source-unavailable": 0
@@ -15178,8 +15178,8 @@
    "file": "data/freshness/oug/2009.csv",
    "count": 104,
    "by_status": {
-    "current": 20,
-    "pending-change": 46,
+    "current": 30,
+    "pending-change": 36,
     "stale": 35,
     "unverified": 3,
     "source-unavailable": 0
@@ -15191,8 +15191,8 @@
    "file": "data/freshness/oug/2010.csv",
    "count": 120,
    "by_status": {
-    "current": 27,
-    "pending-change": 49,
+    "current": 35,
+    "pending-change": 41,
     "stale": 35,
     "unverified": 9,
     "source-unavailable": 0
@@ -15204,8 +15204,8 @@
    "file": "data/freshness/oug/2011.csv",
    "count": 113,
    "by_status": {
-    "current": 31,
-    "pending-change": 47,
+    "current": 51,
+    "pending-change": 27,
     "stale": 29,
     "unverified": 6,
     "source-unavailable": 0
@@ -15217,8 +15217,8 @@
    "file": "data/freshness/oug/2012.csv",
    "count": 85,
    "by_status": {
-    "current": 20,
-    "pending-change": 38,
+    "current": 30,
+    "pending-change": 28,
     "stale": 25,
     "unverified": 2,
     "source-unavailable": 0
@@ -15230,8 +15230,8 @@
    "file": "data/freshness/oug/2013.csv",
    "count": 105,
    "by_status": {
-    "current": 30,
-    "pending-change": 43,
+    "current": 47,
+    "pending-change": 26,
     "stale": 30,
     "unverified": 2,
     "source-unavailable": 0
@@ -15243,8 +15243,8 @@
    "file": "data/freshness/oug/2014.csv",
    "count": 80,
    "by_status": {
-    "current": 11,
-    "pending-change": 35,
+    "current": 23,
+    "pending-change": 23,
     "stale": 30,
     "unverified": 4,
     "source-unavailable": 0
@@ -15256,8 +15256,8 @@
    "file": "data/freshness/oug/2015.csv",
    "count": 61,
    "by_status": {
-    "current": 11,
-    "pending-change": 24,
+    "current": 16,
+    "pending-change": 19,
     "stale": 24,
     "unverified": 2,
     "source-unavailable": 0
@@ -15269,8 +15269,8 @@
    "file": "data/freshness/oug/2016.csv",
    "count": 93,
    "by_status": {
-    "current": 15,
-    "pending-change": 33,
+    "current": 25,
+    "pending-change": 23,
     "stale": 38,
     "unverified": 7,
     "source-unavailable": 0
@@ -15282,8 +15282,8 @@
    "file": "data/freshness/oug/2017.csv",
    "count": 106,
    "by_status": {
-    "current": 28,
-    "pending-change": 31,
+    "current": 41,
+    "pending-change": 18,
     "stale": 33,
     "unverified": 14,
     "source-unavailable": 0
@@ -15295,8 +15295,8 @@
    "file": "data/freshness/oug/2018.csv",
    "count": 98,
    "by_status": {
-    "current": 27,
-    "pending-change": 40,
+    "current": 50,
+    "pending-change": 17,
     "stale": 21,
     "unverified": 10,
     "source-unavailable": 0
@@ -15308,8 +15308,8 @@
    "file": "data/freshness/oug/2019.csv",
    "count": 74,
    "by_status": {
-    "current": 21,
-    "pending-change": 25,
+    "current": 29,
+    "pending-change": 17,
     "stale": 19,
     "unverified": 9,
     "source-unavailable": 0
@@ -15321,8 +15321,8 @@
    "file": "data/freshness/oug/2020.csv",
    "count": 207,
    "by_status": {
-    "current": 66,
-    "pending-change": 56,
+    "current": 89,
+    "pending-change": 33,
     "stale": 50,
     "unverified": 35,
     "source-unavailable": 0
@@ -15334,8 +15334,8 @@
    "file": "data/freshness/oug/2021.csv",
    "count": 130,
    "by_status": {
-    "current": 34,
-    "pending-change": 39,
+    "current": 41,
+    "pending-change": 32,
     "stale": 29,
     "unverified": 28,
     "source-unavailable": 0
@@ -15347,8 +15347,8 @@
    "file": "data/freshness/oug/2022.csv",
    "count": 173,
    "by_status": {
-    "current": 59,
-    "pending-change": 32,
+    "current": 69,
+    "pending-change": 22,
     "stale": 46,
     "unverified": 36,
     "source-unavailable": 0
@@ -15360,8 +15360,8 @@
    "file": "data/freshness/oug/2023.csv",
    "count": 116,
    "by_status": {
-    "current": 38,
-    "pending-change": 33,
+    "current": 51,
+    "pending-change": 20,
     "stale": 27,
     "unverified": 18,
     "source-unavailable": 0
@@ -15373,8 +15373,8 @@
    "file": "data/freshness/oug/2024.csv",
    "count": 137,
    "by_status": {
-    "current": 48,
-    "pending-change": 36,
+    "current": 66,
+    "pending-change": 18,
     "stale": 26,
     "unverified": 27,
     "source-unavailable": 0
@@ -15386,8 +15386,8 @@
    "file": "data/freshness/oug/2025.csv",
    "count": 80,
    "by_status": {
-    "current": 41,
-    "pending-change": 25,
+    "current": 52,
+    "pending-change": 14,
     "stale": 4,
     "unverified": 10,
     "source-unavailable": 0
@@ -15399,8 +15399,8 @@
    "file": "data/freshness/oug/2026.csv",
    "count": 32,
    "by_status": {
-    "current": 19,
-    "pending-change": 13,
+    "current": 22,
+    "pending-change": 10,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0

@@ -693,6 +693,21 @@
    ]
   },
   {
+   "slug": "hg-123-2026",
+   "path": "hg/2026/123",
+   "short": "HG nr. 123/2026",
+   "title": "Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308203",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308203",
+     "sha256": "a9ab16c2fcde02197675a189ee416fdd9de5a286c4a58a32418dac4236444934"
+    }
+   ]
+  },
+  {
    "slug": "hg-127-2026",
    "path": "hg/2026/127",
    "short": "HG nr. 127/2026",
@@ -884,6 +899,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306459",
      "sha256": "cee77edb0e465293ce62f3360f5d6798eec9e37adee7033f09785acade3a73df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-140-2026",
+   "path": "hg/2026/140",
+   "short": "HG nr. 140/2026",
+   "title": "Hotărârea Guvernului nr. 140/2026 privind actualizarea valorilor de inventar ale unor bunuri aflate în domeniul public al statului şi în administrarea Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale - Autoritatea Naţională pentru Protecţia Drepturilor Persoanelor cu Dizabilităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308305",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308305",
+     "sha256": "74837de218d13f8a87762beb6065dd67566a5e54c8d740047acbeaad00df69b1"
     }
    ]
   },
@@ -1143,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hg-165-2026",
+   "path": "hg/2026/165",
+   "short": "HG nr. 165/2026",
+   "title": "Hotărârea Guvernului nr. 165/2026 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - U.M. 0716 Baia Mare (Inspectoratul de Jandarmi Judeţean \"Pintea Viteazul\" Maramureş)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308914",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308914",
+     "sha256": "ff6936833adf755f7c01da7b7bcd22b575d8b29ee236ac15b9a68176fb3d0101"
+    }
+   ]
+  },
+  {
    "slug": "hg-166-2026",
    "path": "hg/2026/166",
    "short": "HG nr. 166/2026",
@@ -1169,6 +1214,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308858",
      "sha256": "b74974d3956faa97ba626d5737b45764b737eead20d5909a71ac6ca6c919916a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-168-2026",
+   "path": "hg/2026/168",
+   "short": "HG nr. 168/2026",
+   "title": "Hotărârea Guvernului nr. 168/2026 privind trecerea din domeniul public al statului în domeniul privat al statului a unor bunuri imobile aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF Timişoara pentru scoaterea din funcţiune, în vederea valorificării şi, după caz, casării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308915",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308915",
+     "sha256": "017743a6a486faba53c8867afddaf5531a7f0e3f2037ff675a021616658b6190"
     }
    ]
   },
@@ -1548,6 +1608,21 @@
    ]
   },
   {
+   "slug": "hg-196-2026",
+   "path": "hg/2026/196",
+   "short": "HG nr. 196/2026",
+   "title": "Hotărârea Guvernului nr. 196/2026 privind declararea unui bun imobil ca bun de interes public naţional, înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al statului şi darea sa în administrarea Tribunalului Gorj, actualizarea datelor de identificare ale bunului imobil cu nr. MF 40210, precum şi comasarea poziţiilor MF ale acestor bunuri imobile la poziţia cu nr. MF 40210",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309437",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309437",
+     "sha256": "346f78684163051ff76a446686668efe176850670d44692569d39a4857ba0ae7"
+    }
+   ]
+  },
+  {
    "slug": "hg-197-2026",
    "path": "hg/2026/197",
    "short": "HG nr. 197/2026",
@@ -1874,6 +1949,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309613",
      "sha256": "af1314beefa7724ca52c3c5dccb2ee261fad878447e2624d108d5d6efcc6e076"
+    }
+   ]
+  },
+  {
+   "slug": "hg-216-2026",
+   "path": "hg/2026/216",
+   "short": "HG nr. 216/2026",
+   "title": "Hotărârea Guvernului nr. 216/2026 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a) şi b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2026 nr. 43/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309625",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309625",
+     "sha256": "9f45cb62d497149fa28617fc90bec1fa697b28d2d358745dd4c3916bc7e241aa"
     }
    ]
   },
@@ -2268,6 +2358,36 @@
    ]
   },
   {
+   "slug": "hg-249-2026",
+   "path": "hg/2026/249",
+   "short": "HG nr. 249/2026",
+   "title": "Hotărârea Guvernului nr. 249/2026 privind actualizarea valorii de inventar şi schimbarea adresei poştale a bunului imobil aflat în domeniul public al statului şi în administrarea Ministerului Educaţiei şi Cercetării pentru Universitatea \"Ştefan cel Mare\" din Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309993",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309993",
+     "sha256": "37ea8eed2d9b94be160d2fd062ef4413627211b3e6b05ed8e8e527e105c49250"
+    }
+   ]
+  },
+  {
+   "slug": "hg-250-2026",
+   "path": "hg/2026/250",
+   "short": "HG nr. 250/2026",
+   "title": "Hotărârea Guvernului nr. 250/2026 privind actualizarea valorii de inventar a bunului imobil aflat în domeniul public al statului şi în administrarea Bibliotecii Centrale Universitare \"Lucian Blaga\" din Cluj-Napoca, instituţie aflată în subordinea Ministerului Educaţiei şi Cercetării, ca urmare a reevaluării acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309994",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309994",
+     "sha256": "ce21dad3fbf6b4431726c56279228307a7cbaf994bfc35230b89214c0bca9b57"
+    }
+   ]
+  },
+  {
    "slug": "hg-251-2026",
    "path": "hg/2026/251",
    "short": "HG nr. 251/2026",
@@ -2294,6 +2414,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310258",
      "sha256": "26f1f6697561fad56fa2ae4d164983b0ac4c45041b55950b23a6fa050888baf1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-253-2026",
+   "path": "hg/2026/253",
+   "short": "HG nr. 253/2026",
+   "title": "Hotărârea Guvernului nr. 253/2026 privind scoaterea unor bunuri imobile din inventarul centralizat al bunurilor din domeniul public al statului, care s-au aflat în administrarea Ministerului Finanţelor prin Direcţia Generală Regională a Finanţelor Publice Timişoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310228",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310228",
+     "sha256": "fff95c2dfeb79a68fb726187656e0d759dceb71bf5f24cc8ad7f31daed9de2a3"
     }
    ]
   },
@@ -2388,6 +2523,21 @@
    ]
   },
   {
+   "slug": "hg-263-2026",
+   "path": "hg/2026/263",
+   "short": "HG nr. 263/2026",
+   "title": "Hotărârea Guvernului nr. 263/2026 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon a zăcământului de lignit din perimetrul de exploatare Valea lui Milcu, judeţul Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309995",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309995",
+     "sha256": "5842c87ac448c24ff2af527447c1884a545ecf2c5809237fce2e3b819f44e6fd"
+    }
+   ]
+  },
+  {
    "slug": "hg-264-2026",
    "path": "hg/2026/264",
    "short": "HG nr. 264/2026",
@@ -2444,6 +2594,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309867",
      "sha256": "0828a29331df6b1e9b7145464d9ab4b6c4aeddccd77d1522619c0e5a38110160"
+    }
+   ]
+  },
+  {
+   "slug": "hg-268-2026",
+   "path": "hg/2026/268",
+   "short": "HG nr. 268/2026",
+   "title": "Hotărârea Guvernului nr. 268/2026 pentru aprobarea Nomenclatorului serviciilor sociale, precum şi a regulamentului-cadru de organizare şi funcţionare a serviciilor sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309976",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309976",
+     "sha256": "8fb149ebf49413f8a00de5c6dcc6afa611c2814cd7378dec812022e11bd08f73"
     }
    ]
   },
@@ -4203,6 +4368,21 @@
    ]
   },
   {
+   "slug": "hg-398-2026",
+   "path": "hg/2026/398",
+   "short": "HG nr. 398/2026",
+   "title": "Hotărârea Guvernului nr. 398/2026 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310951",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310951",
+     "sha256": "db8e9e1a69adc3ecab3e03dec21c9f2edc7807244fb9ad1b1576c407f5a9533b"
+    }
+   ]
+  },
+  {
    "slug": "hg-4-2026",
    "path": "hg/2026/4",
    "short": "HG nr. 4/2026",
@@ -4368,6 +4548,21 @@
    ]
   },
   {
+   "slug": "hg-411-2026",
+   "path": "hg/2026/411",
+   "short": "HG nr. 411/2026",
+   "title": "Hotărârea Guvernului nr. 411/2026 privind actualizarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Institutului Naţional de Cercetare-Dezvoltare Medico-Militară \"Cantacuzino\", situate în judeţele Giurgiu, Iaşi, Ilfov şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311149",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311149",
+     "sha256": "9511cfcdf828309479fc51d9ee7428a79157f3ef5a94e462d4dc5910daa138b0"
+    }
+   ]
+  },
+  {
    "slug": "hg-414-2026",
    "path": "hg/2026/414",
    "short": "HG nr. 414/2026",
@@ -4454,6 +4649,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307137",
      "sha256": "828ebe246eb288b7a04fe083ace2c11c9d53850edf9d33c80d14e779b156c807"
+    }
+   ]
+  },
+  {
+   "slug": "hg-425-2026",
+   "path": "hg/2026/425",
+   "short": "HG nr. 425/2026",
+   "title": "Hotărârea Guvernului nr. 425/2026 pentru aprobarea plăţii cotizaţiei pentru anul 2026 ce decurge din calitatea României de membru în cadrul Fundaţiei Europene pentru Tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311259",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311259",
+     "sha256": "e2287142c5c53b43d0b1af138c3eca2cc54fcf38f8789e48298d90be287f2220"
     }
    ]
   },
@@ -5234,6 +5444,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311577",
      "sha256": "1a96e6efebc0b8d7bf118a649ab3831422fd9ac27479fd1a15206b7413d346b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-486-2026",
+   "path": "hg/2026/486",
+   "short": "HG nr. 486/2026",
+   "title": "Hotărârea Guvernului nr. 486/2026 privind stimularea investiţiilor în vederea realizării de produse cu deficit comercial din industria prelucrătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311486",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311486",
+     "sha256": "940ec65df5340efd0770b025d35f6a0ff80312dc546ee9b471d73596bb625e60"
     }
    ]
   },
@@ -6344,6 +6569,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313071",
      "sha256": "32c8f96a874116ba951b08f879cd23875170ad2414d74766a16053611eeccd4d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-569-2026",
+   "path": "hg/2026/569",
+   "short": "HG nr. 569/2026",
+   "title": "Hotărârea Guvernului nr. 569/2026 privind aprobarea Procedurii de acordare a plăţilor, precum şi situaţiile de suspendare, modificare şi încetare a dreptului la beneficiul pentru locuire şi la beneficiul de tranziţie pentru persoanele adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312837",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312837",
+     "sha256": "de026b448bed0e0c570bd302e2d4e8c36acd37cda560873f13afa67baacd4d63"
     }
    ]
   },
@@ -11894,246 +12134,6 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307941",
      "sha256": "e941b0090a7af51718dea0eede0c7393c7b1128a7286dacd47ad59da7286f83f"
-    }
-   ]
-  },
-  {
-   "slug": "hg-123-2026",
-   "path": "hg/2026/123",
-   "short": "HG nr. 123/2026",
-   "title": "Hotărârea Guvernului nr. 123/2026 privind aprobarea măsurilor de organizare şi funcţionare, precum şi de reorganizare ale Regiei Naţionale a Pădurilor - Romsilva",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308203",
-   "versions": [
-    {
-     "from": "2026-03-12",
-     "units": 39,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308203",
-     "sha256": "a9ab16c2fcde02197675a189ee416fdd9de5a286c4a58a32418dac4236444934"
-    }
-   ]
-  },
-  {
-   "slug": "hg-140-2026",
-   "path": "hg/2026/140",
-   "short": "HG nr. 140/2026",
-   "title": "Hotărârea Guvernului nr. 140/2026 privind actualizarea valorilor de inventar ale unor bunuri aflate în domeniul public al statului şi în administrarea Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale - Autoritatea Naţională pentru Protecţia Drepturilor Persoanelor cu Dizabilităţi",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308305",
-   "versions": [
-    {
-     "from": "2026-03-18",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308305",
-     "sha256": "74837de218d13f8a87762beb6065dd67566a5e54c8d740047acbeaad00df69b1"
-    }
-   ]
-  },
-  {
-   "slug": "hg-165-2026",
-   "path": "hg/2026/165",
-   "short": "HG nr. 165/2026",
-   "title": "Hotărârea Guvernului nr. 165/2026 privind înscrierea unui imobil în inventarul centralizat al bunurilor din domeniul public al statului şi darea acestuia în administrarea Ministerului Afacerilor Interne - U.M. 0716 Baia Mare (Inspectoratul de Jandarmi Judeţean \"Pintea Viteazul\" Maramureş)",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308914",
-   "versions": [
-    {
-     "from": "2026-03-31",
-     "units": 3,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308914",
-     "sha256": "ff6936833adf755f7c01da7b7bcd22b575d8b29ee236ac15b9a68176fb3d0101"
-    }
-   ]
-  },
-  {
-   "slug": "hg-168-2026",
-   "path": "hg/2026/168",
-   "short": "HG nr. 168/2026",
-   "title": "Hotărârea Guvernului nr. 168/2026 privind trecerea din domeniul public al statului în domeniul privat al statului a unor bunuri imobile aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi în concesiunea Companiei Naţionale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF Timişoara pentru scoaterea din funcţiune, în vederea valorificării şi, după caz, casării",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308915",
-   "versions": [
-    {
-     "from": "2026-03-31",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308915",
-     "sha256": "017743a6a486faba53c8867afddaf5531a7f0e3f2037ff675a021616658b6190"
-    }
-   ]
-  },
-  {
-   "slug": "hg-196-2026",
-   "path": "hg/2026/196",
-   "short": "HG nr. 196/2026",
-   "title": "Hotărârea Guvernului nr. 196/2026 privind declararea unui bun imobil ca bun de interes public naţional, înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al statului şi darea sa în administrarea Tribunalului Gorj, actualizarea datelor de identificare ale bunului imobil cu nr. MF 40210, precum şi comasarea poziţiilor MF ale acestor bunuri imobile la poziţia cu nr. MF 40210",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309437",
-   "versions": [
-    {
-     "from": "2026-04-07",
-     "units": 5,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309437",
-     "sha256": "346f78684163051ff76a446686668efe176850670d44692569d39a4857ba0ae7"
-    }
-   ]
-  },
-  {
-   "slug": "hg-216-2026",
-   "path": "hg/2026/216",
-   "short": "HG nr. 216/2026",
-   "title": "Hotărârea Guvernului nr. 216/2026 pentru aprobarea modului de repartizare şi de utilizare a sumelor prevăzute la lit. a) şi b) din anexa nr. 3/13/02a la bugetul Secretariatului General al Guvernului, aprobat prin Legea bugetului de stat pe anul 2026 nr. 43/2026",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309625",
-   "versions": [
-    {
-     "from": "2026-04-17",
-     "units": 19,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309625",
-     "sha256": "9f45cb62d497149fa28617fc90bec1fa697b28d2d358745dd4c3916bc7e241aa"
-    }
-   ]
-  },
-  {
-   "slug": "hg-249-2026",
-   "path": "hg/2026/249",
-   "short": "HG nr. 249/2026",
-   "title": "Hotărârea Guvernului nr. 249/2026 privind actualizarea valorii de inventar şi schimbarea adresei poştale a bunului imobil aflat în domeniul public al statului şi în administrarea Ministerului Educaţiei şi Cercetării pentru Universitatea \"Ştefan cel Mare\" din Suceava",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309993",
-   "versions": [
-    {
-     "from": "2026-04-29",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309993",
-     "sha256": "37ea8eed2d9b94be160d2fd062ef4413627211b3e6b05ed8e8e527e105c49250"
-    }
-   ]
-  },
-  {
-   "slug": "hg-250-2026",
-   "path": "hg/2026/250",
-   "short": "HG nr. 250/2026",
-   "title": "Hotărârea Guvernului nr. 250/2026 privind actualizarea valorii de inventar a bunului imobil aflat în domeniul public al statului şi în administrarea Bibliotecii Centrale Universitare \"Lucian Blaga\" din Cluj-Napoca, instituţie aflată în subordinea Ministerului Educaţiei şi Cercetării, ca urmare a reevaluării acestuia",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309994",
-   "versions": [
-    {
-     "from": "2026-04-29",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309994",
-     "sha256": "ce21dad3fbf6b4431726c56279228307a7cbaf994bfc35230b89214c0bca9b57"
-    }
-   ]
-  },
-  {
-   "slug": "hg-253-2026",
-   "path": "hg/2026/253",
-   "short": "HG nr. 253/2026",
-   "title": "Hotărârea Guvernului nr. 253/2026 privind scoaterea unor bunuri imobile din inventarul centralizat al bunurilor din domeniul public al statului, care s-au aflat în administrarea Ministerului Finanţelor prin Direcţia Generală Regională a Finanţelor Publice Timişoara",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310228",
-   "versions": [
-    {
-     "from": "2026-05-05",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310228",
-     "sha256": "fff95c2dfeb79a68fb726187656e0d759dceb71bf5f24cc8ad7f31daed9de2a3"
-    }
-   ]
-  },
-  {
-   "slug": "hg-263-2026",
-   "path": "hg/2026/263",
-   "short": "HG nr. 263/2026",
-   "title": "Hotărârea Guvernului nr. 263/2026 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon a zăcământului de lignit din perimetrul de exploatare Valea lui Milcu, judeţul Mehedinţi",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309995",
-   "versions": [
-    {
-     "from": "2026-04-29",
-     "units": 2,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309995",
-     "sha256": "5842c87ac448c24ff2af527447c1884a545ecf2c5809237fce2e3b819f44e6fd"
-    }
-   ]
-  },
-  {
-   "slug": "hg-268-2026",
-   "path": "hg/2026/268",
-   "short": "HG nr. 268/2026",
-   "title": "Hotărârea Guvernului nr. 268/2026 pentru aprobarea Nomenclatorului serviciilor sociale, precum şi a regulamentului-cadru de organizare şi funcţionare a serviciilor sociale",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309976",
-   "versions": [
-    {
-     "from": "2026-04-28",
-     "units": 3,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309976",
-     "sha256": "8fb149ebf49413f8a00de5c6dcc6afa611c2814cd7378dec812022e11bd08f73"
-    }
-   ]
-  },
-  {
-   "slug": "hg-398-2026",
-   "path": "hg/2026/398",
-   "short": "HG nr. 398/2026",
-   "title": "Hotărârea Guvernului nr. 398/2026 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2026 al Fondului pentru mediu şi al Administraţiei Fondului pentru Mediu",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310951",
-   "versions": [
-    {
-     "from": "2026-05-22",
-     "units": 5,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310951",
-     "sha256": "db8e9e1a69adc3ecab3e03dec21c9f2edc7807244fb9ad1b1576c407f5a9533b"
-    }
-   ]
-  },
-  {
-   "slug": "hg-411-2026",
-   "path": "hg/2026/411",
-   "short": "HG nr. 411/2026",
-   "title": "Hotărârea Guvernului nr. 411/2026 privind actualizarea valorilor de inventar ale unor imobile aflate în domeniul public al statului şi în administrarea Institutului Naţional de Cercetare-Dezvoltare Medico-Militară \"Cantacuzino\", situate în judeţele Giurgiu, Iaşi, Ilfov şi municipiul Bucureşti, şi modificarea anexei nr. 4 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311149",
-   "versions": [
-    {
-     "from": "2026-06-02",
-     "units": 4,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311149",
-     "sha256": "9511cfcdf828309479fc51d9ee7428a79157f3ef5a94e462d4dc5910daa138b0"
-    }
-   ]
-  },
-  {
-   "slug": "hg-425-2026",
-   "path": "hg/2026/425",
-   "short": "HG nr. 425/2026",
-   "title": "Hotărârea Guvernului nr. 425/2026 pentru aprobarea plăţii cotizaţiei pentru anul 2026 ce decurge din calitatea României de membru în cadrul Fundaţiei Europene pentru Tineret",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311259",
-   "versions": [
-    {
-     "from": "2026-06-09",
-     "units": 3,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311259",
-     "sha256": "e2287142c5c53b43d0b1af138c3eca2cc54fcf38f8789e48298d90be287f2220"
-    }
-   ]
-  },
-  {
-   "slug": "hg-486-2026",
-   "path": "hg/2026/486",
-   "short": "HG nr. 486/2026",
-   "title": "Hotărârea Guvernului nr. 486/2026 privind stimularea investiţiilor în vederea realizării de produse cu deficit comercial din industria prelucrătoare",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311486",
-   "versions": [
-    {
-     "from": "2026-06-22",
-     "units": 45,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311486",
-     "sha256": "940ec65df5340efd0770b025d35f6a0ff80312dc546ee9b471d73596bb625e60"
-    }
-   ]
-  },
-  {
-   "slug": "hg-569-2026",
-   "path": "hg/2026/569",
-   "short": "HG nr. 569/2026",
-   "title": "Hotărârea Guvernului nr. 569/2026 privind aprobarea Procedurii de acordare a plăţilor, precum şi situaţiile de suspendare, modificare şi încetare a dreptului la beneficiul pentru locuire şi la beneficiul de tranziţie pentru persoanele adulte cu handicap",
-   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312837",
-   "versions": [
-    {
-     "from": "2026-07-28",
-     "units": 5,
-     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312837",
-     "sha256": "de026b448bed0e0c570bd302e2d4e8c36acd37cda560873f13afa67baacd4d63"
     }
    ]
   }

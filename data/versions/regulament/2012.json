@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "regulament-bnr-7-2012",
+   "path": "regulament/bnr/2012/7",
+   "short": "Regulament bnr nr. 7/2012",
+   "title": "Regulamentul nr. 7/2012 privind comisioanele practicate de Banca Națională a României pentru efectuarea operațiunilor de eliberare și primire de numerar în relația cu instituțiile de credit și Trezoreria Statului",
+   "url": "https://www.bnr.ro/20110-regulament-7-2012",
+   "versions": [
+    {
+     "from": "2012-05-23",
+     "units": 10,
+     "source_url": "https://www.bnr.ro/20110-regulament-7-2012",
+     "sha256": "09a3a9cfdc6a62a70146a7b01e7e37abc285d91d805898b95c0660ba947588bb"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-2-2012",
    "path": "regulament/cnvm/2012/2",
    "short": "Regulament cnvm nr. 2/2012",
