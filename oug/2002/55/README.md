@@ -42,3 +42,30 @@ Act id: `oug-55-2002` (tags `oug-55-2002/<day>`; `python tools/on.py <day> oug-5
 - OUG nr. 55/2002: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 12, left out from the form of 24.03.2003: repealed by Legea nr. 60/2003, in force 24.03.2003 (a law with no in-force clause of its own, published in Monitorul Oficial nr. 183 of 24 March 2003, before the revised Constituția: in force on publication (Constituția of 1991, art. 78)).
 - OUG nr. 55/2002: 9 changed article(s) with no note naming a law, committed as the publisher's: 2003-03-24 art-004, 2003-03-24 art-008, 2003-03-24 art-009, 2003-03-24 art-010, 2003-03-24 art-015, 2003-03-24 art-016, 2003-03-24 art-017, 2003-03-24 art-018, 2003-03-24 art-022.
 - OUG nr. 55/2002: forms with no change after normalisation, so no version: 2020-02-18 (222907).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-002.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-003.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-004.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-005.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-006.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-007.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-008.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-009.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-010.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-011.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-012.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-013.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-014.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-015.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-016.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-017.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-018.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-019.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-020.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-021.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
+- `art-023.md`, in force from 2014-02-27: Legea nr. 187/2012 (first published as no law named).
