@@ -47,3 +47,73 @@ Act id: `legea-554-2004` (tags `legea-554-2004/<day>`; `python tools/on.py <day>
 - Legea contenciosului administrativ nr. 554/2004: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 131 such paragraphs across all forms, for example «Alin. (1) al art. 20 și-a încetat efectele juridice începând», «Alin. (2) al art. 21 a fost repus în vigoare ca urmare a dec», «Alin. (2) al art. 21 este repus în vigoare în forma avută an».
 - Legea contenciosului administrativ nr. 554/2004: 7 changed article(s) with no note naming a law, committed as the publisher's: 2006-05-21 art-020, 2006-12-30 art-004, 2013-01-29 art-005, 2013-01-29 art-007, 2013-01-29 art-021, 2013-01-29 art-023, 2016-04-12 art-021.
 - Legea contenciosului administrativ nr. 554/2004: forms with no change after normalisation, so no version: 2006-04-05 (70656), 2006-11-14 (76842), 2007-02-13 (79787), 2007-09-17 (86295), 2007-10-19 (86296), 2007-12-04 (86838), 2011-01-27 (125688), 2011-03-14 (134065), 2011-05-09 (134066), 2011-06-24 (134067), 2013-03-16 (145076), 2014-09-30 (161789), 2014-11-15 (170645), 2016-02-26 (176189), 2020-03-11 (223558), 2020-04-25 (224247), 2025-07-10 (57426).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2007-03-31: Decizia CCR nr. 65/2007 (first published as no law named).
+- `art-001.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-002.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-003.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-004.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-006.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-007.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-008.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-009.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-010.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-011.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-012.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-013.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-014.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-015.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-016.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-016-1.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-017.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-018.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-019.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-020.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-021.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-022.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-023.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-024.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-025.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-026.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-028.md`, in force from 2007-08-02: Legea nr. 262/2007 (first published as no law named).
+- `art-010.md`, in force from 2008-04-18: Legea nr. 97/2008 (first published as no law named).
+- `art-009.md`, in force from 2008-05-19: Legea nr. 100/2008 (first published as no law named).
+- `art-004.md`, in force from 2010-11-25: Legea nr. 202/2010 (first published as no law named).
+- `art-021.md`, in force from 2011-12-25: Legea nr. 299/2011 (first published as no law named).
+- `art-004.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-010.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-020.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-021.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-022.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-024.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-028.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+- `art-024.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-024.md`, in force from 2014-10-19: Legea nr. 138/2014 (first published as no law named).
+- `art-025.md`, in force from 2014-10-19: Legea nr. 138/2014 (first published as no law named).
+- `art-002.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-005.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-007.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-008.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-010.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-011.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-013.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-014.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-015.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-016.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-016-1.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-017.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-020.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-021.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-024.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-025.md`, in force from 2018-08-02: Legea nr. 212/2018 (first published as no law named).
+- `art-003.md`, in force from 2019-07-05: OUG nr. 57/2019 (first published as no law named).
+- `art-024.md`, in force from 2023-04-10: Legea nr. 84/2023 (first published as no law named).
+- `art-026.md`, in force from 2023-04-10: Legea nr. 84/2023 (first published as no law named).
+- `art-011.md`, in force from 2023-04-21: Legea nr. 102/2023 (first published as no law named).
+- `art-014.md`, in force from 2023-04-21: Legea nr. 102/2023 (first published as no law named).
+- `art-015.md`, in force from 2023-04-21: Legea nr. 102/2023 (first published as no law named).
+- `art-026.md`, in force from 2023-04-27: Rectificare MO nr. 362/2023 (first published as no law named).
