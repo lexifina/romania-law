@@ -1,4 +1,4 @@
-# Anexa nr. 1: Listă cu gradatori autorizați Nr. crt. Nume Prenume CNP Județ 1 Faur George-Paul 1630508011098 Alba 2 Horopciuc Andreea-Ruth 2880301204967 Arad 3 Gligor Ioan-Adrian 1780610020039 Arad 4 Boldi János 17
+# Anexa nr. 1: Listă cu gradatori autorizați Nr. crt. Nume Prenume CNP Județ 1 Faur George-Paul [CNP omis] Alba 2 Horopciuc Andreea-Ruth [CNP omis] Arad 3 Gligor Ioan-Adrian [CNP omis] Arad 4 Boldi János 17
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 

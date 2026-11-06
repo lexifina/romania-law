@@ -6,192 +6,192 @@ Prenume
 CNP
 Județ 1
 Faur
-George-Paul 1630508011098
+George-Paul [CNP omis]
 Alba 2
 Horopciuc
-Andreea-Ruth 2880301204967
+Andreea-Ruth [CNP omis]
 Arad 3
 Gligor
-Ioan-Adrian 1780610020039
+Ioan-Adrian [CNP omis]
 Arad 4
 Boldi
-János 1750923057076
+János [CNP omis]
 Bihor 5
 Klozik
-Zsolt-Stefan 1810531055055
+Zsolt-Stefan [CNP omis]
 Bihor 6
 Grosu
-Vasile 1691004092232
+Vasile [CNP omis]
 Brăila 7
 Toma
-Tatiana-Lavinia 2940527090024
+Tatiana-Lavinia [CNP omis]
 Brăila 8
 Bejan
-Adrian 1840929510047
+Adrian [CNP omis]
 București 9
 Neagu
-Cleopatra 2770725173197
+Cleopatra [CNP omis]
 București 10
 Bîlbîe
-Cristina-Mariana 2910328100147
+Cristina-Mariana [CNP omis]
 Buzău 11
 Buzăeanu
-Georgian-Dorin 1891002105023
+Georgian-Dorin [CNP omis]
 Buzău 12
 Buzoianu
-Niculina 2640510514356
+Niculina [CNP omis]
 Călărași 13
 Chirică
-Cătălin-Nicolae 1940416511609
+Cătălin-Nicolae [CNP omis]
 Călărași 14
 Gae
-Alina-Maria 2870713511611
+Alina-Maria [CNP omis]
 Călărași 15
 Iliciu
-Nicoleta 2621014514353
+Nicoleta [CNP omis]
 Călărași 16
 Mărunțelu
-Dumitru 1820911510019
+Dumitru [CNP omis]
 Călărași 17
 Olteanu
-Ilenuța 2700104072622
+Ilenuța [CNP omis]
 Călărași 18
 Răduță
-Gheorghe 1710513510031
+Gheorghe [CNP omis]
 Călărași 19
 Tănase
-Cătălin-Adrian 1921129511606
+Cătălin-Adrian [CNP omis]
 Călărași 20
 Gărduș
-Alexandra-Valeria 2881031124963
+Alexandra-Valeria [CNP omis]
 Cluj 21
 Constantin
-Anișoara 2600208075087
+Anișoara [CNP omis]
 Constanța 22
 Cruceru-Ciobanu
-Elefterie-Costel 1730610162158
+Elefterie-Costel [CNP omis]
 Dolj 23
 Iordache
-Mihaela-Ecaterina 2930121161695
+Mihaela-Ecaterina [CNP omis]
 Dolj 24
 Mitricoiu
-Ionel-Florin 1950823161885
+Ionel-Florin [CNP omis]
 Dolj 25
 Răduț
-Ionelia-Marinela 2790214162147
+Ionelia-Marinela [CNP omis]
 Dolj 26
 Rotaru
-Nicușor 1890301161692
+Nicușor [CNP omis]
 Dolj 27
 Apostu
-Mariana 2740922170348
+Mariana [CNP omis]
 Galați 28
 Căpran
-Aurelia 2780201520011
+Aurelia [CNP omis]
 Giurgiu 29
 Țone
-Adrian 1931024520047
+Adrian [CNP omis]
 Giurgiu 30
 Marc
-Laurențiu-Nicușor 1920704226201
+Laurențiu-Nicușor [CNP omis]
 Hunedoara 31
 Barbu
-Elisabeta 2800525237757
+Elisabeta [CNP omis]
 Ialomița 32
 Chirițescu
-Mihai 1920924212713
+Mihai [CNP omis]
 Ialomița 33
 Gavrilă
-Gabriela 2890424210319
+Gabriela [CNP omis]
 Ialomița 34
 Ghenof
-Costin Alin 1930820212725
+Costin Alin [CNP omis]
 Ialomița 35
 Grigore
-Viorica 2560118214608
+Viorica [CNP omis]
 Ialomița 36
 Ispas
-Mariana-Mădălina 2921218420022
+Mariana-Mădălina [CNP omis]
 Ialomița 37
 Mușat
-Alina 2860710212726
+Alina [CNP omis]
 Ialomița 38
 Niculae
-Eugen-Jean 1880524210013
+Eugen-Jean [CNP omis]
 Ialomița 39
 Pietriș
-Marian 1910215211184
+Marian [CNP omis]
 Ialomița 40
 Tudor
-Serafima 2541012214602
+Serafima [CNP omis]
 Ialomița 41
 Vasile
-Silvia 2890227212727
+Silvia [CNP omis]
 Ialomița 42
 Cara
-Larisa 2840610330799
+Larisa [CNP omis]
 Iași 43
 Popa
-Ioan-Cristian 1740605221211
+Ioan-Cristian [CNP omis]
 Iași 44
 Biró
-Barna 1680814260012
+Barna [CNP omis]
 Mureș 45
 Demeter
-Emőke-Bianka 2890804260011
+Emőke-Bianka [CNP omis]
 Mureș 46
 Urbán
-Rudolf 1691213264428
+Rudolf [CNP omis]
 Mureș 47
 Popa
-Mihai-Petre 1890331282227
+Mihai-Petre [CNP omis]
 Olt 48
 Popa
-Iustian-Florinel 1830308282204
+Iustian-Florinel [CNP omis]
 Olt 49
 Militaru
-Minodora-Florentina 2681104284374
+Minodora-Florentina [CNP omis]
 Olt 50
 Apație
-Liliana-Nicoleta 2831128350074
+Liliana-Nicoleta [CNP omis]
 Timiș 51
 Borșoș
-Cristian 1820802352315
+Cristian [CNP omis]
 Timiș 52
 Brașoveanu
-Nicolae-Vasile 1651231200016
+Nicolae-Vasile [CNP omis]
 Timiș 53
 Cerbu
-Anilena-Aida 2750808250604
+Anilena-Aida [CNP omis]
 Timiș 54
 Cojocariu
-Costică Ionuț 1870107350089
+Costică Ionuț [CNP omis]
 Timiș 55
 Hess
-Gabriel 1831119350029
+Gabriel [CNP omis]
 Timiș 56
 Nedelcu
-Octavian-Ioan 1870303352291
+Octavian-Ioan [CNP omis]
 Timiș 57
 Olaru-Caia
-Ionela-Andreea 2910304351572
+Ionela-Andreea [CNP omis]
 Timiș 58
 Pătruică Bărdaș
-Constantin 1590323354849
+Constantin [CNP omis]
 Timiș 59
 Petruș
-Florin-Mirel 1890515351997
+Florin-Mirel [CNP omis]
 Timiș 60
 Radu
-Alin 1820515282200
+Alin [CNP omis]
 Timiș 61
 Chirițoiu
-Mihaela 2711129373461
+Mihaela [CNP omis]
 Vaslui 62
 Anton
-Costel-Marius 1880326394451
+Costel-Marius [CNP omis]
 Vrancea 63
 Boeru
-Ovidiu-Florin 1890926394441
+Ovidiu-Florin [CNP omis]
 Vrancea
 ----
