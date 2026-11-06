@@ -71,3 +71,62 @@ Act id: `legea-14-2003` (tags `legea-14-2003/<day>`; `python tools/on.py <day> l
 - Legea nr. 14/2003: the form of 7 March 2008 differs from the text as published in seven articles (5, 18, 19, 39, 40, 42, 53) only by diacritics, which the portal prints in that form; with no note, these changes are committed as the text of the publisher.
 - Legea nr. 14/2003: 7 changed article(s) with no note naming a law, committed as the publisher's: 2008-03-07 art-005, 2008-03-07 art-018, 2008-03-07 art-019, 2008-03-07 art-039, 2008-03-07 art-040, 2008-03-07 art-042, 2008-03-07 art-053.
 - Legea nr. 14/2003: forms with no change after normalisation, so no version: 2015-04-21 (167389).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-015.md`, in force from 2014-05-12: Legea nr. 187/2012 (first published as no law named).
+- `art-019.md`, in force from 2014-05-12: Legea nr. 187/2012 (first published as no law named).
+- `art-020.md`, in force from 2014-05-12: Legea nr. 187/2012 (first published as no law named).
+- `art-045.md`, in force from 2014-05-12: Legea nr. 187/2012 (first published as no law named).
+- `art-004.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-010.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-012.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-013.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-014.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-018.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-019.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-027.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-040.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-044.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-046.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-047.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-048.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-053.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-054.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-055.md`, in force from 2015-05-23: Legea nr. 114/2015 (first published as no law named).
+- `art-008.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-016.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-020.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-027.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-028.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-029.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-030.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-031.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-032.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-033.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-034.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-035.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-036.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-037.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-038.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-039.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-040.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-041.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-042.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-043.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-044.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-045.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-046.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-047.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-048.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-049.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-050.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-051.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-052.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-053.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-054.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-055.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-056.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
+- `art-057.md`, in force from 2015-06-10: Legea nr. 114/2015 (first published as no law named).
