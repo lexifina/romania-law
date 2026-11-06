@@ -331,6 +331,786 @@
      "sha256": "eadeb3132ac6debf69ba4b9055e67c7e7df4136773168d0672c951fb697f8633"
     }
    ]
+  },
+  {
+   "slug": "tratat-2015-05-03-protocol",
+   "path": "tratat/2015/05-03-protocol",
+   "short": "Protocolul din 3 mai 2015 (M. Of. nr. 851/2016)",
+   "title": "Protocolul din 3 mai 2015 suplimentar la Acordul dintre Guvernul României şi Guvernul Statului Qatar privind transporturile aeriene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182947",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182947",
+     "sha256": "d21ed90aafb47debb06960c74cb60ba1ffac7738201931385d2fa0126a484170"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-04-acord-2",
+   "path": "tratat/2015/05-04-acord-2",
+   "short": "Acordul din 4 mai 2015 (M. Of. nr. 650/2015)",
+   "title": "Acordul din 4 mai 2015 între Guvernul României şi Guvernul Statului Kuwait cu privire la eliminarea obligaţiei vizei pentru titularii de paşapoarte diplomatice, speciale şi de serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170919",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170919",
+     "sha256": "71beaa84f5f83f6f2e81c681e4e090bab2e42066c09b5dc4f1ed07c9f5ff4b00"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-04-acord-3",
+   "path": "tratat/2015/05-04-acord-3",
+   "short": "Acordul din 4 mai 2015 (M. Of. nr. 657/2015)",
+   "title": "Acordul din 4 mai 2015 între Guvernul României şi Guvernul Emiratelor Arabe Unite cu privire la desfiinţarea vizelor pentru titularii de paşapoarte diplomatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171005",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171005",
+     "sha256": "ee32c1acf86c65669759c033824d560773d4cd6fa8d0f0b28e1c20f22cc33efd"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-04-acord",
+   "path": "tratat/2015/05-04-acord",
+   "short": "Acordul din 4 mai 2015 (M. Of. nr. 650/2015)",
+   "title": "Acordul din 4 mai 2015 între Guvernul României şi Guvernul Statului Kuwait cu privire la înfiinţarea unei comisii mixte pentru cooperare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170917",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170917",
+     "sha256": "f35b2d7bcc5eddfabed87235abc8eef0b003d03ebfcbd8e77ab58ffc1bdb4fb0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-04-memorandum",
+   "path": "tratat/2015/05-04-memorandum",
+   "short": "Memorandumul din 4 mai 2015 (M. Of. nr. 644/2015)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 4 mai 2015 între Guvernul României şi Guvernul Statului Kuwait privind cooperarea în domeniul sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170815",
+   "versions": [
+    {
+     "from": "2015-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170815",
+     "sha256": "eeea547ed17fdf6f97ae354eb71ec4643e545db7de1e4f029f20351c05a237b0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-12-amendament",
+   "path": "tratat/2015/05-12-amendament",
+   "short": "Amendamentul din 12 mai 2015 (M. Of. nr. 648/2015)",
+   "title": "Amendamentul din 12 mai 2015 convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei prin scrisorile semnate la Bucureşti la 12 mai 2015 şi la Paris la 22 mai 2015 la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind reabilitarea infrastructurii şcolare din România, semnat la Bucureşti la 11 iulie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170885",
+   "versions": [
+    {
+     "from": "2015-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170885",
+     "sha256": "7065a4b42f96bdb24ea644ae5e9fcfc4b45bb6359d4eab517a4de8fdf5569da3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-21-memorandum",
+   "path": "tratat/2015/05-21-memorandum",
+   "short": "Memorandumul din 21 mai 2015 (M. Of. nr. 691/2015)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 21 mai 2015 între Guvernul României şi Guvernul Republicii Moldova privind realizarea proiectelor necesare interconectării reţelelor de gaze naturale şi energie electrică din România şi Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171293",
+   "versions": [
+    {
+     "from": "2015-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171293",
+     "sha256": "5c25f40d6401142a26fe5acd4ae11f9350a22ed9a5e2c7cac55b2fb326f591d0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-26-acord",
+   "path": "tratat/2015/05-26-acord",
+   "short": "Acordul din 26 mai 2015 (M. Of. nr. 703/2015)",
+   "title": "Acordul din 26 mai 2015 între Guvernul României şi Guvernul Republicii Cuba cu privire la eliminarea obligaţiei vizei pentru titularii de paşapoarte diplomatice, de serviciu şi oficiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171395",
+   "versions": [
+    {
+     "from": "2015-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171395",
+     "sha256": "db7ce4c185c140ac40ff85553e7547a4b01fa9e6fbdf58a985d7c3c1520891d1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-05-28-acord",
+   "path": "tratat/2015/05-28-acord",
+   "short": "Acordul din 28 mai 2015 (M. Of. nr. 808/2015)",
+   "title": "Acordul din 28 mai 2015 dintre România şi Statele Unite ale Americii pentru îmbunătăţirea conformării fiscale internaţionale şi pentru implementarea FATCA*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173045",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173045",
+     "sha256": "8e199a9c03fe9706b5f46876632fc1d0e6a83c1f9ee003583ff8a1bd125148a0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-06-05-acord-2",
+   "path": "tratat/2015/06-05-acord-2",
+   "short": "Acordul din 5 iunie 2015 (M. Of. nr. 579/2016)",
+   "title": "Acordul din 5 iunie 2015 între Guvernul României şi Guvernul Republicii Moldova privind protecţia reciprocă a informaţiilor clasificate*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180516",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180516",
+     "sha256": "2e628d69034cfd9c1a0afacf2cec112f9549b49bf4f13794fd4b844c6e43251d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-06-05-acord",
+   "path": "tratat/2015/06-05-acord",
+   "short": "Acordul din 5 iunie 2015 (M. Of. nr. 168/2016)",
+   "title": "Acordul din 5 iunie 2015 încheiat prin schimb de note verbale între Guvernul României şi Cabinetul de Miniştri al Ucrainei privind deschiderea punctului internaţional de trecere a frontierei de stat româno-ucrainene pentru comunicaţie de pasageri şi marfă în regim de bac, între localităţile Isaccea (România) şi Orlivka (Ucraina), semnat la Kiev la 28 mai 2015 şi la Bucureşti la 5 iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176328",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176328",
+     "sha256": "6d3229348836e1feacb07d329d77c19347b2089fcfa50ff236f31c7572471768"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-06-05-act-aditional",
+   "path": "tratat/2015/06-05-act-aditional",
+   "short": "Act adițional din 5 iunie 2015 (M. Of. nr. 587/2015)",
+   "title": "ACT ADIŢIONAL nr. 1 din 5 iunie 2015 la Acordul de finanţare (\"Acordul de finanţare\") încheiat la data de 19 noiembrie 2013 între Guvernul României, reprezentat prin Ministerul Economiei, Ministerul Fondurilor Europene şi Ministerul Finanţelor Publice, şi Fondul European de Investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170314",
+   "versions": [
+    {
+     "from": "2015-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170314",
+     "sha256": "74a7a5a864c1880c5ea1758da41c789549c4dd3e3d9affdd461e2da2b427cf4b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-06-09-intelegere",
+   "path": "tratat/2015/06-09-intelegere",
+   "short": "Înțelegerea din 9 iunie 2015 (M. Of. nr. 48/2016)",
+   "title": "ÎNŢELEGERE din 9 iunie 2015 între Ministerul Mediului, Apelor şi Pădurilor din România şi Ministerul Agriculturii din Republica Cehă privind cooperarea în domeniul silviculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175222",
+   "versions": [
+    {
+     "from": "2016-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175222",
+     "sha256": "1e2719db7143c9f5868e636dc962cddcfa485feb71cc463b3c90d4704e49b422"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-06-16-acord",
+   "path": "tratat/2015/06-16-acord",
+   "short": "Acordul din 16 iunie 2015 (M. Of. nr. 152/2016)",
+   "title": "Acordul din 16 iunie 2015 între Guvernul României şi Guvernul Republicii Kârgâze cu privire la desfiinţarea vizelor pentru titularii de paşapoarte diplomatice şi de serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176184",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176184",
+     "sha256": "efd8de305152fb23995213040c367693c9cd0ec22567c64ef845bad27eea92b0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-06-17-program",
+   "path": "tratat/2015/06-17-program",
+   "short": "Programul din 17 iunie 2015 (M. Of. nr. 611/2016)",
+   "title": "Programul DE COOPERARE din 17 iunie 2015 între Guvernul României şi Guvernul Republicii Portugheze în domeniile limbii, educaţiei, ştiinţei, tehnologiei şi învăţământului superior, culturii, sportului, tineretului, mass-mediei şi turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180814",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180814",
+     "sha256": "ceffe162467ef9802fc73e5f441dbaf43ca8c5141796631aa2c1a9bd4dd78975"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-06-29-acord",
+   "path": "tratat/2015/06-29-acord",
+   "short": "Acordul din 29 iunie 2015 (M. Of. nr. 1059/2018)",
+   "title": "Acordul DE ÎNFIINŢARE din 29 iunie 2015 a Băncii Asiatice de Investiţii în Infrastructură*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208731",
+   "versions": [
+    {
+     "from": "2018-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208731",
+     "sha256": "0ebd1797537fd7cdcfae18285dd9a770bcdaecc4052bf12e03a66ff077c452ca"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-01-acord-2",
+   "path": "tratat/2015/07-01-acord-2",
+   "short": "Acordul din 1 iulie 2015 (M. Of. nr. 544/2016)",
+   "title": "Acordul din 1 iulie 2015 (M. Of. nr. 544/2016)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180264",
+   "versions": [
+    {
+     "from": "2016-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180264",
+     "sha256": "f06824443d8f28ad9661e5174b9fde8c6659fa20ddbc74986d661f69872c870e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-01-acord",
+   "path": "tratat/2015/07-01-acord",
+   "short": "Acordul din 1 iulie 2015 (M. Of. nr. 544/2016)",
+   "title": "Acordul DE GARANTARE din 1 iulie 2015 între Regatul Belgiei, Republica Bulgaria, Republica Cehia, Regatul Danemarcei, Republica Federală Germania, Republica Estonia, Irlanda, Republica Elenă, Regatul Spaniei, Republica Franceză, Republica Croaţia, Republica Italia, Republica Cipru, Republica Letonia, Republica Lituania, Ducatul Luxemburg, Republica Ungaria, Malta, Regatul Olandei, Republica Austria, Republica Polonia, Republica Portugalia, România, Republica Slovenia, Republica Slovacia, Republica Finlanda, Regatul Suediei, Regatul Unit al Marii Britanii şi Irlandei de Nord şi Banca Europeană pentru Investiţii privind împrumuturile care urmează a fi acordate de către Banca Europeană pentru Investiţii pentru proiectele de investiţii din statele din Africa, Caraibe şi Pacific, precum şi din ţările şi teritoriile de peste mări*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180263",
+   "versions": [
+    {
+     "from": "2016-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180263",
+     "sha256": "033eb8974006361760cc187949d682e4d95deba00a96aa11d8f567c5b210f93d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-01-protocol",
+   "path": "tratat/2015/07-01-protocol",
+   "short": "Protocolul din 1 iulie 2015 (M. Of. nr. 984/2016)",
+   "title": "Protocolul din 1 iulie 2015 de modificare a Acordului privind înfiinţarea Băncii Internaţionale de Investiţii şi a Statutului acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184349",
+   "versions": [
+    {
+     "from": "2016-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184349",
+     "sha256": "16df77d58089354ea2bc221ddd8fd75106ea71e9cbbe03f78f970e9dc5908177"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-09-acord",
+   "path": "tratat/2015/07-09-acord",
+   "short": "Acordul din 9 iulie 2015 (M. Of. nr. 851/2016)",
+   "title": "Acordul din 9 iulie 2015 între Guvernul României şi Guvernul Republicii Italiene privind mormintele de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182951",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182951",
+     "sha256": "54de97834c850f21826edffc7eb57025541f5c4fc49cb0a57ad7a47e12738405"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-14-acord",
+   "path": "tratat/2015/07-14-acord",
+   "short": "Acordul din 14 iulie 2015 (M. Of. nr. 114/2016)",
+   "title": "Acordul din 14 iulie 2015 încheiat prin schimb de note verbale între Guvernul României şi Guvernul Republicii Serbia privind activităţile lucrative ale membrilor de familie ai membrilor misiunilor diplomatice şi posturilor consulare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175821",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175821",
+     "sha256": "72f611c791847611f56226761023d073bfed94e090eecc71d6a11fed29120cc9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-22-acord",
+   "path": "tratat/2015/07-22-acord",
+   "short": "Acordul din 22 iulie 2015 (M. Of. nr. 852/2016)",
+   "title": "Acordul DE SEDIU din 22 iulie 2015 între România şi Centrul Sud-Est European de Aplicare a Legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183001",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183001",
+     "sha256": "d6bdb792f5287d7f5a43868cbf5befc15e72871ea043916691630e4483058816"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-30-amendament",
+   "path": "tratat/2015/07-30-amendament",
+   "short": "Amendamentul din 30 iulie 2015 (M. Of. nr. 850/2015)",
+   "title": "Amendamentul din 30 iulie 2015 convenit prin schimbul de scrisori semnate la Bucureşti la 7 aprilie 2015 şi 30 iulie 2015 şi la Bruxelles la 7 septembrie 2015 între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, la Acordul de împrumut (Proiect privind controlul integrat al poluării cu nutrienţi) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare şi la Acordul de asistenţă financiară nerambursabilă acordată din Fondul Global de Mediu (Proiect privind controlul integrat al poluării cu nutrienţi) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnate la Bucureşti la 28 decembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172998",
+   "versions": [
+    {
+     "from": "2015-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172998",
+     "sha256": "03e7a066a5b8ff40184d3b8547ea6915a8dd6d5a74747db1a625177121c85823"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-07-31-protocol",
+   "path": "tratat/2015/07-31-protocol",
+   "short": "Protocolul din 31 iulie 2015 (M. Of. nr. 982/2016)",
+   "title": "Protocolul din 31 iulie 2015 între Guvernul României şi Guvernul Canadei suplimentar la Acordul dintre Guvernul Republicii Socialiste România şi Guvernul Canadei privind cooperarea în dezvoltarea şi folosirea energiei atomice în scopuri paşnice, semnat la Ottawa la 24 octombrie 1977",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184337",
+   "versions": [
+    {
+     "from": "2016-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184337",
+     "sha256": "f323fa411aee96f25d4208c9dcecf6f4fde4aee31f498aec4756386497c936e0"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-08-03-amendament",
+   "path": "tratat/2015/08-03-amendament",
+   "short": "Amendamentul din 3 august 2015 (M. Of. nr. 119/2016)",
+   "title": "Amendamentul nr. 1 din 3 august 2015 convenit prin schimbul de scrisori*) între Guvernul României şi Banca Europeană de Investiţii semnate la Bucureşti la 9 decembrie 2014 şi 3 august 2015 şi la Luxemburg la 22 iulie 2015, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii aferent Proiectului de modernizare a metroului din Bucureşti - etapa a IV-a, Magistrala 5 Drumul Taberei-Pantelimon, tronsonul Drumul Taberei-Universitate, semnat la Bucureşti la 12 noiembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175859",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175859",
+     "sha256": "7453841d2d466af51332cebf2b8023f88418e415d1027ef6b82ffa1d09a7f858"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-08-27-amendament",
+   "path": "tratat/2015/08-27-amendament",
+   "short": "Amendamentul din 27 august 2015 (M. Of. nr. 119/2016)",
+   "title": "Amendamentul din 27 august 2015 convenit prin schimbul de scrisori*) semnate la Bucureşti la 27 august 2015 şi la Paris la 7 septembrie 2015 între Guvernul României prin Ministerul Finanţelor Publice şi Banca de Dezvoltare a Consiliului Europei, la Acordul-cadru de împrumut F/P 1556 (2006) dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Bucureşti la 23 august 2007 şi la Paris la 30 august 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175861",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175861",
+     "sha256": "46ba22bde9690bffbe46f1ec597e38bf02280bc18f22c8da70c6c85b0132e623"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-08-27-protocol",
+   "path": "tratat/2015/08-27-protocol",
+   "short": "Protocolul din 27 august 2015 (M. Of. nr. 906/2015)",
+   "title": "AL PATRULEA PROTOCOL ADIŢIONAL din 27 august 2015 dintre Guvernul României şi Guvernul Republicii Moldova la Acordul între Guvernul României şi Guvernul Republicii Moldova privind implementarea programului de asistenţă tehnică şi financiară în baza unui ajutor financiar nerambursabil în valoare de 100 milioane de euro acordat de România Republicii Moldova, semnat la Bucureşti, la 27 aprilie 2010, astfel cum a fost modificat prin cele trei protocoale adiţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173645",
+   "versions": [
+    {
+     "from": "2015-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173645",
+     "sha256": "d0b5e2bbf362157892fbb68f17cb6f79f5faee43437a35b0040b7cd3e12e01b8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-09-22-acord",
+   "path": "tratat/2015/09-22-acord",
+   "short": "Acordul din 22 septembrie 2015 (M. Of. nr. 226/2016)",
+   "title": "Acordul din 22 septembrie 2015 încheiat prin schimb de note verbale, dintre Guvernul României şi Guvernul Republicii Moldova privind angajarea în câmpul muncii a membrilor de familie ai agenţilor misiunilor oficiale ale unui stat în celălalt stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176939",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176939",
+     "sha256": "d7c834e283e08134381ec6f063372863b04b470e5b07e6c92f5c819c223ac151"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-09-23-protocol",
+   "path": "tratat/2015/09-23-protocol",
+   "short": "Protocolul din 23 septembrie 2015 (M. Of. nr. 906/2015)",
+   "title": "AL CINCILEA PROTOCOL ADIŢIONAL din 23 septembrie 2015 între Guvernul României şi Guvernul Republicii Moldova la Acordul între Guvernul României şi Guvernul Republicii Moldova privind implementarea programului de asistenţă tehnică şi financiară în baza unui ajutor financiar nerambursabil în valoare de 100 milioane de euro acordat de România Republicii Moldova, semnat la Bucureşti, la 27 aprilie 2010, astfel cum a fost modificat prin cele patru protocoale adiţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173646",
+   "versions": [
+    {
+     "from": "2015-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173646",
+     "sha256": "868e1d77c0af34f09d9041a2e6866e8f05ba061e6556cbbc00f0e64045ca1bab"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-09-24-acord",
+   "path": "tratat/2015/09-24-acord",
+   "short": "Acordul din 24 septembrie 2015 (M. Of. nr. 145/2016)",
+   "title": "Acordul din 24 septembrie 2015 între Guvernul României şi Guvernul Republicii Indonezia cu privire la eliminarea obligativităţii vizelor pentru titularii de paşapoarte diplomatice şi de serviciu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176112",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176112",
+     "sha256": "fd58d324a66af8d3ad49bedee274e5ff83abb37d7d0fc613da379bf1515336fc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-09-29-amendament",
+   "path": "tratat/2015/09-29-amendament",
+   "short": "Amendamentul din 29 septembrie 2015 (M. Of. nr. 259/2016)",
+   "title": "Amendamentul din 29 septembrie 2015 convenit prin schimbul de scrisori*) semnate la Bucureşti la 29 septembrie 2015 şi la Londra la 26 octombrie 2015 între Guvernul României şi Banca Europeană pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de construcţie a variantei de ocolire a municipiului Constanţa, semnat la Bucureşti la 7 decembrie 2005, ratificat prin Legea nr. 210/2006 , cu completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177272",
+   "versions": [
+    {
+     "from": "2016-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177272",
+     "sha256": "6bb137b3c065a30f000ea73162d8c44cda0cbfbb012c33e3df1cc1a572995f26"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-10-01-amendament",
+   "path": "tratat/2015/10-01-amendament",
+   "short": "Amendamentul din 1 octombrie 2015 (M. Of. nr. 49/2016)",
+   "title": "Amendamentul nr. 6 din 1 octombrie 2015 convenit între Guvernul României, prin Ministerul Finanţelor Publice, şi Banca Europeană de Investiţii, prin scrisoarea semnată la Luxemburg la 21 septembrie 2015 şi la Bucureşti la 1 octombrie 2015, la Contractul de finanţare dintre România şi Banca Europeană de Investiţii destinat finanţării proiectului privind reabilitarea sectorului sanitar, semnat la Bucureşti la 28 februarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175243",
+   "versions": [
+    {
+     "from": "2016-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175243",
+     "sha256": "35e5670264197d9eeff839cfdf4cfa8f8c3d8982ed1ef37c1ff3703eff24e5d5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-10-05-acord",
+   "path": "tratat/2015/10-05-acord",
+   "short": "Acordul din 5 octombrie 2015 (M. Of. nr. 612/2017)",
+   "title": "Acordul din 5 octombrie 2015 între Guvernul României şi Guvernul Statelor Unite Ale Americii privind intensificarea cooperării în prevenirea şi combaterea infracţiunilor grave",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191744",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191744",
+     "sha256": "3e25dd9f1a2425b6bdea3bdb7933d83885761d9bd53aa9956131e66b528c4aaf"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-10-07-acord",
+   "path": "tratat/2015/10-07-acord",
+   "short": "Acordul din 7 octombrie 2015 (M. Of. nr. 360/2016)",
+   "title": "Acordul din 7 octombrie 2015 privind asistenţa financiară rambursabilă între România şi Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178311",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178311",
+     "sha256": "fbbca08dd66a9440ad5ca1cfaa1050beb360af33cbe4c3e1f7d76c05addb1172"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-10-19-program",
+   "path": "tratat/2015/10-19-program",
+   "short": "Programul din 19 octombrie 2015 (M. Of. nr. 872/2015)",
+   "title": "Programul DE COOPERARE din 19 octombrie 2015 în domeniile educaţiei, culturii şi în alte domenii conexe între Guvernul României şi Guvernul Palestinei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173247",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173247",
+     "sha256": "6768264f1a69588af6d5e48eae9c48a214a867e5689cf66cb7b537a67a598544"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-10-21-acord",
+   "path": "tratat/2015/10-21-acord",
+   "short": "Acordul din 21 octombrie 2015 (M. Of. nr. 249/2016)",
+   "title": "Acordul din 21 octombrie 2015 privind cooperarea, în domeniul juridic, între Ministerul Justiţiei al României şi Ministerul Justiţiei al Statului Qatar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177155",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177155",
+     "sha256": "af60c0c8090c03e52e941262967a2b50f8abf54832464bb7384a08baf63afe65"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-11-02-acord",
+   "path": "tratat/2015/11-02-acord",
+   "short": "Acordul din 2 noiembrie 2015 (M. Of. nr. 13/2016)",
+   "title": "Acordul DE COLABORARE din 2 noiembrie 2015 între Ministerul Afacerilor Externe al României, prin Departamentul Consular, şi Organizaţia Internaţională pentru Migraţie (OIM)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174725",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174725",
+     "sha256": "93c20d3c93e10d5fe739c64d86b90fdd218ae2ba41e7223296defa8ab833f0ce"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-11-04-acord",
+   "path": "tratat/2015/11-04-acord",
+   "short": "Acordul din 4 noiembrie 2015 (M. Of. nr. 575/2016)",
+   "title": "Acordul din 4 noiembrie 2015 între Guvernul României şi Guvernul Insulei Man privind schimbul de informaţii în domeniul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180498",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180498",
+     "sha256": "41765569cd5404b0b7827e17cdcef00123d12415ec62d38dad0b27f8ea0c84f3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-11-04-protocol",
+   "path": "tratat/2015/11-04-protocol",
+   "short": "Protocolul din 4 noiembrie 2015 (M. Of. nr. 545/2017)",
+   "title": "Protocolul DE AMENDARE din 4 noiembrie 2015 a Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Bulgaria privind pregătirea personalului militar şi civil pe bază de reciprocitate, semnat la Sofia la 29 martie 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191154",
+   "versions": [
+    {
+     "from": "2017-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191154",
+     "sha256": "e23756941eb28ce04c88c23f0f4a1e2558159164df38226db9ed1313548beca2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-11-11-memorandum",
+   "path": "tratat/2015/11-11-memorandum",
+   "short": "Memorandumul din 11 noiembrie 2015 (M. Of. nr. 916/2015)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 11 noiembrie 2015 privind cooperarea şi schimbul de informaţii dintre Consiliul pentru Dezvoltarea şi Supravegherea Auditului din Republica Macedonia (CAOARM) şi Consiliul pentru Supravegherea în Interes Public a Profesiei Contabile din România (CSIPPC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173810",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173810",
+     "sha256": "25ca0efeb4b30008d9020c42d1e607c79b43f5b4cc59ebb7d8fd464e632933a9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-11-18-acord",
+   "path": "tratat/2015/11-18-acord",
+   "short": "Acordul din 18 noiembrie 2015 (M. Of. nr. 922/2016)",
+   "title": "Acordul din 18 noiembrie 2015 între România şi Regiunea Administrativă Specială Hong Kong a Republicii Populare Chineze pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183653",
+   "versions": [
+    {
+     "from": "2016-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183653",
+     "sha256": "99522751d9d0bbbafabc3740b9334f8b220994c32a87642b2884573502ad949e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-11-25-amendament",
+   "path": "tratat/2015/11-25-amendament",
+   "short": "Amendamentul din 25 noiembrie 2015 (M. Of. nr. 303/2016)",
+   "title": "Amendamentul din 25 noiembrie 2015 convenit între Guvernul României şi Banca Europeană de Investiţii prin scrisoarea semnată la Luxemburg la 12 noiembrie 2015 şi la Bucureşti la 25 noiembrie 2015 la Contractul de credit în cadrul Facilităţii de cofinanţare CSNR dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 24 noiembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177727",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177727",
+     "sha256": "f930020fac32e32dfa9a08fb72a8706f3a7e04034acad76437a769fdc6e87696"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-11-26-rezolutie",
+   "path": "tratat/2015/11-26-rezolutie",
+   "short": "Rezoluția din 26 noiembrie 2015 (M. Of. nr. 248/2018)",
+   "title": "Rezoluția ASP-CPI/14/Res.2 din 26 noiembrie 2015 adoptată la cea de-a 11-a şedinţă plenară, prin consens",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198860",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198860",
+     "sha256": "6bfb0e96f3d947ffbbdf534b0cebdb0fdae15dcdcc669a1fd263ffb41e309df8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-02-acord-2",
+   "path": "tratat/2015/12-02-acord-2",
+   "short": "Acordul din 2 decembrie 2015 (M. Of. nr. 435/2018)",
+   "title": "Acordul DE COLABORARE din 2 decembrie 2015 între Ministerul Culturii din România şi Ministerul Culturii din Republica Cuba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200965",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200965",
+     "sha256": "635bfa0c2d6a0a175ebe993b508e0c5542541a4cd689bc0832e86681b43d2900"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-02-acord",
+   "path": "tratat/2015/12-02-acord",
+   "short": "Acordul din 2 decembrie 2015 (M. Of. nr. 541/2016)",
+   "title": "Acordul din 2 decembrie 2015 suplimentar la Protocolul de la Paris între Guvernul României şi Comandamentul Suprem al Forţelor Aliate din Europa şi Comandamentul Suprem Aliat pentru Transformare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180205",
+   "versions": [
+    {
+     "from": "2016-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180205",
+     "sha256": "8f64518d3b7836560cdae1ab02184ab8e0a981f55b8b907a39b0526a5a81e5fc"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-07-acord-2",
+   "path": "tratat/2015/12-07-acord-2",
+   "short": "Acordul din 7 decembrie 2015 (M. Of. nr. 382/2016)",
+   "title": "Acordul din 7 decembrie 2015 privind cooperarea în domeniul apărării între Guvernul României şi Guvernul Republicii Algeriene Democratice şi Populare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178559",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178559",
+     "sha256": "12ec0d2ea370fa58a9e1528d388caf9bc0743f2434e6c8624ef256c2b73fa150"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-07-acord",
+   "path": "tratat/2015/12-07-acord",
+   "short": "Acordul din 7 decembrie 2015 (M. Of. nr. 246/2016)",
+   "title": "Acordul din 7 decembrie 2015 privind protecţia reciprocă a informaţiilor clasificate din domeniul apărării între Ministerul Apărării Naţionale din România şi Ministerul Apărării Naţionale din Republica Algeriană Democratică şi Populară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177125",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177125",
+     "sha256": "76c35b11314bf64134e0becd966e5bffdaa2fb6a79e6b887fa55bdc9d2fa7b36"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-12-acord",
+   "path": "tratat/2015/12-12-acord",
+   "short": "Acordul din 12 decembrie 2015 (M. Of. nr. 276/2017)",
+   "title": "ACORDUL DE LA PARIS din 12 decembrie 2015 încheiat la Paris la 12 decembrie 2015 şi semnat de România la New York la 22 aprilie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188443",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188443",
+     "sha256": "475af224db0f9fa5d2c537ef6ee85ee90286e4c437a4cb2e58853a2f50359b96"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-21-acord",
+   "path": "tratat/2015/12-21-acord",
+   "short": "Acordul din 21 decembrie 2015 (M. Of. nr. 464/2017)",
+   "title": "Acordul din 21 decembrie 2015 de parteneriat şi cooperare consolidat între uniunea Europeană şi statele sale membre, pe de o parte, şi Republica Kazahstan, pe de altă parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192478",
+   "versions": [
+    {
+     "from": "2017-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192478",
+     "sha256": "139e7ebe26c818e093d5aca779be398ee633e441aa2a2de7e564ce815390f1c1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-21-amendament",
+   "path": "tratat/2015/12-21-amendament",
+   "short": "Amendamentul din 21 decembrie 2015 (M. Of. nr. 564/2016)",
+   "title": "Amendamentul nr. 5 din 21 decembrie 2015 convenit între Guvernul României şi Banca Europeană de Investiţii, prin schimbul de scrisori*) semnate la Bucureşti la 21 decembrie 2015, la Luxemburg la 8 martie 2016 şi la Bucureşti la 15 martie 2016 la Contractul de finanţare dintre România şi Banca Europeană de Investiţii privind Proiectul de reconstrucţie a drumurilor afectate de inundaţii, semnat la Bucureşti la 22 decembrie 2005 şi la Luxemburg la 27 decembrie 2005, ratificat prin Legea nr. 218/2006 , cu completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180439",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180439",
+     "sha256": "0bc301b3b98962c8d6ff43b15998035fef13bb590fa02e9df813703e76d24da3"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-23-memorandum",
+   "path": "tratat/2015/12-23-memorandum",
+   "short": "Memorandumul din 23 decembrie 2015 (M. Of. nr. 207/2016)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 23 decembrie 2015 privind sprijinul pentru implementarea proiectelor între Guvernul României şi Banca Europeană de Investiţii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176743",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176743",
+     "sha256": "eb1b26c718a9fd0acc5e3031c487660d19cba14b4a971dcb61b5e5be29d83ec9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2015-12-29-acord",
+   "path": "tratat/2015/12-29-acord",
+   "short": "Acordul din 29 decembrie 2015 (M. Of. nr. 118/2016)",
+   "title": "Acordul din 29 decembrie 2015 suplimentar scris, sub forma schimbului de scrisori, semnat la Varşovia la data de 30 septembrie 2015 şi la Bucureşti la data de 29 decembrie 2015, pentru prelungirea valabilităţii Acordului-cadru pe linie de pregătire dintre Ministerul Administraţiei şi Internelor şi Agenţia Europeană pentru Gestionarea Cooperării Operative la Frontierele Externe ale Statelor Membre ale Uniunii Europene - Frontex, semnat la Bucureşti la 30 mai 2012 şi la Varşovia la 31 mai 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175881",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175881",
+     "sha256": "626565d9c83cb0ce2f3255dded9403b863fb576e02b96141b5ef13fdb5c2a50c"
+    }
+   ]
   }
  ]
 }

@@ -681,6 +681,36 @@
    ]
   },
   {
+   "slug": "hg-1-2002",
+   "path": "hg/2002/1",
+   "short": "HG nr. 1/2002",
+   "title": "Hotărârea Guvernului nr. 1/2002 privind dizolvarea Consiliului General al Municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33205",
+   "versions": [
+    {
+     "from": "2002-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33205",
+     "sha256": "dee4105d1f279723fc7ce56fc119aa41583f3255b07eef37eb6777fd362dea9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-10-2002",
+   "path": "hg/2002/10",
+   "short": "HG nr. 10/2002",
+   "title": "Hotărârea Guvernului nr. 10/2002 pentru aprobarea bugetului de venituri şi cheltuieli rectificativ pe anul 2001 al Regiei Autonome \"Monitorul Oficial\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33906",
+   "versions": [
+    {
+     "from": "2002-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33906",
+     "sha256": "657c1af08eb1e8f01f63c32def4de2a2f35f76ede7e365ba44efb1930dd398b4"
+    }
+   ]
+  },
+  {
    "slug": "hg-100-2002",
    "path": "hg/2002/100",
    "short": "HG nr. 100/2002",
@@ -857,6 +887,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38512",
      "sha256": "37d30fc760205b5cba0dff19fbb64ac80e41d9abe2ce095a561101bd50c5ad9c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-101-2002",
+   "path": "hg/2002/101",
+   "short": "HG nr. 101/2002",
+   "title": "Hotărârea Guvernului nr. 101/2002 privind instituirea burselor de cercetare şi formare postuniversitară şi postdoctorală \"Vasile Pârvan\" la Accademia di România din Roma şi \"Nicolae Iorga\" la Istituto Romeno di Cultura e Ricerca Umanistica din Veneţia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34018",
+   "versions": [
+    {
+     "from": "2002-02-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34018",
+     "sha256": "3b0c39d88379f1bad5ce04994cd018a1c02b082876ae870f1de5f2c1b00206d4"
     }
    ]
   },
@@ -1326,6 +1371,21 @@
    ]
   },
   {
+   "slug": "hg-104-2002",
+   "path": "hg/2002/104",
+   "short": "HG nr. 104/2002",
+   "title": "Hotărârea Guvernului nr. 104/2002 privind transmiterea unor centrale electrice de termoficare din domeniul privat al statului şi din patrimoniul Societăţii Comerciale \"Termoelectrica\" - S.A. în domeniul public al unor unităţi administrativ-teritoriale şi în administrarea consiliilor locale ale acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34039",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34039",
+     "sha256": "330a8c5b6bfa14cf3e6b113fe98f547fdb9e00f7fa29e9ca762dadc590700a9d"
+    }
+   ]
+  },
+  {
    "slug": "hg-1040-2002",
    "path": "hg/2002/1040",
    "short": "HG nr. 1040/2002",
@@ -1472,6 +1532,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38658",
      "sha256": "7dd0a3626bc7043f309c1422b1cb003e1eeb14a65f0ead469af9bff9e5ebd7e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-105-2002",
+   "path": "hg/2002/105",
+   "short": "HG nr. 105/2002",
+   "title": "Hotărârea Guvernului nr. 105/2002 privind transmiterea Centralei Electrice de Termoficare Arad din domeniul privat al statului şi din patrimoniul Societăţii Comerciale \"Termoelectrica\" - S.A. în domeniul public al municipiului Arad şi în administrarea Consiliului Local al Municipiului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34047",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34047",
+     "sha256": "4650125c2e096d2c6f3071be0301342fd7b376e5c3b2c273efcc729cf43808e4"
     }
    ]
   },
@@ -1727,6 +1802,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38755",
      "sha256": "68f3b9a7b5fc8536a70f4fda36359a2abdf904bf9afcadbc3f7341fb95c9ec95"
+    }
+   ]
+  },
+  {
+   "slug": "hg-107-2002",
+   "path": "hg/2002/107",
+   "short": "HG nr. 107/2002",
+   "title": "Hotărârea Guvernului nr. 107/2002 privind abilitarea Agenţiei Domeniilor Statului de a închiria imobile sau părţi din acestea, disponibile, aflate în administrarea sa şi în proprietatea publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34102",
+   "versions": [
+    {
+     "from": "2002-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34102",
+     "sha256": "a32d7386269117f97acf3925d328558c1eefc3d651b5e21906c7d5520d0b9d51"
     }
    ]
   },
@@ -2162,6 +2252,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39196",
      "sha256": "e77fd8ea743caf01c8b1817cbbce4a181c17c07839d29464386eb3153deff6c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-11-2002",
+   "path": "hg/2002/11",
+   "short": "HG nr. 11/2002",
+   "title": "Hotărârea Guvernului nr. 11/2002 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 ale Companiei Naţionale \"Romtehnica\" - S.A. şi Companiei Române de Aviaţie \"Romavia\" - R.A., aflate în coordonarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33406",
+   "versions": [
+    {
+     "from": "2002-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33406",
+     "sha256": "203150837322430274ff5ff251dcdf905830d06a636f32332bb391d0f9659312"
+    }
+   ]
+  },
+  {
+   "slug": "hg-110-2002",
+   "path": "hg/2002/110",
+   "short": "HG nr. 110/2002",
+   "title": "Hotărârea Guvernului nr. 110/2002 privind transmiterea pachetului majoritar de acţiuni al Societăţii Comerciale Transport Mixt \"Făgeţeana\" - S.A. Făget în proprietatea privată a oraşului Făget, judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34104",
+   "versions": [
+    {
+     "from": "2002-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34104",
+     "sha256": "da76c05346a0ae71292ca30b8124e6749c492c1977fb6f6a01447f1e8df86dc6"
     }
    ]
   },
@@ -2616,6 +2736,21 @@
    ]
   },
   {
+   "slug": "hg-113-2002",
+   "path": "hg/2002/113",
+   "short": "HG nr. 113/2002",
+   "title": "Hotărârea Guvernului nr. 113/2002 privind sistarea realizării unor obiective de investiţii, nepuse în funcţiune la filialele Companiei Naţionale \"Romarm\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34160",
+   "versions": [
+    {
+     "from": "2002-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34160",
+     "sha256": "c58f553d1cf17d2f6d36e1cb834e1bbdf5ae46564701e2665598935c56fe9820"
+    }
+   ]
+  },
+  {
    "slug": "hg-1130-2002",
    "path": "hg/2002/1130",
    "short": "HG nr. 1130/2002",
@@ -2906,6 +3041,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/156677",
      "sha256": "8be06e8f7525deaad803925ed1615a56757e6b83d47352cde480f21ea6a634b0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-115-2002",
+   "path": "hg/2002/115",
+   "short": "HG nr. 115/2002",
+   "title": "Hotărârea Guvernului nr. 115/2002 pentru aprobarea Regulamentului privind angajarea şi prestarea de servicii de către unităţile Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34233",
+   "versions": [
+    {
+     "from": "2002-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34233",
+     "sha256": "6fc78b6cc5d60d8921edeea3b707c3d6bc3666c4d96b044ed40af709754ccbe8"
     }
    ]
   },
@@ -3210,6 +3360,21 @@
    ]
   },
   {
+   "slug": "hg-117-2002",
+   "path": "hg/2002/117",
+   "short": "HG nr. 117/2002",
+   "title": "Hotărârea Guvernului nr. 117/2002 privind aprobarea Programului de participare a României la manifestări promoţionale internaţionale în anul 2002 cu finanţare de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34151",
+   "versions": [
+    {
+     "from": "2002-02-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34151",
+     "sha256": "471e6de4dc2b93b8b12ebbdbf09b0a94e16edffa945413f05c6bdd7822ad5239"
+    }
+   ]
+  },
+  {
    "slug": "hg-1171-2002",
    "path": "hg/2002/1171",
    "short": "HG nr. 1171/2002",
@@ -3341,6 +3506,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39667",
      "sha256": "4a080e440f202d5e4224c106407f535dbbcc60e049600ea9992f5b1faf4ab14d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-118-2002",
+   "path": "hg/2002/118",
+   "short": "HG nr. 118/2002",
+   "title": "Hotărârea Guvernului nr. 118/2002 privind aprobarea Programului de acţiune pentru reducerea poluării mediului acvatic şi a apelor subterane, cauzată de evacuarea unor substanţe periculoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34156",
+   "versions": [
+    {
+     "from": "2002-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34156",
+     "sha256": "ba52395ae6cacb55da90b0691912ff518abeb0fa2eb22f5c38dbf269c276f6d5"
     }
    ]
   },
@@ -3611,6 +3791,36 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39624",
      "sha256": "4cd8e0087fc76236a620b36f5f3cdd17cb1c2a03603e4c0b7aba78f816ae61f1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-12-2002",
+   "path": "hg/2002/12",
+   "short": "HG nr. 12/2002",
+   "title": "Hotărârea Guvernului nr. 12/2002 privind eliberarea domnului Gheorghe Pele din funcţia de prefect al judeţului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33922",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33922",
+     "sha256": "96c6c8c9b33718645786fd7418154232e73ce88568e0e5b792bb3449dfd1bd3e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-120-2002",
+   "path": "hg/2002/120",
+   "short": "HG nr. 120/2002",
+   "title": "Hotărârea Guvernului nr. 120/2002 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 2002 ale Companiei Naţionale \"Apele Române\" - S.A. şi Companiei Naţionale \"Institutul Naţional de Meteorologie, Hidrologie şi Gospodărire a Apelor\" - S.A., unităţi economice aflate sub autoritatea Ministerului Apelor şi Protecţiei Mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34089",
+   "versions": [
+    {
+     "from": "2002-02-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34089",
+     "sha256": "db4baafcf9b44a147a3f28f0f2619e781d5e5bd7288882b1f161e5084d45efe5"
     }
    ]
   },
@@ -4485,6 +4695,21 @@
    ]
   },
   {
+   "slug": "hg-126-2002",
+   "path": "hg/2002/126",
+   "short": "HG nr. 126/2002",
+   "title": "Hotărârea Guvernului nr. 126/2002 pentru stabilirea bazei materiale destinate activităţii de reprezentare şi protocol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34150",
+   "versions": [
+    {
+     "from": "2002-02-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34150",
+     "sha256": "d3b2e8e3543819a44861bac325b0fe1d29e7a71952b50bf1117d4509b1a213d3"
+    }
+   ]
+  },
+  {
    "slug": "hg-1260-2002",
    "path": "hg/2002/1260",
    "short": "HG nr. 1260/2002",
@@ -4905,6 +5130,21 @@
    ]
   },
   {
+   "slug": "hg-129-2002",
+   "path": "hg/2002/129",
+   "short": "HG nr. 129/2002",
+   "title": "Hotărârea Guvernului nr. 129/2002 privind transferul fără plata, de la Ministerul Apărării Naţionale la Ministerul de Interne, al unor bunuri necesare dotării detaşamentului de jandarmi participant la Misiunea O.N.U. din Kosovo (UNMIK)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34179",
+   "versions": [
+    {
+     "from": "2002-02-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34179",
+     "sha256": "96a513752cc9d6aab88510e4bbcaf80e72657efeb7c2d37739f5b14f0101732f"
+    }
+   ]
+  },
+  {
    "slug": "hg-1290-2002",
    "path": "hg/2002/1290",
    "short": "HG nr. 1290/2002",
@@ -5051,6 +5291,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40242",
      "sha256": "4bb386a54d0c5fcdf2c89f91c73fd4fc97ae1b093d5c789c756a067f5afff4e1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-13-2002",
+   "path": "hg/2002/13",
+   "short": "HG nr. 13/2002",
+   "title": "Hotărârea Guvernului nr. 13/2002 privind eliberarea domnului Aurel Tarau din funcţia de prefect al judeţului Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33923",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33923",
+     "sha256": "233d80c17dea4b18a00794d3534c4a91352875c313b19976634b368ed74ab724"
+    }
+   ]
+  },
+  {
+   "slug": "hg-130-2002",
+   "path": "hg/2002/130",
+   "short": "HG nr. 130/2002",
+   "title": "Hotărârea Guvernului nr. 130/2002 privind modificarea Hotărârii Guvernului nr. 445/2000 pentru organizarea şi funcţionarea unei unităţi de management de proiect pentru participarea României la Expoziţia Mondială EXPO - 2000 \"Om-Natura-Tehnologie\", Hanovra 2000, în cadrul Agenţiei Naţionale pentru Dezvoltare Regionala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34180",
+   "versions": [
+    {
+     "from": "2002-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34180",
+     "sha256": "4a8c2e1efe4f6a924a3c92b48b55dc65046cc64ca9afd87f9275d6a3512276e8"
     }
    ]
   },
@@ -5501,6 +5771,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40339",
      "sha256": "b24c80040cae8c927eb76220f0ff223baa5eec8172bc9225cfe9203e7d720836"
+    }
+   ]
+  },
+  {
+   "slug": "hg-133-2002",
+   "path": "hg/2002/133",
+   "short": "HG nr. 133/2002",
+   "title": "Hotărârea Guvernului nr. 133/2002 privind donarea unor bunuri aparţinând domeniului privat al statului pentru Garda Naţionala a Afganistanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34218",
+   "versions": [
+    {
+     "from": "2002-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34218",
+     "sha256": "946a7dd8f11ff1073e0ba44ca49b93b96158c42c85ea84f33e98062a5f05302e"
     }
    ]
   },
@@ -6060,6 +6345,21 @@
    ]
   },
   {
+   "slug": "hg-137-2002",
+   "path": "hg/2002/137",
+   "short": "HG nr. 137/2002",
+   "title": "Hotărârea Guvernului nr. 137/2002 privind transmiterea din administrarea Ministerului Culturii şi Cultelor în folosinţa gratuită a Mănăstirii Pasarea a lucrării de arta monumentala \"Gheorghe Anghel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34225",
+   "versions": [
+    {
+     "from": "2002-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34225",
+     "sha256": "cbd5db4623d0db15b8b1c096545421597d1b17f7cc6e18ee3844ece1968ee3f2"
+    }
+   ]
+  },
+  {
    "slug": "hg-1370-2002",
    "path": "hg/2002/1370",
    "short": "HG nr. 1370/2002",
@@ -6345,6 +6645,21 @@
    ]
   },
   {
+   "slug": "hg-139-2002",
+   "path": "hg/2002/139",
+   "short": "HG nr. 139/2002",
+   "title": "Hotărârea Guvernului nr. 139/2002 privind acordarea unui ajutor financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34229",
+   "versions": [
+    {
+     "from": "2002-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34229",
+     "sha256": "ac8afec0edb949ce70bd7c94b64640c86bcff8f36bcd936c1b6e6e5f8f6220bf"
+    }
+   ]
+  },
+  {
    "slug": "hg-1390-2002",
    "path": "hg/2002/1390",
    "short": "HG nr. 1390/2002",
@@ -6491,6 +6806,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40586",
      "sha256": "187765c9aa0678836c3f353bba898000a78ce941972d1fc7b01eb73d62657495"
+    }
+   ]
+  },
+  {
+   "slug": "hg-14-2002",
+   "path": "hg/2002/14",
+   "short": "HG nr. 14/2002",
+   "title": "Hotărârea Guvernului nr. 14/2002 privind eliberarea domnului Mihai Ion Florin Luican din funcţia de prefect al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33375",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33375",
+     "sha256": "60e336c9947a408b1786a464ded5a5bd27afae3acf426748ce921a564df1592b"
     }
    ]
   },
@@ -6645,6 +6975,21 @@
    ]
   },
   {
+   "slug": "hg-141-2002",
+   "path": "hg/2002/141",
+   "short": "HG nr. 141/2002",
+   "title": "Hotărârea Guvernului nr. 141/2002 privind acordarea cetăţeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34231",
+   "versions": [
+    {
+     "from": "2002-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34231",
+     "sha256": "937a5439454f07554bc054360be3a231fb66d691a9d7d9daccb32503c61800dc"
+    }
+   ]
+  },
+  {
    "slug": "hg-1410-2002",
    "path": "hg/2002/1410",
    "short": "HG nr. 1410/2002",
@@ -6791,6 +7136,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40715",
      "sha256": "754cdb36787d723a1112348cf2114d3de75edffaf9b8ee54f8bc94bc79bb8851"
+    }
+   ]
+  },
+  {
+   "slug": "hg-142-2002",
+   "path": "hg/2002/142",
+   "short": "HG nr. 142/2002",
+   "title": "Hotărârea Guvernului nr. 142/2002 privind alocarea sumei de 112,813 miliarde lei din Fondul la dispoziţia Guvernului României pentru relaţiile cu Republica Moldova pe anul 2002 pentru finanţarea unor proiecte de integrare economică şi culturală între România şi Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34235",
+   "versions": [
+    {
+     "from": "2002-02-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34235",
+     "sha256": "ad3b1ae42882d5558eca5cd9ab6e9c07fadc9d895219238b24ecf0a57f60f33f"
     }
    ]
   },
@@ -6945,6 +7305,21 @@
    ]
   },
   {
+   "slug": "hg-143-2002",
+   "path": "hg/2002/143",
+   "short": "HG nr. 143/2002",
+   "title": "Hotărârea Guvernului nr. 143/2002 pentru modificarea lit. d) a art. 1 din Hotărârea Guvernului nr. 756/2001 privind aprobarea garantării în proporţie de 100% a unor credite externe în valoare totală de maximum 400 milioane dolari S.U.A. în favoarea Societăţii Comerciale de Producere a Energiei Electrice şi Termice \"Termoelectrica\" - S.A. pentru plata achiziţiilor de combustibili necesari în vederea funcţionarii Sistemului energetic naţional, precum şi pentru garantarea acestor credite de Ministerul Finanţelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34227",
+   "versions": [
+    {
+     "from": "2002-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34227",
+     "sha256": "e51bb1ef34dc0a8b7293d0859ac4c90e75a10a7bdf2d1fc4cfac55c2e57a4488"
+    }
+   ]
+  },
+  {
    "slug": "hg-1430-2002",
    "path": "hg/2002/1430",
    "short": "HG nr. 1430/2002",
@@ -7076,6 +7451,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40859",
      "sha256": "a013586594c901aa46fce4e09b374cb43299129c4f7e78c99742c78dea915f03"
+    }
+   ]
+  },
+  {
+   "slug": "hg-144-2002",
+   "path": "hg/2002/144",
+   "short": "HG nr. 144/2002",
+   "title": "Hotărârea Guvernului nr. 144/2002 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", regie autonomă de interes naţional aflată sub autoritatea Secretariatului General al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34246",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34246",
+     "sha256": "72b2101140271095ba1879bbbc08fc0d1a01c7dc554729ccb0dc19806f9d73b5"
     }
    ]
   },
@@ -7395,6 +7785,21 @@
    ]
   },
   {
+   "slug": "hg-146-2002",
+   "path": "hg/2002/146",
+   "short": "HG nr. 146/2002",
+   "title": "Hotărârea Guvernului nr. 146/2002 pentru modificarea alin. (4) al art. 2 din Hotărârea Guvernului nr. 880/2001 privind înfiinţarea unor filiale ale Companiei Naţionale de Cai Ferate \"C.F.R.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34247",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34247",
+     "sha256": "16879b3ae40ca181bcb1bbdb1acf21cf56d89e9489d221a24719604f947f0fef"
+    }
+   ]
+  },
+  {
    "slug": "hg-1460-2002",
    "path": "hg/2002/1460",
    "short": "HG nr. 1460/2002",
@@ -7541,6 +7946,21 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40954",
      "sha256": "649270060ce6a904e927dbbc32e7ebbb189fce23b904c01afd91464430e2bb86"
+    }
+   ]
+  },
+  {
+   "slug": "hg-147-2002",
+   "path": "hg/2002/147",
+   "short": "HG nr. 147/2002",
+   "title": "Hotărârea Guvernului nr. 147/2002 pentru modificarea alin. (4) al art. 2 din Hotărârea Guvernului nr. 887/2001 privind înfiinţarea unor filiale ale Companiei Naţionale de Cai Ferate \"C.F.R.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34248",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34248",
+     "sha256": "f4c0e0ecebf2891aeb1f0dbf983d62111c09a91d624de1eea7fede22fd61e05c"
     }
    ]
   },
@@ -7695,6 +8115,21 @@
    ]
   },
   {
+   "slug": "hg-148-2002",
+   "path": "hg/2002/148",
+   "short": "HG nr. 148/2002",
+   "title": "Hotărârea Guvernului nr. 148/2002 privind acordarea unor ajutoare financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34257",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34257",
+     "sha256": "e2894de2bd42f0c9ae52f5af0ea6e30cdd9eeeb42bd47408fc7882d9d57a0134"
+    }
+   ]
+  },
+  {
    "slug": "hg-1480-2002",
    "path": "hg/2002/1480",
    "short": "HG nr. 1480/2002",
@@ -7811,6 +8246,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40987",
      "sha256": "ad157be78f7377e54bde9b466eea7c728912c5ff2b47cfd273449c296603862b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-2002",
+   "path": "hg/2002/149",
+   "short": "HG nr. 149/2002",
+   "title": "Hotărârea Guvernului nr. 149/2002 privind stabilirea şi ajustarea tarifelor pentru furnizarea serviciilor publice de alimentare cu apa şi de canalizare în municipiul Ploieşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34258",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34258",
+     "sha256": "69289a827eca72188bd039451eeaee847c8c663fca9e5c1399b47890d763db3b"
     }
    ]
   },
@@ -7961,6 +8411,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41033",
      "sha256": "cd7125ec73bde269ba202e4dc0ae6dc58492211c6503247f8cf75e04617b3825"
+    }
+   ]
+  },
+  {
+   "slug": "hg-15-2002",
+   "path": "hg/2002/15",
+   "short": "HG nr. 15/2002",
+   "title": "Hotărârea Guvernului nr. 15/2002 privind numirea domnului Gabriel Oprea în funcţia de prefect al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33376",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33376",
+     "sha256": "edd8e36c2e5dea47097fcc1287e87a444661198c9591c4400ca896f5f9e4fef7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-150-2002",
+   "path": "hg/2002/150",
+   "short": "HG nr. 150/2002",
+   "title": "Hotărârea Guvernului nr. 150/2002 privind organizarea în România a celei de-a 5-a Reuniuni a Comitetului de Coordonare a procesului Reuniunii Miniştrilor Apărării din Sud-Estul Europei (SEDM-CC) şi a celei de-a 7-a Reuniuni a Comitetului Director Politico-Militar (PMSC) al Forţei Multinaţionale de Pace din Sud-Estul Europei (MPFSEE)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34249",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34249",
+     "sha256": "01ee4f935b273cb325046243b5ffd77c427d9000ed4a028a598468ee39d1d679"
     }
    ]
   },
@@ -8166,6 +8646,21 @@
    ]
   },
   {
+   "slug": "hg-152-2002",
+   "path": "hg/2002/152",
+   "short": "HG nr. 152/2002",
+   "title": "Hotărârea Guvernului nr. 152/2002 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Regiei Autonome \"Rasirom\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34287",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34287",
+     "sha256": "7e04eede810bc1aa1ee02d49aaa101b3a82a54f8389317711d2d659cd104a3a5"
+    }
+   ]
+  },
+  {
    "slug": "hg-1520-2002",
    "path": "hg/2002/1520",
    "short": "HG nr. 1520/2002",
@@ -8312,6 +8807,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40991",
      "sha256": "f51a847690d134d49c12d08304543c881ba551240520361d3e923b20934ba1e2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-153-2002",
+   "path": "hg/2002/153",
+   "short": "HG nr. 153/2002",
+   "title": "Hotărârea Guvernului nr. 153/2002 pentru aprobarea concesionarii valorificării resurselor stuficole din zonele domeniului public de interes naţional aflate în perimetrul Rezervaţiei Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34288",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34288",
+     "sha256": "107da5c27fd3ba2a988ce1366459b108740220d5935610c6a217146c831b4c49"
     }
    ]
   },
@@ -8766,6 +9276,21 @@
    ]
   },
   {
+   "slug": "hg-156-2002",
+   "path": "hg/2002/156",
+   "short": "HG nr. 156/2002",
+   "title": "Hotărârea Guvernului nr. 156/2002 pentru aprobarea amendamentului convenit între Guvernul României, prin Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, prin schimb de scrisori semnate la Bucureşti la 21 noiembrie 2001 şi la Washington la 21 decembrie 2001, la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare în valoare de 175,6 milioane dolari, destinat finanţării proiectului de reabilitare a sectorului petrolier, semnat la Washington la 1 iunie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34298",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34298",
+     "sha256": "071edce2687c4c4d359a70c33323fd4d8af1adbe3983a8cfbee26ccf60ff588e"
+    }
+   ]
+  },
+  {
    "slug": "hg-1560-2002",
    "path": "hg/2002/1560",
    "short": "HG nr. 1560/2002",
@@ -9017,6 +9542,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41367",
      "sha256": "b25d877aece85bca90e6ec401059e351e7607d4092c961f8708f91f2e5df881a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-158-2002",
+   "path": "hg/2002/158",
+   "short": "HG nr. 158/2002",
+   "title": "Hotărârea Guvernului nr. 158/2002 privind organizarea la Bucureşti, în perioada 25-26 martie 2002, a Summitului prim-ministrilor din statele membre ale Grupului Vilnius (V-10)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34254",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34254",
+     "sha256": "9027f654a86dcd8a74a3eed9806efb75639d3047606ae7e44f303eda97713d43"
     }
    ]
   },
@@ -9312,6 +9852,21 @@
    ]
   },
   {
+   "slug": "hg-16-2002",
+   "path": "hg/2002/16",
+   "short": "HG nr. 16/2002",
+   "title": "Hotărârea Guvernului nr. 16/2002 privind eliberarea domnului Viorel Popescu din funcţia de prefect al judeţului Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33924",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33924",
+     "sha256": "a6177a8f18702c3da734fd3c8b4b9cca441ced9f8207cdeab6e5a764ff3629e0"
+    }
+   ]
+  },
+  {
    "slug": "hg-160-2002",
    "path": "hg/2002/160",
    "short": "HG nr. 160/2002",
@@ -9338,6 +9893,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41510",
      "sha256": "6f7bf7227664925e0f46e9c1c3267006d519cf060327aae4ff421201319a7af1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-161-2002",
+   "path": "hg/2002/161",
+   "short": "HG nr. 161/2002",
+   "title": "Hotărârea Guvernului nr. 161/2002 privind organizarea şi funcţionarea Ministerului Dezvoltării şi Prognozei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34380",
+   "versions": [
+    {
+     "from": "2002-03-05",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34380",
+     "sha256": "facb6ca474b77700830c0a356e845178c1edf30cc7e8d1678a20370813715ca5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-162-2002",
+   "path": "hg/2002/162",
+   "short": "HG nr. 162/2002",
+   "title": "Hotărârea Guvernului nr. 162/2002 privind depozitarea deşeurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34408",
+   "versions": [
+    {
+     "from": "2002-04-06",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34408",
+     "sha256": "50f13c717e913e0431842b35ebe37fe940da18a0b2329b7a7778866093e72d10"
     }
    ]
   },
@@ -9387,6 +9972,21 @@
    ]
   },
   {
+   "slug": "hg-166-2002",
+   "path": "hg/2002/166",
+   "short": "HG nr. 166/2002",
+   "title": "Hotărârea Guvernului nr. 166/2002 privind transmiterea unui imobil în proprietatea publică a comunei Truşeşti, judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34402",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34402",
+     "sha256": "982c7972aa7f5a5a113ee07f3fa3af0d3adc551da2d677c05815357246a3dc19"
+    }
+   ]
+  },
+  {
    "slug": "hg-167-2002",
    "path": "hg/2002/167",
    "short": "HG nr. 167/2002",
@@ -9432,6 +10032,21 @@
    ]
   },
   {
+   "slug": "hg-17-2002",
+   "path": "hg/2002/17",
+   "short": "HG nr. 17/2002",
+   "title": "Hotărârea Guvernului nr. 17/2002 privind eliberarea domnului Petre Chirobocea din funcţia de prefect al judeţului Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33925",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33925",
+     "sha256": "a348f43ee5e42d69276e0cb9782f5a77fc0534370167e253175b71e90a9b3675"
+    }
+   ]
+  },
+  {
    "slug": "hg-170-2002",
    "path": "hg/2002/170",
    "short": "HG nr. 170/2002",
@@ -9443,6 +10058,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34400",
      "sha256": "06c46a06864b456324a9f33c565e43b538f7d3bbbae5fe368827440be6024c0a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-171-2002",
+   "path": "hg/2002/171",
+   "short": "HG nr. 171/2002",
+   "title": "Hotărârea Guvernului nr. 171/2002 pentru aprobarea detalierii listei-sinteza pe amplasamente şi obiective de investiţii din cadrul Programului de construcţii de locuinţe pentru tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34430",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34430",
+     "sha256": "b26c1883c788dae8b5915d3324a95864cb3b65529cef4d22d90cccb4cb798846"
     }
    ]
   },
@@ -9528,6 +10158,36 @@
    ]
   },
   {
+   "slug": "hg-177-2002",
+   "path": "hg/2002/177",
+   "short": "HG nr. 177/2002",
+   "title": "Hotărârea Guvernului nr. 177/2002 pentru aprobarea detalierii listei-sinteza pe amplasamente şi obiective de investiţii din cadrul Programului de construcţie de sali de sport în anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34378",
+   "versions": [
+    {
+     "from": "2002-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34378",
+     "sha256": "ff3f4c414d44547f8f973396b50a65fc7824ba224434c2c0c664a7d063fc2afb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-178-2002",
+   "path": "hg/2002/178",
+   "short": "HG nr. 178/2002",
+   "title": "Hotărârea Guvernului nr. 178/2002 pentru modificarea Hotărârii Guvernului nr. 7/1999 privind înfiinţarea unor filiale ale Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34370",
+   "versions": [
+    {
+     "from": "2002-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34370",
+     "sha256": "a1adc6d63f73a337eeeea19e87b202857f5fe8e790c8d910f1479d8bfa11282c"
+    }
+   ]
+  },
+  {
    "slug": "hg-179-2002",
    "path": "hg/2002/179",
    "short": "HG nr. 179/2002",
@@ -9539,6 +10199,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34396",
      "sha256": "91adffaa320752343ad762ac8d849ee7e8171f3787123058eccf4dacd0505bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-18-2002",
+   "path": "hg/2002/18",
+   "short": "HG nr. 18/2002",
+   "title": "Hotărârea Guvernului nr. 18/2002 pentru aprobarea Acordului pentru un Program de cooperare şi asistenţa bilaterala între Guvernul Republicii Elene şi Guvernul României, semnat la Atena la 21 decembrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33435",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33435",
+     "sha256": "d0f35508d647b5e68d4ce232c5fe75aba075bf84a40768cf31ce447fd26c9c0e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-180-2002",
+   "path": "hg/2002/180",
+   "short": "HG nr. 180/2002",
+   "title": "Hotărârea Guvernului nr. 180/2002 privind înfiinţarea Inspectoratului General pentru Comunicaţii şi Tehnologia Informaţiei prin reorganizarea Regiei Autonome \"Inspectoratul General al Comunicaţiilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34350",
+   "versions": [
+    {
+     "from": "2002-03-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34350",
+     "sha256": "7c4eb1a7e10e5e11851fcd70b67343bdc38ec296d6642ae0b0c86d3003614680"
     }
    ]
   },
@@ -9573,6 +10263,21 @@
    ]
   },
   {
+   "slug": "hg-184-2002",
+   "path": "hg/2002/184",
+   "short": "HG nr. 184/2002",
+   "title": "Hotărârea Guvernului nr. 184/2002 privind transferul pachetului integral de acţiuni al Societăţii Comerciale \"Uzina Termica Vaslui\" - S.A. în proprietatea privată a municipiului Vaslui, judeţul Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34435",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34435",
+     "sha256": "62935b731c114b3268197adc492234e4184a9e66246a0d70e2c9e8d85a1db120"
+    }
+   ]
+  },
+  {
    "slug": "hg-185-2002",
    "path": "hg/2002/185",
    "short": "HG nr. 185/2002",
@@ -9603,6 +10308,21 @@
    ]
   },
   {
+   "slug": "hg-187-2002",
+   "path": "hg/2002/187",
+   "short": "HG nr. 187/2002",
+   "title": "Hotărârea Guvernului nr. 187/2002 privind transferul pachetului integral de acţiuni al Societăţii Comerciale \"Uzina Termoelectrica Giurgiu\" - S.A. în proprietatea privată a municipiului Giurgiu, judeţul Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34438",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34438",
+     "sha256": "288a3c2fe0fc950070974b778452071e60b2afcd920cced5eb65e50c7f124e43"
+    }
+   ]
+  },
+  {
    "slug": "hg-188-2002",
    "path": "hg/2002/188",
    "short": "HG nr. 188/2002",
@@ -9626,6 +10346,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98308",
      "sha256": "d108f67895e6acbceb901da41f37763639bb008a8b08548b8af8f6c453e397e5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-189-2002",
+   "path": "hg/2002/189",
+   "short": "HG nr. 189/2002",
+   "title": "Hotărârea Guvernului nr. 189/2002 privind stabilirea procedurii de acordare a etichetei ecologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34413",
+   "versions": [
+    {
+     "from": "2002-09-08",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34413",
+     "sha256": "ceda7ee6d15f31b70232e0dca88e321ea1998da28e1808ef8559c92c5e0a04cc"
     }
    ]
   },
@@ -9660,6 +10395,81 @@
    ]
   },
   {
+   "slug": "hg-191-2002",
+   "path": "hg/2002/191",
+   "short": "HG nr. 191/2002",
+   "title": "Hotărârea Guvernului nr. 191/2002 privind dezafectarea unor capacităţi de mobilizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34461",
+   "versions": [
+    {
+     "from": "2002-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34461",
+     "sha256": "87c8d4ef8b1a18b6e3d17f5382876408e4160dd458fcf10901c9aae27dff6016"
+    }
+   ]
+  },
+  {
+   "slug": "hg-193-2002",
+   "path": "hg/2002/193",
+   "short": "HG nr. 193/2002",
+   "title": "Hotărârea Guvernului nr. 193/2002 privind organizarea şi funcţionarea Biroului Român de Metrologie Legală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34469",
+   "versions": [
+    {
+     "from": "2002-03-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34469",
+     "sha256": "16878c7183c0a367ab81e9eb7cf4c21a18d2e503ecd246c3c913afb933a806d9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-194-2002",
+   "path": "hg/2002/194",
+   "short": "HG nr. 194/2002",
+   "title": "Hotărârea Guvernului nr. 194/2002 pentru completarea art. 3 alin. (1) din Hotărârea Guvernului nr. 943/2001 privind înfiinţarea Grupului Interministerial Român pentru Managementul Integrat al Frontierei de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34424",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34424",
+     "sha256": "7c38e711fe5303a891bba26666ef609c8d9f606d4366ca8a601b82a507bc1fff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-195-2002",
+   "path": "hg/2002/195",
+   "short": "HG nr. 195/2002",
+   "title": "Hotărârea Guvernului nr. 195/2002 privind indexarea pensiilor din sistemul public de pensii, a pensiilor militare de stat şi a unor venituri ale populaţiei începând cu luna martie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34428",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34428",
+     "sha256": "587add3dee8576d3a4ca916f822dd48d76893f77e8a6cbf5106657fa814265f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-196-2002",
+   "path": "hg/2002/196",
+   "short": "HG nr. 196/2002",
+   "title": "Hotărârea Guvernului nr. 196/2002 privind acordarea unor ajutoare financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34488",
+   "versions": [
+    {
+     "from": "2002-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34488",
+     "sha256": "ac9c945fdc1e6d9ec5772def8f77a6831ce5d45c711b851740aa21f57ba7e318"
+    }
+   ]
+  },
+  {
    "slug": "hg-197-2002",
    "path": "hg/2002/197",
    "short": "HG nr. 197/2002",
@@ -9671,6 +10481,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34482",
      "sha256": "d874570018e53521fea98ccc9fae7f22bd0ea95df8995a1460ca5200e42a6284"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2-2002",
+   "path": "hg/2002/2",
+   "short": "HG nr. 2/2002",
+   "title": "Hotărârea Guvernului nr. 2/2002 privind prelungirea termenului de valabilitate a ofertei formulate de Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului pentru vânzarea acţiunilor deţinute la Societatea Comercială \"Şantierul Naval\" - S.A. Constanţa, inclusă în Programul pentru Ajustarea Sectorului Privat (PSAL)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33256",
+   "versions": [
+    {
+     "from": "2002-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33256",
+     "sha256": "01ed2671e57cd04e645b70380e9598ed4bdf8256d9dec7251f6d285d02c124c8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-2002",
+   "path": "hg/2002/20",
+   "short": "HG nr. 20/2002",
+   "title": "Hotărârea Guvernului nr. 20/2002 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Regiei Autonome \"Multiproduct\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33408",
+   "versions": [
+    {
+     "from": "2002-01-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33408",
+     "sha256": "7687ca40c2d654a26d7406afdac01c562654ed7e1895402719a4ebebad5d9e50"
+    }
+   ]
+  },
+  {
+   "slug": "hg-200-2002",
+   "path": "hg/2002/200",
+   "short": "HG nr. 200/2002",
+   "title": "Hotărârea Guvernului nr. 200/2002 privind trecerea unor construcţii aflate în administrarea Ministerului de Interne din domeniul public al statului în domeniul privat al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34607",
+   "versions": [
+    {
+     "from": "2002-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34607",
+     "sha256": "f3c8fca92cd1992e17c4c8481989b111d476ad3361f1ffee892d73a2d0c2b86c"
     }
    ]
   },
@@ -9747,6 +10602,21 @@
    ]
   },
   {
+   "slug": "hg-205-2002",
+   "path": "hg/2002/205",
+   "short": "HG nr. 205/2002",
+   "title": "Hotărârea Guvernului nr. 205/2002 privind transmiterea unui teren, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Justiţiei pentru Direcţia Generală a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34610",
+   "versions": [
+    {
+     "from": "2002-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34610",
+     "sha256": "079743fdec3bce813d870e1f296a87bf6f602fa1358af44ead236bcfcce91baf"
+    }
+   ]
+  },
+  {
    "slug": "hg-206-2002",
    "path": "hg/2002/206",
    "short": "HG nr. 206/2002",
@@ -9777,6 +10647,21 @@
    ]
   },
   {
+   "slug": "hg-208-2002",
+   "path": "hg/2002/208",
+   "short": "HG nr. 208/2002",
+   "title": "Hotărârea Guvernului nr. 208/2002 privind finanţarea restantelor aferente aplicării prevederilor Hotărârii Guvernului nr. 297/2001 pentru stabilirea nivelului reducerii preţului de cumpărare al seminţelor certificate din producţia internă, provenite de la agenţi economici autorizaţi, folosite la însămânţări în campania agricolă din primăvara anului 2001, şi pentru aprobarea Normelor metodologice privind acordarea, utilizarea şi controlul utilizării sumelor reprezentând reducerea preţului de cumpărare al seminţelor certificate folosite în campania agricolă din primăvara anului 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34478",
+   "versions": [
+    {
+     "from": "2002-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34478",
+     "sha256": "9d7926259d1bf4fb488bb8d2b3c9b3aad0bd0e9e5711bd30842437f5923b61e6"
+    }
+   ]
+  },
+  {
    "slug": "hg-209-2002",
    "path": "hg/2002/209",
    "short": "HG nr. 209/2002",
@@ -9792,6 +10677,36 @@
    ]
   },
   {
+   "slug": "hg-21-2002",
+   "path": "hg/2002/21",
+   "short": "HG nr. 21/2002",
+   "title": "Hotărârea Guvernului nr. 21/2002 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Regiei Autonome \"Rami-Dacia\" din subordinea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33409",
+   "versions": [
+    {
+     "from": "2002-01-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33409",
+     "sha256": "08404b1c48d5c2c825f5ee498bf806e4d47171d40416e90ad0cc39ac2b55eeff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-210-2002",
+   "path": "hg/2002/210",
+   "short": "HG nr. 210/2002",
+   "title": "Hotărârea Guvernului nr. 210/2002 privind sprijinul direct al statului prin acordarea de subvenţii în anul 2002 producătorilor agricoli din sectorul vegetal, în scopul creşterii producţiei şi indicilor de calitate a produselor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34431",
+   "versions": [
+    {
+     "from": "2002-03-11",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34431",
+     "sha256": "2a75ebbc4179f08a587ec292e78bdb9c2929681b6e5389e72bced475b6e37708"
+    }
+   ]
+  },
+  {
    "slug": "hg-211-2002",
    "path": "hg/2002/211",
    "short": "HG nr. 211/2002",
@@ -9803,6 +10718,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34491",
      "sha256": "dc196d475878cb382eb05379de7efa8d1fddf870c8ecaac0be67964c7f3be00d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-212-2002",
+   "path": "hg/2002/212",
+   "short": "HG nr. 212/2002",
+   "title": "Hotărârea Guvernului nr. 212/2002 privind modificarea în structura a sumelor alocate din credite externe Ministerului Educaţiei şi Cercetării pe anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34567",
+   "versions": [
+    {
+     "from": "2002-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34567",
+     "sha256": "cdea23bf7d84518fcf30e11ae60b479ff923901e98456940650490e8fa7f4aac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-213-2002",
+   "path": "hg/2002/213",
+   "short": "HG nr. 213/2002",
+   "title": "Hotărârea Guvernului nr. 213/2002 privind aprobarea Strategiei de restructurare a industriei siderurgice din România pentru perioada 2002-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34784",
+   "versions": [
+    {
+     "from": "2002-03-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34784",
+     "sha256": "bc7fc47f0f4b7c57cb25f8c9b30ca4becd73157be0ad8ba09b7e7908171db10b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-214-2002",
+   "path": "hg/2002/214",
+   "short": "HG nr. 214/2002",
+   "title": "Hotărârea Guvernului nr. 214/2002 privind transmiterea unui teren proprietate publică a statului din administrarea Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei în administrarea Ministerului Sănătăţii şi Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34568",
+   "versions": [
+    {
+     "from": "2002-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34568",
+     "sha256": "1c64b5600949eb264f9e05eedffc53d1a9fe453f44bf155a8271297f1a9bbf55"
     }
    ]
   },
@@ -9867,6 +10827,36 @@
    ]
   },
   {
+   "slug": "hg-219-2002",
+   "path": "hg/2002/219",
+   "short": "HG nr. 219/2002",
+   "title": "Hotărârea Guvernului nr. 219/2002 privind eşalonarea la plata a taxei pe activitatea de exploatare a resurselor minerale, datorată de Societatea Naţionala a Petrolului \"Petrom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34495",
+   "versions": [
+    {
+     "from": "2002-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34495",
+     "sha256": "40fbd49b3ae316692ad906557ef1e4b200a179d51852b74e60007956d787ae87"
+    }
+   ]
+  },
+  {
+   "slug": "hg-22-2002",
+   "path": "hg/2002/22",
+   "short": "HG nr. 22/2002",
+   "title": "Hotărârea Guvernului nr. 22/2002 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Regiei Autonome \"Editura Didactica şi Pedagogica\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33477",
+   "versions": [
+    {
+     "from": "2002-01-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33477",
+     "sha256": "672ed386135c5d8a608c4fc90f222fbe91504061c60c16cd3c11a1f5a7567b53"
+    }
+   ]
+  },
+  {
    "slug": "hg-220-2002",
    "path": "hg/2002/220",
    "short": "HG nr. 220/2002",
@@ -9912,6 +10902,21 @@
    ]
   },
   {
+   "slug": "hg-223-2002",
+   "path": "hg/2002/223",
+   "short": "HG nr. 223/2002",
+   "title": "Hotărârea Guvernului nr. 223/2002 privind modificarea şi completarea Hotărârii Guvernului nr. 1.157/2001 pentru aprobarea Normelor privind arborarea drapelului României, intonarea imnului naţional şi folosirea sigiliilor cu stema României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34502",
+   "versions": [
+    {
+     "from": "2002-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34502",
+     "sha256": "b3bcb0cfd5a6971e13fe6f4717eed0e203913a92feb8341b3d82c5443c3d28aa"
+    }
+   ]
+  },
+  {
    "slug": "hg-224-2002",
    "path": "hg/2002/224",
    "short": "HG nr. 224/2002",
@@ -9927,6 +10932,27 @@
    ]
   },
   {
+   "slug": "hg-225-2002",
+   "path": "hg/2002/225",
+   "short": "HG nr. 225/2002",
+   "title": "Hotărârea Guvernului nr. 225/2002 privind stabilirea condiţiilor de introducere pe piaţa a ascensoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34842",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34842",
+     "sha256": "8974e26a90b018838e996acad728dd2607ac487a06ffbc20508c57d122afbb04"
+    },
+    {
+     "from": "2003-06-12",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/43658",
+     "sha256": "e13f8552b6e7c8638f22866d459ba2db66b9ac7a2e45cbf4e8f3ab84f0301999"
+    }
+   ]
+  },
+  {
    "slug": "hg-226-2002",
    "path": "hg/2002/226",
    "short": "HG nr. 226/2002",
@@ -9938,6 +10964,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34492",
      "sha256": "aab4350461d82f257c1ddc95340a7d257e6992176efdd972179c7d2dd58b04ef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-227-2002",
+   "path": "hg/2002/227",
+   "short": "HG nr. 227/2002",
+   "title": "Hotărârea Guvernului nr. 227/2002 pentru acceptarea Deciziei nr. 1/2001 a Comitetului mixt România-A.E.L.S. privind modificarea Protocolului B la Acordul dintre România şi statele Asociaţiei Europene a Liberului Schimb (A.E.L.S.), semnat la Geneva la 10 decembrie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35486",
+   "versions": [
+    {
+     "from": "2002-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35486",
+     "sha256": "24a9bfa499166693e82beecd7a31a75bda42df52bec7ceaab458f7625c8a91a8"
     }
    ]
   },
@@ -10017,6 +11058,36 @@
    ]
   },
   {
+   "slug": "hg-232-2002",
+   "path": "hg/2002/232",
+   "short": "HG nr. 232/2002",
+   "title": "Hotărârea Guvernului nr. 232/2002 pentru aprobarea achiziţiei unei lucrări de arta şi donarea acesteia către Palatul Naţiunilor din Geneva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34504",
+   "versions": [
+    {
+     "from": "2002-03-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34504",
+     "sha256": "f958ccdaa3288abcf8e9ca3613ceb11acae3fe28a8f43c55242662fb6472e584"
+    }
+   ]
+  },
+  {
+   "slug": "hg-233-2002",
+   "path": "hg/2002/233",
+   "short": "HG nr. 233/2002",
+   "title": "Hotărârea Guvernului nr. 233/2002 privind prelungirea termenului de valabilitate a ofertei formulate de Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului pentru vânzarea acţiunilor deţinute la Societatea Comercială \"Şantierul Naval\" - S.A. Constanţa, inclusă în Programul pentru Ajustarea Sectorului Privat (PSAL)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34505",
+   "versions": [
+    {
+     "from": "2002-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34505",
+     "sha256": "1c530bdca542b099d06db862f621c49bd23e03b19f3fc577e1bb2b09ff224955"
+    }
+   ]
+  },
+  {
    "slug": "hg-234-2002",
    "path": "hg/2002/234",
    "short": "HG nr. 234/2002",
@@ -10043,6 +11114,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34628",
      "sha256": "e0305f2e97d2da6fd74d9e07a9f0e747d1d49161b454f603e0d135d5c4040c21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-236-2002",
+   "path": "hg/2002/236",
+   "short": "HG nr. 236/2002",
+   "title": "Hotărârea Guvernului nr. 236/2002 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului, prevăzut în bugetul de stat pe anul 2002, consiliilor locale Reşita, Brebu Nou, Luncaviţa, Tarnova şi Văliug, judeţul Caraş-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34629",
+   "versions": [
+    {
+     "from": "2002-03-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34629",
+     "sha256": "012f233bc302461d53a6fe1d01d9ad87f6c5fa7f0e8d71b8b0dcc9f8ba9e36d4"
     }
    ]
   },
@@ -10077,6 +11163,21 @@
    ]
   },
   {
+   "slug": "hg-239-2002",
+   "path": "hg/2002/239",
+   "short": "HG nr. 239/2002",
+   "title": "Hotărârea Guvernului nr. 239/2002 privind prelungirea concesionarii imobilului din Palace Green nr. 4 din Londra pentru utilizarea ca sediu al Ambasadei României la Londra",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34708",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34708",
+     "sha256": "f5b11b0e500ae80f3a55dab5c8edfb598a798d3f3521a74d403343faff7be552"
+    }
+   ]
+  },
+  {
    "slug": "hg-240-2002",
    "path": "hg/2002/240",
    "short": "HG nr. 240/2002",
@@ -10092,6 +11193,66 @@
    ]
   },
   {
+   "slug": "hg-241-2002",
+   "path": "hg/2002/241",
+   "short": "HG nr. 241/2002",
+   "title": "Hotărârea Guvernului nr. 241/2002 pentru trecerea din domeniul public al statului în domeniul privat al statului a turnului metalic pentru antena care compune radarul meteorologic de la Bârnova, judeţul Iaşi, aflat în administrarea Companiei Naţionale \"Institutul Naţional de Meteorologie, Hidrologie şi Gospodărire a Apelor\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34723",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34723",
+     "sha256": "e608d63f40d89419dbe1c9f7e295a97f46b85a2e5e2b7710e7007aba062e182f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-242-2002",
+   "path": "hg/2002/242",
+   "short": "HG nr. 242/2002",
+   "title": "Hotărârea Guvernului nr. 242/2002 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Consiliului Local al Comunei Bechet în administrarea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34673",
+   "versions": [
+    {
+     "from": "2002-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34673",
+     "sha256": "ef45b03f683f08632a35d6e08cda7dd4ef9e309fa78390e18d5fa1dfc3d0cce4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-243-2002",
+   "path": "hg/2002/243",
+   "short": "HG nr. 243/2002",
+   "title": "Hotărârea Guvernului nr. 243/2002 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Ministerului de Interne - Inspectoratul de Poliţie al Judeţului Bistriţa-Năsăud în administrarea Ministerului Justiţiei - Direcţia Generală a Penitenciarelor - Penitenciarul Bistriţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34740",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34740",
+     "sha256": "ebe055c08911242e6bcca15ec6e42dc2e300ca043ed10d51a6995078bd01176b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-245-2002",
+   "path": "hg/2002/245",
+   "short": "HG nr. 245/2002",
+   "title": "Hotărârea Guvernului nr. 245/2002 privind finanţarea unor cheltuieli cu întreţinerea, construcţia, reparaţia, amenajarea şi modernizarea unor instituţii de asistenţa socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34809",
+   "versions": [
+    {
+     "from": "2002-04-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34809",
+     "sha256": "5fd1a595a2c7920de3251beed40cb44c9b1dd71bb1c2dd4859deaadfd197c96b"
+    }
+   ]
+  },
+  {
    "slug": "hg-246-2002",
    "path": "hg/2002/246",
    "short": "HG nr. 246/2002",
@@ -10103,6 +11264,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34718",
      "sha256": "29332289bb5ab28fc527f15c21e1c77a535fe696e8da7487afd83657055d432b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-247-2002",
+   "path": "hg/2002/247",
+   "short": "HG nr. 247/2002",
+   "title": "Hotărârea Guvernului nr. 247/2002 privind completarea alin. (1) al art. 2 din Hotărârea Guvernului nr. 1.245/2001 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate în asistenţa medicală ambulatorie de specialitate pentru specialităţile clinice, paraclinice şi stomatologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34717",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34717",
+     "sha256": "4967d507d43334caaa021c6f18ec4dbbe35d428689a225f496c8de9749b49f2c"
     }
    ]
   },
@@ -10182,6 +11358,21 @@
    ]
   },
   {
+   "slug": "hg-252-2002",
+   "path": "hg/2002/252",
+   "short": "HG nr. 252/2002",
+   "title": "Hotărârea Guvernului nr. 252/2002 privind suplimentarea bugetului Ministerului Industriei şi Resurselor din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 2002 pentru restructurarea industriei de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34658",
+   "versions": [
+    {
+     "from": "2002-03-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34658",
+     "sha256": "0eaa8ca39034f94f7e82f116af97e6a132631e4a0459972fd0c6f649b808bb9a"
+    }
+   ]
+  },
+  {
    "slug": "hg-253-2002",
    "path": "hg/2002/253",
    "short": "HG nr. 253/2002",
@@ -10197,6 +11388,21 @@
    ]
   },
   {
+   "slug": "hg-254-2002",
+   "path": "hg/2002/254",
+   "short": "HG nr. 254/2002",
+   "title": "Hotărârea Guvernului nr. 254/2002 privind declararea anului 2002 \"Anul Caragiale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34750",
+   "versions": [
+    {
+     "from": "2002-03-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34750",
+     "sha256": "b1ffa8b65e4c10e35239c7356456f63efdfa44d01ee31601e219f1ddb7eed061"
+    }
+   ]
+  },
+  {
    "slug": "hg-255-2002",
    "path": "hg/2002/255",
    "short": "HG nr. 255/2002",
@@ -10208,6 +11414,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34729",
      "sha256": "dc28332ce126214ea61d2f49b2fe4d691fe51ac96ee90cbe73e34b319d76e69f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-256-2002",
+   "path": "hg/2002/256",
+   "short": "HG nr. 256/2002",
+   "title": "Hotărârea Guvernului nr. 256/2002 privind stabilirea unor măsuri pentru funcţionarea Teatrului Naţional din Târgu Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34730",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34730",
+     "sha256": "7e98fd3fafbe0210a08704c5a4cfe74fdce82be3dccf5d8d8cc3c895b6fbbdc8"
     }
    ]
   },
@@ -10257,6 +11478,81 @@
    ]
   },
   {
+   "slug": "hg-260-2002",
+   "path": "hg/2002/260",
+   "short": "HG nr. 260/2002",
+   "title": "Hotărârea Guvernului nr. 260/2002 privind comasarea prin absorbţie a Oficiului Naţional pentru Documentare şi Expoziţii de Arta de către Muzeul Naţional de Arta Contemporana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34751",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34751",
+     "sha256": "a095cfc64103cd063d6d33010c9f327289b0969cee9a18d2e61a1250eacd5dd7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-261-2002",
+   "path": "hg/2002/261",
+   "short": "HG nr. 261/2002",
+   "title": "Hotărârea Guvernului nr. 261/2002 privind organizarea şi funcţionarea Institutului Naţional al Monumentelor Istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34813",
+   "versions": [
+    {
+     "from": "2002-04-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34813",
+     "sha256": "818b4a8bb443503e5ab6f4613a4716534266fc523ded1ec93a502e83561d6dc3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-262-2002",
+   "path": "hg/2002/262",
+   "short": "HG nr. 262/2002",
+   "title": "Hotărârea Guvernului nr. 262/2002 pentru aprobarea Regulamentului privind organizarea procedurilor pentru valorificarea bunurilor aflate în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34810",
+   "versions": [
+    {
+     "from": "2002-04-01",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34810",
+     "sha256": "597ff2dc982584affc0ed4c5310b87d54c66f31288852589b810cb029adadd19"
+    }
+   ]
+  },
+  {
+   "slug": "hg-263-2002",
+   "path": "hg/2002/263",
+   "short": "HG nr. 263/2002",
+   "title": "Hotărârea Guvernului nr. 263/2002 privind transmiterea fără plata a unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34732",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34732",
+     "sha256": "96436047461f88c189bb1c86626b9ee9cdd5dabef41148b20345e2d4e3dd8402"
+    }
+   ]
+  },
+  {
+   "slug": "hg-264-2002",
+   "path": "hg/2002/264",
+   "short": "HG nr. 264/2002",
+   "title": "Hotărârea Guvernului nr. 264/2002 pentru modificarea art. 9 alin. (3) din Hotărârea Guvernului nr. 158/2002 privind organizarea la Bucureşti, în perioada 25-26 martie 2002, a Summitului prim-ministrilor din statele membre ale Grupului Vilnius (V-10)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34671",
+   "versions": [
+    {
+     "from": "2002-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34671",
+     "sha256": "892e8d6ff3c0127279b199c9ec7c763990e619ef49514ce35b446bd9ebaadb1d"
+    }
+   ]
+  },
+  {
    "slug": "hg-265-2002",
    "path": "hg/2002/265",
    "short": "HG nr. 265/2002",
@@ -10268,6 +11564,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34670",
      "sha256": "3288c299d8eb5faba11b46a29020d4b883feb5a98e6734145a3494eb768e02e5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-267-2002",
+   "path": "hg/2002/267",
+   "short": "HG nr. 267/2002",
+   "title": "Hotărârea Guvernului nr. 267/2002 privind strategia de privatizare a Societăţii Comerciale \"Celhart Donaris\" - S.A. Brăila, inclusă în proiectul componenta \"Privatizarea a 50 de societăţi comerciale cu capital majoritar de stat, grupate în pachete\", din cadrul PSAL (Programul pentru Ajustarea Sectorului Privat)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34763",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34763",
+     "sha256": "0379fcb6c128188db95216cc2d6946e883196846540fa6cb1e7b38856b84c647"
     }
    ]
   },
@@ -10313,6 +11624,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33801",
      "sha256": "17267c546fb908d952ef23b92e179ddfb0f2814d62642dabed6515f4a123914f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-270-2002",
+   "path": "hg/2002/270",
+   "short": "HG nr. 270/2002",
+   "title": "Hotărârea Guvernului nr. 270/2002 privind stabilirea cerinţelor referitoare la eficienta şi etichetarea energetica pentru introducerea pe piaţa a cazanelor noi de apa calda care funcţionează cu combustibil lichid sau gazos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35138",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35138",
+     "sha256": "0f80339aa68ba48ecf7bf58b8bb970e25ace8fb873492e39dcf17818eaeb9291"
     }
    ]
   },
@@ -10452,6 +11778,21 @@
    ]
   },
   {
+   "slug": "hg-28-2002",
+   "path": "hg/2002/28",
+   "short": "HG nr. 28/2002",
+   "title": "Hotărârea Guvernului nr. 28/2002 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Orientale a Uruguayului privind cooperarea antarctica, semnat la Montevideo la 16 noiembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33684",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33684",
+     "sha256": "e0a2c1caf342f9e9003c5811b5583d05b0e43054503a87f1d11bd2fefcc942e6"
+    }
+   ]
+  },
+  {
    "slug": "hg-280-2002",
    "path": "hg/2002/280",
    "short": "HG nr. 280/2002",
@@ -10497,6 +11838,21 @@
    ]
   },
   {
+   "slug": "hg-283-2002",
+   "path": "hg/2002/283",
+   "short": "HG nr. 283/2002",
+   "title": "Hotărârea Guvernului nr. 283/2002 privind plata taxei pe valoarea adăugată la Comisia Europeană, care a fost suportată din împrumutul nerambursabil acordat de Comunitatea Europeană pentru finanţarea Proiectului PHARE VET RO 9405",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34866",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34866",
+     "sha256": "1aa95fab1efd6c400eff681f24810ca4a466a1021a26a2ea5b09ee9ea7d96573"
+    }
+   ]
+  },
+  {
    "slug": "hg-284-2002",
    "path": "hg/2002/284",
    "short": "HG nr. 284/2002",
@@ -10508,6 +11864,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35122",
      "sha256": "903e1274d6b73795a76510dcc973c8e207560d4d965bd94b6da8261e8b70ecd6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-285-2002",
+   "path": "hg/2002/285",
+   "short": "HG nr. 285/2002",
+   "title": "Hotărârea Guvernului nr. 285/2002 privind înfiinţarea, organizarea şi funcţionarea Comisiei naţionale pentru supravegherea, controlul şi prevenirea cazurilor de infecţie HIV/SIDA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35121",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35121",
+     "sha256": "875a11a7ee418afddc81e5c6f04c8f1b04d00d131ee89b1b79a5139572d40d1d"
     }
    ]
   },
@@ -10527,6 +11898,51 @@
    ]
   },
   {
+   "slug": "hg-287-2002",
+   "path": "hg/2002/287",
+   "short": "HG nr. 287/2002",
+   "title": "Hotărârea Guvernului nr. 287/2002 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Anper\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34871",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34871",
+     "sha256": "9174db6582b23b7500f0e56b6c9857e4addb8f7d150b8c09ab4dcc613e412b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-288-2002",
+   "path": "hg/2002/288",
+   "short": "HG nr. 288/2002",
+   "title": "Hotărârea Guvernului nr. 288/2002 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Ceramica\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34864",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34864",
+     "sha256": "644c0a5493927f48899950fe51d8c7bdc6f9d6ba21ab86c3a8f1e9c03bf32b42"
+    }
+   ]
+  },
+  {
+   "slug": "hg-289-2002",
+   "path": "hg/2002/289",
+   "short": "HG nr. 289/2002",
+   "title": "Hotărârea Guvernului nr. 289/2002 privind eliberarea domnului Saniuta Marian Florian din funcţia de prefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34901",
+   "versions": [
+    {
+     "from": "2002-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34901",
+     "sha256": "988ff9db050f3030898e435afc3c9e51e47af129b480657242401c6842302f78"
+    }
+   ]
+  },
+  {
    "slug": "hg-29-2002",
    "path": "hg/2002/29",
    "short": "HG nr. 29/2002",
@@ -10538,6 +11954,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33600",
      "sha256": "3e1a3cf6f901731291c4da107013b9e68aad96c75aecca4b9df4d676bb6a439e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-290-2002",
+   "path": "hg/2002/290",
+   "short": "HG nr. 290/2002",
+   "title": "Hotărârea Guvernului nr. 290/2002 privind numirea domnului Diaconu Georgică în funcţia de prefect al judeţului Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34902",
+   "versions": [
+    {
+     "from": "2002-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34902",
+     "sha256": "66ef6bde8223a749a45c4e65ff19caf5ea20974f28d7b250e066d62dcae1693f"
     }
    ]
   },
@@ -10557,6 +11988,51 @@
    ]
   },
   {
+   "slug": "hg-292-2002",
+   "path": "hg/2002/292",
+   "short": "HG nr. 292/2002",
+   "title": "Hotărârea Guvernului nr. 292/2002 privind numirea domnului Natea Ovidiu în funcţia de prefect al judeţului Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34868",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34868",
+     "sha256": "360d2862ee3dcf00fd9af8981c8565199a03e8c45137b810820d3ad55e6f1fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-295-2002",
+   "path": "hg/2002/295",
+   "short": "HG nr. 295/2002",
+   "title": "Hotărârea Guvernului nr. 295/2002 pentru acceptarea Deciziei nr. 8/2001 a Comitetului mixt România-Turcia privind modificarea Protocolului D referitor la definirea conceptului de \"produse originare\" şi metodele de cooperare administrativă, la Acordul de comerţ liber dintre România şi Republica Turcia, semnat la Ankara la 29 aprilie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35551",
+   "versions": [
+    {
+     "from": "2002-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35551",
+     "sha256": "a313175de1519ad0d789f04a589ac0ebdf52bdeb44fd3c975e7bf063ee21f9e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-296-2002",
+   "path": "hg/2002/296",
+   "short": "HG nr. 296/2002",
+   "title": "Hotărârea Guvernului nr. 296/2002 privind nivelul alocaţiilor de hrana pentru consumurile colective din unităţile sanitare publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35142",
+   "versions": [
+    {
+     "from": "2002-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35142",
+     "sha256": "b0176c2dd700047e2f2373861a2301a61ea115a41455b7e716a083d22883b117"
+    }
+   ]
+  },
+  {
    "slug": "hg-297-2002",
    "path": "hg/2002/297",
    "short": "HG nr. 297/2002",
@@ -10568,6 +12044,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35143",
      "sha256": "a9cf1ed866fff90d7abc1dd954cf36c0b0cae76bce13c9d323d4c4a4ba6a7787"
+    }
+   ]
+  },
+  {
+   "slug": "hg-298-2002",
+   "path": "hg/2002/298",
+   "short": "HG nr. 298/2002",
+   "title": "Hotărârea Guvernului nr. 298/2002 privind aprobarea cifrelor de şcolarizare pentru învăţământul preuniversitar şi superior de stat în anul şcolar/universitar 2002-2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35144",
+   "versions": [
+    {
+     "from": "2002-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35144",
+     "sha256": "eb4d538505fd5ead29e707eeacce6a07cae44d24f1453f0ebd6ad5e47dcc607d"
     }
    ]
   },
@@ -10587,6 +12078,36 @@
    ]
   },
   {
+   "slug": "hg-3-2002",
+   "path": "hg/2002/3",
+   "short": "HG nr. 3/2002",
+   "title": "Hotărârea Guvernului nr. 3/2002 privind alocarea sumei de 5 miliarde lei din Fondul de intervenţie la dispoziţia Guvernului, în vederea amenajării imobilului situat în municipiul Ramnicu Valcea localitatea componenta Troian - pentru folosirea temporară ca locuinţe de către familiile sinistrate din oraşul Ocnele Mari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33427",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33427",
+     "sha256": "4d5fb07394e46707cf500145ccb543652eb9b986f98de5ae4cc1be60f34fe51a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-30-2002",
+   "path": "hg/2002/30",
+   "short": "HG nr. 30/2002",
+   "title": "Hotărârea Guvernului nr. 30/2002 privind modificarea indicatorilor tehnico-economici ai obiectivelor de investiţii cuprinse în Programul de dezvoltare a utilităţilor municipale din municipiul Craiova, aprobat prin Hotărârea Guvernului nr. 920/1994 privind aprobarea studiilor de fezabilitate a obiectivelor de investiţii \"Echilibrarea şi modernizarea reţelei de alimentare cu apa în municipiul Craiova şi contorizarea apei în reţea\" şi \"Contorizare la consumatori\" din municipiul Craiova, judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33570",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33570",
+     "sha256": "926833b9bf6d5cea3567a0cad2c9805059cf369f0736efbcb823818da1c9d87e"
+    }
+   ]
+  },
+  {
    "slug": "hg-300-2002",
    "path": "hg/2002/300",
    "short": "HG nr. 300/2002",
@@ -10598,6 +12119,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35146",
      "sha256": "3b58703750b13ef4361d74e6b738797a6f01571ea5f2b65bb85da04aa6783e09"
+    }
+   ]
+  },
+  {
+   "slug": "hg-301-2002",
+   "path": "hg/2002/301",
+   "short": "HG nr. 301/2002",
+   "title": "Hotărârea Guvernului nr. 301/2002 privind modificarea Hotărârii Guvernului nr. 326/2001 pentru stabilirea componentei Comisiei de privatizare a Băncii Comerciale Române - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35147",
+   "versions": [
+    {
+     "from": "2002-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35147",
+     "sha256": "658465d148bd763ae8791927e88c14a8ec922741f83f7649397dca69ba3159e7"
     }
    ]
   },
@@ -10662,6 +12198,36 @@
    ]
   },
   {
+   "slug": "hg-306-2002",
+   "path": "hg/2002/306",
+   "short": "HG nr. 306/2002",
+   "title": "Hotărârea Guvernului nr. 306/2002 privind numirea domnului Martin Gheorghe în funcţia de prefect al judeţului Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34909",
+   "versions": [
+    {
+     "from": "2002-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34909",
+     "sha256": "65e86e1e571f6f941b651202d2c3b207691bd8a323ae62eba9964f32961b2377"
+    }
+   ]
+  },
+  {
+   "slug": "hg-307-2002",
+   "path": "hg/2002/307",
+   "short": "HG nr. 307/2002",
+   "title": "Hotărârea Guvernului nr. 307/2002 pentru organizarea la Bucureşti, în perioada 20-21 aprilie 2002, a Seminarului internaţional \"Potenţialul României privind activităţile GRID şi de calcul distribuit\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35126",
+   "versions": [
+    {
+     "from": "2002-04-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35126",
+     "sha256": "eb9141753e1de634aaa3453d6f975ee0802827dbfe401de4589d556f07216ecf"
+    }
+   ]
+  },
+  {
    "slug": "hg-308-2002",
    "path": "hg/2002/308",
    "short": "HG nr. 308/2002",
@@ -10673,6 +12239,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35261",
      "sha256": "fad29fa6aa37dbbde4674d4b2f8e9709b55b04f87e1351f0b6cd5799f4681cb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-309-2002",
+   "path": "hg/2002/309",
+   "short": "HG nr. 309/2002",
+   "title": "Hotărârea Guvernului nr. 309/2002 privind transmiterea, fără plata, a unui imobil, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Finanţelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35262",
+   "versions": [
+    {
+     "from": "2002-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35262",
+     "sha256": "4e88cf98faca7dd42331ea555d23da144f06a51cca9cd43449dbc211b7d665f4"
     }
    ]
   },
@@ -10703,6 +12284,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35127",
      "sha256": "be502086bb2c2bd42b791e66288a2e1574e7eeb8a89f7250f8c1a622404e9775"
+    }
+   ]
+  },
+  {
+   "slug": "hg-312-2002",
+   "path": "hg/2002/312",
+   "short": "HG nr. 312/2002",
+   "title": "Hotărârea Guvernului nr. 312/2002 privind stabilirea condiţiilor de introducere pe piaţa a ambarcaţiunilor de agrement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35396",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35396",
+     "sha256": "d5fb16aa49f191d6cf0cc1e5d914e3aa4639eb52e3b93dbaed46aff60b751119"
+    }
+   ]
+  },
+  {
+   "slug": "hg-313-2002",
+   "path": "hg/2002/313",
+   "short": "HG nr. 313/2002",
+   "title": "Hotărârea Guvernului nr. 313/2002 privind înfiinţarea Societăţii Comerciale de Conservare şi Închidere a Minelor \"Conversmin\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35375",
+   "versions": [
+    {
+     "from": "2002-04-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35375",
+     "sha256": "b94f09873e4f2aec2d400de4da13a73f933c9b6ec99e75cd81cb86ff202948e7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-314-2002",
+   "path": "hg/2002/314",
+   "short": "HG nr. 314/2002",
+   "title": "Hotărârea Guvernului nr. 314/2002 privind înfiinţarea Institutului de Medicina Comparata - I.M.C. prin reorganizarea Centrului de Cercetări de Medicina Comparata - C.C.M.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35315",
+   "versions": [
+    {
+     "from": "2002-04-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35315",
+     "sha256": "65a0ec4dc23e2f92531f73602ce3de4f7c392df108ce30572933d8faedaa40ef"
     }
    ]
   },
@@ -10782,6 +12408,36 @@
    ]
   },
   {
+   "slug": "hg-321-2002",
+   "path": "hg/2002/321",
+   "short": "HG nr. 321/2002",
+   "title": "Hotărârea Guvernului nr. 321/2002 privind aprobarea Normelor metodologice pentru derularea Programului \"Sali de sport\" prin Compania Naţională de Investiţii \"C.N.I.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35227",
+   "versions": [
+    {
+     "from": "2002-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35227",
+     "sha256": "3fcdbef53bb83248b4688531638ed064dd4fec518a2b030c17100247be60c64f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-322-2002",
+   "path": "hg/2002/322",
+   "short": "HG nr. 322/2002",
+   "title": "Hotărârea Guvernului nr. 322/2002 privind garantarea de către Ministerul Finanţelor Publice a unor credite externe în favoarea Societăţii Naţionale \"Nuclearelectrica\" - S.A. pentru procurarea de bunuri şi servicii din import necesare finalizării Unităţii 2 de la CNE Cernavodă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35331",
+   "versions": [
+    {
+     "from": "2002-04-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35331",
+     "sha256": "c7db7587609186379eaa48bd0f0c3fc796779a4d95f151838ac09724e2b94681"
+    }
+   ]
+  },
+  {
    "slug": "hg-323-2002",
    "path": "hg/2002/323",
    "short": "HG nr. 323/2002",
@@ -10793,6 +12449,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35332",
      "sha256": "893ec38dbb14e7e8a4d7da3a74ad0df423d4c335d92ea6b790b0b470ccbb9204"
+    }
+   ]
+  },
+  {
+   "slug": "hg-324-2002",
+   "path": "hg/2002/324",
+   "short": "HG nr. 324/2002",
+   "title": "Hotărârea Guvernului nr. 324/2002 privind transmiterea fără plata a unui teren aflat în proprietatea publică a statului din administrarea Ministerului Agriculturii, Alimentaţiei şi Pădurilor în administrarea Regiei Autonome \"Administraţia Naţionala a Drumurilor din România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35279",
+   "versions": [
+    {
+     "from": "2002-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35279",
+     "sha256": "f510007607769ffc4d9a6a685b3f04dc1a34ccffe75a09cc052b899924ca769e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-325-2002",
+   "path": "hg/2002/325",
+   "short": "HG nr. 325/2002",
+   "title": "Hotărârea Guvernului nr. 325/2002 privind încadrarea unor sectoare de drumuri de exploatare în categoria funcţională a drumurilor publice comunale şi a unor sectoare de drumuri comunale în categoria funcţională a drumurilor publice din judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35280",
+   "versions": [
+    {
+     "from": "2002-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35280",
+     "sha256": "fa95d6c0fb31775ac62c45502e2c3fc754d738c3e9b8c372e8ccd098b30a5b37"
     }
    ]
   },
@@ -10857,6 +12543,21 @@
    ]
   },
   {
+   "slug": "hg-33-2002",
+   "path": "hg/2002/33",
+   "short": "HG nr. 33/2002",
+   "title": "Hotărârea Guvernului nr. 33/2002 privind dezafectarea capacităţilor de mobilizare de la Societatea Comercială \"Uzina Mecanică Ramnicu Valcea\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33599",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33599",
+     "sha256": "7a7a9d8d2364b97e6b69a0d55459649af4cabd078e5f3f0e8ad3caa865b006c6"
+    }
+   ]
+  },
+  {
    "slug": "hg-330-2002",
    "path": "hg/2002/330",
    "short": "HG nr. 330/2002",
@@ -10887,6 +12588,21 @@
    ]
   },
   {
+   "slug": "hg-332-2002",
+   "path": "hg/2002/332",
+   "short": "HG nr. 332/2002",
+   "title": "Hotărârea Guvernului nr. 332/2002 privind aprobarea unor măsuri pentru recoltarea masei lemnoase afectate de doborâturi şi rupturi de vânt în perioada 6-8 martie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35439",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35439",
+     "sha256": "392947536bbdfaef2b5bcd60771a38e17fd34d624f93ae60aaaa88703edeb7f5"
+    }
+   ]
+  },
+  {
    "slug": "hg-333-2002",
    "path": "hg/2002/333",
    "short": "HG nr. 333/2002",
@@ -10902,6 +12618,21 @@
    ]
   },
   {
+   "slug": "hg-334-2002",
+   "path": "hg/2002/334",
+   "short": "HG nr. 334/2002",
+   "title": "Hotărârea Guvernului nr. 334/2002 privind trecerea din domeniul public al statului în domeniul privat al statului a unor active corporale aflate în administrarea Societăţii Comerciale \"Conpet\"-S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35458",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35458",
+     "sha256": "98d458a5cae963375c0d48665a35801cdb0621c5f78e455ade27712d5b5859f5"
+    }
+   ]
+  },
+  {
    "slug": "hg-335-2002",
    "path": "hg/2002/335",
    "short": "HG nr. 335/2002",
@@ -10913,6 +12644,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35440",
      "sha256": "c4d7ae4b62e971b4cb0f2dc548490e387d4d2dcf651aacf6f85a4f7d7601ee60"
+    }
+   ]
+  },
+  {
+   "slug": "hg-336-2002",
+   "path": "hg/2002/336",
+   "short": "HG nr. 336/2002",
+   "title": "Hotărârea Guvernului nr. 336/2002 privind înfiinţarea Biroului vamal-Aeroportul Arad pentru traficul aerian internaţional de călători şi mărfuri, judeţul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35441",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35441",
+     "sha256": "b0efc5326fd42c2634fed2606a480fd86e3838588b59da3c242d79cc43033c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-337-2002",
+   "path": "hg/2002/337",
+   "short": "HG nr. 337/2002",
+   "title": "Hotărârea Guvernului nr. 337/2002 privind numirea Comisiei pentru efectuarea cercetării prealabile în vederea declarării utilităţii publice pentru lucrarea de interes naţional \"Amenajarea hidroenergetica Surduc - Siriu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35455",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35455",
+     "sha256": "03288b1a568c0ae80239ead15a790ad32950c152d52fb72d074803bf72c8c6b9"
     }
    ]
   },
@@ -10947,6 +12708,36 @@
    ]
   },
   {
+   "slug": "hg-34-2002",
+   "path": "hg/2002/34",
+   "short": "HG nr. 34/2002",
+   "title": "Hotărârea Guvernului nr. 34/2002 privind transmiterea unui teren, proprietate publică a statului, din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Justiţiei pentru Direcţia Generală a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33624",
+   "versions": [
+    {
+     "from": "2002-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33624",
+     "sha256": "2e27ea29e59f6aabe04d6e43a83fc7a686078490af867867cbf796171bd29bc7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-340-2002",
+   "path": "hg/2002/340",
+   "short": "HG nr. 340/2002",
+   "title": "Hotărârea Guvernului nr. 340/2002 privind stabilirea nivelului preţului naţional de referinţa pentru energia termica furnizată populaţiei prin sisteme centralizate, în scopul încălzirii locuinţelor şi al preparării apei calde",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35442",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35442",
+     "sha256": "310ef6ec910e4e8fc99033c743b3ef940e456ece90d05f7fc96624bf997bc13d"
+    }
+   ]
+  },
+  {
    "slug": "hg-341-2002",
    "path": "hg/2002/341",
    "short": "HG nr. 341/2002",
@@ -10977,6 +12768,21 @@
    ]
   },
   {
+   "slug": "hg-343-2002",
+   "path": "hg/2002/343",
+   "short": "HG nr. 343/2002",
+   "title": "Hotărârea Guvernului nr. 343/2002 privind aplicarea în anul 2002 a prevederilor art. 1 alin. (2) din Hotărârea Guvernului nr. 160/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35446",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35446",
+     "sha256": "6c1bcbb57def9531457a67306c0c01bf7e01a9c69daa3b3b44bcdaa95c0ebf7c"
+    }
+   ]
+  },
+  {
    "slug": "hg-344-2002",
    "path": "hg/2002/344",
    "short": "HG nr. 344/2002",
@@ -10988,6 +12794,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35368",
      "sha256": "aecbad988377a4df5a70f736fbee6072671849eeb39c76267e3487e49e5f47ca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-345-2002",
+   "path": "hg/2002/345",
+   "short": "HG nr. 345/2002",
+   "title": "Hotărârea Guvernului nr. 345/2002 pentru aprobarea compensării timpului de muncă aferent zilelor de 2 şi 3 mai 2002, stabilite ca zile libere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35207",
+   "versions": [
+    {
+     "from": "2002-04-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35207",
+     "sha256": "f92ceb348221dc7c90685c5ff3a836e1c1965734376774c94e0f9a3f80cc0aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-346-2002",
+   "path": "hg/2002/346",
+   "short": "HG nr. 346/2002",
+   "title": "Hotărârea Guvernului nr. 346/2002 privind transmiterea unui teren agricol, proprietate publică a statului, din administrarea Institutului de Cercetare-Dezvoltare pentru Industrializarea şi Marketingul Produselor Horticole - Horting Bucureşti în administrarea Staţiunii de Cercetare şi Producţie Pomicola - Băneasa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35453",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35453",
+     "sha256": "66a60d8d3c660cf715d89c51445d3f2fcca2ba1c3d56f6ea42b61dfb81528061"
+    }
+   ]
+  },
+  {
+   "slug": "hg-347-2002",
+   "path": "hg/2002/347",
+   "short": "HG nr. 347/2002",
+   "title": "Hotărârea Guvernului nr. 347/2002 pentru aprobarea programelor de interes naţional în domeniul protecţiei drepturilor copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35484",
+   "versions": [
+    {
+     "from": "2002-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35484",
+     "sha256": "eed48dcee14d1bed76031675022a097c4db3f80fd3ec5e4deec067472ea152f0"
     }
    ]
   },
@@ -11022,6 +12873,36 @@
    ]
   },
   {
+   "slug": "hg-35-2002",
+   "path": "hg/2002/35",
+   "short": "HG nr. 35/2002",
+   "title": "Hotărârea Guvernului nr. 35/2002 privind garantarea de către Ministerul Finanţelor Publice a unui credit extern pentru Ministerul Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33711",
+   "versions": [
+    {
+     "from": "2002-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33711",
+     "sha256": "b740e417ac1c5076b4118e23cd457027ba6bb3bdceed7da0c10e0316e31c3644"
+    }
+   ]
+  },
+  {
+   "slug": "hg-350-2002",
+   "path": "hg/2002/350",
+   "short": "HG nr. 350/2002",
+   "title": "Hotărârea Guvernului nr. 350/2002 privind atribuirea unui imobil cu destinaţia de sediu pentru \"Casa O.N.U.\" la Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35422",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35422",
+     "sha256": "3523c141d1073a5d7860f44c739964561c8a21dd5bc11859326a3a328dc22675"
+    }
+   ]
+  },
+  {
    "slug": "hg-351-2002",
    "path": "hg/2002/351",
    "short": "HG nr. 351/2002",
@@ -11033,6 +12914,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35596",
      "sha256": "b71da34e69c5e3f1dd58f2a08b8f15358f03a381c27332cc064a0ccb868bcddd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-352-2002",
+   "path": "hg/2002/352",
+   "short": "HG nr. 352/2002",
+   "title": "Hotărârea Guvernului nr. 352/2002 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare pentru Microbiologie şi Imunologie \"Cantacuzino\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35961",
+   "versions": [
+    {
+     "from": "2002-05-15",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35961",
+     "sha256": "1fd1da51b418e1bb9487604a01949d74a9f13d1ca02b947cec10916f72da7ba9"
     }
    ]
   },
@@ -11052,6 +12948,66 @@
    ]
   },
   {
+   "slug": "hg-355-2002",
+   "path": "hg/2002/355",
+   "short": "HG nr. 355/2002",
+   "title": "Hotărârea Guvernului nr. 355/2002 privind aprobarea numărului de autoturisme şi a consumului de carburanţi pentru activităţile specifice desfăşurate de Ministerul Industriei şi Resurselor şi de unităţile din subordinea sa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35418",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35418",
+     "sha256": "22516dc0e3132f3ff7bec8e1e00bb911261762a3ff676ef0ab459408eb68281c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-356-2002",
+   "path": "hg/2002/356",
+   "short": "HG nr. 356/2002",
+   "title": "Hotărârea Guvernului nr. 356/2002 pentru abrogarea Hotărârii Guvernului nr. 1.230/1996 privind executarea de lucrări şi prestări de servicii pentru Ministerul Transporturilor de către Brigada 93 Cai Ferate şi Drumuri \"Inginer Anghel Saligny\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35419",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35419",
+     "sha256": "c7ca5576a406addbd9b81c661fe87c59494d9af414c12d58ae8b3f9cfff844c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-357-2002",
+   "path": "hg/2002/357",
+   "short": "HG nr. 357/2002",
+   "title": "Hotărârea Guvernului nr. 357/2002 privind transmiterea unor terenuri din domeniul privat şi public al statului, în suprafaţa totală de 7.696,11 ha, şi din administrarea Agenţiei Domeniilor Statului în fondul forestier proprietate publică a statului şi în administrarea Regiei Naţionale a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35561",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35561",
+     "sha256": "8bd8893ead23b32ebeeb38548b5a241b8f8743539cc0c56f014f392bca6be0f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-358-2002",
+   "path": "hg/2002/358",
+   "short": "HG nr. 358/2002",
+   "title": "Hotărârea Guvernului nr. 358/2002 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35431",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35431",
+     "sha256": "3757514a840d8aadb5450bba53d9fc9f797e6298e7e38adf47c3e37ae0b3269a"
+    }
+   ]
+  },
+  {
    "slug": "hg-359-2002",
    "path": "hg/2002/359",
    "short": "HG nr. 359/2002",
@@ -11063,6 +13019,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35432",
      "sha256": "905782bb905ea9d8d23644a379908abd9abef0ae2acfef539da59bd9a0597fff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-36-2002",
+   "path": "hg/2002/36",
+   "short": "HG nr. 36/2002",
+   "title": "Hotărârea Guvernului nr. 36/2002 pentru aprobarea unor amendamente convenite între Guvernul României şi Banca Europeană pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare privind Proiectul de dezvoltare a utilităţilor municipale, în valoare de 28 milioane dolari S.U.A., semnat la Londra la 9 aprilie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33629",
+   "versions": [
+    {
+     "from": "2002-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33629",
+     "sha256": "4645338d4c504c63cb8a1836b3dc7ffd3c3cb5aaef4649b08e3b7ee6f28f223e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-360-2002",
+   "path": "hg/2002/360",
+   "short": "HG nr. 360/2002",
+   "title": "Hotărârea Guvernului nr. 360/2002 privind aprobarea unor licenţe de concesiune a activităţii miniere de exploatare, încheiate între Agenţia Naţională pentru Resurse Minerale şi Societatea Comercială \"Carb\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35420",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35420",
+     "sha256": "2b1bc62528c9ef1f6f8374a7560657601cbad2991a7c9bf925b60f5fc08a9023"
     }
    ]
   },
@@ -11082,6 +13068,21 @@
    ]
   },
   {
+   "slug": "hg-362-2002",
+   "path": "hg/2002/362",
+   "short": "HG nr. 362/2002",
+   "title": "Hotărârea Guvernului nr. 362/2002 privind organizarea şi funcţionarea Ministerului Agriculturii, Alimentaţiei şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35503",
+   "versions": [
+    {
+     "from": "2002-04-23",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35503",
+     "sha256": "a51cb6f67b480ed679673932a9439bc3d798e887e07f1cdcdc8748b637842dad"
+    }
+   ]
+  },
+  {
    "slug": "hg-363-2002",
    "path": "hg/2002/363",
    "short": "HG nr. 363/2002",
@@ -11093,6 +13094,42 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36384",
      "sha256": "211d2aa12dba805fa4cf0d406d504dc2ebcd06e0ab6ca5cfa7945ba3bb3d5bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-364-2002",
+   "path": "hg/2002/364",
+   "short": "HG nr. 364/2002",
+   "title": "Hotărârea Guvernului nr. 364/2002 privind normarea parcului auto şi a consumului de carburanţi pentru activităţile specifice desfăşurate de Ministerul Apelor şi Protecţiei Mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35443",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35443",
+     "sha256": "ae94ec79888ff3f32b9888e93276c929efa9dc599ffb03b6e1e20e91029cfc09"
+    }
+   ]
+  },
+  {
+   "slug": "hg-365-2002",
+   "path": "hg/2002/365",
+   "short": "HG nr. 365/2002",
+   "title": "Hotărârea Guvernului nr. 365/2002 privind transferul pachetului de acţiuni deţinut la Societatea Comercială \"Antibiotice\" - S.A. Iaşi de către Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului, la Ministerul Sănătăţii şi Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35444",
+   "versions": [
+    {
+     "from": "2002-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35444",
+     "sha256": "1c46ce3282d8d7ae7b65dabbc2b0a0d0a10d309691eec3e10d3f7a3300f19b0a"
+    },
+    {
+     "from": "2005-08-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/63089",
+     "sha256": "a88312bb4afc3bb87f22c71929bef8ae96c854f26ef927e670274b90b1e3dad5"
     }
    ]
   },
@@ -11142,6 +13179,36 @@
    ]
   },
   {
+   "slug": "hg-369-2002",
+   "path": "hg/2002/369",
+   "short": "HG nr. 369/2002",
+   "title": "Hotărârea Guvernului nr. 369/2002 pentru aprobarea unor amendamente la Acordul de împrumut (Programul de dezvoltare a utilităţilor municipale, etapa a II-a) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 4 august 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35640",
+   "versions": [
+    {
+     "from": "2002-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35640",
+     "sha256": "fbcaaf7ffe64304ab6b1ca01fde4aedc6cb46efce6985435a299b27272218667"
+    }
+   ]
+  },
+  {
+   "slug": "hg-37-2002",
+   "path": "hg/2002/37",
+   "short": "HG nr. 37/2002",
+   "title": "Hotărârea Guvernului nr. 37/2002 pentru aprobarea bugetului de venituri şi cheltuieli al Oficiului Participaţiilor Statului şi Privatizării în Industrie pe anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33632",
+   "versions": [
+    {
+     "from": "2002-01-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33632",
+     "sha256": "0b415340c762dd88322994fecadbea894628c65fb049780a31eff54d7ca387a6"
+    }
+   ]
+  },
+  {
    "slug": "hg-370-2002",
    "path": "hg/2002/370",
    "short": "HG nr. 370/2002",
@@ -11168,6 +13235,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35487",
      "sha256": "3c8d7f1f687bb5403adb8bdc23327b3e1778a6c47c56461af04395fddf4134fe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-372-2002",
+   "path": "hg/2002/372",
+   "short": "HG nr. 372/2002",
+   "title": "Hotărârea Guvernului nr. 372/2002 privind trecerea din domeniul public al statului în domeniul privat al statului a unei construcţii aflate în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35562",
+   "versions": [
+    {
+     "from": "2002-04-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35562",
+     "sha256": "d20277fafd850b28a2a3a0a1e4ffc848335d662c9928f89533c4200ff7332c91"
     }
    ]
   },
@@ -11262,6 +13344,51 @@
    ]
   },
   {
+   "slug": "hg-38-2002",
+   "path": "hg/2002/38",
+   "short": "HG nr. 38/2002",
+   "title": "Hotărârea Guvernului nr. 38/2002 privind aprobarea plafonului maxim în limita căruia Regia Autonomă pentru Activităţi Nucleare va face compensări în anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33633",
+   "versions": [
+    {
+     "from": "2002-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33633",
+     "sha256": "0fd901e6dfaf736bee845a8927ce5847db17423e4f0e0c72796f222a783c9315"
+    }
+   ]
+  },
+  {
+   "slug": "hg-380-2002",
+   "path": "hg/2002/380",
+   "short": "HG nr. 380/2002",
+   "title": "Hotărârea Guvernului nr. 380/2002 privind transferul pachetului integral de acţiuni al Societăţii Comerciale \"Unimarket\" - S.A. Ploieşti în proprietatea privată a municipiului Ploieşti, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35544",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35544",
+     "sha256": "b3a336f356c85099d549ddb4748842536bcab6508c8b75812f301ba714984bdd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-381-2002",
+   "path": "hg/2002/381",
+   "short": "HG nr. 381/2002",
+   "title": "Hotărârea Guvernului nr. 381/2002 privind aprobarea normelor pentru stabilirea cuantumului subvenţiei de la bugetul de stat ce se poate acorda în anul 2002 categoriilor de persoane prevăzute la art. 7 din Legea locuinţei nr. 114/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35545",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35545",
+     "sha256": "133f3645ea24d13eb9cb0f6a3d5fd13dbfba31786f74ce554990ff3d683db06d"
+    }
+   ]
+  },
+  {
    "slug": "hg-382-2002",
    "path": "hg/2002/382",
    "short": "HG nr. 382/2002",
@@ -11277,6 +13404,21 @@
    ]
   },
   {
+   "slug": "hg-383-2002",
+   "path": "hg/2002/383",
+   "short": "HG nr. 383/2002",
+   "title": "Hotărârea Guvernului nr. 383/2002 privind numirea în funcţia de preşedinte al Comitetului interministerial de coordonare a organizării şi funcţionarii pieţelor produselor agricole şi alimentare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35546",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35546",
+     "sha256": "2d97dd4c67649b0222c1c8fa3cf112c32663e8808c53ae76f2e6612621241638"
+    }
+   ]
+  },
+  {
    "slug": "hg-384-2002",
    "path": "hg/2002/384",
    "short": "HG nr. 384/2002",
@@ -11288,6 +13430,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35675",
      "sha256": "b00fbe072c797daa28902347af6ee323983f46449d8a22ef37a742dc264dde91"
+    }
+   ]
+  },
+  {
+   "slug": "hg-385-2002",
+   "path": "hg/2002/385",
+   "short": "HG nr. 385/2002",
+   "title": "Hotărârea Guvernului nr. 385/2002 pentru aprobarea bugetului rectificat de venituri şi cheltuieli al Ministerului Turismului privind activitatea de privatizare pe anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35702",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35702",
+     "sha256": "eb003b43e257c8549a82d19fe16c8b1824ebc6746d9bb3a940c32e0a17f4eda5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-386-2002",
+   "path": "hg/2002/386",
+   "short": "HG nr. 386/2002",
+   "title": "Hotărârea Guvernului nr. 386/2002 privind suplimentarea bugetului Ministerului Culturii şi Cultelor pe anul 2002 din Fondul de rezerva bugetară la dispoziţia Guvernului pentru sprijinirea unor unităţi de cult ce aparţin cultelor religioase recunoscute din România, din judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35703",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35703",
+     "sha256": "ead15c8b76a892c8cf55fba921f8fec5d1b57c7aac3b2067a055ee25b0a77743"
+    }
+   ]
+  },
+  {
+   "slug": "hg-387-2002",
+   "path": "hg/2002/387",
+   "short": "HG nr. 387/2002",
+   "title": "Hotărârea Guvernului nr. 387/2002 privind aprobarea desemnării Băncii de Investiţii \"DAIWA Securities SMBC Europe Limited\" în calitate de firma specializată pentru continuarea activităţii de consultanţa destinată finalizării la termen a raportului de evaluare şi a studiului de fezabilitate pentru implementarea Strategiei de privatizare a Băncii Comerciale Române - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35707",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35707",
+     "sha256": "471498fa8a47383009cdee3d1646f2850519faf87a75b201e50d95d5e6c2ad3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-388-2002",
+   "path": "hg/2002/388",
+   "short": "HG nr. 388/2002",
+   "title": "Hotărârea Guvernului nr. 388/2002 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Institutului Naţional de Cercetare-Dezvoltare în Domeniul Patologiei şi Ştiinţelor Biomedicale \"Victor Babeş\", aflat în coordonarea Ministerului Sănătăţii şi Familiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35704",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35704",
+     "sha256": "ae427ed0452dac337677ed81016006b6ec84357c3b2dadcece21780338959f2e"
     }
    ]
   },
@@ -11337,6 +13539,21 @@
    ]
   },
   {
+   "slug": "hg-391-2002",
+   "path": "hg/2002/391",
+   "short": "HG nr. 391/2002",
+   "title": "Hotărârea Guvernului nr. 391/2002 pentru prorogarea termenelor prevăzute la alin. (2) al art. 4 din Hotărârea Guvernului nr. 537/2001 privind înfiinţarea Centrului de Pregătire şi Perfecţionare Profesională al Inspecţiei Muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35696",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35696",
+     "sha256": "4b53461fcf1df2d21520739d66faad4246984d45dd567534f2ecfcab18604be4"
+    }
+   ]
+  },
+  {
    "slug": "hg-392-2002",
    "path": "hg/2002/392",
    "short": "HG nr. 392/2002",
@@ -11352,6 +13569,21 @@
    ]
   },
   {
+   "slug": "hg-393-2002",
+   "path": "hg/2002/393",
+   "short": "HG nr. 393/2002",
+   "title": "Hotărârea Guvernului nr. 393/2002 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 199/2000 privind utilizarea eficienta a energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35705",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35705",
+     "sha256": "057e63c5c66552dcde1ca5e23fdd9ff2464081d8f489fa20fa2d18cb6a21cf21"
+    }
+   ]
+  },
+  {
    "slug": "hg-394-2002",
    "path": "hg/2002/394",
    "short": "HG nr. 394/2002",
@@ -11363,6 +13595,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35848",
      "sha256": "52c8fded6983ac79ac60276c0005d7739cda73a0c4913af84764b174a0b89a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-395-2002",
+   "path": "hg/2002/395",
+   "short": "HG nr. 395/2002",
+   "title": "Hotărârea Guvernului nr. 395/2002 privind modalitatea de închidere a Fondului de contrapartida constituit din contravaloarea în moneda naţionala a ajutoarelor economice nerambursabile acordate României de Comisia Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35710",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35710",
+     "sha256": "a574052e0a34f76f05b3601c234e60ff1c305a07892bb92c5a8fd0dcba32b45c"
     }
    ]
   },
@@ -11397,6 +13644,21 @@
    ]
   },
   {
+   "slug": "hg-399-2002",
+   "path": "hg/2002/399",
+   "short": "HG nr. 399/2002",
+   "title": "Hotărârea Guvernului nr. 399/2002 privind actualizarea limitei creditelor bancare pentru investiţii cu caracter productiv, prevăzută la art. 10 alin. 1 lit. s) din Legea nr. 42/1990 pentru cinstirea eroilor-martiri şi acordarea unor drepturi urmaşilor acestora, răniţilor, precum şi luptătorilor pentru victoria Revoluţiei din decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35713",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35713",
+     "sha256": "e2099f0ef8738dfdf121cf39a7226639c0dc29ed0a854548aa41afbcc75e5288"
+    }
+   ]
+  },
+  {
    "slug": "hg-4-2002",
    "path": "hg/2002/4",
    "short": "HG nr. 4/2002",
@@ -11408,6 +13670,51 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33368",
      "sha256": "2e0cce7fda460d3124f4bde5cb019e6cf6e945df4fded10a69e9f8f1240e426d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-40-2002",
+   "path": "hg/2002/40",
+   "short": "HG nr. 40/2002",
+   "title": "Hotărârea Guvernului nr. 40/2002 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2001 al Companiei Naţionale \"Poşta Română\" - S.A. care funcţionează în coordonarea Ministerului Comunicaţiilor şi Tehnologiei Informaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33635",
+   "versions": [
+    {
+     "from": "2002-01-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33635",
+     "sha256": "62eb5cbb6b105128c680078e95da4028acc7806f1f3586bfe9becd40151951d8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-400-2002",
+   "path": "hg/2002/400",
+   "short": "HG nr. 400/2002",
+   "title": "Hotărârea Guvernului nr. 400/2002 privind modificarea şi completarea componentei Grupului de lucru pentru elaborarea şi monitorizarea Planului de acţiuni referitor la îmbunătăţirea mediului de afaceri, stabilită prin Hotărârea Guvernului nr. 803/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35714",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35714",
+     "sha256": "5e16ea0ac7ab0504e734973bab63c6ade015df4daf6f31f2ba178e9b2a3be354"
+    }
+   ]
+  },
+  {
+   "slug": "hg-401-2002",
+   "path": "hg/2002/401",
+   "short": "HG nr. 401/2002",
+   "title": "Hotărârea Guvernului nr. 401/2002 privind alocarea sumei de 5,2 miliarde lei din Fondul de intervenţie la dispoziţia Guvernului pe anul 2002, în vederea executării unor lucrări de reparaţii pentru înlăturarea efectelor incendiului produs la un imobil din municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35597",
+   "versions": [
+    {
+     "from": "2002-04-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35597",
+     "sha256": "7c4e2d4874e83d5d3f801cb9993c40526f6d6375187f81bef80781b8fa932b09"
     }
    ]
   },
@@ -11532,6 +13839,96 @@
    ]
   },
   {
+   "slug": "hg-41-2002",
+   "path": "hg/2002/41",
+   "short": "HG nr. 41/2002",
+   "title": "Hotărârea Guvernului nr. 41/2002 privind derularea programelor finanţate din bugetul Ministerului Sănătăţii şi Familiei şi din bugetul Fondului de asigurări sociale de sănătate, în anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33714",
+   "versions": [
+    {
+     "from": "2002-01-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33714",
+     "sha256": "3b50eda8507ded20cc0d9fbdf5cb289a7ddaa0438b791531a6a1c6e551730f60"
+    }
+   ]
+  },
+  {
+   "slug": "hg-410-2002",
+   "path": "hg/2002/410",
+   "short": "HG nr. 410/2002",
+   "title": "Hotărârea Guvernului nr. 410/2002 privind structurile şi specializările universitare acreditate sau autorizate să funcţioneze provizoriu din instituţiile de învăţământ superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35940",
+   "versions": [
+    {
+     "from": "2002-05-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35940",
+     "sha256": "e5fe2df8eacd6cf83e48c8e78e64db4f40c3f408e10fa9c730a2e774925ba70d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-411-2002",
+   "path": "hg/2002/411",
+   "short": "HG nr. 411/2002",
+   "title": "Hotărârea Guvernului nr. 411/2002 privind trecerea unui imobil din domeniul public al statului şi din administrarea Ministerului Apărării Naţionale în domeniul public al municipiului Mangalia şi în administrarea Consiliului Local al Municipiului Mangalia, judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35851",
+   "versions": [
+    {
+     "from": "2002-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35851",
+     "sha256": "851cb4c62b6668e3039e6278b4b82fe815e61d1f2261ee30c10439ddf5285c46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-412-2002",
+   "path": "hg/2002/412",
+   "short": "HG nr. 412/2002",
+   "title": "Hotărârea Guvernului nr. 412/2002 privind transmiterea unui imobil, monument istoric, din domeniul public al statului şi din administrarea Ministerului Culturii şi Cultelor în domeniul public al municipiului Câmpina şi în administrarea Consiliului Local al Municipiului Câmpina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35854",
+   "versions": [
+    {
+     "from": "2002-05-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35854",
+     "sha256": "b4fcf2135b14894fe3b701575fe0aa2a2ad38cee44ba4ff0be2ec49291a0bd0f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-414-2002",
+   "path": "hg/2002/414",
+   "short": "HG nr. 414/2002",
+   "title": "Hotărârea Guvernului nr. 414/2002 privind acordarea cetăţeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35985",
+   "versions": [
+    {
+     "from": "2002-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35985",
+     "sha256": "88de7b41f106652809b52a9f201864dcc18f91f8e4face36f36a9c3291ca537e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-415-2002",
+   "path": "hg/2002/415",
+   "short": "HG nr. 415/2002",
+   "title": "Hotărârea Guvernului nr. 415/2002 privind aprobarea renunţării la cetăţenia Română unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36104",
+   "versions": [
+    {
+     "from": "2002-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36104",
+     "sha256": "81174464ed2c79cba356f07508041311babf289219b87f9390e55535d4aed9ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-416-2002",
    "path": "hg/2002/416",
    "short": "HG nr. 416/2002",
@@ -11558,6 +13955,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35881",
      "sha256": "311783865a4853a3c3321d3a3ac43f1854b05f59749b5fdd44fc4a67c3cb7a86"
+    }
+   ]
+  },
+  {
+   "slug": "hg-418-2002",
+   "path": "hg/2002/418",
+   "short": "HG nr. 418/2002",
+   "title": "Hotărârea Guvernului nr. 418/2002 pentru oprirea definitivă în vederea dezafectării a Reactorului nuclear (RN) VVR-S de cercetare şi producţie de radioizotopi din cadrul Institutului Naţional de Cercetare-Dezvoltare pentru Fizică şi Inginerie Nucleară \"Horia Hulubei\" (IFIN-HH), Bucureşti-Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35882",
+   "versions": [
+    {
+     "from": "2002-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35882",
+     "sha256": "eb2d1e2e46c80b103a039cda57bef67c61775b06a67eb541352876947ab1c379"
+    }
+   ]
+  },
+  {
+   "slug": "hg-419-2002",
+   "path": "hg/2002/419",
+   "short": "HG nr. 419/2002",
+   "title": "Hotărârea Guvernului nr. 419/2002 privind darea în administrarea Casei judeţene de pensii Dolj a unui imobil proprietate publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35936",
+   "versions": [
+    {
+     "from": "2002-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35936",
+     "sha256": "94e8cfcf0119c413e63423844cc2c137792a28015a6855e5674ddd9124f4e3b2"
     }
    ]
   },
@@ -11592,6 +14019,21 @@
    ]
   },
   {
+   "slug": "hg-421-2002",
+   "path": "hg/2002/421",
+   "short": "HG nr. 421/2002",
+   "title": "Hotărârea Guvernului nr. 421/2002 pentru aprobarea Programului româno-francez de cooperare culturală, ştiinţifică şi tehnică pentru anii 2001-2004, semnat la Bucureşti la 13 iunie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36282",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36282",
+     "sha256": "ae5951e1e3311bd8ec3decfb3fb6822f75e28ef10f37568d44cbef3127b3d354"
+    }
+   ]
+  },
+  {
    "slug": "hg-422-2002",
    "path": "hg/2002/422",
    "short": "HG nr. 422/2002",
@@ -11618,6 +14060,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35963",
      "sha256": "68b4c55f9ea7560cfb232630251977a89332498158a4b5df3ff09ce375a25057"
+    }
+   ]
+  },
+  {
+   "slug": "hg-424-2002",
+   "path": "hg/2002/424",
+   "short": "HG nr. 424/2002",
+   "title": "Hotărârea Guvernului nr. 424/2002 privind transmiterea fără plata a unui imobil, proprietate privată a statului, din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în administrarea Ministerului Industriei şi Resurselor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35966",
+   "versions": [
+    {
+     "from": "2002-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35966",
+     "sha256": "2349c2123453b9b4766f89910715048d51cbc9edee0c73faa98f39362eecaeff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-425-2002",
+   "path": "hg/2002/425",
+   "short": "HG nr. 425/2002",
+   "title": "Hotărârea Guvernului nr. 425/2002 privind organizarea în România a Reuniunii anuale a adjuncţilor şefilor de state majore din ţările membre SEDM (Procesul reuniunilor miniştrilor apărării din Sud-Estul Europei)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35960",
+   "versions": [
+    {
+     "from": "2002-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35960",
+     "sha256": "eafccccdeabb409fe4c971d861c4de3aaa7397f08fea3abe765212951b6ad6f8"
     }
    ]
   },
@@ -11682,6 +14154,21 @@
    ]
   },
   {
+   "slug": "hg-43-2002",
+   "path": "hg/2002/43",
+   "short": "HG nr. 43/2002",
+   "title": "Hotărârea Guvernului nr. 43/2002 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Companiei Naţionale a Imprimeriilor \"Coresi\" - S.A., aflată sub autoritatea Ministerului Culturii şi Cultelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33712",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33712",
+     "sha256": "78bdf5d8f1f05e8687beceb300ca9099543f70a1967c6c6a686b06e41d877c0f"
+    }
+   ]
+  },
+  {
    "slug": "hg-430-2002",
    "path": "hg/2002/430",
    "short": "HG nr. 430/2002",
@@ -11727,6 +14214,21 @@
    ]
   },
   {
+   "slug": "hg-433-2002",
+   "path": "hg/2002/433",
+   "short": "HG nr. 433/2002",
+   "title": "Hotărârea Guvernului nr. 433/2002 privind stabilirea condiţiilor de punere în funcţiune a instalaţiilor de transport pe cablu pentru persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36352",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36352",
+     "sha256": "f67d89c76db15f458fda12b90c6ba96d3c1cda6c552e183e4c895599569eefe2"
+    }
+   ]
+  },
+  {
    "slug": "hg-434-2002",
    "path": "hg/2002/434",
    "short": "HG nr. 434/2002",
@@ -11753,6 +14255,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35974",
      "sha256": "45fab3df504e2f28f8b66c0b2e3b71a612858d1a4c8a99e375f3a4bb8600a7c4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-436-2002",
+   "path": "hg/2002/436",
+   "short": "HG nr. 436/2002",
+   "title": "Hotărârea Guvernului nr. 436/2002 pentru modificarea şi completarea Hotărârii Guvernului nr. 518/1995 privind unele drepturi şi obligaţii ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36015",
+   "versions": [
+    {
+     "from": "2002-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36015",
+     "sha256": "b377b314c1c147b7741334fb8d9a593b0426f0ef200304e5348558192b2e3fde"
     }
    ]
   },
@@ -11798,6 +14315,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36039",
      "sha256": "e82c9e653484eec8a529137004d7edee495798d9a284a2702021f364a27b3b5b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-44-2002",
+   "path": "hg/2002/44",
+   "short": "HG nr. 44/2002",
+   "title": "Hotărârea Guvernului nr. 44/2002 pentru completarea anexei la Hotărârea Guvernului nr. 906/2001 privind înfiinţarea, organizarea şi funcţionarea Consiliului Interministerial de Avizare Lucrări Publice de Interes Naţional şi Locuinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33715",
+   "versions": [
+    {
+     "from": "2002-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33715",
+     "sha256": "6f98b1a42ee6ca7d6cebc77affc6b3115aeac4b294994d91ac46fe761b174258"
+    }
+   ]
+  },
+  {
+   "slug": "hg-440-2002",
+   "path": "hg/2002/440",
+   "short": "HG nr. 440/2002",
+   "title": "Hotărârea Guvernului nr. 440/2002 privind transferul participaţiei statului la unele societăţi comerciale de tip \"Comcereal\"/\"Cerealcom\" de la Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului către Agenţia Domeniilor Statului aflată în subordinea Ministerului Agriculturii, Alimentaţiei şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35993",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35993",
+     "sha256": "d11e13dbad8f06d6f9ac26f66ec54026de13e47393ed08663fd4068c3c26f957"
     }
    ]
   },
@@ -11907,6 +14454,21 @@
    ]
   },
   {
+   "slug": "hg-448-2002",
+   "path": "hg/2002/448",
+   "short": "HG nr. 448/2002",
+   "title": "Hotărârea Guvernului nr. 448/2002 pentru aprobarea categoriilor de construcţii şi amenajări care se supun avizării/autorizării de prevenire şi stingere a incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36176",
+   "versions": [
+    {
+     "from": "2002-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36176",
+     "sha256": "d29f603a7f045e55f57408f95a4cf3a9ab71d1a22d1fcca5a7fe4cc3a727b769"
+    }
+   ]
+  },
+  {
    "slug": "hg-449-2002",
    "path": "hg/2002/449",
    "short": "HG nr. 449/2002",
@@ -11952,6 +14514,21 @@
    ]
   },
   {
+   "slug": "hg-451-2002",
+   "path": "hg/2002/451",
+   "short": "HG nr. 451/2002",
+   "title": "Hotărârea Guvernului nr. 451/2002 privind înfiinţarea Societăţii Comerciale \"Institutul de Cercetări Alimentare\" - S.A. prin reorganizarea Institutului de Chimie Alimentara Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36167",
+   "versions": [
+    {
+     "from": "2002-05-23",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36167",
+     "sha256": "05ae0f98af19c56983125580802b61f1fb96f989c1d99a779f1b6aae8c90a4e3"
+    }
+   ]
+  },
+  {
    "slug": "hg-452-2002",
    "path": "hg/2002/452",
    "short": "HG nr. 452/2002",
@@ -11978,6 +14555,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36133",
      "sha256": "967e659f960391a5112c8cb4bd1e8f6b24c065b44f2bd08297ef03808304c76d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-454-2002",
+   "path": "hg/2002/454",
+   "short": "HG nr. 454/2002",
+   "title": "Hotărârea Guvernului nr. 454/2002 pentru aprobarea închirierii unui spaţiu de către Ministerul Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36134",
+   "versions": [
+    {
+     "from": "2002-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36134",
+     "sha256": "b873a021f1831c61e9b8e2cf14b82a6c0d3ae5802a062871092691ff140d4fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-455-2002",
+   "path": "hg/2002/455",
+   "short": "HG nr. 455/2002",
+   "title": "Hotărârea Guvernului nr. 455/2002 pentru aprobarea plăţii contribuţiilor voluntare, în lei, ale României la programele şi fondurile de dezvoltare ale O.N.U., pe anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36109",
+   "versions": [
+    {
+     "from": "2002-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36109",
+     "sha256": "122560613034b8e8d1270ff266715583f346e51b81500339d2c9cf01ad9b6bab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-456-2002",
+   "path": "hg/2002/456",
+   "short": "HG nr. 456/2002",
+   "title": "Hotărârea Guvernului nr. 456/2002 pentru aprobarea plăţii contribuţiei voluntare, în lei, a României la Fondul Programului Special de Dezvoltare al Agenţiei Interguvernamentale a Francofoniei, pe anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36110",
+   "versions": [
+    {
+     "from": "2002-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36110",
+     "sha256": "37d23fe700d342322fc774e6ed05a062f7f805d7ffcfd512459ad7696edab2df"
     }
    ]
   },
@@ -12023,6 +14645,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36217",
      "sha256": "ad4ddbaf15874dcec33993fd9330c6bc283cb7294c58a4bb2974e0d32b3e2bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-46-2002",
+   "path": "hg/2002/46",
+   "short": "HG nr. 46/2002",
+   "title": "Hotărârea Guvernului nr. 46/2002 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Tunisiene privind colaborarea în domeniul turismului, semnat la Tunis la 16 octombrie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33717",
+   "versions": [
+    {
+     "from": "2002-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33717",
+     "sha256": "6e985ac45f0a0036b34ad9cd93e33691b102deb42d88167900f8eee17763ab14"
+    }
+   ]
+  },
+  {
+   "slug": "hg-460-2002",
+   "path": "hg/2002/460",
+   "short": "HG nr. 460/2002",
+   "title": "Hotărârea Guvernului nr. 460/2002 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 517/1999 privind delimitarea suprafeţelor de teren strict necesare pentru cercetarea şi producerea de seminţe şi material săditor din categorii biologice superioare şi de animale de rasa şi trecerea terenurilor destinate producţiei, aflate în administrarea institutelor şi staţiunilor de cercetare şi producţie agricolă, în domeniul privat al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36111",
+   "versions": [
+    {
+     "from": "2002-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36111",
+     "sha256": "ca0907e432cb3930fd7cd1b20e7f743e0b88293d1e29da6f7fcf92a45a01128e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-461-2002",
+   "path": "hg/2002/461",
+   "short": "HG nr. 461/2002",
+   "title": "Hotărârea Guvernului nr. 461/2002 pentru aprobarea Convenţiei dintre Ministerul Industriei şi Resurselor din România şi Ministerul Federal al Economiei şi Tehnologiei din Republica Federala Germania privind cooperarea în domeniul energiei, semnată la Berlin la 17 aprilie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36391",
+   "versions": [
+    {
+     "from": "2002-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36391",
+     "sha256": "148678b56c6d3e0d7b2fbd5cf0aa1a93a39361d974c885d11080d281ce28e469"
     }
    ]
   },
@@ -12132,6 +14799,66 @@
    ]
   },
   {
+   "slug": "hg-469-2002",
+   "path": "hg/2002/469",
+   "short": "HG nr. 469/2002",
+   "title": "Hotărârea Guvernului nr. 469/2002 privind înfiinţarea magazinelor \"Economat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36203",
+   "versions": [
+    {
+     "from": "2002-05-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36203",
+     "sha256": "252d982aef9a3004592845c3e49e375a1fe53375206e7e5e282a46fe41df917d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-47-2002",
+   "path": "hg/2002/47",
+   "short": "HG nr. 47/2002",
+   "title": "Hotărârea Guvernului nr. 47/2002 pentru aprobarea Memorandumului de înţelegere între Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 14 noiembrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33719",
+   "versions": [
+    {
+     "from": "2002-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33719",
+     "sha256": "a2e38b80c6dfb05ced4b77aa0f7e52720d605eff9f7873ef7fce695f50bfaea6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-470-2002",
+   "path": "hg/2002/470",
+   "short": "HG nr. 470/2002",
+   "title": "Hotărârea Guvernului nr. 470/2002 privind acordarea unui ajutor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36204",
+   "versions": [
+    {
+     "from": "2002-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36204",
+     "sha256": "c5e3813dc6e246880c84a9f7dafd61dab85b5dd20be0d08b142b21bf743f32f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-471-2002",
+   "path": "hg/2002/471",
+   "short": "HG nr. 471/2002",
+   "title": "Hotărârea Guvernului nr. 471/2002 privind atribuirea unui imobil cu destinaţia de sediu pentru Ministerul Afacerilor Externe - Departamentul de comerţ exterior şi promovare economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36154",
+   "versions": [
+    {
+     "from": "2002-05-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36154",
+     "sha256": "b4587f563b61afecde9c790ecc2709f7552e4657549feb3411a0525f32b3d610"
+    }
+   ]
+  },
+  {
    "slug": "hg-472-2002",
    "path": "hg/2002/472",
    "short": "HG nr. 472/2002",
@@ -12203,6 +14930,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36259",
      "sha256": "366b7ec44f1b702d8615ae0199fd9b77870847fa3ae286b537dffdf6f03844fe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-477-2002",
+   "path": "hg/2002/477",
+   "short": "HG nr. 477/2002",
+   "title": "Hotărârea Guvernului nr. 477/2002 privind alocarea din Fondul de rezervă bugetară la dispoziţia Guvernului a sumei de 1,5 miliarde lei pentru Eparhia Argeşului şi Muscelului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36214",
+   "versions": [
+    {
+     "from": "2002-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36214",
+     "sha256": "19a3d79a8cf1d913fb60928ffd4ca8bcf8a35786cd56ff603eda43add46ce56e"
     }
    ]
   },
@@ -12297,6 +15039,36 @@
    ]
   },
   {
+   "slug": "hg-483-2002",
+   "path": "hg/2002/483",
+   "short": "HG nr. 483/2002",
+   "title": "Hotărârea Guvernului nr. 483/2002 privind organizarea Seminarului pe probleme de afaceri europene, ediţia I, la Mamaia, în perioada 1-7 iunie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36215",
+   "versions": [
+    {
+     "from": "2002-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36215",
+     "sha256": "c52a89b1cfeefe996a173614b09c51a81471ab28c923ff2fc7239776daca830b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-484-2002",
+   "path": "hg/2002/484",
+   "short": "HG nr. 484/2002",
+   "title": "Hotărârea Guvernului nr. 484/2002 privind aprobarea indicatorilor tehnico-economici ai obiectivelor de investiţii cuprinse în Programul \"Utilităţi şi mediu la standarde europene în judeţul Suceava\", finanţat din împrumuturi externe contractate de Consiliul Judeţean Suceava sau de către acesta împreună cu consiliile locale asociate, cu garanţia statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36275",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36275",
+     "sha256": "cd64966eb2da6b7951b698ec04bc803ff0d9b97b5a0a112b69070a0a64bc40b6"
+    }
+   ]
+  },
+  {
    "slug": "hg-485-2002",
    "path": "hg/2002/485",
    "short": "HG nr. 485/2002",
@@ -12383,6 +15155,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36344",
      "sha256": "ccdf06da678c43be3e0ca535c15e9561986492f1b149d2b904b156a311b5f345"
+    }
+   ]
+  },
+  {
+   "slug": "hg-493-2002",
+   "path": "hg/2002/493",
+   "short": "HG nr. 493/2002",
+   "title": "Hotărârea Guvernului nr. 493/2002 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2002 al Autorităţii pentru Valorificarea Activelor Bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36254",
+   "versions": [
+    {
+     "from": "2002-05-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36254",
+     "sha256": "9caa8ebe33968748aa6bc335131d8a984884943373afd7f4f0df05916d0bfb91"
     }
    ]
   },
@@ -12477,6 +15264,51 @@
    ]
   },
   {
+   "slug": "hg-5-2002",
+   "path": "hg/2002/5",
+   "short": "HG nr. 5/2002",
+   "title": "Hotărârea Guvernului nr. 5/2002 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Mărirea gradului de siguranţă a Sistemului Energetic Naţional prin retehnologizarea staţiei electrice de 400/220 kV Roşiori\", judeţul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33431",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33431",
+     "sha256": "d6d16be3277a1f4af3cc366d20164768d097cb535150c00f44153aa187de635e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-50-2002",
+   "path": "hg/2002/50",
+   "short": "HG nr. 50/2002",
+   "title": "Hotărârea Guvernului nr. 50/2002 pentru completarea art. 1 din Hotărârea Guvernului nr. 756/2001 privind aprobarea garantării în proporţie de 100% a unor credite externe în valoare totală de maximum 400 milioane dolari S.U.A. în favoarea Societăţii Comerciale de Producere a Energiei Electrice şi Termice \"Termoelectrica\" - S.A. pentru plata achiziţiilor de combustibili necesari în vederea funcţionarii Sistemului energetic naţional, precum şi pentru garantarea acestor credite de Ministerul Finanţelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33639",
+   "versions": [
+    {
+     "from": "2002-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33639",
+     "sha256": "d304f1c1f3c38318fcb17bb7ae51321336f11aa955b1c04913fc07f499e6a266"
+    }
+   ]
+  },
+  {
+   "slug": "hg-501-2002",
+   "path": "hg/2002/501",
+   "short": "HG nr. 501/2002",
+   "title": "Hotărârea Guvernului nr. 501/2002 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 517/1999 privind delimitarea suprafeţelor de teren strict necesare pentru cercetarea şi producerea de seminţe şi material săditor din categorii biologice superioare şi de animale de rasa şi trecerea terenurilor destinate producţiei, aflate în administrarea institutelor şi staţiunilor de cercetare şi producţie agricolă, în domeniul privat al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36244",
+   "versions": [
+    {
+     "from": "2002-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36244",
+     "sha256": "67156238b9c8232216761158b0c3248288d46a3db3ad5b765c8bcea1aca1226e"
+    }
+   ]
+  },
+  {
    "slug": "hg-502-2002",
    "path": "hg/2002/502",
    "short": "HG nr. 502/2002",
@@ -12488,6 +15320,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36243",
      "sha256": "3a939026f370f843d5e97d8232752b354fed51f54ea69dd862d940f7c99f1b97"
+    }
+   ]
+  },
+  {
+   "slug": "hg-503-2002",
+   "path": "hg/2002/503",
+   "short": "HG nr. 503/2002",
+   "title": "Hotărârea Guvernului nr. 503/2002 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 517/1999 privind delimitarea suprafeţelor de teren strict necesare pentru cercetarea şi producerea de seminţe şi material săditor din categorii biologice superioare şi de animale de rasa şi trecerea terenurilor destinate producţiei, aflate în administrarea institutelor şi staţiunilor de cercetare şi producţie agricolă, în domeniul privat al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36246",
+   "versions": [
+    {
+     "from": "2002-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36246",
+     "sha256": "b2aacf38e693674026c4a25ba7fd9604803bb68b7defbcd2eb3d9086bcc83752"
+    }
+   ]
+  },
+  {
+   "slug": "hg-504-2002",
+   "path": "hg/2002/504",
+   "short": "HG nr. 504/2002",
+   "title": "Hotărârea Guvernului nr. 504/2002 pentru aprobarea amendamentului convenit prin schimb de scrisori, semnate la Bucureşti la 19 februarie 2002 şi la Zagreb la 21 februarie 2002, între Guvernul României şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare cu privire la reforma învăţământului preuniversitar, semnat la Washington la 23 mai 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36249",
+   "versions": [
+    {
+     "from": "2002-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36249",
+     "sha256": "8c2b4abe784472dd81b9d240d36120a13e3cc4b6ecd155830bf011ee527ac657"
     }
    ]
   },
@@ -12563,6 +15425,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36251",
      "sha256": "3bda9742eb4038366fb2983843412425caaf760cbb8841381ee6bad0dfe0e11f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-51-2002",
+   "path": "hg/2002/51",
+   "short": "HG nr. 51/2002",
+   "title": "Hotărârea Guvernului nr. 51/2002 privind aprobarea majorării plafonului valoric al mesei calde zilnice care se acordă personalului minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33723",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33723",
+     "sha256": "7d17f75353344e187d20c5f97c77d0cd2cc06593245c046804f3839796f9a484"
     }
    ]
   },
@@ -12698,6 +15575,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36371",
      "sha256": "f129bad68d69f654b1b7509ef67ff1b6c4ca74fadf1538b83a0bfb36106a538d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-52-2002",
+   "path": "hg/2002/52",
+   "short": "HG nr. 52/2002",
+   "title": "Hotărârea Guvernului nr. 52/2002 privind aprobarea amendamentelor convenite prin scrisoarea semnată de reprezentantul Guvernului României şi, respectiv, de reprezentantul Băncii Internaţionale pentru Reconstrucţie şi Dezvoltare, la Washington şi la Bucureşti la 26 septembrie 2001 şi, respectiv, la 22 octombrie 2001, cu privire la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind Proiectul cadastrului general şi publicităţii imobiliare, în suma de 25,5 milioane dolari S.U.A., semnat la Washington la 23 ianuarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33733",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33733",
+     "sha256": "acb3910fc19e623d8929c0c79eff4277964813911a3710bde562171da0f2da25"
     }
    ]
   },
@@ -12848,6 +15740,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36446",
      "sha256": "f5df3f1529835a2471920d9ae86600dc5ae4d7ae61b4dd221c71aa6782f9e39a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-53-2002",
+   "path": "hg/2002/53",
+   "short": "HG nr. 53/2002",
+   "title": "Hotărârea Guvernului nr. 53/2002 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Turcia privind cooperarea în domeniul protecţiei mediului, semnat la Bucureşti la 10 septembrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33734",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33734",
+     "sha256": "da9d42f0f999741ba8d763f8b83af6c53e6f59c1fb00c987b201f40accdb2db8"
     }
    ]
   },
@@ -13008,6 +15915,21 @@
    ]
   },
   {
+   "slug": "hg-54-2002",
+   "path": "hg/2002/54",
+   "short": "HG nr. 54/2002",
+   "title": "Hotărârea Guvernului nr. 54/2002 privind sprijinul direct al statului prin acordarea de subvenţii, în anul 2002, producătorilor agricoli din sectorul animalier, pentru creşterea producţiei de carne şi a efectivelor de animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33739",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33739",
+     "sha256": "0928819db93194e35c6800d320fd2d00befd58e7d5b58bf1eb1c9e8420387c61"
+    }
+   ]
+  },
+  {
    "slug": "hg-540-2002",
    "path": "hg/2002/540",
    "short": "HG nr. 540/2002",
@@ -13154,6 +16076,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36587",
      "sha256": "8844a8ae28ee1e31abebd4abc29054f84eab8c483233f19d4c874a544e87af0e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-55-2002",
+   "path": "hg/2002/55",
+   "short": "HG nr. 55/2002",
+   "title": "Hotărârea Guvernului nr. 55/2002 pentru instituirea măsurii de salvgardare în cadrul Sistemului global de preferinţe comerciale între ţările în curs de dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33740",
+   "versions": [
+    {
+     "from": "2002-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33740",
+     "sha256": "5d231144909cf052e377947ff0404af00fa6da981938172f604726cc91676ef8"
     }
    ]
   },
@@ -13445,6 +16382,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36612",
      "sha256": "3fa2b51c146d06e153aa6cb3008a3847cb2bb3b2a2fb76a97b83d139eea9da6c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-57-2002",
+   "path": "hg/2002/57",
+   "short": "HG nr. 57/2002",
+   "title": "Hotărârea Guvernului nr. 57/2002 privind modificarea Ghidului de proceduri pentru acordarea de stimulente financiare, prin Agenţia Naţionala pentru Dezvoltarea şi Implementarea Programelor de Reconstrucţie a Zonelor Miniere, antreprenorilor locali, în vederea angajării şi instruirii persoanelor fără loc de muncă, provenite din activitatea miniera şi din activităţile conexe acesteia, aprobat prin Hotărârea Guvernului nr. 1.005/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33921",
+   "versions": [
+    {
+     "from": "2002-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33921",
+     "sha256": "5161544c1aa16ca65bb3311a1794f7cae7c52bee2600444c5b1cb0454a1ebf5c"
     }
    ]
   },
@@ -13751,6 +16703,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36826",
      "sha256": "bf8d7dd673ec75e8371d44ee3a4afd5923674ce7e607053267e744231db87d81"
+    }
+   ]
+  },
+  {
+   "slug": "hg-6-2002",
+   "path": "hg/2002/6",
+   "short": "HG nr. 6/2002",
+   "title": "Hotărârea Guvernului nr. 6/2002 pentru abrogarea Hotărârii Guvernului nr. 987/2000 privind transmiterea unor bunuri, proprietate publică a statului, din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în administrarea Ministerului Apărării Naţionale şi comasarea prin absorbţie a Complexului Olăneşti cu Regia Autonomă \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33432",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33432",
+     "sha256": "62952c4d78385ffb7b9e2e2f100b7e0c24f7a220dcac4614bf9ca96e91a063e6"
     }
    ]
   },
@@ -14331,6 +17298,21 @@
    ]
   },
   {
+   "slug": "hg-64-2002",
+   "path": "hg/2002/64",
+   "short": "HG nr. 64/2002",
+   "title": "Hotărârea Guvernului nr. 64/2002 privind trecerea unor imobile din domeniul public al statului şi administrarea Regiei Autonome a Distribuţiei şi Exploatării Filmelor \"România-Film\" în domeniul public al oraşelor Ocna Mureş şi, respectiv, Câmpeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33877",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33877",
+     "sha256": "14c240a2ef722fad9af8553e0184d4e025c99d1156035e8e6bce1bd348fa2fa2"
+    }
+   ]
+  },
+  {
    "slug": "hg-640-2002",
    "path": "hg/2002/640",
    "short": "HG nr. 640/2002",
@@ -14462,6 +17444,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37001",
      "sha256": "e4b8d20bc5078dfa3e0377a7797b8f21b96cb33dce7b66a2a2b1b5c18e4cd37a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-65-2002",
+   "path": "hg/2002/65",
+   "short": "HG nr. 65/2002",
+   "title": "Hotărârea Guvernului nr. 65/2002 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Suediei privind cooperarea în domeniul energiei şi mediului, semnat la Bucureşti la 26 noiembrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33860",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33860",
+     "sha256": "91a4a6ec74bfbd2a7d4f0c7c66c4c3bafabd2dd08ed8848846b1c6f462cb36fc"
     }
    ]
   },
@@ -14616,6 +17613,21 @@
    ]
   },
   {
+   "slug": "hg-66-2002",
+   "path": "hg/2002/66",
+   "short": "HG nr. 66/2002",
+   "title": "Hotărârea Guvernului nr. 66/2002 privind modificarea şi completarea art. 2 din hotărârile Guvernului nr. 1.088/2001 , nr. 1.089/2001 , nr. 1.090/2001 , nr. 1.091/2001 , nr. 1.092/2001 , nr. 1.093/2001 şi nr. 1.094/2001 privind înfiinţarea societăţilor comerciale \"Uzina Termica Calafat\", \"Uzina Termica Vaslui\", \"Uzina Termoelectrica Midia\", \"Uzina Electrica Zalău\", \"Uzina Termoelectrica Giurgiu\", \"Uzina Termica Comăneşti\" şi \"Uzina Electrica Gura Barza\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33818",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33818",
+     "sha256": "bde9dc1d56fa10dcf915b54095cdd9701d2812919001d8a128676c7f8ab8ce46"
+    }
+   ]
+  },
+  {
    "slug": "hg-660-2002",
    "path": "hg/2002/660",
    "short": "HG nr. 660/2002",
@@ -14732,6 +17744,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37114",
      "sha256": "4ba376582b4ae70930e1c3c9e28ae8774a3c113eb1e8ea9d3383cbc8ffbe34ca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-67-2002",
+   "path": "hg/2002/67",
+   "short": "HG nr. 67/2002",
+   "title": "Hotărârea Guvernului nr. 67/2002 privind completarea componentei Grupului de lucru pentru elaborarea şi monitorizarea Planului de acţiuni referitor la îmbunătăţirea mediului de afaceri, stabilită prin Hotărârea Guvernului nr. 803/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33853",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33853",
+     "sha256": "8ec6186f395c78a0a1d180a73ff498f8e6e4739aeaaeb1c91b83f7444624b3e7"
     }
    ]
   },
@@ -15036,6 +18063,21 @@
    ]
   },
   {
+   "slug": "hg-69-2002",
+   "path": "hg/2002/69",
+   "short": "HG nr. 69/2002",
+   "title": "Hotărârea Guvernului nr. 69/2002 pentru modificarea şi completarea Hotărârii Guvernului nr. 680/2001 privind organizarea şi desfăşurarea recensământului populaţiei şi al locuinţelor din România în anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33855",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33855",
+     "sha256": "311481aa0bf4dc8bfddc1c68af7ea9fe54f0d9cda67e5e11b8b5cef8e3f7fe48"
+    }
+   ]
+  },
+  {
    "slug": "hg-690-2002",
    "path": "hg/2002/690",
    "short": "HG nr. 690/2002",
@@ -15167,6 +18209,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37224",
      "sha256": "677fde27a91479cc981ef42076a21f3a1859e3feff732067cad166a26fcdc1ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-2002",
+   "path": "hg/2002/7",
+   "short": "HG nr. 7/2002",
+   "title": "Hotărârea Guvernului nr. 7/2002 privind alocarea unor sume din Fondul de intervenţie la dispoziţia Guvernului pe anul 2002, pentru lucrări operative de înlăturare a efectelor unor calamitaţi naturale produse în judeţele Bacău, Botoşani, Iaşi, Neamţ, Suceava şi Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33372",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33372",
+     "sha256": "4376313620c1520bf45b784b6b19d26c67e3bcac9b3f459b68ecff0f35fcb5fd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-70-2002",
+   "path": "hg/2002/70",
+   "short": "HG nr. 70/2002",
+   "title": "Hotărârea Guvernului nr. 70/2002 pentru trecerea din domeniul public al statului în domeniul privat al statului a unor construcţii aflate în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33849",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33849",
+     "sha256": "8414a2182160cf3670ab04081fb943997c03aa219789426121c6fe27b75bf70f"
     }
    ]
   },
@@ -15462,6 +18534,21 @@
    ]
   },
   {
+   "slug": "hg-72-2002",
+   "path": "hg/2002/72",
+   "short": "HG nr. 72/2002",
+   "title": "Hotărârea Guvernului nr. 72/2002 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 2002 al Regiei Autonome a Distribuţiei şi Exploatării Filmelor \"România-Film\", aflată sub autoritatea Ministerului Culturii şi Cultelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33845",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33845",
+     "sha256": "a7f284a9e0bdb511c8bbb9a4523e8be6435bb0c587d50c82e8e2e7377331ed2e"
+    }
+   ]
+  },
+  {
    "slug": "hg-720-2002",
    "path": "hg/2002/720",
    "short": "HG nr. 720/2002",
@@ -15612,6 +18699,21 @@
    ]
   },
   {
+   "slug": "hg-73-2002",
+   "path": "hg/2002/73",
+   "short": "HG nr. 73/2002",
+   "title": "Hotărârea Guvernului nr. 73/2002 pentru aprobarea amendamentelor convenite prin schimb de scrisori semnate la Bucureşti la 30 octombrie 2000 şi 24 aprilie 2001, respectiv la Washington la 12 iulie şi 24 octombrie 2001, între Guvernul României, prin Ministerul Finanţelor Publice, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de dezvoltare industriala, semnat la Washington la 21 martie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33850",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33850",
+     "sha256": "d4aaaa17f8333943c4af35580faf5dc3e918ecddf3373bcb17a9dc7089aaf4cf"
+    }
+   ]
+  },
+  {
    "slug": "hg-730-2002",
    "path": "hg/2002/730",
    "short": "HG nr. 730/2002",
@@ -15743,6 +18845,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37429",
      "sha256": "67476bb6e47b998d8d8de1a3de758507f94054dd77396284deebf30149c2780d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-74-2002",
+   "path": "hg/2002/74",
+   "short": "HG nr. 74/2002",
+   "title": "Hotărârea Guvernului nr. 74/2002 pentru numirea asistentului român coordonator al bazei de date a proiectului \"Calea ferată transeuropeana (TER)\" din cadrul Acordului dintre Comisia Economică pentru Europa a Organizaţiei Naţiunilor Unite (C.E.E./O.N.U.) şi guvernele participante privind fondul de cooperare şi creditare, semnat la Geneva la 17 decembrie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33846",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33846",
+     "sha256": "dd28f6f2c1908f5167115edd326c150d437d28b2763df64b3ee6caa19d5a5001"
     }
    ]
   },
@@ -16317,6 +19434,21 @@
    ]
   },
   {
+   "slug": "hg-78-2002",
+   "path": "hg/2002/78",
+   "short": "HG nr. 78/2002",
+   "title": "Hotărârea Guvernului nr. 78/2002 privind modificarea indicatorilor tehnico-economici ai obiectivelor de investiţii cuprinse în Programul de dezvoltare a utilităţilor municipale din municipiul Târgu Mureş, aprobat prin Hotărârea Guvernului nr. 921/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33962",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33962",
+     "sha256": "f6bf0469c443ef842d3e58869c978a1b19c61ba8ff0b4f746821c7134ffb3fcf"
+    }
+   ]
+  },
+  {
    "slug": "hg-780-2002",
    "path": "hg/2002/780",
    "short": "HG nr. 780/2002",
@@ -16473,6 +19605,21 @@
    ]
   },
   {
+   "slug": "hg-79-2002",
+   "path": "hg/2002/79",
+   "short": "HG nr. 79/2002",
+   "title": "Hotărârea Guvernului nr. 79/2002 pentru modificarea Hotărârii Guvernului nr. 708/2001 privind aprobarea structurii, indicatorilor şi fondurilor aferente programelor care se experimentează şi se finanţează din bugetul Ministerului Lucrărilor Publice, Transporturilor şi Locuinţei în anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34076",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34076",
+     "sha256": "8ae15c09e55256b653d5e929c74484e9f4f179a00f207181a23394c1ff296c6b"
+    }
+   ]
+  },
+  {
    "slug": "hg-792-2002",
    "path": "hg/2002/792",
    "short": "HG nr. 792/2002",
@@ -16589,6 +19736,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37996",
      "sha256": "239892a6b90987a09836c3c039db10fa2f5b92002bb0c4d0f7fecf37499442ef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-8-2002",
+   "path": "hg/2002/8",
+   "short": "HG nr. 8/2002",
+   "title": "Hotărârea Guvernului nr. 8/2002 pentru modificarea şi completarea Hotărârii Guvernului nr. 714/2001 privind transferul Închisorii Militare nr. 5 Caracal din subordinea Ministerului Apărării Naţionale în subordinea Ministerului de Interne - Comandamentul Naţional al Jandarmeriei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33373",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33373",
+     "sha256": "137cb381a7d833fa9af789589984fc90f19e8f36124e7786035b31258b2f9944"
     }
    ]
   },
@@ -16754,6 +19916,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37861",
      "sha256": "850caa5616ed88df9036fd8c586976b65fbfd9f5351432f62b2e2297d80ed62e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-81-2002",
+   "path": "hg/2002/81",
+   "short": "HG nr. 81/2002",
+   "title": "Hotărârea Guvernului nr. 81/2002 pentru aprobarea Acordului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Letonia privind cooperarea în domeniul militar, semnat la Bucureşti la 6 noiembrie 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34032",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34032",
+     "sha256": "1b46f88f56ad61040083ffdf68439a571209f08015409004466f9fd2823b38f4"
     }
    ]
   },
@@ -17490,6 +20667,21 @@
    ]
   },
   {
+   "slug": "hg-86-2002",
+   "path": "hg/2002/86",
+   "short": "HG nr. 86/2002",
+   "title": "Hotărârea Guvernului nr. 86/2002 privind numirea domnului Vasile Ioan Dănuţ Ungureanu în funcţia de prefect al judeţului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33952",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33952",
+     "sha256": "4d14655430502187c4a8f0f5ed423e06b80734fd24ab0db2b7c4d1891a4a2608"
+    }
+   ]
+  },
+  {
    "slug": "hg-860-2002",
    "path": "hg/2002/860",
    "short": "HG nr. 860/2002",
@@ -18087,6 +21279,21 @@
    ]
   },
   {
+   "slug": "hg-9-2002",
+   "path": "hg/2002/9",
+   "short": "HG nr. 9/2002",
+   "title": "Hotărârea Guvernului nr. 9/2002 pentru completarea anexei nr. 1 la Hotărârea Guvernului nr. 340/1992 privind regimul de import al deşeurilor şi reziduurilor de orice natura, precum şi al altor mărfuri periculoase pentru sănătatea populaţiei şi pentru mediul înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33374",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33374",
+     "sha256": "c0dd9a40a9340481ae81fa875f427e4cea32ab682766697c9cc7e48f05f2522f"
+    }
+   ]
+  },
+  {
    "slug": "hg-90-2002",
    "path": "hg/2002/90",
    "short": "HG nr. 90/2002",
@@ -18218,6 +21425,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38279",
      "sha256": "f23288f2a61979fe471c8052920fafb96110571aa581a293d6e7af507fcab305"
+    }
+   ]
+  },
+  {
+   "slug": "hg-91-2002",
+   "path": "hg/2002/91",
+   "short": "HG nr. 91/2002",
+   "title": "Hotărârea Guvernului nr. 91/2002 privind numirea domnului Teodor Filipescu în funcţia de prefect al judeţului Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33958",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33958",
+     "sha256": "5adfc9effb9580eeab8efea9195b5bfadb6b196840848fa62690a542816c73e4"
     }
    ]
   },
@@ -18627,6 +21849,21 @@
    ]
   },
   {
+   "slug": "hg-94-2002",
+   "path": "hg/2002/94",
+   "short": "HG nr. 94/2002",
+   "title": "Hotărârea Guvernului nr. 94/2002 privind funcţionarea Ansamblului artistic \"Ciocârlia\" al Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34030",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34030",
+     "sha256": "5f20af4e3d5ba7c622d6f11535309dc1e9e6117aef16a7d69681dd4bbd5942c2"
+    }
+   ]
+  },
+  {
    "slug": "hg-940-2002",
    "path": "hg/2002/940",
    "short": "HG nr. 940/2002",
@@ -18764,6 +22001,27 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38305",
      "sha256": "fa0ee1088da79723c0d7e48028130a9d0b8a997862be245f696e27b3a67a0e95"
+    }
+   ]
+  },
+  {
+   "slug": "hg-95-2002",
+   "path": "hg/2002/95",
+   "short": "HG nr. 95/2002",
+   "title": "Hotărârea Guvernului nr. 95/2002 privind înfiinţarea Consiliului Naţional pentru Evaluarea şi Difuzarea Manualelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34034",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34034",
+     "sha256": "544ccb8ee1a25899afe0028be2165ef242f5759b392dfd4245957e89ffd62d13"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/80355",
+     "sha256": "13bd5ac13679427c76d60dcb4bac401f4f86a467b1b5aa9b45efc14de4d11ab4"
     }
    ]
   },
@@ -18920,6 +22178,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38374",
      "sha256": "602b9b119381278b0dad52ad318120bc739882678501cc3ca37e6f50a2a1157c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-96-2002",
+   "path": "hg/2002/96",
+   "short": "HG nr. 96/2002",
+   "title": "Hotărârea Guvernului nr. 96/2002 privind echiparea şi dotarea personalului Gărzii de Mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34035",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34035",
+     "sha256": "9268bf04916c8e7874c917886d9eefeb94206456b6917bfc0dc148d1c7f4133f"
     }
    ]
   },

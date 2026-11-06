@@ -1,0 +1,771 @@
+{
+ "country": "RO",
+ "shard": "tratat/2022",
+ "acts": [
+  {
+   "slug": "tratat-2022-01-24-acord",
+   "path": "tratat/2022/01-24-acord",
+   "short": "Acordul din 24 ianuarie 2022 (M. Of. nr. 1020/2022)",
+   "title": "Acordul din 24 ianuarie 2022 între Guvernul României şi Guvernul Regatului Arabiei Saudite privind cooperarea în domeniul apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260619",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260619",
+     "sha256": "8111863c0fa741b962a6d530b61bb63b52993956a74420d2b1971fe707888d7c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-02-11-acord-2",
+   "path": "tratat/2022/02-11-acord-2",
+   "short": "Acordul din 11 februarie 2022 (M. Of. nr. 463/2022)",
+   "title": "Acordul din 11 februarie 2022 între Guvernul României şi Guvernul Republicii Moldova privind implementarea programului de asistenţă tehnică şi financiară în baza unui ajutor financiar nerambursabil în valoare de 100 milioane de euro acordat de România Republicii Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254978",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254978",
+     "sha256": "32cc65015494493b9989657eb17ced8ff399aef0b196d3500ee34a43450cab03"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-02-11-acord-3",
+   "path": "tratat/2022/02-11-acord-3",
+   "short": "Acordul din 11 februarie 2022 (M. Of. nr. 605/2022)",
+   "title": "Acordul din 11 februarie 2022 între Guvernul României şi Guvernul Republicii Moldova privind aspectele tehnice, financiare, juridice şi organizatorice referitoare la consolidarea podului rutier de frontieră între cele două state, peste râul Prut, între localităţile Galaţi (România) - Giurgiuleşti (Republica Moldova)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256584",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256584",
+     "sha256": "1653c75e661c5ead7e1a983cd0237c0a56b5d2704bebf55685014e8f1c93ee00"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-02-11-acord-4",
+   "path": "tratat/2022/02-11-acord-4",
+   "short": "Acordul din 11 februarie 2022 (M. Of. nr. 667/2022)",
+   "title": "Acordul din 11 februarie 2022 între Guvernul României şi Guvernul Republicii Moldova privind aspectele tehnice, financiare, juridice şi organizatorice referitoare la construirea, exploatarea, întreţinerea şi repararea podului rutier de frontieră între cele două state, peste râul Prut, între localităţile Ungheni (România)-Ungheni (Republica Moldova)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256996",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256996",
+     "sha256": "4cb854576958e613cb7101c9193cc89c25e5a556d8dd558b10ffe61ac8fdbcca"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-02-11-acord",
+   "path": "tratat/2022/02-11-acord",
+   "short": "Acordul din 11 februarie 2022 (M. Of. nr. 283/2022)",
+   "title": "Acordul din 11 februarie 2022 între Guvernul României şi Guvernul Republicii Moldova privind reducerea tarifelor de furnizare a serviciilor de roaming internaţional şi a celor de apeluri internaţionale între cele două state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253153",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253153",
+     "sha256": "acb70fe476f2b2ed3116e3c7e91f84a93c984524d18af677b9ec5d6a415342f8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-02-11-protocol",
+   "path": "tratat/2022/02-11-protocol",
+   "short": "Protocolul din 11 februarie 2022 (M. Of. nr. 553/2022)",
+   "title": "Protocolul din 11 februarie 2022 între Ministerul Apărării Naţionale din România şi Ministerul Apărării al Republicii Moldova privind colaborarea în domeniul învăţământului militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255999",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255999",
+     "sha256": "a966aa6d72fb5cc7ef1e5dd27eded868bcd983c9ea5838336fbae939fd8beae5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-02-22-amendament",
+   "path": "tratat/2022/02-22-amendament",
+   "short": "Amendamentul din 22 februarie 2022 (M. Of. nr. 491/2022)",
+   "title": "Amendamentul din 22 februarie 2022 convenit prin schimb de scrisori, semnate la Bucureşti la 22 februarie 2022 şi la 9 martie 2022 şi la Tokyo la 14 februarie 2022 şi la 1 martie 2022 între Guvernul României şi Agenţia Internaţională de Cooperare a Japoniei, la Acordul de împrumut pentru Proiectul privind realizarea legăturii reţelei de metrou cu Aeroportul Internaţional Henri Coandă Otopeni - Bucureşti dintre Agenţia Internaţională de Cooperare a Japoniei şi România, semnat la Tokyo la 10 martie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255522",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255522",
+     "sha256": "2b7ad5917d4d46d7fe9862a3ae79b170d24fd5dd7bc0e59e1ea8d2e73104d9f7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-03-03-acord",
+   "path": "tratat/2022/03-03-acord",
+   "short": "Acordul din 3 martie 2022 (M. Of. nr. 224/2023)",
+   "title": "Acordul din 3 martie 2022 între Guvernul României şi Guvernul Republicii Polone privind cooperarea în domeniul industriei de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266018",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266018",
+     "sha256": "0d9fe02a8527ac277ef4e0b322c6959a5d3bcd376c1ba3642ba4a7573c650508"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-03-09-acord",
+   "path": "tratat/2022/03-09-acord",
+   "short": "Acordul din 9 martie 2022 (M. Of. nr. 405/2022)",
+   "title": "Acordul din 9 martie 2022 dintre Guvernul României şi Programul Alimentar Mondial privind stabilirea unei prezenţe a Programului Alimentar Mondial pe teritoriul României, în vederea susţinerii operaţiunilor de urgenţă în Ucraina, pentru o durată de trei luni (martie-mai 2022), încheiat prin schimb de scrisori semnate la Roma la 2 martie 2022, respectiv la Bucureşti la 9 martie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254442",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254442",
+     "sha256": "7ea46f93498c5686cfdc0051940e6f430b05bee889a66be27cc70406c777198b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-03-14-amendament",
+   "path": "tratat/2022/03-14-amendament",
+   "short": "Amendamentul din 14 martie 2022 (M. Of. nr. 502/2022)",
+   "title": "Amendamentul din 14 martie 2022 convenit prin schimb de scrisori semnate la Bucureşti la 14 martie 2022 şi la Paris la 23 martie 2022 la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei (Proiectul privind construcţia de locuinţe pentru persoanele/familiile tinere din România, destinate închirierii), semnat la Bucureşti la 12 ianuarie 2016 şi la Paris la 22 ianuarie 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255616",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255616",
+     "sha256": "672bb170be30a7d99f79b4e5311971488c4ba9d30fe59f55ebe4897f20957a9f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-03-31-acord",
+   "path": "tratat/2022/03-31-acord",
+   "short": "Acordul din 31 martie 2022 (M. Of. nr. 841/2022)",
+   "title": "Acordul din 31 martie 2022 între Guvernul României şi Guvernul Republicii Turcia pentru finanţarea unor proiecte în anumite domenii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258675",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258675",
+     "sha256": "b2ea6bb302a27e58e611c24281ad8c3f71f324dc7a2d57502f6aaf3594aac2ba"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-04-06-contract",
+   "path": "tratat/2022/04-06-contract",
+   "short": "Contractul din 6 aprilie 2022 (M. Of. nr. 1206/2022)",
+   "title": "Contractul DE FINANŢARE din 6 aprilie 2022 pentru Spitalul Regional de Urgenţă Craiova - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 6 aprilie 2022 şi la Luxemburg la 11 aprilie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262814",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262814",
+     "sha256": "2951a092bad20423b0922867641a28b2ad4431acf7ae06ed23179382b8a58cb1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-04-14-aranjament",
+   "path": "tratat/2022/04-14-aranjament",
+   "short": "Aranjamentul din 14 aprilie 2022 (M. Of. nr. 1152/2022)",
+   "title": "Aranjamentul ADMINISTRATIV din 14 aprilie 2022 pentru aplicarea Acordului dintre România şi Republica Macedonia în domeniul asigurărilor sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261767",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261767",
+     "sha256": "c1321417e187cfa2e2d710f904d4167feb4955b52eead0d5821d68aa27d162c8"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-04-29-acord",
+   "path": "tratat/2022/04-29-acord",
+   "short": "Acordul din 29 aprilie 2022 (M. Of. nr. 977/2022)",
+   "title": "Acordul din 29 aprilie 2022 între Guvernul României şi Guvernul Republicii Bulgaria privind deschiderea la frontiera de stat româno-bulgară a punctului internaţional de trecere a frontierei Giurgiu-Ruse în regim de bac",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260229",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260229",
+     "sha256": "5e0ee695747f693c413a502925d22308ebae5823535b42fd4ad1fe823032b255"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-05-18-acord",
+   "path": "tratat/2022/05-18-acord",
+   "short": "Acordul din 18 mai 2022 (M. Of. nr. 669/2022)",
+   "title": "Acordul DE CONTRIBUŢIE din 18 mai 2022 dintre Guvernul României, reprezentat de Ministerul Investiţiilor şi Proiectelor Europene, şi Uniunea Europeană, reprezentată de Comisia Europeană, privind stabilirea garanţiei Uniunii Europene în compartimentul pentru România din cadrul programului InvestEU, finanţat în cadrul Planului naţional de redresare şi rezilienţă al României, semnat la Bucureşti la 18 mai 2022 şi la Bruxelles la 24 mai 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257301",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257301",
+     "sha256": "d5b9a1539d6e805895dda554112d27dbc6425717f67a31a045b1bdae9cbac413"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-05-19-acord",
+   "path": "tratat/2022/05-19-acord",
+   "short": "Acordul din 19 mai 2022 (M. Of. nr. 1202/2022)",
+   "title": "Acordul din 19 mai 2022 între România şi Republica Portugheză privind cooperarea în domeniul apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262500",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262500",
+     "sha256": "86ba30ea09e1932e2d070172e157fe529b02736632fc4188ecef33dfe85f9911"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-05-25-acord",
+   "path": "tratat/2022/05-25-acord",
+   "short": "Acordul din 25 mai 2022 (M. Of. nr. 658/2022)",
+   "title": "Acordul din 25 mai 2022 încheiat între Guvernul României şi Fondul European de Investiţii, semnat la Luxemburg la 18 mai 2022 şi la Bucureşti la 25 mai 2022, de modificare a Contractului de finanţare dintre Guvernul României reprezentat de Ministerul Investiţiilor şi Proiectelor Europene şi Fondul European de Investiţii privind Fondul de fonduri de capital de risc pentru redresare din cadrul Planului naţional de redresare şi rezilienţă al României, semnat la Luxemburg la 29 decembrie 2021 şi la Bucureşti la 30 decembrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256942",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256942",
+     "sha256": "0c0890e2d746a08e2300585faa5ffffc32b7a1f8b6ce8c811459367c1365fd0d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-06-09-acord",
+   "path": "tratat/2022/06-09-acord",
+   "short": "Acordul din 9 iunie 2022 (M. Of. nr. 1204/2022)",
+   "title": "ACORD-CADRU DE ÎMPRUMUT din 9 iunie 2022 Proiectul privind reabilitarea patrimoniului construit şi a clădirilor cu destinaţie culturală - dintre România şi Banca de Dezvoltare a Consiliului Europei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300377",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300377",
+     "sha256": "71b7b762c572192b49ed3adc0fc23605ace2fae5373d62862da4b5919ed0a11b"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-06-10-memorandum",
+   "path": "tratat/2022/06-10-memorandum",
+   "short": "Memorandumul din 10 iunie 2022 (M. Of. nr. 1035/2022)",
+   "title": "Memorandumul DE ÎNŢELEGERE din 10 iunie 2022 între Organizaţia Mondială a Sănătăţii (OMS) şi Ministerul Sănătăţii din România în calitate de beneficiar principal (BP) al grantului Planul naţional de redresare şi rezilienţă pentru România (denumit în continuare BP)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260745",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260745",
+     "sha256": "a27e66afa80818f2442c8d8263f395b474207b00a9a8e101086644afa9636766"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-06-23-acord",
+   "path": "tratat/2022/06-23-acord",
+   "short": "Acordul din 23 iunie 2022 (M. Of. nr. 987/2022)",
+   "title": "Acordul din 23 iunie 2022 între Guvernul României şi Guvernul Republicii Serbia privind stabilirea detaliilor pentru conexiunea între Autostrada Timişoara-Moraviţa (RO) şi Autostrada Belgrad-Vatin (RS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260324",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260324",
+     "sha256": "1c4c596d257057ac27d3ad4b8cdb80492c612033374067c288e03903fc4916ad"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-06-27-acord-2",
+   "path": "tratat/2022/06-27-acord-2",
+   "short": "Acordul din 27 iunie 2022 (M. Of. nr. 270/2024)",
+   "title": "Acordul din 27 iunie 2022 între Guvernul României şi Guvernul Republicii Serbia privind cooperarea în domeniile educaţiei, ştiinţei, culturii, mass-mediei, tineretului şi sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280590",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280590",
+     "sha256": "005156c6199f1f6e5cf8e8dfc98d6d8adf1b61628066d9690c55f4db8f7feb53"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-06-27-acord",
+   "path": "tratat/2022/06-27-acord",
+   "short": "Acordul din 27 iunie 2022 (M. Of. nr. 791/2022)",
+   "title": "Acordul din 27 iunie 2022 între Guvernul României şi Guvernul Republicii Serbia privind acordarea dreptului de proprietate asupra clădirii \"Luceafărul\" României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258358",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258358",
+     "sha256": "5dff35cad402b36e30ddfbdbfd078977553eb5bc049d4beb8b1f015d1891c188"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-05-protocol-2",
+   "path": "tratat/2022/07-05-protocol-2",
+   "short": "Protocolul din 5 iulie 2022 (M. Of. nr. 739/2022)",
+   "title": "Protocolul din 5 iulie 2022 de aderare a Regatului Suediei la Tratatul Atlanticului de Nord",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257750",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257750",
+     "sha256": "a639920700629afb71f29574097d2a9dcc73ae05faff14d650e3a424e7707e41"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-05-protocol",
+   "path": "tratat/2022/07-05-protocol",
+   "short": "Protocolul din 5 iulie 2022 (M. Of. nr. 739/2022)",
+   "title": "Protocolul din 5 iulie 2022 de aderare a Republicii Finlanda la Tratatul Atlanticului de Nord",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257749",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257749",
+     "sha256": "4140a298f10da61298fc5f1b40914276ae3af9cc7056736e9cd3f2d12c1c3ea5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-19-acord-2",
+   "path": "tratat/2022/07-19-acord-2",
+   "short": "Acordul din 19 iulie 2022 (M. Of. nr. 1123/2022)",
+   "title": "Acordul din 19 iulie 2022 privind asistenţa financiară nerambursabilă (Prima finanţare programatică pentru politici de dezvoltare pentru creştere verde şi incluzivă) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, acţionând în calitate de administrator al Fondului BIRD pentru Soluţii Inovatoare privind Bunurile Publice Globale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261563",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261563",
+     "sha256": "35ec022ade275ff85ed91560324066b4d638b3e129349c4e4cff70c8759a4265"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-19-acord-3",
+   "path": "tratat/2022/07-19-acord-3",
+   "short": "Acordul din 19 iulie 2022 (M. Of. nr. 968/2023)",
+   "title": "Acordul din 19 iulie 2022 între Guvernul României şi Guvernul Palestinei privind cooperarea în prevenirea şi combaterea criminalităţii organizate, a terorismului şi a altor infracţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275662",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275662",
+     "sha256": "b61d5f3af45ce93d60245fef675cbd80f4f42f857d4f040b1231cf5c2000a3ba"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-19-acord",
+   "path": "tratat/2022/07-19-acord",
+   "short": "Acordul din 19 iulie 2022 (M. Of. nr. 1123/2022)",
+   "title": "Acordul DE ÎMPRUMUT din 19 iulie 2022 (Prima finanţare programatică pentru politici de dezvoltare pentru creştere verde şi incluzivă) între România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261562",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261562",
+     "sha256": "0b15a2dcaac009eb9731a128d29d2970443c8e93427f22ac96fa17d088ead0c4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-20-amendament",
+   "path": "tratat/2022/07-20-amendament",
+   "short": "Amendamentul din 20 iulie 2022 (M. Of. nr. 1081/2022)",
+   "title": "Amendamentul din 20 iulie 2022 convenit între Guvernul României şi Banca de Dezvoltare a Consiliului Europei, prin schimbul de scrisori semnate la Bucureşti la 20 iulie 2022 şi la Paris la 27 iulie 2022, la Acordul-cadru de împrumut dintre România şi Banca de Dezvoltare a Consiliului Europei pentru finanţarea Proiectului privind finalizarea construcţiei, renovarea sau reabilitarea clădirilor culturale de interes public din România, semnat la Bucureşti la 4 mai 2007 şi la Paris la 14 mai 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261267",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261267",
+     "sha256": "0598f8518903c078b8b9088d07d8326cf41cc7f30337f9d355613ce8a03c1188"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-22-acord",
+   "path": "tratat/2022/07-22-acord",
+   "short": "Acordul din 22 iulie 2022 (M. Of. nr. 874/2023)",
+   "title": "Acordul din 22 iulie 2022 între România şi Muntenegru în domeniul securităţii sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274811",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274811",
+     "sha256": "950c550e27ae30fd3a1a86d31307d553d51486c7fcf8b249e2e2c6d32c5f23bf"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-07-22-aranjament",
+   "path": "tratat/2022/07-22-aranjament",
+   "short": "Aranjamentul din 22 iulie 2022 (M. Of. nr. 226/2024)",
+   "title": "Aranjamentul ADMINISTRATIV din 22 iulie 2022 de aplicare a Acordului dintre România şi Muntenegru în domeniul securităţii sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280055",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280055",
+     "sha256": "a726ade3c48820db6702b4489692dd77de4637c36a1741dbd27601a28cc32790"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-08-01-amendament",
+   "path": "tratat/2022/08-01-amendament",
+   "short": "Amendamentul din 1 august 2022 (M. Of. nr. 1035/2022)",
+   "title": "Amendamentul nr. 1 din 1 august 2022 la Memorandumul de înţelegere între Organizaţia Mondială a Sănătăţii (OMS), Biroul Regional pentru Europa şi Ministerul Sănătăţii din România în calitate de beneficiar principal (BP) al grantului Planul naţional de redresare şi rezilienţă pentru România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260746",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260746",
+     "sha256": "3df975f7ec8b319aca8a4cf20f23b7a5518988f33853cd317c42c139ef58655c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-08-22-acord",
+   "path": "tratat/2022/08-22-acord",
+   "short": "Acordul din 22 august 2022 (M. Of. nr. 944/2022)",
+   "title": "Acordul din 22 august 2022 dintre Guvernul României şi Guvernul Republicii Moldova încheiat prin schimb de note verbale apostilate la Bucureşti la 20 iulie 2022, respectiv 22 august 2022, privind înfiinţarea punctului de trecere a frontierei de stat dintre România şi Republica Moldova deschis traficului internaţional rutier Bumbăta-Leova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259681",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259681",
+     "sha256": "c10a2eb2e7221398f3aea77d69fbc2aae4250a382063cdfbfd0963ddb3a6d8e4"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-08-29-acord",
+   "path": "tratat/2022/08-29-acord",
+   "short": "Acordul din 29 august 2022 (M. Of. nr. 390/2023)",
+   "title": "Acordul din 29 august 2022 între Guvernul României şi Guvernul Republicii Cipru privind cooperarea în domeniul apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267642",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267642",
+     "sha256": "256626666902889214d4a243b134a3a692cb5ab8d84f71fcef9d47945ed8c027"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-09-07-program",
+   "path": "tratat/2022/09-07-program",
+   "short": "Programul din 7 septembrie 2022 (M. Of. nr. 729/2024)",
+   "title": "Programul DE CCOPERARE din 7 septembrie 2022 între Guvernul României şi Guvernul Republicii Portugheze în domeniile limbii, educaţiei, ştiinţei, tehnologiei şi învăţământului superior, al culturii, sportului, tineretului, mass-mediei şi turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285924",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285924",
+     "sha256": "0f825c0f0aa5112872893813d0c35cf258fcb7ef33bd177b0b692ffe48600b73"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-09-22-amendament",
+   "path": "tratat/2022/09-22-amendament",
+   "short": "Amendamentul din 22 septembrie 2022 (M. Of. nr. 1035/2022)",
+   "title": "Amendamentul nr. 2 din 22 septembrie 2022 la Memorandumul de înţelegere între Organizaţia Mondială a Sănătăţii (OMS), Biroul Regional pentru Europa şi Ministerul Sănătăţii din România în calitate de beneficiar principal (BP) al grantului Planul naţional de redresare şi rezilienţă pentru România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260747",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260747",
+     "sha256": "252c0f70cfd61978bae12ffcd9f6017f3b3e62a394cdbc8aac2abbf066a5c002"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-09-27-acord",
+   "path": "tratat/2022/09-27-acord",
+   "short": "Acordul din 27 septembrie 2022 (M. Of. nr. 1252/2022)",
+   "title": "Acordul din 27 septembrie 2022 între Comisia Naţională pentru Controlul Activităţilor Nucleare din România şi Comisia pentru Reglementări Nucleare din Statele Unite ale Americii privind schimbul de informaţii tehnice şi cooperarea în domeniul securităţii nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263114",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263114",
+     "sha256": "16ce7d9689e00fe8325a7b5201206e3127cfcb175cb6f175eb36e7e84cbcd136"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-09-28-protocol",
+   "path": "tratat/2022/09-28-protocol",
+   "short": "Protocolul din 28 septembrie 2022 (M. Of. nr. 1255/2022)",
+   "title": "Protocolul din 28 septembrie 2022 între Comisia Naţională pentru Controlul Activităţilor Nucleare din România şi Autoritatea pentru Energie Atomică din Ungaria privind cooperarea şi schimbul de informaţii referitoare la aspectele de reglementare în domeniul nuclear",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263138",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263138",
+     "sha256": "0ce4ebe12bc24d4d97c64cfd283c10189f78a1b5d271feefbd701feeaf5aaaf9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-10-17-acord",
+   "path": "tratat/2022/10-17-acord",
+   "short": "Acordul din 17 octombrie 2022 (M. Of. nr. 684/2023)",
+   "title": "Acordul CUPRINZĂTOR din 17 octombrie 2022 privind transportul aerian dintre statele membre ale Asociaţiei Naţiunilor din Asia de Sud-Est şi Uniunea Europeană şi statele membre ale acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273360",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273360",
+     "sha256": "3812d90ed8d99e36762216900203b966307f2af905fb4f203d8e67aa536717d6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-11-03-protocol",
+   "path": "tratat/2022/11-03-protocol",
+   "short": "Protocolul din 3 noiembrie 2022 (M. Of. nr. 149/2023)",
+   "title": "PROTOCOLUL din 3 noiembrie 2022 celei de a doua sesiuni a Comisiei hidrotehnice interguvernamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265264",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265264",
+     "sha256": "dd6b3ebc0ed6b07e2ed5c77562d82f2baeadc0cea0ffb221cd6ee69c05ac1c1f"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-11-10-conventie",
+   "path": "tratat/2022/11-10-conventie",
+   "short": "Convenția din 10 noiembrie 2022 (M. Of. nr. 31/2024)",
+   "title": "CONVENŢIE din 10 noiembrie 2022 între România şi Principatul Liechtenstein pentru eliminarea dublei impuneri cu privire la impozitele pe venit şi pe capital şi prevenirea evaziunii fiscale şi a evitării plăţii impozitelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278133",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278133",
+     "sha256": "416e723cb798c926206e1e0db41a6fa031b999fde0b7c615559ccafa5052fab2"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-11-10-protocol-2",
+   "path": "tratat/2022/11-10-protocol-2",
+   "short": "Protocolul din 10 noiembrie 2022 (M. Of. nr. 31/2024)",
+   "title": "Protocolul din 10 noiembrie 2022 la Convenţia dintre România şi Principatul Liechtenstein",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278134",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278134",
+     "sha256": "ef30b800a57172daa135c3c2ce1968b4167b18fc5729449a4d9452f0f72fac7c"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-11-10-protocol",
+   "path": "tratat/2022/11-10-protocol",
+   "short": "Protocolul din 10 noiembrie 2022 (M. Of. nr. 233/2023)",
+   "title": "Protocolul din 10 noiembrie 2022 de amendare a Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind reglementarea construirii unor apeducte, semnat la Chişinău la 20 mai 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266076",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266076",
+     "sha256": "6dd60649da4aedca352e0e2a2ced80160fd6803266a293562c9e75deb122995a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-11-15-acord",
+   "path": "tratat/2022/11-15-acord",
+   "short": "Acordul din 15 noiembrie 2022 (M. Of. nr. 1055/2023)",
+   "title": "Acordul din 15 noiembrie 2022 între Guvernul României şi Banca Europeană pentru Reconstrucţie şi Dezvoltare privind asistenţa pentru implementarea proiectelor finanţate din fonduri UE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276529",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276529",
+     "sha256": "e41e6df4c3c3333efc5325a4ab69e010207998426668a08842158a089674a3c6"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-11-18-acord",
+   "path": "tratat/2022/11-18-acord",
+   "short": "Acordul din 18 noiembrie 2022 (M. Of. nr. 175/2023)",
+   "title": "Acordul din 18 noiembrie 2022 între Guvernul României şi Cabinetul de Miniştri al Ucrainei privind punerea în aplicare a Convenţiei privind evaluarea impactului asupra mediului în context transfrontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265405",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265405",
+     "sha256": "2ddac0c67b261c49ff5ce37fcc8a6ab3d319652de93160799aeddffb35426530"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-12-07-acord",
+   "path": "tratat/2022/12-07-acord",
+   "short": "Acordul din 7 decembrie 2022 (M. Of. nr. 939/2023)",
+   "title": "Acordul din 7 decembrie 2022 între Guvernul României şi Guvernul Statului Kuweit privind cooperarea în domeniul militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275393",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275393",
+     "sha256": "fbe69ebccfaa6d74c04a03c67c3317dc7e919852c5f77f394a2fcfa0b4922eae"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-12-12-acord",
+   "path": "tratat/2022/12-12-acord",
+   "short": "Acordul din 12 decembrie 2022 (M. Of. nr. 101/2023)",
+   "title": "ACORD-CADRU din 12 decembrie 2022 între Guvernul României şi Consiliul Federal Elveţian privind implementarea celei de-a doua contribuţii elveţiene în anumite state membre ale Uniunii Europene pentru reducerea disparităţilor economice şi sociale în cadrul Uniunii Europene*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264615",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264615",
+     "sha256": "c2727f725466a6bd3e82664fe480d19c0e7c5c4a7e322cda83d6b8cde99ffe5a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-12-14-acord-2",
+   "path": "tratat/2022/12-14-acord-2",
+   "short": "Acordul din 14 decembrie 2022 (M. Of. nr. 1151/2025)",
+   "title": "ACORDUL-CADRU din 14 decembrie 2022 de parteneriat şi cooperare dintre Uniunea Europeană şi statele membre ale acesteia, pe de o parte, şi Guvernul Malaysiei, pe de altă parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305195",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305195",
+     "sha256": "d17ffed8b3b21cf506e5d5f65354eae9c882b4713bafd83fb126de7b0719b461"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-12-14-acord",
+   "path": "tratat/2022/12-14-acord",
+   "short": "Acordul din 14 decembrie 2022 (M. Of. nr. 116/2023)",
+   "title": "Acordul din 14 decembrie 2022 dintre Secretariatul General al Guvernului României (SGG) şi Organizaţia pentru Cooperare şi Dezvoltare Economică (OCDE)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264724",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264724",
+     "sha256": "d34fd69a1d60323f95d08bce06687f015128ed0ef9d4de050acf33b5f3471895"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-12-15-contract-2",
+   "path": "tratat/2022/12-15-contract-2",
+   "short": "Contractul din 15 decembrie 2022 (M. Of. nr. 496/2023)",
+   "title": "Contractul DE FINANŢARE din 15 decembrie 2022 Răspunsul sectorului public din România la COVID-19 - dintre România şi Banca Europeană de Investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271884",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271884",
+     "sha256": "8df1eaea1d916ddf44770adeecc59627ab12b420842cf0c9f1cf30a545aa8c1a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-12-15-contract-3",
+   "path": "tratat/2022/12-15-contract-3",
+   "short": "Contractul din 15 decembrie 2022 (M. Of. nr. 496/2023)",
+   "title": "Contractul DE FINANŢARE din 15 decembrie 2022 Răspunsul sectorului public din România la COVID-19 II - dintre România şi Banca Europeană de Investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271885",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271885",
+     "sha256": "9677487024cd0ce894758a577977a0e8e0ea82d27145fd9d48bea46ca55c5d9e"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-2022-12-15-contract",
+   "path": "tratat/2022/12-15-contract",
+   "short": "Contractul din 15 decembrie 2022 (M. Of. nr. 513/2023)",
+   "title": "Contractul DE FINANŢARE din 15 decembrie 2022 între România şi Banca Europeană de Investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271676",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271676",
+     "sha256": "81cc4ab8211e6fb25671805c0ad6fd1f38bc34325d64aa17c12ae5c4c47a2a6e"
+    }
+   ]
+  }
+ ]
+}
