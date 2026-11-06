@@ -3,6 +3,28 @@
 "shard": "local/suceava/radauti/2026",
 "acts": [
 {
+"slug": "hcl-suceava--radauti-1-2026",
+"path": "local/suceava/radauti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 1/2026",
+"short": "HCL Rădăuți nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://primariaradauti.ro/hotarare-privind-actualizarea-devizului-general-faza-pt-pentru-obiectivul-de-investitii-amenajare-spatiu-verde-din-aleea-primaverii-mun-radauti-jud-suceava-cod-smis-354789/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-suceava--radauti-59-2026",
 "path": "local/suceava/radauti/2026/59",
 "kind": "local",
@@ -23,6 +45,182 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--radauti-100-2026",
+"path": "local/suceava/radauti/2026/100",
+"kind": "local",
+"year": "2026",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 100/2026",
+"short": "HCL Rădăuți nr. 100/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-100-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-101-2026",
+"path": "local/suceava/radauti/2026/101",
+"kind": "local",
+"year": "2026",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 101/2026",
+"short": "HCL Rădăuți nr. 101/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-101-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-102-2026",
+"path": "local/suceava/radauti/2026/102",
+"kind": "local",
+"year": "2026",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 102/2026",
+"short": "HCL Rădăuți nr. 102/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-102-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-103-2026",
+"path": "local/suceava/radauti/2026/103",
+"kind": "local",
+"year": "2026",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 103/2026",
+"short": "HCL Rădăuți nr. 103/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-103-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-104-2026",
+"path": "local/suceava/radauti/2026/104",
+"kind": "local",
+"year": "2026",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 104/2026 privind prelungirea duratei contractelor de închiriere a unor locuințe din fondul locativ de stat aparținând administrației publice locale situate în municipiul Rădăuți, județul Suceava Consiliul Local al municipiului Radauți, județul Suceava: Având în vedere - Referatul de aprobare al primarului municipiului Rădăuți, Bogdan-Andrei LOGHIN înregistrat sub nr. 99261/12.05.2026; - Raportul de special",
+"short": "HCL Rădăuți nr. 104/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-104-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-105-2026",
+"path": "local/suceava/radauti/2026/105",
+"kind": "local",
+"year": "2026",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 105/2026",
+"short": "HCL Rădăuți nr. 105/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-105-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-106-2026",
+"path": "local/suceava/radauti/2026/106",
+"kind": "local",
+"year": "2026",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 106/2026",
+"short": "HCL Rădăuți nr. 106/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-106-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-107-2026",
+"path": "local/suceava/radauti/2026/107",
+"kind": "local",
+"year": "2026",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 107/2026",
+"short": "HCL Rădăuți nr. 107/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://primariaradauti.ro/hcl-107-din-2026/",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

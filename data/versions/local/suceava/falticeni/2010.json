@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/falticeni/2010",
+ "acts": [
+  {
+   "slug": "hcl-suceava--falticeni-9-2010",
+   "path": "local/suceava/falticeni/2010/9",
+   "short": "HCL Fălticeni nr. 9/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Fălticeni nr. 9/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-13",
+     "units": 1,
+     "source_url": "https://www.falticeni.ro/wp-content/uploads/2026/01/H202402020.pdf",
+     "sha256": "ee30a6fea53061456a8cacc8945211c30a2cc8c9de18f3862c8510989eb6d7fc"
+    }
+   ]
+  }
+ ]
+}

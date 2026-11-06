@@ -3,6 +3,96 @@
  "shard": "local/suceava/campulung-moldovenesc/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-1-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/1",
+   "short": "HCL Câmpulung Moldovenesc nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 1/2023 privind modificarea limitelor de hotar, fără modificarea suprafețelor, a două imobile situate în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 4 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 43909 din 30.12.2022; -Raportul de special",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p13?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_001_2023.doc",
+     "sha256": "9ebfd4af860730468b7750cdd29b31e6ac44e1722ef97933471ce017ee3c3e21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-10-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/10",
+   "short": "HCL Câmpulung Moldovenesc nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 10/2023 privind aprobarea organigramei, statului de funcții și a numărului de personal la Spitalul Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 952 din 10.01.2023; -Raportul de specialitate al Compa",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_010_2023.doc",
+     "sha256": "b363794dd08b828a0d658d76666391cb56bfbb8f64ae6966e11fc2f7f161ee14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-100-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/100",
+   "short": "HCL Câmpulung Moldovenesc nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 100/2023 pentru modificarea anexei numărul 1 la Hotărârea Consiliului Local nr. 54/27.04.2023 cu privire la modul de valorificare a masei lemnoase din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 iulie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_100_2023.doc",
+     "sha256": "f0582e5e6226e973a454b4ca685b17848586f946d7f7b442093ce9e739d9dd01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-101-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/101",
+   "short": "HCL Câmpulung Moldovenesc nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 101/2023 privind organizarea de către municipiul Câmpulung Moldovenesc a Adunării Generale a Secretarilor generali de municipii din România, în perioada 3-6 octombrie 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 iulie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 24293 din 29.06.2",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_101_2023.doc",
+     "sha256": "05dd99b0a1c8da7ce92dd075617654d78398b9835b062453583721c1592fca1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-102-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/102",
+   "short": "HCL Câmpulung Moldovenesc nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 102/2023 privind aprobarea acordului de parteneriat între municipiul Câmpulung Moldovenesc și Comuna Cumpăna, județul Constanța, în vederea organizării Taberei de vară pentru elevii cu rezultate deosebite obținute în anul școlar 2022-2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 iulie 2023; Având în vedere: -Referatul de aprobare a primarului munici",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_102_2023.docx",
+     "sha256": "4b2da5ede367b6f32981a6e2316d2cd604fa3111acef481858ae5af11273f57b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-103-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/103",
+   "short": "HCL Câmpulung Moldovenesc nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 103/2023 privind aprobarea deplasării unei delegații a municipiului Câmpulung Moldovenesc la Karmiel - Israel, în perioada 30 iulie - 05 august 2023, în vederea participării la Festivalul de Dans din Karmiel Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 iulie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_103_2023.docx",
+     "sha256": "0be2846803a6fccdbd30e2cd5573c513feadd6e79476176033a4fced12b8af90"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-104-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/104",
    "short": "HCL Câmpulung Moldovenesc nr. 104/2023",
@@ -14,6 +104,171 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_104_2023.doc",
      "sha256": "8facf32b5de288ba3f636e65bc12411667e6bf9107f1ac41df78fc711c466a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-105-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/105",
+   "short": "HCL Câmpulung Moldovenesc nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 105/2023 privind aprobarea introducerii a doi noi parteneri, respectiv UAT Comuna Ilva Mare din județul Bistrița-Năsăud și UAT Comuna Sărățeni din județul Mureș în cadrul Acordului de Parteneriat aferent proiectului ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în șed",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_105_2023.docx",
+     "sha256": "9058f4aaf2ddfeab685f29a77ee0310780fb78efd2fa2b189f0a4e088564ef8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-106-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/106",
+   "short": "HCL Câmpulung Moldovenesc nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 106/2023 pentru modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 24 din 10.03.2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții “Extinderea sistemului de canalizare, municipiul Câmpulung Moldovenesc, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții “Anghel Salig",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_106_2023.doc",
+     "sha256": "15db47578bac87e78bde802e0c0e27861aa6d522a51de535f0c31ae8070cea30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-107-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/107",
+   "short": "HCL Câmpulung Moldovenesc nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 107/2023 pentru modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 25 din 10.03.2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul e investiții “Extinderea sistemului de alimentare cu apă, municipiul Câmpulung Moldovenesc, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții “Anghel",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_107_2023.doc",
+     "sha256": "40328f52e290ff003b5f1815567fd6b356f56d438af7761f66c06d1aacdc0116"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-108-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/108",
+   "short": "HCL Câmpulung Moldovenesc nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 108/2023 pentru aprobarea indicatorilor tehnico-economici actualizați pentru obiectivele componentei A din cadrul proiectului \"ÎMBUNTĂȚIREA SERVICIILOR SOCIALE, RECREATIVE ȘI A SPAȚIILOR PUBLICE URBANE ÎN MUNICIPIUL CÂMPULUNG MOLDOVENESC” finanțat prin Programul operațional regional 2014-2020 – Axa prioritară 13 – Sprijinirea regenerării orașelor mici și mijlocii, Prioritatea de investiții 9b – promovarea",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_108_2023.docx",
+     "sha256": "0d9bbb9d88f335e0e53d103bcb5d1d1011f011784c51019ecd6b7350a5c563ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-109-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/109",
+   "short": "HCL Câmpulung Moldovenesc nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 109/2023 privind aprobarea documentației tehnico-economice (faza S.F.) și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,ÎNFIINȚARE CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN MUNICIPIUL CÂMPULUNG MOLDOVENESC”, cod proiect C3I1A0122000537 finanțat prin Planul Național de Redresare și Reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.A, Componenta C3 – Managementul deșeurilor",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_109_2023.docx",
+     "sha256": "b0102a52714ecc9a39445b14a710bd1fcffebd969fd99e98fcff43ac56b072fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-11-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/11",
+   "short": "HCL Câmpulung Moldovenesc nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 11/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale “Administrație” din aparatul de specialitate al primarului municipiului Câmpulung Moldovenesc, Serviciul Public Comunitar Local de Evidență a Persoanelor și Centrul Național de Informare și Promovare Turistică Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit î",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_011_2023.doc",
+     "sha256": "a68f32e7f4d867d348188dbfdea1a9c935260a2b3df4de015590cb26a8c4ec26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-110-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/110",
+   "short": "HCL Câmpulung Moldovenesc nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 110/2023 pentru aprobarea devizului general privind cheltuielile necesare realizării obiectivului de investiții „Reabilitare acoperiș Școala Gimnazială “Bogdan Vodă”, municipiul Câmpulung Moldovenesc, județul Suceava” Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_110_2023.doc",
+     "sha256": "7a0282e670808b11e633a57e7a0846c7b9ae25d6b44dd93e2601d8a0baa59744"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-112-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/112",
+   "short": "HCL Câmpulung Moldovenesc nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 112/2023 privind aprobarea majorării bugetului local și a fondului de rezervă, virărilor de credite bugetare, influențelor la lista pde investiții a bugetului și utilizării fondului de rezervă al bugetului local pe anul 2023 și aprobarea majorării bugetului, virărilor de credite bugetare și a influențelor la lista de investiții în cadrul bugetului instituțiilor publice și activităților finanțate integral s",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_112_2023_2023-08-28-082000_arlb.docx",
+     "sha256": "618094b02c4346124df40c704365941fcd7a3e95536df3bda2897b50576c9f7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-113-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/113",
+   "short": "HCL Câmpulung Moldovenesc nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 113/2023 privind aprobarea contului de execuție al bugetului general al municipiului Câmpulung Moldovenesc pe trimestrul II 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 31 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29310 din 10.08.2023; -Raportul de specialitate al Direcție",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_113_2023.doc",
+     "sha256": "be233f5b09fe8779c6618ea7f4e3fa02727326b6622f1358b97905a42314361b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-114-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/114",
+   "short": "HCL Câmpulung Moldovenesc nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 114/2023 privind aprobarea organigramei, statului de funcții și a numărului de personal la Spitalul Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 28688 din 08.08.2023; -Raportul de specialitate al Compa",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_114_2023.doc",
+     "sha256": "9bd83afa977d5325e5b57aa90c436009db46edbee83b2d44728494115a8500e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-115-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/115",
+   "short": "HCL Câmpulung Moldovenesc nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 115/2023 privind aprobarea Organigramei, statului de funcții și a numărului de personal la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29194 din 10.08.2023; -Raportul de specialitate al C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_115_2023.doc",
+     "sha256": "210e6dd7717ff1a915b5fa1cad37f37062b6845871604fe4b85aba7b2ffe5825"
     }
    ]
   },
@@ -33,6 +288,351 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-117-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/117",
+   "short": "HCL Câmpulung Moldovenesc nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 117/2023 privind aprobarea încheierii unui Protocol de colaborare între Municipiul Câmpulung Moldovenesc și Oficiul Național al Registrului Comerțului Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 31 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29204 din 10.08.2023; -Raportul de sp",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_117_2023.doc",
+     "sha256": "6ee4c58a657ce0b9476350e90c1bf7df10e0f28db801774bbcbbe62c87dd295b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-118-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/118",
+   "short": "HCL Câmpulung Moldovenesc nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 118/2023 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 80.000 lei Parohiei „Nașterea Maicii Domnului” Câmpulung Moldovenesc pentru cofinanțarea lucrărilor de amenajare a curții interioare și a aleilor cu piatră cubică Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinarǎ din data de 31 august 2023 Având în vedere: -Referatul de aproba",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_118_2023.DOC",
+     "sha256": "d195882476f2a355677cfb816ee8ec717dc8712c71ea4629d4f372b79c786d21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-119-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/119",
+   "short": "HCL Câmpulung Moldovenesc nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 119/2023 cu privire la prelungirea duratei unui contract de închiriere pentru suprafețele cu destinația de locuință socială Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29188 din 10.08.2023; -Raportul de specialitate al Compartimentu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_119_2023.doc",
+     "sha256": "23cfb03bc287ceebd46b8b9efab2719a8a9b71a36c231952d4bab5d9d75b81fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-12-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/12",
+   "short": "HCL Câmpulung Moldovenesc nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 12/2023 privind aprobarea listei de priorități pe anul 2023 pentru repartizare, în vederea închirierii, a locuințelor aflate în administrarea municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 983 din",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_012_2023.doc",
+     "sha256": "ffba433b497262574805309c07e8879ca8b97682f6e593f6b975d8cdaa3656b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-120-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/120",
+   "short": "HCL Câmpulung Moldovenesc nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 120/2023 cu privire la aprobarea modalităților de valorificare a unui volum brut de masă lemnoasă de 335.81 mc, din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_120_2023.doc",
+     "sha256": "8dea8fdb0421cca8cadf24ffe8e3f3507f6a7395713a7aa93c08f027a9ba5a93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-121-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/121",
+   "short": "HCL Câmpulung Moldovenesc nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 121/2023 privind aprobarea actualizării amplasamentului și limitelor unor imobile aparținând domeniului privat al UAT Municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29293 din 10.08.2023; -Raportul de sp",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_121_2023.doc",
+     "sha256": "81e114e8dab6595662ca1abd4d986a2a6ad451f2b746bbaac3ad18bed254bcf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-122-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/122",
+   "short": "HCL Câmpulung Moldovenesc nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 122/2023 privind preluarea parțială a contractului de închiriere nr. 522 din 8 ianuarie 2019 pentru suprafața de teren de 7468 mp, situată în municipiul Câmpulung Moldovenesc în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_122_2023.doc",
+     "sha256": "1ba0a1e544d55ef3dbdd8b02cefa51927fb66c66bfcffa7a8f81e9af01adf13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-123-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/123",
+   "short": "HCL Câmpulung Moldovenesc nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 123/2023 privind vânzarea prin licitație publică a unei suprafețe de teren de 178 mp, proprietatea privată a municipiului Câmpulung Moldovenesc, situat în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_123_2023.doc",
+     "sha256": "0577f8dbdb516392183bfc9a858da8260a4bc547a667c2f3ba33dd37a2222050"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-124-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/124",
+   "short": "HCL Câmpulung Moldovenesc nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 124/2023 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli în perioada 2023-2029 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_124_2023.doc",
+     "sha256": "b00aae6b3f377ed13c53be987fed3b18f3f5968ff1651b716e4804168723b930"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-125-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/125",
+   "short": "HCL Câmpulung Moldovenesc nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 125/2023 privind aprobarea inițierii procedurii de vânzare, cu respectarea dreptului de preempțiune, a unei suprafețe de teren aparținând domeniului privat al municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat l",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_125_2023.DOC",
+     "sha256": "aa627f771ba2c9f2d73c52934f4a644b2bfea9b67cd1bac6b1003defeef65527"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-126-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/126",
+   "short": "HCL Câmpulung Moldovenesc nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 126/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_126_2023.DOC",
+     "sha256": "f15d915a77abd259752581309c4d1fe6461688bc359b22c9e227bd484f2d6623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-127-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/127",
+   "short": "HCL Câmpulung Moldovenesc nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 127/2023 privind aprobarea acordului de parteneriat între municipiul Câmpulung Moldovenesc și Comuna Cumpăna, județul Constanța, în vederea organizării Taberei de vară pentru elevii cu rezultate deosebite obținute în anul școlar 2022-2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2023; Având în vedere: -Referatul de aprobare a primarului munic",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_127_2023.docx",
+     "sha256": "d0dea7d4859231da265d861f9a6e8d86b1c2526df3a38cccb11783e42202f63c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-128-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/128",
+   "short": "HCL Câmpulung Moldovenesc nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 128/2023 privind aprobarea Organigramei, statului de funcții și a numărului de personal la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 septembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 32445 din 11.09.2023; -Raportul de specialitate",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_128_2023.doc",
+     "sha256": "2dfc41a39ceb8cb2fc77645fd13b3804417157140758d0ebea67e2b45aee86cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-129-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/129",
+   "short": "HCL Câmpulung Moldovenesc nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 129/2023 cu privire la aprobarea modului de valorificare a unui volum brut de masă lemnoasă de 331.77 mc, din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 septembrie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_129_2023.doc",
+     "sha256": "27616003f8d4ed78e54a7ca83aab53d29efeecef89d36ddef180d86efc7ed106"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-13-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/13",
+   "short": "HCL Câmpulung Moldovenesc nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 13/2023 privind aprobarea alocării unei sume din bugetul local în vederea participării Clubului Sportiv Municipal „Rarăul” Câmpulung Moldovenesc la Campionatul European de Cross Intercluburi care va avea loc în Oropesa del Mar, Spania în perioada 3 - 7 februarie 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2023; Având în vedere: -Referatu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_013_2023.docx",
+     "sha256": "11d85cb3cb80a90530f8378de400bafd8de0699751955fbd6111360104ca2b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-130-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/130",
+   "short": "HCL Câmpulung Moldovenesc nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 130/2023 privind atestarea apartenenței la domeniul privat al Municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 septembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 32411 din 11.09.2023; -Raportul de specialitate al Direcției tehnice și",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_130_2023.doc",
+     "sha256": "90a393f6c027a4d5e1d2269bfbad12cf968328cec12016688a3421c617504951"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-131-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/131",
+   "short": "HCL Câmpulung Moldovenesc nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 131/2023 pentru aprobarea Studiului privind delimitarea zonelor de regenerare urbană și a Planului integrat de regenerare urbană la nivelul UAT Municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința odinară din data de 28 septembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 32472 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_131_2023.docx",
+     "sha256": "b182f97ae4f15ca816c3a42761feb5492fad96596ce4434be803bb70fb024edb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-132-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/132",
+   "short": "HCL Câmpulung Moldovenesc nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 132/2023 privind aprobarea închirierii prin licitație publică a unui spațiu pentru vânzarea de produse alimentare și nealimentare, situat în incinta Colegiului Silvic ”Bucovina” Câmpulung Moldovenesc, din str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_132_2023.doc",
+     "sha256": "b6022f8ab4e15424bb3de97d1c62da8f0fe62a3e1170075ecc2634a0cc7aec84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-136-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/136",
+   "short": "HCL Câmpulung Moldovenesc nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 136/2023 privind aprobarea programului de măsuri specifice sezonului rece 2023 – 2024 și aprobarea tehnologiei de intervenție în cazul apariției poleiului și a căderilor de zăpadă în municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 septembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldoven",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_136_2023.doc",
+     "sha256": "49767fc581806a7ff6b05270c9e452191ed5d6d8d850e241b1f48e81df874348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-137-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/137",
+   "short": "HCL Câmpulung Moldovenesc nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 137/2023 cu privire la repartizarea, în vederea închirierii, a unui spațiu cu destinație de locuință Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 septembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 32495 din 11.09.2023; -Raportul de specialitate al Compartimentului spațiu locativ",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_137_2023.doc",
+     "sha256": "c244bdae515eb13312000bbae474db2b3a12aa656b9c0f3f7bffafe19d8ab42e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-138-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/138",
+   "short": "HCL Câmpulung Moldovenesc nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 138/2023 privind desemnarea reprezentanților Consiliului Local al municipiului Câmpulung Moldovenesc în consiliile de administrație ale unităților de invățământ preuniversitar din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 septembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Mol",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_138_2023.doc",
+     "sha256": "8c822410a7432b9c3fffd17fd8f5726fae51894eecd829d3328f8fba2a19db27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-139-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/139",
+   "short": "HCL Câmpulung Moldovenesc nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 139/2023 cu privire la modul de valorificare a cantității de 130.97 mc lemn fasonat provenit din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc administrat de Ocolul Silvic Vatra Dornei Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 septembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Mo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_139_2023.doc",
+     "sha256": "a5a5dba5d5e3e28c18f09506bbcfc52849caaf739653a64d74df198b7c1c9bde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-14-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/14",
+   "short": "HCL Câmpulung Moldovenesc nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 14/2023 cu privire la aprobarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2023; Având în vedere: -Raportul primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 2892 din 25.01.2023 ; -Raportul de specialitate al Direcției economice, înregistrat la nr. 2893 din",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_14_bun.doc",
+     "sha256": "a011f5c2d6e80c6ed40710f832a01ad97b8d67ccbec093cd6047ae40c4ce6cdb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-140-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/140",
    "short": "HCL Câmpulung Moldovenesc nr. 140/2023",
@@ -44,6 +644,201 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_140_2023.doc",
      "sha256": "29f88f70f189c3da2e327ae8c289d9370ab05213372d9706360b76b4995e7a32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-141-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/141",
+   "short": "HCL Câmpulung Moldovenesc nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 141/2023 privind aprobarea vânzării directe a cantității de 1141.43 mc lemn de foc și 166.05 mc lemn de lucru cu diametrul la capătul gros de maxim 24 cm, din fondul forestier proprietate publică a municipiului Câmpulung Moldovenesc, către cetățenii municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 septembrie 2023; Având în",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_141_2023.doc",
+     "sha256": "8703dca677d96aa868849b677382d35a879f6f58b4abfef6996422e9b3356cec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-142-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/142",
+   "short": "HCL Câmpulung Moldovenesc nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 142/2023 privind aprobarea majorării bugetului local, a virărilor de credite bugetare și a influențelor la lista de investiții a bugetului local pe anul 2023 și aprobarea majorării bugetului, virărilor de credite bugetare și a influențelor la lista de investiții în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2023 Consiliul Local al mun",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_142_2023.docx",
+     "sha256": "eb8929ad589ed52091069e661f59442b204bcb3e0cd0cab86ad931fcc218ae20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-143-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/143",
+   "short": "HCL Câmpulung Moldovenesc nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 143/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_143_2023.doc",
+     "sha256": "5a308c93d35cfcf461ad744c4cc1eaeb916b91b11aae2a66a922d050dd2b83c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-144-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/144",
+   "short": "HCL Câmpulung Moldovenesc nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 144/2023 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 26 octombrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 35794 din 10.10.2023; -Raportul de specialitate al Direcți",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_144_2023.doc",
+     "sha256": "ace6c2e7872a4183fa76221e5d8b7c1c1992abba4ab6063300f00552283e9ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-145-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/145",
+   "short": "HCL Câmpulung Moldovenesc nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 145/2023 pentru completarea punctului 3 din Anexa la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 138/28.09.2023 privind desemnarea reprezentanților Consiliului Local în consiliile de administrație ale unităților de invățământ preuniversitar din municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 octomb",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_145_2023.doc",
+     "sha256": "3d5edbbd341ec3302995cec12ff734f8df480ee888a852bf0005832b2d938d61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-146-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/146",
+   "short": "HCL Câmpulung Moldovenesc nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 146/2023 privind aprobarea Organigramei, statului de funcții și a numărului de personal la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 octombrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 35953 din 10.10.2023; -Raportul de specialitate a",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_146_2023.doc",
+     "sha256": "5d47c40a4f99549ae1139f3063f0d2bd7c2cc42319fd5703030c953f6cf66fd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-147-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/147",
+   "short": "HCL Câmpulung Moldovenesc nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 147/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale “Administrație” din aparatul de specialitate al primarului municipiului Câmpulung Moldovenesc, Serviciul Public Comunitar Local de Evidență a Persoanelor și Centrul Național de Informare și Promovare Turistică Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit î",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_147_2023.doc",
+     "sha256": "aad1c2580c65c36d9c775d63e72e9069405929302b6b1fd2420aed7183f9ddcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-148-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/148",
+   "short": "HCL Câmpulung Moldovenesc nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 148/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_148_2023_2023-11-06-072545_ggda.DOC",
+     "sha256": "f6defc4b1139aeb22d4aaa057ad5d6f166c8df0c29d88733a88c8cfff06706ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-149-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/149",
+   "short": "HCL Câmpulung Moldovenesc nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 149/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_149_2023.doc",
+     "sha256": "7800a2ecc4bcd8a651304460f16e21d8967d549636a0a7b1713f4700c42895c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-15-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/15",
+   "short": "HCL Câmpulung Moldovenesc nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 15/2023 privind aprobarea volumului maxim de masă lemnoasă estimat a se recolta în anul 2023 din fondul forestier proprietate publică a Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 23 februarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 5274 din 10.0",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_015_2023.doc",
+     "sha256": "e06e94474d785b30448ac0b6105d0b75ba46333a0b56bf216adf2b14da1f6c2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-150-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/150",
+   "short": "HCL Câmpulung Moldovenesc nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 150/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_150_2023.DOC",
+     "sha256": "badbb3d6dd6146a383d5a15034e8ff4a7de3fb07fd05ffec4f3baa9eb72b3514"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-151-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/151",
+   "short": "HCL Câmpulung Moldovenesc nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 151/2023 cu privire la aprobarea modalităților de valorificare a unui volum brut de masă lemnoasă de 1848.72 mc, din proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 octombrie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 35877 din 1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_151_2023.doc",
+     "sha256": "685c15f9fa7d5c0f9d62bdc3590d67328f57964dd40997390cddbaf0331ac831"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-154-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/154",
+   "short": "HCL Câmpulung Moldovenesc nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 154/2023 privind aprobarea contului de execuție al bugetului general al municipiului Câmpulung Moldovenesc pe trimestrul III 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 27 noiembrie 2023; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39974 din 10.11.2023; -Raportul de specialitate al Dir",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_154_2023.doc",
+     "sha256": "c66b7bd488fb9b723475576e98f8dd388b706184807f9d4a867e0d1a10a638c0"
     }
    ]
   },
@@ -63,6 +858,276 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-156-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/156",
+   "short": "HCL Câmpulung Moldovenesc nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 156/2023 pentru validarea Dispoziției primarului municipiului Câmpulung Moldovenesc nr. 544 din 08 noiembrie 2023 privind aprobarea diminuării bugetului local și a virărilor de credite bugetare în cadrul bugetului local al municipiului Câmpulung Moldovenesc pe anul 2023 precum și a virărilor de credite bugetare în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din ve",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_156_2023.docx",
+     "sha256": "437625ee2b7d76f0a3d1f66e84c9b107a431980101385bf8b9ea46e1cfae5f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-157-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/157",
+   "short": "HCL Câmpulung Moldovenesc nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 157/2023 privind aprobarea majorării bugetului local și a fondului de rezervă, virărilor de credite bugetare, influențelor la lista de investiții a bugetului și utilizării fondului de rezervă al bugetului local pe anul 2023 și aprobarea modificărilor bugetului și a influențelor la lista de investiții în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri prop",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_157_2023.docx",
+     "sha256": "c79daa85a60a66d134e52b9ae9e6746abee7f4b4e5b3103dcf76b459a27b9469"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-158-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/158",
+   "short": "HCL Câmpulung Moldovenesc nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 158/2023 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 65.000 lei Parohiei romano-catolice „Înălțarea Domnului” Câmpulung Moldovenesc pentru cofinanțarea lucrărilor de realizarea a instalației de furnizare gaz și a instalației termice pentru biserică și casă parohială Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarǎ din data de",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_158_2023.DOC",
+     "sha256": "356b12f10b8333b0962aa1c84b9fba9846bffaad3f9c59a97fc02517709a4fc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-159-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/159",
+   "short": "HCL Câmpulung Moldovenesc nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 159/2023 privind atestarea apartenenței la domeniul public al municipiului Câmpulung Moldovenesc a unui imobil Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 noiembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39877 din 10.11.2023; -Raportul de specialitate al Direcției tehnice și ur",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_159_2023.doc",
+     "sha256": "ed6ee90096d903b2e9e7b620231fb2bd0a950d0e8b5127cce5e3a216c2385c3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-16-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/16",
+   "short": "HCL Câmpulung Moldovenesc nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 16/2023 cu privire la modul de valorificare a cantității de 213.77 mc lemn fasonat provenit din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc administrat de Ocolul Silvic Vatra Dornei Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 23 februarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Mol",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_016_2023.doc",
+     "sha256": "fffd8512eecaa8ac9a31e3a3848a2491aa99ecfdd410dd4d0f367828816b54ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-160-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/160",
+   "short": "HCL Câmpulung Moldovenesc nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 160/2023 privind atestarea apartenenței la domeniul privat al Municipiului Câmpulung Moldovenesc a unui imobil Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 noiembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39963 din 10.11.2023; -Raportul de specialitate al Direcției tehnice și ur",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_160_2023.doc",
+     "sha256": "44cf4cf439cf6085728b1a42f85985df84a5ebee88550b4259561ebddc379677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-161-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/161",
+   "short": "HCL Câmpulung Moldovenesc nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 161/2023 cu privire la alocarea cantității de 35 m.c. material lemnos de lucru, ca ajutor de urgență pentru refacerea unor anexe afectate de incendiu 2 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 noiembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39858 din 10.11.2023; -Raportul d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_161_2023.doc",
+     "sha256": "8c155caace9d642b4e14efcc83755a882cbd3759bf719d113cf01db1afa2a902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-162-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/162",
+   "short": "HCL Câmpulung Moldovenesc nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 162/2023 privind aprobarea prețului de referință pentru masa lemnoasă pe picior care se recoltează din fondul forestier proprietate publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 noiembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39957 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_162_2023.doc",
+     "sha256": "7d2310008fb003d1eec9e2ab38e95715680e39f9b55970e1884d55d828118a7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-163-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/163",
+   "short": "HCL Câmpulung Moldovenesc nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 163/2023 cu privire la aprobarea modalităților de valorificare a unui volum brut de masă lemnoasă de 1391.54 mc, din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 noiembrie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat l",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_163_2023.doc",
+     "sha256": "90ff44b15a3092797b9cce3f41df7ce5529ba08465f00df511f0312eb02d93bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-164-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/164",
+   "short": "HCL Câmpulung Moldovenesc nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 164/2023 privind modificarea și completarea punctelor 3.1 alin. (2), 5.1 alin. (1) și 5.4 din contractul privind delegarea gestiunii prin concesiune a Serviciului public de salubrizare al municipiului Câmpulung Moldovenesc nr. 33459/906/16.11.2021 aprobat prin Hotărârea Consiliului Local nr. 109/26.08.2021 pentru aprobarea delegării gestiunii serviciului de salubrizare al municipiului Câmpulung Moldovenesc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_164_2023.doc",
+     "sha256": "dfcd3d383cfa313e7620a1d88898b00eefd385c552d8722a2e8c85cc8ecc7543"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-165-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/165",
+   "short": "HCL Câmpulung Moldovenesc nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 165/2023 privind acordarea mandatului special Asociației Județene pentru Apă și Canalizare Suceava să declanșeze procedura de selecție pentru desemnarea unui administrator în Consiliul de Administrație al Societății ACET S.A",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_165_2023.doc",
+     "sha256": "535e9cf34d81b8ec79302de4effd0fa97323343444d97b18c491e02432db7e08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-166-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/166",
+   "short": "HCL Câmpulung Moldovenesc nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 166/2023 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,Reabilitare și modernizare străzi în municipiul Câmpulung Moldovenesc, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_166_2023.doc",
+     "sha256": "9d455f96b23159a24c2aefdac1c17f564ac693402cf0e73bac62673003b78b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-167-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/167",
+   "short": "HCL Câmpulung Moldovenesc nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 167/2023 privind aprobarea Acordului de parteneriat actualizat pentru proiectul din Investiția I.4 ,,Implementarea a 3.000 km de trasee cicloturistice la nivel național”, finanțat din PNRR, Componenta 11 – Turism și cultură Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 noiembrie 2023; Luând act de: -Referatul de aprobare al primarului municipiului Câmpul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_167_2023.docx",
+     "sha256": "3b67ed0b12f183d236bf59a72bd3c04bf0963b82bb5754e290c7003f0af409a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-168-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/168",
+   "short": "HCL Câmpulung Moldovenesc nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 168/2023 privind modificarea articolului 4 al Hotărârii Consiliului Local al municipiului Câmpulung Moldovenesc nr. 105/2020 Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința extraordinară din data 6 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 42670 din 05.12.2023; -Raportul de special",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_168_2023.doc",
+     "sha256": "0095dccfe192df9718614e462594e21cbe77c0257abce73320470e491af2d6a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-169-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/169",
+   "short": "HCL Câmpulung Moldovenesc nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 169/2023 privind aprobarea proiectului, a cheltuielilor legate de proiect și a indicatorilor tehnico-economici (faza SF) pentru proiectul Sistem producere energie pentru consum propriu la nivelul UAT Campulung Moldovenesc, în vederea finanțării acestuia în cadrul Fondului pentru Modernizarea României, Programul-cheie 1: Surse regenerabile de energie și stocarea energiei/ Sprijinirea investițiilor în noi ca",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_169_2023.doc",
+     "sha256": "9f21fa1c6d14f55952c700c7e2f09067e21ef827e81c22300674a69023ac22fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-17-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/17",
+   "short": "HCL Câmpulung Moldovenesc nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 17/2023 pentru acceptarea ofertei de donație a unui teren situat în intravilanul Municipiului Câmpulung Moldovenesc și a investiției edificate pe acest teren",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_017_2023.doc",
+     "sha256": "f04abbe1012ddd28d6bd39579abbf147595c16fc7f7745843b41374bfaea23a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-170-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/170",
+   "short": "HCL Câmpulung Moldovenesc nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 170/2023 pentru aprobarea implementarii etapei a II-a a proiectului ,,ÎMBUNTĂȚIREA SERVICIILOR SOCIALE, RECREATIVE ȘI A SPAȚIILOR PUBLICE URBANE ÎN MUNICIPIUL CÂMPULUNG MOLDOVENESC”, COD SMIS 125615 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 6 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, î",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_170_2023.docx",
+     "sha256": "b0b9636fb69c244a8687a9a7ce8c78b13e951ab0e48df6c27500a58da0383a7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-171-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/171",
+   "short": "HCL Câmpulung Moldovenesc nr. 171/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 171/2023 privind aprobarea majorării bugetului local și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 6 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 42682 din",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_171_2023.docx",
+     "sha256": "6bc636fab8749921b34ec202ee4f69df58b07add44f128c1b18a8c77af2c5a10"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-172-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/172",
    "short": "HCL Câmpulung Moldovenesc nr. 172/2023",
@@ -78,6 +1143,81 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-173-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/173",
+   "short": "HCL Câmpulung Moldovenesc nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 173/2023 pentru validarea Dispoziției primarului municipiului Câmpulung Moldovenesc nr. 586 din 05 decembrie 2023 privind aprobarea majorării bugetului local și a virărilor de credite bugetare în cadrul bugetului local al municipiului Câmpulung Moldovenesc pe anul 2023 precum și a virărilor de credite bugetare în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din ven",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_173_2023.docx",
+     "sha256": "6d84dcc73e19e5f46e5702b2d564d546d7bc47b88b9d788330e40a2298096467"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-174-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/174",
+   "short": "HCL Câmpulung Moldovenesc nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 174/2023 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 80.000 lei Parohiei „Izvorul tămăduirii” Câmpulung Moldovenesc pentru obiectivul ”Finisaje interioare și fațadă centru parohial multifuncțional, str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_174_2023.DOC",
+     "sha256": "f315662a1a245eeb96f6215493244f666afc08e806efd588b15ad145068e33e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-175-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/175",
+   "short": "HCL Câmpulung Moldovenesc nr. 175/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 175/2023 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 80.000 lei Parohiei „Sfântul Dumitru” Câmpulung Moldovenesc pentru obiectivul ”Finalizare lucrări construire casă prăznicar și clopotniță” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarǎ din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului mu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_175_2023.DOC",
+     "sha256": "cb23a8f5e603ddec2817fcd2506aa9f20dd46eff30f8c58826c753d312142699"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-176-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/176",
+   "short": "HCL Câmpulung Moldovenesc nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 176/2023 privind alocarea cantității de 50 m.c. material lemnos de lucru, pentru reparații la anexele Bisericii “Înălțarea Domnului” Sîhla din municipiul Câmpulung Moldovenesc 2 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 43323 d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_176_2023.doc",
+     "sha256": "a9265e13629c32be2481b6403ec1150464bfeb8b440d453e8dd4370595d38db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-177-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/177",
+   "short": "HCL Câmpulung Moldovenesc nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 177/2023 cu privire la subvenționarea transportului local de călători și acordarea de facilități . pentru transportul public pentru unele categorii ale populației, în municipiul Câmpulung Moldovenesc, în perioada 1 ianuarie 2024 - 31 decembrie 2024 Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinarǎ din data 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primar",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_177_2023.doc",
+     "sha256": "579e165e7d2ae4fdbea2f6d249980069ca1714286ebaac21b925ee949c3a47a7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-178-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/178",
    "short": "HCL Câmpulung Moldovenesc nr. 178/2023",
@@ -89,6 +1229,51 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_178_2023.doc",
      "sha256": "640f593e15a39f263ee0af8d314e3112d95a606292d7b779134539ecff511cb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-179-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/179",
+   "short": "HCL Câmpulung Moldovenesc nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 179/2023 cu privire la aprobarea modalităților de valorificare a unui volum brut de masă lemnoasă de 1326.95 mc, din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat l",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_179_2023.doc",
+     "sha256": "026eb9f57dd3997f242999c541cc6956857a92e69f8666003d1eb35df9a6eee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-180-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/180",
+   "short": "HCL Câmpulung Moldovenesc nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 180/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_180_2023.doc",
+     "sha256": "af81ccd630d471620da08955d10c617d7fb6bde3eaa753b0225843ed6093b18c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-181-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/181",
+   "short": "HCL Câmpulung Moldovenesc nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 181/2023 cu privire la prelungirea valabilității unor contracte de închiriere pentru spații cu altă destinație decât locuință Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 43384 din 08.12.2023; -Raportul de specialitate al Comparti",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_181_2023.doc",
+     "sha256": "53b2038559c7f19ed29928ce32d87dfb36bd1c70d8bed92f74b4858d558f0221"
     }
    ]
   },
@@ -123,6 +1308,81 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-184-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/184",
+   "short": "HCL Câmpulung Moldovenesc nr. 184/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 184/2023 privind atestarea Inventarului bunurilor care aparțin domeniului privat al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 43375 din 08.12.2023; -Raportul de specialitate a Direcției tehnice",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_184_2023.doc",
+     "sha256": "489d902d79b0a267d93fd6f1456210cb220bae366f90be5f1dbfa0928365b5b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-185-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/185",
+   "short": "HCL Câmpulung Moldovenesc nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 185/2023 privind atestarea apartenenței la domeniul public al Municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 43354 din 08.12.2023; -Raportul de specialitate al Direcției tehnice și u",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_185_2023.doc",
+     "sha256": "ac2864cb54b924a4c9402a26fd4aa9be7b7b30c428941a4fc1bb0ac90600ff99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-186-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/186",
+   "short": "HCL Câmpulung Moldovenesc nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 186/2023 privind trecerea din domeniul privat al municipiului Câmpulung Moldovenesc în domeniul public al municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 43298 din 08.12.2023; -Raportu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_186_2023.doc",
+     "sha256": "87ce8a050bc778b641c25e582860c92512b456874f8811cd3b6105b2cafd6508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-187-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/187",
+   "short": "HCL Câmpulung Moldovenesc nr. 187/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 187/2023 privind aprobarea inițierii procedurii de vânzare, cu respectarea dreptului de preempțiune, a unor suprafețe de teren aparținând domeniului privat al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistra",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_187_2023.DOC",
+     "sha256": "922225ea91ccf4a9447b65dba2b2655c41eb6c58729c76e90ffa9291e6cac315"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-188-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/188",
+   "short": "HCL Câmpulung Moldovenesc nr. 188/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 188/2023 privind aprobarea inițierii procedurilor de acceptare a ofertelor de donație a unor suprafețe de teren pentru realizarea unui drum de acces în zona Izvorul Alb Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat l",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_188_2023.doc",
+     "sha256": "fded24183b88ebc3e2ac80dddc06b0e8fecfbc0df5d632a5099f4274d3c63cf8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-189-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/189",
    "short": "HCL Câmpulung Moldovenesc nr. 189/2023",
@@ -134,6 +1394,36 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_189_2023.doc",
      "sha256": "01999de0c2c0e266b89d67f75e967424628c1a41dc8f4668d9e69afde4af8c6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-19-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/19",
+   "short": "HCL Câmpulung Moldovenesc nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 19/2023 cu privire la repartizarea, în vederea închirierii, a unor spații cu destinație de locuință Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 23 februarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 5366 din 10.02.2023; -Raportul de specialitate al Compartimentului spațiu locativ di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_019_2023.doc",
+     "sha256": "dd39f3c8dd97e8c7ab16d1f840e3f582f1ab564fd5bb29a34e39c7fb844342e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-190-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/190",
+   "short": "HCL Câmpulung Moldovenesc nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 190/2023 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al primarului municipiului Câmpulung Moldovenesc și a instituțiilor subordonate Consiliului Local, în vederea implementării măsurilor stabilite prin Legea nr. 296/2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_190_2023.doc",
+     "sha256": "6ecf33ea4331fb6cb6c4ccd833e75b8990a66491a27f635a30417fea469240b5"
     }
    ]
   },
@@ -168,6 +1458,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-193-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/193",
+   "short": "HCL Câmpulung Moldovenesc nr. 193/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 193/2023 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar din municipiul Câmpulung Moldovenesc, pentru anul școlar 2024-2025 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 21 decembrie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 44670 din 18.12.2023; -Raportul d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_193_2023.doc",
+     "sha256": "d712d3c371e3fa0f4a77a2f6a159d8bafeef24ebca1280b05741c144c803deb4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-194-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/194",
    "short": "HCL Câmpulung Moldovenesc nr. 194/2023",
@@ -198,6 +1503,66 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-2-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/2",
+   "short": "HCL Câmpulung Moldovenesc nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 2/2023 privind închirierea prin licitație publică a unei suprafețe de teren de 2890 mp, proprietatea publică a Municipiului Câmpulung Moldovenesc destinată amplasării unei instalații de transport pe cablu tip teleschi Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 04 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câm",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p13?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_002_2023.doc",
+     "sha256": "8e9516d8e47f26b75ec6f34af4f19891761c4379eea1eb0f3cbe82c1f3a4df14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-20-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/20",
+   "short": "HCL Câmpulung Moldovenesc nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 20/2023 privind aprobarea închirierii prin licitație publică a unor suprafețe de teren cu destinația de pajiști permanente aparținând domeniului public al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 23 februarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat l",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_020_2023.doc",
+     "sha256": "bbfde58af506ad627d98c6bcac3ec53186e50063703679d06961ee478afe21c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-21-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/21",
+   "short": "HCL Câmpulung Moldovenesc nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 21/2023 privind desemnarea reprezentanților Consiliului Local al municipiului Câmpulung Moldovenesc în comisia de concurs/examen, respectiv în comisia de soluționare a contestațiilor la concursul organizat pentru ocuparea funcției specifice comitetului director de director financiar-contabil al Spitalului Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în șe",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_021_2023.doc",
+     "sha256": "3f48b2463c3c1f539cfeceefaa4cd40d927db90c47cb5922ebf8b83e72f61cfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-22-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/22",
+   "short": "HCL Câmpulung Moldovenesc nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 22/2023 privind aprobarea majorării bugetului local, utilizării fondului de rezervă, virărilor de credite bugetare și influențelor la lista de investiții a bugetului local pe anul 2023 și aprobarea virărilor de credite bugetare și a influențelor la lista de investiții a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2023 Consiliul Local al muni",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_022_2023.docx",
+     "sha256": "ec27df2ed12c529871b64b69f2030b5b6c52e536c5c828eb7722eb486ec5c712"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-23-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/23",
    "short": "HCL Câmpulung Moldovenesc nr. 23/2023",
@@ -209,6 +1574,201 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_023_2023.doc",
      "sha256": "4ee2c16aa13a6df23285b349e086b3bec35c08ba8bba898a9688a6a287ebd679"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-24-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/24",
+   "short": "HCL Câmpulung Moldovenesc nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 24/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico- economici și a devizului general pentru obiectivul de investiții “Extinderea sistemului de canalizare, municipiul Câmpulung Moldovenesc, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_024_2023.doc",
+     "sha256": "a58c72297ad007abace97a2bd30544d27bf43fe767f8b09dc3ec3cb3519690ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-25-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/25",
+   "short": "HCL Câmpulung Moldovenesc nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 25/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico- economici și a devizului general pentru obiectivul e investiții “Extinderea sistemului de alimentare cu apă, municipiul Câmpulung Moldovenesc, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local p",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_025_2023.doc",
+     "sha256": "4666adcf32f06d57c57fa787a35fcf99a5bc75873a386115cd9fdd04d4ed09b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-26-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/26",
+   "short": "HCL Câmpulung Moldovenesc nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 26/2023 privind aprobarea majorării bugetului local, utilizării fondului de rezervă, virărilor de credite bugetare și influențelor la lista de investiții a bugetului local pe anul 2023 și aprobarea majorării bugetului , virărilor de credite bugetare și a influențelor la lista de investiții a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2023 C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_026_2023.docx",
+     "sha256": "3b2e9f29bd216df9c358e404a381a6ce598346c59a0902da5bd63bf568e03983"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-28-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/28",
+   "short": "HCL Câmpulung Moldovenesc nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 28/2023 privind aprobarea proiectului Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și unităților conexe din municipiul Câmpulung Modovenesc și depunerea acestuia în vederea obținerii finanțării în cadrul Planului Național de Redresare și Reziliență (PNRR), PNRR/2022/C15/MEDU/I9./I11./I13./I14./Dotarea cu mobilier, materiale didactice și echipam",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/HCL_028_2023.docx",
+     "sha256": "a0d9436cf9e3b101a828562e543951e65d64a6a851d1c1c0061f4ec672b68d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-29-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/29",
+   "short": "HCL Câmpulung Moldovenesc nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 29/2023 privind aprobarea proiectului Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și unităților conexe din municipiul Câmpulung Modovenesc și depunerea acestuia în vederea obținerii finanțării în cadrul Planului Național de Redresare și Reziliență (PNRR), PNRR/2022/C15/MEDU/I9./I11./I13./I14./Dotarea cu mobilier, materiale didactice și echipam",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_029_2023.docx",
+     "sha256": "d96b04b6bc85044ed3361ffa3bdbba43172bca333ed56838ceae0b4089cb726b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-3-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/3",
+   "short": "HCL Câmpulung Moldovenesc nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 3/2023 pentru modificarea Hotărârii Consiliului Local numărul 107 din 10 octombrie 2022 privind aprobarea depunerii proiectului cu titlul ,,Renovare energetică sediul Primăriei și al Consiliului Local al Municipiului Câmpulung Moldovenesc” în cadrul apelului de proiecte PNRR/2022/C5 și a cheltuielilor legate de proiect Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordina",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p13?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/HCL_003_2023.doc",
+     "sha256": "bb7f0b118d53673e9aca151ae06f62e5eb53bdce263ebc8683ce278ea02e60e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-30-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/30",
+   "short": "HCL Câmpulung Moldovenesc nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 30/2023 privind aprobarea contului de execuție al bugetului general al municipiului Câmpulung Moldovenesc pe trimestrul IV 2022 și pe anul 2022 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 30 martie 2023; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8898 din 10.03.2023; -Raportul de speciali",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_030_2023.doc",
+     "sha256": "71dc980b60b64cc56ba928873817e66fc639ec52379e6b8820762dae6e748831"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-31-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/31",
+   "short": "HCL Câmpulung Moldovenesc nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 31/2023 privind aprobarea Organigramei, statului de funcții și a numărului de personal la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8831 din 10.03.2023; -Raportul de specialitate al Co",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_031_2023.doc",
+     "sha256": "fbf8b55cb0f6dc9839daa1caf0406646f1c77cca966dca60a43af13a45f4aed6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-32-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/32",
+   "short": "HCL Câmpulung Moldovenesc nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 32/2023 privind modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 155/27.12.2022 privind aprobarea organigramei și a statului de funcții ale Clubului Sportiv Municipal „Rarăul” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de apr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_032_2023.doc",
+     "sha256": "8ebd01fbfbcbc53cbd88be61b908cb84e365463e21f0b6c0eea48b20ccb5d2c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-33-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/33",
+   "short": "HCL Câmpulung Moldovenesc nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 33/2023 pentru modificarea și completarea alineatului 4 al articolului 9 din Anexa la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 104/26.08.2021 privind aprobarea Regulamentului de organizare și funcționare al Clubului Sportiv Municipal „Rarăul” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Av",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_033_2023.docx",
+     "sha256": "d7d0ea06031aeeb718dea236c6013ea7d42500e82215bf8b3602d0402483680e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-34-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/34",
+   "short": "HCL Câmpulung Moldovenesc nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 34/2023 privind atribuirea directă a contractului de delegare a gestiunii Serviciului pentru gestionarea câinilor fără stăpân din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8892 din 10.03.2023; -Ra",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_034_2023.DOC",
+     "sha256": "5646b82e41e728c7dbbf54852e15223aea4cc3988b6f59c0d511e69746ca961f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-36-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/36",
+   "short": "HCL Câmpulung Moldovenesc nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 36/2023 privind alocarea cantității de 43,749 m.c. material lemnos de lucru fasonat Muzeului “Arta Lemnului” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8916 din 10.03.2023; -Raportul de specialitate al Direcț",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_036_2023.doc",
+     "sha256": "521890f9a8622c62ff8d4e24494b149245ef84e04654e26c9a2dbf65bcd37c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-37-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/37",
+   "short": "HCL Câmpulung Moldovenesc nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 37/2023 privind atestarea apartenenței la domeniul privat al municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8920 din 10.03.2023; -Raportul de specialitate al Direcției tehnice și urban",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_037_2023.doc",
+     "sha256": "df405d680186716a1bcfc62090f194698041a099adf917f9381fb4b2ce40ac95"
     }
    ]
   },
@@ -228,6 +1788,96 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-39-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/39",
+   "short": "HCL Câmpulung Moldovenesc nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 39/2023 privind aprobarea închirierii prin licitație publică a unei suprafețe de teren cu destinația de pajiște permanentă aparținând domeniului public al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_039_2023.doc",
+     "sha256": "33e0ba2325042da56ceb5f3d2ef953ac90e96c8fd16cf598c9bb2d843624d643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-4-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/4",
+   "short": "HCL Câmpulung Moldovenesc nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 4/2023 privind aprobarea încheierii protocoalelor de colaborare și acordului de parteneriat în vederea depunerii și implementării proiectului Centru Comunitar Integrat Câmpulung Moldovenesc, în cadrul Planului Național De Redresare Și Reziliență - Componenta C12 – Sănătate - Investiția 1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p13?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_004.docx",
+     "sha256": "f832eeb6d8c501265b02bc36c66584a9313a635aad7b8135aa480a6d1211654d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-40-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/40",
+   "short": "HCL Câmpulung Moldovenesc nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 40/2023 privind vânzarea prin licitație publică a unei suprafețe de teren de 133 mp, proprietatea privată a municipiului Câmpulung Moldovenesc, situat în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_040_2023.doc",
+     "sha256": "4eed899c086019b9943f58f2a8cd34e5b4cd9c8845eccec7a8b3a7a6f172114a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-41-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/41",
+   "short": "HCL Câmpulung Moldovenesc nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 41/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_041_2023.doc",
+     "sha256": "bccd423b1971f10351bb836585dadaae70ac96f1c02f0b07b0a1adb23fcf312c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-42-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/42",
+   "short": "HCL Câmpulung Moldovenesc nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 42/2023 privind aprobarea utilizării fondului de rezervă, virărilor de credite bugetare și influențelor la lista de investiții a bugetului local pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 11394 din 28.03.2023; -Raport",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_042_2023.docx",
+     "sha256": "f71bac2e9ac6c41ff67a4b0f7703546f61ec090cb8930a7c6d795346b1825dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-43-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/43",
+   "short": "HCL Câmpulung Moldovenesc nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 43/2023 privind închirierea prin licitație publică a unor suprafețe de teren, proprietatea publică a Municipiului Câmpulung Moldovenesc în vederea amplasării unor instalații de agrement Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_043_2023.doc",
+     "sha256": "4c392f7266278fd44288705d2695164540d2e2b24815cfa292040309e4e7f8a3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-44-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/44",
    "short": "HCL Câmpulung Moldovenesc nr. 44/2023",
@@ -243,6 +1893,126 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-48-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/48",
+   "short": "HCL Câmpulung Moldovenesc nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 48/2023 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13566 din 10.04.2023; -Raportul de specialitate al Direcției",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_048_2023.doc",
+     "sha256": "9365688d839c68ef4ebd4c5dca5818de02e39649f77da960febf55c9e04a37df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-49-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/49",
+   "short": "HCL Câmpulung Moldovenesc nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 49/2023 privind aprobarea virărilor de credite bugetare și a influențelor la lista de investiții a bugetului local pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13662 din 10.04.2023; -Raportul de specialitate al Direcți",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_049_2023.docx",
+     "sha256": "74a7b6d933e57d34e1214e0890efeeef213f85f068e84a34c2b1fef6fd2154bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-5-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/5",
+   "short": "HCL Câmpulung Moldovenesc nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 5/2023 privind aprobarea proiectului Centru Comunitar Câmpulung Moldovenesc și a cheltuielilor legate de proiect Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 25 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 2779 din 25.01.2023; -Raportul de specialitate al Direcției tehnic",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_005.docx",
+     "sha256": "2f3db314a55da8006e793618e0ce6c31dda3dfd1289db6aa46447af3f17e11c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-50-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/50",
+   "short": "HCL Câmpulung Moldovenesc nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 50/2023 privind aprobarea plafonului și a procedurii pentru publicarea listei contribuabililor reprezentând persoane juridice care înregistrează obligații fiscale restante la bugetul local al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_050_2023.doc",
+     "sha256": "7fc4d6b1993c7b95830ebccf55024ff2f7cd1a88ff4033ce2adbf446711ce33b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-51-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/51",
+   "short": "HCL Câmpulung Moldovenesc nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 51/2023 cu privire la aprobarea procedurii de publicare a listei contribuabililor reprezentând persoane juridice care nu înregistrează obligații fiscale restante la bugetul local al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung M",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_051_2023.doc",
+     "sha256": "c71ea5f31d3277acf83a3cd3f820680b04305be63d76234ab275d4cb4d5f1d0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-52-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/52",
+   "short": "HCL Câmpulung Moldovenesc nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 52/2023 privind aprobarea structurii organizatorice la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13636 din 10.04.2023; -Raportul de specialitate al Compartimentului resurse umane, înr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_052_2023.doc",
+     "sha256": "1c97a7b0416788b550c8d3f8ed684744c6fb6db8c32896e2446da47b39628f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-53-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/53",
+   "short": "HCL Câmpulung Moldovenesc nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 53/2023 privind aprobarea acordului de colaborare între municipiul Câmpulung Moldovenesc și Asociația de Psihiatrie Socială din România în vederea organizării evenimentului „REPERE ACTUALE ÎN PSIHIATRIA COMUNITARĂ” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Mold",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_053_2023.docx",
+     "sha256": "d6777b2bce9d907287dcef77ffa934afb55f8d6c067c6e145d66c929a3fd4bd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-54-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/54",
+   "short": "HCL Câmpulung Moldovenesc nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 54/2023 cu privire la modul de valorificare a masei lemnoase din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13717 din 10.04.2023; -Raportul de specialitate",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_054_2023.doc",
+     "sha256": "d86802e232df187ebe2a1a2f88020151d666fea0947189be8af48b0c1af25aaa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-56-2023",
    "path": "local/suceava/campulung-moldovenesc/2023/56",
    "short": "HCL Câmpulung Moldovenesc nr. 56/2023",
@@ -254,6 +2024,651 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_056_2023.doc",
      "sha256": "ff4b09a59a3fa13f6f4ccf99b14077e9f8593cd757a5fe8f9c8cb264c9f720a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-57-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/57",
+   "short": "HCL Câmpulung Moldovenesc nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 57/2023 privind atestarea apartenenței la domeniul privat al Municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13744 din 10.04.2023; -Raportul de specialitate al Direcției tehnice și urb",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_057_2023.doc",
+     "sha256": "fd42b90ca0df9ce0c46edfccb376dba61f27f47dd75fc344cd805a8511830794"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-58-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/58",
+   "short": "HCL Câmpulung Moldovenesc nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 58/2023 privind atestarea Inventarului bunurilor care aparțin domeniului privat al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 1378 din 10.04.2023; -Raportul de specialitate a Direcției tehnice și",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_058_2023.doc",
+     "sha256": "182c83bea0ba2c298f93d4b97a60d4d384948f8812936d1803e8afe23a6303b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-59-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/59",
+   "short": "HCL Câmpulung Moldovenesc nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 59/2023 cu privire la alocarea cantității de 28,8 m.c. material lemnos de lucru, ca ajutor de urgență pentru refacerea unei locuințe afectate de incendiu 1 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13728 din 10.04.2023; -Raportu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_059_2023.doc",
+     "sha256": "7585ab431792fd60cfa696ba6e6bcbb48fb9d6e3e2bd0e35ec66656cde8e11f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-6-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/6",
+   "short": "HCL Câmpulung Moldovenesc nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 6/2023 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 31 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 852 din 10.01.2023; -Raportul de specialitate al Direcției",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_006_2023.doc",
+     "sha256": "e78b00395d907295abab309e6e64b200c90dff3fb9fbfc5b63a5fbc9226d6cb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-60-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/60",
+   "short": "HCL Câmpulung Moldovenesc nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 60/2023 cu privire la alocarea cantității de 30 m.c. material lemnos de lucru, ca ajutor de urgență pentru refacerea unei locuințe afectate de incendiu 1 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13738 din 10.04.2023; -Raportul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_060_2023.doc",
+     "sha256": "23f4fd564cf32169d54fc3cff6e23f9eb61291177fa04677092bc4a4c7b2cb64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-61-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/61",
+   "short": "HCL Câmpulung Moldovenesc nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 61/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_061_2023.DOC",
+     "sha256": "eaf646736c0f932cd7febd9d0a7b91da0f290a46cc28e7bf4d6654cc33b89180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-62-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/62",
+   "short": "HCL Câmpulung Moldovenesc nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 62/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_062_2023.DOC",
+     "sha256": "0aa46275af4236ac917987e5c1d12dc67da4cefcdeec572e460a9f0ad262b6d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-63-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/63",
+   "short": "HCL Câmpulung Moldovenesc nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 63/2023 privind închirierea unei suprafețe de teren proprietatea publică a Municipiului Câmpulung Moldovenesc cu destinația de parcare autovehicule Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 13752 din 10.04.2023; -Raportul de spe",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_063_2023.doc",
+     "sha256": "dec0b75a86f8fd03a9ab5f1c234f65d18b352428caa0acf9a4fa966f2ce4edb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-65-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/65",
+   "short": "HCL Câmpulung Moldovenesc nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 65/2023 privind aprobarea participării Municipiului Câmpulung Moldovenesc la ,,Programul privind casarea autovehiculelor uzate”, derulat în cofinanțare cu Administrația Fondului pentru Mediu Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al viceprimarului municipiului Câmpulung Moldovenesc, înregistra",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_065_2023.DOC",
+     "sha256": "14f31336e94ea01e4b43156e2f51fb3b22dc24329263dfd64f40bf2e6b3ed0df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-66-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/66",
+   "short": "HCL Câmpulung Moldovenesc nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 66/2023 privind aprobarea documentației tehnico-economice – faza DALI și a indicatorilor tehnico-economici pentru obiectivul de investiții „Cresterea eficientei energetice a infrastructurii de iluminat public in Municipiul Campulung Moldovenesc” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința odinară din data de 27 aprilie 2023; Având în vedere: -Referatul de aprobare al vicepri",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_066_2023.docx",
+     "sha256": "ce3d01ab15517d1b75598891860ea324c6f38a7471e08e4785e9141556f88da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-67-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/67",
+   "short": "HCL Câmpulung Moldovenesc nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 67/2023 privind aprobarea participării municipiului Câmpulung Moldovenesc, în calitate de membru fondator, la înființarea Organizației de Management al Destinației Bucovina, la nivel regional, a Statutului acesteia, precum și desemnarea reprezentantului Municipiului Câmpulung Moldovenesc în cadrul Adunării Generale a Organizației de Management al Destinației Bucovina Consiliul Local al municipiului Câmpul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_067_2023.docx",
+     "sha256": "1726f49a1034002f455a7dc0b3620a532fbb43d77d75d8e9b9fbea463c9979c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-68-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/68",
+   "short": "HCL Câmpulung Moldovenesc nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 68/2023 pentru completarea Hotărârii Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 97 din 16.09.2022 privind implementarea proiectului ,,Construire insule ecologice digitalizate în municipiul Câmpulung Moldovenesc” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraodinară din data de 15 mai 2023; Având în vedere: -Referatul de aprobare al primarului municipiului",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_068_2023.docx",
+     "sha256": "d721e3de816e31595609de8cd2673a0f3114de42f64edd8702fb3832e05ca11f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-69-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/69",
+   "short": "HCL Câmpulung Moldovenesc nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 69/2023 privind transmiterea în folosință gratuită, pe durata execuției investiției, a unui teren proprietatea privată a Municipiului Câmpulung Moldovenesc către Agenția Națională pentru Locuințe, în vederea construirii de locuințe pentru tineri, destinate închirierii Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraodinară din data de 15 mai 2023; Având în vedere: -Referatu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_069_2023.docx",
+     "sha256": "c969d89e7f7006cfb5b54685775c2e26c8f5ee6b57cb4f1636881e088715606c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-7-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/7",
+   "short": "HCL Câmpulung Moldovenesc nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 7/2023 cu privire la modificarea articolului 9 și articolului 10 din Anexa la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr.40/2015 cu privire la întreținerea și folosirea construcțiilor, inclusiv drumuri, poduri sau amenajări de albii ale râurilor, activitățile de întreținere și curățenie a localității, activități comerciale, protecția mediului, conviețuirea socială, ordinea și li",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_007_2023.doc",
+     "sha256": "96b110b6e6220427a4891f74a64eee5e2a48c31b885aa91ead6bd27847c86476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-70-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/70",
+   "short": "HCL Câmpulung Moldovenesc nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 70/2023 privind aprobarea rectificării bugetului local, majorării fondului de rezervă, virărilor de credite bugetare, influențelor la lista de investiții a bugetului și utilizării fondului de rezervă al bugetului local pe anul 2023, aprobarea majorării bugetului, virărilor de credite bugetare și influențelor la lista de investiții a bugetului instituțiilor publice și activităților finanțate integral sau p",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_070_2023.docx",
+     "sha256": "bbf3d1ae2131279e0e28fb5ef261b40a0a92e96462f685a930030f94a551e580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-71-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/71",
+   "short": "HCL Câmpulung Moldovenesc nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 71/2023 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a unei sume pentru participarea Grupului vocal - instrumental „Piatra Șoimului” Câmpulung Moldovenesc la manifestările desfășurate în cadrul Festivalului Internațional de Folclor „Întâlniri Bucovinene”, ediția a-XXXIV- a Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 m",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_071_2023.doc",
+     "sha256": "ebfaee286fab0b62c0b548972bc14cf73975582de74503af1801fcdc3f8acd79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-72-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/72",
+   "short": "HCL Câmpulung Moldovenesc nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 72/2023 privind aprobarea Organigramei și a Statului de funcții la Biblioteca Municipală Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 mai 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 17598 din 10.05.2023; -Raportul de specialitate al Compartimentului resurse uma",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_072_2023.doc",
+     "sha256": "0b2c3377fd70ad8a828b345678944302787f4119f504bca9b38b1fb9fbe8afe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-73-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/73",
+   "short": "HCL Câmpulung Moldovenesc nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 73/2023 privind aprobarea rezultatului final al evaluării managementului la Muzeul ,,Arta Lemnului” – Câmpulung Moldovenesc, pentru anul 2022 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 mai 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 17480 din 10.05.2023; -Raportul de specialitate",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_073_2023.docx",
+     "sha256": "9406e2b83df982025e18dd9f1b609364c84e0cafd8bd633e26057175d1d4240f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-75-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/75",
+   "short": "HCL Câmpulung Moldovenesc nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 75/2023 pentru aprobarea indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Reabilitare, modernizare și extindere Colegiul Silvic Bucovina, municipiul Câmpulung Moldovenesc, județul Suceava” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 mai 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldove",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_075_2023.docx",
+     "sha256": "7f2dc0588c6298c01ef47c1403c53c14e2df02a9565b247f4a273df2f1eb86a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-76-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/76",
+   "short": "HCL Câmpulung Moldovenesc nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 76/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 mai 2023; Având în vedere : -Referatul de aprobare al primarului municipiul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_076_2023.docx",
+     "sha256": "bc0527f1e9e570a435858266749225c35a0b18b9385d8608734c75871d13ec4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-77-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/77",
+   "short": "HCL Câmpulung Moldovenesc nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 77/2023 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava, precum și împuternicirea Președintelui Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava să semneze, în numele și pe seama membrilor Asociației, Actul adițional de modificare și completare a Statutului Asociației prevăz",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_077_2023.docx",
+     "sha256": "b6e92ac57a6e2c9fd7552e304f95f2e2e6b11e7e1643c7051f235bfeb61cf548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-78-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/78",
+   "short": "HCL Câmpulung Moldovenesc nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 78/2023 privind aprobarea listei solicitanților care au acces și a listei de priorități privind solicitanții locuințelor pentru tineri, destinate închirierii, construite prin Agenția Națională pentru Locuințe în municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 mai 2023; Având în vedere: -Referatul de aprobare al primarului",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_078_2023.doc",
+     "sha256": "7b38aed62488984aa89ab0b46d9064bc7861a07c059128432ef742d803e8dd5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-79-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/79",
+   "short": "HCL Câmpulung Moldovenesc nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 79/2023 privind aprobarea listei de repartizare a locuințelor pentru tineri, destinate închirierii, construite prin Agenția Națională pentru Locuințe în municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 mai 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 1750",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_079_2023.doc",
+     "sha256": "8cb746c565453ec00a5c92f3887880433f7cccf213be4bc559f971aacb22bd09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-8-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/8",
+   "short": "HCL Câmpulung Moldovenesc nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 8/2023 privind aprobarea lucrărilor de interes local care se execută în anul 2023 de persoanele beneficiare de venit minim garantat Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 956 din 10.01.2023; -Raportul de specialitate al Ser",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_008_2023.doc",
+     "sha256": "5b5f3d9e68ff92d2a4f86102e68dfa7785416cb1fed53b0ca1471e75101a1e61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-81-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/81",
+   "short": "HCL Câmpulung Moldovenesc nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 81/2023 pentru aprobarea indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Reabilitare infrastructură rutieră și trotuare în municipiul Câmpulung Moldovenesc” din cadrul proiectului \"ÎMBUNTĂȚIREA SERVICIILOR SOCIALE, RECREATIVE ȘI A SPAȚIILOR PUBLICE URBANE ÎN MUNICIPIUL CÂMPULUNG MOLDOVENESC”, în cadrul Programului operațional regional 2014-2020 – Axa prioritară 13 – Sprijinirea",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_081_2023.docx",
+     "sha256": "d6c9e16495326e90eb859cc5b6b16bda3b27e8f7c19f37e81a26dcbf19692f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-82-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/82",
+   "short": "HCL Câmpulung Moldovenesc nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 82/2023",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_082-bun_2023.docx",
+     "sha256": "3895c5a5648c7778bd04d35c2e7d290a974d33a589285118493a2fe6dce92322"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-83-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/83",
+   "short": "HCL Câmpulung Moldovenesc nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 83/2023 privind aprobarea documentației tehnico-economice (faza S.F.) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire bloc de locuințe pentru tineri în Municipiul Câmpulung Moldovenesc, județul Suceava” finanțat prin Planul Național de Redresare și Reziliență în cadrul apelului de proiecte PNRR/2022/C10/I.2, Runda 1, Componenta 10 – Fondul Local, I.2 - Construirea de locui",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_083-bun_2023.docx",
+     "sha256": "076258f2e34632afd3222bacca5e3c3f569b8e03db75a4787b3852d2db52114a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-84-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/84",
+   "short": "HCL Câmpulung Moldovenesc nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 84/2023 privind trecerea din domeniul privat al municipiului Câmpulung Moldovenesc în domeniul public al municipiului Câmpulung Moldovenesc a unui imobil Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință extraordinară din data de 14 iunie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 22111 din 13.06.2023; -Raportu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_084_2023.doc",
+     "sha256": "01d7fa3ef468a2798ca10bb58418b98e25c069679d7f3fa650f99c8fbfea0ca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-85-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/85",
+   "short": "HCL Câmpulung Moldovenesc nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 85/2023 privind atestarea apartenenței la domeniul public al Municipiului Câmpulung Moldovenesc a unui imobil Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 14 iunie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 22105 din 13.06.2023; -Raportul de specialitate al Direcției tehnice și u",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_085_2023.doc",
+     "sha256": "586ee7a415452ba6660432aef3702bd3c81d6497a3074640647d3bbfd473a4b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-86-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/86",
+   "short": "HCL Câmpulung Moldovenesc nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 86/2023 privind aprobarea virărilor de credite bugetare, a influențelor la lista de investiții a bugetului local pe anul 2023 și a virărilor de credite bugetare în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 14 iunie 2023; Având î",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_086_2023.docx",
+     "sha256": "725e114ce6e632a89a9533a46d5912af6ffeb35c4efe4d02ad4a6c32e3983a46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-87-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/87",
+   "short": "HCL Câmpulung Moldovenesc nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 87/2023 privind aprobarea rectificării bugetului local, a virărilor de credite bugetare și a influențelor la lista de investiții a bugetului local pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 22 iunie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 23366 din 21.06.2023;",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_087_2023.docx",
+     "sha256": "928b7037d4734ae500ea329097199de53467dcba88faf5c3be71c5c3cc8bc97f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-88-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/88",
+   "short": "HCL Câmpulung Moldovenesc nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 88/2023 privind aprobarea Acordului de parteneriat și participarea Municipiului Câmpulung Moldovenesc la implementarea proiectului „Construire clădire pentru Școala Profesională Specială Câmpulung Moldovenesc”, finanțat din PNRR, Componenta 15 – Educație, Investiția 10: Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit î",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_088_2023.docx",
+     "sha256": "7325d60af180190e6869739a9fe91b09714f763a64252851ab4ef467e769050b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-89-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/89",
+   "short": "HCL Câmpulung Moldovenesc nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 89/2023 privind aprobarea cererii de finanțare și aprobarea participării Municipiului Câmpulung Moldovenesc la implementarea proiectului din Investiția I.3: Sprijinirea conectării populației cu venituri mici la rețelele de alimentare cu apă și canalizare existente, finanțat din PNRR, Componenta 1 – Managementul apei Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_089_2023.docx",
+     "sha256": "2567c8ca862528776f10e96b94a36079921f7258d242c4894518e2f858ac77bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-9-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/9",
+   "short": "HCL Câmpulung Moldovenesc nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 9/2023 privind aprobarea Organigramei și a Statului de funcții la Biblioteca Municipală Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 961 din 10.01.2023; -Raportul de specialitate al Compartimentului resurse",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_009_2023.doc",
+     "sha256": "eee6749bf08cbeb0fcffa5f972b89e8438a14a225b70f0eac702ac5a58853d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-90-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/90",
+   "short": "HCL Câmpulung Moldovenesc nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 90/2023 privind aprobarea proiectului Centru de zi de asistență și recuperare pentru persoane vârstnice Câmpulung Moldovenesc, a cheltuielilor legale de proiect în vederea finanțării în cadrul apelului PNRR/2023/C13/MMSS/Investiția I4 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din 22 iunie 2023; Având în vedere: -Referatul de aprobare al primarului municipiulu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_090_2023.doc",
+     "sha256": "b2b6dc31900f0f85e3c95cfa9f8a1e99df1bc7434e8914a9d29526c900c5ac1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-91-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/91",
+   "short": "HCL Câmpulung Moldovenesc nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 91/2023 privind aprobarea contului de execuție al bugetului general al municipiului Câmpulung Moldovenesc pe trimestrul I 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 29 iunie 2023, Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc înregistrat, la nr. 21935 din 12.06.2023; -Raportul de specialitate al Direcției",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_091_2023.doc",
+     "sha256": "cb12991f0ca9fe1a5ffbfa6b7d16cb408244c83a57834b8ddbc87df9807c1ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-92-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/92",
+   "short": "HCL Câmpulung Moldovenesc nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 92/2023 privind aprobarea Planului de analiză și acoperire a riscurilor pentru municipiul Câmpulung Moldovenesc pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din data de 29 iunie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc , înregistrat la nr. 21937 din 12.06.2023; -Raportul Compartimentului Situații de Ur",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_092_2023.doc",
+     "sha256": "ba9f53e27a35660690ec33e4e208b4ea1d3b7b9cc66be0a9b7ee779342bf2236"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-93-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/93",
+   "short": "HCL Câmpulung Moldovenesc nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 93/2023 privind atestarea apartenenței la domeniul privat al municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 iunie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 21950 din 12.06.2023; -Raportul de specialitate al Direcției tehnice și urban",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_093_2023.doc",
+     "sha256": "65bd277e85fb359710052c598e7da497bf00c862ed6025e0ef85c420d5190b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-94-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/94",
+   "short": "HCL Câmpulung Moldovenesc nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 94/2023 cu privire la prelungirea valabilității unui contract de închiriere pentru un spațiu cu altă destinație decât locuință Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 iunie 2023; Având în vedere: -Referat de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 21941 din 12.06.2023; -Raportul de specialitate al Compartiment",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_094_2023.doc",
+     "sha256": "db030ada6791c11a7047596d007ca0dced66a4fa29824811993cb5af252f5462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-96-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/96",
+   "short": "HCL Câmpulung Moldovenesc nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 96/2023 privind modificarea și completarea anexelor numărul 1 și numărul 2 la Hotărârea Consiliului Local numărul 47 din 21 aprilie 2023 privind aprobarea documentației tehnico-economice (faza D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Renovare energetică sediul Primăriei și al Consiliului Local al Municipiul Câmpulung Moldovenesc” finanțat prin Planul Național de Red",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_096_2023.doc",
+     "sha256": "6310f37aa79f60eb86674f42664c1ef7b22b4b91de58d4d8c88cef65f7993f1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-97-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/97",
+   "short": "HCL Câmpulung Moldovenesc nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 97/2023 privind aprobarea majorării bugetului local, a virărilor de credite bugetare și a influențelor la lista de investiții a bugetului bugetului local pe anul 2023 și aprobarea majorării bugetului și virări de credite bugetare în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_097_2023.docx",
+     "sha256": "ab06a57742e55f945b763c7c768c392f3a9a13625b01add43eaa551f4c07d989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-98-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/98",
+   "short": "HCL Câmpulung Moldovenesc nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 98/2023 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 27 iulie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 24723 din 04.07.2023; -Raportul de specialitate al Direcției a",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_098_2023.doc",
+     "sha256": "517d392026a81b73be1fb2599c6e43037d6afe160b032d57bc21afdc8cfcbd6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-99-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/99",
+   "short": "HCL Câmpulung Moldovenesc nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 99/2023 cu privire la aprobarea modalităților de valorificare a unui volum brut de masă lemnoasă de 1980.32 mc, din proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 iulie 2023; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 25583 din 10.07",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2023",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_099_2023.doc",
+     "sha256": "becc7b44aa45648d109287bffb8f55c72f0b038342eddba23394c6fbd1a7f71e"
     }
    ]
   }

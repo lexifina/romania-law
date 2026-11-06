@@ -3,6 +3,81 @@
  "shard": "local/suceava/campulung-moldovenesc/2014",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-1-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/1",
+   "short": "HCL Câmpulung Moldovenesc nr. 1/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 1/2014 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare din anul 2013 din excedentul bugetului local Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 10 ianuarie 2014; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 178 din 07.01.2014; - Raportul Serviciului venitur",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-10",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_001_2014.pdf",
+     "sha256": "898c21c39d02f27ba7cebc3755c5e6a4ec941963caa38d5022356ef523974c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-10-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/10",
+   "short": "HCL Câmpulung Moldovenesc nr. 10/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 10/2014 privind aprobarea contului de execuție al bugetului municipiului Câmpulung Moldovenesc la data de 31.12.2013 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 februarie 2014; Având în vedere : -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 2667 din 11.02.2014; -Raportul Serviciului venituri, cheltuieli și patrimoni",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_010_2014.pdf",
+     "sha256": "ff1b2e43a02fdd2d4dbcf16d1c23f265879a48b65935ffe95c0cf382a03616a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-100-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/100",
+   "short": "HCL Câmpulung Moldovenesc nr. 100/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 100/2014 cu privire la aprobarea Planului de ocupare a funcțiilor publice din cadrul aparatului de specialitate al Primarului municipiului Câmpulung Moldovenesc pentru anul 2015 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 noiembrie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 20975 din 07.11.2",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_100_2014.pdf",
+     "sha256": "3b3518ab7622ebe329adc2f28f3cc049b601d37072d4d6643955fc2cc597f2d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-101-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/101",
+   "short": "HCL Câmpulung Moldovenesc nr. 101/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 101/2014 privind numirea reprezentantului Consiliului Local al Municipiului Câmpulung Moldovenesc în Consiliul etic al Spitalului de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 noiembrie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 20972/2014; -Raportul Compart",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_101_2014.pdf",
+     "sha256": "e138d8a0ca9f674c76ee556bdb70a83e5a85e51eb1662e31c3d84b27d3977075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-102-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/102",
+   "short": "HCL Câmpulung Moldovenesc nr. 102/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 102/2014 privind aprobarea structurii organizatorice la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 noiembrie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 21174/2014; -Raportul Compartimentului resurse umane și managementul calității, înregistrat la",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_102_2014.pdf",
+     "sha256": "8a651e20fa216e87b3b926dd47480d4699c6fcf626734a4f2e7443668bac603e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-103-2014",
    "path": "local/suceava/campulung-moldovenesc/2014/103",
    "short": "HCL Câmpulung Moldovenesc nr. 103/2014",
@@ -104,6 +179,21 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_109_2014.pdf",
      "sha256": "62daa4352fcf6a5bd513ecb582e245b46d83e3f78e591a31bf51025cb670c044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-11-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/11",
+   "short": "HCL Câmpulung Moldovenesc nr. 11/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 11/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_011_2014.pdf",
+     "sha256": "67fc2bb489179da5902ba7b8325a57a5010c702d4aae2f59a6e8b07191388861"
     }
    ]
   },
@@ -228,6 +318,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-12-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/12",
+   "short": "HCL Câmpulung Moldovenesc nr. 12/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 12/2014 privind aprobarea înscrierii unor bunuri imobile în inventarul bunurilor care alcătuiesc domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 februarie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 2626 din 11.02.2014; -Raportul Serviciului",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_012_2014.pdf",
+     "sha256": "1a16b982e8791352e04270948d6193609f1b7132ab949dff0e65dc2e01449dba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-13-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/13",
+   "short": "HCL Câmpulung Moldovenesc nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 13/2014 pentru modificarea articolului nr. 6 și articolului nr. 7 din Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 56 din 27 mai 2010 privind concesionarea a două loturi de teren proprietatea privată a Municipiului Câmpulung Moldovenesc situate în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_013_2014.pdf",
+     "sha256": "fcd3aa431d87051b9f7c8e2b912abe00584c816e667d4617ff9beed6e68e883b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-14-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/14",
+   "short": "HCL Câmpulung Moldovenesc nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 14/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_014_2014.pdf",
+     "sha256": "c0d211318a33562ebcc4a56d178b3c367add9f575068648856f0c73b351a0843"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-15-2014",
    "path": "local/suceava/campulung-moldovenesc/2014/15",
    "short": "HCL Câmpulung Moldovenesc nr. 15/2014",
@@ -239,6 +374,306 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_015_2014.pdf",
      "sha256": "88e7a4c4d676a7f1c98ef504dc52b9cc8fcc6705e8cc980d357305261056cd49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-16-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/16",
+   "short": "HCL Câmpulung Moldovenesc nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 16/2014 privind atribuirea directă a contractului de delegare a gestiunii Serviciului pentru gestionarea câinilor fără stăpân din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 februarie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 2751 din 12.02.2014; -Raportul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_016_2014.pdf",
+     "sha256": "7cd47da7e85b041fe1b54c96e209c662465be49198f8e7fe12da2588ab2e15f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-17-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/17",
+   "short": "HCL Câmpulung Moldovenesc nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 17/2014 privind aprobarea listei solicitanților care au acces și a listei de priorități privind solicitanții locuințelor pentru tineri, destinate închirierii, construite prin Agenția Națională pentru Locuințe, în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 februarie 2014; Având în vedere: -Expunerea de motive a Primarului muni",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_017_2014.pdf",
+     "sha256": "e5f6067bd693c16607649faaa735a9567d0a1455e8835effcbe564e65fdd34a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-18-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/18",
+   "short": "HCL Câmpulung Moldovenesc nr. 18/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 18/2014 privind aprobarea listelor de repartizare a locuințelor pentru tineri, destinate închirierii, construite prin Agenția Națională pentru Locuințe, în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 februarie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 3658",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_018_2014.pdf",
+     "sha256": "5a52d021f41c39114cb11abc565d331d25707f5d9c5f43b8a6b4f5ba817bc038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-19-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/19",
+   "short": "HCL Câmpulung Moldovenesc nr. 19/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 19/2014 privind aprobarea redistribuirii sumelor aferente cheltuielilor de personal din luna martie 2014 între unitățile de învățământ din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 6 martie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 4464 din 6.03.2014; -Rapo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_019_2014.pdf",
+     "sha256": "ec99aa3dee83789ce0bddf14aab89d1cf4db46c2f6ed7bf8793713bc57f70e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-2-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/2",
+   "short": "HCL Câmpulung Moldovenesc nr. 2/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 2/2014 cu privire la aprobarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 ianuarie 2014; Având în vedere: -Raportul Primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 1598/2014; -Raportul serviciului venituri,cheltuieli și patrimoniu înregistrat la nr. 1599/2014; -Raportul C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_002_2014.pdf",
+     "sha256": "337d889ad696aecfe27da0ceeb57edaac47a7a2c87b201238b43cd3dcc3d76aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-20-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/20",
+   "short": "HCL Câmpulung Moldovenesc nr. 20/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 20/2014 privind aprobarea virărilor de credite bugetare în cadrul aceluiași capitol din bugetul general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 6.03.2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 4495 din 6.03.2014; -Raportul Serviciului veni",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_020_2014.pdf",
+     "sha256": "84627824e11a75e293a5f665bde2fc07efd1d2dcc7341bd00d176db5290ef8d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-21-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/21",
+   "short": "HCL Câmpulung Moldovenesc nr. 21/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 21/2014 privind aprobarea majorării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 și virărilor de credite bugetare în cadrul aceluiași capitol Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 17 martie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 5241 din 14.03.2014; -Raportul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_021_2014.pdf",
+     "sha256": "61273c4b65e16e1341bf2d84de835cf5201b3b96203c41e0e6661893f4adb2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-22-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/22",
+   "short": "HCL Câmpulung Moldovenesc nr. 22/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 22/2014 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 2000 lei Colegiului Național „Dragoș Vodă” pentru premierea și cazarea elevilor care participǎ la Concursului Interjudețean de multimedia IT Elite Consiliul local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinarǎ din 27 martie 2014; Având în vedere: -Expunerea de motive a primarului municipiu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_022_2014.pdf",
+     "sha256": "89a07d18ec3f167378711428954aa96a56f1aadfe29aa2467318265a33607ecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-23-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/23",
+   "short": "HCL Câmpulung Moldovenesc nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 23/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_023_2014.pdf",
+     "sha256": "7cccddb5a015343a2561df65e3604de3fa5b31701c5451391c82e45ebf95592b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-24-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/24",
+   "short": "HCL Câmpulung Moldovenesc nr. 24/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 24/2014 privind aprobarea contractului cadru pentru administrarea fondului forestier, proprietatea publică a Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 martie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 4909 din 11.03.2014; -Raportul Direcției economice di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_024_2014.pdf",
+     "sha256": "1d0dc6ae66f7661e54632665a062c047c67f9f648b69e4ca56737f250ef106ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-25-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/25",
+   "short": "HCL Câmpulung Moldovenesc nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 25/2014 privind aprobarea organigramei, statului de funcții și a numărului de personal la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 martie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 4911/ 2014; -Raportul Compartimentului resurse umane și manage",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_025_2014.pdf",
+     "sha256": "b4d35df2fe3382d37da39354185aa631d312522862742f157e05108b30c79c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-26-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/26",
+   "short": "HCL Câmpulung Moldovenesc nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 26/2014 privind modificarea și completarea inventarului bunurilor care fac parte din domeniul public al municipiului Câmpulung Moldovenesc înscrise în Anexa la Hotărârea Consiliului Local nr. 48 din 11.10.1999 cu privire la însușirea inventarului bunurilor care alcătuiesc domeniul public al municipiului Câmpulung Moldovenesc, modificată și completată prin Hotărârea Consiliului Local al municipiului Câmpul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_026_2014.pdf",
+     "sha256": "5db1a6b4eeccfa4d6849f72d725a9d97f847bd285c7b56b7d8d0522e2e902c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-27-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/27",
+   "short": "HCL Câmpulung Moldovenesc nr. 27/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 27/2014 cu privire la atribuirea în folosință gratuită a spațiului cu altă destinație decât locuință situat în municipiul Câmpulung Moldovenesc str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_027_2014.pdf",
+     "sha256": "9d9ef5ec4101823f45174e642d99a9aa3136db465fa1adaebcf869252a9d77b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-28-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/28",
+   "short": "HCL Câmpulung Moldovenesc nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 28/2014 privind aprobarea asocierii în participație între Municipiul Câmpulung Moldovenesc și Maghebo S.R.L.-Câmpulung Moldovenesc, în vederea realizării unei piețe agroalimentare în Municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 martie 2014; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_028_2014.pdf",
+     "sha256": "c425035dd183c3fde2881977d619a4a27f48c7c807b74b83303d3c9f26cd8915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-29-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/29",
+   "short": "HCL Câmpulung Moldovenesc nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 29/2014 privind aprobarea structurii organizatorice, a organigramei, statului de funcții și a numărului de personal la Spitalul Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 martie 2014, Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 6228 din 25.03.2014; -Raportu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_029_2014.pdf",
+     "sha256": "7738b869b71afedbb6e3d144be6d40fac9d3efa031afd95b8ee095fc64537ec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-3-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/3",
+   "short": "HCL Câmpulung Moldovenesc nr. 3/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 3/2014 cu privire la subvenționarea transportului urban de călători pentru unele categorii ale populației, în anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 ianuarie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistratã la nr.444/2014; -Raportul Compartimentului transport auto din cadrul Primăriei mu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_003_2014.pdf",
+     "sha256": "c2de57634292e114e385700d562b1e93e17952aa320e5636c919213017fa5a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-30-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/30",
+   "short": "HCL Câmpulung Moldovenesc nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 30/2014 privind aprobarea majorării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014, a fondului de rezervă bugetară și utilizarea fondului de rezervă bugetară Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 11 aprilie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 7496 din 10.04",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_030_2014.pdf",
+     "sha256": "72470df111fcf4261a4c6979f94f0549ea4f2ceceeac1426e23bb2c9568fd887"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-31-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/31",
+   "short": "HCL Câmpulung Moldovenesc nr. 31/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 31/2014 privind aprobarea cuantumului lunar al burselor și numărul acestora acordate elevilor din învățământul preuniversitar de stat din municipiul Câmpulung Moldovenesc în semestrul al II-lea al anului școlar 2013-2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 aprilie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldoven",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_031_2014.pdf",
+     "sha256": "1034aa95b7e6dfa19ad82f40a131846457c0b85b00ca778616999966f1a04fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-32-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/32",
+   "short": "HCL Câmpulung Moldovenesc nr. 32/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 32/2014 privind aprobarea înscrierii unor bunuri imobile în inventarul bunurilor care alcătuiesc domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 aprilie 2014; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 7843 din 14.04.2014; - Raportul Direcției ec",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_032_2014.pdf",
+     "sha256": "08d462f294eb31c9a4ca6837be9e03902dcf6e7b035d960385ed38ff02fa2907"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-33-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/33",
+   "short": "HCL Câmpulung Moldovenesc nr. 33/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 33/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_033_2014.pdf",
+     "sha256": "6ed6fc251f8d70953db296563d9c638b0b37d4206eef4d3c10e2e4a9b75707dd"
     }
    ]
   },
@@ -258,6 +693,291 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-35-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/35",
+   "short": "HCL Câmpulung Moldovenesc nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 35/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_035_2014.pdf",
+     "sha256": "d870e527d4b2788b867c057391646ced80c741a107d0225afea5bf7c5cdb347f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-36-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/36",
+   "short": "HCL Câmpulung Moldovenesc nr. 36/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 36/2014 privind aprobarea virărilor de credite bugetare în cadrul aceluiași capitol din bugetul general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 aprilie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 8531 din 28.04.2014; -Raportul Direcției",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_036_2014.pdf",
+     "sha256": "ec1c1c259850af1b393725949e7e6142bf84d58440ed8ab690e9019fb0ba926c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-37-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/37",
+   "short": "HCL Câmpulung Moldovenesc nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 37/2014 cu privire la acordul Consiliului Local al Municipiului Câmpulung Moldovenesc pentru depunerea și cofinanțarea proiectului \"Creare și dotare Centru național de informare și promovare turistică în Municipiul Câmpulung Moldovenesc, județul Suceava\" în cadrul Programului Operațional Regional Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din 19 mai 2014; Avân",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_037_2014.pdf",
+     "sha256": "38066e2082dbf94e0da5f2679f4a0e5ca3a3e0619f69e056d069254e6978e3b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-38-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/38",
+   "short": "HCL Câmpulung Moldovenesc nr. 38/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 38/2014 privind aprobarea documentației tehnico-economice - studiu de fezabilitate - a investiției \"Creare și dotare Centru național de informare și promovare turistică în Municipiul Câmpulung Moldovenesc, județul Suceava\" Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din 19 mai 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_038_2014.pdf",
+     "sha256": "38f6ae1dcce0d1388f5b3b0bba8f4c02f9654c45ffac146251d75a36c3ea21e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-39-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/39",
+   "short": "HCL Câmpulung Moldovenesc nr. 39/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 39/2014 privind aprobarea intenției de cumpărare a unui teren situat în Municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 19 mai 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 9454/2014; -Raportul Direcției economice din cadrul aparatului de specialitate al",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_039_2014.pdf",
+     "sha256": "e6269936263b282631a82e46a4f2df358904458382ea7d6937e7537230c7eeaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-4-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/4",
+   "short": "HCL Câmpulung Moldovenesc nr. 4/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 4/2014 privind aprobarea lucrărilor de interes local care vor fi executate în anul 2014 de persoanele beneficiare de venit minim garantat Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 ianuarie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 521 din 13.01.2014; -Raportul Serviciului venituri chelt",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_004_2014.pdf",
+     "sha256": "57bc748fd1add0e519ad21d6d776c0c2ce889ce09a712b395f6ccb82c2f78796"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-40-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/40",
+   "short": "HCL Câmpulung Moldovenesc nr. 40/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 40/2014 cu privire la prelungirea valabilității unui contract de dare în folosință gratuită pentru un spațiu cu altă destinație decât locuință Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 29 mai 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 9417 din 12.05. 2014; -Raportul Compartimentului asociați",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_040_2014.pdf",
+     "sha256": "e4c482582d8830a15e006ca2ffa688c888037e0e787eeb59619c595cc563bec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-41-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/41",
+   "short": "HCL Câmpulung Moldovenesc nr. 41/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 41/2014 pentru completarea anexei la Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr.91/2013 pentru modificarea și completarea anexei la Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr 107/2012 cu privire la desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung Moldovenesc în consiliile de administrație ale unităților de învățământ din municipiul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_041_2014.pdf",
+     "sha256": "42257bf51026c41646d21f64b1dd1101e00910c073b2b49982cf41b2ce248a06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-42-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/42",
+   "short": "HCL Câmpulung Moldovenesc nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 42/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_042_2014.pdf",
+     "sha256": "e69a651732e1826adb219db7842db9220d2a49d91f45138928c55b6f3e476112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-43-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/43",
+   "short": "HCL Câmpulung Moldovenesc nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 43/2014 pentru abrogarea Hotărârii Consiliului Local al municipiul Câmpulung Moldovenesc nr. 18/28.02.2013 cu privire la aprobarea vânzării directe a terenului în suprafață de 2.905 mp situat în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_043_2014.pdf",
+     "sha256": "d9d8039bd9838fd5b38e7a1ff34ac4d82f10d6f3f6e29d2ba5278f7d8146e150"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-44-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/44",
+   "short": "HCL Câmpulung Moldovenesc nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2014 cu privire la alocarea din bugetul local al Municipiului Câmpulung Moldovenesc a unei sume pentru participarea ansamblului folcloric „Piatra Șoimului” Câmpulung Moldovenesc la manifestările desfășurate în cadrul Festivalului Internațional de Folclor „Întâlniri bucovinene”, ediția a XXV-a Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 29 mai 2014; Având în v",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_044_2014.pdf",
+     "sha256": "363d48dbc95ed6f7be0ce2a48c579ea673778dd41ef432aefad4c10e1675d2ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-45-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/45",
+   "short": "HCL Câmpulung Moldovenesc nr. 45/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 45/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_045_2014.pdf",
+     "sha256": "53cdc8ec7c8129a53f0b8b580308df2ea0ca558bcbab2593de9bf06a7f371ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-46-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/46",
+   "short": "HCL Câmpulung Moldovenesc nr. 46/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 46/2014 privind aprobarea contului de execuție al bugetului municipiului Câmpulung Moldovenesc pe trimestrul I 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 29 mai 2014; Având în vedere : -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 9636 din 13.05.2014 ; -Raportul Direcției economice, înregistrat la nr. 9637 din 13",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_046_2014.pdf",
+     "sha256": "24baef1783cb0ab229216a647a40d1ac505ff5159e6f8008640e3e5b9f7acba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-47-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/47",
+   "short": "HCL Câmpulung Moldovenesc nr. 47/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 47/2014 cu privire la acordul Consiliului Local al Municipiului Câmpulung Moldovenesc pentru depunerea și cofinanțarea proiectului \"Creare și dotare Centru național de informare și promovare turistică în Municipiul Câmpulung Moldovenesc, județul Suceava\" în cadrul Programului Operațional Regional Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 17 iunie 2014; Având",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_047_2014.pdf",
+     "sha256": "b825890a67e782943a5ea969f4df43ccdd9f89d3d03096cae767c98124299961"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-48-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/48",
+   "short": "HCL Câmpulung Moldovenesc nr. 48/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 48/2014 privind aprobarea documentației tehnico-economice - studiu de fezabilitate - a investiției \"Creare și dotare Centru național de informare și promovare turistică în municipiul Câmpulung Moldovenesc, județul Suceava\" Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 17 iunie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldove",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_048_2014.pdf",
+     "sha256": "6a03ab96ac025b5bb7195d42257442e256cb1b6f44b7b815d352f0347ff5fe42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-49-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/49",
+   "short": "HCL Câmpulung Moldovenesc nr. 49/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 49/2014 pentru modificarea articolului 1 din Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 95/30.08.2007 privind înființarea Unității Municipale de Monitorizare a Serviciilor Comunitare de Utilități Publice Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 iunie 2014; Având în vedere: -Expunerea de motive a Primarului m",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_049_2014.pdf",
+     "sha256": "fdcdbff41ed8bc4f251a19547df2f038dcf5b4d1b2439274ed85336cef028bd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-5-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/5",
+   "short": "HCL Câmpulung Moldovenesc nr. 5/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 5/2014 privind achiziționarea de servicii juridice, având ca obiect acordarea de consultanță, asistență și reprezentare juridică în fața tuturor instanțelor de judecată, a autorităților cu atribuții jurisdicționale și a executorilor judecătorești pentru apărarea intereselor Consiliului Local al Municipiului Câmpulung Moldovenesc/Municipiului Câmpulung Moldovenesc/Primarului Municipiului Câmpulung Moldove",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_005_2014.pdf",
+     "sha256": "69dd8eeb11ff10cede446e8e7082348a468874da56a013d2eee6f36d0eae5210"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-50-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/50",
+   "short": "HCL Câmpulung Moldovenesc nr. 50/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 50/2014 cu privire la însușirea raportului de evaluare pentru estimarea prețului de piață al imobilului teren, situat în municipiul Câmpulung Moldovenesc, str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_050_2014.pdf",
+     "sha256": "89780c4bb05436afce1810e717e773cb030517b110fb1c39c1a2cb872dcf5df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-51-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/51",
+   "short": "HCL Câmpulung Moldovenesc nr. 51/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 51/2014 privind aprobarea majorării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 iunie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 11729 din 16.06.2014; -Raportul Direcției economice, înregistrat la nr. 11730 din 16.06.2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_051_2014.pdf",
+     "sha256": "6ada724120f654e5f7cabb4052d3416ac4dd257b6987bbec3b1d3011afc65cd7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-52-2014",
    "path": "local/suceava/campulung-moldovenesc/2014/52",
    "short": "HCL Câmpulung Moldovenesc nr. 52/2014",
@@ -269,6 +989,36 @@
      "units": 7,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_052_2014.pdf",
      "sha256": "db20475def8a2e455e245ce8059b7810ae062d912ca9155f03e8680c16bf962d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-53-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/53",
+   "short": "HCL Câmpulung Moldovenesc nr. 53/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 53/2014 privind aprobarea modalității de finanțare a Muzeului „Arta lemnului” și rectificarea bugetului general al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 iunie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 12364 din 26.06.2014; -Raportul Direcției econom",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_053_2014.pdf",
+     "sha256": "0210a45d17a475b3603c68536e3df48024bea1f63444340d9dfce2c072951825"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-54-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/54",
+   "short": "HCL Câmpulung Moldovenesc nr. 54/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 54/2014 privind aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 9 iulie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 13188 din 07.07.2014; -Raportul Direcției economice, înregistrat la nr. 13189 din 07.07.20",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2014",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_054_2014.pdf",
+     "sha256": "df006d451cae791a6f6b3ccb4810e5811989c77562ccbfd7eda30efbd323c454"
     }
    ]
   },
@@ -303,6 +1053,276 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-57-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/57",
+   "short": "HCL Câmpulung Moldovenesc nr. 57/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 57/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_057_2014.pdf",
+     "sha256": "d49a5d492d0b9953022da2d21058cc1c90ca8948f613b5119c7988bd5307251a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-58-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/58",
+   "short": "HCL Câmpulung Moldovenesc nr. 58/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 58/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_058_2014.pdf",
+     "sha256": "99424b21a13dafbd064d4cddb535f8720444afab97d7f323a552ac0af60a02e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-59-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/59",
+   "short": "HCL Câmpulung Moldovenesc nr. 59/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 59/2014 privind aprobarea redistribuirii sumelor aferente cheltuielilor de personal între unitățile de învățământ din municipiu și aprobarea rectificării bugetului general al municipiului pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 31.07.2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_059_2014.pdf",
+     "sha256": "b58893219ebb63ed0062439a8e5fd748e37843444135ee02d8bed1a4e904f259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-6-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/6",
+   "short": "HCL Câmpulung Moldovenesc nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 6/2014 cu privire la stabilirea sumei până la care se anuleazã creanțele datorate bugetului local de persoanele fizice și juridice pentru anul fiscal 2013 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 ianuarie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 1002/2014; -Raportul serviciului venitu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_006_2014.pdf",
+     "sha256": "f719abb575e9d6a1c7bb6ede1f7e48eaf1a28294e70dc028bd5088fa602f68ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-60-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/60",
+   "short": "HCL Câmpulung Moldovenesc nr. 60/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 60/2014 privind aprobarea contului de execuție al bugetului municipiului Câmpulung Moldovenesc pe trimestrul al II-lea 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 august 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 15408 din 13.08.2014; -Raportul Direcției economice înregistrat la nr. 15",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_060_2014.pdf",
+     "sha256": "990472e59cde1d52b74b8f29d049ee6f5465c9424edfe2b17019d082750c9dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-61-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/61",
+   "short": "HCL Câmpulung Moldovenesc nr. 61/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 61/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_061_2014.pdf",
+     "sha256": "b61561e66b681040d9e751221c92036d9b71334e5816f2f0bfbd084b0ef5ebf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-62-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/62",
+   "short": "HCL Câmpulung Moldovenesc nr. 62/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 62/2014 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc pe anul 2014 a sumei de 60000lei Spitalului municipal Câmpulung Moldovenesc pentru înlocuirea ușilor imobilului Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinarǎ din 28 august 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistratǎ la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_062_2014.pdf",
+     "sha256": "d90f3bc0bc4d60345b27bf7210a0b69ed470f7178d60e053001d8cbc2d2839a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-63-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/63",
+   "short": "HCL Câmpulung Moldovenesc nr. 63/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 63/2014 privind aprobarea cumpărării unui imobil teren, situat în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_063_2014.pdf",
+     "sha256": "8e8f4ebb964ba1d8249696de18b9f5e16b64c4769cdb81a7745895dfcfd48240"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-64-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/64",
+   "short": "HCL Câmpulung Moldovenesc nr. 64/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 64/2014 privind aprobarea înscrierii unui bun imobil în inventarul bunurilor care alcătuiesc domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 august 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 15555 din 18.08.2014; -Raportul Direcției Tehnice",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_064_2014.pdf",
+     "sha256": "43285cc903db8a92dab450b2cb2d39fb3f7c788815b16c8581c5a484873a2b3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-65-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/65",
+   "short": "HCL Câmpulung Moldovenesc nr. 65/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 65/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_065_2014.pdf",
+     "sha256": "81d18de775634cb97d26582c7ebf2e5c4a8e98868fac0cd652647250cee225a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-66-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/66",
+   "short": "HCL Câmpulung Moldovenesc nr. 66/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 66/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_066_2014.pdf",
+     "sha256": "4b8a14ee13b89bf7375dcec739cefb4917955d69835253a89c3495d02b0f6e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-67-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/67",
+   "short": "HCL Câmpulung Moldovenesc nr. 67/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 67/2014 privind închirierea prin licitație publică a suprafeței de 20 mp teren proprietatea publică a Municipiului Câmpulung Moldovenesc din str. D",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_067_2014.pdf",
+     "sha256": "f7d19634c510827e95193491fe8942a85ad9232bc0e63c0bd330fa15be8816a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-68-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/68",
+   "short": "HCL Câmpulung Moldovenesc nr. 68/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 68/2014 pentru validarea Dispoziției Primarului municipiului Câmpulung Moldovenesc nr. 602/14.08.2014 privind aprobarea majorării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarǎ din 28 august 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_068_2014.pdf",
+     "sha256": "5b9e6e418073ebc607d4a1d68eb2e9187ea3ff0e7b9a8c4b129a85011d6f798a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-69-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/69",
+   "short": "HCL Câmpulung Moldovenesc nr. 69/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 69/2014 privind aprobarea majorării și rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28.08.2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 16143 din 27.08.2014; -Raportul Direcției economice, înregistrat la nr. 16144 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_069_2014.pdf",
+     "sha256": "6d491f35012d1fab5c3fa4b6986dc9ba53fe2cf745a2d46aaa974b2225d28cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-7-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/7",
+   "short": "HCL Câmpulung Moldovenesc nr. 7/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 7/2014 privind aprobarea deplasării unei delegații a municipiului Câmpulung Moldovenesc la Jastrowie - Polonia, în perioada 23 – 28 ianuarie 2014, în vederea semnării Protocolului de colaborare pentru organizarea celei de-a XXV-a ediții a Festivalului Internațional de Folclor „ÎNTÂLNIRI BUCOVINENE” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 ianuarie 2014; A",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_007_2014.pdf",
+     "sha256": "2a9265069464d29e62d96e8bc024d43ccdcb8a14bd5134f3cfeb33591b747650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-70-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/70",
+   "short": "HCL Câmpulung Moldovenesc nr. 70/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 70/2014 privind aprobarea redistribuirii sumelor aferente cheltuielilor de personal între unitățile de învățământ din municipiu și aprobarea rectificării bugetului general al municipiului pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 12.09.2014. ; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la n",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_070_2014.pdf",
+     "sha256": "74c6e8c06895c8b52977ec36db08844401dab384b3b5b08422fe1bcb8e5d969d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-71-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/71",
+   "short": "HCL Câmpulung Moldovenesc nr. 71/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 71/2014 privind aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 19.09.2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 17511 din 18.09.2014; -Raportul Direcției economice, înregistrat la nr. 17512 din 18.09.2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_071_2014.pdf",
+     "sha256": "83815291f3e2ac14152c422722d3e8cc5eb9e0418a81b84e563ac81d517369e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-72-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/72",
+   "short": "HCL Câmpulung Moldovenesc nr. 72/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 72/2014 privind aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 23.09.2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 17813 din 23.09.2014; -Raportul Direcției economice, înregistrat la nr. 17814 din 23.09.2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_072_2014.pdf",
+     "sha256": "603ffc0577609c85e3906df66a16dbbe47e435a0966daae36b209e07c636c028"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-73-2014",
    "path": "local/suceava/campulung-moldovenesc/2014/73",
    "short": "HCL Câmpulung Moldovenesc nr. 73/2014",
@@ -314,6 +1334,21 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_073_2014.pdf",
      "sha256": "cc2587114263a68ebde1761f2c4b57c9a6eeffddf4056e5462843b52df0b1c2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-74-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/74",
+   "short": "HCL Câmpulung Moldovenesc nr. 74/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 74/2014 privind aprobarea procedurii de acordare a scutirii la plata majorărilor de întârziere și a penalităților aferente impozitelor și taxelor locale, chiriilor, redevențelor și altor obligații la bugetul local datorate de persoanele juridice fără scop lucrativ din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinară din 25 septembrie 2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_074_2014.pdf",
+     "sha256": "840610403f46f4a90af83bb0dbd51caba9d9e7f9caf75eca8e218500f52e5a90"
     }
    ]
   },
@@ -333,6 +1368,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-76-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/76",
+   "short": "HCL Câmpulung Moldovenesc nr. 76/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 76/2014 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a unei sume pentru editarea și tipărirea volumelor „Fântâni bucovinene”, „Câmpulungul Bucovinei și făptuitorii de instrumente muzicale” și „Fel de fel”(vol. II) autori Vasile și Otilia Sfarghiu Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinara din 25 septembrie 2014; Având în vedere: -Ex",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_076_2014.pdf",
+     "sha256": "a38eafaac46506a2de23b0930704825de07ad6b9f49d5c2c7247e1785188281e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-77-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/77",
+   "short": "HCL Câmpulung Moldovenesc nr. 77/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 77/2014 privind concesionarea prin licitație publică a suprafeței de 184 mp teren proprietatea privată a Municipiului Câmpulung Moldovenesc situat în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_077_2014.pdf",
+     "sha256": "92aba6d534d53c6bd07255e37826eb7c8a73ca7b682356f97ed4930cd7a00a53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-78-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/78",
+   "short": "HCL Câmpulung Moldovenesc nr. 78/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 78/2014 pentru aprobarea Nomenclaturii stradale a Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 25 septembrie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 17211 din 15.09.2014; -Raportul Direcției urbanism-Compartiment planificare urbană și autorizări din cadrul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_078_2014.pdf",
+     "sha256": "44e8127b5b0b2d8efc093ae9979d2c0eead6fb0b35f8841e1526085d2213faf4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-79-2014",
    "path": "local/suceava/campulung-moldovenesc/2014/79",
    "short": "HCL Câmpulung Moldovenesc nr. 79/2014",
@@ -344,6 +1424,336 @@
      "units": 4,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_079_2014.pdf",
      "sha256": "b3dbb6cadf595c86ffb8092a9b9910a6f1b3f5d70a40f57816583913335fae4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-8-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/8",
+   "short": "HCL Câmpulung Moldovenesc nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 8/2014 privind aprobarea organigramei și a statului de funcții la aparatul de specialitate al primarului municipiului Câmpulung Moldovenesc și a instituțiilor subordonate Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 ianuarie 2014; Având în vedere: -Expunerea de motive prezentată de Primarul Municipiului Câmpulung Moldovenesc, înregistrată la nr. 1248/2014; -R",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_008_2014.pdf",
+     "sha256": "46c454332971fb58b9d6e1f1064a3f1df9cc7de7ee9f9060c5bd98e1c5a151d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-80-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/80",
+   "short": "HCL Câmpulung Moldovenesc nr. 80/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 80/2014 privind aprobarea asocierii Municipiului Câmpulung Moldovenesc cu Casa de Cultură a Sindicatelor Câmpulung Moldovenesc, în vederea organizării și desfășurării în comun de acțiuni sociale, culturale, artistice, sportive și administrative Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 25 septembrie 2014; Având în vedere: - Expunerea de motive a primarului mun",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_080_2014.pdf",
+     "sha256": "4fd53f356da690abaf257547ffb8f989e2116b4432c2e5388c257e0a30bda0cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-81-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/81",
+   "short": "HCL Câmpulung Moldovenesc nr. 81/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 81/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_081_2014.pdf",
+     "sha256": "7283a858516303c1a51baeb4743449415c294bd3947155408ac655d6bca92bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-82-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/82",
+   "short": "HCL Câmpulung Moldovenesc nr. 82/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 82/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_082_2014.pdf",
+     "sha256": "14daaa3daa9fddc75a4b2b016b051a1ac23d5a348d042191ff3e3c5fac143d29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-83-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/83",
+   "short": "HCL Câmpulung Moldovenesc nr. 83/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 83/2014 privind aprobarea redistribuirii sumelor aferente cheltuielilor de personal între unitățile de învățământ din municipiu și aprobarea rectificării bugetului general al municipiului pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 8 octombrie 2014 ; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-08",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_083_2014.pdf",
+     "sha256": "24c399d7ae64912d854fdecb42163eb7813e5380a241d84aec0a2d5e86dea0a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-84-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/84",
+   "short": "HCL Câmpulung Moldovenesc nr. 84/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 84/2014 privind aprobarea programului de măsuri specifice sezonului rece 2014 – 2015 și aprobarea tehnologiei de intervenție în cazul apariției poleiului și a căderilor de zăpadă în municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 2014; Având în vedere: -Expunerea de motive a primarului și a viceprimarului municipiului Câ",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_084_2014.pdf",
+     "sha256": "306aadf5558e7b3a3238873ef19726c8b15ba6f4c62773998afa634d13c1e332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-85-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/85",
+   "short": "HCL Câmpulung Moldovenesc nr. 85/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 85/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_085_2014.pdf",
+     "sha256": "c451c48b8cdd59862ff63fb7248cb490e80e77cfdcd73ad30ead4ad75ff175e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-86-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/86",
+   "short": "HCL Câmpulung Moldovenesc nr. 86/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 86/2014 cu privire la premierea elevilor Macovei Cosmin-Alexandru și Bejan Sergiu-Vasile pentru rezultatele deosebite obținute la concursurile interne și internaționale de canotaj Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinară din 27 octombrie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 19324/2014; -Ra",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_086_2014.pdf",
+     "sha256": "c31228a7dc1e703e57002f23de98ac7a52dcfecda6357b3f9794a9149400d0e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-87-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/87",
+   "short": "HCL Câmpulung Moldovenesc nr. 87/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 87/2014 privind aprobarea contului de execuție al bugetului municipiului Câmpulung Moldovenesc la data de 30.09.2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 19394 din 14.10.2014; -Raportul Direcției economice, înregistrat la nr. 19396",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_087_2014.pdf",
+     "sha256": "a7a5155e4fe133d999d497b70c749321e86caeb9e4c5c309b297a91e393db8a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-88-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/88",
+   "short": "HCL Câmpulung Moldovenesc nr. 88/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 88/2014 privind aprobarea înscrierii unor imobile în inventarul bunurilor care alcătuiesc domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 2014; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 19461 din 15.10.2014; - Raportul Direcției Tehnic",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_088_2014.pdf",
+     "sha256": "30cdaff6369ed706e61268d4bdc96e71a94e3d1cddc00a8ab98bf5b371b0b28d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-89-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/89",
+   "short": "HCL Câmpulung Moldovenesc nr. 89/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 89/2014 privind atribuirea în gestiune delegată a serviciului de transport public local de persoane prin curse regulate din Municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din 27 octombrie 2014; Având în vedere: - Expunerea de motive a Primarului Municipiului Câmpulung Moldovenesc, înregistrată la nr. 18842 din 07.10.2014; - Raportul Com",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_089_2014.pdf",
+     "sha256": "c515b7806fc14558b27b54dab74e2404024520faab4f76dab18ea5b525795d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-9-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/9",
+   "short": "HCL Câmpulung Moldovenesc nr. 9/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 9/2014 privind stabilirea destinației suprafeței de 60 mp teren proprietatea publică a municipiului Câmpulung Moldovenesc și aflat în administrarea Spitalului Municipal Câmpulung Moldovenesc pentru proiectul „Neutralizarea deșeurilor medicale periculoase rezultate din activitatea spitalicească” Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din 4 februarie 2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2014",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_009_2014.pdf",
+     "sha256": "e2b080d77511d09fcc236e0c38351cf84232bd2dc8fb54cbfd1d19eaf6194513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-90-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/90",
+   "short": "HCL Câmpulung Moldovenesc nr. 90/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 90/2014 privind concesionarea prin licitație publică a unor imobile proprietatea municipiului Câmpulung Moldovenesc, situate în strada Calea Bucovinei fn., în vederea extinderii și modernizării spațiului comercial pentru produse de panificație Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 octombrie 2014; Având în vedere: - Expunerea de motive a primarul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_090_2014.pdf",
+     "sha256": "25fd8937d358335bf8aff1339748f3161d06082c2d9fb82f664c587c2c7f868b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-91-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/91",
+   "short": "HCL Câmpulung Moldovenesc nr. 91/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 91/2014 pentru aprobarea devizului general privind cheltuielile necesare realizării obiectivului de investiții „Reabilitare alei și parcări pe strada Ionel Hălăuceanu în Municipiul Câmpulung Moldovenesc, județul Suceava” Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 2014; Având în vedere: - Expunerea de motive a Primarului Municipiului Câmpulung Moldo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_091_2014.pdf",
+     "sha256": "28a23584d87d0e342534fa1bceaf0b7070c5a5636d43b41745dcd2ae977f3a8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-92-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/92",
+   "short": "HCL Câmpulung Moldovenesc nr. 92/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 92/2014 privind atribuirea gestiunii directe a serviciului de producere, distribuție și furnizare a energiei termice în cartierul de locuințe pentru ANL- Bunești, către Compartimentul de alimentare cu energie termică din cadrul aparatului de specialitate al primarului municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 201",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_092_2014.pdf",
+     "sha256": "39fc28da568b0345afb086c1226f29a192022c48a31a327384ba18990d5b04bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-93-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/93",
+   "short": "HCL Câmpulung Moldovenesc nr. 93/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 93/2014 pentru aprobarea ca zonă unitară de încălzire a cartierului de locuințe pentru tineret ANL – Bunești Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 2014; Având în vedere: -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, nr. 19672 din 20.10.2014; - Raportul Compartimentului de alimentare cu energie termică din cadrul aparatu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_093_2014.pdf",
+     "sha256": "dd85589cee29da09596a22bacd5780c6840c50edaee52d6becac83a77b1fcdac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-94-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/94",
+   "short": "HCL Câmpulung Moldovenesc nr. 94/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 94/2014",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_094_2014.pdf",
+     "sha256": "d6459bd056e6dc022147cc8543fdb9734d68c93cdadb1bfa2ba70b277eab33df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-95-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/95",
+   "short": "HCL Câmpulung Moldovenesc nr. 95/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 95/2014 pentru revocarea Hotărârii Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 67 din 28 august 2014 privind închirierea prin licitație publică a suprafeței de 20 mp teren proprietatea publică a Municipiului Câmpulung Moldovenesc din str. D",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_095_2014.pdf",
+     "sha256": "037769be37728bc476e63907b0d54e6c58580caf7e04879e91fce468eb4992fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-96-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/96",
+   "short": "HCL Câmpulung Moldovenesc nr. 96/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 96/2014 privind aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 20162 din 27.10.2014; -Raportul Direcției economice, înregistrat la nr. 20163 din 27.1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_096_2014.pdf",
+     "sha256": "7f55969190e191d7c1a5a737947d820d6103d503aa243f753756c0da57a2771e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-97-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/97",
+   "short": "HCL Câmpulung Moldovenesc nr. 97/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 97/2014 privind aprobarea redistribuirii sumelor aferente cheltuielilor de personal între unitățile de învățământ din municipiul Câmpulung Moldovenesc și aprobarea rectificării bugetului general al municipiului Câmpulung Moldovenesc pe anul 2014 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 7 noiembrie 2014 ; Având în vedere: -Expunerea de motive a Primarului mun",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-11-07",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_097_2014.pdf",
+     "sha256": "b0d7eb6c7c6b13f466c490f51d778de2b0027d55848a2e1e15a1632d1f41fdd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-98-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/98",
+   "short": "HCL Câmpulung Moldovenesc nr. 98/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 98/2014 privind schimbarea din funcție a viceprimarului municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din 27 noiembrie 2014; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 21846 din 21.11.2014; - Raportul Compartimentului juridic, înregistrat la nr. 21847 din 21.11. 2014;",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_098_2014.pdf",
+     "sha256": "da17229d62067e5de01a4be13cfa8ff3f36b9adecab45b94f0b737fc19d0451b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-99-2014",
+   "path": "local/suceava/campulung-moldovenesc/2014/99",
+   "short": "HCL Câmpulung Moldovenesc nr. 99/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 99/2014 cu privire la prelungirea valabilității unui contract de închiriere pentru un spațiu cu altă destinație decât locuință Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 noiembrie 2014; Având în vedere: -Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 20919 din 07.11. 2014; -Raportul Compartimentului asociații de prop",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2014",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_099_2014.pdf",
+     "sha256": "11c07d67a5139dacd88b7d22e1e3b0dc94b72ded2b37446d407086910c543945"
     }
    ]
   }

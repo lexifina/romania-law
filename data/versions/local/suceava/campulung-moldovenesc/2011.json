@@ -3,6 +3,36 @@
  "shard": "local/suceava/campulung-moldovenesc/2011",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-1-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/1",
+   "short": "HCL Câmpulung Moldovenesc nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 1/2011 pentru validarea Dispoziției Primarului municipiului Câmpulung Moldovenesc nr. 932/29.12.2010 privind rectificarea bugetului local pe anul 2010 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 ianuarie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 621 din 13.01.2011; - Raportul Serviciului",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_001_2011.pdf",
+     "sha256": "be1c4235c0e0eaf96a817e0330034ddbc802e0b837b3afdc7b9541f11d5fa5cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-10-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/10",
+   "short": "HCL Câmpulung Moldovenesc nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 10/2011 privind concesionarea prin licitație publică a suprafeței de 450 mp, teren proprietatea privată a Municipiului Câmpulung Moldovenesc situat în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_010_2011.pdf",
+     "sha256": "d2c933d0ecef2939db907e5b787e916d4f1535039c14061f126cfe4e9aae9a40"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-100-2011",
    "path": "local/suceava/campulung-moldovenesc/2011/100",
    "short": "HCL Câmpulung Moldovenesc nr. 100/2011",
@@ -33,6 +63,111 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-11-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/11",
+   "short": "HCL Câmpulung Moldovenesc nr. 11/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 11/2011 privind închirierea unor loturi de teren proprietatea Municipiului Câmpulung Moldovenesc în vederea amplasării de construcții pentru comercializare flori Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 ianuarie 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 1193 din 24.01.2011; - Ra",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_011_2011.pdf",
+     "sha256": "9c484d3e514d09433b3cd7a7baad8ff17bec9344244854822536bf15b0b381da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-12-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/12",
+   "short": "HCL Câmpulung Moldovenesc nr. 12/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 12/2011",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_012_2011.pdf",
+     "sha256": "fc4ff583ef5c27f483a6000aa63553bd02f82f20222d07c86ec790586c9cf6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-13-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/13",
+   "short": "HCL Câmpulung Moldovenesc nr. 13/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 13/2011 privind aprobarea lucrărilor de interes local care vor fi executate în anul 2011 de persoanele beneficiare de venit minim garantat Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 ianuarie 2011; Având în vedere: - Expunerea de motive a primarului și viceprimarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 1323 din 25.01.2011; - Raport",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_013_2011.pdf",
+     "sha256": "18683a92185a1df464810f663855fa3fdba4012be3f94d893173da2cc82900ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-15-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/15",
+   "short": "HCL Câmpulung Moldovenesc nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 15/2011 pentru stabilirea unor măsuri în vederea aplicării Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 12 februarie 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 2368 din 09.02.2011; - Rapo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-02-12",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_015_2011.pdf",
+     "sha256": "ae321a254e760c52110c6bfc5f0f8300d3743fe1a97c16bb271937c7d7ebc8c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-16-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/16",
+   "short": "HCL Câmpulung Moldovenesc nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 16/2011 privind organizarea și funcționarea Poliției Locale, ca serviciu funcțional în cadrul aparatului de specialitate al Primarului Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 februarie 2011, Având în vedere: - Expunerea de motive prezentată de Primarul Municipiului Câmpulung Moldovenesc, înregistrată la nr. 2953",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_016_2011.pdf",
+     "sha256": "f225341e3c2bd12d7f9038ab3946437cb54bb2ff178e6929f7fa38e362a37c46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-18-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/18",
+   "short": "HCL Câmpulung Moldovenesc nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 18/2011 privind aprobarea Regulamentului de organizare și funcționare a Poliției Locale a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 februarie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 2958 din 18.02.2011; - Raportul Compartimentului de resurse umane și",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_018_2011.pdf",
+     "sha256": "30c90a56ff22f1a57479c85b5ead9b83fe6950c08bd4a87c447397589791629b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-19-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/19",
+   "short": "HCL Câmpulung Moldovenesc nr. 19/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 19/2011 pentru stabilirea unor măsuri organizatorice în vederea punerii în aplicare a Ordonanței de urgență a Guvernului nr. 68/2008 privind vânzarea spațiilor proprietate privată a statului sau a unităților administrativ-teritoriale cu destinația de cabinete medicale, precum și a spațiilor în care se desfășoară activități conexe actului medical Consiliul Local al Municipiului Câmpulung Moldovenesc, întru",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_019_2011.pdf",
+     "sha256": "25100beb9a8a52a8dd3a489efd66a2eca9124d0be79890f8e7209fe799198dab"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-2-2011",
    "path": "local/suceava/campulung-moldovenesc/2011/2",
    "short": "HCL Câmpulung Moldovenesc nr. 2/2011",
@@ -44,6 +179,21 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_002_2011.pdf",
      "sha256": "f35d27f7ec96e7d3e521c5f8f927d238190842d786997c2afdf8938a8dc46d14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-21-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/21",
+   "short": "HCL Câmpulung Moldovenesc nr. 21/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 21/2011 privind punerea la dispoziția Proiectului „Sistem integrat de reabilitare a sistemelor de alimentare cu apă și canalizare a stațiilor de tratare a apei potabile și stațiilor de epurare a apelor uzate în localitățile cu o populație de până la 50.000 de locuitori” a terenului pentru realizarea obiectivului de investiții „Reabilitare și extindere rețele de alimentare cu apă și canalizare în Municipiu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_021_2011.pdf",
+     "sha256": "cd8ecd2c9e89db3764c44cef0a2115409e9c4fab34087dbee67ef06a22e60c47"
     }
    ]
   },
@@ -63,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-24-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/24",
+   "short": "HCL Câmpulung Moldovenesc nr. 24/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 24/2011 privind aprobarea înțelegerii de cooperare între municipiul Câmpulung Moldovenesc din România și municipalitatea Avezzano din Italia Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 31 martie 2011 Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 4942/2011; - Raportul Compartimentului proiecte cu finan",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_024_2011.pdf",
+     "sha256": "50e3af4e5e09a0d1d689fed4505cc8983205f95c6ca4f0efdfc92f860c698c85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-25-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/25",
+   "short": "HCL Câmpulung Moldovenesc nr. 25/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 25/2011 pentru validarea Dispozițiilor Primarului municipiului Câmpulung Moldovenesc nr. 239/25.03.2011 și nr. 245/30.03.2011 privind rectificarea bugetului local pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 31 martie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 5341 din 31.03.2011",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_025_2011.pdf",
+     "sha256": "f1c7070635bc954237db61e8de79a0cc16188f687fdff60f83d42de2cadb6ed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-26-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/26",
+   "short": "HCL Câmpulung Moldovenesc nr. 26/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 26/2011",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_026_2011.pdf",
+     "sha256": "27ee4be44f09a10f7d22a7b821e17776af84c654201336a1180c302c861916f9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-27-2011",
    "path": "local/suceava/campulung-moldovenesc/2011/27",
    "short": "HCL Câmpulung Moldovenesc nr. 27/2011",
@@ -74,6 +269,51 @@
      "units": 3,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_027_2011.pdf",
      "sha256": "b5ec5ad1c3127e27f41103282f77b584b7ecc78f7bd74e04cb5a1e97f2fba162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-28-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/28",
+   "short": "HCL Câmpulung Moldovenesc nr. 28/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 28/2011 privind numirea comisiei de soluționare a contestațiilor licitației publice pentru delegarea gestiunii serviciului public de alimentare centralizată cu energie termică din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 aprilie 2011 Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_028_2011.pdf",
+     "sha256": "ae222d65d5d4f8fd89a388f8c3a8b0de94bb52f82a7bf42b329bc6ea352ea20d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-29-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/29",
+   "short": "HCL Câmpulung Moldovenesc nr. 29/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 29/2011 cu privire la prelungirea valabilității contractului de închiriere pentru un spațiu cu altă destinație decât locuință Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 aprilie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 5877 din 11.04.2011; - Raportul Compartimentului asociații de proprie",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_029_2011.pdf",
+     "sha256": "5e9e7862a86e64683e0e5a24285601cd320ce9997cd8e4b54a32e4f8d8cbebfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-30-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/30",
+   "short": "HCL Câmpulung Moldovenesc nr. 30/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 30/2011 pentru modificarea alineatului (2) al articolului 1 din Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 7 din 26 februarie 2009 cu privire la atribuirea în folosință gratuită a suprafeței de 8532 mp teren și a clădirilor existente pe acest teren, situate în str. Al. I",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_030_2011.pdf",
+     "sha256": "819baeba06cc94960cf64a4b94af2f8dd348d228e6c549b09f007b97cf98e88d"
     }
    ]
   },
@@ -93,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-33-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/33",
+   "short": "HCL Câmpulung Moldovenesc nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 33/2011 cu privire la atribuirea în folosință gratuită a unui spațiu în suprafață de 26,67 mp situat în imobilul din municipiul Câmpulung Moldovenesc str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_033_2011.pdf",
+     "sha256": "719c8b8356ec8ad55a939af4dc806d5325e152b7f2a56244062041accce0913f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-34-2011",
    "path": "local/suceava/campulung-moldovenesc/2011/34",
    "short": "HCL Câmpulung Moldovenesc nr. 34/2011",
@@ -104,6 +359,81 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_034_2011.pdf",
      "sha256": "5dc9da8dc81546e181b68b19067b5e5c01cd4d3081d756569ea1147998b3d162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-35-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/35",
+   "short": "HCL Câmpulung Moldovenesc nr. 35/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 35/2011 privind închirierea unor suprafețe de teren proprietatea Municipiului Câmpulung Moldovenesc în vederea amplasării de construcții și echipamente specifice serviciilor de telecomunicații Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 aprilie 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc înregistrată la",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_035_2011.pdf",
+     "sha256": "14a3835d8f23ad082209f5f25cda34e5e078ab1d64ec886a996c101e4e900bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-36-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/36",
+   "short": "HCL Câmpulung Moldovenesc nr. 36/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 36/2011 privind rectificarea bugetului local pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 aprilie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 6273 din 15.04.2011; - Raportul Serviciului venituri, cheltuieli și patrimoniu , înregistrat la nr. 6274 din 15.04.2011; - Raportul comis",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_036_2011.pdf",
+     "sha256": "b7ee31c96f132a01989067d414d775f070cba8f6f670f8016f1385a6a73b25cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-38-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/38",
+   "short": "HCL Câmpulung Moldovenesc nr. 38/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 38/2011",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_038_2011.pdf",
+     "sha256": "2bc74011b93b3ccfa341261dbc742bcbda845d762f3dd9f1e49ac025d1209e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-4-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/4",
+   "short": "HCL Câmpulung Moldovenesc nr. 4/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 4/2011 cu privire la subvenționarea transportului urban de călători pentru unele categorii ale populației, în anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 ianuarie 2011, Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 451/2011; - Raportul Compartimentului transport auto din cadrul Primăriei",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_004_2011.pdf",
+     "sha256": "330fda5b76c019c4881b0ce280a730c344c7a1d2a81d8f78e74f9867034ebd76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-41-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/41",
+   "short": "HCL Câmpulung Moldovenesc nr. 41/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 41/2011 pentru validarea Dispoziției Primarului municipiului Câmpulung Moldovenesc nr. 306/11.05.2011 privind rectificarea bugetului local pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 mai 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 7801 din 16.05.2011; - Raportul Serviciului ven",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_041_2011.pdf",
+     "sha256": "886d2fd6198e777fc445edd060fc42f35246b4e49478aa156f06d6b19bb4289a"
     }
    ]
   },
@@ -123,6 +453,366 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-43-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/43",
+   "short": "HCL Câmpulung Moldovenesc nr. 43/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 43/2011 privind rectificarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 mai 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 8484 din 26.05.2011; - Raportul Serviciului venituri, cheltuieli și patrimoniu, înregistrat la nr. 84",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_043_2011.pdf",
+     "sha256": "506fc154695496c43c6572685f506b9d99b2388b584a9b8ef98785ff6e88bee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-44-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/44",
+   "short": "HCL Câmpulung Moldovenesc nr. 44/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2011 privind aprobarea Convenției de colaborare dintre Consiliul Local al municipiului Câmpulung Moldovenesc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_044_2011.pdf",
+     "sha256": "8e38e80ff25aa6b2da456ea5e1ca59ca8edada9ef038445823e400e6fca98edd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-45-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/45",
+   "short": "HCL Câmpulung Moldovenesc nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 45/2011 cu privire la acordarea, cu titlu gratuit, a cantității de 61 mc material lemnos unor persoane din municipiul Câmpulung Moldovenesc pentru înlăturarea efectelor inundațiilor din anul 2010 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 iunie 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_045_2011.pdf",
+     "sha256": "5bb22f5062992ba59229e634b7197e395deffc3e49f90aeb16f1ccd51a07a9b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-47-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/47",
+   "short": "HCL Câmpulung Moldovenesc nr. 47/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 47/2011 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a unei sume pentru participarea ansamblului folcloric „Piatra Șoimului” Câmpulung Moldovenesc la manifestările desfășurate în cadrul Festivalului Internațional de Folclor „Întâlniri bucovinene”, ediția XXII-a la Bonyhad - Ungaria Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_047_2011.pdf",
+     "sha256": "1eae1cb4803c75990fc779710cc2892689da6988e9684de45b344cd04ec22bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-48-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/48",
+   "short": "HCL Câmpulung Moldovenesc nr. 48/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 48/2011 privind rectificarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 iunie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 10881 din 30.06.2011; - Raportul Serviciului venituri, cheltuieli și patrimoniu, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_048_2011.pdf",
+     "sha256": "f09ec16b5b3604a7be75b28be2fd8e966443b8f098fd29927ab7593c1c450122"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-49-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/49",
+   "short": "HCL Câmpulung Moldovenesc nr. 49/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 49/2011 cu privire la acordul Consiliului Local al municipiului Câmpulung Moldovenesc pentru depunerea și aprobarea cheltuielilor aferente proiectului „Proiecte de e-sănătate în Câmpulung Moldovenesc” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 30 iunie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_049_2011.pdf",
+     "sha256": "44b3e005e5151271d09ebaadbba81c46967d753990c46d540a0d5ab6e0ea9a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-5-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/5",
+   "short": "HCL Câmpulung Moldovenesc nr. 5/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 5/2011 cu privire la prelungirea valabilității contractului de închiriere pentru un spațiu cu altă destinație decât locuință Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 ianuarie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 931 din 19.01.2011; - Raportul Compartimentului asociații de proprie",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_005_2011.pdf",
+     "sha256": "dedcb8c24c59cc0199ecc4d7145da95fa8e08bdf42c0efe1e8471e71a3aadda7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-50-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/50",
+   "short": "HCL Câmpulung Moldovenesc nr. 50/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 50/2011 cu privire la acordul Consiliului Local al municipiului Câmpulung Moldovenesc pentru depunerea și aprobarea cheltuielilor aferente proiectului „Sistem integrat pentru eficientizarea activităților desfășurate de Spitalul de psihiatrie Câmpulung Moldovenesc” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarǎ din 30 iunie 2011; Având în vedere: - Expunerea de motive a",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_050_2011.pdf",
+     "sha256": "4e4a15323bc6bfc7e66ff52abd02a0c220b6713797523613ae3fca90d27a2f35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-51-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/51",
+   "short": "HCL Câmpulung Moldovenesc nr. 51/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 51/2011 pentru modificarea art. 1 alin. (2) din Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 117/08.10.2009 cu privire la aprobarea aplicării la „Programul național de îmbunătățire a calității mediului prin realizarea de spații verzi în localități” și contractarea finanțării proiectului „Reabilitare și extindere spații verzi în municipiul Câmpulung Moldovenesc” Consiliul Local al",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_051_2011.pdf",
+     "sha256": "14f1145f7fac44ba982877e6b680054335b359019596e7a8e5f0727e9ffe5096"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-52-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/52",
+   "short": "HCL Câmpulung Moldovenesc nr. 52/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 52/2011 privind rectificarea bugetului local al municipiului Câmpulung Moldovenesc pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 25 iulie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 12381 din 25.07.2011; - Raportul Serviciului venituri, cheltuieli și patrimoniu, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2011",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_052_2011.pdf",
+     "sha256": "32731771b24736b1926fa8f2d96cafc4369a5585857b770fee026e4bc49d69e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-54-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/54",
+   "short": "HCL Câmpulung Moldovenesc nr. 54/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 54/2011 privind aprobarea contului de execuție bugetară al Municipiului Câmpulung Moldovenesc la data de 30 iunie 2011 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc înregistrată la nr. 12401 din 25.07.2011; - Raportul serviciului venituri, cheltuieli și p",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_054_2011.pdf",
+     "sha256": "7ecda9c0948c3197567b222f7f2bd7484c6b6c8e5010889cf3af93ac33728de7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-55-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/55",
+   "short": "HCL Câmpulung Moldovenesc nr. 55/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 55/2011 privind aprobarea înscrierii unor bunuri imobile în inventarul bunurilor care alcătuiesc domeniul privat al Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 13545 din 11.08.2011; - Raportul Serv",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_055_2011.pdf",
+     "sha256": "6261a5842ec1a4498272c0be243e270f265c67bbca9eefc345af241ab26e8dc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-56-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/56",
+   "short": "HCL Câmpulung Moldovenesc nr. 56/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 56/2011 privind aprobarea planului de ordine și siguranță publică al Municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 13483/2011; - Raportul Serviciului poliția locală, înregistrat la nr. 13484/2011;",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_056_2011.pdf",
+     "sha256": "f5c21145caeaf643ed40274a9f0293e8a9cddfd161f20e7c636e57e1bec7166c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-57-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/57",
+   "short": "HCL Câmpulung Moldovenesc nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 57/2011",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_057_2011.pdf",
+     "sha256": "8e0bb81aa5ada5daa01be690ed2e32f1b343af2fa2fe89846c3ee8f6101910e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-58-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/58",
+   "short": "HCL Câmpulung Moldovenesc nr. 58/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 58/2011 cu privire la aprobarea prețurilor la abonamente și bilete pentru transportul urban de călători în Municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 13446/2011; - Raportul Compartimentului transpor",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_058_2011.pdf",
+     "sha256": "b11ca4d26c36501fe5bd5a07b29a67c29d474f59831994f13f2c5b29810c44fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-59-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/59",
+   "short": "HCL Câmpulung Moldovenesc nr. 59/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 59/2011 pentru completarea articolului 8 al anexei la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr.70 din 24 aprilie 2008 privind aprobarea Regulamentului pentru stabilirea criteriilor și a procedurilor de conferire și retragere a titlului de „Cetățean de onoare al municipiului Câmpulung Moldovenesc” Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinar",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_059_2011.pdf",
+     "sha256": "3ff8951174dfc22a453d9221cea2e678acae4b17c7fa10739aa6429510de7500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-6-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/6",
+   "short": "HCL Câmpulung Moldovenesc nr. 6/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 6/2011 pentru stabilirea unor măsuri organizatorice privind desfacerea căsătoriei pe cale administrativă de către ofițerul de starea civilă Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 ianuarie 2011, Având în vedere: - Expunerea pe motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 301 din 10 ianuarie 2011; - Raportul Serviciu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_006_2011.pdf",
+     "sha256": "14b3296c3cd7da7171e32df10b3cfaca91ee7a1b446bab4954eb95d9d6688834"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-60-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/60",
+   "short": "HCL Câmpulung Moldovenesc nr. 60/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 60/2011",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_060_2011.pdf",
+     "sha256": "639fe15e8b564324d9243759b291dd353d5f3f91ae08c0fc5cf11149dea751fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-61-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/61",
+   "short": "HCL Câmpulung Moldovenesc nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 61/2011 privind completarea Art. 2 al Hotărârii Consiliului local nr. 114 din 08.10.2009 cu privire la aprobarea contractării finanțării proiectului „Suplimentarea sistemelor clasice de încălzire cu sisteme care utilizează energia solară – Colegiul Silvic Bucovina, municipiul Câmpulung Moldovenesc, județul Suceava” în vederea aplicării „Programului de înlocuire sau de completare a sistemelor clasice de în",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_061_2011.pdf",
+     "sha256": "46805dbe865ad8de7abfdd4260254d4142a3d762a4688e50b7b9e39605160b71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-62-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/62",
+   "short": "HCL Câmpulung Moldovenesc nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 62/2011 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc pe anul 2011 a sumei de 160000 lei Spitalului municipal Câmpulung Moldovenesc pentru proiectarea și achiziționarea unui ascensor hidraulic Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 31 august 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Mol",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_062_2011.pdf",
+     "sha256": "27e2e1fa5723b07ecc4e0d43434e5f8d1eafb32ba995b5c1128387d48404daec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-63-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/63",
+   "short": "HCL Câmpulung Moldovenesc nr. 63/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 63/2011 privind modificarea și completarea inventarului bunurilor care fac parte din domeniul public al municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistratã la nr. 13931 din 19.08.2011; - Raportul Compartimentului",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_063_2011.pdf",
+     "sha256": "5efabe657ddc2846b17d444ea3c014d81971c8728395c4e9f74ee12f0b22ca9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-64-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/64",
+   "short": "HCL Câmpulung Moldovenesc nr. 64/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 64/2011 privind rectificarea bugetului local al municipiului Câmpulung Moldovenesc pe anul 2011 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 14545 din 31 august 2011; - Raportul Serviciului venituri și cheltuieli din cadrul Primăriei",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_064_2011.pdf",
+     "sha256": "a1e4ba0250ab1c7423725f40d46817d1cfdc5b974d1b1d346601c9abc85700aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-65-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/65",
+   "short": "HCL Câmpulung Moldovenesc nr. 65/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 65/2011 pentru validarea Dispozițiilor Primarului Municipiului Câmpulung Moldovenesc nr. 403/8.08.2011 și nr. 412/16.08.2011 privind rectificarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2011 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 august 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldov",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_065_2011.pdf",
+     "sha256": "3c5adb2363c63c7f465658c5c5ee41f600ffa3f90c7231500760b3e193d0813c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-66-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/66",
+   "short": "HCL Câmpulung Moldovenesc nr. 66/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 66/2011 pentru completarea punctului 14 din anexa nr.7 la contractul nr.1458/26.01.2006 aprobat prin Hotărârea Consiliului local al municipiului Câmpulung Moldovenesc nr. 86/30.06.2005 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 29 septembrie 2011; Având în vedere: - Expunerea de motive a Primarului Municipiului Câmpulung Moldovenesc, înregistrată la nr. 15111/0",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2011",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_066_2011.pdf",
+     "sha256": "6a59df93a1a9c7b6b615c29b9dfcdabb7e25855ed27f54bc0b3341a6faae1a68"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-68-2011",
    "path": "local/suceava/campulung-moldovenesc/2011/68",
    "short": "HCL Câmpulung Moldovenesc nr. 68/2011",
@@ -134,6 +824,156 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_068_2011.pdf",
      "sha256": "f004a4280cb4a1d008eb9c7e62b83670c8794c12846483b77f9b57ac0d8cfa6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-7-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/7",
+   "short": "HCL Câmpulung Moldovenesc nr. 7/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 7/2011 privind aprobarea deplasării unei delegații a municipiului Câmpulung Moldovenesc la Bonyhad - Ungaria, în perioada 04 - 06 februarie 2011, în vederea semnării Protocolului de colaborare pentru realizarea celei de a XXII-a ediții a Festivalului Internațional de Folclor „ÎNTÂLNIRI BUCOVINENE” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 ianuarie 2011, Av",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_007_2011.pdf",
+     "sha256": "e36234c5184046f47e5c7517db13949682d99ffc228cc4e29d64299c71c32259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-70-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/70",
+   "short": "HCL Câmpulung Moldovenesc nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 70/2011 privind rectificarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarǎ din 29 septembrie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 16382 din 29.09.2011; - Raportul Serviciului venituri, cheltuieli și patrimoniu, înregistrat l",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_070_2011.pdf",
+     "sha256": "d550260f55180d30b8c2694168d8fc144125cd550de3e1fe127cf2d952438035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-74-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/74",
+   "short": "HCL Câmpulung Moldovenesc nr. 74/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 74/2011 privind redistribuirea sumelor aferente cheltuielilor de personal din luna octombrie 2011 între unitățile de învățământ din municipiu Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 6 octombrie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 16791din 05.10.2011; - Raportul Serviciului venitur",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_074_2011.pdf",
+     "sha256": "9db164e0ed970ccf1bb40e0af25c33f7dbccf155b1e47f3d1d3e93840b2678b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-75-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/75",
+   "short": "HCL Câmpulung Moldovenesc nr. 75/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 75/2011 privind rectificarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2011 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința de îndată din 6 octombrie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 16853 din 6 octombrie 2011; - Raportul Serviciului venituri, cheltuieli și patrimoniu, înregist",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_075_2011.pdf",
+     "sha256": "25bfe33337a73550180301d8de1306de7e80f6efeae7da173e0403afb94b2326"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-76-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/76",
+   "short": "HCL Câmpulung Moldovenesc nr. 76/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 76/2011 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a unei sume pentru premierea gospodarilor cu merite deosebite în creșterea animalelor, cu ocazia desfășurării manifestării „Târgul lăptarilor” 2011 Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința de îndată din 6 octombrie 2011; Având în vedere: - Expunerea de motive a primarului municipiului Câ",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_076_2011.pdf",
+     "sha256": "a76f320c63a8304f868a56c8ac81857089bd4b1fad06d61b9b7da5b14072606a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-77-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/77",
+   "short": "HCL Câmpulung Moldovenesc nr. 77/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 77/2011 privind aprobarea programului de măsuri specifice sezonului rece 2011 – 2012 și aprobarea tehnologiei de intervenție în cazul apariției poleiului și a căderilor de zăpadă în municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27.10.2011; Având în vedere: - Expunerea de motive a primarului și viceprimarului municipiului Câmpulung",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_077_2011.pdf",
+     "sha256": "4185efdc3b7e4dbbfaafdc212c8c612de5da116fd3360c6ac9dad2d4833ed017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-79-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/79",
+   "short": "HCL Câmpulung Moldovenesc nr. 79/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 79/2011 privind aprobarea indicatorilor tehnico-economici ai investiției „Extindere grădinița nr. 1, (cu program prelungit) „Căsuța Piticilor”, municipiul Câmpulung Moldovenesc, jud. Suceava” Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 octombrie 2011; Având în vedere: - Expunerea de motive a Primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_079_2011.pdf",
+     "sha256": "840cffd6530dd9d98c0ce3b2e3269f2622f67cfcabd7809a2b239601bf15839a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-8-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/8",
+   "short": "HCL Câmpulung Moldovenesc nr. 8/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 8/2011 privind concesionarea unui teren proprietatea privată a Municipiului Câmpulung Moldovenesc, situat în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_008_2011.pdf",
+     "sha256": "369957d9ecfb36137302d9fccf3baa785e1a2f11edacce8de3a1e290310cd076"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-82-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/82",
+   "short": "HCL Câmpulung Moldovenesc nr. 82/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 82/2011",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_082_2011.pdf",
+     "sha256": "9fadd94027aed953cb0f5d459a1706f354fcfd0471a503b737d77968ce9771f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-84-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/84",
+   "short": "HCL Câmpulung Moldovenesc nr. 84/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 84/2011 cu privire la aprobarea concesionarii prin licitație publică a terenului în suprafață de 2585 mp, proprietatea privată a municipiului Câmpulung Moldovenesc, în vederea amenajării unui poligon de tir “Tragere pentru antrenament și agrement” în zona străzii Izvorul Alb fn., Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27.10.201",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2011",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_084_2011.pdf",
+     "sha256": "043fa6d40e2f07922fd41bb2f9a83ae02777312ec97facf6a25eff2e5b3b5fd5"
     }
    ]
   },
@@ -179,6 +1019,21 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_089_2011.pdf",
      "sha256": "7f3516608261d6d7523f255bfb3c33d01602502f186d6a7078a1938f03f97eec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-9-2011",
+   "path": "local/suceava/campulung-moldovenesc/2011/9",
+   "short": "HCL Câmpulung Moldovenesc nr. 9/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 9/2011 privind concesionarea suprafeței de 275 mp de teren proprietatea privată a Municipiului Câmpulung Moldovenesc situată în str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_009_2011.pdf",
+     "sha256": "80b1351d7dbdc0047821a8a54b2c381ce53b318ecd16a8ba0cdc4313e07c8177"
     }
    ]
   },

@@ -1359,7 +1359,7 @@ hg-224-2005,legea-128-1997,implements,art. 51 alin. (6^1),2021-04-18,2019-03-21,
 hg-224-2005,legea-128-1997,refers_to,,2021-04-18,2019-03-20,Trimitere de la,56122,11432,target sheet,2
 hg-769-2005,legea-128-1997,implements,art. 7,2021-04-18,2019-03-21,Temei legal pentru; Temei legal,58288,11432,source sheet; target sheet,3
 legea-195-2005,legea-128-1997,amends,- proroga termenul prevazut la art.132 pâna la 1 septembrie 2007,2024-08-16,2020-07-09,Modificată; Modifică,57513,11432,source sheet; target sheet; title,10
-legea-223-2005,legea-128-1997,amends,- modifica art.104 alin.(3),2024-08-16,2020-06-06,Modificată; Modifică,57874,11432,source sheet; target sheet; title,10
+legea-223-2005,legea-128-1997,amends,- modifica art.104 alin.(3),2024-08-16,2020-06-06,Modificată; Modifică,57874,11432,bill file; source sheet; target sheet; title,10
 ordin-3032-2005,legea-128-1997,implements,art. 113,2021-04-18,2019-03-21,Temei legal pentru,54958,11432,target sheet,2
 ordin-3032-2005,legea-128-1997,refers_to,,2021-04-18,2019-03-20,Trimitere de la,54958,11432,target sheet,2
 ordin-3632-2005,legea-128-1997,implements,,2021-04-18,2019-03-21,Temei legal pentru,55945,11432,target sheet,2
@@ -1381,7 +1381,7 @@ mof-483-2005-06-08,legea-129-1998,republished,,2024-05-18,2019-10-22,Republicare
 hg-83-2005,legea-129-2002,refers_to,,2022-01-19,2020-11-24,Trimitere la,55156,34775,source sheet,3
 decret-411-2005,legea-129-2005,promulgates,,2023-04-01,2020-09-29,Promulgată; Promulgă,56840,56845,promulgation record; source sheet; target sheet,4
 decret-70-2005,legea-13-2005,promulgates,,2019-10-22,2019-10-22,Promulgată,55423,55422,promulgation record; target sheet,1
-legea-403-2005,legea-130-1999,amends,dispune republicarea,2022-05-23,2020-05-25,Modificată; Modifică,61751,21927,source sheet; target sheet,3
+legea-403-2005,legea-130-1999,amends,dispune republicarea,2022-05-23,2020-05-25,Modificată; Modifică,61751,21927,bill file; source sheet; target sheet,3
 legea-209-2005,legea-130-2000,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,25326,source sheet,5
 hg-479-2005,legea-131-1998,refers_to,,2023-01-31,2021-04-19,Trimitere la,57085,16992,source sheet,2
 legea-206-2005,legea-131-2002,repeals,odată cu O.U.G. nr.153/2001,2019-01-18,2019-01-18,Abrogată,57813,,target sheet,1
@@ -1474,7 +1474,7 @@ decret-420-2005,legea-138-2005,promulgates,,2023-06-02,2019-12-11,Promulgată; P
 oug-63-2005,legea-138-2005,refers_to,,2023-06-02,2022-07-01,Trimitere la; Trimitere de la,57608,56831,source sheet; target sheet,2
 hg-438-2005,legea-139-2000,amends,- actualizeaza nivelul taxelor prev. în anexa nr. 2,2024-07-13,2020-08-11,Modificată; Modifică,56941,25340,source sheet; target sheet,5
 hg-438-2005,legea-139-2000,implements,art. 8 alin. (1) si (2),2022-09-24,2021-04-16,Temei legal; Temei legal pentru,56941,25340,source sheet; target sheet,3
-legea-236-2005,legea-139-2000,amends,"- modifica art. 6 lit. k), art. 7 alin. (3), art. 24, art. 38; introduce alin. (5) la art. 16 | dispune republicarea",2024-07-13,2020-08-11,Modificată; Modifică,57930,25340,source sheet; target sheet; title,4
+legea-236-2005,legea-139-2000,amends,"- modifica art. 6 lit. k), art. 7 alin. (3), art. 24, art. 38; introduce alin. (5) la art. 16 | dispune republicarea",2024-07-13,2020-08-11,Modificată; Modifică,57930,25340,bill file; source sheet; target sheet; title,4
 hg-621-2005,legea-139-2002,refers_to,,2023-02-03,2021-01-17,Trimitere de la,58027,35678,target sheet,2
 decret-421-2005,legea-139-2005,promulgates,,2019-10-16,2019-10-16,Promulgată,56854,,promulgation record; target sheet,1
 decizie-ccr-71-2005,legea-14-2003,rejects_unconstitutionality_objection,"- art. 2, art. 21 alin. (4) si art. 26 alin. (4), art. 27",2021-10-28,2021-10-28,Respinge excepţia de neconstituţionalitate,56540,41249,source sheet,1
@@ -1633,9 +1633,9 @@ decret-466-2005,legea-158-2005,promulgates,,2025-01-17,2021-10-18,Promulgată; P
 oug-195-2005,legea-159-1999,repeals,odată cu L. nr.137/1995,2025-01-20,2019-10-20,"abrogata prin; totodata, abrogă; Abrogată",61631,22629,note; source sheet (totodata); target sheet,16
 hg-448-2005,legea-159-2000,refers_to,,2021-11-30,2021-10-26,Trimitere de la; Trimitere la,57213,25958,source sheet; target sheet,2
 hg-141-2005,legea-16-1994,refers_to,,2024-10-09,2020-10-22,Trimitere de la; Trimitere la,55417,4995,source sheet; target sheet,2
-legea-276-2005,legea-16-1994,amends,"- modifică, la data aderării României la U.E., art. 3 alin. 2, 2^1 şi 3;abrogă, la data aderării României la U.E., art. 3 alin. 3^1",2021-10-22,2020-10-22,Modificată; Modifică,59614,4995,source sheet; target sheet; title,3
+legea-276-2005,legea-16-1994,amends,"- modifică, la data aderării României la U.E., art. 3 alin. 2, 2^1 şi 3;abrogă, la data aderării României la U.E., art. 3 alin. 3^1",2021-10-22,2020-10-22,Modificată; Modifică,59614,4995,bill file; source sheet; target sheet; title,3
 og-10-2005,legea-16-1994,refers_to,,2024-02-26,2020-02-20,Trimitere la; Trimitere de la,55001,4995,source sheet; target sheet,5
-legea-337-2005,legea-16-1995,amends,dispune republicarea,2024-04-21,2020-08-10,Modificată; Modifică,60644,6628,source sheet; target sheet; title,4
+legea-337-2005,legea-16-1995,amends,dispune republicarea,2024-04-21,2020-08-10,Modificată; Modifică,60644,6628,bill file; source sheet; target sheet; title,4
 oug-190-2005,legea-16-1995,amends,"- modifică art. 40 alin. 1 şi modifică art. 40 alin. (3), la data intrării în vigoare a Legii nr. 337/2005",2025-01-15,2020-08-10,Modifică; Modificată,61411,6628,source sheet; target sheet,7
 ordin-946-2005,legea-16-1996,refers_to,,2024-06-16,2022-01-20,Trimitere la; Trimitere de la,58309,8555,source sheet; target sheet,4
 decret-73-2005,legea-16-2005,promulgates,,2024-11-14,2019-10-21,Promulgată,55414,55413,promulgation record; target sheet,2
@@ -1701,7 +1701,7 @@ decizie-425-2005,legea-18-1991,refers_to,,2025-01-22,2018-12-18,Trimitere de la;
 hg-1120-2005,legea-18-1991,refers_to,,2018-12-18,2018-12-18,Trimitere de la,59482,1290,target sheet,1
 hg-890-2005,legea-18-1991,refers_to,,2024-08-08,2018-12-16,Trimitere la; Trimitere de la,58692,1290,source sheet; target sheet,4
 legea-247-2005,legea-18-1991,amends,"- modifica art.11 alin. (2), art.18 alin. (3), art.24 alin. (2), art.27 alin. (2), art.92 alin. (3); introduce alin. (2^1) la art.11, alin. (2^1) la art.23, alin. (1^1) la art.24, alin. (2^1), (2^2) si (4^1) la art. 27, alin.(3) la art.52, art.110^1, art.110^2, art.110^3; abroga art.60, art.92 alin. (5), art.108, art.109",2024-07-21,2019-03-26,Modificată; Modifică,58107,1290,source sheet; target sheet,19
-legea-358-2005,legea-18-1991,amends,modifică anexa nr.1,2024-07-19,2018-12-16,Modificată; Modifică,60797,1290,source sheet; target sheet,15
+legea-358-2005,legea-18-1991,amends,modifică anexa nr.1,2024-07-19,2018-12-16,Modificată; Modifică,60797,1290,bill file; source sheet; target sheet,15
 ordin-804-2005,legea-18-1991,refers_to,,2018-12-18,2018-12-18,Trimitere de la,59027,1290,target sheet,1
 oug-209-2005,legea-18-1991,amends,"- introduce alin. (4) la art. 12, lit. d), e), f) şi g) la art. 110^1, lit. c), d) şi e) la art. 110^2, alin. (2) la art. 110^3",2024-07-19,2019-01-20,Modificată; Modifică,61610,1290,source sheet; target sheet,13
 decret-75-2005,legea-18-2005,promulgates,,2024-08-12,2019-10-18,Promulgată; Promulgă,55429,55428,promulgation record; source sheet; target sheet,3
@@ -1916,7 +1916,7 @@ legea-344-2005,legea-202-2000,repeals,,2024-06-24,2019-09-20,abrogata prin; Abro
 mof-135-2005-02-14,legea-202-2002,republished,,2021-10-21,2021-04-21,Republicare,,36206,mof,2
 ordin-620-2005,legea-202-2004,implements,,2020-10-29,2020-10-29,Temei legal pentru,56671,49748,target sheet,1
 decret-534-2005,legea-202-2005,promulgates,,2020-01-20,2020-01-20,Promulgă,57598,57597,promulgation record; source sheet,1
-legea-18-2005,legea-203-1999,amends,"modifică art. 8 alin. (3), abrogă art. 8 alin. (2)",2025-01-21,2019-10-18,Modificată; Modifică,55428,23315,source sheet; target sheet; title,5
+legea-18-2005,legea-203-1999,amends,"modifică art. 8 alin. (3), abrogă art. 8 alin. (2)",2025-01-21,2019-10-18,Modificată; Modifică,55428,23315,bill file; source sheet; target sheet; title,5
 legea-209-2005,legea-203-1999,refers_to,,2024-08-16,2021-01-19,Trimitere la; Trimitere de la,57602,23315,source sheet; target sheet,6
 oug-130-2005,legea-203-1999,amends,"- modifică art. 2 lit. b) şi d), art. 3 alin. (1), art. 4, art. 6 lit. g), art.7 alin. (2), art. 8 alin. (1),art. 8 alin. (3), art. 9, art. 10, art. 11, art. 13, art. 15 alin. (2); introduce lit. f) şi g) la art. 2, alin. (1^1) la art. 3, lit. e) la alin. (2) al art. 3, lit. i) la art. 6, art. 6^1, art. 6^2, lit. c), d), e), f) şi g) la alin. (1) al art. 8, alin. (4) şi (5) la art. 8, alin. (3) la art. 15; abrogă art. 5 alin. (1), art. 6 lit. e) şi f) | dispune republicarea",2025-01-21,2020-05-27,Modificată; Modifică,59530,23315,source sheet; target sheet,4
 mof-89-2005-01-26,legea-203-2003,republished,,2024-05-23,2022-01-28,Republicare,,43414,mof,5
@@ -2402,7 +2402,7 @@ ordin-522-2005,legea-295-2004,implements,art. 110 alin. (1) lit.d),2021-01-15,20
 ordin-522-2005,legea-295-2004,refers_to,,2021-01-15,2020-12-04,Trimitere de la; Trimitere la,56092,50367,source sheet; target sheet,2
 legea-363-2005,legea-296-2004,amends,"- modifică art. 19, art.51",2021-12-06,2019-10-21,Modificată; Modifică,61157,50429,source sheet; target sheet,6
 hg-184-2005,legea-297-2004,refers_to,,2024-04-14,2021-10-24,Trimitere de la; Trimitere la,55859,50285,source sheet; target sheet,4
-legea-208-2005,legea-297-2004,amends,- modifica art. 285 alin. (2),2024-04-23,2019-09-19,Modificată,57662,50285,target sheet; title,6
+legea-208-2005,legea-297-2004,amends,- modifica art. 285 alin. (2),2024-04-23,2019-09-19,Modificată,57662,50285,bill file; target sheet; title,6
 og-41-2005,legea-297-2004,amends,,2024-04-23,2019-09-19,Modificată; Modifică,58343,50285,source sheet; target sheet,8
 ordin-36-2005,legea-297-2004,refers_to,,2023-12-11,2021-10-24,Trimitere de la; Trimitere la,58774,50285,source sheet; target sheet,3
 ordin-40-2005,legea-297-2004,implements,art. 286^1,2021-12-05,2021-12-05,Temei legal,58988,50285,source sheet,1
@@ -2418,7 +2418,7 @@ oug-161-2005,legea-299-2005,amends,- prorogă termenul prevăzut în art.22 pân
 oug-99-2005,legea-3-2000,amends,- modifica art.12 alin. (1) lit. A; introduce lit h) la art.12 alin. (1) lit. B,2025-01-24,2020-02-26,Modificată; Modifică,58069,23809,source sheet; target sheet; title,16
 decret-60-2005,legea-3-2005,promulgates,,2019-10-16,2019-10-16,Promulgată,55433,,target sheet,1
 legea-39-2005,legea-30-1994,amends,,2025-01-17,2019-10-13,Modificată; Modifică,55745,5009,source sheet; target sheet,6
-legea-378-2005,legea-300-2004,amends,- modifică art.18,2025-01-15,2019-09-19,Modificată; Modifică,61045,50318,source sheet; target sheet; title,6
+legea-378-2005,legea-300-2004,amends,- modifică art.18,2025-01-15,2019-09-19,Modificată; Modifică,61045,50318,bill file; source sheet; target sheet; title,6
 ordin-140-2005,legea-300-2004,refers_to,,2022-01-20,2020-10-20,Trimitere la; Trimitere de la,58652,50318,source sheet; target sheet,2
 ordin-49-2005,legea-300-2004,refers_to,,2022-06-26,2021-04-11,Trimitere la; Trimitere de la,55988,50318,source sheet; target sheet,3
 decret-1012-2005,legea-300-2005,promulgates,,2022-06-28,2022-05-25,Promulgată; Promulgă,59884,59883,source sheet; target sheet,2
@@ -2854,7 +2854,7 @@ mof-827-2005-09-13,legea-304-2004,republished,,2024-11-15,2019-10-18,Republicare
 ordin-771-c-2005,legea-304-2004,implements,art. 127 alin. (2),2022-06-28,2021-09-21,Temei legal pentru; Temei legal,57187,50322,source sheet; target sheet,3
 decizie-1-2005,legea-305-2004,implements,"art.46, art.81",2022-06-28,2022-06-28,Temei legal pentru,58799,50330,target sheet,1
 decret-1018-2005,legea-305-2005,promulgates,,2019-09-17,2019-09-17,Promulgată,60080,60079,promulgation record; target sheet,1
-legea-221-2005,legea-306-2004,amends,"- modifica art. 16 alin. (1), (2), (3), (5) si (7); introduce alin. (9) la art. 16",2023-09-30,2019-10-16,Modificată; Modifică,57940,50332,source sheet; target sheet; title,9
+legea-221-2005,legea-306-2004,amends,"- modifica art. 16 alin. (1), (2), (3), (5) si (7); introduce alin. (9) la art. 16",2023-09-30,2019-10-16,Modificată; Modifică,57940,50332,bill file; source sheet; target sheet; title,9
 legea-59-2005,legea-306-2004,amends,aprobă cu modificări si completari O.U.G.nr 135/2004 si modifică art. 38 lit.h),2023-09-30,2019-10-16,Modificată; Modifică,55860,50332,source sheet; target sheet,8
 oug-175-2005,legea-306-2004,amends,modifică art.38 lit.h,2023-09-30,2019-10-16,Modificată; Modifică,60963,50332,source sheet; target sheet,7
 decret-1019-2005,legea-306-2005,promulgates,,2023-02-04,2022-10-01,Promulgă,59910,59909,promulgation record; source sheet,2
@@ -2899,7 +2899,7 @@ legea-1-2005,legea-31-1990,refers_to,,2025-01-22,2021-03-01,Trimitere la; Trimit
 legea-212-2005,legea-31-1990,refers_to,,2021-12-06,2021-10-16,Trimitere de la,57822,435,target sheet,2
 legea-218-2005,legea-31-1990,refers_to,,2024-06-16,2021-10-16,Trimitere de la; Trimitere la,57856,435,source sheet; target sheet,4
 legea-240-2005,legea-31-1990,refers_to,,2022-06-27,2021-10-16,Trimitere de la; Trimitere la,58215,435,source sheet; target sheet,3
-legea-302-2005,legea-31-1990,amends,"- modifică art.10 alin.(1), art.237 alin.(6); introduce alin.(7)-(10) la art.237; abrogă art.293",2025-01-20,2019-09-21,Modificată; Modifică,59872,435,source sheet; target sheet; title,11
+legea-302-2005,legea-31-1990,amends,"- modifică art.10 alin.(1), art.237 alin.(6); introduce alin.(7)-(10) la art.237; abrogă art.293",2025-01-20,2019-09-21,Modificată; Modifică,59872,435,bill file; source sheet; target sheet; title,11
 norma-4-2005,legea-31-1990,refers_to,,2024-05-23,2021-10-16,Trimitere de la; Trimitere la,56057,435,source sheet; target sheet,3
 og-37-2005,legea-31-1990,refers_to,,2023-11-30,2019-10-17,Trimitere la; Trimitere de la,58131,435,source sheet; target sheet,5
 ordin-1221-2005,legea-31-1990,refers_to,,2021-12-06,2021-03-04,Trimitere de la; Trimitere la,61993,435,source sheet; target sheet,3
@@ -3406,7 +3406,7 @@ hg-284-2005,legea-360-2002,refers_to,,2022-01-28,2022-01-28,Trimitere de la,5627
 hg-584-2005,legea-360-2002,refers_to,,2022-01-28,2022-01-28,Trimitere la; Trimitere de la,57547,37917,source sheet; target sheet,2
 legea-24-2005,legea-360-2002,amends,aprobă cu modificări O.U.G.nr. 102/2004 si modifică art. 31 alin. (1^1),2024-07-17,2021-04-13,Modificată; Modifică,55495,37917,source sheet; target sheet,10
 hg-956-2005,legea-360-2003,implements,art.15 lit. m),2023-02-04,2023-02-04,Temei legal,59286,45170,source sheet,1
-legea-263-2005,legea-360-2003,amends,"- modifică art.22 alin.(2), art.23, art.25 alin.(1) lit.c), art.26 alin.(1); introduce art.2^1, art.2^2, art.23^1, art.24^1, alin.(1^1) la art.26",2019-12-15,2019-12-08,Modifică; Modificată,59587,45170,source sheet; target sheet,2
+legea-263-2005,legea-360-2003,amends,"- modifică art.22 alin.(2), art.23, art.25 alin.(1) lit.c), art.26 alin.(1); introduce art.2^1, art.2^2, art.23^1, art.24^1, alin.(1^1) la art.26",2019-12-15,2019-12-08,Modifică; Modificată,59587,45170,bill file; source sheet; target sheet,2
 oug-194-2005,legea-362-2001,repeals,odată cu O.U.G. nr.33/2000,2024-03-01,2019-10-18,"totodata, abrogă; Abrogată; abrogata prin",61571,30267,note; source sheet (totodata); target sheet,8
 oug-71-2005,legea-362-2002,refers_to,,2023-06-02,2022-05-22,Trimitere de la,57632,37950,target sheet,2
 ordin-268-2005,legea-362-2004,refers_to,,2020-01-25,2020-01-25,Trimitere de la,55195,51993,target sheet,1
@@ -3438,7 +3438,7 @@ decret-1291-2005,legea-374-2005,promulgates,,2021-04-19,2020-07-03,Promulgată,6
 decret-1292-2005,legea-375-2005,promulgates,,2019-12-10,2019-12-10,Promulgată,61102,61101,promulgation record; target sheet,1
 legea-209-2005,legea-376-2002,refers_to,,2024-08-16,2021-01-19,Trimitere la; Trimitere de la,57602,37864,source sheet; target sheet,6
 legea-240-2005,legea-376-2002,refers_to,,2022-06-27,2022-05-17,Trimitere de la; Trimitere la,58215,37864,source sheet; target sheet,2
-legea-319-2005,legea-376-2004,amends,abrogă alin.(5) al art.2,2021-11-30,2019-10-19,Modificată; Modifică,60207,52278,source sheet; target sheet; title,5
+legea-319-2005,legea-376-2004,amends,abrogă alin.(5) al art.2,2021-11-30,2019-10-19,Modificată; Modifică,60207,52278,bill file; source sheet; target sheet; title,5
 ordin-2017-2005,legea-376-2004,refers_to,,2021-12-02,2021-10-18,Trimitere de la; Trimitere la,62009,52278,source sheet; target sheet,2
 decret-1295-2005,legea-378-2005,promulgates,,2022-01-20,2022-01-20,Promulgată,61046,61045,promulgation record; target sheet,1
 oug-17-2005,legea-379-2003,amends,modifică art. 25 si art. 26 lit.e); abrogă art. 29,2024-09-15,2019-12-15,Modificată; Modifică,55698,45564,source sheet; target sheet,11
@@ -4170,7 +4170,7 @@ ordin-140-2005,legea-569-2004,refers_to,,2020-10-20,2020-10-20,Trimitere la,5865
 oug-4-2005,legea-57-1974,refers_to,,2023-02-03,2018-05-27,Trimitere la,55108,15671,source sheet,5
 decret-147-2005,legea-57-2005,promulgates,,2019-12-16,2018-07-22,Promulgată,55869,55868,promulgation record; target sheet,2
 legea-209-2005,legea-570-2002,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,39940,source sheet,5
-legea-272-2005,legea-570-2003,amends,- introduce lit.f) la art.1,2022-01-17,2019-12-07,Modificată,59637,47091,target sheet; title,2
+legea-272-2005,legea-570-2003,amends,- introduce lit.f) la art.1,2022-01-17,2019-12-07,Modificată,59637,47091,bill file; target sheet; title,2
 decizie-140-2005,legea-571-2003,implements,,2020-04-06,2019-10-15,Temei legal pentru,56645,47034,target sheet,2
 decizie-ccr-189-2005,legea-571-2003,rejects_unconstitutionality_objection,dispoziţiile titlului VII Accize,2020-07-08,2020-04-06,Excepţie de neconstituţionalitate respinsă,57404,47034,target sheet,2
 hg-122-2005,legea-571-2003,refers_to,,2020-04-06,2019-10-15,Trimitere de la,55460,47034,target sheet,2
@@ -4451,7 +4451,7 @@ decizie-ccr-659-2005,legea-64-1995,rejects_unconstitutionality_objection,art. 12
 decizie-ccr-82-2005,legea-64-1995,rejects_unconstitutionality_objection,art. 36 alin. (1),2024-06-23,2022-12-02,Respinge excepţia de neconstituţionalitate; Excepţie de neconstituţionalitate respinsă,56274,6676,source sheet; target sheet,2
 hg-454-2005,legea-64-1995,refers_to,,2022-11-30,2022-11-30,Trimitere de la,57040,6676,target sheet,1
 hg-460-2005,legea-64-1995,refers_to,,2022-11-30,2022-11-30,Trimitere de la,57139,6676,target sheet,1
-legea-249-2005,legea-64-1995,amends,,2025-01-22,2020-07-09,Modificată; Modifică,58339,6676,source sheet; target sheet; title,8
+legea-249-2005,legea-64-1995,amends,,2025-01-22,2020-07-09,Modificată; Modifică,58339,6676,bill file; source sheet; target sheet; title,8
 mof-251-2005-03-25,legea-64-1995,rectified,,2025-01-22,2021-11-28,Rectificare,,6676,mof,6
 ordin-3104-2005,legea-64-1995,refers_to,,2024-05-26,2020-05-28,Trimitere la; Trimitere de la,56201,6676,source sheet; target sheet,3
 ordin-3115-2005,legea-64-1995,refers_to,,2024-05-26,2022-11-30,Trimitere la; Trimitere de la,57496,6676,source sheet; target sheet,2
@@ -4466,7 +4466,7 @@ decizie-276-2005,legea-656-2002,refers_to,,2020-12-04,2020-12-04,Trimitere de la
 hg-766-2005,legea-656-2002,implements,,2020-11-24,2020-11-24,Temei legal pentru,58302,40736,target sheet,1
 hg-766-2005,legea-656-2002,refers_to,,2020-12-04,2020-12-04,Trimitere de la,58302,40736,target sheet,1
 hg-793-2005,legea-656-2002,refers_to,,2022-08-19,2020-10-27,Trimitere la; Trimitere de la,58768,40736,source sheet; target sheet,3
-legea-230-2005,legea-656-2002,amends,"- modifica titlul, art.1, art.2 lit.c), art.3 alin. (1), (2) si (3), art.5 alin. (1) si (4), art.6 alin. (1), (2), (3), (4) si (6), art.8 lit. a) - c), e) si i), art.9 alin. (3), art.11, art.12 alin. (3), art.14 alin. (2), art.16 alin. (1), art.17 alin. (1), art.18 alin. (2), art.19 alin. (2) si (4), art.20, art.22 alin. (1) si (2), art.25, art.26, art.27, anexa; introduce lit.a^1) si lit.d) la art.2, alin. (1^1) la art.3, alin. (2) la art.4, alin. (1^1), (7) si (8) la art.6, lit. e^1) si j^1) la art.8, alin. (2) la art.8, alin. (6) si (7) la art.9, alin. (4) la art. 12, alin. (1^1) la art.14, alin. (1^1) la art.16, alin. (3) la art. 17, art.24^1, art.27^1 | dispune republicarea",2024-02-24,2020-02-17,Modificată; Modifică,57918,40736,source sheet; target sheet; title,8
+legea-230-2005,legea-656-2002,amends,"- modifica titlul, art.1, art.2 lit.c), art.3 alin. (1), (2) si (3), art.5 alin. (1) si (4), art.6 alin. (1), (2), (3), (4) si (6), art.8 lit. a) - c), e) si i), art.9 alin. (3), art.11, art.12 alin. (3), art.14 alin. (2), art.16 alin. (1), art.17 alin. (1), art.18 alin. (2), art.19 alin. (2) si (4), art.20, art.22 alin. (1) si (2), art.25, art.26, art.27, anexa; introduce lit.a^1) si lit.d) la art.2, alin. (1^1) la art.3, alin. (2) la art.4, alin. (1^1), (7) si (8) la art.6, lit. e^1) si j^1) la art.8, alin. (2) la art.8, alin. (6) si (7) la art.9, alin. (4) la art. 12, alin. (1^1) la art.14, alin. (1^1) la art.16, alin. (3) la art. 17, art.24^1, art.27^1 | dispune republicarea",2024-02-24,2020-02-17,Modificată; Modifică,57918,40736,bill file; source sheet; target sheet; title,8
 legea-379-2005,legea-656-2002,amends,- prevederile referitoare la acordarea primelor cu ocazia plecării în concediul de odihnă se suspendă până la 31 decembrie 2006,2024-02-24,2019-09-20,Modificată; Modifică,61175,40736,source sheet; target sheet,12
 legea-380-2005,legea-656-2002,amends,- prevederile referitoare la acordarea primelor cu ocazia plecării în concediul de odihnă se suspendă până la 31 decembrie 2006,2024-02-24,2019-09-20,Modificată; Modifică,61170,40736,source sheet; target sheet,12
 ordin-146-2005,legea-656-2002,implements,art. 17 alin. (2) şi art. 22 alin. (4),2020-11-24,2020-11-24,Temei legal pentru,58653,40736,target sheet,1
@@ -4642,7 +4642,7 @@ decret-392-2005,legea-80-1995,implements,,2024-07-15,2024-07-15,Temei legal,5678
 decret-393-2005,legea-80-1995,implements,,2025-01-14,2025-01-14,Temei legal,56783,6692,source sheet,1
 decret-79-2005,legea-80-1995,implements,,2024-08-14,2024-08-14,Temei legal,55403,6692,source sheet,1
 oug-60-2005,legea-80-1995,amends,"- modifica art. 36 si art.40; în cuprinsul legii prin trimiterea la art. 36 alin. 2 se întelege trimiterea la art. 36 lit. g) si h), prin trimiterea la art. 36 alin. 2 lit. a) se întelege trimiterea la art. 36 lit. g), iar prin trimiterea la art. 40 alin. 2 se întelege trimiterea la art. 40 lit. g).",2025-01-19,2020-06-02,Modificată,57546,6692,target sheet; title,9
-legea-74-2005,legea-80-1997,amends,modifică art. 2 pct. (1) si (3),2024-10-09,2022-08-08,Modificată,56234,11384,target sheet; title,2
+legea-74-2005,legea-80-1997,amends,modifică art. 2 pct. (1) si (3),2024-10-09,2022-08-08,Modificată,56234,11384,bill file; target sheet; title,2
 og-10-2005,legea-81-1999,refers_to,,2024-04-24,2020-02-20,Trimitere la; Trimitere de la,55001,21246,source sheet; target sheet,6
 decret-203-2005,legea-81-2005,promulgates,,2023-02-06,2023-02-06,Promulgată,56085,56084,promulgation record; target sheet,1
 decizie-ccr-106-2005,legea-82-1991,rejects_unconstitutionality_objection,art. 41 pct. 2 lit. b),2024-05-30,2024-05-30,Excepţie de neconstituţionalitate respinsă,55716,1354,target sheet,1
@@ -4758,7 +4758,7 @@ decizie-ccr-119-2005,legea-9-1998,rejects_unconstitutionality_objection,art. 4 a
 hg-361-2005,legea-9-1998,refers_to,,2022-08-12,2021-02-28,Trimitere de la,56472,16068,target sheet,2
 legea-97-2005,legea-9-1998,refers_to,,2022-08-12,2019-10-23,Trimitere la; Trimitere de la,56248,16068,source sheet; target sheet,4
 decret-66-2005,legea-9-2005,promulgates,,2019-10-19,2019-10-19,Promulgată,55445,,promulgation record; target sheet,1
-legea-194-2005,legea-90-1996,amends,"- modifica art. 2 alin. (2), art. 3, art. 5 alin. (1), art. 6 alin. (1), art. 7 alin. (2), art. 12, art. 13 alin. (1) si (2), art. 15, art. 20 lit. e), art. 41 alin. (4) lit. a); introduce alin. (1^1) la art. 13, alin. (8) la art. 41; abroga art. 20 lit. i) si p), art. 46 alin. (2), art. 48 alin. (1) lit. b) si c) | dispune republicarea",2024-06-21,2020-06-02,Modificată,57734,8629,target sheet; title,4
+legea-194-2005,legea-90-1996,amends,"- modifica art. 2 alin. (2), art. 3, art. 5 alin. (1), art. 6 alin. (1), art. 7 alin. (2), art. 12, art. 13 alin. (1) si (2), art. 15, art. 20 lit. e), art. 41 alin. (4) lit. a); introduce alin. (1^1) la art. 13, alin. (8) la art. 41; abroga art. 20 lit. i) si p), art. 46 alin. (2), art. 48 alin. (1) lit. b) si c) | dispune republicarea",2024-06-21,2020-06-02,Modificată,57734,8629,bill file; target sheet; title,4
 decizie-346-2005,legea-90-2001,implements,,2020-09-28,2020-09-28,Temei legal pentru,56926,28380,target sheet,1
 decizie-347-2005,legea-90-2001,implements,,2020-09-28,2020-09-28,Temei legal pentru,57034,28380,target sheet,1
 decizie-348-2005,legea-90-2001,implements,,2020-09-28,2020-09-28,Temei legal pentru,57035,28380,target sheet,1
@@ -4970,7 +4970,7 @@ regulament-13-2005,norme-metodologice-12-2002,amends,,2022-08-09,2022-08-09,Modi
 ordin-246-2005,norme-metodologice-16144-1995,refers_to,,2021-04-17,2021-04-17,Trimitere la,55572,8375,source sheet,1
 legea-125-2005,og-1-2000,amends,- aproba cu modificari si completari O.U.G. nr. 115/2004,2022-06-29,2019-10-15,Modificată; Modifică,56785,23492,source sheet; target sheet,4
 mof-996-2005-11-10,og-1-2000,republished,,2022-06-29,2020-08-11,Republicare,,23492,mof,2
-legea-21-2005,og-1-2005,approves,,2019-03-26,2019-02-21,Aprobata prin; Aprobată; Aprobă,55489,54834,source sheet; target sheet; title,2
+legea-21-2005,og-1-2005,approves,,2019-03-26,2019-02-21,Aprobata prin; Aprobată; Aprobă,55489,54834,bill file; source sheet; target sheet; title,2
 oug-109-2005,og-1-2005,repeals,odată cu O.G. nr.44/1997,2024-05-24,2019-02-21,"abrogata prin; totodata, abrogă; Abrogată",58140,54834,note; source sheet (totodata); target sheet,14
 hg-141-2005,og-10-2005,implements,art. 8 si 9,2024-10-09,2024-10-09,Temei legal,55417,55001,source sheet,1
 hg-144-2005,og-10-2005,implements,art. 3,2021-03-08,2021-03-08,Temei legal,55472,55001,source sheet,1
@@ -4978,7 +4978,7 @@ hg-243-2005,og-10-2005,implements,art. 3,2021-03-07,2021-03-07,Temei legal,55962
 hg-244-2005,og-10-2005,implements,art. 3,2021-03-07,2021-03-07,Temei legal,56024,55001,source sheet,1
 hg-802-2005,og-10-2005,implements,art. 15 alin. (1),2023-12-07,2023-12-07,Temei legal,58492,55001,source sheet,1
 hg-802-2005,og-10-2005,refers_to,,2023-12-07,2023-12-07,Trimitere la,58492,55001,source sheet,1
-legea-146-2005,og-10-2005,approves_with_changes,"- modifica art. 12 alin. (2) lit. b) si d), art. 13 alin. (2), art. 14 lit. c), art. 15 alin. (1), art. 16, art. 17 alin. (1) lit. a) si d), art. 17 alin. (1) lit. h) si k), art. 17 alin. (2), art. 18 alin. (2), art. 22 alin. (1), art. 23 alin. (1), art. 25 alin. (1), art. 26 alin. (2), art. 27 lit. d), art. 28 alin. (1), art. 29 alin. (1) si (2), art. 30 alin. (2) si (3), art. 33, art. 36 din cap. I sectiunea a 6-a, art. I pct. 3 din cap. II sectiunea 1; introduce art. 5^1 la sectiunea a 4-a a cap. I, lit. d^1) la alin. (1) a art. 17 din cap. I sectiunea a 6-a",2024-02-26,2019-12-08,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56841,55001,source sheet; target sheet,7
+legea-146-2005,og-10-2005,approves_with_changes,"- modifica art. 12 alin. (2) lit. b) si d), art. 13 alin. (2), art. 14 lit. c), art. 15 alin. (1), art. 16, art. 17 alin. (1) lit. a) si d), art. 17 alin. (1) lit. h) si k), art. 17 alin. (2), art. 18 alin. (2), art. 22 alin. (1), art. 23 alin. (1), art. 25 alin. (1), art. 26 alin. (2), art. 27 lit. d), art. 28 alin. (1), art. 29 alin. (1) si (2), art. 30 alin. (2) si (3), art. 33, art. 36 din cap. I sectiunea a 6-a, art. I pct. 3 din cap. II sectiunea 1; introduce art. 5^1 la sectiunea a 4-a a cap. I, lit. d^1) la alin. (1) a art. 17 din cap. I sectiunea a 6-a",2024-02-26,2019-12-08,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56841,55001,bill file; source sheet; target sheet,7
 og-41-2005,og-10-2005,amends,"abrogă alin. (3) al art. 13 din cap. I secţiunea a 6-a ""Reglementări privind finanţarea programelor, proiectelor şi acţiunilor culturale, în condiţii de transparenţă şi competitivitate""",2024-02-26,2020-02-20,Modificată; Modifică,58343,55001,source sheet; target sheet,6
 ordin-2365-2005,og-10-2005,refers_to,,2024-02-26,2020-02-20,Referită de,60614,55001,target sheet,4
 hg-479-2005,og-100-1998,refers_to,,2023-01-31,2021-04-19,Trimitere la,57085,16969,source sheet,2
@@ -4988,7 +4988,7 @@ ordin-221-2005,og-102-2000,refers_to,,2020-05-26,2020-05-26,Trimitere la,60489,2
 decizie-77-2005,og-105-1999,refers_to,,2024-04-24,2024-04-24,Trimitere de la,55888,22278,target sheet,1
 decizie-ccr-558-2005,og-105-1999,rejects_unconstitutionality_objection,art. 1,2024-04-13,2024-04-13,Excepţie de neconstituţionalitate respinsă,60458,22278,target sheet,1
 hg-1765-2005,og-105-1999,amends,,2025-01-19,2021-03-01,Modificată; Modifică,61441,22278,source sheet; target sheet,6
-legea-148-2005,og-105-1999,amends,- modifica art. 7 alin. (2),2025-01-19,2019-10-20,Modificată; Modifică,56870,22278,source sheet; target sheet; title,6
+legea-148-2005,og-105-1999,amends,- modifica art. 7 alin. (2),2025-01-19,2019-10-20,Modificată; Modifică,56870,22278,bill file; source sheet; target sheet; title,6
 hg-1867-2005,og-109-2000,refers_to,,2022-06-28,2022-06-28,Trimitere de la,62046,25670,target sheet,1
 hg-284-2005,og-109-2000,refers_to,,2022-06-28,2022-06-28,Trimitere de la,56275,25670,target sheet,1
 hg-250-2005,og-11-2000,amends,,2020-07-07,2020-07-07,Modificată,56166,23516,target sheet,1
@@ -5009,7 +5009,7 @@ hg-859-2005,og-112-2000,implements,,2021-03-07,2021-03-07,Temei legal,58632,2566
 hg-944-2005,og-112-2000,implements,,2021-03-07,2021-03-07,Temei legal,58893,25665,source sheet,1
 hg-793-2005,og-119-1999,refers_to,,2022-08-19,2020-10-27,Trimitere la,58768,22291,source sheet,2
 ordin-946-2005,og-119-1999,implements,art. 5 alin. (2),2024-06-16,2022-01-20,Temei legal,58309,22291,source sheet,3
-legea-52-2005,og-12-2005,approves,,2020-01-29,2019-12-08,Aprobata prin; Aprobată; Aprobă,55730,55008,source sheet; target sheet; title,2
+legea-52-2005,og-12-2005,approves,,2020-01-29,2019-12-08,Aprobata prin; Aprobată; Aprobă,55730,55008,bill file; source sheet; target sheet; title,2
 hg-52-2005,og-124-1998,refers_to,,2022-08-16,2022-08-16,Trimitere la,54914,17007,source sheet,1
 og-10-2005,og-124-2000,refers_to,,2024-02-26,2020-02-20,Trimitere la,55001,25673,source sheet,4
 oug-123-2005,og-124-2000,amends,abrogă art. 3 alin. (2),2024-09-15,2018-12-13,Modificată; Modifică,59254,25673,source sheet; target sheet,8
@@ -5020,7 +5020,7 @@ legea-209-2005,og-128-2000,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,2
 legea-370-2005,og-128-2000,amends,- modifică art. 2,2022-01-22,2019-09-19,Modificată; Modifică,61099,25674,source sheet; target sheet,3
 og-29-2005,og-128-2000,amends,"- modifica titlul, art.1; înlocuieste anexa | dispune republicarea",2022-01-22,2019-10-17,Modificată; Modifică,58033,25674,source sheet; target sheet; title,3
 legea-323-2005,og-13-2005,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2022-06-29,2021-02-28,Modificată; Modifică,60224,55009,source sheet; target sheet,2
-legea-83-2005,og-13-2005,approves,,2021-02-28,2021-02-28,Aprobata prin; Aprobată,56130,55009,target sheet; title,1
+legea-83-2005,og-13-2005,approves,,2021-02-28,2021-02-28,Aprobata prin; Aprobată,56130,55009,bill file; target sheet; title,1
 oug-63-2005,og-13-2005,amends,- proroga pâna la 31 dec. 2005 prevederile referitoare la cresterile salariale ce urmau a fi acordate personalului din sectorul bugetar începând cu luna octombrie 2005,2022-07-01,2021-02-28,Modificată; Modifică,57608,55009,source sheet; target sheet,2
 hg-448-2005,og-130-2000,refers_to,,2021-12-04,2021-10-26,Trimitere de la; Trimitere la,57213,25681,source sheet; target sheet,2
 legea-209-2005,og-137-2000,refers_to,,2024-09-19,2021-01-19,Trimitere la; Trimitere de la,57602,25684,source sheet; target sheet,7
@@ -5042,11 +5042,11 @@ og-55-2005,og-17-2002,amends,"- modifică titlul, art. 1, art. 3 alin. (1) lit. 
 ordin-1358-2005,og-17-2002,implements,art. 13 lit. b),2019-03-22,2019-03-22,Temei legal,59000,33563,source sheet,1
 ordin-1358-2005,og-17-2002,refers_to,,2019-03-22,2019-03-22,Trimitere la,59000,33563,source sheet,1
 oug-109-2005,og-17-2002,refers_to,,2023-03-27,2019-08-24,Trimitere la,58140,33563,source sheet,5
-legea-118-2005,og-17-2005,approves_with_changes,- modifica art. 1 si anexa nr. 2,2021-02-27,2021-02-27,Aprobata cu modificari prin; Aprobată cu modificări,56598,55022,target sheet; title,1
-legea-147-2005,og-18-2005,approves,,2024-05-24,2020-08-09,Aprobata prin; Aprobată; Aprobă,56828,55023,source sheet; target sheet; title,4
+legea-118-2005,og-17-2005,approves_with_changes,- modifica art. 1 si anexa nr. 2,2021-02-27,2021-02-27,Aprobata cu modificari prin; Aprobată cu modificări,56598,55022,bill file; target sheet; title,1
+legea-147-2005,og-18-2005,approves,,2024-05-24,2020-08-09,Aprobata prin; Aprobată; Aprobă,56828,55023,bill file; source sheet; target sheet; title,4
 ordin-1518-2005,og-19-2001,amends,,2023-03-31,2023-02-08,Modificată; Modifică,59758,30902,source sheet; target sheet,2
 hg-266-2005,og-19-2002,implements,art. 9,2024-07-20,2024-07-20,Temei legal,56188,33524,source sheet,1
-legea-81-2005,og-19-2005,approves,,2023-02-06,2023-02-06,Aprobata prin; Aprobată; Aprobă,56084,55024,source sheet; target sheet; title,2
+legea-81-2005,og-19-2005,approves,,2023-02-06,2023-02-06,Aprobata prin; Aprobată; Aprobă,56084,55024,bill file; source sheet; target sheet; title,2
 hg-130-2005,og-2-2001,refers_to,,2021-01-24,2018-06-23,Trimitere la,55773,30507,source sheet,2
 hg-141-2005,og-2-2001,refers_to,,2024-10-09,2024-10-09,Trimitere la,55417,30507,source sheet,1
 hg-144-2005,og-2-2001,refers_to,,2021-03-08,2021-03-08,Trimitere la,55472,30507,source sheet,1
@@ -5106,25 +5106,25 @@ ordin-95-2005,og-20-1992,implements,,2024-10-10,2024-10-10,Temei legal pentru,57
 ordin-98-2005,og-20-1992,implements,,2024-10-10,2024-10-10,Temei legal pentru,58192,3551,target sheet,1
 legea-209-2005,og-20-1994,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,6427,source sheet,5
 ordin-1518-2005,og-20-2001,amends,,2023-03-31,2023-02-08,Modificată; Modifică,59758,30904,source sheet; target sheet,2
-legea-210-2005,og-20-2005,approves_with_changes,"- modifica art. I pct. 1 devine pct. 9, pct. 2 devine pct. 10, pct. 3 devine pct. 11, art. I pct. 4 devenind pct. 12, art. I pct. 5 devine pct. 13, pct. 6 devenind pct. 14, pct. 7 devine pct. 15, pct. 8 devine pct. 16, pct. 9 devine pct. 18, art. I pct. 10 devenind pct. 17, pct. 11 devine pct. 19, pct. 12 devine pct. 20, pct. 13 devine pct. 21, art. I pct. 14 devenind pct. 22; introduce pct. 1 - 8 la art. I, pct. 11^1 si 11^2 la art. I, pct. 12^1 la art. I, pct. 13^1 la art. I, pct. 14^1 la art. I, pct. 15^1 - 15^20 la art. I, pct. 20^1 la art. I, pct. 23 la art. I; înlocuieste, în toate actele normative, notiunile de dobânzi si/sau penalitati de întârziere cu notiunea de majorari de întârziere",2022-12-03,2019-10-15,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57677,55025,source sheet; target sheet; title,3
+legea-210-2005,og-20-2005,approves_with_changes,"- modifica art. I pct. 1 devine pct. 9, pct. 2 devine pct. 10, pct. 3 devine pct. 11, art. I pct. 4 devenind pct. 12, art. I pct. 5 devine pct. 13, pct. 6 devenind pct. 14, pct. 7 devine pct. 15, pct. 8 devine pct. 16, pct. 9 devine pct. 18, art. I pct. 10 devenind pct. 17, pct. 11 devine pct. 19, pct. 12 devine pct. 20, pct. 13 devine pct. 21, art. I pct. 14 devenind pct. 22; introduce pct. 1 - 8 la art. I, pct. 11^1 si 11^2 la art. I, pct. 12^1 la art. I, pct. 13^1 la art. I, pct. 14^1 la art. I, pct. 15^1 - 15^20 la art. I, pct. 20^1 la art. I, pct. 23 la art. I; înlocuieste, în toate actele normative, notiunile de dobânzi si/sau penalitati de întârziere cu notiunea de majorari de întârziere",2022-12-03,2019-10-15,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57677,55025,bill file; source sheet; target sheet; title,3
 ordin-418-2005,og-20-2005,refers_to,,2022-05-18,2022-05-18,Trimitere la,56140,55025,source sheet,1
 ordin-467-2005,og-20-2005,refers_to,,2022-08-11,2020-05-31,Trimitere la,56401,55025,source sheet,3
 legea-363-2005,og-21-1992,amends,"- modifică art.7 lit.a) liniuţa a 5-a, art.7 lit.b) liniuţa a 5-a, art.7 lit.c) liniuţa a 4-a, art.20, art.50^2 alin. 2 partea introductivă şi lit.a)",2025-01-20,2019-12-09,Modificată; Modifică,61157,3552,source sheet; target sheet,8
-legea-98-2005,og-21-2005,approves_with_changes,- modifica art. I pct. 2,2022-01-29,2022-01-29,Aprobă cu modificări,56580,55030,source sheet; title,1
+legea-98-2005,og-21-2005,approves_with_changes,- modifica art. I pct. 2,2022-01-29,2022-01-29,Aprobă cu modificări,56580,55030,bill file; source sheet; title,1
 hg-479-2005,og-22-1998,refers_to,,2023-01-31,2021-04-19,Trimitere la,57085,16154,source sheet,2
 hg-758-2005,og-22-1999,implements,,2022-08-16,2021-02-27,Temei legal; Temei legal pentru,58301,20013,source sheet; target sheet,3
 ordin-862-2005,og-22-1999,implements,art.25 alin. (1) lit. c),2022-01-17,2022-01-17,Temei legal pentru,57315,20013,target sheet,1
 ordin-1518-2005,og-22-2001,amends,,2023-03-31,2023-02-07,Modificată; Modifică,59758,30910,source sheet; target sheet,2
 decizie-ccr-529-2005,og-22-2002,rejects_unconstitutionality_objection,,2021-04-19,2021-04-19,Excepţie de neconstituţionalitate respinsă,60298,33499,target sheet,1
 hg-334-2005,og-22-2002,refers_to,,2021-04-19,2021-03-05,Trimitere de la; Trimitere la,56429,33499,source sheet; target sheet,2
-legea-77-2005,og-22-2005,approves_with_changes,"- modifică art. 1, art. 4, art. 5, art. 6 alin. (4), art. 7 si art. 9; introduce lit.h) la art. 3 si alin. (2) la art. 3",2022-06-28,2019-12-05,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56072,55031,source sheet; target sheet; title,4
+legea-77-2005,og-22-2005,approves_with_changes,"- modifică art. 1, art. 4, art. 5, art. 6 alin. (4), art. 7 si art. 9; introduce lit.h) la art. 3 si alin. (2) la art. 3",2022-06-28,2019-12-05,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56072,55031,bill file; source sheet; target sheet; title,4
 oug-121-2005,og-22-2005,amends,,2024-02-29,2019-12-05,Modifică; Modificată,59053,55031,source sheet; target sheet; title,5
 hg-754-2005,og-23-2002,refers_to,,2022-05-28,2022-05-28,Trimitere de la,58142,33510,target sheet,1
-legea-100-2005,og-23-2005,approves_with_changes,- modifica art. 2 alin. (1); introduce art. 3,2023-12-01,2019-02-21,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56528,55026,source sheet; target sheet; title,6
+legea-100-2005,og-23-2005,approves_with_changes,- modifica art. 2 alin. (1); introduce art. 3,2023-12-01,2019-02-21,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56528,55026,bill file; source sheet; target sheet; title,6
 legea-323-2005,og-23-2005,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2023-12-01,2019-03-22,Modificată; Modifică,60224,55026,source sheet; target sheet,4
 oug-63-2005,og-23-2005,amends,- proroga pâna la 31 dec. 2005 prevederile referitoare la cresterile salariale ce urmau a fi acordate personalului din sectorul bugetar începând cu luna octombrie 2005,2023-12-01,2019-03-22,Modificată; Modifică,57608,55026,source sheet; target sheet,4
 og-28-2005,og-24-1992,refers_to,,2025-01-24,2020-04-02,Trimitere la; Trimitere de la,58092,3555,source sheet; target sheet,5
-legea-320-2005,og-24-2005,approves_with_changes,- modifică art. unic,2021-04-23,2021-04-23,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,60218,58056,source sheet; target sheet; title,2
+legea-320-2005,og-24-2005,approves_with_changes,- modifică art. unic,2021-04-23,2021-04-23,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,60218,58056,bill file; source sheet; target sheet; title,2
 ordin-43-2005,og-25-1995,refers_to,,2023-03-21,2020-11-30,Trimitere la; Trimitere de la,56476,8298,source sheet; target sheet,3
 legea-347-2005,og-25-2001,amends,"- aprobă cu modificări O.U.G. nr. 106/2005 şi modifică art. 1 alin. (3), art. 5, art. 5^1 alin. (1) şi art. 10",2024-09-12,2022-01-27,Modificată; Modifică,60593,30852,source sheet; target sheet,4
 oug-106-2005,og-25-2001,amends,"- modifica art.1 alin. (2) si (3), art.3, art.5, art.6 alin. (2), art.8 alin. (1), art.9 alin. (2), art.10, art.12 alin. (2), art.13 alin. (2); introduce art.5^1, alin. (2^1) si (2^2) la art. 8;înlocuieste, în tot cuprinsul ordonantei, denumirea ""Ministerul Lucrarilor Publice, Transporturilor si Locuintei"" cu "" Ministerul Transporturilor,Constructiilor si Turismului"" | dispune republicarea",2024-09-12,2022-01-27,Modificată; Modifică,58077,30852,source sheet; target sheet,5
@@ -5148,21 +5148,21 @@ hg-785-2005,og-26-2000,refers_to,,2020-07-07,2020-04-01,Trimitere de la; Trimite
 hg-926-2005,og-26-2000,implements,art.76 alin. (1),2020-05-30,2018-12-19,Temei legal pentru; Temei legal,58822,23585,source sheet; target sheet,3
 hg-927-2005,og-26-2000,implements,art.39 alin. (1),2020-06-04,2018-12-19,Temei legal pentru; Temei legal,58838,23585,source sheet; target sheet,3
 legea-1-2005,og-26-2000,refers_to,,2025-01-22,2020-04-01,Trimitere la; Trimitere de la,55362,23585,source sheet; target sheet,10
-legea-246-2005,og-26-2000,approves_with_changes,"- modifica art. 1 alin. (1), art. 2 lit. c), art. 4, art. 6, art. 7, art. 8 alin. (3), art. 9 alin. (2), art. 13 alin. (2) - (4), art. 15 alin. (1), art. 17 alin. (3), art. 18 alin. (1), art. 19 alin. (3), art. 23 alin. (1) si (2), art. 27, art. 33, art. 34, art. 37, titlul Cap. VI, art.38 alin. (1), art. 39 alin. (1) si (3), art. 40, art. 41 lit. a), e) si f), art. 42 alin. (4), art. 43, art. 44, art. 45, art. 46 alin. (1) lit. f), art. 47, art. 48, art. 49 alin. (2), art. 51, art. 53, art. 55 alin. (1) lit. c), art. 56 alin. (2), art. 57, art. 61 alin. (4), art. 71 alin. (1), art. 74 alin. (2), titlul Cap. XI, art. 79 lit. b); introduce alin. (2^1) la art. 8, art.13^1, lit. d) la art. 17 alin. (2), art. 27^1, art. 27^2, art. 34^1 - 34^3, art. 38^1, alin. (1^1) la art. 39; abroga art. 41 lit. b)",2025-01-23,2020-06-03,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,58157,23585,source sheet; target sheet,16
+legea-246-2005,og-26-2000,approves_with_changes,"- modifica art. 1 alin. (1), art. 2 lit. c), art. 4, art. 6, art. 7, art. 8 alin. (3), art. 9 alin. (2), art. 13 alin. (2) - (4), art. 15 alin. (1), art. 17 alin. (3), art. 18 alin. (1), art. 19 alin. (3), art. 23 alin. (1) si (2), art. 27, art. 33, art. 34, art. 37, titlul Cap. VI, art.38 alin. (1), art. 39 alin. (1) si (3), art. 40, art. 41 lit. a), e) si f), art. 42 alin. (4), art. 43, art. 44, art. 45, art. 46 alin. (1) lit. f), art. 47, art. 48, art. 49 alin. (2), art. 51, art. 53, art. 55 alin. (1) lit. c), art. 56 alin. (2), art. 57, art. 61 alin. (4), art. 71 alin. (1), art. 74 alin. (2), titlul Cap. XI, art. 79 lit. b); introduce alin. (2^1) la art. 8, art.13^1, lit. d) la art. 17 alin. (2), art. 27^1, art. 27^2, art. 34^1 - 34^3, art. 38^1, alin. (1^1) la art. 39; abroga art. 41 lit. b)",2025-01-23,2020-06-03,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,58157,23585,bill file; source sheet; target sheet,16
 og-37-2005,og-26-2000,refers_to,,2023-11-30,2019-10-17,Trimitere la; Trimitere de la,58131,23585,source sheet; target sheet,5
 ordin-185-2005,og-26-2000,implements,art. 41 lit.f),2023-01-28,2018-12-19,Temei legal pentru; Temei legal,55483,23585,source sheet; target sheet,3
 ordin-293-2005,og-26-2000,implements,"art. 7 alin. (2) lit. d), art. 17 alin. (2) lit. d), art. 40^1, art. 51 alin. (1) si art. 52 alin. (2) si (4)",2020-04-01,2018-12-19,Temei legal pentru,57003,23585,target sheet,2
 ordin-293-2005,og-26-2000,refers_to,,2020-07-07,2020-04-01,Trimitere de la,57003,23585,target sheet,2
-legea-340-2005,og-27-2005,approves_with_changes,- modifică art. I,2024-10-15,2019-10-19,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60635,58058,source sheet; target sheet; title,4
+legea-340-2005,og-27-2005,approves_with_changes,- modifică art. I,2024-10-15,2019-10-19,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60635,58058,bill file; source sheet; target sheet; title,4
 oug-26-2005,og-28-1995,repeals,,2024-04-15,2021-06-12,abrogata prin; Abrogă; Abrogată,56051,8301,note; source sheet; target sheet,12
 legea-209-2005,og-29-1997,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,13255,source sheet,5
-legea-399-2005,og-29-1997,amends,dispune republicarea,2023-03-20,2019-08-25,Modificată; Modifică,61786,13255,source sheet; target sheet; title,7
+legea-399-2005,og-29-1997,amends,dispune republicarea,2023-03-20,2019-08-25,Modificată; Modifică,61786,13255,bill file; source sheet; target sheet; title,7
 og-10-2005,og-29-2002,refers_to,,2024-02-26,2020-02-20,Trimitere la,55001,33520,source sheet,4
 og-41-2005,og-29-2002,refers_to,,2021-10-21,2020-02-20,Trimitere la,58343,33520,source sheet,2
 legea-248-2005,og-29-2003,repeals,- la data de 1 ianuarie 2006,2024-06-16,2019-10-18,"totodata, abrogă; abrogata prin; Abrogată",58362,41484,note; source sheet (totodata); target sheet,18
 decizie-ccr-327-2005,og-29-2004,rejects_unconstitutionality_objection,"art. VII alin. (1), (2), (3) şi (4)",2022-10-05,2022-08-16,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,58753,47582,source sheet; target sheet,2
 oug-26-2005,og-29-2004,amends,abrogă art. X,2023-03-30,2021-04-23,Modifică; Modificată,56051,47582,source sheet; target sheet,8
-legea-370-2005,og-29-2005,approves_with_changes,- modifică anexa; completează art. I,2019-10-17,2019-09-19,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61099,58033,source sheet; target sheet; title,2
+legea-370-2005,og-29-2005,approves_with_changes,- modifică anexa; completează art. I,2019-10-17,2019-09-19,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61099,58033,bill file; source sheet; target sheet; title,2
 legea-239-2005,og-31-2002,amends,abrogă art.51 | dispune republicarea,2024-06-22,2020-08-12,Modificată; Modifică,58213,33525,source sheet; target sheet,4
 oug-114-2005,og-31-2004,refers_to,,2024-03-03,2024-03-03,Trimitere la,58271,47585,source sheet,1
 decizie-ccr-85-2005,og-32-1995,rejects_unconstitutionality_objection,,2019-03-26,2019-03-26,Excepţie de neconstituţionalitate respinsă,56449,8305,target sheet,1
@@ -5171,36 +5171,36 @@ legea-129-2005,og-32-1998,amends,- aproba cu modificari O.U.G. nr. 10/2005 si mo
 legea-198-2005,og-32-1998,amends,- aproba cu modificari si completari O.U.G. nr. 17/2005 si modifica art. 1 si anexa nr.1,2024-04-14,2020-09-23,Modificată; Modifică,57519,16209,source sheet; target sheet,8
 oug-10-2005,og-32-1998,amends,"modifică art. 1, anexa nr. 1 | dispune republicarea",2024-04-14,2020-09-29,Modificată; Modifică,55365,16209,source sheet; target sheet; title,8
 oug-17-2005,og-32-1998,amends,modifică art. 1 si anexa nr. 1,2024-04-14,2021-02-25,Modificată; Modifică,55698,16209,source sheet; target sheet,9
-legea-351-2005,og-33-2005,approves_with_changes,abrogă art.4,2019-12-15,2019-12-15,Aprobă cu modificări,,58001,source sheet; title,1
+legea-351-2005,og-33-2005,approves_with_changes,abrogă art.4,2019-12-15,2019-12-15,Aprobă cu modificări,,58001,bill file; source sheet; title,1
 legea-254-2005,og-34-1996,amends,- aprobă O.U.G. nr. 104/2005,2020-07-14,2019-09-18,Modificată; Modifică,58701,11014,source sheet; target sheet,3
 oug-104-2005,og-34-1996,amends,,2020-07-14,2019-10-14,Modificată; Modifică,58120,11014,source sheet; target sheet; title,3
-legea-375-2005,og-34-2005,approves_with_changes,- modifică art. I,2019-12-10,2019-12-10,Aprobă cu modificări,61101,58222,source sheet; title,1
+legea-375-2005,og-34-2005,approves_with_changes,- modifică art. I,2019-12-10,2019-12-10,Aprobă cu modificări,61101,58222,bill file; source sheet; title,1
 hg-1451-2005,og-35-1995,amends,,2024-09-11,2024-09-11,Modificată,60813,8308,target sheet,1
 decizie-ccr-18-2005,og-35-2002,rejects_unconstitutionality_objection,art. 9 alin. (4) din Regulamentul-cadru,2021-11-28,2021-11-28,Excepţie de neconstituţionalitate respinsă,55858,33542,target sheet,1
 decizie-ccr-369-2005,og-35-2002,rejects_unconstitutionality_objection,- art. 9 alin. (4) din Regulament,2021-11-28,2021-11-28,Excepţie de neconstituţionalitate respinsă,58996,33542,target sheet,1
 decizie-ccr-93-2005,og-35-2002,rejects_unconstitutionality_objection,art. 6 alin. (5) din Regulament,2021-11-28,2021-11-28,Excepţie de neconstituţionalitate respinsă,56163,33542,target sheet,1
 oug-37-2005,og-35-2004,repeals,,2021-04-23,2020-03-30,Abrogată,56648,47588,target sheet,2
-legea-374-2005,og-35-2005,approves_with_changes,- modifică art.I,2021-04-19,2020-07-03,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61041,58299,source sheet; target sheet; title,3
-legea-213-2005,og-37-2003,rejects,,2024-05-19,2018-12-18,Respinsa prin; Respinsă; Respinge,57760,41491,source sheet; target sheet; title,7
+legea-374-2005,og-35-2005,approves_with_changes,- modifică art.I,2021-04-19,2020-07-03,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61041,58299,bill file; source sheet; target sheet; title,3
+legea-213-2005,og-37-2003,rejects,,2024-05-19,2018-12-18,Respinsa prin; Respinsă; Respinge,57760,41491,bill file; source sheet; target sheet; title,7
 legea-246-2005,og-37-2003,repeals,,2025-01-23,2018-12-18,abrogata prin; Abrogă; Abrogată,58157,41491,note; source sheet; target sheet,31
 ordin-188-2005,og-37-2003,implements,art. IV,2024-05-19,2024-05-19,Temei legal pentru,56002,41491,target sheet,1
 ordin-293-2005,og-37-2003,refers_to,,2024-05-19,2020-06-07,Trimitere de la,57003,41491,target sheet,2
 hg-793-2005,og-37-2004,refers_to,,2022-08-19,2020-10-27,Trimitere la,58768,47589,source sheet,2
-legea-338-2005,og-37-2005,approves_with_changes,"- modifică titlul ordonanţei, art.2, titlul capitolului II, art. 4, art. 5, art. 6, titlul capitolului III, art. 7, art. 8, art. 9, art. 10, art. 11, art. 12, art. 13, art. 14, art. 16, art. 17, art. 18; introduce art. 1^1, art. 1^2, art. 1^3, art. 3^1; abrogă art. 1, art. 3, art. 15 | dispune republicarea",2023-11-30,2019-09-16,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,60668,58131,source sheet; target sheet; title,4
+legea-338-2005,og-37-2005,approves_with_changes,"- modifică titlul ordonanţei, art.2, titlul capitolului II, art. 4, art. 5, art. 6, titlul capitolului III, art. 7, art. 8, art. 9, art. 10, art. 11, art. 12, art. 13, art. 14, art. 16, art. 17, art. 18; introduce art. 1^1, art. 1^2, art. 1^3, art. 3^1; abrogă art. 1, art. 3, art. 15 | dispune republicarea",2023-11-30,2019-09-16,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,60668,58131,bill file; source sheet; target sheet; title,4
 ordin-606-2005,og-38-1998,implements,art. 2 alin. (1) lit.a),2023-03-21,2023-03-21,Temei legal,57260,16239,source sheet,1
 legea-28-2005,og-38-2003,amends,aprobă cu completari O.U.G.nr. 118/2004 si modifică anexa nr. 4,2024-05-28,2024-05-28,Modificată,55527,41502,target sheet,1
 oug-120-2005,og-38-2003,amends,- introduce alin. (1^1) la art.21,2024-05-28,2020-04-03,Modifică; Modificată,59052,41502,source sheet; target sheet,3
 oug-57-2005,og-38-2003,amends,- modifica anexa nr.1,2024-05-28,2024-05-28,Modificată,57534,41502,target sheet; title,1
-legea-238-2005,og-39-1996,amends,"- modifica art. 4 alin. (3), art. 15 alin. (2) lit. b) si alin. (3); introduce alin. (2^1) la art. 15 | dispune republicarea",2022-05-19,2020-09-22,Modificată,58262,11019,target sheet; title,3
+legea-238-2005,og-39-1996,amends,"- modifica art. 4 alin. (3), art. 15 alin. (2) lit. b) si alin. (3); introduce alin. (2^1) la art. 15 | dispune republicarea",2022-05-19,2020-09-22,Modificată,58262,11019,bill file; target sheet; title,3
 oug-42-2005,og-39-1996,implements,,2023-02-07,2021-10-22,Temei legal,57082,11019,source sheet,3
-legea-177-2005,og-39-1998,amends,"- introduce alin. (4), (5) si (6) la art. 9 | dispune republicarea",2023-03-21,2019-09-19,Modificată; Modifică,57263,16243,source sheet; target sheet; title,6
+legea-177-2005,og-39-1998,amends,"- introduce alin. (4), (5) si (6) la art. 9 | dispune republicarea",2023-03-21,2019-09-19,Modificată; Modifică,57263,16243,bill file; source sheet; target sheet; title,6
 legea-209-2005,og-40-2000,refers_to,,2024-08-16,2021-01-19,Trimitere la; Trimitere de la,57602,23588,source sheet; target sheet,6
 legea-240-2005,og-40-2000,refers_to,,2023-04-01,2022-06-27,Trimitere la; Trimitere de la,58215,23588,source sheet; target sheet,2
 oug-94-2005,og-40-2000,amends,"- modifica art. 3 lit. b), c), f) si g), art.4 alin. (2), (2_1) si (4), art.5, art.6 partea introductiva si lit.e), art.7, art.9 alin. (1), art.11, art.12 alin. (2), art.13 alin. (1), art.15, art.18; introduce lit. j) la art. 3 | dispune republicarea",2024-06-23,2019-10-20,Modificată,57997,23588,target sheet; title,3
 og-50-2005,og-41-1994,amends,modifică anexa nr.1,2024-11-14,2021-03-01,Modificată,58989,6448,target sheet; title,5
 oug-159-2005,og-41-1994,amends,,2024-11-14,2021-03-01,Modificată,60507,6448,target sheet,5
 oug-197-2005,og-41-1994,amends,,2024-11-14,2021-03-01,Modificată,61414,6448,target sheet; title,5
-legea-201-2005,og-41-1997,rejects,,2025-01-20,2019-08-25,Respinge; Respinsa prin; Respinsă,57694,13267,source sheet; target sheet; title,12
+legea-201-2005,og-41-1997,rejects,,2025-01-20,2019-08-25,Respinge; Respinsa prin; Respinsă,57694,13267,bill file; source sheet; target sheet; title,12
 og-7-2005,og-41-1997,repeals,,2025-01-20,2019-08-25,abrogata prin; Abrogată; Abrogă,55018,13267,note; source sheet; target sheet,20
 legea-381-2005,og-41-1998,amends,dispune republicarea,2025-01-13,2021-04-20,Modificată; Modifică,61685,16252,source sheet; target sheet,6
 hg-333-2005,og-41-2004,refers_to,,2020-05-30,2020-05-30,Trimitere la,56407,47593,source sheet,1
@@ -5228,7 +5228,7 @@ legea-146-2005,og-45-2000,amends,- aproba cu modificari si completari O.G. nr. 1
 og-10-2005,og-45-2000,refers_to,,2024-02-26,2020-02-20,Trimitere la,55001,23597,source sheet,4
 og-10-2005,og-45-2000,repeals,la 30 iunie 2005 abrogă art. 7 alin. (2),2024-02-26,2020-02-20,"totodata, abrogă",55001,23597,source sheet (totodata),4
 oug-123-2005,og-45-2000,amends,abrogă art. 6 alin. (1),2023-01-27,2018-12-13,Modifică,59254,23597,source sheet,4
-legea-307-2005,og-45-2005,approves_with_changes,"- modifică art.2 partea introductivă, art.15 alin.(1) lit.e) şi alin.(2), art.16, art.17, art.18 alin.(2), art.19; introduce lit.p^1) la art.3 alin.(1), alin.(3) la art.12",2022-05-21,2020-10-24,Aprobata cu modificari prin; Aprobată cu modificări,59936,58807,target sheet; title,2
+legea-307-2005,og-45-2005,approves_with_changes,"- modifică art.2 partea introductivă, art.15 alin.(1) lit.e) şi alin.(2), art.16, art.17, art.18 alin.(2), art.19; introduce lit.p^1) la art.3 alin.(1), alin.(3) la art.12",2022-05-21,2020-10-24,Aprobata cu modificari prin; Aprobată cu modificări,59936,58807,bill file; target sheet; title,2
 legea-21-2005,og-46-2004,amends,aprobă O.G. nr. 1/2005,2019-03-26,2019-02-21,Modificată; Modifică,55489,50543,source sheet; target sheet,2
 og-1-2005,og-46-2004,amends,proroga termenul prevazut la art. II alin. (1) pâna la 30 iunie 2005,2019-02-21,2019-02-21,Modificată; Modifică,54834,50543,source sheet; target sheet; title,2
 oug-109-2005,og-46-2004,repeals,odată cu O.G. nr.44/1997,2024-05-24,2019-02-16,"abrogata prin; totodata, abrogă; Abrogată",58140,50543,note; source sheet (totodata); target sheet,16
@@ -5242,7 +5242,7 @@ decizie-ccr-497-2005,og-5-2001,rejects_unconstitutionality_objection,,2020-10-21
 decizie-ccr-580-2005,og-5-2001,rejects_unconstitutionality_objection,"art. 1 alin. (1), ale art. 4 alin. (2) şi (4) şi ale art. 8 alin. (2) şi (5)",2020-10-21,2020-10-21,Excepţie de neconstituţionalitate respinsă,60824,30610,target sheet,1
 decizie-ccr-638-2005,og-5-2001,rejects_unconstitutionality_objection,art. 6 alin. (4),2020-10-21,2020-10-21,Excepţie de neconstituţionalitate respinsă,61416,30610,target sheet,1
 decizie-ccr-693-2005,og-5-2001,rejects_unconstitutionality_objection,art. 1 ∫i ale art. 6 alin. (2),2020-10-21,2020-10-21,Excepţie de neconstituţionalitate respinsă,62391,30610,target sheet,1
-legea-101-2005,og-5-2005,approves_with_changes,- modifica titlul ordonantei si art. I,2022-10-02,2021-04-17,Aprobata cu modificari prin; Aprobată cu modificări,56530,54962,target sheet; title,2
+legea-101-2005,og-5-2005,approves_with_changes,- modifica titlul ordonantei si art. I,2022-10-02,2021-04-17,Aprobata cu modificari prin; Aprobată cu modificări,56530,54962,bill file; target sheet; title,2
 ordin-467-2005,og-5-2005,refers_to,,2022-08-11,2020-05-31,Trimitere la,56401,54962,source sheet,3
 ordin-467-2005,og-51-1997,refers_to,,2022-08-11,2020-05-31,Trimitere la; Trimitere de la,56401,13277,source sheet; target sheet,4
 og-10-2005,og-51-1998,refers_to,,2024-02-26,2020-02-20,Trimitere la,55001,16811,source sheet,4
@@ -5289,7 +5289,7 @@ hg-801-2005,og-58-1998,implements,art. 10,2024-07-21,2024-07-21,Temei legal pent
 legea-344-2005,og-59-2002,repeals,,2019-09-20,2019-09-20,"totodata, abrogă",60623,39128,source sheet (totodata),1
 oug-162-2005,og-59-2004,amends,modifică art.7 alin.(1).,2022-05-18,2020-10-21,Modificată,60508,51289,target sheet,2
 oug-27-2005,og-59-2004,amends,modifică art. 7,2022-05-18,2020-10-21,Modificată,56153,51289,target sheet; title,2
-legea-35-2005,og-6-2005,approves_with_changes,abrogă art. II,2022-11-30,2019-10-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55743,55004,source sheet; target sheet; title,7
+legea-35-2005,og-6-2005,approves_with_changes,abrogă art. II,2022-11-30,2019-10-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55743,55004,bill file; source sheet; target sheet; title,7
 ordin-324-2005,og-60-1997,refers_to,,2024-10-15,2024-10-15,Trimitere de la,58954,13286,target sheet,1
 ordin-401-2005,og-60-1997,implements,art.16 alin.(1) lit.b),2023-05-30,2023-05-30,Temei legal pentru,60053,13286,target sheet,1
 hg-60-2005,og-61-2000,refers_to,,2022-05-16,2021-03-03,Trimitere la,55039,23627,source sheet,3
@@ -5301,7 +5301,7 @@ ordin-128-2005,og-64-2001,refers_to,,2022-05-19,2022-01-23,Trimitere de la; Trim
 ordin-418-2005,og-64-2001,implements,art. 4,2022-05-18,2022-01-28,Temei legal pentru; Temei legal,56140,31075,source sheet; target sheet,2
 ordin-418-2005,og-64-2001,refers_to,,2022-05-18,2022-01-23,Trimitere de la; Trimitere la,56140,31075,source sheet; target sheet,2
 oug-136-2005,og-64-2003,amends,,2020-09-21,2020-09-21,Modificată,59661,45054,target sheet,1
-legea-182-2005,og-64-2004,approves_with_changes,- modifica art. I; abroga art. II,2021-09-28,2019-10-18,Aprobă cu modificări,57295,51500,source sheet; title,2
+legea-182-2005,og-64-2004,approves_with_changes,- modifica art. I; abroga art. II,2021-09-28,2019-10-18,Aprobă cu modificări,57295,51500,bill file; source sheet; title,2
 ordin-3103-2005,og-65-1994,refers_to,,2022-01-28,2022-01-22,Trimitere la; Trimitere de la,55401,6472,source sheet; target sheet,2
 legea-209-2005,og-65-1997,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,13291,source sheet,5
 legea-248-2005,og-65-1997,repeals,- la data de 1 ianuarie 2006,2025-01-24,2019-08-19,abrogata prin; Abrogă; Abrogată,58362,13291,note; source sheet; target sheet,59
@@ -5347,7 +5347,7 @@ hg-304-2005,og-8-2000,amends,,2020-06-04,2020-06-04,Modificată,56375,23527,targ
 hg-980-2005,og-8-2003,refers_to,,2022-01-24,2022-01-24,Trimitere la,59011,41493,source sheet,1
 hg-208-2005,og-8-2005,implements,art. 2,2024-05-26,2020-04-01,Temei legal,55908,55019,source sheet,3
 hg-793-2005,og-8-2005,refers_to,,2022-08-19,2020-10-27,Trimitere la,58768,55019,source sheet,2
-legea-154-2005,og-8-2005,approves_with_changes,"- modifica art. 3 pct. 1, art. 4, art. 5 pct. 4, art. 6 pct. 1 si 3",2021-11-29,2020-04-04,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,57005,55019,source sheet; target sheet; title,3
+legea-154-2005,og-8-2005,approves_with_changes,"- modifica art. 3 pct. 1, art. 4, art. 5 pct. 4, art. 6 pct. 1 si 3",2021-11-29,2020-04-04,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,57005,55019,bill file; source sheet; target sheet; title,3
 legea-209-2005,og-80-2000,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,25605,source sheet,5
 legea-375-2005,og-80-2000,amends,"- modifică art. 1 alin. (4), (5) şi (7), art. 1^2 partea introductivă, pct. 1, pct. 3 şi pct. 5, art. 2 alin. (5), art. 3 alin. (3), art. 6^2 alin. (1) lit. g) şi l); introduce pct. 7 şi pct. 8 la art. 1^2",2022-05-19,2019-12-10,Modificată; Modifică,61101,25605,source sheet; target sheet,3
 og-34-2005,og-80-2000,amends,dispune republicarea,2022-05-19,2022-01-26,Modificată,58222,25605,target sheet,2
@@ -5428,7 +5428,7 @@ decizie-xi-2005,og-9-2000,refers_to,"- art. 1, art. 2, art. 3 alin. 1 şi 2",202
 hg-498-2005,og-9-2005,implements,,2021-02-28,2021-02-28,Temei legal,57135,55006,source sheet,1
 hg-86-2005,og-9-2005,implements,art. 14 alin. (4) si (5),2024-06-12,2021-01-21,Temei legal,55151,55006,source sheet,3
 hg-86-2005,og-9-2005,refers_to,,2024-06-12,2021-01-21,Trimitere la,55151,55006,source sheet,3
-legea-112-2005,og-9-2005,approves_with_changes,"- modifica art. 14 alin. (2) lit.e), art. 16 alin. (2), art. 20 alin. (1), anexele nr. I si nr. IV/2; completeaza anexa nr. VIII/2",2023-02-09,2021-02-25,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56515,55006,source sheet; target sheet; title,3
+legea-112-2005,og-9-2005,approves_with_changes,"- modifica art. 14 alin. (2) lit.e), art. 16 alin. (2), art. 20 alin. (1), anexele nr. I si nr. IV/2; completeaza anexa nr. VIII/2",2023-02-09,2021-02-25,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56515,55006,bill file; source sheet; target sheet; title,3
 legea-323-2005,og-9-2005,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2023-02-09,2022-06-26,Modificată; Modifică,60224,55006,source sheet; target sheet,3
 ordin-2055-2005,og-9-2005,implements,pct. 1 din anexa nr. IV/2,2024-04-19,2024-04-19,Temei legal,55787,55006,source sheet,1
 ordin-2055-2005,og-9-2005,refers_to,,2024-04-19,2024-04-19,Trimitere la,55787,55006,source sheet,1
@@ -5498,7 +5498,7 @@ hg-333-2005,og-96-1998,implements,art. 22 alin. (3),2020-05-30,2020-05-30,Temei 
 hg-564-2005,og-96-1998,refers_to,,2023-01-30,2023-01-30,Trimitere la,57586,16958,source sheet,1
 hg-725-2005,og-96-1998,refers_to,,2021-03-05,2021-03-05,Trimitere la,58088,16958,source sheet,1
 hg-950-2005,og-96-1998,implements,,2021-03-07,2021-03-07,Temei legal,58939,16958,source sheet,1
-legea-183-2005,og-96-1998,amends,- modifica art. 32 alin. (1),2024-05-26,2020-09-26,Modificată; Modifică,57444,16958,source sheet; target sheet; title,7
+legea-183-2005,og-96-1998,amends,- modifica art. 32 alin. (1),2024-05-26,2020-09-26,Modificată; Modifică,57444,16958,bill file; source sheet; target sheet; title,7
 oug-139-2005,og-96-1998,amends,abrogă art. 8 alin. (1) lit. a) teza a treia şi a patra,2024-06-21,2020-09-26,Modificată; Modifică,59793,16958,source sheet; target sheet,8
 oug-177-2005,og-96-1998,amends,- modifică art. 10 alin. (6),2024-05-26,2020-09-26,Modificată,61258,16958,target sheet; title,5
 oug-83-2005,og-96-1998,amends,- modifica alin. (6) al art. 10,2024-05-26,2020-09-26,Modificată,57953,16958,target sheet,5
@@ -5925,9 +5925,9 @@ ordin-1752-2005,ordin-990-2002,repeals,odată cu O. nr.94/2001,2023-02-08,2020-0
 legea-154-2005,oug-10-2004,amends,- aproba cu modificari O.G. nr. 8/2005 si modifica art. 4 si art. 35 alin. (1),2024-05-30,2020-04-04,Modificată; Modifică,57005,48414,source sheet; target sheet,3
 legea-76-2005,oug-10-2004,amends,- aprobă cu modificări si completari O.U.G.nr. 92/2004,2024-05-30,2018-11-14,Modifică; Modificată,56238,48414,source sheet; target sheet,6
 og-8-2005,oug-10-2004,amends,"modifică art. 4, art. 25 alin. (2), art. 35 alin. (1)",2024-05-30,2020-04-04,Modifică; Modificată,55019,48414,source sheet; target sheet,4
-legea-129-2005,oug-10-2005,approves_with_changes,"- modifica art. I pct. 1, pct. 2 si anexa",2023-04-01,2020-09-29,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56845,55365,source sheet; target sheet; title,6
-legea-280-2005,oug-100-2005,approves_with_changes,"- modifică art.1 alin. (2), art.6 alin.(1) şi (5), art.9 partea introductivă a alin.(1) şi alin. (5), art.15, titlul capitolului IX, art.21.",2021-12-07,2020-08-04,Aprobata cu modificari prin; Aprobată cu modificări,59579,58070,target sheet; title,3
-legea-314-2005,oug-101-2005,approves,,2023-02-03,2023-02-03,Aprobata prin; Aprobată,60203,58067,target sheet; title,1
+legea-129-2005,oug-10-2005,approves_with_changes,"- modifica art. I pct. 1, pct. 2 si anexa",2023-04-01,2020-09-29,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56845,55365,bill file; source sheet; target sheet; title,6
+legea-280-2005,oug-100-2005,approves_with_changes,"- modifică art.1 alin. (2), art.6 alin.(1) şi (5), art.9 partea introductivă a alin.(1) şi alin. (5), art.15, titlul capitolului IX, art.21.",2021-12-07,2020-08-04,Aprobata cu modificari prin; Aprobată cu modificări,59579,58070,bill file; target sheet; title,3
+legea-314-2005,oug-101-2005,approves,,2023-02-03,2023-02-03,Aprobata prin; Aprobată,60203,58067,bill file; target sheet; title,1
 decizie-ccr-173-2005,oug-102-1999,rejects_unconstitutionality_objection,"art. 1, art. 2 alin. (1) şi ale art. 19 alin. (1) lit. a)",2021-10-28,2021-10-28,Excepţie de neconstituţionalitate respinsă,56972,21664,target sheet,1
 hg-1764-2005,oug-102-1999,amends,- indexează cuantumul alocaţiilor prevăzute la art. 19 alin. (1) li. a) şi b),2025-01-17,2021-04-18,Modificată; Modifică,61440,21664,source sheet; target sheet,5
 hg-778-2005,oug-102-1999,implements,art. 19 alin. (1) lit. a),2024-02-26,2021-10-23,Temei legal pentru; Temei legal,58499,21664,source sheet; target sheet,2
@@ -5936,11 +5936,11 @@ og-6-2005,oug-102-1999,amends,art. 54 alin. (3),2025-01-17,2019-10-20,Modificat�
 ordin-121-2005,oug-102-1999,refers_to,,2022-01-24,2021-03-03,Trimitere la; Trimitere de la,58338,21664,source sheet; target sheet,3
 ordin-216-2005,oug-102-1999,implements,art. 19 alin. (1) lit. g),2021-10-23,2020-07-03,Temei legal; Temei legal pentru,57593,21664,source sheet; target sheet,2
 ordin-216-2005,oug-102-1999,refers_to,,2021-10-23,2020-07-03,Trimitere la; Trimitere de la,57593,21664,source sheet; target sheet,2
-legea-24-2005,oug-102-2004,approves_with_changes,modifică art.unic pct.3,2022-01-28,2022-01-25,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55495,53373,source sheet; target sheet; title,2
-legea-260-2005,oug-102-2005,approves_with_changes,"- modifică art. 6 alin. (2), art. 13 alin. (1) lit. c), art. 23 alin. (1) lit. c), art. 29 alin. (1), titlul cap. IV; introduce alin. (3) la art. 17, alin. (6) la art. 19",2020-11-23,2018-12-12,Aprobata cu modificari prin; Aprobată cu modificări,59593,58085,target sheet; title,5
-legea-359-2005,oug-103-2005,approves_with_changes,"- modifică şi completează art. I, art. IV",2022-05-20,2022-05-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61094,58086,source sheet; target sheet; title,2
-legea-22-2005,oug-104-2004,approves,,2023-01-31,2022-10-01,Aprobata prin; Aprobată; Aprobă,55491,53448,source sheet; target sheet; title,2
-legea-254-2005,oug-104-2005,approves,,2019-10-14,2019-09-18,Aprobata prin; Aprobată; Aprobă,58701,58120,source sheet; target sheet; title,2
+legea-24-2005,oug-102-2004,approves_with_changes,modifică art.unic pct.3,2022-01-28,2022-01-25,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55495,53373,bill file; source sheet; target sheet; title,2
+legea-260-2005,oug-102-2005,approves_with_changes,"- modifică art. 6 alin. (2), art. 13 alin. (1) lit. c), art. 23 alin. (1) lit. c), art. 29 alin. (1), titlul cap. IV; introduce alin. (3) la art. 17, alin. (6) la art. 19",2020-11-23,2018-12-12,Aprobata cu modificari prin; Aprobată cu modificări,59593,58085,bill file; target sheet; title,5
+legea-359-2005,oug-103-2005,approves_with_changes,"- modifică şi completează art. I, art. IV",2022-05-20,2022-05-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61094,58086,bill file; source sheet; target sheet; title,2
+legea-22-2005,oug-104-2004,approves,,2023-01-31,2022-10-01,Aprobata prin; Aprobată; Aprobă,55491,53448,bill file; source sheet; target sheet; title,2
+legea-254-2005,oug-104-2005,approves,,2019-10-14,2019-09-18,Aprobata prin; Aprobată; Aprobă,58701,58120,bill file; source sheet; target sheet; title,2
 decizie-ccr-220-2005,oug-105-2001,rejects_unconstitutionality_objection,art. 70 alin. (1),2024-06-19,2024-06-19,Excepţie de neconstituţionalitate respinsă,57228,30075,target sheet,1
 decizie-ccr-347-2005,oug-105-2001,rejects_unconstitutionality_objection,,2024-06-19,2024-06-19,Excepţie de neconstituţionalitate respinsă,58925,30075,target sheet,1
 hg-130-2005,oug-105-2001,refers_to,,2021-01-24,2018-06-23,Trimitere la,55773,30075,source sheet,2
@@ -5954,10 +5954,10 @@ ordin-511-2005,oug-105-2001,implements,art. 10,2024-06-19,2024-06-19,Temei legal
 hg-1661-2005,oug-105-2002,amends,,2023-06-01,2023-06-01,Modificată,61447,39380,target sheet,1
 hg-1763-2005,oug-105-2003,amends,"- indexează cuantumul alocaţiilor prevăzute la art. 2, 3, 7 şi 8",2023-02-03,2020-06-05,Modificată,61439,45839,target sheet,4
 hg-1859-2005,oug-105-2003,refers_to,,2024-04-23,2024-04-23,Trimitere la,61991,45839,source sheet,1
-legea-34-2005,oug-105-2004,approves,,2023-02-02,2022-10-01,Aprobata prin; Aprobată; Aprobă,55533,53449,source sheet; target sheet; title,3
+legea-34-2005,oug-105-2004,approves,,2023-02-02,2022-10-01,Aprobata prin; Aprobată; Aprobă,55533,53449,bill file; source sheet; target sheet; title,3
 legea-323-2005,oug-106-2004,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2022-06-29,2022-06-29,Modifică,60224,53477,source sheet,1
 oug-63-2005,oug-106-2004,amends,- proroga pâna la 31 dec. 2005 prevederile referitoare la cresterile salariale ce urmau a fi acordate personalului din sectorul bugetar începând cu luna octombrie 2005,2022-07-01,2022-07-01,Modifică,57608,53477,source sheet,1
-legea-347-2005,oug-106-2005,approves_with_changes,- modifică art. I,2022-09-27,2022-05-22,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,60593,58077,source sheet; target sheet; title,3
+legea-347-2005,oug-106-2005,approves_with_changes,- modifică art. I,2022-09-27,2022-05-22,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,60593,58077,bill file; source sheet; target sheet; title,3
 oug-73-2005,oug-107-2002,amends,"- modifica art. 1 alin. (1)-(4), art.2 alin. (1) - (3), art.3, art.4, art.5, art.7, art.8, art.9, art.10; introduce alin. (4^1) la art.1, art.3^1 ; abroga art.11, 12 si 13; înlocuieste anexele nr. 2 - 8 | dispune republicarea",2024-06-15,2020-05-31,Modificată; Modifică,57846,39385,source sheet; target sheet; title,6
 hg-64-2005,oug-108-2001,implements,"art. 7 alin. (1) si (3), art. 8 alin. (1)",2021-10-18,2021-10-18,Temei legal pentru,55032,30077,target sheet,1
 hg-64-2005,oug-108-2001,refers_to,,2021-10-18,2021-10-18,Trimitere de la,55032,30077,target sheet,1
@@ -5966,7 +5966,7 @@ hg-785-2005,oug-108-2001,implements,"art. 5 alin. (1) lit. B, art. 7 si art. 9",
 ordin-174-2005,oug-108-2001,refers_to,,2021-10-18,2021-10-18,Trimitere de la,55848,30077,target sheet,1
 ordin-79-2005,oug-108-2001,refers_to,,2021-10-18,2021-10-18,Trimitere de la,55223,30077,target sheet,1
 legea-331-2005,oug-108-2005,approves_with_changes,- modifică art. 2 şi anexa; introduce alin. (3) la art. 1,2022-05-22,2021-01-16,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60226,58136,source sheet; target sheet; title,3
-legea-85-2005,oug-109-2004,approves_with_changes,modifică art.unic,2022-11-29,2020-02-27,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56086,53567,source sheet; target sheet; title,3
+legea-85-2005,oug-109-2004,approves_with_changes,modifică art.unic,2022-11-29,2020-02-27,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56086,53567,bill file; source sheet; target sheet; title,3
 ordin-1358-2005,oug-109-2005,implements,art. 60 lit. a) şi art. 61 alin. (1),2019-03-22,2019-02-19,Temei legal pentru; Temei legal,59000,58140,source sheet; target sheet,2
 ordin-1358-2005,oug-109-2005,refers_to,,2019-03-22,2019-02-22,Trimitere de la; Trimitere la,59000,58140,source sheet; target sheet,2
 hg-111-2005,oug-11-2004,implements,art. 1 alin. (1) lit.g) si alin. (3),2024-04-15,2024-04-15,Temei legal,55452,48457,source sheet,1
@@ -5990,89 +5990,89 @@ decizie-ccr-197-2005,oug-110-2003,rejects_unconstitutionality_objection,,2020-09
 legea-20-2005,oug-110-2004,approves_with_changes,modifică art.unic alin. (1),2019-10-16,2019-10-16,Aprobă cu modificări,,53568,source sheet; title,1
 hg-1117-2005,oug-111-2001,amends,,2022-09-29,2022-08-11,Modificată; Modifică,59521,30975,source sheet; target sheet,2
 legea-48-2005,oug-111-2003,approves_with_changes,modifică art. 2,2021-12-05,2021-06-18,Aprobata cu modificari prin; Aprobată cu modificări,55752,45845,target sheet; title,2
-legea-336-2005,oug-111-2005,approves_with_changes,- modifică art. unic,2022-12-02,2022-12-02,Aprobă cu modificări,60633,58164,source sheet; title,1
+legea-336-2005,oug-111-2005,approves_with_changes,- modifică art. unic,2022-12-02,2022-12-02,Aprobă cu modificări,60633,58164,bill file; source sheet; title,1
 decizie-ccr-220-2005,oug-112-2001,rejects_unconstitutionality_objection,art. 1 alin. (1),2022-12-06,2022-12-06,Excepţie de neconstituţionalitate respinsă,57228,31079,target sheet,1
 decizie-ccr-292-2005,oug-112-2001,rejects_unconstitutionality_objection,,2022-12-06,2022-12-06,Excepţie de neconstituţionalitate respinsă,57792,31079,target sheet,1
 decizie-ccr-631-2005,oug-112-2001,rejects_unconstitutionality_objection,art. 5,2022-12-06,2022-12-06,Excepţie de neconstituţionalitate respinsă,60940,31079,target sheet,1
-legea-99-2005,oug-112-2004,rejects,,2021-12-05,2021-12-05,Respinsa prin; Respinsă,56582,53570,target sheet; title,1
-legea-390-2005,oug-112-2005,approves,,2019-12-08,2019-12-08,Aprobă,,58138,source sheet; title,1
+legea-99-2005,oug-112-2004,rejects,,2021-12-05,2021-12-05,Respinsa prin; Respinsă,56582,53570,bill file; target sheet; title,1
+legea-390-2005,oug-112-2005,approves,,2019-12-08,2019-12-08,Aprobă,,58138,bill file; source sheet; title,1
 legea-127-2005,oug-113-2002,amends,- aproba cu modificari si completari O.U.G. nr. 88/2004 si abroga art. 5,2024-10-10,2019-10-21,Modificată; Modifică,56798,39475,source sheet; target sheet,8
 oug-12-2005,oug-113-2002,amends,modifică art. 12 | dispune republicarea,2023-01-28,2020-01-25,Modificată,55385,39475,target sheet; title,5
-legea-23-2005,oug-113-2004,approves,,2022-09-27,2020-02-24,Aprobata prin; Aprobată; Aprobă,55493,53553,source sheet; target sheet; title,3
-legea-306-2005,oug-113-2005,approves_with_changes,- modifică şi completează art. unic,2023-01-28,2023-01-28,Aprobata cu modificari prin; Aprobată cu modificări,59909,58165,target sheet; title,1
-legea-17-2005,oug-114-2004,approves_with_changes,modifică art.unic,2023-02-09,2019-08-25,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55426,53554,source sheet; target sheet; title,5
+legea-23-2005,oug-113-2004,approves,,2022-09-27,2020-02-24,Aprobata prin; Aprobată; Aprobă,55493,53553,bill file; source sheet; target sheet; title,3
+legea-306-2005,oug-113-2005,approves_with_changes,- modifică şi completează art. unic,2023-01-28,2023-01-28,Aprobata cu modificari prin; Aprobată cu modificări,59909,58165,bill file; target sheet; title,1
+legea-17-2005,oug-114-2004,approves_with_changes,modifică art.unic,2023-02-09,2019-08-25,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55426,53554,bill file; source sheet; target sheet; title,5
 legea-277-2005,oug-114-2005,approves_with_changes,- înlocuieşte anexele nr. 1-5,2024-03-03,2024-03-03,Aprobata cu modificari prin; Aprobată cu modificări,59577,58271,target sheet; title,1
-legea-125-2005,oug-115-2004,approves_with_changes,"- modifica art. 12, art. 13, art. 16, art. 18, art. 23, art. 32 alin. (1), art. 35, art. 40, art. 41, art. 43, art. 44, anexa nr. I; introduce lit. d) la alin. (1) al art. 1, alin. (5) la art. 6, art. 25^1, alin. (3) la art. 32; abroga art. 3",2022-05-26,2019-10-15,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56785,53730,source sheet; target sheet,4
+legea-125-2005,oug-115-2004,approves_with_changes,"- modifica art. 12, art. 13, art. 16, art. 18, art. 23, art. 32 alin. (1), art. 35, art. 40, art. 41, art. 43, art. 44, anexa nr. I; introduce lit. d) la alin. (1) al art. 1, alin. (5) la art. 6, art. 25^1, alin. (3) la art. 32; abroga art. 3",2022-05-26,2019-10-15,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56785,53730,bill file; source sheet; target sheet,4
 legea-323-2005,oug-115-2004,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2022-06-29,2020-08-12,Modificată; Modifică,60224,53730,source sheet; target sheet,3
 ordin-655-2005,oug-115-2004,implements,art.16,2023-02-09,2022-06-29,Temei legal pentru; Temei legal,57478,53730,source sheet; target sheet,2
 ordin-721-2005,oug-115-2004,implements,art. 13,2022-06-29,2022-06-29,Temei legal pentru,58273,53730,target sheet,1
 ordin-721-2005,oug-115-2004,refers_to,,2022-07-01,2022-07-01,Trimitere de la,58273,53730,target sheet,1
 oug-63-2005,oug-115-2004,amends,- proroga pâna la 31 dec. 2005 prevederile referitoare la cresterile salariale ce urmau a fi acordate personalului din sectorul bugetar începând cu luna octombrie 2005,2022-07-01,2020-08-12,Modificată; Modifică,57608,53730,source sheet; target sheet,3
-legea-387-2005,oug-115-2005,approves_with_changes,- modifică şi completează art.I,2020-01-29,2019-09-20,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61371,58350,source sheet; target sheet; title,3
+legea-387-2005,oug-115-2005,approves_with_changes,- modifică şi completează art.I,2020-01-29,2019-09-20,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61371,58350,bill file; source sheet; target sheet; title,3
 hg-761-2005,oug-116-2003,implements,art. 15 alin. (2),2022-12-04,2022-12-04,Temei legal pentru,58269,45850,target sheet,1
 oug-92-2005,oug-116-2003,amends,- modifica art.15,2022-12-08,2021-02-28,Modificată; Modifică,58017,45850,source sheet; target sheet; title,5
-legea-288-2005,oug-116-2005,approves_with_changes,- modifică şi completează art. I,2025-01-22,2021-04-12,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,59728,58170,source sheet; target sheet; title,5
+legea-288-2005,oug-116-2005,approves_with_changes,- modifică şi completează art. I,2025-01-22,2021-04-12,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,59728,58170,bill file; source sheet; target sheet; title,5
 oug-53-2005,oug-117-2003,refers_to,,2022-05-26,2022-05-26,Trimitere la,57423,45868,source sheet,1
-legea-29-2005,oug-117-2004,approves,,2021-04-12,2019-10-13,Aprobă,,53608,source sheet; title,2
-legea-322-2005,oug-117-2005,approves_with_changes,"- modifică titlul, art. 1 alin. (5), art. 7 alin. (5) lit. b), alin. (15), art. 8 alin. (1) şi art. 9",2022-08-07,2022-01-23,Aprobata cu modificari prin; Aprobată cu modificări,60222,58224,target sheet; title,2
-legea-89-2005,oug-118-2003,approves_with_changes,"modifică art. 3 alin. (4), art. 7, art. 8 alin. (2) si art. 13",2025-01-15,2021-04-23,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56185,45894,source sheet; target sheet; title,7
+legea-29-2005,oug-117-2004,approves,,2021-04-12,2019-10-13,Aprobă,,53608,bill file; source sheet; title,2
+legea-322-2005,oug-117-2005,approves_with_changes,"- modifică titlul, art. 1 alin. (5), art. 7 alin. (5) lit. b), alin. (15), art. 8 alin. (1) şi art. 9",2022-08-07,2022-01-23,Aprobata cu modificari prin; Aprobată cu modificări,60222,58224,bill file; target sheet; title,2
+legea-89-2005,oug-118-2003,approves_with_changes,"modifică art. 3 alin. (4), art. 7, art. 8 alin. (2) si art. 13",2025-01-15,2021-04-23,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56185,45894,bill file; source sheet; target sheet; title,7
 ordin-62-2005,oug-118-2003,refers_to,,2024-07-21,2024-06-13,Referită de; Se referă la,60014,45894,source sheet; target sheet,3
 legea-323-2005,oug-118-2004,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2022-06-29,2022-06-29,Modifică,60224,53731,source sheet,1
 og-13-2005,oug-118-2004,refers_to,,2021-02-28,2021-02-28,Trimitere la,55009,53731,source sheet,1
 oug-63-2005,oug-118-2004,amends,- proroga pâna la 31 dec. 2005 prevederile referitoare la cresterile salariale ce urmau a fi acordate personalului din sectorul bugetar începând cu luna octombrie 2005,2022-07-01,2022-07-01,Modifică,57608,53731,source sheet,1
-legea-122-2005,oug-119-2001,approves_with_changes,"- modifica art. 1, art. 2, art. 5, art. 6 alin. (4), art. 8, art. 9, art. 10 alin. (2), art. 11- 18, art. 19 alin. (1) si (2); introduce art. 5^1, art. 10^1, alin. (6) la art. 19; abroga O.U.G.nr. 127/2001, O.G.nr. 66/2002 si O.U.G.nr. 134/2004 | dispune republicarea",2025-01-19,2019-10-15,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56776,31489,source sheet; target sheet; title,10
+legea-122-2005,oug-119-2001,approves_with_changes,"- modifica art. 1, art. 2, art. 5, art. 6 alin. (4), art. 8, art. 9, art. 10 alin. (2), art. 11- 18, art. 19 alin. (1) si (2); introduce art. 5^1, art. 10^1, alin. (6) la art. 19; abroga O.U.G.nr. 127/2001, O.G.nr. 66/2002 si O.U.G.nr. 134/2004 | dispune republicarea",2025-01-19,2019-10-15,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56776,31489,bill file; source sheet; target sheet; title,10
 legea-123-2005,oug-119-2001,amends,- respinge O.G. nr. 66/2002,2024-07-23,2019-10-15,Modificată; Modifică,56770,31489,source sheet; target sheet,7
 legea-124-2005,oug-119-2001,amends,- respinge O.U.G. nr. 127/2001,2024-06-20,2019-10-15,Modificată,56772,31489,target sheet,5
 og-41-2005,oug-119-2001,amends,,2024-06-20,2019-10-15,Modificată; Modifică,58343,31489,source sheet; target sheet,7
 oug-43-2005,oug-119-2001,amends,- introduce alin.(2) la art.21; abroga art.16,2024-06-20,2019-10-15,Modificată; Modifică,57107,31489,source sheet; target sheet; title,6
 legea-248-2005,oug-119-2002,repeals,- la data de 1 ianuarie 2006,2024-04-14,2019-08-19,"totodata, abrogă; abrogata prin; Abrogată",58362,39611,note; source sheet (totodata); target sheet,16
-legea-31-2005,oug-119-2004,approves,,2021-12-07,2021-12-01,Aprobă; Aprobata prin; Aprobată,55573,53795,source sheet; target sheet; title,3
-legea-293-2005,oug-119-2005,approves_with_changes,- modifică art.I,2022-01-24,2021-04-20,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,59868,58360,source sheet; target sheet; title,3
-legea-155-2005,oug-12-1998,amends,- modifica art. 18 alin. (3); introduce alin. (1^1) si (2^1) la art. 18,2025-01-19,2018-12-11,Modificată; Modifică,56940,17214,source sheet; target sheet; title,4
+legea-31-2005,oug-119-2004,approves,,2021-12-07,2021-12-01,Aprobă; Aprobata prin; Aprobată,55573,53795,bill file; source sheet; target sheet; title,3
+legea-293-2005,oug-119-2005,approves_with_changes,- modifică art.I,2022-01-24,2021-04-20,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,59868,58360,bill file; source sheet; target sheet; title,3
+legea-155-2005,oug-12-1998,amends,- modifica art. 18 alin. (3); introduce alin. (1^1) si (2^1) la art. 18,2025-01-19,2018-12-11,Modificată; Modifică,56940,17214,bill file; source sheet; target sheet; title,4
 legea-336-2005,oug-12-1998,amends,- aprobă cu modificări O.U.G. nr. 111/2005 şi modifică art. 5 alin. (1) şi art. 11^1,2025-01-19,2018-12-11,Modificată; Modifică,60633,17214,source sheet; target sheet,4
 oug-111-2005,oug-12-1998,amends,"- modifica art.5 alin. (1), titlul cap. VI, art.37, art.38, art.39; introduce alin. (4) - (8) la art. 5, art.11^1, alin. (8) la art. 18, art. 21^1, alin. (2) la art. 25",2025-01-19,2018-12-11,Modificată,58164,17214,target sheet,3
 legea-245-2005,oug-120-2002,amends,"- modifica art. 2 alin. (1), anexa",2019-01-23,2019-01-23,Modificată,57989,39612,target sheet,1
 mof-81-2005-01-25,oug-120-2002,republished,,2019-01-23,2019-01-23,Republicare,,39612,mof,1
 legea-45-2005,oug-120-2004,approves,,2019-10-16,2019-10-16,Aprobă,,53748,source sheet; title,1
-legea-383-2005,oug-120-2005,approves_with_changes,"- modifică art.1, art.4, art.5",2021-02-27,2020-04-03,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61243,59052,source sheet; target sheet; title,5
-legea-388-2005,oug-121-2005,approves,,2024-02-29,2020-01-28,Aprobata prin; Aprobată; Aprobă,61245,59053,source sheet; target sheet; title,5
-legea-119-2005,oug-122-2004,approves_with_changes,- modifica titlul si art.unic; introduce pct. 2 - 5 la art.unic,2020-09-20,2020-09-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56764,53801,source sheet; target sheet; title,2
+legea-383-2005,oug-120-2005,approves_with_changes,"- modifică art.1, art.4, art.5",2021-02-27,2020-04-03,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61243,59052,bill file; source sheet; target sheet; title,5
+legea-388-2005,oug-121-2005,approves,,2024-02-29,2020-01-28,Aprobata prin; Aprobată; Aprobă,61245,59053,bill file; source sheet; target sheet; title,5
+legea-119-2005,oug-122-2004,approves_with_changes,- modifica titlul si art.unic; introduce pct. 2 - 5 la art.unic,2020-09-20,2020-09-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56764,53801,bill file; source sheet; target sheet; title,2
 legea-76-2005,oug-123-2003,amends,- aprobă cu modificări si completari O.U.G.nr. 92/2004,2024-05-20,2018-11-14,Modifică; Modificată,56238,46974,source sheet; target sheet,7
 og-9-2005,oug-123-2003,refers_to,,2023-02-09,2022-06-26,Trimitere la,55006,46974,source sheet,2
-legea-96-2005,oug-123-2004,approves_with_changes,modifică art. I pct. 4 si art. II,2020-03-31,2019-10-15,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56246,53821,source sheet; target sheet; title,3
+legea-96-2005,oug-123-2004,approves_with_changes,modifică art. I pct. 4 si art. II,2020-03-31,2019-10-15,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56246,53821,bill file; source sheet; target sheet; title,3
 legea-71-2005,oug-124-2004,approves_with_changes,"modifică art. I pct. 1, pct.2 si pct.3, art. II; introduce pct. 2^1 la art. I",2024-11-14,2019-12-05,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56068,53920,source sheet; target sheet; title,9
-legea-60-2005,oug-125-2004,approves_with_changes,"modifică titlul, art. 1, art. 2 alin. (1) si (4), art. 5 si art. 6",2019-12-05,2019-12-05,Aprobă cu modificări,55852,54014,source sheet; title,1
-legea-32-2005,oug-126-2004,approves,,2024-09-18,2020-01-22,Aprobata prin; Aprobată; Aprobă,55579,54015,source sheet; target sheet; title,5
+legea-60-2005,oug-125-2004,approves_with_changes,"modifică titlul, art. 1, art. 2 alin. (1) si (4), art. 5 si art. 6",2019-12-05,2019-12-05,Aprobă cu modificări,55852,54014,bill file; source sheet; title,1
+legea-32-2005,oug-126-2004,approves,,2024-09-18,2020-01-22,Aprobata prin; Aprobată; Aprobă,55579,54015,bill file; source sheet; target sheet; title,5
 legea-122-2005,oug-127-2001,repeals,,2025-01-19,2019-10-15,abrogata prin; Abrogă; Abrogată,56776,31722,note; source sheet; target sheet,13
-legea-124-2005,oug-127-2001,rejects,,2024-05-24,2022-01-22,Respinsa prin; Respinsă,56772,31722,target sheet; title,2
+legea-124-2005,oug-127-2001,rejects,,2024-05-24,2022-01-22,Respinsa prin; Respinsă,56772,31722,bill file; target sheet; title,2
 legea-127-2005,oug-127-2003,amends,- aproba cu modificari si completari O.U.G. nr. 88/2004 si abroga art. 3,2024-10-10,2019-10-21,Modifică; Modificată,56798,47074,source sheet; target sheet,5
-legea-57-2005,oug-129-2004,approves,,2019-12-16,2018-07-22,Aprobă; Aprobata prin; Aprobată,55868,54277,source sheet; target sheet; title,3
-legea-153-2005,oug-13-2005,approves,,2024-03-01,2021-03-09,Aprobă; Aprobata prin; Aprobată,56970,55457,source sheet; target sheet; title,3
+legea-57-2005,oug-129-2004,approves,,2019-12-16,2018-07-22,Aprobă; Aprobata prin; Aprobată,55868,54277,bill file; source sheet; target sheet; title,3
+legea-153-2005,oug-13-2005,approves,,2024-03-01,2021-03-09,Aprobă; Aprobata prin; Aprobată,56970,55457,bill file; source sheet; target sheet; title,3
 legea-377-2005,oug-130-2005,approves,,2024-07-20,2024-07-20,Aprobata prin; Aprobată,61043,59530,target sheet; title,1
 oug-163-2005,oug-131-2005,repeals,,2024-08-05,2018-09-22,abrogata prin; Abrogată,60470,59466,note; target sheet,6
 legea-352-2005,oug-132-2005,rejects,,2024-09-12,2021-01-20,scoasa din evidenta; respinsa prin; Respinsa prin; Respinsă,60670,59531,note; target sheet; title,3
 legea-224-2005,oug-133-2000,amends,,2023-03-31,2020-08-07,Modifică; Modificată,57973,25854,source sheet; target sheet,6
-legea-37-2005,oug-133-2004,approves_with_changes,modifică art. II,2022-05-27,2019-10-22,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55765,54210,source sheet; target sheet; title,3
-legea-396-2005,oug-133-2005,approves_with_changes,,2024-10-05,2019-12-16,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61723,59532,source sheet; target sheet; title,3
+legea-37-2005,oug-133-2004,approves_with_changes,modifică art. II,2022-05-27,2019-10-22,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55765,54210,bill file; source sheet; target sheet; title,3
+legea-396-2005,oug-133-2005,approves_with_changes,,2024-10-05,2019-12-16,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,61723,59532,bill file; source sheet; target sheet; title,3
 legea-122-2005,oug-134-2004,repeals,,2025-01-19,2019-10-15,abrogata prin; Abrogă; Abrogată,56776,54316,note; source sheet; target sheet,12
-legea-196-2005,oug-134-2004,rejects,,2024-06-19,2022-01-22,Respinsa prin; Respinsă,57515,54316,target sheet; title,2
+legea-196-2005,oug-134-2004,rejects,,2024-06-19,2022-01-22,Respinsa prin; Respinsă,57515,54316,bill file; target sheet; title,2
 hg-137-2005,oug-135-2002,amends,,2023-02-03,2020-07-03,Modificată,55531,40015,target sheet,2
-legea-59-2005,oug-135-2004,approves_with_changes,"modifică art. I; introduce art. I^1, art. I^2, art. III",2021-04-23,2020-01-24,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55860,54339,source sheet; target sheet; title,6
-legea-398-2005,oug-136-2005,approves,,2020-08-06,2020-08-06,Aprobă,,59661,source sheet; title,1
-legea-219-2005,oug-138-2000,approves_with_changes,,2024-05-25,2020-08-10,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57851,25931,source sheet; target sheet; title,12
-legea-163-2005,oug-138-2004,approves_with_changes,"- modifica art. I pct. 1 si pct. 2, art. II, art. III; introduce pct. 1^1 - 1^6 la art. I, pct. 6 - 39 la art. I, art. II^1, art. IV - VI",2021-03-05,2020-07-09,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57094,54559,source sheet; target sheet,3
+legea-59-2005,oug-135-2004,approves_with_changes,"modifică art. I; introduce art. I^1, art. I^2, art. III",2021-04-23,2020-01-24,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55860,54339,bill file; source sheet; target sheet; title,6
+legea-398-2005,oug-136-2005,approves,,2020-08-06,2020-08-06,Aprobă,,59661,bill file; source sheet; title,1
+legea-219-2005,oug-138-2000,approves_with_changes,,2024-05-25,2020-08-10,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57851,25931,bill file; source sheet; target sheet; title,12
+legea-163-2005,oug-138-2004,approves_with_changes,"- modifica art. I pct. 1 si pct. 2, art. II, art. III; introduce pct. 1^1 - 1^6 la art. I, pct. 6 - 39 la art. I, art. II^1, art. IV - VI",2021-03-05,2020-07-09,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57094,54559,bill file; source sheet; target sheet,3
 oug-9-2005,oug-138-2004,implements,,2022-05-21,2020-02-20,Temei legal,55370,54559,source sheet,3
 legea-389-2005,oug-139-2002,amends,abrogă prevederile referitoare la Autoritatea Hipică Naţională,2024-10-06,2019-06-24,Modifică; Modificată,61721,39923,source sheet; target sheet,6
-legea-54-2005,oug-139-2004,approves,,2021-01-19,2021-01-19,Aprobata prin; Aprobată; Aprobă,55734,54551,source sheet; target sheet; title,2
-legea-158-2005,oug-14-2005,approves,,2025-01-17,2019-01-21,Aprobata prin; Aprobată; Aprobă,56986,55535,source sheet; target sheet; title,7
+legea-54-2005,oug-139-2004,approves,,2021-01-19,2021-01-19,Aprobata prin; Aprobată; Aprobă,55734,54551,bill file; source sheet; target sheet; title,2
+legea-158-2005,oug-14-2005,approves,,2025-01-17,2019-01-21,Aprobata prin; Aprobată; Aprobă,56986,55535,bill file; source sheet; target sheet; title,7
 ordin-946-2005,oug-14-2005,refers_to,,2024-06-16,2022-01-20,Trimitere la,58309,55535,source sheet,3
-legea-19-2005,oug-141-2004,approves_with_changes,modifică art.unic,2020-12-04,2020-01-23,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55450,54553,source sheet; target sheet; title,3
-legea-397-2005,oug-141-2005,approves,,2022-08-16,2022-08-16,Aprobă,61579,59832,source sheet; title,1
+legea-19-2005,oug-141-2004,approves_with_changes,modifică art.unic,2020-12-04,2020-01-23,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55450,54553,bill file; source sheet; target sheet; title,3
+legea-397-2005,oug-141-2005,approves,,2022-08-16,2022-08-16,Aprobă,61579,59832,bill file; source sheet; title,1
 legea-209-2005,oug-142-2000,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,25908,source sheet,5
 legea-26-2005,oug-142-2000,amends,aprobă O.U.G.nr. 116/2004,2022-08-16,2022-06-29,Modificată,55523,25908,target sheet,2
 legea-359-2005,oug-142-2000,amends,- modifică art. 3 alin. (6),2022-08-16,2022-05-20,Modificată; Modifică,61094,25908,source sheet; target sheet,3
 oug-103-2005,oug-142-2000,amends,,2022-08-16,2022-05-20,Modificată; Modifică,58086,25908,source sheet; target sheet,3
-legea-355-2005,oug-142-2005,approves,,2022-09-28,2021-01-20,Aprobata prin; Aprobată,60674,59794,target sheet; title,2
+legea-355-2005,oug-142-2005,approves,,2022-09-28,2021-01-20,Aprobata prin; Aprobată,60674,59794,bill file; target sheet; title,2
 legea-209-2005,oug-144-2001,refers_to,,2024-08-16,2021-01-19,Trimitere la; Trimitere de la,57602,32085,source sheet; target sheet,7
 legea-248-2005,oug-144-2001,repeals,- la data aderarii la Uniunea Europena,2025-01-24,2019-10-18,abrogata prin; Abrogă; Abrogată,58362,32085,note; source sheet; target sheet,49
 og-28-2005,oug-144-2001,amends,"- modifica art.1 alin. (2), art.2^2 lit. a) si e); introduce lit. d) la art. 1 alin. (1)",2025-01-24,2020-04-02,Modifică; Modificată,58092,32085,source sheet; target sheet,8
@@ -6126,7 +6126,7 @@ oug-178-2005,oug-152-1999,amends,prorogă termenul prevăzut la alin.(1^1) al ar
 hg-52-2005,oug-152-2002,refers_to,,2022-08-16,2022-08-16,Trimitere la,54914,40203,source sheet,1
 legea-206-2005,oug-153-2001,repeals,,2019-01-18,2019-01-18,abrogata prin,57813,32312,note,1
 legea-343-2005,oug-153-2002,amends,,2022-12-04,2021-01-21,Modificată; Modifică,60582,40204,source sheet; target sheet; title,4
-legea-106-2005,oug-155-1999,rejects,,2024-09-19,2022-05-16,Respinsa prin; Respinsă; Respinge,56558,22624,source sheet; target sheet; title,3
+legea-106-2005,oug-155-1999,rejects,,2024-09-19,2022-05-16,Respinsa prin; Respinsă; Respinge,56558,22624,bill file; source sheet; target sheet; title,3
 hg-920-2005,oug-158-1999,implements,art.9,2022-01-16,2021-10-26,Temei legal pentru,58827,22657,target sheet,2
 hg-920-2005,oug-158-1999,refers_to,,2021-10-26,2021-10-26,Trimitere de la,58827,22657,target sheet,1
 ordin-51-2005,oug-158-1999,implements,,2022-01-16,2021-10-26,Temei legal pentru,55088,22657,target sheet,2
@@ -6139,7 +6139,7 @@ decizie-ccr-243-2005,oug-16-2001,rejects_unconstitutionality_objection,art. 13 l
 decizie-ccr-397-2005,oug-16-2001,rejects_unconstitutionality_objection,art. 13 lit. a),2019-04-25,2019-04-25,Excepţie de neconstituţionalitate respinsă,58472,27704,target sheet,1
 decizie-ccr-49-2005,oug-16-2001,rejects_unconstitutionality_objection,art. 5 lit. c),2019-04-25,2019-04-25,Excepţie de neconstituţionalitate respinsă,55373,27704,target sheet,1
 ordin-507-2005,oug-16-2001,refers_to,,2022-11-29,2019-04-26,Trimitere de la,56438,27704,target sheet,2
-legea-151-2005,oug-16-2005,approves_with_changes,"- modifica titlul, art. II partea introductiva",2022-08-14,2020-10-31,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56938,55567,source sheet; target sheet; title,4
+legea-151-2005,oug-16-2005,approves_with_changes,"- modifica titlul, art. II partea introductiva",2022-08-14,2020-10-31,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56938,55567,bill file; source sheet; target sheet; title,4
 legea-11-2005,oug-162-1999,amends,aprobă cu modificări O.U.G.nr. 83/2004 si modifică art. 1,2023-03-31,2019-08-18,Modificată; Modifică,55448,22712,source sheet; target sheet,4
 mof-1192-2005-12-29,oug-164-2005,rectified,,2022-08-16,2022-08-16,Rectificare,,60513,mof,1
 hg-296-2005,oug-17-2005,implements,art. 7 alin. (1),2020-09-23,2020-09-23,Temei legal pentru,56250,55698,target sheet,1
@@ -6151,11 +6151,11 @@ hg-440-2005,oug-17-2005,implements,art. 12,2023-01-31,2020-09-23,Temei legal; Te
 hg-592-2005,oug-17-2005,implements,art. 8 alin. (1),2021-03-08,2020-09-23,Temei legal pentru; Temei legal,57613,55698,source sheet; target sheet,2
 hg-609-2005,oug-17-2005,refers_to,,2021-02-28,2020-09-23,Trimitere de la; Trimitere la,57670,55698,source sheet; target sheet,2
 hg-898-2005,oug-17-2005,implements,art.12,2020-09-23,2020-09-23,Temei legal pentru,58801,55698,target sheet,1
-legea-198-2005,oug-17-2005,approves_with_changes,"- modifica art. 3 alin. (4), art.4, art.7 alin. (2), art.9 alin. (1) si (2), art.13 pct.1 si 2, art.17 pct.2, art.18; introduce art. 21^1",2023-12-11,2020-09-23,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,57519,55698,source sheet; target sheet,7
+legea-198-2005,oug-17-2005,approves_with_changes,"- modifica art. 3 alin. (4), art.4, art.7 alin. (2), art.9 alin. (1) si (2), art.13 pct.1 si 2, art.17 pct.2, art.18; introduce art. 21^1",2023-12-11,2020-09-23,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,57519,55698,bill file; source sheet; target sheet,7
 decizie-ccr-185-2005,oug-170-1999,rejects_unconstitutionality_objection,art. 4 lit. b),2024-09-12,2024-09-12,Excepţie de neconstituţionalitate respinsă,57138,22773,target sheet,1
 oug-109-2005,oug-170-2002,repeals,odată cu O.G. nr.44/1997,2024-05-24,2019-03-19,"abrogata prin; totodata, abrogă; Abrogată",58140,40646,note; source sheet (totodata); target sheet,12
 oug-42-2005,oug-173-2002,repeals,"-odata cu L. nr. 66/1996, la data intrarii în vigoare a Statutului C.E.C. - S.A.",2024-07-16,2021-10-22,abrogata prin; Abrogă; Abrogată,57082,40803,note; source sheet; target sheet,9
-legea-82-2005,oug-174-2001,rejects,,2024-08-04,2019-10-22,Respinge; Respinsa prin; Respinsă,56240,32772,source sheet; target sheet; title,5
+legea-82-2005,oug-174-2001,rejects,,2024-08-04,2019-10-22,Respinge; Respinsa prin; Respinsă,56240,32772,bill file; source sheet; target sheet; title,5
 oug-187-2005,oug-174-2002,amends,"- modifică art. 5 partea introductivă, art. 6 alin. (2) şi (4), art. 8, art. 9; abrogă art. 10 şi 11; înlocuieşte sintagma ""clădiri de locuit multietajate"" cu sintagma ""clădiri de locuit""",2024-09-18,2024-09-18,Modificată,61551,40627,target sheet; title,1
 oug-90-2005,oug-175-1999,amends,- modifica anexa nr.3,2024-07-13,2024-07-13,Modificată,58003,22794,target sheet; title,1
 decizie-ccr-129-2005,oug-177-2002,rejects_unconstitutionality_objection,,2023-12-06,2023-12-06,Excepţie de neconstituţionalitate respinsă,57240,40879,target sheet,1
@@ -6168,13 +6168,13 @@ legea-100-2005,oug-177-2002,amends,- aproba cu modificari si completari O.G.nr. 
 legea-209-2005,oug-177-2002,refers_to,,2024-08-16,2021-01-19,Trimitere la; Trimitere de la,57602,40879,source sheet; target sheet,6
 legea-247-2005,oug-177-2002,amends,"- înlocuieste în cuprinsul ordonantei denumirea de "" procuror consilier"" cu cea de "" consilier""",2024-07-21,2019-03-26,Modifică; Modificată,58107,40879,source sheet; target sheet,14
 og-23-2005,oug-177-2002,amends,majoreaza valoarea de referinta sectoriala prevazuta în anexa nr. 1,2024-07-13,2019-03-22,Modificată; Modifică,55026,40879,source sheet; target sheet,8
-legea-329-2005,oug-179-2002,amends,- completează anexa,2019-10-16,2019-10-15,Modifică; Modificată,60316,40889,source sheet; target sheet; title,2
+legea-329-2005,oug-179-2002,amends,- completează anexa,2019-10-16,2019-10-15,Modifică; Modificată,60316,40889,bill file; source sheet; target sheet; title,2
 oug-81-2005,oug-18-2002,amends,- modifica art. 7 alin. (2),2022-01-22,2022-01-22,Modifică,57939,33949,source sheet,1
 legea-13-2005,oug-18-2004,amends,aprobă O.U.G.nr. 85/2004,2020-02-24,2019-10-22,Modificată; Modifică,55422,48770,source sheet; target sheet,2
 legea-138-2005,oug-18-2005,approves_with_changes,"- modifica art. 1, art. 2, art. 3 alin. (1), art. 4",2023-06-02,2019-12-11,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56831,55720,source sheet; target sheet; title,3
 legea-323-2005,oug-18-2005,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2023-06-02,2022-06-29,Modifică; Modificată,60224,55720,source sheet; target sheet,2
 oug-63-2005,oug-18-2005,amends,- proroga pâna la 31 dec. 2005 prevederile referitoare la cresterile salariale ce urmau a fi acordate personalului din sectorul bugetar începând cu luna octombrie 2005,2023-06-02,2022-07-01,Modifică; Modificată,57608,55720,source sheet; target sheet,2
-legea-108-2005,oug-180-2000,rejects,,2024-09-19,2022-05-16,Respinsa prin; Respinsă; Respinge,56562,26284,source sheet; target sheet; title,4
+legea-108-2005,oug-180-2000,rejects,,2024-09-19,2022-05-16,Respinsa prin; Respinsă; Respinge,56562,26284,bill file; source sheet; target sheet; title,4
 decizie-ccr-101-2005,oug-184-2002,rejects_unconstitutionality_objection,art. VI alin. (4),2022-09-27,2020-09-24,Excepţie de neconstituţionalitate respinsă,55912,40910,target sheet,2
 decizie-ccr-262-2005,oug-184-2002,rejects_unconstitutionality_objection,- art. VI alin. (4),2022-09-27,2020-09-24,Excepţie de neconstituţionalitate respinsă,57391,40910,target sheet,2
 decizie-ccr-284-2005,oug-184-2002,rejects_unconstitutionality_objection,art. VI alin. (3),2022-10-05,2020-09-24,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,58767,40910,source sheet; target sheet,3
@@ -6188,7 +6188,7 @@ legea-209-2005,oug-189-2002,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,
 og-30-2005,oug-189-2002,amends,,2021-02-27,2020-04-10,Modificată; Modifică,58029,41001,source sheet; target sheet,4
 oug-199-2005,oug-19-2004,amends,"- modifică art.1 alin.(1), art.3",2021-11-30,2021-11-30,Modificată,61567,48801,target sheet,1
 oug-42-2005,oug-19-2004,implements,,2023-02-07,2021-10-22,Temei legal,57082,48801,source sheet,3
-legea-261-2005,oug-19-2005,approves_with_changes,- modifică art. 1 alin. (1),2023-03-20,2021-03-07,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,59605,55721,source sheet; target sheet; title,5
+legea-261-2005,oug-19-2005,approves_with_changes,- modifică art. 1 alin. (1),2023-03-20,2021-03-07,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,59605,55721,bill file; source sheet; target sheet; title,5
 ordin-470-2005,oug-190-2000,implements,art. 8 alin. (3),2022-05-20,2022-05-20,Temei legal,59360,26487,source sheet,1
 ordin-470-2005,oug-190-2000,refers_to,,2022-05-20,2022-05-20,Trimitere la,59360,26487,source sheet,1
 hg-440-2005,oug-191-2002,refers_to,,2023-01-31,2020-09-23,Trimitere la,56974,41077,source sheet,4
@@ -6220,16 +6220,16 @@ oug-202-2005,oug-199-2000,amends,"- modifică art. 1 alin. (2), art. 5 alin. (2)
 oug-91-2005,oug-199-2000,refers_to,,2022-08-08,2022-06-30,Trimitere de la; Trimitere la,58068,26525,source sheet; target sheet,2
 hg-575-2005,oug-2-2001,implements,,2022-01-19,2022-01-19,Temei legal pentru,57701,27355,target sheet,1
 ordin-221-2005,oug-2-2001,refers_to,,2019-06-18,2019-06-18,Trimitere de la,57426,27355,target sheet,1
-legea-46-2005,oug-2-2005,approves_with_changes,modifică art. I pct. 3 si pct. 5,2024-02-24,2019-12-08,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55793,55035,source sheet; target sheet; title,4
+legea-46-2005,oug-2-2005,approves_with_changes,modifică art. I pct. 3 si pct. 5,2024-02-24,2019-12-08,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55793,55035,bill file; source sheet; target sheet; title,4
 hg-448-2005,oug-200-2000,refers_to,,2021-10-26,2021-10-26,Trimitere la,57213,26584,source sheet,1
 hg-956-2005,oug-200-2000,refers_to,,2023-02-04,2023-02-04,Trimitere la,59286,26584,source sheet,1
-legea-324-2005,oug-200-2000,amends,"- modifică art. 1, art. 4 lit. f), art. 6 lit. d), art. 7 lit. k) şi m), art. 14 partea introductivă, art. 15 partea introductivă, art. 16 partea introductivă şi lit. b), art. 17 partea introductivă, art. 23 alin. (2), art. 26; introduce art. 19^1, lit. b^1) la alin. (1) al art. 23, alin. (3) şi (4) la art. 23, lit. c^1) la art. 25, art. 37^1; următoarele sintagme se înlocuiesc după cum urmează:a) ""Ministerul Industriei şi Comerţului"" se înlocuieşte cu ""Ministerul Economiei şi Comerţului"" b) ""Ministerul Apelor, Pădurilor şi Protecţiei Mediului"" se înlocuieşte cu ""Ministerul Mediului şi Gospodăririi Apelor"" c) ""Ministerul Muncii şi Protecţiei Sociale"" se înlocuieşte cu ""Ministerul Muncii, Solidarităţii Sociale şi Familiei"" | dispune republicarea",2022-01-20,2019-09-20,Modificată; Modifică,60263,26584,source sheet; target sheet; title,2
+legea-324-2005,oug-200-2000,amends,"- modifică art. 1, art. 4 lit. f), art. 6 lit. d), art. 7 lit. k) şi m), art. 14 partea introductivă, art. 15 partea introductivă, art. 16 partea introductivă şi lit. b), art. 17 partea introductivă, art. 23 alin. (2), art. 26; introduce art. 19^1, lit. b^1) la alin. (1) al art. 23, alin. (3) şi (4) la art. 23, lit. c^1) la art. 25, art. 37^1; următoarele sintagme se înlocuiesc după cum urmează:a) ""Ministerul Industriei şi Comerţului"" se înlocuieşte cu ""Ministerul Economiei şi Comerţului"" b) ""Ministerul Apelor, Pădurilor şi Protecţiei Mediului"" se înlocuieşte cu ""Ministerul Mediului şi Gospodăririi Apelor"" c) ""Ministerul Muncii şi Protecţiei Sociale"" se înlocuieşte cu ""Ministerul Muncii, Solidarităţii Sociale şi Familiei"" | dispune republicarea",2022-01-20,2019-09-20,Modificată; Modifică,60263,26584,bill file; source sheet; target sheet; title,2
 hg-904-2005,oug-21-2004,implements,,2021-03-06,2021-03-06,Temei legal,58740,49023,source sheet,1
-legea-15-2005,oug-21-2004,approves_with_changes,"modifică art. 2 lit.d) si j), art. 4 alin. (2) si (3), art. 12, art. 13 alin. (1), art. 15 alin. (1), art. 40; introduce alin. (2) la art. 45; înlocuieşte, în cuprinsul ordonantei de urgenta, sintagma ''Inspectoratul General'' cu sintagma ''Inspectoratul General pentru Situatii de Urgenta''",2022-11-27,2019-06-26,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55485,49023,source sheet; target sheet; title,4
+legea-15-2005,oug-21-2004,approves_with_changes,"modifică art. 2 lit.d) si j), art. 4 alin. (2) si (3), art. 12, art. 13 alin. (1), art. 15 alin. (1), art. 40; introduce alin. (2) la art. 45; înlocuieşte, în cuprinsul ordonantei de urgenta, sintagma ''Inspectoratul General'' cu sintagma ''Inspectoratul General pentru Situatii de Urgenta''",2022-11-27,2019-06-26,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55485,49023,bill file; source sheet; target sheet; title,4
 ordin-199-2005,oug-21-2004,implements,art. 9,2022-10-01,2022-10-01,Temei legal,55815,49023,source sheet,1
 ordin-632-2005,oug-21-2004,implements,art.15,2023-02-09,2022-08-14,Temei legal,57477,49023,source sheet,2
 hg-793-2005,oug-22-2005,refers_to,,2022-08-19,2020-10-27,Trimitere la,58768,55832,source sheet,2
-legea-200-2005,oug-22-2005,approves_with_changes,- modifica art. unic,2022-05-19,2021-04-12,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57521,55832,source sheet; target sheet; title,3
+legea-200-2005,oug-22-2005,approves_with_changes,- modifica art. unic,2022-05-19,2021-04-12,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57521,55832,bill file; source sheet; target sheet; title,3
 legea-247-2005,oug-226-2000,repeals,,2025-01-14,2019-03-26,abrogata prin; Abrogă; Abrogată,58107,26650,note; source sheet; target sheet,25
 legea-233-2005,oug-23-2000,amends,,2021-02-26,2020-04-10,Modificată,58098,24076,target sheet; title,2
 ordin-4594-2005,oug-23-2004,implements,art. 1 si art. 9,2024-07-15,2024-07-15,Temei legal,56197,49015,source sheet,1
@@ -6247,7 +6247,7 @@ hg-86-2005,oug-24-2000,refers_to,,2024-06-12,2020-11-28,Trimitere la; Trimitere 
 legea-112-2005,oug-24-2000,amends,- aproba cu modificari si completari O.G.nr. 9/2005,2024-04-15,2021-02-25,Modificată; Modifică,56515,24083,source sheet; target sheet,7
 og-9-2005,oug-24-2000,amends,"majoreaza, începând cu oct. 2005, limita minima si limita maxima a salariilor de baza",2024-04-15,2021-02-27,Modificată; Modifică,55006,24083,source sheet; target sheet,8
 legea-163-2005,oug-24-2005,repeals,,2025-01-19,2019-10-15,abrogata prin; Abrogată; Abrogă,57094,55895,note; source sheet; target sheet,27
-legea-164-2005,oug-24-2005,rejects,,2021-03-01,2020-04-04,Respinsa prin; Respinsă,57096,55895,target sheet; title,2
+legea-164-2005,oug-24-2005,rejects,,2021-03-01,2020-04-04,Respinsa prin; Respinsă,57096,55895,bill file; target sheet; title,2
 ordin-463-2005,oug-24-2005,implements,art. V,2020-06-07,2020-06-07,Temei legal pentru,56297,55895,target sheet,1
 oug-30-2005,oug-24-2005,amends,,2021-03-01,2020-04-04,Modificată,56470,55895,target sheet; title,2
 oug-45-2005,oug-24-2005,amends,"- abroga art. I pct. 8, pct. 9 - referitor la modificarea art. 42 lit. g) din L. nr. 571/2003, pct. 12 - 16, pct. 19 - 21",2021-03-01,2019-10-20,Modificată; Modifică,57090,55895,source sheet; target sheet; title,3
@@ -6266,7 +6266,7 @@ ordin-51-2005,oug-25-2002,implements,"art.1,2, art.7 alin.(3) şi (15), art.8",2
 ordin-8-2005,oug-25-2002,implements,"art. 1, art. 2, art. 7 alin. (1), (3) si (15) si art. 8 din Statut",2024-04-23,2020-09-23,Temei legal pentru,55789,35606,target sheet,2
 ordin-9-2005,oug-25-2002,implements,"art. 1, art. 2, art. 7 alin. (3) si (15) si art. 8 din Statut",2024-04-23,2020-09-23,Temei legal pentru,55790,35606,target sheet,2
 oug-191-2005,oug-25-2004,amends,- modifică art. II,2022-01-17,2020-10-29,Modificată; Modifică,61570,49178,source sheet; target sheet,3
-legea-178-2005,oug-25-2005,approves,,2020-03-30,2020-03-30,Aprobata prin; Aprobată,57244,55957,target sheet; title,1
+legea-178-2005,oug-25-2005,approves,,2020-03-30,2020-03-30,Aprobata prin; Aprobată,57244,55957,bill file; target sheet; title,1
 decizie-ccr-367-2005,oug-26-2004,rejects_unconstitutionality_objection,,2021-12-03,2021-12-03,Excepţie de neconstituţionalitate respinsă,58818,49151,target sheet,1
 decizie-ccr-393-2005,oug-26-2004,rejects_unconstitutionality_objection,art. 50^1 alin. (3),2021-12-03,2021-12-03,Excepţie de neconstituţionalitate respinsă,58922,49151,target sheet,1
 decizie-ccr-674-2005,oug-26-2004,rejects_unconstitutionality_objection,art. 48,2021-12-03,2021-12-03,Excepţie de neconstituţionalitate respinsă,62390,49151,target sheet,1
@@ -6274,19 +6274,19 @@ legea-244-2005,oug-26-2004,refers_to,,2021-12-04,2021-10-22,Trimitere de la; Tri
 legea-325-2005,oug-26-2004,amends,- modifică art. 48,2021-12-04,2019-12-12,Modifică; Modificată,60273,49151,source sheet; target sheet,3
 oug-26-2005,oug-26-2004,amends,"abrogă art. 2 lit.b) si d)-f), art. 26, art. 27, art. 31^4, art. 31^5, art. 32-33^1 si art. 37-42",2022-12-08,2021-06-13,Modifică; Modificată,56051,49151,source sheet; target sheet,5
 oug-54-2005,oug-26-2004,amends,- modifică art. 48,2021-12-04,2021-10-22,Modificată; Modifică,57577,49151,source sheet; target sheet; title,2
-legea-244-2005,oug-26-2005,approves_with_changes,"- modifica art.I, art.II, art.III; completeaza art. II",2022-12-08,2021-06-13,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,58009,56051,source sheet; target sheet; title,5
+legea-244-2005,oug-26-2005,approves_with_changes,"- modifica art.I, art.II, art.III; completeaza art. II",2022-12-08,2021-06-13,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,58009,56051,bill file; source sheet; target sheet; title,5
 mof-75-2005-01-21,oug-28-1999,republished,,2024-07-23,2019-10-18,Republicare,,20821,mof,7
 og-53-2005,oug-28-1999,amends,- modifică art. 2 lit. g),2024-07-23,2019-10-18,Modificată,59004,20821,target sheet,7
-legea-187-2005,oug-28-2005,approves_with_changes,- modifica art. I pct. 3 si 4,2019-12-06,2019-09-21,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57409,56267,source sheet; target sheet; title,4
+legea-187-2005,oug-28-2005,approves_with_changes,- modifica art. I pct. 3 si 4,2019-12-06,2019-09-21,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57409,56267,bill file; source sheet; target sheet; title,4
 legea-264-2005,oug-29-2000,amends,- aprobă cu modificări O.U.G. nr. 77/2005 şi modifică art. 1 alin. (2),2023-02-02,2022-05-19,Modificată,59595,24187,target sheet,2
 oug-192-2005,oug-29-2000,repeals,,2024-09-11,2019-10-18,abrogata prin; Abrogată; Abrogă,61412,24187,note; source sheet; target sheet; title,12
 oug-77-2005,oug-29-2000,amends,- modifica art.1,2023-02-02,2022-05-19,Modificată,57994,24187,target sheet; title,2
-legea-232-2005,oug-29-2005,approves_with_changes,"- modifica art. I, II si III; completeaza art. I",2025-01-17,2021-01-22,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,57849,56382,source sheet; target sheet; title,3
+legea-232-2005,oug-29-2005,approves_with_changes,"- modifica art. I, II si III; completeaza art. I",2025-01-17,2021-01-22,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,57849,56382,bill file; source sheet; target sheet; title,3
 hg-157-2005,oug-292-2000,implements,art. 4 alin. (1),2024-02-25,2021-01-25,Temei legal,55561,27281,source sheet,3
 hg-900-2005,oug-30-1997,implements,"art. 1, art. 2, art. 3 alin. (2), art. 4 alin. (2), art. 8 şi art. 10 alin. (3)",2022-08-18,2020-10-21,Temei legal pentru; Temei legal,58859,13325,source sheet; target sheet,3
-legea-107-2005,oug-30-1998,rejects,,2024-07-23,2020-08-15,Respinge; Respinsa prin; Respinsă,56560,18546,source sheet; target sheet; title,7
+legea-107-2005,oug-30-1998,rejects,,2024-07-23,2020-08-15,Respinge; Respinsa prin; Respinsă,56560,18546,bill file; source sheet; target sheet; title,7
 decizie-ccr-67-2005,oug-31-2002,rejects_unconstitutionality_objection,art. 4,2024-06-20,2024-06-20,Excepţie de neconstituţionalitate respinsă,55220,35293,target sheet,1
-legea-192-2005,oug-31-2005,approves,,2022-09-25,2019-09-19,Aprobă; Aprobata prin; Aprobată,57482,56663,source sheet; target sheet; title,4
+legea-192-2005,oug-31-2005,approves,,2022-09-25,2019-09-19,Aprobă; Aprobata prin; Aprobată,57482,56663,bill file; source sheet; target sheet; title,4
 hg-103-2005,oug-32-2001,implements,,2020-11-30,2020-11-30,Temei legal pentru,55343,27954,target sheet,1
 hg-188-2005,oug-32-2001,implements,,2020-11-30,2020-11-30,Temei legal pentru,55700,27954,target sheet,1
 hg-191-2005,oug-32-2001,implements,,2020-11-30,2020-11-30,Temei legal pentru,55725,27954,target sheet,1
@@ -6325,33 +6325,33 @@ hg-440-2005,oug-34-2002,refers_to,,2023-01-31,2020-09-23,Trimitere la,56974,3632
 ordin-249-2005,oug-34-2002,implements,art. 3 alin. (1) lit.e),2021-12-02,2021-12-02,Temei legal,56054,36322,source sheet,1
 ordin-249-2005,oug-34-2002,refers_to,,2021-12-02,2021-12-02,Trimitere la,56054,36322,source sheet,1
 oug-152-2005,oug-34-2002,repeals,,2024-06-24,2020-06-02,abrogata prin; Abrogată; Abrogă,60527,36322,note; source sheet; target sheet,26
-legea-222-2005,oug-35-2005,approves,,2020-01-28,2019-12-14,Aprobă; Aprobata prin; Aprobată,57872,56647,source sheet; target sheet; title,3
+legea-222-2005,oug-35-2005,approves,,2020-01-28,2019-12-14,Aprobă; Aprobata prin; Aprobată,57872,56647,bill file; source sheet; target sheet; title,3
 mof-399-2005-05-11,oug-35-2005,rectified,,2020-01-28,2020-01-28,Rectificare,,56647,mof,1
 oug-112-2005,oug-36-2001,amends,,2023-02-07,2020-06-07,Modificată,58138,27972,target sheet; title,3
-legea-234-2005,oug-36-2005,rejects,,2019-12-15,2019-12-15,Respinge,,56704,source sheet; title,1
+legea-234-2005,oug-36-2005,rejects,,2019-12-15,2019-12-15,Respinge,,56704,bill file; source sheet; title,1
 ordin-3103-2005,oug-37-2004,refers_to,,2022-01-22,2022-01-22,Trimitere la,55401,49711,source sheet,1
 ordin-89-2005,oug-37-2004,implements,,2020-02-20,2020-02-20,Temei legal,55112,49711,source sheet,1
 ordin-89-2005,oug-37-2004,refers_to,,2020-02-20,2020-02-20,Trimitere la,55112,49711,source sheet,1
 ordin-918-2005,oug-37-2004,refers_to,,2020-10-21,2020-10-21,Trimitere la,57682,49711,source sheet,1
-legea-242-2005,oug-37-2005,approves_with_changes,- modifica titlul si art.9,2019-12-08,2019-12-08,Aprobă cu modificări,,56648,source sheet; title,1
+legea-242-2005,oug-37-2005,approves_with_changes,- modifica titlul si art.9,2019-12-08,2019-12-08,Aprobă cu modificări,,56648,bill file; source sheet; title,1
 legea-365-2005,oug-38-2004,amends,- aprobă cu modificări O.U.G. nr. 55/2005 şi modifică coeficienţii de multiplicare,2021-04-19,2019-04-22,Modificată; Modifică,61161,49712,source sheet; target sheet,3
 legea-6-2005,oug-38-2004,amends,aprobă cu modificări O.U.G.nr. 68/2004,2021-04-19,2019-04-22,Modificată; Modifică,55438,49712,source sheet; target sheet,3
 oug-55-2005,oug-38-2004,amends,- înlocuieste coeficientii de multiplicare pentru functiile didactice prevazute în anexele nr. IV si V,2021-04-19,2019-04-22,Modificată,57611,49712,target sheet,2
 legea-327-2005,oug-38-2005,approves_with_changes,- modifică şi completează art. I,2020-11-24,2020-11-24,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,60336,56843,source sheet; target sheet; title,2
-legea-228-2005,oug-39-2005,approves,,2023-12-10,2018-10-23,Aprobata prin; Aprobată; Aprobă,57842,56872,source sheet; target sheet; title,9
+legea-228-2005,oug-39-2005,approves,,2023-12-10,2018-10-23,Aprobata prin; Aprobată; Aprobă,57842,56872,bill file; source sheet; target sheet; title,9
 legea-112-2005,oug-4-2003,amends,- aproba cu modificari si completari O.G.nr. 9/2005,2022-09-28,2021-01-24,Modificată; Modifică,56515,41814,source sheet; target sheet,4
 og-9-2005,oug-4-2003,amends,"modifică anexele 1.A.b), 1.B.b) si 2.b)",2023-02-09,2021-01-24,Modificată; Modifică,55006,41814,source sheet; target sheet,5
-legea-78-2005,oug-4-2005,approves_with_changes,introduce alin. (4) si (5) la art. 4,2023-02-03,2018-04-24,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56074,55108,source sheet; target sheet; title,7
+legea-78-2005,oug-4-2005,approves_with_changes,introduce alin. (4) si (5) la art. 4,2023-02-03,2018-04-24,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56074,55108,bill file; source sheet; target sheet; title,7
 mof-189-2005-03-07,oug-4-2005,rectified,,2023-02-03,2018-05-27,Rectificare,,55108,mof,5
 oug-170-2005,oug-4-2005,amends,"completează art.8 cu alin.(3), (4) şi (5)",2023-02-03,2018-05-27,Modificată,60930,55108,target sheet; title,5
 oug-26-2005,oug-40-2002,repeals,,2024-06-20,2019-10-16,abrogata prin; Abrogată; Abrogă,56051,35680,note; source sheet; target sheet,40
 legea-209-2005,oug-41-1998,refers_to,,2024-08-16,2021-01-19,Trimitere la,57602,18909,source sheet,5
 hg-155-2005,oug-41-2004,refers_to,,2024-08-08,2022-01-18,Trimitere la,55602,49874,source sheet,5
-legea-229-2005,oug-41-2005,approves,,2022-01-22,2022-01-22,Aprobata prin; Aprobată,57844,57012,target sheet; title,1
+legea-229-2005,oug-41-2005,approves,,2022-01-22,2022-01-22,Aprobata prin; Aprobată,57844,57012,bill file; target sheet; title,1
 ordin-40-2005,oug-41-2005,refers_to,,2021-12-05,2021-12-05,Trimitere la,58988,57012,source sheet,1
 og-41-2005,oug-42-2003,refers_to,,2021-10-21,2020-02-20,Trimitere la,58343,43712,source sheet,2
 hg-806-2005,oug-42-2005,refers_to,,2021-12-09,2021-12-09,Trimitere de la,58511,57082,target sheet,1
-legea-285-2005,oug-42-2005,approves,,2023-02-07,2019-09-23,Aprobata prin; Aprobată; Aprobă,59696,57082,source sheet; target sheet; title,5
+legea-285-2005,oug-42-2005,approves,,2023-02-07,2019-09-23,Aprobata prin; Aprobată; Aprobă,59696,57082,bill file; source sheet; target sheet; title,5
 decizie-ccr-133-2005,oug-43-2002,rejects_unconstitutionality_objection,art. 13,2022-01-25,2020-09-27,Excepţie de neconstituţionalitate respinsă,56390,35775,target sheet,2
 decizie-ccr-328-2005,oug-43-2002,rejects_unconstitutionality_objection,art. 28 alin. (5),2022-01-25,2020-09-27,Excepţie de neconstituţionalitate respinsă,58437,35775,target sheet,2
 decizie-ccr-395-2005,oug-43-2002,rejects_unconstitutionality_objection,art. 28 alin. (5),2022-01-25,2020-09-27,Excepţie de neconstituţionalitate respinsă,58882,35775,target sheet,2
@@ -6365,8 +6365,8 @@ legea-247-2005,oug-43-2002,amends,"- modifica art.11 alin. (3); introduce alin. 
 legea-383-2005,oug-43-2002,amends,- aprobă cu modificări O.U.G. nr. 120/2005 şi modifică art.23,2024-07-14,2020-09-27,Modificată; Modifică,61243,35775,source sheet; target sheet,8
 oug-120-2005,oug-43-2002,amends,- modifică art.23,2024-07-14,2020-04-03,Modificată; Modifică,59052,35775,source sheet; target sheet,7
 oug-134-2005,oug-43-2002,amends,"- modifică titlul, art.1 alin.(1) şi alin. (3^1), art.3 alin.(1) lit.e), art.4 alin.(1) şi alin.(4), art.5 alin.(1) şi alin.(5), art.6, art.10 alin.(2), (3), (5), (6), (7) şi (8), art.13 alin.(1), (2), (3) şi (4), art.20 alin.(3), art.27, art.28 alin.(3), (4) şi (8); introduce alin.(4^1) şi (4^2) la art.5, alin.(6^1) la art.10, alin.(1^1) şi (1^2) la art.13; abrogă art.1 alin.(3) şi (4), art.13^1, art.17; în cuprinsul ordonanţei precum şi în orice acte normative care cuprind referiri la Parchetul Naţional Anticorupţie, următoarele denumiri se înlocuiesc astfel:a) ""Parchetul Naţional Anticorupţie"" cu ""Departamentul Naţional Anticorupţie""; b) ""procurorul general"" al Parchetului Naţional Anticorupţie cu ""procurorul şef"" al Departamentului Naţional Anticorupţie; c) ""procurorul general adjunct"" al Parchetului Naţional Anticorupţie cu ""procurorul şef adjunct"" al Departamentului Naţional Anticorupţie; d) ""consilierul procurorului general"" al Parchetului Naţional Anticorupţie cu ""consilierul procurorului şef"" al Departamentului Naţional Anticorupţie. | dispune republicarea",2024-07-14,2020-09-29,Modificată; Modifică,59590,35775,source sheet; target sheet,6
-legea-294-2005,oug-43-2005,approves,,2020-09-19,2019-09-21,Aprobata prin; Aprobată; Aprobă,59894,57107,source sheet; target sheet; title,2
-legea-225-2005,oug-44-2005,approves_with_changes,- modifica titlul si art.unic,2022-08-19,2022-08-19,Aprobata cu modificari prin; Aprobată cu modificări,57840,57108,target sheet; title,1
+legea-294-2005,oug-43-2005,approves,,2020-09-19,2019-09-21,Aprobata prin; Aprobată; Aprobă,59894,57107,bill file; source sheet; target sheet; title,2
+legea-225-2005,oug-44-2005,approves_with_changes,- modifica titlul si art.unic,2022-08-19,2022-08-19,Aprobata cu modificari prin; Aprobată cu modificări,57840,57108,bill file; target sheet; title,1
 oug-66-2005,oug-45-2001,amends,- suspenda aplicarea prevederilor art. 2 alin. (3) pentru anul 2005,2023-02-02,2021-01-20,Modificată; Modifică,57659,28303,source sheet; target sheet,4
 hg-158-2005,oug-45-2003,refers_to,,2022-08-11,2020-02-27,Trimitere la; Trimitere de la,55650,44003,source sheet; target sheet,5
 hg-286-2005,oug-45-2003,implements,,2024-07-20,2020-02-20,Temei legal pentru; Temei legal,56195,44003,source sheet; target sheet,4
@@ -6382,55 +6382,55 @@ ordin-946-2005,oug-45-2003,refers_to,,2024-06-16,2020-02-27,Trimitere la; Trimit
 oug-31-2005,oug-45-2003,refers_to,,2022-08-11,2020-02-27,Trimitere de la; Trimitere la,56663,44003,source sheet; target sheet,3
 oug-44-2005,oug-45-2003,refers_to,,2022-08-19,2020-02-27,Trimitere de la; Trimitere la,57108,44003,source sheet; target sheet,3
 oug-9-2005,oug-45-2003,amends,"modifică art. 28 alin. (1), (2), (3) si (4), art. 29 alin. (3) si (5)",2023-02-05,2020-02-20,Modificată; Modifică,55370,44003,source sheet; target sheet; title,7
-legea-227-2005,oug-45-2005,rejects,,2019-10-20,2019-10-20,Respinsa prin; Respinsă,57977,57090,target sheet; title,1
+legea-227-2005,oug-45-2005,rejects,,2019-10-20,2019-10-20,Respinsa prin; Respinsă,57977,57090,bill file; target sheet; title,1
 hg-326-2005,oug-48-2004,implements,art. 2 alin. (1),2021-03-08,2021-02-27,Temei legal pentru; Temei legal,56542,50220,source sheet; target sheet,2
 hg-690-2005,oug-48-2004,implements,art. 2 alin. (1),2021-02-27,2021-02-27,Temei legal pentru,58110,50220,target sheet,1
 oug-66-2005,oug-48-2004,refers_to,,2023-02-02,2021-01-20,Trimitere la; Trimitere de la,57659,50220,source sheet; target sheet,3
-legea-367-2005,oug-48-2005,approves,,2019-12-16,2019-12-16,Aprobă,,57573,source sheet; title,1
+legea-367-2005,oug-48-2005,approves,,2019-12-16,2019-12-16,Aprobă,,57573,bill file; source sheet; title,1
 decizie-371-2005,oug-49-2005,implements,,2020-02-20,2020-02-20,Temei legal pentru,57565,57363,target sheet,1
 decizie-372-2005,oug-49-2005,implements,,2020-02-20,2020-02-20,Temei legal pentru,57566,57363,target sheet,1
 decizie-373-2005,oug-49-2005,implements,,2020-02-20,2020-02-20,Temei legal pentru,57567,57363,target sheet,1
 decizie-374-2005,oug-49-2005,implements,,2020-02-20,2020-02-20,Temei legal pentru,57568,57363,target sheet,1
 decizie-375-2005,oug-49-2005,implements,,2020-02-20,2020-02-20,Temei legal pentru,57569,57363,target sheet,1
 decizie-376-2005,oug-49-2005,implements,,2020-02-20,2020-02-20,Temei legal pentru,57570,57363,target sheet,1
-legea-411-2005,oug-49-2005,approves_with_changes,,2022-01-19,2021-06-12,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61690,57363,source sheet; target sheet; title,4
+legea-411-2005,oug-49-2005,approves_with_changes,,2022-01-19,2021-06-12,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61690,57363,bill file; source sheet; target sheet; title,4
 hg-776-2005,oug-5-2003,amends,,2021-03-05,2019-10-22,Modificată,58351,41839,target sheet,3
 oug-143-2005,oug-5-2003,amends,"- introduce lit. d) la alin. (1) al art. 1, art. 1^1-1^5, art. 5^1, art. 16^20-16^23, art. 27, anexa nr. 2; înlocuieşte, în cuprinsul art. 7 alin. (1), textul ""cuantumurile prevăzute la art. 5 alin. (1) şi (2)"" cu textul ""cuantumurile prevăzute la art. 5 alin. (1) şi (2) precum şi la art. 5^1 alin. (1) şi (2); înlocuieşte, în cuprinsul art. 9 alin. (1), art. 13 alin. (3), art. 16^1 alin. (1), art. 16^2 alin. (4), art. 16^3 alin. (3) şi art. 16^16alin. (1), sintagma ""art. 5 şi 6"" cu sintagma ""art. 5, 5^1 şi 6"" | dispune republicarea",2021-03-05,2019-10-15,Modificată; Modifică,59773,41839,source sheet; target sheet,5
-legea-186-2005,oug-5-2005,approves,,2024-07-16,2020-02-23,Aprobata prin; Aprobată,57407,55164,target sheet; title,2
-legea-313-2005,oug-50-2005,approves_with_changes,"- modifică art. 3 alin. (2), art. 4, art. 8 alin. (1), art. 10 alin. (3), art. 18, art. 30 alin. (1), art. 31, art. 34 alin. (2), art. 35, art. 37, art. 39, art. 42; introduce alin. (5) la art. 17; abrogă art. 8 alin. (2), art. 9, art. 10 alin. (4), art. 12 alin. (1) lit. a)",2024-07-23,2020-01-25,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60201,57317,source sheet; target sheet; title,5
+legea-186-2005,oug-5-2005,approves,,2024-07-16,2020-02-23,Aprobata prin; Aprobată,57407,55164,bill file; target sheet; title,2
+legea-313-2005,oug-50-2005,approves_with_changes,"- modifică art. 3 alin. (2), art. 4, art. 8 alin. (1), art. 10 alin. (3), art. 18, art. 30 alin. (1), art. 31, art. 34 alin. (2), art. 35, art. 37, art. 39, art. 42; introduce alin. (5) la art. 17; abrogă art. 8 alin. (2), art. 9, art. 10 alin. (4), art. 12 alin. (1) lit. a)",2024-07-23,2020-01-25,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60201,57317,bill file; source sheet; target sheet; title,5
 ordin-4380-2005,oug-51-1998,implements,art. 9 alin. (1) lit. c),2020-07-11,2020-07-11,Temei legal,55155,19206,source sheet,1
 oug-207-2005,oug-51-1998,amends,- modifică art. 85^1 alin. (3); introduce art. 42^1,2025-01-16,2020-08-10,Modificată,61604,19206,target sheet,7
 oug-43-2005,oug-51-1998,amends,- modifica art.86; introduce art.85^1,2025-01-16,2020-08-10,Modificată; Modifică,57107,19206,source sheet; target sheet,8
 oug-64-2005,oug-51-1998,refers_to,,2025-01-16,2020-08-10,Referită de; Se referă la,57648,19206,source sheet; target sheet,8
-legea-274-2005,oug-52-2005,approves,,2020-02-20,2020-02-20,Aprobata prin; Aprobată,59641,57349,target sheet; title,1
+legea-274-2005,oug-52-2005,approves,,2020-02-20,2020-02-20,Aprobata prin; Aprobată,59641,57349,bill file; target sheet; title,1
 oug-105-2005,oug-53-2003,repeals,,2024-10-07,2020-01-21,abrogata prin; Abrogă; Abrogată,58093,44141,note; source sheet; target sheet,16
-legea-311-2005,oug-53-2005,approves_with_changes,- introduce art. 6; abrogă art. 1 alin. (2) şi art. 4,2022-05-26,2022-05-26,Aprobata cu modificari prin; Aprobată cu modificări,60091,57423,target sheet; title,1
+legea-311-2005,oug-53-2005,approves_with_changes,- introduce art. 6; abrogă art. 1 alin. (2) şi art. 4,2022-05-26,2022-05-26,Aprobata cu modificari prin; Aprobată cu modificări,60091,57423,bill file; target sheet; title,1
 hg-435-2005,oug-54-2002,implements,art. 10 alin. (4),2022-05-19,2022-05-19,Temei legal pentru,56874,36342,target sheet,1
 oug-66-2005,oug-54-2002,refers_to,,2023-02-02,2021-01-20,Trimitere la; Trimitere de la,57659,36342,source sheet; target sheet,3
-legea-325-2005,oug-54-2005,approves_with_changes,- modifică art. unic,2021-12-04,2019-12-12,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60273,57577,source sheet; target sheet; title,3
+legea-325-2005,oug-54-2005,approves_with_changes,- modifică art. unic,2021-12-04,2019-12-12,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60273,57577,bill file; source sheet; target sheet; title,3
 decizie-ccr-181-2005,oug-55-2004,rejects_unconstitutionality_objection,,2023-01-29,2023-01-29,Excepţie de neconstituţionalitate respinsă,56694,50420,target sheet,1
 decizie-ccr-216-2005,oug-55-2004,rejects_unconstitutionality_objection,,2023-01-29,2023-01-29,Excepţie de neconstituţionalitate respinsă,56879,50420,target sheet,1
 decizie-ccr-225-2005,oug-55-2004,rejects_unconstitutionality_objection,,2023-01-29,2023-01-29,Excepţie de neconstituţionalitate respinsă,57160,50420,target sheet,1
 decizie-ccr-299-2005,oug-55-2004,rejects_unconstitutionality_objection,,2023-01-29,2023-01-29,Excepţie de neconstituţionalitate respinsă,58026,50420,target sheet,1
 decizie-ccr-311-2005,oug-55-2004,rejects_unconstitutionality_objection,,2023-01-29,2023-01-29,Excepţie de neconstituţionalitate respinsă,58789,50420,target sheet,1
 decizie-ccr-404-2005,oug-55-2004,rejects_unconstitutionality_objection,,2023-01-29,2023-01-29,Excepţie de neconstituţionalitate respinsă,58964,50420,target sheet,1
-legea-365-2005,oug-55-2005,approves_with_changes,- modifică art. unic,2019-12-10,2019-12-10,Aprobă cu modificări,61161,57611,source sheet; title,1
+legea-365-2005,oug-55-2005,approves_with_changes,- modifică art. unic,2019-12-10,2019-12-10,Aprobă cu modificări,61161,57611,bill file; source sheet; title,1
 hg-783-2005,oug-56-2004,implements,art. 22 alin. (2),2024-08-08,2024-08-08,Temei legal,58606,50409,source sheet,1
 hg-783-2005,oug-56-2004,refers_to,,2024-08-08,2024-08-08,Trimitere la,58606,50409,source sheet,1
 legea-156-2005,oug-56-2004,amends,- aproba O.U.G. nr. 6/2005,2020-02-24,2020-01-19,Modifică; Modificată,57007,50409,source sheet; target sheet,3
 ordin-946-2005,oug-56-2004,refers_to,,2024-06-16,2022-01-20,Trimitere la,58309,50409,source sheet,3
 oug-6-2005,oug-56-2004,amends,"modifică art. 1, art. 3, art. 6 alin. (4), art. 10 alin. (1) lit.c), art. 12 alin. (1) si (3), art. 14 alin. (2), art. 21 alin. (2); introduce alin. (1^1) si (1^2) la art. 19; proroga termenul prevazut la art. 22 alin. (2) pâna la 20 aprilie 2005 ; Comisia pentru bursa speciala ''Guvernul României'' îsi reia denumirea din L nr. 157/2004 si îndeplineste atributiile conferite prin aceasta lege si prin normele ei de aplicare | dispune republicarea",2020-02-24,2020-01-18,Modificată; Modifică,55226,50409,source sheet; target sheet; title,2
-legea-382-2005,oug-57-2005,approves,,2019-09-20,2019-09-20,Aprobă,61241,57534,source sheet; title,1
+legea-382-2005,oug-57-2005,approves,,2019-09-20,2019-09-20,Aprobă,61241,57534,bill file; source sheet; title,1
 hg-1860-2005,oug-58-2001,refers_to,,2022-08-09,2022-08-09,Trimitere de la,61828,28724,target sheet,1
-legea-160-2005,oug-58-2002,approves_with_changes,- modifica art. I; abroga art. II,2025-01-21,2020-09-24,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57117,36553,source sheet; target sheet; title,9
+legea-160-2005,oug-58-2002,approves_with_changes,- modifica art. I; abroga art. II,2025-01-21,2020-09-24,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,57117,36553,bill file; source sheet; target sheet; title,9
 decizie-ccr-141-2005,oug-58-2003,rejects_unconstitutionality_objection,art. II alin. 3,2021-06-13,2020-12-03,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,57220,44190,source sheet; target sheet,2
 decizie-ccr-152-2005,oug-58-2003,rejects_unconstitutionality_objection,art. II alin. (1) şi (3),2021-06-13,2020-12-03,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,57168,44190,source sheet; target sheet,2
 decizie-ccr-167-2005,oug-58-2003,rejects_unconstitutionality_objection,,2021-06-13,2020-12-03,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,58750,44190,source sheet; target sheet,2
 hg-564-2005,oug-59-2000,refers_to,,2023-01-30,2023-01-30,Trimitere la,57586,24686,source sheet,1
 legea-219-2005,oug-59-2001,repeals,,2025-01-22,2019-10-18,abrogata prin; Abrogă; Abrogată,57851,28735,note; source sheet; target sheet,28
-legea-69-2005,oug-59-2001,rejects,,2022-12-06,2019-10-18,Respinsa prin; Respinsă; Respinge,57870,28735,source sheet; target sheet; title,6
+legea-69-2005,oug-59-2001,rejects,,2022-12-06,2019-10-18,Respinsa prin; Respinsă; Respinge,57870,28735,bill file; source sheet; target sheet; title,6
 hg-783-2005,oug-6-2005,refers_to,,2024-08-08,2020-02-24,Trimitere de la; Trimitere la,58606,55226,source sheet; target sheet,2
-legea-156-2005,oug-6-2005,approves,,2020-02-24,2020-01-18,Aprobă; Aprobata prin; Aprobată,57007,55226,source sheet; target sheet; title,3
+legea-156-2005,oug-6-2005,approves,,2020-02-24,2020-01-18,Aprobă; Aprobata prin; Aprobată,57007,55226,bill file; source sheet; target sheet; title,3
 mof-191-2005-03-07,oug-6-2005,rectified,,2020-01-18,2020-01-18,Rectificare,,55226,mof,1
 ordin-612-2005,oug-6-2005,implements,art. II alin. (2),2020-02-24,2020-02-24,Temei legal pentru,56643,55226,target sheet,1
 ordin-612-2005,oug-6-2005,refers_to,,2020-02-24,2020-02-24,Trimitere de la,56643,55226,target sheet,1
@@ -6450,7 +6450,7 @@ oug-40-2005,oug-60-2001,amends,"- modifica art. 8 alin. (1) lit. f) a doua liniu
 legea-59-2005,oug-60-2004,amends,"aprobă cu modificări si completari O.U.G.nr 135/2004 si abrogă art. III pct. 2, art. IV, art. V",2022-10-06,2020-01-24,Modificată; Modifică,55860,51769,source sheet; target sheet,6
 oug-42-2005,oug-61-2002,repeals,"-odata cu L. nr. 66/1996, la data intrarii în vigoare a Statutului C.E.C. - S.A.",2024-07-16,2019-02-17,"abrogata prin; totodata, abrogă; Abrogată",57082,36705,note; source sheet (totodata); target sheet,10
 og-10-2005,oug-61-2004,refers_to,,2024-02-26,2020-02-20,Trimitere la,55001,51822,source sheet,4
-legea-283-2005,oug-61-2005,approves_with_changes,- modifică şi completează art. I,2024-06-23,2020-09-29,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,59581,57574,source sheet; target sheet; title,8
+legea-283-2005,oug-61-2005,approves_with_changes,- modifică şi completează art. I,2024-06-23,2020-09-29,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,59581,57574,bill file; source sheet; target sheet; title,8
 legea-275-2005,oug-62-2005,approves,,2023-03-28,2023-03-28,Aprobă,59612,57575,source sheet; title,1
 og-41-2005,oug-63-1999,amends,,2021-10-21,2020-02-20,Modificată; Modifică,58343,21248,source sheet; target sheet,4
 ordin-946-2005,oug-63-1999,refers_to,,2024-06-16,2022-01-20,Trimitere la,58309,21248,source sheet,3
@@ -6476,7 +6476,7 @@ oug-17-2005,oug-64-2003,amends,"abrogă art. 8 alin. (2), art. 15 alin. (4) , ar
 oug-2-2005,oug-64-2003,amends,abrogă art. 5 alin. (5) si (6),2025-01-16,2019-07-20,Modificată; Modifică,55035,44201,source sheet; target sheet,8
 oug-49-2005,oug-64-2003,amends,- abroga art.16,2025-01-16,2019-07-20,Modificată; Modifică,57363,44201,source sheet; target sheet,9
 oug-87-2005,oug-64-2003,amends,- abroga art.8 alin. (4),2025-01-16,2019-07-20,Modificată; Modifică,58016,44201,source sheet; target sheet; title,7
-legea-368-2005,oug-64-2005,approves,,2024-11-14,2024-10-15,Aprobata prin; Aprobată; Aprobă,61054,57648,source sheet; target sheet; title,2
+legea-368-2005,oug-64-2005,approves,,2024-11-14,2024-10-15,Aprobata prin; Aprobată; Aprobă,61054,57648,bill file; source sheet; target sheet; title,2
 ordin-566-2005,oug-65-2001,implements,art. 4 si art. 9 alin. (1) lit.g),2020-12-04,2020-12-04,Temei legal,56180,28858,source sheet,1
 decizie-ccr-361-2005,oug-65-2004,rejects_unconstitutionality_objection,art. II alin. (2),2024-04-16,2024-04-16,Excepţie de neconstituţionalitate respinsă,58830,51965,target sheet,1
 decizie-ccr-471-2005,oug-65-2004,rejects_unconstitutionality_objection,,2024-04-16,2024-04-16,Excepţie de neconstituţionalitate respinsă,60102,51965,target sheet,1
@@ -6486,20 +6486,20 @@ decizie-ccr-509-2005,oug-65-2004,rejects_unconstitutionality_objection,,2024-04-
 decizie-ccr-526-2005,oug-65-2004,rejects_unconstitutionality_objection,,2024-04-16,2024-04-16,Excepţie de neconstituţionalitate respinsă,60108,51965,target sheet,1
 decizie-ccr-546-2005,oug-65-2004,rejects_unconstitutionality_objection,,2024-04-16,2024-04-16,Excepţie de neconstituţionalitate respinsă,60152,51965,target sheet,1
 decizie-ccr-616-2005,oug-65-2004,rejects_unconstitutionality_objection,art. II alin. (2) şi (3),2024-04-16,2024-04-16,Excepţie de neconstituţionalitate respinsă,61975,51965,target sheet,1
-legea-371-2005,oug-65-2005,approves_with_changes,"- modifică şi completează art.I, modifică art. II",2019-09-22,2018-06-25,Aprobă cu modificări,61164,57657,source sheet; title,2
+legea-371-2005,oug-65-2005,approves_with_changes,"- modifică şi completează art.I, modifică art. II",2019-09-22,2018-06-25,Aprobă cu modificări,61164,57657,bill file; source sheet; title,2
 og-9-2005,oug-66-2002,refers_to,,2023-02-09,2022-06-26,Trimitere la,55006,37012,source sheet,2
 hg-1102-2005,oug-66-2005,refers_to,,2021-03-05,2021-03-05,Trimitere la,59432,57659,source sheet,1
 hg-940-2005,oug-66-2005,implements,,2021-03-07,2021-03-07,Temei legal,58943,57659,source sheet,1
 hg-964-2005,oug-66-2005,implements,,2021-02-25,2021-02-25,Temei legal,58992,57659,source sheet,1
 legea-352-2005,oug-66-2005,amends,respinge OUG nr.132/2005,2023-02-02,2021-01-20,Modificată,60670,57659,target sheet,2
-legea-353-2005,oug-66-2005,approves_with_changes,modifică art.29,2023-02-02,2021-01-20,Aprobata cu modificari prin; Aprobată cu modificări,60626,57659,target sheet; title,2
+legea-353-2005,oug-66-2005,approves_with_changes,modifică art.29,2023-02-02,2021-01-20,Aprobata cu modificari prin; Aprobată cu modificări,60626,57659,bill file; target sheet; title,2
 og-33-2005,oug-66-2005,amends,modifică anexa nr.3; introduce lit. d) la art.29 alin. (2),2023-02-02,2021-01-20,Modificată,58001,57659,target sheet,2
 og-53-2005,oug-66-2005,amends,- introduce alin. (4) la art. 29,2023-02-02,2021-01-20,Modificată,59004,57659,target sheet,2
 ordin-140-2005,oug-66-2005,implements,anexa nr. 3/12/22,2020-10-20,2020-10-20,Temei legal,58652,57659,source sheet,1
 ordin-143-2005,oug-66-2005,implements,anexa nr. 3/12/22,2022-08-11,2022-08-11,Temei legal,58776,57659,source sheet,1
 oug-132-2005,oug-66-2005,amends,- introduce alin. (5) şi (6) la art. 29,2024-09-12,2021-01-20,Modificată; Modifică,59531,57659,source sheet; target sheet; title,3
 oug-154-2005,oug-66-2005,amends,- modifică art. 29 alin. (5); introduce lit. e)-k) la alin. (2) al art. 29; modifică şi înlocuieşte anexa nr. 10,2023-02-02,2020-08-04,Modifică; Modificată,60217,57659,source sheet; target sheet,5
-legea-91-2005,oug-67-2004,approves,,2019-10-23,2019-10-23,Aprobă,56217,52060,source sheet; title,1
+legea-91-2005,oug-67-2004,approves,,2019-10-23,2019-10-23,Aprobă,56217,52060,bill file; source sheet; title,1
 legea-354-2005,oug-67-2005,approves,,2021-01-19,2021-01-19,Aprobata prin; Aprobată,60672,57614,target sheet; title,1
 hg-539-2005,oug-68-2003,amends,- modifica în mod corespunzator art. 4; abroga art.1 si anexa nr. 1,2024-08-03,2020-06-06,Modificată; Modifică,57421,44919,source sheet; target sheet,3
 hg-539-2005,oug-68-2003,implements,"art.16 alin. (1), art.61",2022-05-22,2022-05-22,Temei legal,57421,44919,source sheet,1
@@ -6508,18 +6508,18 @@ legea-365-2005,oug-68-2004,amends,- modifică art. art.2 alin. (1),2019-12-10,20
 legea-6-2005,oug-68-2004,approves_with_changes,modifică art. 1,2019-10-20,2019-10-20,Aprobă cu modificări,55438,52165,source sheet; title,1
 oug-18-2005,oug-68-2004,amends,"majoreaza valoarea coeficientului de multiplicare, prevazuta în anexele nr. 1-4;",2023-06-02,2023-06-02,Modifică,55720,52165,source sheet,1
 oug-18-2005,oug-68-2004,refers_to,,2023-06-02,2023-06-02,Trimitere la,55720,52165,source sheet,1
-legea-341-2005,oug-68-2005,approves,,2022-12-02,2022-12-02,Aprobă,60637,57620,source sheet; title,1
-legea-113-2005,oug-69-2004,approves_with_changes,"- modifica art. I pct. 1- 6, pct. 8 - 10, pct. 13, pct. 15, pct. 16, pct. 18, pct. 20, art. II alin. (2); introduce pct. 1^1 la art. I, pct. 3^1 la art. I, pct. 7^1 la art. I, pct. 8^1 la art. I, pct. 22^1 si 22^2 la art. I, art. II^1; abroga art. I pct. 19",2024-03-03,2019-10-19,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56638,52194,source sheet; target sheet; title,9
+legea-341-2005,oug-68-2005,approves,,2022-12-02,2022-12-02,Aprobă,60637,57620,bill file; source sheet; title,1
+legea-113-2005,oug-69-2004,approves_with_changes,"- modifica art. I pct. 1- 6, pct. 8 - 10, pct. 13, pct. 15, pct. 16, pct. 18, pct. 20, art. II alin. (2); introduce pct. 1^1 la art. I, pct. 3^1 la art. I, pct. 7^1 la art. I, pct. 8^1 la art. I, pct. 22^1 si 22^2 la art. I, art. II^1; abroga art. I pct. 19",2024-03-03,2019-10-19,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,56638,52194,bill file; source sheet; target sheet; title,9
 hg-583-2005,oug-7-1997,ends_validity,,2021-01-16,2021-01-16,Încetează valabilitatea,57743,13303,source sheet,1
-legea-162-2005,oug-7-2005,approves,,2021-04-12,2021-04-12,Aprobă,57119,55390,source sheet; title,1
+legea-162-2005,oug-7-2005,approves,,2021-04-12,2021-04-12,Aprobă,57119,55390,bill file; source sheet; title,1
 oug-101-2005,oug-70-2004,amends,"- modifica art. 4; introduce alin. (2) la art.2, art.5, art.6",2023-04-01,2023-02-03,Modificată; Modifică,58067,52214,source sheet; target sheet; title,2
-legea-348-2005,oug-70-2005,approves_with_changes,- modifică titlul şi art. 1; abrogă art. 2,2024-11-14,2024-11-14,Aprobă cu modificări,60595,57621,source sheet; title,1
+legea-348-2005,oug-70-2005,approves_with_changes,- modifică titlul şi art. 1; abrogă art. 2,2024-11-14,2024-11-14,Aprobă cu modificări,60595,57621,bill file; source sheet; title,1
 legea-379-2005,oug-71-2004,amends,- prevederile art. 4 nu se aplică în anul 2006,2023-02-07,2019-09-20,Modifică; Modificată,61175,52274,source sheet; target sheet,9
-legea-349-2005,oug-71-2005,approves_with_changes,- completează art.II pct.2,2019-12-07,2019-12-07,Aprobă cu modificări,60843,57632,source sheet; title,1
-legea-384-2005,oug-72-2005,approves_with_changes,- modifică art.I,2023-02-09,2020-09-19,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61264,57633,source sheet; target sheet; title,4
-legea-400-2005,oug-73-2005,approves_with_changes,,2024-06-15,2019-09-17,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61774,57846,source sheet; target sheet,3
+legea-349-2005,oug-71-2005,approves_with_changes,- completează art.II pct.2,2019-12-07,2019-12-07,Aprobă cu modificări,60843,57632,bill file; source sheet; title,1
+legea-384-2005,oug-72-2005,approves_with_changes,- modifică art.I,2023-02-09,2020-09-19,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61264,57633,bill file; source sheet; target sheet; title,4
+legea-400-2005,oug-73-2005,approves_with_changes,,2024-06-15,2019-09-17,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,61774,57846,bill file; source sheet; target sheet,3
 mof-822-2005-09-12,oug-73-2005,rectified,,2024-06-15,2020-05-31,Rectificare,,57846,mof,2
-legea-12-2005,oug-74-2004,rejects,,2021-12-01,2019-10-13,Respinge; Respinsa prin; Respinsă,55420,52405,source sheet; target sheet; title,7
+legea-12-2005,oug-74-2004,rejects,,2021-12-01,2019-10-13,Respinge; Respinsa prin; Respinsă,55420,52405,bill file; source sheet; target sheet; title,7
 hotarare-39-2005,oug-75-1999,implements,art. 10 alin. (2),2021-11-28,2021-11-28,Temei legal pentru,55082,21437,target sheet,1
 hotarare-39-2005,oug-75-1999,refers_to,,2021-11-28,2021-11-28,Trimitere de la,55082,21437,target sheet,1
 hotarare-40-2005,oug-75-1999,implements,art. 5 alin. (3) lit. a) pct. a5),2021-11-28,2021-11-28,Temei legal pentru,55012,21437,target sheet,1
@@ -6542,7 +6542,7 @@ hotarare-55-2005,oug-75-1999,implements,art. 13 alin. (2),2021-11-28,2021-11-28,
 hotarare-55-2005,oug-75-1999,refers_to,,2021-11-28,2021-11-28,Trimitere de la,62076,21437,target sheet,1
 ordin-3103-2005,oug-75-1999,refers_to,,2022-01-22,2021-11-28,Trimitere de la; Trimitere la,55401,21437,source sheet; target sheet,2
 ordin-140-2005,oug-75-2004,refers_to,,2020-10-20,2020-10-20,Trimitere la,58652,52450,source sheet,1
-legea-250-2005,oug-76-2005,rejects,,2024-09-12,2020-09-28,Respinsa prin; Respinsă; Respinge,58693,57920,source sheet; target sheet; title,3
+legea-250-2005,oug-76-2005,rejects,,2024-09-12,2020-09-28,Respinsa prin; Respinsă; Respinge,58693,57920,bill file; source sheet; target sheet; title,3
 hg-349-2005,oug-78-2000,implements,art. 54 pct. 2 lit.b),2020-07-03,2020-07-03,Temei legal pentru,56636,24886,target sheet,1
 hg-349-2005,oug-78-2000,refers_to,,2020-07-03,2020-07-03,Trimitere de la,56636,24886,target sheet,1
 hg-448-2005,oug-78-2000,implements,art. 54 pct. 1 lit. f),2021-10-26,2020-07-03,Temei legal pentru; Temei legal,57213,24886,source sheet; target sheet,2
@@ -6554,8 +6554,8 @@ legea-374-2005,oug-78-2000,amends,"- modifică art.2 alin.(3), art.3 lit.a)-c) ,
 ordin-108-2005,oug-78-2000,implements,art.54 pct 1lit.d),2020-07-03,2020-07-03,Temei legal pentru,55636,24886,target sheet,1
 ordin-698-2005,oug-78-2000,implements,art. 54 pct. 2,2020-07-03,2020-02-20,Temei legal pentru; Temei legal,59342,24886,source sheet; target sheet,2
 ordin-95-2005,oug-78-2000,implements,art. 1 alin. (1) si art. 21,2020-07-03,2020-07-03,Temei legal pentru,55507,24886,target sheet,1
-legea-7-2005,oug-78-2004,approves_with_changes,modifică art. 2 alin. (1) si (2),2024-04-15,2019-10-15,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55440,52654,source sheet; target sheet,2
-legea-346-2005,oug-78-2005,approves_with_changes,"- modifică titlul, art. unic",2022-12-01,2022-05-22,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60639,57965,source sheet; target sheet; title,3
+legea-7-2005,oug-78-2004,approves_with_changes,modifică art. 2 alin. (1) si (2),2024-04-15,2019-10-15,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55440,52654,bill file; source sheet; target sheet,2
+legea-346-2005,oug-78-2005,approves_with_changes,"- modifică titlul, art. unic",2022-12-01,2022-05-22,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,60639,57965,bill file; source sheet; target sheet; title,3
 hg-142-2005,oug-79-2001,refers_to,,2022-10-02,2022-10-02,Trimitere de la,55519,29630,target sheet,1
 hg-146-2005,oug-79-2001,implements,,2021-03-07,2021-03-07,Temei legal,55474,29630,source sheet,1
 hg-148-2005,oug-79-2001,implements,,2023-02-02,2021-03-08,Temei legal,55477,29630,source sheet,3
@@ -6579,7 +6579,7 @@ decizie-ccr-699-2005,oug-79-2002,rejects_unconstitutionality_objection,art. 47 a
 hg-666-2005,oug-79-2002,implements,,2024-06-22,2022-05-22,Temei legal pentru,57968,38016,target sheet,2
 legea-239-2005,oug-79-2002,amends,dispune republicarea,2024-06-23,2020-10-20,Modificată; Modifică,58213,38016,source sheet; target sheet,6
 oug-11-2005,oug-79-2002,amends,abrogă art. 38 alin. (2),2024-06-23,2020-10-20,Modificată; Modifică,55406,38016,source sheet; target sheet; title,6
-legea-68-2005,oug-79-2004,approves,,2019-10-22,2019-10-22,Aprobă,55830,52710,source sheet; title,1
+legea-68-2005,oug-79-2004,approves,,2019-10-22,2019-10-22,Aprobă,55830,52710,bill file; source sheet; title,1
 legea-124-2005,oug-8-1999,amends,- respinge O.U.G. nr. 127/2001,2022-08-16,2022-08-16,Modificată,56772,20526,target sheet,1
 oug-18-2005,oug-8-2000,refers_to,,2023-06-02,2023-06-02,Trimitere la,55720,23808,source sheet,1
 hg-1261-2005,oug-8-2002,amends,,2021-02-26,2020-03-31,Modificată,60011,33641,target sheet,2
@@ -6615,9 +6615,9 @@ oug-26-2005,oug-8-2003,amends,abrogă art. 13 si art. 14,2024-06-22,2021-06-13,M
 oug-69-2005,oug-8-2003,amends,"- modifica art. 2 alin. (1) partea introductiva, lit. a) si lit. b), art. 2 alin. (4), art. 4 alin. (5^1) si alin. (6), art. 7 alin. (1)",2024-06-22,2021-10-16,Modificată; Modifică,57631,41949,source sheet; target sheet; title,6
 oug-69-2005,oug-8-2003,implements,art. 2 alin. (1),2021-12-03,2021-12-01,Temei legal pentru; Temei legal,57631,41949,source sheet; target sheet; title,4
 legea-131-2005,oug-8-2005,approves,,2024-06-13,2022-01-20,Aprobă; Aprobata prin; Aprobată,56802,55384,source sheet; target sheet; title,7
-legea-181-2005,oug-80-2001,amends,- modifica art. 3; introduce alin. (3) la art. 6,2022-01-25,2022-01-25,Modificată,57255,29863,target sheet; title,1
-legea-392-2005,oug-81-2005,approves,,2022-01-22,2019-09-17,Aprobata prin; Aprobată; Aprobă,61208,57939,source sheet; target sheet; title,2
-legea-9-2005,oug-82-2004,approves,,2019-10-19,2019-10-19,Aprobă,,52682,source sheet; title,1
+legea-181-2005,oug-80-2001,amends,- modifica art. 3; introduce alin. (3) la art. 6,2022-01-25,2022-01-25,Modificată,57255,29863,bill file; target sheet; title,1
+legea-392-2005,oug-81-2005,approves,,2022-01-22,2019-09-17,Aprobata prin; Aprobată; Aprobă,61208,57939,bill file; source sheet; target sheet; title,2
+legea-9-2005,oug-82-2004,approves,,2019-10-19,2019-10-19,Aprobă,,52682,bill file; source sheet; title,1
 ordin-946-2005,oug-82-2004,refers_to,,2024-06-16,2022-01-20,Trimitere la,58309,52682,source sheet,3
 decizie-425-2005,oug-83-1999,refers_to,,2025-01-22,2025-01-22,Trimitere la,59023,21476,source sheet,1
 decizie-ccr-663-2005,oug-83-1999,rejects_unconstitutionality_objection,art. 3,2022-09-29,2022-09-29,Respinge excepţia de neconstituţionalitate,62083,21476,source sheet,1
@@ -6627,16 +6627,16 @@ hg-270-2005,oug-83-1999,implements,art. 9 alin. (2),2022-10-06,2022-10-06,Temei 
 legea-247-2005,oug-83-1999,amends,"- modifica art.6 alin. (1), (2) si (5), art.7, art.8; abroga art.1 - 5 | dispune republicarea",2025-01-16,2019-03-26,Modifică; Modificată,58107,21476,source sheet; target sheet,12
 mof-797-2005-09-01,oug-83-1999,republished,,2025-01-16,2020-10-20,Republicare,,21476,mof,3
 hg-52-2005,oug-83-2000,refers_to,,2022-08-16,2022-08-16,Trimitere la,54914,24927,source sheet,1
-legea-11-2005,oug-83-2004,approves_with_changes,modifică art. I,2023-03-28,2019-08-18,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55448,52966,source sheet; target sheet; title,4
+legea-11-2005,oug-83-2004,approves_with_changes,modifică art. I,2023-03-28,2019-08-18,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55448,52966,bill file; source sheet; target sheet; title,4
 hg-427-2005,oug-84-2003,implements,,2022-01-21,2021-03-05,Temei legal; Temei legal pentru,56933,45521,source sheet; target sheet,2
 hg-780-2005,oug-84-2003,implements,,2022-01-21,2021-03-01,Temei legal; Temei legal pentru,58414,45521,source sheet; target sheet,2
-legea-10-2005,oug-84-2004,approves,,2022-01-25,2019-10-16,Aprobata prin; Aprobată; Aprobă,55446,52711,source sheet; target sheet; title,4
-legea-13-2005,oug-85-2004,approves,,2019-10-22,2019-10-22,Aprobă,55422,52862,source sheet; title,1
+legea-10-2005,oug-84-2004,approves,,2022-01-25,2019-10-16,Aprobata prin; Aprobată; Aprobă,55446,52711,bill file; source sheet; target sheet; title,4
+legea-13-2005,oug-85-2004,approves,,2019-10-22,2019-10-22,Aprobă,55422,52862,bill file; source sheet; title,1
 legea-248-2005,oug-86-2001,repeals,- la data de 1 ianuarie 2006,2024-04-14,2019-08-19,"totodata, abrogă; abrogata prin",58362,29994,note; source sheet (totodata),15
 legea-154-2005,oug-86-2003,amends,- aproba cu modificari O.G. nr. 8/2005 si modifica art. 18 alin. (4),2020-04-04,2020-04-04,Modifică,57005,45522,source sheet,1
 legea-53-2005,oug-86-2004,approves,,2020-03-29,2019-10-14,Aprobata prin; Aprobată; Aprobă,55732,52889,source sheet; target sheet; title,4
-legea-412-2005,oug-86-2005,approves_with_changes,,2019-09-22,2019-09-22,Aprobă cu modificări,61692,57954,source sheet; title,1
-legea-14-2005,oug-87-2004,approves,,2019-10-18,2019-10-18,Aprobă,55424,53098,source sheet; title,1
+legea-412-2005,oug-86-2005,approves_with_changes,,2019-09-22,2019-09-22,Aprobă cu modificări,61692,57954,bill file; source sheet; title,1
+legea-14-2005,oug-87-2004,approves,,2019-10-18,2019-10-18,Aprobă,55424,53098,bill file; source sheet; title,1
 legea-318-2005,oug-87-2005,approves,,2021-02-28,2021-02-28,Aprobata prin; Aprobată,60205,58016,target sheet; title,1
 hg-184-2005,oug-88-1997,implements,art. 4^1 alin. (1) si (2),2024-04-14,2021-12-01,Temei legal; Temei legal pentru,55859,13383,source sheet; target sheet,3
 hg-184-2005,oug-88-1997,refers_to,,2024-04-14,2021-12-04,Trimitere la; Trimitere de la,55859,13383,source sheet; target sheet,3
@@ -6650,35 +6650,35 @@ hg-727-2005,oug-88-1997,implements,art.4^1 alin. (2) lit.d),2021-12-01,2021-12-0
 hg-728-2005,oug-88-1997,implements,art.4^1 alin. (1) lit. d),2021-12-01,2021-12-01,Temei legal pentru,58122,13383,target sheet,1
 hg-760-2005,oug-88-1997,refers_to,,2022-01-28,2021-12-04,Trimitere de la; Trimitere la,58133,13383,source sheet; target sheet,2
 hg-774-2005,oug-88-1997,implements,art. 4^1 alin. (2) lit.d),2021-12-01,2021-12-01,Temei legal pentru,58354,13383,target sheet,1
-legea-185-2005,oug-88-1997,amends,- abroga art.34,2025-01-14,2020-07-02,Modificată; Modifică,57448,13383,source sheet; target sheet; title,7
+legea-185-2005,oug-88-1997,amends,- abroga art.34,2025-01-14,2020-07-02,Modificată; Modifică,57448,13383,bill file; source sheet; target sheet; title,7
 ordin-23-2005,oug-88-1997,implements,,2021-12-01,2021-12-01,Temei legal pentru,57127,13383,target sheet,1
 ordin-7-2005,oug-88-1997,refers_to,,2024-06-21,2021-12-04,Trimitere de la; Trimitere la,54983,13383,source sheet; target sheet,2
 oug-26-2005,oug-88-1997,amends,abrogă art. 4^1 alin. (2) lit.c),2025-01-14,2020-07-02,Modificată; Modifică,56051,13383,source sheet; target sheet,10
 oug-42-2005,oug-88-1997,implements,,2023-02-07,2021-10-22,Temei legal; Temei legal pentru,57082,13383,source sheet; target sheet,4
 oug-93-2005,oug-88-1997,derogates_from,,2025-01-14,2020-07-02,Derogari; Derogare de la,57996,13383,source sheet; target sheet,8
 hg-184-2005,oug-88-2001,refers_to,,2024-04-14,2021-12-07,Trimitere la,55859,29996,source sheet,2
-legea-127-2005,oug-88-2004,approves_with_changes,"- modifica art. I pct. 6, pct. 13; introduce pct. 2^1 la art. I, pct. 3^1 si 3^2 la art. I, pct. 5^1 si 5^2 la art. I, pct. 8^1 la art. I, pct. 13^1 si 13^2 la art. I; abroga art. I pct. 15, art. II pct. 2, art. III",2024-10-10,2019-10-21,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56798,53141,source sheet; target sheet; title,6
+legea-127-2005,oug-88-2004,approves_with_changes,"- modifica art. I pct. 6, pct. 13; introduce pct. 2^1 la art. I, pct. 3^1 si 3^2 la art. I, pct. 5^1 si 5^2 la art. I, pct. 8^1 la art. I, pct. 13^1 si 13^2 la art. I; abroga art. I pct. 15, art. II pct. 2, art. III",2024-10-10,2019-10-21,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56798,53141,bill file; source sheet; target sheet; title,6
 legea-297-2005,oug-88-2005,approves,,2022-01-24,2022-01-24,Aprobă,59870,57992,source sheet; title,1
 legea-111-2005,oug-89-2004,approves_with_changes,"- modifică art. 5 alin. (2) lit. c), art. 6 lit.b); introduce alin. (2^1) la art. 1, alin. (5) la art. 4; abrogă art. 2, art. 7; înlocuieşte anexa",2021-04-23,2021-04-23,Aprobata cu modificari prin; Aprobată cu modificări,56603,53142,target sheet; title,1
 legea-387-2005,oug-89-2004,amends,"- aprobă O.U.G. nr. 115/2005 şi introduce alin. (4) la art. 1, art.9^1; abrogă art.9 alin. (2) şi art. I pct.3 din O.U.G.115/2005 care înlocuia anexa (vezi art. II din O.U.G.nr.115/2005)",2021-04-23,2019-09-20,Modifică; Modificată,61371,53142,source sheet; target sheet,3
 oug-115-2005,oug-89-2004,amends,,2021-04-23,2020-01-29,Modificată; Modifică,58350,53142,source sheet; target sheet; title,2
-legea-292-2005,oug-89-2005,rejects,,2022-09-30,2022-09-30,Respinsa prin; Respinsă,59892,58002,target sheet; title,1
-legea-114-2005,oug-9-2005,approves_with_changes,- introduce pct. 3 la art. I,2022-05-21,2020-02-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56594,55370,source sheet; target sheet; title,5
-legea-88-2005,oug-90-2004,approves,,2024-07-20,2024-07-20,Aprobă,56183,53099,source sheet; title,1
+legea-292-2005,oug-89-2005,rejects,,2022-09-30,2022-09-30,Respinsa prin; Respinsă,59892,58002,bill file; target sheet; title,1
+legea-114-2005,oug-9-2005,approves_with_changes,- introduce pct. 3 la art. I,2022-05-21,2020-02-20,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56594,55370,bill file; source sheet; target sheet; title,5
+legea-88-2005,oug-90-2004,approves,,2024-07-20,2024-07-20,Aprobă,56183,53099,bill file; source sheet; title,1
 oug-195-2005,oug-91-2002,repeals,odată cu L. nr.137/1995,2025-01-20,2019-10-20,"abrogata prin; totodata, abrogă; Abrogată",61631,38076,note; source sheet (totodata); target sheet,21
 legea-154-2005,oug-91-2003,amends,- aproba cu modificari O.G. nr. 8/2005 si modifica art. 3 alin. (2),2024-05-28,2020-04-04,Modificată; Modifică,57005,45642,source sheet; target sheet,5
 og-8-2005,oug-91-2003,amends,"modifică art. 1 alin. (1), art. 2, art. 3 alin. (2)-(4), art. 6 alin. (3), art. 10 alin. (2); abrogă art. 1 alin. (2), art. 4 alin. (2), art. 5 alin. (5), art. 10 alin. (3) si (4), art. 18",2024-05-28,2020-04-04,Modificată; Modifică,55019,45642,source sheet; target sheet,6
 oug-190-2005,oug-91-2003,amends,introduce alin.(1^1) la art.4,2025-01-15,2020-08-11,Modificată; Modifică,61411,45642,source sheet; target sheet,8
 hg-1249-2005,oug-91-2005,refers_to,,2022-08-08,2022-08-08,Referită de,59836,58068,target sheet; title,1
-legea-291-2005,oug-91-2005,approves_with_changes,"- modifică titlul, art.4 alin.(1); introduce alin.(4) la art.2",2022-08-08,2022-01-24,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,59866,58068,source sheet; target sheet; title,2
+legea-291-2005,oug-91-2005,approves_with_changes,"- modifică titlul, art.4 alin.(1); introduce alin.(4) la art.2",2022-08-08,2022-01-24,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,59866,58068,bill file; source sheet; target sheet; title,2
 oug-184-2005,oug-91-2005,amends,"- modifică art.2 alin. (3) şi alin. (4), art. 4 alin. (1) | dispune republicarea",2022-08-08,2022-08-08,Modificată,61332,58068,target sheet; title,1
 legea-312-2005,oug-92-1997,amends,modifică art.6,2024-04-22,2019-12-10,Modificată; Modifică,60176,13387,source sheet; target sheet,7
 legea-323-2005,oug-92-2004,amends,- aprobă cu modificări O.U.G. nr. 63/2005 şi abrogă art. 3 din O.U.G. nr. 63/2005,2023-02-05,2018-11-12,Modificată; Modifică,60224,53412,source sheet; target sheet,6
-legea-76-2005,oug-92-2004,approves_with_changes,"- modifică art. 11 alin. (3), art. 12 alin. (3), art. 18 alin. (1), art. 36; introduce alin. (1^1) si (1^2) la art. 9",2023-02-05,2018-11-12,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56238,53412,source sheet; target sheet; title,9
+legea-76-2005,oug-92-2004,approves_with_changes,"- modifică art. 11 alin. (3), art. 12 alin. (3), art. 18 alin. (1), art. 36; introduce alin. (1^1) si (1^2) la art. 9",2023-02-05,2018-11-12,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,56238,53412,bill file; source sheet; target sheet; title,9
 ordin-946-2005,oug-92-2004,refers_to,,2024-06-16,2022-01-20,Trimitere la,58309,53412,source sheet,3
 oug-63-2005,oug-92-2004,amends,- proroga pâna la 31 dec. 2005 prevederile referitoare la cresterile salariale ce urmau a fi acordate personalului din sectorul bugetar începând cu luna octombrie 2005,2023-02-05,2018-11-12,Modificată; Modifică,57608,53412,source sheet; target sheet,6
-legea-259-2005,oug-92-2005,approves_with_changes,,2022-12-04,2022-09-28,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,59453,58017,source sheet; target sheet; title,2
-legea-51-2005,oug-93-2004,approves,,2024-03-02,2022-05-16,Aprobata prin; Aprobată; Aprobă,55728,53300,source sheet; target sheet; title,4
+legea-259-2005,oug-92-2005,approves_with_changes,,2022-12-04,2022-09-28,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,59453,58017,bill file; source sheet; target sheet; title,2
+legea-51-2005,oug-93-2004,approves,,2024-03-02,2022-05-16,Aprobata prin; Aprobată; Aprobă,55728,53300,bill file; source sheet; target sheet; title,4
 decizie-379-2005,oug-94-2000,refers_to,,2022-08-16,2022-08-16,Trimitere de la,57552,25053,target sheet,1
 decizie-425-2005,oug-94-2000,refers_to,,2025-01-22,2022-08-16,Trimitere de la; Trimitere la,59023,25053,source sheet; target sheet,2
 decizie-ccr-284-2005,oug-94-2000,rejects_unconstitutionality_objection,,2022-10-05,2022-08-08,Excepţie de neconstituţionalitate respinsă; Respinge excepţia de neconstituţionalitate,58767,25053,source sheet; target sheet,2
@@ -6693,17 +6693,17 @@ legea-247-2005,oug-94-2000,amends,dispune republicarea,2025-01-13,2019-03-26,Mod
 mof-797-2005-09-01,oug-94-2000,republished,,2025-01-13,2020-06-05,Republicare,,25053,mof,5
 mof-955-2005-10-27,oug-94-2000,rectified,,2025-01-13,2020-06-05,Rectificare,,25053,mof,5
 oug-209-2005,oug-94-2000,amends,"- modifică art. 10 alin. (1) şi (2); introduce alin. (6) şi (7) la art. 9, art. 10^1",2025-01-13,2019-01-20,Modificată; Modifică,61610,25053,source sheet; target sheet,8
-legea-49-2005,oug-94-2004,approves,,2020-01-27,2020-01-27,Aprobă,55754,53566,source sheet; title,1
+legea-49-2005,oug-94-2004,approves,,2020-01-27,2020-01-27,Aprobă,55754,53566,bill file; source sheet; title,1
 hg-1060-2005,oug-94-2005,refers_to,,2020-06-05,2020-06-05,Trimitere la,59317,57997,source sheet,1
-legea-393-2005,oug-94-2005,approves,,2019-09-22,2019-09-22,Aprobă,,57997,source sheet; title,1
+legea-393-2005,oug-94-2005,approves,,2019-09-22,2019-09-22,Aprobă,,57997,bill file; source sheet; title,1
 hg-314-2005,oug-95-1999,implements,"art.1 lit. a), art.3",2022-01-22,2022-01-22,Temei legal pentru,56441,21556,target sheet,1
-legea-334-2005,oug-95-1999,amends,,2022-12-02,2021-11-30,Modifică; Modificată,60631,21556,source sheet; target sheet; title,3
+legea-334-2005,oug-95-1999,amends,,2022-12-02,2021-11-30,Modifică; Modificată,60631,21556,bill file; source sheet; target sheet; title,3
 legea-244-2005,oug-95-2003,refers_to,,2021-10-22,2021-10-22,Trimitere la,58009,45719,source sheet,1
-legea-70-2005,oug-95-2004,approves_with_changes,modifică art. 3 alin. (2),2020-01-21,2020-01-21,Aprobă cu modificări,55977,53322,source sheet; title,1
+legea-70-2005,oug-95-2004,approves_with_changes,modifică art. 3 alin. (2),2020-01-21,2020-01-21,Aprobă cu modificări,55977,53322,bill file; source sheet; title,1
 hg-882-2005,oug-96-2002,amends,- actualizeaza limita prevazuta la art. 1,2021-03-08,2020-07-09,Modificată; Modifică,58564,39069,source sheet; target sheet,4
 hg-882-2005,oug-96-2002,implements,art. 1 alin. (2),2020-09-25,2020-09-25,Temei legal pentru; Temei legal,58564,39069,source sheet; target sheet,2
 oug-158-2005,oug-96-2003,amends,abrogă art.11,2024-09-17,2021-04-17,Modifică; Modificată,60516,45859,source sheet; target sheet,8
-legea-33-2005,oug-96-2004,approves_with_changes,modifică art. 1 si art. 3,2024-05-20,2021-04-19,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55569,53370,source sheet; target sheet; title,5
+legea-33-2005,oug-96-2004,approves_with_changes,modifică art. 1 si art. 3,2024-05-20,2021-04-19,Aprobata cu modificari prin; Aprobată cu modificări; Aprobă cu modificări,55569,53370,bill file; source sheet; target sheet; title,5
 circulara-6-2005,oug-97-2000,implements,"art. 164, art. 206",2022-11-28,2022-11-28,Temei legal,55200,25163,source sheet,1
 regulament-3-2005,oug-97-2000,implements,art. 164 si art. 285,2022-08-12,2022-08-12,Temei legal,55906,25163,source sheet,1
 ordin-112-2005,oug-97-2001,implements,,2022-11-29,2022-11-29,Temei legal pentru,55321,30073,target sheet,1
@@ -6712,13 +6712,13 @@ ordin-271-2005,oug-97-2001,implements,art. 18,2022-11-29,2022-11-29,Temei legal 
 ordin-319-2005,oug-97-2001,implements,art. 13,2022-11-29,2022-11-29,Temei legal pentru,56668,30073,target sheet,1
 ordin-416-2005,oug-97-2001,implements,art. 34,2022-11-29,2022-11-29,Temei legal pentru,58531,30073,target sheet,1
 ordin-565-2005,oug-97-2001,implements,art. 13,2022-11-29,2022-11-29,Temei legal pentru,58052,30073,target sheet,1
-legea-36-2005,oug-97-2003,approves_with_changes,introduce pct. 6 si 7 la art. 1,2024-07-14,2021-02-27,Aprobă cu modificări,,45771,source sheet; title,5
+legea-36-2005,oug-97-2003,approves_with_changes,introduce pct. 6 si 7 la art. 1,2024-07-14,2021-02-27,Aprobă cu modificări,,45771,bill file; source sheet; title,5
 hg-763-2005,oug-97-2004,refers_to,,2024-11-14,2024-11-14,Trimitere de la,58429,53371,target sheet,1
-legea-16-2005,oug-97-2004,approves_with_changes,modifică art. 2 alin. (1),2024-11-14,2019-10-21,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55413,53371,source sheet; target sheet; title,3
+legea-16-2005,oug-97-2004,approves_with_changes,modifică art. 2 alin. (1),2024-11-14,2019-10-21,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55413,53371,bill file; source sheet; target sheet; title,3
 legea-348-2005,oug-97-2004,amends,"- prorogă, cu 180 de zile, termenul prevăzut la art. 1",2024-11-14,2024-10-15,Modificată; Modifică,60595,53371,source sheet; target sheet,2
-legea-290-2005,oug-97-2005,approves_with_changes,"- modifică art. 3, art. 11, art. 12, art. 13 alin. (2) şi (5), art. 14 alin. (1), art. 17 alin. (3), art. 23 alin. (1), art. 26, art. 27 lit. d), art. 28, art. 29, art. 30 alin. (1), art. 31 alin. (1), art. 35, art. 37 alin. (2), art. 42, art. 47; introduce alin. (8) la art. 13, alin. (2) la art. 34; abrogă art. 25 alin. (1); înlocuieşte, în tot cuprinsul ordonanţei de urgenţă, precum şi în toate actele normative în vigoare la data intrării în vigoare a legii de aprobare a acestei ordonanţe de urgenţă, sintagmele ""Registrul permanent de evidenţă a populaţiei"" (R.P.E.P.), ""dovada domiciliului"" şi ""dovada reşedinţei"" cu sintagmele ""Registrul naţional de evidenţă a persoanelor"" (R.N.E.P.), ""dovada adresei de domiciliu"" şi ""dovada adresei de reşedinţă"" | dispune republicarea",2024-05-23,2018-04-26,Aprobata cu modificari prin; Aprobată cu modificări,59890,58036,target sheet; title,6
+legea-290-2005,oug-97-2005,approves_with_changes,"- modifică art. 3, art. 11, art. 12, art. 13 alin. (2) şi (5), art. 14 alin. (1), art. 17 alin. (3), art. 23 alin. (1), art. 26, art. 27 lit. d), art. 28, art. 29, art. 30 alin. (1), art. 31 alin. (1), art. 35, art. 37 alin. (2), art. 42, art. 47; introduce alin. (8) la art. 13, alin. (2) la art. 34; abrogă art. 25 alin. (1); înlocuieşte, în tot cuprinsul ordonanţei de urgenţă, precum şi în toate actele normative în vigoare la data intrării în vigoare a legii de aprobare a acestei ordonanţe de urgenţă, sintagmele ""Registrul permanent de evidenţă a populaţiei"" (R.P.E.P.), ""dovada domiciliului"" şi ""dovada reşedinţei"" cu sintagmele ""Registrul naţional de evidenţă a persoanelor"" (R.N.E.P.), ""dovada adresei de domiciliu"" şi ""dovada adresei de reşedinţă"" | dispune republicarea",2024-05-23,2018-04-26,Aprobata cu modificari prin; Aprobată cu modificări,59890,58036,bill file; target sheet; title,6
 oug-139-2005,oug-98-2003,amends,"abrogă art. I, II şi II^1",2024-06-21,2020-09-26,Modificată; Modifică,59793,45821,source sheet; target sheet,6
-legea-43-2005,oug-98-2004,approves_with_changes,modifică art.unic pct. 2,2022-08-12,2019-10-22,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55816,53372,source sheet; target sheet; title,4
+legea-43-2005,oug-98-2004,approves_with_changes,modifică art.unic pct. 2,2022-08-12,2019-10-22,Aprobă cu modificări; Aprobata cu modificari prin; Aprobată cu modificări,55816,53372,bill file; source sheet; target sheet; title,4
 legea-72-2005,oug-99-2004,approves_with_changes,"modifică titlul, art. 1 pct. 3, art. 2, art. 3 pct. 3, art. 3 pct. 5 si 6, art. 4-8, art. 10, art. 11; abrogă art. 1 pct. 4, art. 3 pct. 2, art. 3 pct. 8, art. 3 pct. 9, art. 9 | dispune republicarea",2019-10-19,2019-10-19,Aprobă cu modificări,,53505,source sheet; title,1
 regulament-7-2005,regulament-1-2001,amends,dispune republicarea,2022-05-17,2020-06-06,Modificat,58383,28899,target sheet,2
 circulara-9-2005,regulament-1-2004,amends,,2024-04-22,2022-08-19,Modificat; Modifică,55517,47692,source sheet; target sheet,4
@@ -6744,66 +6744,73 @@ circulara-6-2005,regulament-6-2002,amends,,2023-02-05,2022-10-01,Modificat; Modi
 regulament-1-2005,regulament-6-2004,repeals,,2024-05-22,2020-06-06,"abrogat prin; totodata, abrogă",55897,53307,note; source sheet (totodata),5
 regulament-1-2005,regulament-8-1996,repeals,,2022-08-12,2020-06-06,Abrogat; Abrogă,55897,11205,source sheet; target sheet,2
 hg-793-2005,regulament-8-2002,refers_to,,2022-08-19,2020-10-27,Trimitere la,58768,41176,source sheet,2
-legea-25-2005,oug-140-2004,approves,,,,ordonantei de urgenta a guvernului nr. 140/2004,,,title,0
-legea-26-2005,oug-116-2004,approves,,,,ordonantei de urgenta a guvernului nr. 116/2004,,,title,0
-legea-27-2005,oug-131-2004,approves,,,,ordonantei de urgenta a guvernului nr. 131/2004,,,title,0
-legea-28-2005,oug-118-2004,approves,,,,ordonantei de urgenta a guvernului nr. 118/2004,,,title,0
-legea-30-2005,oug-142-2004,approves,,,,ordonantei de urgenta a guvernului nr. 142/2004,,,title,0
-legea-38-2005,oug-107-2004,approves,,,,ordonantei de urgenta a guvernului nr. 107/2004,,,title,0
-legea-50-2005,oug-137-2004,approves,,,,ordonantei de urgenta a guvernului nr. 137/2004,,,title,0
+legea-30-2005,oug-142-2004,approves,,2007-08-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 142/2004,,,bill file; title,1
+legea-38-2005,oug-107-2004,approves,,2007-09-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 107/2004,,,bill file; title,1
+legea-140-2005,oug-20-2005,approves,,2007-09-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 20/2005,,,bill file; title,1
+legea-27-2005,oug-131-2004,approves,,2024-02-25,,Proiect de Lege pentru aprobarea O.U.G. nr. 131/2004,,,bill file; title,1
+legea-26-2005,oug-116-2004,approves,,2023-02-08,,Proiect de Lege pentru aprobarea O.U.G. nr. 116/2004,,,bill file; title,1
+legea-224-2005,legea-441-2001,amends,,2024-04-18,,Propunere legislativa pentru modificarea L. nr. 441/2001,,,bill file,1
+legea-193-2005,oug-32-2005,approves,,2007-07-15,,Proiect de Lege pentru aprobarea O.U.G. nr. 32/2005,,,bill file; title,1
+legea-184-2005,oug-27-2005,approves,,2023-02-05,,Proiect de Lege pentru aprobarea O.U.G. nr. 27/2005,,,bill file; title,1
+legea-202-2005,legea-29-2004,amends,,2019-12-10,,Proiect de Lege pentru modificarea L. nr. 29/2004,,,bill file,1
+legea-226-2005,oug-30-2005,approves,,2007-08-29,,Proiect de Lege pentru aprobarea O.U.G. nr. 30/2005,,,bill file; title,1
+legea-211-2005,oug-34-2005,approves,,2007-09-19,,Proiect de Lege pentru aprobarea O.U.G. nr. 34/2005,,,bill file; title,1
+legea-212-2005,oug-33-2005,approves,,2021-11-30,,Proiect de Lege pentru aprobarea O.U.G. nr. 33/2005,,,bill file; title,1
+legea-117-2005,legea-19-2001,amends,,2024-04-23,,Propunere legislativa pentru modificarea L. nr. 19/2001,,,bill file,1
+legea-237-2005,oug-40-2005,approves,,2007-08-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 40/2005,,,bill file; title,1
+legea-189-2005,oug-130-2004,approves,,2023-03-05,,Proiect de Lege pentru aprobarea O.U.G. nr. 130/2004,,,bill file; title,1
+legea-50-2005,oug-137-2004,approves,,2006-12-02,,Proiect de Lege pentru aprobarea O.U.G. nr. 137/2004,,,bill file; title,1
+legea-255-2005,oug-46-2005,approves,,2023-01-27,,Proiect de Lege pentru aprobarea O.U.G. nr. 46/2005,,,bill file; title,1
+legea-63-2005,oug-128-2004,approves,,2019-10-15,,Proiect de Lege pentru aprobarea O.U.G. nr. 128/2004,,,bill file; title,1
+legea-252-2005,oug-84-2005,approves,,2007-07-05,,Proiect de Lege pentru aprobarea O.U.G. nr. 84/2005,,,bill file; title,1
+legea-251-2005,oug-85-2005,approves,,2007-02-12,,Proiect de Lege pentru aprobarea O.U.G. nr. 85/2005,,,bill file; title,1
+legea-253-2005,oug-96-2005,approves,,2007-08-27,,Proiect de Lege pentru aprobarea O.U.G. nr. 96/2005,,,bill file; title,1
+legea-256-2005,oug-47-2005,approves,,2007-08-30,,Proiect de Lege pentru aprobarea O.U.G. nr. 47/2005,,,bill file; title,1
+legea-264-2005,oug-77-2005,approves,,2021-12-07,,Proiect de Lege pentru aprobarea O.U.G. nr. 77/2005,,,bill file; title,1
+legea-287-2005,oug-79-2005,approves,,2019-12-10,,Proiect de Lege pentru aprobarea O.U.G. nr. 79/2005,,,bill file; title,1
+legea-126-2005,oug-121-2004,approves,,2019-12-08,,Proiect de Lege pentru aprobarea O.U.G. nr. 121/2004,,,bill file; title,1
+legea-271-2005,oug-82-2005,approves,,2007-08-04,,Proiect de Lege pentru aprobarea O.U.G. nr. 82/2005,,,bill file; title,1
+legea-273-2005,oug-83-2005,approves,,2007-08-05,,Proiect de Lege pentru aprobarea O.U.G. nr. 83/2005,,,bill file; title,1
+legea-328-2005,oug-90-2005,approves,,2007-02-22,,Proiect de Lege pentru aprobarea O.U.G. nr. 90/2005,,,bill file; title,1
+legea-266-2005,oug-93-2005,approves,,2007-07-12,,Proiect de Lege pentru aprobarea O.U.G. nr. 93/2005,,,bill file; title,1
+legea-61-2005,oug-136-2004,approves,,2007-09-13,,Proiect de Lege pentru aprobarea O.U.G. nr. 136/2004,,,bill file; title,1
+legea-408-2005,oug-95-2005,approves,,2007-12-09,,Proiect de Lege pentru aprobarea O.U.G. nr. 95/2005,,,bill file; title,1
+legea-321-2005,oug-98-2005,approves,,2008-12-01,,Proiect de Lege pentru aprobarea O.U.G. nr. 98/2005,,,bill file; title,1
+legea-286-2005,oug-80-2005,rejects,,2007-09-18,,Proiect de Lege pentru respingerea O.U.G. nr. 80/2005,,,bill file; title,1
+legea-330-2005,oug-118-2005,approves,,2022-11-29,,Proiect de Lege pentru aprobarea O.U.G. nr. 118/2005,,,bill file; title,1
+legea-121-2005,legea-142-2004,amends,,2021-04-12,,Propunere legislativa pentru modificarea L. nr. 142/2004,,,bill file,1
+legea-326-2005,oug-122-2005,approves,,2007-07-10,,Proiect de Lege pentru aprobarea O.U.G. nr. 122/2005,,,bill file,1
+legea-364-2005,oug-51-2005,approves,,2012-09-11,,Proiect de Lege pentru aprobarea O.U.G. nr. 51/2005,,,bill file; title,1
+legea-366-2005,legea-268-2003,amends,,2006-11-17,,Propunere legislativa pentru modificarea L. nr. 268/2003,,,bill file,1
+legea-335-2005,og-55-2005,approves,,2007-07-15,,Proiect de Lege pentru aprobarea O.G. nr. 55/2005,,,bill file; title,1
+legea-25-2005,oug-140-2004,approves,,2024-02-28,,Proiect de Lege pentru aprobarea O.U.G. nr. 140/2004,,,bill file; title,1
+legea-301-2005,og-44-2005,approves,,2007-09-12,,Proiect de Lege pentru aprobarea O.G. nr. 44/2005,,,bill file; title,1
+legea-394-2005,og-50-2005,approves,,2007-07-15,,Proiect de Lege pentru aprobarea O.G. nr. 50/2005,,,bill file; title,1
+legea-80-2005,og-3-2005,approves,,2007-08-07,,Proiect de Lege pentru aprobarea O.G. nr. 3/2005,,,bill file; title,1
+legea-373-2005,og-40-2005,approves,,2007-09-15,,Proiect de Lege pentru aprobarea O.G. nr. 40/2005,,,bill file; title,1
+legea-79-2005,og-4-2005,approves,,2007-08-04,,Proiect de Lege pentru aprobarea O.G. nr. 4/2005,,,bill file; title,1
+legea-376-2005,og-36-2005,approves,,2007-08-30,,Proiect de Lege pentru aprobarea O.G. nr. 36/2005,,,bill file; title,1
+legea-409-2005,og-46-2005,approves,,2007-02-11,,Proiect de Lege pentru aprobarea O.G. nr. 46/2005,,,bill file; title,1
+legea-144-2005,oug-106-2004,approves,,2019-12-15,,Proiect de Lege pentru aprobarea O.U.G. nr. 106/2004,,,bill file; title,1
+legea-345-2005,oug-128-2005,approves,,2007-09-07,,Proiect de Lege pentru aprobarea O.U.G. nr. 128/2005,,,bill file; title,1
+legea-73-2005,oug-1-2005,approves,,2007-02-09,,Proiect de Lege pentru aprobarea O.U.G. nr. 1/2005,,,bill file; title,1
+legea-90-2005,oug-3-2005,approves,,2019-12-16,,Proiect de Lege pentru aprobarea O.U.G. nr. 3/2005,,,bill file; title,1
+legea-84-2005,og-14-2005,approves,,2007-09-14,,Proiect de Lege pentru aprobarea O.G. nr. 14/2005,,,bill file; title,1
+legea-75-2005,oug-127-2004,rejects,,2007-09-20,,Proiect de Lege pentru respingerea O.U.G. nr. 127/2004,,,bill file; title,1
+legea-110-2005,og-11-2005,approves,,2007-09-21,,Proiect de Lege pentru aprobarea O.G. nr. 11/2005,,,bill file,1
+legea-28-2005,oug-118-2004,approves,,2024-02-25,,Proiect de Lege pentru aprobarea O.U.G. nr. 118/2004,,,bill file; title,1
+legea-145-2005,oug-91-2004,approves,,2007-08-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 91/2004,,,bill file; title,1
+legea-142-2005,oug-108-2004,approves,,2019-12-12,,Proiect de Lege pentru aprobarea O.U.G. nr. 108/2004,,,bill file; title,1
+legea-94-2005,oug-101-2004,rejects,,2007-08-05,,Proiect de Lege pentru respingerea O.U.G. nr. 101/2004,,,bill file; title,1
+legea-120-2005,oug-12-2005,approves,,2019-12-14,,Proiect de Lege pentru aprobarea O.U.G. nr. 12/2005,,,bill file; title,1
 legea-58-2005,oug-111-2004,approves,,,,ordonantei de urgenta a guvernului nr. 111/2004,,,title,0
-legea-61-2005,oug-136-2004,approves,,,,ordonantei de urgenta a guvernului nr. 136/2004,,,title,0
-legea-63-2005,oug-128-2004,approves,,,,ordonantei de urgenta a guvernului nr. 128/2004,,,title,0
-legea-73-2005,oug-1-2005,rejects,,,,ordonantei de urgenta a guvernului nr. 1/2005,,,title,0
-legea-75-2005,oug-127-2004,rejects,,,,ordonantei de urgenta a guvernului nr. 127/2004,,,title,0
-legea-79-2005,og-4-2005,approves,,,,ordonantei guvernului nr. 4/2005,,,title,0
-legea-80-2005,og-3-2005,approves,,,,ordonantei guvernului nr. 3/2005,,,title,0
-legea-84-2005,og-14-2005,approves,,,,ordonantei guvernului nr. 14/2005,,,title,0
-legea-90-2005,oug-3-2005,approves,,,,ordonantei de urgenta a guvernului nr. 3/2005,,,title,0
 legea-93-2005,og-16-2005,approves,,,,ordonantei guvernului nr. 16/2005,,,title,0
-legea-94-2005,oug-101-2004,rejects,,,,ordonantei de urgenta a guvernului nr. 101/2004,,,title,0
-legea-120-2005,oug-12-2005,approves,,,,ordonantei de urgenta a guvernului nr. 12/2005,,,title,0
-legea-126-2005,oug-121-2004,approves,,,,ordonantei de urgenta a guvernului nr. 121/2004,,,title,0
 legea-130-2005,oug-15-2005,approves,,,,ordonantei de urgenta a guvernului nr. 15/2005,,,title,0
-legea-140-2005,oug-20-2005,approves,,,,ordonantei de urgenta a guvernului nr. 20/2005,,,title,0
-legea-142-2005,oug-108-2004,rejects,,,,ordonantei de urgenta a guvernului nr. 108/2004,,,title,0
 legea-143-2005,oug-21-2005,approves,,,,ordonantei de urgenta a guvernului nr. 21/2005,,,title,0
-legea-144-2005,oug-106-2004,approves,,,,ordonantei de urgenta a guvernului nr. 106/2004,,,title,0
-legea-145-2005,oug-91-2004,approves,,,,ordonantei de urgenta a guvernului nr. 91/2004,,,title,0
 legea-180-2005,oug-23-2005,approves,,,,ordonantei de urgenta a guvernului nr. 23/2005,,,title,0
-legea-184-2005,oug-27-2005,approves,,,,ordonantei de urgenta a guvernului nr. 27/2005,,,title,0
-legea-189-2005,oug-130-2004,approves,,,,ordonantei de urgenta a guvernului nr. 130/2004,,,title,0
-legea-193-2005,oug-32-2005,approves,,,,ordonantei de urgenta a guvernului nr. 32/2005,,,title,0
-legea-211-2005,oug-34-2005,approves,,,,ordonantei de urgenta a guvernului nr. 34/2005,,,title,0
-legea-212-2005,oug-33-2005,approves,,,,ordonantei de urgenta a guvernului nr. 33/2005,,,title,0
-legea-226-2005,oug-30-2005,rejects,,,,ordonantei de urgenta a guvernului nr. 30/2005,,,title,0
-legea-237-2005,oug-40-2005,approves,,,,ordonantei de urgenta a guvernului nr. 40/2005,,,title,0
-legea-251-2005,oug-85-2005,approves,,,,ordonantei de urgenta a guvernului nr. 85/2005,,,title,0
-legea-252-2005,oug-84-2005,approves,,,,ordonantei de urgenta a guvernului nr. 84/2005,,,title,0
-legea-253-2005,oug-96-2005,approves,,,,ordonantei de urgenta a guvernului nr. 96/2005,,,title,0
-legea-255-2005,oug-46-2005,approves,,,,ordonantei de urgenta a guvernului nr. 46/2005,,,title,0
-legea-256-2005,oug-47-2005,approves,,,,ordonantei de urgenta a guvernului nr. 47/2005,,,title,0
-legea-264-2005,oug-77-2005,approves,,,,ordonantei de urgenta a guvernului nr. 77/2005,,,title,0
-legea-266-2005,oug-93-2005,approves,,,,ordonantei de urgenta a guvernului nr. 93/2005,,,title,0
-legea-271-2005,oug-82-2005,approves,,,,ordonantei de urgenta a guvernului nr. 82/2005,,,title,0
-legea-273-2005,oug-83-2005,approves,,,,ordonantei de urgenta a guvernului nr. 83/2005,,,title,0
-legea-286-2005,oug-80-2005,approves,,,,ordonantei de urgenta a guvernului nr. 80/2005,,,title,0
-legea-287-2005,oug-79-2005,approves,,,,ordonantei de urgenta a guvernului nr. 79/2005,,,title,0
 legea-296-2005,oug-94-2002,amends,,,,ordonanta de urgenta a guvernului nr. 94/2002,,,title,0
-legea-301-2005,og-44-2005,approves,,,,ordonantei guvernului nr. 44/2005,,,title,0
 legea-310-2005,oug-60-2005,approves,,,,ordonantei de urgenta a guvernului nr. 60/2005,,,title,0
-legea-321-2005,oug-98-2005,approves,,,,ordonantei de urgenta a guvernului nr. 98/2005,,,title,0
-legea-328-2005,oug-90-2005,approves,,,,ordonantei de urgenta a guvernului nr. 90/2005,,,title,0
-legea-330-2005,oug-118-2005,approves,,,,ordonantei de urgenta a guvernului nr. 118/2005,,,title,0
-legea-335-2005,og-55-2005,approves,,,,ordonantei guvernului nr. 55/2005,,,title,0
-legea-345-2005,oug-128-2005,approves,,,,ordonantei de urgenta a guvernului nr. 128/2005,,,title,0
-legea-364-2005,oug-51-2005,approves,,,,ordonantei de urgenta a guvernului nr. 51/2005,,,title,0
 legea-369-2005,og-42-2005,approves,,,,ordonantei guvernului nr. 42/2005,,,title,0
-legea-373-2005,og-40-2005,approves,,,,ordonantei guvernului nr. 40/2005,,,title,0
-legea-376-2005,og-36-2005,approves,,,,ordonantei guvernului nr. 36/2005,,,title,0
-legea-394-2005,og-50-2005,approves,,,,ordonantei guvernului nr. 50/2005,,,title,0
-legea-408-2005,oug-95-2005,approves,,,,ordonantei de urgenta a guvernului nr. 95/2005,,,title,0
-legea-409-2005,og-46-2005,approves,,,,ordonantei guvernului nr. 46/2005,,,title,0
 oug-1-2005,oug-99-2004,amends,,,,ordonantei de urgenta a guvernului nr. 99/2004,,,title,0
 oug-20-2005,oug-195-2001,amends,,,,ordonantei de urgenta a guvernului nr. 195/2001,,,title,0
 oug-55-2005,oug-68-2004,amends,,,,ordonantei de urgenta a guvernului nr. 68/2004,,,title,0

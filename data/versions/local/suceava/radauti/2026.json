@@ -3,6 +3,141 @@
  "shard": "local/suceava/radauti/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--radauti-1-2026",
+   "path": "local/suceava/radauti/2026/1",
+   "short": "HCL Rădăuți nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 1/2026",
+   "url": "https://primariaradauti.ro/hotarare-privind-actualizarea-devizului-general-faza-pt-pentru-obiectivul-de-investitii-amenajare-spatiu-verde-din-aleea-primaverii-mun-radauti-jud-suceava-cod-smis-354789/",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-1-din-19.01.2026-blurat.pdf",
+     "sha256": "a1b44cc6b6f68ce54cb1cfd4d64060f3b79111ef3e8be643dfec914abeb119b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-100-2026",
+   "path": "local/suceava/radauti/2026/100",
+   "short": "HCL Rădăuți nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 100/2026",
+   "url": "https://primariaradauti.ro/hcl-100-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-100-din-29.05.2026.pdf",
+     "sha256": "3a77614960fcd2557256ce5e331d83023897a769db6bf6a939f164e99a70bb12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-101-2026",
+   "path": "local/suceava/radauti/2026/101",
+   "short": "HCL Rădăuți nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 101/2026",
+   "url": "https://primariaradauti.ro/hcl-101-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-101-din-29.05.2026.pdf",
+     "sha256": "1366a7529194c3be5b5977dbb384ad018fd7611bdfa24f6a9acac3e33414bf14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-102-2026",
+   "path": "local/suceava/radauti/2026/102",
+   "short": "HCL Rădăuți nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 102/2026",
+   "url": "https://primariaradauti.ro/hcl-102-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-102-din-29.05.2026.pdf",
+     "sha256": "c902fffada7f37891f4e5c870cdd9b35eba1d20cd9f21984faa95498707250ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-103-2026",
+   "path": "local/suceava/radauti/2026/103",
+   "short": "HCL Rădăuți nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 103/2026",
+   "url": "https://primariaradauti.ro/hcl-103-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-103-din-29.05.2026.pdf",
+     "sha256": "46bd1e9ee06e14d26aa0164a3eafbf00a291e58d2226b691f1b7296840769ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-104-2026",
+   "path": "local/suceava/radauti/2026/104",
+   "short": "HCL Rădăuți nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 104/2026 privind prelungirea duratei contractelor de închiriere a unor locuințe din fondul locativ de stat aparținând administrației publice locale situate în municipiul Rădăuți, județul Suceava Consiliul Local al municipiului Radauți, județul Suceava: Având în vedere - Referatul de aprobare al primarului municipiului Rădăuți, Bogdan-Andrei LOGHIN înregistrat sub nr. 99261/12.05.2026; - Raportul de special",
+   "url": "https://primariaradauti.ro/hcl-104-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-104-din-29.05.2026-blurat.pdf",
+     "sha256": "666cbaf138b558cd109285a098bdbfcc7d3dc8eab4c2334847e32621978752f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-105-2026",
+   "path": "local/suceava/radauti/2026/105",
+   "short": "HCL Rădăuți nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 105/2026",
+   "url": "https://primariaradauti.ro/hcl-105-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-105-din-29.05.2026.pdf",
+     "sha256": "a841fcff3d7a725c7cc0680096f5f1db15ced5cd8b8b7b679a843ebecdded412"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-106-2026",
+   "path": "local/suceava/radauti/2026/106",
+   "short": "HCL Rădăuți nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 106/2026",
+   "url": "https://primariaradauti.ro/hcl-106-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-106-din-29.05.2026-blurat.pdf",
+     "sha256": "e1adce8af31408e344b53e79bd073e954bb59fca3c095401e657ec24a53c45e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-107-2026",
+   "path": "local/suceava/radauti/2026/107",
+   "short": "HCL Rădăuți nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 107/2026",
+   "url": "https://primariaradauti.ro/hcl-107-din-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/06/HCL-nr.-107-din-29.05.2026-blurat.pdf",
+     "sha256": "8f3664ce7dad973286a0bfc89064d87469d47bbd86db8b4791403c3fcf40882c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--radauti-167-2026",
    "path": "local/suceava/radauti/2026/167",
    "short": "HCL Rădăuți nr. 167/2026",
