@@ -22,3 +22,15 @@ Act id: `ordin-transporturi-980-2011` (tags `ordin-transporturi-980-2011/<day>`;
 - Ordin transporturi nr. 980/2011: Anexa nr. 1 (NORMA 30/11/2011) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
 - Ordin transporturi nr. 980/2011: an annex it points to (Norma of 2011-11-30) is not in the records held, so it is not included. It will be added when a source for it is found.
 - Ordin transporturi nr. 980/2011: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 854 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. " sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Iași nr. 50/2026](../../../../instante/ca-iasi/sentinta/2026/50/)**, Monitorul Oficial nr. 458 din 29 mai 2026 · annulled in part · dispozițiile art. 55 ind. 1 alin. (3) și alin. (10); dispozițiile art. 55 ind. 1 alin. (9)
+
+  > Anulează dispozițiile art. 55 ind. 1 alin. (3) și alin. (10) din Ordinul MTI nr. 980/2011 , introduse prin art. I pct. 9 din Ordinul MT nr. 132/2025 din 11 februarie 2025, publicat în Monitorul Oficial nr. 190 din 5 martie 2025. \[…\] Anulează în parte dispozițiile art. 55 ind. 1 alin. (9) din Ordinul MTI nr. 980/2011 , introduse prin art. I pct. 9 din Ordinul MT nr. 132/2025 din 11 februarie 2025, publicat în Monitorul Oficial nr. 190 din 5 martie 2025, în ceea ce privește impunerea obligației de a obține avizul de la autoritatea administrației publice locale.
+
+- **[Sentința Curții de Apel Iași nr. 71/2026](../../../../instante/ca-iasi/sentinta/2026/71/)**, Monitorul Oficial nr. 483 din 11 iunie 2026 · annulled in part · dispozițiile art. 55 ind. 1 alin. (3) și alin. (10); dispozițiile art. 55 ind. 1 alin. (9)
+
+  > Anulează dispozițiile art. 55 ind. 1 alin. (3) și alin. (10) din Ordinul ministrului transporturilor și infrastructurii nr. 980/2011 , introduse prin art. I pct. 9 din Ordinul ministrului transporturilor nr. 132 din 11.02.2025 , publicat în Monitorul Oficial nr. 190 din 5 martie 2025. \[…\] Anulează, în parte, dispozițiile art. 55 ind. 1 alin. (9) din Ordinul ministrului transporturilor și infrastructurii nr. 980/2011 , introduse prin art. I pct. 9 din Ordinul ministrului transporturilor nr. 132 din 11.02.2025 , publicat în Monitorul Oficial nr. 190 din 5 martie 2025, în ceea ce privește impunerea obligației de a obține avizul de la autoritatea administrației publice locale.

@@ -20,3 +20,11 @@ Act id: `ordin-ancpi-600-2023` (tags `ordin-ancpi-600-2023/<day>`; `python tools
 - Ordin ancpi nr. 600/2023: the signatures and the place and date line after its last article are not article text.
 - Ordin ancpi nr. 600/2023: Anexa nr. 1 (REGULAMENT de recepție și înscriere în evidențele de cadastru și carte funciară) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin ancpi nr. 600/2023: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 125 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bl. P33, parter, sectorul 5, Buc" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Brașov nr. 178/2024](../../../../instante/ca-brasov/sentinta/2024/178/)**, Monitorul Oficial nr. 1058 din 18 noiembrie 2025 · annulled in part · art. 98 alin. (2)
+
+  > Anulează art. 98 alin. (2) din Ordinul nr. 600/2023 din 8 februarie 2023 pentru aprobarea Regulamentului de recepție și înscriere în evidențele de cadastru și carte funciară emis de directorul general al Agenției Naționale de Cadastru și Publicitate Imobiliară.

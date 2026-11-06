@@ -13476,6 +13476,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-1421-2025",
+"path": "ordin/finante/2025/1421",
+"kind": "ordin",
+"year": "2025",
+"number": "1421",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.421/2025 referitor la datele de la care se aplică anumite cerințe de raportare privind durabilitatea",
+"short": "Ordin finante nr. 1421/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-22",
+"latest": "2025-08-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301556",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-1428-2025",
 "path": "ordin/finante/2025/1428",
 "kind": "ordin",
@@ -18131,6 +18150,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-839-2025",
+"path": "ordin/sanatate/2025/839",
+"kind": "ordin",
+"year": "2025",
+"number": "839",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 839/2025 ORDIN nr. 839/1.372/2025 pentru modificarea și completarea Ordinului ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.782/576/2006 privind înregistrarea și raportarea statistică a pacienților care primesc servicii medicale în regim de spitalizare continuă și spitalizare de zi",
+"short": "Ordin sanatate nr. 839/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301808",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1372",
+"date": "2025-08-22",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1372-2025"
+}
+]
+},
+{
 "slug": "ordin-sanatate-852-2025",
 "path": "ordin/sanatate/2025/852",
 "kind": "ordin",
@@ -18343,6 +18389,25 @@
 "alias": "ordin-cnas-1512-2025"
 }
 ]
+},
+{
+"slug": "ordin-sanatate-985-2025",
+"path": "ordin/sanatate/2025/985",
+"kind": "ordin",
+"year": "2025",
+"number": "985",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 985/2025 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de Ambulanță București-Ilfov al Municipiului București și al Județului Ilfov",
+"short": "Ordin sanatate nr. 985/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296417",
+"issuer": "sanatate",
+"joint": []
 },
 {
 "slug": "ordin-sanatate-1018-2025",

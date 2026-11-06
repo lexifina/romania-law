@@ -137,3 +137,15 @@ Act id: `ordin-educatie-5229-2020` (tags `ordin-educatie-5229-2020/<day>`; `pyth
 - Ordin educatie nr. 5229/2020: Anexa nr. 1 (METODOLOGIE din 17 august 2020 privind organizarea și desfășurarea procesului de obținere a atestatului de abilitare) is part of the order and is published in its folder, anexa-1/ (35 articles), from document 229581 of the official web service.
 - Ordin educatie nr. 5229/2020: Anexa nr. 2 (METODOLOGIE din 17 august 2020 de evaluare a tezelor de doctorat) is part of the order and is published in its folder, anexa-2/ (33 articles), from document 229582 of the official web service.
 - Ordin educatie nr. 5229/2020: Anexa nr. 3 (METODOLOGIE din 17 august 2020 privind soluționarea sesizărilor cu privire la nerespectarea standardelor de calitate sau de etică profesională, inclusiv cu privire la existența plagiatului, în cadrul ...) is part of the order and is published in its folder, anexa-3/ (35 articles), from document 229583 of the official web service.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 1028/2021](../../../../instante/ca-bucuresti/sentinta/2021/1028/)**, Monitorul Oficial nr. 378 din 23 aprilie 2024 · annulled in part
+
+  > Anulează în parte Ordinul Ministerului Educației și Cercetării nr. 5.229/2020 , doar în ceea ce privește art. 10 lit. a) din Metodologia privind organizarea și desfășurarea procesului de obținere a atestatului de abilitare, aprobată prin ordinul indicat și prevăzută în anexa nr. 1 la acest ordin.
+
+- **[Sentința Curții de Apel București nr. 1028/2021](../../../../instante/ca-bucuresti/sentinta/2021/1028/)**, Monitorul Oficial nr. 378 din 23 aprilie 2024 · suspended until the merits were decided
+
+  > Suspendă executarea în parte a Ordinului Ministerului Educației și Cercetării nr. 5.229/2020 , doar în ceea ce privește art. 10 lit. a) din Metodologia privind organizarea și desfășurarea procesului de obținere a atestatului de abilitare, aprobată prin ordinul indicat și prevăzută în anexa nr. 1 la acest ordin.

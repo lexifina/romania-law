@@ -17,3 +17,11 @@ Act id: `hg-1217-2003` (tags `hg-1217-2003/<day>`; `python tools/on.py <day> hg-
 - HG nr. 1217/2003: the first version is the Government decision as published in Monitorul Oficial nr. 755 of 28 October 2003 (DetaliiDocumentAfis/47255), dated 1 January 2004: its art. 2 puts it in force on 1 January 2004. The portal holds no consolidated form before 20 August 2004, so the changes made up to then arrive together that day.
 - HG nr. 1217/2003: 1 changed article(s) with no note naming a law, committed as the publisher's: 2004-08-20 art-001.
 - HG nr. 1217/2003: forms with no change after normalisation, so no version: 2017-04-05 (187431), 2019-06-18 (214477).
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 2682/2016](../../../instante/ca-bucuresti/sentinta/2016/2682/)**, Monitorul Oficial nr. 492 din 18 iunie 2019 · annulled in part
+
+  > Anulează în parte Hotărârea Guvernului nr. 1.217/2003 , astfel cum a fost modificată prin Hotărârea Guvernului nr. 1.301/2004 , respectiv în ceea ce privește art. 7 din Normele metodologice .

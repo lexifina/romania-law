@@ -27,3 +27,11 @@ Act id: `ordin-mediu-2482-2022` (tags `ordin-mediu-2482-2022/<day>`; `python too
 - Ordin mediu nr. 2482/2022: the first version is the order as published in Monitorul Oficial nr. 960 of 3 October 2022 (document 259814 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin mediu nr. 2482/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin mediu nr. 2482/2022: Anexa nr. 1 (SITUAȚIA cotelor de recoltă la specia cocoș de munte (mascul) Nr. crt. Fondul cinegetic Cota de recoltă aprobată pentru sezonul de vânătoare 2022-2023 Nr. Denumirea Gestionarul 0 1 2 3 4 1 47 Prigoana) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 259814 of the official web service.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Brașov nr. 57/2023](../../../../instante/ca-brasov/sentinta/2023/57/)**, Monitorul Oficial nr. 922 din 7 octombrie 2025 · annulled
+
+  > Anulează Ordinul ministrului mediului, apelor și pădurilor nr. 2.482/16.09.2022 privind aprobarea cotelor de recoltă pentru specia cocoș de munte (Tetrao urogallus) pentru perioada septembrie-30 noiembrie 2022, precum și anexa la acest ordin, publicate în Monitorul Oficial al României, Partea I, nr. 960 din 3.10.2022.

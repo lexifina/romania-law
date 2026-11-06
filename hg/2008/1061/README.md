@@ -42,3 +42,11 @@ Act id: `hg-1061-2008` (tags `hg-1061-2008/<day>`; `python tools/on.py <day> hg-
 - HG nr. 1061/2008: the newest form held is that of 29.12.2008; amendments in force after it may be missing.
 - HG nr. 1061/2008: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - HG nr. 1061/2008: the first version is the Government decision as published in Monitorul Oficial nr. 672 of 30 September 2008 (DetaliiDocumentAfis/97706), dated 29 December 2008: its art. 29 puts it in force 90 days after publication. The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/97706) prints the same text.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Pitești nr. 225f/2024](../../../instante/ca-pitesti/sentinta/2024/225f/)**, Monitorul Oficial nr. 51 din 23 ianuarie 2026 · annulled in part · dispozițiile art. 25 alin. (3)
+
+  > Anulează dispozițiile art. 25 alin. (3) din Hotărârea Guvernului nr. 1.061/2008 privind transportul deșeurilor periculoase și nepericuloase pe teritoriul României.

@@ -19,3 +19,11 @@ Act id: `ordin-cnas-617-2007` (tags `ordin-cnas-617-2007/<day>`; `python tools/o
 - Ordin cnas nr. 617/2007: the first version is the order as published in Monitorul Oficial nr. 649 of 24 September 2007 (document 85584 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin cnas nr. 617/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin cnas nr. 617/2007: Anexa nr. 1 (NORMA 13/08/2007) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 835/2012](../../../../instante/ca-bucuresti/sentinta/2012/835/)**, Monitorul Oficial nr. 243 din 4 aprilie 2014 · annulled in part · dispoziţiile art. 35 alin. 1
+
+  > Anulează în parte dispoziţiile art. 35 alin. 1 din Ordinul preşedintelui CNAS nr. 617/2007 în privinţa posibilităţii organului competent al CAS de a emite decizii de impunere.

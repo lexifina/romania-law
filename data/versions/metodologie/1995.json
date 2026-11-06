@@ -16,6 +16,21 @@
      "sha256": "d303b59e23cd1f0e0c27fb2a47bfd5c434500f8a37cda80d56319d645064536d"
     }
    ]
+  },
+  {
+   "slug": "metodologie-finante-636-1995",
+   "path": "metodologie/finante/1995/636",
+   "short": "Metodologie finante nr. 636/1995",
+   "title": "Metodologia nr. 636/1995 ÎNDRUMĂRI METODOLOGICE cu privire la modul de încadrare a personalului din sectorul bugetar potrivit statului de funcții care se aproba anual, potrivit legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7157",
+   "versions": [
+    {
+     "from": "1995-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7157",
+     "sha256": "a578e849baffcc940c22e9a807016b49fadbd60d975ec0a845cac6d3b157bc24"
+    }
+   ]
   }
  ]
 }

@@ -1,3 +1,32 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 codul-penal-1969,current,2026-02-16,,consolidated-form,legea-187-2012,2014-02-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/38070
 codul-procedura-penala-1968,current,2026-07-20,,consolidated-form,legea-255-2013,2014-02-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/38111
+legea-1-1968,pending-change,2026-11-06,2026-11-13,amendment-search,,1986-10-29,no,https://legislatie.just.ro/Public/DetaliiDocument/75006
+legea-10-1968,pending-change,2026-11-06,2026-11-13,amendment-search,legea-5-1973,1980-12-31,no,https://legislatie.just.ro/Public/DetaliiDocument/46592
+legea-12-1968,pending-change,2026-11-06,2026-11-13,amendment-search,,1974-06-19,no,https://legislatie.just.ro/Public/DetaliiDocument/46716
+legea-13-1968,pending-change,2026-11-06,2026-11-13,amendment-search,,2001-05-16,no,https://legislatie.just.ro/Public/DetaliiDocument/22597
+legea-14-1968,pending-change,2026-11-06,2026-11-13,amendment-search,,1990-02-09,no,https://legislatie.just.ro/Public/DetaliiDocument/195
+legea-16-1968,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1608-2009,2010-01-08,no,https://legislatie.just.ro/Public/DetaliiDocument/196
+legea-19-1968,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/198
+legea-20-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46644
+legea-21-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46561
+legea-22-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46645
+legea-23-1968,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1173-2011,2011-12-07,no,https://legislatie.just.ro/Public/DetaliiDocument/46646
+legea-24-1968,pending-change,2026-11-06,2026-11-13,amendment-search,,1972-04-19,no,https://legislatie.just.ro/Public/DetaliiDocument/46647
+legea-3-1968,pending-change,2026-11-06,2026-11-13,amendment-search,hg-2747-1968,1968-12-16,no,https://legislatie.just.ro/Public/DetaliiDocument/46891
+legea-30-1968,pending-change,2026-11-06,2026-11-13,amendment-search,,2000-11-15,no,https://legislatie.just.ro/Public/DetaliiDocument/199
+legea-31-1968,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/200
+legea-32-1968,pending-change,2026-11-06,2026-11-13,amendment-search,legea-455-2001,2014-04-30,no,https://legislatie.just.ro/Public/DetaliiDocument/201
+legea-35-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46776
+legea-37-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46777
+legea-38-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46778
+legea-39-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46779
+legea-4-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46780
+legea-40-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46068
+legea-41-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46069
+legea-5-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46781
+legea-55-1968,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/46782
+legea-56-1968,pending-change,2026-11-06,2026-11-13,amendment-search,,1986-10-29,no,https://legislatie.just.ro/Public/DetaliiDocument/26843
+legea-58-1968,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1608-2009,2010-01-08,no,https://legislatie.just.ro/Public/DetaliiDocument/203
+legea-60-1968,pending-change,2026-11-06,2026-11-13,amendment-search,legea-92-1992,1997-09-30,no,https://legislatie.just.ro/Public/DetaliiDocument/205
+legea-61-1968,pending-change,2026-11-06,2026-11-13,amendment-search,legea-2-1977,1977-07-08,no,https://legislatie.just.ro/Public/DetaliiDocument/28808

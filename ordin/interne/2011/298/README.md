@@ -67,3 +67,11 @@ Act id: `ordin-interne-298-2011` (tags `ordin-interne-298-2011/<day>`; `python t
 - Ordin interne nr. 298/2011: the first version is the order as published in Monitorul Oficial nr. 929 of 28 December 2011 (document 134125 of the official web service), in force on 1 January 2012, the day it states for itself.
 - Ordin interne nr. 298/2011: the signatures and the place and date line after its last article are not article text.
 - Ordin interne nr. 298/2011: the publisher's note "*) Ordinul ministrului administraţiei şi internelor nr. 300/2004 nu a fost publicat în Monitorul Oficial al României, Partea I, deoarece are ca obiect reglementări din sectorul naţional de apărare, or" is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 690/2023](../../../../instante/ca-bucuresti/sentinta/2023/690/)**, Monitorul Oficial nr. 556 din 14 iunie 2024 · annulled
+
+  > Anulează Ordinul MAI nr. 298/2011 .

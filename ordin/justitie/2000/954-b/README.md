@@ -98,3 +98,11 @@ Act id: `ordin-justitie-954-b-2000` (tags `ordin-justitie-954-b-2000/<day>`; `py
 - Ordin justitie nr. 954/B/2000: the first version is the order as published in Monitorul Oficial nr. 214 of 16 May 2000 (document 22356 of the official web service), in force on its day of publication, as it states.
 - Ordin justitie nr. 954/B/2000: the signatures and the place and date line after its last article are not article text.
 - Ordin justitie nr. 954/B/2000: Anexa nr. 1 (REGULAMENT din 26 aprilie 2000 privind organizarea Registrului asociațiilor și fundațiilor, Registrului federațiilor și Registrului național al persoanelor juridice fără scop patrimonial) is part of the order and is published in its folder, anexa-1/ (62 articles), from document 22357 of the official web service.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Constanța nr. 225/2022](../../../../instante/ca-constanta/sentinta/2022/225/)**, Monitorul Oficial nr. 1145 din 19 decembrie 2023 · annulled in part · dispozițiile art. 25 din Regulamentul din 26.04.2000 privind organizarea Registrului asociațiilor și fundațiilor, Registrului federațiilor și Registrului național al persoanelor juridice fără scop patrimonial, aprobat de
+
+  > Anulează dispozițiile art. 25 din Regulamentul din 26.04.2000 privind organizarea Registrului asociațiilor și fundațiilor, Registrului federațiilor și Registrului național al persoanelor juridice fără scop patrimonial, aprobat de Ordinul nr. 954/B/C/2000 emis de Ministerul Justiției.

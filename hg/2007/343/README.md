@@ -15,3 +15,23 @@ Act id: `hg-343-2007` (tags `hg-343-2007/<day>`; `python tools/on.py <day> hg-34
 - HG nr. 343/2007: the Government decision has a single article ("Articol unic"), filed as art-001.
 - HG nr. 343/2007: repealed in full by Legea nr. 65/2015 after its newest form, read from the repealing act (Hotararea Guvernului nr. 343/2007 privind modificarea si completarea Hotararii Guvernului nr. 1.886/2006 pentru stabilir); the last version, of 5 April 2015, removes every article.
 - HG nr. 343/2007: AMENDMENTS NOT APPLIED. This act was amended (by:  Hotararea Guvernului nr. 343/2007 din 11 aprilie 2007 a fost emisa pentru modifi; legea-65-2015 ... b) Hotararea Guvernului nr. 343/2007 privind modificarea si completarea Hota; Autorii exceptiei arata ca Hotararea Guvernului nr. 343/2007 privind modificarea), but the Portalul legislativ publishes no consolidated text of it: its current text there is the act as published (checked against a copy of the portal's texts of 3 November 2026). This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 81303, retrieved 2026-11-03; read the amending acts for the text in force.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 2838/2008](../../../instante/ca-bucuresti/sentinta/2008/2838/)**, Monitorul Oficial nr. 872 din 15 decembrie 2009 · annulled in part
+
+  > Anulează parţial Hotărârea Guvernului nr. 343/2007 , şi anume anexa nr. 1, alin. 2.
+
+- **[Sentința Curții de Apel București nr. 2838/2008](../../../instante/ca-bucuresti/sentinta/2008/2838/)**, Monitorul Oficial nr. 872 din 15 decembrie 2009 · suspended until the merits were decided
+
+  > Suspendă executarea Hotărârii Guvernului nr. 343/2007 - anexa nr. 1, alin. 2, până la soluţionarea irevocabilă a cauzei.
+
+- **[Sentința Curții de Apel București nr. 1603/2008](../../../instante/ca-bucuresti/sentinta/2008/1603/)**, Monitorul Oficial nr. 240 din 6 aprilie 2011 · annulled in part
+
+  > Anulează parţial Hotărârea Guvernului nr. 343/2007 , şi anume anexa nr. 1 (alin. 2).
+
+- **[Sentința Curții de Apel București nr. 1603/2008](../../../instante/ca-bucuresti/sentinta/2008/1603/)**, Monitorul Oficial nr. 240 din 6 aprilie 2011 · suspended until the merits were decided
+
+  > Suspendă executarea Hotărârii Guvernului nr. 343/2007 - anexa nr. 1 (alin. 2), până la soluţionarea irevocabilă a cauzei.

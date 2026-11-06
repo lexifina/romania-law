@@ -21,3 +21,11 @@ Act id: `ordin-turism-963-2022` (tags `ordin-turism-963-2022/<day>`; `python too
 - Ordin turism nr. 963/2022: the signatures and the place and date line after its last article are not article text.
 - Ordin turism nr. 963/2022: Anexa nr. 1 (PROCEDURĂ de implementare a măsurii "Granturi pentru capital de lucru acordate entităților din domeniul agroalimentar" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență nr. 61/) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 255662 of the official web service.
 - Ordin turism nr. 963/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 511 bis, care se poate achiziționa de la Biroul pentru relații cu publicul din Str. Parcului nr. 65, intrarea A, sectorul 1, Bucureș" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Iași nr. 66/2024](../../../../instante/ca-iasi/sentinta/2024/66/)**, Monitorul Oficial nr. 51 din 23 ianuarie 2026 · annulled in part · art. 7.8 din Procedura aprobată prin
+
+  > Dispune anularea art. 7.8 din Procedura aprobată prin Ordinul Ministerului Antreprenoriatului și Turismului nr. 963/2022 privind implementarea măsurii „Granturi pentru capital de lucru acordate entităților din domeniul agroalimentar“ din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 61/2022 privind unele măsuri pentru acordarea de microgranturi și granturi pentru capital de lucru entităților din domeniul agroalimentar cu finanțare din fonduri externe nerambursabile.

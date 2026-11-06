@@ -250,6 +250,7 @@ def apply_court_effects(c: dict, folder: Path) -> list[str]:
     """Adds the court versions of court-effects.json to the corpus; returns what was left out, with the reason.
     Also reads the court notes (court_notes(): findings shown in the act's README, its text unchanged)."""
     c['_court_notes'] = court_notes(folder)
+    c['_court_annulments'] = court_annulments(folder)
     data = court_effects(folder)
     skipped = []
     if not data:
@@ -369,6 +370,62 @@ def court_notes_section(where: str, notes: list[dict]) -> list[str]:
                 f' · {NOTE_KINDS.get(n["group"], n["group"])}')
         rows += ['', head, '', f'  > {_md(n["words"])}', '', f'  {n["effect"]} The text here is unchanged; read the decision.']
     return rows
+
+
+# ---------------------------------------------------------------- lower-court annulments noted, not applied
+# (sources/courts, 2026-11-06) Final court decisions published in the Monitorul Oficial that annul, suspend or find
+# unlawful provisions of a normative administrative act (Legea nr. 554/2004 art. 4, 14-15, 23) are listed in that act's
+# README; its text is unchanged. The rows are data/court-annulments.csv, published through data-extra.json
+# ("court-annulments.csv": sources/courts/ready/data/court-annulments.csv, written by sources/courts/courts_lane.py).
+
+COURT_ANNULMENTS = 'court-annulments.csv'
+ANNULMENT_KINDS = {
+    'annulled': 'annulled',
+    'annulled-in-part': 'annulled in part',
+    'illegality-found': 'found unlawful on an objection of illegality (not annulled)',
+    'suspended': 'suspended until the merits were decided',
+}
+
+
+def court_annulments(folder: Path) -> dict[str, list[dict]]:
+    """{act folder: [row, ...]} from the file data-extra.json names as court-annulments.csv; {} when there is none."""
+    try:
+        src = json.loads((Path(folder) / 'data-extra.json').read_text(encoding='utf-8')).get(COURT_ANNULMENTS)
+        if not src or src == 'REMOVE' or not Path(src).exists():
+            return {}
+        rows = list(csv.DictReader(io.StringIO(Path(src).read_text(encoding='utf-8'))))
+    except (OSError, ValueError):
+        return {}
+    out: dict[str, list[dict]] = {}
+    for r in rows:
+        if r.get('act_folder') and r.get('outcome') in ANNULMENT_KINDS:
+            out.setdefault(r['act_folder'], []).append(r)
+    return out
+
+
+def court_annulments_section(where: str, rows: list[dict], on_main: set | None = None) -> list[str]:
+    """The README section for court decisions on an act; links to a decision only when its folder is in the corpus."""
+    if not rows:
+        return []
+    up = '../' * len(where.split('/'))
+    out = ['', '## Court decisions on this act', '',
+           'Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul '
+           'Oficial. A final decision annulling a normative administrative act is generally binding and has effect only '
+           'for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. '
+           '`data/court-annulments.csv` lists every such decision.']
+    for r in sorted(rows, key=lambda r: (r['mo_date'] or r['decision_date'], r['decision_folder'])):
+        lab = _md(r['decision'])
+        if on_main is None or r['decision_folder'] in on_main:
+            lab = f'[{lab}]({up}{r["decision_folder"]}/)'
+        pub = ''
+        if r.get('mo_number') and r.get('mo_date'):
+            y, mth, d = r['mo_date'].split('-')
+            pub = f', Monitorul Oficial nr. {r["mo_number"]} din {int(d)} {RO_MONTHS[int(mth) - 1]} {y}'
+        head = f'- **{lab}**{pub} · {ANNULMENT_KINDS[r["outcome"]]}' + (f' · {_md(r["provisions"])}' if r['provisions'] else '')
+        out += ['', head]
+        if r.get('words'):
+            out += ['', f'  > {_md(r["words"])}']
+    return out
 
 
 def validate(c: dict) -> list[str]:
@@ -892,6 +949,7 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
     for e in log:
         wr.writerow([e['day'], e['kind'], e['law'] or '', ' '.join(e['acts']), e['units'], e['branch']])
     out['data/commits.csv'] = buf.getvalue()
+    on_main = None
     for a in c['acts']:
         counts: dict[str, int] = {}
         last: dict[str, str] = {}
@@ -924,6 +982,11 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
                      for (d, k), r in sorted(fixes.items())]
         where = a.get('path') or a['slug']
         rows += court_notes_section(where, c.get('_court_notes', {}).get(where, []))
+        ann = c.get('_court_annulments', {}).get(where, [])
+        if ann:  # the set of act folders is built once, only when an act has annulments (it was per act: quadratic)
+            if on_main is None:
+                on_main = {x.get('path') or x['slug'] for x in c.get('acts', [])}
+            rows += court_annulments_section(where, ann, on_main)
         out[f'{where}/README.md'] = '\n'.join(rows) + '\n'
     return out
 

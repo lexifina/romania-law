@@ -131,3 +131,11 @@ Act id: `ordin-justitie-210-2001` (tags `ordin-justitie-210-2001/<day>`; `python
 - Ordin justitie nr. 210/2001: the first version is the order as published in Monitorul Oficial nr. 64 of 6 February 2001 (document 26534 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin justitie nr. 210/2001: the signatures and the place and date line after its last article are not article text.
 - Ordin justitie nr. 210/2001: Anexa nr. 1 (REGULAMENT din 5 februarie 2001 de aplicare a Legii nr. 188/2000 privind executorii judecătorești) is part of the order and is published in its folder, anexa-1/ (112 articles), from document 26535 of the official web service.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Iași nr. 243/2024](../../../../instante/ca-iasi/sentinta/2024/243/)**, Monitorul Oficial nr. 398 din 12 mai 2026 · annulled in part · art. 46 ind. 1 alineat (1) din Regulamentul de aplicare a Legii nr. 188/2000 , aprobat prin
+
+  > Anulează art. 46 ind. 1 alineat (1) din Regulamentul de aplicare a Legii nr. 188/2000 , aprobat prin Ordinul MJ nr. 210/2001 , și în parte Ordinul MJ nr. 501/2023, respectiv în privința numărului de posturi de executori judecătorești aferent circumscripției Judecătoriei Buhuși.

@@ -17,3 +17,11 @@ Act id: `hg-44-2004` (tags `hg-44-2004/<day>`; `python tools/on.py <day> hg-44-2
 - HG nr. 44/2004: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - HG nr. 44/2004: the first version is the Government decision as published in Monitorul Oficial nr. 112 of 6 February 2004 (DetaliiDocumentAfis/49624), dated 6 February 2004: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). The portal holds no consolidated form before 1 June 2015, so the changes made up to then arrive together that day.
 - HG nr. 44/2004: 1 changed article(s) with no note naming a law, committed as the publisher's: 2015-06-01 art-002.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 3277/2012](../../../instante/ca-bucuresti/sentinta/2012/3277/)**, Monitorul Oficial nr. 152 din 3 martie 2015 · annulled in part · Normele metodologice pct. 3 alin. (7^1) la art. 127 din Codul fiscal, aprobate prin
+
+  > Anulează Normele metodologice pct. 3 alin. (7^1) la art. 127 din Codul fiscal, aprobate prin Hotărârea Guvernului nr. 44/2004 .

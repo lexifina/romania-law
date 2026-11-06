@@ -26,3 +26,11 @@ Act id: `hg-579-2016` (tags `hg-579-2016/<day>`; `python tools/on.py <day> hg-57
 - HG nr. 579/2016: the forms print articles with typesetting changes only (diacritics, spacing, "art." spelt "articolul"), under no note; that is the publisher's typesetting, credited to no law.
 - HG nr. 579/2016: 2 changed article(s) with no note naming a law, committed as the publisher's: 2021-08-05 art-002, 2021-08-05 art-004.
 - HG nr. 579/2016: forms with no change after normalisation, so no version: 2022-07-04 (256368), 2024-09-19 (288409).
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Timișoara nr. 416/2022](../../../instante/ca-timisoara/sentinta/2022/416/)**, Monitorul Oficial nr. 942 din 19 septembrie 2024 · annulled in part · art. 83 alin. (1) din anexa
+
+  > Dispune anularea art. 83 alin. (1) din anexa la H.G. nr. 579/2016 , astfel cum a fost modificată prin H.G. nr. 798/2021 .

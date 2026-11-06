@@ -30,3 +30,11 @@ Act id: `ordin-educatie-3890-2011` (tags `ordin-educatie-3890-2011/<day>`; `pyth
 - Ordin educatie nr. 3890/2011: the first version is the order as published in Monitorul Oficial nr. 225 of 31 March 2011 (document 127236 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin educatie nr. 3890/2011: the signatures and the place and date line after its last article are not article text.
 - Ordin educatie nr. 3890/2011: Anexa nr. 1 (NORME METODOLOGICE din 10 martie 2011 de aplicare a Legii nr. 235/2010 pentru acordarea burselor de merit olimpic internațional elevilor premiați la olimpiadele școlare internaționale) is part of the order and is published in its folder, anexa-1/ (10 articles), from document 127237 of the official web service.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Târgu Mureș nr. 176/2018](../../../../instante/ca-targu-mures/sentinta/2018/176/)**, Monitorul Oficial nr. 1095 din 14 noiembrie 2022 · annulled in part · sintagma „în calitate de membri ai lotului național“ cuprinsă în art. 7
+
+  > Anulează sintagma „în calitate de membri ai lotului național“ cuprinsă în art. 7 al Ordinului nr. 3.890/2011 emis de Ministerul Educației, Cercetării, Tineretului și Sportului.

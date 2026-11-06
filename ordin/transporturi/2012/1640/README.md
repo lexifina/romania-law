@@ -40,3 +40,15 @@ Act id: `ordin-transporturi-1640-2012` (tags `ordin-transporturi-1640-2012/<day>
 - Ordin transporturi nr. 1640/2012: Anexa nr. 4 (4 a) [Anexa nr. 45 a) la normele metodologice] Model certificat de competență profesională COMUNITATEA EUROPEANĂ (Culoare Pantone bej 467 sau cât mai aproape posibil de această culoare, format DIN A4) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 143101 of the official web service.
 - Ordin transporturi nr. 1640/2012: Anexa nr. 5 (4 b) [Anexa nr. 45 b) la normele metodologice] Model certificat de competență profesională COMUNITATEA EUROPEANĂ (Culoare Pantone bej 467 sau cât mai aproape posibil de această culoare, format DIN A4) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 143101 of the official web service.
 - Ordin transporturi nr. 1640/2012: Anexa nr. 6 (5 (Anexa nr. 46 la normele metodologice) 1. Plăcuța pe care sunt înscrise dimensiunile vehiculului constă dintr-un autocolant pe care sunt înscrise următoarele date: a) numele producătorului vehiculul) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 143101 of the official web service.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 1929/2013](../../../../instante/ca-bucuresti/sentinta/2013/1929/)**, Monitorul Oficial nr. 52 din 25 ianuarie 2016 · annulled in part · punctul 2 teza a doua şi punctul 6 din anexa nr. 2
+
+  > Anulează punctul 2 teza a doua şi punctul 6 din anexa nr. 2 la Ordinul nr. 1.640/2012 emis de pârât.
+
+- **[Sentința Curții de Apel Timișoara nr. 68/2014](../../../../instante/ca-timisoara/sentinta/2014/68/)**, Monitorul Oficial nr. 602 din 8 august 2016 · annulled in part · de Ministerul Transporturilor şi Infrastructurii nr. 1.614/2012, precum şi a dispoziţiilor pct. 6 din anexa nr. 2
+
+  > Dispune anularea dispoziţiilor punctului 6 din anexa nr. 2 la Ordinul comun emis de Ministerul Administraţiei şi Internelor nr. 240 din 4.10.2012 şi de Ministerul Transporturilor şi Infrastructurii nr. 1.614 din 1.11.2012, precum şi a dispoziţiilor pct. 6 din anexa nr. 2 la Ordinul nr. 1.640 din 8.11.2012 , emis de Ministerul Transporturilor şi Infrastructurii.

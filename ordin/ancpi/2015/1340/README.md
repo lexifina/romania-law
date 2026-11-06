@@ -20,3 +20,11 @@ Act id: `ordin-ancpi-1340-2015` (tags `ordin-ancpi-1340-2015/<day>`; `python too
 - Ordin ancpi nr. 1340/2015: Anexa nr. 1 (ANEXA 26/11/2015) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
 - Ordin ancpi nr. 1340/2015: an annex it points to (Anexa of 2015-11-26) is not in the records held, so it is not included. It will be added when a source for it is found.
 - Ordin ancpi nr. 1340/2015: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 914 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. " sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Brașov nr. 113/2016](../../../../instante/ca-brasov/sentinta/2016/113/)**, Monitorul Oficial nr. 890 din 23 octombrie 2018 · annulled in part
+
+  > Anulează în parte Ordinul nr. 1.340/2015 emis de directorul general al Agenției Naționale de Cadastru și Publicitate Imobiliară în privința pct. 36, 48 și 53.

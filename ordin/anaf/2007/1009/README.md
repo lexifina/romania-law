@@ -58,3 +58,11 @@ Act id: `ordin-anaf-1009-2007` (tags `ordin-anaf-1009-2007/<day>`; `python tools
 - Ordin anaf nr. 1009/2007: Anexa nr. 6 (5 OFERTANTUL................................. nr......................./...................... (denumirea/numele, sediul social, numărul de telefon) DECLARAȚIE PE PROPRIA RĂSPUNDERE Având în vedere pr) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 84324 of the official web service.
 - Ordin anaf nr. 1009/2007: Anexa nr. 7 (6 INVITAȚIE DE PARTICIPARE Agenția Națională de Administrare Fiscală / Direcția Generală a Finanțelor Publice a Județului...... / Direcția Generală a Finanțelor Publice a Municipiului București / Dire) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 84324 of the official web service.
 - Ordin anaf nr. 1009/2007: Anexa nr. 8 (7 OFERTANTUL.................................... nr................../............................. (denumirea/numele, sediul social, numărul de telefon) FORMULAR DE OFERTĂ Către Agenția Națională de) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 84324 of the official web service.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 3717/2009](../../../../instante/ca-bucuresti/sentinta/2009/3717/)**, Monitorul Oficial nr. 186 din 22 martie 2012 · annulled in part · lit. d) a art. 2 alin. (3)
+
+  > Anulează lit. d) a art. 2 alin. (3) din Ordinul preşedintelui Agenţiei Naţionale de Administrare Fiscală nr. 1.009/2007 , precum şi pct. 2.1, doar în ceea ce priveşte acordarea punctajului pentru strategia de reorganizare şi/sau lichidare, în anexa nr. 1 la acelaşi ordin.

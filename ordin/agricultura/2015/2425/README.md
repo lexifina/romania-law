@@ -20,3 +20,11 @@ Act id: `ordin-agricultura-2425-2015` (tags `ordin-agricultura-2425-2015/<day>`;
 - Ordin agricultura nr. 2425/2015: Anexa nr. 1 (PROCEDURA 26/11/2015) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
 - Ordin agricultura nr. 2425/2015: an annex it points to (Procedura of 2015-11-26) is not in the records held, so it is not included. It will be added when a source for it is found.
 - Ordin agricultura nr. 2425/2015: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 889 bis, care se poate achiziţiona de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Oficial", Bucureşti, şos. " sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Pitești nr. 201f/2017](../../../../instante/ca-pitesti/sentinta/2017/201f/)**, Monitorul Oficial nr. 480 din 10 mai 2021 · annulled in part
+
+  > Anulează Ordinul MADR nr. 2.425/2015 în partea care aprobă capitolul IV pct. IV.6 „Efectuarea controlului pe teren“ din procedura de verificare și control privind schema de ajutor de stat pentru compensarea pagubelor cauzate de fenomenul meteorologic de secetă severă manifestat în perioada aprilie-septembrie 2015.

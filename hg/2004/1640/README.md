@@ -28,3 +28,4 @@ Act id: `hg-1640-2004` (tags `hg-1640-2004/<day>`; `python tools/on.py <day> hg-
 - HG nr. 1640/2004: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - HG nr. 1640/2004: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2005-06-03 (art-011; form 19.07.2005).
 - HG nr. 1640/2004: forms with no change after normalisation, so no version: 2004-12-03 (232103).
+- HG nr. 1640/2004: personal identifiers removed from the published text (1 home address): each is replaced by a short marker ("[CNP omis]", "[data nașterii omisă]" or "[adresa omisă]"). Every other word, names included, is as the Monitorul Oficial printed it.

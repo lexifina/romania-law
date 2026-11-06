@@ -22,3 +22,11 @@ Act id: `ordin-sanatate-119-2014` (tags `ordin-sanatate-119-2014/<day>`; `python
 - Ordin sanatate nr. 119/2014: the first version is the order as published in Monitorul Oficial nr. 127 of 21 February 2014 (document 155650 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 119/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 119/2014: Anexa nr. 1 (NORMA 04/02/2014) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Cluj nr. 138/2020](../../../../instante/ca-cluj/sentinta/2020/138/)**, Monitorul Oficial nr. 32 din 11 ianuarie 2023 · annulled in part · art. 20 al. 1 din anexa nr. 1
+
+  > Dispune anularea art. 20 al. 1 din anexa nr. 1 a Ordinului Ministerului Sănătății nr. 119 din 04.02.2014 pentru aprobarea Normelor de igienă și sănătate publică privind mediul de viață al populației, publicat în Monitorul Oficial al României nr. 127/21.02.2014.

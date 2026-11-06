@@ -30,3 +30,23 @@ Act id: `hg-977-2003` (tags `hg-977-2003/<day>`; `python tools/on.py <day> hg-97
 - HG nr. 977/2003: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 8 such paragraphs across all forms, for example «* NOTA C.T.C.E. S.A. Piatra-Neamț:», «Prin DECIZIA ÎNALTEI CURȚI DE CASAȚIE ȘI JUSTIȚIE - SECȚIA D», «Prin SENTINȚA CIVILĂ nr. 185 din 27 aprilie 2010, publicată ».
 - HG nr. 977/2003: 7 changed article(s) with no note naming a law, committed as the publisher's: 2016-04-22 art-001, 2016-04-22 art-002, 2016-04-22 art-003, 2016-04-22 art-005, 2016-04-22 art-006, 2016-04-22 art-007, 2016-04-22 art-008.
 - HG nr. 977/2003: forms with no change after normalisation, so no version: 2009-10-14 (112361), 2010-05-09 (132089), 2011-05-09 (132090).
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Cluj nr. 767/2008](../../../instante/ca-cluj/sentinta/2008/767/)**, Monitorul Oficial nr. 770 din 11 noiembrie 2009 · annulled in part · prevederile cuprinse în art. 3 alin. (1)
+
+  > Anulează prevederile cuprinse în art. 3 alin. (1) din Hotărârea Guvernului nr. 977/2003 şi ale art. 3 alin. (1) din Hotărârea Guvernului nr. 978/2003 .
+
+- **[Sentința Curții de Apel Cluj nr. 185/2010](../../../instante/ca-cluj/sentinta/2010/185/)**, Monitorul Oficial nr. 318 din 9 mai 2011 · annulled in part · prevederilor cuprinse în art. 3 alin. (2)
+
+  > Dispune anularea prevederilor cuprinse în art. 3 alin. (2) din Hotărârea Guvernului nr. 977 din 22 august 2003 şi a art. 3 alin. (2) din Hotărârea Guvernului nr. 978/2003 .
+
+- **[Sentința Curții de Apel Cluj nr. 471/2010](../../../instante/ca-cluj/sentinta/2010/471/)**, Monitorul Oficial nr. 309 din 9 mai 2012 · found unlawful on an objection of illegality (not annulled) · dispoziţiilor art. 3 alin. (2)
+
+  > Constată nelegalitatea dispoziţiilor art. 3 alin. (2) din Hotărârea Guvernului nr. 977/2003 .
+
+- **[Sentința Curții de Apel Târgu Mureș nr. 225/2013](../../../instante/ca-targu-mures/sentinta/2013/225/)**, Monitorul Oficial nr. 311 din 22 aprilie 2016 · found unlawful on an objection of illegality (not annulled) · dispoziţiilor art. 3 alin. 1 şi 1 ind. 1
+
+  > Constată nelegalitatea dispoziţiilor art. 3 alin. 1 şi 1 ind. 1 din HG nr. 977/2003 .

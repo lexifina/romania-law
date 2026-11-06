@@ -22,3 +22,11 @@ Act id: `ordin-economie-991-2021` (tags `ordin-economie-991-2021/<day>`; `python
 - Ordin economie nr. 991/2021: the signatures and the place and date line after its last article are not article text.
 - Ordin economie nr. 991/2021: Anexa nr. 1 (PROCEDURA de implementare a schemei de ajutor de stat prevăzută de Ordonanța de urgență a Guvernului nr. 224/2020 privind unele măsuri pentru acordarea de sprijin financiar pentru întreprinderile din) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 243245 of the official web service.
 - Ordin economie nr. 991/2021: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 594 bis, care se poate achiziționa de la Biroul pentru relații cu publicul din Str. Parcului nr. 65, intrarea A, sectorul 1, Bucureș" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Constanța nr. 200/2022](../../../../instante/ca-constanta/sentinta/2022/200/)**, Monitorul Oficial nr. 1061 din 23 octombrie 2024 · annulled in part
+
+  > Anulează în parte Ordinul nr. 991/14.06.2021 emis de Ministerul Economiei, Antreprenorialului și Turismului, publicat în Monitorul Oficial al României, Partea I, nr 594 bis din 14.06.2021, în ceea ce privește pct. 3.4 , 4.2 , 6.7 alin. (4) și art. 2 alin. (1) din anexa la ordin , care face parte integrantă din acesta.

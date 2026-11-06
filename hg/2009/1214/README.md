@@ -32,3 +32,11 @@ Act id: `hg-1214-2009` (tags `hg-1214-2009/<day>`; `python tools/on.py <day> hg-
 - HG nr. 1214/2009: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - HG nr. 1214/2009: the portal lists a form of 18 September 2025 (302094), which Lexifina could not obtain; the history ends at the newest form held, that of 20 December 2023, and shows nothing later (as for OUG nr. 32/2012).
 - HG nr. 1214/2009: forms with no change after normalisation, so no version: 2012-07-20 (168806), 2016-06-06 (179056), 2017-03-29 (187320), 2017-07-21 (191347).
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Brașov nr. 148/2024](../../../instante/ca-brasov/sentinta/2024/148/)**, Monitorul Oficial nr. 859 din 18 septembrie 2025 · annulled in part · art. 8 lit. b)
+
+  > Dispune anularea art. 8 lit. b) din Hotărârea Guvernului nr. 1.214/2009 privind metodologia pentru stabilirea și plata despăgubirilor ce se cuvin proprietarilor de animale tăiate, ucise sau altfel afectate în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor.

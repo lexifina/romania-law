@@ -20,3 +20,11 @@ Act id: `ordin-justitie-1322-c-2017` (tags `ordin-justitie-1322-c-2017/<day>`; `
 - Ordin justitie nr. 1322/C/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin justitie nr. 1322/C/2017: Anexa nr. 1 (REGULAMENT din 25 aprilie 2017 privind organizarea și desfășurarea activităților și programelor educative, de asistență psihologică și asistență socială din ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin justitie nr. 1322/C/2017: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 432 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome „Monitorul Oficial“, București, șos. " sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Cluj nr. 79/2024](../../../../instante/ca-cluj/sentinta/2024/79/)**, Monitorul Oficial nr. 990 din 28 octombrie 2025 · annulled in part · art. 86 alin. (2)
+
+  > Anulează în parte art. 86 alin. (2) din Ordinul ministrului justiției nr. 1.322/C/2017 pentru aprobarea Regulamentului din 25 aprilie 2017 privind organizarea și desfășurarea activităților și programelor educative, de asistență psihologică și asistență socială din locurile de deținere aflate în subordinea Administrației Naționale a Penitenciarelor, în sensul că înlătură din această prevedere sintagma „de conduita deținutului“.

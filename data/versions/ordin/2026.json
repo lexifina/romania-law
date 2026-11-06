@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ordin-aaas-6268-2026",
+   "path": "ordin/aaas/2026/6268",
+   "short": "Ordin aaas nr. 6268/2026",
+   "title": "Ordinul nr. 6.268/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 al Societății COMALEX - S.A. Alexandria, societate din portofoliul Autorității pentru Administrarea Activelor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313391",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313391",
+     "sha256": "6fbdcf9c3784876a4abd84e90a1e2fb03c0b380456ba0cb440d475eaad62ea14"
+    }
+   ]
+  },
+  {
    "slug": "ordin-achizitii-12-2026",
    "path": "ordin/achizitii/2026/12",
    "short": "Ordin achizitii nr. 12/2026",
@@ -4338,6 +4353,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-1013-2026",
+   "path": "ordin/economie/2026/1013",
+   "short": "Ordin economie nr. 1013/2026",
+   "title": "Ordinul nr. 1.013/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Șantierul Naval Mangalia - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313341",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313341",
+     "sha256": "e16f9fc03d221a9ac12c976471c6dfcaf4d6d85abff3dc630ecf91d008ee53f9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-102-2026",
    "path": "ordin/economie/2026/102",
    "short": "Ordin economie nr. 102/2026",
@@ -4383,6 +4413,36 @@
    ]
   },
   {
+   "slug": "ordin-economie-1067-2026",
+   "path": "ordin/economie/2026/1067",
+   "short": "Ordin economie nr. 1067/2026",
+   "title": "Ordinul nr. 1.067/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Mamaia - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313388",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313388",
+     "sha256": "8c33f64e6b9628f90243d84b9549e373a50d41b9104419a71ecd422842a14267"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1074-2026",
+   "path": "ordin/economie/2026/1074",
+   "short": "Ordin economie nr. 1074/2026",
+   "title": "Ordinul nr. 1.074/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Băița - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313344",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313344",
+     "sha256": "d32be018f839428c5a237f9be51ca489bfbbe513710379bfc3c38eea1d11acec"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1082-2026",
    "path": "ordin/economie/2026/1082",
    "short": "Ordin economie nr. 1082/2026",
@@ -4424,6 +4484,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314806",
      "sha256": "15929f8d56d941bf1ffe7057256fbc2f83d4dc15088776dfda93923d4de8fd5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1100-2026",
+   "path": "ordin/economie/2026/1100",
+   "short": "Ordin economie nr. 1100/2026",
+   "title": "Ordinul nr. 1.100/2026 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Titan Power - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315649",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315649",
+     "sha256": "0377d7c94202c7de691a0e314da3f4ca9bac6567acc247dd53245dd84a66c947"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1101-2026",
+   "path": "ordin/economie/2026/1101",
+   "short": "Ordin economie nr. 1101/2026",
+   "title": "Ordinul nr. 1.101/2026 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Medserv Min - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315360",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315360",
+     "sha256": "d8890ff3d96b3fd761cf16bf80c55f8aabd3e148cfb63b1cfa33240ec834b930"
     }
    ]
   },
@@ -4653,6 +4743,216 @@
    ]
   },
   {
+   "slug": "ordin-economie-1535-2026",
+   "path": "ordin/economie/2026/1535",
+   "short": "Ordin economie nr. 1535/2026",
+   "title": "Ordinul nr. 1.535/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea CONVERSMIN - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315128",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315128",
+     "sha256": "c7110650cad6eb9fc332e344eeb8a481b7e96d4a1bdd162daf6125a91ca3197f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1536-2026",
+   "path": "ordin/economie/2026/1536",
+   "short": "Ordin economie nr. 1536/2026",
+   "title": "Ordinul nr. 1.536/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Institutul de Cercetări Metalurgice \"ICEM\" - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315678",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315678",
+     "sha256": "4a85fe23e53322067ab0dee5faa62a0b8732fd36d20da210c26e9bcbe0a938c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1555-2026",
+   "path": "ordin/economie/2026/1555",
+   "short": "Ordin economie nr. 1555/2026",
+   "title": "Ordinul nr. 1.555/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Metrom - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315681",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315681",
+     "sha256": "0681ec3da49c2952a85cdf0f1ad34e1c33399c219687660a702c7f72f743418f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1560-2026",
+   "path": "ordin/economie/2026/1560",
+   "short": "Ordin economie nr. 1560/2026",
+   "title": "Ordinul nr. 1.560/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică București - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315684",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315684",
+     "sha256": "594a163f463b3f7f2713a8481d88942e6bac0bb6dc2baa7aaa2fb33576e63c40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1561-2026",
+   "path": "ordin/economie/2026/1561",
+   "short": "Ordin economie nr. 1561/2026",
+   "title": "Ordinul nr. 1.561/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Electromecanica Ploiești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315687",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315687",
+     "sha256": "0bbaa2d7ad507c1ef151151150f850f062d901a6e59cc729b34e44fe40433bd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1562-2026",
+   "path": "ordin/economie/2026/1562",
+   "short": "Ordin economie nr. 1562/2026",
+   "title": "Ordinul nr. 1.562/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315652",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315652",
+     "sha256": "9891e4ab82f0b323019a56b51f4d07b6a639a5de136db616bac0d8df10ade8a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1563-2026",
+   "path": "ordin/economie/2026/1563",
+   "short": "Ordin economie nr. 1563/2026",
+   "title": "Ordinul nr. 1.563/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Uzina de Produse Speciale Dragomirești - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315703",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315703",
+     "sha256": "1973379d47a7d341d785a18ed7ca7978a96f81affb0dae11beb96a3800cf2c4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1567-2026",
+   "path": "ordin/economie/2026/1567",
+   "short": "Ordin economie nr. 1567/2026",
+   "title": "Ordinul nr. 1.567/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Uzina Automecanica Moreni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315690",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315690",
+     "sha256": "0fbf76291c0536f9f2afa84a797e76fa4e5c4767beebf513cd1fdc666e5b6d54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1568-2026",
+   "path": "ordin/economie/2026/1568",
+   "short": "Ordin economie nr. 1568/2026",
+   "title": "Ordinul nr. 1.568/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Arsenal Reșița - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315663",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315663",
+     "sha256": "65a41d69d8a620a2224b6afc027976395ec52ae3d2a51ef4aa412cd4aa8c3031"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1569-2026",
+   "path": "ordin/economie/2026/1569",
+   "short": "Ordin economie nr. 1569/2026",
+   "title": "Ordinul nr. 1.569/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Plopeni - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315666",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315666",
+     "sha256": "2fee0bea00507f543c7303fbf6ccc288b6604c87b463a8b73eb2627837fb3278"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1570-2026",
+   "path": "ordin/economie/2026/1570",
+   "short": "Ordin economie nr. 1570/2026",
+   "title": "Ordinul nr. 1.570/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Sadu - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315669",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315669",
+     "sha256": "38d72a9fc352af3fa9bfc1df5c50b5eaf2969426f155d1b5c339b7be42dfb1a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1571-2026",
+   "path": "ordin/economie/2026/1571",
+   "short": "Ordin economie nr. 1571/2026",
+   "title": "Ordinul nr. 1.571/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Tohan - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315655",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315655",
+     "sha256": "b78b1e91300ed1cff60a8257551bc94499e7f4432c3c0cb1977232668c3cb26b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1572-2026",
+   "path": "ordin/economie/2026/1572",
+   "short": "Ordin economie nr. 1572/2026",
+   "title": "Ordinul nr. 1.572/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Fabrica de Arme Cugir - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315672",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315672",
+     "sha256": "b478f6552bdacce8e1a8ed1992d40e4f1f51e849dbb4d9082b732ddd676ef61c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1573-2026",
+   "path": "ordin/economie/2026/1573",
+   "short": "Ordin economie nr. 1573/2026",
+   "title": "Ordinul nr. 1.573/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Uzina Mecanică Mija - S.A. - filiala Companiei Naționale ROMARM - S.A., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315675",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315675",
+     "sha256": "9c18434391f45569a61b3a03fe24ce8f8a408996647523f30865b40cfac96da4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1577-2026",
    "path": "ordin/economie/2026/1577",
    "short": "Ordin economie nr. 1577/2026",
@@ -4829,6 +5129,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308873",
      "sha256": "093c6a96212e2c6f303bc05cd69a0a5cd9ae6ccc134b716f725a0816d8f685fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-516-2026",
+   "path": "ordin/economie/2026/516",
+   "short": "Ordin economie nr. 516/2026",
+   "title": "Ordinul nr. 516/2026 privind constituirea Consiliului de coordonare strategică și Comitetului tehnic de implementare pentru proiectul \"Black Sea AI Gigafactory\" și stabilirea unor măsuri pentru asigurarea coordonării implementării proiectului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311391",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311391",
+     "sha256": "17b13bebcb0689ba5aa91879ca51c0f7ea146376b96fbf2471ca6a27dd96c886"
     }
    ]
   },
@@ -5189,6 +5504,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312101",
      "sha256": "35c1c98bb8e16130c61d620ca526ac70a2dfbaf001987e756a79c959ed31373f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-988-2026",
+   "path": "ordin/economie/2026/988",
+   "short": "Ordin economie nr. 988/2026",
+   "title": "Ordinul nr. 988/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea Telegondola Mamaia - S.R.L., aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313335",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313335",
+     "sha256": "2c97a12c9e3306a0d0e173d899dbe356fa79ed0860713f0d9928da0ea9bcf39b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-990-2026",
+   "path": "ordin/economie/2026/990",
+   "short": "Ordin economie nr. 990/2026",
+   "title": "Ordinul nr. 990/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 pentru Societatea \"Șantierul Naval 2 Mai\" - S.A. Mangalia, aflată sub autoritatea Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313385",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313385",
+     "sha256": "d09a57435243d414b2942bef4d4b7cd746687b27df3a28cbd03723f92790d3ff"
     }
    ]
   },
@@ -5714,6 +6059,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310962",
      "sha256": "10115a27118453b7bb8001eee16d3e6c09736547abfa583ed942a95fa219bd45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3995-2026",
+   "path": "ordin/educatie/2026/3995",
+   "short": "Ordin educatie nr. 3995/2026",
+   "title": "Ordinul nr. 3.995/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 al Societății Editura Didactică și Pedagogică - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314870",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314870",
+     "sha256": "5ab4d7a757e98daa15aab5a27ac5349629d727b4d22112641bb79cb40fef96c1"
     }
    ]
   },
@@ -6738,6 +7098,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1005-2026",
+   "path": "ordin/finante/2026/1005",
+   "short": "Ordin finante nr. 1005/2026",
+   "title": "Ordinul nr. 1.005/2026 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 7-14 august 2026, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313275",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313275",
+     "sha256": "b3764cb1fc3dce4c17e3488ae1ac0bfa8b26cde4f8e8eb5441bb7aec5ec9834f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1019-2026",
    "path": "ordin/finante/2026/1019",
    "short": "Ordin finante nr. 1019/2026",
@@ -6749,6 +7124,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313378",
      "sha256": "73fa25beed4a0a64ae4a912ff8fd022f552f12ae3307ca73ad548fc46e8b2a8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1050-2026",
+   "path": "ordin/finante/2026/1050",
+   "short": "Ordin finante nr. 1050/2026",
+   "title": "Ordinul nr. 1.050/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat cu cupon denominate în euro aferente lunii august 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313467",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313467",
+     "sha256": "8b28f247301add173c9bc7cf7114365f91008aa726542e42df21b8dfdfd663f8"
     }
    ]
   },
@@ -6798,6 +7188,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1159-2026",
+   "path": "ordin/finante/2026/1159",
+   "short": "Ordin finante nr. 1159/2026",
+   "title": "Ordinul nr. 1.159/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii septembrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313961",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313961",
+     "sha256": "a6b317fa47ccdd2c5df05592affabaf29d5fca4a2b664ff06967d2abf0cde46a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-117-2026",
    "path": "ordin/finante/2026/117",
    "short": "Ordin finante nr. 117/2026",
@@ -6839,6 +7244,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314404",
      "sha256": "27670c0ebdc139d6b3678fa22e726d8a66b240dba64fbab027a52136e3a7aa7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1192-2026",
+   "path": "ordin/finante/2026/1192",
+   "short": "Ordin finante nr. 1192/2026",
+   "title": "Ordinul nr. 1.192/2026 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada septembrie-octombrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314024",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314024",
+     "sha256": "3594f139e3b32f638d6d21829f7fbe488dc1f3f18d1d02278edbd96556fee58f"
     }
    ]
   },
@@ -6903,6 +7323,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-1319-2026",
+   "path": "ordin/finante/2026/1319",
+   "short": "Ordin finante nr. 1319/2026",
+   "title": "Ordinul nr. 1.319/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii octombrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314939",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314939",
+     "sha256": "3bc182b2ffd280a43ef53d5f4be8f18ba0b816f74fa7f4786630f8d7e86c25e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1324-2026",
+   "path": "ordin/finante/2026/1324",
+   "short": "Ordin finante nr. 1324/2026",
+   "title": "Ordinul nr. 1.324/2026 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada octombrie-noiembrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314972",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314972",
+     "sha256": "ba2b03cebd71ed05ee51e39962cdfa612f474639225d3b95e2b24f3d76e59882"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1340-2026",
    "path": "ordin/finante/2026/1340",
    "short": "Ordin finante nr. 1340/2026",
@@ -6944,6 +7394,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307549",
      "sha256": "78cbfc114d26cb2a7a4316590b13c5142615dcfecdaf37a3d48e30928218a6e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1490-2026",
+   "path": "ordin/finante/2026/1490",
+   "short": "Ordin finante nr. 1490/2026",
+   "title": "Ordinul nr. 1.490/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii noiembrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315847",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315847",
+     "sha256": "6422125e04bef24b319491e14e5ef508924883b0b410ca0bff7ce95ffee7100e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1503-2026",
+   "path": "ordin/finante/2026/1503",
+   "short": "Ordin finante nr. 1503/2026",
+   "title": "Ordinul nr. 1.503/2026 privind aprobarea contractării de către Ministerul Finanțelor a unor împrumuturi pe piețele externe de capital în sumă totală de până la 5 miliarde euro, prin lansarea a trei serii noi de obligațiuni denominate în euro cu maturitatea de 4 ani, 8 ani și 12 ani, în cadrul Programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\" și desemnarea administratorilor tranzacției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315991",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315991",
+     "sha256": "8469756c54e4b980cbba6907f30ac5849c13dd769c4d6aa28937291b0cfb20bf"
     }
    ]
   },
@@ -7203,6 +7683,51 @@
    ]
   },
   {
+   "slug": "ordin-finante-390-2026",
+   "path": "ordin/finante/2026/390",
+   "short": "Ordin finante nr. 390/2026",
+   "title": "Ordinul nr. 390/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii aprilie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308977",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308977",
+     "sha256": "ba161502eb6c7ec4f3e87c014548acd5fd4be3135ff03878a6b7ec84183828dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-391-2026",
+   "path": "ordin/finante/2026/391",
+   "short": "Ordin finante nr. 391/2026",
+   "title": "Ordinul nr. 391/2026 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada aprilie-mai 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309066",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309066",
+     "sha256": "6e71d9a60eb5894be24a9c4e87cd31e19d2e6901a2b0aca135473f16b3e1d103"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-402-2026",
+   "path": "ordin/finante/2026/402",
+   "short": "Ordin finante nr. 402/2026",
+   "title": "Ordinul nr. 402/2026 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 14-21 aprilie 2026, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309501",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309501",
+     "sha256": "72fe58bb75bb0818bba55e89583834bb754fe51d94cc7cfa76854a40ba4e5480"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-408-2026",
    "path": "ordin/finante/2026/408",
    "short": "Ordin finante nr. 408/2026",
@@ -7323,6 +7848,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-479-2026",
+   "path": "ordin/finante/2026/479",
+   "short": "Ordin finante nr. 479/2026",
+   "title": "Ordinul nr. 479/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii mai 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310140",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310140",
+     "sha256": "3db7eff96622f264114187db55c8efa3850ae048766f3218f7072906eb14215d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-5-2026",
    "path": "ordin/finante/2026/5",
    "short": "Ordin finante nr. 5/2026",
@@ -7334,6 +7874,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306492",
      "sha256": "fc6065057d711c14712307eff659dc17fd5b7c534d99eabf3fb6d9097ec29674"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-507-2026",
+   "path": "ordin/finante/2026/507",
+   "short": "Ordin finante nr. 507/2026",
+   "title": "Ordinul nr. 507/2026 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 8-15 mai 2026, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310328",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310328",
+     "sha256": "ad45b7024f49f401ccad23aecc3dc17e6ba5ecb4a9bb9784fcf56fc25bec0185"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-508-2026",
+   "path": "ordin/finante/2026/508",
+   "short": "Ordin finante nr. 508/2026",
+   "title": "Ordinul nr. 508/2026 privind prospectul de emisiune a obligațiunilor de stat cu cupon denominate în euro aferente lunii mai 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310389",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310389",
+     "sha256": "056e6e844893608eddd6dc0b5e9d6301e6193f77097e5c1bd92ff8cbc5abc2f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-511-2026",
+   "path": "ordin/finante/2026/511",
+   "short": "Ordin finante nr. 511/2026",
+   "title": "Ordinul nr. 511/2026 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada mai-iunie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310369",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310369",
+     "sha256": "013c94323a01ca0c610333b28ca96449854ede787a02df5fbd2c422ef81522b7"
     }
    ]
   },
@@ -7379,6 +7964,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310882",
      "sha256": "2d8043c5dad46e3398652d07cc919749494e6ed9c188dce787521b0e15744a52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-632-2026",
+   "path": "ordin/finante/2026/632",
+   "short": "Ordin finante nr. 632/2026",
+   "title": "Ordinul nr. 632/2026 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada iunie-iulie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311218",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311218",
+     "sha256": "341bf698b8ffcdfeab7aec96d8218d062461b538cbb0bdf29a8a9326d3157ab3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-661-2026",
+   "path": "ordin/finante/2026/661",
+   "short": "Ordin finante nr. 661/2026",
+   "title": "Ordinul nr. 661/2026 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 15-22 iunie 2026, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311329",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311329",
+     "sha256": "71ff20f1e3b48bbfb5f3c8f19028ec306e17c4e756303b8c7c23abb55668435d"
     }
    ]
   },
@@ -7488,6 +8103,36 @@
    ]
   },
   {
+   "slug": "ordin-finante-847-2026",
+   "path": "ordin/finante/2026/847",
+   "short": "Ordin finante nr. 847/2026",
+   "title": "Ordinul nr. 847/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii iulie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311957",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311957",
+     "sha256": "267ac85d611e471c2e7a5ce944fbbb956cf632b07f6bedf2e8a88483114c8e6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-848-2026",
+   "path": "ordin/finante/2026/848",
+   "short": "Ordin finante nr. 848/2026",
+   "title": "Ordinul nr. 848/2026 privind aprobarea Termenilor finali ai emisiunilor de titluri de stat, denominate în lei și euro, lansate în perioada 3-10 iulie 2026, în baza Prospectului de bază pentru Programul FIDELIS de emisiuni de titluri de stat destinate exclusiv investitorilor persoane fizice emise de Ministerul Finanțelor, ce urmează a fi listate pe piața reglementată administrată de Bursa de Valori București - S.A. și supravegheată de către Autoritatea de Supraveghere Financiară, aprobat prin Ordinul ministrului finanțelor publice nr. 2.118/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311972",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311972",
+     "sha256": "2808cad1eb2179754d31437bd4ac95d5e93a3e82b418d96ce1efccb54f316b96"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-849-2026",
    "path": "ordin/finante/2026/849",
    "short": "Ordin finante nr. 849/2026",
@@ -7499,6 +8144,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312013",
      "sha256": "7529dbc9de92ab633a1eb81a20815ac8f35187114dc9d8febb0f1d4f2a441dad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-851-2026",
+   "path": "ordin/finante/2026/851",
+   "short": "Ordin finante nr. 851/2026",
+   "title": "Ordinul nr. 851/2026 privind prospectul de emisiune a titlurilor de stat destinate populației, prin intermediul unităților operative ale Trezoreriei Statului și prin subunitățile poștale din rețeaua Companiei Naționale \"Poșta Română\" - S.A. și în mediul online utilizând platforma ghiseul.ro, în cadrul Programului Tezaur, în perioada iulie-august 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312014",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312014",
+     "sha256": "e24e3743bca8deb094fbf4612438c46ac22fd4f1e8b15ffcdde339e770ec9d03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-967-2026",
+   "path": "ordin/finante/2026/967",
+   "short": "Ordin finante nr. 967/2026",
+   "title": "Ordinul nr. 967/2026 privind prospectele de emisiune a certificatelor de trezorerie cu discont și a obligațiunilor de stat de tip benchmark aferente lunii august 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313169",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313169",
+     "sha256": "ad79bc19c1fdaadcea6c6ba8cb0e9fdc83a68ad8e7ac20896f0cb8c223347ce3"
     }
    ]
   },
@@ -8793,6 +9468,21 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1388-2026",
+   "path": "ordin/mediu/2026/1388",
+   "short": "Ordin mediu nr. 1388/2026",
+   "title": "Ordinul nr. 1.388/2026 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2026 al Societății Comerciale \"Exploatare Sistem Zonal Prahova\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313264",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313264",
+     "sha256": "0d5ba6e912d86872c9a4d3218a9838fcf2174b790b6dd92d439ab1f376e643d0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1393-2026",
    "path": "ordin/mediu/2026/1393",
    "short": "Ordin mediu nr. 1393/2026",
@@ -9314,6 +10004,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313261",
      "sha256": "22a06cb7a691547fc90b84e7e66d6857a2ae5fc0824cc89f06554ee96b4a8c5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-1092-2026",
+   "path": "ordin/munca/2026/1092",
+   "short": "Ordin munca nr. 1092/2026",
+   "title": "Ordinul nr. 1.092/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 al Societății de Tratament Balnear și Recuperare a Capacității de Muncă \"T.B.R.C.M.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314677",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314677",
+     "sha256": "5ffdd78ef31905b47d480c382a5c02ec12328cb4191905f1b0ce7360ae6205a7"
     }
    ]
   },
@@ -11508,6 +12213,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-556-2026",
+   "path": "ordin/transporturi/2026/556",
+   "short": "Ordin transporturi nr. 556/2026",
+   "title": "Ordinul nr. 556/2026 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2026 al Societății Carpatica Feroviar România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313381",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313381",
+     "sha256": "4b7e3e43fab12a69f79df627578cefeed6c18c838953c6a836a3ecd38d731eca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-601-2026",
    "path": "ordin/transporturi/2026/601",
    "short": "Ordin transporturi nr. 601/2026",
@@ -11673,6 +12393,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-687-2026",
+   "path": "ordin/transporturi/2026/687",
+   "short": "Ordin transporturi nr. 687/2026",
+   "title": "Ordinul nr. 687/2026 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2026 al Societății \"Informatică Feroviară\" - S.A., filiala Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313914",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313914",
+     "sha256": "7d1a5b86a97bb67d2a5fb56d3c029fe43c60f755594b8d3a77b796c14dd8b04a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-700-2026",
    "path": "ordin/transporturi/2026/700",
    "short": "Ordin transporturi nr. 700/2026",
@@ -11684,6 +12419,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313137",
      "sha256": "457a5c650a9f88f770398b17a0deada95d640bbdd30712ebe388af5bfe3520bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-720-2026",
+   "path": "ordin/transporturi/2026/720",
+   "short": "Ordin transporturi nr. 720/2026",
+   "title": "Ordinul nr. 720/2026 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2026 și a situației centralizate privind veniturile și cheltuielile din bazele de cost pe anul 2026 ale Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313917",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313917",
+     "sha256": "af0aae02f4048b18b970c975e127a679e4a1bfc661caaed5fc0b879ac526eb6e"
     }
    ]
   },

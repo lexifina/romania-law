@@ -1533,6 +1533,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-49-2019",
+   "path": "ordin/anaf/2019/49",
+   "short": "Ordin anaf nr. 49/2019",
+   "title": "Ordinul nr. 49/2019 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a formularului \"Declarație unică privind impozitul pe venit și contribuțiile sociale datorate de persoanele fizice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210001",
+   "versions": [
+    {
+     "from": "2019-01-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20190315021058id_/http://legislatie.just.ro:80/Public/DetaliiDocument/210001",
+     "sha256": "e763e47ce114bb7ac06246f34b69543fe1743cdb525ae181889fede4dfbf8ba4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-50-2019",
    "path": "ordin/anaf/2019/50",
    "short": "Ordin anaf nr. 50/2019",
@@ -11969,6 +11984,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210533",
      "sha256": "5bec785d92da78c8b046324976000d267f256ab7560bc423e1ca3143202cba24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-29-2019",
+   "path": "ordin/munca/2019/29",
+   "short": "Ordin munca nr. 29/2019",
+   "title": "Ordinul nr. 29/2019 pentru aprobarea standardelor minime de calitate pentru acreditarea serviciilor sociale destinate persoanelor vârstnice, persoanelor fără adăpost, tinerilor care au părăsit sistemul de protecție a copilului și altor categorii de persoane adulte aflate în dificultate, precum și a serviciilor acordate în comunitate, serviciilor acordate în sistem integrat și cantinele sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262663",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250406144045id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/262663",
+     "sha256": "2b8d9cc1f5f14a2249c842defa92c531f93ebc3dd7273e3dce218fbb8731faa8"
     }
    ]
   },

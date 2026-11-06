@@ -49,3 +49,11 @@ Act id: `ordin-mediu-1400-2020` (tags `ordin-mediu-1400-2020/<day>`; `python too
 - Ordin mediu nr. 1400/2020: Anexa nr. 6 (CENTRALIZATORUL nr. 6 privind cotele de recoltă aprobate pentru perioada de vânătoare 2020/2021, la speciile marmotă, viezure, vulpe, câine enot, șacal, jder ...) is not included yet: the official text prints its heading only, and its text is not in the records held. It will be added when it can be published in full.
 - Ordin mediu nr. 1400/2020: Anexa nr. 7 (SITUAȚIA realizării cotelor de recoltă la specia mistreț în perioada 15 mai 2020 - 14 mai 2021) is not included yet: the official text prints its heading only, and its text is not in the records held. It will be added when it can be published in full.
 - Ordin mediu nr. 1400/2020: the publisher's note "*) Anexele nr. 1-7 se publică în Monitorul Oficial al României, Partea I, nr. 613 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome „Monitorul Oficial“, Bucure" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel Brașov nr. 111/2020](../../../../instante/ca-brasov/sentinta/2020/111/)**, Monitorul Oficial nr. 955 din 23 octombrie 2023 · annulled in part · art. 4
+
+  > Anulează art. 4 din Ordinul ministrului apelor, pădurilor și mediului nr. 1.400/13.07.2020 privind aprobarea cotelor de recoltă pentru unele specii de faună de interes cinegetic, la care vânătoarea este permisă, pentru perioada 2020-14 mai 2021, precum și anexele nr. 3 , nr. 4 și nr. 5 la acest ordin.

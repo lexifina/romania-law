@@ -32,3 +32,11 @@ Act id: `ordin-finante-2632-2016` (tags `ordin-finante-2632-2016/<day>`; `python
 - Ordin finante nr. 2632/2016: Anexa nr. 2 (2 PROCEDURĂ privind aprobarea accesului la serviciile disponibile în cadrul sistemului informatic PatrimVen 1. Principii 1.1. Dreptul de acces la serviciile sistemului informatic se acordă autoritățil) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 183596 of the official web service.
 - Ordin finante nr. 2632/2016: Anexa nr. 1 (1 Denumirea autorității sau instituției publice............................................. Cod de identificare fiscală CIF.............................. ...) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
 - Ordin finante nr. 2632/2016: the publisher's notes run into its text (*) Prin CIF se înţelege cod de identificare fiscală, definit potrivit prevederilor Legii nr. 207/2015 privind Codul de p) are not text.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 4756/2017](../../../../instante/ca-bucuresti/sentinta/2017/4756/)**, Monitorul Oficial nr. 122 din 7 februarie 2022 · annulled
+
+  > Anulează Ordinul MFP nr. 2.632/2016 . Prezenta hotărâre se va publica în Monitorul Oficial al României, Partea I, după rămânerea ei definitivă, potrivit art. 23 din Legea nr. 554/2004 .

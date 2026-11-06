@@ -21,3 +21,11 @@ Act id: `ordin-anrsc-91-2007` (tags `ordin-anrsc-91-2007/<day>`; `python tools/o
 - Ordin anrsc nr. 91/2007: Anexa nr. 1 (REGULAMENT 20/03/2007) is not included yet: its text is a document of its own that could not be matched to one record held. It will be added when it can be published in full.
 - Ordin anrsc nr. 91/2007: an annex it points to (Regulament of 2007-03-20) is not in the records held, so it is not included. It will be added when a source for it is found.
 - Ordin anrsc nr. 91/2007: the publisher's note "**) Anexa se publică ulterior în Monitorul Oficial al României, Partea I, nr. 350 bis abonament, care se poate achizitiona şi de la Centrul pentru relaţii cu publicul al Regiei Autonome "Monitorul Ofi" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **[Sentința Curții de Apel București nr. 1095/2015](../../../../instante/ca-bucuresti/sentinta/2015/1095/)**, Monitorul Oficial nr. 318 din 11 aprilie 2018 · annulled in part · prevederilor art. 249
+
+  > Dispune anularea prevederilor art. 249 din Ordinul nr. 91/2007 emis de pârâta Autoritatea Națională de Reglementare pentru Serviciile Publice de Gospodărie Comunală pentru aprobarea Regulamentului-cadru al serviciului public de alimentare cu energie termică.
