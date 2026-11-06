@@ -1,4 +1,4 @@
-# Anexa nr. 1: (Anexa nr. 1 la Ordinul nr. 562/2006) LISTA INSPECTORILOR AVSEC *Font 9* Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 1. Arba Ioan 1550107400612 Direcția generală
+# Anexa nr. 1: (Anexa nr. 1 la Ordinul nr. 562/2006) LISTA INSPECTORILOR AVSEC *Font 9* Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 1. Arba Ioan [CNP omis] Direcția generală
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial. Its tables are shown row by row as the official text draws them.
 
